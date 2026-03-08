@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # instructor_headshot_submission_form - Help Guide
 ## Purpose
 The `instructor_headshot_submission_form` is a form designed to collect information from instructors regarding their headshots and other relevant details.

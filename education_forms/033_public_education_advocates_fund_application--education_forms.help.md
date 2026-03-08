@@ -1,10 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the "public_education_advocates_fund_application" form that explains its purpose, how to complete it, and what each field means. The form is used for applicants to apply for funding for public education initiatives. To confirm, the form purpose is to gather information about a project that requires funding, and the fields provided are meant to guide the applicant in providing the necessary details to support their application.
-
-This form will be used to ensure that the application process is clear and efficient, and that applicants have all the necessary information to provide a thorough and accurate submission. Before we proceed, let us review the form's fields and ensure we cover all the necessary points.
-
-</thinking>
-
 # public_education_advocates_fund_application - Help Guide
 ## Purpose
 The public_education_advocates_fund_application form is used for applicants to apply for funding for public education initiatives. It gathers information about a project that requires funding, including project details, funding amount, budget, funding start date, supporting documents, education area, and a description of the supporting documents.

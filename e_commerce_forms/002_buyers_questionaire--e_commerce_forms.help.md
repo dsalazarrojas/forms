@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from buyers about their purchasing habits and preferences. The goal is to help the buyer provide a clear understanding of their interests and needs, making it easier for the seller to tailor their products or services accordingly. This form will ask about contact information, product preferences, and other relevant details.
-
-To prevent non-duplication of effort, we are using the same form to collect this information, so please only fill out this form once. If you have already filled out this form previously, you can simply review and update your information if needed.
-
-</thinking>
-
 # Buyers Questionnaire - Help Guide
 
 ## Purpose

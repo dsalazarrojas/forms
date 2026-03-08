@@ -1,7 +1,3 @@
-<thinking>
-A daily coaching sheet is a tool used by educators to track and monitor student progress, set goals, and provide feedback on a daily basis. This form helps coaching to stay organized and ensure that students are meeting their learning objectives. 
-The daily coaching sheet is intended to be a concise and structured way to capture information about student progress, goals, and feedback. The form is designed to be completed daily, making it an essential tool for coaching and student development. This form is not affiliated with or endorsed by any form platform, and is an original adaptation created using AI.
-</thinking>
 # Daily Coaching Sheet - Help Guide
 ## Purpose
 The purpose of this daily coaching sheet is to help coaches and educators track and monitor student progress, set goals, and provide feedback on a daily basis.

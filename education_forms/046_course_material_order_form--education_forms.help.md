@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about course materials ordered by users. It is intended to be used by customers who wish to purchase course materials for educational purposes. Please ensure that the information provided is accurate and up-to-date to ensure smooth order processing and delivery. Please note that this form is not designed to be used for non-educational purposes.
-
-To avoid any confusion, we will not be accepting duplicate submissions from the same user. If you have already submitted an order, please refrain from doing so again.
-</thinking>
-
 # Course Material Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about course materials ordered by customers for educational purposes.

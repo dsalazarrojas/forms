@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Career Quiz form, which aims to help users identify their career interests, preferences, and strengths. This form is not affiliated with, endorsed by, or derived from any form platform, but rather a public adaptation of survey data. It is released under the Creative Commons BY 4.0 license, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # Career Quiz - Help Guide
 ## Purpose
 The Career Quiz form is designed to help users gain a deeper understanding of their career interests, preferences, and strengths. By answering the questions, users will be able to identify areas where they excel and what they enjoy, ultimately assisting them in finding a suitable career path.

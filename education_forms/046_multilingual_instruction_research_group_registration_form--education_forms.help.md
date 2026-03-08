@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multilingual_instruction_research_group_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in joining a research group, focusing on their personal details, research interests, and contact information. It is intended to facilitate the formation and registration of research groups.

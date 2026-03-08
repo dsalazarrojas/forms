@@ -1,9 +1,3 @@
-<thinking>
-This form is used for scheduling shifts for daycare staff. The form is meant to be completed by staff members to indicate their availability for shifts and to schedule shifts for themselves. This form is likely to be completed on a regular basis, such as weekly or bi-weekly. 
-The form is likely to be used by daycare staff to plan and manage their shifts, and the administrator or supervisor may use this form to assign staff to shifts based on their availability and qualifications. 
-Please ensure that you complete this form accurately and consistently to ensure that shifts are assigned fairly and efficiently.
-</thinking>
-
 # Daycare Staff Shift Scheduling Form - Help Guide
 ## Purpose
 The Daycare Staff Shift Scheduling Form is used to schedule shifts for daycare staff, ensuring that staff are assigned to shifts based on their availability and qualifications.

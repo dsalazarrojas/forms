@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to gather information for admission to educational programs related to the study of the Quran. 
-This form will be used by parents or guardians to provide demographic information and contact details. 
-The form is not intended for academic or institutional staff, but rather for parents to enroll their wards in educational programs. 
-</thinking>
-
 # quranEducationAdmissionForm - Help Guide
 ## Purpose
 The quranEducationAdmissionForm is used to gather information from parents or guardians for enrollment of their wards in educational programs related to the study of the Quran.

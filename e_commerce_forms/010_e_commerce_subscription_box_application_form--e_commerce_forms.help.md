@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of creating a subscription box application for e-commerce purposes. The form is intended to collect user information, plan selection, subscription details, payment method, and other relevant data to facilitate the subscription process. To use this form, users must fill out the required fields and sign the agreement section. The form is designed to be flexible and adaptable, allowing users to add or remove pages as needed.
-</thinking>
-
 # E Commerce Subscription Box Application Form - Help Guide
 ## Purpose
 This form is designed to help users sign up for an e-commerce subscription box. It is intended for users who want to purchase a subscription to a specific e-commerce platform.

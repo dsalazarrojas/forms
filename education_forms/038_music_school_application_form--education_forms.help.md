@@ -1,6 +1,3 @@
-<thinking>
-This form is used for students to apply for music schools. It is intended for students who want to apply for a music course. Please note that you must fill out all the required fields. This form is not to be filled out twice. You may fill out all fields, but all required ones must be completed for the application to be valid.</thinking>
-
 # music_school_application_form - Help Guide
 ## Purpose
 This form is used to collect information from students applying to a music school.

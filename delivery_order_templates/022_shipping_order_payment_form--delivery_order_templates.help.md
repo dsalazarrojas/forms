@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to process shipping orders, and it's essential to ensure that the end-users understand each field's significance to complete the form accurately. To confirm, the form "Shipping Order Payment Form" is a crucial document for processing shipments, and it's used to collect essential information from customers. I will not repeat the fields and their descriptions in the final help guide, as it's already present in the input YAML.
-</thinking>
-
 # Shipping Order Payment Form - Help Guide
 ## Purpose
 This form is used to process shipping orders. It collects necessary information from customers to facilitate smooth and secure shipping.

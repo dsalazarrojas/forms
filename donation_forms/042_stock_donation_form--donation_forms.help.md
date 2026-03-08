@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be used by donors to report stock donations to a charitable organization. The form is designed to gather information about the stock being donated, including its details, value, and the donor's contact information. This form is likely to be used in conjunction with financial or tax reporting requirements. It is recommended to review the form carefully to ensure that all required fields are completed accurately and thoroughly. This form will not be used for any other purpose. The fields marked "required" are essential for the accurate and correct processing of the information provided. It is not recommended to use this form for any other purposes, and any incomplete or inaccurate information may lead to processing issues.
-
-</thinking>
-
 # Stock Donation Form - Help Guide
 ## Purpose
 The Stock Donation Form is used by donors to report stock donations to a charitable organization. This form gathers information about the stock being donated, including its details, value, and the donor's contact information.

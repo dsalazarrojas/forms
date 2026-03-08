@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of environmental cleanup efforts. The form is part of a larger system for tracking and managing environmental initiatives. The goal is to understand the user's interest in supporting environmental cleanup projects.
-
-Before filling out this form, please ensure that you have a clear understanding of the project's goals and objectives. This form is not meant to be a substitute for official applications or formal agreements.
-
-Please note that this form is for demonstration purposes only and should not be used for actual financial transactions or commitments.
-
-</thinking>
-
 # Environmental Cleanup Donation Form - Help Guide
 ## Purpose
 This form is designed to help us understand your interest in supporting environmental cleanup efforts. Your input will help us manage and track our initiatives effectively.

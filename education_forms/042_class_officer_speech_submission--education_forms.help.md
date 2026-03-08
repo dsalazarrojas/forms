@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help class officers submit their speech for the class election. It collects information about the candidate's personal details, campaign goals and objectives, and qualifications for the position. This form is designed to ensure that the submission is complete and accurate, and that the candidate is ready to participate in the class election process. It's essential that the form is filled out carefully, as the information will be used to evaluate the candidate's suitability for the position. Please ensure that you fill out each field accurately and completely to avoid any issues with the submission.
-</thinking>
-
 # Class Officer Speech Submission - Help Guide
 ## Purpose
 The Class Officer Speech Submission form is a critical component of the class election process. It allows class officers to submit their speech, platform, and other essential information to the school administration.

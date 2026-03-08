@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information from students registering for a music school. It is crucial that the form's purpose and content are clearly understood by end-users to avoid any confusion or misregistration. 
-
-The form's purpose is to collect personal and contact information from students, including their name, preferred class days, start time, contact details (email and phone number), additional information they might want to provide, and their date of birth. 
-
-This form will likely be filled out by students registering for classes at the music school, and the information collected will be used to create their records and facilitate communication. 
-
-It's possible that some fields might be optional, depending on the school's requirements or policies. However, it's essential to review and understand each field's purpose to avoid any confusion or misinterpretation.
-
-</thinking>
-
 # Music School Registration Form - Help Guide
 ## Purpose
 The Music School Registration Form is a tool used to collect information from students registering for classes at the music school. This form is essential in creating accurate student records and facilitating communication between the school and students.

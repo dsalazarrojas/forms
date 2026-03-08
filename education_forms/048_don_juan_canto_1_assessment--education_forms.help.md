@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information and feedback from students and teachers regarding the "Don Juan Canto 1 Assessment" activity. This form is used to gather data on student performance, understanding, and feedback, as well as teacher assessment and grading systems.
 
 The form is designed to be completed by students and teachers to provide a comprehensive overview of the assessment activity. The form collects information on various aspects, including student performance, understanding of major themes, reflection, difficulty rating, student and teacher feedback, grading system, submission date and time, student and teacher email, phone, time spent, student location, teacher location, time zone, and grading system justification.

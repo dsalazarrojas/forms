@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose and context of this form. This form is designed to evaluate the effectiveness of remote learning programs, gathering feedback from students and educators to identify areas of improvement and provide recommendations for future development. It's crucial to ensure that the form is filled out accurately and completely to capture relevant information. To avoid duplication, it's essential to review the form carefully and provide feedback that is specific, concrete, and relevant to the remote learning program being evaluated. Now, let's move on to the help guide.</thinking>
-
 # Remote Learning Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students and educators about the effectiveness of remote learning programs. It's crucial to fill out the form accurately and completely to help identify areas of improvement and provide recommendations for future development.

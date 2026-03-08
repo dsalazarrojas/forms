@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for students to request access to remote learning devices, such as laptops or tablets, for educational purposes. This form is typically used by students, instructors, or school administrators to submit a request for a remote learning device, which can be useful for online classes, exams, or other educational activities. To ensure that this form is used correctly, please note that the form is only intended for students who need access to remote devices for educational purposes, and not for personal use. Also, please be aware that the school's device management policies and availability will determine the outcome of the request.
-</thinking>
-
 # Remote Learning Device Request - Help Guide
 ## Purpose
 The purpose of this form is for students to request access to remote learning devices, such as laptops or tablets, for educational purposes.

@@ -1,11 +1,3 @@
-<thinking>
-To ensure the form "Research Agreement" is correctly filled out and meets the requirements for both the submitter and the organization, let's consider the following:
-
-The form is intended to gather information for research purposes only, and it's meant to be completed by parents or guardians who are authorizing their child to participate in research projects. The form should not be used for any other purpose, such as requesting medical treatment or other services.
-
-Please review the fields to ensure they align with the research agreement. If there are any discrepancies or concerns, please bring them to the attention of the research team before proceeding.
-</thinking>
-
 # Research Agreement - Help Guide
 ## Purpose
 The Research Agreement form is used to gather information from parents or guardians for research purposes. It is intended to be completed by parents or guardians authorizing their child to participate in research projects.

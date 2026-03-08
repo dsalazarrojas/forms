@@ -1,7 +1,3 @@
-<thinking>
-The form "Guidance Counselor Interview Form" is a tool for collecting information about students. This form likely aims to gather data from guidance counselors to help them make informed decisions about students' progress, needs, and plans. However, to confirm, could you please double-check if this form aligns with your organization's policies and procedures? It's essential to ensure that the form doesn't duplicate any existing ones or cause any issues with data management. 
-</thinking>
-
 # Guidance Counselor Interview Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from guidance counselors about students, which can help in making informed decisions about students' progress, needs, and plans. 

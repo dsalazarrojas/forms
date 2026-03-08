@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals applying for a Digital Pedagogy Fellowship. The purpose of the form is to gather relevant details about the applicant's background, experience, and qualifications. This form was generated using AI, but it is an original adaptation and does not contain any proprietary content from other form platforms. Please ensure that you fill out the form accurately and completely to ensure a successful application.
-
-</thinking>
-
 # Digital Pedagogy Fellowship Application Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This is a form for registration for a dance festival, likely for students or participants to provide their information. The form has multiple pages with various fields for personal, contact, and relationship information. This form does not seem to have a specific purpose or audience, but it could be for dancers, their parents or guardians, or emergency contacts. There are select options for dance schools, dance styles, and relationships, suggesting that the form is intended for students and their affiliated individuals. There are multiple fields for medical and emergency contact information, implying that the form may be used in case of emergencies or for medical purposes. The form does not seem to have any specific validation rules or constraints that would cause it to not be duplicated or used multiple times by the same person. It appears to be a straightforward information collection form.
-
-</thinking>
-
 # dance_festival_entry_form - Help Guide
 ## Purpose
 The dance festival entry form is a collection of fields meant to gather information from students, participants, and emergency contacts for the dance festival.

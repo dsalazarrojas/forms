@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to record information about technological equipment in a school setting. Its purpose is to gather details about the equipment's status, delivery date and time, and any remarks or notes about its condition. This form may be used for maintenance, update, or other administrative purposes related to the equipment.
-
-</thinking>
-
 # Technological Equipment Acknowledgement Form - Help Guide
 ## Purpose
 The Technological Equipment Acknowledgement Form is used to record and document information about technological equipment in a school setting. It helps track the status, delivery date and time, and any remarks or notes about the equipment.

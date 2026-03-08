@@ -1,7 +1,3 @@
-<thinking>
-This form template is used for documenting and managing disciplinary actions within an organization. The purpose of this form is to collect and record information about incidents that have occurred, including details about the incidents, the actions taken, and the employees involved. This form is not intended for general use, but rather is a template for internal use within an organization. Please make sure to review and understand the specific policies and procedures of your organization before using this form.
-</thinking>
-
 # Disciplinary Action Form Template - Help Guide
 ## Purpose
 The Disciplinary Action Form Template is designed to help organizations document and manage incidents, ensuring accuracy and consistency in handling disciplinary actions. This form captures relevant information about the incident, employee involvement, and the disciplinary action taken.

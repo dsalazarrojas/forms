@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only one Open Access Education Partnership Registration form is submitted per partner organization to avoid duplication of effort. This form is designed to register partnerships between our organization and external organizations in the education sector. The purpose of this form is to gather essential information about our partners, including their contact details, organizational information, and partnership type. By registering your organization, you will be granted access to exclusive resources and support tailored to your needs.
-</thinking>
-
 # Open Access Education Partnership Registration - Help Guide
 ## Purpose
 This form is used to register your organization as a partner with our Open Access initiative. By filling out this form, you will be able to access exclusive resources and support to help you achieve your educational goals.

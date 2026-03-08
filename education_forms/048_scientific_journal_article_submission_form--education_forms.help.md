@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will provide an overview of the scientific journal article submission form, its purpose, and how to complete it. The form is designed to gather essential information from users submitting articles to a scientific journal. 
-
-The form is divided into several sections, each with specific fields to collect relevant details. The following guide will walk through each field, explaining its purpose and what users need to know to complete it successfully. 
-
-The form is primarily used for article submission, and users will need to provide accurate and relevant information for a smoother review process. 
-
-</thinking>
-
 # scientific_journal_article_submission_form - Help Guide
 ## Purpose
 The scientific journal article submission form is designed to collect information from authors submitting articles to a scientific journal. This form is used to gather essential details about the article, such as category, title, abstract, keywords, and submission details. 

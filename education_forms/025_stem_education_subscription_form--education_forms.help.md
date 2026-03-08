@@ -1,7 +1,3 @@
-<thinking>
-This form, named "stem_education_subscription_form", is intended for collecting information about educational programs. The form likely aims to gather details from institutions or organizations offering educational programs in the field of STEM (Science, Technology, Engineering, and Mathematics). The form might be used to create a directory or database of these programs, providing a central resource for students or individuals seeking relevant educational opportunities. However, without more detailed information, it's difficult to specify the exact usage of the form. It's recommended to review your organization's context to ensure it's being used properly. If you're unsure, please contact your designated form administrators or the form's author for further guidance.
-</thinking>
-
 # stem_education_subscription_form - Help Guide
 ## Purpose
 The stem_education_subscription_form is a form designed to collect information about educational programs in the field of STEM.

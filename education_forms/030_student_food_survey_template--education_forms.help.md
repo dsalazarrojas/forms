@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about student eating habits and preferences, likely for research or academic purposes. The form is composed of various sections that inquire about the frequency of eating, favorite foods, and eating habits. 
-
-To ensure the data gathered is relevant and not redundant, it's essential to review the form carefully and ensure that all questions are answered in accordance with the provided options.
-
-</thinking>
-
 # student_food_survey_template - Help Guide
 ## Purpose
 The student food survey template is a tool designed to gather information about students' eating habits, food preferences, and eating frequency. This form aims to collect data that can help in understanding student eating behaviors and preferences.

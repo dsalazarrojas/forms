@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Ethics In Education Research Application Form - Help Guide
 ## Purpose
 This form is designed for educators and researchers to submit applications for AI ethics review. It ensures that you, as the applicant, understand and comply with the necessary guidelines and regulations for conducting AI-related research in educational settings.

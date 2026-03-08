@@ -1,7 +1,3 @@
-<thinking> This form is designed to gather information about a user's knowledge on water treaties, specifically the name, types, main goal, responsible, benefits, and submission details. The form is used to understand the user's awareness and understanding of water treaties, which can be relevant for educational and research purposes. It is essential to provide a clear and concise guide to help users complete the form accurately and efficiently.
-
-</thinking>
-
 # water_treaty_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to evaluate users' knowledge on water treaties, covering various aspects such as types, main goal, responsible entities, benefits, and submission details.

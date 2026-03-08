@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining a virtual school or online educational institution. The purpose of this form is to gather relevant details from prospective students, including their student details, enrollment preferences, and additional questions they may have. The form should only be completed by individuals who are genuinely interested in joining the virtual school, and not for commercial use without proper authorization.
-</thinking>
-
 # Virtual School Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in joining a virtual school or online educational institution.

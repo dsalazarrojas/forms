@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users about external links, specifically to assess their understanding of secure and non-secure links. The purpose of this form is to evaluate user knowledge and identify areas where they may need further training or education. This form is likely to be used in an educational setting, such as a university or training program, to assess user understanding of online safety and security concepts. 
-
-To ensure the relevance and effectiveness of this form, it's essential to review and update the form regularly to reflect any changes in the subject matter or user needs.
-
-This form is not intended to be used in production without proper review and testing. Please ensure that the form is thoroughly reviewed and tested before sharing it with users.
-</thinking>
-
 # external_links_access_quiz - Help Guide
 ## Purpose
 The external_links_access_quiz form is designed to assess user understanding of secure and non-secure external links. This form will evaluate users' knowledge of key concepts related to online safety and security.

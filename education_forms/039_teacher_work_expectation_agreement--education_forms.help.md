@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from teachers on their work expectations and responsibilities, particularly in relation to school administrators. The form is likely to be used to gather data for HR or administrative purposes. This form should not be completed by non-educators or those without authority in the educational institution as it may not be relevant to their role. 
-This form should not be used as a means to assign or track teacher workloads, as some fields may suggest that. The focus is on individual teacher work expectations. 
-</thinking>
-
 # Teacher Work Expectation Agreement - Help Guide
 ## Purpose
 This form is used to collect information from teachers on their work expectations and responsibilities. It is meant to be completed by teachers themselves, and the information gathered will help school administrators understand their roles and tasks.

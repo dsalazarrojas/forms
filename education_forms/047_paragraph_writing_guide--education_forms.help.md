@@ -1,10 +1,3 @@
-<thinking>
-To create the help guide for the Paragraph Writing Guide form, I need to analyze the provided YAML fields and determine the form's purpose, how to complete it, and the meaning of each field. The form appears to be designed for students or educators to provide feedback and reflections on paragraph writing exercises.
-
-The form's purpose is likely to gather feedback, self-reflections, and other comments from students, instructors, or peers, providing a comprehensive picture of students' progress in writing skills.
-
-</thinking>
-
 # Paragraph Writing Guide - Help Guide
 ## Purpose
 The Paragraph Writing Guide form is designed to provide feedback and reflections on paragraph writing exercises. It collects information about paragraph drafts, self-reflections, feedback requests, and other comments.

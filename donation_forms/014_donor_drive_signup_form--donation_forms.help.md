@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Drive Signup Form - Help Guide
 ## Purpose
 The Donor Drive Signup Form is designed to collect information from individuals interested in supporting a specific campaign or cause. The form gathers details such as name, email, phone number, address, and other relevant data to help track and follow up with supporters.

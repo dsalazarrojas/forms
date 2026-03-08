@@ -1,9 +1,3 @@
-<thinking>
-This form is used to record and manage student major changes. The purpose of this form is to allow students to request a change in their major, providing them with a structured way to submit their request and attach relevant information such as the current major, requested major, date of the request, and reason for the change.
-To prevent duplication and ensure accurate processing, students should only submit one request per major change. 
-Please review the form carefully before submitting to avoid errors.
-</thinking>
-
 # Online Student Major Change Form - Help Guide
 ## Purpose
 The Online Student Major Change Form is a tool used to facilitate students' requests for major changes in their academic program. This form is designed to collect essential information to process and validate major changes efficiently.

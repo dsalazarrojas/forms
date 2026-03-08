@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transport Driver Safety Excellence Award Nomination Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information and data for wine sales. It's essential to have this form to ensure accurate and efficient wine sales data collection. This form should not be used for any other purpose. The form is divided into five sections: Customer Information, Order Details, Order Items, Payment Information, and Event Details. Each section has a specific purpose and set of fields that need to be filled out correctly.
-</thinking>
-
 # Wine Sale Form - Help Guide
 ## Purpose
 This form is used to collect information and data for wine sales.

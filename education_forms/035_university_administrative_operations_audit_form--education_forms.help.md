@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about university administrative operations. The purpose of this form is to help administrators evaluate and improve their internal processes. It is not intended for external review or public disclosure. Please note that this form should not be used for external review or public disclosure, and all data collected is for internal use only. This form has been created to assist in the internal audit process, and its completion is mandatory for all administrative staff. Please ensure you have reviewed the instructions and understand the form's purpose before proceeding.
-</thinking>
-
 # University Administrative Operations Audit Form - Help Guide
 ## Purpose
 The University Administrative Operations Audit Form is a tool used by university administrators to evaluate and improve their internal processes. The form is designed to gather information about administrative operations, and its completion is mandatory for all administrative staff.

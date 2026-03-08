@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assignment Submission Extension Form - Help Guide
 
 ## Purpose

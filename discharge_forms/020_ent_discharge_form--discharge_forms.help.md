@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the discharge process of a patient from a hospital. It collects various information related to the patient's discharge, including the patient's name, date of discharge, surgeon's name, reason for discharge, and other relevant details. This form should only be filled out by authorized personnel, typically a doctor or a nurse, to ensure accuracy and consistency in the discharge process. Please note that fields marked as required must be completed in order to proceed. If a field is marked as optional, please provide relevant information if possible.
-</thinking>
-
 # ENT Discharge Form - Help Guide
 ## Purpose
 This form is used to document a patient's discharge from the ENT department. It ensures that all necessary information is accurately recorded for future reference and to maintain compliance with regulatory requirements.

@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and training of individuals on safeguarding practices and procedures. It is essential to understand the purpose and relevance of this form to ensure accurate and meaningful completion. This form is part of a larger training program aimed at promoting a culture of safeguarding within an organization.
-
-To complete this form, the user will need to provide information across various sections, including sections on personal experience, preferences, and contact details. The form is divided into several sections, each with a specific type of question or field. The user should carefully read each section and provide accurate and relevant information.
-
-This form's purpose is to gather information on the user's experience and understanding of safeguarding practices, which will help in assessing their training needs and providing relevant resources and support.
-
-The following sections are included:
-
-* Section 1: This section is a text field that asks the user to provide any additional information about themselves.
-* Section 2: This section asks the user to select their response to a question about safeguarding practices.
-* Section 3: This section also asks the user to select their response to another question about safeguarding practices.
-* Section 4: This section is a date field that asks the user to provide a specific date.
-* Section 5: This section is a time field that asks the user to provide a specific time.
-* Section 6: This section asks the user to provide their email address.
-* Section 7: This section asks the user to provide their phone number.
-* Section 8: This section is another email field for the user to provide an email address.
-* Section 9: This section is a note field that provides additional information about the form.
-
-</thinking>
-
 # Safeguarding Training Assessment - Help Guide
 ## Purpose
 The Safeguarding Training Assessment form is a tool used to evaluate the knowledge and training of individuals on safeguarding practices and procedures.

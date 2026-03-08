@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The "<string>" form is used to gather information from parents and teachers for parent-teacher conferences. This form helps parents and teachers schedule and confirm conference appointments.

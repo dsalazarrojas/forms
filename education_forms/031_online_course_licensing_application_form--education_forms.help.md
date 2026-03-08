@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from users who wish to license their online courses. This form is designed to collect the necessary details from the user, including their personal information, course details, and license application. 
-
-The form will only be completed by users who have a genuine intention to license their online courses, and not by people who are looking to fill out a form for other reasons. To ensure the form is completed for the intended purpose, please fill it out carefully and accurately.
-
-</thinking>
-
 # Online Course Licensing Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who wish to license their online courses.

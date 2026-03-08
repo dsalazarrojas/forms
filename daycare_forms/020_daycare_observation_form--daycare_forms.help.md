@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for observations made in a daycare setting. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-</thinking>
-
 # Daycare Observation Form - Help Guide
 
 ## Purpose

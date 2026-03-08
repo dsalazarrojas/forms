@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for a Halloween candy donation drive. The purpose of this form is to gather data on the location where the donation is being made, the number of children benefiting from the donation, the type of candy being donated, the amount of candy, any additional comments or information, and personal contact details (phone number and email) in case the organization needs to follow up. The form ensures that the donor has the option to specify multiple types of candies and provides a free text field for any additional comments or information that may be relevant for the donation. This information will be used to coordinate and track the donation drive.
-
-</thinking>
-
 # halloween_candy_donation_form - Help Guide
 ## Purpose
 The Halloween candy donation form is used to collect information for a Halloween candy donation drive. It is used to gather details on the location of the donation, the number of children benefiting from the donation, the type of candy being donated, and other relevant details.

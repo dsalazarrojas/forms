@@ -1,9 +1,3 @@
-<thinking>
-
-The Science And Literature Quiz form is designed to collect information from students and teachers for science and literature quizzes. This form is likely used in educational settings to track student performance and quiz results. Before proceeding, ensure that you are using this form for its intended purpose and not duplicating data entry for other similar quizzes.
-
-</thinking>
-
 # Science And Literature Quiz - Help Guide
 ## Purpose
 This form is used to collect information and track results for science and literature quizzes.

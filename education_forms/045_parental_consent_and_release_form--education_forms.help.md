@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians regarding the consent and release of liability for a child's participation in a particular activity or event. This form is intended to be completed by the parent or guardian, and the information collected will be used to ensure that the child's rights and interests are respected.
-The form consists of the following fields, and the following fields should be filled out accordingly:
-*   "Parent Name": The name of the parent or guardian.
-*   "Contact Info": The contact information of the parent or guardian, which should include a phone number and/or an email address.
-*   "Child Name": The name of the child participating in the activity or event.
-*   "Date of Birth": The date of birth of the child.
-*   "Consent to Participate": A selection to indicate the parent's or guardian's consent for the child to participate in the activity or event.
-*   "Release of Liability": A selection to indicate the parent's or guardian's understanding of the potential risks and hazards associated with the activity or event.
-*   "Minimalist": A note field for any additional comments or information.
-Please ensure that the parent or guardian completes all required fields accurately and truthfully.
-</thinking>
-
 # Parental Consent And Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians for a child's participation in a particular activity or event.

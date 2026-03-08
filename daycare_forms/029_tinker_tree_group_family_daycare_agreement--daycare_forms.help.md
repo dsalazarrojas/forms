@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in filling out the "tinker_tree_group_family_daycare_agreement" form. The form is designed to collect information about the child's family and caregiver relationships, and it's essential to understand its purpose before proceeding. This form is typically used in daycare settings to gather essential data about the child's family, including their name, address, phone number, email, date of birth, start and end dates, relationship to the child, emergency contact information, and any comments or remarks. 
-
-To avoid duplication, please ensure that each field is completed accurately and thoroughly. This guide is to aid you in understanding the form's requirements.
-
-The following sections will guide you through completing the form step-by-step.
-
-</thinking>
-
 # tinker_tree_group_family_daycare_agreement - Help Guide
 ## Purpose
 This form is intended for daycare settings to gather essential data about the child's family, including their name, address, contact information, and relationship details.

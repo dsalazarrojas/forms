@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be a general-purpose form for customers to place orders for meal kits, but it's unclear whether this form is meant for customers or for internal use within the organization. Given the fields present, it seems to be a form for customers to provide information about their delivery orders. The presence of fields such as "Customer Info" and "Billing Info" suggests that this form may be used for both order placement and billing purposes. To confirm, the following form design guide will assume that the form is intended for customer-facing use.
 
 # Meal Kit Delivery Order Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate a user's understanding of proportional detection, which involves selecting and analyzing various options to demonstrate their ability to identify proportional relationships between different items. This form is likely used for educational or assessment purposes, and its results can help gauge the user's understanding of the subject matter. To avoid duplication, the form is designed to be completed by one user at a time.
-</thinking>
-
 # Proportional Detector Understanding Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your understanding of proportional detection by presenting a series of questions and options for you to select from.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are applying for graduation. The form will likely be used by school administrators or counselors to gather necessary details for the graduation process. This form should not be filled out by students who are not currently applying for graduation or do not have the necessary permissions from their school to do so.
-</thinking>
-
 # Graduation Application Form - Help Guide
 ## Purpose
 This form is used to gather information from students applying for graduation. Please fill out this form if you are a student who is planning to graduate at the end of the current academic year.

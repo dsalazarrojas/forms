@@ -1,5 +1,3 @@
-<thinking>... internal purpose of this form is to collect information from users about new project topics, including project name, category, location, and other relevant details. The form ensures that project submissions are consistent and follow a standard format. It also helps in tracking and managing project progress and status. It is intended for both internal and external use within the organization. Before proceeding, please ensure that the project submission is not a duplicate, and that all necessary documentation has been attached...</thinking>
-
 # Global Project Topic Submission Form - Help Guide
 ## Purpose
 

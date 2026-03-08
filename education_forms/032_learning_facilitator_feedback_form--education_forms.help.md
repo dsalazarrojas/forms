@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for the "Learning Facilitator Feedback Form", let's consider its purpose and intended use. The form is designed to gather feedback from learning facilitators, likely educators or instructors, about their experiences and opinions. The form likely aims to improve teaching methods, materials, and overall learning outcomes. To confirm, the form should only be used by learning facilitators to provide feedback about their own teaching experiences. Please ensure that you are completing this form for your own experiences and not as a student or other individual who has not used the form's intended purpose. If you're unsure, please refrain from completing this form.</thinking>
-
 # Learning Facilitator Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from learning facilitators, such as educators or instructors, to improve teaching methods, materials, and overall learning outcomes.

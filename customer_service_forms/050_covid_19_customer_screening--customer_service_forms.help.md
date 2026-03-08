@@ -1,9 +1,3 @@
-<thinking> 
-
-To create a help guide for the COVID-19 Customer Screening form, I'll follow the provided YAML structure and provide a detailed explanation of each field. 
-
-</thinking>
-
 # COVID 19 Customer Screening - Help Guide
 
 ## Purpose

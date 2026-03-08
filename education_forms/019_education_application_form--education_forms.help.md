@@ -1,7 +1,3 @@
-<thinking>
-This form is for prospective students to apply for educational programs or services. The form is likely used to gather information about the student's background, contact details, educational level, previous education, and other relevant information.
-</thinking>
-
 # education-application-form - Help Guide
 ## Purpose
 This form is used to collect information from prospective students applying for educational programs or services. It includes fields for basic details, contact information, education level, previous education, and other relevant information.

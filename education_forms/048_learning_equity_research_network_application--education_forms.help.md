@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture basic information about a new member applying to the Learning Equitry Research Network. The form is not intended for existing members who are already part of the network. The form should only be filled out by new applicants. Please ensure that you are filling out this form if you are new to the network.
-
-This form captures various types of information including background information, research interests, network participation, university participation, contact email, and contact phone number. 
-
-The form is divided into several sections. Please read this guide carefully and follow the instructions to ensure that you complete the form accurately and correctly.
-</thinking>
-
 # Learning Equitry Research Network Application - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from new applicants to the Learning Equitry Research Network. This information will be used to facilitate the application process and ensure that you are correctly registered as a new member.

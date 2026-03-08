@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for registering for a nursing program workshop. The purpose of this form is to collect information from applicants who wish to attend the workshop. The form collects basic contact and schedule information from the applicants, such as number of applicants, name, email, phone number, workshop day, and additional information. The form also allows applicants to select a workshop day and provides a text field for additional comments or information. To ensure accuracy, we recommend that applicants fill out this form carefully and double-check their information before submitting it.
 
 # nursing_program_workshop_registration_form - Help Guide

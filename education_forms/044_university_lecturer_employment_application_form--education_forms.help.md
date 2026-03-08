@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Lecturer Employment Application Form - Help Guide
 
 ## Purpose

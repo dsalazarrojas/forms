@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the creation and management of merchandise orders. It is likely used in an e-commerce setting to facilitate the ordering process between a customer and a business, such as a store or online marketplace. This form should only be completed if you are a customer placing an order or a business managing orders.
-</thinking>
-
 # Merchandise Order Form - Help Guide
 ## Purpose
 This form is used to create and manage merchandise orders. It collects information from customers and stores for merchandise orders.

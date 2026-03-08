@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to facilitate orders for adult products, allowing customers to select products, provide customer information, and choose their preferred delivery time and payment method. The form is intended for individuals who are 18 years or older. To ensure accurate and efficient processing of the order, please complete the form carefully and provide all required information.
 
 # Adult Product Same Day Delivery Order Form - Help Guide

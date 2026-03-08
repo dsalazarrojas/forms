@@ -1,12 +1,3 @@
-<thinking>
-This form is a submission form for the Stoa tournament script. It is designed to collect information from participants about their script submissions. The purpose of the form is to gather essential details about the scripts, such as the type of submission, the submission date and time, and other relevant information. This form is intended to be used by participants in a tournament setting, where they can submit their scripts and provide additional details about their work. 
-
-This form has been created to be simple and user-friendly, making it easy for participants to provide the necessary information. However, it is essential to ensure that the form is filled out correctly to avoid any confusion or errors in the review process. 
-
-Please fill out the form carefully, and if you have any questions or need clarification, do not hesitate to reach out to the form creators at form@gic.mx. 
-
-</thinking>
-
 # Stoa Tournament Script Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their script submissions for the Stoa tournament. It helps the organizers to review and evaluate the submissions efficiently.

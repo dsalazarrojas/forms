@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the writing skills of students. It is a tool used by educators to evaluate a student's writing abilities, and the results of this assessment can be used to provide feedback and guidance for improvement. Before proceeding, make sure that this form is not used for any other purpose, and that the data collected through this form will not be shared with anyone outside of the educational institution or the people directly involved in the assessment process.
-
-</thinking>
-
 # Writing Skills Assessment - Help Guide
 ## Purpose
 

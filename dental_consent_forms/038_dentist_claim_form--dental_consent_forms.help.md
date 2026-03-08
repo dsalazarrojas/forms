@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dentist Claim Form - Help Guide
 
 ## Purpose

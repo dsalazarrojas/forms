@@ -1,9 +1,3 @@
-<thinking>
-The "seed_order" form is designed to collect information related to seed sales, purchases, and orders. This form likely serves as a template for tracking and managing seed orders, which is a crucial process in agricultural or horticultural businesses. The form's layout and fields suggest that it is intended to capture details such as user information, payment methods, order status, and product-related information. This form may be used by farmers, seed suppliers, or other industry professionals to streamline their operations and keep records of seed orders.
-
-Before proceeding, it's essential to verify that this form meets the specific needs of your business or use case. If you have a similar form in use, it's recommended to review your existing processes and adapt this template accordingly to avoid duplication of effort or redundancy.
-</thinking>
-
 # seed_order - Help Guide
 ## Purpose
 The seed_order form is designed to collect and track information related to seed sales, purchases, and orders.

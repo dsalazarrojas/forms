@@ -1,7 +1,3 @@
-<thinking>
-This form is used to declare educational grants for students. It is essential to ensure that all fields are filled in correctly to avoid errors in processing. Please review each field carefully and fill in all required fields. Note that some fields have specific formats or options that must be followed for accurate processing.
-</thinking>
-
 # Educational Grant Declaration Form - Help Guide
 
 ## Purpose

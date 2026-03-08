@@ -1,6 +1,3 @@
-<thinking>**Form Purpose:** The Student Support Team Referral Form is used to refer students to the support team for assistance. This form helps the support team understand the reason for the referral and the relevant student details, enabling them to provide the best support possible.
-</thinking>
-
 # Student Support Team Referral Form - Help Guide
 ## Purpose
 The Student Support Team Referral Form is a tool used to refer students to the support team for assistance. This form gathers information about the student, the reason for referral, and other relevant details that help the support team provide effective support.

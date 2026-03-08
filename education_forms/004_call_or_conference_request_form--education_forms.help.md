@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a call or conference with a team member or other stakeholders. The purpose of this form is to schedule a meeting or call with an individual or group to discuss specific topics or issues. Before submitting this form, please ensure that you have a clear understanding of the meeting's purpose and that the requested meeting time does not conflict with any other scheduled meetings. It is also good practice to check with your team member(s) to confirm their availability before submitting the form.
-</thinking>
-
 # Call Or Conference Request Form - Help Guide
 ## Purpose
 This form is used to schedule a call or conference with a team member or other stakeholders to discuss specific topics or issues.

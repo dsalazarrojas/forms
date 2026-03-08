@@ -1,10 +1,3 @@
-<thinking>
-The form "Academic Performance Questionnaire" is a collection of questions designed to assess the academic performance of a course and its instructor. This form is intended to gather feedback on various aspects of the course, including the clarity of learning outcomes, teaching effectiveness, fairness of assessment and grading, manageability of workload, availability of learning resources, and more. The questions are designed to be concise and easy to understand, and the form is meant to be completed by students or instructors to provide feedback on their experience with the course.
-
-Before proceeding, please ensure that you are completing this form for the correct purpose and not duplicating your feedback. If you have already completed a similar form for this course, your feedback may be redundant and not taken into account.
-
-</thinking>
-
 # Academic Performance Questionnaire - Help Guide
 ## Purpose
 The Academic Performance Questionnaire is a survey designed to gather feedback on various aspects of a course, including the instructor's performance, learning outcomes, and resources. This guide will walk you through each section of the form to help you provide accurate and helpful feedback.

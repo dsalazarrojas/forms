@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the user's ability to analyze information within its proper context, which is a crucial skill in various fields such as business, social sciences, and humanities. The form is called "Contextual Knowledge Quiz" and is intended for students or participants to evaluate their understanding of contextual analysis. The form has several sections that cover theoretical foundations, scenario analysis, and self-evaluation. 
-
-Each section is designed to test the user's ability to apply their knowledge in real-world scenarios, making it an interactive and practical assessment of their skills. The form is expected to be completed in a timely manner, and users are encouraged to answer honestly about their confidence in their answers and the overall helpfulness of the quiz.
-
-</thinking>
-
 # Contextual Knowledge Quiz - Help Guide
 ## Purpose
 The Contextual Knowledge Quiz is a form designed to assess your ability to analyze information within its proper context. It consists of several sections that cover theoretical foundations, scenario analysis, and self-evaluation.

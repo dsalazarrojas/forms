@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from applicants for vocational training programs. 
-The form is designed to gather essential details about the applicant, such as name, contact information, and personal data. 
-The form will ask for demographic information, medical conditions, and additional comments. 
-This form is not intended for general use, please check with your internal system to confirm if this form has been filled out before and make sure it has the correct fields to fill out.</thinking>
-
 # vocational_training_admission_form - Help Guide
 ## Purpose
 This form is used to gather information from applicants for vocational training programs.

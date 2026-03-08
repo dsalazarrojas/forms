@@ -1,9 +1,3 @@
-<thinking>
-The form is likely intended to collect information on school withdrawal, which is a process where a student leaves a school or drops out. This form could be used to gather details on the student's personal information, reasons for withdrawal, and other relevant data. It's essential to ensure that the form is completed accurately and thoroughly, as the information collected will help administrators or teachers make informed decisions or take necessary actions. To avoid duplication, it's crucial to verify that the form is not already filled out for the same student or school year.
-
-The form's design might suggest that it's for use within a school or educational institution, potentially for administrative or academic purposes. The fields included in the form, such as "grade" and "grade_level," imply that the form is related to student progression or evaluation. The absence of fields related to payment or finance suggests that the form is not for financial or billing purposes. The "select_one" and "select_multiple" fields for "grade_level" and "grade_range" indicate that the form requires the user to choose one or multiple options from a predefined list, likely to categorize students based on their grade levels or ranges.
-</thinking>
-
 # School Withdrawal Survey - Help Guide
 ## Purpose
 This form is designed to collect information on a student's personal details and reasons for withdrawing from school.

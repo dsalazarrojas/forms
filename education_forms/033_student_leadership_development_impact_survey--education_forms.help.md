@@ -1,13 +1,3 @@
-<thinking>
-
-The Student Leadership Development Impact Survey form is designed to collect information from students about their experience and leadership development within their school. This form will gather details such as school name, school email, and program involvement to help assess the impact of leadership development on students. The survey will also collect demographic information, including student name, email, and phone number for contact purposes. 
-
-The purpose of this form is to evaluate the effectiveness of leadership development programs in schools and to gather data for future program improvements.
-
-This guide will walk you through each field in the form, providing a clear understanding of what to expect and how to complete each section.
-
-</thinking>
-
 # Student Leadership Development Impact Survey - Help Guide
 
 ## Purpose

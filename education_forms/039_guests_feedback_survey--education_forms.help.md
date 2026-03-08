@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm not entirely sure what this form is for, and I'm guessing it's for some kind of survey or feedback form for guests. I'm assuming it's for a business or organization that wants to collect information from guests, perhaps for quality control or customer service purposes. I'm also guessing that the form is designed to be simple and easy to fill out, with only a few required fields. I'll just have to make some educated guesses about the intent and purpose of each field...
-</thinking>
-
 # guests_feedback_survey - Help Guide
 
 ## Purpose

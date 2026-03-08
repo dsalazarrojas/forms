@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be used by doctoral program participants to report their progress and challenges, while also tracking their advisor's feedback and comments. The form collects information about the participant's first name, last name, email address, phone number, progress, challenges, goals, advisor's name, advisor's email address, advisor's phone number, month of progress, year of progress, date of progress, time of progress, location of progress, and any notes or comments. This information is likely to be used for tracking and monitoring the progress of doctoral students in the program.
-
-</thinking>
-
 # Doctoral Program Monthly Check In - Help Guide
 ## Purpose
 

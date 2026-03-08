@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from museum visitors who wish to donate artifacts to the museum's collection. The purpose of this form is to gather the necessary details for the museum's collections management team to evaluate the artifacts and potentially add them to the collection. This process helps ensure that the museum acquires artifacts that fit its collection goals and standards.
-</thinking>
-
 # Museum Artifact Donation Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals or organizations wishing to donate artifacts to the museum. Please complete this form to initiate the donation process and help the museum's collections management team evaluate your proposed donation.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reason for this form is to request an email account for students, faculty, or staff members. This form will help us understand who is requesting an email account, what type of account they need, and why they need it, so we can process their request efficiently. To avoid duplication of email accounts, we'll be checking for existing records before creating new ones.
-</thinking>
-
 # Student Email Account Request Form - Help Guide
 ## Purpose
 This form is for students, faculty, or staff members to request a new email account or update existing account information.

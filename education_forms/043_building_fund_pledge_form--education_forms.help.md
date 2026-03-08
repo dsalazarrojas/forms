@@ -1,9 +1,3 @@
-<thinking>
-The "Building Fund Pledge Form" is designed to collect information from donors who wish to make a pledge to a specific fund campaign. This form is intended to gather details about the donor, including their name, contact information, and pledge details such as amount, payment frequency, and method.
-The purpose of this form is to ensure that the donor's pledge is accurately recorded and processed, and to provide the donor with the option to specify their communication preferences and any additional comments or requests.
-This form should only be used for the collection of pledges for the "Building Fund" and should not be used for any other purpose. It is a critical document for tracking and managing pledge information in the "Education" category.
-</thinking>
-
 # Building Fund Pledge Form - Help Guide
 ## Purpose
 The Building Fund Pledge Form is designed to collect pledge information for the "Building Fund" in the "Education" category.

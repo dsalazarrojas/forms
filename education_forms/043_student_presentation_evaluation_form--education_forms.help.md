@@ -1,7 +1,3 @@
-<thinking>
-This guide aims to provide users with a clear understanding of the Student Presentation Evaluation Form, ensuring they can accurately complete and utilize the form. The form's purpose is to assess and evaluate student presentations, capturing their overall performance, communication skills, and other essential aspects of their delivery. This form will help instructors and assessors provide constructive feedback and ratings on the students' performance.
-</thinking>
-
 # Student Presentation Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate student presentations, capturing their overall performance, communication skills, and other essential aspects of their delivery.

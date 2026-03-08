@@ -1,13 +1,3 @@
-<thinking>
-This form is for tracking information from parents or guardians about their child's educational status. It is intended for use by schools or educational institutions to gather data on students who are not returning to school. This information will help them understand the reasons behind the decision and tailor their support and resources accordingly. 
-
-Before filling out this form, please ensure that you are the parent or guardian of the student in question. If you are unsure or have any questions, please contact your school or institution directly.
-
-Please note that this form is a tool to help schools better understand the reasons behind student absences. It is not meant to be used for any other purpose or shared with any other entity without consent from the school or institution.
-
-Also, please be aware that your responses will be treated confidentially and will not be shared publicly without your explicit consent.
-</thinking>
-
 # Return To School Survey - Help Guide
 
 ## Purpose

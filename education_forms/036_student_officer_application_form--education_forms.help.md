@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect application information from students who are applying for various officer positions within the institution. The form is used to gather necessary details such as contact information, position preference, departmental affiliations, and other relevant qualifications. It is crucial to fill out this form accurately to ensure that your application is considered complete and properly evaluated.
-
-To ensure that your application is not a duplicate, please check if you have already submitted an application for this position. If you have, do not submit another application. 
-
-</thinking>
 # Student Officer Application Form - Help Guide
 ## Purpose
 The Student Officer Application Form is used to collect application information from students who are interested in taking up officer positions within the institution. This form ensures that the applicants provide necessary details such as contact information, position preferences, departmental affiliations, and other relevant qualifications.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for acknowledging gifts that have been received. The purpose is to collect information about the gift details, donation information, recipient info, donor details, delivery info, thank you note, gift receipt, comments, delivery date, delivery time, donor email, donor phone, assigned tool, and assigned tool 2.
-The form is designed to be completed by the donor to provide accurate information about the gift, and by the organization to manage the gift acknowledgment process.
-</thinking>
-
 # Thank You Gift Acknowledgment Form - Help Guide
 ## Purpose
 This form is used to collect information about gifts received, including gift details, donor information, and other related data.

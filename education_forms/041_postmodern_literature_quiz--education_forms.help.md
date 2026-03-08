@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Postmodern Literature Quiz - Help Guide
 
 ## Purpose

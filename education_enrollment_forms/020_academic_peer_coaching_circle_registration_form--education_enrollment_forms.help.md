@@ -1,9 +1,3 @@
-<thinking>
-
-This form was designed to collect information from participants who wish to join an Academic Peer Coaching Circle. The form ensures that participants are committed to regular participation and have a clear understanding of their preferences and goals. The fields included in this form are meant to be completed by those who are serious about participating in the coaching circle. If you're not committed to regular participation or are unsure about the process, please don't register at this time.
-
-</thinking>
-
 # Academic Peer Coaching Circle Registration Form - Help Guide
 ## Purpose
 

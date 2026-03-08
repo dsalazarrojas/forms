@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Cross Cultural Teaching Assistance Request Form, we should first understand the purpose of this form. The form likely aims to collect information from instructors or teaching staff to provide support or assistance to students who may face cultural or language barriers in their teaching context. This form might be used to help instructors gather details about students who require extra support and tailor their teaching approach accordingly.
-
-The form seems to have been created based on a public survey topic metadata, and its structure suggests it is meant to be filled out by instructors or teaching staff. The fields provided appear to be a mix of general user information and specific student details, as well as contextual information and additional support requests.
-
-Before diving into the help guide, let's confirm that the form's primary function is to assist teaching staff in providing cross-cultural support to students who require it. If so, then the form's purpose would be to help teaching staff gather relevant information from students and instructors to better understand their needs and provide targeted support.
-
-With that in mind, the user-facing help guide should be clear and concise, guiding the user through the purpose and process of completing the form.
-
-</thinking>
-
 # Cross Cultural Teaching Assistance Request Form - Help Guide
 ## Purpose
 This form is designed to help teaching staff provide cross-cultural teaching assistance to students who require it. It aims to collect necessary information from instructors and students to provide targeted support.

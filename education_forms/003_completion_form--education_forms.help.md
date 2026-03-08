@@ -1,7 +1,3 @@
-<thinking>
-The Completion Form is a crucial document that helps students confirm their academic completion status. It's essential to ensure that all the necessary steps and requirements are fulfilled before granting completion. This form should be filled out carefully, as it's a critical step in the academic lifecycle. Please review each field carefully to avoid any errors or omissions.
-</thinking>
-
 # Completion Form - Help Guide
 ## Purpose
 The purpose of this form is to verify student completion of their academic program. It ensures that students have met all the necessary requirements and standards set by the institution.

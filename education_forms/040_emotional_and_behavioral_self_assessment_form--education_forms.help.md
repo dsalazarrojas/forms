@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Emotional And Behavioral Self Assessment Form, which is AI-generated using public survey topic metadata. This form is a comprehensive assessment tool designed to help individuals evaluate their emotional and behavioral patterns, goals, and interventions. The purpose of this form is to provide a structured framework for self-reflection and exploration of one's mental health and well-being.
-
-Before filling out this form, please ensure that you are not already using a similar assessment tool. If you have concerns or questions, please contact <form@gic.mx>.
-
-After reviewing this help guide, you are ready to complete the form.
-
-</thinking>
-
 # Emotional And Behavioral Self Assessment Form - Help Guide
 ## Purpose
 This form is designed to help you assess your emotional and behavioral patterns, goals, and interventions. It's a self-assessment tool that will guide you through a series of questions to identify areas where you may need support or guidance.

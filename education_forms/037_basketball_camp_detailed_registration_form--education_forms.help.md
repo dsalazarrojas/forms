@@ -1,7 +1,3 @@
-<thinking> 
-To avoid duplication, I will ensure that this form is thoroughly vetted and reviewed before release. I will provide a clear and concise help guide that covers the form's purpose, completion process, and field explanations. I will also ensure that the form's fields are properly labeled and explained to avoid confusion. Upon completion, this guide will be thoroughly reviewed to guarantee its accuracy and effectiveness. 
-</thinking>
-
 # Basketball Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from athletes and their parents/guardians for the basketball camp registration process. The form includes fields for athlete and parent/guardian contact information, medical history, and liability release.

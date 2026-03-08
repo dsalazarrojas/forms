@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the time constant of a first-order system. A first-order system is a system where the output is directly proportional to the input, with no intermediate variables or feedback loops. The form is used to gather information about the system, including its type and response characteristics, and to perform calculations based on this data. This form is likely used in engineering or scientific contexts where understanding the behavior of first-order systems is crucial.
-</thinking>
-
 # First Order System Time Constant Calculation Form - Help Guide
 ## Purpose
 The First Order System Time Constant Calculation Form is a tool used to calculate the time constant of a first-order system. This form is designed to gather information about the system and perform calculations based on this data.

@@ -1,14 +1,3 @@
-<thinking>
-
-**Internal reasoning:**
-This form is designed for users to register their children for training programs. It collects personal information, contact details, and relevant dates. The form aims to ensure accurate and up-to-date child registration to provide proper training services. It's a crucial process to maintain order and track participant information in these training programs.
-
-This form should only be used for the purpose of registering children for training programs. Duplicate submissions will be discarded, and incomplete submissions will require users to correct and resubmit the form.
-
-To avoid potential data inconsistencies and duplicate registrations, we kindly request that users fill out this form carefully and accurately. If you're unsure about any information, please consult your child's guardian or relevant documents before proceeding.
-
-</thinking>
-
 # registration_form_for_training_children - Help Guide
 ## Purpose
 This form is designed to register children for training programs. It collects essential information to ensure accurate and up-to-date records of participant details.

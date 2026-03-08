@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to opt-in to receive marketing materials, updates, and other communications from the company. It captures the customer's first name, last name, email address, phone number, and company affiliation (if applicable). The goal is to create a record of customer preferences and tailor future communications accordingly.
-This form is designed to be completed once by each customer, and the information collected will be stored in the customer database. To ensure data accuracy, it's essential to enter information carefully and consistently.
-Please note that the phone number field is not strictly validated for format or correctness, so customers may enter any type of phone number they have, which may or may not be usable for further communication.
-The form will be submitted once all required fields are completed (none of the fields are marked as required in this version, it should be noted). Once submitted, the customer will be notified and the entry will be stored in the database.
-</thinking>
-
 # Opt In Form - Help Guide
 
 ## Purpose

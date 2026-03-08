@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for evaluating and accrediting educational programs. It is meant to collect relevant information from the institution and the program to aid in the evaluation process. 
-
-The form can be completed by a system admin or a user, and it is used to store and manage data for the accreditation process.
-
-Please note that some fields may not be required if the user selects "System Admin" as the option for "Evaluation Form Submitted By". 
-
-The main goal of this form is to gather all the necessary information for the evaluation and accreditation of an educational program. 
-
-Before filling out the form, it's essential to understand the purpose and context of each field. 
-
-</thinking>
-
 # Educational Program Accreditation Evaluation Form - Help Guide
 ## Purpose
 The Educational Program Accreditation Evaluation Form is designed to collect data for the evaluation and accreditation of educational programs.

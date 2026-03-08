@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal note:** This form template is designed to guide school administrators or educators in documenting student warnings, providing an organized structure for recording incidents, infractions, and actions taken. It helps ensure consistency and thoroughness in documenting warnings to support fair and informed decision-making processes.
-
-</thinking>
-
 # Student Warning Form Template - Help Guide
 ## Purpose
 

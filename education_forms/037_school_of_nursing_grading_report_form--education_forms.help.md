@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from instructors for evaluating student performance in the School of Nursing. It appears to be part of the grading process for students in the nursing program. This form is likely used to provide feedback and assessment to students and may be used for tracking student progress.
-</thinking>
-
 # School of Nursing Grading Report Form - Help Guide
 ## Purpose
 The School of Nursing Grading Report Form is used to record the grades and comments for student assignments and evaluations in the School of Nursing.

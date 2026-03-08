@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a donation request or proposal from the user. It is used to ensure that the user's request is legitimate and that they are able to trust the organization or individual asking for the donation. The form is used to verify the user's identity and to gather additional information that may be required for the donation process. This information will be used to review and process the request in a secure and efficient manner. 
-
-Please ensure that you only submit this form if you have a legitimate reason for the donation and are not attempting to defraud the organization or individual.
-
-</thinking>
-
 # we_quality_u_can_trust_asking_for_donation - Help Guide
 
 ## Purpose

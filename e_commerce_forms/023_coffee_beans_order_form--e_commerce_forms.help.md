@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect customer information for a coffee bean order. The form is divided into several sections, each with its own specific purpose. Section 1 collects customer information, such as name, email, and phone number. Sections 2-3 are for shipping address details and include fields for street address, city, state or province, and ZIP or postal code. Section 4 is for coffee selection, where customers can choose the type of coffee, roast level, origin, grind type, and quantity of coffee. Section 5 is for flavor profile, where customers can select their preferred flavors. Section 6 is for special requests, including dietary restrictions and gift options. Section 7 is for payment method, where customers can choose how they would like to pay.
-
-</thinking>
-
 # Coffee Beans Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and preferences for ordering coffee beans. It guides the customer through a step-by-step process of providing their contact information, shipping details, coffee preferences, and payment method.

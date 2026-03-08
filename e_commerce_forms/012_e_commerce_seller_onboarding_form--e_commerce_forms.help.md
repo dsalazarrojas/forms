@@ -1,8 +1,3 @@
-<thinking>
-This form is used for e-commerce sellers to onboard themselves on the platform, providing necessary information to facilitate the selling process. The form collects general information such as company name, address, and contact details, as well as more specific information like product list, product description, and shipping cost. The form also collects payment terms and time zone to ensure a smooth transaction process. The purpose of this form is to ensure that the platform has all necessary information about the seller to provide a good experience for both the seller and the customer.
-
-</thinking>
-
 # E Commerce Seller Onboarding Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about you as an e-commerce seller to help you set up your account and start selling on our platform. Please fill out this form accurately and completely to ensure a smooth and efficient onboarding process.

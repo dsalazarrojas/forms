@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate customer support contact requests on the Ticket Marketplace platform. It allows customers to submit a support request, providing relevant information about their issue, and specifying their priority and department requirements. The form is intended to guide customers through a structured process, ensuring that all necessary details are captured before submitting their request. This approach helps to prevent duplicate requests and improves the efficiency of the support process. The internal logic behind this form assumes that customers will be assigned to a specific support agent based on their department selection. This form will guide customers on what information to provide to ensure that their issue is handled effectively. 
-</thinking>
-
 # Ticket Marketplace Customer Support Contact Request - Help Guide
 ## Purpose
 This form is designed to allow customers to submit a support request to the Ticket Marketplace platform. It captures essential information about the customer's issue, priority, and department requirements, ensuring that their support request is handled efficiently.

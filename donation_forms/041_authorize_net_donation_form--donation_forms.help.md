@@ -1,7 +1,3 @@
-<thinking>
-This form is a donation form used to collect information for donations made to a non-profit organization. The form is used to ensure that all necessary information is collected for the donation processing and recognition process. This form should only be completed once a donation has been made, and should not be duplicated or submitted multiple times. 
-</thinking>
-
 # Authorize.Net Donation Form - Help Guide
 
 ## Purpose

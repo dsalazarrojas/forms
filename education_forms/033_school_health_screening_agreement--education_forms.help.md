@@ -1,6 +1,3 @@
-<thinking>**Form Purpose:**
-The form is a School Health Screening Agreement, likely used for schools to collect information from staff members about their health status before or after a screening process. This form might be used for employee health and wellness programs, or perhaps for monitoring health-related issues within the school environment.</thinking>
-
 # School Health Screening Agreement - Help Guide
 ## Purpose
 The School Health Screening Agreement form is designed to collect personal health information from school staff members. This form helps schools to identify and manage potential health concerns, ensuring a safe and healthy work environment.

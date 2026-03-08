@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate a user's understanding of email and narrative writing best practices, particularly in a professional setting. Its purpose is to assess how well they can craft coherent and effective emails, attachments, and narratives. By completing this form, users will be able to evaluate their skills in email etiquette, body writing, narrative writing, and email formatting.
-
-To ensure this form is completed accurately, the user's email and narrative writing skills should be evaluated in different contexts, and it's essential to avoid duplication of effort. This form should not be used as a standalone assessment tool; rather, it's meant to be used in conjunction with other evaluations or as part of a more comprehensive assessment of a user's communication skills.
-
-Before proceeding, ensure the user has a clear understanding of email and narrative writing best practices and that they have sufficient time to complete the form thoroughly. If the form is not completed accurately, the results may be skewed, and it's crucial to revisit and retry the form.
-
-If the form is being used for multiple users, it's essential to ensure that each user has a unique set of questions and answers, as repeating the same questions and answers may lead to inaccurate results.
-
-</thinking>
-
 # Email And Narrative Writing Quiz - Help Guide
 
 ## Purpose

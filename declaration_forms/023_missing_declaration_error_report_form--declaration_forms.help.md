@@ -1,7 +1,3 @@
-<thinking>
-  As a form designer and technical writer, I'm going to create a user-facing help guide for the Missing Declaration Error Report Form. This form is likely used to report errors or discrepancies in declarations, possibly in a work or project management context. The form is designed to collect information about the declaration type, date, department ID, impact, description, and supporting documents or comments. This form will be helpful for users who need to report and track errors or issues related to declarations. I will ensure that the guide is clear, concise, and practical for end-users to fill out the form correctly and effectively.
-</thinking>
-
 # Missing Declaration Error Report Form - Help Guide
 ## Purpose
 The Missing Declaration Error Report Form is designed to report errors or discrepancies in declarations. This form helps users identify and track issues related to declarations, ensuring that the necessary steps are taken to correct them.

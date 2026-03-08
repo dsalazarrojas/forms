@@ -1,12 +1,3 @@
-<thinking>
-We're designing a contact form for customers to inquire about product availability. The form is designed to be simple and straightforward, allowing customers to provide their details so that our team can assist them in finding the information they need. 
-
-To avoid duplication, we've considered the following checks:
-- Customers are only allowed to inquire about one product at a time.
-- The form is not meant for customers to create a new account or log in.
-- Customers can optionally provide their email address and phone number for follow-up.
-</thinking>
-
 # Product Availability Inquiry Contact Form - Help Guide
 ## Purpose
 

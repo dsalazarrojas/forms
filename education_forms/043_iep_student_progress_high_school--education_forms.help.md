@@ -1,26 +1,3 @@
-<thinking>
-This form is used to track student progress in an Individualized Education Program (IEP) for high school students. It's essential to ensure that each field is filled out accurately to provide a comprehensive picture of the student's progress. Before starting, verify that the form is not already filled out for the same student to avoid duplication of efforts.
-
-This form will help you to:
-* Gather information on the student's name, ID, and date of birth
-* Record their progress in IEP Process Start and End Dates
-* Assess their English, Math, Reading, Writing, and Behavioral proficiencies
-* Identify their General Education Classrooms, Academic, and Social goals
-* Document their IEP Goals and Objectives
-* Note down IEP Interventions and Progress Notes
-* Track the IEP Progress Frequency
-* Update their IEP Progress Status
-* Set the next steps for the student's IEP
-* Record the IEP Progress Date and Reviewer
-
-Before you start filling out this form, make sure to understand the following:
-* Each field is optional, so you don't need to fill out all of them.
-* The "IEP Progress Date" will automatically update when you save the form.
-* "IEP Reviewer" and "IEP Review Date" will be filled in when the form is reviewed.
-
-Please fill out this form carefully and accurately to ensure the student's progress is up-to-date.
-</thinking>
-
 # iep_student_progress_high_school - Help Guide
 ## Purpose
 This form is used to track student progress in an Individualized Education Program (IEP) for high school students.

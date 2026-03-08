@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals who want to donate money for children's surgery, and it's intended for internal use within an organization. To ensure that the form is filled out correctly and accurately, please review the following help guide.
-</thinking>
-
 # Children Surgery Donation Form - Help Guide
 ## Purpose
 The Children Surgery Donation Form is a tool for individuals to contribute money to support the surgery of children in need. By filling out this form, you will be able to provide financial assistance to help make a difference in the lives of children undergoing surgery.

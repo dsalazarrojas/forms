@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information about a daycare center during a pediatric medical visit. It's essential to fill it out accurately and comprehensively for the best possible assessment. Before we begin, ensure you've reviewed the form carefully, and if you're unsure about any field, ask your supervisor or contact our support team. This form is a critical document in our records, and any inaccuracies could lead to misinformed decisions.
-</thinking>
-
 # Pediatric Medical Daycare Inspection Form - Help Guide
 ## Purpose
 This form is used to gather information about a daycare center during a pediatric medical visit. The information collected will be used to assess the daycare center's compliance with health and safety standards. Please fill out this form accurately and completely.

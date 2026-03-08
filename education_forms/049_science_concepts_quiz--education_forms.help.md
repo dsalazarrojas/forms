@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Science Concepts Quiz form, we need to understand the purpose of the form, how to complete it, and what each field means. Based on the provided YAML fields, the form appears to be a simple survey or quiz that asks users about their preferences and demographics. The form is likely used to collect information about users' favorite science subjects, age, learning preferences, email address, and contact phone number.
-
-The form does not seem to have any complex or technical requirements, so it should be a straightforward and easy-to-use guide.
-
-</thinking>
-
 # Science Concepts Quiz - Help Guide
 ## Purpose
 The Science Concepts Quiz form is a simple survey that gathers information about users' preferences and demographics related to science education.

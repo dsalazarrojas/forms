@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying to be a dietitian. The form is intended to gather personal details, education background, professional certifications, work experience, professional skills, references, and any relevant documents. This form is likely used by institutions or organizations seeking to hire or verify the credentials of a dietitian. The form's layout is straightforward, with a focus on text fields for respondents to provide their answers. The form does not appear to have any conditional logic or branching, suggesting that it is a simple, one-page form.
-
-Please note that the form's purpose and design seem to be in line with general industry standards for dietitian applications. However, without further context, it's difficult to confirm its specific use case or target audience.
-
-</thinking>
-
 # dietitian_application_form - Help Guide
 ## Purpose
 This form is intended to collect personal and professional information from individuals applying to be a dietitian. It gathers details about their education, work experience, and certifications to assess their eligibility for dietitian positions.

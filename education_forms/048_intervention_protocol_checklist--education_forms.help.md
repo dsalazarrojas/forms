@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the help guide, we need to analyze the form's structure and content. The form is designed to collect various types of information from the user, and I will provide a clear and concise explanation for each page and field.
 
 <dl class="toc">

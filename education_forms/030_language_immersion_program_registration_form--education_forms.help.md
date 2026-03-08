@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in registering for a Language Immersion Program. The form asks for language abilities, preferred languages, desired program duration, start and end dates, and contact information. This form is intended for participants who are looking to improve their language skills and engage in a language immersion experience. To ensure that participants are properly matched with suitable language programs, it is essential to provide accurate and truthful information in the form. Duplicate or incorrect registrations will be removed or rejected.
-
-</thinking>
-
 # Language Immersion Program Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in registering for a Language Immersion Program.

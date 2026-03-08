@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to be a comprehensive and user-friendly tool for kindergartens to collect information from parents and students. The form is divided into four sections: Enrollment Form, Student Details, Parent Details, and Contact Details. The purpose of the form is to gather necessary data from parents and students to process their kindergarten enrollment requests.
-
-To ensure that the form is completed accurately and efficiently, please review each section carefully.
-
-</thinking>
-
 # Kindergarten Enrollment Form - Help Guide
 ## Purpose
 The Kindergarten Enrollment Form is a collection of information required for kindergarten enrollment. It is used to gather details from parents and students to process their enrollment requests.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect votes for the university valedictorian selection. The purpose of this form is to allow students to vote for one candidate among three options. The form will gather information on each student's vote for the three candidates and their vote counts. This information will be used to determine the valedictorian winner. 
-
-The form will be used by students to cast their votes for their preferred candidate. It is recommended to fill out the form carefully, making sure to enter valid email addresses and student IDs.
-
-Please note that the form will not affect any existing student data, and the votes will be counted towards the valedictorian selection only.
-
-The form will only count one vote per student, and it is recommended to fill it out carefully to avoid errors.
-
-</thinking>
-
 # university_valedictorian_selection_voting_form - Help Guide
 ## Purpose
 The form is used to collect votes for the university valedictorian selection, allowing students to choose one candidate among three options.

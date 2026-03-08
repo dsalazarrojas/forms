@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Educational Kit Evaluation Survey" form, we need to consider the following:
-
-* The form is designed to collect feedback and ratings from users about their experience with educational kits.
-* The form has several fields that need to be filled out, but the fields are not clearly labeled, so we will need to provide explanations for each field.
-* Some fields have multiple options, so we will need to clearly explain what each option means.
-* The form does not have any specific instructions on how to complete it, so we will need to provide a general guide on how to proceed.
-
-The form is intended to gather feedback on the quality and usability of educational kits, which is a subjective assessment.
-
-The form is not intended to be a comprehensive, detailed evaluation, but rather a brief and informal survey to gather general impressions and opinions.
-
-This form is designed to be used by users who have experience with educational kits, so no additional guidance on how to use the kits is required.
-
-The form is not intended to be taken seriously, but rather as a general survey.
-</thinking>
-
 # Educational Kit Evaluation Survey - Help Guide
 ## Purpose
 

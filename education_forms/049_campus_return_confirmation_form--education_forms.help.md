@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals returning to campus, ensuring a safe and smooth re-entry process. It helps the campus management to keep track of who will be on campus, their presence frequency, and their housing details. This form should only be filled out by individuals who have been previously cleared to be on campus or are new visitors.
-</thinking>
-
 # Campus Return Confirmation Form - Help Guide
 ## Purpose
 The Campus Return Confirmation Form is a crucial document that assists the campus management in managing the re-entry process of individuals on campus. This form helps to ensure a smooth and safe re-entry process by gathering essential information about the individual's presence, housing, and health status.

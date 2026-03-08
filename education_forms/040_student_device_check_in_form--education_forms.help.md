@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for internal users who will be utilizing a Student Device Check In Form. The purpose of this form is to collect information about a student's device check in status. This form is likely used by school staff or administrators to track student's device check in status during events or activities. It seems that the form has fields to record the student device check in status, student ID, device ID, device type, configuration, date, time, and any notes about the check in process. To be clear, this form will only be relevant for school use, and the fields should only be filled by school staff or authorized personnel. This guide will provide step-by-step instructions on how to fill out the form, what each field means, and some practical tips for completing the form correctly.
-</thinking>
-
 # Student Device Check In Form - Help Guide
 ## Purpose
 The Student Device Check In Form is used to record student's device check in status during events or activities. This form helps school staff or administrators track student's device check in status.

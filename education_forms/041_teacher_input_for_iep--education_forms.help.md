@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "teacher_input_for_iep" form, I will assume that the form is intended for teachers to input information about students' Individualized Education Programs (IEP). The form will likely be used in an education setting, such as a school or institution, where teachers need to collect and report student data.
-</thinking>
-
 # teacher_input_for_iep - Help Guide
 ## Purpose
 This form is designed for teachers to input information about students' Individualized Education Programs (IEP). The purpose of this form is to collect and report student data, likely for tracking and reporting purposes.

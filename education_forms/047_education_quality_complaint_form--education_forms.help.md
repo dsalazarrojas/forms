@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to report education quality complaints without causing unnecessary duplication or frustration for end users. The form is meant to collect relevant information about a student's experience, including name, contact information, and a description of their issue. To prevent confusion, we'll need to clearly explain each field's purpose and expected input.
-</thinking>
-
 # education_quality_complaint_form - Help Guide
 ## Purpose
 The education quality complaint form is designed to collect information about your experience with our educational institution. Please use this form to report any issues or concerns you have about your education. Your feedback is valuable in helping us improve our services.

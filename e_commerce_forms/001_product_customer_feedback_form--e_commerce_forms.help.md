@@ -1,10 +1,3 @@
-<thinking>
-This guide will help users fill out the Product Customer Feedback Form, which is intended to gather customer input on their experiences with our product. 
-The form is part of the e-commerce module, and its primary function is to capture customer feedback, ratings, and contact information. 
-It is not intended to be a required form, but rather a way to encourage customers to share their experiences and help us improve our services.
-Please fill out the form carefully and accurately, and ensure you are providing your real contact information for future correspondence.
-</thinking>
-
 # product_customer_feedback_form - Help Guide
 ## Purpose
 The Product Customer Feedback Form is a means for customers to share their experiences, provide product ratings, and contact information with us. This form is optional and serves to gather valuable feedback to improve our services.

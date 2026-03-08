@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect student information for school administrative purposes.
-The form is divided into several fields that require the student's basic contact information, school affiliation, and administrative contacts. Each field should be filled out with the corresponding information as per the instructions below.
-</thinking>
-
 # Student Information Request Form - Help Guide
 ## Purpose
 This form is intended for school administrators to collect necessary information from students.

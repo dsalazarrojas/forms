@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to request authorization for returning a product. This form is likely to be used when a customer wants to return a product that they purchased, and they need to provide some basic information to facilitate the return process. It may also be used by customers to request a replacement, refund, or store credit for the product. We should ensure that the form is completed accurately and consistently to ensure that the return process is handled correctly and efficiently.
-</thinking>
-
 # Return Authorization Form - Help Guide
 ## Purpose
 This form is used by customers to request authorization for returning a product they purchased.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about students who are enrolling in the Fundamentals Learning Program. It's meant to capture details about the program name, institution type, start and end dates, start and end times, duration, student name, email, and phone number. Before proceeding, please ensure that you are registering for the correct program and that your information is accurate. Also, be aware that some fields are optional, and you can skip them if they don't apply to your situation.
-</thinking>
-
 # Fundamentals Learning Program Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Fundamentals Learning Program, which provides students with a solid foundation in various subjects. By filling out this form, you will be able to enroll in the program and receive updates and notifications about program events and resources.

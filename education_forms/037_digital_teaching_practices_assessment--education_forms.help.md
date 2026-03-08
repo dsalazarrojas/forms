@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on digital teaching practices assessment, which seems relevant to the field of education. The purpose of this form is to collect data on a teacher's self-assessment of their own teaching practices, focusing on various aspects such as teaching assistance, challenges, practices, technologies, support, coaching, communication, and overall score. To the best of my knowledge, this form does not appear to be duplicated elsewhere, and the fields seem well-suited to the task at hand. However, I will review each field to confirm this assumption.
-</thinking>
-
 # Digital Teaching Practices Assessment - Help Guide
 ## Purpose
 The Digital Teaching Practices Assessment is a tool for teachers to evaluate their own digital teaching practices. This assessment helps teachers reflect on their use of various digital tools and methods to enhance their teaching effectiveness.

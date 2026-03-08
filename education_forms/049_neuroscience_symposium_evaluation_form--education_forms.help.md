@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of the form, let's analyze the provided YAML fields. The form is likely used to collect feedback from attendees of a neuroscience symposium, which suggests that the purpose is to gauge attendee satisfaction and perceptions about the symposium.
-
-Upon closer inspection of the fields, it appears that the form is designed to collect information about the symposium from an attendee's perspective. The fields related to speaker performance, topics, and organization suggest that the form is intended to elicit feedback on these aspects of the symposium. The overall satisfaction field allows attendees to express their overall level of satisfaction, while the additional comments field provides an opportunity for attendees to provide more detailed feedback.
-
-The form also collects contact information (email and phone), which might be used for follow-up purposes.
-
-It's possible that the form is used for both attendee feedback and follow-up contact information. To confirm, it would be best to review the form's usage in the context of the organization or department it belongs to.
-
-</thinking>
-
 # Neuroscience Symposium Evaluation Form - Help Guide
 ## Purpose
 The Neuroscience Symposium Evaluation Form is used to collect feedback from attendees about their experience at the symposium. This form aims to gauge attendee satisfaction, gather feedback on speaker performance, topics, and organization, and collect contact information for follow-up purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations for the Arts Program, a program that aims to keep the arts alive in the community. The form will be used by donors to provide their information and preferences for their donations, including their name, email address, donation amount, frequency, and designation of where their gift should be directed. The form will be used to process donations and provide tax-deductible receipts to donors. This form should only be used for donations and not for other purposes, such as signing up for the newsletter or inquiring about the program. Please ensure that you have read and understood the form before proceeding.
-</thinking>
-
 # Arts Program Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations for the Arts Program, a program that aims to keep the arts alive in the community.

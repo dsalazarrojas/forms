@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing information about disciplinary actions taken against employees. It is used to document incidents, actions, and outcomes related to employee conduct or performance issues. Please ensure that you are using this form only for disciplinary actions, and not for other purposes such as performance evaluations or regular reporting. If you are unsure about the purpose of this form, please review your company's policies and procedures for guidance.
-</thinking>
-
 # Disciplinary Action Communication Form - Help Guide
 ## Purpose
 This form is used to document and communicate disciplinary actions taken against employees.

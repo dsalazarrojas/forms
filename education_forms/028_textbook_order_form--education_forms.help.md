@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for placing online textbook orders. It captures student information, order details, and payment information for efficient processing of textbook orders. This form helps ensure that all necessary details are provided to expedite the order processing. It's recommended to fill out this form carefully to avoid any potential issues during the order process. Please note that some fields are not required, but providing them can aid in smoother order processing.
-</thinking>
-
 # Textbook Order Form - Help Guide
 ## Purpose
 The Textbook Order Form is a tool for students to submit their textbook orders online. This form collects essential details from students, such as student information, textbook details, and payment information. The form is designed to streamline the ordering process, ensuring that all necessary details are captured efficiently.

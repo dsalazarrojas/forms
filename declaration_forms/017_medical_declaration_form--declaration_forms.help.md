@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical declarations from users, likely for insurance or travel-related purposes. This form is designed to be completed by the user, and its purpose is to gather information about their medical history, current medical conditions, and contact information. To ensure the form is completed correctly, the user must fill out every field marked as "required" on each page.
-</thinking>
-
 # Medical Declaration Form - Help Guide
 ## Purpose
 The Medical Declaration Form is a tool used to collect important medical information from users, including travel history, medical conditions, and contact information.

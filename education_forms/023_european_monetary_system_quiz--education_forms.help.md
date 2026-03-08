@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in the European Monetary System Quiz. The form is intended to gauge the participant's understanding of the system and their ability to answer questions related to it. The participant will be presented with a series of multiple-choice questions and be asked to provide their details and answers. The form will help in evaluating their understanding and provide a score based on their performance.
-This form should only be used for educational purposes, and not for any commercial or promotional activities. It should not be used by non-participants or individuals without the necessary understanding of the European Monetary System.
-</thinking>
-
 # European Monetary System Quiz - Help Guide
 ## Purpose
 The European Monetary System Quiz is designed to assess your understanding of the European Monetary System. The quiz will present you with a series of questions, and you will be asked to provide your details and answers. This will help us evaluate your knowledge and provide you with a score based on your performance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for hand washing training purposes. It is intended for users to provide their hand washing practices, training history, and application for hand washing forms. Please ensure that you complete the form accurately and relevantly to your hand washing practices and goals. Please note that some fields are optional and should be answered accordingly.
-</thinking>
-
 # Hand Washing Training Form - Help Guide
 ## Purpose
 This form is used to gather information for hand washing training purposes, including hand washing practices, training history, and application for hand washing forms.

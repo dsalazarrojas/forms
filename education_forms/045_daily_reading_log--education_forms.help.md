@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about reading activity, specifically the daily reading log of an individual or group. The form captures details such as the content of the reading, the user's reflection on the reading, their goals for the next session, and other relevant metadata like date, time, category, progress, and who submitted the log.
-</thinking>
-
 # Daily Reading Log - Help Guide
 ## Purpose
 The Daily Reading Log form is a tool to collect and track reading activity, providing a structured format to record and reflect on reading experiences.

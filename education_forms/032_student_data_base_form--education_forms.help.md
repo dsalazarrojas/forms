@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect student data, including basic information such as student name, email, and phone number, as well as demographic information like date of birth and grade level. The form also includes fields for selecting a program of study and providing additional information for other programs not listed. The student's status can also be reported as active, inactive, or unknown. All fields are optional except for student name and email, which are required for identification purposes. This form is intended to be used for educational purposes only.
-
-</thinking>
-
 # Student Data Base Form - Help Guide
 
 ## Purpose

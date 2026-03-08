@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # university_academic_journal_order_form - Help Guide
 ## Purpose
 

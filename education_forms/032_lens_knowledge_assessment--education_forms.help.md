@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gauge the user's knowledge and confidence in various aspects of optics, specifically lenses. The form is likely used for self-assessment or to gather information from users about their knowledge in this field. The fields seem to be categorized into different topics, such as optical lenses, confidence levels, and real-life applications. The user will be presented with multiple-choice questions and open-ended text fields to provide their answers.
-</thinking>
-
 # Lens Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge and confidence in optics, particularly in the context of optical lenses. It will ask you about your understanding and application of lenses in various scenarios.

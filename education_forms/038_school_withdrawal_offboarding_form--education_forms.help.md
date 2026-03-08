@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect information from a school regarding student withdrawal, including details about the student, reasons for withdrawal, and dates. The form is intended to be completed by school staff members, parents, or administrators to document the student's withdrawal process. This guide will help users understand the purpose and structure of the form, ensuring that all necessary information is collected accurately and efficiently.
-
-</thinking>
-
 # School Withdrawal Offboarding Form - Help Guide
 ## Purpose
 

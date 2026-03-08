@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help students, parents, and staff report incidents of bullying that occur within the school or educational institution. It's crucial that the reporting process is done accurately and thoroughly to ensure that the necessary steps can be taken to address the situation effectively. Before submitting the form, please make sure that you are not reporting the same incident that has already been reported.
-
-Please note that this form is a confidential and safe space to report incidents of bullying. However, if the situation is severe or life-threatening, please contact local authorities or school administration immediately.
-
-</thinking>
-
 # Bullying Complaint Form - Help Guide
 ## Purpose
 This form is designed to help students, parents, and staff report incidents of bullying that occur within the school or educational institution.

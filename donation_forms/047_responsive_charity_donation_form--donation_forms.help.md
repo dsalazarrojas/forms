@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # responsive_charity_donation_form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form was created to help users declare their integrity and accuracy in their work. This form is not affiliated with, endorsed by, or derived from any form platform, and it's a unique creation using public survey topic metadata. The purpose of this form is to gather information about a company's declaration, subsidiary declaration, significant shareholder declaration, declaration statement, and date submitted. Please note that this form is for internal use only and should not be used for any other purpose. Also, be aware that the date submitted field may not be visible if not filled.
-
-</thinking>
-
 # Integrity Declaration Form - Help Guide
 ## Purpose
 The Integrity Declaration Form is designed to collect information about a company's declarations and statements. This form will help users provide accurate and reliable data.

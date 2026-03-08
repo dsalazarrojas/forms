@@ -1,5 +1,3 @@
-<thinking>What is the purpose of the Wood Material Knowledge Quiz form? It appears to be a quiz that tests the user's knowledge about wood materials, specifically their types, characteristics, and uses. Each question is focused on a specific aspect of wood, such as its type, durability, density, and color. The form is likely used to assess the user's understanding of wood materials, potentially for educational or certification purposes.</thinking>
-
 # Wood Material Knowledge Quiz - Help Guide
 ## Purpose
 The Wood Material Knowledge Quiz is a form used to test the user's knowledge about wood materials, including their types, characteristics, and uses.

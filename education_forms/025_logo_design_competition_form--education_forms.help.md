@@ -1,21 +1,3 @@
-<thinking>
-
-To ensure that the end users understand the purpose and requirements of the form, it's essential to provide a clear and concise help guide. The form, titled "Logo Design Competition Form," is a submission form for a logo design competition. It collects various information from users, including the agency they represent, the school, and their submission details. 
-
-This guide will cover the following pages:
-
-1.  logo_design (page 1)
-2.  agency (page 2)
-3.  school (page 3)
-4.  submission (page 4)
-5.  contact (page 5)
-6.  submission_details (page 6)
-7.  evaluation (page 7)
-
-The form is divided into several sections, each with its own set of fields. The purpose of this guide is to break down each field and its required status, ensuring that the end user fills out the form accurately and efficiently.
-
-</thinking>
-
 # Logo Design Competition Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a logo design competition. It gathers data from participants, including their agency, school, submission details, and evaluation scores.

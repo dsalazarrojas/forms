@@ -1,5 +1,3 @@
-<thinking>This form appears to be designed to collect information related to military tuition waiver requests for educational institutions. The fields suggest that it is intended for active or former military personnel to provide details about their military service, education goals, and supporting documents. This form should help institutions process and evaluate requests for tuition waivers for military-affiliated individuals. It's essential to ensure that the form is completed accurately and thoroughly to facilitate a smooth evaluation process. Please review the form's fields and their corresponding explanations to understand its purpose and required information. Before proceeding, ensure that this form is not being used for duplicate or unrelated requests.</thinking>
-
 # Military Tuition Waiver Request Form - Help Guide
 ## Purpose
 The Military Tuition Waiver Request Form is a document intended to gather information from active or former military personnel requesting tuition waivers for educational institutions. This form is a vital part of the evaluation process, ensuring that requests are processed efficiently and accurately.

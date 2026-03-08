@@ -1,5 +1,3 @@
-<thinking>As a form expert and technical writer, my goal is to create a comprehensive help guide for the School Report Form that will ensure end-users can easily understand its purpose and complete it accurately. This form is likely used by educators, administrators, or other stakeholders to track student progress, attendance, and other relevant information. I will examine the form schema to identify any fields that may seem unclear or ambiguous and provide clear explanations for each. I will also ensure that the help guide is concise, practical, and easy to follow. After careful review, I will create the final help guide.</thinking>
-
 # School Report Form - Help Guide
 
 ## Purpose

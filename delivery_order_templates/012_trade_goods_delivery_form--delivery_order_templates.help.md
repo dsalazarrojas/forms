@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for logistics and order management purposes within an e-commerce or supply chain company. It probably allows users to input delivery schedules, shipment details, and other relevant information for managing trade goods deliveries. This form might be used by warehouse staff or logistics coordinators to plan and track shipments. Before proceeding, ensure that this form is not already covered in another documentation or process, and that the required fields are completed accurately to avoid submission errors.
-</thinking>
-
 # Trade Goods Delivery Form - Help Guide
 ## Purpose
 The Trade Goods Delivery Form is used to input and manage trade goods delivery schedules, shipment details, and other necessary information for efficient logistics and order management.

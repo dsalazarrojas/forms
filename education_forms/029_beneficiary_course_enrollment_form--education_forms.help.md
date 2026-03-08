@@ -1,7 +1,3 @@
-<thinking>
-This form is used for beneficiaries to enroll in a course. It gathers information about the beneficiary's personal details, course preferences, and motivation for taking the course. The form is divided into three main sections: Beneficiary Information, Course Information, and Support and Accessibility. The purpose of this form is to ensure that the beneficiary has the necessary information and requirements to enroll in the course and to provide any necessary support or accommodations.
-</thinking>
-
 # Beneficiary Course Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from beneficiaries for the course enrollment process.

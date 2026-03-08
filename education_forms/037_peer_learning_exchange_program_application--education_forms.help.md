@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in the Peer Learning Exchange Program, a program that facilitates knowledge sharing and skill development among peers. This form should only be filled out by individuals who have not previously submitted an application for this program. Please ensure that you are submitting a new application before completing this form. 
-</thinking>
-
 # Peer Learning Exchange Program Application - Help Guide
 ## Purpose
 The Peer Learning Exchange Program Application form is designed to collect information from individuals interested in participating in the Peer Learning Exchange Program. The program aims to connect individuals with similar interests and skills to facilitate learning and knowledge sharing.

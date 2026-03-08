@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture the necessary information from a parent to release the student's records, typically in the context of educational institutions. This form is used to collect personal and educational information about the student, including name, contact details, school affiliation, and academic level. This form is likely to be used by schools or educational institutions to manage student records and maintain accurate information.
-</thinking>
-
 # FERPA Release Form For Parents - Help Guide
 ## Purpose
 

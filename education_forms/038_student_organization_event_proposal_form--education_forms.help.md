@@ -1,14 +1,3 @@
-<thinking>
-The provided YAML input schema defines a form for proposing student organization events. The form's purpose is to gather essential information about an event, such as its name, date, location, description, type, budget, and additional details. This form likely serves as an internal process within an educational institution or organization to collect and evaluate proposals for student events. 
-
-The form has a few fields that check for relevance and non-duplication: 
-- "Event Type" and "Event Type (Other)" are two distinct fields, with "Event Type" being a select_one type field and "Event Type (Other)" being a text type field. This suggests that if the event is not one of the pre-defined types (e.g., "Yes", "No"), users should fill in "Event Type (Other)" with their specific event type.
-- "Sponsor" and "Sponsor (Other)" are also two fields with similar logic.
-- "Student Group" and "Student Group (Other)" are two fields for students who are or are not part of a group, with "Student Group (Other)" being a text type field for users to fill in their specific group name.
-- "Assigned Tool" and "Assigned Tool (Other)" are two fields that check if a specific tool is assigned to the event, with "Assigned Tool (Other)" being a text type field for users to fill in their assigned tool name.
-
-</thinking>
-
 # Student Organization Event Proposal Form - Help Guide
 ## Purpose
 The Student Organization Event Proposal Form is designed to collect and evaluate proposals for student events within an educational institution or organization. This form helps in gathering essential information about events, such as their name, date, location, description, type, budget, and additional details.

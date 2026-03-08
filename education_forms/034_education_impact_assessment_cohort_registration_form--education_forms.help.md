@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Impact Assessment Cohort Registration Form - Help Guide
 ## Purpose
 The Education Impact Assessment Cohort Registration Form is designed to gather information about a participant's education background and their registration details for a specific course or program. This form is essential for tracking the progress and outcomes of participants in the cohort.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a vehicle, specifically its make, model, year, color, registration, owner, driver, insurance, and license. The form is part of a larger process for declaring information about vehicles in a specific context, such as in a business or government setting.
-
-To avoid duplication, this form should only be used for vehicles that do not already have a declared record or have had their record updated recently.
-
-</thinking>
-
 # vehicle_declaration_form - Help Guide
 ## Purpose
 The "vehicle_declaration_form" is a form used to declare information about a vehicle. This includes its make, model, year, color, registration, owner, driver, insurance, and license.

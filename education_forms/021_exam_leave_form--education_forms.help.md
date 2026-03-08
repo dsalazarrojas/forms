@@ -1,13 +1,3 @@
-<thinking>
-
-The Exam Leave Form is a document used to record a student's reason for leaving an examination or test, along with their name and the date and time of departure. This form is designed to provide an easy and convenient way to collect information from students when they choose to leave an examination or test. Before completing this form, please ensure that you have a valid reason for leaving, as specified under the "Reason For Leaving" field. If you are unsure about your reason, you may need to consult with your supervisor or instructor.
-
-To ensure the accuracy and completeness of the data collected, please ensure that you fill in your Student Name, Reason For Leaving, Date Of Leaving, and Time Of Leaving fields accurately and thoroughly.
-
-This form is meant for individual students to provide information about their own examination leave, and it is not designed for group or class leave. If you are completing this form on behalf of others, please do not use this form. Please refer to your instructor or supervisor for further guidance.
-
-</thinking>
-
 # Exam Leave Form - Help Guide
 ## Purpose
 The Exam Leave Form is a document designed to collect information from students who choose to leave an examination or test.

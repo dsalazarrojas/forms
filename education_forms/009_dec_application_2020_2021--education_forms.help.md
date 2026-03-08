@@ -1,8 +1,3 @@
-<thinking>
-A help guide for the "dec_application_2020_2021" form is being created to assist users in understanding its purpose and completion process.
-The form's purpose is to collect personal and educational information from applicants, which will be used for [insert internal purpose here, e.g., registration, evaluation, etc.]. It is essential to fill out this form accurately and completely to ensure that the information provided is correct and up-to-date.
-</thinking>
-
 # dec_application_2020_2021 - Help Guide
 ## Purpose
 The "dec_application_2020_2021" form is designed to collect personal and educational information from applicants for [insert internal purpose here, e.g., registration, evaluation, etc.].

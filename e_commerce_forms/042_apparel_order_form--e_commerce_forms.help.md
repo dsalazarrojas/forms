@@ -1,8 +1,3 @@
-<thinking>
-We will create a help guide for end-users on how to complete the "Apparel Order Form". The purpose of this form is to enable users to submit an order for apparel items, providing details on the customer's personal information, shipping address, phone number, and order preferences such as item selection, color, size, quantity, payment method, and whether to add gift wrapping. The form is designed to gather relevant information for the order processing and shipping process. We will make sure to cover all fields and options to ensure users understand what is required and how to fill them out correctly. 
-
-</thinking>
-
 # Apparel Order Form - Help Guide
 ## Purpose
 This form is designed to help you place an order for apparel items. Please fill out the form with the required information to ensure a smooth order process.

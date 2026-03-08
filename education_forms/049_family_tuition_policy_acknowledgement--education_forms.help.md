@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Family Tuition Policy Acknowledgement form, we first need to understand the purpose of the form and ensure it's being used correctly. The form is likely used for managing student tuition policies in an educational institution. Before proceeding, we must review the form schema to identify any potential issues or duplication of effort. 
-
-The schema provided includes a mix of fields for student and parent information, tuition details, payment methods, and agreements. Each field appears to have a specific purpose, so the form is likely intended to be comprehensive in nature. However, without additional context, it's difficult to pinpoint exact use cases or potential areas of duplication. To provide a solid help guide, we'll focus on explaining each field clearly and concisely, ensuring end-users understand the form's purpose and how to complete it correctly.
-
-</thinking>
-
 # Family Tuition Policy Acknowledgement - Help Guide
 ## Purpose
 The Family Tuition Policy Acknowledgement form is used to collect essential information about a student's tuition, payment terms, and agreements. This form helps educational institutions streamline their record-keeping and ensure accurate tracking of tuition-related data.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect customer information and shipping details for an e-commerce transaction. The fields are organized into a few sections to make it easier to fill out. 
-
-To confirm, this is an AI-generated form with no affiliation or derivation from any proprietary platform, and it's released under Creative Commons BY 4.0 license. 
-
-To ensure the form meets the purpose, the following sections are included: Customer Information (page 1), Shipping Address (page 2), Shipping Method (page 3), and Shipping Details (page 4). The shipping method is a select-one type field with three choices. The other fields are text types. 
-
-Please review and validate this form to ensure it matches the desired outcome and meets the requirements. 
-
-</thinking>
-
 # Customer Checkout And Shipping Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The "Phd Admission Form" is designed to gather information from applicants interested in pursuing a Phd degree at our institution. The form is typically completed by applicants to provide the admissions committee with an overview of their academic background, research interests, and personal details. 
-Please note that this form is for internal use only, and any information provided will be treated confidentially. 
-It's essential to ensure that you're not duplicating efforts and that your application is unique, so please review the form carefully before submitting it. 
-Before starting the form, please ensure that you have the necessary information ready, such as your education history, work experience, and research interests.
-</thinking>
-
 # Phd Admission Form - Help Guide
 ## Purpose
 The "Phd Admission Form" is a document used by the admissions committee to evaluate applicants for a Phd program at our institution.

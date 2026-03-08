@@ -1,7 +1,3 @@
-<thinking>
-The Farmer Degree Application Form is designed to capture essential information from applicants seeking recognition for their farming experience or education. To ensure this form is filled out correctly, please take a moment to review this help guide.
-</thinking>
-
 # Farmer Degree Application Form - Help Guide
 ## Purpose
 The Farmer Degree Application Form is designed to help applicants provide accurate and complete information about themselves and their farming experience. This form will be used to evaluate their application for a degree in a farming-related field.

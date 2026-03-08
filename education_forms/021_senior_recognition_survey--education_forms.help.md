@@ -1,5 +1,3 @@
-<thinking>Before creating this form guide, I will review the provided YAML fields to ensure that I fully understand the purpose and requirements of the form. I will check for any potential duplication or redundancy in the form fields and make sure I'm covering all the necessary aspects for end-users to complete the form effectively. I will then create the guide, following the specified Markdown structure.</thinking>
-
 # Senior Recognition Survey - Help Guide
 ## Purpose
 This form is designed to collect information about senior achievements, recognition, and ceremony details from school staff or administrators. It will help administrators to create a comprehensive recognition program and yearbook. The form is intended to be completed by school staff or administrators to gather all the necessary information for planning and executing a senior recognition ceremony.

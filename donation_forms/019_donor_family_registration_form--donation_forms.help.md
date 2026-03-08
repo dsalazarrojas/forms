@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a donor family, including their contact details, donation history, medical information, and emergency contacts. The form is intended for use in a variety of settings, such as medical facilities, research institutions, or other organizations that need to collect and manage donor family data. To prevent duplication, this form should not be used to register a donor family that has already been registered. Please review the form carefully to ensure you have all the necessary information before submitting.
-</thinking>
-
 # Donor Family Registration Form - Help Guide
 
 ## Purpose

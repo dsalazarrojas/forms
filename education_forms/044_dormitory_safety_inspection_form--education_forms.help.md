@@ -1,7 +1,3 @@
-<thinking>
-The Dormitory Safety Inspection Form is a tool used to record the safety inspection process of a dormitory, ensuring that all necessary safety measures are taken and hazards are addressed. This form helps facility management and staff to maintain a safe living environment for residents. It is designed to be filled out by the dormitory inspector after conducting a thorough inspection of the facility. To avoid duplicating effort, please only fill out this form after inspecting the dormitory and do not reuse previously completed inspections unless instructed otherwise by facility management.
-</thinking>
-
 # Dormitory Safety Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to document the safety inspection of a dormitory, ensuring that all necessary safety measures are taken and hazards are addressed. This form helps facility management and staff to maintain a safe living environment for residents.

@@ -1,9 +1,3 @@
-<thinking>
-This form is a general-purpose online pop-up shop application form designed to collect business and product information from potential applicants. This form is likely intended for use by online business owners or managers who need to gather data from individuals interested in creating an online pop-up shop. The form collects information about the business and product details, as well as contact information from the applicant.
-To confirm, the form is not affiliated with or endorsed by any form platform, and its creation was inspired by publicly available metadata.
-Before proceeding, please review the following guide to ensure you understand the form's purpose and fields. This will help you provide accurate and relevant information.
-</thinking>
-
 # online-pop-up-shop-application-form - Help Guide
 ## Purpose
 This form is designed to collect business and product information from potential applicants for an online pop-up shop.

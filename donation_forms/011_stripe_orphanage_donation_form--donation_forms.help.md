@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their donations to the Stripe Orphanage, which is likely a charity organization focused on supporting the well-being of children. This form will be used to gather essential details such as the donation amount, payment method, contact information, and additional comments or messages. The form is designed to be flexible and allow users to choose their preferred payment method and donation type. This form is not intended to be completed by internal users, but rather by the general public who wish to contribute to the charity. It's recommended that users review the form carefully before submitting their donation to ensure all required fields are filled in correctly. If users are experiencing issues or concerns, they can contact the organization's support team for assistance. Please review the form carefully before completing it to avoid any confusion or errors.
-</thinking>
-
 # Stripe Orphanage Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their donations to the Stripe Orphanage.

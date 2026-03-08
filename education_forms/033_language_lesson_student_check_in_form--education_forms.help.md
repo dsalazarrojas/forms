@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Lesson Student Check In Form - Help Guide
 ## Purpose
 This form is used to record student attendance and other relevant information during language lessons. It helps instructors track student presence, note taking, and other important details.

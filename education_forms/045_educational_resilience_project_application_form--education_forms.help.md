@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in applying for the Educational Resilience Project, a program that aims to support and develop educational resilience in individuals. This form is used to gather contact information, academic background, and employment details to assess eligibility for the program.
-
-Before filling out this form, ensure you are eligible for the project and have not applied to it before. If you have previously applied to the project, please do not submit a new application.
-
-</thinking>
-
 # Educational Resilience Project Application Form - Help Guide
 
 ## Purpose

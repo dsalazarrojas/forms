@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # instructor_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluations about an instructor's performance, teaching effectiveness, and overall experience. This information will help to assess the instructor's strengths and areas for improvement.

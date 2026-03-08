@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to allow users to declare a name change, and provide necessary details for the change. This form should be used to update a user's information accurately and efficiently. Please ensure you have a valid reason for the name change before submitting. 
-
-</thinking>
-
 # Name Change Declaration Form - Help Guide
 ## Purpose
 The Name Change Declaration Form is a document used to update a user's name information. This form is used to submit a name change request, providing details such as the old name, new name, reason for change, and other relevant information.

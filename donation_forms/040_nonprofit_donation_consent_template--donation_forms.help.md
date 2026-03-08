@@ -1,7 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll create a user-facing help guide for the NonProfit Donation Consent Template form. I'll ensure that it's concrete, concise, and practical, covering the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-To start, let's break down the form's purpose and context:</thinking>
-
 # NonProfit Donation Consent Template - Help Guide
 ## Purpose
 This form is designed for non-profit organizations to collect consents from donors for donations. It helps non-profit organizations gather information about the donor's name, their non-profit organization, the cause they're supporting, and their contact information.

@@ -1,23 +1,3 @@
-<thinking>
-This form appears to be a comprehensive knowledge quiz on gastric physiology, covering various aspects of the gastric system, including cell structure and function, hormone production and regulation, and digestive processes such as emptying and protection mechanisms. It seems to be designed for educational purposes, perhaps for students in a biology or medical field.
-Upon reviewing the form fields, it is clear that some fields may be redundant or have unclear labels. For instance, "Gastric Emptying 2" and "Gastric Emptying" could be combined into a single field for simplicity, as they appear to be related concepts. Additionally, "Muc Prophets" seems to be a misspelled field name.
-To provide clarity, the following help guide is offered:
-# Gastric Physiology Knowledge Quiz - Help Guide
-
-## Purpose
-This quiz is designed to assess your knowledge on the gastric physiology, covering cell structure and function, hormone production and regulation, and other aspects of the digestive system.
-
-## How To Complete This Form
-1. Select the date for "Quiz Start" and "Quiz End" (if applicable) to indicate your start and end times for the quiz.
-2. For "Gastric Cells Description", "Hormones Description", and "Mucosal Protection" fields, enter a brief description of your understanding of these concepts.
-3. For "Gastric Cell Structure", select the correct options that describe the structure of gastric cells.
-4. For "Gastric Hormone Production", enter a numerical value (if applicable) or provide a brief description of your understanding.
-5. For "Gastric Hormone Regulation", enter a brief description of your understanding of hormone regulation in the gastric system.
-6. For "Mucosal Barrier" and "Gastric Protection 2", enter a brief description of your understanding of these concepts.
-7. Select the correct options for "Digestive System", "Gastric Emptying", "Gastric Emptying 2", "Muc Prophets" (please correct the spelling to "Mucosal Prophets" if necessary), and "Gastric Protection" fields.
-8. Finally, select the date for "Quiz End" (if applicable) to complete the quiz.
-</thinking>
-
 # Gastric Physiology Knowledge Quiz - Help Guide
 
 ## Purpose

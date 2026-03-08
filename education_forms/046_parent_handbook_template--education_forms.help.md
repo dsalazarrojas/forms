@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians about their child's education. This form is meant to be a template for parents to provide important details about their child, including student information, contact details, emergency contacts, and any medical notes that may be relevant to the child's education. This form may be used by educators, administrators, or administrators to gather this information for administrative purposes.
-
-Before continuing, please ensure that this form is not duplicated in your organization, and that you have the necessary permissions and approvals to use this form. If you are not affiliated with, endorsed by, or derived from any form platform, you may use this form under CC BY 4.0 license.
-
-To ensure accuracy, please review this guide carefully and use the form as instructed.
-</thinking>
-
 # Parent Handbook Template - Help Guide
 ## Purpose
 The Parent Handbook Template is a form designed to collect information from parents or guardians about their child's education. This form is meant to be a comprehensive template that gathers essential details about the child, including student information, contact details, emergency contacts, and medical notes.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to facilitate the process of mentorship pairing, a crucial component of various academic and professional settings. It is likely intended to pair individuals with suitable mentors or mentees based on their preferences and requirements. To complete this form, the user must ensure they are in a relevant context and not duplicating the process for another purpose, as it may lead to incorrect or unnecessary pairing. This form is part of a larger system, so ensuring accuracy and relevance in responses will help the system provide the best possible pairings.
-
-</thinking>
-
 # Mentorship Pairing Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to help the system find suitable mentors or mentees based on your preferences and needs. It's essential to answer the questions honestly to ensure accurate pairing.

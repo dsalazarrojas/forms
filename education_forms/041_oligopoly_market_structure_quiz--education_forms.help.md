@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the market structure of an oligopoly market, which is a type of market structure where a small number of firms have significant market power. This form will ask about the number of firms in the market, the level of entry and exit barriers, and other relevant factors.
-</thinking>
-
 # oligopoly_market_structure_quiz - Help Guide
 ## Purpose
 

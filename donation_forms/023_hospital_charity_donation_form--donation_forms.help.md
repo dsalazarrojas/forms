@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to make a donation to the hospital charity. This form will help the charity team to understand who is donating, in what amount, and how frequently they are willing to donate. The form will also help to determine the preferred method of donation and the date and time of the donation. This information will be used to manage the charity's donor database and to tailor future communication with the donors.
-Please note that this form is not for internal use only, it is also a public form meant for end-users. Therefore, it is essential to ensure that the language and structure are clear and concise.
-Before starting to fill out the form, please note that all fields are not required. You can skip any field you are not comfortable providing information for.
-</thinking>
-
 # Hospital Charity Donation Form - Help Guide
 ## Purpose
 The Hospital Charity Donation Form is a public form designed to collect information from individuals who wish to make a donation to the hospital charity. This form helps the charity team to understand donor preferences and tailor future communication.

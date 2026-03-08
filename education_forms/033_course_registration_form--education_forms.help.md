@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect information from students for course registration purposes. The form includes fields for course name, student details (name, email, phone number, address), course duration and start date, and other relevant information such as notes and multiple selection options. This form will help the students to register for the course and provide necessary details for further processing.
-The form is designed to collect the following information:
-- Course name
-- Student name
-- Student email
-- Student phone number
-- Student address
-- Course duration
-- Course start date
-- Student start date
-- Course registration fee
-- Course description
-- Option selection (multiple options available)
-- Notes for student and course
-
-Please note that some fields are not required, but it is still important to fill them in for a complete registration.
-</thinking>
-
 # Course Registration Form - Help Guide
 ## Purpose
 The Course Registration Form is designed to collect necessary information from students for course registration purposes.

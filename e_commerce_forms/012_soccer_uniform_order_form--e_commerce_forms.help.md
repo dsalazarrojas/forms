@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place orders for soccer uniforms. It is designed to collect relevant information for order fulfillment and payment processing. To ensure the form is used correctly, please verify that you're not duplicating an order or placing an order outside of your team's designated ordering period. Please refer to your team's management for further guidance on these matters.
-</thinking>
-
 # Soccer Uniform Order Form - Help Guide
 ## Purpose
 The Soccer Uniform Order Form is a simple form designed to collect information required for order fulfillment and payment processing. It is intended for customers who want to place orders for soccer uniforms.

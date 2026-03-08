@@ -1,7 +1,3 @@
-<thinking>
-To determine if a form is relevant and not a duplicate for a specific user, we would need additional information about the user's context and the form's usage. However, based on the provided YAML, we can infer that the form is likely used for assessing a user's education level, preferred counseling theories, and rating scales in a counseling context. 
-</thinking>
-
 # Counseling Theories Assessment - Help Guide
 ## Purpose
 The Counseling Theories Assessment form is designed to gather information about your education level, preferred counseling theories, and rating scales in a counseling context.

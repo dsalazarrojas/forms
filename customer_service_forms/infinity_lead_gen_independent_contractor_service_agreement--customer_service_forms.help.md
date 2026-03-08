@@ -1,14 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and not duplicating existing resources, I will review the form's purpose and content to understand its requirements.
-
-The form "Independent Contractor Service Agreement" appears to be a legally binding contract between an individual (independent contractor) and a company, establishing the terms and conditions of their business-to-business relationship. It collects essential information from the contractor, including personal details, business entity information, service capabilities, payment terms, and agreements. The form's purpose is to formalize and document the contractor's role, responsibilities, and expectations.
-
-This form is likely to be used in lead generation, customer service, or other business services industries where independent contractors are hired to perform specific tasks. The form's structure and content seem comprehensive, covering various aspects of the contractor's work, including their availability, equipment, and compliance with company policies.
-
-Before creating the help guide, I will review the form's fields to ensure I provide clear explanations and instructions for the end-users.
-
-</thinking>
-
 # (INFINITY LEAD GEN) Independent Contractor Service Agreement - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the (INFINITY LEAD GEN) Independent Contractor Service Agreement form. This form is a legally binding contract between you, the independent contractor, and your client, outlining the terms and conditions of your services.

@@ -1,7 +1,3 @@
-<thinking>
-The "Before And After School Care Information Form" is used to gather essential information from parents or guardians of children attending a before and after school care program. This form is crucial for ensuring the well-being and safety of the children, as it helps caregivers understand the child's needs, medical conditions, and emergency contact information. This information is typically used for internal purposes, such as maintaining accurate records and ensuring that each child receives the required level of care. To avoid duplication, please complete this form only once for each child.
-</thinking>
-
 # Before And After School Care Information Form - Help Guide
 ## Purpose
 The Before And After School Care Information Form is used to collect information about your child's needs, medical conditions, and emergency contact information. This information is used to ensure the well-being and safety of your child.

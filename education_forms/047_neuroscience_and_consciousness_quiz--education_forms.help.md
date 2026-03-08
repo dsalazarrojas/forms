@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the Neuroscience And Consciousness Quiz form. The form is used to collect information from learners about their experiences and perceptions in various aspects of neuroscience and consciousness. Before proceeding, please ensure that this is the correct form for your needs and that you have not completed it previously. If you have questions or concerns, please reach out to your administrator.
-
-</thinking>
-
 # Neuroscience And Consciousness Quiz - Help Guide
 ## Purpose
 The Neuroscience And Consciousness Quiz form is designed to gather data from learners about their thoughts, feelings, and experiences related to neuroscience and consciousness.

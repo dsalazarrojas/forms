@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information regarding employee leave requests. This form is used to gather details about the start and end dates of an employee's leave, the type of leave, and the reason for the leave. The form also asks for the employee's ID, name, department, and manager's email address.
-The form is designed to be completed by employees when they need to take a leave, and the information collected will be used by the management team to process and approve or deny the leave request.
-To avoid duplication of leave requests, the form can be completed only once for each leave period.
-</thinking>
-
 # Leave Request Form - Help Guide
 ## Purpose
 The Leave Request Form is used to collect information about an employee's leave request, which will be reviewed and processed by the management team.

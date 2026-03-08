@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for patients or their representatives to provide medical information related to oral surgery. The purpose of the form is to collect general information, patient details, medical history, allergies, medications, and medical conditions, presumably for the dentist or healthcare provider to review before the procedure. This form likely aims to streamline the pre-surgical process, ensuring that the patient's medical status is accurately documented. To ensure accuracy, it's essential to fill out this form carefully and without errors, as any discrepancies might affect the patient's treatment. Please review the form carefully before completion to avoid any potential issues.
-</thinking>
-
 # oral_surgery_consent_form - Help Guide
 ## Purpose
 The oral surgery consent form is designed to gather essential information from patients before an oral surgery procedure. This form is used to collect general information, patient details, medical history, allergies, medications, and medical conditions to ensure a safe and successful operation.

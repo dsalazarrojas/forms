@@ -1,12 +1,3 @@
-<thinking>
-The ferpa_notice_form form is designed to collect information related to the Ferpa (Family Educational Rights and Privacy Act) notice for students. This form is intended to be completed by students who wish to grant or deny access to their educational records to specific entities. The form has multiple pages, each with a different set of questions and options.
-
-Before proceeding, please note that this form is not applicable to all situations, and it's essential to review the form carefully to ensure it's relevant to your specific use case. Additionally, if you've already completed a similar form, please ensure that you're not duplicating effort by checking the form's purpose and fields against your previous experience.
-
-If you're unsure about any aspect of this form, please contact your supervisor or relevant authorities for guidance.
-
-</thinking>
-
 # ferpa_notice_form - Help Guide
 ## Purpose
 The ferpa_notice_form is used to collect information from students about their consent to grant or deny access to their educational records to specific entities.

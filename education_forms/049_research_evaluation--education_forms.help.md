@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form "Research Evaluation" is used correctly. The form is intended to assess the quality and validity of research conducted for business purposes or as part of academic coursework. It's essential to fill out this form accurately and completely to provide a fair and comprehensive evaluation. Please ensure that you're using this form in the context of research evaluation and not for any other purpose. Additionally, please note that some fields are mandatory, and skipping or leaving them blank might affect the accuracy of the evaluation.
-</thinking>
-
 # Research Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate research conducted for business purposes or as part of academic coursework. It helps assess the quality and validity of the research, providing a comprehensive review of the research topic, methodology, and findings.

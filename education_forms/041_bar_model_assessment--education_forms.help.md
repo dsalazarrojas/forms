@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Bar Model Assessment" form is to evaluate students' understanding and application of bar models in solving math problems. This form collects data on students' ability to create and use bar models to represent and solve word problems, specifically in the context of addition and subtraction, comparison, multi-step problems, fractions, and ratios. By analyzing the form responses, educators can assess students' understanding, identify areas where they need improvement, and provide feedback to enhance their learning experience.
-The "Bar Model Assessment" form is designed to be completed by students, and it is meant to be a self-assessment tool. This form is intended to be used as a formative assessment, not for summative evaluation.
-</thinking>
-
 # Bar Model Assessment - Help Guide
 ## Purpose
 The "Bar Model Assessment" form is a tool to evaluate students' understanding and application of bar models in solving math problems, particularly in the context of addition, subtraction, comparison, multi-step problems, fractions, and ratios.

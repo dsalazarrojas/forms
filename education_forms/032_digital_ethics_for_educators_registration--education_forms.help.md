@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration for the "digital_ethics_for_educators" program. To determine if a user needs to fill out this form, you should check if they are interested in attending the "digital_ethics_for_educators" program. If they are not interested, they should not fill out this form. To avoid duplication, you can check if the user has already filled out this form in the past or if they are already registered for this program.
-</thinking>
-
 # digital_ethics_for_educators_registration - Help Guide
 ## Purpose
 This form is for registration for the "digital_ethics_for_educators" program.

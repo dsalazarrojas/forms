@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information from patients, including demographic data, medical history, allergies, medications, and consent information. This form ensures that the dentist has a complete understanding of the patient's health status and can make informed decisions during the dental visit. To avoid duplication, this form should not be filled out by a patient who has already submitted a completed form in the past.
-</thinking>
-
 # Dental Screening Form - Help Guide
 ## Purpose
 The dental screening form is a crucial document used to collect important information about patients before any dental treatments or procedures. It helps the dentist understand the patient's medical history, allergies, and current medications to ensure safe and effective care.

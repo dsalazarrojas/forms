@@ -1,7 +1,3 @@
-<thinking>
-
-This form is used for evaluating the effectiveness and quality of historical presentations. It is intended to assess the presentation's overall score, content, structure, engagement of the audience, and other relevant aspects. The form is used by reviewers to provide feedback and suggestions to the presenter. The purpose of this form is to provide a structured and standardized way to evaluate historical presentations. Reviewers are encouraged to complete the form in a honest and thorough manner to provide valuable feedback. To prevent duplication of effort, ensure that all fields are filled out completely before submitting the form. Reviewers should also ensure that their feedback is specific and actionable, and provide clear explanations for their ratings and comments.</thinking>
-
 # Historical Presentation Evaluation Form - Help Guide
 
 ## Purpose

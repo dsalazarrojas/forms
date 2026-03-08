@@ -1,18 +1,3 @@
-<thinking>
-This form is used to collect information about a food item, its details, and the user's declaration regarding its status and category. It is intended to be completed by someone who has knowledge or insight about the food item, such as a vendor or a food safety officer. The purpose of this form is to provide a structured way of recording and verifying information about food items.
-
-When filling out this form, please ensure that you are providing accurate and truthful information. If you are unsure about any of the fields, please reach out to the relevant authorities or experts for guidance.
-
-Please note that this form does not replace the need for official documentation or certifications. It is a supplementary tool to support the collection of data and facilitate the decision-making process.
-
-When filling out this form, please follow these general guidelines:
-
-* Be clear and concise in your answers.
-* Provide supporting documentation or evidence when requested.
-* Ensure that your answers are accurate and up-to-date.
-
-</thinking>
-
 # Food Item Screening Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about a food item, its details, and the user's declaration regarding its status and category.

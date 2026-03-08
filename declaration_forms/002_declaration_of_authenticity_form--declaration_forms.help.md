@@ -1,37 +1,3 @@
-<thinking>
-This form is used to declare the authenticity of a user's identity and device information. 
-The form collects various fields to capture information about the user's identity, device, and declaration details. 
-
-The form's purpose is to obtain a signed declaration from the user, which can be used to verify their identity and device information. This process ensures that the user has indeed accessed a certain platform or application with the given device and has the necessary capabilities to do so. 
-
-Please note that the following fields are required for the form to be completed correctly: 
-* title 
-* declaration 
-* signee_information 
-* signee_title 
-* signee_relationship 
-* declaration_date 
-* declaration_time 
-* declaration_signed_by 
-* declaration_signed_ip 
-* declaration_device 
-* declaration_note 
-* form_id 
-* user_agent 
-* user_browser 
-* declaration_ip 
-* user_language 
-* operating_system 
-* user_os_version 
-* declaration_device 
-* declaration_device_type 
-* screen_resolution 
-* screen_orientation 
-* device_width 
-* device_height 
-* device_timezone_offset 
-</thinking>
-
 # Declaration Of Authenticity Form - Help Guide
 ## Purpose
 This form is used to collect information about a user's identity and device details for verification purposes.

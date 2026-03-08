@@ -1,15 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "weather_station_equipment_delivery_form", I need to consider the following points:
-
-*   The form is used for delivery purposes, and I must make it clear that its primary function is to collect information related to weather station equipment delivery.
-*   I should ensure that the form is easy to understand and complete, even for users who may not have a deep understanding of technical terminology.
-*   I'll review each field and provide explanations that are clear, concise, and practical. If any field label is weak or unclear, I'll offer a best-effort explanation without inventing unsupported business logic.
-*   The form's internal logic seems to be based on delivering weather station equipment, which might be a specific type of equipment. However, I won't assume anything about this context without further information.
-*   Given the form's structure, it seems that it may be used for both internal and external purposes, such as customer-facing or administrative tasks.
-*   I should consider the user's perspective and provide tips and recommendations that make the form completion process smooth and error-free.
-
-</thinking>
-
 # weather_station_equipment_delivery_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect data from users who are interested in upskilling their workforce in robotics. The form is likely being used by a HR department or a training manager to gather information about employees who are interested in robotics upskilling programs. The form collects contact information and status of the employee's upskilling journey.
-
-To avoid duplication, we will check if the email address and phone number entered by the user already exist in our database before accepting new submissions. If the email or phone number already exists, the user will be notified and asked to resubmit the form with a different email or phone number.
-</thinking>
-
 # Workforce Robotics Upskilling Registration Form - Help Guide
 ## Purpose
 This form is designed to register employees interested in participating in upskilling programs in robotics. It will collect information about the employee's upskilling status, contact details, and additional notes.

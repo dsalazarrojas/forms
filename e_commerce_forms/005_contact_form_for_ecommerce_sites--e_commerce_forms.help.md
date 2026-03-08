@@ -1,7 +1,3 @@
-<thinking>
-This form is used to allow customers to contact the ecommerce site with any issues or concerns they may have with their order, product, or experience with the site. This form is designed to be user-friendly and straightforward, allowing customers to easily provide relevant information for support. The goal is to ensure that customers receive a response in a timely and helpful manner. Please note that fields marked as "required" must be filled out, and customers should provide as much detail as possible to help resolve the issue efficiently.
-</thinking>
-
 # Contact Form For Ecommerce Sites - Help Guide
 
 ## Purpose

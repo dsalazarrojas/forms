@@ -1,5 +1,3 @@
-<thinking>...the form will be used for requesting a transcript of a user's academic or professional records. Before submitting, ensure you have the necessary permissions and authorization to request the transcript. If you've submitted this form previously, your request will likely be flagged for review to prevent duplicates...</thinking>
-
 # Generic Transcript Request Form - Help Guide
 ## Purpose
 The Generic Transcript Request Form is used to request a transcript of a user's academic or professional records. This form is intended for individuals who need to obtain official verification of their academic or professional credentials.

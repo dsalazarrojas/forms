@@ -1,11 +1,3 @@
-<thinking>
-
-We designed the "Civic Learning In Higher Education Registration Form" to collect information from students who are interested in participating in civic learning programs offered through their institution. This form will help the student and faculty understand the student's level of interest, academic status, and commitment to completing the civic learning program requirements. The form will guide the student through providing details about their student identity and institutional affiliation, academic standing, and motivation for participation in the civic learning program. It's essential to complete this form accurately to ensure that the student receives the correct information and guidance from the faculty.
-
-Please note that this form is a required step for students interested in participating in civic learning programs, and it's crucial to understand the form's purpose and requirements to avoid any issues or confusion during the registration process.
-
-</thinking>
-
 # Civic Learning In Higher Education Registration Form - Help Guide
 ## Purpose
 This form is used to register and collect information from students interested in participating in civic learning programs in higher education. It's essential to provide accurate information to ensure correct guidance and support from faculty members.

@@ -1,11 +1,3 @@
-<thinking>
-This is a form to create a subscription for a meal kit delivery service. The form is designed to collect user information for subscription purposes, such as name, contact details, subscription preferences, payment method, and order details. Before filling out the form, please review the following steps to ensure you have all the necessary information ready.
-
-The form is divided into two main sections: personal details and order details. Please fill out the form in this order.
-
-Please note that the form is required to be filled out entirely to process the subscription request successfully.
-</thinking>
-
 # Stripe Meal Kit Delivery Subscription Form - Help Guide
 ## Purpose
 This form is designed to create a subscription for a meal kit delivery service. It collects user information for subscription purposes, such as name, contact details, subscription preferences, payment method, and order details.

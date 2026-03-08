@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for an "expert validity survey for Chinese classifier examination r" form. This form seems to be a survey designed to collect information about expert validation for a Chinese classifier examination, likely for a certification or assessment purpose. The form likely collects personal identifiable information such as first name, last name, email, phone number, and date of birth. It also collects non-personal identifiable information such as exam type, exam center, and date and time of the exam. We will need to review the form's purpose and content to ensure that it is not a duplicate of an existing form, and that the information collected is relevant to the survey's goals.
-
-Assuming this form is not a duplicate and the purpose is valid, we will proceed with creating the guide.
-
-</thinking>
-
 # expert_validity_survey_for_chinese_classifier_examination_r - Help Guide
 ## Purpose
 The "expert validity survey for Chinese classifier examination r" form is a survey designed to collect information about expert validation for a Chinese classifier examination. It is likely used to assess the expertise and qualification of examiners or assessors in the field of Chinese classifier examination.

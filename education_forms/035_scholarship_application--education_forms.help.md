@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from students for a scholarship application. The form is intended to gather personal details, upload pictures, references, an interesting idea about the student, list of books read, essay question, and upload a signature and document (if applicable). To ensure that the form is completed correctly, please review the following instructions and guidelines.
-
-To avoid errors, double-check the form fields before submission. This includes verifying that all required fields are filled out and ensuring that uploaded files are in the correct format.
-
-The form will be reviewed and processed after submission. Please note that the review process may take some time, so please allow for a few days for the review process to complete.
-</thinking>
-
 # scholarship_application - Help Guide
 ## Purpose
 This form is used to collect information from students for a scholarship application.

@@ -1,10 +1,3 @@
-<thinking>
-This is a form designer and technical writer, creating a user-facing help guide for a "Parent Self Efficacy Survey" form.
-The form is meant to assess a parent's confidence in their ability to support their child's learning in science, technology, engineering, and math (STEM) subjects.
-This form is likely used in a educational setting to gather information about parents' self-efficacy in providing support for their child's learning.
-To ensure the form is used correctly, the help guide will clearly explain each field's purpose and requirements.
-</thinking>
-
 # Parent Self Efficacy Survey - Help Guide
 ## Purpose
 This form aims to measure a parent's confidence in their ability to support their child's learning in science, technology, engineering, and math (STEM) subjects.

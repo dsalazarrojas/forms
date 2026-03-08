@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to allow guests to RSVP (Respond to a Social Plan) for a graduation ceremony. This form is used for internal purposes to organize and manage the event. It's essential to review the form's purpose and ensure it's not completed if the user is already attending the ceremony.
-The form is used to gather information from guests about their attendance and preferences for the graduation ceremony.
-</thinking>
-
 # Graduation Ceremony RSVP Form - Help Guide
 ## Purpose
 The Graduation Ceremony RSVP Form is designed to collect information from guests about their attendance and preferences for the graduation ceremony. If you are not attending the ceremony, please do not complete this form. If you are unsure or need to check your status, contact the relevant team.

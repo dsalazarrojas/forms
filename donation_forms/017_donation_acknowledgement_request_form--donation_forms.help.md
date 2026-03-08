@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect acknowledgement and additional information about donations received by the organization. This form is part of the donation process, ensuring that all relevant details are captured and recorded accurately. Before proceeding, please ensure that you have all necessary information and permissions to complete this form. It is also important to note that this form is intended to be used in conjunction with other relevant forms and processes, to avoid duplication of effort and ensure consistent data collection.
-
-</thinking>
-
 # donation_acknowledgement_request_form - Help Guide
 ## Purpose
 This form is used to collect and record information about donations received by the organization, including details about the donor, the donation amount, frequency, date, and acknowledgement message.

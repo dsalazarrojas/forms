@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dental_treatment_informed_consent_form - Help Guide
 ## Purpose
 The dental treatment informed consent form is a document that aims to inform patients about the procedures they will undergo, potential risks and benefits, and the role of the dentist and patient in the treatment process. This form ensures that patients understand and agree to the treatment plan, including any necessary medical tests or exams, anesthesia, and aftercare instructions. It also captures emergency contact information and insurance details for billing and follow-up purposes.

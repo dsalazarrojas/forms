@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cell Function Assessment Form - Help Guide
 
 ## Purpose

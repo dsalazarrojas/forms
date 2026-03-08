@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Case-Based Discussion Assessment Form - Help Guide
 ## Purpose
 The Case-Based Discussion Assessment Form is designed to evaluate a trainee's performance during a case-based discussion. This form assesses the trainee's clinical skills, decision-making, and communication in a specific clinical case. The form helps assessors and trainees understand areas of strength and development, identify knowledge gaps, and create an action plan for further learning.

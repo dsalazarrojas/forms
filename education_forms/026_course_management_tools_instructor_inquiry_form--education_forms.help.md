@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for instructors to provide feedback and inquiry about course management tools used in their educational institutions. It collects information about the tools' effectiveness, implementation, and overall satisfaction. The form is meant to be filled out by instructors who are using or have used the course management tools in their teaching or administrative roles. This form will help the platform's development team to identify areas of improvement and make data-driven decisions for future tool development.
-</thinking>
-
 # Course Management Tools Instructor Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and inquiry from instructors about the course management tools used in their educational institutions.

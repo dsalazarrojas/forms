@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # payjunction_alumni_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donations from alumni for various purposes, allowing us to track and acknowledge their contributions to the community.

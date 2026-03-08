@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and is not submitted unnecessarily. This will prevent duplicate registrations and minimize errors. To achieve this, we'll provide clear instructions and explanations for each field.
-</thinking>
-
 # Class Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect student information for registration into a class. It is essential to fill out this form accurately and thoroughly to ensure that your registration is processed correctly.

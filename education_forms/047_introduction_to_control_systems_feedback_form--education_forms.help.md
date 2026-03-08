@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from students or participants about the Introduction to Control Systems course or seminar they have recently attended. The purpose of this form is to understand their experience and opinions about the course content, instructor, and overall quality of the course. This form is not designed to be completed by instructors or staff members, so please only fill out this form if you are a participant in the course.
-</thinking>
-
 # Introduction To Control Systems Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about the Introduction to Control Systems course or seminar they have attended.

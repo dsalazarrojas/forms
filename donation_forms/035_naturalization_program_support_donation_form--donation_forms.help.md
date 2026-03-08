@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this form is used correctly and effectively, the following internal reasoning should be applied:
 
 *   Ensure that this form is used for its intended purpose (donations for naturalization program).

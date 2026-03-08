@@ -1,7 +1,3 @@
-<thinking>
-This form was created using publicly available information from various sources, specifically designed for tutoring purposes. To ensure that your form submission is processed correctly, make sure to complete the form accurately and thoroughly. This guide will walk you through each field, helping you understand what information is required and how to fill it out correctly.
-</thinking>
-
 # Tutoring Contract - Help Guide
 ## Purpose
 The purpose of this form is to gather information from both clients and tutors to create a comprehensive tutoring contract that outlines the terms and conditions of the tutoring sessions.

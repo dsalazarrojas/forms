@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from project proposers about their program proposals. This form is used to gather data on the project's title, description, type, budget, start and end dates, expected outcomes and impact, target audience, evaluation criteria, submission date, contact email, contact phone number, and the current status of the form. To ensure consistency and accuracy, we check for non-duplication of submitted forms. The form has multiple sections and fields, each with its own purpose and requirements. Please note that all fields are required and must be filled accurately.
-</thinking>
-
 # Program Proposal Form - Help Guide
 ## Purpose
 This form is used to collect information from project proposers about their program proposals.

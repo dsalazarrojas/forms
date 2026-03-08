@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are applying for an audition at a school. It is intended for students who wish to participate in a school's audition process, and it will help the school's admissions team evaluate applicants' qualifications and schedules. 
-Before filling out this form, please ensure that you are not a repeat applicant. If you have already submitted an application, do not fill out this form again. 
-This form has several sections, each with its own fields that need to be filled out. Please make sure to fill out each section completely and accurately.
-</thinking>
-
 # School Audition Application Form - Help Guide
 ## Purpose
 The School Audition Application Form is designed to collect information from individuals who are applying for an audition at a school. It helps the school's admissions team evaluate applicants' qualifications and schedules.

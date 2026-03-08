@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for individuals or organizations seeking to apply for a delegate position at a convention. The purpose of this form is to gather necessary information to evaluate and consider applications. Please ensure that the information provided is accurate and relevant, as it will be used for internal evaluation purposes.
-
-Before starting, please note that some fields are marked as "required" which means that they must be filled out to successfully submit the form. Additionally, some fields have specific formats or options, so please follow the guidelines provided for each field to ensure accurate and correct input.
-
-To prevent duplication of effort, please do not submit multiple applications for the same convention or delegate position. If you have any questions or concerns, please reach out to us directly.
-
-</thinking>
-
 # Delegate Application Form - Help Guide
 ## Purpose
 This form is designed for individuals or organizations to apply for a delegate position at a convention. It is used to gather necessary information to evaluate and consider applications.

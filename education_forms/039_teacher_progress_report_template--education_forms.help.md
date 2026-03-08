@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from teachers about the progress and conduct of their students. The purpose of this form is to facilitate communication between teachers and administrators about a student's overall performance, progress, and any incidents of misconduct. This form should be completed by teachers to provide a comprehensive and accurate report about each student in their care.
-
-Before proceeding, ensure that the form is being used for the intended purpose and is not a duplicate effort. Please review the form carefully and only use it for the specified student.
-
-</thinking>
-
 # Teacher Progress Report Template - Help Guide
 ## Purpose
 This form is used to collect information from teachers about the progress and conduct of their students, facilitating communication between teachers and administrators.

@@ -1,14 +1,3 @@
-<thinking>
-To begin with, let me think through the purpose and relevance of this form.
-
-This form appears to be a "Student Support Checklist Form" used to collect information and track the support level and needs of students. It seems to be used to identify students who require assistance and to plan the next steps for their support.
-
-Looking through the fields, I notice that it captures essential details such as student contact information (ID, name, email, and phone), birthdate, and support levels (from student and staff perspectives). Additionally, it has sections for tracking follow-ups, frequency, location, mode, and next actions. It also includes fields for staff comments, follow-up notes, and follow-up actions.
-
-However, I do not see any indication that this form is used for a specific school or institution, so I will assume it is a general-purpose form. I will also assume that the "staff" mentioned in the form refers to school staff or support workers.
-
-</thinking>
-
 # Student Support Checklist Form - Help Guide
 ## Purpose
 The Student Support Checklist Form is a tool used to gather essential information about a student's support level and needs to plan the next steps for their support.

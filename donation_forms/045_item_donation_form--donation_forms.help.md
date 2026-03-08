@@ -1,7 +1,3 @@
-<thinking>
-The form "Item Donation Form" is likely used for collecting information about items being donated to an organization, charity, or other entity. The purpose of the form is to gather relevant details such as user information, item details, and donation specifics. This form might be used in various contexts, such as fundraising campaigns, charity events, or inventory management systems. To ensure the form's purpose aligns with your specific use case, consider reviewing the form fields and their corresponding hints to confirm their relevance. It's also a good idea to double-check that this form doesn't duplicate any existing forms with similar purposes.
-</thinking>
-
 # Item Donation Form - Help Guide
 ## Purpose
 The "Item Donation Form" is used to collect information about items being donated to an organization, charity, or other entity.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about student superlatives for the Yearbook 2019. Please note that this form is used to gather data about students who have been recognized for their outstanding achievements in various categories. It is essential to ensure that the data provided is accurate and consistent with the actual information on file. To avoid errors, please double-check your responses and ensure that you are filling in the correct categories.
-</thinking>
-
 # Yearbook Student Superlatives 2019 - Help Guide
 ## Purpose
 The purpose of this form is to gather information about student superlatives for the Yearbook 2019.

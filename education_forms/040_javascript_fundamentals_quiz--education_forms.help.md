@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a 25-question quiz on JavaScript fundamentals, designed to test knowledge and understanding of basic programming concepts in JavaScript. It assesses the user's ability to write and interpret simple code, solve basic math problems, and understand the order of operations. The form's questions cover a range of topics, including variables, operators, and control structures. To complete the form, users will need to write short code snippets and select the correct output or variable values from multiple-choice options.
-
-The form does not collect any personally identifiable information, and all answers are anonymous. However, please note that some questions may have multiple answers or require creative thinking, which may lead to inconsistent answers.
-
-Before starting the quiz, please review each question carefully to ensure you understand what is being asked. You can ask for help if you need clarification on any question.
-
-</thinking>
-
 # JavaScript Fundamentals Quiz - Help Guide
 ## Purpose
 The JavaScript Fundamentals Quiz is a 25-question multiple-choice quiz designed to test your knowledge and understanding of basic programming concepts in JavaScript. The quiz covers topics such as variables, operators, and control structures, and is intended to help you improve your programming skills.

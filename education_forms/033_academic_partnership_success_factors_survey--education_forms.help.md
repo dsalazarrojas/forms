@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about partnerships between institutions and organizations. The purpose of this form is to gather insights into the success factors, challenges, and potential areas for improvement in existing or potential partnerships. This information will be used to better understand the dynamics of academic partnerships and identify best practices for future collaborations.
-
-Before starting, please note that this form is intended for institutional partners, such as universities, industries, non-profits, and government organizations. The information collected will be used internally to improve our understanding of partnerships and inform future partnership development.
-
-Please ensure you only submit information relevant to your organization's current or past partnerships, and avoid duplicating existing responses. If you're unsure about any field or have questions, please contact us for clarification.
-</thinking>
-
 # Academic Partnership Success Factors Survey - Help Guide
 ## Purpose
 The Academic Partnership Success Factors Survey is designed to gather information about your institution's partnerships, focusing on key success factors, challenges, and potential areas for improvement. This survey aims to understand the dynamics of your partnerships and identify best practices for future collaborations.

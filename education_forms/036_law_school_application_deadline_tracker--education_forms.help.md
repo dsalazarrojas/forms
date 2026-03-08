@@ -1,10 +1,3 @@
-<thinking>
-**Internal Note:**
-The Law School Application Deadline Tracker form is designed to help track and monitor the status of law school applications. This form is used by users to record the application status, submitted materials, and other relevant details associated with each law school applicant. 
-
-The form should only be filled out for each individual application, not for multiple applications at once. 
-
-</thinking>
 # Law School Application Deadline Tracker - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Warning Form - Help Guide
 
 ## Purpose

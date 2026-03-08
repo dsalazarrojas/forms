@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the submission of requests for music program equipment, such as instruments, educational materials, and other resources. It's used by schools to provide information about their music programs and the equipment they need to enhance their music education offerings. The form is meant for school administrators, music directors, or other authorized representatives to submit their equipment requests. This form is not intended for personal or individual music-related transactions.
-</thinking>
-
 # music_program_equipment_fund_donation_form - Help Guide
 ## Purpose
 

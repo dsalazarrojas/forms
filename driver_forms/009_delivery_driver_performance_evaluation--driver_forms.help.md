@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to evaluate the performance of a delivery driver, providing a platform to gather specific details about their shift, route, and overall performance. It is likely used for quality control, performance management, or operational analysis within a delivery service company. This form might be part of a more comprehensive system for tracking and improving delivery services, ensuring that drivers receive fair ratings based on their performance, which could influence promotions, bonuses, or other benefits. Before proceeding, review the fields and determine if you need to fill them out based on your role and responsibilities within the organization. If you're not sure which fields are necessary for your role, you may wish to consult with your supervisor or relevant team members.</thinking>
-
 # Delivery Driver Performance Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the performance of a delivery driver, including their shift details, route information, and overall efficiency.

@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to collect information from natural persons declaring their identity and other relevant details for FICA (Federal Insurance Contributions Act) purposes. The form helps to gather data on individual's first name, last name, birth date, and Social Security number. This information is essential for various administrative and legal procedures. To confirm, this form is part of a larger process, and the data collected here will be used in conjunction with other forms and information sources. Please ensure that you are filling out this form accurately and completely, as any errors or omissions may lead to delays or complications in the process...</thinking>
-
 # Natural Person FICA Declaration Soukop - Help Guide
 ## Purpose
 The Natural Person FICA Declaration Soukop form is used to collect identity and demographic information from natural persons, specifically for FICA declaration purposes. This form will help you provide the necessary data required for administrative and legal procedures.

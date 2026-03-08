@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Immigration Declaration Form - Help Guide
 
 ## Purpose

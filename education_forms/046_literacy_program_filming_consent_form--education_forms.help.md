@@ -1,13 +1,3 @@
-<thinking>
-
-The form's purpose is to collect consent information from participants in a Literacy Program filming project, likely for documentary or media purposes. The form ensures that participants are aware of and agree to the recording and potential use of their likeness, voice, or other personal data.
-
-This form is likely used in an educational context, specifically a literacy program, which could be part of an academic, non-profit, or community organization. The form is designed to protect the rights and interests of participants while allowing the filming project to capture valuable content.
-
-To prevent duplication, it's essential to ensure that participants are not asked to sign the form multiple times, and that their consent is properly documented and stored for future reference.
-
-</thinking>
-
 # Literacy Program Filming Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent information from participants in a Literacy Program filming project. It ensures that participants are aware of and agree to the recording and potential use of their likeness, voice, or other personal data.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for organizations or individuals to provide sponsorship support to the Academic Decathlon initiative. The form is used to collect necessary information for sponsorship purposes, including the sponsor's name, contact information, sponsorship level, pledged amount, recognition preferences, payment method, and billing address. This form helps the Academic Decathlon team to efficiently process and acknowledge sponsorships. **Note to the user:** Please fill out this form accurately and completely to ensure prompt processing of your sponsorship. If you are unsure about any field, please contact us for clarification.
-
-</thinking>
-
 # Academic Decathlon Sponsorship Form - Help Guide
 ## Purpose
 The Academic Decathlon Sponsorship Form is used to provide sponsorship support to our initiative. This form helps us understand your sponsorship needs and preferences, ensuring efficient processing and communication.

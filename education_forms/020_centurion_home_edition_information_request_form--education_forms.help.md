@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Centurion Home Edition Information Request Form - Help Guide
 
 ## Purpose

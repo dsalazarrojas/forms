@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess a student's phonological awareness, which is the ability to identify and manipulate sounds in words. This form is designed to test a student's understanding of syllable patterns and word structures. By completing this form, the student will demonstrate their ability to recognize and manipulate words with different syllable patterns, such as word order, syllable count, and word fragments.
-
-Before starting, it's essential to ensure that this form is being used for its intended purpose and not for any other task. This form should not be used for purposes other than assessing phonological awareness in students.
-
-</thinking>
-
 # Phonological Awareness Assessment - Help Guide
 ## Purpose
 The Phonological Awareness Assessment is a tool to evaluate a student's ability to identify and manipulate sounds in words, specifically their understanding of syllable patterns and word structures.

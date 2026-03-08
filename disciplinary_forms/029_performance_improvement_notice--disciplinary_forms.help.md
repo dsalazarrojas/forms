@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Improvement Notice - Help Guide
 ## Purpose
 This form is used to document and address performance issues with employees, ensuring clear communication and prompt corrective action. It is essential for identifying areas of improvement and implementing necessary changes to enhance job performance.

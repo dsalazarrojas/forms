@@ -1,8 +1,3 @@
-<thinking>...
-To prevent data duplication, this form is not designed for repeat usage. It is meant to capture a single response from an attendee for a specific event. The purpose of this form is to collect attendee details for a healthcare conference. The form will be completed by the attendee themselves or on their behalf by their representative.
-...
-</thinking>
-
 # Healthcare Conference Registration Form - Help Guide
 ## Purpose
 This form is designed to collect attendee details for a healthcare conference. It is a one-time registration form and is not intended for repeat usage.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect entries for a student photo contest. The form aims to gather information from students who would like to participate in a photography contest, including their name, email, and details about their photo submission such as title, description, and categories. This form is designed to be completed by students who are interested in showcasing their photographic work.
-
-To ensure this form is only used as intended, it's essential to review the fields to avoid duplication or misinterpretation of the data that will be collected. This form should only be used for the purpose of collecting entries for a student photo contest and not for any other purpose.
-
-</thinking>
-
 # Student Photo Contest Entry Form - Help Guide
 ## Purpose
 The Student Photo Contest Entry Form is designed to collect entries from students who would like to participate in a photography contest. The form is meant to gather relevant information about each submission, such as name, email, photo title, description, categories, and more.

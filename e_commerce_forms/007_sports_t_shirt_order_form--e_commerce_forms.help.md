@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to order sports T-shirts. The form allows users to provide order information, shipping details, order items, team information, billing information, and confirm their order. The purpose of this form is to streamline the process of making a purchase, making sure that the customer's order is accurate and complete.
-</thinking>
-
 # Sports T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order sports T-shirts with ease.

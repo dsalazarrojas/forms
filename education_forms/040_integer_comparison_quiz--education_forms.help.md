@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a multiple-choice quiz that asks users to compare integers in various ways. The form is intended for users to answer questions about comparing numbers, such as "which number is greater" or "which number is smaller". The questions are designed to be straightforward and not overly complicated. The form does not collect sensitive or personally identifiable information, and users are expected to answer questions in a honest and sincere manner.
-</thinking>
-
 # Integer Comparison Quiz - Help Guide
 ## Purpose
 The Integer Comparison Quiz is designed to evaluate your ability to compare integers in different scenarios.

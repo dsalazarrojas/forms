@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to a simple calculation form where users need to input a mass and velocity to calculate some kind of kinetic energy. I can infer that the form is used in a physics or engineering context to calculate the kinetic energy of an object given its mass and velocity. However, I don't see any additional fields for other variables like force or acceleration that might be relevant to kinetic energy calculation. It's also worth noting that the form is not asking for the unit of mass or velocity, but it's likely that these units are assumed to be in standard international units (kilograms and meters per second).
-</thinking>
-
 # Kinetic Energy Calculation Form - Help Guide
 ## Purpose
 This form is designed to calculate the kinetic energy of an object given its mass and velocity. The form is intended to be used in a physics or engineering context to quickly calculate the kinetic energy of an object in motion.

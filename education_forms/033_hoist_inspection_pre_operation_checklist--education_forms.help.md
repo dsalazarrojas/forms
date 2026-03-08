@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm the purpose and relevance of this form before creating a user-facing help guide. This form, "Hoist Inspection Pre Operation Checklist," seems to be designed for inspecting cranes before operations, ensuring their readiness and safety. The form is likely used by crane operators and supervisors to assess the status of cranes and identify potential issues. However, we must verify that it's not a duplicate or unnecessary form. Assuming it's a valid use case, we'll proceed with creating a user-facing help guide.
-</thinking>
-
 # Hoist Inspection Pre Operation Checklist - Help Guide
 ## Purpose
 The Hoist Inspection Pre Operation Checklist is a form designed to help crane operators and supervisors inspect cranes before operation to ensure they are in good working condition and safe for use.

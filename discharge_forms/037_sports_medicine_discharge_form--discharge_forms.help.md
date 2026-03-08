@@ -1,10 +1,3 @@
-<thinking>
-We have to create a user-facing help guide for the Sports Medicine Discharge Form. The form is used for recording the details of a patient's sports medicine visit, including general information, return to activity instructions, physical status, treatment plan, medication, discharge instructions, follow-up appointments, patient information, medical notes, athletic injury report, other injury report, medical history, concussion protocol, injury type, symptoms, treatment location, provider signature, staff signature, and patient signature. This guide will help ensure that users understand the purpose and requirements of the form. It is essential to complete the form accurately and efficiently, and this guide will provide detailed explanations for each field to minimize errors and confusion.
-
-To prevent duplication and ensure accuracy, it is crucial to verify the patient's information and medical history before completing the form. Please review the patient's chart and medical history before starting the discharge form. If the patient's chart is not available or up-to-date, please contact the patient's primary care physician or the medical record department for assistance.
-
-Please note that some fields may require additional information or clarification from the patient or other healthcare providers. As a healthcare professional, it is essential to ensure the accuracy and completeness of the information collected in this form to provide the best possible care for the patient.</thinking>
-
 # Sports Medicine Discharge Form - Help Guide
 ## Purpose
 The Sports Medicine Discharge Form is used to document the details of a patient's sports medicine visit, including their general information, physical status, treatment plan, and discharge instructions.

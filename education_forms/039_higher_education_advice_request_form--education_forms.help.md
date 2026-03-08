@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from students seeking advice on higher education options. It is meant to be filled out by students who are looking for guidance on choosing a college or university, including information about their academic performance, college search preferences, and any special circumstances that may affect their college search. 
-
-Before filling out this form, please make sure you have not previously submitted this form as duplicate submissions will not be reviewed. 
-
-Please ensure that the information you provide is accurate and up-to-date. 
-
-This form will ask you a series of questions about your academic performance, college search preferences, and any special circumstances that may affect your college search. Please answer these questions as thoroughly as possible to provide the most accurate information. 
-
-If you have any questions or need help filling out this form, please do not hesitate to reach out to us. 
-
-</thinking>
-
 # higher_education_advice_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students seeking advice on higher education options.

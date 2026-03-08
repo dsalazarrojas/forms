@@ -1,7 +1,3 @@
-<thinking>
-The Education Content Distribution Request Form is designed to gather information from schools and educators to request educational content (books, articles, videos, documents, etc.) for use in their educational institutions. Before submitting this form, please ensure that you have not already made a request for the same content. This form helps streamline the process of requesting educational content and ensures that your needs are met in a timely and efficient manner. Please review the fields below to ensure you have the necessary information ready for submission.
-</thinking>
-
 # Education Content Distribution Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request educational content for distribution to schools and educational institutions.

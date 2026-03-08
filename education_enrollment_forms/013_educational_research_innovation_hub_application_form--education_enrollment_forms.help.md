@@ -1,13 +1,3 @@
-<thinking>By analyzing this YAML form structure, I will create a user-facing help guide for the "Educational Research Innovation Hub Application Form". This form is designed to collect data from applicants for research funding. I need to provide a clear and concise guide for users to understand the form's purpose, how to complete it, and what each field means.
-
-The form's purpose is to collect information about proposed research projects, their funding, and relevant institutional details. By completing this form, applicants aim to apply for funding from the Educational Research Innovation Hub.
-
-The form is divided into multiple sections, each focusing on a different aspect of the research project: contact details, research project description, funding, institutional information, and submission details.
-
-Before starting, let's check if this form is relevant to your research project. Ensure that your project fits within the Hub's focus areas and that you have all the required information at hand.
-
-</thinking>
-
 # Educational Research Innovation Hub Application Form - Help Guide
 ## Purpose
 This form is designed to help applicants apply for funding from the Educational Research Innovation Hub. It collects information about proposed research projects, their funding, and relevant institutional details.

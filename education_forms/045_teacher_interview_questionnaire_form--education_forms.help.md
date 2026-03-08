@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you fill out the **Teacher Interview Questionnaire Form**.
-This form collects information about your contact details, teaching experience, and availability for teaching positions.
-Please ensure you have a valid reason for filling out this form and that this information is not already on file. If you have filled out this form before, you may not need to fill it out again as the information may still be active. Please check the system before proceeding.
-
-</thinking>
-
 # Teacher Interview Questionnaire Form - Help Guide
 ## Purpose
 

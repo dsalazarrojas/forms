@@ -1,8 +1,4 @@
-> <thinking>
-The form "Daily Food Log" is designed to track an individual's daily food intake and associated metrics such as nutrients and weight. This form is intended to collect data for monitoring and analyzing an individual's dietary habits. It's essential to fill out this form accurately to get a comprehensive picture of your daily food consumption and weight status.
-</thinking>
-
-# Daily Food Log - Help Guide
+> # Daily Food Log - Help Guide
 ## Purpose
 The "Daily Food Log" form is designed to track your daily food intake, including the amount consumed and the nutrients present in each food item. This form helps you monitor your dietary habits and makes it easier to track your progress.
 

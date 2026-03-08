@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about education support grant applications from applicants. It is designed to gather details about the applicant's education history, institution, and support grant requirements. This form should only be completed by eligible applicants who are seeking education support grants. Please do not complete this form if you are not an authorized representative of an eligible applicant. 
-</thinking>
-
 # education_support_grant_application_form - Help Guide
 ## Purpose
 This form is used to collect information about education support grant applications.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from students about their personal details, learning style, and goals at the beginning of the school year. It aims to help teachers get to know their students better and tailor their teaching approach to the students' needs. Please note that this form is an original adaptation and not a copy of any existing form. The information gathered will help teachers create a positive and inclusive classroom environment.
-
-To ensure you have the best experience, please do not share your personal information with anyone else. This form will only be used for the purpose of getting to know you better.
-</thinking>
-
 # Beginning Of The Year Student Questionnaire - Help Guide
 ## Purpose
 This form is designed to help teachers get to know their students better at the beginning of the school year. It will help teachers tailor their teaching approach to the students' needs and create a positive and inclusive classroom environment.

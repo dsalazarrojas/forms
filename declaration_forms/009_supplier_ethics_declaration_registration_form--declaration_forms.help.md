@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from suppliers about their ethics declaration registration. It is crucial for suppliers to provide accurate and complete information to ensure their declaration is valid and compliant with regulatory requirements. Please review the form carefully to avoid any errors or discrepancies.
-
-Before proceeding, please note that this form is designed to collect general information and is not intended for submission of sensitive or confidential data.
-
-</thinking>
-
 # Supplier Ethics Declaration Registration Form - Help Guide
 ## Purpose
 The Supplier Ethics Declaration Registration Form is designed to gather information from suppliers about their ethics declaration registration. This form is a mandatory requirement for suppliers to ensure compliance with regulatory requirements.

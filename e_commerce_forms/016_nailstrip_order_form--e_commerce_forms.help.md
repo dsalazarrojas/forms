@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers to place an order for a nailstrip product or service. The purpose of this form is to gather essential details about the customer, including their name, contact information, order details, and product preferences. To avoid duplication, customers are not allowed to submit an order if they have already placed one for the same product.
-
-</thinking>
-
 # Nailstrip Order Form - Help Guide
 ## Purpose
 The Nailstrip Order Form is a crucial tool for customers to place their orders for nailstrip products or services. By providing the necessary information, customers can ensure that their orders are processed efficiently and accurately.

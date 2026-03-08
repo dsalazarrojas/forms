@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help students transfer between institutions. It captures basic information about the student and the reason for the transfer. The form will likely be used by students, staff, or administrators in the education sector. To prevent non-duplication, this form should be used for new student transfers only, and not for revisions or updates to existing student records. Please ensure the form is used accurately and consistently.
-</thinking>
-
 # Student Transfer Application Form - Help Guide
 ## Purpose
 This guide is intended to assist students, staff, and administrators in completing the Student Transfer Application Form. The form is used to capture information about a student's transfer between institutions.

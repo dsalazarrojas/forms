@@ -1,14 +1,3 @@
-<thinking>
-The ICU Discharge Form is a critical document used to document the details of a patient's stay in the Intensive Care Unit (ICU). It is used to ensure a smooth and safe transition of care for the patient as they prepare for discharge. Completing this form accurately and thoroughly is essential for maintaining patient care continuity. 
-
-This form is not a survey but a practical tool designed to collect essential information about the patient. Please do not use it for any other purpose.
-
-The ICU Discharge Form was created using an AI algorithm based on public metadata about survey topics related to ICU discharges. It is not affiliated with, endorsed by, or derived from any form platform, ensuring that it is an original adaptation.
-
-The form can be completed by anyone who is familiar with the patient's information and the discharge procedures. Please ensure that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # ICU Discharge Form - Help Guide
 ## Purpose
 This form is used to document the details of a patient's stay in the Intensive Care Unit (ICU), ensuring a smooth and safe transition of care for the patient as they prepare for discharge.

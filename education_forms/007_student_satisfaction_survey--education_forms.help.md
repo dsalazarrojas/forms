@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and fields are clear and well-defined to prevent confusion and duplication of efforts. This form is for "Student Satisfaction Survey" and its purpose is to gauge student satisfaction with a particular program, course, or service. It should only be used for its intended purpose and not for other uses such as collecting demographic information or tracking progress.
-
-To prevent duplication of efforts, we should check if a similar form or survey has already been created in the past and used for similar purposes.
-
-</thinking>
-
 # Student Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students on their satisfaction with a particular program, course, or service. This will help us understand their experiences, identify areas of improvement, and make informed decisions for future development and improvement.

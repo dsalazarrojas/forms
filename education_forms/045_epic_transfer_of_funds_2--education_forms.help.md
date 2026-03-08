@@ -1,6 +1,3 @@
-<thinking> 
-The "epic_transfer_of_funds_2" form appears to be a multi-page form for collecting various pieces of information related to an epic transfer of funds process. This form is likely part of an automated workflow or process for handling financial transactions. Each section of the form seems to be designed to capture specific details such as multiple selection options, single selections, dates, times, numbers, and text inputs. It's possible that this form is used in an educational or training context to simulate real-world scenarios or to collect feedback from users. However, without further context, it's difficult to determine the exact purpose of this form. It's also worth noting that the form has many duplicate fields (e.g., sections 11, 14, and 18, 20, 21, and 25 all have the same type and label as section 10, and similarly for other sections). This duplication may be due to an error in the provided YAML or may indicate that some fields are unnecessary or redundant. Further investigation into the form's purpose and design is needed to determine the best way to proceed with creating a user-facing help guide.</thinking>
-
 # epic_transfer_of_funds_2 - Help Guide
 ## Purpose
 The "epic_transfer_of_funds_2" form is a multi-page form used for collecting information related to an epic transfer of funds process.

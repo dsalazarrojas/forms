@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from independent contractors, specifically for their declaration purposes. It's crucial that this form is used for its intended purpose and not for other use cases. Please make sure to review the form carefully before proceeding. 
-
-This guide will walk you through the fields required and their explanations to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # independent_contractor_declaration_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from independent contractors for their declaration purposes. It's a crucial document that needs to be filled out accurately and thoroughly.

@@ -1,7 +1,3 @@
-<thinking>
-The "water_treatment_equipment_order_form" is designed to collect customer information and order details for water treatment equipment. It's essential to fill out this form accurately to ensure timely and correct delivery of ordered products. Please make sure you're filling out the correct form and provide all required information to avoid any delays in the order process.
-</thinking>
-
 # water_treatment_equipment_order_form - Help Guide
 ## Purpose
 The "water_treatment_equipment_order_form" is used to collect customer information and order details for water treatment equipment. This form helps us to process your order efficiently and ensure timely delivery of the ordered products.

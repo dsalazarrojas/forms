@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to collect feedback and preferences from junior high students about their electives, including whether they have taken specific past courses and if they have any special requests or preferences for electives. The form should be completed by students to provide information about their electives experience. 
-
-Before filling out this form, please ensure that you have not already completed this survey. Duplicating surveys can cause confusion and affect the accuracy of the data collected. 
-
-</thinking>
-
 # Junior High Electives Survey - Help Guide
 ## Purpose
 The Junior High Electives Survey is a form designed to collect feedback and preferences from junior high students about their electives experience. This information will help educators and administrators make informed decisions about electives offerings and improve the electives program. 

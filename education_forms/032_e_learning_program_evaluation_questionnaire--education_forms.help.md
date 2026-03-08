@@ -1,13 +1,3 @@
-<thinking>
-We are creating a form for evaluating an E-learning program. The form will gather feedback from participants on various aspects of the program, including participant name, course title, format, satisfaction, relevance, content, instructor quality, support availability, course organization, navigation, additional feedback, participant feedback, participant satisfaction, recommendation, instructor rating, overall rating, program improvement, and participant comments. To ensure the form is completed accurately, we need to provide clear instructions on how to fill it out.
-
-The form is designed to be completed by program participants, and the feedback collected will be used to identify areas of improvement and strengths of the program.
-
-Before starting, please ensure that you are a genuine participant of the E-learning program and that you are completing this form for the purpose of providing feedback.
-
-This form should not be used for any other purpose than providing feedback on the E-learning program.
-</thinking>
-
 # E Learning Program Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from E-learning program participants to help us improve the program's quality and effectiveness.

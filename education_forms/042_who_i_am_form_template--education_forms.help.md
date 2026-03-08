@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information about a person's background, interests, skills, and career goals. The form is meant to be a starting point for users to provide a brief description of themselves. The form's design is based on public survey topic metadata and is not affiliated with any form platform. The form is released under a Creative Commons license, allowing users to modify and use it for their own purposes.
-</thinking>
-
 # Who I Am Form Template - Help Guide
 ## Purpose
 The "Who I Am Form Template" is a general information collection form designed to gather details about a person's background, interests, skills, and career goals. This form is meant to be a starting point for users to provide a brief description of themselves.

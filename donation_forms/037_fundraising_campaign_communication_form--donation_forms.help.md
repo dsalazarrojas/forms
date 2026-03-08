@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for fundraising campaigns, including campaign details, contact information, and communication preferences. This form ensures that the user's data is consistent and accurate, reducing the need for follow-up questions and improving the overall communication process.
-To determine whether this form should be completed, check the "follow_up" field in the "communication_preferences" field. If the answer is "Yes", it indicates that the follow-up is necessary.
-To ensure that this form is not duplicated, check the "donation_details" field in the "donation_details" field. If the answer is "No", it indicates that the donation details have already been recorded.
-</thinking>
-
 # Fundraising Campaign Communication Form - Help Guide
 ## Purpose
 The fundraising campaign communication form is used to collect information from users for the purpose of fundraising campaigns. This form captures the user's details, contact information, and preferences for communication.

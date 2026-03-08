@@ -1,7 +1,3 @@
-<thinking>
-This guide is meant to be a reference for users who have been asked to fill out the University Admissions Process Survey form. This form is meant to gather information about the university admissions process, which can be helpful for understanding the process better. The purpose of the form is to collect relevant data that can be used to improve the admissions process and enhance user experience.
-</thinking>
-
 # University Admissions Process Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the university admissions process. It is meant to gather data that can help us improve the process and provide a better experience for users.

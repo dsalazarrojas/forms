@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow educators to upload course materials, such as course descriptions, tags, and files, for review and approval. This form is intended to be used by educators who wish to upload their course materials to the system for further processing.
-
-To ensure that each course material is properly reviewed, we check for duplicate submissions based on a unique combination of fields. This means that if you attempt to upload a course material with the same combination of fields as a previously submitted material, it will not be accepted.
-
-</thinking>
-
 # Educator Course Material Upload Form - Help Guide
 ## Purpose
 The Educator Course Material Upload Form is a tool for educators to upload course materials to the system for review and approval. This form allows you to upload multiple course materials at once, including course descriptions, tags, and files.

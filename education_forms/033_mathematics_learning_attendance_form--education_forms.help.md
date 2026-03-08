@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording attendance and tracking the status of mathematics learning sessions. It captures information about the session's status (Active or Inactive), the number of students attending, comments, and other relevant details to facilitate follow-up actions and teacher feedback. To avoid confusion, please ensure you're filling out the form for the correct session ID.
-</thinking>
-
 # Mathematics Learning Attendance Form - Help Guide
 ## Purpose
 The Mathematics Learning Attendance Form is designed to record and track the attendance of students in mathematics sessions, as well as provide a means for instructors to leave comments and updates on session status.

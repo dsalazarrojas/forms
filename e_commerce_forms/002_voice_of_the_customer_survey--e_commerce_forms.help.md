@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voice Of The Customer Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Air Currents Knowledge Quiz," is designed to test a user's knowledge of basic meteorological phenomena, specifically air currents and winds. The quiz covers a range of topics, including convection, jet streams, the Coriolis effect, sea breeze, trade winds, pressure, wind speed, and global circulation models. The form consists of 8 questions that require the user to select the most accurate answer from a list of options. The form is meant to be completed by students, researchers, or anyone interested in meteorology and air current knowledge.
-
-</thinking>
-
 # Air Currents Knowledge Quiz - Help Guide
 ## Purpose
 The Air Currents Knowledge Quiz is designed to test your knowledge of basic meteorological phenomena related to air currents and winds.

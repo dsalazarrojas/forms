@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from users interested in conducting research with our institution. The form is used to guide users through the application process, ensuring that all necessary details are provided to facilitate a smooth review and approval process. It is recommended that users only complete this form if they have a genuine interest in conducting research with our institution. Duplicate applications will not be processed.
-</thinking>
-
 # Technology Integration Research Application Form - Help Guide
 ## Purpose
 This form is used to collect information from users interested in conducting research with our institution. Please complete the form accurately and thoroughly to help facilitate a smooth review and approval process.

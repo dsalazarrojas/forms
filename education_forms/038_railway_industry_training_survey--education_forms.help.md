@@ -1,15 +1,3 @@
-<thinking>
-The form "railway_industry_training_survey" is designed to collect feedback from individuals who have received training related to the railway industry. The purpose of this form is to gather information about the training experience, satisfaction, and any additional comments or feedback the individual may have. This form is intended for internal use, and the data collected will be used to evaluate and improve training programs.
-
-To ensure that the form is filled out correctly and consistently, please follow these guidelines:
-
-* Each question should be answered truthfully and with as much detail as possible.
-* For fields like "training_experience" and "satisfaction", select the most accurate option from the provided list.
-* For fields like "organization" and "program", enter the actual name of the organization or program.
-* For fields like "comments", provide any additional comments or feedback you may have about the training.
-
-</thinking>
-
 # railway_industry_training_survey - Help Guide
 ## Purpose
 The railway_industry_training_survey form is designed to collect feedback about the railway industry training experience. It is intended for individuals who have received training related to the railway industry.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback or ratings on historical documents, likely for educational purposes. The fields are meant to capture information about the document, including its title, contents, and ratings or comments. The form also asks for the reviewer's contact information, likely to facilitate further communication or follow-up questions. This form may be used by educators or institutions to gather feedback on historical documents, such as research papers, articles, or other educational materials. This form is not intended for sensitive or personal information, so it's likely safe for public use.
-
-To ensure that users provide accurate and relevant feedback, it's essential to check if a similar form has been filled out recently or if the user is already providing feedback on the same document. This form can be filled out once per document per user.
-</thinking>
-
 # Historical Document Review Form - Help Guide
 ## Purpose
 

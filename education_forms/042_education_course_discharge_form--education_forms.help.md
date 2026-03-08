@@ -1,9 +1,3 @@
-<thinking>
-The Education Course Discharge Form is a tool used to document the closure of an educational course. It's meant to help ensure that courses are properly discharged and any relevant information is captured and recorded for future reference.
-The form should only be used in cases where a course needs to be formally closed. If the course is simply being completed, there's no need to use this form.
-Before filling out this form, please make sure you have all necessary information about the course and student. This includes course information such as title, status, and submission date/time. For the student, you'll need their information, status, and feedback.
-</thinking>
-
 # Education Course Discharge Form - Help Guide
 ## Purpose
 The Education Course Discharge Form is used to formally close an educational course, capturing relevant information for future reference.

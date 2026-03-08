@@ -1,12 +1,3 @@
-<thinking>
-To confirm the purpose and relevance of this form, let's break down the key elements:
-
-*   This form is intended to gather feedback on a student's experience with an examination process. The form is not affiliated with or endorsed by any form platform and is created using AI to generate an original adaptation of a public survey topic metadata.
-*   The form's purpose is to gather opinions on the clarity, organization, and overall experience of the examination process, as well as gather information on the student's demographic details.
-*   By analyzing the provided YAML fields, we can confirm that the form is well-structured and covers essential aspects of the examination experience.
-
-</thinking>
-
 # exam_process_feedback_survey - Help Guide
 ## Purpose
 

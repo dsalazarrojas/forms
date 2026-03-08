@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "Teacher Performance Appraisal Assessment Form", seems to be designed to assess the performance of a teacher. The purpose of this form is likely to gather feedback and evaluations about a teacher's performance in the classroom, which could be used for professional development, promotions, or other internal HR purposes. The form is probably intended to be completed by students, possibly as part of a larger evaluation process.
-
-Given the structure of the form, which includes text fields, select_one, and select_multiple options, it appears to cover a range of topics, including student feedback, teacher performance, and possibly other areas of evaluation. The form's design suggests that it is meant to be a comprehensive assessment of a teacher's abilities and areas for improvement.
-
-It's worth noting that the form's fields are mostly optional, which implies that the evaluation process might be more focused on gathering opinions and suggestions rather than requiring strict adherence to certain standards. Overall, the form seems to be a useful tool for teachers to receive feedback and grow in their profession.
-
-</thinking>
-
 # Teacher Performance Appraisal Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and evaluations from students about a teacher's performance in the classroom, which can help with professional development and other internal HR purposes.

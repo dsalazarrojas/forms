@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are interested in pursuing an MBA (Master of Business Administration) degree. The form is likely used to gather background information, contact details, and relevant qualifications and test results for the purpose of evaluating or admitting candidates to a university or business program. The form is not a comprehensive assessment of the applicant's suitability for the program, but rather an initial survey to determine if they meet certain basic requirements.
-
-It's essential to ensure that this form is not used for any other purpose, as it may contain sensitive personal data. Therefore, the form should be filled out by authorized personnel only, and the data collected should be stored securely. 
-
-The following help guide is designed to assist users in understanding the purpose and requirements of the form.
-
-</thinking>
-
 # mba_qualifying_survey - Help Guide
 ## Purpose
 This form is designed to collect background information and qualifications from individuals interested in pursuing an MBA degree.

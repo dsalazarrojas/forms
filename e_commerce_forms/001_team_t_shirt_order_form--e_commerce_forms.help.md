@@ -1,5 +1,3 @@
-<thinking>As this form is part of an e-commerce application, it's designed to collect information for team orders. This form is likely to be used by teams to place orders for t-shirts. The purpose of this form is to gather necessary information from the team, including their name, email, phone number, shirt size, color, quantity, and shipping details. The form also collects information for the user, including their name, email, phone number, and order details. The form requires team and user details such as name, email, phone number, shirt size, color, quantity, shipping method, and status. The team's address, city, state, zip, and country are also required for shipping purposes.</thinking>
-
 # Team T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect team order information, including team and user details, for t-shirt orders.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to help users understand their own global food culture by asking various questions about their preferences, habits, and behaviors related to food. This form will collect data to provide insights into individual preferences and patterns.
-
-Before creating this guide, please review the form fields to ensure there are no redundant or confusing questions that need further clarification. For this guide, let's assume that all fields are clear and well-documented.
-
-Please note that this form appears to focus on the frequency of specific behaviors (e.g., eating at a restaurant) and the preference for certain food options (e.g., cooking oil for frying), but some of these questions may need further explanation or examples for clearer understanding.
-
-After this, the form will be broken down into three main sections: Purpose, How To Complete This Form, and Field-by-Field Explanation.
-
-</thinking>
-
 # Global Food Culture Quiz - Help Guide
 
 ## Purpose

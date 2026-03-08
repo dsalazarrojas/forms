@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Contact Information Validation Form - Help Guide
 ## Purpose
 This form is used to validate contact information for donors, ensuring that the provided data is accurate and complete. It is intended to be used in conjunction with other systems to ensure that donor data is up-to-date and reliable.

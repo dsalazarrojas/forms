@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for A.L.P Services, a type of consulting service that provides advisory, implementation, managed services, training, and audit services to various industries. This form is designed to gather relevant details about the applicant, their company or organization, and their service needs, allowing A.L.P Services to assess their suitability and provide a quote for the services requested. It is essential to fill out this form accurately to ensure that A.L.P Services can provide the best possible services tailored to the applicant's needs.
-
-When filling out this form, please ensure that you are providing the correct information and selecting the most suitable options for your application. This guide will walk you through each field to help you complete the form correctly.
-</thinking>
-
 # A.L.P Services Application - Help Guide
 
 ## Purpose

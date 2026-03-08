@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Request Form - Help Guide
 ## Purpose
 The Research Request Form is used by researchers and staff to submit a request for research services. This form helps gather information about the research project, including its name, description, goals, and contact details. Please ensure that you only submit a single request per research project.

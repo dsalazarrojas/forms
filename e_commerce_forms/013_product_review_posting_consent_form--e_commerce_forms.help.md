@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_review_posting_consent_form - Help Guide
 
 ## Purpose

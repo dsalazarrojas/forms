@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for the tech firm development program, which is designed to provide training and development opportunities to individuals. This form will be used by program administrators to gather relevant details about the program, including its name and description, start date and time, duration, location, and other relevant information. The purpose of this form is to ensure that all necessary information is collected in a structured and organized manner, making it easier for administrators to manage and evaluate the program.
-
-To ensure this form is not duplicated, the system will check for existing programs with the same name and description. If a duplicate is found, the user will be notified and prompted to modify the information accordingly.
-
-Please note that the form has been designed with the user in mind, and each field has been carefully crafted to collect the necessary information for the program. The form is divided into two pages, with each page collecting a specific set of information.
-
-</thinking>
-
 # tech_firm_development_program_enrollment_form - Help Guide
 ## Purpose
 The tech firm development program enrollment form is designed to collect information for the tech firm development program. The form is used to gather details about the program, including its name and description, start date and time, duration, location, and other relevant information.

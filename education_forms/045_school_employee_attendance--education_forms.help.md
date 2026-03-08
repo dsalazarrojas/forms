@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture attendance information for school employees. The form is intended to be completed by employees themselves or by their supervisors, and it captures essential details about their attendance, such as their work shifts, positions, and locations. The form also allows for optional fields to be filled in if necessary.
-
-Before we begin, please note that some fields may be irrelevant to you or have no specific instructions for completion, so please fill out only the fields that are applicable to your situation. 
-
-</thinking>
-
 # School Employee Attendance - Help Guide
 
 ## Purpose

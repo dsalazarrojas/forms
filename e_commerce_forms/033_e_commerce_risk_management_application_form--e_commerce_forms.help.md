@@ -1,33 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, we need to understand the form's purpose and ensure that all fields are necessary and well-explained. The E Commerce Risk Management Application Form seems to be designed to gather information about an e-commerce business's risk management status. It includes questions about risk levels, experience, average order values, revenue, and other metrics. 
-
-We need to carefully review each field to ensure it's clear and concise, and provide detailed explanations for each. This will help end-users understand the purpose and usage of each field without requiring additional internal knowledge or assumptions.
-
-Let's review each field:
-
-*   e_commerce_risk_management_application_form_1: This seems to be a general introduction to the form. We should provide a brief explanation about the form's purpose and how to complete it.
-*   e_commerce_risk_management_application_form_2: A text field for the applicant to input their risk management application. We should explain how to fill out this field and what type of information to provide.
-*   e_commerce_risk_management_application_form_3 and e_commerce_risk_management_application_form_4: These two fields seem related, and we should provide a combined explanation for them.
-*   e_commerce_risk_management_application_form_5 and e_commerce_risk_management_application_form_6: These two fields also seem related and should be explained together.
-*   e_commerce_risk_management_application_form_7: A text field for the applicant to describe their risk level. We should provide guidance on what type of information to input.
-*   e_commerce_risk_management_application_form_8: This field is a type of product. We should explain the different options available.
-*   e_commerce_risk_management_application_form_9 and e_commerce_risk_management_application_form_10: These two fields seem related and should be explained together.
-*   e_commerce_risk_management_application_form_11: This field is for expected revenue. We should provide guidance on what type of information to input.
-*   e_commerce_risk_management_application_form_12: A field to check if the applicant had a chargeback in the last 3 months. We should explain the significance of this field.
-*   e_commerce_risk_management_application_form_13 and e_commerce_risk_management_application_form_14: These two fields seem related and should be explained together.
-*   e_commerce_risk_management_application_form_15 and e_commerce_risk_management_application_form_16: These two fields also seem related and should be explained together.
-*   e_commerce_risk_management_application_form_17: A field for average monthly reversal amount. We should provide guidance on what type of information to input.
-*   e_commerce_risk_management_application_form_18 and e_commerce_risk_management_application_form_19: These two fields seem related and should be explained together.
-*   e_commerce_risk_management_application_form_20: This field is for average order value. We should provide guidance on what type of information to input.
-*   e_commerce_risk_management_application_form_21: A field for average monthly revenue. We should provide guidance on what type of information to input.
-*   e_commerce_risk_management_application_form_22: This field is for average monthly net income. We should provide guidance on what type of information to input.
-*   e_commerce_risk_management_application_form_23 and e_commerce_risk_management_application_form_24: These two fields seem related and should be explained together.
-*   e_commerce_risk_management_application_form_25: A field to check if the applicant had any account restrictions. We should explain the significance of this field.
-
-This form is designed to gather information for risk management purposes, and each field should be carefully explained to ensure end-users understand the purpose and usage of each field. By reviewing and explaining each field, we can ensure that the form is clear, concise, and easy to use.
-
-</thinking>
-
 # E Commerce Risk Management Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your e-commerce business's risk management status. It will help us assess your risk level and provide guidance on how to manage it effectively.

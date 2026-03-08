@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for individuals applying to an MBA program. The form requires information about the applicant's personal details, educational background, and achievements. This form checks for consistency across fields, avoiding duplicate submissions for the same applicant, and ensures accuracy in the provided information.
-
-The form consists of multiple pages with different fields asking for various information. Each field is required or optional, depending on the specific section.
-
-For instance, the first page asks for the applicant's name, email, and birth date, while the second page requires details about their graduation date, resume, and MBA program. The third page has a set of fields related to their academic achievements, such as GRE, GMAT, and TOEFL scores. The last page asks for more personal details, including their current address and phone number.
-
-Please refer to the following help guide for more information about each section.
-
-</thinking>
-
 # MBA Form - Help Guide
 ## Purpose
 The MBA Form is designed for individuals applying to an MBA program. This form requires information about the applicant's personal details, educational background, and achievements.

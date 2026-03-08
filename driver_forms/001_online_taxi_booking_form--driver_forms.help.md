@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is for customers to book an online taxi service. It gathers information about the customer's address, preferred fare type (free or paid), type of trip (one way or round trip), pickup and dropoff times, email address, phone number, and name. 
-
-This form aims to ensure that the customer can be matched with the right taxi service provider based on their specific needs. This form is a crucial part of the online taxi booking process.
-
-To avoid duplication, this form will only be used for online taxi bookings, and its fields will be used to generate a unique booking ID for each customer. This ID will be used to track the status of the booking and for future customer support.
-
-The data collected through this form will be used to create a taxi booking record for the customer, which will be used to facilitate communication between the customer and the taxi service provider. The customer will receive updates on their booking status, and the taxi service provider will have access to the customer's information to provide the best possible service.
-
-The form is designed to be easy to use and understand, with clear labels and options to guide the customer through the booking process.
-
-</thinking>
-
 # online-taxi-booking-form - Help Guide
 ## Purpose
 This online taxi booking form is designed to gather necessary information from customers to book a taxi service that suits their needs.

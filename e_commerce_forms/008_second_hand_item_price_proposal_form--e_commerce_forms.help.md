@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # second-hand-item-price-proposal-form - Help Guide
 ## Purpose
 This form is intended to be used for price proposals on second-hand items. It is meant for sellers to provide contact information, details about the second-hand item, and offer information, such as pricing. This form is part of a larger ecommerce application and is used to streamline the process of buying and selling second-hand items.

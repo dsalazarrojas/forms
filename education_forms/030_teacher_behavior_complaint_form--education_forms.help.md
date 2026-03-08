@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Teacher Behavior Complaint Form", we first need to clarify its purpose and relevance. This form is designed to help users report concerns or incidents involving teacher behavior, making it essential to ensure that the information provided is accurate and helpful. We should also check for potential duplication of information, ensuring that users don't report the same issue multiple times.
-
-The form is used to gather details about incidents or concerns related to teacher behavior, which can be reported by anyone, including students, teachers, or school administrators. It's crucial to be clear about what information is required and what the expected outcome of the form is.
-
-We will use the provided YAML fields to create a comprehensive help guide that explains each field and how to complete the form. This will help users understand what is expected of them and reduce confusion.
-
-</thinking>
-
 # Teacher Behavior Complaint Form - Help Guide
 ## Purpose
 The Teacher Behavior Complaint Form is a tool used to report concerns or incidents involving teacher behavior. This form allows users to provide detailed information about incidents, which helps school administrators to address and resolve issues promptly.

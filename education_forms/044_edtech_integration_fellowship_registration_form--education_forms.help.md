@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering individuals or schools for the EdTech Integration Fellowship program. The form's purpose is to collect necessary information for the program's organizers to review and evaluate applicants. This form is not intended for use by program facilitators or staff, so please ensure you are using it correctly and not submitting duplicate applications. Please do not fill out this form if you are not applying for the EdTech Integration Fellowship program.
-</thinking>
-
 # EdTech Integration Fellowship Registration Form - Help Guide
 ## Purpose
 The EdTech Integration Fellowship Registration Form is a form designed to collect necessary information from individuals or schools for the EdTech Integration Fellowship program. This form will be reviewed and evaluated by the program's organizers to ensure that applicants meet the program's requirements.

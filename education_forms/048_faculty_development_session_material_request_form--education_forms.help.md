@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request faculty development sessions, which are workshops, training, or other learning opportunities for faculty members to improve their teaching skills and enhance their professional growth. The purpose of this form is to gather essential information from faculty members about their session needs, material requirements, and other relevant details. This helps staff to efficiently manage and organize these sessions. Please complete this form accurately and thoroughly to help us understand your needs better.
-
-</thinking>
-
 # Faculty Development Session Material Request Form - Help Guide
 ## Purpose
 The Faculty Development Session Material Request Form is used to request faculty development sessions, which are designed to support the growth and development of faculty members. This form helps us to understand your needs and preferences for these sessions.

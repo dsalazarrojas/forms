@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their recent ecommerce shopping experience. It is intended to be used after a purchase has been made, allowing customers to rate and comment on their experience with the product, shipping, payment process, and any other relevant details. This form helps identify areas of improvement and ensures that customer feedback is collected in a structured and organized manner.
-</thinking>
-
 # Ecommerce Shopping Experience Feedback Form - Help Guide
 
 ## Purpose

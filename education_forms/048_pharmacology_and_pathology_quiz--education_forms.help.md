@@ -1,7 +1,3 @@
-<thinking>
-We will use the provided YAML to determine the purpose of the form and provide a help guide for the end users. The form is called "Pharmacology And Pathology Quiz" and its purpose is likely to assess users' knowledge on pharmacology and pathology.
-</thinking>
-
 # Pharmacology And Pathology Quiz - Help Guide
 ## Purpose
 The "Pharmacology And Pathology Quiz" is a quiz designed to evaluate your knowledge on pharmacology and pathology. It's not a required form, so you can complete it at your own pace.

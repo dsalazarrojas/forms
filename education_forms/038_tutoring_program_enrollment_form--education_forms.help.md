@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to capture information related to a tutoring program, including details about the student, their progress, and the assigned tutor. This form likely collects data for internal purposes, such as tracking student performance, monitoring progress, and evaluating the effectiveness of the tutoring program. To avoid duplication of efforts, the form should only be filled out once per student per program. If a student has previously completed the form, their information should not be modified or updated through this form.
-</thinking>
-
 # Tutoring Program Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information about a student's enrollment in a tutoring program, including their personal details, program status, and assigned tutor. This form helps track and monitor progress, and provides valuable data for program evaluation and improvement.

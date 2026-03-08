@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students or registrants for the Studio A Dance Center, which provides dance classes. The form is likely used to keep track of student details such as contact information, class preferences, and other relevant data. 
-
-This guide is intended to help users understand the purpose and process of completing the form.
-
-</thinking>
-
 # Studio A Dance Center Registration Form - Help Guide
 ## Purpose
 The Studio A Dance Center Registration Form is designed to collect information from students or registrants who wish to join dance classes at the center. This form helps the center to keep track of the student's contact information, class preferences, and other relevant details.

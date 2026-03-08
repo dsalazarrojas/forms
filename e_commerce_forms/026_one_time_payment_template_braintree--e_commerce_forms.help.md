@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a one-time payment template for the Braintree payment gateway. The form is intended to gather essential details from customers, including their first and last names, email address, and phone number. This form is likely used in e-commerce contexts where customers need to be contacted or notified about a one-time payment or a special transaction.
-
-Before proceeding, ensure that this form is not being used for a duplicate or unnecessary purpose. If you're unsure, review your business needs and consider whether this form is necessary for your operations. If the form is not relevant, it's possible that the provided metadata may have contained incorrect or misleading information. If you believe the form is not necessary, consider reaching out to the form author at `form@gic.mx` for further assistance.
-
-In any case, proceed with caution and review the field explanations provided below to ensure you understand the form's purpose and usage.
-</thinking>
-
 # one_time_payment_template_braintree - Help Guide
 ## Purpose
 This form is designed to collect essential customer information for a one-time payment template using the Braintree payment gateway.

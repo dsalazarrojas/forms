@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a dermal diagnosis, likely related to skin conditions or dermatological issues. The purpose of this form is to gather data from clients or patients to help medical professionals or healthcare providers make informed decisions. This form may be used in various settings, such as clinics, hospitals, or private practices. Before proceeding, please ensure that this form is not already completed for a similar case, and if so, refer to that previous submission for any necessary updates.
-
-</thinking>
-
 # dermal_diagnosis_form - Help Guide
 ## Purpose
 The dermal_diagnosis_form is designed to collect information for a dermal diagnosis, which refers to the examination and treatment of skin conditions or issues. This form is intended to help medical professionals or healthcare providers make informed decisions about a client's skin health.

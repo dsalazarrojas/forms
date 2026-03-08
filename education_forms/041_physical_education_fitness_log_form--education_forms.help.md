@@ -1,15 +1,3 @@
-<thinking>
-The internal reasoning block will provide a brief explanation of the form's purpose and check for relevance and non-duplication.
-
-This form is designed to collect data on physical education and fitness activities performed by users. The purpose of the form is to record and track exercises, including their name, date, duration, intensity, notes, number of sets, and other relevant details. This data can be used to monitor progress, identify trends, and provide insights for users to improve their physical fitness and overall well-being.
-
-To ensure that the form is used correctly and efficiently, the following guidelines should be followed:
-
-1.  The form should only be used for tracking physical education and fitness activities. It is not intended for non-related activities or events.
-2.  Users should complete all required fields to ensure accurate and comprehensive data entry.
-
-</thinking>
-
 # physical_education_fitness_log_form - Help Guide
 ## Purpose
 The physical education fitness log form is designed to collect and record details about physical exercises and activities. This form will help users track their progress, monitor their fitness goals, and identify areas for improvement.

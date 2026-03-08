@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for gift delivery purposes. It's crucial to ensure that the gift delivery process is accurate and efficient. Please note that this form is not meant for duplicate entries, so please review the form carefully before submitting it. If you're unsure about any field, please refer to the field explanations below.
-
-</thinking>
-
 # Gift Delivery Address Collection - Help Guide
 ## Purpose
 This form is used to collect information for gift delivery purposes, including recipient details, delivery date and time, sender information, and other relevant details. It's essential to provide accurate information to ensure a smooth delivery process.

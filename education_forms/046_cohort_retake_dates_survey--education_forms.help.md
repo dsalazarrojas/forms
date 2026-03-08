@@ -1,9 +1,3 @@
-<thinking>
-To avoid duplication, I first need to understand the purpose of this form. Based on the YAML input, it appears that this form is intended for students to provide their retake dates and preferences for a specific course or program. The form likely exists within a larger system for managing course retakes.
-The form seems to cover various aspects of retake dates and preferences, including participant information, retake details, availability, course format, and support needs. This form is likely used for planning and organization within the education sector.
-Before creating the help guide, I need to confirm that the form structure and field labels align with the purpose and intended use case. I also need to determine if there are any specific instructions or rules for users to follow while completing the form.
-</thinking>
-
 # Cohort Retake Dates Survey - Help Guide
 ## Purpose
 The Cohort Retake Dates Survey form is designed to help you provide your retake dates and preferences for a course or program.

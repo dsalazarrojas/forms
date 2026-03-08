@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 ## Purpose
 The Fundraiser For Elementary School PTA form is designed to collect general information, donation details, and fundraiser specifics from users who wish to support a local elementary school's Parent-Teacher Association (PTA) fund. This form will help the PTA understand who is willing to contribute to the cause and provide essential information for the fundraiser campaign.

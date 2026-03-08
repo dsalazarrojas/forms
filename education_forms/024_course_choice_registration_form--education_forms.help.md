@@ -1,14 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended to collect information from students about their course choices, including course selection, grade level, language, and other relevant details. The form will help in creating a comprehensive dataset for course management and scheduling. 
-
-The form should only be filled out once per course choice and should not be duplicated. Duplicate entries will be discarded to ensure accurate and unique course registration data. 
-
-Please fill out this form with accurate information to ensure proper course registration and avoid any issues related to conflicting data. 
-
-Note: This form is for general information collection and will be reviewed by authorized personnel to ensure accuracy and consistency. 
-
-</thinking>
-
 # Course Choice Registration Form - Help Guide
 ## Purpose
 The Course Choice Registration Form is designed to collect information from students about their course choices, including course selection, grade level, language, and other relevant details.

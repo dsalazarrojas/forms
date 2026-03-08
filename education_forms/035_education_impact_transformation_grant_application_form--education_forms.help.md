@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Impact Transformation Grant Application Form - Help Guide
 
 ## Purpose

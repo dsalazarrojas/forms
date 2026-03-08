@@ -1,13 +1,3 @@
-<thinking>
-This form purpose is to collect information for printing and designing custom order forms. This form aims to capture the preferences and requirements for lettering, numbering, and coloring of the order. The form is designed to be used by end-users to provide their input and specifications for the printing and designing process. 
-
-This form does not collect any sensitive or personal information and is intended for use in business-to-business (B2B) or internal processes.
-
-Please ensure that the form is used as a template and that you adapt it to your specific use case, and do not copy, extract, or use proprietary content from other form platforms. 
-
-You can use and even sell forms derived from this form, but make sure to give credit to the original creator.
-</thinking>
-
 # Print & Design Order Form - Help Guide
 ## Purpose
 This form is designed to capture the preferences and requirements for printing and designing custom order forms. It is intended for use in business-to-business (B2B) or internal processes.

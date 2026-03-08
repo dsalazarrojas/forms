@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to capture information from students seeking education support, specifically for leaves of absence due to reasons such as illness, family emergencies, or other personal matters. The form helps administrators and staff track and process education support requests, ensuring that students receive the necessary accommodations and support without disrupting their educational experience.
-
-To avoid duplicating efforts, please only submit a new form if you have not already done so. If you have a pre-existing form, please refer to that one.
-
-Please note that all fields are required for the form to be processed successfully. Ensure that you have all necessary information before submitting the form.
-
-</thinking>
-
 # Education Support Leave Time Off Form - Help Guide
 
 ## Purpose

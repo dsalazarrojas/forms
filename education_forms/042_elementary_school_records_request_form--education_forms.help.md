@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for a parent or guardian to request various educational records for their child attending an elementary school. The form likely exists to collect relevant information for processing requests such as obtaining a student's report card, progress report, or transcript. To determine if the form is complete, the following criteria would need to be met: the form should be filled out in its entirety, with all required fields populated, and the request type should be clearly selected, ensuring the correct records are requested. To prevent form duplication, the user may be required to enter unique student details such as student ID number or date of birth to verify that the request is not a repeat. This form will likely be used in a school or district office setting where staff will need to review and process the requests, so it should be filled out carefully and accurately to avoid unnecessary work and potential delays in processing.
-</thinking>
-
 # Elementary School Records Request Form - Help Guide
 ## Purpose
 The Elementary School Records Request Form is a tool used by parents or guardians to request various educational records for their child attending an elementary school. This form is used to gather necessary information for processing requests such as obtaining a student's report card, progress report, or transcript.

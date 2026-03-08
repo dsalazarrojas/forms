@@ -1,11 +1,3 @@
-<thinking>
-
-This form will likely be used for capturing information from parents or emergency contacts of students enrolled in a summer school program, providing an agreement on the student's behavior, academic, and personal expectations. The purpose of this form is to inform and obtain consent from the parents/guardians regarding the student's participation in the program and the terms of their stay. This form likely exists to ensure that the student is aware of their responsibilities and expectations while in the program, and the parents/guardians are informed and agree to their role in supporting their child's participation.
-
-To avoid duplication, the form should only be filled out if the student is actually participating in the program. The form should be used in conjunction with other relevant forms and agreements.
-
-</thinking>
-
 # Summer School Agreement Form - Help Guide
 ## Purpose
 The Summer School Agreement Form is used to capture information from parents or emergency contacts of students enrolled in a summer school program. The form aims to inform and obtain consent from the parents/guardians regarding the student's participation, behavior, and expectations while in the program.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data about user's quiz performance. It is intended to assess the user's understanding of a specific subject, typically used in educational settings. The form has no internal logic and does not affect any external systems.
-
-The form is divided into two main sections: the introduction and the questions. The introduction is a free-text field where users can provide any additional context or information they feel is relevant to the quiz. The questions are multiple-choice or free-text questions that the user is required to answer. 
-
-The form's questions are not related to any specific product, service, or platform. It is a generic form designed to collect data about user's knowledge and understanding of a particular subject.
-
-</thinking>
-
 # quiz_form - Help Guide
 ## Purpose
 The quiz_form is designed to collect data about user's performance on a quiz. It is intended to assess the user's understanding of a specific subject.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Education Case Study Registration Form - Help Guide
 
 ## Purpose

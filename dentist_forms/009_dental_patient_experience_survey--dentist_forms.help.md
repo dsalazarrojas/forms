@@ -1,28 +1,3 @@
-<thinking>
-
-This form is designed for patients to provide feedback and share their experience about visiting a dental clinic. The purpose of the form is to collect information about the patient's satisfaction with the service they received, the quality of the staff's service, and the overall experience of visiting the clinic. This form will help the clinic understand what they are doing well and what areas need improvement.
-
-The form is divided into 11 sections:
-
-1. Patient Survey: A select one option that asks the patient to choose which option best describes their experience.
-2. Appointment Details: A numerical input field to capture the details of the patient's appointment.
-3. Dental Services: A select multiple option that asks the patient to select which services they received during their visit.
-4. Staff Experience: A select one option that asks the patient to rate their experience with the dental staff.
-5. Patient Experience: A select one option that asks the patient to describe their overall experience.
-6. Dentist Feedback: A select multiple option that asks the patient to provide feedback on their experience with the dentist.
-7. Staff Suggestions: A text input field for the patient to provide suggestions or comments about the staff.
-8. Patient Recommend: A select one option that asks the patient to indicate if they would recommend the clinic to others.
-9. Overall Experience: A select one option that asks the patient to rate their overall experience.
-10. Date Visited: A date input field to capture the date the patient visited the clinic.
-11. Time Visited: A time input field to capture the time the patient visited the clinic.
-12. Time Arrived: A time input field to capture the time the patient arrived at the clinic.
-13. Time Finished: A time input field to capture the time the patient finished their appointment.
-14. Date of Surgery: A date input field, likely for patients who underwent a surgical procedure.
-
-Please note that some fields may be optional, and the clinic may adjust the form as needed to capture the required information.
-
-</thinking>
-
 # Dental Patient Experience Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Dental Patient Experience Survey form. The form is intended to gather feedback about your experience at the dental clinic, and your input will help us improve our services.

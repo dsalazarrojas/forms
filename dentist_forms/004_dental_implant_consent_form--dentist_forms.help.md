@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information and consent from patients before undergoing a dental implant procedure. This form helps to document the patient's medical history, details of the implant procedure, potential risks involved, and both the patient's and dentist's signatures to confirm understanding and consent.
-
-Before creating this form, please ensure that you are familiar with the relevant medical standards and regulations in your region. This form is for general guidance only and should not be used in lieu of professional medical advice.
-
-Please note that the field types and labels have been carefully designed to ensure a smooth and efficient completion process for the end-user.
-
-</thinking>
-
 # Dental Implant Consent Form - Help Guide
 ## Purpose
 The Dental Implant Consent Form is a document designed to gather essential information and consent from patients before undergoing a dental implant procedure. It helps to ensure that both the patient and the dentist are on the same page regarding the procedure's details, potential risks, and expectations.

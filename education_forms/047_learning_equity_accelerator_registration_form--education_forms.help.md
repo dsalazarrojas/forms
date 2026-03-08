@@ -1,12 +1,3 @@
-<thinking>As a non-profit organization focused on promoting education and equity, the "Learning Equity Accelerator Registration Form" is designed to collect information from individuals and organizations who wish to register their interest in learning from our services. By filling out this form, you will be able to: 
-- provide your contact information (name, organization, role, address, state, country, and city) 
-- specify your communication preferences (email, phone, or mail) 
-- share any additional comments or questions you may have
-- indicate your agreement to our terms and conditions
-This form should not be filled out if:
-- You are an automated service and not a human individual or organization 
-- You have filled out this form before for this purpose</thinking>
-
 # Learning Equity Accelerator Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating the patient's feedback and experience during the discharge process. It is designed to gather information on the patient's satisfaction, communication with medical staff, and discharge details. Before completing this form, please ensure that all required fields are filled out and that you have obtained necessary signatures from the patient and healthcare professionals involved in their care.
-</thinking>
-
 # Hospital Discharge Planning Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback from patients on their experience during the discharge process. It helps us evaluate the quality of care provided and make improvements for future discharges.

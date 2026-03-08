@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll review the provided YAML. The form is titled "School Of Theology Registration Form" and appears to be designed for students to register for a program at a school of theology. The form likely serves as a data collection tool for the school to gather information from potential students.
-
-To confirm, I'll check for potential fields that would indicate the form's purpose or any duplication of effort. Upon reviewing the fields, I see that the form collects general information, student details, contact information, program selection, date of birth, address, emergency contact, academic history, and documents upload fields. This suggests that the form is primarily for student registration, and the "upload documents" field may be intended for students to provide additional supporting information.
-
-Given the fields, the form's purpose is to collect necessary information from students to facilitate their registration for the school's programs. There is no indication of duplication or conflicting purposes in the provided fields.
-</thinking>
-
 # School Of Theology Registration Form - Help Guide
 
 ## Purpose

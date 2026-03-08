@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from math students who are seeking tutoring services. The form is designed to collect relevant details about the student's preferences, including their course selection, email, phone number, date of birth, and other relevant information. However, it's worth noting that the form has multiple pages, and it's not explicitly stated if a page must be filled out completely before moving to the next one. For the sake of this documentation, we'll assume that each page is a step in the process and should be filled out as much as possible.
-</thinking>
-
 # math_student_registration_form - Help Guide
 
 ## Purpose

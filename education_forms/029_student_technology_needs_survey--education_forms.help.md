@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students about their technology needs. The survey will help educators understand what technologies students need to be successful in their academic journey.
-</thinking>
-
 # Student Technology Needs Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students about their technology needs. This will help teachers and school administrators understand what technologies students require to succeed in their academic journey.

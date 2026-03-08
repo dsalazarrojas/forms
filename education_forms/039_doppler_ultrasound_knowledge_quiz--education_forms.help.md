@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a quiz designed to test knowledge about the Doppler effect, specifically in the context of ultrasound. The purpose of this form is to assess the user's understanding of the Doppler Principle, Doppler Ultrasound Technique, and their applications. The form is divided into multiple pages, each with various questions that require single or multiple selections.
-</thinking>
-
 # doppler_ultrasound_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about the Doppler effect in the context of ultrasound.

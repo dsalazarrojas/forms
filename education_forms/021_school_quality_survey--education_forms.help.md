@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for end-users of the "School Quality Survey" form, which aims to gather feedback from users about the quality of a school. This form is used to assess various aspects of a school's performance, including teaching quality, school environment, facilities, teacher quality, teacher helpfulness, student quality, school leadership, communication, student satisfaction, parent satisfaction, teacher satisfaction, and overall quality. The form is designed to be completed by users who have experience with the school and are familiar with its policies and procedures.
-
-Before starting the form, please ensure that you have not already completed it. If you have previously submitted feedback, it is recommended to review and update your previous responses, if necessary. 
-
-This help guide will walk you through each page and field of the form, explaining what each field means and how to complete it accurately.
-</thinking>
-
 # School Quality Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the quality of a school. It assesses various aspects of a school's performance, including teaching quality, school environment, facilities, teacher quality, and more.

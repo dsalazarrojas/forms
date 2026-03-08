@@ -1,8 +1,3 @@
-<thinking>
-The form "deliverymenu" is used for managing delivery-related settings in a system. 
-Before proceeding with completing the form, ensure that you're in the correct context and not duplicating efforts. The form is meant to be used by authorized personnel for configuring delivery settings. If you're not authorized or unsure, please seek assistance from a relevant authority.
-</thinking>
-
 # deliverymenu - Help Guide
 ## Purpose
 The "deliverymenu" form is used to configure delivery settings for a system. This form consists of four pages, each designed to gather specific information related to delivery services.

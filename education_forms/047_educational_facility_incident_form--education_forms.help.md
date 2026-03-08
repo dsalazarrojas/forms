@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document and report incidents that occurred at an educational facility. The purpose of this form is to collect information about the incident, including its type, date, location, description, investigation status, safety measures taken, and the person who reported it. This form helps facilities staff and management to quickly gather and review incident reports, enabling them to take prompt action to prevent similar incidents in the future.
 
 # Educational Facility Incident Form - Help Guide

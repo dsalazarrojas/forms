@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from potential applicants for the Summer Youth Program, a program aimed at providing educational and fun activities for young people during the summer. The program is designed to be flexible and cater to different categories and preferences. By completing this form, applicants can provide essential details about themselves, including their personal information, contact details, and preferences for the program.
-</thinking>
-
 # Summer Youth Program Application - Help Guide
 
 ## Purpose

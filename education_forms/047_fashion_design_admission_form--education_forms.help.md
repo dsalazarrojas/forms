@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to guide users through the admission process for the Fashion Design course. To confirm this is the correct form, I will analyze its properties. The form is an "education form" and its title is "Fashion Design Admission Form", which matches the provided context. The form is composed of three pages: "First Page", "Second Page", and "Third Page". Each page has a specific type (note, select_one, text) and options or hint, if applicable. The form's primary purpose is to gather information from users to determine their eligibility for the Fashion Design course. 
-Given this context, I will now provide a help guide to assist end-users in understanding the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Fashion Design Admission Form - Help Guide
 ## Purpose
 This form guides you through the admission process for the Fashion Design course. To submit your application, please complete the form below.

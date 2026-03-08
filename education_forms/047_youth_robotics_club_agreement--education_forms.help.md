@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I need to understand the form's purpose and how to effectively communicate it to the end user. The form is called "Youth Robotics Club Agreement" and is used for collecting information about parents and participants in a youth robotics club. The form has five pages: "Parent Details", "Participant Details", "Approval Details", "Submission", and "Notes".
-
-The form is likely used to collect contact information, demographic data, and approval status from parents and participants. It might also be used to record any special notes or comments related to the submission process.
-
-Given this context, I will create a comprehensive help guide for the end user.
-
-</thinking>
-
 # Youth Robotics Club Agreement - Help Guide
 ## Purpose
 The "Youth Robotics Club Agreement" form is used to collect information from parents and participants in the youth robotics club. This form helps us understand their contact details, demographics, and approval status, as well as any special notes or comments related to the submission process.

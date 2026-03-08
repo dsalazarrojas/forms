@@ -1,10 +1,3 @@
-<thinking>
-This form is used for declaring stock options, stock grants, and stock awards. It is intended for employees or individuals to document and track their stock options, grants, and awards. The form ensures that all relevant details are collected and recorded accurately.
-
-Before proceeding, please ensure that you have reviewed and understood the form's purpose and the fields below. This form should not be used for duplicate entries; if you have already submitted an entry for the same stock option, grant, or award, please do not resubmit.
-
-</thinking>
-
 # Stock Options Declaration Form - Help Guide
 ## Purpose
 This form is used for declaring stock options, stock grants, and stock awards for employees or individuals.

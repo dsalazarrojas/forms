@@ -1,5 +1,3 @@
-<thinking>This is a critical form that aims to assess a teacher's effectiveness in the classroom. It helps in identifying areas of strength and weakness, providing actionable feedback for improvement. To ensure accuracy and reliability, please complete this form carefully and honestly.</thinking>
-
 # Teacher Effectiveness Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate a teacher's performance in the classroom, focusing on their strengths and weaknesses. This assessment will help in identifying areas of improvement, providing valuable feedback for personal and professional growth.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cognitive Learning Science Research Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your educational background, research experience, research interests, skills, and availability for a research position or project. Please fill out this form to help us understand your qualifications and fit for the opportunity.

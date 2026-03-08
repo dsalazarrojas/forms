@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Class Proposal Submission Form" which helps instructors propose new classes for the education platform. Instructors can use this form to provide essential details about their proposed class, including the proposed class title, class category, learning objectives, target audience, class level, class format, class duration, and more. This form is an internal submission process, and all required fields must be completed in order to be considered for approval. Please fill out this form carefully to ensure your class proposal is complete and accurate.
-</thinking>
-
 # Class Proposal Submission Form - Help Guide
 ## Purpose
 The Class Proposal Submission Form is a tool used by instructors to submit proposals for new classes to be listed on the education platform. This form helps gather essential information about the class, making it easier for the platform administrators to review and approve the proposal.

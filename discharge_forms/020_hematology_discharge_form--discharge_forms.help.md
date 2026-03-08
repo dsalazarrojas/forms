@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for collecting lab results and other medical information for a patient. It is intended for use by medical professionals, such as hematologists, cardiologists, or other specialized doctors. The form includes multiple lab results, a section for notes, a section for patient information (name, age, medical history, and discharge diagnosis), and a section for specifying the medical team involved in the patient's care.
 
 # Hematology Discharge Form - Help Guide

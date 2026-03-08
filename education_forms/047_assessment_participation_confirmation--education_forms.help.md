@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for assessing participants' confirmations and commitments for a specific assessment. It's used to gather information about the participant's attendance, consent, and technical readiness for the assessment. 
-
-The form's purpose is to collect crucial details, such as confirmation of participation, scheduled date and time, and equipment usage, to ensure a smooth and successful assessment process. 
-
-Before continuing, please ensure that you haven't already submitted a confirmation for this assessment. 
-
-</thinking>
-
 # Assessment Participation Confirmation - Help Guide
 ## Purpose
 This form is used to confirm your participation in the assessment and gather necessary information for the assessment process.

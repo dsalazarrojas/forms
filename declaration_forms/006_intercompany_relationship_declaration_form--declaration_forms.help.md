@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual's relationship with the company. It is meant to be completed by a company representative, and it will be used to verify the legitimacy of the relationship. The form should only be submitted once for each individual, and the submitter should ensure that the information provided is accurate.
-</thinking>
-
 # Intercompany Relationship Declaration Form - Help Guide
 ## Purpose
 This form is used to declare a relationship between an individual and your company. It captures information about the individual, such as their name, contact details, and relationship type, to verify their affiliation with your company.

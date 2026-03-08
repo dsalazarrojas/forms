@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from users about their dance terminology knowledge. The purpose of this form is to assess the user's understanding of dance terminology, covering various scoring ranges from 0.5 to 50. The form will display a series of questions related to dance terminology, where each question corresponds to a specific scoring range.
-Each question is designed to be answered on a scale from 0 to 10 or by selecting one of the provided options.
-The form will be used in educational settings to evaluate the user's knowledge of dance terminology.
-</thinking>
-
 # Dance Terminology Knowledge Quiz - Help Guide
 ## Purpose
 The Dance Terminology Knowledge Quiz is a form designed to evaluate your understanding of dance terminology. It covers various scoring ranges from 0.5 to 50, and each question is carefully crafted to assess your knowledge in specific areas.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for generating predictions of IELTS scores for students who have taken the test. IELTS, or the International English Language Testing System, is a test designed to assess the language ability of non-native speakers and is required for students applying for immigration, university, or work purposes.
-To ensure accurate results, please fill out the form with accurate information. Each field is crucial in providing the best prediction possible.
-</thinking>
-
 # ielts_prediction_test_form - Help Guide
 ## Purpose
 The IELTS Prediction Test Form is a tool designed to help you predict your IELTS test scores. Fill out the form with your actual test date, center, and scores to get an accurate prediction of your IELTS scores.

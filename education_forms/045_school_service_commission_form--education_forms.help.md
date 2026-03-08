@@ -1,13 +1,3 @@
-<thinking>
-The School Service Commission Form is a tool designed to collect information about services rendered or requested by a school. The form aims to gather data on the services provided, the nature of the service, and any relevant details. This form is intended to be used by school administrators or staff to document and track services provided to students.
-
-Before using this form, ensure that you are aware of your role and the purpose of the form. This form is not a substitute for other documentation processes, and it's essential to use it in conjunction with your school's existing documentation policies.
-
-Please note that this form is a general-purpose template and may not cover all specific requirements or nuances of your school's service commission process. It's recommended that you adapt this form to fit your school's needs and context.
-
-Before proceeding, review the form's fields and ensure that you understand their purpose and relevance. If you're unsure about any field, please seek guidance from your school's administration or staff.
-</thinking>
-
 # School Service Commission Form - Help Guide
 ## Purpose
 The School Service Commission Form is a tool designed to collect information about services rendered or requested by a school. It helps gather data on the services provided, the nature of the service, and any relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # standardized_testing_procedures_audit_form - Help Guide
 ## Purpose
 The standardized_testing_procedures_audit_form is used to document and track the audit process and findings related to standardized testing procedures. It is essential to provide a clear and consistent record of compliance status, actions taken, and observations. This form helps in monitoring and improving the adherence to testing procedures in your educational settings.

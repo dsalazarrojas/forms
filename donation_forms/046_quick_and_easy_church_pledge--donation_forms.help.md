@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from church members about their donation and tithing commitments. It's essential to understand that this form is designed to be simple and easy to fill out, as indicated by its title, "quick_and_easy_church_pledge". This form likely serves as a communication tool between the church and its members, allowing them to provide details about their donations and commitments, which can be used for internal record-keeping and planning purposes.
-
-Before proceeding, please ensure that you're filling out this form for its intended purpose and that you haven't already completed this form, as it may be unnecessary to repeat your submission.
-</thinking>
-
 # quick_and_easy_church_pledge - Help Guide
 ## Purpose
 The quick_and_easy_church_pledge form helps you communicate your donation and tithing commitments with your church. This form guides you through a few simple questions to help you provide clear and accurate information about your giving.

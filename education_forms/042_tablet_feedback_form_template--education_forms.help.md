@@ -1,7 +1,3 @@
-<thinking>
-This form is a general feedback form for tablet users to provide their comments, suggestions, and ratings on their learning experience. It is designed to collect feedback on the overall satisfaction with the learning experience, specific feedback, and other relevant information such as email. This form is intended to be completed by tablet users to help improve the learning experience and overall service quality. Before filling out this form, please make sure you have completed all previous forms and surveys related to this topic. If you are unsure about any of the questions or have any issues that are not addressed by this form, please reach out to your administrator or contact person.
-</thinking>
-
 # Tablet Feedback Form Template - Help Guide
 ## Purpose
 The Tablet Feedback Form is a tool to gather information from tablet users about their learning experience. It helps us to identify areas of improvement and provide better services.

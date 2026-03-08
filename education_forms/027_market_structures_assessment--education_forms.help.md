@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess the market structures of a school. The purpose of this form is to gather information from schools about their market structures, including their goals, price equilibrium, market failures, and other relevant details. This form will help schools evaluate their market structures and identify areas for improvement. 
-
-Before proceeding, ensure that you have the necessary information and permissions to complete this form. 
-
-This form is a critical component of the assessment process, and it is essential to complete it accurately and thoroughly. 
-
-Please note that this form is specific to schools, and the answers provided will be used to inform decisions and actions that impact the school and its stakeholders. 
-
-To ensure the accuracy and effectiveness of the assessment, please follow the instructions carefully and answer all questions truthfully and completely. 
-
-If you have any questions or need clarification on any of the fields, please don't hesitate to reach out to the relevant authorities.
-
-</thinking>
-
 # Market Structures Assessment - Help Guide
 ## Purpose
 The Market Structures Assessment form is designed to gather information from schools about their market structures. This form is a critical component of the assessment process, and it is essential to complete it accurately and thoroughly.

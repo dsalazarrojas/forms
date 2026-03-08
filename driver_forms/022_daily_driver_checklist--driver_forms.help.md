@@ -1,9 +1,3 @@
-<thinking>
-To create the "daily_driver_checklist" form, I considered the following:
-The form appears to be designed for tracking and reporting on various aspects of a vehicle's status, driver information, and other relevant details. It seems to be used in a work-related or logistical context.
-I did not find any indications that this form is part of a larger process with specific business logic or rules that would impact the field requirements.
-</thinking>
-
 # daily_driver_checklist - Help Guide
 ## Purpose
 The "daily_driver_checklist" form is designed to collect information about vehicle registration, maintenance, driver information, condition, location, status, and other relevant details for tracking and reporting purposes.

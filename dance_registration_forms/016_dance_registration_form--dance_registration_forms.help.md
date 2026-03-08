@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dance Registration Form - Help Guide
 
 ## Purpose

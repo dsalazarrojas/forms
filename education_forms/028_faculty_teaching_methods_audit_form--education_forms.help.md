@@ -1,5 +1,3 @@
-<thinking>This form is designed to audit the teaching methods of faculties in an educational institution. The purpose of this form is to gather information about the faculty members' teaching approaches, techniques, and practices. This form is meant to be a comprehensive audit, covering various aspects of teaching, such as teaching methods, evaluation and feedback, classroom management, and more.</thinking>
-
 # Faculty Teaching Methods Audit Form - Help Guide
 ## Purpose
 The Faculty Teaching Methods Audit Form is a comprehensive tool designed to assess the teaching practices and approaches of faculty members in an educational institution. This form aims to gather detailed information about the faculty's teaching methods, evaluation and feedback mechanisms, and classroom management techniques, which will help in identifying areas of improvement and providing support for further development.

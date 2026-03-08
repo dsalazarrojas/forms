@@ -1,5 +1,3 @@
-<thinking>This form is designed to provide a series of math quizzes to users, allowing them to test their mathematical skills. The form is composed of multiple pages, each containing a few fields. The first page introduces the concept of the math quiz, while subsequent pages include math problems, their corresponding answers, and an optional email address, name, and phone number for feedback. The form is not meant to be completed in a single session, as users can submit their responses multiple times. This guide will help users understand how to fill out the form correctly and make the most out of it.</thinking>
-
 # Mini Math Quiz - Help Guide
 ## Purpose
 This form is designed to help users test their mathematical skills by solving a series of math problems. The form is divided into multiple pages, each containing a few fields. Users can submit their responses multiple times, and the form will keep track of their progress and performance.

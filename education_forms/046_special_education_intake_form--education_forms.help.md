@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a Special Education Intake Form, designed to gather information about students with disabilities. It asks for parent information, student details, and disability-related data, likely for educational institutions or organizations catering to special education needs. To avoid duplication, the form probably won't be used for students without disabilities or non-special education purposes. 
-</thinking>
-
 # Special Education Intake Form - Help Guide
 ## Purpose
 This form is for parents or educational institutions to gather information about students who require special education support. It helps in understanding the student's needs and provides a structured process for submitting and processing intake requests.

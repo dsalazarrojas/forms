@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report incidents of misbehavior or misconduct that warrant a warning to students. The purpose of this form is to document the details of the incident, the student's involvement, and the actions taken to resolve the situation. It is typically used by school administrators or authorities to record and track warnings given to students.
-
-This form should not be used to report minor incidents or trivial matters. If you are unsure whether a warning is warranted, please consult with your supervisor or relevant authorities before filling out this form.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Demerit Warning Form - Help Guide
 ## Purpose
 The purpose of this form is to document and record warnings given to students for misbehavior or misconduct.

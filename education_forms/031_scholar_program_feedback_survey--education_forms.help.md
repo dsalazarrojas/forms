@@ -1,6 +1,3 @@
-<thinking>
-This form is a Scholar Program Feedback Survey used to gather input from scholars on their experience with the program. The main goal is to collect feedback on their enjoyment of the program, areas for improvement, overall satisfaction, future expectations, and recommendations. This form is likely used by program administrators to identify areas to focus on for improvement and make data-driven decisions.
-</thinking>
 # scholar_program_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from scholars on their experience with the program. It aims to gather information on their enjoyment level, areas for improvement, overall satisfaction, future expectations, and recommendations.

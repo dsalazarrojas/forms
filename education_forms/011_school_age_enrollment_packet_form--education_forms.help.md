@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students and parents for school enrollment purposes. The goal of this form is to gather demographic information, contact details, and educational background of the student. This form will help the school administration to understand the student's background and provide appropriate services. Please ensure that you are using this form correctly and provide accurate information.
-</thinking>
-
 # School Age Enrollment Packet Form - Help Guide
 ## Purpose
 This form is used to collect information about students and parents for school enrollment purposes.

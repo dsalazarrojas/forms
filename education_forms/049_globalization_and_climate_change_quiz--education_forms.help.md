@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge on globalization and climate change, a topic that has gained significant importance in recent years. The form is intended to gauge users' understanding of various aspects related to globalization and climate change, including its causes, impacts, and possible solutions. Each question is designed to test users' critical thinking and knowledge in a specific area. 
-
-To determine if this form is suitable for your needs, you can check if it aligns with your educational objectives and doesn't overlap with other forms you're using.
-
-</thinking>
-
 # Globalization And Climate Change Quiz - Help Guide
 ## Purpose
 The Globalization And Climate Change Quiz is designed to evaluate users' knowledge on globalization and climate change, covering various topics such as its causes, impacts, and solutions.

@@ -1,10 +1,3 @@
-<thinking>
-The Preschool Application Form is used to collect information from parents or guardians about their child's preschool enrollment.
-The form is intended for parents or guardians to provide information about their child, their address, contact information, and the preschool they wish to enroll their child in. The form requires information from the child's parent or guardian, and is used to process the preschool application.
-To ensure accuracy and efficiency in completing the form, it is recommended that parents or guardians review and fill out the form carefully, and make sure to provide all necessary information to avoid delays in the preschool application process.
-It is also worth noting that the preschool start and end dates are critical pieces of information that will be used to determine the duration of the child's enrollment.
-</thinking>
-
 # Preschool Application Form - Help Guide
 ## Purpose
 The Preschool Application Form is used to collect information from parents or guardians about their child's preschool enrollment.

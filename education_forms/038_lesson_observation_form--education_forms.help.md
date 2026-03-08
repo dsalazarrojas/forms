@@ -1,7 +1,3 @@
-<thinking>
-The AI-generated Lesson Observation Form is designed to collect feedback and observations about a teacher's performance and the learning environment in a classroom. This form is intended to be used by observers, such as school administrators or peer teachers, to evaluate a teacher's instructional strategies, classroom management, and overall effectiveness. The form is meant to be completed by a single observer, and the responses should be concise and objective.
-</thinking>
-
 # Lesson Observation Form - Help Guide
 ## Purpose
 The Lesson Observation Form is a tool for collecting feedback and observations about a teacher's performance and the learning environment in a classroom.

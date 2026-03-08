@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from parents/guardians for their child to register for an after-school club program. The form is designed to gather relevant details about the student, the parent/guardian, and their child's needs and preferences. This form will be used to ensure that the student is properly registered and that parents/guardians can provide necessary information for the child's well-being and safety during the program. The form should only be filled out once per student. If a parent/guardian has already registered their child, this form should not be filled out again.
-</thinking>
-
 # After School Club Registration Form - Help Guide
 ## Purpose
 This form is used to register your child for an after-school club program. It collects essential information about your child, your relationship to them, and your contact details. This guide will walk you through each section of the form to help you complete it accurately and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the details of a student or attendee's attendance at a school or workplace setting. It is typically used when a student or staff member has been absent and is now present again. The form helps track and verify the attendance information. To ensure that this form is completed correctly, it's essential to review the instructions carefully and ensure that you have the necessary permissions and approvals before submitting it. Also, please note that some fields might be optional, but providing accurate information will help to ensure the form's purpose is served effectively.
-</thinking>
-
 # Reopening Attendance Confirmation Form - Help Guide
 ## Purpose
 The Reopening Attendance Confirmation Form is used to confirm the presence of a student or staff member at a school or workplace setting after an initial absence.

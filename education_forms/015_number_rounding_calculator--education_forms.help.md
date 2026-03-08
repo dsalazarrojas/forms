@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool for users to input numbers and specify various rounding options to perform number rounding operations. The purpose of this form is to guide users through the process of rounding numbers in different ways to suit their specific needs. This form will be used by users who need to round numbers for various purposes, such as financial, scientific, or engineering calculations. To avoid duplication, this form should only be used for rounding numbers, and not for calculations that require exact precision.
-
-</thinking>
-
 # Number Rounding Calculator - Help Guide
 ## Purpose
 This form is designed to help users round numbers in different ways to suit their specific needs. It allows users to input numbers and select options for rounding to the nearest digit, to even, or to a specific precision.

@@ -1,11 +1,3 @@
-<thinking>
-
-A Letter of Intent for Feather River Charter School is a document that outlines a student's intentions for their education and future goals. It is used to help students, parents, and educators understand the student's expectations and goals for their time at the school. This form is used to gather information about the student, their parents, and emergency contacts to ensure that everyone involved is on the same page.
-
-To complete this form, please note that all fields are optional but may be required by school staff for administrative purposes.
-
-</thinking>
-
 # Letter Of Intent   Feather River Charter School - Help Guide
 ## Purpose
 The Letter of Intent form is used to gather information about the student, their parents, and emergency contacts to ensure that everyone involved is on the same page.

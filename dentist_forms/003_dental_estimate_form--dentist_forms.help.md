@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a generic dental estimate form used in medical settings. It could be used by dentists or other dental professionals to estimate the cost of procedures for patients. This form likely collects information about the patient's personal details, the procedure being performed, the estimated cost, and other relevant details such as insurance provider, patient contact, doctor's name, and doctor's title. The form also requires a specific procedure date and time. To ensure accurate completion, the form should be filled out carefully.
-</thinking>
-
 # Dental Estimate Form - Help Guide
 ## Purpose
 This form is designed to help dentists and other dental professionals estimate the cost of procedures for patients. It collects information about the patient's name, procedure, estimated cost, insurance provider, patient contact, doctor's name, doctor's title, patient email, procedure date, and procedure time.

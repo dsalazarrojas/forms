@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about parental engagement complaints from students. It's intended for internal use within the educational institution, and the data will be used to address and resolve the issues raised by parents. To ensure that your complaint is handled efficiently, please make sure to fill out the form accurately and completely. If you've already submitted a complaint, please note that you won't receive a response to this form, as it's only for internal use and not for public feedback or complaints. If you're unsure about any of the fields, please refer to this guide for help.
-
-</thinking>
-
 # Parental Engagement Complaint Form - Help Guide
 ## Purpose
 The Parental Engagement Complaint Form is a tool for students to report incidents of poor parental engagement or concerns about their educational institution. This form will help the institution's administration to address and resolve these issues effectively.

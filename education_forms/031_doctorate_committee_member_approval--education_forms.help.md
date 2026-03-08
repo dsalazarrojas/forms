@@ -1,5 +1,3 @@
-<thinking>...The form "Doctorate Committee Member Approval" is used to collect information about a committee member's approval status for a doctorate candidate. It is used to ensure that each committee member has reviewed and approved or not approved the candidate's work. This form is typically used in academic settings to streamline the approval process and reduce paperwork. Before proceeding, please ensure that you are using this form for the correct purpose and that you have not already completed it for the same committee member...</thinking>
-
 # Doctorate Committee Member Approval - Help Guide
 ## Purpose
 The "Doctorate Committee Member Approval" form is used to collect information about a committee member's approval status for a doctorate candidate. It is typically used in academic settings to streamline the approval process and reduce paperwork.

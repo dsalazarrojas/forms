@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who want to nominate someone for an award in the education sector. The purpose of this form is to collect data on the nominee's performance and characteristics, as well as the voter's background and reason for nomination. 
-
-To ensure that the form is filled out correctly and in line with the intended purpose, please review each field carefully to understand what information is being requested.
-
-This form should not be used to collect duplicate or redundant information. Each field is designed to collect unique and relevant data for the award nomination process.
-
-</thinking>
-
 # Awards Nomination 2 Red Theme And Responsive - Help Guide
 ## Purpose
 This form is designed to collect information for an award nomination in the education sector.

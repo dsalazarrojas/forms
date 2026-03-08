@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Meier Hall Resident Advisor Report Form. The form is designed to capture relevant information from residents of Meier Hall, with the ultimate goal of providing a comprehensive report that will guide decision-making and support services. The form is likely used by staff or administrators to gather information about residents' goals, personal details, and other relevant aspects of their living experience. To ensure that the report is complete and accurate, users should carefully review and fill out each field according to the instructions below.
-</thinking>
-
 # Meier Hall Resident Advisor Report Form - Help Guide
 ## Purpose
 The Meier Hall Resident Advisor Report Form is designed to gather information about residents of Meier Hall, enabling staff and administrators to better understand their needs and experiences.

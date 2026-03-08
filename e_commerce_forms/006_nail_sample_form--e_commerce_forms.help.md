@@ -1,17 +1,3 @@
-<thinking>
-
-This form is intended for customers to provide their feedback and suggestions on our nail polish product samples. It will help us understand their preferences and improve our product offerings. The form is designed to be completed by multiple users, as it allows for multiple selections to be made in the "Choose Nail Sample" field. The form is currently not required, but it's essential to provide their contact information to allow us to follow up on their feedback.
-
-Please note that the form is designed to be completed with the following fields:
-
-*   "Choose Nail Sample" (select multiple): Allows customers to select one or more nail samples that they have received.
-*   "Order": This field will be used for internal purposes and should only be filled in by customers if they have a valid reason to do so. In most cases, it's recommended to leave it blank.
-*   "Email": A field to collect the customer's contact email address.
-*   "Phone": A field to collect the customer's contact phone number.
-*   "Date": This field will be used to track the date the customer received the nail samples.
-
-</thinking>
-
 # Nail Sample Form - Help Guide
 ## Purpose
 The "Nail Sample Form" is designed for customers to provide their feedback and suggestions on our nail polish product samples.

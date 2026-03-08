@@ -1,23 +1,3 @@
-<thinking>
-The Government Contract Discharge Form is a document used to formally end a government contract. It is used by government agencies to record the discharge of a contract, which involves the termination of a contract by the client or the agency. This form is typically used in situations where the client has decided not to continue with the contract or has found another service provider to complete the work. The purpose of the form is to document the contract's status change and provide relevant information for future reference.
-
-To complete this form, the user will need to provide the following information:
-
-- The contract number
-- The client's name and contact details
-- The start and end dates of the contract (if applicable)
-- The client's signature (approval status)
-- Agency acknowledgement of the contract's discharge
-- The contract status (active, inactive, or discharged)
-- A brief remarks section for any additional comments
-- The attached file or document related to the contract
-- The contact information of the agency and contractor
-- The contract amount
-
-Before filling out this form, please ensure that you have all the necessary information and documents required to complete it accurately. This form should not be used to duplicate or replace any existing contracts or agreements. Please note that the fields marked as "optional" can be left blank if not applicable.
-
-</thinking>
-
 # Government Contract Discharge Form - Help Guide
 ## Purpose
 This form is used to formally end a government contract. It is used by government agencies to record the discharge of a contract, which involves the termination of a contract by the client or the agency.

@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that the "prayer_request_form_template" form is used correctly and efficiently by end users, it's essential to clarify the purpose of this form and provide clear guidance on its completion. The purpose of the "prayer_request_form_template" form is to collect information from users for prayers and prayer requests.
-
-We should also consider verifying that this form is not already completed by the user to avoid duplication.
-
-</thinking>
-
 # prayer_request_form_template - Help Guide
 ## Purpose
 The "prayer_request_form_template" form is designed to collect information from users for prayers and prayer requests. It is intended to help us better understand the needs and intentions of our users, enabling us to provide more personalized and effective support.

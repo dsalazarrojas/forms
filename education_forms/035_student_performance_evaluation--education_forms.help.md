@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to evaluate a student's performance. This form allows educators to assess a student's progress, attendance, and other factors that contribute to their overall performance. 
-The form is used to gather information on a student's strengths and weaknesses, which can help educators provide targeted support and guidance to improve their performance. 
-This form is not intended for other purposes, such as student admissions or enrollment. It is a specific tool for evaluating student performance.
-This form is a one-time evaluation, and the responses will be used to inform future evaluations of the same student.
-</thinking>
-
 # Student Performance Evaluation - Help Guide
 ## Purpose
 The Student Performance Evaluation form is used to gather information on a student's performance, progress, and attendance. It helps educators to assess a student's strengths and weaknesses and provide targeted support to improve their performance.

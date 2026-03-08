@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who want to participate in a job fair. The form is intended to be completed by students who are interested in exploring potential job opportunities. This form should not be used by companies or recruiters, as it is not designed for them. It's essential to ensure that the form is completed correctly to avoid any duplication of efforts or misunderstandings. To avoid any confusion, please review the form carefully and make sure you're completing it for the correct purpose. If you're unsure about any of the fields or their purpose, please contact the form administrators for clarification.
-</thinking>
-
 # Student Job Fair Registration Form - Help Guide
 ## Purpose
 The Student Job Fair Registration Form is designed to collect information from students who want to participate in a job fair. It's intended to help students showcase their interests, skills, and availability for potential job opportunities.

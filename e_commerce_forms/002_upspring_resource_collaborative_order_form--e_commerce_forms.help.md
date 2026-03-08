@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for collaborative orders, which is an umbrella term that refers to situations where multiple parties are involved in an order process. The form is intended to gather necessary details from customers, such as family information, contact information, order details, payment methods, and shipping information. The form also includes fields to track order status, payment terms, and other relevant details. The purpose of this form is to facilitate efficient and accurate order management.
-
-To prevent duplication, this form has been generated based on public survey topics and industry categories, and it does not copy or use proprietary content from any form creation platforms.
-
-This form is a text-based form, consisting of multiple sections or pages. The following guide will walk you through each field and its corresponding page.
-
-</thinking>
-
 # upspring_resource_collaborative_order_form - Help Guide
 ## Purpose
 The upspring_resource_collaborative_order_form is designed to collect information from customers for collaborative orders.

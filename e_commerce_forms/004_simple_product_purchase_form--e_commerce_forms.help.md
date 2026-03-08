@@ -1,12 +1,3 @@
-<thinking>
-# Internal reasoning block (not output)
-This form is designed to collect user information for the purposes of simple product purchase transactions. It is crucial that the form is filled out carefully to ensure accurate and efficient order processing.
-
-Before starting, please ensure that you have reviewed the form carefully to avoid any duplication of effort. The form has 10 fields which are all crucial for completing the transaction accurately.
-
-Please note that this form is intended for a single product purchase, and the quantity field is used to determine the number of items to purchase.
-</thinking>
-
 # simple_product_purchase_form - Help Guide
 
 ## Purpose

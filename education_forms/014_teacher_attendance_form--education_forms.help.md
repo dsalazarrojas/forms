@@ -1,33 +1,3 @@
-<thinking>
-This form seems to be designed for tracking the attendance of teachers at workshops or events. The purpose of this form is to gather information about the teacher's attendance, which may be used for reporting or analysis. This form appears to be relevant to the education domain, specifically for tracking attendance in educational settings. To prevent duplication, it's likely that this form is meant to be filled out once per event/workshop. 
-
-The form consists of several fields that require specific information from the teacher:
-- **Teacher's Attendance Form** (Page 1)
-- **Workshop Name** (Page 2)
-  - A text field to enter the name of the workshop.
-  - This field is required and should be filled out to accurately record the workshop details.
-- **Date** (Page 2)
-  - A date field to enter the date the workshop took place.
-  - This field is required and should be filled out in the correct format (e.g., MM/DD/YYYY).
-- **Time** (Page 2)
-  - A time field to enter the time the workshop started.
-  - This field is required and should be filled out in 24-hour format (e.g., 08:00).
-- **Location** (Page 3)
-  - A text field to enter the location of the workshop.
-  - This field is required and should be filled out with the exact address or name of the venue.
-- **Attendees** (Page 4)
-  - A select multiple field to indicate if you attended the workshop.
-  - This field is required and should be filled out with either "Yes" or "No".
-- **Notes** (Page 5)
-  - A free-text field to enter any additional comments or remarks about the workshop.
-  - This field is optional and can be used to provide more context or information about the workshop.
-- **Synced with App** (Page 6)
-  - A select one field to indicate if the workshop was synced with the app.
-  - This field is not required but can be useful for tracking app usage.
-
-The form should be filled out carefully, as the information gathered will be used for reporting and analysis. Each field should be completed in the correct format, and any additional comments or remarks should be concise and clear. The form can be submitted once all fields have been filled out.
-</thinking>
-
 # Teacher Attendance Form - Help Guide
 ## Purpose
 This form is designed to track the attendance of teachers at workshops or events.

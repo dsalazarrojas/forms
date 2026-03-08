@@ -1,7 +1,3 @@
-<thinking>
-This form is for campus scheduling, allowing users to submit event information with the goal of booking a suitable time and location within the campus. The form will be used to organize student events, lectures, meetings, sports events, social gatherings, and workshops. To ensure accurate and timely scheduling, it's essential to follow this form closely and provide truthful information. Please ensure that the event type, date, time, location, and contact information are accurate and complete. This form is not intended for events that require special permission or approval beyond campus scheduling.
-</thinking>
-
 # Campus Scheduling Form - Help Guide
 ## Purpose
 This form is designed to help campus administrators schedule events such as lectures, meetings, sports events, and other campus activities in a efficient and organized manner.

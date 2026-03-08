@@ -1,7 +1,3 @@
-<thinking>
-The form seems to be designed for collecting research information, likely for academic or scientific research purposes. The form consists of several fields that gather details about the research project, question, objective, methodology, and other relevant information. The fields are divided into two pages: "First Page" and "Second Page". The "First Page" includes fields for "Research Project", "Research Question", "Research Objective", and "Research Form First Page Additional Information", all of which are required. The "Second Page" includes fields for "Research Form Second Page" and "Research Form Additional Information", both of which are not required. Each field is designed to collect specific information related to the research project.
-</thinking>
-
 # Research Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a research project, including the project's objective, methodology, and other relevant details. The form helps researchers provide accurate and comprehensive information to facilitate effective research and collaboration.

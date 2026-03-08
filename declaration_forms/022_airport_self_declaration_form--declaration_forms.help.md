@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the Airport Self Declaration Form. This form is designed to gather essential traveler information for airport security and immigration purposes. The form is split into two main sections: "Traveler Information" and "Flight and Travel Details." Each section is further divided into individual fields that require specific information from the traveler. The form is intended for travelers who are arriving at or departing from an airport, and it is essential to fill it out accurately and truthfully.
-
-Before proceeding, please ensure that you have all the necessary information and documents ready. This form should not be used for duplicate or multiple travelers. If you need to declare multiple travelers, please use a separate form for each individual.
-
-</thinking>
-
 # Airport Self Declaration Form - Help Guide
 ## Purpose
 This form is designed to gather information from travelers for airport security and immigration purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on students' cumulative records, likely for educational or administrative purposes. It's crucial to fill out this form accurately to avoid duplication of efforts or errors. Please ensure that each field is filled in according to the required information, and review the form thoroughly before submission.
-</thinking>
-
 # Cumulative Record Collection Form Template - Help Guide
 ## Purpose
 This form is designed to collect data on students' cumulative records for educational or administrative purposes.

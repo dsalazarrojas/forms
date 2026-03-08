@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for school administrators or bus drivers to conduct pre-trip inspections on school buses to ensure they are in good condition and ready for transportation. The form's purpose is to gather information about the bus's condition, safety features, and identification details. This form will help identify any potential issues that need to be addressed before the bus is put into service. To avoid duplication, this form should only be used for pre-trip inspections and not for regular bus maintenance records.
-</thinking>
-
 # School Bus Pre-Trip Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to be a quick and easy reference guide for pre-trip inspections of school buses. It helps drivers and administrators ensure that each bus is in good working condition and meets all necessary safety and regulatory requirements.

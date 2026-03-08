@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chemistry Exam Study Guide Form - Help Guide
 
 ## Purpose

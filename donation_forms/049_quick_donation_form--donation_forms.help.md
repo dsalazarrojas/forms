@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to make quick donations to organizations in need. The form is designed to collect basic information from the user, including the selected fund, donation amount, and any additional message they may want to include. This form is not intended for large, detailed donations, but rather for small, one-off contributions.
-
-Before filling out this form, please ensure that you have not already made a donation to this organization. If you have any existing information or donations associated with your account, it may be duplicated by filling out this form again.
-
-</thinking>
-
 # Quick Donation Form - Help Guide
 ## Purpose
 The Quick Donation Form is a simple, user-friendly interface for making donations to various funds. This guide will walk you through each field to help you get started.

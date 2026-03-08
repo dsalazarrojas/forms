@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect customer information for ordering burgers from a restaurant. It is a general-purpose form for customers to submit their order details, including contact information, order preferences, and payment information. This form is intended for customers who are ordering for themselves or others, and it is not intended for corporate or bulk orders. The form is designed to be used in an online or in-person environment.
-
-</thinking>
-
 # Burger Order Form - Help Guide
 
 ## Purpose

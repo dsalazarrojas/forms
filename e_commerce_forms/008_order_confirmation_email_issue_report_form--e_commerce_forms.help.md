@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report issues with order confirmation emails, which are automatically sent to customers after an order is confirmed. The purpose of this form is to gather information from support agents about the problems they are experiencing with these emails, so that they can be addressed and resolved efficiently. 
-
-The form should only be filled out by support agents, not customers. Support agents are expected to provide detailed and specific information about the issue, including the order ID, order status, and description of the problem. 
-</thinking>
-
 # Order Confirmation Email Issue Report Form - Help Guide
 ## Purpose
 The Order Confirmation Email Issue Report Form is used to report issues with order confirmation emails that have not been delivered to customers or have been delivered in an unexpected way.

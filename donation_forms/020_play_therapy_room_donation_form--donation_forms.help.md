@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donation information for the Play Therapy Room, likely for tracking and accounting purposes. This form likely helps in ensuring that donations are properly recorded and acknowledged for the relevant teams or departments. To avoid duplication, ensure this form is not filled out by the same user in a short timeframe, and review existing records before making a new submission.
-</thinking>
-
 # Play Therapy Room Donation Form - Help Guide
 ## Purpose
 

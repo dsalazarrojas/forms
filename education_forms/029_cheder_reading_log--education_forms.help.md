@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the reading log of a student, including the student's information, weekly reading minutes, and reading assignments. This form is likely used in an educational setting to monitor and record student's reading progress. To ensure that this form is used correctly, please make sure that all required fields are filled in accurately. This form should not be used for duplicate purposes or for students who are not enrolled in the same program.
-</thinking>
-
 # Cheder Reading Log - Help Guide
 
 ## Purpose

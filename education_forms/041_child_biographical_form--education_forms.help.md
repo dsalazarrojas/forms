@@ -1,32 +1,3 @@
-<thinking>
-The purpose of this form is to collect biographical information about a child, including their personal details, medical history, and contact information for parents or guardians. This form is likely to be used in educational or healthcare settings. 
-
-Before proceeding, please ensure you have permission to access this form and that the information collected will be used for legitimate purposes. Additionally, double-check that the form is not being duplicated or submitted unnecessarily. 
-
-This form is divided into several sections, each with its own set of fields and requirements. The fields are grouped into two main categories: child information and contact information. Child information includes fields such as name, date of birth, gender, and medical history. Contact information includes fields for parents or guardians, such as phone numbers and email addresses. 
-
-Please note that some fields are marked as optional, which means they do not require a response. However, providing accurate and complete information is essential for accurate and effective use of the form. 
-
-Before filling out the form, ensure you have the necessary permissions and follow any applicable laws and regulations regarding data collection and usage. 
-
-The following fields are required and must be filled out: 
-- Child's first name
-- Child's last name
-- Date of birth
-- Gender
-- Primary language spoken at home
-- Parent or guardian 1 name
-- Relationship to child
-- Parent or guardian 1 phone
-- Emergency contact name
-- Emergency contact relationship
-- Emergency contact phone
-- Immunization status
-
-Please fill out the form carefully and accurately, paying attention to the required fields and any additional information requested. This will ensure the form is completed correctly and the intended purpose is served.
-
-</thinking>
-
 # Child Biographical Form - Help Guide
 ## Purpose
 This form is designed to collect biographical information about a child, including their personal details, medical history, and contact information for parents or guardians.

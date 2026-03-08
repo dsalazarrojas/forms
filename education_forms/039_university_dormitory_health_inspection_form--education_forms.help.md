@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this form that explains its purpose, how to complete it, and what each field means. I will use the provided YAML fields to base the explanation and aim for conciseness, clarity, and practicality. The form is used for the University Dormitory Health Inspection Form, which is used to inspect dormitories on campus and report any health and safety concerns. This guide will help users understand the form's purpose, complete it correctly, and know what each field represents.</thinking>
-
 # University Dormitory Health Inspection Form - Help Guide
 ## Purpose
 The University Dormitory Health Inspection Form is used to inspect dormitories on campus and report any health and safety concerns. This form helps campus housing staff identify potential issues and take corrective action to ensure a safe and healthy living environment for students.

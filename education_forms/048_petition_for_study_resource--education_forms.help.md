@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Petition For Study Resource" form, we should consider the following steps:
-
-1. Clearly state the purpose of the form: The form is used to collect information from students or supporters who want to request or provide resources for academic purposes.
-2. Ensure that users understand how to navigate the form: The form is divided into several fields that require user input. Each field should be labeled clearly and have a corresponding explanation.
-3. Provide a field-by-field explanation to ensure users understand each field's purpose and requirements.
-
-Given the input form YAML, we'll break down each field into a concise and concrete description to help users complete the form effectively.
-
-</thinking>
-
 # Petition For Study Resource - Help Guide
 ## Purpose
 This form is used to collect information from students or supporters who want to request or provide resources for academic purposes.

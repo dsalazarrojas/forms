@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a t-shirt order. The form is likely to be used by a small business or individual to gather details about the customer, their shipping address, payment method, and order specifics. Before filling out this form, please ensure you are not duplicating an order or providing incorrect information. If you're unsure about any field, feel free to contact [form@gic.mx](mailto:form@gic.mx) for clarification.
-</thinking>
-
 # PayJunction T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect order details from customers for t-shirts. Please fill out the form accurately and completely to ensure a smooth and successful order experience.

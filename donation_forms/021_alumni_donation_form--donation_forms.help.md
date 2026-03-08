@@ -1,9 +1,3 @@
-<thinking>
-
-We designed this form to collect information for alumni donations from University of [University Name] to support various areas of the institution. This form ensures that donors' details are captured accurately and efficiently, and their preferences are respected. Please note that the form is designed to be completed by alumni, and some fields are mandatory to ensure accurate tracking of donation details.
-
-</thinking>
-
 # Alumni Donation Form - Help Guide
 ## Purpose
 The Alumni Donation Form is designed to collect donations from University of [University Name] alumni, supporting various areas of the institution. This form helps to track donation details and ensures that donors' preferences are respected.

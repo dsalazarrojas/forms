@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals applying to be a preschool teacher. The form gathers data about the applicant's personal details, contact information, teaching experience, education background, and job title. This form is likely used in a school or educational institution to evaluate potential candidates for a teaching position in a preschool setting.
-</thinking>
-
 # Preschool Teacher Application Form - Help Guide
 ## Purpose
 This form is designed to collect application information from individuals interested in becoming a preschool teacher.

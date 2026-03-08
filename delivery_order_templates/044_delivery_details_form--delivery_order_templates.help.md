@@ -1,5 +1,3 @@
-<thinking>Before proceeding, let's break down the form's purpose and ensure we're not duplicating any existing information. The form is designed to collect delivery details, and it seems to be a comprehensive form with multiple pages. Each page has a unique label and ID. We'll aim to create a clear and concise help guide that explains each field's purpose and requirement status.</thinking>
-
 # delivery_details_form - Help Guide
 ## Purpose
 The delivery_details_form is a comprehensive form designed to collect delivery details. It is likely used for tracking or managing delivery-related tasks.

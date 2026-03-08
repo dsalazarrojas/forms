@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for schools to register their delegation, which is a key part of the school's administration process. The form is designed to collect necessary information from the school's staff or representatives to ensure proper delegation and communication. Please ensure that you have not already submitted this form before, as it can be considered a duplicate submission. It's essential to fill out the form accurately and thoroughly to avoid any errors or discrepancies.
-</thinking>
-
 # School Delegation Registration Form - Help Guide
 ## Purpose
 

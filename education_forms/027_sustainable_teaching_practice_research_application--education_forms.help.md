@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from educators about their research applications and sustainable teaching practices. It's meant to be a starting point for understanding the educator's interests, goals, and experiences related to research and teaching. The form is not meant to be a comprehensive or exhaustive survey, but rather a brief and focused tool to gather relevant information.
-</thinking>
-
 # Sustainable Teaching Practice Research Application - Help Guide
 
 ## Purpose

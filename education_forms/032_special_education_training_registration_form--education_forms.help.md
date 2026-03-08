@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Special Education Training Registration Form - Help Guide
 
 ## Purpose

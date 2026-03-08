@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weight Loss Questionnaire Form - Help Guide
 
 ## Purpose

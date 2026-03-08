@@ -1,9 +1,3 @@
-<thinking>
-
-We use this form to gather evaluations of Continuing Education (CE) courses to assess their quality and effectiveness. This information helps us to identify areas of improvement and make informed decisions about course development and offerings. It's essential to fill out this form accurately and honestly to ensure that we get the most valuable feedback possible. Please note that your responses will be kept confidential and used only to improve our programs.
-
-</thinking>
-
 # Continuing Education Program Course Evaluation Form - Help Guide
 ## Purpose
 

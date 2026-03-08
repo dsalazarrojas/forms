@@ -1,30 +1,3 @@
-<thinking>
-The Educational Leave Time Off Form is designed to be used by employees to request time off from their work for educational purposes. This form helps employees notify their manager or HR department about their leave requests, ensuring that their absence is accounted for and approved in a timely manner. The form is intended to be used when an employee needs to take a leave of absence for education-related activities such as attending a conference, taking online courses, or pursuing a degree. By filling out this form, employees can provide necessary details about their leave, including the reason for their absence, dates of absence, and the status of their request. The form also includes fields for submitting the request and tracking the progress of the leave approval process.
-
-Please note that this form is for educational purposes only and should not be used for other types of leave requests such as vacation or personal leave.
-
-Also, please be aware that if you have already submitted a similar request in the past, you may not need to submit a new request. Check with your HR department to see if your previous request is still active or if it has been approved.
-
-The following fields are included in this form:
-
-* `Employee ID`: A unique identifier for the employee.
-* `Prophets`: Select multiple options for the reason for leave.
-* `Reason`: Enter a brief description of the reason for leave.
-* `Start Date`: Date when the leave starts.
-* `End Date`: Date when the leave ends.
-* `Number of Days`: The number of days the employee will be absent.
-* `Status`: Select the status of the leave request.
-* `Comments`: Enter any additional comments about the leave request.
-* `Submitted By`: Email address of the employee who submitted the request.
-* `Created By`: Email address of the person who created the request.
-* `Updated By`: Email address of the person who last updated the request.
-* `Submitted Date`: Date when the request was submitted.
-* `Approved By`: Email address of the person who approved the request.
-* `Updated Date`: Date when the request was last updated.
-* `Approved Date`: Date when the request was approved.
-
-</thinking>
-
 # Educational Leave Time Off Form - Help Guide
 
 ## Purpose

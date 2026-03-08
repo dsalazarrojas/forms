@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their reading preferences and background. The purpose of this form is to gather data that can be used by educators or administrators to better understand the needs and interests of students. This form is likely to be used in an educational setting, possibly for course or subject selection, or to gather demographic information for research or statistical purposes.
-
-Before proceeding, please ensure that you are not duplicating your submission. If you have previously submitted this form, please refer to your previous response for any necessary updates or revisions.
-
-</thinking>
-
 # reading_information_request - Help Guide
 ## Purpose
 The "reading_information_request" form is used to collect information from users about their reading preferences and background. This data will help educators or administrators to better understand the needs and interests of students.

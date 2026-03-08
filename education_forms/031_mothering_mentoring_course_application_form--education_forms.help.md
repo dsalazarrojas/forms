@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals interested in participating in the Mothering Mentoring Course. The purpose of this form is to gather information from applicants who want to enroll in the course. It is designed to be completed by those who are new to the program, allowing them to express their interest and provide details about their application. To ensure accuracy and efficiency in the application process, it is essential to complete this form correctly. Please check that you are eligible to apply and that you are not repeating an application.
-</thinking>
-
 # Mothering Mentoring Course Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from applicants who are interested in enrolling in the Mothering Mentoring Course. Completing this form will help the course administrators review your application and ensure that you are a good fit for the program.

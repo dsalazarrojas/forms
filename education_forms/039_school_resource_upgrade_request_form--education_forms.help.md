@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from school administrators to upgrade school resources. The purpose of this form is to streamline the process of requesting upgrades for schools, ensuring that the required information is collected in a standardized and efficient manner. This form should only be filled out by authorized school personnel. Please note that duplicate submissions will not be accepted.
-</thinking>
-
 # School Resource Upgrade Request Form - Help Guide
 ## Purpose
 The School Resource Upgrade Request Form is used by school administrators to request upgrades for school resources, ensuring that the required information is collected in a standardized and efficient manner.

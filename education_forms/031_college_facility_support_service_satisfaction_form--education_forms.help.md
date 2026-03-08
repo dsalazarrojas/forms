@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students on their satisfaction with various facilities and services offered by the college. The purpose of this form is to collect data that can be used to identify areas of improvement and strengths in the college's facilities and services. By completing this form, you will be providing valuable input that can help the college better serve students' needs.
-
-Before starting, please note that you can remain anonymous, and your input will be kept confidential. However, if you would like to provide your name and ID, please use the corresponding fields. Your responses will help us to identify trends and areas that need improvement.
-
-Please go through each section carefully and rate the quality of each facility or service using the options provided. You can choose from "Excellent", "Good", "Satisfactory", "Needs Improvement", and "Poor". For each question, please select the option that best describes your experience.
-
-If you have any additional feedback or suggestions, please use the "Additional Feedback or Suggestions" section at the end of the form.
-
-</thinking>
-
 # College Facility & Support Service Satisfaction Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students on their satisfaction with various facilities and services offered by the college. This feedback will help the college identify areas of improvement and strengths.

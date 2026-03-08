@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather general information from users about their personal details, contact information, and general knowledge. 
-
-The form is used in a "Personal Information Vocabulary Quiz" context which suggests that it might be a tool to help users learn new vocabulary related to personal information. However, this could be open to interpretation and requires further context to understand its true purpose.
-
-Given the form structure, it could be used as a starting point or a foundation for more advanced knowledge gathering or analysis tools.
-</thinking>
-
 # Personal Information Vocabulary Quiz - Help Guide
 ## Purpose
 The Personal Information Vocabulary Quiz form is designed to gather various types of data from users, including general knowledge, personal details, contact information, and other personal information. The form is intended to be a starting point for users to learn new vocabulary or as a foundation for further analysis.

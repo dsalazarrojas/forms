@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Communication Preferences Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your preferences for academic communication, which will help us better understand your needs and improve our communication channels and services.

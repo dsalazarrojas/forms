@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to be a quiz for testing the knowledge of individuals on European Criminal Law. The purpose of this form is to assess the user's understanding of the subject matter. 
-
-The form is composed of 6 fields, each representing a question or a related aspect of European Criminal Law. To provide a proper response, the user should have a good understanding of the subject, but the form is also designed to be completed by anyone willing to learn and take the quiz.
-
-This form is not meant to be a comprehensive exam or a substitute for professional legal education. It's a tool for assessing the user's knowledge and providing a starting point for further learning.
-
-Please make sure to complete the form seriously, as the questions are designed to challenge your knowledge and understanding of European Criminal Law.
-
-</thinking>
-
 # European Criminal Law Quiz - Help Guide
 ## Purpose
 The European Criminal Law Quiz is a tool for assessing your knowledge and understanding of European Criminal Law. This form is designed to be a starting point for learning and not a comprehensive exam.

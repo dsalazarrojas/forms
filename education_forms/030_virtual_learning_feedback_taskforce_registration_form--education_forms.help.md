@@ -1,7 +1,3 @@
-<thinking>
-The Virtual Learning Feedback Taskforce Registration Form is designed to gather information from individuals who want to participate in the taskforce, which focuses on providing feedback on virtual learning experiences. The form asks for contact information, organization details, and job title, allowing the taskforce to reach out and follow up with registered participants. This form is designed to be filled out by potential participants who want to join the taskforce. To ensure accuracy, please fill in the correct information in each field and make sure not to duplicate any registration. Only one registration per person is allowed, so if you've already registered, please do not fill in the form again.
-</thinking>
-
 # Virtual Learning Feedback Taskforce Registration Form - Help Guide
 ## Purpose
 The Virtual Learning Feedback Taskforce Registration Form is designed to gather information from individuals who want to participate in the taskforce, which focuses on providing feedback on virtual learning experiences.

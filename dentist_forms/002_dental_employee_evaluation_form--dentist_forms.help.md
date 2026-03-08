@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and evaluation from a superior or peer on the performance of a dental employee. The purpose of this form is to assess the employee's overall experience, job performance, and areas for improvement, as well as provide a recommendation for their next steps. This form will help to:
-
-* Evaluate the employee's strengths and weaknesses
-* Identify areas for improvement
-* Determine a recommendation for the employee's future role
-* Assess the overall experience and rating of the employee
-
-This form is intended to be completed by a superior or a peer who has had regular interactions with the employee and has a good understanding of their work and performance.
-
-</thinking>
-
 # Dental Employee Evaluation Form - Help Guide
 ## Purpose
 The Dental Employee Evaluation Form is a tool to assess the performance and overall experience of a dental employee.

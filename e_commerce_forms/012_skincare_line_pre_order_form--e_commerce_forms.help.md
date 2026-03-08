@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended for customers to pre-order a skincare line. It captures the essential information needed to process the order and provide the best possible customer service.
 
 The form consists of multiple fields that are split across different pages, each with a specific set of questions and fields. The form's purpose is to guide the customer through the ordering process, ensuring that the necessary information is collected accurately and efficiently.

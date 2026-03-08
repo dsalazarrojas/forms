@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "travel_movement_declaration_form", is likely designed for individuals or organizations to declare their travel movements, possibly for official or regulatory purposes. The form might be used in industries such as travel and tourism, law enforcement, or border control. Given the text-based input fields on each page, users may be required to provide detailed descriptions or reports of their travel activities. The form's structure, with five separate pages, suggests it's meant to be filled out in stages or in sections, possibly to accommodate extensive information or to reduce overwhelm. The form's absence of conditional logic or branching suggests it might be a straightforward, self-contained declaration form. I'll base the following explanation on these assumptions.
 
 # travel_movement_declaration_form - Help Guide

@@ -1,11 +1,3 @@
-<thinking>
-To be honest, I'm not sure what the form is for, but I'll do my best to create a help guide based on the provided YAML.
-
-It appears that the form is related to education and grants, so I'll assume it's for educators or institutions seeking funding for open education resources. However, I'd love to know more about the specific purpose of the form and the context in which it's being used. 
-
-Let's hope this help guide is helpful to the end users despite my lack of clarity on the form's purpose.
-</thinking>
-
 # Open Education Resource Grant Application Form - Help Guide
 ## Purpose
 This form is for educators or institutions seeking funding for open education resources. However, without more information, I'm not sure what specific purpose it's intended to serve.

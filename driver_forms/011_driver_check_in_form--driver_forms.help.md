@@ -1,8 +1,3 @@
-<thinking>**Form Purpose and Relevance:**
-The Driver Check In Form is a crucial document used for tracking and recording driver information for various purposes, such as scheduling pickups and dropoffs, tracking vehicle details, and recording remarks and comments. To ensure accurate and complete records, it is essential to understand the form's purpose and the importance of filling it out correctly. This form is relevant to both drivers and administrators, as it facilitates smooth operations and helps in making informed decisions.
-
-This form may not be suitable for all users or situations, so please verify the form's relevance before proceeding.</thinking>
-
 # Driver Check In Form - Help Guide
 ## Purpose
 The Driver Check In Form is a critical document for tracking and recording driver information for pickups and dropoffs. It is essential to fill out this form accurately to ensure correct and complete records.

@@ -1,7 +1,3 @@
-<thinking>
-I'm thinking this form is intended for collecting contact information and demographic details of a student from their parent/guardian. However, I need to verify that the form is being used for the right purpose and not being duplicated with other forms that collect similar information. Assuming it's correct, this form seems to be a simple contact form with some additional demographic fields to help in categorizing and understanding the students' backgrounds. The fields appear to be fairly self-explanatory, but I'll make sure to provide clear explanations for each field to guide the end-users through the process.
-</thinking>
-
 # Student Contact Form - Help Guide
 ## Purpose
 The Student Contact Form is designed to collect contact information and demographic details of a student from their parent/guardian, which will help in categorizing and understanding the students' backgrounds for better communication and support.

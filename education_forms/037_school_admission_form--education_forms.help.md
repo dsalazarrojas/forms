@@ -1,6 +1,3 @@
-<thinking> 
-This form is likely used in an educational institution to collect information about a student's admission, specifically their personal details, guardians' information, and school-related information. This form is likely used for administrative purposes, such as registration, attendance, or other educational activities. Please ensure you are completing this form for the correct purpose and in the correct context.</thinking>
-
 # School Admission Form - Help Guide
 ## Purpose
 The School Admission Form is used to collect necessary information about a student's admission to the school.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from dance class participants regarding their safety and emergency contact details. It ensures that participants acknowledge and confirm their understanding of the dance class rules and procedures. By completing this form, participants are confirming their safety check-in and acknowledging their emergency contact information. This form will help the dance studio staff to quickly identify the participants and their emergency contacts in case of an emergency.
-</thinking>
-
 # Dance Class Participant Safety Check In Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from dance class participants, ensuring their safety and well-being during the class. It's a quick and easy way to confirm their emergency contact details and acknowledge their understanding of the dance class rules and procedures.

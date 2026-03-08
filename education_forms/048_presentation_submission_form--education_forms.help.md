@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from presenters for presentations to be submitted to a platform or event. The goal is to gather basic details about the presenter and their presentation. This form should only be used for presentations that are intended for internal review or external publication. Please ensure that this form is not used for duplicate presentations or submissions already reviewed by the platform or event organizers.
-</thinking>
-
 # Presentation Submission Form - Help Guide
 
 ## Purpose

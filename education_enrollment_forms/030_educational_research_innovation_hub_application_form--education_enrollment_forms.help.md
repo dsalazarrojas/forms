@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Educational Research Innovation Hub Application Form". This form is designed for researchers and educators to apply for funding and resources for their projects at an Educational Research Innovation Hub. The form aims to collect essential information about the applicant's project, such as a clear description, research goals, and contact details. To ensure the form is completed accurately and consistently, we need to explain each field in detail.
-</thinking>
-
 # Educational Research Innovation Hub Application Form - Help Guide
 ## Purpose
 The Educational Research Innovation Hub Application Form is designed for researchers and educators to apply for funding and resources for their projects. It collects essential information about the project, including a clear description, research goals, and contact details.

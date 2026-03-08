@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to help users create a gift basket order template for a gift-giving occasion. The form allows users to select one or multiple products, provide gift details, contact information, payment information, and delivery details. The user can choose whether the gift is a gift card or not, and select the delivery option. This form is designed to be completed by both internal and external users.
-
-The form is divided into several sections, each with its own fields. The sections are: "Select Product", "Gift Details", "Contact Info", "Payment Info", "Gift Card", and "Delivery". The user can navigate between these sections using the "Next" and "Back" buttons.
-
-The form is not intended to be completed in one sitting, so users can save their progress and come back to it later. Each field is optional, but it's recommended that users fill in all the required information to get the most out of the form.
-
-There's no duplicate logic in this form, and it's not intended to be used for any other purpose than creating a gift basket order template.
-</thinking>
-
 # Gift Basket Order Form Template - Help Guide
 ## Purpose
 The Gift Basket Order Form Template is designed to help users create a gift basket order template for a gift-giving occasion. It allows users to select one or multiple products, provide gift details, contact information, payment information, and delivery details.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create and configure a music theory quiz for educational purposes.
-The form is designed to be completed by educators to create quizzes that can be filled out on any device, shared with students, and customized as needed.
-Before proceeding, please ensure that you have reviewed the form's purpose and are aware of its relevance to your needs.
-</thinking>
-
 # Music Theory Quiz - Help Guide
 ## Purpose
 The Music Theory Quiz form is used to create interactive quizzes on music theory concepts for educational purposes.

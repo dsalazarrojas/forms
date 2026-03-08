@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to obtain acknowledgement from parents or guardians about COVID-19 school procedures. This form is designed to ensure that parents understand and agree to follow the school's protocols for handling COVID-19 cases. The form should be completed by parents who are not yet familiar with the procedures or those who need a refresher. It's essential to review the form carefully and provide accurate information to ensure that the school's records are up-to-date and compliant with regulations.</thinking>
-
 # parent_acknowledgement_form_for_covid_19_school_procedures - Help Guide
 ## Purpose
 The purpose of this form is to obtain acknowledgement from parents or guardians about COVID-19 school procedures, ensuring that they understand and agree to follow the school's protocols.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from patients for appointment scheduling at a dental clinic specializing in orthodontic services. It is crucial that the form is filled out accurately and completely to ensure a smooth and successful experience for the patient. Before proceeding, please check that this form has not already been completed for this appointment. If it has, please refer to the existing submission or start a new form for the next patient.</thinking>
-
 # Braces Adjustment Appointment Form - Help Guide
 ## Purpose
 The Braces Adjustment Appointment Form is designed to collect vital information from patients to schedule their appointments for braces adjustment services at our dental clinic.

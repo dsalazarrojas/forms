@@ -1,24 +1,3 @@
-<thinking>
-This form is intended for users to register for a Sustainability Leadership Course. It collects personal and course-related information from the user, such as name, contact details, main goal for attending the course, preferred format for feedback, and course dates. 
-
-Please ensure the information you provide is accurate and up-to-date. The form will only be used to gather information for the purpose of providing the course experience tailored to your needs. 
-
-This form is not intended for general public access. Only authorized personnel and course instructors will have access to your submitted information.
-
-This form will only be used until the course completion date. 
-
-Please ensure you only fill out the information that is relevant to you. 
-
-Please be aware that the course dates and feedback format are not set by default and will be communicated separately. 
-
-Please do not submit any information that would put any other individual's privacy at risk. 
-
-Please fill out this form carefully and accurately. 
-
-Please do not submit this form more than once. 
-
-</thinking>
-
 # Sustainability Leadership Course Registration Form - Help Guide
 ## Purpose
 The Sustainability Leadership Course Registration Form is designed to collect information from users to provide a tailored course experience. This form will be used to gather information about you and your course preferences.

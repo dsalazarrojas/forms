@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will follow the provided instructions to create a clear and concise guide that helps end users understand the purpose and functionality of the form.
-
-</thinking>
-
 # Educational Teaching Experience Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's educational teaching experience and employment history. It is intended to capture relevant details about the applicant's background in education and employment, which can be used for various purposes such as background checks, employment verification, or other relevant processes.

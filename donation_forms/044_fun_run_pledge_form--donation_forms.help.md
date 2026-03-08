@@ -1,7 +1,3 @@
-<thinking> 
-This form is a donation form for a fun run event, where participants can pledge to support a particular participant. The form captures information from both the participant and their supporter. The form's purpose is to collect contact and demographic information from the supporter, including their name, email, and phone number, as well as details about their relationship with the participant. The form also captures payment information and any additional notes or messages from the supporter. The fields on this form are designed to be straightforward and user-friendly, while minimizing the amount of unnecessary information to be collected from the supporter. To ensure a smooth and efficient collection process, it's essential to understand what each field represents and what information is required for completion. To that end, here's a comprehensive guide to filling out this form:
-</thinking>
-
 # Fun Run Pledge Form - Help Guide
 ## Purpose
 

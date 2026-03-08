@@ -1,7 +1,3 @@
-<thinking>
-To ensure the School Directory Form is accurate and up-to-date, we want to prevent non-duplication of data. The form should not be used for creating duplicate records. Before completing this form, please ensure that the data you are submitting is accurate and consistent. Also, please make sure that you are completing this form on behalf of the student and their family. This guide will walk you through each field to help you do so efficiently and effectively.
-</thinking>
-
 # School Directory Form - Help Guide
 ## Purpose
 This form is used to collect and store information about schools, students, and their families. The form will help us understand the demographic details of each student and their family, enabling us to better serve and support them.

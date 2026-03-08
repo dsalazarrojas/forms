@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "Graduate School Interview Form," is designed to collect information from interviewers and reviewers about a candidate's performance during a graduate school interview. The form aims to gather data on the candidate's details, evaluation, status, assigned reviewer, notes, score, assigned tool, other tools, and comments. This information will be used to help the interview committee evaluate the candidate's suitability for graduate school admission or continuation.
-
-To avoid duplication, please ensure that this form is only filled out for each candidate individually. If you need to fill out multiple forms, please ensure that each form has a unique candidate ID.
-
-When filling out this form, please provide accurate and concise information about the candidate. If you are unsure about any field, please consult the relevant guidelines or your supervisor.
-
-</thinking>
-
 # graduate_school_interview_form - Help Guide
 ## Purpose
 The Graduate School Interview Form is designed to collect information from interviewers and reviewers about a candidate's performance during a graduate school interview.

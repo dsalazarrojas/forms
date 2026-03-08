@@ -1,9 +1,3 @@
-<thinking>
-This form template is intended to collect information from school clubs about their monthly activities, events, and budget allocations. The purpose of this form is to provide a standardized way for clubs to report their progress and achievements, allowing administrators and advisors to monitor and support their activities effectively. This form should only be used for school clubs and not for other types of groups or organizations. Please ensure that you have the necessary permissions and approvals before submitting this form.
-
-This template has multiple pages with various fields for collecting detailed information about the club's events, budgets, and notes. Each field is designed to provide specific details about the club's activities and financial management.
-</thinking>
-
 # School Club Monthly Report Form Template - Help Guide
 ## Purpose
 The School Club Monthly Report Form Template is designed to help school clubs report their activities, events, and budget allocations on a monthly basis. This form provides a standardized way for clubs to report their progress and achievements to administrators and advisors.

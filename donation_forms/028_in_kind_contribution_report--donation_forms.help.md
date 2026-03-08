@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about in-kind contributions received by an organization. The form is meant to be completed by the in-kind donor, providing their details and the details of their contribution. The purpose of this form is to accurately track and record in-kind contributions, which are essential for financial reporting and transparency. The form is not intended to be reused or duplicated, as it is a one-time report for the organization.
-
-</thinking>
-
 # in_kind_contribution_report - Help Guide
 ## Purpose
 The in-kind contribution report form is used to collect detailed information from in-kind donors, including their name, address, contribution date, type, amount, and description.

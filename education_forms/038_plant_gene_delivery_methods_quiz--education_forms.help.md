@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a survey or quiz related to plant gene delivery methods. The purpose of this form is to gather information about a person's role in plant biotechnology and their understanding of gene delivery methods.
-Given the provided YAML fields, I will create a help guide for this form.
-</thinking>
-
 # Plant Gene Delivery Methods Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your role in plant biotechnology and your understanding of gene delivery methods. Please answer the questions honestly, and do not worry about the length of your answers. You will be providing information for research purposes.

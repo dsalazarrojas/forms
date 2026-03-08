@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to register users who want to donate blood. It collects essential details such as name, date of birth, contact information, and physical attributes to ensure the safety and efficiency of the donation process. To prevent duplication, users should not fill out this form if they have already been registered or are already a part of our blood donor community.
-
-The form will help us verify your details and prepare for your next donation session. Your details will be kept confidential and will only be used by authorized personnel. Please fill out the form accurately, and if you have any issues or concerns, please don't hesitate to reach out.
-</thinking>
-
 # Blood Donation Registration Form - Help Guide
 ## Purpose
 This form is designed to register individuals who want to donate blood. It collects essential details to ensure the safety and efficiency of the donation process.

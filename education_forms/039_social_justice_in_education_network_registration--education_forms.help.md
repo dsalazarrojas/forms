@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in or actively working towards social justice in the education sector. The form aims to gather personal details, interests, and contact information for the purpose of connecting individuals or organizations working towards social justice in education. 
-
-Before proceeding, please ensure that you have not previously registered with this form. This form does not collect any sensitive or financial information and is intended to provide a convenient and user-friendly way to connect with like-minded individuals and organizations. 
-
-</thinking>
-
 # social_justice_in_education_network_registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in or actively working towards social justice in the education sector. It aims to connect like-minded individuals and organizations to facilitate collaboration and networking opportunities.

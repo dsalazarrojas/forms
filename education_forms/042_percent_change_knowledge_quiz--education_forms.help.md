@@ -1,11 +1,3 @@
-<thinking> 
-This form is designed to assess the user's knowledge on percent change in a concise and structured way. The form is divided into two pages: one for the main question and another for providing details or results. Each page has several fields that require completion. The form has 7 fields in total.
-
-The purpose of this form is to determine the user's knowledge or understanding of percent change.
-
-To ensure that this form is filled out correctly, please review the following instructions.
-</thinking>
-
 # Percent Change Knowledge Quiz - Help Guide
 ## Purpose
 The Percent Change Knowledge Quiz is designed to evaluate the user's knowledge on percent change.

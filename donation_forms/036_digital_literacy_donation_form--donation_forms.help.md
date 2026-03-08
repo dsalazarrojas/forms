@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for individuals to provide their information for a digital literacy program donation. The form is designed to collect relevant information such as donor details, donation amount, payment method, frequency of donation, and contact preference. The form's purpose is to ensure that the donation is processed correctly and the donor is contacted appropriately.
-</thinking>
-
 # Digital Literacy Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals making a donation to support the digital literacy program. It will help us process your donation and stay in touch with you.

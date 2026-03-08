@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Dual Language Program Application. It appears to be used for tracking student enrollment or participation in a dual language program. The form fields are mostly focused on gathering demographic and program-related information about the student. There is a mix of text, email, phone number, date, time, and select fields, suggesting that the form is used for both collecting personal details and specific program data. There are also multiple language fields, which could be used to track the student's proficiency or proficiency in different languages. To the best of my knowledge, there is no duplicate field in the form that would make it redundant. 
-</thinking>
-
 # Dual Language Program Application - Help Guide
 ## Purpose
 The Dual Language Program Application form is designed to collect demographic and program-related information about students enrolled in the Dual Language Program.

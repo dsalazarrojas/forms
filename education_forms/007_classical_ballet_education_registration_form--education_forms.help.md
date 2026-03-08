@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students who wish to enroll in a classical ballet education program. The purpose of this form is to collect demographic data, medical information, and scheduling details from students and their parents/guardians. To ensure accuracy, it's essential to fill out the form carefully and provide accurate information. Before filling out this form, please ensure that you are not duplicating a previously submitted form.
-</thinking>
-
 # Classical Ballet Education Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students and their parents/guardians for the classical ballet education program. It includes demographic data, medical information, and scheduling details.

@@ -1,13 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Student Government Association Declaration Form", we first need to understand the purpose and context of this form. This form is designed to collect essential information from students who wish to declare their association or involvement with student government bodies or committees within the university. 
-
-This form is intended to gather personal and contact details, as well as declaration information, such as the type of student government association or committee the student wishes to join or declare themselves a part of. It's critical to note that the form has a set of required fields to ensure that students provide accurate and complete information.
-
-To complete the form effectively, users need to ensure they have all the necessary information before starting. This may involve gathering contact details, personal identification (if needed for the student identification field), and declaring their intent to join or be part of a student government association or committee.
-
-Given the fields and their labels, we can now proceed to create the user-facing help guide.
-</thinking>
-
 # Student Government Association Declaration Form - Help Guide
 ## Purpose
 

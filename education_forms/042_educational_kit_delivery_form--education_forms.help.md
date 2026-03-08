@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is being filled out for a valid educational kit delivery. This form is intended for use by staff members to provide information about delivering educational kits to schools. It is not meant to be used for non-educational purposes, as we want to ensure that we are only delivering kits to schools that actually need them. By filling out this form, staff members can provide accurate delivery information, such as the kit number, delivery method, and contact details, to ensure that the delivery goes smoothly and efficiently.
-</thinking>
-
 # Educational Kit Delivery Form - Help Guide
 ## Purpose
 This form is used to provide information about delivering educational kits to schools.

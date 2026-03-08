@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the competency of a candidate. The purpose of this form is to collect information from both the candidate and the assessor, including the candidate's contact information and ratings on their performance. This form is likely used in an educational setting to evaluate the candidate's skills and abilities.
-</thinking>
-
 # Logbook Competency Assessment - Help Guide
 ## Purpose
 The Logbook Competency Assessment form is used to evaluate a candidate's performance in a specific competency area. It captures information from both the candidate and the assessor, including contact details and ratings on performance.

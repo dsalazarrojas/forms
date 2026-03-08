@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In School Suspension Reflection Form - Help Guide
 ## Purpose
 The In School Suspension Reflection Form is designed to gather information from students regarding their experiences and actions taken during a suspension. The form helps to document incidents and reflections, which can aid in the student's growth and support. It is typically filled out by students who have been suspended from school.

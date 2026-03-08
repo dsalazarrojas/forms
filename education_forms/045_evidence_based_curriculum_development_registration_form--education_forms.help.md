@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information for curriculum development purposes. Before submitting this form, please ensure that you have all the necessary information and permissions to register your curriculum development project. This form will not be duplicated, so please do not submit multiple registrations for the same project. If you are registering multiple projects, you need to submit a separate form for each project.
-
-</thinking>
-
 # Evidence Based Curriculum Development Registration Form - Help Guide
 ## Purpose
 The "Evidence Based Curriculum Development Registration Form" is used to collect information for curriculum development projects that are based on evidence. This form is a critical component of the curriculum development process, and your completion ensures that your project is properly registered and tracked.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed to evaluate a driver's job competency, likely for a specific organization or industry. To confirm, I will review each field to understand its purpose and ensure there is no redundancy or unnecessary information.
-
-*   "driver_job_competency_evaluation_form" is likely the main form title, not a field itself.
-*   "evaluation_date" suggests this field might be related to scheduling or tracking evaluations, but it doesn't seem to be directly related to the driver's competency.
-*   "driver_name" is probably a field for recording the name of the driver being evaluated.
-
-Considering the fields provided, I will design the help guide with the given structure and requirements.
-
-</thinking>
-
 # Driver Job Competency Evaluation - Help Guide
 ## Purpose
 The Driver Job Competency Evaluation form is designed to assess a driver's performance and skills. This form helps to identify strengths and areas for improvement for a driver's job competency evaluation.

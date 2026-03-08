@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from distributors to create or update their membership records. 
-The purpose of this form is to gather the necessary details for distributors to be listed on the platform. 
-Distributors can use this form to provide their contact information, company details, and other relevant data. 
-This form is meant to be used for new distributor registrations or updates to existing accounts. 
-It is recommended that the user reviews the form carefully before submitting it. 
-If you are unsure about any field, please contact support for clarification. 
-Ensure that all required fields (if any) are filled out correctly. 
-The form is designed to be completed by the individual distributor or a representative authorized to do so. 
-This guide is intended to assist you in completing this form accurately. 
-Please refer back to this guide if you need clarification on any field. 
-This form is intended to be used for legitimate business purposes only. 
-
-</thinking>
-
 # Distributors Membership Form - Help Guide
 ## Purpose
 This form is used to create or update a distributor's membership record. It is intended for use by the distributor or their authorized representative.

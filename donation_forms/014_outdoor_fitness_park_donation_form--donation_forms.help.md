@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to submit donations to the outdoor fitness park, allowing park administrators to track and manage donations effectively. This form should only be filled out by users who are donating physical goods or services, not by park staff members or administrators.
-</thinking>
-
 # Outdoor Fitness Park Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors to the outdoor fitness park. By filling out this form, you will be able to submit a donation, specify the amount and frequency of your donation, and provide any additional notes or comments.

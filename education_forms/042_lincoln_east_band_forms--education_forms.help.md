@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Lincoln East Band Forms - Help Guide
 
 ## Purpose

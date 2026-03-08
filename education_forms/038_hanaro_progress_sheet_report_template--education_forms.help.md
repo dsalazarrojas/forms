@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for tracking progress in a language learning or education setting, specifically for reading, listening, speaking, and understanding skills. It is likely used to record and report on student's progress in these areas, providing a comprehensive overview of their development. This form might be used by instructors or educators to assess and evaluate student performance.
-</thinking>
-
 # Hanaro Progress Sheet Report Template - Help Guide
 ## Purpose
 The Hanaro Progress Sheet Report Template is a form used to track and report on student progress in reading, listening, speaking, and understanding skills. It is designed to provide a comprehensive overview of a student's development, allowing educators to assess and evaluate their performance.

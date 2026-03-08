@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the knowledge and understanding of engineering calculus concepts, specifically limits, derivatives, integrals, and other related topics. The form is intended for use in educational settings, such as quizzes or assessments, to evaluate students' grasp of these fundamental concepts. This guide will walk users through the form's structure and each field's purpose.
-
-</thinking>
-
 # Engineering Calculus Quiz - Help Guide
 ## Purpose
 The Engineering Calculus Quiz is designed to test students' understanding of calculus concepts, including limits, derivatives, and integrals. The quiz is intended to be a comprehensive assessment of their knowledge in this area.

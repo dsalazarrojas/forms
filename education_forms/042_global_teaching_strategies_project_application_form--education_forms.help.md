@@ -1,13 +1,3 @@
-<thinking>
-
-The "Global Teaching Strategies Project Application Form" is designed for schools, teachers, and other individuals to apply for a specific program. This form captures relevant information about the applicant, their school, and project details. 
-
-Before proceeding, please ensure this form is relevant to your specific situation. If you've already submitted an application for a similar project, you may not need to fill out this form again. 
-
-Please review the form carefully and only fill out fields that are relevant to your project.
-
-</thinking>
-
 # Global Teaching Strategies Project Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about your project to ensure that it meets the criteria of the Global Teaching Strategies Project.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and evaluation of a multi-page course from learners. The form is intended to capture information about the course title, subject matter, course materials, and the teaching techniques used. The form is not affiliated with, endorsed by, or derived from any form platform, and its purpose is to provide a neutral and objective means of collecting feedback from learners.
-
-</thinking>
-
 # MultiPage Course Evaluation Form - Help Guide
 ## Purpose
 

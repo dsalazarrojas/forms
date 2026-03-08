@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutrition Reform Consultation Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information for the approval of ID cards, which is likely related to employee identification and access management. This form might be used to verify employee details, check their status, and possibly approve or deny access to certain resources. It's likely that the form is part of an HR or employee management process. Please ensure that you are completing this form for the correct purpose and that you have the necessary authority to do so...</thinking>
-
 # id_card_approval_form - Help Guide
 ## Purpose
 The `id_card_approval_form` is used to gather information and verify employee details for ID card approval purposes.

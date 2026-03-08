@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this Homeschool Support Program Admission Form serves as a reliable means to gather relevant information from interested parents or guardians. The purpose of this form is to collect data on students who wish to enroll in the homeschool support program. We should confirm that each section of the form accurately captures the needed details without causing confusion. We should not duplicate any information that can be inferred or deduced from other fields, such as using the 'email' field as a way to capture contact information that can be obtained from an additional field 'contact_email'. This form will guide you through the process of completing it and help you understand what each field means.
-</thinking>
-
 # Homeschool Support Program Admission Form - Help Guide
 ## Purpose
 The Homeschool Support Program Admission Form is designed to collect information from interested students who wish to enroll in the Homeschool Support Program. This form will help us understand your homeschool needs and preferences.

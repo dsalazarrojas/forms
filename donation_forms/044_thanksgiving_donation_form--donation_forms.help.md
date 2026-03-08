@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 The purpose of the Thanksgiving Donation Form is to collect user information for the purposes of processing a donation, specifically for the Thanksgiving season. This form will be used to gather details such as the user's input, donation amount, email, phone number, and any additional description of the donation. This form is part of the donation process, and the collected data will be used to follow up with the user and confirm the donation details. It is essential to ensure the user provides accurate and complete information to process the donation correctly. Please review and confirm that the form fields are correctly understood before filling it out.
 
 # thanksgiving_donation_form - Help Guide

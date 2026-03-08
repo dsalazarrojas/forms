@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to allow customers to order custom T-shirts for a state football championship game. To complete this form, the user will enter their personal information, select the details of the T-shirt they want, provide shipping and payment information, and confirm their order. This form ensures that the user enters all necessary information to place a successful order.
-The form consists of the following sections: customer information, shirt details, shipping information, payment information, shipping cost, total cost, order notes, email address, phone number, address, order date, and shirt characteristics.
-Each field in this form corresponds to the respective section and will be explained in the following sections.
-</thinking>
-
 # State Football Championship T Shirt Order Form - Help Guide
 ## Purpose
 This form is for customers to order custom T-shirts for a state football championship game.

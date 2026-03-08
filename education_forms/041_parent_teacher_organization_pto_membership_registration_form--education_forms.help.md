@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication, this form should only be submitted for new users. The form purpose is to register a new member to the Parent Teacher Organization (PTO) membership. The form should collect information about the new member, including their name, email, phone number, address, school name, PTO position, and member status. This form will not affect existing members or their data.
-
-</thinking>
-
 # Parent Teacher Organization PTO Membership Registration Form - Help Guide
 ## Purpose
 This form is used to register a new member to the Parent Teacher Organization (PTO) membership. Please use this form only if you have not already registered with us.

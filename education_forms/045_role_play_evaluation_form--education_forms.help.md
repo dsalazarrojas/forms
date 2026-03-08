@@ -1,9 +1,3 @@
-<thinking>
-
-This is a form designed for evaluating role plays or scenarios, likely used in a professional or educational setting. To create a user-friendly help guide, we should first identify the form's purpose and ensure we cover all the necessary fields for completion. Upon examining the form's YAML configuration, the following guide can be created.
-
-</thinking>
-
 # role_play_evaluation_form - Help Guide
 ## Purpose
 The role play evaluation form is designed to gather feedback and evaluations of scenarios or role plays. This form is used to assess the effectiveness and performance of a role play, providing an opportunity for individuals to reflect on their experiences and offer constructive feedback.

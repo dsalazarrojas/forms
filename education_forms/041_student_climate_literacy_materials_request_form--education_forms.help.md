@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a Student Climate Literacy Materials Request Form, which is used to collect information from students or educators about their requests for climate literacy materials. The purpose of this form is to gather specific details from the user to fulfill their materials requests efficiently and accurately.
-
-Upon reviewing the form's structure, I noticed that it includes fields for general information (name, contact details), materials requests (request type, materials requested), and shipping information (shipping address, quantity). Some fields are marked as required, while others are optional.
-
-Before filling out this form, please ensure that you are requesting the correct materials for your climate literacy needs, and that you have the necessary information to provide a complete and accurate request.</thinking>
-
 # Student Climate Literacy Materials Request Form - Help Guide
 ## Purpose
 The Student Climate Literacy Materials Request Form is a tool used to gather information from students or educators about their requests for climate literacy materials.

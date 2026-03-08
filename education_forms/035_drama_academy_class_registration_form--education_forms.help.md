@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used to collect information from students for registration in a drama academy class. The purpose of the form is to gather essential details from students, including their name, contact information, and class preferences. This form is probably being used by the drama academy to streamline the registration process and ensure accurate and complete information is collected for each student. This form is not intended for duplicate submissions, as each field is designed to collect unique information.
-</thinking>
-
 # drama_academy_class_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from students for registration in a drama academy class.

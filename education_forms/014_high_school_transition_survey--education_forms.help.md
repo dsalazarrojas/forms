@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for gathering feedback from high school students and their parents on the transition process from high school to the next stage (e.g. college, vocational training, etc.). It aims to collect opinions on the challenges faced during the transition and suggestions on how to improve support systems and resources. This form is designed to be completed by both students and parents, and it will help us understand their experiences and opinions to refine our support systems and resources for future transitions.
-
-This form is not intended to be a one-time evaluation, but rather an ongoing process to collect feedback and suggestions. Please ensure that the feedback you provide is based on your genuine experiences and opinions, and that it is not duplicated or repeated from previous submissions.
-
-</thinking>
-
 # High School Transition Survey - Help Guide
 ## Purpose
 

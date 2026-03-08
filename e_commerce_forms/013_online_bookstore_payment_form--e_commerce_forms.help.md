@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to capture customer information and payment details for online bookstore transactions. Its purpose is to collect relevant data that will enable smooth order processing and customer service. This form should be used for internal use and will likely be reviewed and processed by bookstore staff to confirm order details and customer information. 
-Please note, this form does not seem to be used for a live transaction or payment processing, as there's no payment gateway information provided, and fields regarding payment method, status, and total price are included but marked as non-essential.
-</thinking>
-
 # Online Bookstore Payment Form - Help Guide
 ## Purpose
 This form is designed to capture relevant information from customers for online book purchases. It will be reviewed and processed by bookstore staff to confirm order details and customer information.

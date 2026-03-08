@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and for its intended purpose. To do this, we should first understand what the form is for and what information it should collect. This form is for making product donation requests, which means it's used to request donations of products from various organizations. The purpose of this form is to collect information about the donor, the product being donated, and the details of the request. 
-
-The form should only be filled out by authorized individuals within the organization, and the information collected should be accurate and up-to-date. To use this form correctly, the user should only fill in the relevant fields that pertain to their specific needs. 
-</thinking>
-
 # Product Donation Request Form - Help Guide
 ## Purpose
 The Product Donation Request Form is used to request donations of products from various organizations. This form helps in tracking and managing the donation process.

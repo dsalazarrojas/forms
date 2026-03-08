@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about relief fund distributions, providing a structured way to track and report on donations. The form should only be filled out in situations where a donation has been made. The purpose of this form is to ensure accurate and efficient record-keeping and to provide a clear overview of the donations.
-</thinking>
-
 # Relief Fund Distribution Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about relief fund distributions and ensure accurate and efficient record-keeping.

@@ -1,7 +1,3 @@
-<thinking>
-The "Digital Pedagogy Innovation Award Registration Form" is designed to collect information about projects that showcase innovative uses of digital pedagogy in education. The form will be used to assess and recognize the achievements of educators and institutions in this area. To ensure that your project is eligible for consideration, please note that the form should be filled out only once per project, and the project details should match the actual project being submitted. The form will be reviewed for completeness and accuracy before being considered for the award.
-</thinking>
-
 # Digital Pedagogy Innovation Award Registration Form - Help Guide
 ## Purpose
 The "Digital Pedagogy Innovation Award Registration Form" is a tool used to collect and evaluate projects that demonstrate innovative uses of digital pedagogy in education. By filling out this form, you can register your project and have it considered for the award.

@@ -1,15 +1,3 @@
-<thinking>
-
-The form "Technopreneurship Skill Assessment" is designed to evaluate an individual's skills and experiences in areas relevant to technopreneurship, which combines technical, business, and creative skills. This form helps to identify strengths and weaknesses of individuals in these areas, providing a basis for targeted skill development and career progression. 
-
-Before completing this form, please ensure you have some experience in technopreneurship fields, as the assessment aims to gauge the level of proficiency in these areas.
-
-It is not designed to be a comprehensive assessment of your full range of skills, but rather a focused evaluation in the specific skills required for technopreneurship. The assessment is meant to provide feedback on your skill level, and not a definitive measure.
-
-To avoid duplication of effort, please do not take this form if you have already taken a similar assessment in the past.
-
-</thinking>
-
 # Technopreneurship Skill Assessment - Help Guide
 
 ## Purpose

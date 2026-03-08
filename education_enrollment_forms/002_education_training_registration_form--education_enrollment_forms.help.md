@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assist users in registering for educational training programs. It aims to collect participant information, contact details, and training-specific data. The form has four sections: participant information, contact information, training information, and payment information. Each section is crucial for the successful registration and completion of the training program.
-
-Before proceeding, please ensure that you have the necessary permissions and authority to register for the training program. Additionally, if you have already registered or submitted this form, please do not attempt to re-register, as it may lead to duplicate records.
-
-To complete this form accurately and efficiently, please refer to the explanations below.
-</thinking>
-
 # Education Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information, contact details, and training-specific data for educational training registration.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hybrid Classroom Participation Behavior Survey - Help Guide
 ## Purpose
 The Hybrid Classroom Participation Behavior Survey is designed to gather insights into your typical participation behavior in classes. This information will help us understand your preferences and challenges in learning environments, which is crucial for creating engaging and supportive educational experiences.

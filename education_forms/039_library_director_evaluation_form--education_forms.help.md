@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Director Evaluation Form - Help Guide
 
 ## Purpose

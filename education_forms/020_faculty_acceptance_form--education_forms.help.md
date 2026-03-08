@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect faculty member's information for HR purposes.
-The purpose of this form is to gather data on faculty members' employment, including their job titles, departments, salaries, and job types.
-Please note that this form is not intended for submission of new job openings.
-It is recommended to review the form carefully to ensure that all required fields are filled accurately.
-</thinking>
-
 # Faculty Acceptance Form - Help Guide
 ## Purpose
 The purpose of this form is to collect faculty member's information for HR purposes, such as tracking job titles, departments, salaries, and job types.

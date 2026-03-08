@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # After School Multimedia Class Registration - Help Guide
 
 ## Purpose

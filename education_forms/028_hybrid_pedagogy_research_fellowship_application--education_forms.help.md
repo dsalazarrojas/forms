@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will cover the Hybrid Pedagogy Research Fellowship Application form. The form is designed for individuals to apply for the Hybrid Pedagogy Research Fellowship, a program focused on supporting and promoting high-quality open education research. Before proceeding, please note that this form should only be used for the intended purpose of applying for the research fellowship. Repeating or duplicating efforts may result in unnecessary work and potential application rejection.
-
-</thinking>
-
 # Hybrid Pedagogy Research Fellowship Application - Help Guide
 ## Purpose
 The Hybrid Pedagogy Research Fellowship Application form is designed to collect information from applicants for the Hybrid Pedagogy Research Fellowship program. This form will guide you through the required and optional fields to provide a complete application.

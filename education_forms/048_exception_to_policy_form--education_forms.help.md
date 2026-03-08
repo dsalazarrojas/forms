@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow teachers or administrators to request an exception to a policy, which could be for a student who needs extra time or support. The form is intended for students who require accommodations or adjustments to the normal school policies due to exceptional circumstances. This form helps to streamline the process of requesting and tracking these exceptions.
-</thinking>
-
 # Exception To Policy Form - Help Guide
 ## Purpose
 The "Exception To Policy Form" is a document used to request an exception to a school policy. This form is designed for students who require accommodations or adjustments to the normal school policies due to exceptional circumstances.

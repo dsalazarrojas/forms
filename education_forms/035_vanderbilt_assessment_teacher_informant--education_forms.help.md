@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is being used within an education context, where teachers are providing information about their students. The purpose of this form is to collect data from teachers about their students, likely for assessment or evaluation purposes. The form has three pages/pages with different types of fields: text, select_one, and text.
-</thinking>
-
 # Vanderbilt Assessment Teacher Informant - Help Guide
 ## Purpose
 The Vanderbilt Assessment Teacher Informant form is a tool used to collect information from teachers about their students. This form is used to gather data for assessment or evaluation purposes.

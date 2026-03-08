@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to assist users in selecting courses based on their preferences. This form likely belongs to an educational institution and is used to gather information from students or staff about the courses they are interested in taking or teaching. It's designed to be a flexible and customizable template that can be filled out in multiple stages, allowing users to save their progress and return to it later. 
-
-This form is probably part of a broader system for managing course selection and enrollment processes. By breaking down the form into separate fields, users can focus on one aspect at a time, ensuring they provide accurate and relevant information about the courses they're interested in. The form's flexibility and customization options make it an ideal tool for a wide range of users, from students to staff and administrators.
-
-Before proceeding, ensure you have the required fields filled out and have reviewed your answers carefully before proceeding to the next stage or submitting the form. Note that some fields might be optional, but providing accurate information will help you get the most out of this form.
-
-</thinking>
-
 # Course Selection Worksheet Form - Help Guide
 ## Purpose
 The Course Selection Worksheet Form is a flexible template designed to help you select courses based on your preferences. This form guides you through the process of choosing courses that suit your needs and interests.

@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect consent from participants in an academic reflection video publication. The form aims to ensure that participants understand how their video will be recorded, distributed, and retained. It's essential to review and complete this form before participating in the video recording to ensure you're comfortable with the terms of publication.
-
-This form was generated using AI and is an original adaptation of public survey topic metadata. It does not copy or use proprietary content from any form platform.
-
-To use this form, please ensure you have the necessary permission from your institution or organization to participate in the video recording and publication.
-
-</thinking>
-
 # Academic Reflection Video Publication Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect your consent for the academic reflection video publication. Please review and complete this form carefully to ensure you understand how your video will be recorded, distributed, and retained.

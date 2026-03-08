@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form, Virtual Tip Jar, is designed to allow users to provide tips to a service worker. The purpose of this form is to collect tips from users who want to show appreciation to service workers for their work. The form is intended to be completed by users with basic information about the service worker and the amount or message they wish to send as a tip.
-
-We will be checking that you're not submitting this form for any other reason than providing a genuine tip to a service worker.
-
-Please note that this form does not collect sensitive information and the fields are not required, you can fill as much or as little information as you see fit.
-
-</thinking>
-
 # Virtual Tip Jar - Help Guide
 ## Purpose
 The Virtual Tip Jar form is designed to allow you to show appreciation to service workers by providing a tip.

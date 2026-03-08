@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a student's personal identity, family, interests, and future plans. The goal is to gather relevant details that can be used for educational purposes, such as to understand individual students' needs and interests. This form is meant to be completed by students themselves, hence the title "White And Responsive" suggests that it should be completed with the student's input. The form consists of various fields that cover different aspects of a student's life, including personal identity, family members, sports participation, home equipment and internet access, post-graduation plans, and additional questions. This form is not intended for any specific business logic, but rather to provide a flexible and adaptable structure for collecting student information.
-
-</thinking>
-
 # Student Information Form White And Responsive - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to record and evaluate student performance on a comprehensive education assessment. The purpose of this form is to gather information about the student's academic progress, strengths, and areas needing support. It is used by teachers, educators, and administrators to monitor student performance and make informed decisions about student advancement and support.
-
-The form is used to collect data on various aspects of student assessment, including assessment type, method, and results. It is essential to fill out this form accurately and thoroughly to ensure that student performance data is reliable and comprehensive.
-
-Before filling out this form, please make sure you have all the necessary information and that the form is complete and accurate.
-
-</thinking>
-
 # Comprehensive Education Assessment - Help Guide
 ## Purpose
 The Comprehensive Education Assessment form is used to record and evaluate student performance on a comprehensive assessment.

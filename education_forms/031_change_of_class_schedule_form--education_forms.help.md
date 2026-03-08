@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to request changes to their class schedules. The purpose of this form is to gather necessary information from students to facilitate the process of making schedule changes while ensuring that the student understands the deadlines and requirements for such changes. To avoid confusion, please only submit this form if you are certain that you are requesting a schedule change. If you are unsure or need assistance, please contact your academic advisor for guidance.
-</thinking>
-
 # Change Of Class Schedule Form - Help Guide
 ## Purpose
 The Change of Class Schedule Form is a document used by students to request updates to their class schedules. This form helps students and administrators to track and process such requests in an organized and efficient manner.

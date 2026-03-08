@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to allow students to select the courses they want to enroll in for the current or future semesters. 
-This form is intended to be used by students who are currently enrolled or will be enrolled in the university. 
-The form should be submitted only once per student, and students cannot be able to submit the form multiple times with the same data.
-</thinking>
-
 # BCC Course Selection - Help Guide
 ## Purpose
 The BCC Course Selection form is a form designed for students to select the courses they want to enroll in for the current or future semesters. It is intended for students who are currently enrolled or will be enrolled in the university.

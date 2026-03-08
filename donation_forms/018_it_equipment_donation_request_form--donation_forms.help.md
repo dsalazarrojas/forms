@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of requesting IT equipment donations from individuals or organizations. This form is designed to gather essential information from the donor, including their contact details, the type of IT equipment they are willing to donate, and the pickup or dropoff information for the equipment. This form will help the organization to evaluate the donation and coordinate the logistics for pickup or delivery. Before proceeding, please ensure you are not duplicating a previous donation request, as this form is meant for new, unique requests.
-</thinking>
-
 # IT Equipment Donation Request Form - Help Guide
 ## Purpose
 This form is a tool for requesting IT equipment donations from individuals or organizations. It is designed to collect essential information to facilitate a smooth and efficient donation process.

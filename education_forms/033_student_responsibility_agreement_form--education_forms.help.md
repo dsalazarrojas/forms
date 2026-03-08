@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a general template for student responsibility agreements. It appears to be a form that captures various information from students, including their signature and contact details. The form likely serves as a document for students to acknowledge their responsibilities and obligations, possibly in a school or academic setting.
-To ensure that this form is being used correctly, it's essential to review the provided YAML fields carefully. Upon reviewing the fields, I notice that some fields seem to be optional, such as 'Category' and 'Description'. It's also worth noting that there are two signature fields, which might imply that multiple signatories are expected, but more context is needed to confirm this.
-Given this information, I will now create a user-facing help guide for this form.
-</thinking>
-
 # Student Responsibility Agreement Form - Help Guide
 ## Purpose
 The Student Responsibility Agreement Form is a document designed for students to acknowledge their responsibilities and obligations in an educational setting. This form captures important information about the student, including their contact details and signatures from both students and teachers. 

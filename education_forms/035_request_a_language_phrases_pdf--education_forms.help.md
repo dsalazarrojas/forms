@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to request a language phrases PDF for a specific purpose, language, and level of difficulty. The form will ask for information about the language you need, the reason for the request, the method of delivery, and some optional additional details. To ensure you receive the correct language phrases PDF, please provide accurate and specific information in the corresponding fields.
-
-Before starting, check that you have not already requested a language phrases PDF for the same purpose, language, and level of difficulty. If you have, this form will not be necessary for you.
-
-Please fill in the form carefully and accurately, as the information provided will be used to create a tailored language phrases PDF that meets your specific needs.
-</thinking>
-
 # Request A Language Phrases PDF - Help Guide
 
 ## Purpose

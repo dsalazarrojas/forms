@@ -1,16 +1,3 @@
-<thinking>
-The Summer Dance Camp Application Form is designed to help parents and guardians register their children for the summer dance camp program. This form serves as an essential step in the application process, collecting necessary information to ensure a smooth and enjoyable experience for all campers. To avoid duplication of effort, please review the form carefully to ensure all required fields are filled out accurately.
-
-Before starting the application, please note that the form is split into five pages, each with a specific focus:
-
-- Page 1: This page is not required to be filled out but provides a general description of the summer dance camp.
-- Page 2: This page requests information about the Parent/Guardian's relationship to the child.
-- Page 3: This page is used to collect contact information.
-- Page 4: This page is for payment information. Please ensure you have all necessary payment information before proceeding.
-- Page 5: This page is a confirmation page where you can review and finalize your application before submitting it.
-
-</thinking>
-
 # Summer Dance Camp Application Form - Help Guide
 
 ## Purpose

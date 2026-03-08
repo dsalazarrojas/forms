@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Procedure Knowledge Quiz - Help Guide
 ## Purpose
 The Medical Procedure Knowledge Quiz is a form designed to help assess your knowledge of a medical procedure's steps.

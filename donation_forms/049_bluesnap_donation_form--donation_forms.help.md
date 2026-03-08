@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the BlueSnap Donation Form. This form is used for making donations to the BlueSnap organization and allows donors to provide their information and specify their donation details. To prevent non-duplication, this form will only allow users to submit one donation per session.
 
 </thinking>

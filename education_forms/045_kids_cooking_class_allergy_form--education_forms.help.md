@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for parents or guardians to provide information about their child's food allergies, medical conditions, and emergency contact details. This form will help us understand their child's needs and ensure their safety in the cooking classes. It's essential to fill out this form carefully, as it may impact the child's participation in our cooking classes.
-</thinking>
-
 # Kids Cooking Class Allergy Form - Help Guide
 ## Purpose
 This form is designed to collect information about your child's food allergies, medical conditions, and emergency contact details to ensure their safety and well-being in our cooking classes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We have a form for handling information about guests who are returning home after a period of absence. This form is likely used for administrative or tracking purposes, such as recording visitor information or managing guest lists. Before proceeding, ensure that you have the necessary permissions and that the information provided is accurate and up-to-date.
 
 # homecoming_guest_form - Help Guide

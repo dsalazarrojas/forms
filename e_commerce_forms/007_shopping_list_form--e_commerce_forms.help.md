@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shopping List Form - Help Guide
 ## Purpose
 The Shopping List Form is a tool to record and manage shopping list items. It is intended for individuals to document their purchases, helping them to keep track of their shopping history and identify patterns. This form captures essential information such as item details, store names, and associated dates.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from learners about their supported tasks, satisfaction levels, and preferred help methods. It appears that the form aims to assess the needs and preferences of learners in order to provide tailored support. Each field in the form is designed to collect specific data that will help in making informed decisions. It is essential to ensure that the data collected is accurate and complete to provide the best possible support to learners.
-
-</thinking>
-
 # Supported Tasks For Learners - Help Guide
 ## Purpose
 This form is designed to gather information from learners about their supported tasks, satisfaction levels, and preferred help methods.

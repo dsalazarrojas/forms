@@ -1,7 +1,3 @@
-<thinking>
-This form is used for campaign donation purposes, and its purpose is to collect contact information, donation details, and demographic data from donors. This form should only be used for political campaign donations, and the user must acknowledge and agree to contribution limits and certify their citizen status.
-</thinking>
-
 # Campaign Donation Form - Help Guide
 ## Purpose
 The Campaign Donation Form is a tool used for campaign donation purposes. It collects contact information, donation details, and demographic data from donors.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a student's performance assessment, which is a systematic evaluation of a student's knowledge, skills, and abilities. This form is designed to provide an objective assessment of a student's progress and achievement in a particular subject area. The assessment is used to identify areas of strength and weakness, and to inform instruction and make data-driven decisions to support student learning.
-When filling out this form, please ensure that you are providing accurate and relevant information about the student's performance. Please do not complete this form if you have already completed one for this student in the past.
-</thinking>
-
 # Student Performance Assessment Questionnaire - Help Guide
 ## Purpose
 The Student Performance Assessment Questionnaire is used to collect information about a student's performance in a particular subject area. It is designed to provide an objective assessment of a student's progress and achievement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's placement in a program or course. It's likely used to determine whether a student has been placed in the correct level of education, such as a class or program. This form is probably used by educators or administrators to assess a student's knowledge or skills level.
-The form is a multi-page form with three fields. It's likely that each field is related to the user's placement, and the form is used to gather information to make informed decisions about the user's placement.
-</thinking>
-
 # Placement Test - Help Guide
 ## Purpose
 The Placement Test is a form designed to collect information about your placement in a program or course. This form will help educators or administrators assess your knowledge or skills level and guide decisions about your placement.

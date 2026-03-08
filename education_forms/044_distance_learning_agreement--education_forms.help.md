@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Distance Learning Agreement - Help Guide
 ## Purpose
 This guide will help you complete the Distance Learning Agreement form, which is a document designed to outline the terms and conditions for a remote or online learning environment. This form is often used in educational settings to ensure that both students and instructors are on the same page and understand their responsibilities.

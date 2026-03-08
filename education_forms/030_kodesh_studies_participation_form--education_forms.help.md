@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide for the "Kodesh Studies Participation Form" that accurately explains its purpose, the steps to complete it, and the meaning of each field. Since the form has 25 pages, I will focus on providing a general introduction and explanations for each field in a concise and practical manner, assuming that the form is designed for collecting information related to education or academic studies.</thinking>
-
 # Kodesh Studies Participation Form - Help Guide
 ## Purpose
 The Kodesh Studies Participation Form is a tool designed to collect information from participants in education or academic studies programs. This form is intended to gather relevant details to improve the program's effectiveness and provide valuable insights for program developers and administrators.

@@ -1,13 +1,3 @@
-<thinking>
-
-To begin with, it's essential to understand that the purpose of the `school_competition_entry_form` form is to collect information from students and school representatives about a competition or event. This form aims to gather details such as personal information, event specifics, and school data.
-
-Before proceeding, please note that this form is designed for educational purposes only, and the information collected will be used to facilitate the competition process. Ensure that the provided details are accurate and complete to avoid any misunderstandings or errors.
-
-The form consists of 25 fields, each with a specific label and type. Some fields have options or hints, which will be explained in the following sections. Please review each field carefully and provide the required information to ensure a smooth and efficient competition process.
-
-</thinking>
-
 # school_competition_entry_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students and school representatives for a competition or event.

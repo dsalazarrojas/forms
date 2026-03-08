@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to be used by individuals interested in applying for a Social Innovation In Education Fellowship. This form is for gathering information from applicants to assess their eligibility and suitability for the fellowship. Please note that the fellowship is for education innovators and professionals, so ensure that your background and interests align with this focus area before proceeding.
-
-Before filling out this form, check that you have a clear understanding of your background and goals as an education innovator. This form is not designed for general feedback or comments, but rather for a formal application to the fellowship program.
-
-Also, be aware that the fellowship program is designed to support education innovators, and this form will guide you in presenting your relevant background and experiences to be considered for this opportunity.
-
-</thinking>
-
 # Social Innovation In Education Fellowship Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from applicants to assess their eligibility and suitability for the Social Innovation In Education Fellowship. The information provided will be used to evaluate your background, experiences, and goals as an education innovator.

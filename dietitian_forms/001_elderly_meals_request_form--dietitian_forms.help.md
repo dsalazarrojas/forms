@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elderly Meals Request Form - Help Guide
 ## Purpose
 This form is designed for elderly individuals to request meals or other assistance related to their nutritional needs. It will help our team understand their requirements and provide the best possible support.

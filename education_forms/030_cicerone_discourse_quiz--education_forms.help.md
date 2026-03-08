@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to assess an individual's knowledge and self-assessed confidence in answering questions related to beer styles, brewing processes, serving techniques, beer storage, off-flavors, and more. This form is meant to gauge an individual's knowledge and provide insight into potential areas for further education.
-</thinking>
-
 # Cicerone Discourse Quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # filipino_composers_knowledge_quiz - Help Guide
 
 ## Purpose

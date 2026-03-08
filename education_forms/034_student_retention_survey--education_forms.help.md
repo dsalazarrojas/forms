@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students regarding their experiences with their teachers and the overall learning environment. It is intended for teachers and educational institutions to use to assess the effectiveness of their teaching methods and identify areas for improvement. To avoid duplication, please only submit the survey once per academic term.
-
-The purpose of this survey is to gather feedback from students about their interactions with their teachers. It will help teachers to understand how their teaching methods are being received and make adjustments for future semesters. The survey asks questions about teacher feedback, student attendance, and overall student experiences.
-</thinking>
-
 # Student Retention Survey - Help Guide
 ## Purpose
 

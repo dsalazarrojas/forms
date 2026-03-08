@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a consent form for academic data sharing, allowing participants to provide consent for the use of their data in research collaboration, publication, teaching, and other purposes. It's essential to ensure that the participant's data is used ethically and in accordance with their consent. This form is intended to be used by educational institutions or departments, and the participant's information will be used to describe the dataset and its contents. The form is divided into two sections: an introduction, and fields for participant information, dataset description, and consent details.
-</thinking>
-
 # Academic Data Sharing Consent Form - Help Guide
 ## Purpose
 The Academic Data Sharing Consent Form is a document that allows participants to grant or deny consent for the sharing of their data for various purposes, such as research collaboration, publication, and teaching. The form ensures that participants' data is used ethically and in accordance with their consent.

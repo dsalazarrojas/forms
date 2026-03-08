@@ -1,7 +1,3 @@
-<thinking>
-The form is used to declare the presence of pile driving, a specific type of construction activity that involves the use of large piles of material to build structures, foundations, or roads. This form must be completed by individuals or companies involved in pile driving projects to ensure compliance with relevant regulations and laws. The form is used for informational purposes only and does not replace any other necessary compliance documentation. Please fill out this form accurately and completely, and do not submit duplicate or incomplete forms.
-</thinking>
-
 # Pile Driving Compliance Affidavit - Help Guide
 ## Purpose
 This form is used to declare the presence of pile driving, a specific type of construction activity that involves the use of large piles of material to build structures, foundations, or roads. It is used for informational purposes only and does not replace any other necessary compliance documentation.

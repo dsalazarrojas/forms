@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reusable Shipping Tote Order Form - Help Guide
 
 ## Purpose

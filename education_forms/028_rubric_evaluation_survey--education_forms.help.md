@@ -1,11 +1,3 @@
-<thinking>
-To determine if this form is relevant and not duplicated, we should consider the following:
-
-* The form is for evaluating a student's performance in various aspects such as performance, communication, and collaboration.
-* The form requires numerical ratings for these aspects, with an option to add a brief comment for further evaluation.
-* The form also includes fields for scoring and weightage, which may be used to calculate the final score or weightage of the student's performance.
-</thinking>
-
 # rubric_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to evaluate a student's performance in various aspects such as performance, communication, and collaboration. It provides an opportunity to assess their strengths and weaknesses and provide constructive feedback for improvement.

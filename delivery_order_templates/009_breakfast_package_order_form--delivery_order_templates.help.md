@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from a business or organization placing an order for a breakfast package, including details about the contact person, delivery address, and package preferences.
-Before filling out this form, please ensure that you have all the necessary information ready and that it accurately represents your business or organization's needs. This form is meant to be completed by the person placing the order, and it's essential to fill it out completely and accurately to ensure that the order is fulfilled correctly.
-</thinking>
-
 # Breakfast Package Order Form - Help Guide
 ## Purpose
 The Breakfast Package Order Form is designed to gather information from businesses and organizations placing orders for breakfast packages. This form includes fields for contact information, delivery details, and preferences for the package contents and presentation.

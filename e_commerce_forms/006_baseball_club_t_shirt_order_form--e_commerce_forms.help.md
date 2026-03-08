@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baseball Club T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to capture information for a custom baseball team order. It is intended for teams to provide their team information, design preferences, and order details. 

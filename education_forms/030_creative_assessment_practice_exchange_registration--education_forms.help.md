@@ -1,5 +1,3 @@
-<thinking> This form is intended for users to register their interest in participating in a creative assessment practice exchange. The form requires users to provide information about their interests, experience, and preferences for participating in the exchange. It also asks about the implementation of their interests, session details, and participant agreement. The form ensures that the user has a clear understanding of their role and responsibilities in the exchange. </thinking>
-
 # creative_assessment_practice_exchange_registration - Help Guide
 ## Purpose
 The creative assessment practice exchange is a platform for users to share their creative assessment practices. This form is used to register your interest in participating in the exchange and provide necessary details for your participation.

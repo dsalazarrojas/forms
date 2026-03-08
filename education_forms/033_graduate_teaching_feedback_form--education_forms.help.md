@@ -1,5 +1,3 @@
-<thinking>...This form is designed for educators and administrators to gather feedback on a graduate's teaching performance. The purpose of this form is to assess the teaching assistant's effectiveness, identify areas for improvement, and inform professional development opportunities. This feedback will be used to evaluate the quality of teaching and support graduate students' growth and achievement. To complete this form, please ensure that each field is accurate and relevant, and avoid duplicating comments. Duplicate comments may lead to confusion and affect the form's overall utility.</thinking>
-
 # Graduate Teaching Feedback Form - Help Guide
 ## Purpose
 The Graduate Teaching Feedback Form is used to gather feedback from educators and administrators on graduate students' teaching performance. It will help evaluate the quality of teaching, identify areas for improvement, and inform professional development opportunities for graduate students.

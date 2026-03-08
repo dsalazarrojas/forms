@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Current Customer Registration Form - Help Guide
 ## Purpose
 This form is designed to register new customers, capturing essential details about them. It serves as an essential tool for our customer service team to gather information about new customers and provide them with a seamless onboarding experience.

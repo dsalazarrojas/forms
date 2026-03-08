@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for assistant declarations, which is a critical process for ensuring that assistants understand their roles, responsibilities, and commitments while working on assignments. It's essential to review and fill out this form carefully to avoid any miscommunication or misunderstandings.
-
-Before filling out this form, please ensure that you are not duplicating efforts or assigning unnecessary work to others. This form is a declaration of your intention to complete an assignment, and any changes or revisions should be reviewed with your supervisor and HR representatives accordingly.
-
-Please fill out this form accurately and completely, and make sure to review it carefully before submitting it for approval. If you have any questions or concerns, please discuss them with your supervisor or HR representative before proceeding.
-
-Also, please note that some fields may have specific formatting or formatting requirements. For example, dates should be in the correct format (mm/dd/yyyy), and email addresses should be in the standard email format (username@domain.com).
-</thinking>
-
 # Assistant Declaration Form - Help Guide
 ## Purpose
 This form is used to declare your understanding and commitment to complete an assignment, including your duties, responsibilities, and commitments. It's essential to review and fill out this form carefully to ensure clarity and accuracy.

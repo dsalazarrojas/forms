@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from coaching clients who are interested in full reset coaching services. This form is typically used for clients who are looking to restart their coaching journey or seek guidance on how to overcome specific challenges. The form fields are designed to collect relevant information that the coach can use to tailor their coaching approach to the client's needs.
-
-Before filling out this form, please ensure that you have not already submitted a similar form or have a similar conversation with the coach in the past.
-
-This form should not be used to book or schedule coaching sessions. It is intended to provide the coach with information that will help them prepare for the coaching sessions.
-
-Please fill out this form carefully and completely. If you are unsure about any of the fields, feel free to ask the coach for clarification.
-</thinking>
-
 # Full Reset Coaching Client Form - Help Guide
 ## Purpose
 The Full Reset Coaching Client Form is a tool used to collect information from coaching clients who are interested in restarting their coaching journey or seeking guidance on how to overcome specific challenges.

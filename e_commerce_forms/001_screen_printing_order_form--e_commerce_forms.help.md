@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for customers or customers' representatives to provide order information and payment details for screen printing services. The form likely exists to streamline the ordering process, gather necessary information, and ensure timely and accurate production of screen printing orders. Before using this form, ensure you have all the necessary information and authorization to place an order. Please refer to the internal documentation or contact the screen printing team for further guidance.
-</thinking>
-
 # Screen Printing Order Form - Help Guide
 ## Purpose
 

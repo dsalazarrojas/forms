@@ -1,5 +1,3 @@
-<thinking>Verbal warning forms are used to document instances where an employee's behavior or performance is not meeting the expected standards. The form helps to address issues promptly, maintain a record of incidents, and support the employee's growth and development. Before proceeding, please confirm that you are submitting a verbal warning that is fair, reasonable, and based on facts, and that it is not for disciplinary actions that should be addressed through other procedures or forms (e.g. suspension, termination). Also, ensure that you have followed your organization's procedures for issuing verbal warnings, including informing the employee of their right to union representation if applicable, and that you have considered the potential impact on the employee's well-being and work environment. This form should not be used for non-disciplinary reasons or for duplicate issues.</thinking>
-
 # Verbal Warning Form - Help Guide
 ## Purpose
 The Verbal Warning Form is used to document incidents where an employee's behavior or performance is not meeting the expected standards.

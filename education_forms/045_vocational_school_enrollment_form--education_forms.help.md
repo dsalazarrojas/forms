@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information for a student's enrollment in a vocational school. Before filling out this form, please make sure you're eligible to enroll and that you haven't already completed this form. The form has multiple sections, and each section has its own purpose. Please read through each field carefully to ensure you understand what information is being requested.
-
-This form is divided into two main sections: Personal Information and Emergency Contact Information. In the Personal Information section, you'll find fields for student name, email, phone number, program interest, date of birth, gender, address, program start and end dates, school attendance, and signature. The Emergency Contact section includes fields for emergency contact name, relation, phone number, address, and signature.
-
-Please note that some fields are optional, and some require specific types of input (e.g., email, date, or phone number). Make sure to fill out all required fields to avoid any issues with your enrollment.
-
-When in doubt, refer to this guide for clarification on any field.
-</thinking>
-
 # Vocational School Enrollment Form - Help Guide
 ## Purpose
 This form is for students to enroll in a vocational school program.

@@ -1,5 +1,3 @@
-<thinking>Before we start, let's make sure the form is being used for its intended purpose. This form is for students applying to the Architecture Program, so please ensure you are submitting this form to enroll in the program. If you are already a student or faculty member, you may need to submit a different form. Also, make sure you are not duplicating your submission as this form will be used for review and evaluation purposes.</thinking>
-
 # Architecture Program Admission Form - Help Guide
 ## Purpose
 The Architecture Program Admission Form is used to gather information from students applying to the Architecture Program. This form helps the admission committee to evaluate your qualifications and motivation for joining the program.

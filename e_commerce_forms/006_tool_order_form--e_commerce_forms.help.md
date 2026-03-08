@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers when they place orders for tools. The form will help to efficiently collect relevant details about the order, including customer contact information, shipping details, and the type of order the customer prefers (new or existing). This form aims to minimize confusion and errors in the order process by guiding the user through a clear and concise set of questions.
-
-This form should not be used for other purposes, and all fields should be filled out carefully to ensure that the order information is accurate. If you are unsure about any part of the form, please contact the support team for assistance.
-
-</thinking>
-
 # Tool Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers when they place orders for tools. Fill out the form with the required fields and submit it to place your order.

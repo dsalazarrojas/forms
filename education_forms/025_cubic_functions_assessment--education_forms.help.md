@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess a student's understanding of cubic functions. This form is meant to evaluate their ability to answer mixed questions related to cubic functions, provide their answers for each question, upload their solution, rate their confidence in their answers, and provide comments or additional information. The purpose of this form is to gather data for educational assessment purposes.
-</thinking>
-
 # Cubic Functions Assessment - Help Guide
 ## Purpose
 The Cubic Functions Assessment is a form designed to evaluate a student's understanding of cubic functions. This form is meant to gather data for educational assessment purposes.

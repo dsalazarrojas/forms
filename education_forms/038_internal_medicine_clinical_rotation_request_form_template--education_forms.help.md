@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the provided YAML form schema to understand its purpose and structure.</thinking>
-
 # Internal Medicine Clinical Rotation Request Form Template - Help Guide
 
 ## Purpose

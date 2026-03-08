@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback and evaluation of food products from customers. It is likely used by product developers, manufacturers, or quality assurance teams to assess customer satisfaction, preferences, and purchasing habits. The form should not be used for other purposes such as order placement or customer support requests.
-To ensure that your feedback is accurately recorded and analyzed, please ensure you are completing the form for the correct product and do not duplicate your responses. If you are unsure about the form's purpose or have any questions, please do not hesitate to contact the support team.
-</thinking>
-
 # Food Product Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation of food products from customers. It is intended for product developers, manufacturers, or quality assurance teams to assess customer satisfaction, preferences, and purchasing habits.

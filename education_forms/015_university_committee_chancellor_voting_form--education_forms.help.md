@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "university_committee_chancellor_voting_form" form. To start with, this form seems to be used for collecting data on votes and comments from the University Committee in various voting rounds. The form is structured into multiple pages, each representing a different voting round. The purpose of this form appears to be to gather input on the voting outcomes for each round, including votes and comments from committee members. It seems that the form is used for administrative or decision-making purposes within the university committee.</thinking>
-
 # university_committee_chancellor_voting_form - Help Guide
 ## Purpose
 This form is used to collect data on votes and comments from the University Committee in multiple voting rounds. It helps the committee to keep track of their decisions and discussions.

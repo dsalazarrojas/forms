@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form titled "Language Course Registration Form" which seems to be related to registering students for a language course. This form is used to collect information about a student's personal details, course specifics, and enrollment dates. To ensure we're meeting the requirements, I'll follow the provided YAML structure and create a comprehensive guide that's concrete, concise, and practical. I'll focus on explaining each field's purpose without inventing unsupported business logic. The form has multiple fields for personal details, enrollment dates, and course specifics.
-</thinking>
-
 # Language Course Registration Form - Help Guide
 ## Purpose
 This form is used to register students for a language course. It collects information about a student's personal details, course specifics, and enrollment dates to facilitate the registration process.

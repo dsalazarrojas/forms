@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a patient's discharge process. It is intended for healthcare professionals to gather necessary details for a patient's discharge, ensuring a smooth transition after treatment or hospitalization. The form should not be used for other purposes without proper medical consultation and validation. To avoid duplication, please do not fill out this form if you have already provided similar information to the healthcare provider or if you have a similar discharge form with the same information.
-
-</thinking>
-
 # Patient Discharge Form - Help Guide
 ## Purpose
 The Patient Discharge Form is a document used to collect essential information for a patient's discharge process. It gathers details that are important for healthcare professionals to ensure a smooth and safe transition for the patient after treatment or hospitalization.

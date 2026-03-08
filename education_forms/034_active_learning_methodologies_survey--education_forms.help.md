@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this "Active Learning Methodologies Survey" form, we should first understand the form's purpose and the reasoning behind its design. 
-
-This form seems to be designed to gather information about educators' current practices and perceptions regarding active learning methodologies. The purpose is likely to gather data on the adoption and implementation of active learning strategies in educational institutions. By understanding educators' roles, experience, and familiarity with active learning, the form aims to help identify areas where educators may need support or resources to effectively implement active learning.
-
-The form also seems to be trying to understand the challenges educators face when implementing active learning and their perceptions of its impact on student engagement and learning outcomes. Additionally, it aims to gather information on the types of professional development that educators feel they need to better implement active learning.
-
-This form is likely to be used by educators, instructional designers, or administrators in educational institutions to inform decisions on how to support active learning adoption.
-
-</thinking>
-
 # Active Learning Methodologies Survey - Help Guide
 ## Purpose
 This survey aims to gather information from educators on their current practices and perceptions regarding active learning methodologies. It will help identify areas where educators may need support or resources to effectively implement active learning.

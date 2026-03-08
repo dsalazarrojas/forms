@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML form definition, I understand that this form is designed for registration of participants in an Adaptive Learning Research Pilot. The purpose of the form is to gather information about the pilot participants' demographics, educational experience, technology familiarity, and motivation for participating in the research. The form is divided into two sections: "Pilot Participant Registration" and "Technology and Experience." Each field is carefully crafted to capture the necessary information for a successful pilot. I'll make sure to provide a clear and concise help guide for end-users.</thinking>
-
 # Adaptive Learning Research Pilot Registration Form - Help Guide
 ## Purpose
 The Adaptive Learning Research Pilot Registration Form is designed for researchers to register participants for an Adaptive Learning Research Pilot. The form will gather essential information about participants, including their demographics, educational experience, and technology familiarity. This information will help us understand how adaptive learning technologies can be effectively implemented in educational settings.

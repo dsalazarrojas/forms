@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Theories Quiz - Help Guide
 
 ## Purpose

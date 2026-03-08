@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from school custodians regarding their duties and responsibilities. The form's purpose is to gather data on the custodian's name, school location, supervising staff, custodian supervision, custodian supervision level, custodian equipment, custodian supervising, custodian supervising frequency, custodian safety, and custodian security. This information can be used to assess the effectiveness of custodial services in schools.
-It is crucial to note that this form is an original adaptation and not derived from any form platform. The form's content and structure are based on public survey topic metadata and are intended to be a helpful guide for custodians to report their duties. However, if you find any field unclear or unnecessary, please contact me at form@gic.mx for feedback and suggestions.
-</thinking>
-
 # School Custodian Duties Checklist - Help Guide
 ## Purpose
 This form is designed to help school custodians report their duties and responsibilities to ensure the effective management of school maintenance and upkeep.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for students to provide feedback on the medical teaching experience. It is intended for students to rate and provide feedback on the effectiveness of the medical teaching provided to them. The form is part of a larger process to continuously improve the teaching methods and materials used in medical education.
-
-To prevent duplication of effort, please ensure that this form is not filled out multiple times. If you have already filled out this form for the same medical teaching, there is no need to fill it out again. This form should only be filled out by students who are providing feedback on new medical teaching sessions.
-
-</thinking>
-
 # Medical Teaching Feedback Form - Help Guide
 ## Purpose
 This form is designed for students to provide feedback on the medical teaching experience.

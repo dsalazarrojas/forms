@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support the completion of the Student Peer Evaluation Form, which is a crucial tool for providing constructive feedback and self-assessment in academic settings. It is not meant to serve as a substitute for direct human communication or formal assessments. Please fill out the form carefully, ensuring all required fields are completed accurately. If you are unsure about a particular field or its purpose, refer to this guide for clarification. Note that this form does not require completion by all students. However, if you are asked to complete it, please do so with attention to detail.
-</thinking>
-
 # Student Peer Evaluation Form - Help Guide
 ## Purpose
 The Student Peer Evaluation Form is a tool used to facilitate peer feedback and self-assessment among students. It is designed to help students evaluate their peers' performance, provide feedback for improvement, and reflect on their own strengths and weaknesses.

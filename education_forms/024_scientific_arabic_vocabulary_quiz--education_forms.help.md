@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scientific Arabic Vocabulary Quiz - Help Guide
 
 ## Purpose

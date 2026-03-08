@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect open-ended responses from students, likely for feedback, evaluation, or assessment purposes. The form is composed of 25 questions, each with a text field for the student to provide their response. The form is likely used in an educational setting, such as a classroom or school, to gather information from students. To ensure accuracy, it's best to use this form for its intended purpose only.
-</thinking>
-
 # Open Ended Student Response Form - Help Guide
 ## Purpose
 This form is designed to collect open-ended responses from students. It is intended to be used in an educational setting, such as a classroom or school, to gather information from students.

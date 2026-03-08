@@ -1,7 +1,3 @@
-<thinking>
-The Educational Leadership Workshop Leave Of Absence Form is used to document a leave of absence for educational leadership workshops. Before submitting this form, please ensure that it is not for a different purpose, such as for a general leave request or other type of absence. If you are unsure, please reach out to your HR or departmental representative to confirm the correct form.
-</thinking>
-
 # Educational Leadership Workshop Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for a specific educational leadership workshop. It is typically used to document the workshop details and ensure that all necessary approvals are in place before proceeding with the leave.

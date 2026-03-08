@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students for academic advising purposes. The form is used to track student progress and provide guidance on their academic path. This form should not be used to gather information for other purposes, such as financial aid or student employment. Each section is designed to collect specific data points, and users should only complete the form if they are a student.
-</thinking>
-
 # Academic Advising Form - Help Guide
 ## Purpose
 The Academic Advising Form is used to collect information from students for academic advising purposes. This form helps advisors understand student progress and provide guidance on their academic path.

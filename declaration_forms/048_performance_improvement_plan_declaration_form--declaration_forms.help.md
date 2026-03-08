@@ -1,7 +1,3 @@
-<thinking>
-**Note: The following form was designed to help employees declare their performance improvement plans, allowing their managers or HR representatives to understand and track progress. This form should only be completed by employees who have been identified as needing improvement plans. Please ensure you have been formally notified to complete this form before doing so. Also, check with your manager or HR representative to confirm that you are not duplicating efforts.**
-</thinking>
-
 # Performance Improvement Plan Declaration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sponsorship Donation Form - Help Guide
 
 ## Purpose

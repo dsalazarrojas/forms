@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly and clear help guide for the PayPal Orphanage Donation Form, let's first break down the form's purpose, and then we'll focus on how to complete it and explain each field in detail.
-
-The form is designed to collect donations for an orphanage, and it's intended to be used by individuals or organizations looking to support this cause. The form should be filled out by those who want to make a donation, providing necessary information to process the transaction efficiently and effectively. Before starting, ensure you're not duplicating an existing donation or have already made a donation for the same purpose.
-
-</thinking>
-
 # PayPal Orphanage Donation Form - Help Guide
 ## Purpose
 

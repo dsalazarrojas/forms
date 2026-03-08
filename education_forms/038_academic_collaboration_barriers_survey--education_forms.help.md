@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to understand the barriers and challenges that individuals in academia face when it comes to collaboration. It is meant to be completed by individuals with experience in academia, specifically those who are currently or have been engaged in academic collaborations. The form is not intended for individuals who are not familiar with academic collaboration.
-The form's purpose is to gather information on the respondent's role, institution, years of experience, current collaboration status, frequency of collaboration, barriers to collaboration, and potential solutions to these barriers. The form should take approximately 10-15 minutes to complete.
-Before starting, ensure that you have not completed this form before and that you are aware that the answers will be used for research purposes only. Please be honest and provide accurate information to help us better understand academic collaboration barriers.
-</thinking>
-
 # Academic Collaboration Barriers Survey - Help Guide
 ## Purpose
 This form is designed to gather information on academic collaboration barriers faced by individuals in academia. It will help researchers understand the challenges and difficulties that academics encounter when collaborating with others.

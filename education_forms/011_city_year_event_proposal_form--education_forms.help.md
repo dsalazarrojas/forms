@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations submitting proposals for City Year events. 
-City Year is an organization that aims to empower local communities by mobilizing young adults to create positive social impact. 
-The form is used to gather essential details about the proposer, event, and proposed project, including the expected outcomes, budget, and resources involved. 
-The form will help the review committee assess and decide on the feasibility of the proposed projects.
-</thinking>
-
 # City Year Event Proposal Form - Help Guide
 ## Purpose
 This form is used to submit proposals for City Year events that aim to create positive social impact in local communities. It gathers essential information about the proposer, event, and proposed project to help the review committee make informed decisions.

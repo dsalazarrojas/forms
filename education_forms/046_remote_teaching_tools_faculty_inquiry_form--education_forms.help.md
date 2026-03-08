@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Remote Teaching Tools Faculty Inquiry Form", we must first understand the form's purpose. The form is designed to gather feedback and information from faculty members about their experiences and opinions on remote teaching tools. This will help the institution to identify areas of improvement and provide better support to its faculty and students. This form should be used by faculty members who have used remote teaching tools to deliver their courses or lessons. To prevent duplication of effort, the form should only be completed by those who have actual experience with remote teaching tools.
-</thinking>
-
 # Remote Teaching Tools Faculty Inquiry Form - Help Guide
 ## Purpose
 The "Remote Teaching Tools Faculty Inquiry Form" is designed to gather your feedback and experiences on using remote teaching tools in your classes. Your input is essential to help us improve the support and resources provided for remote teaching.

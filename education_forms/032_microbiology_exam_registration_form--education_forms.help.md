@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to capture information from students who are taking a microbiology exam. It is intended for students to register for an exam and provide their personal details and preferences for the exam schedule. The fields are a mix of basic information such as name, ID, and email to specific details like exam type, date, time, and selected exam instructions.
-To ensure accuracy, students should not fill out the form if they are already registered for the exam or have not yet received a confirmation of their exam schedule.
-</thinking>
-
 # Microbiology Exam Registration Form - Help Guide
 ## Purpose
 

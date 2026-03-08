@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect data about an individual's food consumption habits, specifically focusing on fast food consumption. The purpose of this form is to gather information on the frequency, amount, and timing of fast food consumption, as well as other relevant details such as food type and date of consumption. This form is likely used in a health-related context, possibly for research, health surveys, or patient data collection.
-
-This is not a form for general food consumption habits, but specifically targets fast food consumption, which might be a concern for health professionals or researchers due to its potential impact on health. The form's questions cover various aspects of fast food consumption, including frequency, amount, and timing, to paint a comprehensive picture of an individual's habits.
-
-Form fields are well-structured and concise, with each field designed to collect specific information without unnecessary complexity. For example, the form includes options for selecting the frequency of fast food consumption, the type of food consumed, and the time of consumption. These details can help identify patterns and trends in fast food consumption.
-
-This form's structure also indicates that some fields are required (e.g., Food Frequency, Food Amount, Fast Food Consumption Time, Fast Food Consumption Date), suggesting that these details are critical for accurate data collection. Other fields are optional (e.g., Other Foods Consumed, Notes), providing flexibility for respondents to provide additional context or information that might be relevant to their fast food consumption habits.
-
-The form's layout and fields are designed to be user-friendly and easy to understand, with minimal room for confusion or errors. Overall, this form aims to gather reliable and comprehensive data on fast food consumption habits, which can be used for various purposes such as health research, surveys, or patient care.
-
-</thinking>
-
 # Food Consumption Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from donors about their donations to the youth program. The form is meant to gather donor's details, donation amount, frequency, date and time, payment method, and contact information. The form will be used to process and track donations for the program. Please ensure that each field is completed accurately and thoroughly to ensure proper donation processing. Please note that this form is not to be used for duplicate submissions, and it's essential to review the form carefully before submitting.
-</thinking>
-
 # youth_program_donation_form - Help Guide
 ## Purpose
 This form is designed to collect information from donors about their donations to the youth program. It helps us process and track donations for the program.

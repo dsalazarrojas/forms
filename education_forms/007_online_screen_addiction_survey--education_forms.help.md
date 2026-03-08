@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Screen Addiction Survey - Help Guide
 
 ## Purpose

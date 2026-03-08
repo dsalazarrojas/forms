@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document the discharge of a dog from its training program. This form is required for all discharges, and it ensures that essential information about the dog's status and condition are recorded accurately. Before filling out this form, please ensure that you are authorized to do so and that the necessary information is up-to-date. This form should not be used for duplicate discharges or fictional training programs.
-</thinking>
-
 # Dog Training Discharge Form - Help Guide
 ## Purpose
 The Dog Training Discharge Form is used to document the discharge of a dog from its training program. This form captures essential information about the dog's status and condition, ensuring accuracy and consistency in recording.

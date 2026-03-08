@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Independent Film Donation Form - Help Guide
 ## Purpose
 This form is designed for individuals or organizations to make donations to independent film projects. It collects information about the project, including its name, description, and status, as well as donation details such as amount, currency, and payment method.

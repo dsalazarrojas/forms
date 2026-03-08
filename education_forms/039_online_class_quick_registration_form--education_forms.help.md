@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to register students for online classes. The purpose of this form is to collect relevant information from students to facilitate their registration process. The form is designed to be completed by students who wish to enroll in an online class. 
-
-It's essential to ensure that the information provided is accurate and complete to avoid any issues during the registration process.
-
-</thinking>
-
 # Online Class Quick Registration Form - Help Guide
 ## Purpose
 The Online Class Quick Registration Form is a tool for students to register for online classes. This form aims to collect necessary information from students to facilitate their enrollment process.

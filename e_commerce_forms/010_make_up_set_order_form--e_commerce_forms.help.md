@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a new "Make Up Set" order. It is likely used for fictional or fantastical items, like collectible figurines or unique crafts, rather than physical products. The form's fields cover various aspects of the order, including customer information, order details, and payment and shipping details. There's no indication that this form is used for real-world, tangible products that require shipping, so it's likely for a more creative or digital context. The form's design doesn't explicitly state that the "Billing Name" field is meant for the person placing the order, but in a typical e-commerce scenario, this field would usually refer to the person's name for billing and payment purposes. The "Order Total" and "Payment Method" fields also imply that this form is for financial transactions, suggesting that it's used for digital or in-app purchases.
-</thinking>
-
 # Make Up Set Order Form - Help Guide
 
 ## Purpose

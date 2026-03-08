@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture attendance and feedback from staff members who attend the Staff Development Day. The form is intended to be completed by staff members after attending a session, and it helps to track their attendance and provide feedback on the sessions they attended. This form is likely to be used by HR or training department to monitor the attendance and feedback of staff members. It is essential to fill out this form for every session you attend, so make sure to complete it thoroughly and accurately. This form should not be completed multiple times; it's a one-time submission per session attended.
-</thinking>
-
 # Staff Development Day Sign In - Help Guide
 ## Purpose
 The purpose of this form is to capture attendance and feedback from staff members who attend the Staff Development Day sessions. This information is used by HR or training department to monitor attendance and gather feedback for future improvements.

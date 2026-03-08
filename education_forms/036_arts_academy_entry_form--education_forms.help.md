@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students interested in enrolling in the Arts Academy. The form aims to gather details about the student, their background, and their interests in the arts. By completing this form, students can express their interest in attending the academy and provide necessary contact and demographic information.
-</thinking>
-
 # Arts Academy Entry Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from students who wish to apply to be an Envoy, a position that represents and supports students in their educational journey. The form is used by students to provide their personal details and academic information for consideration. It is not intended for use by anyone other than students seeking this particular role. Please ensure this form is only accessed by students as it is a required field for the application process.</thinking>
-
 # Student Envoy Application - Help Guide
 ## Purpose
 The Student Envoy Application form is a tool for students to collect necessary information to apply for the Student Envoy role. This role represents and supports students in their academic journey, and we need your details to consider you for this position.

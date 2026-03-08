@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in Renewable Process Engineering. It is intended for those who wish to learn more about or pursue a career in this field. Before proceeding, please ensure that you have not already completed this form, as duplicate entries will not be accepted. This form is for individuals who are genuine in their interest and are not looking to register someone else.
-</thinking>
-
 # renewable_process_engineering_registration_form - Help Guide
 ## Purpose
 This form is for individuals interested in Renewable Process Engineering, aiming to gather information from those who wish to learn more about or pursue a career in this field.

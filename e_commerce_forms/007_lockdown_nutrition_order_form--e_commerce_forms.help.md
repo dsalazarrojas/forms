@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a simple order form for lockdown nutrition services. It is meant to be filled out by customers who are interested in purchasing various nutrition-related products or services offered by the company. The form is not a formal sales agreement or a legally binding contract. The form will be submitted to the customer service team for processing and will be reviewed for completeness and accuracy before being processed. 
-
-It is recommended that the form is filled out completely and accurately to avoid any delay in processing the order. If the customer has any special requests or needs, please provide them in the "Order Info" field. 
-
-Please note that the form does not have a save function, it is intended for one-time usage. Each time the customer fills out the form, it will need to be filled out again from scratch. 
-
-</thinking>
-
 # Lockdown Nutrition Order Form - Help Guide
 ## Purpose
 This is a simple order form for customers to purchase various nutrition-related products or services from the company.

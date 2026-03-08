@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experiences with Open Education Resources (OERs). The purpose of this form is to help understand how users are utilizing OERs, the benefits they derive from using them, and any challenges they may face. This form is meant to be a comprehensive assessment of user perceptions and experiences with OERs.
-</thinking>
 # Open Education Resource Usage Survey - Help Guide
 ## Purpose
 The Open Education Resource Usage Survey is designed to gather information on users' experiences with Open Education Resources (OERs). This survey aims to understand how users utilize OERs, their benefits, and the challenges they encounter.

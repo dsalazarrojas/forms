@@ -1,7 +1,3 @@
-<thinking>
-The Adult Class Registration Form is designed to allow adult students to enroll in classes offered by the institution. This form collects essential information from students, including their personal details, class preferences, and payment methods. Before proceeding, ensure that you have not already submitted an enrollment application for the same class, and that you are registering for a class that you are qualified to take based on your prior experience and prerequisites.
-</thinking>
-
 # Adult Class Registration Form - Help Guide
 ## Purpose
 The Adult Class Registration Form is a mandatory form for students who want to enroll in one of the institution's adult classes. By filling out this form, you will be able to select a class, provide your personal details, and choose a payment method.

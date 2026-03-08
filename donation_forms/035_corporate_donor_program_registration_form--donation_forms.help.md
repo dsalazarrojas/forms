@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from corporate sponsors who are interested in registering their company's involvement in a donor program. This form is designed to be completed by company representatives who want to join the program. The form is not intended for public use and is primarily for internal use within the corporate sponsor's organization. This form does not duplicate or copy any proprietary content from any form creation platform.
-</thinking>
-
 # Corporate Donor Program Registration Form - Help Guide
 ## Purpose
 This form is designed to register your company's information for the corporate donor program. It is intended for company representatives who want to join the program. Please fill out the form completely and accurately to ensure that your company is properly registered in the program.

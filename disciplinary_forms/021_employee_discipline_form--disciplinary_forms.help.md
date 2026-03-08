@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document an employee's disciplinary action. The form is divided into several pages, each with different fields that are filled out to record the details of the disciplinary action. This is a required form for all employees who have committed a disciplinary offense. Please make sure you are using this form for its intended purpose and not duplicating other existing forms.
-
-This form will guide you through the process of completing the Employee Discipline Form, with explanations for each field.
-
-</thinking>
-
 # Employee Discipline Form - Help Guide
 ## Purpose
 The Employee Discipline Form is used to document an employee's disciplinary action, including the reason for the action and the action taken.

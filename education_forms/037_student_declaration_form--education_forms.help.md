@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the fields it contains. The form appears to be related to student information, including their contact details, attendance, residence, and declaration. This suggests that the form is likely used for administrative or bureaucratic purposes, such as student registration, attendance tracking, or declaration of personal information. 
-
-The fields also seem to be grouped into several categories, including student information, contact details of parents/guardians, and declaration statements. This suggests that the form is designed to collect comprehensive information about the student. 
-
-To confirm, let's consider the options in the "student_attendance" field, which suggests that the form is used to track the student's attendance. The "reside on Campus" and "Reside off Campus" options in the "student_residence" field also imply that the form is used to track the student's residential status. 
-
-Given the fields and options, it's likely that this form is used for student registration, attendance tracking, and declaration of personal information. 
-
-</thinking>
-
 # Student Declaration Form - Help Guide
 ## Purpose
 The Student Declaration Form is a comprehensive form used to collect information about a student's personal details, contact information, attendance, and declaration. This form is used for administrative or bureaucratic purposes, such as student registration, attendance tracking, or declaration of personal information.

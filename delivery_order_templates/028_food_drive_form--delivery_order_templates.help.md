@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to create a food drive template for delivery orders. It is intended to be used in a food delivery context, where users need to create and manage orders for food delivery services. This form is likely to be used by food delivery companies or restaurants to manage their delivery orders.
-
-Before we begin, let's make sure that this form is not already being used for a different purpose. If you're looking for a form to create a food order for personal use, please use the "Personal Food Order Form" instead.
-
-</thinking>
-
 # Food Drive Form - Help Guide
 ## Purpose
 The Food Drive Form is a template used to create and manage delivery orders. This form helps you create and customize delivery orders with details such as food items, amount, and contact information.

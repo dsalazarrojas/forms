@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or guardians to acknowledge their understanding of the classroom policies for a particular class or school. The form aims to ensure that parents or guardians are aware of and agree to follow the established policies, including attendance, homework, behavior, technology use, and health and safety guidelines. This form is not intended to be duplicated or repeated for other purposes; it is a one-time acknowledgment of the policies for the specified class or school.
-</thinking>
-
 # Classroom Policies Acknowledgement - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians to acknowledge their understanding of the classroom policies for a particular class or school.

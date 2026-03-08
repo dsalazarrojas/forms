@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Transport Associate Application Form is used correctly and consistently. This form is designed to collect relevant information from transport associates applying for a position. The purpose of this form is to gather essential details about the applicant, including their category, description, and other specific details that are crucial for the hiring process. It is essential to fill out the form accurately and thoroughly to avoid any confusion or duplication of effort during the application process.
-</thinking>
-
 # Transport Associate Application Form - Help Guide
 ## Purpose
 The Transport Associate Application Form is a crucial document used to collect information from transport associates applying for a position. It is designed to ensure accurate and comprehensive data collection, which aids in the efficient evaluation and processing of applications.

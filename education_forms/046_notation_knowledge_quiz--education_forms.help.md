@@ -1,5 +1,3 @@
-<thinking>...the form is designed for assessing student knowledge on musical notation, specifically for assessing which notes sound an octave higher than others. The form is intended for use by students and teachers to evaluate student understanding of musical notes and their relationships...</thinking>
-
 # Notation Knowledge Quiz - Help Guide
 ## Purpose
 The Notation Knowledge Quiz is a tool to assess a student's knowledge on musical notes, their relationships, and their ability to recognize which notes sound an octave higher than others.

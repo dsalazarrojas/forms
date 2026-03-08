@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to allow customers to provide information and input for a cake order. The "Theme Cake Order Form" form is used to gather essential details from customers to create their desired cake. The main objectives of this form are to collect customer information, specify cake design, select payment method, and confirm the order details.
-
-To avoid duplication and improve user experience, it's crucial to ensure that this form is used for its intended purpose only.
-
-</thinking>
-
 # Theme Cake Order Form - Help Guide
 ## Purpose
 The "Theme Cake Order Form" is designed to collect information and input for a cake order, ensuring that customers provide essential details for their desired cake.

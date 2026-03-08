@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect order details, shipping address, payment information, and other relevant data from end users for online plant orders. This form will likely be used by customers to place orders on an e-commerce website or platform, and the collected data will be used to process and fulfill the order. To ensure accuracy and completeness, it's essential that the form is filled out correctly and thoroughly. 
-</thinking>
-
 # Online Plant Order Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from customers for online plant orders, including order details, shipping address, payment information, and other relevant data.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track student attendance in schools. It captures information on individual students' attendance status, including their presence or absence from school, attendance dates, and reasons for absence. Each field is designed to collect specific details related to a student's attendance, such as student identification, class name, attendance dates, start and end times, duration of absence, reason for absence, teacher identification, school identification, and attendance status.
-</thinking>
-
 # School Attendance Form - Help Guide
 ## Purpose
 This form is designed to track student attendance in schools. It captures essential information about students' presence or absence from school, allowing school administrators to monitor attendance trends and patterns. This form is meant to be used for individual student attendance tracking.

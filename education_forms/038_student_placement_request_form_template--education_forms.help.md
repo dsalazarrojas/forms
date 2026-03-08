@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for student placement requests, likely for a school or educational institution. The form is designed to gather details about the student, such as their name, school level, grade level, and other relevant information. This form is likely used by administrators or teachers to track student progress, assignments, or other educational data. To ensure that each student's placement is correctly recorded, it's essential to complete this form carefully. Please note that some fields may be optional, but providing accurate information will help in making informed decisions about student placement.
-</thinking>
-
 # Student Placement Request Form Template - Help Guide
 ## Purpose
 This form is used to collect information for student placement requests, allowing administrators or teachers to track student progress, assignments, or other educational data.

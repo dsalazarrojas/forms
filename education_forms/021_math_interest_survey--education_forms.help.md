@@ -1,7 +1,3 @@
-<thinking>
-The math_interest_survey form is intended to gather user opinions and feedback regarding math-related interests, preferences, and experiences. The form is designed to be completed by users with math interests, and its primary goal is to collect data that can help identify trends, preferences, and demographics of users with math interests.
-</thinking>
-
 # math_interest_survey - Help Guide
 ## Purpose
 This form is designed to gather information about users with math interests, including their opinions, preferences, and experiences related to math.

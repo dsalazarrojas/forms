@@ -1,5 +1,3 @@
-<thinking>Curriculum Modernization Support Request Form is designed to help teachers and educators request support for curriculum modernization. This form is intended to be filled out by teachers who need assistance with updating their curriculum to meet new educational standards or technologies. The form should only be completed if you are a teacher or educator seeking support with your curriculum. Please only submit one form per school. If you have previously submitted a form, please do not resubmit. This form will help the support team understand your needs and provide the necessary resources to modernize your curriculum.</thinking>
-
 # Curriculum Modernization Support Request Form - Help Guide
 ## Purpose
 The Curriculum Modernization Support Request Form is designed to help teachers and educators request support for curriculum modernization.

@@ -1,12 +1,3 @@
-<thinking> 
-This form seems to be for collecting demographic information from students and their parents, likely for educational purposes. The form appears to be designed to gather data on the student's personal details, such as name, birth date, and contact information, as well as their parent's details, including income, ethnicity, and proficiency in English and math. The form also asks about the student's physical capability, English and math proficiency, and other relevant details.
-
-The form has a mix of required and optional fields, indicating that some information is mandatory while others are not. The fields can be grouped into several categories, such as student and parent demographics, contact information, and educational background.
-
-This form seems to be part of a larger system used to manage student data, possibly for administrative or educational purposes.
-
-</thinking>
-
 # madison-city-schools - Help Guide
 ## Purpose
 This help guide is intended to assist users in completing the `madison-city-schools` form, which collects demographic information from students and their parents for educational purposes.

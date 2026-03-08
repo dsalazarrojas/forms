@@ -1,12 +1,3 @@
-<thinking>
-The form "wymrt_supervisor_feedback_form" is likely used by employees to provide feedback to their supervisor regarding their training experience. The form is likely to be filled out by employees after completing a training program or session. The purpose of this form is to gather information from employees about their supervisor's feedback on their performance during the training.
-
-This form seems to be designed to be a simple feedback mechanism, without any complex logic or conditional requirements. It appears that the form is designed to be filled out by a single user, without any multiple-choice or dropdown options. 
-
-Before finalizing the content of this form, it's always a good idea to review and validate with the actual stakeholders and users who will be interacting with it. 
-
-</thinking>
-
 # wymrt_supervisor_feedback_form - Help Guide
 ## Purpose
 This form is intended for employees to provide feedback to their supervisor after completing a training program or session.

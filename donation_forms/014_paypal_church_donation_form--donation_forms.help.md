@@ -1,9 +1,3 @@
-<thinking>
-**Checking Form Purpose and Relevance**
-This form is for collecting user information and donation data from users who want to support a church or religious institution. It includes fields for user details, donation amount, frequency of donations, payment method, and other relevant contact information. 
-Before proceeding, please confirm that you are creating this form for a legitimate donation purpose and that you are not duplicating an existing form.
-</thinking>
-
 # paypal_church_donation_form - Help Guide
 
 ## Purpose

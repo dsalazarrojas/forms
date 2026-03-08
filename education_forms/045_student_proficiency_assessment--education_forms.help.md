@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for educators to assess the proficiency level of their students in a specific subject or skill. It helps to evaluate a student's performance, identify areas of improvement, and provide feedback. This form is likely used in a school setting to track student progress and inform teacher evaluations. The form appears to be a template that has been duplicated multiple times, with slight variations in field labels and descriptions.
-</thinking>
-
 # Student Proficiency Assessment - Help Guide
 ## Purpose
 The Student Proficiency Assessment form is used to evaluate a student's level of proficiency in a specific subject or skill. It consists of multiple sections, each assessing different aspects of the student's performance.

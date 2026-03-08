@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information from users for the annual dance association tournament entry. The form will be used to gather data on the team's name, contact information, and if the team has any participants who are not part of the team but would like to be considered for registration. The form should only be used once per team. The form fields should be completed accurately and thoroughly. Please ensure that all required fields are completed before submitting the form. If the team already has a registered entry, please do not re-submit this form.
-</thinking>
-
 # Dance Association Annual Tournament Entry Form - Help Guide
 ## Purpose
 The Dance Association Annual Tournament Entry Form is designed to collect general information from teams for the annual dance association tournament entry. This form is used to register teams for the tournament and gather relevant information about the team and its participants.

@@ -1,28 +1,3 @@
-<thinking>
-The purpose of this form is to gather dietary information from users, including their personal details, preferences, and medical history. This form is likely used for healthcare or nutrition-related purposes, such as assessing dietary restrictions or planning meal plans. To ensure the form is completed accurately and thoroughly, it's essential to understand each field's purpose and requirements.
-
-To complete this form, follow these steps:
-
-1.  Start by providing your user information, including your name and contact details.
-2.  Next, select your food preferences from the available options.
-3.  Specify any medical restrictions you have, such as allergies or conditions that affect your diet.
-4.  If you have an emergency contact, provide their name and contact information.
-5.  List any allergies you have.
-6.  Mention any significant medical conditions you are experiencing.
-7.  Indicate any medications you are currently taking.
-8.  Add any additional notes or comments.
-9.  Select your preferred contact method.
-10. Choose your preferred language.
-11.  Specify any dietary restrictions you have.
-12.  Enter your date of birth.
-13.  Record the date and details of your last medical visit, if applicable.
-14.  Provide the diagnosis from your last medical visit, if applicable.
-15.  Lastly, provide your medical history.
-
-Please answer each question honestly and accurately, as the information will be used for the purpose of assessing your dietary needs and planning. If you need help or have questions, don't hesitate to ask.
-
-</thinking>
-
 # Dietary Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to collect dietary information from users for healthcare or nutrition-related purposes, such as assessing dietary restrictions or planning meal plans.

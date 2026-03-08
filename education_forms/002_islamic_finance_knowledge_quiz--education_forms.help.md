@@ -1,14 +1,3 @@
-<thinking>
-We are assuming that the form is used for collecting data for an Islamic Finance Knowledge Quiz, which is likely used to assess knowledge about Islamic finance. The form is divided into two sections: one for general information and another for specific quiz questions. Each question is designed to test the user's knowledge in different areas of Islamic finance.
-
-We will now provide a brief internal check to avoid duplication of content or unnecessary information:
-- The form has a clear title and category selection.
-- The form requires users to select multiple education programs.
-- The form requires users to select specific options for each quiz question.
-- We should avoid duplication of information in the explanations for each question.
-
-</thinking>
-
 # Islamic Finance Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect data for an Islamic Finance Knowledge Quiz to assess the knowledge of users about Islamic finance. It is divided into two sections: one for general information and another for specific quiz questions.

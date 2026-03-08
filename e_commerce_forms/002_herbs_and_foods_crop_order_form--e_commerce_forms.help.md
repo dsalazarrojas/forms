@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to provide order details, customer information, payment details, shipping details, and other relevant information related to herb and food crops. This form is designed to be a one-stop-shop for farmers, farm owners, or crop sellers to collect all necessary information from customers. The form fields are intended to be completed by customers, and the information collected will be used to finalize their orders. To avoid duplication, please do not complete this form if you have already placed an order or have a pending order. 
-</thinking>
-
 # Herbs And Foods Crop Order Form - Help Guide
 ## Purpose
 This form is designed to collect order details, customer information, payment details, and other relevant information related to herb and food crops from customers. It is intended to be a one-stop-shop for farmers, farm owners, or crop sellers to collect all necessary information from customers.

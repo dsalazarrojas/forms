@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Continuing Education Enrollment Form - Help Guide
 
 ## Purpose

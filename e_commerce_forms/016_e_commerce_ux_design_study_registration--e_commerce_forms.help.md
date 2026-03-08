@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an e-commerce UX design study registration form. The form appears to be a collection of various information related to e-commerce, including user, contact, and payment details. Given the form's structure and fields, it seems to be intended for customers or users to provide information about their purchases or orders. It might be for a study or research purpose, but without further context, it's difficult to confirm this hypothesis. To create an effective help guide, we'll need to break down each field and provide clear explanations for each.
-</thinking>
-
 # e_commerce_ux_design_study_registration - Help Guide
 ## Purpose
 This form is designed to collect information from customers or users about their e-commerce experiences, which will be used for a study or research purpose. Please provide accurate and complete answers to each question to help us better understand your e-commerce UX design needs.

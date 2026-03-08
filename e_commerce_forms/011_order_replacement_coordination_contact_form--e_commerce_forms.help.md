@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for customers to initiate replacement coordination with the customer support team. To complete this form, customers will need to provide personal contact information and details about the order they would like to replace. The purpose of this form is to ensure that the customer support team has all necessary information to assist with the replacement process.
 
 # Order Replacement Coordination Contact Form - Help Guide

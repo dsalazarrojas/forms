@@ -1,5 +1,3 @@
-<thinking>...the form "osce_evaluation_form" is designed to evaluate the overall experience of users with the OSCE (Objective Structured Clinical Examination) program, focusing on various aspects such as satisfaction, overall experience, and program development. This form aims to gather information from users to improve the program. It is expected that users will provide honest and constructive feedback, and that the form is not meant to be a repetitive and time-consuming process. To ensure the quality and relevance of the feedback, please fill in the form carefully and thoroughly, providing concrete examples and suggestions where possible. This form will help to identify areas of improvement and will contribute to the betterment of the OSCE program... </thinking>
-
 # osce_evaluation_form - Help Guide
 ## Purpose
 The OSCE evaluation form is designed to gather feedback from users about their overall experience with the OSCE program. It will help to identify areas of improvement and contribute to the betterment of the program.

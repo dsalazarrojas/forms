@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Square Donate For Clean River Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals and organizations that want to support the cleaning of local rivers. The purpose of this form is to gather essential details about the sponsor and donor, including their contact information and the amount and purpose of the donation. This information will be used to track and acknowledge the donations, and to communicate with the sponsors and donors about their contribution.

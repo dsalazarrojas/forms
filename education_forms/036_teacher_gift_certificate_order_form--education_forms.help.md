@@ -1,5 +1,3 @@
-<thinking>This form is used for ordering teacher gift certificates. To ensure that the form is being used correctly, we need to check if it's being used to order a gift certificate for a teacher or if it's being used for any other purpose.</thinking>
-
 # teacher_gift_certificate_order_form - Help Guide
 ## Purpose
 This form is used to order a teacher gift certificate for a specific teacher. It requires information about the teacher, the recipient, and the gift certificate details.

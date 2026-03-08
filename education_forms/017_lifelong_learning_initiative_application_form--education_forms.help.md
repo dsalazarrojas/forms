@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for the Lifelong Learning Initiative. This program aims to provide ongoing education and training opportunities for individuals who are interested in pursuing further education or skill development. The form is used to collect demographic and educational information from applicants, including their name, contact details, education level, and enrollment dates. This information will be used to assess eligibility and tailor the program's offerings to meet the needs of the applicant.
-
-Before completing this form, please ensure that you have not previously submitted an application for this program. Duplicate applications will not be accepted.
-
-</thinking>
-
 # Lifelong Learning Initiative Application Form - Help Guide
 ## Purpose
 The Lifelong Learning Initiative Application Form is used to collect information from applicants who are interested in pursuing further education or skill development through our program.

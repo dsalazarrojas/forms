@@ -1,39 +1,3 @@
-<thinking>
-This form is designed to collect information from donors about their resource requests. It is intended for donors who need access to specific resources, such as books, computers, or other materials, to support their work or organization. To ensure that their requests are processed efficiently, we want to gather detailed information about their requests, including the type and frequency of resources needed.
-
-Before filling out this form, please ensure that you have not already submitted a request for the same resource type. If you are unsure about the resource type or frequency of your request, please consult with your organization or supervisor before proceeding.
-
-This form is used to request resources such as:
-
-* Books
-* Computers
-* Other (please specify in the "resource_type_other" field)
-
-The resources requested can be used:
-* Weekly
-* Monthly
-* Quarterly
-* Yearly
-
-The resources should be available:
-* Now
-* Soon
-* Flexible
-* Flexible (To be determined)
-
-The donor may need follow-up:
-* Yes
-* No
-
-The donor may prefer to be contacted through:
-* Email
-* Phone
-* Text/SMS
-* In-app
-* None
-
-</thinking>
-
 # Donor Retention Resource Request Form - Help Guide
 ## Purpose
 This form is for donors who need access to specific resources to support their work or organization. It helps us understand their requests and provide them with the necessary resources in a timely manner.

@@ -1,5 +1,3 @@
-<thinking>As a dietitian, it's essential to communicate updates to clients effectively, and this form is designed to facilitate that process. The purpose of this form is to gather information for the next meeting between the dietitian and the client. It includes fields for the updated diet plan, client comments, next meeting date and time, meeting location, and other essential details. This form is meant to be filled out before the next meeting, ensuring a seamless communication process and preventing any misunderstandings. To the best of my knowledge, this form is not a duplicate of any other form in our system, and its fields are well-defined and relevant to the purpose.</thinking>
-
 # Diet Plan Update Communication Form - Help Guide
 ## Purpose
 This form is used to gather and communicate updates for the next meeting between the dietitian and the client. It ensures a smooth and effective communication process, preventing any potential misunderstandings or miscommunications.

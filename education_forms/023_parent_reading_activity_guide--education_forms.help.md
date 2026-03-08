@@ -1,8 +1,3 @@
-<thinking>
-Parent Reading Activity Guide forms are designed to help parents track and monitor their reading activities with their children. This form is not meant to be a survey but rather a tool for gathering information about reading habits and preferences. It's best used by parents to document their reading sessions with children, providing a record of the frequency, duration, and content of readings. The form can help identify trends and patterns, facilitating better reading habits and stronger relationships between parents and their children.
-Please ensure you're filling this form in an appropriate context and not duplicating data collection efforts.
-
-</thinking>
 # Parent Reading Activity Guide - Help Guide
 ## Purpose
 This form is designed for parents to record and track their reading activities with their children, including frequency, duration, and favorite books/themes.

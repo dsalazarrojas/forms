@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students about their winter experiences, overall satisfaction, and favorite courses. It's likely that this form is used by educational institutions to gather insights into the effectiveness of their winter programs. The form should not be filled out by students who have already completed their winter term or by those who are not currently enrolled. Please note that the form is not designed for students to rate their favorite courses, as it's not required to answer this question. The answers are likely to be collected for internal use to improve winter programs.
-</thinking>
-
 # Student Winter Assessment Survey - Help Guide
 ## Purpose
 The Student Winter Assessment Survey is designed to gather feedback from students about their experiences during the winter term. Your participation helps the educational institution to understand what they can improve in their winter programs.

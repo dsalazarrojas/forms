@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, it's essential to confirm that the form is intended to capture information about an online foundation donation, specifically asking donors for their contact information and details about the donation. This form should not be used for other purposes. The form is designed to be filled out by individuals who have decided to make a donation to the foundation, and the information collected will be used to communicate with the donor and confirm their donation details.
-</thinking>
-
 # online-foundation-donation-form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have decided to make a donation to the online foundation. It will capture details about the donation, including the amount, type, and method, as well as contact information for the donor.

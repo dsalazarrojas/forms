@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a student's academic performance, strengths, and areas of development. It is typically used by teachers or educators to evaluate a student's progress and identify areas where they need improvement. Please ensure that you only complete this form for students currently enrolled in the elementary education program. Do not create duplicate forms for the same student. This form should be kept confidential and only shared with authorized personnel.
-</thinking>
-
 # Elementary Student Evaluation Form - Help Guide
 
 ## Purpose

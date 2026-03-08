@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eco Tote Refill Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for eco-friendly tote bag refill orders. It is used to gather customer details, product selections, and delivery details to facilitate the order process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual's background, including their name, contact details, and languages spoken. The purpose of this form is to gather relevant data for the Intermediate English Exam. This form does not appear to be part of a larger assessment or evaluation process, but rather a general data collection exercise. Please ensure you have a valid reason for filling out this form before proceeding. If you have filled out this form previously, please be aware that this form will not save any data you have entered previously.
-</thinking>
-
 # Intermediate English Exam - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's background, including their name, contact details, and languages spoken, for the Intermediate English Exam.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations for the Global Peace Summit Fund. The purpose of this form is to gather information from donors about their donation preferences, including the amount they wish to donate, their preferred donation frequency, and their preferred donation method. The form also includes fields for any additional comments or messages the donor may have. It is intended to be used by individuals who wish to donate to the Global Peace Summit Fund. Please note that all fields are optional, except for the "Name" field which is required.
-</thinking>
-
 # Global Peace Summit Fund Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations for the Global Peace Summit Fund. It is intended to be used by individuals who wish to donate to the Global Peace Summit Fund.

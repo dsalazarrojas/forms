@@ -1,5 +1,3 @@
-<thinking>By generating this form, we're creating a Learner Conduct Agreement Form. We're assuming it's for educational institutions or training programs. This form likely aims to capture essential information and agreements from learners before they begin a training program or course. It's not affiliated with or derived from any specific form platform, and it's an original creation. The form might be used to collect contact information, agreements, and other relevant details from learners. It's essential to ensure the form is filled out correctly to avoid any issues or misunderstandings. We should check if a similar form already exists in our system to prevent duplication.</thinking>
-
 # Learner Conduct Agreement - Help Guide
 ## Purpose
 

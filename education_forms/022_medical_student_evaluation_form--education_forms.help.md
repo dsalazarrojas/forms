@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide for the Medical Student Evaluation Form. To ensure that the form is completed accurately and efficiently, it's essential to understand its purpose, how to complete it, and what each field represents. This guide will break down the form into its individual components, explaining each field in a clear and concise manner.</thinking>
-
 # Medical Student Evaluation Form - Help Guide
 ## Purpose
 The Medical Student Evaluation Form is designed to assess the clinical skills, communication skills, and medical knowledge of students in medical school. It helps instructors and evaluators evaluate each student's performance in various areas, providing feedback and guidance for improvement.

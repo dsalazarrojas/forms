@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Threat Assessment Form - Help Guide
 ## Purpose
 The Threat Assessment Form is a tool used to document and assess potential threats or hazards in the workplace, ensuring that employees are aware of and can address risks to their safety and security.

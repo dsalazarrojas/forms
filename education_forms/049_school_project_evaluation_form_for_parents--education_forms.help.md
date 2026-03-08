@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help teachers, administrators, or staff members evaluate student projects submitted by students. The form provides a structured way to collect feedback on the project's quality, relevance, and other important aspects. By using this form, teachers can provide constructive criticism and suggestions for improvement, helping students to learn and grow from their projects. To ensure that each project gets a fair and thorough evaluation, please use this form for every project submission, and avoid using it for duplicate evaluations.
-
-</thinking>
-
 # School Project Evaluation Form For Parents - Help Guide
 ## Purpose
 The School Project Evaluation Form For Parents is a tool for teachers, administrators, or staff members to evaluate student projects submitted by students. The form helps to assess the project's quality, relevance, and other important aspects, providing constructive feedback and suggestions for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The Student Lead Generation Form is designed to collect information from students, allowing administrators to generate leads for potential students to enroll in their institution. This form is typically used to gather contact information and other relevant details about prospective students. To ensure accurate and efficient data collection, please review the following sections carefully.
-</thinking>
-
 # Student Lead Generation Form - Help Guide
 ## Purpose
 The Student Lead Generation Form is a tool used by administrators to collect contact information and other relevant details from prospective students who may be interested in enrolling in the institution. This form helps to generate leads for student recruitment and enrollment processes.

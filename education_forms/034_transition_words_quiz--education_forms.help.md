@@ -1,14 +1,3 @@
-<thinking>
-The internal reasoning block to explain the form purpose and checks for relevance and non-duplication:
-This form is designed to collect information from students and teachers about transition words in a school setting. The purpose of the form is to gather data on the transition words used by students and teachers in a school. The form is likely used by educators to assess the use of transition words in a classroom or school environment. The form is relevant to the education sector and is intended for use by students and teachers to provide information on their usage of transition words.
-
-To ensure the form is being completed correctly, the following checks should be performed:
-
-*   The form should only be filled out by students and teachers who have a legitimate purpose for doing so.
-*   The form should not be duplicated or filled out by multiple people for the same purpose.
-*   The form should not be used for any other purpose than what it was intended for.
-</thinking>
-
 # transition_words_quiz - Help Guide
 ## Purpose
 

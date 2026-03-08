@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Homework Record Form - Help Guide
 ## Purpose
 The Homework Record Form is used to document and track student homework assignments. Fill out this form to keep track of student's homework completion status, due dates, and other relevant details.

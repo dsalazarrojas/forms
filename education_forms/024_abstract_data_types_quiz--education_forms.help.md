@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for participants to gauge their understanding of Abstract Data Types. Abstract Data Types are data structures that define a set of operations and their behavior, providing a way to work with data in a more abstract and generic way. This form is used to assess the knowledge of participants on this topic.
-
-Please note that the following fields are part of this form:
-
-* Section "Participant Information" where participants will provide their details, which are:
-	+ Full name
-	+ Email address
-	+ Course or program name
-
-This section is required to identify the participant and verify their identity.
-</thinking>
-
 # Abstract Data Types Quiz - Help Guide
 ## Purpose
 This form is designed for participants to gauge their understanding of Abstract Data Types.

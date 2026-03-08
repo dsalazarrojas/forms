@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about an individual's learning pathway, which is a sequence of events, activities, or tasks that lead to a specific goal or outcome. The purpose of this form is to gather feedback on the effectiveness of the learning pathway and to collect relevant details about the individual's experience. It is likely that this form will be used within an educational institution or organization to monitor and improve their learning programs. It's worth noting that the form is focused on collecting specific information rather than general feedback.
-
-Before starting to fill out the form, please ensure that you are filling it out for the correct purpose and do not submit it multiple times. This form is not intended to be used for general feedback, but rather for collecting specific details about your learning pathway.
-
-</thinking>
-
 # Learning Pathway Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your learning pathway, including the category of the program, description of the program, date and time completed, feedback, contact information, and assigned tool used. The form is intended to help us improve our learning programs and better serve our students.

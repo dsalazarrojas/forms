@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist for evaluating the design and readiness of a dental clinic. The fields cover various aspects of the clinic's infrastructure, equipment, and emergency preparedness. The form is designed to help users assess whether a dental clinic is suitable for patients and staff.
-</thinking>
-
 # Dental Clinic Design Checklist - Help Guide
 ## Purpose
 The Dental Clinic Design Checklist is a comprehensive evaluation tool to help you assess the design and readiness of a dental clinic. This form covers essential aspects such as review of rooms, equipment needs, safety and accessibility needs, and emergency response procedures.

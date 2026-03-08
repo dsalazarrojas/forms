@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be completed by customers who want to place an order for a takeaway service. The form should only be used for this specific purpose and not for any other type of order. The form has multiple fields that require completion in order to process the order correctly. This guide is intended to walk the end-user through each field's purpose and requirements.</thinking>
-
 # Takeaway Order Form - Help Guide
 ## Purpose
 The Takeaway Order Form is designed to be completed by customers who want to place an order for a takeaway service. Please use this form only for this specific purpose and follow the instructions provided to ensure your order is processed correctly.

@@ -1,18 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the 'easter_to_go_order_form' form.
-
-First, let's analyze the form structure and fields to determine its purpose and how it should be completed.
-
-From the provided YAML, the form appears to be for placing an Easter to-go order. The fields seem to be for collecting customer information and order details.
-
-The 'customer_id', 'customer_email', 'customer_phone' fields suggest that the form is for customers to provide their contact information. The 'order_date' and 'order_time' fields imply that the order is for a specific date and time.
-
-However, there's no clear indication what type of order is being placed (e.g., food, gift, etc.). We'll assume that it's for a general Easter to-go order.
-
-The form purpose and structure seem to be straightforward, but we'll provide clear explanations for each field to ensure users understand what's expected of them.
-
-</thinking>
-
 # easter_to_go_order_form - Help Guide
 ## Purpose
 The 'easter_to_go_order_form' is for customers to place an Easter-themed order for pickup or delivery. Please provide your information and order details to place your order.

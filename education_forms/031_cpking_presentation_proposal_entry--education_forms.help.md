@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect presentation proposal information from potential speakers for the CPKING conference. The form asks for basic contact information, presentation details, and preferences. Please ensure that you have a clear understanding of the form's requirements and submit a well-rounded proposal.
 
 </thinking>

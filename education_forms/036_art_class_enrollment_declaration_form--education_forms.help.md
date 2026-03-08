@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will help you complete the Art Class Enrollment Declaration Form. Before proceeding, let's ensure you're in the right place. This form is for students who want to enroll in an art class. If you're an artist looking to teach or have other business inquiries, please contact our administration office.
-
-</thinking>
-
 # Art Class Enrollment Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from students who want to enroll in an art class. It helps us understand your background, preferences, and commitments, ensuring a smooth and enjoyable learning experience.

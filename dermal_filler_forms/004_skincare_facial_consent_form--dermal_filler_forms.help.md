@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for collecting information from patients for upcoming visits to a skincare clinic. It asks for contact details, medical history, and consent information. The form is intended for use by healthcare professionals to gather necessary information before conducting treatments or procedures. Before filling out this form, please review the sections below for guidance on how to complete each field correctly.
-
-The form consists of multiple pages and fields, each with a specific purpose and requirement status. Please ensure that you provide accurate and relevant information for each field as you complete the form.
-
-To avoid duplication of information, please review the form's fields carefully and only fill out the fields that apply to your situation.
-</thinking>
-
 # Skincare Facial Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from patients before their upcoming visit to the skincare clinic.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from donors who want to contribute to the free health checkup program. 
-It is intended for individuals to provide their personal and financial information, 
-as well as specify their donation preferences. 
-Please ensure you are filling out this form as an actual donor, 
-and not as a representative of an organization, 
-or as a test user.</thinking>
-
 # Free Health Checkup Donation Form - Help Guide
 ## Purpose
 This form is used to collect information from donors who want to contribute to the free health checkup program. 

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a template for evaluating a home visit, possibly for an educational or social services context. The fields suggest collecting feedback on a teacher's behavior, communication, and responsiveness during the visit. However, I will not assume any specific business logic or context, and will provide explanations based on the provided YAML fields.
-
-</thinking>
-
 # Home Visit Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback on a home visit, specifically on the behavior and responsiveness of the teacher(s) involved.

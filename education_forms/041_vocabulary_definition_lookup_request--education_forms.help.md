@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a vocabulary definition lookup request. This form is meant to gather details about a word or phrase that needs to be looked up for its definition. The purpose of this form is to provide a clear and concise way for users to request a definition of a term. 
-The user input fields are designed to ensure that the request contains necessary information to facilitate the lookup process. The fields in this form are meant to cover all the essential aspects of the request.
-</thinking>
-
 # Vocabulary Definition Lookup Request - Help Guide
 ## Purpose
 The Vocabulary Definition Lookup Request form is a tool to collect information from users for a vocabulary definition lookup request. It's designed to gather details about a word or phrase that needs to be looked up for its definition.

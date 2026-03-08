@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather information about a student's extracurricular activities. The purpose of this form is to collect data on the student's participation in sports, clubs, and other activities. This information will be used to understand the student's engagement in extracurricular activities outside of the regular curriculum. This form is not intended for students who do not participate in any extracurricular activities, as the answers will simply indicate "No" for all fields. 
-
-It's essential to complete this form honestly, as the information gathered will be used to identify students who are actively engaged in extracurricular activities. If a student is unsure about their participation or has made a mistake, they can always update their answers at a later time. 
-
-This form should not be filled out by students who do not participate in any extracurricular activities. If a student is not participating in any extracurricular activities, they should simply answer "No" to all fields. 
-
-Please note that the form has the following sections: 
-- Sports: This section asks if the student is participating in any sports.
-- Clubs: This section asks if the student is participating in any clubs or organizations.
-- Other Activities: This section asks if the student is participating in any other activities not included in the sports or clubs section.
-- School Club or Activity Name: This section is for students who have chosen to participate in other activities. They need to provide the name of the activity or club they are participating in.
-- School Club or Activity Position: This section is for students who have chosen to participate in other activities. They need to provide their position in the activity or club.
-- Sport: This section asks if the student is participating in any sports.
-- Club or Activity: This section is for students who have chosen to participate in other activities. They need to provide the name of the activity or club they are participating in.
-- Position: This section is for students who have chosen to participate in other activities. They need to provide their position in the activity or club.
-
-</thinking>
-
 # extracurricular_activities_declaration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a student's extracurricular activities.

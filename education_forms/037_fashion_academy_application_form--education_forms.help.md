@@ -1,7 +1,3 @@
-<thinking>
-Is the user able to provide the necessary information to fill out the form correctly? Does the user have any prior experience with similar forms? Are they aware of the importance of providing accurate and detailed information in the application process? This form is designed to gather information from users interested in enrolling in the Fashion Academy. It collects data from three main categories: applicant information, contact information, and other relevant details such as education history, work experience, references, portfolio, skills, fashion school, certifications, and special talents. The user needs to complete the form by providing accurate and detailed information in each section, making sure to fill out all required fields.
-</thinking>
-
 # Fashion Academy Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in enrolling in the Fashion Academy. It gathers data from three main categories: applicant information, contact information, and other relevant details such as education history, work experience, references, portfolio, skills, fashion school, certifications, and special talents.

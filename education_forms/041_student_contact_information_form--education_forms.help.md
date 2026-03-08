@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect student contact information for administrative and emergency contact purposes. This form is intended for students to provide their own contact information and that of their emergency contacts. The purpose of this form is to ensure that students have a way to be contacted during their program or in case of an emergency. 
-Please ensure that you have a valid reason for filling out this form, and that you have not already done so. 
-</thinking>
-
 # Student Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect student contact information for administrative and emergency contact purposes.

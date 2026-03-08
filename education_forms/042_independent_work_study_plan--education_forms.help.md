@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Independent Work Study Plan - Help Guide
 
 ## Purpose

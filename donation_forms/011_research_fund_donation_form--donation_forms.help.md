@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information for a research fund donation from users. The form is designed to capture relevant details such as the donor's name, contact information, and donation specifics including the amount, currency, and payment method. 
-To ensure accurate data collection, please review this guide before proceeding. 
-Please note that this form is intended for internal use only, please do not use it for external purposes such as fundraising campaigns.
-</thinking>
-
 # Research Fund Donation Form - Help Guide
 ## Purpose
 This form is used to collect information for a research fund donation from users.

@@ -1,20 +1,3 @@
-<thinking>
-This form aims to collect feedback from academics and educators about their satisfaction with the current recognition system in place at their institution. The form is intended to be completed by various types of users, including students, faculty, staff, administrators, and others. The data collected through this form will help inform decisions on recognition system reform.
-
-By completing this form, respondents will be able to:
-
-*   Rate their satisfaction with current recognition practices
-*   Identify the types of recognition they value most
-*   Provide suggestions to improve the recognition system
-*   Indicate their willingness to participate in reform efforts
-*   Provide contact information for follow-up communication
-
-The form consists of a series of questions designed to elicit detailed and concrete responses. Each question has a clear label, a brief hint, and a specific type to help users understand what is being asked. 
-
-Before filling in the form, it is recommended that you review these guidelines to ensure a smooth and efficient completion process. 
-
-</thinking>
-
 # Academic Recognition Systems Survey - Help Guide
 ## Purpose
 

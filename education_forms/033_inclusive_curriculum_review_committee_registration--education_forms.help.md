@@ -1,9 +1,3 @@
-<thinking>
-
-The Inclusive Curriculum Review Committee Registration form is designed for members of the committee to register themselves and submit information about their areas of expertise, consent, and submission details. This form is intended to gather information for committee members to effectively review and approve curriculum submissions. To complete this form, follow these steps:
-
-</thinking>
-
 # Inclusive Curriculum Review Committee Registration - Help Guide
 ## Purpose
 The Inclusive Curriculum Review Committee Registration form is designed to collect information about committee members, their areas of expertise, and submission details. This form helps committee members register themselves and submit information that will aid in the review and approval process.

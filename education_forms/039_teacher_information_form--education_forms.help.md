@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a teacher, which can be used for various administrative and organizational tasks, such as updating school records, communicating with teachers, or creating reports. This form is likely used within an educational institution to streamline teacher data collection and ensure accurate and up-to-date information is available for decision-making and other purposes. To ensure that this form is completed correctly, please review the following guidance.
-</thinking>
-
 # Teacher Information Form - Help Guide
 ## Purpose
 The Teacher Information Form is designed to collect essential details about a teacher's identity, department, and position.

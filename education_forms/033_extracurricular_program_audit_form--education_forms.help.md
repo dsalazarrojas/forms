@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used for its intended purpose and not duplicated or tampered with. This form is a crucial tool for auditing and reviewing extracurricular programs, and its accuracy is vital for making informed decisions. Therefore, we need to clearly document every field and its purpose to avoid any confusion or misuse.
-</thinking>
-
 # Extracurricular Program Audit Form - Help Guide
 ## Purpose
 The Extracurricular Program Audit Form is designed to collect information about extracurricular programs offered by schools and organizations. This form helps to evaluate the quality of these programs, identify areas for improvement, and make informed decisions about their continuation or modification.

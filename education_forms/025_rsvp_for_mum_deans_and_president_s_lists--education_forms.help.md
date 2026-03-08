@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Rsvp For Mum Deans And President S Lists - Help Guide
 
 ## Purpose

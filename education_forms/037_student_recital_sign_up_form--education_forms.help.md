@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to be completed by students to sign up for a recital, a performance event in an educational setting. The form captures student, teacher, and event details. 
-
-To complete this form, a student would typically be expected to provide personal information such as their name, contact details, and grade level. They would also need to choose the type of recital they are signing up for, the instrument they will be playing, and select a recital room and date/time for the event. The form may also capture additional details such as the teacher's contact information and any comments or special requests.
-
-Before starting to complete this form, the student should confirm that the event details are correct, particularly the recital type and date/time. The student is also responsible for double-checking that their personal contact information is accurate. 
-
-The form is meant to be filled out for each student who is participating in a recital, so multiple students would fill out the form with their own details.
-
-</thinking>
-
 # Student Recital Sign Up Form - Help Guide
 ## Purpose
 

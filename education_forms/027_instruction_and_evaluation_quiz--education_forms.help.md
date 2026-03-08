@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for instructors to create and evaluate quizzes for educational purposes. It is meant to be used by instructors to create assessments for their students, which will help them evaluate student understanding of the material.
-The form has a total of 10 questions, with different types of questions such as text, select one, date, note, time, email, text, select multiple, and number.
-The purpose of this form is to collect data from instructors about their students' performance, which will help them in evaluating the students' understanding of the material.
-</thinking>
-
 # Instruction And Evaluation Quiz - Help Guide
 ## Purpose
 The purpose of this form is to help instructors create and evaluate quizzes for their students, collecting data on student performance.

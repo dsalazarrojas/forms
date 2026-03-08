@@ -1,13 +1,3 @@
-<thinking>
-We should first understand the context and purpose of this form. This is an e-commerce form for customers to place an order for custom collars. The form collects customer information, collar specifications, and order details such as shipping and payment methods.
-
-To complete this form, the customer is required to provide their full name, email address, phone number, collar type, material, color selection, collar size, fit, quantity, and shipping information. They also have the option to select special features such as starch treatment, reinforced stitching, monogramming, and anti-wrinkle treatment.
-
-The customer can choose their preferred payment method, shipping method, and agree to the terms and conditions.
-
-Before we dive into the field-by-field explanations, let's note that some fields are required (*), while others are optional.
-</thinking>
-
 # Collar Order Form - Help Guide
 ## Purpose
 This form is designed to guide customers in completing their order for custom collars. It collects essential information to facilitate the processing and delivery of their order.

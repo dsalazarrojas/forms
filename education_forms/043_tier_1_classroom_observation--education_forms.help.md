@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users of the Tier 1 Classroom Observation form. Please note that the guide will cover the purpose of the form, how to complete it, and a field-by-field explanation. The form is used for documenting a Tier 1 classroom observation and is likely used in educational settings. The guide should cover all fields of the form, including optional ones. The form is likely used by educators or administrators to report on a classroom observation, so the guide will focus on making it easy for them to complete.
-</thinking>
-
 # Tier 1 Classroom Observation - Help Guide
 ## Purpose
 The Tier 1 Classroom Observation form is used to document a classroom observation event. This form is intended to capture essential information about the observation, including the teacher's name, school, grade level, date and time, and student demographics.

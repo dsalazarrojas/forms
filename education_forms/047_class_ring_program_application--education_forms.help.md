@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help you complete the Class Ring Program Application form. The form is designed to gather information from students to create a customized ring that represents their academic achievements. Please ensure you complete the form accurately and thoroughly to ensure the correct information is captured.
-</thinking>
-
 # Class Ring Program Application - Help Guide
 ## Purpose
 The Class Ring Program Application form is used to collect information about you, a graduating student, to create a customized ring that represents your academic achievements.

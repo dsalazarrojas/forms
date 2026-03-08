@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from individuals or organizations for the use of educational videos, ensuring that the users comply with copyright and licensing requirements. The form is designed to be completed by individuals or organizations seeking to use the educational videos for a specific purpose. To prevent duplication, this form should only be completed once for each unique use case.
-</thinking>
-
 # Educational Video Licensing Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent for the use of educational videos. It is required for any individual or organization seeking to use the educational videos for a specific purpose. The information collected will be used to ensure that the use of the videos complies with copyright and licensing requirements.

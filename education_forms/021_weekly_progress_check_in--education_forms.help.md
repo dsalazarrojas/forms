@@ -1,8 +1,3 @@
-<thinking> 
-This form is likely used by educators, instructors, or facilitators to assess the progress of students or learners in a weekly cycle. It's meant to gather information on the learners' goals, achievements, participation, and any feedback they may have. By filling out this form, instructors can track and provide constructive feedback to learners on their progress, helping them stay on track and achieve their goals. To avoid duplication, this form likely has unique identifiers or IDs for each learner, allowing multiple forms to be filled out and tracked for individual students.
-
-</thinking>
-
 # Weekly Progress Check In - Help Guide
 ## Purpose
 The "Weekly Progress Check In" form is designed to provide learners with a structured way to report on their progress over the past week, allowing instructors to track and monitor their development.

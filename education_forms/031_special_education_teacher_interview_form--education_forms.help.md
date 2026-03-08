@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from special education teachers during the hiring process. The form aims to collect data on new applications, resumes, teaching experience, certifications, and other relevant qualifications. Before filling out this form, the user should ensure that they have not already completed an application or submitted their qualifications to the same organization before, as this may be considered a duplicate application.
-
-The form is divided into six fields, each with a specific purpose:
-- New Application: A text field where the teacher can provide a brief description of their new application.
-- Resume: A text field where the teacher can upload or paste their resume.
-- Experience: A text field where the teacher can describe their teaching experience.
-- Certifications: A multiple-select field where the teacher can choose whether they have obtained specific certifications.
-- Qualifications: A multiple-select field where the teacher can choose their qualifications.
-- References: A text field where the teacher can provide references.
-
-To complete this form accurately and effectively, the user should:
-
-- Ensure that all required fields are filled out, which are optional on this form but it's recommended to fill them out for a more comprehensive application.
-- Be concise and clear in their answers, as this will help the hiring team assess their qualifications and experience more easily.
-- Proofread their answers before submission to ensure there are no errors or typos.
-</thinking>
-
 # Special Education Teacher Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from special education teachers during the hiring process, allowing us to assess their qualifications and experience.

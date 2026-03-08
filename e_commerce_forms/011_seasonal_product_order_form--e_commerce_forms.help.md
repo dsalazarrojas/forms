@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information for seasonal product orders. The purpose of this form is to allow customers to select products, provide order details, and input shipping information. The form is divided into sections that correspond to different aspects of the order, including product selection, customer details, and order specifics. To avoid duplication, users should only submit one order at a time.
-
-</thinking>
-
 # Seasonal Product Order Form - Help Guide
 ## Purpose
 This form is designed to capture information for seasonal product orders, allowing customers to select products, provide order details, and input shipping information.

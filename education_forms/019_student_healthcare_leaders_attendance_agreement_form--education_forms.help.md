@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Healthcare Leaders Attendance Agreement Form - Help Guide
 
 ## Purpose

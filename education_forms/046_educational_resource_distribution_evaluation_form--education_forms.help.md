@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the distribution of educational resources. This form is designed to collect information from resource distributors, which may include teachers, administrators, or other staff members involved in the distribution of educational resources. The form aims to gather data on the availability and effectiveness of these resources, helping to identify areas of improvement in the distribution process.
-</thinking>
-
 # Educational Resource Distribution Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the distribution of educational resources to ensure that they are being effectively utilized and reaching their intended audience. The form collects information from resource distributors, including details about the resources distributed, the distributors themselves, and any comments or feedback they may have.

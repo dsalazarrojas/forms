@@ -1,19 +1,3 @@
-<thinking>
-This form is part of a larger system that allows students to enroll in a math club. The form is used to gather student information, their math level, interest in the math club, and their commitment level to the math club. This form should only be filled out by students who are interested in joining the math club. 
-
-The form is designed to be completed by students themselves, but may also be filled out by parents or guardians on behalf of students who are unable to fill it out themselves. 
-
-The form is divided into four sections: 
-  1. Student information 
-  2. Math level
-  3. Math club interest
-  4. Math club commitment 
-
-Each section is designed to gather specific information from the student. 
-
-The form is not meant to be filled out by teachers or staff members, as they will already have access to the necessary information. 
-</thinking>
-
 # Math Club Enrollment Form - Help Guide
 
 ## Purpose

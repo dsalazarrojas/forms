@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # july_lin_facebook_shopping - Help Guide
 ## Purpose
 This form is for customers to place orders on your ecommerce site using July Lin Facebook Shopping. Fill out the form to create a new order, providing essential shipping details and contact information.

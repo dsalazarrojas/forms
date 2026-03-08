@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals interested in enrolling in a training program. The purpose of this form is to gather essential details for the training process, ensuring that the necessary data is collected accurately and efficiently. To ensure accuracy and consistency, please note that this form is used to collect information for both internal and external users. Before proceeding, kindly review your details for any duplication or incorrect entries, as this can cause errors in the training process.
-</thinking>
-
 # training_enrolment_form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in enrolling in a training program. It helps to gather essential details for the training process, ensuring accuracy and efficiency.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for students to enroll in an architectural course. The form asks for information about the student, including their name, email, phone number, date of birth, and student ID (if applicable). The form also asks for academic information, such as the student's current education level, current GPA, and degree program. Additionally, the form allows students to select the course title, course level, semester, and enrollment year. The form also asks about prerequisites, including whether all prerequisites have been met or waived, and lists prerequisite courses completed. Furthermore, the form inquires about the student's learning goals and why they are enrolling in the course. Finally, the form asks about financial aid information.
-
-</thinking>
-
 # Architectural Course Enrollment Form - Help Guide
 ## Purpose
 This form is used for students to enroll in an architectural course. It collects information to ensure the student's eligibility for the course and to provide relevant information to the course instructors and staff.

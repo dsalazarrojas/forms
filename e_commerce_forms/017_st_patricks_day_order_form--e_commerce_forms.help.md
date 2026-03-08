@@ -1,5 +1,4 @@
-# <thinking>... </thinking>
-This form is intended to be a St. Patricks Day themed form for ordering purposes. It is designed to collect customer information, order details, and payment information for orders placed during this specific holiday season. 
+# This form is intended to be a St. Patricks Day themed form for ordering purposes. It is designed to collect customer information, order details, and payment information for orders placed during this specific holiday season. 
 
 Please ensure that the form is used for this intended purpose and not for other unrelated activities. 
 

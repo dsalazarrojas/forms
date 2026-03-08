@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to test users' understanding of international economics concepts and their applications. It is designed to assess knowledge of various topics within international economics, including definitions, trade, finance, and indicators. This form consists of 13 questions that cover different aspects of international economics, requiring users to answer multiple-choice questions that test their comprehension and analytical skills.
-</thinking>
-
 # international_economics_quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your understanding of international economics concepts and their applications. It consists of 13 multiple-choice questions that cover various topics in international economics, such as definitions, trade, finance, and indicators.

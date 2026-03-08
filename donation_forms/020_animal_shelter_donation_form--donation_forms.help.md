@@ -1,9 +1,3 @@
-<thinking>
-The Animal Shelter Donation Form is used for donors to make a donation to the Animal Shelter, providing personal and donation details.
-This guide will help you understand the purpose and process of this form.
-Please ensure you're familiar with the form before proceeding.
-</thinking>
-
 # Animal Shelter Donation Form - Help Guide
 ## Purpose
 The Animal Shelter Donation Form is used for donors to make a donation to the Animal Shelter. This guide will walk you through the form's sections and fields to ensure you complete it accurately.

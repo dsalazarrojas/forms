@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from students about their current health status. It is intended to be completed by parents or guardians on behalf of the student. The purpose of this form is to assess the student's well-being and identify any potential health concerns that may require attention. The form is not meant to be a substitute for a medical professional's evaluation, but rather a tool to help school administrators and healthcare providers gather information about the student's health status. 
-
-Before completing this form, please ensure that you are providing accurate and honest information about the student's health status. If you are unsure about any of the questions, please select "No" or "Don't know" to indicate that you are not sure. 
-
-This form is not a replacement for a physical examination or medical diagnosis. If you suspect the student has any of the symptoms listed, please contact the school's health services or a medical professional for further evaluation and care. 
-
-Please fill out this form for each student as accurately and completely as possible.
-
-</thinking>
-
 # Student Daily Wellness Screening Form - Help Guide
 ## Purpose
 This form is designed to gather information from students about their current health status. It is intended to be completed by parents or guardians on behalf of the student.

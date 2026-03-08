@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to schedule a visit to the Class Media Center. This form is intended for teachers, instructors, or other educational professionals to plan and arrange visits to the media center, which may include activities such as book checkout, research projects, story time, library orientations, computer lab use, reading time, or special programs.
-
-To prevent duplication of effort and ensure that the schedule is not overbooked, this form will automatically check for conflicts with other bookings. Please fill out this form carefully and accurately to ensure that your requested visit dates and times are available.
-
-This form should only be filled out for a single visit. If you need to schedule multiple visits, please repeat this process for each visit.
-
-This form should only be filled out by the teacher or instructor of record, or other authorized personnel.
-</thinking>
-
 # Class Media Center Visit Schedule - Help Guide
 ## Purpose
 The Class Media Center Visit Schedule form is used to schedule a visit to the Class Media Center for educational activities and events.

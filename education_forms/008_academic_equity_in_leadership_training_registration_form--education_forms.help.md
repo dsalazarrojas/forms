@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration for the Academic Equity In Leadership Training program. Before completing the form, please ensure you have not previously registered for this program and that your registration is accurate and up-to-date. 
-</thinking>
-
 # Academic Equity In Leadership Training Registration Form - Help Guide
 ## Purpose
 The Academic Equity In Leadership Training Registration Form is designed for participants to provide their information and preferences for the Academic Equity In Leadership Training program. This form helps the program organizers with participant registration, contact, and accommodation arrangements.

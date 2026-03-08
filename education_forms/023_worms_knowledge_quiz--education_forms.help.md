@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the purpose and completion of the "Worms Knowledge Quiz" form. The form is designed to collect various pieces of information, including multiple-choice questions and user contact details.
-
-</thinking>
-
 # Worms Knowledge Quiz - Help Guide
 ## Purpose
 The "Worms Knowledge Quiz" form is a tool used to gauge users' knowledge on a specific subject matter, likely related to worms. It is designed to be a multiple-choice quiz with sections that cover different topics. The form is meant to be completed by users who wish to assess their understanding of the subject.

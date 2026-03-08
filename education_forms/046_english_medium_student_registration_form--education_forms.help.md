@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about English medium students. The form is used for registration purposes, and the data collected will be used to categorize and manage student records. This form is likely used within an educational institution to track student data for administrative purposes. To avoid duplication, this form should only be filled out once by each student.
-</thinking>
-
 # english_medium_student_registration_form - Help Guide
 ## Purpose
 The english_medium_student_registration_form is used to collect information about English medium students for registration and administrative purposes.

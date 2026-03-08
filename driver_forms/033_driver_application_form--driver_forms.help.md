@@ -1,7 +1,3 @@
-<thinking>
-The Driver Application Form is used for users to submit their application for a driver's license. It collects personal information such as name, email, phone number, and driver's license number. This form is used to ensure that the user's application is properly processed and their identity is verified before proceeding with the next steps in the driver's license application process.
-</thinking>
-
 # Driver Application Form - Help Guide
 ## Purpose
 The Driver Application Form is used for users to submit their application for a driver's license.

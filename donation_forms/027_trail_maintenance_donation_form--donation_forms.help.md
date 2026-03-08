@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals who are interested in making a donation to support trail maintenance efforts. The purpose of this form is to collect information from donors about their donation, such as the amount donated, the purpose of the donation, and the frequency of the donation. This form helps the trail maintenance team to accurately record and acknowledge donations, and to communicate with donors about their contributions. Before proceeding, please make sure to review our [donation guidelines](link_to_guidelines) to ensure you understand how your donation can be used.
-</thinking>
-
 # Trail Maintenance Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations from individuals who wish to support trail maintenance efforts. Your contributions will help us maintain and improve trails for everyone to enjoy.

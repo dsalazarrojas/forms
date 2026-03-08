@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a new customer, collecting essential information such as first name, last name, email, phone number, and other relevant details. The form is designed to ensure that all required fields are completed and validated properly to avoid errors. It's essential to fill out the form correctly to create a new customer account.
-</thinking>
-
 # new_customer_registration_form - Help Guide
 ## Purpose
 The new_customer_registration_form is used to register a new customer by collecting necessary information such as name, contact details, and other relevant data.

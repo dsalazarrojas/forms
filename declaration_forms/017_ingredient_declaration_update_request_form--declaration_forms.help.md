@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be for updating information related to ingredient declarations. The purpose of this form is to collect updates to existing ingredient declarations. The form is likely used by regulatory bodies or organizations that require accurate and up-to-date information on ingredients used in products or processes. The updates might be due to changes in ingredient formulations, new regulations, or other reasons that require the declaration to be revised. The form is likely used by individuals or organizations that have previously submitted ingredient declarations and need to make changes to their existing submissions. The form might also be used by internal teams or departments within an organization to track and manage updates to ingredient declarations.
-
-Please note that the fields on this form are relatively simple and only include text fields, which suggests that the form is intended for collecting short-form information. The fields are all required, which implies that the form is a serious update request and requires accurate and thorough information. The fields seem to be focused on updating existing information, rather than adding new declarations.
-
-</thinking>
-
 # Ingredient Declaration Update Request Form - Help Guide
 ## Purpose
 This form is used to update existing ingredient declarations. Please use this form to submit changes to your ingredient declaration.

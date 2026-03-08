@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information about a participant's simulation sign up for a dosage calculation simulation. The fields are designed to gather relevant information about the participant's demographics, simulation preferences, and learning objectives. This form will help the facilitators and organizers of the simulation to better understand the needs and preferences of the participants.
-
-It is assumed that the participant is a learner or a professional interested in participating in a simulation exercise related to dosage calculations. The form is not intended for non-participants, such as instructors or administrators.
-
-Please note that some fields may be optional, and the participant may choose to skip them if they are not relevant or applicable to their situation.
-
-This guide is intended to be used by end-users of the form, who may not be familiar with the terminology or the context of the simulation.
-
-</thinking>
-
 # Dosage Calculation Simulation Sign Up - Help Guide
 ## Purpose
 This form is used to sign up participants for a dosage calculation simulation exercise. It gathers information about the participant's demographic details, simulation preferences, and learning objectives.

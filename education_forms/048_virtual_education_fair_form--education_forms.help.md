@@ -1,7 +1,3 @@
-<thinking>
-The form "Virtual Education Fair Form" is designed to collect information for virtual education events, including organizer and attendee details, event information, and session specifics. This form is intended for virtual education events, and its fields cover essential aspects such as event dates, times, locations, and links. It is meant to be completed by event organizers and attendees to streamline the registration and organization process. This form does not duplicate or replicate existing forms but is an original adaptation based on public survey topic metadata.
-</thinking>
-
 # virtual_education_fair_form - Help Guide
 ## Purpose
 The Virtual Education Fair Form is designed to collect information for virtual education events, including organizer and attendee details, event information, and session specifics.

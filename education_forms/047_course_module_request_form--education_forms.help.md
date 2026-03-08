@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to request a new course module. The module request form is likely used by instructors or staff members to submit a new course module for approval. The form collects various information related to the module, including its name, code, type, level, credits, start and end dates, status, and description. This form helps to streamline the process of creating and managing course modules. 
-</thinking>
-
 # Course Module Request Form - Help Guide
 ## Purpose
 The Course Module Request Form is used to request a new course module for approval.

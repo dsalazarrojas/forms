@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users for the "Zumba In The Park" program. The form is not mandatory, meaning users are not required to provide information if they choose not to. Each field is optional unless marked as required in the YAML configuration, which is currently not the case for any fields. Users should only fill in the required fields as per their preference. If a field is marked as "required", it means that information is necessary for further processing or communication. The form is likely used by administrators to track participant information and preferences. Please note that this form is not intended for production use and is a placeholder for demonstration purposes only.
-</thinking>
-
 # Zumba In The Park Registration Form - Help Guide
 ## Purpose
 This form is a collection of fields designed to gather information from users interested in the Zumba In The Park program. The form is for informational purposes and does not require mandatory submissions. 

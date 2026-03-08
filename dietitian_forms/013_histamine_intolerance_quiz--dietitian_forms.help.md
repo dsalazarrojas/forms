@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess histamine intolerance, a condition where the body has trouble processing histamine, a chemical found in various foods. Histamine intolerance can lead to symptoms such as itching, diarrhea, and headaches. This form will help healthcare professionals diagnose and provide recommendations for managing histamine intolerance. It's essential to complete this form accurately to ensure that the provided recommendations are relevant and effective. If you've already taken the histamine intolerance test or have a diagnosis, please don't complete this form.
-</thinking>
-
 # Histamine Intolerance Quiz - Help Guide
 ## Purpose
 The Histamine Intolerance Quiz is a tool designed to help healthcare professionals diagnose and provide recommendations for managing histamine intolerance. This quiz will guide you through a series of questions to help identify your potential histamine intolerance status and provide personalized advice.

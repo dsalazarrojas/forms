@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be an assessment audit form for educational settings. It's intended to gather information about the assessment methods and processes in place. The form appears to be asking for feedback, suggestions, and data about the assessment methods being used. It's likely used to evaluate and improve the assessment process.
-</thinking>
-
 # Education Assessment Method Audit Form - Help Guide
 ## Purpose
 

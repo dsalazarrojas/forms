@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be a claim form for students, likely related to scholarships or other educational benefits. It's essential to ensure this form is being filled out correctly to avoid duplication or invalid claims. The user should be guided through the process carefully to provide accurate and relevant information. 
 
 # scholarship_claim_form - Help Guide

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to track a student's reading progress, allowing educators to monitor and record a student's reading activities, goals, and accomplishments. The form is meant to be used by teachers, instructors, or administrators to gather data on a student's reading habits, progress, and goals. It is likely used in an educational setting to assess student reading performance and provide feedback.
-
-The form will help users identify areas where students may be struggling or excelling in their reading abilities. By analyzing the collected data, educators can create more effective reading programs and interventions to support students' reading development.
-
-To avoid duplication of effort, ensure that each student has a unique "Student ID" number entered for each entry.
-
-</thinking>
-
 # reading_progress_log - Help Guide
 ## Purpose
 The reading_progress_log form is designed to track a student's reading progress, goals, and activities.

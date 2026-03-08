@@ -1,12 +1,3 @@
-<thinking>
-To create this help guide, I'll first analyze the form's purpose and structure to understand the context in which it will be used.
-
-The form is titled "Kindergarten Evaluation Form" and is categorized under "education_forms". It seems to be designed for evaluating the progress of kindergarten students, taking into account the opinions and comments of teachers. Based on the form's structure, it's clear that it's meant for gathering subjective feedback from teachers on a student's development and progress in a kindergarten setting.
-
-Given this purpose, I'll create a help guide that explains how to complete the form correctly and concisely, providing a clear and straightforward explanation of each field and its intended use.
-
-</thinking>
-
 # Kindergarten Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from teachers on the progress of kindergarten students, helping to identify areas of strength and areas for improvement.

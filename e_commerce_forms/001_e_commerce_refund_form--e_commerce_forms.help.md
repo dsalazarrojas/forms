@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Commerce Refund Form - Help Guide
 
 ## Purpose

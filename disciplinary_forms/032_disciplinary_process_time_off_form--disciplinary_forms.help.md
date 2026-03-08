@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to support the disciplinary process in an organization, allowing managers and supervisors to manage employee time off and leave requests. This form is used to track and document employee absences, including the reason for the absence, the duration of the absence, and the status of the approval process. It also collects information on the employee's name, title, and contact details. This form is intended to be used by employees and managers to facilitate communication and record-keeping during the disciplinary process.
-
-To determine whether this form is relevant to your situation, consider whether you are an employee requesting time off or a manager/supervisor responsible for reviewing and approving requests. If you are an employee, this form is for you to initiate a time off request. If you are a manager/supervisor, this form is for you to review and approve or reject employee time off requests.
-
-Please note that this form may not be applicable in cases where an employee is on a regular vacation or sick leave, as those are typically processed through separate systems.
-
-</thinking>
-
 # Disciplinary Process Time Off Form - Help Guide
 ## Purpose
 The Disciplinary Process Time Off Form is used to manage employee time off and leave requests, tracking absences, and approval status.

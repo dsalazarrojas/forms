@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is used to declare exemptions for members who wish to opt-out of certain safety protocols or procedures at the fitness center. The purpose of this form is to ensure that members are aware of and understand their responsibilities and obligations under the center's policies and procedures. The form will help the member to declare their exemption status and provide necessary documentation to support their exemption.
-
-Before filling out this form, please ensure that you are not declaring an exemption for an existing condition that has already been approved or exempted. If you are unsure about your exemption status, please contact your club manager for guidance.
-
-Please note that this form should only be filled out by current or prospective members of the fitness center. 
-
-</thinking>
-
 # Anytime Fitness Vaccine Exemption Declaration - Help Guide
 ## Purpose
 This form is used to declare exemptions for members who wish to opt-out of certain safety protocols or procedures at the fitness center.

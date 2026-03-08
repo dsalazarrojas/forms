@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the needs of students in after-school programs. This form gathers information on student demographics, academic performance, and behavior, as well as family resources and constraints. The form is designed to help identify areas where a student may need additional support, and to inform the development of after-school programs that cater to those needs. It is essential to complete this form accurately and thoroughly to ensure that the after-school program can effectively support the student's academic and social development.
-</thinking>
-
 # After School Needs Assessment - Help Guide
 
 ## Purpose

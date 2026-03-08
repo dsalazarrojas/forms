@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used by students to request a renewal of their scholarship, allowing them to update their contact information and provide context for the renewal request. This form is typically filled out by students who are nearing the end of their scholarship period and need to extend it. The form helps the scholarship administration track the renewal requests and update the status of the scholarship accordingly. To avoid submitting duplicate requests, please ensure you have not already submitted a renewal request for this scholarship. 
 
 # Scholarship Renewal Contact Form - Help Guide

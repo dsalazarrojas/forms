@@ -1,7 +1,3 @@
-<thinking>
-This form is used for online donations, allowing users to provide their name, contact information, and donation details.
-</thinking>
-
 # Paymentwall Online Donation Form - Help Guide
 ## Purpose
 The Paymentwall Online Donation Form is designed for users to make online donations. This form will help you collect donation information from users in a secure and efficient manner.

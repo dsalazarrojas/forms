@@ -1,14 +1,3 @@
-<thinking>
-**Form Purpose:** This form is designed to collect information from individuals interested in participating in a mentoring program. The form will ask for basic contact and demographic information, educational background, financial situation, questions or concerns, and an optional essay section for additional context.
-
-**Form Relevance Check:**
-
-* Please ensure you are submitting a genuine application and not a duplicate submission.
-* If you are unsure about any field, refer to this help guide for clarification.
-* The form is not affiliated with any proprietary form platforms, but a generated original form based on public survey topic metadata.
-
-</thinking>
-
 # mentoring_program_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in a mentoring program.

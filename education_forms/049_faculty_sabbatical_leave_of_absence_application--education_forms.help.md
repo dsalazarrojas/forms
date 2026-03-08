@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used to request a sabbatical leave of absence for a faculty member. It is essential to fill out this form accurately to ensure that your request is processed correctly and your leave is approved. Please make sure to review each field carefully and enter your information as instructed. To avoid any delays or errors, ensure that you do not submit duplicate requests, and only submit one request for each sabbatical leave of absence period. This form is only available to faculty members, and your department will need to verify that you are a faculty member before processing this form.
 # Faculty Sabbatical Leave Of Absence Application - Help Guide
 ## Purpose

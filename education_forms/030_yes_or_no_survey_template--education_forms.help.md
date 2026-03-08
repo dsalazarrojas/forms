@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to be a simple survey template that can be used to collect responses from users. It has the following fields:
-
-* Title and description for the survey
-* Questions and answers to collect responses
-* Date and time of the survey
-* Contact information
-* Three save responses with yes or no options
-
-The purpose of this form is likely to collect data from users on specific topics or events, and to allow them to save their responses for reference or further action. It may be used in various contexts, such as research, customer feedback, or event evaluation.
-
-This form does not currently appear to have any complex logic or conditional fields that would require special handling or validation. However, it's always a good idea to double-check the form's requirements and functionality before using it in a production environment.
-
-</thinking>
-
 # Yes Or No Survey Template - Help Guide
 ## Purpose
 The Yes Or No Survey Template is a simple form for collecting user responses to a series of questions. It is intended for users to provide yes or no answers to the questions listed below.

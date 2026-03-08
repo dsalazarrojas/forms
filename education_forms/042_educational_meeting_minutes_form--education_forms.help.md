@@ -1,20 +1,3 @@
-<thinking>
-The Educational Meeting Minutes Form is a digital form used to record and document the details of educational meetings, including meeting details, attendees, and actions taken. This form helps to improve communication and reduce errors by standardizing the collection and sharing of information across teams and stakeholders.
-
-The form is designed to be user-friendly and easy to fill out, with fields that guide users through the necessary information required. Before filling out the form, please ensure that the meeting details are accurate and complete, and that you have all the necessary information at hand.
-
-To complete the form, follow these steps:
-
-1. Select the relevant meeting details, including date and time of the meeting.
-2. Enter the location of the meeting.
-3. Identify the meeting leader and any attendees.
-4. Record any decisions made during the meeting.
-5. Outline any next steps or actions to be taken.
-6. Indicate if any follow-up actions are required.
-7. Add any meeting notes or attachments.
-
-</thinking>
-
 # Educational Meeting Minutes Form - Help Guide
 ## Purpose
 The Educational Meeting Minutes Form is a tool used to record and document the details of educational meetings, including meeting details, attendees, and actions taken. This form helps to improve communication and reduce errors by standardizing the collection and sharing of information across teams and stakeholders.

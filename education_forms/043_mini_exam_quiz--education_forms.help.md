@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated "Mini Exam Quiz" designed to collect general information and multiple choice answers. The purpose of this form is to gather data from end-users, likely for educational or testing purposes. This form was created using only public metadata from online survey topics and is not affiliated with, endorsed by, or derived from any existing form platforms. It is an original adaptation and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit. Contact: form@gic.mx.
-</thinking>
-
 # Mini Exam Quiz - Help Guide
 ## Purpose
 The "Mini Exam Quiz" form is designed to collect general information and multiple choice answers. It is intended for educational or testing purposes, such as gathering data from end-users.

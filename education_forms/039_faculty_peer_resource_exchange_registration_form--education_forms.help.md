@@ -1,11 +1,3 @@
-<thinking>
-
-The "Faculty Peer Resource Exchange Registration Form" is a form designed to collect information from faculty members about their research projects, interests, and collaborations. This form is intended to facilitate connections between faculty members who share similar research interests and expertise. By completing this form, faculty members can register their projects, identify potential collaborators, and participate in peer review processes.
-
-Before starting, please ensure you're registering for the correct purpose and have not already completed this form. This will help streamline the review process and prevent duplicate registrations.
-
-</thinking>
-
 # Faculty Peer Resource Exchange Registration Form - Help Guide
 ## Purpose
 The Faculty Peer Resource Exchange Registration Form is a tool to facilitate connections between faculty members with similar research interests and expertise.

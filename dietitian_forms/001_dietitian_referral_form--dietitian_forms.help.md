@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dietitian Referral Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from graduate students who are applying for admission to a program. This form is likely used by admissions committees to review and process applications. The form should only be completed by graduate students who are applying for programs and not by other types of users. To avoid duplication, the form should only be submitted once per student. This form is not intended for internal use by staff members or administrators.</thinking>
-
 # Graduate Student Application Form - Help Guide
 ## Purpose
 The Graduate Student Application Form is designed to collect information from graduate students who are applying for admission to a program. This form will be reviewed and processed by the admissions committee to determine eligibility for admission.

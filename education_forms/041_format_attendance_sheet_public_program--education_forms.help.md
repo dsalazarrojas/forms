@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals about their educational background, specifically regarding their public program attendance. The form is meant to gather details such as name, contact information, education level, and graduation dates and details. To fill out this form correctly, you should have all the necessary details about your public program attendance at hand. Please make sure to fill out all required fields, as indicated by the "required" property in the form.
-</thinking>
-
 # Format Attendance Sheet (Public Program) - Help Guide
 ## Purpose
 This form is designed to collect information from individuals about their public program attendance.

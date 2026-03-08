@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to assess the user's knowledge on data models, specifically by presenting a series of questions that cater to different types of questions. It is likely to be used in an educational setting, such as a course or training program, to evaluate the user's understanding of various data models. The form is divided into multiple pages, each with a unique set of questions tailored to a specific topic within the data models domain. The questions cover various types, such as multiple-choice questions, date/time input, text entry, and numeric input.
-
-This form does not require a specific format for the answers, making it suitable for a broad range of educational settings. Given the structure of the form, the purpose is not to assess the user's expertise on specific data models but rather to gauge their general understanding of data models.
-
-The user must be aware that this form is optional and that some questions may have no specific impact on the outcome, as all the required fields are marked as "false" in the input schema. Therefore, users may choose to skip the form or leave some fields incomplete.
-</thinking>
-
 # Data Models Knowledge Quiz - Help Guide
 
 ## Purpose

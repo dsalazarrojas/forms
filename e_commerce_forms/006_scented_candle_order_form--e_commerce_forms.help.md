@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple, multi-page form for gathering customer information and order details for scented candles, with a mix of text and email fields, possibly for both the customer and shipping address. However, it seems that some fields might be redundant or have unclear labels. To proceed with creating a user-friendly help guide, I'll make some assumptions based on common form design patterns.
-</thinking>
-
 # scented_candle_order_form - Help Guide
 ## Purpose
 The scented_candle_order_form is designed to collect customer information and order details for a scented candle purchase. Fill out the form with your relevant details to ensure accurate processing of your order.

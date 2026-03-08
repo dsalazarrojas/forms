@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cheap Sports Jersey Payment Form With Sofort - Help Guide
 ## Purpose
 This form is designed to collect information for the purchase of cheap sports jerseys with the Sofort payment method. It is intended for customers who wish to pay with Sofort, an instant card payment service. The form collects contact and shipping information, jersey selection, size, and payment details to facilitate the ordering process.

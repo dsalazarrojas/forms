@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback from students about their field trip experiences. This form will help to assess the quality of the event, the preferences of the students, and gather suggestions for future events. This form will help the organizers to evaluate the success of the field trip and to identify areas of improvement.
-
-To avoid duplication of work and ensure accuracy, it is recommended that the form should be filled out for each field trip separately. This will help to provide a comprehensive understanding of each trip's experience.
-
-</thinking>
-
 # field_trip_survey - Help Guide
 
 ## Purpose

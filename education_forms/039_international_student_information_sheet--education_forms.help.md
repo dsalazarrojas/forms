@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about international students, likely for administrative or organizational purposes within an educational institution. This form appears to be a general template and does not have any conditional logic or specific requirements. It's possible that some fields may be duplicated or have overlaps in terms of information collected. However, the form's purpose is to gather comprehensive data about international students, which could include demographic information, travel details, and contact information.
-</thinking>
-
 # International Student Information Sheet - Help Guide
 ## Purpose
 The International Student Information Sheet is designed to collect details about international students, including their personal and travel-related information. This form is essential for administrative and organizational purposes within educational institutions.

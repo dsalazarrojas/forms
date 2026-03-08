@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Holiday Giving Campaign, which aims to collect data from donors about their charitable contributions during the holiday season. This form is used by internal staff to review and process donation information. Please ensure that you are filling out this form for the correct purpose and do not duplicate entries. 
-</thinking>
-
 # Holiday Giving Campaign Registration Form - Help Guide
 ## Purpose
 The Holiday Giving Campaign Registration Form is used to collect information from donors about their charitable contributions during the holiday season. This form helps internal staff review and process donation data.

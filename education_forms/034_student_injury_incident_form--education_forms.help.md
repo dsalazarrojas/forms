@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents involving student injuries. This guide will walk you through how to complete the form and what each field means.
-</thinking>
-
 # Student Injury Incident Form - Help Guide
 ## Purpose
 The Student Injury Incident Form is a tool for schools to document and report incidents involving student injuries. This form helps schools track and manage student injuries, ensuring that students receive proper care and support.

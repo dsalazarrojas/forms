@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Deli Order Form For In Store Pickup - Help Guide
 ## Purpose
 This form is used for customers to place orders for in-store pickup at a deli. It helps you gather information about the customer's order, including their preferred category, sandwich selection, quantity, salad choice, and contact details.

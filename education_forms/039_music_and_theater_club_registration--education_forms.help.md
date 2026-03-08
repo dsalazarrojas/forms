@@ -1,35 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their parents/guardians for the Music And Theater Club. To ensure accuracy and consistency, please review the form purpose and instructions carefully.
-
-The form will be used to gather essential details such as name, contact information, and role in the club. The fields are organized into sections to make it easy to follow and fill out. Each field has a clear label and explanation to guide the user through the process.
-
-The following form fields will be used to collect the following information:
-
-* First name
-* Last name
-* Email
-* Phone
-* Role (Director, Actor, Singer, Dancer, or Member)
-* Date of birth
-* Grade level (9th, 10th, 11th, or 12th)
-* School name
-* Parent contact name
-* Parent email
-* Parent phone
-* Emergency contact name
-* Emergency contact phone
-* Emergency contact email
-* Parent signature
-* Student signature
-* Additional role information
-* Student agreement (Yes or No)
-* Parent agreement (Yes or No)
-* School signature
-
-Before filling out the form, please ensure that you have the necessary information and consent from the student and their parents/guardians.
-
-</thinking>
-
 # Music And Theater Club Registration - Help Guide
 ## Purpose
 This form is designed to collect information from students and their parents/guardians for the Music And Theater Club. It is essential to provide accurate and complete information to ensure a smooth registration process.

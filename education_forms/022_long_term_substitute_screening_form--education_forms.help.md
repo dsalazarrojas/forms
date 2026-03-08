@@ -1,8 +1,3 @@
-<thinking>
-To ensure that users complete the form accurately and understand its purpose, we first need to establish that the "Long Term Substitute Screening Form" is used for the following reason: To gather information from substitute teachers about their long-term substitute needs, including availability, educational level, role, and other relevant details. This form is used to collect data for internal purposes, ensuring that the district is well-prepared to support substitute teachers. It is essential to fill out this form carefully and accurately to avoid duplication or miscommunication.
-
-</thinking>
-
 # Long Term Substitute Screening Form - Help Guide
 ## Purpose
 The Long Term Substitute Screening Form is a crucial tool used by our district to gather information from substitute teachers for long-term substitute positions. This form helps us understand your availability, education level, role, and other essential details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about the progress of a class of students. It is likely used in an educational or training context where the class progress is being assessed and reported. The form is used to collect data on the start date of the class, duration, participants, assessment frequency, total sheets assessed, total corrected, and other relevant details. This form might be used by instructors or educators to track and evaluate the progress of their classes.
-</thinking>
-
 # hifz_class_assessment_form - Help Guide
 ## Purpose
 The hifz_class_assessment_form is a tool used to assess and report progress of a class in an educational or training context. It helps track the start date, duration, number of participants, and other metrics that contribute to the class's progress.

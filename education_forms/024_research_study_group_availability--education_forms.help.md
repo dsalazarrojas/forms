@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about the availability of research study groups, which are groups of researchers that work together on a research project. The purpose of this form is to gather details about the availability of these groups, including their preferred meeting times, formats, and other relevant information. This form is designed to be completed by research group members to communicate their availability and preferences to the project coordinator.
-
-This form should only be completed by research group members, and it's not designed to be used for other purposes.
-
-The information collected through this form will help the project coordinator to schedule meetings and communicate with the research group members efficiently.
-</thinking>
-
 # Research Study Group Availability - Help Guide
 ## Purpose
 The "Research Study Group Availability" form is designed to gather information from research group members about their availability and preferences for meetings.

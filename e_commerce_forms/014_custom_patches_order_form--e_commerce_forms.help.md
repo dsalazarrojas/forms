@@ -1,22 +1,3 @@
-<thinking>
-To create this form, I'll need to analyze the provided YAML schema and provide a clear, concise user-facing help guide.
-
-The form is titled "custom_patches_order_form" and is designed to collect information from customers for custom patches orders. The form will likely be used by customers to place orders for custom patches, providing details such as their customer information, email address, design specifications, and order notes.
-
-The form will not collect redundant information, and all fields are categorized into a single section for ease of access. Upon reviewing the schema, I've determined the following sections:
-
-1. "Customer Details"
-2. "Customer Email"
-3. "Logo Image"
-4. "Design Details"
-5. "Customer Phone"
-6. "Order Details"
-7. "Order Notes"
-
-Each section is designed to collect relevant information for the custom patch order process. To avoid duplication, I'll ensure that each field is clearly labeled and explained.
-
-</thinking>
-
 # custom_patches_order_form - Help Guide
 ## Purpose
 The "custom_patches_order_form" is a form designed to collect information for custom patches orders from customers.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for the student organization's college membership management. It allows users to input various information related to a student's college membership, such as student details, contact information, and membership status. This form is likely to be used by club leaders or administrators to manage membership data for their respective colleges or student organizations. It is essential to ensure the accuracy and completeness of the data entered, as this information is used for official purposes. Please review the form carefully to avoid duplication of entries or incorrect data. </thinking>
-
 # Student Organization College Membership Form - Help Guide
 ## Purpose
 The Student Organization College Membership Form is used to collect and manage information related to student college membership. This form is typically used by college administrators or club leaders to track membership status, student details, and other relevant information.

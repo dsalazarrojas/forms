@@ -1,12 +1,3 @@
-<thinking>
-The form is intended to be used to track the completion status of student assignments. It appears to be used by teachers to monitor student progress in various courses. The form likely helps to ensure that students are meeting all requirements and submitting their work on time. The form's fields suggest that it tracks details such as student name, assignment title, submission date, and completion status, among other fields.
-
-Before proceeding, please ensure that you have all necessary information and approvals to complete this form. This form should not be used to duplicate effort or create unnecessary work. Ensure that you have the necessary permissions and authority to access and use this form.
-
-If you are unsure about any part of this process, please seek clarification from your supervisor or relevant authority.
-
-</thinking>
-
 # Assignment Completion Check Form - Help Guide
 ## Purpose
 This form is used to track the completion status of student assignments. It helps teachers to monitor student progress and ensure that all requirements are met.

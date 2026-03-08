@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, please review the "Retail Employee Discharge Form" before proceeding. This form is intended to document the details of an employee's termination or discharge from the company. Ensure the form is completed accurately and consistently with company policies. If you are unsure about any field, please consult with the relevant personnel or management team.
-
-</thinking>
-
 # Retail Employee Discharge Form - Help Guide
 ## Purpose
 The "Retail Employee Discharge Form" is used to document the details of an employee's termination or discharge from the company. It is essential to complete this form accurately to ensure proper documentation and compliance with company policies.

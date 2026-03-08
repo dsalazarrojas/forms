@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Reunion Registration form is to collect information about upcoming reunions, such as the date, time, location, and details about the event. This form is intended for users to provide essential information to organize and coordinate the reunion. It is crucial to note that this form may be used by multiple users within the organization, so it's essential to ensure that the data provided is accurate and up-to-date. To avoid duplication of effort, please review the form carefully before submitting, and ensure that you have filled out all required fields.
-</thinking>
-
 # Reunion Registration - Help Guide
 ## Purpose
 The Reunion Registration form is used to collect information about upcoming reunions, enabling efficient organization and coordination of the event.

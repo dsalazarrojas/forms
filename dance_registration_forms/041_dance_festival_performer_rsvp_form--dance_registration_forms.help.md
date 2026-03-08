@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help you understand the purpose and usage of the "Dance Festival Performer RSVP Form" guide, let's dive into the form's internal reasoning:
 
 The form is designed to collect information from performers participating in a dance festival. It is intended to gather RSVP (response to a social invitation or event) details, including arrival and performance details. The form also includes a section for agreement selection, which might be related to contract or permission agreements. Additionally, it allows users to add any personal notes and contact information in case of emergency.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the Customer Credit Agreement Form. The form is designed to collect customer credit information, including agreement date, credit amount, and terms. It is typically used by sales teams or account managers to record and manage customer credits. Please review the form carefully and ensure you understand the purpose and fields before starting.
-</thinking>
-
 # Customer Credit Agreement Form - Help Guide
 ## Purpose
 The Customer Credit Agreement Form is a document used to document customer credit agreements, outlining terms and conditions, including credit amount and dates of agreement. It is intended to help businesses establish and manage customer credits in a clear and consistent manner.

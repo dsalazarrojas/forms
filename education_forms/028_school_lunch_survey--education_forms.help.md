@@ -1,7 +1,3 @@
-<thinking>
-The form is for students to provide feedback about their school lunch program. The purpose of this form is to collect information about students' experiences with school lunches, including their favorite foods, drinks, and activities. This form is likely used by school administrators or nutritionists to understand student preferences and make informed decisions about meal planning.
-</thinking>
-
 # School Lunch Survey - Help Guide
 ## Purpose
 The School Lunch Survey is a form designed to collect feedback from students about their school lunch experiences. The survey aims to gather information about students' favorite foods, drinks, and activities, which can help school administrators and nutritionists make informed decisions about meal planning and improve the school lunch program.

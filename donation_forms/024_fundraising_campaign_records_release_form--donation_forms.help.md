@@ -1,12 +1,3 @@
-<thinking>
-This form is for recording fundraising campaign participant information. 
-To be eligible for participation, a participant must have given permission and their contact information is required. The form is designed for both participant and administrator use.
-
-The form is split into two pages, and all fields on both pages are optional. 
-
-The form will not be used for duplicate purposes. 
-</thinking>
-
 # fundraising_campaign_records_release_form - Help Guide
 ## Purpose
 The "fundraising_campaign_records_release_form" is designed to record participant information for a fundraising campaign. This form is used to collect details such as participant name, contact information, and campaign participation dates.

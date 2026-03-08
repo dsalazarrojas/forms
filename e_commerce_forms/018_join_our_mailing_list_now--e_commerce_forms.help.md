@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect contact information from users who want to join our mailing list, allowing them to stay up-to-date on our company's latest news, promotions, and products. 
-
-This form should only be filled out once, and it should not be necessary to fill out multiple times. If a user has already submitted this form and wishes to update their information or join the mailing list again, they can simply click "submit" to resubmit their information.
-
-</thinking>
-
 # join_our_mailing_list_now - Help Guide
 ## Purpose
 This form collects contact information from users who want to join our mailing list to stay up-to-date on our company's latest news, promotions, and products.

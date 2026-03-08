@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the dental exam form, which is designed to collect information about patient medical and dental history, as well as exam date and treatment plans. 
-The form is meant to be used by dentists or healthcare professionals to create a comprehensive record of a patient's health information.
-Please note that this form does not store any sensitive or protected data. 
-</thinking>
-
 # dental_exam_form - Help Guide
 ## Purpose
 The dental_exam_form is designed to collect and document a patient's medical and dental history, exam date, and treatment plan.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about behavioral management techniques applied to students, including details about the behavioral issue, frequency, and severity of the behavior. The form is used to track progress towards behavior change and identify next steps for follow-up.
-
-</thinking>
-
 # Behavioral Management Techniques Form - Help Guide
 ## Purpose
 This form is used by educators to document behavioral management techniques applied to students with specific behavioral issues. It helps track progress towards behavior change and identify next steps for follow-up actions.

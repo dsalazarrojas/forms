@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from patients and healthcare providers for dental screening purposes. The form is used to record patient demographics, medical history, and contact information for follow-up visits. It collects data on oral health, allergies, medications, and medical history to help healthcare providers assess patients' needs and deliver targeted care. The form is meant to be completed by patients and providers to facilitate accurate and efficient data collection.
-</thinking>
-
 # Dental Screening Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients and healthcare providers for dental screening purposes.

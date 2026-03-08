@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Restaurant Food Photos - Help Guide
 ## Purpose
 The "Restaurant Food Photos" form is used to capture information about photos taken of food items at a restaurant. This form is typically used to document and track photos of menu items, ensuring consistency and accuracy in food presentation.

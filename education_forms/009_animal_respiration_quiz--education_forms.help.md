@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess a user's knowledge on animal respiration, with questions ranging from basic to advanced topics such as respiratory systems in different animals, breathing rates, and the difference between aerobic and anaerobic respiration. The form is primarily intended for students, educators, or anyone interested in biology and the biological process of respiration.
-
-This form is part of the "education_forms" category, and its purpose is to evaluate the user's understanding of the respiratory system and its functions in various animals.
-
-To create a more engaging and interactive experience for users, I will focus on providing clear and concise explanations for each field, making it easier for them to complete the form and understand the subject matter better.
-
-</thinking>
-
 # Animal Respiration Quiz - Help Guide
 ## Purpose
 This form is a quiz on animal respiration, designed to assess a user's knowledge on the subject.

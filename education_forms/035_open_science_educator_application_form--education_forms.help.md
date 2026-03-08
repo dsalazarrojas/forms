@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Science Educator Application Form - Help Guide
 
 ## Purpose

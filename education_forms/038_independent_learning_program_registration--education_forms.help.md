@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an independent learning program. This form is likely used to gather data on programs that are not part of a traditional academic institution, but rather self-directed learning initiatives. The form will likely be used to track participant engagement, program status, and other relevant details. 
-This form will be used by administrators to manage and monitor independent learning programs. 
-To avoid duplication, ensure that this form is not used to collect redundant data. 
-</thinking>
-
 # independent_learning_program_registration - Help Guide
 ## Purpose
 The independent learning program registration form is used to collect data on self-directed learning initiatives. This form helps administrators track and manage participant engagement, program status, and other relevant details.

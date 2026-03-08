@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for a poster competition, which is likely to be used by the competition organizers or reviewers to assess and evaluate poster submissions. This form should only be filled out by students who wish to participate in the poster competition.
-
-Before filling out this form, please ensure that the student filling it out is the correct person and not a duplicate submission. The form is designed to collect information about the student's name, institution, field of study, title of their poster, the date and time it was posted, a brief concept statement, a description of their poster content, and their contact information (email and phone number). The submission status will be indicated by a submit button.
-
-This form has 12 fields in total, each with a unique purpose. Please fill out the form accurately and correctly to ensure that your submission is valid.
-</thinking>
-
 # Poster Competition Form - Help Guide
 ## Purpose
 The Poster Competition Form is designed to collect data for a poster competition. This form is intended for students who wish to participate in the competition.

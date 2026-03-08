@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to orders, specifically the details of a customer's purchase, their shipping address, and payment method. It appears to be a template for an online or offline ordering system, likely for a business-to-consumer (B2C) or business-to-business (B2B) setting. The fields cover essential details such as order specifics, customer contact information, payment type, and any additional notes or messages. To ensure accurate ordering, it's crucial to understand each field's significance.
-</thinking>
-
 # Polish On Point Order Form Template - Help Guide
 ## Purpose
 

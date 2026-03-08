@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback and data from participants after a training session. The form is designed to gather information about the effectiveness of the training, the participant's experience, and any comments they may have. It is intended to be completed by the participant themselves, and is used to inform future training design and delivery.
-
-The form is part of the education form category, so it is relevant to education-related activities. To ensure that the form is completed correctly and that the information gathered is accurate, it is essential to understand the purpose and the fields in the form.
-
-</thinking>
-
 # learning_verification_survey - Help Guide
 ## Purpose
 The "Learning Verification Survey" form is used to collect feedback and data from participants after a training session. It is designed to gather information about the effectiveness of the training, the participant's experience, and any comments they may have.

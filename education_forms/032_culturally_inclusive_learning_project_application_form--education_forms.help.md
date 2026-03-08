@@ -1,9 +1,3 @@
-<thinking>
-
-This form's purpose is to collect information from interested individuals, schools, or organizations about their project or initiative aimed at promoting culturally inclusive learning practices. This form is not intended to be a substitute for other application processes or official channels, and applicants are encouraged to review and verify that they have not submitted similar applications through other channels. Before filling out this form, ensure that you have read and understood the project's guidelines and requirements.
-
-</thinking>
-
 # Culturally Inclusive Learning Project Application Form - Help Guide
 ## Purpose
 The Culturally Inclusive Learning Project Application Form is designed to gather information from interested parties about their project or initiative that promotes culturally inclusive learning practices. This form helps our team assess applications and support initiatives that foster diversity, equity, and inclusion in education.

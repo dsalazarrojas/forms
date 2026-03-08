@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect participant information for cheerleading activities, ensuring that each participant's profile is accurately and thoroughly represented in the system. The internal logic for this form is based on the provided YAML fields and is intended to ensure that each participant's details are collected correctly and without duplication.
-
-</thinking>
-
 # Cheerleading Registration Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential participant information for cheerleading activities, including personal details, guardian contact information, and medical consent. Completing this form accurately ensures that each participant's profile is properly represented in the system.

@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Chemical Carcinogenesis Knowledge Quiz form, which is used to assess students' knowledge on chemical carcinogenesis. The form consists of multiple fields that require users to provide information about themselves and their quiz performance. 
-
-The form is structured into sections, including "Student and Quiz Identification," "Knowledge Assessment," and "Results and Feedback." Each section contains fields that require specific types of input, such as text, select_one, and select_multiple.
-
-The "Student and Quiz Identification" section includes fields for student name and date, which are required fields. The "Knowledge Assessment" section includes fields that test the student's knowledge on various topics related to carcinogenesis, including questions on definitions, DNA damage, chemical carcinogens, and the stages of carcinogenesis. The "Results and Feedback" section includes fields for students to rate their confidence in their answers and provide feedback on the clarity of the questions. 
-
-The internal score field is not visible to the user and is only for staff use. This form is designed to assess students' understanding of chemical carcinogenesis and provide an evaluation of their knowledge. 
-
-Please ensure that this form is used only for this specific purpose and that users understand the fields and their requirements before proceeding.
-</thinking>
-
 # Chemical Carcinogenesis Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess students' knowledge on chemical carcinogenesis. It consists of multiple fields that test their understanding of various concepts related to carcinogenesis.

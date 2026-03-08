@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed for users to register their participation in a Critical Pedagogy Study Group. The purpose of the form is to collect information about the user's personal details, study group preferences, and meeting schedule. This information will be used to organize and manage the study group effectively.
-
-Before proceeding, ensure that you are eligible to join the study group. If you are already a member of the study group, please do not submit this form again. 
-
-</thinking>
-
 # Critical Pedagogy Study Group Registration Form - Help Guide
 
 ## Purpose

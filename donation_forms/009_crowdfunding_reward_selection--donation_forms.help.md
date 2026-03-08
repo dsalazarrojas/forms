@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from backers who have pledged to support a crowdfunding campaign. The form is used to specify the reward details, shipping information, and other relevant details for the backer. This form is typically used for campaigns that have multiple reward tiers and shipping options. The form should only be filled out after a backer has selected their reward tier during the campaign.
-</thinking>
-
 # Crowdfunding Reward Selection - Help Guide
 ## Purpose
 The Crowdfunding Reward Selection form is used to collect detailed information from backers who have pledged to support a crowdfunding campaign. This form will ask for specific details about the backer's reward, shipping information, and other relevant details.

@@ -1,6 +1,4 @@
-<figure><thinking>
-To ensure the user understands the correct input fields and their purpose, we'll be going through each field and providing an explanation on how the form is used and what each field is for to avoid confusion and errors during input. The purpose of this form is to collect order information for the Field Day T Shirt event. Each field on this form is essential for accurate order processing, ensuring that the order details are captured correctly. Please note that some fields are required for order processing while others are optional but can be filled in to provide additional information.
-</thinking></figure>
+<figure></figure>
 
 # Field Day T Shirt Order Form - Help Guide
 ## Purpose

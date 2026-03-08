@@ -1,11 +1,3 @@
-<thinking>
-The Kindergarten Readiness Survey is designed to assess the preparedness and readiness of a child to transition from pre-school to kindergarten. This form is intended to be completed by parents or guardians of children entering kindergarten. It provides a standardized assessment of the child's social, emotional, and educational readiness for kindergarten, as well as their communication and social skills.
-To ensure that the survey is relevant and accurate, please note that:
-
-- It's essential to fill out the survey only for children entering kindergarten for the first time.
-- The assessment is designed to be a general guide, not a definitive or binding judgment.
-</thinking>
-
 # Kindergarten Readiness Survey - Help Guide
 ## Purpose
 The Kindergarten Readiness Survey is a tool to assess a child's preparedness and readiness to transition from pre-school to kindergarten.

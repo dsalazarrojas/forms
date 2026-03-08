@@ -1,9 +1,3 @@
-<thinking>...
-The purpose of this form is to collect information about a parent or guardian, including their name, phone number, email, and occupation. This information will be used for internal purposes, such as sending important updates and notifications to the parent or guardian.
-
-To ensure this form is filled out correctly, please note that each field is optional, but if you need to fill out the form, please make sure to provide accurate and up-to-date information.
-</thinking>
-
 # Parent Information Form - Help Guide
 ## Purpose
 The Parent Information Form is designed to collect information about a parent or guardian's contact details and occupation.

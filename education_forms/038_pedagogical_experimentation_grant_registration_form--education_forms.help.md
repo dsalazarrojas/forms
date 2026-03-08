@@ -1,5 +1,3 @@
-<thinking>...this form is meant to collect information from applicants for a pedagogical experimentation grant. This form is likely intended for researchers or educators who want to apply for funds to develop new pedagogical materials or approaches. Before completing this form, ensure that you have a solid idea of what you're applying for and that the information you provide is accurate and relevant to the grant's requirements. Please do not submit duplicate applications, as this may lead to confusion and delay the review process. Please ensure that you have all necessary details and documents before filling out this form...</thinking>
-
 # pedagogical_experimentation_grant_registration_form - Help Guide
 ## Purpose
 This form is for collecting information from applicants for a pedagogical experimentation grant. The grant aims to support innovative and evidence-based pedagogical projects that aim to improve teaching methods and materials.

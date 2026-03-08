@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help evaluators assess and provide feedback on a presentation or case study. It is intended for use by presenters, instructors, and other stakeholders who want to evaluate the quality and effectiveness of a presentation or case study. The form is a tool for providing constructive feedback and suggestions for improvement.
-</thinking>
-
 # Case Study Evaluation Form - Help Guide
 ## Purpose
 The Case Study Evaluation Form is designed to help evaluators assess and provide feedback on a presentation or case study. This form is intended for use by presenters, instructors, and other stakeholders who want to evaluate the quality and effectiveness of a presentation or case study.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will now create the help guide for the "Color Street Spring" form.
 
 # Color Street Spring - Help Guide

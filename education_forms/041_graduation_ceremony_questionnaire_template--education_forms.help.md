@@ -1,7 +1,3 @@
-<thinking>
-This form is a Graduation Ceremony Questionnaire Template, and its purpose is to collect information from students about their graduation ceremony experience. This template is likely used by the university to gather data for event planning and evaluation. 
-</thinking>
-
 # Graduation Ceremony Questionnaire Template - Help Guide
 ## Purpose
 The Graduation Ceremony Questionnaire Template is a form designed to collect information from students about their graduation ceremony experience. This helps the university staff to gather feedback, identify patterns, and make data-driven decisions to improve future events.

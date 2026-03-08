@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about a patient's dental insurance breakdown, including their name, address, insurance provider, procedure details, and payment method. This form likely aims to facilitate the processing of claims or payments related to dental procedures. Before proceeding, ensure this form is not being used for other purposes, and that you are authorized to access and complete this form.
 
 # Dental Insurance Breakdown Form - Help Guide

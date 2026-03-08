@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Faculty Roundtable Recording Consent Form - Help Guide
 ## Purpose
 This form is a Student Faculty Roundtable Recording Consent Form, designed for students to provide their consent for recording during a faculty roundtable discussion. It helps students and faculty members to ensure that they are aware of and agree to the recording of their participation, promoting a safe and respectful environment for all participants. 

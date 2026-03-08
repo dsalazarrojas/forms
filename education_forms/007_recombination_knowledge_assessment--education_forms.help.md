@@ -1,5 +1,3 @@
-<thinking>Recombination Knowledge Assessment is used to evaluate a student's understanding of recombination and gene flow principles. It is essential for students to complete this form to provide a thorough knowledge of genetics concepts.</thinking>
-
 # Recombination Knowledge Assessment - Help Guide
 ## Purpose
 The Recombination Knowledge Assessment form is designed to evaluate a student's understanding of recombination and gene flow principles.

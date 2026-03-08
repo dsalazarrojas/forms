@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about childcare activities for a specific month and year. The form is not intended for duplicate submissions, so please only submit one report per month and year. 
-</thinking>
-
 # Monthly Childcare Activity Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about childcare activities for a specific month and year.

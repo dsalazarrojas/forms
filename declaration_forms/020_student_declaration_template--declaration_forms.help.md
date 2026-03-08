@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to declare their participation in a specific program or assessment. The form is used to collect information from students, and each field is crucial in determining their eligibility and participation in the program. It is essential to complete this form accurately to ensure that the information is up-to-date and correct. Please ensure that you are not duplicating any existing declaration or assessment. The fields should only be completed once, and any discrepancies will be reviewed accordingly.
-</thinking>
-
 # Student Declaration Template - Help Guide
 ## Purpose
 The Student Declaration Template is a form designed for students to declare their participation in a program or assessment. It is used to collect information from students to ensure they meet the requirements and are eligible for the program.

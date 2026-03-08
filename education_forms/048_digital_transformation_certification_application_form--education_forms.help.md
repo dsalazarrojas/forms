@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is filled out correctly and only once, we'll check for internal flags and non-duplication checks before the user proceeds to the actual help guide.
-</thinking>
-
 # Digital Transformation Certification Application Form - Help Guide
 
 ## Purpose

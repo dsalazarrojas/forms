@@ -1,9 +1,3 @@
-<thinking>
-This guide helps ensure that the Daycare Incident Report Form is used accurately and consistently, reducing the risk of missed or misreported incidents. By providing a clear understanding of the form's purpose, structure, and individual fields, users can quickly and efficiently report incidents.
-
-The purpose of this form is to collect information about incidents that have occurred in a daycare setting, allowing staff and parents to report and respond to these events in a standardized and organized way. This form should be used to document incidents that are not routine or normal occurrences and may require further investigation or action.
-</thinking>
-
 # Daycare Incident Report Form - Help Guide
 ## Purpose
 The Daycare Incident Report Form is used to document incidents that have occurred in a daycare setting, such as accidents, illnesses, or other events that require attention or investigation. This form helps staff and parents to report and respond to these incidents in a standardized and organized way.

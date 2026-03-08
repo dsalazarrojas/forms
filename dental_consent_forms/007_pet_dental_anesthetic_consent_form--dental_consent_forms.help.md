@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from pet owners for consent and other relevant details for a pet's dental procedure. The purpose of this form is to ensure that the pet owner is informed and willing to provide consent for the procedure, as well as to gather medical information and emergency contact details.
-
-The form is divided into several sections, each containing a set of related fields. The form is optional and can be filled out by the pet owner.
-
-</thinking>
-
 # Pet Dental Anesthetic Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from pet owners for consent and other relevant details for a pet's dental procedure.

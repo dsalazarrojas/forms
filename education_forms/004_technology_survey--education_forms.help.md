@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to gather information about the user's level of experience and interest in technology, both in the workplace and in learning environments. This form aims to understand how users rate their experience with technology and how often they use online resources for learning. The goal is to collect data to inform the development of technology education programs. 
-
-This form is designed to be completed by users with different educational backgrounds and levels of experience with technology. The questions cover various aspects of technology use, from basic to advanced levels. This form is not meant to be a comprehensive assessment, but rather a starting point for further discussions and surveys.
-
-To ensure accurate and helpful responses, please review the fields below and provide your honest answers. Your input will contribute to shaping the future of technology education.
-</thinking>
-
 # Technology Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Technology Survey form efficiently and accurately.

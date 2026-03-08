@@ -1,12 +1,3 @@
-<thinking>
-This form seems to be a template for capturing donation payment information.
-To the best of my knowledge, this form aims to collect donor details, such as name, email, phone number, and other relevant information. I will assume that the form is used for fundraising purposes.
-
-The form is designed to be a generic template, allowing users to fill in various fields with their donation payment information. The form has a simple layout with a few fields that can be filled in by the user.
-
-Please note that the provided YAML does not specify a specific business logic or validation rules for the form, so I will be using the label and type of each field to guide the explanation.
-</thinking>
-
 # Donation Payment Form Template - Help Guide
 ## Purpose
 This form is designed to collect donation payment information from donors.

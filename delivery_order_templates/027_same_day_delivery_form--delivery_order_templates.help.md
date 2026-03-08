@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Same Day Delivery Form - Help Guide
 ## Purpose
 

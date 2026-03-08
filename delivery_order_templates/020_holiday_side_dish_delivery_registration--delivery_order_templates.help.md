@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to register holiday side dish delivery preferences for customers. This form is used to gather information about whether or not a customer wants to receive holiday side dishes, their customer details, preferred side dishes, delivery date and time, and contact information (email and phone number). This form is likely to be used by restaurants or food establishments to manage their holiday side dish delivery process.
-
-The form is divided into several sections: Delivery Preferences, Customer Details, Side Dish Selections, Delivery Date, Delivery Time, Email, Phone, and Notes. Each section has its own unique fields and options.
-
-Before filling out this form, please ensure you have all the necessary information ready. You may need to consult with your colleagues or managers to gather information about your holiday side dish preferences and delivery schedules.
-
-</thinking>
-
 # Holiday Side Dish Delivery Registration - Help Guide
 ## Purpose
 The purpose of this form is to register holiday side dish delivery preferences for customers.

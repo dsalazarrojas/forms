@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information for online product purchases. It's likely used for customers to provide details about their orders, such as delivery addresses, payment methods, and order notes. The form might be used for customer service purposes or for internal tracking and record-keeping. It's possible that this form is part of a larger system for managing online sales or e-commerce transactions. I'll assume that this form is used to gather information about online product purchases, such as the product purchased, price, and payment method. If you'd like me to add more context or clarify any of these assumptions, please let me know!</thinking>
-
 # online_product_purchase_form - Help Guide
 ## Purpose
 The online product purchase form is used to gather information about online product purchases, including delivery addresses, payment methods, and order notes.

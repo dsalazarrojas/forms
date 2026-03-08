@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be related to e-commerce transactions, and the purpose is to verify the compliance of a transaction, likely to ensure that it follows certain rules or standards. The form is likely used for internal auditing or compliance checks. I will now create a help guide based on the provided YAML fields.
-</thinking>
 # E Commerce Transaction Compliance Verification Form - Help Guide
 ## Purpose
 This form is used to verify the compliance of an e-commerce transaction. It helps to ensure that the transaction follows certain rules or standards, and is an internal auditing tool.

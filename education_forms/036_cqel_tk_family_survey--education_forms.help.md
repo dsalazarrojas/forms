@@ -1,5 +1,3 @@
-<thinking> This form, "CQEL TK Family Survey," is designed to gather information from families about their knowledge, perceptions, and experiences with Transitional Kindergarten (TK) programs. The primary purpose of this form is to understand the families' understanding and attitudes toward TK programs, their readiness for the program, and their potential barriers to enrollment. This information will help educators and administrators tailor TK programs to better meet the needs of families and children. To ensure that we're gathering accurate and relevant data, we will check for non-duplication of responses and verify the consistency of answers throughout the form. If you have previously completed this form, please be aware that your responses will be treated as a unique instance. </thinking>
-
 # CQEL TK Family Survey - Help Guide
 ## Purpose
 The CQEL TK Family Survey is designed to gather information about families' knowledge, perceptions, and experiences with Transitional Kindergarten (TK) programs. This information will help educators and administrators tailor TK programs to better meet the needs of families and children.

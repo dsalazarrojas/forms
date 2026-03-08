@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Environmental Leadership Program Registration - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The form is used to register a user for the English practice application. The form collects information about the user, such as their name, email, phone number, and organization details. It also collects information about the teacher or instructor, including their name, email, phone number, subject, education level, and teaching experience. The form also asks about the user's acceptance of certain terms and conditions, and their language proficiency in English. The form is designed to be completed by a user who wants to register for the English practice application and is intended for educational purposes only. This form is not intended for commercial purposes, and the information collected will be used to facilitate the English practice application process.</thinking>
-
 # english_practice_app_registration - Help Guide
 ## Purpose
 This form is used to register a user for the English practice application.

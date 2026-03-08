@@ -1,14 +1,3 @@
-<thinking>
-This form is for recording notes related to scheduling meetings. The purpose of this form is to gather information about meetings, including the title, attendees, date, and time. The form is used to track and record meeting notes and follow-up actions. It's likely used by administrative staff or meeting organizers to schedule and coordinate meetings.
-
-The form is designed to be used in a specific context, possibly within an organization, school, or other professional setting where meetings are regular occurrences. 
-
-This form is not a general-purpose meeting planning form. It's focused on recording meeting notes and follow-up actions, rather than planning and scheduling meetings from scratch.
-
-The form has a few fields that are likely to be of interest to specific roles or teams within the organization, such as meeting organizers, meeting attendees, or administrative staff. Each field has a specific purpose and should be filled in accordingly.
-
-</thinking>
-
 # ie_p_scheduling_notes - Help Guide
 ## Purpose
 The "ie_p_scheduling_notes" form is designed to record and track information about meetings, including meeting titles, attendees, dates, and times. Meeting organizers and administrative staff can use this form to note down essential details about meetings and plan follow-up actions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medical history, including their medical history conditions, allergies, surgeries, falls, injuries, other medical history, and medications. The form is used to evaluate a patient's medical condition and identify any potential risks or needs for further medical attention. It's essential to complete the form accurately and thoroughly to provide the best care possible for the patient. Before filling out the form, please ensure that you have reviewed the patient's medical history and that you are familiar with their condition. This form should not be used to create multiple evaluations for the same patient, and any changes made to the form should be carefully reviewed and documented.
-</thinking>
-
 # EMT Clinical Evaluation Form - Help Guide
 
 ## Purpose

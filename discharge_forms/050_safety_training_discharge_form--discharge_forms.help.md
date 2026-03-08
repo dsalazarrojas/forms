@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to discharge an employee's safety training, which is an important part of an organization's safety protocols. It is used to confirm that an employee has completed their required safety training and to provide information about the training they have received.
-
-Before filling out this form, it is essential to ensure that the employee has actually received the training and that the training was conducted according to the organization's safety protocols. This form should not be used to discharge an employee who has not actually received the training or has not met the required training standards.
-
-</thinking>
-
 # Safety Training Discharge Form - Help Guide
 ## Purpose
 This form is used to discharge an employee's safety training, confirming that they have completed the required training and providing information about the training they received.

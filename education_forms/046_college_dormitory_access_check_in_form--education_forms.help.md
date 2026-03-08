@@ -1,12 +1,3 @@
-<thinking>
-This form is used for the College Dormitory Access Check In Form, which allows visitors, students, or staff to check in and provide necessary information for access to the dormitory. This form is essential for maintaining accurate records and ensuring that all necessary checks are in place before granting access to the premises. 
-
-This form is a one-time process and is meant for individual instances of check-in. It should not be used for repeated or ongoing checks. Before proceeding, please confirm that you have checked in at least 24 hours prior to the actual visit.
-
-This guide will cover the steps to fill out the College Dormitory Access Check In Form.
-
-</thinking>
-
 # College Dormitory Access Check In Form - Help Guide
 ## Purpose
 The College Dormitory Access Check In Form is used to verify the identity of visitors, confirm their visit details, and manage the check-in process for dormitory access.

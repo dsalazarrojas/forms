@@ -1,7 +1,3 @@
-<thinking>This form is intended to be used for students who need support services for digital inclusion in higher education. The purpose of this form is to collect information about the student's personal and technological needs so that the institution can provide the necessary resources and support. This form is designed to be completed by the student who is seeking support, and the information collected will be used to ensure a smooth and inclusive experience for the student.
-
-Before proceeding, please take a moment to review the form fields and ensure that you have all the necessary information to complete the form accurately. If you are unsure about any of the fields, please contact the support team for clarification. Additionally, please note that some fields are required to be completed, while others are optional. If you are unable to complete a required field, please contact the support team for assistance.</thinking>
-
 # Digital Inclusion In Higher Education Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your personal and technological needs so that we can provide the necessary resources and support for a smooth and inclusive experience in higher education.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate customer orders for products, allowing users to input information such as their email, phone number, and name. The form should only be completed when a customer is ready to place an order. It is essential to ensure that each field is filled in correctly to process the order correctly.
-</thinking>
-
 # Product Order Form - Help Guide
 ## Purpose
 This form is used by customers to place orders for products. Please fill it out carefully to ensure your order is processed correctly.

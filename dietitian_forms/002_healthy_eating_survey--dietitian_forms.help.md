@@ -1,7 +1,3 @@
-<thinking>
-This form is used by healthcare professionals to collect information from patients about their diet, exercise, and lifestyle habits. The purpose is to assess the patient's eating frequency, food consumption, water intake, exercise frequency, sleep duration, meal frequency, physical activity, and interest in dietary recommendations. The form is not a medical diagnosis or assessment tool and is intended to provide general information only. It's essential to fill out the form accurately to ensure the collected data is reliable and useful for further analysis.
-</thinking>
-
 # Healthy Eating Survey - Help Guide
 ## Purpose
 The Healthy Eating Survey is a form designed to collect information about your eating habits, exercise, and lifestyle. It's essential to fill out the form accurately to ensure the collected data is reliable and useful for further analysis.

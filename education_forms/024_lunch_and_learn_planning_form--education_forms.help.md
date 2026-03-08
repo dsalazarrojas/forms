@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to collect information about upcoming lunch and learn events. This form will help in planning and organizing such events, ensuring that all necessary details are captured for efficient execution. It is recommended to fill this form only once for each event, to avoid duplication of effort. The fields below outline the necessary information for a successful lunch and learn event planning... </thinking>
-
 # Lunch And Learn Planning Form - Help Guide
 ## Purpose
 The Lunch and Learn Planning Form is used to collect essential details about upcoming lunch and learn events. This form helps event organizers gather necessary information to plan and execute the event efficiently.

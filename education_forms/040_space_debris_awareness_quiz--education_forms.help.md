@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the respondent's knowledge and awareness of space debris, a growing concern in the space industry. Space debris refers to the accumulation of defunct satellites, rocket parts, and other objects in Earth's orbit. The form is intended to gauge the respondent's understanding of the causes, impact, and effective ways to mitigate space debris. To ensure that the form is being filled out with valid and relevant responses, please make sure to answer each question carefully and truthfully.
-
-</thinking>
-
 # Space Debris Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of space debris, its causes, impact, and effective mitigation methods. Please answer each question to the best of your ability.

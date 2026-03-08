@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Long Division Skills Assessment - Help Guide
 ## Purpose
 

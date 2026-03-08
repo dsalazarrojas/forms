@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about additional lessons that a student can be enrolled in. It is intended to be completed by students or staff members to record and track the availability and status of lessons. This form should only be filled out once for each lesson, and it is not necessary to fill it out multiple times.
-
-Before filling out this form, make sure that it is not already filled out for the same lesson. To do this, please review the form carefully and ensure that all the information is up-to-date and accurate.
-
-</thinking>
-
 # extra_lessons_enrollment_form - Help Guide
 ## Purpose
 The extra_lessons_enrollment_form is used to record and track the availability and status of additional lessons for students.

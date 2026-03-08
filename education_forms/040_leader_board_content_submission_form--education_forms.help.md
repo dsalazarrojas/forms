@@ -1,14 +1,3 @@
-<thinking>
-The Leader Board Content Submission Form is designed to allow users to submit information about a form, including its name, content, URL, image, type, category, and tags. This form is intended for submitting forms that are relevant to the Leader Board, a platform that showcases various types of content. To ensure the quality and relevance of submissions, the form has built-in checks to prevent duplication and ensure that all submissions meet the necessary criteria.
-
-When submitting a form, users must ensure that the form type and category are correctly selected to reflect the content being submitted. The form type and category selections will be used to categorize and promote the submitted form on the Leader Board. Tags, if selected, will be used to further describe and filter the form content.
-
-Before filling out this form, please note that:
-- The form type and category are required fields and must be selected from the provided options.
-- The form name, content, and form image fields are optional but recommended for providing additional information about the form.
-- Tags are optional and can be comma-separated.
-</thinking>
-
 # Leader Board Content Submission Form - Help Guide
 ## Purpose
 The Leader Board Content Submission Form is designed to allow users to submit information about a form to be displayed on the Leader Board.

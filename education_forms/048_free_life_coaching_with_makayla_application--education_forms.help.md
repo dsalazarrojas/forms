@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Life Coaching with Makayla Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for free life coaching with Makayla, a personalized coaching service. This form is used to determine the applicant's eligibility and tailor the coaching experience to their needs.

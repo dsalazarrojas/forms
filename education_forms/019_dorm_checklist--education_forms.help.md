@@ -1,7 +1,3 @@
-<thinking>
-I'll assume the form is for checking off items related to a student's dorm, likely for inventory management or inventory of items required for a student's stay in the dorm. This form might be used to verify that a student has the necessary items to be allowed to stay in the dorm. The items listed are likely items that are provided or expected to be provided by the student. Each field is likely meant to be checked off by the student or the resident's representative to confirm the student's compliance with the expected items.
-</thinking>
-
 # Dorm Checklist - Help Guide
 ## Purpose
 This form is used to verify the items a student has for their stay in the dorm. Please fill in the form to ensure that you have all the required items.

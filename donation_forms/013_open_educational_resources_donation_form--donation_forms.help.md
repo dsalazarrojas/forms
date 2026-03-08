@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for donations to support open educational resources. It seems to be a straightforward donation form with fields for personal and payment details. I will review the form carefully to ensure I don't duplicate any information that is already known to the system or organization. I will aim to explain each field in a clear and concise manner, making it easy for end-users to fill out the form correctly.
-</thinking>
-
 # Open Educational Resources Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations for open educational resources. Please fill out the form to provide your personal and payment details.

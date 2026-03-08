@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assist schools in applying for a private school license. It gathers information about the user, school, educational program, and school finances in order to review and process the application.
-
-To avoid duplication of effort, it is recommended that you only apply once for each school and program. Duplicate applications will be rejected.
-
-The form is not affiliated with or endorsed by any form platform, and is an original adaptation created using public metadata. 
-
-</thinking>
-
 # private_school_license_application_form - Help Guide
 ## Purpose
 This form is for private schools to apply for a license. It gathers information about the user, school, educational program, and school finances.

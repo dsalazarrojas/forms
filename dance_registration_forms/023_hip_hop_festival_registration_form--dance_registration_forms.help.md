@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "hip_hop_festival_registration_form", we need to understand the form's purpose and context. The form is for registering attendees for a festival, likely a music festival with a focus on hip-hop music. The purpose of the form is to collect information from attendees, including their contact details and area of interest in music. The form may be used by festival organizers to manage attendee registrations and tailor the event experience to different musical tastes.
-
-The following help guide is designed to assist users in completing the form correctly and efficiently.
-
-</thinking>
-
 # hip_hop_festival_registration_form - Help Guide
 ## Purpose
 The hip_hop_festival_registration_form is used to register attendees for the hip-hop music festival. Please provide accurate information about yourself to ensure a smooth festival experience.

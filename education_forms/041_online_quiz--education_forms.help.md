@@ -1,10 +1,3 @@
-<thinking> 
-This guide is intended for end-users to understand the purpose and usage of the "Online Quiz" form. The form is designed for users to create and configure a quiz that meets specific requirements, such as category, grade level, subject, and quiz length. It appears that this form is part of an educational platform or system.
-
-To verify the relevance and non-duplication of this guide, let's review the form's YAML configuration. The form consists of 20 fields with various types, including text, select_one, select_multiple, time, date, email, and note. Fields such as "Category", "Subject", "Quiz Length", "Time", and "Date" are likely to be relevant to the quiz creation process. However, some fields like "question_1" to "question_25" seem to be placeholders for user input, which might not be directly relevant to the form's purpose. To ensure this guide is helpful and accurate, we will only focus on the fields that directly contribute to the form's purpose.
-
-</thinking>
-
 # Online Quiz - Help Guide
 ## Purpose
 The "Online Quiz" form is designed for users to create and customize a quiz that meets specific requirements, such as selecting a category, grade level, subject, and length of the quiz.

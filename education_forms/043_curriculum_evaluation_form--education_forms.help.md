@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate a student's curriculum performance, gather information about their progress, and collect feedback from instructors. The form is designed to be completed by both students and instructors to ensure that both parties have a clear understanding of the student's strengths and weaknesses. To maintain data consistency, please make sure to complete the form for every student and course.
-
-</thinking>
-
 # Curriculum Evaluation Form - Help Guide
 ## Purpose
 

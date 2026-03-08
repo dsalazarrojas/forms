@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the "Traits Inheritance Assessment" form. The form is designed to collect information on the characteristics or traits that individuals or family members possess. The purpose of this form is to identify and categorize these traits in a structured and systematic way. This form is used to collect data for educational, research, or organizational purposes.
-
-To ensure that this form is used effectively and consistently, it is crucial to understand each field's purpose and requirements. The following guide explains each field and its corresponding label in detail.
-
-Please note that some fields are required for the form submission to be considered complete and valid.
-</thinking>
-
 # Traits Inheritance Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the characteristics or traits that individuals or family members possess.

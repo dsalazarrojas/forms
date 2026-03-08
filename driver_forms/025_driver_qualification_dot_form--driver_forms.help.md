@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Driver Qualification DOT Form - Help Guide
 ## Purpose
 The Driver Qualification DOT Form is a crucial document used to collect essential information about a driver's qualifications, license, and vehicle details. This form helps ensure compliance with regulatory requirements and facilitates accurate driver evaluation. 

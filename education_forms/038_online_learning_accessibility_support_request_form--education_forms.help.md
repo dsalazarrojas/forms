@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**Online Learning Accessibility Support Request Form - Help Guide**
+> **Online Learning Accessibility Support Request Form - Help Guide**
 =====================================================
 
 **Purpose**

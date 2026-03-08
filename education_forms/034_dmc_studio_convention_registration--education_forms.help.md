@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the DMC Studio Convention. The form asks for general contact information (name, phone, and email), as well as specific details like dates, times, and notes. The form also includes fields for selecting options from a list, which could be used to gather preferences or interests. To ensure that the form is used correctly, please fill out all required fields, and only fill out fields that are relevant to your registration.
-</thinking>
-
 # DMC Studio Convention Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the DMC Studio Convention.

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect information from students and their guardians for special education purposes. The form is used to gather essential details about the student's background, education level, and program information. Please ensure that you have all the necessary information and permissions before completing this form. 
-
-</thinking>
-
 # Special Education Admission Form - Help Guide
 ## Purpose
 The Special Education Admission Form is a crucial document that helps us understand a student's educational background, needs, and goals. It is essential to provide accurate and complete information to ensure the best possible support for the student.

@@ -1,23 +1,3 @@
-<thinking>
-To determine the best way to explain this form, I need to first understand its purpose and requirements. 
-
-The form appears to be designed for driver evaluation, possibly for rating or assessment purposes. 
-
-The form has a few fields that could potentially require some explanation:
-
-- **driver_name** (Text): The name of the driver being evaluated. This field is likely used to identify the driver being assessed.
-- **bus_number** (Text): The number of the bus the driver is associated with. This field could be used to track which bus the driver is operating or has operated.
-- **date_of_service** (Date): This field might be used to record the date of service or the date the driver was last evaluated or assessed.
-- **time_of_service** (Time): This field could be used to record the time of service or the time the driver was last evaluated or assessed.
-- **driver_rating** (Number): This field could be used to store the driver's rating, with numbers indicating their level of performance or competence.
-- **comments** (Text): This field might be used for any additional comments or notes about the driver's performance.
-- **assigned_tool** (Select One): This field is a select menu with three options: "chatjim", "chatjimmy", and "chatjimmy1". The purpose of this field is unclear, but it might be used to assign a specific tool or equipment to the driver.
-- **form_id** (Text): This field could be used to store a unique identifier for the form, possibly for tracking or record-keeping purposes.
-
-The purpose of this form is likely to provide an efficient way to collect data on drivers, their performance, and any tools or equipment they use. The form might be used by supervisors or managers to evaluate drivers, track their progress, and provide feedback.
-
-I will now create a help guide based on this analysis.</thinking>
-
 # idaho_bus_driver_evaluation_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll analyze the form's purpose and create a comprehensive help guide to ensure end-users understand its intent and requirements.</thinking>
-
 # course_session_report_form - Help Guide
 ## Purpose
 The "course_session_report_form" is used to collect information about course sessions from students. This form is designed to gather details on student participation, course performance, and session specifics to provide valuable insights for course administrators and instructors.

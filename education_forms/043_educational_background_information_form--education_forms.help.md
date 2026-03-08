@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect educational background information from users. Given the large number of "estudios" fields (1-24), it is likely that this form is intended for collecting information on a user's educational history, perhaps for employment or academic purposes. However, without further information on the context, I will provide a generic help guide that covers the form's purpose, instructions, and field explanations. Please review and adjust if necessary.
-
-</thinking>
-
 # educational_background_information_form - Help Guide
 ## Purpose
 The educational background information form is designed to collect details about your educational history. This information will help us understand your educational qualifications and background.

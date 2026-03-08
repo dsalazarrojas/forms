@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Literature Personal Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal information from participants in literature-related programs or events. It will help the organizers of the program to gather essential details about the participants, including their names, contact information, and program-specific details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to establish an agreement between the online learning platform and the instructor teaching a course. The purpose of the form is to collect necessary information about the course such as the course name, start and end dates and times, instructor contact information, and the duration of the agreement. This form is used to create a record of the agreement and to communicate the details of the agreement to all parties involved. Before you fill out this form, ensure you have reviewed the terms and conditions of the agreement carefully and that you are authorized to enter into this agreement on behalf of the course instructor or institution.
-
-</thinking>
-
 # Online Learning Agreement Form - Help Guide
 ## Purpose
 

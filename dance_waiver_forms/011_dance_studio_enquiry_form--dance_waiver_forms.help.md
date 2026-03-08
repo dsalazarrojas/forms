@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from prospective dancers or their parents about their dance studio experience or needs. It's essential to fill out this form accurately to ensure that the studio can tailor its offerings to meet the client's requirements. Please note that the form is for information purposes only and does not guarantee enrollment. To ensure that the form is filled out correctly, please read the instructions carefully.
-
-Please do not submit duplicate forms. If you have filled out this form in the past, you do not need to fill it out again unless you have new information to provide.
-</thinking>
-
 # Dance Studio Enquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from prospective dancers or their parents about their dance studio experience or needs.

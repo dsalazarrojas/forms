@@ -1,8 +1,3 @@
-<thinking>
-The Internship Experience Evaluation Form is designed to gather feedback and insights from participants in internships to assess their experience, evaluate the quality of the internship, and identify areas for improvement. This form is intended to be completed by participants who have had an internship experience and is used by organizations to gain valuable insights into their internship programs.
-This form will only be used for participants who have completed an internship experience, and it is not intended to be used by participants who have not had such an experience. Please do not complete this form if you have not had an internship experience.
-</thinking>
-
 # Internship Experience Evaluation Form - Help Guide
 ## Purpose
 The Internship Experience Evaluation Form is designed to gather feedback from participants about their internship experience. It will help organizations evaluate the quality of their internship programs and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # custom_t_shirt_order_form_template - Help Guide
 
 ## Purpose

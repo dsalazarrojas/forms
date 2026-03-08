@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Final Assessment For Early Education - Help Guide
 
 ## Purpose

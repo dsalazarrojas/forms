@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback from users on the "Introduction to Entrepreneurship" module of the Tye Winter 2020 course. This feedback will help us understand how effective the module was in meeting the learning objectives, and what areas need improvement. Please ensure that this form is filled out only once per user, and not by multiple users with the same email address. Please note that this form is for feedback purposes only, and any comments or ratings should be constructive and respectful.
-</thinking>
-
 # feedback_tye_winter_2020_module_1_introduction_to_entrepreneurship - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students on the "Introduction to Entrepreneurship" module of the Tye Winter 2020 course. Your feedback will help us evaluate the effectiveness of the module and identify areas that need improvement.

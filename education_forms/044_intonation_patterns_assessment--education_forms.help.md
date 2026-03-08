@@ -1,14 +1,3 @@
-<thinking> 
-We need to verify that the form purpose and fields match the internal documentation and business requirements to avoid confusion. The form is likely used for assessing intonation patterns in a specific context, such as a music or speech analysis form. Each section likely requires the user to fill in specific details about intonation patterns observed in music or speech samples. 
-
-The form has 8 sections and 2 submission options (Submit and Cancel), which suggests that the user needs to provide their responses in these sections before submitting or cancelling their form.
-
-Form structure seems to be consistent with a typical form that asks multiple text-based questions. Each field has a label, type, and options for text fields. The submission options are select_one type with 2 options each. 
-
-We need to ensure that this form is used correctly and that users understand what is expected from them. A well-documented form will help reduce errors and confusion.
-
-</thinking>
-
 # Intonation Patterns Assessment - Help Guide
 ## Purpose
 The Intonation Patterns Assessment form is used to gather information about intonation patterns in music or speech samples. Please complete this form to provide details about the observed intonation patterns in each section. 

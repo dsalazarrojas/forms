@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to guide users in optimizing their e-commerce listings. The form's goal is to collect relevant information from the user about the listing they are optimizing, including their seller information and contact details. The form is composed of seven distinct sections, each focused on a different aspect of e-commerce listing optimization.
 
 </thinking>

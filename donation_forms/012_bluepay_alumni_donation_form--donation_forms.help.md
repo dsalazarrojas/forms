@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will explain the Bluepay Alumni Donation Form, designed to capture crucial information for alumni donations, ensuring accurate and efficient processing. It's essential to follow this guide to ensure that your donation is successfully processed and credited to the correct department or fund.
-
-</thinking>
-
 # Bluepay Alumni Donation Form - Help Guide
 ## Purpose
 

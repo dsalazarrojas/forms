@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expression Quiz - Help Guide
 
 ## Purpose

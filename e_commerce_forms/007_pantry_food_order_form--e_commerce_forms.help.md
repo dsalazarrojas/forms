@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow customers to order food items and specify their desired quantity. It is meant for internal use within a Pantry Food management system, and it's recommended to fill it out with accurate information to ensure that orders are fulfilled correctly. Please do not fill this form if you have already placed an order or have a pending one.
-</thinking>
-
 # Pantry Food Order Form - Help Guide
 ## Purpose
 This form is used to place a food order from the Pantry Food management system.

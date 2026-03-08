@@ -1,12 +1,3 @@
-<thinking>
-This form is used to create an invoice for a photography session. It captures essential details from the customer, session, and payment information. 
-
-The form is part of an e-commerce system and is likely used to generate a receipt or confirmation of payment for the customer. 
-
-This form likely doesn't need to be filled out multiple times as it is meant for creating a single invoice for a customer after a session is completed.
-
-</thinking>
-
 # photography-session-invoice - Help Guide
 ## Purpose
 This form is used to create an invoice for a photography session, capturing customer, session, and payment information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from visitors or attendees for an open house event. The purpose of this form is to gather relevant details such as contact information, event preferences, and visitor interests. This form is intended for event organizers to get a clear understanding of who is attending, their preferences, and any additional information that can enhance the event experience. Please ensure that all fields are filled out accurately and truthfully to provide the best possible experience for the event organizers and attendees.
-
-</thinking>
 # open_house_registration_form - Help Guide
 ## Purpose
 The open house registration form is designed to collect information from visitors or attendees for an open house event.

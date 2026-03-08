@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to make donations to a cause or organization through the E.Check.Net platform. The form is intended for users who wish to contribute financially to a specific project or cause. By completing this form, donors will be able to enter their name, email address, and the amount of their donation, as well as select an option for transferring funds through E.Check.Net.
-This form should not be used for duplicate or non-donation related purposes. If a user has already completed a donation form, they do not need to complete this form again.
-</thinking>
-
 # Donate For Education Using E.Check.Net - Help Guide
 ## Purpose
 The purpose of this form is to enable users to make donations to a cause or organization using E.Check.Net.

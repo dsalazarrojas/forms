@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's functional behavior, which refers to the ability to perform specific tasks and activities in a social setting. This form is likely used in educational or psychological settings to evaluate a person's functional skills, such as communication, problem-solving, and emotional regulation. The form appears to be designed for adults or children, possibly for special needs individuals or those with disabilities.
-
-Please note that this form does not appear to have any conditional logic or branching questions, which means that the user will simply fill out each field without being directed to specific questions based on their previous answers.
-</thinking>
-
 # Functional Behavior Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess an individual's functional behavior, which is an important aspect of their overall well-being and abilities.

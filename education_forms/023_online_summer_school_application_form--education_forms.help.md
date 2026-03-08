@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from schools or institutions applying to participate in an online summer school program. The form is meant to gather essential details about the applying institution, including their interest in participating, the number of students they expect to enroll, and their contact information. This information will help the organizers of the online summer school program to review and process the applications efficiently. It's essential to fill out the form accurately to ensure that your application is complete and considered for participation. Please check that your responses are correct and consistent throughout the form.
-</thinking>
-
 # online_summer_school_application_form - Help Guide
 ## Purpose
 The online summer school application form is designed to collect information from schools or institutions applying to participate in the online summer school program. It is essential to fill out this form to ensure that your application is complete and considered for participation.

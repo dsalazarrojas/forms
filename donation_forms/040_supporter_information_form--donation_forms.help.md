@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supporter Information Form - Help Guide
 
 ## Purpose

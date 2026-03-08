@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to participate in dance studio activities, such as classes, workshops, or performances. The purpose of this form is to gather necessary contact and emergency contact information, as well as obtain participant consent for activities that may involve physical activity or risk. This form will also help the dance studio to provide emergency contact information to relevant parties in case of an emergency.
-</thinking>
-
 # Dance Studio Participation Release Form - Help Guide
 ## Purpose
 This form is used to collect information from participants who wish to participate in dance studio activities. The form helps the dance studio to gather necessary contact and emergency contact information and obtain participant consent for activities that may involve physical activity or risk.

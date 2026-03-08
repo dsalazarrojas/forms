@@ -1,9 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Anxiety Course Feedback Form" to assist end-users in completing it efficiently and effectively. Before we dive into the form specifics, let's ensure that the user's purpose is to provide feedback on their experience with the anxiety course. This form is designed to capture feedback on various aspects of the course, including its content, format, instructor, and overall value. Please ensure you are taking the time to reflect on your experience and answer the questions honestly.
-
-</thinking>
-
 # Anxiety Course Feedback Form - Help Guide
 ## Purpose
 The Anxiety Course Feedback Form is designed to gather feedback from participants on their experience with the course. Your input will help us understand what worked well and what could be improved, enabling us to refine and enhance future courses.

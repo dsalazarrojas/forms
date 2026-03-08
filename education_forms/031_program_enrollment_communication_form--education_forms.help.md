@@ -1,9 +1,3 @@
-<thinking>
-This form is used to communicate with program participants about their enrollment status and other relevant details. 
-The form is primarily used for program administrators to update participant information in their database. To ensure accurate and consistent data, it's essential to fill out this form carefully and thoroughly. 
-Before filling out this form, please review the participant's current enrollment status and other relevant details to avoid duplication of effort. 
-</thinking>
-
 # Program Enrollment Communication Form - Help Guide
 
 ## Purpose

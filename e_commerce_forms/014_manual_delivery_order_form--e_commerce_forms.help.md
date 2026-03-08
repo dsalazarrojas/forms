@@ -1,8 +1,3 @@
-<thinking>
-We need to determine if the "Manual Delivery Order Form" is a duplicate or a new order for the customer. If the customer already has an order, this form should be skipped. 
-This form is used to collect customer information, delivery details, payment information, and order items for manual delivery orders. 
-</thinking>
-
 # Manual Delivery Order Form - Help Guide
 ## Purpose
 The Manual Delivery Order Form is used to collect customer information, delivery details, and payment information for manual delivery orders. It is intended to be used when a customer places a new order or updates an existing one.

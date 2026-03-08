@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess the weathering and erosion processes on a specific site, likely in an environmental or educational context. The form likely exists to gather site-specific data that can inform decision-making or educational materials for users. I will create the help guide, assuming that this form is used for educational purposes in an environmental context.
-
-</thinking>
-
 # Weathering And Erosion Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about the weathering and erosion processes on a specific site. The information gathered will help users understand and document site conditions, observations, and potential actions to mitigate erosion.

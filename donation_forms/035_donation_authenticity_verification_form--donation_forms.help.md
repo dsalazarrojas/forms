@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to verify the authenticity of donations. The purpose of this form is to ensure that all donated funds are legitimate and accurately recorded. This form helps to prevent and detect potential issues such as duplicate or fake donations. It is essential to fill out this form accurately and truthfully to ensure that the donation process is transparent and secure.
-</thinking>
-
 # donation_authenticity_verification_form - Help Guide
 ## Purpose
 The donation authenticity verification form is a crucial tool for ensuring the legitimacy of all donated funds. This form helps to verify the identity of the donor, the amount and method of the donation, and other relevant details. It is essential to complete this form accurately to prevent and detect potential issues, such as duplicate or fake donations.

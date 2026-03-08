@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information from participants about their safety training experiences. It will be used to track and record participant data for training programs. To ensure accuracy, this form should only be used for participants who have not previously completed this form. </thinking>
-
 # Safety Training Registration Form - Help Guide
 ## Purpose
 The Safety Training Registration Form is used to collect information from participants about their safety training experiences. It allows us to track and record participant data for training programs.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for dental offices to collect information from patients before discharging them from the facility. The form aims to gather key details about the patient's visit, such as the procedure they underwent, any post-treatment instructions, medications prescribed, medical history, allergies, and signatures from both the patient and doctor. This form should only be used for informational purposes and not for actual medical diagnosis or treatment decisions. Please ensure that the form is not used in any way that could be considered malpractice or a breach of HIPAA regulations. This form is an original adaptation of a public survey and has no affiliation with any proprietary form platforms.
-
-</thinking>
-
 # Dental Office Discharge Form - Help Guide
 ## Purpose
 The Dental Office Discharge Form is designed to collect essential information from patients before discharging them from the dental office. It is meant to provide a clear and concise way to document the patient's visit, ensuring that all necessary details are gathered and communicated effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help gather information from academic users to better understand their software needs and preferences. The survey aims to provide data for future IT purchasing and licensing decisions. It should only be completed by academic users who are familiar with the institution's software and IT services. Users should not complete this form if they have already filled it out previously, as this will help prevent data duplication.
-</thinking>
-
 # Academic Software Needs Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your software needs and preferences for academic work. Your input will help guide future IT purchasing and licensing decisions to ensure we provide you with the right tools to support your academic activities.

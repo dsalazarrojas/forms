@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Limited Edition Drop Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for limited edition products. It collects information about the order, payment details, shipping information, and order confirmation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Comprehensive Exam Registration Form - Help Guide
 ## Purpose
 This form is used for registering for comprehensive exams, which are designed to assess students' knowledge and skills in specific subjects. To register for an exam, fill out this form with accurate and complete information. Please note that this form is only for students who have been admitted to the exam.

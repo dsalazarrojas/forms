@@ -1,9 +1,3 @@
-<thinking> This form is designed to help districts assess their readiness for Tier II implementation. It is intended for districts that have already completed Tier I training and are ready to move to the next level. The form will help districts evaluate their interest in Tier II, their plans for implementation, and other key aspects of their Tier II readiness. This form will likely be used by district administrators or designated staff to provide a snapshot of the district's current status. By completing this form, districts can ensure they are on the right track for Tier II and identify any potential challenges or areas that need improvement.
-
-Please review the following information carefully to ensure that your district is eligible to use this form. If you are not sure, please check your district's training and implementation status before proceeding. 
-
-</thinking>
-
 # Tier II District Readiness - Help Guide
 ## Purpose
 The purpose of this form is to help districts assess their readiness for Tier II implementation, ensuring they are on the right track and identifying areas that need improvement.

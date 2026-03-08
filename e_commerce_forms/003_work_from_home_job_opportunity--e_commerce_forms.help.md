@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about work-from-home job opportunities, allowing users to provide details about their job openings or interests in remote work. To ensure accuracy, we'll only accept single instances of each job opportunity per submission. Please make sure to provide unique submissions. This form is not affiliated with any form platform, and its content is generated solely based on public metadata.
-</thinking>
-
 # work-from-home-job-opportunity - Help Guide
 ## Purpose
 This form is designed to collect information about work-from-home job opportunities. It's meant to be a one-time submission per job opportunity.

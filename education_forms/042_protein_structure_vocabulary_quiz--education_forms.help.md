@@ -1,12 +1,3 @@
-<thinking>
-Protein structure is fundamental to understanding the building blocks of life. This form is meant to educate and test the user's knowledge about proteins, specifically their structures, functions, and sequences. It's essential to ensure that each field's purpose and relevance is clear and well-documented, as the user's understanding of proteins will be tested and evaluated through this form. To achieve this, we need to consider the user's background and expertise in the field of biochemistry and molecular biology.
-
-Before starting the quiz, let's ensure that each field's label, hint, and description are clear and concise. This form's structure and content should be easy to understand, even for those without a biochemistry background.
-
-The purpose of this form is to create a user-friendly and accessible educational tool for those looking to test their knowledge on proteins. The form's questions should be clear, concise, and free of any jargon that might confuse the user.
-
-The following is the user-facing help guide for the "protein_structure_vocabulary_quiz" form.
-</thinking>
 # protein_structure_vocabulary_quiz - Help Guide
 ## Purpose
 The "protein_structure_vocabulary_quiz" form is designed to educate and test your knowledge about proteins, their structures, functions, and sequences.

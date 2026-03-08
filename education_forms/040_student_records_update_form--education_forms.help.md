@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be used in conjunction with the Student Records system, a centralized database that stores and manages student information. This form allows users to update existing student records, ensuring that the data is accurate and up-to-date. It is crucial to use this form to prevent duplication of student records and ensure consistency across the system. Please review the form carefully to ensure that you are using it correctly.
-</thinking>
-
 # Student Records Update Form - Help Guide
 ## Purpose
 The Student Records Update Form is a tool used to update student information in the Student Records system. This form helps to ensure that student data is accurate and up-to-date, preventing duplication of records and maintaining consistency across the system.

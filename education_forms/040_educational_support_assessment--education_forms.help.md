@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to help assess the educational support needs of students. It gathers information about the student's challenges, the support provided, and other relevant details. The form is designed to be completed by school staff or tutors to better understand the student's needs and develop a tailored support plan. This form should only be used for students who require educational support, and it is essential to ensure that each student's situation is unique and not duplicated. If a student's information already exists in the system, please do not create a new entry for the same student.</thinking>
-
 # Educational Support Assessment - Help Guide
 ## Purpose
 The Educational Support Assessment form is a tool for school staff or tutors to gather information about a student's challenges and create a support plan to help the student succeed.

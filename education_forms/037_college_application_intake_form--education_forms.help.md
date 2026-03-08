@@ -1,18 +1,3 @@
-<thinking>
-This form, "College Application Intake Form", is designed for students who are applying to college and need to provide information about themselves, their high school background, and their application preferences. This form will help the admissions team to better understand each applicant's profile and make informed decisions. 
-
-This form is intended for students who are planning to apply to college and is a required part of the application process. The form will be reviewed by the admissions team before the applicant's application is processed.
-
-To avoid any confusion, please make sure to answer the questions honestly and accurately. If you have any questions or concerns, feel free to reach out to us.
-
-Before starting the form, please note that some fields are required and must be completed in order to proceed with the application process. If you are unsure about any of the fields, please refer to this help guide for further clarification. 
-
-Please make sure to review the fields carefully before submitting the form, as the information you provide will be used to evaluate your application.
-
-Please note that some fields have options with "Other" or "Undecided" as choices. In these cases, please select "Other" if your answer does not match any of the given options. If you select "Undecided", you will be contacted by the admissions team to provide further clarification.
-
-</thinking>
-
 # College Application Intake Form - Help Guide
 
 ## Purpose

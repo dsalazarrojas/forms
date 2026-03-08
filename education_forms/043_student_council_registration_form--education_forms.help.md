@@ -1,14 +1,3 @@
-<thinking>
-This help guide will walk through the Student Council Registration Form, ensuring you have a clear understanding of its purpose, completion process, and field-by-field explanations.
-
-**Form Purpose:**
-The Student Council Registration Form is designed to collect relevant information from students to facilitate their participation in council activities. This form will help the Student Council to get to know their students better, understand their interests, and create a more engaging experience for them.
-
-**Form Duplication and Relevance Check:**
-To avoid duplication of effort and irrelevant submissions, please fill out this form only once during your first registration with the Student Council. If you have previously registered, there is no need to fill out this form again. If you have any questions or concerns, feel free to reach out to the Student Council staff.
-
-</thinking>
-
 # Student Council Registration Form - Help Guide
 ## Purpose
 The Student Council Registration Form is designed to collect relevant information from students to facilitate their participation in council activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for enrolling students in a music school. It should only be used for this specific purpose. Please ensure that the form is not being used for any other reason, such as a general contact form or a survey.
-</thinking>
-
 # music_school_enrollment_extension_form - Help Guide
 ## Purpose
 The music_school_enrollment_extension_form is designed to collect information from students and parents for enrolling students in a music school. This form helps to gather necessary details about the student and their school to facilitate the enrollment process.

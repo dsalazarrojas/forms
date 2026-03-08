@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Donor Cause Preference Poll" form. The form is used to collect information from donors about their preferred causes, donation frequency, and contact methods. This guide will walk users through the form's purpose, how to complete it, and provide field-by-field explanations for each section.
-
-To ensure that this guide is useful to end users, we will follow the provided YAML structure and include explanations for each field based on the provided labels and options.
-
-</thinking>
-
 # Donor Cause Preference Poll - Help Guide
 ## Purpose
 The "Donor Cause Preference Poll" form is used to collect information from donors about their preferred causes, donation frequency, and contact methods. This information will help the organization understand the preferences of their donors and tailor their communications accordingly.

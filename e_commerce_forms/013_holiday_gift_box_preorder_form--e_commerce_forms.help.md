@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to help users pre-order holiday gift boxes, providing options for gift box selection, customer information, and shipping details. The form is designed to be completed by users to facilitate the ordering process.
-The form fields and required status are as follows:
-* `preorder_details`: This field is optional.
-* `gift_box_options`: This field is required and allows users to select one of the three available gift boxes.
-* `name`: This field is optional.
-* `price`, `quantity`, `gift_box_shipping_cost`, `gift_box_handling_cost`, `gift_box_shipping_cost_tax`, `gift_box_handling_cost_tax`, `gift_box_total_cost`, `gift_box_discount`, `gift_box_subtotal`, `gift_box_tax`, `gift_box_total`: These fields are all optional.
-* `customer_email`: This field is optional.
-* `customer_phone`: This field is optional.
-* `shipping_details`: This field is optional.
-</thinking>
-
 # Holiday Gift Box Preorder Form - Help Guide
 
 ## Purpose

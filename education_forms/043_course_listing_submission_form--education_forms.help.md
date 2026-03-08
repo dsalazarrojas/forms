@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and display information about a course, including its details, instructors, and status. This form is likely used for internal purposes, such as course administration or management, rather than for user input or feedback. It is designed to be completed by authorized personnel or administrators, and its fields are intended to provide a comprehensive overview of the course.
-
-Before filling out this form, please ensure that you are authorized to do so and that you are not duplicating existing information. If you are unsure, please consult with the relevant authorities or double-check the course's status in the system.
-
-Please note that some fields have specific instructions or constraints in their labels. For example, "Class Duration" is a numerical field, so please enter a whole number, and "Class Location" is a text field, so please enter a text description.
-
-</thinking>
-
 # Course Listing Submission Form - Help Guide
 ## Purpose
 The Course Listing Submission Form is used to collect and display information about a course, including its details, instructors, and status.

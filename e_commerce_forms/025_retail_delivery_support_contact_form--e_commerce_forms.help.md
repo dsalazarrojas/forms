@@ -1,7 +1,3 @@
-<thinking>
-This form will help support retail delivery requests, such as resolving delivery issues or seeking assistance with delivery schedules. It's designed for customers to provide relevant information about their delivery experience. To ensure accurate support, please complete the form carefully and only if you're requesting support. Do not use this form for other purposes, as it may lead to delays or misdirected support. This will help our support team provide efficient and effective assistance.
-</thinking>
-
 # retail_delivery_support_contact_form - Help Guide
 ## Purpose
 The retail delivery support contact form is designed to help customers seek assistance with their delivery experiences. This form is used to report delivery issues, request schedule changes, or ask general delivery-related questions.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect exam grade information for students. The purpose of this form is to capture detailed data about a student's performance in a specific course, allowing administrators to track and analyze student progress. It is essential to complete this form accurately to ensure that student records are up-to-date and reliable.
-
-Before proceeding, please ensure that you have all necessary information about the student and the exam in question. The data collected through this form will be used to support informed decision-making and reporting.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Exam Grade Entry Form - Help Guide
 ## Purpose
 The Exam Grade Entry Form is used to record and track student exam grades in a specific course. This form is essential for maintaining accurate student records and supporting academic progress monitoring.

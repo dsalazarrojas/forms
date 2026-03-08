@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students and teachers/instructors about their experience with the Arabic Alphabet Coloring Activity. The form is meant to gather data on participant demographics (name, age), activity completion details (date), and feedback on the activity's difficulty and engagement level. By using this form, the organizers can monitor the activity's effectiveness and make informed decisions for future activities.
-</thinking>
-
 # Arabic Alphabet Coloring Activity - Help Guide
 ## Purpose
 This form is intended to be filled out by students and teachers/instructors who have participated in the Arabic Alphabet Coloring Activity. It helps the organizers understand how well the activity was received and what improvements can be made for future sessions.

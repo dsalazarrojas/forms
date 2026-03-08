@@ -1,12 +1,3 @@
-<thinking>
-
-To confirm that the form is for enrolling in the Global Online Academy, and that it is not a duplicate of an existing form.
-
-The form is used to collect user information for the Global Online Academy registration process. It contains fields for collecting the user's first name, last name, email, confirm email, time zone, time zone abbreviation, course selection, date, time, additional information, and course details such as course abbreviation, name, and code. The form is likely used for users to register for a course or program offered by the Global Online Academy.
-
-
-</thinking>
-
 # Global Online Academy Registration - Help Guide
 ## Purpose
 This form is used to register for the Global Online Academy.

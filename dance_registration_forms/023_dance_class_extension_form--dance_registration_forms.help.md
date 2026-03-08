@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form's purpose is clear to end users. This form is used to request an extension for a student to join a dance class that they are late for. The form should only be filled out by a student or their representative, and not for any other purpose, such as requesting an extension on a payment or scheduling a different type of activity. We also need to confirm that each student's details are accurate and that the instructor has been notified of the student's request. This form should only be used for dance class extensions and not for any other type of class or activity.
-</thinking>
-
 # Dance Class Extension Form - Help Guide
 ## Purpose
 This form is used to request an extension for a student to join a dance class that they are late for. Fill out this form to ensure that the student can catch up on any missed class material and still participate in the dance class.

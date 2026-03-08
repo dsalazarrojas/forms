@@ -1,10 +1,3 @@
-<thinking>
-This guide will walk you through the disaster preparedness kit donation form, which is used to collect information from donors for disaster relief efforts. The form is designed to gather essential details from donors, including their contact information, donation amount, and preferred method of communication. The purpose of this form is to ensure that donors are acknowledged and their contributions are valued.
-
-Please note that this form is a crucial part of our disaster response efforts, and your input is essential in helping us deliver critical aid to those in need. By completing this form, you'll be supporting our mission to provide relief and aid to disaster-affected communities. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # disaster_preparedness_kit_donation_form - Help Guide
 ## Purpose
 This form is designed to collect information from donors for disaster relief efforts. It helps us to acknowledge and appreciate your contributions, ensuring that we can deliver critical aid to those affected by disasters.

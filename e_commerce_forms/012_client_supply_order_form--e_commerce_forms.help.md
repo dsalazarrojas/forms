@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed for clients to place orders for supplies with the company. The form is used for both internal employees and external clients. It's meant to gather necessary information to process the order and ensure accurate delivery.
-</thinking>
-
-# Client Supply Order Form - Help Guide
+# # Client Supply Order Form - Help Guide
 
 ## Purpose
 This form is used for clients to place orders for supplies. It is an essential part of the ordering process, and it must be completed accurately to ensure timely and correct delivery.

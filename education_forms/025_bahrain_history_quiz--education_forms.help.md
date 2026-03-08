@@ -1,9 +1,3 @@
-<thinking>
-
-To create a help guide for the "Bahrain History Quiz" form, I need to understand the purpose and context of the form. Based on the provided YAML, it seems that this form is designed to test users' knowledge of Bahrain's history. The form is likely used in an educational setting to assess students' understanding of historical events, geography, and culture related to Bahrain. I will now create a help guide that follows the specified structure.
-
-</thinking>
-
 # Bahrain History Quiz - Help Guide
 ## Purpose
 The Bahrain History Quiz is designed to test your knowledge of Bahrain's rich history, covering various aspects such as its capital, independence year, ancient civilization, geographical features, main religion, and other historical events.

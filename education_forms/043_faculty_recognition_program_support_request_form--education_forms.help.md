@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to support requests for recognition of faculty members within an educational institution. It appears to be designed to gather information about events where faculty members have performed outstanding work or deserve recognition. The form likely serves as an internal process for evaluating and acknowledging the achievements of faculty members. 
-
-Before proceeding, ensure that the request has not already been submitted or is not a duplicate. The institution should have a system in place to prevent duplicate submissions. If you're unsure, you can contact the support team for clarification.
-
-Please note that this form is an adaptation of a publicly available template, with the original purpose and context potentially different from your institution's specific needs. It is essential to review the form carefully and adapt it according to your institution's policies and procedures.
-</thinking>
-
 # Faculty Recognition Program Support Request Form - Help Guide
 ## Purpose
 The Faculty Recognition Program Support Request Form is a tool for submitting requests for recognition of outstanding faculty members within your educational institution. This form is designed to gather essential information about the event, faculty member, and recognition details.

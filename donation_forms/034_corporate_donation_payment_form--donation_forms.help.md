@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to capture corporate donation payments, which are donations made by businesses or organizations to support a specific cause or charity. This form should only be used for legitimate donation purposes and not for other types of payments. To avoid duplication of efforts, we should check if there are existing forms or processes already handling this type of payment before creating or using this form.
-
-This form is designed to collect information from corporations or business entities making a donation. It includes fields for the donor's name, email, phone number, donation amount, payment method, and billing details such as address, city, state, zip code, and country. The form also includes fields for payment gateway information, such as payment method, payment gateway status, and payment gateway response message.
-
-Let's create a help guide for this form to assist users in filling it out correctly.
-</thinking>
 # Corporate Donation Payment Form - Help Guide
 ## Purpose
 This form is intended for use by businesses or organizations making a donation to support a specific cause or charity. Please ensure that you are using this form for legitimate donation purposes and not for other types of payments.

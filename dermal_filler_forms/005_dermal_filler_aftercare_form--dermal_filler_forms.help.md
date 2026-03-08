@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dermal_filler_aftercare_form - Help Guide
 ## Purpose
 The purpose of the dermal filler aftercare form is to collect information from patients after they have received dermal filler treatments. This form helps to ensure that the patient is following proper aftercare instructions to achieve the best possible results from their treatment.

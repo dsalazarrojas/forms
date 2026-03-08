@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the types, functions, interactions, and other characteristics of receptors, which are essential components of cellular biology. This knowledge quiz will help users assess their understanding of receptors, a crucial concept in biology and medicine. The form is not affiliated with or derived from any specific platform and is an original adaptation created using public survey topic metadata.
-
-</thinking>
-
 # Receptor Biology Knowledge Quiz - Help Guide
 ## Purpose
 The Receptor Biology Knowledge Quiz is designed to test your understanding of receptors, which are proteins that receive and respond to external signals. Receptors are crucial in various biological processes, including hormone regulation, immune responses, and cell signaling.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students interested in the baptism process, which is a key aspect of the Christian faith. The purpose of this form is to understand the students' background, interests, and availability for baptism. This form is not intended to be a duplication of any other form, and the information collected will be used to provide personalized guidance and support to students who are seeking baptism. The form is designed to be completed by students who are at least 18 years old. The form is not meant to be completed by students under 18 years old, as they require parental consent. The form will be reviewed by authorized personnel to ensure that it is completed correctly and that the student's interests and availability are accurately reflected. 
-</thinking>
-
 # Student Baptism Interest Survey - Help Guide
 ## Purpose
 The Student Baptism Interest Survey is designed to collect information from students interested in the baptism process. This form helps us understand your background, interests, and availability for baptism.

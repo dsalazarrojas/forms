@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure relevance, I will first examine the provided YAML form and its purpose. The inputSchema defines a form with 8 fields, categorized into 1 page named "faculty_survey_form." Each field is meant to collect feedback from faculty members on the effectiveness of peer learning support. The form does not seem to be duplicating any existing forms, so I will proceed with creating the user-facing help guide.
-
-</thinking>
-
 # Faculty Peer Learning Support Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from faculty members on the effectiveness of peer learning support. Your input will help us understand your experiences and provide insights to improve our services.

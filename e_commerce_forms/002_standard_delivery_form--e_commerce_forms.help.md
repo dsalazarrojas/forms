@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to capture customer delivery information for standard delivery purposes. The form will likely be used by customers to enter their delivery address, date, and time, as well as their contact information (email and phone number) and any special delivery instructions. It's possible that this form will be used in conjunction with other forms or workflows to facilitate the delivery process. 
-
-Before proceeding, ensure that you have all the necessary information and permissions to complete this form. This form should not be used to collect sensitive or confidential information that may require additional security measures.
-
-Please note that the fields on this form are not required, however, the more information you provide, the better the delivery experience will be. You are not obligated to provide any information that you don't feel comfortable with or that you don't have.
-
-To avoid duplicates, ensure that you are not using this form multiple times for the same delivery, or that you are not using it for deliveries that are already completed.
-</thinking>
-
 # Standard Delivery Form - Help Guide
 ## Purpose
 The Standard Delivery Form is intended to capture customer delivery information for standard delivery purposes, including delivery address, date, time, contact information, and delivery instructions.

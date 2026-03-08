@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students registering for a seminar. The form is likely to be used by the seminar organizers to gather data about the students attending the seminar. This form should only be filled out by students who are actually attending the seminar. 
-</thinking>
-
 # E Seminar Student Registration Form Template - Help Guide
 
 ## Purpose

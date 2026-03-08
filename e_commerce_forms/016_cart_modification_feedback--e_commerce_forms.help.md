@@ -1,12 +1,4 @@
-# <thinking>... 
-
-This form is designed to collect feedback from customers who have encountered issues with modifying their cart while shopping on our website. The purpose of this form is to gather information about their experience, identify areas of improvement, and provide a platform for customers to suggest new features or enhancements. We want to hear from you and understand how we can better serve you.
-
-Before proceeding, please ensure you have not already submitted a similar form, and that your feedback is not a duplicate of an existing issue. Your input will help us refine our cart modification system and provide a more seamless shopping experience for all our customers.
-
-</thinking>
-
-# Cart Modification Feedback - Help Guide
+# # Cart Modification Feedback - Help Guide
 ## Purpose
 The Cart Modification Feedback form is designed to collect feedback from customers about their experience with modifying items in their cart. This feedback will help us improve the cart modification process and provide a better shopping experience for all our customers.
 

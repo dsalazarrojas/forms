@@ -1,7 +1,3 @@
-<thinking>
-This form is used by educators to evaluate the teaching demonstration, providing a platform to gather feedback on performance, evaluation, and other relevant details. The form is designed to be completed by instructors to assess the demonstration's effectiveness and to provide actionable feedback for improvement.
-</thinking>
-
 # teaching Demonstration Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from educators on the teaching demonstration. This form is used to evaluate the demonstration's effectiveness and identify areas for improvement.

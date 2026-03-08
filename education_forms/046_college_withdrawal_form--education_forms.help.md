@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to collect data from students who are withdrawing from college, providing detailed information about their current status, reasons for withdrawal, and future plans. The form is used to understand student experiences and improve the institution's support systems and services. Before filling out this form, please ensure that you are not withdrawing from another institution or submitting duplicate requests. If you are unsure, contact [Institution's Support Team] for clarification.
-</thinking>
-
 # College Withdrawal Form - Help Guide
 ## Purpose
 The College Withdrawal Form is designed to collect information from students who are withdrawing from the institution. This form helps us understand your current status and reasons for withdrawal, which enables us to improve our support systems and services for future students.

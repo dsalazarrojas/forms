@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential students who are applying to the Medical Academy. The form is intended for individuals who are interested in pursuing education and training in various medical specialties. The form collects personal contact information, medical history, and preferences for medical specialty. The form is not intended for existing students or faculty members of the Medical Academy. This form should only be used by individuals who are new to the academy and wish to inquire about admission or express interest in a specific medical specialty.
-</thinking>
-
 # Medical Academy Admission Form - Help Guide
 ## Purpose
 This form is designed to help potential students of the Medical Academy to express their interest in pursuing education and training in various medical specialties.

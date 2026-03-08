@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Back To School Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Course Feedback Survey - Help Guide
 
 ## Purpose

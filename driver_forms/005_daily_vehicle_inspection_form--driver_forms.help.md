@@ -1,7 +1,3 @@
-<thinking>
-The form seems to be designed for a daily vehicle inspection, likely for fleet management or vehicle maintenance purposes. It collects information on various aspects of a vehicle's condition, including vehicle ID, driver ID, make, model, odometer reading, and condition of different parts such as engine, transmission, brakes, suspension, steering, tires, lights, battery, body, glass, seat, and accessories. The form also includes fields for vehicle status, inspection date, completed by, assigned to, comments, and whether the vehicle inspection form is completed or not.
-</thinking>
-
 # Daily Vehicle Inspection Form - Help Guide
 ## Purpose
 The Daily Vehicle Inspection Form is designed to collect information on the condition of a vehicle's various parts and overall status. This form helps to ensure that vehicles are properly maintained and inspected on a daily basis.

@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Sonship Registration Form, we need to understand its purpose and requirements. The form is likely designed for registering information about participants in a program or community, with sections for personal details, emergency contacts, and participant status. The form's structure and field types suggest it's meant for capturing demographic data, relationships, and status updates. It's essential to ensure that users understand how to fill out the form accurately and thoroughly, while also being aware of the optional fields that can provide more information.
-
-Before proceeding, let's review the form's fields and their labels to create a clear and concise help guide.
-
-</thinking>
-
 # Sonship Registration Form - Help Guide
 ## Purpose
 The Sonship Registration Form is designed for registering information about participants in a program or community.

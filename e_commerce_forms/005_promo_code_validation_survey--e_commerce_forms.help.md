@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to validate promo codes for users to provide feedback on their experience with promo codes. It is intended to gather information about the user's experience with the promo code, specifically about the time they redeemed it, the category of the product involved, and the issue they encountered. The form aims to collect data to improve the performance and usability of promo codes in the future.
-
-Before completing this form, please ensure that you have experienced issues with a promo code and are filling it in with the specific issue you encountered. This form should only be filled in once per issue.
-
-</thinking>
-
 # Promo Code Validation Survey - Help Guide
 
 ## Purpose

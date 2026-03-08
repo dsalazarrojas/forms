@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are sharing their experiences and reflections on online learning, likely for research, evaluation, or educational purposes. The form aims to gather demographic information, details about the reflection, and permission for submission. This form is meant to be a user-friendly and efficient way to collect the required data. Please ensure that you are filling this form for the intended purpose and not for other activities like data collection for commercial use or other activities not aligned with its purpose. Also, please ensure you don't fill this form if you've already completed it previously, as it's meant to be a one-time submission.
-</thinking>
-
 # Online Learning Reflection Story Consent Form - Help Guide
 ## Purpose
 

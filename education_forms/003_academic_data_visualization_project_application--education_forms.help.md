@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants for an academic data visualization project. It is intended for individuals or teams applying for a project that aims to create interactive data visualizations or dashboards for educational purposes. The form will help the project lead to understand the applicant's background, project goals, and resource needs. 
-
-To determine if this form is relevant for the user, consider the following criteria: 
-  1. The form is intended for academic purposes.
-  2. The form collects information about data visualization projects.
-
-If the user is a student or researcher submitting an application for a project, this form is relevant. If the user is a professor or instructor requesting data visualization services for a course, this form might still be applicable, but they might need to adapt it to suit their needs. If the user is from another industry or sector, this form might not be the best fit.
-
-To prevent duplication of effort, please review the fields and questions carefully before submitting the form. Each question has been carefully curated to extract essential information about the project.
-
-</thinking>
-
 # Academic Data Visualization Project Application - Help Guide
 ## Purpose
 This guide explains how to complete the Academic Data Visualization Project Application form.

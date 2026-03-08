@@ -1,10 +1,3 @@
-<thinking>
-This form is for nominating students for a representative role within the organization. The form is used to gather information about the student's name, ID, and other relevant details. It's essential to ensure that the student is correctly represented and that the nominator's contact information is up-to-date.
-To avoid confusion, please note that:
-* This form should not be used to nominate more than one student at a time.
-* Please ensure that the student being nominated is not already nominated for the same representative role.
-</thinking>
-
 # Student Representative Nomination Form - Help Guide
 ## Purpose
 The Student Representative Nomination Form is designed to collect information about students who are being nominated for a representative role within the organization. This form helps to ensure that the nomination process is fair and well-documented.

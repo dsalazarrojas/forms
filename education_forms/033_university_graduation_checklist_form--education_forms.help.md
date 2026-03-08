@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Graduation Checklist Form - Help Guide
 
 ## Purpose

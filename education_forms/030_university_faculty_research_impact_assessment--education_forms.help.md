@@ -1,5 +1,3 @@
-<thinking>Before proceeding to the help guide, I'd like to ensure that the form is correctly interpreted according to the provided YAML schema. The form, titled "University Faculty Research Impact Assessment," appears to be designed to collect data on various aspects of faculty research activities. I assume the purpose of this form is to assess the impact and influence of faculty research within the university. If this assumption is correct, I'll proceed to create the help guide.</thinking>
-
 # University Faculty Research Impact Assessment - Help Guide
 ## Purpose
 The "University Faculty Research Impact Assessment" form is designed to evaluate the impact and influence of faculty research activities within the university. It aims to collect data on various aspects of research, including areas of focus, methodology, publications, and partnerships.

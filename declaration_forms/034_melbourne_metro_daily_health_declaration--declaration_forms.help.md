@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect general information about an individual's daily health status in the Melbourne metro area. The form is intended for individuals who wish to declare their health status, travel history, and other relevant details. The form's primary purpose is to gather data for health monitoring and reporting purposes.
-
-To ensure that the form is filled out correctly and accurately, we will be checking for duplicates and irrelevant submissions. Please ensure that you are filling out this form for the intended purpose and that your submission is genuine.
-
-</thinking>
-
 # Melbourne Metro Daily Health Declaration - Help Guide
 ## Purpose
 The Melbourne Metro Daily Health Declaration form is designed to collect information about your health status, travel history, and other relevant details for health monitoring and reporting purposes.

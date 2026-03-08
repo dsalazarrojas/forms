@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from attendees on their experience with an immigration continuing education session. The form aims to gather insights on the session's overall effectiveness, its content, and the overall impression it left on the attendees. The form will be used to assess the quality of the session and identify areas of improvement. 
-
-Before starting, please note that you will only be able to submit this form once. If you need to make multiple comments or suggestions, please use the "suggestions" field for each item.
-
-This form is part of a larger effort to provide better services to the attendees, and your input is invaluable in helping us understand their needs and preferences. Please take a moment to thoughtfully complete this form, and we thank you for your time.
-
-</thinking>
-
 # Immigration Continuing Education Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees on their experience with an immigration continuing education session. The goal is to understand what aspects of the session were helpful, what topics they found engaging, and how the session impacted their work.

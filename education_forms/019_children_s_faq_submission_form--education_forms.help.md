@@ -1,10 +1,3 @@
-<thinking> 
-The "Children's FAQ Submission Form" is designed to help parents, teachers, and students submit questions about various topics related to education. This form ensures that questions are properly categorized and submitted in a way that makes it easy for educators to address them efficiently. To avoid duplication, this form uses a unique ID for each question and submission.
-
-By filling out this form, students and parents can ask questions related to their curriculum, school assignments, or general interests. The form helps track question priorities, submission status, and follow-up instructions for each question. Please ensure you only fill out this form once for each question.
-
-</thinking>
-
 # Children's FAQ Submission Form - Help Guide
 
 ## Purpose

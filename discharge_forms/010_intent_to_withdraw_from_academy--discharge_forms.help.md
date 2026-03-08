@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intent To Withdraw From Academy - Help Guide
 ## Purpose
 The "Intent To Withdraw From Academy" form is designed to provide an official declaration of withdrawal from a academic program or course. This form must be completed and submitted when a student intends to stop attending the academy.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a brief moment to ensure we're on the same page. This form is for the Dorothy M. Whitmire Global Memorial Scholarship application, which aims to support students pursuing education in various fields. To confirm, this form is not intended for internal use within the organization, but rather for external applicants. Additionally, please note that the form fields may seem extensive, but each field is crucial in helping the scholarship committee assess the applicant's qualifications and background.</thinking>
-
 # dorothy_m_whitmire_global_memorial_scholarship_application_form - Help Guide
 ## Purpose
 The Dorothy M. Whitmire Global Memorial Scholarship is an opportunity for students to apply for financial support to further their education. This form collects necessary information from applicants to ensure fair and accurate assessment of their qualifications.

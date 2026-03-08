@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about outstanding faculty advisors who deserve recognition for their exceptional work. This form helps in identifying and acknowledging such individuals within the education sector. It is essential to complete this form accurately and thoroughly, ensuring that the nominated faculty members receive due credit for their outstanding contributions.
-
-To avoid duplication and misrepresentation, it is crucial to check for existing nominations before submitting a new one. Please review the current nominations and only submit a new nomination if a similar instance does not exist.
-
-</thinking>
-
 # outstanding faculty advisor nomination - Help Guide
 ## Purpose
 

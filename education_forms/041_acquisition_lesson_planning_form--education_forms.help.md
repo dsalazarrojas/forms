@@ -1,7 +1,3 @@
-<thinking>
-The Acquisition Lesson Planning Form is designed to help educators plan and organize instructional units to ensure effective and efficient teaching. This form guides the teacher in setting clear goals and objectives, identifying necessary materials and resources, and planning for formative assessments to check for student understanding. By completing this form, teachers can create a comprehensive plan for each lesson, which helps to improve student outcomes and reduce the time spent on planning.
-</thinking>
-
 # Acquisition Lesson Planning Form - Help Guide
 ## Purpose
 The Acquisition Lesson Planning Form is a tool for teachers to plan and organize instructional units, ensuring clear goals, objectives, and assessments are established to achieve effective student learning.

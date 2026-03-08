@@ -1,15 +1,3 @@
-<thinking>
-
-We need to create a comprehensive help guide for the E Commerce Shipping Feedback Survey form to educate end-users about its purpose, how to complete it, and what each field represents. The form is designed to collect feedback from customers about their shipping experience, allowing us to identify areas for improvement and make data-driven decisions to enhance our shipping services. 
-
-To confirm, the form will be used to gather feedback on the shipping carrier, delivery status, delivery time, delivery note, communication channel, package condition, package type, package value, shipping speed, overall experience, communication quality, customer support, and return policy. This feedback will help us refine our shipping processes and ultimately improve customer satisfaction.
-
-We've checked the form schema and ensured that there are no duplicate fields. Each field has a clear label, hint, and type, making it easy to understand what information is required and how to complete it. For instance, the "Shipping Carrier" field has a clear type of "select_one," indicating it's a dropdown menu with options. The "Delivery Time" field is a date type, implying it requires a date format input.
-
-Before we dive into the help guide, we need to ensure that end-users understand how to navigate the form and what they can expect. This will make the process more efficient and user-friendly.
-
-</thinking>
-
 # E Commerce Shipping Feedback Survey - Help Guide
 ## Purpose
 The E Commerce Shipping Feedback Survey is designed to collect feedback from customers about their shipping experience. This feedback will help us identify areas for improvement and refine our shipping processes to enhance customer satisfaction.

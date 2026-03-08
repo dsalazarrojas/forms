@@ -1,11 +1,3 @@
-<thinking>
-The form "E Portfolio Public Link Display Consent Form" is designed to collect consent from participants to display their e-portfolio links publicly. This form ensures that participants understand and agree to the terms of displaying their e-portfolio links. The form should only be used for this specific purpose and not for any other use case.
-
-This form is likely used in an educational setting where students or participants are creating e-portfolios to showcase their work. The form helps to establish a clear understanding between the participant and the institution or organization managing the e-portfolios. The form should not be used for other purposes such as creating a general contact form or survey form.
-
-Please review the form fields and their descriptions to ensure they match the intended use case and not create any duplicates.
-</thinking>
-
 # E Portfolio Public Link Display Consent Form - Help Guide
 
 ## Purpose

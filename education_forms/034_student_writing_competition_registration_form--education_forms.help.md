@@ -1,11 +1,3 @@
-<thinking>
-The Student Writing Competition Registration Form is designed to collect information from students participating in a writing competition. This form is used to register students for the competition, collecting details about their personal and entry information.
-To ensure that you are correctly registered for the competition, please follow these steps carefully:
-
-This form gathers information about the student and the entry they are submitting. The fields in this form should only be filled out once per entry.
-
-</thinking>
-
 # Student Writing Competition Registration Form - Help Guide
 ## Purpose
 The Student Writing Competition Registration Form is used to collect information from students participating in the writing competition. This form is used to register students for the competition, collecting details about their personal and entry information.

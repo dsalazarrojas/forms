@@ -1,15 +1,3 @@
-<thinking>
-This form is a crucial tool in the assessment process, allowing users to update assessment packets by providing a structured and systematic approach to document changes and modifications. The purpose of this form is to standardize and track updates made to assessment packets, facilitating efficient and accurate record-keeping and version control.
-
-The form is designed to capture essential information about the update, including the submitter's details, the department or subject area, the assessment packet ID or title, and the nature of the change. Each field is carefully crafted to ensure that the update process is comprehensive and thorough, reducing errors and misunderstandings. By using this form, users can provide a clear and concise explanation of the changes made, including a detailed description of the affected sections or questions, the rationale behind the update, and the implementation priority level.
-
-The form also includes an option for users to attach or paste new content, which is essential for complex updates. The date of the update request is also captured, ensuring that the update process is tracked and documented accurately. Finally, the form assigns a reviewer to review the update, promoting collaboration and oversight.
-
-Before proceeding, please review the form carefully and ensure that you have all the necessary information and attachments ready. Completing this form accurately and thoroughly will ensure that your update request is processed efficiently and effectively.
-
-Please note that this form is designed to be used for assessment packet updates, and any deviations from the standard format may cause delays or confusion. If you are unsure about any aspect of the form or process, do not hesitate to reach out to the relevant authorities for clarification.
-</thinking>
-
 # Assessment Packet Update Form - Help Guide
 ## Purpose
 This form is designed to update assessment packets in a structured and systematic way, ensuring accurate record-keeping and version control.

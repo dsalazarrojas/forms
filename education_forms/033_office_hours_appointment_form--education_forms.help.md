@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to schedule office hours appointments for students with various staff members. The purpose of this form is to allow students to request meetings with staff members in order to discuss various topics. This form is not intended for other purposes, such as scheduling events or managing staff availability.
-</thinking>
-
 # office_hours_appointment_form - Help Guide
 ## Purpose
 The office hours appointment form is used to schedule office hours appointments for students with staff members. This form helps students request meetings with staff to discuss specific topics.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for applicants to provide information about themselves for an intercultural learning fellowship. The purpose of this form is to gather necessary details to review and potentially award fellowships. This form must be completed by all applicants, and each field should be filled out accurately and thoroughly. Please ensure that you have attached relevant documents as required. If you have any doubts or need clarification, please reach out to the fellowship committee.</thinking>
-
 # Intercultural Learning Fellowship Application - Help Guide
 ## Purpose
 The Intercultural Learning Fellowship Application is a form designed for applicants to provide information about themselves for an intercultural learning fellowship. This application will be reviewed to select candidates for the fellowship.

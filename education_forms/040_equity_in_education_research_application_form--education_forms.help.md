@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from researchers and institutions about their education-related research projects. It's designed to collect details about project details, researcher information, institutional information, study details, study location, contact information, study budget, research questions, methodology, timeline, study equipment, study supervision, study security, study institution, institutional information, project outcomes, study funding, research areas, project duration, study collaborators, study collaborators' names, study collaborators' institutions, and study collaborators' contact information. The form will likely be used by administrators or reviewers to assess and evaluate these projects, ensuring they meet specific requirements and guidelines.
-Please be aware that this form is an AI-generated, publicly available template, so it's essential to ensure that the information collected is accurate and reliable. Also, ensure that you fill out the form correctly, as required fields are marked as such. If you have any doubts or concerns, please contact the creators at form@gic.mx.
-</thinking>
-
 # Equity In Education Research Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from researchers and institutions about their education-related research projects.

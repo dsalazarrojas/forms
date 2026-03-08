@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a student's award nomination. It is used to gather details about the student's achievements and the nominator's relationship with the student. The form should be filled out by someone who knows the student well, such as a teacher or mentor. Please ensure that you are only nominating students for awards for which they are eligible, and that you are not duplicating nominations for the same student. Also, note that each field is optional, but please fill in as much information as possible.
-</thinking>
-
 # Student Award Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a student's award nomination, including their name, school, contact information, and achievements. It is used to provide detailed recommendations for students seeking recognition for their accomplishments.

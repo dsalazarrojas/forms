@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate written production, such as articles, essays, or stories, using a specific rubric. It's likely used in an academic or professional setting where written works are reviewed for quality and criteria adherence. The form is used to assess the overall quality of the submitted work, provide feedback, and track progress or performance. This form is likely used for internal evaluation, quality control, or assessment purposes in organizations, educational institutions, or government agencies. There's no clear overlap with other forms in the provided schema, suggesting a unique purpose.
-</thinking>
-
 # Written Production Evaluation Rubric - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To create a helpful guide for the end-users, we need to consider the purpose and the process of completing the form. The Interdisciplinary Research Cluster Registration Form is meant to collect information from researchers about their research cluster registration, which likely involves registering a research project or cluster that spans multiple disciplines. This guide will walk the users through the form's purpose, the steps to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Interdisciplinary Research Cluster Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for the registration of Interdisciplinary Research Clusters. Researchers can use this form to provide details about their research cluster, including the cluster name, research participants, and other relevant information.

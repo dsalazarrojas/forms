@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a comprehensive assessment of a learner's profile by gathering information about their educational background, learning style, and preferences. This assessment is intended to help educators tailor their instruction to best meet the needs of each individual learner. The form is designed to be easy to understand and complete, and the fields are clearly labeled to help users provide accurate and relevant information.
-
-</thinking>
-
 # learning_profile_assessment - Help Guide
 ## Purpose
 The learning profile assessment form is used to create a comprehensive assessment of a learner's profile, providing educators with valuable information to tailor their instruction to meet the individual needs of each learner.

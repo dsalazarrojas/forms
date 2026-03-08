@@ -1,7 +1,3 @@
-<thinking>
-We need to create a form that allows students to provide their consent and information to be registered on the student data privacy panel. This form will be used to collect sensitive data, so it's essential to ensure that users understand the purpose and the fields required for registration.
-</thinking>
-
 # Student Data Privacy Panel Registration - Help Guide
 ## Purpose
 The Student Data Privacy Panel Registration form is used to collect sensitive data from students, such as contact information and interests, and to obtain their consent for data processing. This data will be used to provide personalized services and support to the students.

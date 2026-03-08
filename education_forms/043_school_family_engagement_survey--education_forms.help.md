@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback and ratings from school families, teachers, and administrators to gauge their engagement and satisfaction with the school's environment, teaching, and administration. This form is meant to be completed by school families, teachers, and administrators to provide their input and ratings. The purpose of this form is to help the school administration understand the needs and concerns of the school community and make informed decisions for improvement.
-</thinking>
-
 # School Family Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from school families, teachers, and administrators to help the school administration understand their needs and concerns and make informed decisions for improvement.

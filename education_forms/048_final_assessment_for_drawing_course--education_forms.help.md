@@ -1,11 +1,3 @@
-<thinking>
-To begin with, let's clarify the purpose and intent behind creating this form. This "Final Assessment For Drawing Course" form is designed to collect feedback and evaluations from students and instructors on a drawing course. It's likely used by educators or course administrators to gather information about the course's effectiveness, student engagement, and overall quality of the instruction provided. The form will help identify areas of improvement and ensure that the course meets its learning objectives.
-
-As with any form, it's essential to ensure that users understand its purpose and how to complete it correctly to provide accurate and relevant feedback.
-
-This guide will walk you through each field of the form to help you make the most out of it.
-</thinking>
-
 # Final Assessment For Drawing Course - Help Guide
 ## Purpose
 The "Final Assessment For Drawing Course" form is designed to gather evaluations and feedback from students and instructors on a drawing course. It will help identify areas of improvement and ensure that the course meets its learning objectives.

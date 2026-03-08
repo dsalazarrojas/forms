@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information about a study or project that a teacher is conducting with a student. This form is intended to ensure that all necessary details are captured for administrative and regulatory purposes. It's likely that this form will be used for internal purposes within an educational institution.
-The form appears to be a comprehensive study or project registration form that captures various details such as student and teacher names, study duration, contact information, institution, location, start and end dates, description, co-designer information, and co-designer's social media. This form is likely used to track and record study projects for academic and administrative purposes.
-</thinking>
-
 # student_teacher_co_design_study_consent_form - Help Guide
 ## Purpose
 This form is used to collect information about a study or project that a teacher is conducting with a student. It captures details such as student and teacher names, study duration, contact information, institution, location, start and end dates, description, and co-designer information. This form helps to track and record study projects for administrative and regulatory purposes.

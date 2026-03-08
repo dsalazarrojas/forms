@@ -1,8 +1,3 @@
-<thinking>
-This form, named "Dietary Preferences Survey Template", is likely used by healthcare professionals or nutritionists to gather information about a client's dietary habits, restrictions, and health conditions. This template probably aims to create a comprehensive profile of the client's diet and nutritional needs. It may also be used for research or as a starting point for providing personalized nutrition advice.
-This guide should provide a clear understanding of the form's purpose and usage.
-</thinking>
-
 # Dietary Preferences Survey Template - Help Guide
 ## Purpose
 This form is a tool for healthcare professionals or nutritionists to gather detailed information about a client's dietary habits, restrictions, and health conditions. It helps in creating a comprehensive profile of the client's diet and nutritional needs.

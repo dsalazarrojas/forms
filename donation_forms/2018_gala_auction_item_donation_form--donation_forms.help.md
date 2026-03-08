@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to capture the necessary information for the 2018 Gala Auction item donation form. The purpose of this form is to collect information for donations being made to a charity or organization. It's crucial that the donor provides accurate and complete information, especially for tax-deductible donations. We need to make sure that the donor understands the requirements and provides the necessary details for the donation to be processed correctly. To prevent duplication, we should consider implementing validation checks on the form to prevent multiple submissions of the same item or donor information. This form should be used for new donations only, as it's not intended for updates or edits to existing donations.
-</thinking>
-
 # 2018 Gala Auction Item Donation Form - Help Guide
 
 ## Purpose

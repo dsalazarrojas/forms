@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the usability of an e-commerce website, evaluating various aspects such as user experience, navigation, and contact forms. The form is divided into multiple pages, each focusing on a specific area of evaluation. The purpose of this form is to gather data on how well an e-commerce website functions in terms of usability, allowing for improvements to be made for a better user experience.
-</thinking>
-
 # E Commerce Website Usability Assessment - Help Guide
 ## Purpose
 This form is intended to help assess the usability of an e-commerce website, ensuring that it meets the necessary standards for a smooth and efficient user experience. It evaluates the performance of different pages and elements across various devices, allowing for data-driven decisions to be made for improvement.

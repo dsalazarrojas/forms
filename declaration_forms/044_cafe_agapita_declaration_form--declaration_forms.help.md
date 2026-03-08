@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a health and safety declaration form for visitors and staff to ensure a safe environment for everyone in the Cafe Agapita. The form asks for basic contact information, health screening questions, and agreement to safety protocols such as hand sanitizing, wearing a mask, maintaining physical distancing, and data privacy consent. The form seems to be required for all visitors and staff, indicating that it's a crucial part of the entry process.
-</thinking>
-
 # Cafe Agapita Declaration Form - Help Guide
 ## Purpose
 The Cafe Agapita Declaration Form is a mandatory form for all visitors and staff to complete before entering the cafe. It ensures a safe environment by gathering necessary information about your health and safety protocols.

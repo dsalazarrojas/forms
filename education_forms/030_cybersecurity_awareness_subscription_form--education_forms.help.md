@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for individuals to subscribe to a Cybersecurity Awareness program. The form asks for personal and professional information to ensure that the right individuals receive targeted and relevant cybersecurity awareness materials. This form is likely used to collect demographic data for marketing or outreach purposes within an organization.
-
-To prevent duplicate submissions, users can only submit the form once per email address. Before filling out this form, please ensure that you only provide accurate and up-to-date information.
-
-Please use this form only for your personal or work use; do not use it for commercial or other external use. If you are unsure about any of the instructions or fields below, please reach out to the administrators for clarification.
-
-</thinking>
-
 # Cybersecurity Awareness Subscription Form - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic information for cybersecurity awareness purposes. It allows the submission of personal and professional data to receive targeted and relevant information.

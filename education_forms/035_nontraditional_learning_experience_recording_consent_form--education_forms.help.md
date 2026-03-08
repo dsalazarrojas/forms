@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by non-traditional learning experience providers to record participant information, including demographic data and learning experience details. The form will help to ensure that participants' data is accurately recorded and that they are aware of how their data will be used. This form should only be used for participants who are new to the program, not for existing participants.
-</thinking>
-
 # Nontraditional Learning Experience Recording Consent Form - Help Guide
 ## Purpose
 

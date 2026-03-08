@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from a client about their experience with the tech support team. It helps to confirm the resolution of an issue and gather feedback for improvement. The form should not be completed if the issue is still active or unresolved.
-
-The form is divided into several sections, each with its own purpose. The "Discharge Form" is a title section that introduces the form. The "Ticket Number" field should contain the number of the support ticket associated with the issue. The "Client's Name" field is for the client's identification. The "Client Confirmation" field is to ensure the client confirms the resolution of the issue. The "Client Satisfaction" field is to gauge the client's satisfaction with the support received. The "Client Feedback" field is for any additional comments or feedback the client may have. The "Resolution Notes" field is for any notes the support agent may want to record. The "Tech Support Agent" field is for the identification of the support agent handling the issue.
-</thinking>
-
 # Tech Support Client Discharge Form - Help Guide
 ## Purpose
 This form is used to confirm the resolution of an issue and gather feedback from the client to improve the support process.

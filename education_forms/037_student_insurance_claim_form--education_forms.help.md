@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to guide students in providing insurance claims. The form collects information about the claimant and their insurance coverage details. To ensure that you provide the correct information for your insurance claim, please review these instructions carefully.
-
-The purpose of this form is to collect all necessary information required for an insurance claim. Please ensure that you enter accurate and clear details. If you are unsure of any field, please consult with your university or the insurance provider.
-
-Please note that this form is only for students who want to file an insurance claim related to their education.
-
-</thinking>
-
 # student_insurance_claim_form - Help Guide
 ## Purpose
 This form is used to collect information for an insurance claim related to your education. Please fill out the form accurately and completely to ensure a smooth processing process.

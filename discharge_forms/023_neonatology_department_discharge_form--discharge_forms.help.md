@@ -1,7 +1,3 @@
-<thinking>
-This help guide will assist users in completing the Neonatology Department Discharge Form. The form is used to document patient information, including their name, discharge date, care instructions, follow-up visit and phone details, and contact information. This guide will cover the form's purpose, the steps to complete it, and an explanation of each field.
-</thinking>
-
 # Neonatology Department Discharge Form - Help Guide
 ## Purpose
 The Neonatology Department Discharge Form is used to document patient information and provide necessary details for follow-up care after discharge from the department.

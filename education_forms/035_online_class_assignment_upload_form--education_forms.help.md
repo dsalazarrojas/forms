@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect online class assignments from students. This form likely serves as a digital alternative to traditional paper-based submission systems, making it more convenient for instructors to track and assess student work. To ensure accurate and reliable data, instructors may want to check if the form is being used for multiple sections or classes, to avoid duplication of effort.
-</thinking>
-
 # Online Class Assignment Upload Form - Help Guide
 ## Purpose
 The purpose of this form is to collect online class assignments from students. Fill out this form to submit your assignments, making it easy for instructors to track and assess your work.

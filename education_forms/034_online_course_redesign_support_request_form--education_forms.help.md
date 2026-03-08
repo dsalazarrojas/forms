@@ -1,30 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for the "online_course_redesign_support_request_form" form. This form is likely used to capture information from users who need help with redesigning an online course. The purpose of this form is to collect necessary details from users, including course name, course ID, description, category, contact information, and attachment details. 
-
-To complete this form, users should follow these steps:
-
-1. Fill in the required fields: 
-   - Course Name
-   - Course ID
-   - Description
-   - Category
-   - Email
-   - Phone
-   - Date Submitted
-   - Time Submitted
-   - Submitted By
-
-2. Fill in the optional fields: 
-   - Attachment (if needed)
-   - Comments (if needed)
-
-The form is divided into 2 pages. On the first page, users are asked to fill in the course details. On the second page, they can add an attachment and provide additional comments.
-
-This form is likely used by support staff or administrators to gather information from users who need help with their online courses.
-
-</thinking>
-
 # online_course_redesign_support_request_form - Help Guide
 ## Purpose
 This form is used to capture information from users who need help with redesigning an online course.

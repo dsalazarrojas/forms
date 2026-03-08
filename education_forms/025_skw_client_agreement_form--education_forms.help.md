@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating a help guide for the "SKW Client Agreement Form". This form is intended for SKW clients, and its purpose is to collect their information and agreements. This guide will walk you through each field, explaining what the form is for, how to complete it, and what each field means.
 
 # SKW Client Agreement Form - Help Guide

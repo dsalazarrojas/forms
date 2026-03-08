@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals registering for a Bible class, aiming to understand their demographic, learning preferences, and logistical needs. This form ensures that participants provide accurate and complete information about themselves, their church affiliation, and their preferences for the class format, time, and content. It is essential to complete this form carefully, as it will help the class facilitators tailor the learning experience to meet the needs of all participants.
-To avoid duplication and ensure accuracy, please review your answers carefully before submitting the form.
-</thinking>
-
 # Bible Class Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals registering for a Bible class, aiming to understand their demographic, learning preferences, and logistical needs.

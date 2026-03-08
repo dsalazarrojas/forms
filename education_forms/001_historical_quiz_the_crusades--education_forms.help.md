@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form is designed to collect information about the Historical Quiz The Crusades form, ensuring that users can provide relevant and accurate input. The form should not be filled out more than once to prevent duplication of effort.
-
-</thinking>
-
 # Historical Quiz The Crusades - Help Guide
 
 ## Purpose

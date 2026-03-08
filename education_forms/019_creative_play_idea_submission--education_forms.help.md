@@ -1,16 +1,3 @@
-<thinking>
-
-To create a form for submitting creative play ideas, we need to ensure that the ideas submitted are relevant and not duplicates. The purpose of this form is to collect innovative and engaging play ideas that can be used to enrich the learning experience of children. We want to encourage our educators and partners to share their ideas, but we need to filter out any ideas that are not original or are not suitable for our target audience.
-
-Before filling out this form, please make sure that:
-
-* You have not submitted a similar idea recently or already existing on our platform.
-* Your idea is original and not a copy of someone else's work.
-* You have considered the age range and type of play that you are submitting (physical, cognitive, emotional).
-* You have provided accurate and detailed information about your idea.
-
-</thinking>
-
 # Creative Play Idea Submission - Help Guide
 ## Purpose
 The Creative Play Idea Submission form is designed to collect innovative and engaging play ideas from educators and partners to enrich the learning experience of children. This form helps us to identify and develop new play ideas that align with our learning objectives.

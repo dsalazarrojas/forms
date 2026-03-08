@@ -1,9 +1,3 @@
-<thinking>
-The School Intent Form is a crucial document used to capture the purpose and goals of a school or educational institution. To ensure accurate and relevant information is captured, please ensure you only fill out this form when you have a genuine intention to establish a new school or expand an existing one. Please do not duplicate or create multiple forms without a valid reason for each. 
-This form is used to outline the number of students, adults, and contact details for the proposed school or educational institution. It is essential for us to understand the scale and scope of your plan to provide tailored support and guidance.
-Please fill out this form accurately and thoroughly to help us better understand your intentions.
-</thinking>
-
 # School Intent Form - Help Guide
 ## Purpose
 The School Intent Form is a crucial document used to capture the purpose and goals of a school or educational institution. It helps us understand the number of students, adults, and contact details for the proposed school or educational institution.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture essential information from patients for dermal filler treatments. It's essential to ensure that you're aware of any medical conditions or allergies that may affect your treatment. Please fill out this form completely and accurately.
-
-</thinking>
-
 # dermal_filler_consent_form - Help Guide
 ## Purpose
 This form is designed to ensure that you're aware of your medical history, potential allergies, and other essential information for safe and successful dermal filler treatments.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to support requests for course changes. In this context, "course change" refers to requests to modify existing courses or to create new ones within the education domain. This form is intended for use by authorized parties, typically faculty members, to request changes to course status (e.g., open/close), course assignments (e.g., tools assigned), or other attributes that need to be updated. The form is not meant to be used for general inquiry or feedback but rather for formal, action-oriented requests. It's essential that users review the form carefully to ensure they are providing the necessary information for the changes they wish to propose. Please ensure that you have a legitimate reason for requesting changes and that the course ID and other required fields are accurately filled out to prevent delays in the processing of your request.
-
-</thinking>
-
 # Course Change Request Form - Help Guide
 
 ## Purpose

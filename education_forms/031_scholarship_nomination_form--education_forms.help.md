@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a scholarship nomination for a student. The form is used to provide details about the nominee, the education institution they are associated with, and the status of the submission. It is meant to be filled out by a nominator, who is submitting the nomination on behalf of the nominee. The form should not be used to submit multiple nominations, but rather as a one-time form for a single nomination. Please make sure to fill out the form correctly and accurately, and that you are authorized to submit on behalf of the nominee.
-</thinking>
-
 # Scholarship Nomination Form - Help Guide
 ## Purpose
 The scholarship nomination form is a tool for nominating a student for a scholarship. It collects information about the nominee, their education institution, and the status of the submission.

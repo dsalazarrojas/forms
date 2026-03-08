@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be designed for students to report infractions or incidents related to their academic or behavioral conduct. The purpose of this form is to gather information and provide a formal record of any incidents that may occur within the educational institution. To ensure that the incident is properly documented and handled, it's essential to complete the form accurately and thoroughly.
 
 ## Student Infraction Report Form - Help Guide

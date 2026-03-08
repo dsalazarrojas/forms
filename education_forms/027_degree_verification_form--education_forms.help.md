@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to provide a clear understanding of the "Degree Verification Form" for end-users. This form is used to collect information for degree verification purposes. The fields in this form are designed to gather relevant details about the educational institution and degree verification process.
-
-Before proceeding, please ensure that you are not duplicating an existing degree verification request. This form should only be used to request verification for new degree verifications.
-
-The purpose of this guide is to walk you through the process of completing this form accurately and efficiently.
-
-</thinking>
-
 # Degree Verification Form - Help Guide
 ## Purpose
 The Degree Verification Form is used to collect information for degree verification purposes. This form is used by educational institutions to verify the authenticity of degrees and certifications.

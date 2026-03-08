@@ -1,22 +1,3 @@
-<thinking>
-
-This form seems to be designed to collect various aspects of an individual's dietary information, including their preferred diet, food intake, and meal habits. The form appears to be used by healthcare professionals, possibly in a clinical setting, to gather essential data for patients or clients with dietary needs or restrictions. Given the presence of fields like allergies, dietary restrictions, and meal timing, it seems this form is particularly relevant for patients with specific requirements or concerns.
-
-The fields suggest that the form aims to collect information on an individual's:
-
-* Preferred diet (vegetarian, non-vegetarian, vegan, or other)
-* Food intake forms for different meal types (breakfast, snacks, dinner, dessert)
-* Allergies or dietary restrictions (lactose intolerance, gluten-free, low-fat, or others)
-* Additional comments or notes for healthcare professionals to record any important details
-* Contact information (email, phone number)
-* Additional comments for any further discussion or clarification
-
-The required fields indicate that the form must be completed in its entirety, suggesting that the collected data is crucial for the healthcare professional's assessment and care plan.
-
-To ensure accuracy and consistency in data collection, it is essential to follow the instructions and guidelines provided in this help guide.
-
-</thinking>
-
 # Dietary Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect dietary information from individuals to aid healthcare professionals in understanding their needs and restrictions. Please fill out this form accurately and completely to ensure the best possible care.

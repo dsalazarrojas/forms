@@ -1,23 +1,3 @@
-<thinking>
-This form is designed for educational purposes, such as administering mock exams or assessments in a school setting. The purpose of this form is to collect information from students about their demographic details, question types, and answers. This form may be used by educators or administrators to create a comprehensive record of student performance and progress. To avoid duplication, ensure that the form is not used for multiple instances of the same student or assessment.
-
-Before proceeding, review the form fields and their corresponding types to ensure that the required fields are filled out correctly. The form fields include student information, question types, questions, answer keys, question types 2, date, time, email, and phone numbers.
-
-This form is divided into the following fields:
-*   Student Information
-*   Question Type
-*   Question
-*   Answer Key
-*   Question Type 2
-*   Date
-*   Time
-*   Email
-*   Phone
-
-The following guidelines will assist you in completing this form correctly.
-
-</thinking>
-
 # mock_exam_form - Help Guide
 ## Purpose
 The mock_exam_form is designed to collect information from students for educational purposes, such as administering mock exams or assessments. It helps educators or administrators create a comprehensive record of student performance and progress.

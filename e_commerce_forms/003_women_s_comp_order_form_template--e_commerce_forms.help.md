@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for orders related to women's products or services. The purpose of this form is to ensure that all necessary details are captured accurately and efficiently. Please review the form carefully to avoid duplication of effort or incorrect submission. This form should only be used for orders that fit within the scope of women's products or services. If the customer's order does not fit this category, it's best to use a different form. 
-</thinking>
-
 # Women's Comp Order Form Template - Help Guide
 ## Purpose
 The Women's Comp Order Form Template is designed to collect information from customers for orders related to women's products or services.

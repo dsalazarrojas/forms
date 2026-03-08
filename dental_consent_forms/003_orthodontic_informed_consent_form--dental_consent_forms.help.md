@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive guide to help patients understand their rights and responsibilities in an orthodontic treatment. The form will gather information related to the patient's contact details, treatment details, and emergency contact information. This form is intended for use by dentists or orthodontists to gather informed consent from patients before proceeding with treatment.
-
-</thinking>
-
 # Orthodontic Informed Consent Form - Help Guide
 ## Purpose
 This form is intended to serve as an informed consent form for patients undergoing orthodontic treatment. It is designed to inform patients of their rights and responsibilities and to gather necessary contact information for treatment and emergency purposes.

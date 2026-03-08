@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for creating a clone of a wholesale account in the system. This form is typically used when the original wholesale account is no longer active or needs to be replicated for a new entity. The form will ask for basic business information such as name, address, and contact details. It will also ask about payment terms and resale certificate availability. This form must only be filled out by authorized personnel to prevent mis-authorization or duplication of accounts.
-</thinking>
-
 # Clone Of Wholesale Account Application - Help Guide
 ## Purpose
 The Clone Of Wholesale Account Application form is designed to create a copy of an existing wholesale account, typically for when the original account is no longer active or needs to be duplicated for a new entity.

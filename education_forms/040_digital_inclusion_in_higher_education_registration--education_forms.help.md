@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their experiences with digital inclusion in higher education. It aims to gather data on user name, email, student type, preferred language, digital access, support needs, and accommodations. The form is optional and does not require users to provide sensitive or financial information. Each field is optional, allowing users to select the information they feel comfortable sharing. The form's purpose is to collect diverse data to inform the development of digital inclusion programs in higher education settings.
-</thinking>
 # Digital Inclusion In Higher Education Registration - Help Guide
 ## Purpose
 This form is designed to collect information on students' experiences with digital inclusion in higher education. The goal is to gather data on diverse aspects, including user characteristics and support needs, to inform the development of better digital inclusion programs.

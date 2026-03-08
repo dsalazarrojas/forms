@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for customers to order healthy juices with a secure payment process. It is not a required form and is used to gather information for customer orders. The form has 5 fields: Healthy Juice Order, Email, Notes, Phone, and Date.
 
 # Healthy Juice Order Form with Paysafe - Help Guide

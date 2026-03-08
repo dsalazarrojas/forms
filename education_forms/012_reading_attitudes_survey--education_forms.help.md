@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather data on students' reading habits, behaviors, and attitudes. The purpose of the form is to gather information on students' reading habits, such as their reading speed, frequency, purpose, and satisfaction. It seems to be used to collect feedback or data within an educational setting.
-It's possible that the survey is used to assess reading habits among students, and its findings could be used to inform educational policies, programs, or interventions to support students' reading behaviors. However, more information would be required to provide a more detailed analysis.
-It's also worth checking whether the survey is already being used within the education department, and if so, it's possible to get more context or clarify any inconsistencies or ambiguities.
-
-</thinking>
-
 # Reading Attitudes Survey - Help Guide
 ## Purpose
 

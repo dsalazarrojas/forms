@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive tool for users to assess their knowledge in breeding management. It aims to evaluate the understanding of various aspects of breeding, including genetic diversity, pedigree analysis, and record keeping. The form consists of 12 questions that test the user's knowledge in these areas, as well as their ability to identify benefits of maintaining detailed records. Additionally, the form includes two optional questions for users to rate their breeding management knowledge and indicate areas they would like to learn more about.
-
-</thinking>
-
 # Breeding Management Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge in breeding management. It consists of 12 questions that cover various aspects of breeding, including genetic diversity, pedigree analysis, and record keeping.

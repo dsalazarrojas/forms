@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a school system, likely for administrative or data collection purposes. The goal is to gather details about the school's address, name, grade level, starting year, type, and other relevant information. This form may be used by school administrators or educational authorities to categorize and analyze data about different schools in the system. It is likely that the form will be used to create a comprehensive database of school information, which can be useful for various stakeholders such as educators, policymakers, or researchers. To ensure consistency and accuracy, it's essential to fill out the form carefully and thoroughly.
-</thinking>
-
 # School System Survey - Help Guide
 ## Purpose
 The School System Survey form is designed to collect information about a school system for administrative or data collection purposes. It gathers details about the school's address, name, grade level, starting year, type, and other relevant data.

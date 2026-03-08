@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential truck drivers who are interested in working with our company. The form will be used to assess the suitability of the candidate for the job position. The form is divided into several sections, each with its own specific fields that need to be filled out. The form will be used to evaluate the candidate's eligibility for the job, and will help us to get a better understanding of their qualifications and experience. Please note that this form is not intended to be used for any other purpose than evaluating potential truck drivers for this job position.
-
-</thinking>
-
 # Truck Driver Job Application Form - Help Guide
 ## Purpose
 The Truck Driver Job Application Form is a tool used to collect information from potential truck drivers who are interested in working with our company. This form is designed to help us understand the candidate's qualifications and experience in the field of truck driving.

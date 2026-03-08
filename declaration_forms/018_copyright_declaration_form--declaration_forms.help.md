@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the copyright holder, copyright name, copyright date, a description of the content being registered, the type of copyright, and details about the owner. This information will be used for registration and maintenance purposes.
-
-Before filling out this form, please ensure you have all the required information at hand. This form does not require all fields to be completed.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Copyright Declaration Form - Help Guide
 
 ## Purpose

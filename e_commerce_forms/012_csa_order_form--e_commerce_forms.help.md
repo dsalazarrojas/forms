@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for Community Supported Agriculture (CSA) shares, which are subscription-based produce programs that provide customers with a regular supply of fresh, locally produced fruits and vegetables. The CSA program aims to promote sustainable agriculture and connect customers with local farmers. This form is intended for end-users, including customers interested in purchasing shares, to provide their contact information, share selection, payment details, and other relevant preferences. To avoid errors, it's essential to review the form carefully before submitting it, ensuring all required fields are completed accurately. Please note that some fields are marked as required, indicating their importance in the ordering process.
-</thinking>
-
 # CSA Order Form - Help Guide
 ## Purpose
 The CSA Order Form is designed for customers to place orders for Community Supported Agriculture (CSA) shares. This form collects contact information, share selection, payment details, and other preferences to enable smooth order processing and efficient communication with the farm management team.

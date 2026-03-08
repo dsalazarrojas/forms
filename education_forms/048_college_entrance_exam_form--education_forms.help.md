@@ -1,20 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-
-This form is intended to collect information from potential college students who wish to take a college entrance exam. The form gathers personal details, exam preferences, and requirements to ensure a smooth and fair testing experience.
-
-Before we proceed, let's verify that this is the correct form for you. Please answer the following questions:
-
-1. Are you a potential college student interested in taking a college entrance exam?
-2. Do you have all necessary documents and information to complete this form accurately?
-3. Are you aware that this form is not for general information purposes, but for official college entrance exam registration?
-
-If you answered "yes" to all three questions, then you're ready to proceed with filling out this form. If not, please contact the exam administrators for further guidance.
-
-**Note:** This form is designed to be completed by the exam applicant themselves, and not by a parent or guardian on behalf of the applicant.
-
-</thinking>
-
 # College Entrance Exam Form - Help Guide
 
 ## Purpose

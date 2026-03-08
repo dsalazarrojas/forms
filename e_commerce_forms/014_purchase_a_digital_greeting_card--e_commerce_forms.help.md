@@ -1,14 +1,3 @@
-<thinking> 
-The Purchase A Digital Greeting Card form is used to collect information from the user to create a digital greeting card. This form is used for users to purchase and send a digital greeting card to someone special.
-
-To ensure accuracy, we'll check if the form is being submitted on a Desktop, Mobile, or Tablet. This data will be stored and used for tracking purposes only.
-
-Please note that this form is designed to collect information for both the sender and recipient of the digital greeting card. The form will ask for the sender's and recipient's name, email, and other details.
-
-This form will help us create a digital greeting card with the desired design and send it to the recipient's email address. The card price and delivery details will also be captured for future reference.
-
-</thinking>
-
 # Purchase A Digital Greeting Card - Help Guide
 ## Purpose
 The purpose of this form is to collect information for creating a digital greeting card that will be sent to the recipient's email address.

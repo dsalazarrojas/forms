@@ -1,12 +1,3 @@
-<thinking>
-This form is for patrons to provide feedback, suggestions, or complaints about your library's service. The form collects various types of input, from personal contact information (name, phone, fax) to specific feedback, suggestions, and complaints about the library. Please note that this form is not intended for general inquiries or requests, but rather for specific feedback on the library's performance.
-
-To ensure accurate completion, double-check that you are using this form for its intended purpose and not duplicating feedback already submitted.
-
-Before proceeding, please review the following guide to help you complete this form accurately and effectively.
-
-</thinking>
-
 # Library Feedback Form - Help Guide
 ## Purpose
 The Library Feedback Form is designed to allow patrons to provide feedback, suggestions, or complaints about your library's service. This form helps us gather information on areas of improvement and areas of success in our services.

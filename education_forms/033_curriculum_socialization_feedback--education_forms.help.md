@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the curriculum socialization process. The purpose of this form is to gather information from participants about their experience with the curriculum, including their rating and comments. This form will help the organizers of the curriculum to understand the effectiveness of the socialization process and make improvements for future sessions. This form is intended for participants who have attended a session of the curriculum. It is not intended for general feedback on the curriculum, but rather for specific feedback on the socialization process. It is recommended that participants complete this form within 24 hours after the session.
-</thinking>
-
 # Curriculum Socialization Feedback - Help Guide
 ## Purpose
 The Curriculum Socialization Feedback form is designed to gather information from participants on their experience with the curriculum socialization process.

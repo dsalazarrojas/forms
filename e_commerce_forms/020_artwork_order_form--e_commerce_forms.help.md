@@ -1,7 +1,3 @@
-<thinking>
-This form will guide customers through the process of ordering an artwork online. The purpose of this form is to collect necessary information for the customer to order an artwork, including selecting the artwork, specifying the quantity, framing option, and shipping details. Please ensure that this guide is accurate and up-to-date to avoid duplication and misinterpretation.
-</thinking>
-
 # Artwork Order Form - Help Guide
 ## Purpose
 The Artwork Order Form is used to collect necessary information for ordering an artwork from our online catalog. This form ensures that we have all the necessary details for creating and delivering your ordered artwork.

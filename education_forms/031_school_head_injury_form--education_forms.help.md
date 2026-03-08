@@ -1,7 +1,3 @@
-<thinking>
-This form is used by school authorities to document and track incidents involving students. It helps to gather information about the incident, including details about the student involved, the incident itself, and any relevant contact information. The form is designed to be completed by school staff, such as principals or administrators, to ensure accurate and consistent reporting of incidents. It is not intended for student or parent use.
-</thinking>
-
 # School Head Injury Form - Help Guide
 ## Purpose
 The School Head Injury Form is a tool for school authorities to document and track incidents involving students. This form helps to gather essential information about the incident, student, and school, ensuring accurate and consistent reporting.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for the School Counseling Progress Note to document the progress and observations of a student's counseling sessions. It will help to track student's performance and provide a clear picture of their academic and personal development. 
-This form will be used by school counselors to update student information and provide necessary data for teachers and parents to track student progress. 
-Before filling out this form, ensure that you have all the necessary information and that the student's data is accurate and up-to-date. 
-Please review the form carefully to ensure that all fields are filled out correctly, as this information will be used to support student development and progress.
-</thinking>
-
 # School Counseling Progress Note - Help Guide
 ## Purpose
 The School Counseling Progress Note is a document used to track student progress and provide a clear picture of their academic and personal development.

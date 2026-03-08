@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register businesses for shipping discounts. The goal is to collect information about the business and its shipping details. This form is likely used by businesses that want to offer discounts on shipping to their customers. The fields on this form should be filled out based on the business's actual information. The form's purpose should not be filled out multiple times by the same business, as this would not accurately represent the business's shipping details. This form should only be filled out once per business.
-</thinking>
-
 # Shipping Discount Registration Form - Help Guide
 ## Purpose
 The Shipping Discount Registration Form is designed to collect information about your business and its shipping details, allowing you to register for shipping discounts.

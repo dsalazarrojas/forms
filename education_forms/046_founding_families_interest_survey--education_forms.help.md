@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block explains that the Founding Families Interest Survey form is designed to collect information from school representatives to gauge their interest in partnering with the Founding Families organization. The form is divided into multiple pages, each collecting different types of information. The form is designed for school representatives to express their interest in the Founding Families organization, provide their contact information, and share details about their school. The purpose of the form is to help the Founding Families organization determine potential partnership opportunities and tailor their efforts to support these schools.
 
 </thinking>

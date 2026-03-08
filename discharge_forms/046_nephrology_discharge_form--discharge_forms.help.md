@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nephrology Discharge Form - Help Guide
 
 ## Purpose

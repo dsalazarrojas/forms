@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive quiz on parabolas, likely used in educational settings or assessments. The form purpose is to collect information and gauge understanding on the topic of parabolas. It includes multiple questions and fields for demographic information. Each section of the form is designed to gather specific types of data, and the form's overall structure suggests it's meant for a self-assessment or survey type of scenario.
-</thinking>
-
 # mathematics_quiz_parabolas - Help Guide
 ## Purpose
 This form is designed to assess knowledge on parabolas, a type of mathematical concept. It's likely used for educational purposes or to gauge user understanding.

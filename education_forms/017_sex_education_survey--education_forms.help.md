@@ -1,8 +1,3 @@
-<thinking>
-**Purpose:** 
-This form, the "Sex Education Survey", is designed to collect information on users' knowledge and attitudes towards sex education. The survey consists of multiple pages with different types of questions, including text, select multiple, select one, number, and note fields. It is likely to be used in an educational setting, perhaps as a research tool or to gauge student understanding.
-</thinking>
-
 # Sex Education Survey - Help Guide
 ## Purpose
 The Sex Education Survey is a form designed to collect information on users' knowledge and attitudes towards sex education.

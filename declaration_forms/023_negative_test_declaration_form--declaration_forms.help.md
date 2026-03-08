@@ -1,9 +1,3 @@
-<thinking>...
-
-This form is meant for declaring a negative test for travel-related activities. It's designed to collect relevant information from passengers. To avoid duplication of efforts, please ensure that you've reviewed the form fields carefully and only submit the form once the necessary details are complete. Completing this form ensures that passengers have the necessary documentation in place for smooth travel.
-
-</thinking>
-
 # Negative Test Declaration Form - Help Guide
 ## Purpose
 This form is used to declare a negative test for travel-related activities, ensuring passengers have the correct documentation for smooth travel.

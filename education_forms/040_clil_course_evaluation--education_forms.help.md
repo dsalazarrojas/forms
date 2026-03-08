@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clil Course Evaluation - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # meiosis_stages_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to assess knowledge about the stages of meiosis, a crucial process in cell division. It is intended to be a self-assessment tool for educational purposes, allowing users to evaluate their understanding of the different stages involved in meiosis.

@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Student Satisfaction Questionnaire" form, I first need to understand the form's purpose and how users will be interacting with it. Based on the provided YAML form schema, the form appears to be designed to gauge students' satisfaction with their academic experience. It has five questions, with the first question being a general satisfaction rating, and the next two asking about positive impacts of their instructor and overall experience, respectively. The last two questions allow for free-form comments and suggestions.
-This form is likely intended for students who have taken a course or program at an educational institution, and the collected data will provide valuable feedback for instructors and administrators to improve the learning experience.
-To ensure the form is completed accurately, the user needs to understand the purpose and context of each question, which I will cover in the following sections.
-</thinking>
-
 # Student Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Student Satisfaction Questionnaire is designed to collect feedback from students about their experience with their instructor and the overall satisfaction with their program. This form helps instructors and administrators identify areas of improvement and make informed decisions to enhance the learning experience.

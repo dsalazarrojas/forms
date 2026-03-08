@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to assess a student's math skills and teamwork abilities. The purpose of this form is not entirely clear, and further investigation is needed to determine its relevance and to check for potential duplication of other forms.
-</thinking>
-
 # Math And Teamwork Assessment - Help Guide
 ## Purpose
 This form is used to assess a student's math skills and teamwork abilities. Its purpose is to provide a comprehensive evaluation of the student's performance in mathematics and teamwork-related tasks.

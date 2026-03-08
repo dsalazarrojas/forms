@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a structured framework for capturing taxi-related information, such as service request details, issue resolution status, and follow-up updates. The purpose of this form is to facilitate smooth communication and collaboration among team members, ensuring that tasks are assigned and tracked efficiently. It's essential that the form is completed accurately and consistently to maintain consistency and data integrity. Please review the form carefully before proceeding to avoid duplication of efforts and ensure that you provide all necessary information to support issue resolution.
-</thinking>
-
 # Taxi Help Form - Help Guide
 ## Purpose
 The Taxi Help Form is designed to gather essential details about taxi-related requests, issues, and resolution processes. It helps taxi service providers, customer support, and technical teams stay organized and on the same page.

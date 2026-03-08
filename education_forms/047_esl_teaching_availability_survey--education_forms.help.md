@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their availability for teaching purposes. It will be used to schedule teaching sessions with potential students. The form asks for general information about the user, including their schedule, availability, and contact preferences. The form is required for users to provide a form ID, which will be used to identify and track their submissions. This information will help us to better understand user preferences and optimize scheduling.
-</thinking>
-
 # ESL Teaching Availability Survey - Help Guide
 ## Purpose
 This form is used to collect user information for teaching purposes to schedule sessions with potential students.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # excavator_operator_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect information about an excavator operator, including their personal details and work experience. It is meant to be used for evaluation purposes only.

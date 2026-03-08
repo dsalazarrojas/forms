@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In School Suspension Reflection Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The "Children's Center Mission Statement Form" is a form designed to help organizations that provide educational services for children to document their mission, values, and vision statements. This form is intended to gather information about the organization's purpose, goals, core values, target population, community involvement, and key stakeholders. It is crucial to have a clear and concise mission statement that reflects the organization's identity and goals.
-The form is divided into several sections that correspond to different aspects of the organization's operations and goals. Each section requires specific information that will help the organization to better understand its own strengths, weaknesses, and areas for improvement.
-</thinking>
-
 # Children's Center Mission Statement Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your organization's mission, values, and vision statements.

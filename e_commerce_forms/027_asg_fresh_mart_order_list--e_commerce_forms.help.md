@@ -1,8 +1,3 @@
-<thinking>
-The Asg Fresh Mart Order List form is designed to collect information from customers about their seafood orders, including their name, delivery address, contact phone number, seafood category, specific product selection, quantity, special cleaning or preparation instructions, preferred delivery time, estimated budget, and preferred payment mode. The form is likely to be used by customers to place orders for seafood products from Asg Fresh Mart.
-
-</thinking>
-
 # Asg Fresh Mart Order List - Help Guide
 
 ## Purpose

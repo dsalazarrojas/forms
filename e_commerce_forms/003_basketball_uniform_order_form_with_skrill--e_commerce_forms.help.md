@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to place an order for basketball uniforms. The form requires contact information, delivery details, and uniform specifications. The customer must select the payment method, which is restricted to Skrill. The form is intended to collect necessary information for processing and delivering the uniforms, including contact person, organization, email address, phone number, delivery address, jersey and shorts colors, and quantity of each size. The form also allows for custom printing of team name and logo, if desired. The form is organized into three sections: contact information, delivery address, and uniform details. The form is intended to be completed by the customer, and the collected data will be used for processing the order and delivery.
-
-</thinking>
-
 # Basketball Uniform Order Form With Skrill - Help Guide
 ## Purpose
 

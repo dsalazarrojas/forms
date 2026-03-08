@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # self_assessment_tool_form - Help Guide
 ## Purpose
 The Self-Assessment Tool Form is designed to help users assess their skills, knowledge, or experiences related to various aspects of their work or daily life. This form is intended to be a personal and confidential assessment tool to help you evaluate your strengths and weaknesses in different areas.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for registering individuals to attend the Technology In Early Education Summit. Its purpose is to collect information from attendees, speakers, and organizers. The form will help the event organizers to manage registrations, track attendees' interests, and ensure smooth payment processing.
-
-Before proceeding, please confirm that:
-- You are eligible to attend or participate in the summit (if unsure, please reach out to the organizers).
-- You are not duplicating a previous registration (if you've already registered, please don't submit this form again).
-
-</thinking>
-
 # Technology In Early Education Summit Registration - Help Guide
 ## Purpose
 The Technology In Early Education Summit Registration form is designed to collect information from attendees, speakers, and organizers of the event. This form helps the event organizers to manage registrations, track attendees' interests, and process payments efficiently.

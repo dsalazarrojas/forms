@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to gather information from students interested in participating in an internship program abroad. This information will be used to facilitate the application process and ensure that students are matched with suitable opportunities.
-The form is part of a larger system for managing internships and will be used by administrators to review and process applications.
-Please ensure that you are completing this form only once, as repeating it will lead to duplicate entries. If you have already submitted your application, please do not resubmit.
-</thinking>
-
 # Internship Abroad Admission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students applying for an internship program abroad.

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Simple Seminar Contact Form", I will first analyze the form schema provided in YAML. The form is designed for gathering information from seminar attendees, and it seems to be a complex form with various fields related to seminar details and attendee information. I will make sure to break down the form into smaller sections and explain each field in a concise and practical way.
-
-The form appears to be designed for multiple seminars, with some fields repeating for each seminar, such as seminar title, description, location, and time. The "Attendees" and "Registered" fields seem to be related to the seminar, while "Event Date" and "Event Time" fields might be related to the event schedule.
-
-To ensure the guide is helpful and easy to follow, I will group the fields into categories and explain each field's purpose, requirements, and any additional information that might be useful for users.
-</thinking>
-
 # Simple Seminar Contact Form - Help Guide
 
 ## Purpose

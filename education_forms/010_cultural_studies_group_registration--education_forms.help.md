@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registering cultural studies groups, a type of group that focuses on exploring and analyzing various aspects of culture, including art, music, history, and social sciences. The purpose of this form is to collect information from club organizers and members about their group's details, meeting schedule, and member profiles.
-The form will be filled out by club organizers and members who want to join or manage a cultural studies group. It's recommended to complete the form accurately and thoroughly to ensure that all necessary information is provided.
-</thinking>
-
 # Cultural Studies Group Registration - Help Guide
 
 ## Purpose

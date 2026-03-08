@@ -1,7 +1,3 @@
-<thinking>
-We should first verify that the form is indeed for identifying and practicing common and proper nouns, which is a basic concept in the English language, particularly in the field of education. We should also ensure that the form is being used for its intended purpose and not being duplicated elsewhere within the organization. 
-</thinking>
-
 # Common And Proper Nouns Worksheet - Help Guide
 ## Purpose
 This worksheet is designed for students to practice identifying and working with common and proper nouns in the English language. It consists of three activities that cover the basics of common and proper nouns, helping students understand the difference between them and how to use them correctly in sentences.

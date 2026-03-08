@@ -1,14 +1,3 @@
-<thinking>
-This form is used for obtaining media release permission from parents or guardians for various educational media productions. The form is intended for schools within the Los Angeles Unified School District (LAUSD). 
-
-To complete this form, the parent or guardian will need to provide information about themselves and their child. This includes demographic information like name, address, and phone number. They will also need to specify the purpose and type of media release, as well as the date and time of the release. Additionally, they will need to indicate the type of media they are comfortable with their child being featured in.
-
-The form is not intended for official LAUSD business, but rather for external media production purposes. If you are an LAUSD employee, you should be using the appropriate LAUSD system for requesting media releases.
-
-This form should only be used for productions that are not part of the LAUSD's official marketing, communications, or other business activities. If you're unsure whether to use this form or not, please reach out to your supervisor or HR department for guidance.
-
-</thinking>
-
 # LAUSD Media Release Form (English) - Help Guide
 ## Purpose
 This form is used to obtain media release permission from parents or guardians for various educational media productions.

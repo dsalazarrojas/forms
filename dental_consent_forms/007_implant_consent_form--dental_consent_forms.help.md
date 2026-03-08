@@ -1,5 +1,3 @@
-<thinking> This form is designed to be used for patients to provide their consent for dental implant procedures. It is a comprehensive form that captures essential information about the patient, including their contact details, medical history, and medical records. The form is divided into several sections, each capturing specific information required for medical purposes. It is important to fill out this form accurately and truthfully to ensure that the dentist has all the necessary information to perform the procedure safely and effectively.</thinking>
-
 # implant_consent_form - Help Guide
 ## Purpose
 The implant_consent_form is a patient consent form used for dental implant procedures. It collects information about the patient, including contact details, medical history, and medical records.

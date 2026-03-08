@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### AE FUNDRAISING PUBG Tournament Registration - Help Guide
 
 ### Purpose

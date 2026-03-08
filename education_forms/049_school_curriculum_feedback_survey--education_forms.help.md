@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from students, parents, and teachers on the effectiveness of a school's curriculum. This feedback is used to help the school administration and faculty refine and improve the curriculum to better meet the needs of all students. The form is intended for students, parents, and teachers of the school to provide their honest and constructive feedback on the curriculum.
-
-Before filling out this form, please note that:
-
-* If you have already filled out this form previously, your responses will not be duplicated, as the system will automatically check for and prevent duplicate submissions.
-* Please be honest and thorough in your feedback, as it will help the school administration and faculty make informed decisions to improve the curriculum.
-
-</thinking>
-
 # School Curriculum Feedback Survey - Help Guide
 ## Purpose
 The School Curriculum Feedback Survey is designed to collect feedback from students, parents, and teachers on the effectiveness of a school's curriculum. This feedback is used to help the school administration and faculty refine and improve the curriculum to better meet the needs of all students.

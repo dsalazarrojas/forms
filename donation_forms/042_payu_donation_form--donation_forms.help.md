@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide aims to help users understand the purpose and usage of the PayU Donation Form. 
 
 The PayU Donation Form is designed to collect information for donation purposes. This form gathers the donor's details and donation specifics for record keeping and follow-up. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online MCQ Assessment - Help Guide
 
 ## Purpose

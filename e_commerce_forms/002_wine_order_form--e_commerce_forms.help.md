@@ -1,9 +1,3 @@
-<Thinking>
-
-This help guide is created to support end-users in understanding how to correctly use the Wine Order Form. The form is designed to collect user information for wine orders, ensuring that customers can easily submit their orders online. This guide will cover the form's purpose, instructions on how to complete it, and a detailed explanation of each field.
-
-<thinking>...</thinking>
-
 # Wine Order Form - Help Guide
 
 ## Purpose

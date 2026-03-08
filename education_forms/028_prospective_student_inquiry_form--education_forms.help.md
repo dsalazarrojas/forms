@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information from prospective students interested in enrolling in a program or course. The form is intended to gather essential details such as contact information, program preferences, and availability. To ensure that the form is completed accurately and efficiently, we will verify the submission data against existing records to prevent duplication and ensure only new inquiries are processed. Please note that this form is for informational purposes only and does not guarantee any form of admission or commitment to a program...</thinking>
-
 # Prospective Student Inquiry Form - Help Guide
 ## Purpose
 The Prospective Student Inquiry Form is a tool used to collect information from individuals interested in enrolling in a program or course. The form helps us understand your needs and preferences, ensuring that we can provide you with the most suitable options.

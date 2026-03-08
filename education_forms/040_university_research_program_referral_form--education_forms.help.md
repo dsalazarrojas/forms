@@ -1,7 +1,3 @@
-<thinking>
-This form is used to refer potential applicants to the university's research programs, allowing them to apply to a variety of programs based on their interests and goals. This form is meant to be used by potential applicants to submit their information and preferences for review by the university's research committee. The form will be checked for duplication before allowing a submission, to prevent multiple submissions from the same applicant. This ensures that each applicant's information is unique and accurate.
-</thinking>
-
 # University Research Program Referral Form - Help Guide
 ## Purpose
 This form is used to refer potential applicants to the university's research programs, allowing them to apply to a variety of programs based on their interests and goals.

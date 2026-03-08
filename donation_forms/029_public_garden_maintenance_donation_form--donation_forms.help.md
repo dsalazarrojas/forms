@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Garden Maintenance Donation Form - Help Guide
 
 ## Purpose

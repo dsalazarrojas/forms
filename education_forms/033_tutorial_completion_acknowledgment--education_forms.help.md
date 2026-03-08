@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by individuals who have successfully finished a tutorial. The purpose of this form is to gather information about the tutorial completion, including the individual's name, contact information, and feedback. This form will help us understand who has completed the tutorial, their progress, and their satisfaction with the tutorial content. Please ensure that you have completed the tutorial before filling out this form. Additionally, please note that this form will not be duplicated for each individual, and only one instance per individual will be kept on record.
-</thinking>
-
 # Tutorial Completion Acknowledgment - Help Guide
 ## Purpose
 The Tutorial Completion Acknowledgment form is a way for individuals to acknowledge completing a tutorial, providing their name, contact information, and feedback to help us improve our tutorials.

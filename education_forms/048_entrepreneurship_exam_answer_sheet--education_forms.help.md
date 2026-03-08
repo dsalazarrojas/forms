@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will review the provided YAML fields and create a clear and concise user-facing help guide for the "entrepreneurship_exam_answer_sheet" form. I will explain the form's purpose, how to complete it, and each field's meaning in a practical and concrete way, avoiding unsupported business logic.</thinking>
-
 # entrepreneurship_exam_answer_sheet - Help Guide
 ## Purpose
 The "entrepreneurship_exam_answer_sheet" form is designed to collect information from students about their answers to a series of questions related to entrepreneurship. This form is typically used to evaluate student understanding and progress in an entrepreneurship-related course or program.

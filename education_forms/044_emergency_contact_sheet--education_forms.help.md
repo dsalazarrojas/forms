@@ -1,8 +1,3 @@
-<thinking>
-I am an expert form designer and technical writer. This form is for collecting emergency contact information from individuals. The purpose of this form is to gather critical contact details in case of an emergency, ensuring that the right people are informed and involved in the process. This information will be used for emergency situations that may arise on campus or during school events. Before proceeding, I will review the provided YAML fields to ensure the form design and explanations align with the intended purpose and requirements.
-
-</thinking>
-
 # Emergency Contact Sheet - Help Guide
 ## Purpose
 This form is designed to collect emergency contact information for students, staff, and faculty in case of an emergency situations.

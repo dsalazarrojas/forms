@@ -1,8 +1,3 @@
-<thinking>
-...this form is intended to capture user data for non-profit donations in the United States, with the primary goal of facilitating easy and secure donations from donors. This form is designed to collect necessary information from users, including their contact details and preferred payment methods. Before starting, ensure you've got approval from your non-profit organization to accept donations.
-...ensure you've reviewed and followed all internal guidelines for duplicate forms and data collection...
-</thinking>
-
 # Non Profit Donation Template WorldPay US - Help Guide
 
 ## Purpose

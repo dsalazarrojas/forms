@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to explain the usage and requirements for the Image Order Form.
-
-The Image Order Form is a collection of fields designed to collect relevant information to fulfill image orders. This form should only be filled out when a customer has placed an order for an image product, such as a photo or artwork.
-
-Before filling out this form, please ensure you have reviewed and understood the order details provided by the customer. This form is not intended for duplicate or test orders. Fill out the form accurately and completely to ensure the order is processed correctly.
-
-This guide will walk you through each field of the form, explaining its purpose and how to fill it out correctly.
-
-</thinking>
-
 # Image Order Form - Help Guide
 ## Purpose
 The Image Order Form is used to collect information about an image order, including order date, customer details, photo specifics, and delivery options.

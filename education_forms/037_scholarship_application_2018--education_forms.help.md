@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Application 2018 - Help Guide
 
 ## Purpose

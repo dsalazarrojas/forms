@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for users to submit a public safety equipment donation. It captures information about the donor, the type of equipment being donated, and details about the equipment itself. This form is part of the "public safety" category, indicating its focus is on collecting donations for safety-related equipment. The purpose of this form is to provide a structured way to gather information about public safety equipment donations, ensuring consistency and accuracy in the donation process.</thinking>
-
 # Public Safety Equipment Donation Form - Help Guide
 ## Purpose
 This form is designed for users to submit information about public safety equipment donations, allowing for efficient and accurate tracking of such donations.

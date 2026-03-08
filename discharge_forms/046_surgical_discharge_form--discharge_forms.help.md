@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to understand the purpose and content of the Surgical Discharge Form. This form likely serves to document a patient's discharge from a surgical procedure, gathering information on key details such as the date, time, vital signs, pain score, discharge disposition, allergies, medications, discharge instructions, and follow-up information. The form aims to provide a standardized and efficient way to capture these essential details for medical records and future care.
-
-The form's purpose is to ensure accurate and comprehensive documentation of the patient's discharge process, facilitating effective communication between healthcare providers and improving patient care.
-
-To prevent duplication and ensure relevance, the form should only be completed for patients who have undergone a surgical procedure.
-
-</thinking>
-
 # Surgical Discharge Form - Help Guide
 ## Purpose
 This form is used to document a patient's discharge from a surgical procedure, capturing essential details for accurate and efficient care.

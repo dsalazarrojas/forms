@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donation Form Template - Help Guide
 
 ## Purpose

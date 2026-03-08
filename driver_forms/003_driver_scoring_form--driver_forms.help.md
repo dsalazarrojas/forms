@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the Driver Scoring Form - Help Guide, we'll start by explaining the purpose of this form and its relevance. This form is used for scoring drivers based on their performance in tests and assessments, and the goal is to evaluate their skills and incidents during the evaluation process.
 
 To ensure that each driver is evaluated fairly and accurately, please review the form carefully before completing it.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about how donors refer individuals to our organization. It is designed to help us understand the motivations behind their referrals and how they interact with our organization. This form will help us identify potential areas of improvement and create a better experience for our donors and their referred individuals. By completing this form, you will be helping us to better understand our donor referral network and create a more effective strategy to engage with our supporters. Please note that you will only be asked about referrals made within the last 6 months.
-</thinking>
-
 # Donor Referral Source Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience as a donor and how you refer others to our organization. The goal is to help us understand what motivates your referrals and how you interact with our organization.

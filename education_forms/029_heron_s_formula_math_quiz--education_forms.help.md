@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Herons Formula Math Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of Heron's formula for calculating the area of a triangle given the lengths of its sides. Heron's formula is a mathematical formula used to calculate the area of a triangle when the lengths of all three sides are known.

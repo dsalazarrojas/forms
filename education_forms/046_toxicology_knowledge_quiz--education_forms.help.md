@@ -1,12 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the user-facing Toxicology Knowledge Quiz form, we need to understand its purpose, the fields it contains, and how to complete it.
-
-The form's purpose is to assess the user's knowledge of toxicology, a field that deals with the study of the adverse effects of substances on living organisms. The form is likely designed for individuals who need to demonstrate their understanding of toxicology concepts and principles in a specific context, such as students, researchers, or professionals in relevant fields.
-
-To ensure the form is filled out correctly, we should check if there are any specific requirements or rules that need to be followed. However, it appears that the form is designed to be filled out by the user's discretion, and there are no strict rules or requirements mentioned in the provided YAML fields.
-
-</thinking>
-
 # Toxicology Knowledge Quiz - Help Guide
 ## Purpose
 The Toxicology Knowledge Quiz is designed to assess your knowledge of toxicology concepts and principles. This form is intended to help you demonstrate your understanding of the field, which deals with the adverse effects of substances on living organisms.

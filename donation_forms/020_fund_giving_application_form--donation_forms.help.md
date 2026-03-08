@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help donors and individuals submit applications for funding to non-profit organizations. It is intended to gather information about the applicant's identity, purpose, and financial details. This form is a one-page application and is not designed for recurring submissions. The purpose of this form is to ensure that the applicant's information is accurate and up-to-date, and that the non-profit organizations receive the required data to process the application. Please ensure that the provided data is accurate before submitting the form. If you are a repeat user, please do not submit duplicate applications as this may cause confusion and delay the application process.
-</thinking>
-
 # Fund Giving Application Form - Help Guide
 
 ## Purpose

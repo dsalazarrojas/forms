@@ -1,6 +1,3 @@
-<thinking>
-Form purpose is to provide faculty with a convenient and organized way to submit requests for administrative support to their respective departments. To use this form, ensure that your department's admin support request process is not already in progress, so as not to create duplicate requests. If you are submitting on behalf of someone else, please ensure the faculty member is aware their request has been made.</thinking>
-
 # Faculty Administrative Support Inquiry Form - Help Guide
 
 ## Purpose

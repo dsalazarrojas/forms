@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information on the status of school bus cleaning, including the trip ID, date of cleaning, route details, and other relevant factors. This form aims to standardize the cleaning process and ensure that all necessary information is captured consistently. 
-To avoid duplication, please note that the fields for "Vehicle Condition" are redundant with the "Notes" field, as notes can cover any additional context or comments about the bus's condition. 
-To minimize completion time, consider using a "copy to clipboard" feature to quickly input repetitive information.
-</thinking>
-
 # School Bus Cleaning Checklist Form - Help Guide
 ## Purpose
 The School Bus Cleaning Checklist Form is a tool designed to standardize the cleaning process and ensure that all necessary information is captured. This form aims to improve communication and efficiency among staff members.

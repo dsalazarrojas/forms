@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect dental patient information. It is used to update or collect new patient data. It is essential to fill out this form accurately and completely to ensure that the dental practice has up-to-date and correct information about the patient.
-Before completing this form, please note that it is designed for internal use by the dental practice and is not intended for external publication or sharing. The fields are designed to collect specific information that is necessary for patient care and treatment.
-To avoid duplication, please check the patient's existing records before updating their information.
-</thinking>
-
 # dental_patient_information_update_form - Help Guide
 ## Purpose
 This form is used to update or collect new dental patient information. It is essential to fill it out accurately and completely to ensure that the dental practice has up-to-date and correct information about the patient.

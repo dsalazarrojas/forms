@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect data from students who are seeking admission into an educational institution. This form is used to collect relevant information about the student, including their name, ID, date of birth, contact number, email, address, and student type. The student type field is used to determine the type of student the applicant is, whether it's part-time or full-time. This form is crucial in ensuring that the institution has accurate and up-to-date information about potential students. The purpose of this form is to facilitate a smooth and efficient admission process. Before proceeding, please ensure that this form is relevant to your needs and not a duplicate of any other form already in use. Please review the form carefully to determine whether it is suitable for your requirements.</thinking>
-
 # Student Admission Form - Help Guide
 ## Purpose
 The Student Admission Form is designed to collect relevant information from students who are seeking admission into the institution. This information will be used to facilitate the admission process and ensure that the institution has accurate records about potential students.

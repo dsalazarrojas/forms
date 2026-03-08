@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Science Center Evaluation Form", we must first understand the purpose of this form. The form is designed to gather feedback and evaluation from users about their experience at science centers. The form is likely used by science centers to understand what they are doing well and what areas need improvement. 
-
-This form is likely used by science center staff or administrators to collect data on various aspects of their services, including the quality of exhibits, programs, and overall experience. The form may also be used to gather feedback on the science areas, exhibits, programs, and recommendations offered by the science center.
-
-The form has multiple pages with various fields that ask for different types of information, including text fields for comments, email fields for contact information, and select fields for opinions on various aspects of the science center. The form also has fields for optional text fields for additional information, but these are likely only used for providing detailed explanations or comments.
-
-</thinking>
-
 # Science Center Evaluation Form - Help Guide
 ## Purpose
 The Science Center Evaluation Form is designed to gather feedback and evaluation from users about their experience at science centers. This form is used by science center staff or administrators to collect data on various aspects of their services, including the quality of exhibits, programs, and overall experience.

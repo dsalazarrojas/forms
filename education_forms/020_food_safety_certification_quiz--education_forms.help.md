@@ -1,19 +1,3 @@
-<thinking>
-
-This form is used to create a Food Safety Certification Quiz for users. The purpose of this form is to collect information from users to assess their knowledge on food safety practices. The quiz will be used to determine the user's level of understanding on different food safety questions.
-
-This form will ask users for the following information:
-
-* Personal details such as date of birth, email, phone number, and address.
-* Food safety questions with multiple options for selection.
-* Additional questions such as time of day and notes.
-* Category and subcategory selection.
-* Location and assignment information.
-
-The form has a mix of required and optional fields, depending on the question being asked. The user must provide their date, time, and assigned to and submitted by information as it is required. However, other fields such as address and category selection are not required.
-
-</thinking>
-
 # Food Safety Certification Quiz - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the form is to collect information about users' understanding and awareness of geography and environment-related topics. The form is likely used for educational purposes, such as to gauge students' knowledge or to help researchers collect data about people's perceptions of geography and environment.
-The form is divided into multiple pages, each covering a different aspect of the topic. Page 2 requires users to select one option from the list of environmental science topics, indicating their area of focus. Page 7 is also a selection-based page, this time for environmental policy. These two pages are likely the most crucial sections of the form, as they deal with fundamental aspects of the form's purpose.
-Pages 3 and 6 might be used for collecting more specific information, like geographical science facts or data. Page 3 might ask users to select multiple options, whereas Page 6 asks for a numerical value. Page 4 seems to be open-ended, asking for a text input about environmental awareness. Pages 9 and 10 are not clearly defined, but might be used for collecting more specific geographical data or asking a question about geography.
-Before proceeding with this form, make sure you have an understanding of the topic and have considered the implications of your answers. Ensure you answer the questions honestly and accurately. The form is designed to be completed once per individual.
-</thinking>
-
 # Geography And Environment Quiz - Help Guide
 
 ## Purpose

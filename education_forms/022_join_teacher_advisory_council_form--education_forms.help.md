@@ -1,10 +1,3 @@
-<thinking>
-The "Join Teacher Advisory Council Form" is a form designed to collect information from teachers who wish to join the Teacher Advisory Council. This form is intended to gather details about a teacher's qualifications, experience, and contact information for the purpose of evaluating their suitability for the council.
-
-Before filling out this form, please ensure that you are a qualified teacher and have not previously submitted a similar application. This form is meant to provide as much detail as possible about your background and experience.
-
-To complete this form, simply follow the instructions below.</thinking>
-
 # Join Teacher Advisory Council Form - Help Guide
 ## Purpose
 

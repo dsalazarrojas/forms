@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and consents from students and teachers participating in an escape room activity. This form is designed to gather relevant information and ensure that both parties are aware of their responsibilities and expectations. Before creating this guide, review the form's fields and ensure that this guide accurately represents the form's purpose and content. Non-duplication and accuracy are key to creating a helpful resource for end-users.
-</thinking>
-
 # Escape Room Consent Form - Help Guide
 ## Purpose
 The Escape Room Consent Form is designed to collect information and consents from students and teachers participating in an escape room activity. This form aims to ensure that both parties are aware of their responsibilities and expectations, and that necessary information is gathered for the successful execution of the activity.

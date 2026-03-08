@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from faculty members who want to participate in a Faculty Collaboration Accelerator program. The purpose of this form is to gather essential details about the individuals and their projects, ensuring they are properly registered and connected with the right resources to facilitate collaboration and knowledge sharing among faculty members. This form should only be used by faculty members who are interested in participating in the Faculty Collaboration Accelerator program. Please fill this form out carefully to ensure accuracy and completeness.</thinking>
-
 # Faculty Collaboration Accelerator Registration Form - Help Guide
 
 ## Purpose

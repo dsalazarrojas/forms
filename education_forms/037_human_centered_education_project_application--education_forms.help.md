@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for educators and project managers to submit applications for Human Centered Education projects. The form gathers information about the project proposal, objectives, budget, and contact details. The purpose of this form is to ensure that all necessary information is provided for project evaluation and consideration. Please review each field carefully to ensure accurate and complete submissions. 
-</thinking>
-
 # Human Centered Education Project Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information for Human Centered Education project applications. 

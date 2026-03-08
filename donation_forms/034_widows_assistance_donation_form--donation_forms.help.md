@@ -1,5 +1,3 @@
-<thinking>...This is a form designed to collect information from potential donors who want to support the Widows’ Assistance program. The form is used to gather details about the donor, their intended donation amount, the purpose of the donation, and their contact information. When filling out this form, please ensure that you provide the correct format for the phone number field, (123) 456-7890, and enter a valid email address for the contact email field...</thinking>
-
 # Widows’ Assistance Donation Form - Help Guide
 ## Purpose
 The Widows’ Assistance Donation Form is designed to collect information from potential donors who want to support the Widows’ Assistance program. This form helps us understand who is donating and why, so we can better utilize their support for the program.

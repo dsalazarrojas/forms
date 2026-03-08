@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about potential conflicts of interest that may impact your professional judgment and objectivity in your role. The form requires you to declare your relationships, interests, and affiliations that may present a conflict of interest. This includes relationships with suppliers, customers, competitors, business partners, and family members. The form helps ensure that you are aware of and disclose any potential conflicts of interest that may influence your decisions or actions in the workplace.
-
-Please note that this form is intended to be completed on an annual basis, unless you have a change in circumstances that requires a new declaration. If you are unsure about any of the questions or have questions about the form, please ask your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Conflict Of Interest Declaration Form - Help Guide
 ## Purpose
 The Conflict Of Interest Declaration Form is used to gather information about potential conflicts of interest that may impact your professional judgment and objectivity in your role. This includes relationships with suppliers, customers, competitors, business partners, and family members.

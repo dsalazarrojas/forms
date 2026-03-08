@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # financial_advisory_discharge_form - Help Guide
 ## Purpose
 The financial advisory discharge form is used to document the end of a relationship between a financial institution and a client. This form is intended to be completed by an authorized user to accurately and clearly record the details of the discharge.

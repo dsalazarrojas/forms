@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about human body cavities and muscle attachment points. It appears to be a educational quiz or assessment tool to test users' knowledge about these topics. The purpose of this form is to gather answers to questions about body cavities, muscle attachment points, and the functions and descriptions of different parts of the body. I will assume that the form is intended for students or individuals seeking to learn or reinforce their knowledge about human anatomy.
-
-</thinking>
 # Human Body Cavities And Muscle Quiz - Help Guide
 ## Purpose
 This form is designed to educate users about human body cavities and muscle attachment points. It is intended to test users' knowledge and understanding about the topics.

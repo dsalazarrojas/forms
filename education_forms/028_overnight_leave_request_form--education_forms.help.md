@@ -1,7 +1,3 @@
-<thinking>
-The Overnight Leave Request Form is used to submit a request for overnight leave to management. Before submitting a leave request, ensure that you have already checked the company's leave policy and that this form is not a duplicate of a previous request. This form should only be submitted for overnight leave requests, not for other types of absences or requests.
-</thinking>
-
 # Overnight Leave Request Form - Help Guide
 ## Purpose
 The Overnight Leave Request Form is a document used to submit a request for overnight leave to management. It is designed to provide essential information for processing and approving leave requests.

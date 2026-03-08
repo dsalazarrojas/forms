@@ -1,26 +1,3 @@
-<thinking>
-This help guide is for the Kids Club Membership Registration Form, a form designed to collect information from parents or guardians about their child's membership in the Kids Club. The form is intended for children who are interested in joining a club, either the Kids Club or a specific club type such as Art Club or Sports Club. The form requires the following fields:
-
-* First Name
-* Last Name
-* Date of Birth
-* Parent Name
-* Email
-* Phone
-* Address
-* Zip Code
-* Club Type (select one of three options)
-* Special Skills (select multiple skills from a list)
-* Emergency Contact
-* Emergency Phone
-* Emergency Email
-* Medical Condition (if any)
-* Allergies (if any)
-* Notes (optional)
-
-This guide will walk you through each field and its purpose to ensure that you can complete the form accurately and efficiently.
-
-</thinking>
 # Kids Club Membership Registration Form - Help Guide
 
 ## Purpose

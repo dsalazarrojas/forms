@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students for a housing agreement with a provider or host family. It is meant to gather essential details for the agreement, including student personal data, contact information, and agreement terms. The form is structured into several sections, including student identification, provider information, and agreement terms. It includes date fields for important dates such as start and end dates, and signature fields for both the student and provider to acknowledge their agreement. The form is required to be completed in a specific way to ensure that all necessary information is provided and that the agreements are properly documented.
-</thinking>
-
 # Student Housing Agreement - Help Guide
 ## Purpose
 This form is used to collect and record student housing agreement information, including student personal data, provider information, and agreement terms. It is essential for both students and providers to accurately and truthfully complete the form to establish a valid agreement.

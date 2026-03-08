@@ -1,21 +1,3 @@
-<thinking>
-This is a technical task that requires creating a user-facing help guide for an "Education Volunteer Application Form". The form seems to be designed for collecting information from potential volunteers who want to participate in educational activities or events. The goal is to provide a clear and concise guide that explains the form's purpose, how to complete it, and what each field means. This will ensure that users understand the form's requirements and can fill it out accurately and efficiently.
-
-Before proceeding, let me ensure that I understand the form's structure and the fields included. From the provided YAML, I see the form has the following fields:
-
-* Education Volunteer Application Form (title)
-* name (text)
-* email (email)
-* contact_number (text)
-* availability (date)
-* availability_end_date (date)
-* interest (text)
-* skills (select_multiple)
-* skills_option1, skills_option2, skills_option3 (text)
-* submitted (select_one)
-
-</thinking>
-
 # Education Volunteer Application Form - Help Guide
 ## Purpose
 The Education Volunteer Application Form is designed to collect information from potential volunteers who want to participate in educational activities or events. This form will help us understand their interests, availability, and skills to match them with suitable opportunities.

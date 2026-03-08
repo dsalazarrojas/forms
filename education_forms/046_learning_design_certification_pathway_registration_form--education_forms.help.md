@@ -1,6 +1,3 @@
-<thinking> 
-I need to ensure that this form is for registering learning design certification pathways, which means it's for instructors or administrators to create and track pathways for students to follow in their learning journey. This form should not be filled out by students themselves. I will check that the form is not duplicated or submitted with incomplete information. Each field should have clear and concise labels and explanations to facilitate understanding and ease of use.</thinking>
-
 # Learning Design Certification Pathway Registration Form - Help Guide
 
 ## Purpose

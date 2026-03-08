@@ -1,10 +1,3 @@
-<thinking>
-To determine the form's purpose, we need to analyze the YAML fields. The form appears to be a waiver form for dance classes, likely for students to provide information about themselves and their emergency contacts in case of an incident. The form is likely used to ensure the safety and well-being of students in dance classes. 
-
-The form has several sections, including fields for personal information, emergency contact information, medical conditions, and a waiver section. The purpose of this form is to provide a clear and concise way for students and their guardians to provide necessary information about themselves and their emergency contacts. This information will help the dance class staff to ensure the students' safety during the classes.
-
-Before creating the help guide, I will need to ensure that this form is not a duplicate of an existing one in the organization and it's relevant to the target audience.</thinking>
-
 # Dance Class Waiver Form - Help Guide
 ## Purpose
 This form is a waiver form for dance classes, designed to ensure the safety and well-being of students during classes. It collects information about the student's personal details, emergency contacts, and medical conditions.

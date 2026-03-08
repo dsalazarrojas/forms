@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in filling out the "Library Student Entry Check In Form" effectively. The form is designed to collect information about students entering or exiting the library. It should only be used for students who are physically present in the library, and users should not use this form for duplicate or unnecessary entries. Please ensure that all required fields are filled out correctly to avoid any delays or issues with processing your entry.
-</thinking>
-
 # Library Student Entry Check In Form - Help Guide
 ## Purpose
 The "Library Student Entry Check In Form" is used to record student entries into the library. This form helps library staff track student attendance and manage their stay in the library.

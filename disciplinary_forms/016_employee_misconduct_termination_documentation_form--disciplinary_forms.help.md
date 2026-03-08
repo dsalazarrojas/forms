@@ -1,7 +1,3 @@
-<thinking>
-The Employee Misconduct Termination Documentation Form is used to document the termination of an employee's position due to misconduct. This form is to be filled out by the employee and their supervisor as part of the formal termination process. It ensures that all relevant details are captured and approved before proceeding with the termination. This form should only be used for employees who have been terminated due to misconduct. If an employee is being terminated for reasons other than misconduct, please use the "Termination of Employment" form instead.
-</thinking>
-
 # Employee Misconduct Termination Documentation Form - Help Guide
 ## Purpose
 This form is used to document the termination of an employee's position due to misconduct, as per company policy. It ensures that all relevant details are captured and approved before proceeding with the termination.

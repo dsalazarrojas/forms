@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a comprehensive checklist for planning and tracking assignments or projects in an educational context. It asks for various details about the assignment, including student name and ID, course name, assignment title, due dates, resources needed, and potential obstacles. It also tracks progress with a series of tasks and milestone checks. This form will likely be used by educators or administrators to plan and monitor assignments for students in a class. Before starting to fill out this form, it's essential to review the fields carefully to ensure you're capturing the correct information and to avoid duplicating work. Ensure you've gathered all necessary information before completing this form.
-</thinking>
-
 # Assignment Planning Checklist - Help Guide
 ## Purpose
 This form is designed to help educators plan and track assignments for students in a class, allowing them to gather and record crucial details about the assignments and monitor progress throughout.

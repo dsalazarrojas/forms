@@ -1,5 +1,3 @@
-<thinking>This form will help the parent or legal guardian provide their consent for a student to participate in extracurricular activities at school. The form requires the student's name, parent's name, parent's email and phone, student's grade level, activities the student wishes to participate in, any additional comments, and the parent's and school's signatures. The form also asks for the teacher's consent, school's consent, and the student's and parent's signatures for verification and record-keeping purposes. This form should only be filled out once for each extracurricular activity and is not a general permission form for all activities.</thinking>
-
 # Extracurricular Activities Consent Form - Help Guide
 ## Purpose
 This form is used to obtain parental consent for a student to participate in extracurricular activities at school.

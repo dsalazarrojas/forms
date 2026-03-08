@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from workshop participants, specifically focusing on youth interactive workshops. It is likely used for registration and management purposes within an educational setting. The form appears to be comprehensive, covering various aspects of participant information, including contact details, workshop specifics, and parental data (in the case of minors). This could be used by schools, educational institutions, or community centers to keep track of workshop attendees, their backgrounds, and any necessary contact information. The field types and labels are mostly self-explanatory, but a more detailed guide will be provided below to ensure users understand the form's intent and required information.</thinking>
-
 # Youth Interactive Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from workshop participants for registration and management purposes in educational settings.

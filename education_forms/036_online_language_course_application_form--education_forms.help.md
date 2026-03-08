@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first provide a brief internal reasoning block to explain the purpose and context of the form.</thinking>
-
 This form is designed to capture essential information from individuals applying for an online language course. The primary purpose is to collect data on the applicant's preferred language, contact details, course level of interest, and additional comments. This information will help the course administrators to assess the applicant's suitability and provide a tailored learning experience. To ensure data quality, we'll use this guide to help applicants complete the form accurately and avoid duplication of efforts.
 
 # Online Language Course Application Form - Help Guide

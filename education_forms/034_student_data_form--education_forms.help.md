@@ -1,12 +1,3 @@
-<thinking>
-The "Student Data Form" is used to collect information about students. This form is used by administrators to record and update student data. The form is typically used for administrative purposes, such as maintaining student records, communicating with parents, and generating reports. It is essential to fill out this form accurately and completely, as the information collected will be used to create student profiles and inform decision-making processes.
-
-Before completing this form, ensure that you are using the most up-to-date information. If you are unsure about any field, please consult with the student or their guardian/parent before proceeding. To avoid duplication, check the student's profile first to see if the information is already recorded.
-
-It is also essential to review the form carefully and fill it out completely. The form is divided into different sections with clear labels, making it easy to complete. Each field has a specific purpose, and its completion is crucial for accurate student data.
-
-</thinking>
-
 # Student Data Form - Help Guide
 ## Purpose
 The "Student Data Form" is used to collect and maintain accurate and up-to-date information about students.

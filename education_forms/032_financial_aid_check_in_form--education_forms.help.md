@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Financial Aid Check In Form" accurately and efficiently. To ensure that users understand the form's purpose and relevance, please read the following sections carefully.
-
-This form was created to collect information from students regarding their financial aid status and circumstances. It is likely used in educational institutions to monitor students' financial situations and provide support where needed. The form is not designed to be a comprehensive financial assessment tool but rather a quick check-in to gather essential details about a student's financial situation, including their contact information, employment status, and other relevant factors.
-
-Before proceeding, please ensure that you are using this form in the context of financial aid checks or similar purposes. If you are unsure about the form's purpose or relevance, please consult with your supervisor or the form's administrator.
-
-</thinking>
-
 # Financial Aid Check In Form - Help Guide
 ## Purpose
 The Financial Aid Check In Form is a document used to collect information from students about their financial situation, including contact details, employment status, and other relevant factors. This form is typically used in educational institutions to monitor students' financial circumstances and provide support where necessary.

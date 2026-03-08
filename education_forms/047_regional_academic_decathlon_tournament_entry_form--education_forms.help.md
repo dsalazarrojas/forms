@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for teams to enter a regional academic decathlon tournament. It's a simple form that captures essential information about the team, school, and team members. The purpose of this form is to gather data for tournament organization and management. To avoid duplication, please ensure that you haven't already submitted an entry for the same team in the past. If you're unsure, you can always check with the tournament organizers. 
-
-</thinking>
-
 # regional_academic_decathlon_tournament_entry_form - Help Guide
 
 ## Purpose

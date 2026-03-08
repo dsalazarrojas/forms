@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure we understand the purpose and requirements of this form. The purpose of this form is to enroll fitness instructors in a certification program. The form asks for personal and professional information from the instructors, including their name, contact details, and certification status. We will also need to clarify which fields are actually required for the submission to be processed.</thinking>
-
 # Fitness Instructor Certification Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from fitness instructors who wish to enroll in a certification program. It asks for personal details, professional credentials, and certification status to ensure a smooth enrollment process.

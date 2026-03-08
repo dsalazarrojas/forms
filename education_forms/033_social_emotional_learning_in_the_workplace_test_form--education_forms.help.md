@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's social emotional learning in the workplace. Social emotional learning in the workplace refers to the ability to learn and adapt in a work-related setting, often through interactions and experiences with others. This form aims to evaluate the respondent's level of self-awareness, self-regulation, empathy, and other related skills. The form is composed of a series of questions that cover various aspects of social emotional learning, including team management, conflict resolution, stress management, and emotional regulation.
-</thinking>
-
 # Social Emotional Learning In The Workplace Test Form - Help Guide
 ## Purpose
 This form is designed to help you assess your social emotional learning in the workplace. It is not a test in the classical sense, but rather a series of questions to help you reflect on your skills and experiences in a work-related setting.

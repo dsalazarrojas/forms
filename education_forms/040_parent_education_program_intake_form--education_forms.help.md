@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating a help guide for the "Parent Education Program Intake Form", which is used to gather information from parents about their child's education program needs. This form is used to ensure that we provide the best possible support to each family.
 
 To avoid duplication, we will only create one instance of this form per family and update it as needed. Please note that some fields in this form are not required, but filling them out will help us better understand the family's situation and provide more tailored support.

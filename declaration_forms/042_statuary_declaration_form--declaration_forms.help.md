@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used for declaring personal information for statutory purposes. It is designed to collect basic contact and identification information, such as names and addresses, from individuals. The information collected is intended for official or legal purposes, but the specific use cases and requirements should be verified with the form's creator or relevant authorities.
 
 # Statuary Declaration Form - Help Guide

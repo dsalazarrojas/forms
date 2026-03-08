@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to register for a responsive workshop, which is a workshop that responds to the needs of its participants in real-time. This form is used to collect information about the participants, including their name, email, phone number, and other relevant details. Before proceeding, please ensure that you are eligible to register and that you are not duplicating your registration.
-
-After reviewing the form, if you have any questions, please do not hesitate to contact us.
-</thinking>
-
 # Responsive Workshop Registration Form - Help Guide
 ## Purpose
 The Responsive Workshop Registration Form is a tool used to collect information from workshop participants. Fill out the form completely and accurately to ensure a smooth and successful workshop experience.

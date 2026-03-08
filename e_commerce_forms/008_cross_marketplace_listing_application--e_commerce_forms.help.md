@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for listing products on a cross-marketplace platform. 
-To ensure that the form is being used correctly and efficiently, we need to make sure that each field is filled out accurately and completely. 
-The form requires that you select a category for your product from a list of options, enter the name and description of the product, upload an image of the product, and input the product's price and status. 
-The status field allows you to select one of three options, and the price field is a numerical input field. 
-The product url field is a URL input field where you can input the URL of your product's page, and the url label field allows you to input a label for the URL. 
-The url link and url text fields are for providing additional information about the product's URL, but these are optional. 
-The product image alt text field is for providing an alternative text for the product's image, and the product video field is for linking to a video of the product. 
-The weight, width, and height fields are for measuring the product's physical dimensions, and the weight unit field is for selecting the unit of measurement for the product's weight. 
-The status notes fields are for providing additional notes or comments about the product's status. 
-Please fill out each field accurately and completely to ensure that your product is listed correctly on the cross-marketplace platform.
-</thinking>
-
 # Cross Marketplace Listing Application - Help Guide
 ## Purpose
 This form is for listing products on a cross-marketplace platform. It requires you to provide detailed information about your product, including its category, name, description, image, price, and status.

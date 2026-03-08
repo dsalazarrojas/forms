@@ -1,5 +1,3 @@
-<thinking>... This form is intended for the submission of a request for clearance of an enrollment charge. It is used to gather information from the student and the department or submitter who is requesting the clearance. The form is split into different pages, each containing various fields for relevant information such as student details, department contact, and submitter details. The purpose of this form is to ensure that all necessary information is gathered for the clearance process. Please ensure that you have permission from the student before submitting the form, and double-check that you are not duplicating a previous submission. This form should only be completed for students who are currently enrolled or have been enrolled in the past... </thinking>
-
 # Enrollment Charge Clearance Request - Help Guide
 ## Purpose
 The Enrollment Charge Clearance Request form is used to submit a request for clearance of an enrollment charge for a student. It is essential to complete this form accurately and thoroughly to ensure that the clearance process is initiated correctly.

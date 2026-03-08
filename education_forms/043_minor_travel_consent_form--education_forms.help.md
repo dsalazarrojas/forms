@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Minor Travel Consent Form - Help Guide
 
 ## Purpose

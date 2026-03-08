@@ -1,14 +1,3 @@
-<thinking>
-
-This form is intended to gather information from users who are carrying electronic cigarettes on a flight. The purpose of this form is to ensure that the user understands the regulations and procedures for carrying electronic cigarettes on an airline. By filling out this form, users will be able to declare their possession of electronic cigarettes and provide information about their travel plans.
-
-Before proceeding, please note that:
-
-* This form is for informational purposes only and is not a replacement for any official documentation or procedures required by the airline.
-* The information provided in this form will not be used for any purpose other than to assist the airline in processing the user's travel.
-
-</thinking>
-
 # e Cigarette Carry On Declaration Form - Help Guide
 ## Purpose
 This form is intended to gather information from users who are carrying electronic cigarettes on a flight.

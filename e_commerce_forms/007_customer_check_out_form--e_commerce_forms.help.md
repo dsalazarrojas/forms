@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect customer information for the purpose of processing a customer's order and payment details. It is likely used in an e-commerce setting to facilitate online transactions and ensure that customers can securely provide their payment information. This form should not be duplicated in other contexts, such as in-store or over the phone, as it is designed to capture online-specific information.
-
-To confirm, this form is meant to collect customer details and payment information for e-commerce transactions, and it is not intended for use in other scenarios.
-
-</thinking>
-
 # Customer Check Out Form - Help Guide
 ## Purpose
 The Customer Check Out Form is designed to collect customer information and payment details for online transactions. This form is meant to facilitate secure and accurate processing of customer orders.

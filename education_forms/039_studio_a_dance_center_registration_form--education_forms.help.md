@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be a registration form for students at a dance studio. The purpose of this form is to collect information about the student, including their name, date of birth, email, and phone number. This form will help the dance studio to keep track of its students and ensure that they have up-to-date contact information. It is likely that this form will be used by students who are new to the studio or who need to update their information.
-
-Before proceeding, please note that this form is intended for students who will be attending classes at the dance studio, not for staff or instructors. Also, please ensure that you are filling out this form with accurate and up-to-date information, as it is used for official purposes.
-
-</thinking>
-
 # studio_a_dance_center_registration_form - Help Guide
 
 ## Purpose

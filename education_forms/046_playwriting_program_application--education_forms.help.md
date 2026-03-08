@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for the Playwriting Program, a likely artistic or educational program for writers. This form aims to gather essential details about the applicant, their writing samples, motivations, and any additional information relevant to their application. To avoid duplication, it's likely that this form is meant to be filled out only once by each applicant. This form does not seem to be associated with any proprietary form platforms or services.
-</thinking>
-
 # Playwriting Program Application - Help Guide
 ## Purpose
 The Playwriting Program Application form is designed to collect information from applicants for the Playwriting Program. This form is intended to be filled out only once by each applicant.

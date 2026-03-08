@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Makeupholics Order Form - Help Guide
 
 ## Purpose

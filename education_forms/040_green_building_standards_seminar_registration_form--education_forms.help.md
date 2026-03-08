@@ -1,7 +1,3 @@
-<thinking>
-We have a form for registering to a Green Building Standards Seminar, which is likely a conference or training event focused on sustainable and environmental best practices in the building industry. This form should capture relevant information from participants, including their personal and contact details, preferences, and seminar-related preferences. It's essential to ensure that the form is completed accurately to facilitate smooth communication and attendance management. Please review the form carefully to ensure it's filled out correctly and doesn't require duplicate information.
-</thinking>
-
 # Green Building Standards Seminar Registration Form - Help Guide
 ## Purpose
 This form is designed for registering participants to the Green Building Standards Seminar. Please fill it out accurately to help us manage your attendance and provide you with the necessary information for the event.

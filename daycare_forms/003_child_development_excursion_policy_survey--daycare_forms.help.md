@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to provide information about their child's participation in excursions, which are activities that take place outside the childcare center. The goal is to gather data on their understanding of the policy and ensure their consent for their child's participation. The form asks about the child's date of birth, medical conditions, and other relevant details to tailor the excursion experiences to their needs. 
-
-The purpose of this form is to ensure that parents are informed about the excursion policy, understand the procedures, and provide consent for their child to participate in local and distant excursions. This form will also ask about the child's mobility needs and emergency contact information. By collecting this data, the childcare center can better accommodate the child's needs and ensure a smooth excursion experience.
-
-Please ensure that you do not complete this form if:
-- You have not reviewed the childcare center's excursion policy.
-- Your child does not have a date of birth recorded in our system.
-
-If you are unsure about any of the information required, please ask a staff member for assistance.
-</thinking>
-
 # Child Development Excursion Policy Survey - Help Guide
 
 ## Purpose

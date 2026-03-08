@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from various stakeholders (students, parents, and teachers) regarding the quality of a 2D feedback survey. The purpose of this form is to gather opinions and experiences of the stakeholders in order to improve the 2D feedback system. This form is likely to be used in educational institutions or organizations that value the input of their staff and students. The form should be filled out by the appropriate stakeholders (Student, Parent, or Teacher) to provide feedback on the 2D feedback survey, and should be submitted to the relevant authorities.
-
-</thinking>
-
 # k_2d_feedback_survey - Help Guide
 ## Purpose
 

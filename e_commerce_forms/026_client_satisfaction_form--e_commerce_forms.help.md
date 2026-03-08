@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to measure client satisfaction after a purchase or interaction with a company. It is meant to be completed by the client themselves, likely after receiving a product or service. The form's purpose is to gather feedback on various aspects of the experience, including the quality of the product or service, price value, delivery experience, and overall satisfaction. The fields are designed to be easy to fill out and provide a clear and concise way to gather feedback.
-
-The form is composed of 11 questions, including demographic information such as email address and name, specific details about the product or service purchased, and feedback on the experience. The questions are categorized into several sections, including:
-
-* Product or Service Information
-* Experience with Product or Service
-* Satisfaction
-* Future Interactions
-
-Each section is designed to help the client provide detailed and actionable feedback. The form is intended to be completed in a few minutes, and the client's input will help the company improve its products and services.
-
-</thinking>
-
 # Client Satisfaction Form - Help Guide
 ## Purpose
 This form is designed to measure client satisfaction after a purchase or interaction with a company.

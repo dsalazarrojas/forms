@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users who want to become vendors on the Fashion And Hip Hop Marketplace. The form fields are meant to gather essential details that will help create a vendor profile and facilitate communication between the marketplace and the vendor. The form is not meant for customers, but rather for vendors who want to sell their products or services on the platform.
-
-The form purpose is to ensure that vendors provide accurate and consistent data, which will help the marketplace to categorize, verify, and manage vendor information effectively.
-
-Before filling out the form, please note that:
-
-* If you are a fashion vendor, you will be associated with the "Fashion" category.
-* If you are a hip hop vendor, you will be associated with the "Hip Hop" category.
-* The marketplace reserves the right to verify vendor information before activating your account.
-</thinking>
-
 # Fashion And Hip Hop Marketplace Registration - Help Guide
 ## Purpose
 The Fashion And Hip Hop Marketplace Registration form is designed to collect essential information from vendors who want to become part of the marketplace.

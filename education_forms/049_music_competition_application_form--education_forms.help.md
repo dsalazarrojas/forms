@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for users to apply for a music competition. It's designed to gather essential information from musicians to evaluate their qualifications and performance requirements for the competition. The purpose of this form is to streamline the application process for potential participants. Please note that this guide assumes the competition rules and regulations are in place and well-defined, and this guide only focuses on the form fields and their meanings.
-
-</thinking>
-
 # Music Competition Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from musicians applying for a music competition. It's essential to fill out the form accurately and completely to ensure a smooth and successful application process.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the attendance of students in a virtual class. This form allows teachers to quickly and easily record the presence or absence of students in a class, along with any relevant comments or notes. To use this form, the teacher simply selects the attendance status of each student, enters the date and time of the class, and provides any necessary comments. This form is designed to be simple and easy to use, allowing for efficient tracking of attendance records.
-</thinking>
-
 # Virtual Class Attendance Form - Help Guide
 ## Purpose
 The Virtual Class Attendance Form is used to record the attendance of students in virtual classes. This form helps teachers track who is present, absent, or late in a class.

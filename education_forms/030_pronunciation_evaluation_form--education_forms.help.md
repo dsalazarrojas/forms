@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: this form aims to collect user feedback on pronunciation, likely for educational purposes, such as language learning or teacher evaluation. This form's structure suggests it will collect general information, audio samples, and feedback for each student. The "score" field likely represents some sort of assessment or evaluation metric. Given this structure, the form's purpose is not to be overly complex, rather to collect basic feedback and scores. I assume that users will be filling out the form for themselves or others, but no specific context is provided, so it's possible that this form is meant for teacher feedback as well... The fields seem to be fairly self-explanatory, but I'll provide a brief description for each to ensure clarity. </thinking>
-
 # Pronunciation Evaluation Form - Help Guide
 
 ## Purpose

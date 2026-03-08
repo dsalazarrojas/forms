@@ -1,7 +1,3 @@
-<thinking>
-The High School Senior Survey form is designed to collect information from high school students about their experiences, preferences, and plans for their future. This form will help educators and administrators understand the student population's background, interests, and perceptions, ultimately informing decisions on resource allocation and support services for the students. It is essential to complete this form accurately and thoroughly, as the information collected will be used to create a comprehensive picture of the student body. Please ensure you only complete this form once, as duplicate submissions will not be accepted.
-</thinking>
-
 # High School Senior Survey - Help Guide
 ## Purpose
 The High School Senior Survey is a form designed to collect information about high school students' experiences, plans, and perceptions. This form helps educators and administrators understand the student population's background, interests, and needs, informing decisions on resource allocation and support services.

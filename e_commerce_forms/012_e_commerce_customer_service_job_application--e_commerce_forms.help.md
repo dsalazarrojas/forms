@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect customer service job applications for e-commerce customers who are interested in working with our team. This form helps us understand their contact information, work experience, education level, language abilities, job preferences, available work dates, and current work status. It's designed to be completed by customers who are interested in exploring job opportunities with us. This form is not intended to be a comprehensive assessment tool, but rather a starting point for further evaluation.
-</thinking>
-
 # E Commerce Customer Service Job Application - Help Guide
 ## Purpose
 This form is designed to help us understand your background and experience, so we can discuss potential job opportunities with you. Please answer the questions honestly, and don't hesitate to reach out if you have any questions or concerns.

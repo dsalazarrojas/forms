@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a shopping order form for customers to provide their information and preferences for a specific order. This includes their name, email, phone number, order date, billing address, city, state, zip code, and product information such as category, description, quantity, unit price, and order total. It also includes the option to choose between shipping and payment methods. This form is likely used in an e-commerce context, where customers can place orders online. To avoid duplication, customers should not use this form for duplicate orders or multiple orders with the same information. 
-</thinking>
-
 # CnC Shopping Order Form - Help Guide
 
 ## Purpose

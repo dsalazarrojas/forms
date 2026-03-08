@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for university workshops to check in attendees, gather information about events, and track follow-up activities. It's crucial to fill out the form accurately to ensure that workshop organizers can effectively manage and communicate with attendees.
-</thinking>
-
 # University Workshop Check In Form - Help Guide
 ## Purpose
 This form is designed to gather information about university workshops, including check-in details, event records, follow-up activities, and attendance statistics. It helps workshop organizers and administrators to efficiently track and manage workshop-related events.

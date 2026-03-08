@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students who need to report their absence due to immunization. It's crucial to provide accurate and clear guidance to help students and healthcare professionals navigate this process efficiently. Please review this guide to ensure you understand the form's purpose and functionality before proceeding. If you have any further questions or concerns, contact form@gic.mx.
-</thinking>
-
 # Immunization Absence Form - Help Guide
 
 ## Purpose

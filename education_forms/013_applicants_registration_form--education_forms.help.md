@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic and academic information from individuals interested in enrolling in a training program at the center. It will help to identify the applicant's personal and contact details, educational background, academic preferences, and other relevant information that will aid the center in reviewing and processing the application.
-
-The form will help the center to verify that the applicant has not submitted duplicate applications, ensuring that each applicant is considered on a first-come-first-served basis.
-
-Please note that the form is divided into several sections to make it easier to navigate and provide a clear understanding of what information is required.
-
-</thinking>
-
 # Applicants Registration Form - Help Guide
 ## Purpose
 The Applicants Registration Form is designed to collect demographic and academic information from individuals interested in enrolling in a training program at the center. This form helps the center to verify the authenticity of the applicants and to process their applications in an orderly manner.

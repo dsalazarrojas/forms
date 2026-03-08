@@ -1,11 +1,3 @@
-<thinking>
-
-The Student Declaration Template form is used to collect important information and agreements from students, likely for academic or administrative purposes. This form is a standard template designed to be filled out by students, and its purpose can vary depending on the institution or organization using it. To determine the relevance of this form to your specific context, consider the following: Are you an administrator, teacher, or student affairs representative? Are you creating or managing a similar form for your organization? If this form is similar to others you've used in the past, it might be a good fit.
-
-Before proceeding, ensure this form is not a duplicate or an outdated version. Check your organization's policies and procedures to verify that this form aligns with your current practices and requirements.
-
-</thinking>
-
 # Student Declaration Template - Help Guide
 ## Purpose
 The Student Declaration Template is a form designed to collect information and agreements from students. It can be used for various purposes, such as academic or administrative activities.

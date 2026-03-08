@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mathematics Limits Assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's understanding of various mathematical concepts. The assessment is used to gauge their confidence level in different areas of mathematics, such as calculus, geometry, algebra, and trigonometry.

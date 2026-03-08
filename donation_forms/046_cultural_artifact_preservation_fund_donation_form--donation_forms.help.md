@@ -1,13 +1,3 @@
-<thinking>
-
-The cultural artifact preservation fund donation form is designed to collect donations from individuals or organizations to support the preservation of cultural artifacts. The form is intended to capture relevant information from donors to facilitate the processing and administration of their donations.
-
-The main purpose of this form is to allow donors to provide their contact information, payment details, and specific information about their donation, such as the amount, payment method, and frequency of giving. This form is not designed to process recurring donations automatically, but rather to collect information that can be manually processed by administrators.
-
-This form should only be used for donations, not for other types of financial transactions or administrative tasks.
-
-</thinking>
-
 # cultural_artifact_preservation_fund_donation_form - Help Guide
 ## Purpose
 The form is designed to collect donations from individuals or organizations for the preservation of cultural artifacts.

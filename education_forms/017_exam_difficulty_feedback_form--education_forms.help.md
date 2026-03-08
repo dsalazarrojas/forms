@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exam Difficulty Feedback Form - Help Guide
 ## Purpose
 The "Exam Difficulty Feedback Form" is used to collect information about the difficulty level of an exam. This form is designed to help instructors understand how challenging their exams are for students and identify areas for improvement. It's essential to provide honest and detailed feedback to help shape future exam questions and improve student outcomes.

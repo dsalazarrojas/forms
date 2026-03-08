@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is for individuals to apply for the Creative Curriculum Development Fellowship, which is a program that supports and encourages creative projects and initiatives in education. This form gathers information about the applicant, their project, and other relevant details to evaluate their eligibility and suitability for the fellowship. Before proceeding, please ensure you have reviewed the fellowship program's terms and conditions and are eligible to apply.
-
-</thinking>
-
 # creative_curriculum_development_fellowship_application_form - Help Guide
 ## Purpose
 The Creative Curriculum Development Fellowship Application Form is for prospective fellows to apply for the program. Please note that each field is optional, unless otherwise stated, and you may choose to complete them all or partially.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to book educational sessions for a user's account. The form should only be completed when a user wants to schedule a new session. Please ensure that you are not duplicating an existing session.
-</thinking>
-
 # Education Session Booking Form - Help Guide
 ## Purpose
 The Education Session Booking Form is a tool for users to schedule new sessions for their account. It is used to book sessions at a specific time and date.

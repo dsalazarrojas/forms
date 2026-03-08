@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the analysis of Feudalism and Empires. The form's purpose is to collect data from users on their thoughts on the relationship between Feudalism and Empires, specifically the impact of these empires on their respective societies. The form will be used to gather insights on how these empires affected the political, economic, and social structures of the time.
-</thinking>
-
 # Feudalism And Empire Analysis - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the analysis of Feudalism and Empires. This form is designed to gather insights on how empires affected the political, economic, and social structures of the time.

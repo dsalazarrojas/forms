@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about podcast content. It is intended to help podcasters create engaging and relevant content. This form will be used by internal teams to review and approve content before it is published. The information collected will be used to improve the overall quality and consistency of podcast content. Please ensure that you are filling out the form only once for each unique podcast episode. Please do not duplicate efforts.
-</thinking>
-
 # Podcast Questionnaire - Help Guide
 ## Purpose
 This form is designed to help podcasters create engaging and relevant content for their podcast episodes. It will be used by internal teams to review and approve content before it is published.

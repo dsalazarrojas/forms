@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Student Innovation Project Evaluation Form" is to evaluate student projects, providing a structured way to assess their progress, feasibility, and effectiveness. This form helps to identify strengths, weaknesses, and areas for improvement, ultimately guiding project refinements and future endeavors. It's essential to fill out this form accurately and comprehensively to ensure that students receive a fair and meaningful evaluation.
 
 # Student Innovation Project Evaluation Form - Help Guide

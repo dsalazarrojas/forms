@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Support Form - Help Guide
 ## Purpose
 This form is designed to help our charity understand your support and preferences for donations. By providing the necessary information, you'll be able to contribute to our cause and stay updated on our activities.

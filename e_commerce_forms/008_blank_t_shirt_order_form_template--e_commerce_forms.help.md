@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to create a custom T-shirt order. The form is divided into two pages: the first page contains the customer's details, and the second page contains the order details. This form should only be used for ordering custom T-shirts. 
-The form is designed to gather the following information: customer name, email, phone number, shipping address, T-shirt style, size, quantity, material type, design option, print location, special requests, preferred delivery timeframe, estimated total price, payment method, and order date. The form is required for customers to provide accurate and complete information to ensure proper order fulfillment. Customers should not use this form for any other purpose than ordering a custom T-shirt. 
-Please review the form fields below to understand what information is required and how to complete each field accurately. 
-</thinking>
-
 # Blank T Shirt Order Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for customers to order custom T-shirts.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to help schools and institutions apply to the Critical Thinking Curriculum Project. It captures essential information about the project application. Ensure that you have all the necessary information before completing the form, as it is intended for new projects only and is not suitable for existing ones. Please note that the form should only be filled out once per project, and any subsequent submissions will be disregarded.</thinking>
-
 # critical_thinking_curriculum_project_application_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your school's or institution's project application for the Critical Thinking Curriculum Project.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for an outdoor education camp. To ensure that you are registering for the correct purpose, please note that this form is not applicable for non-educational or recreational activities. The form is also not designed for repeat registrations, so please ensure you have not already registered for this camp before filling out this form. If you have any questions or concerns, please do not hesitate to contact the camp administrators.
-</thinking>
-
 # outdoor_education_camp_registration_form - Help Guide
 ## Purpose
 This form is designed to gather information for registration to an outdoor education camp. You will be asked to provide personal, guardian, and camper information, as well as emergency contact and medical information. You will also be able to select activities you are interested in participating in and choose a date for your activity. Finally, you will be required to provide payment information to secure your spot.

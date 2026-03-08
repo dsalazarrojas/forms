@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is designed to gather information for referrals for advanced courses, likely for academic or professional purposes. The form is intended to be completed by a referrer (e.g., instructor, manager, or academic advisor) who wants to recommend a candidate for an advanced course. The form should not be used for other purposes or by unauthorized individuals. To ensure that the form is filled out correctly and efficiently, it's essential to check that you are a legitimate referrer and that the candidate is a real person. Please avoid filling out the form multiple times for the same candidate or referrer, as this may lead to data duplication and inconsistencies.
-</thinking>
-
 # Advanced Course Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information from referers to recommend candidates for advanced courses. The completed form will be used to support the candidate's enrollment in the course.

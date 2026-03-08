@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Crew COVID 19 Health Declaration Form - Help Guide
 ## Purpose
 This form is designed for film crew members to declare their health status and provide information about their travel history, medical conditions, and potential exposure to COVID-19. This form helps the production team to assess potential risks and take necessary precautions to ensure a safe working environment.

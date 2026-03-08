@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining a Courier Service Driver Agreement from a driver. It is likely used for a company that provides courier services and needs to get a agreement from each driver working with them. This form may be used by managers or HR personnel in the company to get the necessary information from drivers and to obtain their signature on the agreement. This form might be part of a larger process for onboarding drivers or for updating their information. 
-</thinking>
-
 # Courier Service Driver Agreement - Help Guide
 ## Purpose
 The Courier Service Driver Agreement form is used to collect information from drivers and get their agreement to work with the company. It is a mandatory step in the onboarding process for new drivers.

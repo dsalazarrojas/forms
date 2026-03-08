@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or organizations making a donation to support rare disease research. The fields are designed to gather relevant details about the donor, including contact information, donation details, and disease-specific information. This form will help the research organization understand the donor's intentions and facilitate their research efforts.
-
-To complete this form, please ensure that you have all the necessary information before filling out the form. Some fields are required, indicated by an asterisk (*) next to the label, while others are optional. If you are unsure about any field, you can seek guidance from a research representative.
-
-</thinking>
-
 # Rare Disease Research Donation Form - Help Guide
 
 ## Purpose

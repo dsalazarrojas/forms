@@ -1,15 +1,3 @@
-<thinking>Let's break down the purpose and requirements of the form to ensure we're creating a useful and user-friendly guide.
-
-The form is a Physics Formula Calculator, used to calculate various physical properties related to sound, gravity, and motion. This form likely serves as a tool for students, educators, or professionals in the physics field to quickly and efficiently calculate these properties using mathematical formulas.
-
-To validate our design, we'll consider the following:
-
-- The form has five fields, each representing a different physical property.
-- All fields are optional, suggesting that users can choose which calculations to perform.
-- The fields are primarily numeric, indicating a focus on numerical calculations.
-
-We'll use this information to create a concise and practical help guide for the end-user.</thinking>
-
 # Physics Formula Calculator - Help Guide
 ## Purpose
 The Physics Formula Calculator is a tool used to calculate physical properties related to sound, gravity, and motion. This form allows users to input relevant values and obtain the corresponding results.

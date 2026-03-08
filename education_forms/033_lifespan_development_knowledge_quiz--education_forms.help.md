@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifespan Development Knowledge Quiz - Help Guide
 
 ## Purpose

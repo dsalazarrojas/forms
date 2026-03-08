@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for parents or guardians to register their child for a back-to-school event, such as a picnic or orientation day. The form collects information on the student's grade level, events they will attend, total number of family members attending, interest in volunteering, any dietary requirements, and contact information for updates. This will help the event organizers prepare for the event and communicate with attendees effectively.
-</thinking>
-
 # Back To School Event Registration Form - Help Guide
 ## Purpose
 This form is used to register students and their families for back-to-school events such as New Student Orientation, School Supply Drop-off, Meet the Teacher Night, Back-to-School Picnic, and Parent-Teacher Association (PTA) Meeting.

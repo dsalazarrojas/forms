@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information for donation purposes from users. The form is used to gather details about the donation, such as the type of donation, the frequency, and the purpose of the donation. The form is intended for use by organizations that want to collect donations from their website or other digital platforms. 
-
-When completing this form, please ensure that you are only submitting the form for the purpose of making a genuine donation and not for testing or other non-donation-related activities. If you are not sure about the form's purpose or any specific field, please do not hesitate to contact the support team for clarification.
-
-This form will not be shared or used for any other purpose than for the intended donation collection. All data collected from this form will be kept confidential and in line with the organization's data protection policies.
-
-Before starting the form, please make sure you have all the required information ready, as some fields are required for successful submission. 
-
-Please note that the form is split into several pages, each with its own set of fields. You will need to navigate through the pages to complete the entire form.
-
-The form is designed to be user-friendly and should take around 2-3 minutes to complete. If you have any issues or questions, please do not hesitate to contact the support team for assistance.
-
-</thinking>
-
 # learning-tools-donation-form - Help Guide
 ## Purpose
 This form is designed to collect information for donations to support education startups. It is intended for individuals who want to make a donation to support these startups.

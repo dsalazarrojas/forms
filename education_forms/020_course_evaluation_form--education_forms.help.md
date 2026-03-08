@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from students about their experience in a particular course. The purpose of this form is to gather information about the course's strengths and weaknesses, allowing instructors to make improvements for future semesters. This form should only be filled out by students who have taken the course, so it's assumed that the student has a personal experience with the course.
-</thinking>
-
 # Course Evaluation Form - Help Guide
 ## Purpose
 The Course Evaluation Form is designed to collect feedback from students about their experience in a particular course.

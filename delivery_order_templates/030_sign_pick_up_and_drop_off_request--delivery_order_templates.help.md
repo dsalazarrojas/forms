@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sign Pick Up And Drop Off Request - Help Guide
 ## Purpose
 This form is used to request a sign for pick up and drop off locations. It captures information about the type of sign needed, the locations to be visited, and contact details for delivery and communication.

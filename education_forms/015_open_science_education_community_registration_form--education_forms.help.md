@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # open_science_education_community_registration_form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for creating science lesson plans. The purpose of this form is to guide teachers and educators in organizing and structuring their lesson plans for effective science instruction. This form will help them outline the objectives, materials, and assessments for their lessons, allowing for a clear and comprehensive approach to teaching science. Before proceeding, ensure that the form is being used for a specific purpose and that the information collected is relevant to that context.
-
-</thinking>
-
 # science_lesson_plan_form - Help Guide
 ## Purpose
 The science_lesson_plan_form is a tool designed to assist teachers and educators in creating well-structured science lesson plans. It helps gather essential information about lesson objectives, materials, and assessments to ensure a comprehensive and engaging educational experience.

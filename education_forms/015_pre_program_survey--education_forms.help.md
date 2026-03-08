@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' interest in various programs, their educational background, and contact information. The goal is to create a comprehensive profile of the user for further communication and outreach. Please make sure you only fill out this form once. If you're not sure about any of the fields, please provide the best answer you can.
-</thinking>
-
 # Pre Program Survey - Help Guide
 ## Purpose
 The Pre Program Survey is designed to collect information about users' interest in various programs, educational background, and contact information. This will help us better understand your needs and preferences and provide you with the most relevant information and resources.

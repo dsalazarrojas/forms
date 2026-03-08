@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect information about faculty members participating in a workshop or exchange, ensuring their reflection is documented accurately and efficiently. This form will help administrators gather the necessary details to process the reflection journals submitted by the faculty members. The form is designed to be completed by faculty members themselves, and it is crucial that the information provided is accurate and up-to-date. This guide will walk you through each field and how to complete it correctly, ensuring a smooth and accurate process.</thinking>
-
 # faculty_reflection_journal_exchange_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information about faculty members participating in a workshop or exchange, ensuring accurate and efficient processing of their reflection journals.

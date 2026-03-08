@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect essential information from participants for the Budget Conference, ensuring they can be properly registered and accommodated during the event. It's crucial that each field is filled in accurately to avoid any inconvenience or confusion. Please make sure to fill in all required fields and double-check your information before submission. If you're unsure about any field, refer to the provided hints or contact the conference organizers for assistance.</thinking>
-
 # Budget Conference Entry Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm and register participants for the Budget Conference. It gathers relevant information such as participant details, conference specifics, and additional requirements.

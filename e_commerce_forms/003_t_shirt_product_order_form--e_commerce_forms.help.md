@@ -1,8 +1,3 @@
-<thinking>
-To create a helpful and user-friendly documentation for the T Shirt Product Order Form, we must consider the internal reasoning behind this form's purpose. This form is likely used for customers or users to provide information about their T-shirt orders, such as order status, preferences, and details about the products being ordered. The form's purpose is to capture relevant information that can be used to track and manage customer orders efficiently. It's also essential to ensure that we don't create a duplicate form, so we might want to consider integrating this form with existing order management systems or using a different name to prevent conflicts.
-
-</thinking>
-
 # T Shirt Product Order Form - Help Guide
 ## Purpose
 The T Shirt Product Order Form is designed to capture information about T-shirt orders from customers. This form helps track and manage customer orders efficiently.

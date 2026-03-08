@@ -1,7 +1,3 @@
-<thinking>
-The Project Intake Form is a crucial tool for capturing essential project information. The form is designed to gather data about a project, including its name, description, estimated budget, start and end dates, status, project manager, department, and location. To ensure accurate and efficient project data collection, it is essential to complete this form correctly.
-</thinking>
-
 # Project Intake Form - Help Guide
 ## Purpose
 The Project Intake Form is used to collect information about a project, including its name, description, budget, timeline, status, personnel, and location.

@@ -1,6 +1,3 @@
-<thinking>
-This form is likely to be used by students or educators to track and display information about study skills, credits earned, and progress in a course or program. The purpose of the form is to provide a clear and concise way to input and view data about study skills, credits, and percentages earned or applied. It's likely used in an educational setting, possibly as part of a broader student information system or learning management system. To avoid duplication, it's recommended that users fill in the form carefully, ensuring that each field is accurately and consistently filled out. The form's layout seems to mirror the structure of a student's progress report or grade book, making it easier for users to follow and fill out.</thinking>
-
 # study_skills_credit_2 - Help Guide
 ## Purpose
 The study skills credit 2 form is used to track and display information about study skills, credits earned, and progress in a course or program.

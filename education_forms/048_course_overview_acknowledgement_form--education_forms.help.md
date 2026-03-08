@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students and parents about a course, ensuring that all necessary details are captured accurately. This form is likely to be used in educational settings to gather data about courses, students, and instructors. It's essential to fill out this form completely and honestly to ensure the accuracy of the data. Before starting, review the form carefully to prevent any duplicate submissions. Please note that this form is not affiliated with or endorsed by any specific form platform and is an original adaptation created using AI.
-</thinking>
-
 # Course Overview Acknowledgement Form - Help Guide
 ## Purpose
 This form is designed to gather information from students and parents about a course, ensuring that all necessary details are captured accurately. It is used in educational settings to collect data about courses, students, and instructors.

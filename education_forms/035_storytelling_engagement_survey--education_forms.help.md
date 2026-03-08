@@ -1,5 +1,3 @@
-<thinking>Before designing the user-facing help guide, I'd like to clarify some points about the form and its purpose. The form is designed to collect engagement data from users on a specific project. The fields are divided into several categories: user interaction with the storytelling format, demographics, and submitter information.</thinking>
-
 # Storytelling Engagement Survey - Help Guide
 ## Purpose
 The Storytelling Engagement Survey is designed to gather information about your experiences and interactions with the storytelling format. This data will help us better understand how to improve the format and make it more engaging for everyone.

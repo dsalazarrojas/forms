@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Masoretic Studies Registration - Help Guide
 
 ## Purpose

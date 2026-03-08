@@ -1,8 +1,3 @@
-<thinking>... internal reasoning block to determine the form's purpose and non-duplication...
-The Driver Feedback Form is used to collect feedback from passengers about their experience with a driver. This form likely aims to improve the quality of service provided by drivers, helping the company to identify areas of improvement. The form is designed to be completed by passengers, who can provide their ratings and comments about the driver's professionalism, communication skills, timekeeping, service quality, and overall experience.
-Given the fields present in the form, it appears that the form is meant to be a comprehensive evaluation tool, allowing passengers to rate various aspects of the driver's performance. Non-duplication of similar forms is not a concern here, as the form appears to be designed to collect specific and distinct information.
-</thinking>
-
 # Driver Feedback Form - Help Guide
 
 ## Purpose

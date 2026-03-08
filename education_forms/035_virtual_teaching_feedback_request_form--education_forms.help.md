@@ -1,10 +1,3 @@
-<thinking>
-We want to ensure that the user understands the purpose and context of the form, so here's the internal reasoning block:
-
-This form is used to collect feedback from users regarding virtual teaching experiences. The form is intended to gather information on user's preferences, comments, and ratings. The fields are designed to be self-explanatory, but to ensure clarity, we'll go through each field below.
-
-</thinking>
-
 # Virtual Teaching Feedback Request Form - Help Guide
 ## Purpose
 This form is used to gather feedback from users regarding their virtual teaching experiences. Your input will help us improve our services and provide better support for future virtual classes.

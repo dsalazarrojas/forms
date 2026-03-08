@@ -1,7 +1,3 @@
-<thinking>
-The form "Digital Notebook Submission" is used for submitting digital notebook-related information. This form is used to capture details such as student information, assignment information, teacher information, and submission dates and times. The form is composed of multiple pages, each containing various fields that are filled out by the user. The purpose of this form is to provide a convenient and standardized way of submitting digital notebook information, ensuring that all necessary details are captured in a clear and consistent manner. This form is intended for internal use, and the information collected will be used for administrative purposes. It is essential that the user fills out the form accurately and completely to ensure that the information is recorded correctly.
-</thinking>
-
 # Digital Notebook Submission - Help Guide
 ## Purpose
 This form is used for submitting digital notebook-related information for administrative purposes.

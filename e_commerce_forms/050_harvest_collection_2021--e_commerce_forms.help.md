@@ -1,10 +1,3 @@
-<thinking>
-The form "harvest collection 2021" is designed to collect information from users for the purpose of organizing and tracking the collection of data for a specific project or campaign. This form is intended for users to provide their contact information and schedule preferences. The form should only be filled out by those who are actually interested in participating in the harvest collection 2021 project.
-
-To avoid duplication, users are not allowed to submit the form multiple times. The form is designed to be completed once by each participant.
-
-</thinking>
-
 # Harvest Collection 2021 - Help Guide
 ## Purpose
 The form is used to collect contact information and schedule preferences from users for the purpose of organizing and tracking the collection of data for the "harvest collection 2021" project.

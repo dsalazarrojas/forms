@@ -1,7 +1,3 @@
-<thinking>
-The Workshop Event Registration Form is a critical part of the event management process. It helps ensure that all necessary information is collected correctly and efficiently, reducing potential errors and increasing the accuracy of the event data. Before proceeding, please note that this form should be filled out only for new events. If an event has already been registered, please do not use this form to re-register.
-</thinking>
-
 # Workshop Event Registration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants applying to the Curriculum Equity Review Board. The board is responsible for reviewing and making decisions on curriculum-related matters, and this form helps in gathering relevant details from applicants. This form should only be used for legitimate purposes and not for spamming or any other malicious activities. The form has multiple fields to collect personal and professional information from the applicants. It's essential to fill out this form accurately and truthfully to ensure that the application process is smooth and efficient.
-</thinking>
-
 # Curriculum Equity Review Board Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants applying to the Curriculum Equity Review Board for review and decision-making purposes.

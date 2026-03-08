@@ -1,25 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Application For Emergency Aid" form, I will follow the provided instructions and structure the guide according to the specified format.
-
-The purpose of this form is to aid students in requesting emergency assistance from the university or college. This form is used to collect information about the student's emergency situation, including their name, contact information, emergency type, description of the emergency, and amount requested. The form is designed to be completed by students to provide a clear and concise overview of their emergency situation, allowing the university or college to review and provide assistance as needed.
-
-The form has several fields that require student information to determine the appropriate level of aid. The fields include:
-
-*   Student name (required)
-*   University or college ID number (required)
-*   Student contact email (required)
-*   Type of emergency (required)
-*   Description of emergency (required)
-*   Amount requested (required)
-*   Preferred contact method (optional)
-*   Study status (required)
-*   Additional notes (optional)
-
-This form is intended to be completed by students who are experiencing a personal emergency and need financial assistance. The university or college will review the completed form to assess the level of aid required and provide assistance as necessary.
-
-</thinking>
-
 # Application For Emergency Aid - Help Guide
 ## Purpose
 The purpose of this form is to help students in requesting emergency assistance from the university or college. This form is used to collect information about the student's emergency situation, allowing the university or college to review and provide aid as needed.

@@ -1,9 +1,3 @@
-<thinking>
-This form is a scholarship program application form. The purpose of the form is to collect personal and contact information from applicants. The form also includes fields for education details, program information, scholarship details, and document upload. This form is designed to gather relevant information from applicants in a structured and concise manner. The required fields are not specified, suggesting that most or all fields may be optional. Please ensure that the form is reviewed carefully to understand its purpose and usage clearly.
-
-To confirm, the fields are: personal information, contact information, education details, program information, scholarship information, document upload, and additional document upload. The form's structure is simple and easy to follow. Please use this guide to complete the form accurately and thoroughly.
-</thinking>
-
 # scholarship_program_application_form - Help Guide
 ## Purpose
 The scholarship program application form is designed to collect personal and contact information from applicants, as well as details about their education, program, and scholarship. This form is meant to gather relevant information to support the application process.

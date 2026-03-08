@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for prospective families to express their interest in exploring a school for their child. The form will help the school to understand the family's preferences, contact information, and schedule for a visit or call. This will allow the school to tailor their communication and follow-up processes according to the family's needs and schedule. 
-
-This form is intended to be completed by one family member per family. 
-
-Please ensure that the form is filled out accurately and completely, as this will help the school to respond accordingly. If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # School Exploration Inquiry Form - Help Guide
 
 ## Purpose

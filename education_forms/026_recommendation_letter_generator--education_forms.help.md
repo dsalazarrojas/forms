@@ -1,11 +1,3 @@
-<thinking>
-
-This form seems to be designed to generate a recommendation letter. I assume that the form is intended for use by educators, HR representatives, or other authorized individuals to write a letter of recommendation for a former student, employee, or colleague. The form's purpose is to gather necessary information to create a comprehensive and well-structured letter that highlights the individual's qualifications, skills, and accomplishments.
-
-To ensure data accuracy and consistency, it's essential to review each field carefully. I will provide a detailed explanation for each field in the next section, "Field-by-Field Explanation", after this internal reasoning block. 
-
-</thinking>
-
 # recommendation-letter-generator - Help Guide
 ## Purpose
 This form is designed to help authorized individuals write a recommendation letter for a former student, employee, or colleague. The letter provides an opportunity to showcase an individual's qualifications, skills, and accomplishments, helping them stand out in their profession or academic pursuits.

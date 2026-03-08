@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is designed to assist users in completing the "Dance Audition Form Template" efficiently. The form is intended to gather information from dancers interested in auditioning for dance performances, rehearsals, or other events. This guide will walk users through the form's purpose, completion process, and an explanation of each field to ensure a smooth and informed submission experience.
-
-</thinking>
-
 # Dance Audition Form Template - Help Guide
 ## Purpose
 The Dance Audition Form Template is designed to gather essential information from dancers interested in auditioning for various dance performances, rehearsals, or events. It helps event organizers and dance instructors understand the dancer's background, experience, and availability, making it easier to schedule auditions and assign roles.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information about educational workshop partners, which are organizations that collaborate with the platform to provide educational content and services. The form aims to collect data on the partner's type, contact details, partner status, comments, and ratings. 
-
-The form is used to:
-
-- Record partner information in the database for future reference and updates
-- Monitor and track partner performance and ratings
-- Identify areas for improvement and opportunities for growth
-
-To avoid duplication, please ensure that you're not creating a new form for an existing partner. Check the partner's profile before filling out this form.
-
-</thinking>
-
 # Educational Workshop Partner Interview Form - Help Guide
 ## Purpose
 This form is used to collect information about educational workshop partners and gather feedback on their performance.

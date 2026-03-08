@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather consent from students for the use of Artificial Intelligence (AI) tools in reviewing their assignments. The purpose of this form is to ensure that students understand and agree to the use of AI tools in the evaluation process, which may include formatting, structural analysis, and initial feedback generation. This form is a requirement for the instructor to fulfill their responsibility of ensuring that students' data is handled according to the institution's privacy policy and that AI feedback is supplementary to human faculty decisions.
-
-</thinking>
-
 # AI Generated Assignment Review Consent Form - Help Guide
 ## Purpose
 The AI Generated Assignment Review Consent Form is a required document that ensures students understand and agree to the use of Artificial Intelligence tools in reviewing their assignments. This form is essential for the instructor to gather consent while maintaining the institution's commitment to student data privacy.

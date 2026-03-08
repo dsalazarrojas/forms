@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their knowledge of sympathomimetic pharmacology. Sympathomimetic pharmacology refers to the branch of pharmacology that deals with the study of compounds that mimic or enhance the action of natural sympatholytic compounds, which are substances that inhibit the action of neurotransmitters in the sympathetic nervous system. This form is intended to gauge the user's understanding of the key concepts and principles of sympathomimetic pharmacology. The form consists of 25 questions that cover various aspects of the subject, including the definition, mechanisms of action, and clinical applications of sympathomimetic compounds. The form is meant to assess the user's knowledge in this area and provide feedback on their understanding.
-</thinking>
-
 # Sympathomimetic Pharmacology Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from users about their knowledge of sympathomimetic pharmacology.

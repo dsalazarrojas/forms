@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a waiver from participants in dance activities, particularly those that may involve physical risks. The primary objective is to ensure that all participants are aware of the potential hazards and have provided consent to participate. This form is typically used for events or programs where participants may be engaging in activities such as dance performances, rehearsals, or other events where physical injuries may occur. This form is not intended for general use and should only be used for dance-related activities. Please ensure that you are using the correct form for your specific needs.
-</thinking>
-
 # Dance Performance Waiver Form - Help Guide
 
 ## Purpose

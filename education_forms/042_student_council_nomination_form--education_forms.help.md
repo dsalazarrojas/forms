@@ -1,9 +1,3 @@
-<thinking>
-This form is part of a process for nominating students for positions in the student council. The purpose of this form is to allow students, teachers, or faculty members to suggest a student for a position in the student council. The form helps to gather information about the student and their reason for nomination, which is then reviewed by the council.
-
-To complete this form correctly, start by filling out all the required fields and providing the necessary information. This form has 7 fields in total.
-</thinking>
-
 # Student Council Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate students for positions in the student council. It requires information about the nominee, their position, and other relevant details.

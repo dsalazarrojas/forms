@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from drivers to facilitate the onboarding process for them to access the platform. The form should only be used for this purpose and not for any other use case. The form is designed to be completed by the driver, and the information collected will be used to verify the driver's identity and credentials. Please make sure to provide accurate information to avoid any issues during the onboarding process.
-
-</thinking>
-
 # driver_sign_up_form_template - Help Guide
 ## Purpose
 The driver_sign_up_form_template is a form designed to collect information from drivers to facilitate the onboarding process for them to access the platform.

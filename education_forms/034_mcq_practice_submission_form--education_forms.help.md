@@ -1,7 +1,3 @@
-<thinking>... This form is designed for students to submit their practice answers for multiple choice questions (MCQs) in a course. The form will collect student-practice-answer, course, section, student, date, and practice question details. This form is used for internal purposes to track student progress and practice question submissions. To complete this form, only enter your practice answer, course, section, student, and submission date details. You do not need to enter all fields, but it is required to fill out the fields marked as required. 
-
-</thinking>
-
 # mcq_practice_submission_form - Help Guide
 ## Purpose
 The mcq_practice_submission_form is designed to collect student-practice-answer details for multiple choice questions in a course.

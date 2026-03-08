@@ -1,5 +1,3 @@
-<thinking>...This form is designed for assessing an individual's Recognition of Prior Learning (RPL) status, which is a process used to acknowledge and credit individuals for skills and knowledge gained through prior learning experiences, such as work experience, education, or training. This form helps assessors evaluate the relevance and validity of these experiences in relation to the required standards and competencies for a particular qualification or certification. The form ensures that the assessment process is fair, transparent, and free from bias. Before starting the assessment, ensure that the individual's prior learning experience is not already recognized or assessed through other means, as this would render the process redundant.</thinking>
-
 # Recognition Of Prior Learning (RPL) Assessment Form - Help Guide
 ## Purpose
 The Recognition of Prior Learning (RPL) Assessment Form is used to evaluate an individual's prior learning experiences and determine their relevance to a particular qualification or certification. It helps assessors make an informed decision on whether to grant recognition for the skills and knowledge gained through these experiences.

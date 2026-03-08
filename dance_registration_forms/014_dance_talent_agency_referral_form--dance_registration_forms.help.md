@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the "Dance Talent Agency Referral Form". This form is designed to collect information from dance agencies and studios to refer talented dancers to potential clients or partners. To ensure the guide is clear and concise, I will follow the provided YAML structure and provide a step-by-step explanation of each field. The guide will cover the form's purpose, how to complete it, and a detailed explanation of each field.</thinking>
-
 # Dance Talent Agency Referral Form - Help Guide
 ## Purpose
 

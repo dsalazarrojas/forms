@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from writers who wish to collaborate with the organization on various writing projects. The form is used to collect personal details, project requirements, and other relevant information to match writers with suitable projects. The form will help the organization to understand the writer's qualifications, availability, and experience, making it easier to assign them to projects that fit their skills and needs.
-</thinking>
-
 # Writer Consultation Form - Help Guide
 ## Purpose
 The Writer Consultation Form is used to collect information from writers who wish to collaborate with the organization on writing projects. The form gathers personal details, project requirements, and other relevant information to match writers with suitable projects.

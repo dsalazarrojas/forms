@@ -1,16 +1,3 @@
-<thinking>
-We will assume that the form is used for parents to enroll their children in a winter camp program. The form requires the parent's and student's information, including dates of birth and camp participation details. We will not expect any specific business logic for this form.
-
-We will also assume that the form is being filled by parents, and they might be using a desktop or a mobile device to fill it. This will help us to write a more user-friendly help guide.
-
-We will not duplicate any information already mentioned in other fields. For example, we will not explain that "phone" is a phone number field, as it is self-explanatory.
-
-We will use a simple and clear language to write the help guide, avoiding any technical jargon.
-
-Let's start writing the help guide.
-
-</thinking>
-
 # Winter Camp Enrollment Form - Help Guide
 ## Purpose
 This form is for parents to enroll their children in a winter camp program. Please fill in the required information to register your child.

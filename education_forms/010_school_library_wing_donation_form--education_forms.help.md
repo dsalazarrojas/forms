@@ -1,12 +1,3 @@
-<thinking> 
-This form is part of the education module, and its purpose is to collect information about school library wing donations. The form is used to gather details about the donor, school, and project being funded. The form is designed to be completed by school administrators or librarians when a donation is received for a specific project or school library wing. 
-
-To determine relevance, this form should only be used for school library wing donations. If you are not authorized to complete this form, please contact your supervisor or IT department to check if you have the correct permissions. 
-
-To prevent duplication of efforts, please make sure to check if a similar form has already been completed for the same project or school. If so, you can refer to the existing form for more information. 
-
-</thinking>
-
 # school_library_wing_donation_form - Help Guide
 ## Purpose
 The school library wing donation form is used to collect information about school library wing donations. This form is used by school administrators or librarians to document and track donations received for a specific school project or library wing.

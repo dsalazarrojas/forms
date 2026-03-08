@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a knowledge quiz for assay development, a process in scientific research and development where a sample is tested to analyze its properties or behavior. The purpose of this form is to assess the knowledge and expertise of individuals, particularly researchers or laboratory personnel, in the areas of assay development, validation, and troubleshooting. This quiz aims to gauge the respondent's understanding of key concepts related to assay development, including the importance of accuracy and precision, signal to noise ratio, LLOQ, statistical parameters, and self-assessment of expertise. This form is likely used to evaluate the level of proficiency of personnel in a laboratory setting.
-
-</thinking>
-
 # Assay Development Knowledge Quiz - Help Guide
 ## Purpose
 This quiz is designed to evaluate your knowledge and expertise in assay development, focusing on concepts such as accuracy and precision, signal to noise ratio, LLOQ, statistical parameters, and self-assessment of expertise.

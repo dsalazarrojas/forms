@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a nursing program. It is intended for students or program administrators to declare their participation in a nursing program. The form is likely to be used in an academic or educational setting, possibly for registration, certification, or other purposes related to nursing education. The form appears to be a general information-gathering form, not a specific application or submission form.
-
-This form is likely not to be used in high-security or sensitive contexts, as many fields are optional and do not require passwords or confidential information. This assumption is based on the fields' types, labels, and required properties in the provided YAML structure.</thinking>
-
 # Nursing Program Declaration Form - Help Guide
 ## Purpose
 This form is used to declare a nursing program. It collects information about the program, including its name, start and end dates, location, type, and other relevant details.

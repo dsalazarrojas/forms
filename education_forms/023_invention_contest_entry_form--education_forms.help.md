@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for individuals who want to submit an entry for the Invention Contest. The form is used to collect basic contact information and the details of the invention being submitted, which will then be reviewed and potentially showcased in a competition.
-
-To prevent duplicate submissions and ensure the competition remains fair, the form will not allow entries from previously registered individuals. Before proceeding, make sure to have the necessary information ready and fill out the form carefully, as it is essential for your invention's chances of being showcased.
-
-</thinking>
-
 # Invention Contest Entry Form - Help Guide
 ## Purpose
 

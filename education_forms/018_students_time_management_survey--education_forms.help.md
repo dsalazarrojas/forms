@@ -1,12 +1,3 @@
-<thinking>
-The form "Students Time Management Survey" is designed to gather information from students about their study habits, time use, and daily and weekly activities. This form is meant to help us understand how students allocate their time and identify potential challenges or inefficiencies in their time management. By completing this survey, students can provide valuable insights that can inform our support and resources to better meet their needs.
-
-Please note that this form is a survey, so responses are anonymous and will not be linked to individual students. Your participation is voluntary and will not affect your grades or any other academic evaluation.
-
-This form is not a duplicate of any other survey or assessment, and your answers will be used to improve our services to support students' time management.
-
-</thinking>
-
 # Students Time Management Survey - Help Guide
 ## Purpose
 

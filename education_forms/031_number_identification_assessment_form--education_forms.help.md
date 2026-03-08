@@ -1,10 +1,3 @@
-<thinking>
-The "Number Identification Assessment Form" is a critical component of the educational process, designed to evaluate a student's understanding of numbers and their properties. This form collects various pieces of information, including user input, numerical ranges, and personal details. 
-
-Before proceeding, it's essential to confirm that this form is not meant to be completed multiple times for the same person, and that all fields are filled in accurately to ensure the integrity of the assessment results.
-
-</thinking>
-
 # Number Identification Assessment Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to educate users about the male reproductive system, covering various aspects of human anatomy, physiology, and health. Its purpose is to assess users' understanding of the male reproductive system through a series of questions and quizzes.
-The form is intended to be completed by individuals who want to improve their knowledge about the male reproductive system. It is not meant for medical professionals or individuals with prior extensive knowledge of the subject.
-</thinking>
-
 # Male Reproductive System Quiz - Help Guide
 ## Purpose
 The Male Reproductive System Quiz is designed to educate users about the male reproductive system, covering various aspects of human anatomy, physiology, and health.

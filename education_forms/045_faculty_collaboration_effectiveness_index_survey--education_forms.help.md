@@ -1,7 +1,3 @@
-<thinking>
-...This form is part of a faculty collaboration effectiveness index survey designed to gather information on a faculty member's collaboration experiences, satisfaction, and challenges. The purpose of this survey is to provide a framework for faculty members to reflect on their collaboration effectiveness, identify areas for improvement, and suggest ways to enhance collaboration. This form was created by an AI using public metadata from various online sources and is not affiliated with any form creation platforms. It can be freely used, modified, and distributed under the CC BY 4.0 license.
-</thinking>
-
 # Faculty Collaboration Effectiveness Index Survey - Help Guide
 ## Purpose
 The Faculty Collaboration Effectiveness Index Survey is a tool to help you assess your collaboration experiences, satisfaction, and challenges as a faculty member. This survey aims to gather information on your collaboration effectiveness, identify areas for improvement, and provide suggestions for enhancing collaboration.

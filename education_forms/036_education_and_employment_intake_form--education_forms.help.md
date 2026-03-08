@@ -1,11 +1,3 @@
-<thinking>
-This form, "Education And Employment Intake Form", is intended to collect information about an individual's educational and employment experiences. The form's purpose is to capture specific details about the user's education background and any previous employment history. This information will help the relevant entity to better understand the user's qualifications and experiences.
-
-To ensure that the form is not used inappropriately, please note that this form's content and structure are designed to provide a standardized set of questions that are commonly used to collect relevant details in the education and employment context.
-
-To use this form effectively, please ensure that you are using it for its intended purpose only and not duplicating or modifying it without proper authorization.
-</thinking>
-
 # Education And Employment Intake Form - Help Guide
 ## Purpose
 The "Education And Employment Intake Form" is designed to collect comprehensive information about an individual's educational and employment experiences. This form will help relevant entities to assess the user's qualifications and background.

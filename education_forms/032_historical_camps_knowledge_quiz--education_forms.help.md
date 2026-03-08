@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Historical Camps Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about historical camps. It consists of 20 questions about the history of camps, covering various aspects such as their name, date of appearance, type, purpose, and location.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to assess an individual's growth mindset, which is a concept in psychology that refers to an individual's ability to believe that their abilities can be developed through hard work and persistence, and that success is often the result of effort and learning from failures. A growth mindset is seen as a key factor in achieving personal and professional growth, as it allows individuals to be more resilient and adaptable in the face of challenges and setbacks.
-
-This form is designed to help users understand their own growth mindset by asking a series of questions that assess their beliefs and behaviors related to learning and development.
-
-Before starting the form, users should ensure that they are answering honestly and thoughtfully, as the results will be most accurate and helpful with accurate input.
-
-</thinking>
-
 # Growth Mindset Quiz - Help Guide
 ## Purpose
 This form is designed to assess your growth mindset, a set of beliefs about the ability to develop your abilities through effort and learning from failures.

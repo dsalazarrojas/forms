@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users interested in trying AI-generated pricing for their e-commerce business. The purpose of this form is to provide a trial opportunity for merchants to test AI-powered pricing capabilities, gather feedback, and potentially become a customer. The form is divided into several sections, each focusing on different aspects of the merchant's business and the trial experience.
-
-The form is created by AI, based on public survey topics, and is not affiliated with any form platform. It is released under a Creative Commons license, allowing anyone to use, modify, and share it for free.
-
-The form collects information about the merchant, their business, and the trial experience. It is intended to be user-friendly and efficient, making it easy for merchants to provide the required information.
-
-</thinking>
-
 # E Commerce AI Pricing Trial Registration - Help Guide
 ## Purpose
 This form is designed to collect information from merchants interested in trying AI-generated pricing for their e-commerce business.

@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to be a checklist for the EdTech implementation kickoff process, which is essential for ensuring that all necessary steps are taken before embarking on an EdTech project. This form will help stakeholders confirm their readiness and engagement in the project, identify key roles and responsibilities, and provide details on the project schedule, budget, and training plan. By using this form, project managers and team members can ensure that the project is properly set up for success and that all parties are on the same page.
-</thinking>
-
 # EdTech Implementation Kickoff Checklist - Help Guide
 ## Purpose
 The EdTech Implementation Kickoff Checklist is a comprehensive form designed to help ensure a smooth and successful EdTech project implementation. This guide will walk you through each step of the form to help you complete it accurately and efficiently.

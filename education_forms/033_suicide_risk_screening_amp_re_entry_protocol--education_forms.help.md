@@ -1,10 +1,3 @@
-<thinking>
-To begin with, let's clarify the purpose of this form: the "Suicide Risk Screening & Re Entry Protocol" form is designed to gather information about an individual's suicide risk and their re-entry protocol following a potential suicide risk incident. This form aims to standardize the collection of critical data to ensure the individual receives proper support and care.
-
-Before proceeding, please note that this form should not be completed for clients who are currently in immediate danger or distress. In such cases, please contact emergency services immediately.
-
-To determine if this form has been completed previously, please refer to the internal documentation for tracking purposes.</thinking>
-
 # Suicide Risk Screening & Re Entry Protocol - Help Guide
 ## Purpose
 

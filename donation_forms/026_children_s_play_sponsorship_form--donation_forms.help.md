@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from sponsors who would like to sponsor a play. The form is part of a larger process to manage sponsorship relationships and ensure that all necessary information is collected in a structured way. Before proceeding, please ensure that this form is not a duplicate and that you have all necessary authority to submit the information on behalf of the sponsor.
-</thinking>
-
 # Children's Play Sponsorship Form - Help Guide
 ## Purpose
 The Children's Play Sponsorship Form is used to collect information from sponsors who wish to support a play. This form helps the organization manage sponsorship relationships and ensures that all necessary information is collected in a structured way.

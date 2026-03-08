@@ -1,5 +1,3 @@
-<thinking>As we review the form design, let's consider the context of "My Goals By". This form seems to be intended for students or individuals to set and reflect on their academic goals, both short-term and long-term. The fields cover various aspects of goal-setting, including major and minor goals, obstacles, and contingency planning. It's possible that this form is meant for a teacher or advisor to help students establish a clear understanding of their objectives and provide guidance or support throughout the semester.</thinking>
-
 # My Goals By - Help Guide
 ## Purpose
 The "My Goals By" form is designed to help students set and reflect on their academic goals for the semester. It's a tool for students to establish a clear understanding of their objectives and provide a framework for planning and achieving their goals.

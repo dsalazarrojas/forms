@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the advisor's caseload, including their current advising experience, caseload size, and recommended ideal caseload size. This information will help in determining the best allocation of advisors for the students in the academic department. 
-
-</thinking>
-
 # Academic Advising Caseload Recommendation Form - Help Guide
 ## Purpose
 This form is designed to help the department determine the optimal advisor-to-student ratio for each advisor in the academic department. The goal is to ensure that each advisor has a manageable caseload that allows for effective advising and student support.

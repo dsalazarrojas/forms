@@ -1,9 +1,3 @@
-<thinking>
-The KA2 Adult Education form is designed to collect demographic information from adults seeking education opportunities. This form will likely be used in an educational or governmental institution setting to record and track adult education data. It might be used for research, data analysis, or other administrative purposes.
-It appears that the form includes a mix of basic user information (name, contact details), and more specific education-related fields such as adult education programs, institutions, and fields of study. The form also includes dates and status fields for tracking progress and completion.
-Please review the form design and ensure there are no duplicate fields or conflicting labels. Some labels may be unclear or ambiguous; however, we'll address those in the help guide.
-</thinking>
-
 # KA2 Adult Education - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Class Request Form", we should consider the form's purpose and how users can navigate it efficiently. The form seems to be designed to gather information from students to help them request classes and courses that fit their needs. It appears to cover various aspects of class requests, including student information, class details, prerequisites, motivation, and availability. 
-
-To ensure users understand the form's purpose and fill it out accurately, we should consider the following:
-
-*   Duplicate forms should be avoided to prevent overwhelming students with repetitive requests.
-*   Students should be informed about the importance of accurate and complete information provided.
-*   The form should be filled out carefully, ensuring all fields are filled in correctly.
-*   The user guide should explain each field's purpose and requirements clearly.
-
-With the above considerations, we can create a comprehensive user-facing help guide.
-</thinking>
-
 # Class Request Form - Help Guide
 ## Purpose
 

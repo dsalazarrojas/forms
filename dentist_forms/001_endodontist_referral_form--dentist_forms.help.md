@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from dentists for referrals to endodontists. The form's purpose is to gather relevant details about the patient, the dentist's office, and the referral process. This form is intended for use by dentists to provide information to endodontists in order to facilitate a smooth referral process.
-</thinking>
-
 # endodontist_referral_form - Help Guide
 ## Purpose
 The endodontist_referral_form is designed to collect information for referrals to endodontists from dentists. The form captures the necessary details about the patient and the referral process to ensure a smooth transition of care.

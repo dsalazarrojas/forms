@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the teacher's digital competency interview schedule and consent status. It's crucial to understand the purpose of the form to provide accurate and relevant information. The form collects details about the teacher's availability, consent status, and contact information. Ensure you have the necessary approval and clearance to access the teacher's personal data, if collecting it. 
-</thinking>
-
 # Teacher Digital Competency Interview Consent Form - Help Guide
 ## Purpose
 The Teacher Digital Competency Interview Consent Form is used to gather information about the teacher's digital competency interview schedule and consent status. This form helps ensure that the teacher is aware of and consents to the terms of service and schedule for the interview.

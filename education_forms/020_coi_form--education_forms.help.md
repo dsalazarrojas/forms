@@ -1,8 +1,3 @@
-<thinking>
-This form serves as a Conflict of Interest (COI) form for institutions and individuals to report their interests, positions, and conflicts of interest. The form is used to gather accurate and complete information to ensure the integrity and transparency of the institution's activities. 
-This guide helps users understand how to fill out the form accurately, and what each field represents.
-</thinking>
-
 # COI Form - Help Guide
 ## Purpose
 The COI form is used to collect information about your institutional responsibilities, interests, and potential conflicts of interest. It's essential to fill out this form accurately to ensure compliance with the institution's policies and regulations.

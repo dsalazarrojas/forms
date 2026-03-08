@@ -1,21 +1,3 @@
-<thinking> 
-This form is intended to collect information from teachers regarding their handover, which is a process of handing over or transferring responsibility or control of a task, project, or assignment from one person to another. This form is meant to gather key details and information to facilitate a smooth handover process. The fields in this form cover various aspects such as outstanding tasks, resources, class details, teacher and student information, and school details. It is essential to provide accurate and complete information in each field to ensure proper handover. To avoid confusion and errors, the form requires some fields to be completed with specific details. 
-
-Please note that the following fields are required:
-- Outstanding Tasks
-- Class Details
-- Teacher Info
-- Class Teacher
-- Email
-- Class Info
-- School Name
-- School Email
-- School Phone
-
-Please complete the form carefully and attentively to ensure the accurate handover of information.
-
-</thinking>
-
 # Teacher Handover Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from teachers to facilitate a smooth handover process. It gathers key details about outstanding tasks, resources, class details, and school information to ensure proper handover.

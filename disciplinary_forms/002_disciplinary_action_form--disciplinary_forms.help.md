@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will focus on creating a user-facing help guide for the "Disciplinary Action Form" that clearly explains its purpose, how to complete it, and what each field means. I will follow the provided YAML structure and provide a concise and practical explanation for each field.</thinking>
-
 # Disciplinary Action Form - Help Guide
 ## Purpose
 

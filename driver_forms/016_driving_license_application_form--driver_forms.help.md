@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from users for the purpose of applying for a driving license. To ensure that each form submission is a genuine request, the system should check for duplicate forms and only allow submissions from unique users. This means that users should not be able to submit the same form multiple times with the same or different information, and users will be prompted to re-submit if this is the case.
-
-The form will ask for a combination of demographic details and a unique identifier (email address or phone number) to facilitate the verification process. This guide will walk you through what each field means and how to complete it.
-</thinking>
-
 # Driving License Application Form - Help Guide
 ## Purpose
 The Driving License Application Form is used to collect information from applicants for the purpose of issuing a driving license. This form will ask for demographic details such as name, contact information, and a unique identifier (email address or phone number).

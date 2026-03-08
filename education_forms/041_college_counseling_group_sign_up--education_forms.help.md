@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from students who want to sign up for group counseling sessions. Before filling out this form, please make sure you haven't already signed up for group counseling by checking our internal records. If you're unsure about your current status or have questions about the form, contact your college counselor or contact person.
-</thinking>
-
 # College Counseling Group Sign Up - Help Guide
 ## Purpose
 This form collects information from students who want to sign up for group counseling sessions. The information will be used to determine which group would be the best fit for you and to ensure that you're ready to participate in the program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess communication between faculty and students at a college or university, with a focus on gathering information about students' perceptions of faculty communication. The survey aims to elicit students' opinions on how satisfied they are with the clarity of course expectations, their preferred means of communication, and the frequency of updates. It is intended for students to provide feedback on how faculty can improve communication. This form does not aim to replicate or replace any existing forms, but rather, serves as an original adaptation of the concept of surveying student feedback.
-</thinking>
-
 # Communication For College Students Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather insights from students on their experiences and expectations regarding faculty communication in college settings.

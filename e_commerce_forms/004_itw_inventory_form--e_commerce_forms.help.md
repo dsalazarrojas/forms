@@ -1,7 +1,3 @@
-<thinking>
-The ITW Inventory Form is designed to collect information about products within the inventory. This form is part of the ecommerce application and is intended to be filled out by staff members to update or add new product information. This guide will walk you through the form's purpose and how to complete it.
-</thinking>
-
 # ITW Inventory Form - Help Guide
 
 ## Purpose

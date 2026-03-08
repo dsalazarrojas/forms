@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the partnership between educational institutions and our organization. The form should only be filled out by authorized representatives of the institution. The purpose of this form is to obtain consent from the institution to collaborate on educational programs, share resources, and establish a mutually beneficial partnership. Please ensure that the person filling out this form is an authorized representative of the institution. Before submitting this form, please check that a similar request has not been made or is not in process. This will ensure that we avoid duplicating effort and ensure that our partnership efforts are organized.
-</thinking>
-
 # Educational Institution Partnership Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from educational institutions to collaborate on educational programs, share resources, and establish a partnership between our organization and the institution.

@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly to avoid duplication and misplacement. The purpose of this form is to collect data from users for course enrollment purposes, specifically for Specialized Aptitude Test (SAT) course enrollment. The form should only be used once a user has already expressed interest in taking the course. This will help us to avoid unnecessary enrollments and keep track of course capacity. Please use this form to accurately represent your interest in the course.</thinking>
-
 # sat-course-enrollment-form-template - Help Guide
 ## Purpose
 The sat-course-enrollment-form-template form is used to collect data from users for course enrollment purposes, specifically for the Specialized Aptitude Test (SAT) course.

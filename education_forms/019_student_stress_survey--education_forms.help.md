@@ -1,13 +1,3 @@
-<thinking>
-Form Purpose:
-The Student Stress Survey is designed to help assess the level of stress that students experience in various aspects of their lives. It will be used to identify areas where students feel stressed and provide insight into the sources of this stress.
-
-This form will help students provide information about themselves without feeling overwhelmed or exposed, while also giving us some insights into their well-being. Please ensure that all the questions are answered truthfully and accurately, as this will help us understand your needs better.
-
-Note: This form will not collect any personally identifiable information and is designed to be completed anonymously. If you have any concerns or questions, please reach out to us.
-
-</thinking>
-
 # Student Stress Survey - Help Guide
 ## Purpose
 The Student Stress Survey is a tool designed to help us understand the levels of stress that students experience in various aspects of their lives. By completing this form, you will help us identify areas where students feel stressed and provide insight into the sources of this stress.

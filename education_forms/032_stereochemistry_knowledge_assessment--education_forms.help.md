@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the knowledge of students in stereochemistry, a branch of chemistry that deals with the three-dimensional arrangement of atoms in molecules. The purpose of this form is to evaluate the understanding of students on various concepts related to stereochemistry, such as the shape of molecules, isomers, and other relevant topics.
-
-Before proceeding, please ensure that you are not duplicating this form, as it is a unique AI-generated adaptation of public survey topic metadata. Also, be aware that this form is not affiliated with, endorsed by, or derived from any form platform. If you are using this form for commercial purposes, please give credit to the form's creator and license it under CC BY 4.0.
-
-</thinking>
-
 # Stereochemistry Knowledge Assessment - Help Guide
 ## Purpose
 

@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of the form, I'll review the input fields: 
-- The form has fields related to personal information (user_input, education_level, gender, email, phone, birthdate, time), which suggests it might be for user registration or profile creation.
-- The form also has fields related to research and educational background (research_goal, research_area, research_question, education_background), which implies it might be for research purposes or educational survey.
-- The presence of a note field (note) suggests that additional information might be collected, but it's not explicitly linked to the other categories.
-- The fact that all fields are optional suggests that the form might be for general information gathering rather than a strict requirement form.
-
-This form is likely for users to provide information about their educational background and research interests, but it's not clear if it's for registration, survey, or other purposes.
-
-</thinking>
-
 # ECON - Help Guide
 ## Purpose
 This form, "ECON", is for users to provide information about their educational background and research interests. It is not a requirement form, and all fields are optional.

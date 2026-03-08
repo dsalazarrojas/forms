@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a moot court brief, which is a written document that outlines the facts, issues, and arguments of a legal case. This form is used to gather relevant details about the brief, including its title, uploaded files, category, description, date, time, and contact information. The form is typically used by legal professionals or students to upload and submit their moot court briefs for review or competition.
-</thinking>
-
 # Moot Court Brief Upload Form - Help Guide
 ## Purpose
 This form is used to upload and submit a moot court brief and supporting documents for review or competition.

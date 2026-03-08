@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from students interested in inquiring about music lessons or programs at various music schools. The purpose of this form is to gather details about the student's requirements, such as their name, contact information, and preferred music lesson type. The form also allows students to provide details about the music school they are interested in, including its name, address, phone number, and website. Additionally, the form captures the school's operational hours, latitude, and longitude, which are important for mapping and location-based services. The form is designed to be completed by students who are interested in exploring music schools in their area and want to inquire about lesson opportunities.</thinking>
-
 # Music School Inquiry Contact Form - Help Guide
 ## Purpose
 This form is a tool to gather information from students interested in music schools. Please use it to provide your details and the music school's information you are interested in learning more about.

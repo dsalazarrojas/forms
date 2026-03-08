@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from landlords and tenants for a rental agreement. The purpose of this form is to outline the terms of the rental agreement, including rental details such as lease length, rent amount, and payment schedule. It also includes fields for both the landlord and tenant to sign and date the agreement, as well as fields for move-in and move-out dates. The form is meant to be completed by both the landlord and tenant to establish a clear understanding of the rental terms and responsibilities. This is a one-time form and should not be used for ongoing or periodic updates.
-</thinking>
-
 # Landlord Tenant Agreement Declaration Form - Help Guide
 ## Purpose
 

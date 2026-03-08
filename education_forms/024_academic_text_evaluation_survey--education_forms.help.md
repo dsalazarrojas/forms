@@ -1,9 +1,3 @@
-<thinking>
-
-The "Academic Text Evaluation Survey" form is designed for reviewers to provide an evaluation and feedback on scholarly texts assigned for review. This form is intended to gather feedback on various aspects of the text, including its clarity, accuracy, relevance, organization, and effectiveness as a learning resource. Reviewers will be asked to rate the text on a scale of 1 to 5, where 1 represents "Poor" and 5 represents "Excellent". They will also be able to provide additional comments on the text's strengths and weaknesses. The form's primary purpose is to facilitate the review process and provide constructive feedback to authors and editorial teams.
-
-</thinking>
-
 # Academic Text Evaluation Survey - Help Guide
 ## Purpose
 The "Academic Text Evaluation Survey" is designed for reviewers to provide an evaluation and feedback on scholarly texts assigned for review.

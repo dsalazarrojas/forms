@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to be completed by parents or guardians to provide information about their child's preferences and availability to help with a class celebration. The form will be used to determine the best way to organize and execute the event, and to ensure that all children's needs are met.
-
-The form includes fields for parent/guardian information, student information, teacher information, celebration type, proposed dates, volunteer availability, tasks to help with, item contributions, dietary restrictions, dietary details, food preferences, activity preferences, budget contribution, special requests, and additional comments.
-
-This form should only be completed if a parent/guardian has been invited to participate in the class celebration. Completion of this form does not guarantee participation in the event. The information collected will be used to plan and organize the celebration.
-
-Before completing this form, please make sure that you have not already completed it for the same celebration. If you have previously completed this form, your previous response will be considered.
-
-Please note that some fields are required and some are optional. Required fields are marked as such in the form. If a field is required, please make sure to complete it before submitting the form.
-
-Please answer the questions as accurately and thoroughly as possible. If you have any questions or concerns, feel free to reach out to the teacher or celebration organizer.
-</thinking>
-
 # Class Celebration Availability Survey - Help Guide
 ## Purpose
 The Class Celebration Availability Survey is designed to gather information from parents or guardians about their child's preferences and availability to help with a class celebration. This information will be used to plan and organize the celebration to ensure that all children's needs are met.

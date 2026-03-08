@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a survey designed to gather information from employees about their role in the organization, their work habits, and their preferences regarding training and instructions. The purpose of this form is likely to help the organization understand its employees' needs and tailor its training programs accordingly. This form likely aims to identify areas where employees may need additional guidance or support with instructions, and to gather feedback on the effectiveness of the training programs.
-
-</thinking>
-
 # Instruction Builder Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from employees about their work habits and preferences regarding instructions and training. The responses will help the organization understand its employees' needs and tailor its training programs to better support them.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate ordering school T-shirts. It helps you gather details about your order, payment information, and any additional comments you may have.

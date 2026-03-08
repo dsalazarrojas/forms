@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from a customer about their referral source, details, and preferences. To ensure accurate and relevant information is collected, please ensure that you are filling out this form only once for each customer referral. This will help in maintaining data consistency and reducing duplication. The form is used by customers to share their referral information with your company.
-</thinking>
-
 # e_commerce_referral_form - Help Guide
 ## Purpose
 The e_commerce_referral_form is a form used to collect information from customers about their referral sources and preferences. It helps in maintaining accurate and consistent data.

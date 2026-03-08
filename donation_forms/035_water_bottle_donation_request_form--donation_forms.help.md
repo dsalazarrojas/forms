@@ -1,14 +1,3 @@
-<thinking>
-This help guide is for internal use only. Please refrain from sharing it with external parties. 
-
-This guide assumes that you have access to the form's input values. 
-
-The form is part of a larger donation request system, which aims to collect information about water bottle donations from users. The purpose of this form is to collect user and donor information, donation details, delivery information, and any additional notes from the user or donor. 
-
-The form is meant to be filled out by a user, who is the recipient of the donation, and a donor, who is the person or organization making the donation. 
-
-</thinking>
-
 # Water Bottle Donation Request Form - Help Guide
 
 ## Purpose

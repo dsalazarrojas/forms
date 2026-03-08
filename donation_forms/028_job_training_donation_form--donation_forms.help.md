@@ -1,7 +1,3 @@
-<thinking>
-This form is part of an internal process to track donations for job training programs. The goal is to collect data on whether a job training program has been donated for and at what frequency. This form will help to ensure that all programs are accounted for and that donations are accurately recorded. Please fill out the form for each job training program to provide accurate and consistent data.
-</thinking>
-
 # Job Training Donation Form - Help Guide
 ## Purpose
 This form is used to track donations for job training programs.

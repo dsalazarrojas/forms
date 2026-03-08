@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students on their learning experience in a course. This form is likely used by instructors or administrators to assess the effectiveness of the course material and identify areas for improvement. The form is meant to be completed by students who have participated in the course and are able to provide their honest opinions on what they learned and how they feel about the course.
-
-To ensure the form is completed accurately, it's essential to review the form design and the fields provided. The form includes fields for course title, description, ratings, comments, contact information (email and phone), dates, and multiple-choice selections. This suggests that the form is focused on gathering both quantitative and qualitative feedback from students. 
-
-The provided fields also imply that the course may have multiple modules or sections, as there are multiple select multiple fields. This form may be used for ongoing or periodic evaluations of course content, and the multiple-choice fields could be used to track student progress or satisfaction levels throughout the course.
-
-Before completing this form, make sure to review each field carefully and provide honest and thoughtful feedback. This will help the instructors or administrators to get a better understanding of the course's strengths and weaknesses.</thinking>
-
 # Interdisciplinary Learning Satisfaction Survey - Help Guide
 ## Purpose
 The Interdisciplinary Learning Satisfaction Survey is a form designed to gather feedback from students on their learning experience in a course. This feedback is essential for instructors and administrators to assess the effectiveness of the course material and identify areas for improvement.

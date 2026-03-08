@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information regarding the discharge of a mortgage. This form is to be filled out by a property owner or representative and should only be used when the mortgage is being paid off or otherwise discharged. Please ensure that this form is only used for this specific purpose and not for other types of forms or documents. 
-</thinking>
-
 # Mortgage Discharge Form - Help Guide
 
 ## Purpose

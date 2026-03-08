@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Faculty Promotion Peer Assessment Form", I need to analyze the provided YAML form and understand its purpose. The form is used for faculty promotion, where peers assess their colleagues based on certain criteria. The purpose of this form is to collect feedback and ratings from peers on their departmental colleagues' performance and promotion recommendations. I assume the form is used within a university or academic institution for internal evaluation and decision-making.
-
-Before proceeding, I will check for relevance and non-duplication. This form appears to be specific to the education industry, targeting faculty members and their promotion within departments. I did not find any duplicates or similar forms in my database.
-
-</thinking>
-
 # Faculty Promotion Peer Assessment Form - Help Guide
 
 ## Purpose

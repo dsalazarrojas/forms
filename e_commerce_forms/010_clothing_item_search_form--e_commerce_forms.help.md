@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their clothing item search preferences. The form is used to gather details such as the customer's contact information, item type, style preference, size, fit, and budget range. The form also collects information about the occasion and additional notes or special requirements.
-To avoid duplication, please ensure that you are not completing this form multiple times for the same purpose. If you need to make multiple searches, you can simply fill out the form again.
-</thinking>
-
 # Clothing Item Search Form - Help Guide
 ## Purpose
 The Clothing Item Search Form is designed to help customers quickly and easily provide us with their preferences for a specific clothing item search.

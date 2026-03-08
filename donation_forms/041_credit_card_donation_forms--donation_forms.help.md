@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from donors for credit card donations. 
-The form will be used by donors to provide their details and credit card information. 
-The fields in this form are intended to collect various details from the donor, including donor information, credit card details, and donation preferences.
-</thinking>
 # credit_card_donation_forms - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The Sales Dispatch Form is an e-commerce form used for dispatching sales and order information. It is likely used to create sales orders for customers. I assume that this form is used within an e-commerce platform or similar business application, given the fields present. I don't have any internal logic to clarify any unclear field labels. However, based on standard e-commerce practices, we can reasonably interpret the purpose of the form. This form will likely be used to collect order-specific information from customers or sales teams.
-
-The form appears to be designed for customers or sales teams to input sales information. However, some fields may not be necessary for every submission (e.g., product name). The form has a mix of required and non-required fields, indicating that some information can be skipped or provided on a case-by-case basis. The form's structure suggests it is intended to be filled out by a single person, likely the customer or a sales team member.
-
-To avoid duplication of effort, this form is likely used in conjunction with other e-commerce processes, such as order management or customer service. The fields present suggest a focus on sales, customer, and order information. This form may also be used within a larger application or service, where other forms and processes are used for order fulfillment, payment processing, and other related tasks.</thinking>
-
 # Sales Dispatch Form - Help Guide
 
 ## Purpose

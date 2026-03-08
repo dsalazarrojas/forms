@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a demographic survey focused on education and life expectancy, aiming to gather information on the individual's age, educational background, family size, income, location, and contact preferences. The form likely uses this data to provide insights or predictions on the individual's life expectancy. However, to confirm its intended purpose and avoid duplication, I'll provide the following help guide.
-</thinking>
-
 # Education And Life Expectancy Quiz - Help Guide
 ## Purpose
 This form is designed to collect demographic information for the purpose of providing insights or predictions on life expectancy. Please answer the questions truthfully to ensure accurate results.

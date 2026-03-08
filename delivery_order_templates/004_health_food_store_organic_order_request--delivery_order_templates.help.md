@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to organic order requests from the Health Food Store. This form is used by staff members to record and track such requests, ensuring that customer needs are met in a timely and accurate manner. It is essential to complete this form accurately to provide the best possible service to customers. If you have previously submitted an order request, please make sure to check if it already exists before proceeding. It is also a good idea to review this guide before filling out the form to ensure you understand what information is required.
-</thinking>
-
 # Health Food Store Organic Order Request - Help Guide
 
 ## Purpose

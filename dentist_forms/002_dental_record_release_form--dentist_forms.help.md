@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the transfer of a patient's dental record from one dentist to another. The purpose of this form is to provide a standardized and accurate way to collect the necessary information for the transfer process. This form will guide the user through the process of entering the patient's details, the reason for the transfer, and the dentist's information, which is crucial for a smooth and secure transfer.
-
-Please ensure that you have a valid reason for the patient's transfer before proceeding with this form. Ensure that you are authorized to handle the patient's records, as this form is not intended for external parties or unauthorized personnel.
-
-Before completing this form, please review the fields below to understand their requirements.
-
-</thinking>
-
 # dental_record_release_form - Help Guide
 ## Purpose
 This form is designed to facilitate the transfer of a patient's dental record from one dentist to another.

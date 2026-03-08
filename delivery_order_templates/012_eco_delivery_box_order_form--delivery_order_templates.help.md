@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for the "Eco Delivery Box" order process. 
-The "Eco Delivery Box" is a type of package that is sent to customers for events, parties, or other purposes. 
-The form is meant to be completed by the customer or the person placing the order on behalf of the customer. 
-To avoid duplication, please make sure to fill out the form for the correct order and customer information. 
-Please ensure that you have all the necessary information before filling out the form.
-</thinking>
-
 # Eco Delivery Box Order Form - Help Guide
 ## Purpose
 The Eco Delivery Box Order Form is used to collect information for the Eco Delivery Box order process. This form is meant to be completed by the customer or the person placing the order on behalf of the customer.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in an NXT gen program. This form is used to gather details about the participant's school information, interests, and program details. The form is intended for both the participant and the program administrators to use.
- 
-We will assume that the participant is registering for a program and we will guide them through the form fields. This guide will cover all the fields in the form, explaining what each field is for and what they should input.
-</thinking>
-
 # nxt_gen_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants in an NXT gen program. It is used to gather details about the participant's school information, interests, and program details.

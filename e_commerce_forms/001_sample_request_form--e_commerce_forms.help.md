@@ -1,7 +1,3 @@
-<thinking>
-We should first determine the purpose and intent of this form. Based on the provided YAML fields, it seems that this form is for customers to submit a request for a product or service from an e-commerce website. The form likely requires information about the customer's request, such as the type of product or service they are interested in, the name of the product, a description of their request, an example of what they are looking for, and contact information. This form is probably intended to be a simple and straightforward way for customers to initiate contact with the website's customer service team. The form's purpose is to gather essential information from customers to address their inquiries efficiently. We should confirm that there are no duplicate forms or forms with similar purposes on the site, and we should review the form's layout and design to ensure it meets the website's brand and user experience standards.
-</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 The Sample Request Form is a simple and easy-to-use form that allows customers to submit a request for a product or service from our e-commerce website. This form is designed to gather essential information from customers to help our customer service team address their inquiries efficiently.

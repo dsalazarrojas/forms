@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is likely to collect data on a Hiragana recognition quiz administered to students. This might be part of a Japanese language learning assessment or course evaluation process. To ensure the form is being used correctly, let's verify that it's not being used for a different purpose, such as collecting general contact information. The data collected through this form should not be used for direct marketing or sales efforts. It's also essential that this form is being used by authorized personnel to maintain the accuracy and privacy of the data collected.</thinking>
-
 # Hiragana Recognition Quiz - Help Guide
 ## Purpose
 The Hiragana Recognition Quiz is a tool to assess learners' recognition skills in the Hiragana writing system used in Japanese language.

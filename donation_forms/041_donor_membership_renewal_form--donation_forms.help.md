@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block for this form: This form is meant to collect information from existing donors who want to renew their membership. It's designed to gather details such as the donor's name, membership level, payment method, and payment schedule. The form also requests additional information like phone number, address, and payment card details for potential future reference. The form is divided into different sections for easy understanding, and each field has a clear label to help donors fill it out accurately. The form does not store or display any sensitive information and is meant for internal use only.</thinking>
-
 # Donor Membership Renewal Form - Help Guide
 ## Purpose
 This form is for existing donors to renew their membership. Please fill out the form with your updated information to ensure continued access to our services.

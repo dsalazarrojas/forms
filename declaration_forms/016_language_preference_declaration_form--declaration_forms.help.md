@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a language preference declaration form, designed to gather information about a respondent's language skills and preferences. It includes fields to select a preferred language, primary language, contact language, and translation needs, as well as questions about language proficiency and document language. This form seems to be relevant to linguistic and/or multilingual contexts, such as international business, education, or cultural exchange. It does not appear to be a duplicate of any existing form, and its purpose is to collect data on language preferences for further analysis or processing.
-</thinking>
-
 # Language Preference Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your language preferences, skills, and needs in a professional or educational context. This includes your preferred language, primary language, contact language, and translation needs, as well as questions about language proficiency and document language.

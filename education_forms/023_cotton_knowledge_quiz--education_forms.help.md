@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback and preferences regarding their engagement with the cotton industry. The form is part of an educational tool designed to gauge the user's knowledge about cotton, its types, and their willingness to participate in quizzes or other activities related to the cotton industry. The form's purpose is to help understand the user's preferences and behavior regarding quizzes and other educational content. This form is not a required form, so users can choose to complete it or not.
-</thinking>
-
 # Cotton Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect user feedback and preferences regarding their engagement with the cotton industry.

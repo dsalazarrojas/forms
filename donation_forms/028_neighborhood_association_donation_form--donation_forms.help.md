@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear to the users, and that there is no duplication of effort or confusion in the submission process. This form is meant to collect donations from individuals and organizations to support the Neighborhood Association's projects and initiatives. We want to make sure that the form is easy to understand, and that users know what to expect and how their donations will be used.
-
-Let's assume that the form will be used by both residents and businesses, and that donations can be made online or offline.
-
-We also want to make sure that we are capturing all the necessary information to process the donations correctly.
-
-</thinking>
-
 # Neighborhood Association Donation Form - Help Guide
 
 ## Purpose

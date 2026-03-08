@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect information about offers and trades, allowing users to create new offers, view existing trades, and manage their trade activities. 
-
-The form consists of multiple pages and fields, with some fields being required and others being optional. 
-
-The form's fields are designed to collect specific types of information, including text, numbers, select options, and notes. 
-
-The form's purpose is to provide a structured way to input and manage data about offers and trades. 
-
-The form's fields are designed to be easily navigable, with clear labels and instructions for each field. 
-
-The form is intended to be used by both administrators and end-users. 
-
-The form's data will be used to create, manage, and analyze offers and trades. 
-
-This form should not be used for other purposes, as it is specific to offers and trades.
-
-</thinking>
-
 # Offers And Trades - Help Guide
 ## Purpose
 The "Offers And Trades" form is a tool used to create, manage, and analyze offers and trades. It is a structured way to input and manage data about offers and trades.

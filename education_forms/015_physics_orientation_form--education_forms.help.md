@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help students and educators in the physics department. It's likely used for administrative purposes or to help students get acquainted with departmental procedures. Before creating the help guide, I'll review the form fields to ensure I'm not duplicating any information already provided by the department or university.
-
-Given the YAML data, this form has 2 pages and 5 fields: 1 page header, 2 student information fields, 1 date field, and 1 page header (identifying the second page of the form). The student information fields likely contain contact and biographical data. The date of birth field suggests that this form may also be used for record-keeping or data analysis. 
-
-</thinking>
-
 # Physics Orientation Form - Help Guide
 ## Purpose
 This form is used to collect information from students in the physics department. It's an administrative form used to help students get familiar with departmental procedures or for data collection and analysis.

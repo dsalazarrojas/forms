@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "School Clothing Application Form". This form is designed to collect information from students and their parents or guardians to process clothing applications for schools. The form is intended to be used by students and their parents or guardians to provide their details, clothing requirements, and contact information. The form is crucial in ensuring that the school can process clothing applications efficiently and accurately.</thinking>
-
 # School Clothing Application Form - Help Guide
 ## Purpose
 The School Clothing Application Form is a form used by students and their parents or guardians to apply for school clothing. It captures essential information about the student and their parent or guardian, such as their names, dates of birth, contact numbers, and clothing requirements.

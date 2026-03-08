@@ -1,13 +1,3 @@
-<thinking>
-This form was created to help users gather information about users who need teaching references.
-The purpose of this form is to collect relevant details about users who need teaching references.
-The form is designed to be a simple and straightforward way to gather contact information and relevant details about the user.
-To complete this form, the user is required to provide their contact information and details about their education, experience, employment, and any other relevant information.
-The user can provide information about their references, which may include academic, professional, or any other type of reference.
-The user can also add any other details that they feel are relevant to their situation.
-This form is not meant to be a comprehensive reference request, but rather a starting point for further discussion or action.
-</thinking>
-
 # Teaching Reference Request Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and relevant details about users who need teaching references. It is meant to be a starting point for further discussion or action.

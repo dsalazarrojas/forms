@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect donations from users for the Hearing Impaired Program Fund. The form will be used to gather information from users who want to make a donation, including their name, email address, phone number, the amount they would like to donate, and the method of payment. The form is intended to be completed by individuals who wish to contribute to the fund and support the Hearing Impaired Program. Before starting, please ensure you are not submitting duplicate information. If you have already made a donation, please do not proceed with this form.
-
-</thinking>
-
 # hearing_impaired_program_fund_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donations from users for the Hearing Impaired Program Fund.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information for a scholarship application referral. It is used to gather details about the applicant, their referral information, and other relevant data. This form is not meant for internal use only, as it will be shared with the scholarship committee for review and consideration. Before filling out this form, please ensure that you are authorized to submit on behalf of the applicant and that the information provided is accurate and complete...</thinking>
-
 # scholarship-application-referral-form - Help Guide
 ## Purpose
 The scholarship application referral form is used to collect information for a scholarship application, to be reviewed and considered by the scholarship committee.

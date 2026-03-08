@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to register for a 5K run event. It captures essential information about the participant, including their personal details, medical conditions, and event preferences. The form aims to ensure that participants understand the terms and conditions of the event, particularly the waiver and release of liability. It's essential to fill out the form accurately and truthfully to ensure a smooth and safe experience for all participants.
-
-The form has several sections, each focusing on a specific aspect of the participant's information. Before proceeding, please take a moment to review the form carefully and ensure you understand the purpose of each section.
-
-</thinking>
-
 # 5K Run Registration Form - Help Guide
 ## Purpose
 This form is designed for participants to register for the 5K run event. It captures essential information about the participant, including personal details, medical conditions, and event preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_order_experience_feedback_contact_form - Help Guide
 
 ## Purpose

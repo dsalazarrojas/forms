@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to inform users on how to complete the "Quiz On Misinformation Awareness" form. This form is designed to gauge users' understanding and awareness of misinformation. The form's purpose is to gather user responses to a series of questions, which will help in assessing their knowledge and perceptions of misinformation. This guide will cover how to complete the form, what each field means, and provide tips to ensure a smooth and error-free submission process.
-</thinking>
-
 # Quiz On Misinformation Awareness - Help Guide
 ## Purpose
 This form is designed to assess users' understanding and awareness of misinformation. It consists of 11 questions across 11 pages, each with a specific type of response required. The goal is to gauge users' perceptions and knowledge on various aspects of misinformation.

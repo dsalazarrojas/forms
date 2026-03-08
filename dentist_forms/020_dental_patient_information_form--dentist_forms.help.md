@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect basic information about a dental patient, including their first name, last name, date of birth, address, contact information, and medical history. This includes medical conditions and allergies that may be relevant to the patient's dental care. The form can be completed by the patient themselves or by someone with access to their information. It is essential to accurately fill out this form to ensure that the dentist can provide the best possible care and treatment.
-</thinking>
-
 # Dental Patient Information Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for Engineering Diploma Image Submission, likely for academic or professional purposes, such as verifying the authenticity of engineering diplomas. It is intended for students, institutions, or authorities to submit and verify diploma images. 
-
-The purpose of this form is to gather essential details about the diploma, including the student's name, institution name, date of issue, and issuing authority. It also allows users to upload supporting documents and submit review comments. 
-
-To avoid duplication and ensure the form is filled out correctly, please review the fields carefully and ensure you are submitting accurate information.
-
-</thinking>
-
 # Engineering Diploma Image Submission - Help Guide
 ## Purpose
 The Engineering Diploma Image Submission form is designed to collect and verify information about engineering diplomas. This form is intended for students, institutions, or authorities to submit and verify diploma images.

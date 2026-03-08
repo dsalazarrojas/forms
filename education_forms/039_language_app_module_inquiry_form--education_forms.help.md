@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure the "Language App Module Inquiry Form" provides a comprehensive solution, I will:
-
-1. **Verify that the form is not a duplicate**: Before creating this guide, I will check if similar forms with identical or similar fields already exist in our library. If a similar form exists, I will either update or merge information to avoid redundancy.
-2. **Understand the form's purpose**: I will study the provided YAML input schema to grasp the form's intended use case and identify its key components.
-3. **Validate form fields for relevance and accuracy**: I will review each field to ensure it is necessary and correctly defined, and that its label and description match its purpose.
-
-</thinking>
-
 # Language App Module Inquiry Form - Help Guide
 ## Purpose
 The Language App Module Inquiry Form is designed to gather information from users who have inquiries, comments, or suggestions about the language app modules. This form helps to collect contact information, language level, and specific module interests to ensure that our team can respond appropriately to each user's needs.

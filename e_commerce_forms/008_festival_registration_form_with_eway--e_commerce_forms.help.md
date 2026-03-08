@@ -1,9 +1,3 @@
-<thinking>
-This form is used for festival registration with online payment (E-Way) processing. 
-The form is designed to collect festival-related information from attendees. 
-The form is not a duplicate of any other form in the system. 
-</thinking>
-
 # festival_registration_form_with_eway - Help Guide
 ## Purpose
 This form is used to collect information and process online payments for festival attendees.

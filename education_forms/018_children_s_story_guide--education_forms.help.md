@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Children Story Guide - Help Guide
 
 ## Purpose

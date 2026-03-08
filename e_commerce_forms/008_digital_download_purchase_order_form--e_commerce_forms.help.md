@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_download_purchase_order_form - Help Guide
 ## Purpose
 The digital download purchase order form is used to collect information from customers to complete a purchase order for a digital product. This form is essential for ensuring accurate and secure payment processing, as well as providing the correct product delivery details to our team.

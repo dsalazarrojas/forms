@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect donations for the Disaster Education Program, which aims to provide financial support to individuals and families affected by natural disasters. The form is intended for individuals who want to contribute to the program and help those in need. To avoid duplicate donations, please ensure that you are not submitting a form with the same information already in our database.
-
-</thinking>
-
 # Disaster Education Program Donation Form - Help Guide
 ## Purpose
 The Disaster Education Program Donation Form is designed to collect donations for individuals and families affected by natural disasters.

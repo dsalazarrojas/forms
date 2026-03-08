@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their school meal experience. It's essential to understand that this form is meant to elicit specific and actionable information about the quality of school meals, the time spent eating, and the preferences of students. Please note that this form is a tool for gathering data and not a complaint or criticism form. It's crucial to complete this form accurately and honestly to provide valuable insights.
-</thinking>
-
 # School Meal Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their school meal experience.

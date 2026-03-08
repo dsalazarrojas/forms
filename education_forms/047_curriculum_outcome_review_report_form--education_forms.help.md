@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from reviewers on the status of a specific curriculum outcome in a school setting. The form is intended to gather data on the outcome's achievement, any action plans for improvement, and recommendations for further development. 
-
-Before proceeding, review the form carefully to ensure you are not duplicating your efforts. This form was created using AI, but it does not contain any proprietary content or data. You can use, modify, and share this form for your educational needs.
-</thinking>
-
 # Curriculum Outcome Review Report Form - Help Guide
 ## Purpose
 The Curriculum Outcome Review Report Form is designed to collect information from reviewers on the status of a specific curriculum outcome in a school setting. This form helps reviewers assess the outcome's achievement, provide action plans for improvement, and offer recommendations for further development.

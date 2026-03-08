@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect donations for multiple purposes, such as events or schools, from donors. The form is designed to be flexible and adaptable to various donation needs. The form should not be used for other purposes or contexts that are not explicitly mentioned in the form fields.
-
-Before filling out the form, make sure that you have all the necessary information and consent from your school administration and other stakeholders.
-
-</thinking>
-
 # Donation For Multiples - Help Guide
 ## Purpose
 The "Donation For Multiples" form is designed to collect donations from donors for events or schools, allowing for flexible and adaptable donation collection.

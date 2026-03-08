@@ -1,8 +1,3 @@
-<thinking> 
-The goal is to ensure that users understand how and why to complete the Student Program Feedback Form, and what each field represents. This form is intended to collect feedback from students about their experience with a student program, likely to improve the program itself or the support services related to it. It's not a form for general student feedback or comments, nor is it a form for evaluating a specific course or instructor. The form should be filled out by students who have completed the program and are willing to share their thoughts on how it was for them. Each field should be explained in a way that makes it easy for the user to understand its purpose and how to fill it out correctly. 
-
-</thinking>
-
 # Student Program Feedback Form - Help Guide
 ## Purpose
 The Student Program Feedback Form is a tool for students who have completed a student program to share their feedback and experiences with the program. This feedback will help the program organizers to improve and better serve students in the future.

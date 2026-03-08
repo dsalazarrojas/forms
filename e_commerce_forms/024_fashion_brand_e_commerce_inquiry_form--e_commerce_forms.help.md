@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect customer inquiries and style requests for an e-commerce fashion brand. It will likely be used by customers to express their interests in specific products or services offered by the brand. To ensure that we are not duplicating effort or wasting time on non-relevant requests, we should verify that the form is being used correctly and for its intended purpose. We should also consider implementing some sort of filtering system to weed out irrelevant submissions or requests that do not align with the brand's current product offerings. 
-</thinking>
-
 # Fashion Brand E Commerce Inquiry Form - Help Guide
 ## Purpose
 This form is designed to allow customers to inquire about fashion brand products and services, and submit style requests for potential future releases.

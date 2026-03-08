@@ -1,8 +1,3 @@
-<thinking>
-This form is used to enroll participants in a science fair. It is intended to gather information about the participant's project, such as project title, description, category, and level of participation. The form also collects contact information for the participant and the person submitting the project. It is assumed that the participant or their guardian is filling out this form. 
-
-</thinking>
-
 # Science Fair Participation Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll participants in a science fair.

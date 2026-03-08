@@ -1,5 +1,3 @@
-<thinking>This form is intended to capture information for a sports T-shirt order. It collects the customer's first and last name, team name, team type (e.g., soccer, basketball), player's age, shirt size, order date, order time, email, phone number, and other additional details such as notes, confirm email and phone, submit status, assigned tool, form ID, category, description, output file, and assigned tool. The form is likely used for an e-commerce application to facilitate the ordering process for sports teams or individual customers.</thinking>
-
 # Sports T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a sports T-shirt order, including customer details and order specifics.

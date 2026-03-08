@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Homeschool High School Report Card Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect daily submissions from users, which are likely used for tracking and logging purposes. It's essential to understand the purpose of this form to complete it accurately. Please confirm if this form is for your intended use case or if you have any further questions or concerns about its purpose.
-
-Before proceeding, ensure that you haven't submitted this form previously, as duplicate submissions might lead to unnecessary data duplication and potential errors.
-
-This form collects information about the submission, such as type, date, and category, as well as details about the submitter, including name, email, phone number, location, and any additional notes or attachments.
-
-Please take a moment to review this form carefully to ensure you're providing accurate and complete information.
-
-</thinking>
 # Daily Submission Form - Help Guide
 ## Purpose
 The Daily Submission Form is designed to collect daily submissions from users for tracking and logging purposes.

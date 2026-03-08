@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "e-learning-content-feedback-survey" is designed for users to provide feedback on e-learning content. The form is used to collect user opinions on the quality and usefulness of e-learning materials. The purpose of this form is to help instructors and content creators improve their teaching materials by gathering feedback from learners.
 
 To complete this form, follow these steps:

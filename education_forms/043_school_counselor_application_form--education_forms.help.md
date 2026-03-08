@@ -1,10 +1,3 @@
-<thinking>
-Before creating this help guide, let's review the purpose and context of the "School Counselor Application Form". The form is designed to collect information from school counselors applying for a position, and the goal is to gather relevant details about the applicant's education background, work experience, personal details, and other necessary information to evaluate their suitability for the position. To ensure the form is completed accurately and consistently, it's essential to provide clear guidance on how to fill it out and what each field represents.
-
-This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field to help users understand what information is required and how to provide it correctly.
-
-</thinking>
-
 # School Counselor Application Form - Help Guide
 
 ## Purpose

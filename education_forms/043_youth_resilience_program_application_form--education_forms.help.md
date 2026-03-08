@@ -1,6 +1,3 @@
-<thinking>
-The "youth_resilience_program_application_form" form is designed to collect demographic information and contact details from students and their parents or guardians who are applying to the youth resilience program. This form is intended to gather data for the purpose of assessing student eligibility and program suitability. It should not be completed by anyone who is not a student or parent/guardian. Please ensure that you have read and understood the form's purpose before filling it out. If you are a student or parent/guardian seeking to apply to the program, you should only complete this form once per student. Duplicate submissions may lead to unnecessary processing and potential confusion.</thinking>
-
 # youth_resilience_program_application_form - Help Guide
 ## Purpose
 ## How To Complete This Form

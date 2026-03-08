@@ -1,7 +1,3 @@
-<thinking>
-The online Self-Care Course Evaluation Form is a critical part of monitoring and improving the quality and effectiveness of educational programs in self-care and mental well-being. This form helps instructors and administrators assess student satisfaction, feedback, and evaluation of the course, which will aid in identifying areas for improvement and enhancing the course content, structure, and overall learning experience. Ensuring that the form is completed accurately is crucial, as it directly impacts the quality of education and care provided to students. Therefore, it is essential to understand the purpose and function of each field in this form. Please ensure that you are submitting this form for the correct course and purpose, as it is designed to collect data for evaluation and improvement purposes only.
-</thinking>
-
 # Online SelfCare Course Evaluation Form - Help Guide
 
 ## Purpose

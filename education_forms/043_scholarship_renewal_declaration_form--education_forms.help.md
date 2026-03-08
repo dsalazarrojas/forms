@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the **Scholarship Renewal Declaration Form** is to help students and/or their families declare the intention of renewing their scholarship, providing necessary information to support the renewal request. This form should only be used for students or applicants who have an existing scholarship and are seeking its renewal.
-
-Before starting, make sure you are not a current employee or representative of any scholarship provider, as this form is for scholarship renewals, not applications. Also, be aware that this form is a one-time declaration and may not be used for other purposes.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Scholarship Renewal Declaration Form - Help Guide
 ## Purpose
 

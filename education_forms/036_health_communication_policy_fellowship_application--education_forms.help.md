@@ -1,16 +1,3 @@
-<thinking>...This form appears to be a template for a Health Communication Policy Fellowship application. The purpose of this form is to collect information from applicants who are interested in participating in the fellowship program. This program likely aims to bring together individuals from various backgrounds to discuss and develop health communication policies that can be used to improve public health outcomes. 
-
-The form is structured into several sections, including:
-
-- Application Details: This section is where the applicant will provide their name and other basic contact information.
-- Contact Information: This section will collect the contact details of the applicant.
-- Education: This section requires the applicant to provide information about their educational background and degrees earned or those they are currently pursuing.
-- Experience: This section asks for any relevant experience the applicant has.
-- Resume: This section requires the attachment of a resume that outlines the applicant's skills and experience.
-- Resume Attachment: This section allows the applicant to attach their resume file. 
-
-Before completing this form, please make sure to review the requirements of the fellowship program and ensure that your answers align with the program's goals and expectations.</thinking>
-
 # Health Communication Policy Fellowship Application - Help Guide
 ## Purpose
 The Health Communication Policy Fellowship is a program that aims to bring together individuals from diverse backgrounds to discuss and develop health communication policies that can be used to improve public health outcomes. This application form collects information from potential applicants to assess their qualifications and eligibility for the fellowship.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will provide a clear and concise explanation of the Weekly Class Evaluation Form, its purpose, and how to complete it. The form is used to gather feedback from students on their weekly class experiences, aiming to improve the teaching quality and engagement. This feedback will help teachers to identify areas of improvement and make data-driven decisions to enhance the learning environment.
 
 # Weekly Class Evaluation Form - Help Guide

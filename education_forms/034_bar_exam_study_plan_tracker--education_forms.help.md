@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help law students track their progress and prepare for the bar exam. It is intended to be a tool for personal study planning and monitoring. The form can be filled out on a regular basis, ideally at the same time each week or after major study milestones. It helps students to identify areas where they need improvement and adjust their study plan accordingly. It is a personal and confidential form and should not be used as a benchmark for measuring progress against peers.
-</thinking>
-
 # Bar Exam Study Plan Tracker - Help Guide
 ## Purpose
 This form is designed to help law students track their progress and prepare for the bar exam.

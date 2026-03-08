@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Humanitarian Relief Donation Form - Help Guide
 
 ## Purpose

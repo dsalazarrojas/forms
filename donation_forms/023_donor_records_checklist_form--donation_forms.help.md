@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect and record information about donors, including their personal details, contact information, and donation history. This form is used by staff to track and manage donor records, ensuring that all necessary information is accurately documented and up-to-date. To avoid duplication, users should ensure that they do not submit duplicate entries for the same donor.
-
-</thinking>
-
 # Donor Records Checklist Form - Help Guide
 ## Purpose
 The Donor Records Checklist Form is used to collect and record information about donors, including their personal details, contact information, and donation history.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Hazard Declaration Form - Help Guide
 ## Purpose
 The Property Hazard Declaration Form is designed to report and document hazards present on a property. This form is used to identify potential risks to occupants, visitors, and the environment, and to provide information necessary for mitigating or addressing the hazards.

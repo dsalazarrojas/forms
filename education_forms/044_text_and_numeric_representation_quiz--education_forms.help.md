@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will analyze the provided YAML fields and use that information to craft a clear and concise guide. I will also provide a brief internal reasoning block to explain the form's purpose and ensure that it meets the requirements.
-</thinking>
-
 # Text And Numeric Representation Quiz - Help Guide
 ## Purpose
 The Text And Numeric Representation Quiz is a form designed to assess users' ability to represent text and numeric information in a clear and concise manner. This quiz is intended to evaluate their understanding of the correct format and structure required to represent text and numeric values accurately.

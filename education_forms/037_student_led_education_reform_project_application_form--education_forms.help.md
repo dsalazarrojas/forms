@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for students to submit applications for a student-led education reform project. The form is intended to gather information about the project's details, such as project name, school district, school type, and project start and end dates. It also collects contact information, including email address, contact phone number, and assigned organizations. Additionally, the form asks for project status, budget, funding, and other relevant details.
-The form is meant to be used by students who are working on or planning to initiate an education reform project.
-Please ensure that you are submitting a project that is not already being worked on or funded elsewhere.
-</thinking>
-
 # student_led_education_reform_project_application_form - Help Guide
 ## Purpose
 This form is designed to collect information about a student-led education reform project application.

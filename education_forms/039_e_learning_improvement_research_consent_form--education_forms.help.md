@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in an e-learning improvement research study. The purpose of this form is to collect consent from participants to conduct research on e-learning improvement initiatives. This form ensures that participants understand the research goals and objectives, and agree to participate in the study. 
-The form collects participant information, participant ID, email address, phone number, research description, participant agreement, date of birth, e-learning improvement research consent, and the date of submission.
-The form is intended to capture essential details to facilitate effective communication and data collection.
-</thinking>
-
 # E Learning Improvement Research Consent Form - Help Guide
 ## Purpose
 The E-Learning Improvement Research Consent Form is a crucial document that gathers participant information, their consent to participate in a research study, and other relevant details. This form ensures that participants understand the research goals and objectives and agree to participate in the study.

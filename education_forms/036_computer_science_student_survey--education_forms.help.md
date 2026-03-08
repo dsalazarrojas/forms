@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from computer science students about their experiences and perceptions of their courses and resources. This form will help instructors understand student satisfaction with instruction, resource availability, and workload balance, as well as identify areas where students need additional support. The form should be completed by students to provide honest and accurate feedback about their experiences in the computer science program.
-</thinking>
-
 # Computer Science Student Survey - Help Guide
 ## Purpose
 The Computer Science Student Survey is designed to gather feedback from students about their experiences with courses and resources in the computer science program. This feedback will help instructors understand student satisfaction, resource availability, and workload balance, as well as identify areas where students need additional support.

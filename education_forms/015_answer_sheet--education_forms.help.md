@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Answer Sheet - Help Guide
 
 ## Purpose

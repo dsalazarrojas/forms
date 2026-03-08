@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by users to test their knowledge of historical terms and definitions. It is likely to be used in an educational setting to assess the understanding of historical events, figures, and concepts. The form will collect user input on historical terms, their definitions, events, and other related information. The goal of this form is to provide a quiz experience for users to test their knowledge and identify areas where they need improvement.
-</thinking>
-
 # Historical Terms And Definitions Quiz - Help Guide
 ## Purpose
 The Historical Terms And Definitions Quiz is designed to test users' knowledge of historical terms and definitions. It is a self-assessment tool that helps users evaluate their understanding of historical events, figures, and concepts.

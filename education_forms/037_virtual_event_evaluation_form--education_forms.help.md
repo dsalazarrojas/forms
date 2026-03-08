@@ -1,5 +1,3 @@
-<thinking>...this form is used to gather feedback about virtual events. The purpose of this form is to collect information on how end users found the virtual event, allowing event organizers to evaluate and improve future events. To avoid duplication, users who have already provided feedback will not be able to submit the form...</thinking>
-
 # Virtual Event Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from end users about their experience at a virtual event. The feedback collected will be used to evaluate and improve future virtual events.

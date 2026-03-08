@@ -1,8 +1,3 @@
-<thinking>
-CDA Knowledge Quiz form is designed to assess an individual's understanding of the Clinical Document Architecture (CDA) standards and their implementation. 
-- Check that you are in the correct context to fill out the form.
-- Verify that you are not repeating a quiz.
-</thinking>
 # CDA Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge of the Clinical Document Architecture (CDA) standards and their implementation.

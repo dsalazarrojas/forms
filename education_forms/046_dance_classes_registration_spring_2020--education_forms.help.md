@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register students for dance classes, specifically for the spring 2020 season. It captures essential student information, including name, contact details, and dance class preferences. The form allows students to choose a preferred dance class type, start and end dates, and frequency of the class. Additionally, it collects details about the student's level, payment method, and other relevant details.
-</thinking>
-
 # dance_classes_registration_spring_2020 - Help Guide
 ## Purpose
 

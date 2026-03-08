@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to recharge an online account, likely for a service or subscription-based offering. The form should only be used for customers who have an account with the company and are seeking to recharge their balance. To prevent abuse, please ensure you only use this form if you have a legitimate account that requires recharging. If you're unsure, please contact our support team for assistance.
-</thinking>
-
 # Online Account Recharge Form - Help Guide
 ## Purpose
 The online account recharge form is designed for customers to easily top up their account balances. This form helps us to quickly and securely process recharges for your account.

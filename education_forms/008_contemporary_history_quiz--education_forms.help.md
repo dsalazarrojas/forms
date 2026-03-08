@@ -1,19 +1,3 @@
-<thinking>
-
-To create an accurate and user-friendly help guide for the "Contemporary History Quiz" form, I will first analyze the provided YAML fields to understand the form's purpose and structure. The form appears to be designed for students to provide information about their own experiences and reflections on historical events, with a mix of multiple choice and essay questions covering various aspects of contemporary history, including politics, economics, and social movements. To ensure this guide meets the requirements, I will:
-
-1. Identify the form's purpose and scope.
-2. Determine the target audience and expected user behavior.
-3. Map the form's fields to provide clear explanations and instructions for users.
-
-The form's purpose is to gather information about students' understanding of contemporary history, including their knowledge of specific events, organizations, and movements. The form's scope appears to be broad, covering a range of historical events and themes.
-
-The target audience is likely students taking a history course or interested in historical studies, and the expected user behavior is to fill out the form with their reflections and answers to the questions.
-
-Given the form's structure and fields, I will now create a help guide that provides clear instructions and explanations for users to complete the form successfully.
-
-</thinking>
-
 # Contemporary History Quiz - Help Guide
 
 ## Purpose

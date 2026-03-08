@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of requesting a leave of absence for a student's dissertation period. This form is used to collect necessary information from the student and the academic officer to track and manage the leave of absence requests. Before completing the form, please ensure that you are authorized to request a leave of absence and that it's not a duplicate request. If you are unsure, please consult with your academic department or relevant authorities.
-</thinking>
-
 # Dissertation Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for a student's dissertation period.

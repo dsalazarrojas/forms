@@ -1,13 +1,3 @@
-<thinking>This form, called "pathway_student_admission_information", is intended to collect various student admission information for students applying for admission to the program. This form helps administrators and staff to efficiently collect and process admission information for new students. It is essential to provide accurate and complete information to ensure a smooth admission process.
-
-To determine if this form is relevant for your case, consider the following questions:
-
-* Are you a student or a staff member responsible for admission procedures?
-* Are you dealing with student admission applications for a specific program?
-* Do you need to collect and process student information for administrative purposes?
-
-If you answered "yes" to these questions, this form is relevant to your case and you can proceed with filling it out.</thinking>
-
 # pathway_student_admission_information - Help Guide
 ## Purpose
 The "pathway_student_admission_information" form is designed to collect student admission information for efficient processing and management.

@@ -1,9 +1,3 @@
-<thinking>
-
-The Science Communicator Recommendation Form is used to gather information about a scientist's communication skills, education level, and other relevant details. This form is intended to support the evaluation and recommendation of science communicators, typically for grant applications or other purposes. Before filling out this form, please review the fields carefully to ensure you're providing accurate and relevant information. Note that some fields may be required, indicated by the 'required' label in the form.
-
-</thinking>
-
 # Science Communicator Recommendation Form - Help Guide
 ## Purpose
 

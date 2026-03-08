@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect donations for the Nonviolent Communication (NVC) training fund. The purpose of the form is to provide a way for individuals or organizations to make a donation to support the NVC training program. The form is used to collect contact information, donation details, and other relevant data for processing and follow-up purposes.
-
-Before proceeding, please check that you are submitting the correct type of information. If you are making a recurring donation, please fill out the "donation type" and "donation frequency" fields. If you have any questions or need clarification, you can provide comments in the "comments" field.
-
-</thinking>
-
 # nonviolent_communication_training_fund_donation_form - Help Guide
 ## Purpose
 The Nonviolent Communication (NVC) training fund donation form is designed to collect donations to support the NVC training program.

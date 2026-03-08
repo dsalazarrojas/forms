@@ -1,9 +1,3 @@
-<thinking>... 
-
-The internal reasoning behind this form is to document the transfer of a vehicle without monetary payment. This form is meant to capture information about the donor and the recipient of the vehicle, as well as details about the vehicle being transferred. The form aims to ensure accuracy and consistency in recording this type of donation, and will help in maintaining a record of such transactions.
-
-</thinking>
-
 # Act Of Donation - Help Guide
 ## Purpose
 The Act Of Donation form is used to document the transfer of a vehicle without monetary payment, allowing for accurate and consistent recording of this type of transaction.

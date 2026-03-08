@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed for an individual to apply as a distributor for a company or organization. It likely requires information about the individual's contact details, language proficiency, experience, education, and certifications. The form might be used by a business or organization to assess a potential distributor's qualifications and fit for a role.
-
-The form has multiple fields for collecting various types of information, including contact details (address, email, phone), language proficiency, experience, education, and certifications. The form also includes fields for languages spoken, references, and a date and time field. This suggests that the form is comprehensive and covers a range of aspects of the individual's background and qualifications.
-
-Before filling out this form, it's essential to review the required fields, as not all fields are marked as required. This might help you determine which fields you need to fill out carefully. Also, be aware that some fields have specific options to choose from, such as language proficiency, education, and certifications, which might impact how you answer these questions.
-
-It's also worth noting that the form includes separate fields for English and other languages, experience, and other aspects, suggesting that the individual has a multilingual background or experience, and might be required to be proficient in multiple languages or have experience in different areas.
-
-</thinking>
-
 # O.leste_Distributor_Application_Form - Help Guide
 ## Purpose
 This form is designed for individuals to apply as a distributor for a company or organization.

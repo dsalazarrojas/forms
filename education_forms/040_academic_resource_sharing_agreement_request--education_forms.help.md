@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Resource Sharing Agreement Request - Help Guide
 ## Purpose
 The Academic Resource Sharing Agreement Request form is used to request access to academic resources such as database access, software licenses, lab equipment, and other specialized instruments. This form ensures that both the resource owner and the requester agree on the terms of use, including the duration of access, access level, and any potential liabilities.

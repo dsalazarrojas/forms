@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kids Performance Assessment - Help Guide
 
 ## Purpose

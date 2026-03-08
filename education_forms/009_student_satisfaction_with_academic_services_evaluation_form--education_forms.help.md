@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about their overall experience with academic services. The goal is to assess their satisfaction with various aspects of the academic services provided, including the quality of instruction, availability of resources, support from instructors and peers, and overall satisfaction. This form is meant to be a self-reporting tool for students to provide honest and constructive feedback that can help improve the academic services offered.
-</thinking>
-
 # Student Satisfaction With Academic Services Evaluation Form - Help Guide
 ## Purpose
 This form is intended to gather feedback from students about their experience with academic services. By completing this form, you will be helping us understand your perceptions and opinions about the quality and availability of resources and support provided.

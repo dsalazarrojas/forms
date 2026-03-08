@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to set goals for themselves, which can help them stay motivated and focused on their objectives. It's essential to complete this form carefully and accurately to ensure that students' goals are well-defined and achievable. Before filling out this form, please make sure you have a clear understanding of what you want to achieve and that you haven't completed this form previously.
-</thinking>
-
 # Student Goal Setting Form - Help Guide
 ## Purpose
 The Student Goal Setting Form is a tool to help students set and track their goals in a structured and organized manner. It's a critical part of the student development process, allowing them to identify areas of improvement, set realistic objectives, and establish a plan to achieve them.

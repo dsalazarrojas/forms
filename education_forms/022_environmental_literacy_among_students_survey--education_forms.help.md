@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is a user-facing survey designed to gauge the environmental literacy among students. The purpose of this form is to collect information on students' awareness, attitudes, and participation in environmental activities. This form is not meant to be filled out by non-students or non-administrators. Please ensure you are a current student to complete this form.
-
-</thinking>
-
 # Environmental Literacy Among Students Survey - Help Guide
 ## Purpose
 This form is designed to gather information from students about their awareness and attitudes towards environmental issues and their participation in environmental activities.

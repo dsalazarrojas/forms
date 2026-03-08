@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic and personal information from students applying to a youth initiative program. The form should only be used for students who are eligible and meet the specified requirements. The purpose of this form is to gather relevant information about the student's background, interests, skills, and qualifications. This information will be used to evaluate the student's suitability for the program. Please make sure to fill out this form accurately and truthfully. If you are unsure about any of the questions, you can contact the program administrators for clarification or guidance.
-</thinking>
-
 # Youth Initiative Program Application Form - Help Guide
 ## Purpose
 The Youth Initiative Program Application Form is designed to collect information from students applying to the program. It is essential to fill out this form accurately and truthfully to ensure a smooth application process.

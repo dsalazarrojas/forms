@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to assess the readiness of a trainer for a specific training program. It collects information about the trainer's category, description of the training program, skills and qualifications, feedback, additional comments, deliverables, and other relevant details such as date and time of the training, contact information, and readiness assessments. This form is meant to be completed by trainers to self-assess their readiness to provide training, and the results will be used by program managers or administrators to review and approve their readiness.
-
-</thinking>
-
 # Trainer Readiness Assessment - Help Guide
 ## Purpose
 This form is designed to help assess the readiness of trainers for a specific training program.

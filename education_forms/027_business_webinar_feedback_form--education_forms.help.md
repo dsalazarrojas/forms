@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Webinar Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of business webinars, helping us understand their experience and identify areas for improvement. Your input is valuable in shaping our future webinars to better serve your needs.

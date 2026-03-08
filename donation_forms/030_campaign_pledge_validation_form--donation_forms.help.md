@@ -1,7 +1,3 @@
-<thinking>
-This form is used for validating and recording donations to a campaign. It is crucial that you enter accurate information to ensure that the donor's pledge is properly recorded and communicated with them. Before proceeding, please ensure that you have permission from the donor to share their information and that it matches their actual contact information. Also, please avoid duplicating efforts and ensure that this form is used for new pledges only.
-</thinking>
-
 # Campaign Pledge Validation Form - Help Guide
 ## Purpose
 This form is used to record and validate pledges to a campaign, ensuring accurate and timely communication with donors.

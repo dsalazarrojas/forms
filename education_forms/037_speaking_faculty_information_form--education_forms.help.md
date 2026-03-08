@@ -1,8 +1,3 @@
-<thinking>
-This form is for faculty members to provide information about their speaking engagements. This form is likely used in academic or professional settings where faculty members need to submit information about their speaking presentations, talks, or events. The form aims to collect details about the speaker, their presentation or talk, and the event itself. To ensure the form is completed accurately, it is essential to review each field carefully and provide clear explanations for each section.
-
-</thinking>
-
 # Speaking Faculty Information Form - Help Guide
 
 ## Purpose

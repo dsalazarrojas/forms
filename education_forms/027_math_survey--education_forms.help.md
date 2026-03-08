@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from students about their math abilities and interests. This form will help us better understand how students perceive their math abilities and interests, which will aid in creating relevant and effective math educational resources. Before filling out the form, please ensure that you are a genuine student and not a teacher or other staff member attempting to access the form for administrative purposes. To ensure accurate results, please do not fill out this form multiple times. If you have already filled out this form, please do not fill it out again. If you're unsure about any field, please contact the relevant authority for clarification....</thinking>
-
 # Math Survey - Help Guide
 ## Purpose
 The Math Survey is a form designed to collect information from students about their math abilities and interests. This form helps us better understand how students perceive their math abilities and interests, aiding in the creation of relevant and effective math educational resources.

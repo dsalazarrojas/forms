@@ -1,6 +1,4 @@
-# <thinking>...this form is designed to support your charity to partner with us. This guide assumes that you're already familiar with the partnership opportunities with our organization, and this form will help you navigate our process for applying. If you have any further questions or concerns, please don't hesitate to contact us. Please review the form to ensure you're not duplicating any existing partnerships.</thinking>
-
-# Charity Partnership Application Form - Help Guide
+# # Charity Partnership Application Form - Help Guide
 
 ## Purpose
 

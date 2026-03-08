@@ -1,6 +1,3 @@
-<thinking>
-To design a user-facing help guide for this form, we need to clarify the purpose of the form, how to complete it, and what each field means. Based on the provided YAML, the form appears to be for registering individuals for an event or workshop associated with an education expo. It captures contact information and details about the individual's level of education, interests, and registration preferences. The form may be for attendees, speakers, or organizers of the event.</thinking>
-
 # Education Expo Registration Form - Help Guide
 ## Purpose
 The Education Expo Registration Form is designed to collect information from individuals interested in or planning to attend an educational event or workshop related to the expo.

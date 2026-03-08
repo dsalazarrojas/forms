@@ -1,7 +1,3 @@
-<thinking>
-This form is for a law school practice exam, which is designed to help students assess their knowledge and skills in law-related subjects. The form is a series of questions and prompts that aim to evaluate students' understanding of various legal concepts and principles. To complete this form, students will be asked to provide written responses to certain questions and select multiple-choice options for others. The form is intended to be completed by students, but it may also be used by instructors to collect additional information or feedback.
-</thinking>
-
 # law_school_practice_exam - Help Guide
 ## Purpose
 The law school practice exam is a tool for law students to assess their knowledge and skills in law-related subjects.

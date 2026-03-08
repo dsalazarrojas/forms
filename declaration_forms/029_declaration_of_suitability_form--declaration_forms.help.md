@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Declaration Of Suitability Form" is to assess the suitability of a user for a particular activity or role. This form is used to gather information about the user's roles, activities, and placement. The form is not required to be completed for all users, and it is intended to be filled out by users who are interested in or already involved in certain activities or roles. To ensure that this form is not filled out by users who are not relevant, the system will check for duplication of user responses. This form is not a certification or validation form, but rather a way to gather information to better understand user capabilities.
-</thinking>
-
 # Declaration Of Suitability Form - Help Guide
 ## Purpose
 The Declaration Of Suitability Form is used to gather information about a user's suitability for certain activities or roles.

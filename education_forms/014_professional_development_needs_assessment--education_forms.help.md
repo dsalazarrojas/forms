@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assess the professional development needs of individuals in the context of education and learning. It is meant to gather information about a user's background, experience, and goals related to professional development. The form is designed to be simple and straightforward, allowing users to provide a brief account of their situation. It is not intended for complex or in-depth analysis, but rather for a quick and casual understanding of a user's professional development needs.
-
-Internal note: This form is part of the "education_forms" category, and it is meant to be a general assessment tool. There is no duplication or overlap with other forms in the same category.
-
-</thinking>
-
 # professional_development_needs_assessment - Help Guide
 ## Purpose
 This form is designed to collect information about your professional development needs, helping us better understand your situation and provide relevant support.

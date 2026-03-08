@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to participate in the Open Education Initiative. Before starting, please ensure you have a clear understanding of what the Open Education Initiative is about and that you are eligible to participate. It is also essential to note that you will be asked to confirm your submission multiple times to ensure your participation request is genuine.
-Please do not submit this form if you have already participated in the initiative or if you are not genuinely interested in joining. This will help us maintain the integrity of our participant database.
-</thinking>
-
 # Open Education Initiative Participation Request Form - Help Guide
 ## Purpose
 The Open Education Initiative is a project that aims to make education more accessible and effective. This form is designed to collect information from individuals who wish to participate in the initiative, and it will be reviewed to ensure that your submission is genuine and meets the necessary criteria.

@@ -1,9 +1,3 @@
-<thinking>
-The "multiple_intelligence_survey" form is likely designed to collect multiple types of survey responses from a single user. Each page of the form is meant to collect information related to different aspects of a person's intelligence or educational background. This form is probably used in an educational or psychological setting, such as a research study, a personality assessment, or a talent evaluation. However, without more information about the specific use case, it's hard to be certain.
-
-Before filling out this form, please ensure that you're not duplicating any existing entries. If you're unsure whether to fill out a particular page, contact the responsible party for clarification.
-</thinking>
-
 # multiple_intelligence_survey - Help Guide
 ## Purpose
 This form is designed to collect multiple types of survey responses from a single user.

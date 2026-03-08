@@ -1,11 +1,3 @@
-<thinking>
-This form is used to record and track late work submitted by students. The purpose of this form is to provide an overview of the student's work status, reason for late submission, and any comments or feedback from the teacher. This form is intended to be used for students who submit their work after the original due date.
-The form is designed to collect information about the late work in a structured and consistent manner, making it easier for teachers to track and manage late submissions. To ensure accurate and consistent usage, it is essential that users understand the purpose and requirements of this form.
-
-Before filling out this form, please review the following sections to ensure you have a clear understanding of what is required and how to complete it correctly.
-
-</thinking>
-
 # sva_late_work_form - Help Guide
 ## Purpose
 This form is used to record and track late work submitted by students.

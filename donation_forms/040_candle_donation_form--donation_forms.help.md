@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Candle Donation Form - Help Guide
 
 ## Purpose

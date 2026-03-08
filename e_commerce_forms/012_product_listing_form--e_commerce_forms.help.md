@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create or update a product listing in the e-commerce system. The form is used to collect information about a product, including its name, price, image URL, category, description, shipping cost, product tags, product status, and customer information. This form is typically used by merchants or administrators to manage their products in the system. Please ensure that you have all the necessary permissions to access this form, and that you are not duplicating an existing product listing.
-</thinking>
-
 # product_listing_form - Help Guide
 ## Purpose
 The product listing form is a tool used to create or update product listings in the e-commerce system. It is essential to ensure that all required fields are completed accurately and consistently to maintain data quality.

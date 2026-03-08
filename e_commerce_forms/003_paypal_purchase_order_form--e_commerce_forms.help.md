@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a payment form for a PayPal purchase order, likely used for online transactions or e-commerce platforms. The form is designed to collect various pieces of information related to the purchase, including product details, shipping information, and payment settings. The fields include options for multiple products, currencies, and payment methods, suggesting that the form may be used for international transactions or multi-product purchases.
-
-Upon reviewing the form's structure, it seems to be designed for a relatively complex purchase process, requiring detailed information about products, shipping, and payment settings. The form's fields are categorized into several sections, making it easier for users to navigate and provide accurate information.
-
-To ensure that users understand the form's purpose and usage, it is essential to provide clear guidance on how to complete the form, what each field means, and any specific requirements or tips for successful submission.
-
-</thinking>
-
 # PayPal Purchase Order Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect information from users for food parcel requests. This form should be used by internal teams to check for duplicates and ensure that requests are legitimate and not spam. The form is designed to be completed by users with a simple and easy-to-use interface, with fields for user, quantity of food, type of food parcel, collection date, food items, collection location, contact number, email, a message, collection date and time, collection time zone, collection day of the week, collection time, and form submission ID.
-</thinking>
 # Food Parcel Request Form - Help Guide
 ## Purpose
 The Food Parcel Request Form is used to collect information from users for food parcel requests. This form is designed to be completed by users who want to request food parcels.

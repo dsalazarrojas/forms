@@ -1,8 +1,3 @@
-<thinking> 
-The form is intended to guide users on the proper use of paraphrasing and quotation in communication, covering topics such as the purpose of paraphrasing and quotation, common mistakes to avoid, determining when to paraphrase or quote, effective strategies, handling disagreements or misunderstandings, providing examples of well-crafted paraphrased and quoted sentences, best practices for using quotes in academic writing, and situations where paraphrasing and quoting are effective. The form ensures that users understand the importance of accurately representing original texts, avoiding common pitfalls, and effectively conveying information.
-
-</thinking>
-
 # Paraphrasing & Quotation Use Guide - Help Guide
 ## Purpose
 

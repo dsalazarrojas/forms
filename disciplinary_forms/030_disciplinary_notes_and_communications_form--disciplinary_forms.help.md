@@ -1,7 +1,3 @@
-<thinking> 
-The form's purpose is to document disciplinary actions and notes related to employee conduct, allowing for detailed records to be kept and communication to be efficiently managed. This form is intended for use in workplace settings where employee behavior or performance may need to be addressed, and it's designed to help ensure that such interactions are thorough, fair, and well-documented.
-</thinking>
-
 # disciplinary_notes_and_communications_form - Help Guide
 ## Purpose
 The **Disciplinary Notes and Communications Form** is used to document disciplinary actions and notes related to employee conduct. This form is intended for use in workplace settings where employee behavior or performance may need to be addressed.

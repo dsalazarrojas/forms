@@ -1,19 +1,3 @@
-<thinking>
-
-To provide an effective user-facing help guide, we need to understand the purpose of the form and its relation to the internal workflow. From the YAML, it's clear that this form is used for onboarding curriculum developers. It's essential to ensure that the user understands the context and the expected outcome of filling out this form.
-
-The form appears to be focused on collecting information related to the user's personal and professional details, team information, and onboarding expectations. This includes fields such as name, email, role, department, and skills, among others. The form likely serves as a centralized hub for tracking and managing the onboarding process for new curriculum developers within the organization.
-
-**Internal reasoning check:**
-
-* Does the form aim to ensure that all necessary information is collected for a comprehensive onboarding process?
-* Does it help in identifying potential gaps or inconsistencies in the data collected?
-* Does it facilitate effective communication between team members, team leads, and education managers?
-
-If yes to the above, we can proceed with the help guide.
-
-</thinking>
-
 # Curriculum Developer Onboarding Form - Help Guide
 ## Purpose
 This form is designed to gather information from new curriculum developers to aid in their onboarding process. It helps in streamlining the onboarding experience by collecting all necessary details in one place.

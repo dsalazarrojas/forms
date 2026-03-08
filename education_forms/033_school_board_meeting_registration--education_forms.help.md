@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Board Meeting Registration - Help Guide
 ## Purpose
 This form is used to register attendees for a school board meeting. It captures necessary information for planning and coordination. Ensure that you are registering only for meetings you are attending or planning to attend. Duplicates should not be submitted. 

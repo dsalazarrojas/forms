@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Continuing Education Program Referral Form - Help Guide
 ## Purpose
 This form is used to refer a candidate to our continuing education programs. A referral can be submitted by anyone, including colleagues, managers, and instructors, who believe that a candidate would benefit from our programs.

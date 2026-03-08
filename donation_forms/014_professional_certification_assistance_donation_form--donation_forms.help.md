@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a professional certification assistance donation, which is a specific type of donation that helps fund the development and maintenance of tools and resources for certification programs. The purpose of this form is to provide a way for donors to specify their interest in supporting certification programs and to provide additional information about their donation, such as the certification they are interested in and the amount they are willing to donate. This form is likely to be used by administrators or certification program managers to track and process donations and to assign tools and resources to certified individuals.
-</thinking>
-
 # Professional Certification Assistance Donation Form - Help Guide
 ## Purpose
 This form is used to collect information for a professional certification assistance donation, which helps fund the development and maintenance of tools and resources for certification programs.

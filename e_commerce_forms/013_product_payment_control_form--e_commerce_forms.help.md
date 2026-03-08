@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a way to control various aspects of product payment control, such as product pricing, payment methods, and customer information. This form likely helps in managing and processing payments for products within an e-commerce system.
-</thinking>
-
 # Product Payment Control Form - Help Guide
 ## Purpose
 

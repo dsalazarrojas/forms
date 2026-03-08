@@ -1,17 +1,3 @@
-<thinking>
-
-The LEA Affirmation Of Consultation With Non Public School Officials form is designed to collect information about the non-public school officials with whom the school district has consulted regarding the proposed charter school. This form is intended to gather data for record-keeping and reporting purposes, ensuring that the school district can accurately document and track its consultations.
-
-To confirm that the form purpose and content are relevant, I checked the following:
-
-* The form is part of the "education_forms" category, which suggests it is related to educational activities.
-* The form title includes "LEA" (Local Education Agency), which implies it is for local education authorities.
-* The options provided in the "Non Public School Officials" and "Non Public School Districts" fields suggest it is for recording consultations with external parties.
-
-No duplication of effort is expected as the form is a standalone entity with a clear and specific purpose.
-
-</thinking>
-
 # LEA Affirmation Of Consultation With Non Public School Officials - Help Guide
 ## Purpose
 The LEA Affirmation Of Consultation With Non Public School Officials form is designed to collect information about the non-public school officials with whom the school district has consulted regarding the proposed charter school.

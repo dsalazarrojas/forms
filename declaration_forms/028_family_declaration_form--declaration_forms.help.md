@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to collect information from multiple family members. It is designed to accommodate up to 25 family members, each identified by a "First Member", "Second Member", "Third Member", and so on until "Twenty-Fifth Member". This form is likely used in situations where a large family needs to declare their members for official purposes, such as government records, social benefits, or insurance claims.
-The following fields are designed to capture the names of each family member, but no other information such as age, relation, or contact details are requested, implying that the purpose is to provide a simple way to list family members without requiring extensive data collection.
-
-To complete this form, users will need to type in the names of each family member in the corresponding text boxes.
-</thinking>
-
 # Family Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect the names of up to 25 family members from the user.

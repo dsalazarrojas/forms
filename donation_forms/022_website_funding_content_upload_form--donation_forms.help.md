@@ -1,7 +1,3 @@
-<thinking>...
-To ensure a smooth and successful submission, please verify that you need to upload website content funding information and that you are not duplicating existing entries. If you are unsure, you can reach out to the internal team for clarification.
-</thinking>
-
 # Website Funding Content Upload Form - Help Guide
 ## Purpose
 This form is designed to help you upload website content funding information for review and potential publication. It's essential to provide accurate and complete information to ensure successful publication.

@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users who need to complete the Temporal Expressions Assessment form. The purpose of this form is to provide a comprehensive assessment of an individual's understanding of temporal expressions, which are crucial in various fields such as linguistics, philosophy, and cognitive science. The form is designed to evaluate an individual's ability to comprehend and apply temporal concepts, including their perception of time, temporal reasoning, and language expression.
-
-The form is divided into several sections, each designed to assess a specific aspect of temporal expressions. The assessment is not a standardized test, but rather a tool to gauge an individual's understanding and ability to reason about temporal concepts. 
-
-Before proceeding, please note that this form is not a timed test, and there is no specific time limit to complete it. You can take as much time as needed to answer each question and provide your response.
-
-If you are unsure about any question or need clarification, please feel free to reach out to the form administrator for assistance.
-
-The information collected from this form will be used for research and educational purposes only, and the responses will be kept confidential.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # Temporal Expressions Assessment - Help Guide
 ## Purpose
 The Temporal Expressions Assessment is a tool to evaluate an individual's understanding and ability to reason about temporal expressions, which are essential in various fields such as linguistics, philosophy, and cognitive science.

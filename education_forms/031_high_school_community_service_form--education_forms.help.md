@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # high_school_community_service_form - Help Guide
 ## Purpose
 The High School Community Service Form is designed to track and report community service hours completed by high school students. It helps to record hours earned and pledged, as well as details about the service activities undertaken. This form ensures accurate and consistent reporting of community service hours, which can be used for various purposes such as awarding credits, verifying hours for scholarships, or for reporting to external organizations.

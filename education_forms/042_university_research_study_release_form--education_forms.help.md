@@ -1,8 +1,3 @@
-<thinking> 
-The University Research Study Release Form is a critical document that captures essential information about participants in research studies. This form serves as a formal record of the participant's involvement in the study, ensuring transparency, consent, and accurate tracking of study progress. It's essential to complete this form accurately and thoroughly to maintain data integrity and avoid duplication of efforts. Ensure you are authorized to access and complete this form, as it contains sensitive participant information.
-
-</thinking>
-
 # University Research Study Release Form - Help Guide
 ## Purpose
 The University Research Study Release Form is used to gather information about participants in research studies, including their demographics, study details, and study progress. This form is a critical document that ensures transparency, consent, and accurate tracking of study progress.

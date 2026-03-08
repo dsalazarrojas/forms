@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information and donations for the Adaptive Sports Program. The Adaptive Sports Program aims to provide sports opportunities for individuals with physical disabilities. This form is used to receive donations from individuals who want to support the program. The Adaptive Sports Program will use the collected information to process the donations, send receipts, and communicate with the donors.
-
-The form is divided into several sections, each with its own purpose. The information collected will be used for internal purposes and will not be shared with any third parties.
-
-The purpose of this form is to ensure that the donor's information is correctly filled out and processed, and to provide a clear understanding of what the Adaptive Sports Program does and how it will use the donated funds.
-</thinking>
-
 # Adaptive Sports Program Donation Form - Help Guide
 ## Purpose
 The Adaptive Sports Program Donation Form is a tool used to collect donations and information from individuals who want to support the program. The form helps the Adaptive Sports Program to process the donations, send receipts, and communicate with the donors.

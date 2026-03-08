@@ -1,10 +1,3 @@
-<thinking>
-This form is for booking student transportation, likely for field trips, field visits, or other educational activities. The form is likely used by school staff or administrators to collect information about students who need transportation and to manage logistics for the event.
-
-The following form fields are intended to collect student-specific information and preferences for the transportation booking process. 
-
-</thinking>
-
 # Student Transportation Booking Form - Help Guide
 ## Purpose
 This form is used to book student transportation for educational activities. Please use this form to provide information about the student and any specific needs or requirements for the transportation booking.

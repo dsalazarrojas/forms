@@ -1,18 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the IEP Form, first let's analyze the form's purpose and content. This form appears to be designed for Individualized Education Program (IEP) documentation and management. The form is likely used by teachers, parents, and educators to gather and record information about a student's performance, progress, and goals. The IEP form seems to be a structured template for capturing essential data points related to a student's educational needs and progress.
-
-Upon reviewing the form's fields, we can identify the following key areas of focus:
-
-*   Student information (parent name, student name, birthdate, and age)
-*   Goal setting (8 goals)
-*   Teacher and parent involvement (teacher name, teacher email, parent name, and parent email)
-*   Review and progress tracking (date of last review, date of next review, frequency of reviews, and review by)
-*   Additional comments and notes
-
-With this understanding, we can now create a detailed help guide for the IEP Form.
-
-</thinking>
-
 # IEP Form - Help Guide
 ## Purpose
 The IEP Form is a tool used to document and track a student's Individualized Education Program (IEP). It gathers essential information about the student's performance, progress, and goals.

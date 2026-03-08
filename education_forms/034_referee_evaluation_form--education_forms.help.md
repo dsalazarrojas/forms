@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be completed by a referee after evaluating a game or match, with the goal of providing feedback on the performance of the referee. The form should only be used for games played at the competition level of High. The form will help the referee evaluate their own performance and provide insights for improvement.
-</thinking>
-
 # Referee Evaluation Form - Help Guide
 ## Purpose
 The Referee Evaluation Form is used by referees to assess their own performance after a game or match. The form helps referees reflect on their strengths and weaknesses and identify areas for improvement.

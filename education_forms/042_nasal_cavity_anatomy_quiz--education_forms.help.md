@@ -1,5 +1,3 @@
-<thinking>...I'm an expert form designer and technical writer, let's create a user-facing help guide for the "Nasal Cavity Anatomy Quiz" form. I will review the provided YAML fields and create a clear and concise guide for end-users... </thinking>
-
 # Nasal Cavity Anatomy Quiz - Help Guide
 
 ## Purpose

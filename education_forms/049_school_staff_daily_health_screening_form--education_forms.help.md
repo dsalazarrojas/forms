@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to screen school staff for potential health risks, particularly related to COVID-19. This form helps identify staff members who may be at risk of transmitting or contracting the virus, enabling the school to take necessary precautions to maintain a safe environment.
-</thinking>
-
 # School Staff Daily Health Screening Form - Help Guide
 ## Purpose
 The School Staff Daily Health Screening Form is a tool used to quickly assess school staff members' health status, helping the school to take necessary measures to prevent the spread of illness.

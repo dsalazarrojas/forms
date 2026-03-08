@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure relevance, this form is intended for drivers to evaluate the condition of cabs after a thorough inspection. The form's primary goal is to gather information about the cab's overall state, including its exterior and interior condition, safety equipment, and performance. This information will aid in making informed decisions regarding the cab's serviceability and future usage. The form's fields cover various aspects of a cab's condition, from its vehicle ID and license plate number to its engine performance and safety equipment. The driver's input will help assess the cab's overall condition and identify any necessary repairs or improvements.
-</thinking>
-
 # Cab Evaluation Form - Help Guide
 ## Purpose
 The Cab Evaluation Form is designed to help drivers assess the condition of cabs after a thorough inspection. The form collects information about the cab's overall state, including its exterior and interior condition, safety equipment, and performance.

@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be for the discharge process of an orthotics treatment. 
-The discharge process is a necessary step to complete a patient's treatment. 
-It indicates the patient has completed the required treatment and is being discharged. 
-This form may be used to track the progress of the patient and ensure that the treatment is completed successfully. 
-Please ensure this form is used for the correct purpose and not for other uses like scheduling or intake forms. 
-It is also possible that this form is used for multiple types of treatments or patients, but it's best to use it for the intended purpose to avoid confusion.
-</thinking>
-
 # Orthotics Discharge Form - Help Guide
 ## Purpose
 The Orthotics Discharge Form is used to document the completion of the orthotics treatment for a patient. It helps in tracking the progress of the treatment and ensuring that it is finished successfully.

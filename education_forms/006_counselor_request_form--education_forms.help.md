@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a counselor's support for an individual. The goal of this form is to help counselors quickly and easily gather all the necessary information for a meeting with a client. Before completing this form, ensure that you are authorized to create and submit this form for your intended purpose. Additionally, avoid duplicating this form with another individual to prevent any potential conflicts or miscommunication.
-</thinking>
-
 # Counselor Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from a client to support a counselor in providing the best possible service. It gathers essential details for a meeting, allowing the counselor to understand the client's needs and preferences.

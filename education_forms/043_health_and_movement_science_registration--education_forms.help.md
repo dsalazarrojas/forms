@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect user information for Health and Movement Science registration. This form is not affiliated with any specific platform and is an original adaptation created using public survey topic metadata. The form's purpose is to gather essential details from users, including their contact information and emergency contact details, which are all optional fields.
-
-</thinking>
-
 # health and movement science registration - Help Guide
 ## Purpose
 This form is intended to collect user information for Health and Movement Science registration. It is not affiliated with any specific platform and is designed to gather essential details from users.

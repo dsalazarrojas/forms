@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information for e-commerce platform integration, allowing users to provide details about the platform they want to integrate with our system. The purpose of this form is to collect necessary data for smooth integration and enable our development team to understand the requirements and preferences of the users. This form is not meant to be a comprehensive integration guide, but rather a starting point for further discussion and clarification.
-
-</thinking>
-
 # e_commerce_platform_integration_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for e-commerce platform integration. It helps our development team understand the requirements and preferences of the users.

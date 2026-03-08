@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance and progress of an intern who participated in a Bible College Camp internship. It is used to assess their work quality, reliability, initiative, teamwork, communication skills, spiritual growth, and problem-solving abilities. This form is designed to provide an objective evaluation of the intern's performance, strengths, and areas for improvement. It is intended for use by the internship supervisor or mentor to provide a comprehensive assessment of the intern's experience. The evaluation will guide further decision-making, such as rehire recommendations, to ensure the intern's development and growth.
-</thinking>
-
 # Bible College Camp Internship Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance and progress of an intern who participated in a Bible College Camp internship. It provides an objective assessment of the intern's work quality, reliability, initiative, teamwork, communication skills, spiritual growth, and problem-solving abilities.

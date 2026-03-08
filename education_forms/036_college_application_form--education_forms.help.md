@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is designed to collect information from college applicants about their personal details, academic background, and preferences for enrollment and housing. The form will help the admissions team to evaluate each applicant's eligibility and suitability for the college program. 
-This form will be used to collect data on applicants' demographics, academic performance, extracurricular activities, and other relevant information.
-
-</thinking>
-
 # College Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from college applicants about their personal details, academic background, and preferences for enrollment and housing. The form will help the admissions team to evaluate each applicant's eligibility and suitability for the college program.

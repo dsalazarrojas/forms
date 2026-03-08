@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge users' familiarity with key aspects of dystopian fiction, a subgenre of science fiction that is characterized by a dystopian society or world. The purpose of this form is to collect information about users' preferences and opinions on various aspects of dystopian fiction, including genres, characters, settings, plots, themes, and authors.
-To ensure relevance, this form is intended for users who have some knowledge of the dystopian fiction genre. The questions are designed to be straightforward and easy to understand, with the goal of providing a snapshot of users' tastes and opinions.
-To prevent duplication, each question is designed to be unique and distinct from the others, with the exception of the "Liked" series, which are intended to capture users' preferences for movies, TV shows, and other media related to the dystopian fiction genre.
-</thinking>
-
 # Dystopian Fiction Quiz - Help Guide
 ## Purpose
 This form is designed to gauge your familiarity with key aspects of the dystopian fiction genre. It will ask you about your preferences and opinions on various aspects of this genre, including genres, characters, settings, plots, themes, and authors.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a donation to an orphanage. The form will ask for details about the donation, the donor, and the orphanage being supported. The fields are designed to be filled out by a user who wants to make a donation, and the form will help the orphanage staff to quickly and efficiently process the donation information. The form will be used for both online and offline submissions. 
-</thinking>
-
 # orphanage_donation_form - Help Guide
 ## Purpose
 This form is used to collect information for a donation to an orphanage. Fill out this form to provide details about the donation you'd like to make and support the orphanage you'd like to help.

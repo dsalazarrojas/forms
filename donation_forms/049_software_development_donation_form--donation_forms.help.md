@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form for collecting donations for software development. This form should only be used for legitimate donation purposes and not for other types of requests.
-
-The purpose of this form is to collect information for a donation to be made for software development purposes. Please ensure that the purpose of the donation is indeed for software development and that you are not using this form for other purposes.
-</thinking>
-
 # software_development_donation_form - Help Guide
 ## Purpose
 The form is used for collecting donations for software development purposes.

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a lesson planning form used in an educational setting. It could potentially be used to track the progress of students and lessons in an educational institution. However, the form does not specify the institution, level of education, or specific use case, so it may be intended for general use. 
-It seems that the form is designed to collect information about a lesson, including the topic, date, time, subject, and student/teacher details. It also includes fields for comments and feedback. To ensure that each field is filled out correctly, it would be ideal to provide clear guidelines for each field. 
-It seems there might be a need to add more context about which fields are required or not. This form could be used in a variety of settings, from elementary school to universities. 
-It would be beneficial to provide an example of how this form is used. The form could be used for both planning and reporting lessons.
-</thinking>
-
 # Lesson Plan Form - Help Guide
 ## Purpose
 The Lesson Plan Form is a document used to plan and report on educational lessons. It is used to gather information about lessons and track progress.

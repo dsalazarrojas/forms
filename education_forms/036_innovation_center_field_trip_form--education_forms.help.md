@@ -1,10 +1,3 @@
-<thinking>
-The Innovation Center Field Trip Form is a tool used to schedule and organize field trips for students to the Innovation Center. This form will be used by students, teachers, and parents to submit trip requests and receive confirmation.
-
-This form should only be filled out for trips that are scheduled to occur in the coming weeks. Please ensure that you have checked with the Innovation Center staff to confirm the trip details before filling out this form.
-
-Before proceeding, please check that there are no duplicate field trip requests for your student(s). If you have already submitted a form, you do not need to fill out this form again.</thinking>
-
 # Innovation Center Field Trip Form - Help Guide
 ## Purpose
 The Innovation Center Field Trip Form is used to schedule and organize field trips for students to the Innovation Center. This form will be used by students, teachers, and parents to submit trip requests and receive confirmation.

@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a research-related form, likely used for submitting theories or ideas to be reviewed by experts or peers. The form has multiple fields that seem to be related to the theory submission process, such as providing a title, subject area, abstract, manuscript, and list of reviewers. The fields appear to be optional, which is unusual for a submission form. This form might be intended for internal or informal use within an organization, rather than a formal academic or publishing process. The form's fields and options are not overly complex, suggesting that it's meant for a specific, limited scope of use. Given the form's simplicity, it's possible that it's a template for a more extensive research management system.
-
-Given the form's structure and metadata, the purpose of this form seems to be a basic theory submission tool, possibly for internal use. The fields appear to be designed for providing basic metadata about the theory submission, such as title, abstract, and manuscript. The form might be used by researchers, academics, or professionals within a specific domain or organization. The form's fields and options might be subject to modification or extension based on the user's specific needs and requirements.
-
-The form does not seem to be affiliated with any specific platform or service, suggesting that it's an original creation. This form's metadata does not indicate any proprietary or licensed content. The form's metadata also suggests that it's released under a Creative Commons license, making it free for use, modification, and even sale with proper attribution.
-
-This analysis is based on the provided metadata and form structure. Further clarification or additional context would be helpful to confirm the form's actual purpose and intended use.
-
-</thinking>
-
 # Research Theory Submission Form - Help Guide
 
 ## Purpose

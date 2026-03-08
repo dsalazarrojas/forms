@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "Sister, Soldier: Writing Through Storms," is designed to help users provide information about their writing experiences, specifically how they approach lecturing, and gather applications for various writing programs. The purpose of this form is to collect insights on writing techniques, applications, and preferences.
-
-Before filling out the form, please ensure that you are familiar with its content and purpose. This form was created to adapt to public survey data and is not affiliated with any form platform.
-
-</thinking>
-
 # Sister, Soldier: Writing Through Storms - Help Guide
 ## Purpose
 The form is designed to collect user experiences and preferences on writing, particularly on lecturing and application methods.

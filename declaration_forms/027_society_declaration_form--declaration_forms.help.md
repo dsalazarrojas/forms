@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to guide end users through the process of filling out the Society Declaration Form. The form is designed to collect information from society members regarding their details, including authorized representatives and confirmation of their participation. Please fill out the form carefully and accurately to ensure the correctness of the submitted information. Before proceeding, please note that this guide is a general explanation and might not cover all possible scenarios or exceptions. If you have any doubts or concerns, please contact the support team.
-</thinking>
-
 # Society Declaration Form - Help Guide
 ## Purpose
 The Society Declaration Form is a document used to collect information from society members regarding their details, including their authorized representatives and confirmation of their participation. The form is designed to ensure the accuracy of the submitted information and to help the relevant authorities in making necessary decisions.

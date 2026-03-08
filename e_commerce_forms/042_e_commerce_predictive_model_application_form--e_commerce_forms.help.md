@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information for the application of a predictive model in an e-commerce context. It is intended for internal use and does not require any sensitive information. The purpose of this form is to gather relevant details about a specific use case or project, and its completion is mandatory for the project to be considered for application. 
 
 Please note that some fields might seem optional but are still required to be filled in to ensure that the project's requirements and constraints are well understood.

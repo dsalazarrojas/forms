@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This is a user-facing help guide for a student satisfaction survey form. The purpose of the form is to gather feedback from students about their experiences and perceptions of the school, its mission, and facilities. To complete this form, you will be guided through a series of questions that cover different aspects of the school's quality and overall environment. The form consists of several sections, each with a specific set of questions that help us understand student satisfaction.
 
 ## Student Satisfaction Survey Form - Help Guide

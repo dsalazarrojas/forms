@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and comments from parents or guardians who have attended a parent-teacher conference with their child's teacher. This form aims to understand the parent's experience, perception of the communication between the teacher and themselves, and their willingness to attend future conferences.
-</thinking>
-
 # parent-teacher-conference-survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from parents or guardians about their experience at a parent-teacher conference. Completing this form will help us understand your thoughts, opinions, and suggestions for future conferences.

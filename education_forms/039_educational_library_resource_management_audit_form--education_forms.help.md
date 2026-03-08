@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by librarians or other library staff to perform a management audit on educational resources within their institution. The purpose of this form is to gather information about the condition and availability of these resources, which can help identify areas for improvement in resource management. This form should only be used for educational library resource management, and any other use may be subject to internal approval.
-This form should not be filled out for non-educational purposes.
-</thinking>
-
 # educational_library_resource_management_audit_form - Help Guide
 ## Purpose
 The purpose of this form is to conduct a management audit on educational resources within your library or institution. It helps librarians and staff evaluate the condition and availability of resources, and identify potential areas for improvement in resource management.

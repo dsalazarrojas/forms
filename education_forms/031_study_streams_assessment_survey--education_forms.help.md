@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from students about their experience with different study streams and teaching methods. It is intended to be used by students to provide their input on the quality of teaching, support, and overall satisfaction with their study experience. This form is not meant to be completed by teachers or staff members. Please ensure you have permission from your institution or department to complete this form and that you have not already submitted similar feedback.
-</thinking>
-
 # Study Streams Assessment Survey - Help Guide
 ## Purpose
 This form is used to collect your feedback and opinions on your study experience with different study streams and teaching methods. Please answer the questions honestly and to the best of your ability.

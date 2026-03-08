@@ -1,10 +1,3 @@
-<thinking>Form purpose:
-This form is designed for users to register for a marketing education session. The form collects information about the session, contact person, and any other relevant details. It is intended for internal use and will not be shared publicly. 
-
-Non-duplication and relevance checks will be applied to ensure that users only register once for each session and that the information entered is accurate and complete.
-
-</thinking>
-
 # Marketing Education Session Registration Form - Help Guide
 ## Purpose
 This form is used to register for a marketing education session. Please ensure that you are registering for the correct session and that the information provided is accurate and complete.

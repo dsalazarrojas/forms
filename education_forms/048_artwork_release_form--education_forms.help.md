@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Artwork Release Form, which is used to obtain permissions and rights for an artwork to be used, published, or displayed. The form is intended for artists who wish to release their work for various purposes, including educational, commercial, or social media use. It is essential to review the form carefully and provide accurate information to ensure that the artist's rights are respected and that the artwork is used correctly.
-
-Before filling out the form, please note that the artist's rights and permissions are subject to change. It is the artist's responsibility to review and understand the terms of the form before signing it.
-
-The following guide will walk you through each section of the form and provide explanations for each field.</thinking>
-
 # Artwork Release Form - Help Guide
 ## Purpose
 The Artwork Release Form is a document that grants permission for an artwork to be used, published, or displayed. It ensures that the artist's rights are respected and that the artwork is used correctly.

@@ -1,12 +1,3 @@
-<thinking>
-We are providing a help guide for the DAT Trainee Survey form. This form is designed to collect information from trainees, likely for educational purposes such as research, evaluation, or demographic data collection. The form has 25 fields, most of which are text fields with varying labels and purposes.
-
-To confirm, the form is not meant for public or external use, and its completion is likely restricted to a specific group of users, such as students or trainees. The fields are not excessively complex, with most being simple text input fields or multiple-choice options.
-
-Before proceeding, it's essential to review each field carefully to ensure the correct completion of the form. If you're unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # DAT Trainee Survey - Help Guide
 ## Purpose
 The DAT Trainee Survey is a collection of questions designed to gather information from trainees. Please answer each question to the best of your ability.

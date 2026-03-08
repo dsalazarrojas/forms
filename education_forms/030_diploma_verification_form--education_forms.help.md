@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose and instructions for the "Diploma Verification Form", I'll analyze the provided YAML fields.
-The form likely aims to verify the identity and credentials of an individual, specifically regarding their educational background. It appears to be used for administrative or official purposes, such as verifying the authenticity of diplomas or certificates. The form might be part of a larger process for background checks, academic or professional verification, or even for immigration or visa purposes.
-Given the fields provided, it seems that the form requires personal details like name, date of birth, and contact information (phone and email). There's also a field for uploading a document, which could be a scanned copy of the diploma or certificate. The "Verification Type" field likely indicates whether the document has been verified or not. The "Select File" field might allow users to browse and upload multiple documents or select specific files from their computer or device.
-To avoid duplication of information, the form seems to be designed for a single user or individual. This form is not intended for multiple users or organizations.
-</thinking>
-
 # Diploma Verification Form - Help Guide
 ## Purpose
 The "Diploma Verification Form" is a document intended for verifying the authenticity of diplomas or certificates. It collects personal details and document information to ensure accurate identification and authentication.

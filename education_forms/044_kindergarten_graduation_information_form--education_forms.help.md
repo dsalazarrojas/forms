@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a kindergarten graduation ceremony. The form is used to gather details about the student, including their identification, contact information, and graduation details. To prevent duplication of effort, it is recommended that teachers only access this form for students who have not previously completed a graduation form. Please review each field carefully to ensure accurate and complete information is provided. If you are unsure about any field, please ask the teacher for clarification.
-</thinking>
-
 # Kindergarten Graduation Information Form - Help Guide
 ## Purpose
 This form is used to collect information for a kindergarten graduation ceremony.

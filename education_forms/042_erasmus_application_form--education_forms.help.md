@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for individuals who wish to apply for an Erasmus program, a student exchange program that allows students and young professionals to study, work, and live in another country while being supported by the Erasmus program. The purpose of this form is to collect personal and educational background information from applicants to process their applications.
-
-Before filling out this form, ensure you have all necessary documents ready, such as your ID, academic records, and motivation letter. It's also essential to review the form carefully to avoid any confusion or errors.
-
-</thinking>
-
 # Erasmus Application Form - Help Guide
 ## Purpose
 This form is used to collect necessary information for the Erasmus program application. Please fill out the form accurately and thoroughly to ensure a smooth application process.

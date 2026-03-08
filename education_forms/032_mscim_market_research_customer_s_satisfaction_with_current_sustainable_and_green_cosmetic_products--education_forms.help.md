@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on satisfaction with MscIM's sustainable and green cosmetic products. The form aims to gather opinions on various aspects of the products, including customer satisfaction, product features, price, and customer service. The form is intended for customers to express their thoughts and experiences with MscIM's products and services. To avoid duplication, please do not fill out this form if you have already provided feedback or if you are not a customer of MscIM.
-</thinking>
-
 # MscIM Market Research Customer's Satisfaction With Current Sustainable And Green Cosmetic Products - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on satisfaction with MscIM's sustainable and green cosmetic products.

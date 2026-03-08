@@ -1,7 +1,3 @@
-<thinking>
-The Youth Ministry Internship Evaluation Form is used to evaluate the performance and growth of youth interns who have completed an internship with the youth ministry department. This form helps supervisors and evaluators assess an intern's skills, abilities, and areas of improvement, which in turn helps shape the future of the youth ministry program. By filling out this form, supervisors and evaluators can provide valuable feedback to interns, enabling them to grow and improve in their roles. This form ensures that evaluations are comprehensive and objective, focusing on both positive and negative aspects of the intern's performance.
-</thinking>
-
 # Youth Ministry Internship Evaluation Form - Help Guide
 ## Purpose
 The Youth Ministry Internship Evaluation Form is designed to help supervisors and evaluators evaluate the performance of youth interns and provide feedback for growth and improvement.

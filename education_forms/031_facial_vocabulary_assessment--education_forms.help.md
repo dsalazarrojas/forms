@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Facial Vocabulary Assessment" form is to evaluate a student's response to a series of questions related to facial feature recognition. The form is designed to assess the student's ability to identify and describe different facial features and recognize their relationships. The form may be used in an educational setting to evaluate a student's understanding of facial anatomy or in a clinical setting to assess a patient's cognitive abilities. This form will guide the user through a series of questions that aim to capture the student's or patient's responses to different facial feature recognition scenarios. It's essential to complete this form carefully, as it will help in providing an accurate assessment of the student's or patient's abilities.
-
-This form has 5 pages, each with a different question or set of questions. The questions are designed to be answered based on the student's or patient's observations and descriptions of facial features. Please make sure to answer each question accurately and thoroughly.
-
-Before starting the form, please ensure that you have not completed it previously. If you have any doubts or concerns about the form, please don't hesitate to contact the administrator for assistance.
-
-</thinking>
-
 # Facial Vocabulary Assessment - Help Guide
 ## Purpose
 The Facial Vocabulary Assessment form is designed to evaluate a student's response to a series of questions related to facial feature recognition.

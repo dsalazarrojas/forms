@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Committee Feedback Form - Help Guide
 
 ## Purpose

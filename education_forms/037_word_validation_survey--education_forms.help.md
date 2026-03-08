@@ -1,9 +1,3 @@
-<thinking>
-This form, "Word Validation Survey," is designed to collect information about an individual's reading and writing habits. The purpose of this form is to gauge respondents' comprehension and usage of different types of text materials. It appears this form is intended for a specific group, possibly individuals with a certain level of education or profession. 
-The form consists of several sections, each focusing on a different aspect of text consumption. Section A - Comprehension explores an individual's reading and writing preferences, while Section B - Usage looks into their actual usage of texts in daily activities. 
-The form does not appear to be redundant with any other form in the system given the unique questions asked.
-</thinking>
-
 # Word Validation Survey - Help Guide
 ## Purpose
 The Word Validation Survey is designed to collect information about an individual's reading and writing habits.

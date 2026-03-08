@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help the management of a school collect information from applicants for on-site elementary school teaching positions. The form is intended for use by individuals looking to apply for such a position and is meant to provide a simple and efficient way for applicants to provide their relevant background information. To ensure that the form is used effectively, please be aware that it is not affiliated with, endorsed by, or derived from any form platform, and it has been created using only public metadata as inspiration.
-</thinking>
-
 # Junior On Site Elementary School Teacher Application Form - Help Guide
 ## Purpose
 The Junior On Site Elementary School Teacher Application Form is used to collect information from applicants for on-site elementary school teaching positions.

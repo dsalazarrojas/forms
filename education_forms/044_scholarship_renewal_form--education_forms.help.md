@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure this scholarship renewal form serves its purpose accurately and effectively, it is crucial to understand the context and requirements that drive its creation. The scholarship renewal form is designed to collect information from students who have already been awarded a scholarship but are now seeking renewal for an additional semester or year of funding. By providing a comprehensive overview of the student's current status, including their academic and financial circumstances, the form helps the scholarship committee assess whether the student is eligible for renewal.
-
-Before proceeding, ensure you have not already submitted a scholarship renewal form for the same period or semester. If you are unsure about your eligibility or have already submitted a renewal form, please contact the scholarship committee for guidance.
-
-</thinking>
-
 # scholarship_renewal_form - Help Guide
 ## Purpose
 The scholarship renewal form is designed for students who have been awarded a scholarship previously and are seeking renewal for an additional semester or year of funding. This form helps the scholarship committee evaluate the student's continued eligibility for the award based on their current academic and financial status.

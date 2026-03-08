@@ -1,7 +1,3 @@
-<thinking>...Internal reasoning: This form is designed for assessing a student's disability status, gathering essential information about their disability type and whether they require special accommodations. The fields should be clear and straightforward, with minimal duplication and maximum relevance to the purpose. This form will help the student provide their personal details and circumstances, which will aid the educational institution in providing necessary support and accommodations.
-
-... </thinking>
-
 # Disability Assessment Form - Help Guide
 ## Purpose
 The Disability Assessment Form is a document used to gather information about a student's disability status and circumstances. This form is essential in helping educational institutions provide necessary support and accommodations to ensure equal access to education for students with disabilities.

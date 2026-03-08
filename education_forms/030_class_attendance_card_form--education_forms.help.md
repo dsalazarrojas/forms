@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information about a student's attendance in a class. It is used to record the student's name, ID number, date of birth, grade level, class or course name, teacher's name, and other relevant details such as attendance status, arrival and departure times, reason for absence or late arrival, and level of participation in class. This form is likely used by educators or school administrators to track student attendance and maintain records for each student. 
-
-To confirm, this form is for recording student attendance and does not pertain to other educational activities or events. 
-
-Please proceed with the form help guide below.
-
-</thinking>
-
 # Class Attendance Card Form - Help Guide
 ## Purpose
 This form is used to track student attendance in a class.

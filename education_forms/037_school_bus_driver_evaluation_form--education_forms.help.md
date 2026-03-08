@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance and safety concerns of school bus drivers. The goal is to gather information on the quality of service provided by the driver during the evaluation period. The form should only be filled out by authorized personnel, such as supervisors or school administrators, who have direct experience with the driver's performance. 
-</thinking>
-
 # School Bus Driver Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance and safety concerns of school bus drivers. It helps supervisors and school administrators assess the quality of service provided by the driver during the evaluation period.

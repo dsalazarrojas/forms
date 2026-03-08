@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to gather feedback and information from parents regarding their experiences and concerns about the upcoming school year, their child's needs, and their expectations for the school. This form will help administrators and teachers understand the challenges and opportunities for the school year ahead and inform decisions to better support students and families. This form will only be filled out by parents and guardians of students, and its completion will be used to improve the quality of educational services. The form includes both multiple-choice and free-text questions, allowing parents to provide detailed and structured feedback. The completion of this form will help the school create a safe and supportive environment for students and their families. 
-</thinking>
-
 # Back To School Parent Survey - Help Guide
 ## Purpose
 This form is a survey for parents to share their thoughts and concerns about the upcoming school year, their child's needs, and the school's services.

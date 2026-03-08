@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to configure settings for restaurant delivery services. This form is likely used in a management interface or administrative panel to set up and manage delivery-related settings for a restaurant or food establishment. The form allows users to select service areas, set delivery fees, choose channels for delivery (e.g., online, phone, etc.), and input notes about services. This form may be used by restaurant managers or owners to customize their delivery settings for optimal customer service and efficiency.
-
-Before filling out this form, please make sure you have all relevant information and approvals. This form may be part of a larger process or workflow, so ensure you have a clear understanding of the context and any dependencies or interactions with other systems or stakeholders.
-
-This form is not intended to be filled out in isolation. Please review and understand the form's purpose and usage before proceeding.
-
-The form has multiple fields with varying requirements, so please be aware of the options and settings presented in each field.
-
-To avoid errors and confusion, please review each field carefully and enter accurate information.
-
-This form is not a static document. Its content and fields may change over time as the business or system evolves.
-
-Please review and update your delivery settings regularly to ensure they remain relevant and effective.
-
-</thinking>
-
 # Restaurant Delivery Settings Form - Help Guide
 ## Purpose
 The Restaurant Delivery Settings Form is used to configure settings for restaurant delivery services, allowing you to customize your delivery options and ensure efficient service to your customers.

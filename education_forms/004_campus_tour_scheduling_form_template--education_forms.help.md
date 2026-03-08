@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to collect information from visitors to the campus who are interested in scheduling a tour. The form is designed to gather essential details about the visitor's identity, preferences, and needs in order to schedule an efficient and personalized tour experience.
 </thinking>
 

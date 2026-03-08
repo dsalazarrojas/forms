@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations that want to sponsor a specific project or initiative. The purpose of this form is to capture essential details about the sponsor, such as their name, contact information, and sponsorship preferences. Completing this form will allow the project team to communicate with the sponsor, provide updates, and tailor the sponsorship experience to their specific needs.
-
-When filling out this form, please be aware that each field is a crucial component of the sponsorship process. The form is designed to be completed by one person per sponsor. If you are filling out this form on behalf of an organization, please ensure that you have the necessary authorization to do so.
-
-Please also note that some fields may have specific requirements or implications for your sponsorship. For example, selecting "Yes" for "Donation Frequency" indicates a recurring donation, while selecting "No" implies a one-time donation.
-
-This form is designed for one-time or recurring sponsorships. If you have any questions or need clarification on any field, please don't hesitate to contact us.
-
-It is recommended to fill out the form with accurate and up-to-date information to ensure a smooth sponsorship process.
-</thinking>
-
 # Sponsor Donation Form - Help Guide
 
 ## Purpose

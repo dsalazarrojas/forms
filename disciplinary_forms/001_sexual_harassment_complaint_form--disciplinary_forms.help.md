@@ -1,10 +1,3 @@
-<thinking>
-The Sexual Harassment Complaint Form is used to document and report incidents of sexual harassment within the workplace. This form serves as a means to gather accurate and detailed information about the incident, ensuring that the necessary steps are taken to address and resolve the situation.
-This form is intended to be completed by the victim of the harassment, providing a clear and concise account of what occurred. It's crucial that the form is filled out accurately and thoroughly to enable the relevant parties to take appropriate action.
-Before completing the form, the user should ensure that they have reported the incident to the relevant authority, as the form is not a substitute for the initial reporting process.
-The form should not be used to report a case of harassment that has already been reported or resolved. If a case has already been reported, please do not complete this form.
-</thinking>
-
 # Sexual Harassment Complaint Form - Help Guide
 
 ## Purpose

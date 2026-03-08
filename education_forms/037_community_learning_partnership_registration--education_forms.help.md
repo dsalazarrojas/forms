@@ -1,8 +1,3 @@
-<thinking>
-This form is for organizations that want to partner with our organization for community learning initiatives. It is crucial to ensure that the information provided is accurate and truthful to facilitate effective partnership coordination.
-Before starting, please check if you have any existing partnership with us to avoid duplicate registrations.
-</thinking>
-
 # Community Learning Partnership Registration - Help Guide
 
 ## Purpose

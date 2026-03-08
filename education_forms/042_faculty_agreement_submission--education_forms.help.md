@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information from faculty members about their agreements with the institution. The purpose of this form is to gather data on faculty contracts, including the start and end dates, department, contract type, contract length, acknowledgements, and other relevant details. The form is meant to be completed by faculty members to submit their agreements for review and approval.
-</thinking>
-
-# Faculty Agreement Submission - Help Guide
+> # Faculty Agreement Submission - Help Guide
 ## Purpose
 This form is used to collect information from faculty members about their agreements with the institution.
 

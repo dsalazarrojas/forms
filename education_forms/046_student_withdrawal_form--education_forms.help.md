@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that this form is used for its intended purpose and that the same information is not duplicated. This form is used to collect information for students who wish to withdraw from a course. It's essential to complete this form accurately and thoroughly. The form fields should match the student's actual situation, and any additional comments should provide further context...</thinking>
-
 # Student Withdrawal Form - Help Guide
 ## Purpose
 The Student Withdrawal Form is used to collect information from students who are withdrawing from a course. It's essential to ensure the form is completed accurately and thoroughly, as this information will be used to process the withdrawal.

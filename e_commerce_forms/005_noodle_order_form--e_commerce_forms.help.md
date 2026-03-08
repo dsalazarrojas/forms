@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for noodles, a type of food product. The form allows customers to enter their name, email, phone number, address, and other relevant details. The form is used to process customer orders and ensure that the correct payment method is selected. The form is not intended for internal use, and the payment gateway options are likely for external payment processing. The form is a simple text-based form with a mix of text, email, number, and select_one fields. I will not duplicate any existing documentation, and this guide will focus on explaining each field in detail.</thinking>
-
 # Noodle Order Form - Help Guide
 ## Purpose
 This guide explains how to complete the Noodle Order Form, a form designed for customers to place orders for noodles.

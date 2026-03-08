@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Application - Help Guide
 
 ## Purpose

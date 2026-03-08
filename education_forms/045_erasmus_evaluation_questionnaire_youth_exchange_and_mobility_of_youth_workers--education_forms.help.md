@@ -1,5 +1,3 @@
-<thinking>... internal reasoning check: this form is likely for evaluating youth exchange programs, such as study abroad programs. The purpose of this form is to collect data about these programs. The form is likely used by the organizers of the programs to track and evaluate participant information, such as demographics, travel details, and other relevant details. This form is likely not a one-time use form, as it appears to be designed for repeated use over time. Therefore, it's unlikely that this form is a simple data collection form for a single event or transaction... form completion is likely a process that occurs over time...</thinking>
-
 # erasmus_plus_evaluation_questionnaire_youth_exchange_and_mobility_of_youth_workers - Help Guide
 ## Purpose
 This form is used to collect and evaluate information about youth exchange and mobility programs. It helps program organizers track participant demographics, travel details, and other relevant data.

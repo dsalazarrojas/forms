@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by school administrators or educators to gather information about the support needs of students, teachers, and schools. It may be used to track student progress, teacher feedback, and school performance. The form likely has sections for student demographics, support levels, services provided, and feedback. The purpose of this form is likely to help school staff identify areas of need and allocate resources effectively. The form may be used to monitor student outcomes, teacher support, and school performance over time. To avoid duplication of effort, it would be helpful to ensure that this form is not submitted more than once per student or school.
-
-</thinking>
-
 # School Student Support Audit Form - Help Guide
 ## Purpose
 The School Student Support Audit Form is designed to gather information about students' support needs and services provided by schools. This form helps school staff identify areas of need and allocate resources effectively.

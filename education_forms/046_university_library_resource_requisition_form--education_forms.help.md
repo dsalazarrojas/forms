@@ -1,12 +1,3 @@
-<thinking>
-This is a form used to request resources from the university library, and it's a crucial part of the library's resource management process. To ensure that this form is completed correctly, we need to verify that the requester is indeed a valid library user and that the form hasn't been submitted previously. This form is only meant for internal use within the university, so we don't need to worry about external data privacy concerns. 
-
-The form is divided into sections, each with its own purpose. The first section is for the requester's contact information and resource details, which includes the resource's title, type, due date, status, and notes. The next section is for additional contact information and resource attachments, which can be used to provide further clarification or supporting documents.
-
-The form's purpose is to gather information for the library's resource management team to process and fulfill the resource requests. It's essential to fill out the form accurately and completely, as it will help the team to understand the needs and urgency of the resource request. 
-
-</thinking>
-
 # university-library-resource-requisition-form - Help Guide
 ## Purpose
 The University Library Resource Requisition Form is designed to gather information for the library's resource management process. This form is used to request resources from the library and to track the status of these requests.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather consent from individuals who wish to share their educational impact stories. This form is designed to ensure that those sharing their stories are aware of how and when their stories will be shared, and to provide options for how they would like to be recognized. By completing this form, individuals can control the dissemination of their stories and ensure that their anonymity or attribution preferences are respected. This form is typically used for educational purposes, such as in research or to share success stories with the school community.
-
-To ensure that this form is used correctly, it will be reviewed and validated by multiple parties to prevent duplication or unauthorized sharing of sensitive information.
-
-</thinking>
-
 # Educational Impact Story Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent for sharing educational impact stories. It ensures that individuals control how and when their stories are shared, and allows them to provide information for attribution.

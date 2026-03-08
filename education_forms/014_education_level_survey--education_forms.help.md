@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be related to education, likely for survey or research purposes.
-The form has a variety of questions that cover topics such as educational background, current level, student age group, educational attainment, highest degree level, educational institution, teacher training, and language of education. It's likely used to collect data about an individual's educational experiences and background.
-The form seems to cater to a general audience, without any specific focus on a particular industry or region.
-It's essential to ensure that the responses are genuine and not duplicated, as the form asks for information that could be sensitive or personal.
-</thinking>
-
 # education_level_survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's educational background and experiences. It's a survey that aims to gather data on various aspects of education, including educational levels, institutions, languages, and training.

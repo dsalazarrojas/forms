@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a student's allergies, including the type of allergy, its severity, and any relevant medical information. The form is likely used by schools or educational institutions to ensure the safety and well-being of students with allergies. It's essential that this form is completed accurately and thoroughly to prevent any potential allergic reactions or emergencies. This form should not be completed by anyone who is not authorized to do so. Please ensure that you have the necessary permissions and clearances before filling out this form.
-</thinking>
-
 # Student Allergy Registration Form - Help Guide
 ## Purpose
 This form is used to gather information about a student's allergies, which is essential for the student's safety and well-being.

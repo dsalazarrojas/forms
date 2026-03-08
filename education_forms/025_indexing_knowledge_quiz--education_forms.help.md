@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback or opinions from users about their indexing knowledge. It is likely used in an academic or educational setting to assess how well users understand a particular subject or topic. This form is not meant to be a rigorous assessment tool, but rather a way to gauge general awareness and understanding. Please ensure that you are filling out this form based on your actual knowledge and not speculating or guessing. If you are unsure or do not have information on a particular topic, it is okay to leave the field blank.
-</thinking>
 # Indexing Knowledge Quiz - Help Guide
 ## Purpose
 The Indexing Knowledge Quiz form is designed to gather feedback or opinions from users on their indexing knowledge. It is intended to be used in an educational or academic setting to gauge understanding of a subject or topic.

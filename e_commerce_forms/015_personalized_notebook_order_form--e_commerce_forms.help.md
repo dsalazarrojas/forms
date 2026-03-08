@@ -1,11 +1,3 @@
-<thinking>
-
-The Personalized Notebook Order Form is designed to allow customers to place orders for customized notebooks. The form captures essential information from the customer, including their contact details, order preferences, and shipping method. This information is used to create a unique and personalized order that meets the customer's requirements.
-
-To avoid errors, please ensure that all required fields are filled correctly. Some fields are optional but can be useful for additional details.
-
-</thinking>
-
 # Personalized Notebook Order Form - Help Guide
 ## Purpose
 The Personalized Notebook Order Form is used to collect information from customers for a customized order.

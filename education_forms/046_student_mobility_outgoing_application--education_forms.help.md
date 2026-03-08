@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for students to submit an application for outgoing mobility, which is a process used to facilitate academic exchange between higher education institutions in the same or different countries. Outgoing mobility is essential for students to enhance their academic and professional experience, and this form is a crucial step in the process. To ensure that the form is completed correctly, it is essential to follow the instructions carefully.
 
 ## Student Mobility Outgoing Application - Help Guide

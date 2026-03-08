@@ -1,7 +1,3 @@
-<thinking>
-This is a template for creating a help guide for the "LEAP Scholarship Application" form, which appears to be a multi-page form with several fields for collecting various types of information from users.
-</thinking>
-
 # LEAP Scholarship Application - Help Guide
 ## Purpose
 The "LEAP Scholarship Application" form is designed to collect information from individuals applying for a scholarship. The form is composed of multiple pages, each with its own set of questions or fields that are used to determine eligibility and gather necessary documents.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for evaluating the medical condition of a driver. The purpose of this form is to collect information about the driver's physical and mental health, as well as their medical history. This form is likely used by employers or insurance companies to assess the driver's ability to operate a vehicle safely. The form is not for commercial or business use, but rather for personal use.
-
-Before proceeding, please ensure that you have completed all the relevant sections and fields accurately. If there are any doubts or questions, please refer to your employer's guidelines or consult with a medical professional.
-</thinking>
-
 # driver_medical_evaluation_form - Help Guide
 ## Purpose
 The driver_medical_evaluation_form is designed to gather information about a driver's medical condition for evaluation purposes.

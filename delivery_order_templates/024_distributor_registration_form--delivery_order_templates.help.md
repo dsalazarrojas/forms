@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Distributor Registration Form". This form is designed to collect information from distributors for various purposes, likely related to orders, payments, or other business-related activities. Upon reviewing the form schema, I will ensure that the guide is clear, concise, and practical for end-users to understand the form's purpose, how to complete it, and what each field represents.</thinking>
-
 # Distributor Registration Form - Help Guide
 ## Purpose
 The Distributor Registration Form is a form used to collect information from distributors for various business-related activities, such as orders, payments, or other administrative purposes.

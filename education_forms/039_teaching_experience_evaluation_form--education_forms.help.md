@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating the teaching experience of an instructor. The form should only be completed by authorized personnel to provide feedback on the quality of instruction and course content. The evaluation period should reflect a specific time frame when the instructor was teaching the course. The instructor quality, section quality, and course quality fields are rating fields that should be filled in with one of the provided options. The form is not intended for student use, so student_comments and form_comments fields are not required.
-</thinking>
-
 # Teaching Experience Evaluation Form - Help Guide
 ## Purpose
 The Teaching Experience Evaluation Form is used to evaluate the teaching experience of an instructor. This form is for authorized personnel to provide feedback on the quality of instruction and course content.

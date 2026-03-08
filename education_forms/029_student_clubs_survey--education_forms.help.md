@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about student clubs at the school. This form will help administrators and teachers understand the different aspects of each club, including their purpose, activities, leadership structure, and funding sources. By providing detailed and accurate information, this form will assist in making informed decisions about club management and resource allocation.
-</thinking>
-
 # Student Clubs Survey - Help Guide
 ## Purpose
 The Student Clubs Survey is a form designed to collect information about student clubs at the school. This form helps administrators and teachers gather data on each club's purpose, activities, and other relevant details to make informed decisions about club management and resource allocation.

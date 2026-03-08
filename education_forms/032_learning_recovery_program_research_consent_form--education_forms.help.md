@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Recovery Program Research Consent Form - Help Guide
 ## Purpose
 This form is designed to be used in conjunction with the Learning Recovery Program, a research initiative aimed at understanding the impact of the program on participants. The information collected through this form will help researchers to better comprehend the program's effectiveness and identify areas for improvement.

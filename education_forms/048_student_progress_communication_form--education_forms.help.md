@@ -1,5 +1,3 @@
-<thinking>What this form is meant to do: it's for educators to report on student progress. We want to collect information about the student's current state, any comments or issues, and next steps for improvement. This form is likely used by teachers or instructors to update students' records and communicate their status to other educators or parents. We need to make sure the form is clear and concise for users to fill out efficiently.</thinking>
-
 # Student Progress Communication Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect input for IEP (Individualized Education Program) purposes. It is meant to gather information from educators and school staff to document student progress, goals, and other relevant details. The form is used to create a structured and organized record of student information, which can be used for assessment, planning, and reporting. 
-
-Before starting, please ensure that the form is relevant to your specific use case and that you have permission to collect and use the data. It is also essential to review and follow your institution's policies and guidelines regarding data collection and handling. 
-
-To avoid duplication of effort, please check if a similar form already exists within your institution or if there are any existing templates or protocols that can be used. If you find that this form is not suitable for your needs, you can always consider adapting or modifying it to suit your specific requirements.
-</thinking>
-
 # input_for_iep - Help Guide
 ## Purpose
 This form is designed to collect input for IEP purposes, specifically to document student progress, goals, and other relevant details for educators and school staff.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the ICT In Education Awareness Quiz form, ensuring that end-users understand its intended use, how to complete it, and the significance of each field.
-</thinking>
-
 # ICT In Education Awareness Quiz - Help Guide
 ## Purpose
 The ICT In Education Awareness Quiz form is designed to assess users' knowledge and awareness about the benefits and challenges of integrating Information and Communication Technology (ICT) in educational settings. This quiz aims to evaluate understanding of ICT's role in enhancing learning outcomes, improving access to information, and identifying potential barriers to adoption.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect private tuition registration information from students. The form is used to register students for private tuition sessions. The purpose of this form is to gather essential details about the student, including name, contact information, and availability. This information will be used to schedule and conduct private tuition sessions.
 
 # student_private_tuition_registration_form - Help Guide

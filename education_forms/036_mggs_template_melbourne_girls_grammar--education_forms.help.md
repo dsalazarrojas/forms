@@ -1,17 +1,3 @@
-<thinking>
-
-This form, "MGGS Template Melbourne Girls Grammar", is a template designed to collect information from parents or guardians of students attending Melbourne Girls' Grammar (MGGS) school. The form likely aims to gather contact information and other details for administrative or promotional purposes.
-
-As the form is designed to be a template, it's expected that it will be filled out for different purposes or events within the school. To confirm, I will assume this form will be used to:
-
-* Gather contact details for students attending MGGS for events, such as parent-teacher interviews or concerts
-* Collect demographic information for statistical analysis or surveys
-* Record student participation in school activities
-
-Given the form's structure, it's possible that the same form might be used for other purposes, so I will provide an explanation that covers general cases, but doesn't tie the explanation too closely to a specific use-case.
-
-</thinking>
-
 # MGGS Template Melbourne Girls Grammar - Help Guide
 ## Purpose
 

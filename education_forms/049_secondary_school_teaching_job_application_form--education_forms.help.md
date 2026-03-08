@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help potential secondary school teachers apply for a teaching position, providing an easy-to-use platform to submit their credentials and supporting documents. The goal of this form is to streamline the application process and reduce paperwork for both applicants and school administrators.
-
-Before filling out the form, please ensure you have the required documents and information ready. If you have already applied for a teaching position at this school, you might be duplicating effort, so it is recommended to check the school's website or HR department to confirm that this application is necessary.
-
-The form consists of several sections, each asking for specific information about the applicant. Please make sure to answer all the fields accurately and completely. If you have any questions or need assistance, do not hesitate to contact the school's HR department.
-
-</thinking>
-
 # Secondary School Teaching Job Application Form - Help Guide
 ## Purpose
 The Secondary School Teaching Job Application Form is a streamlined way for potential teachers to submit their applications for a teaching position at our school. Please fill out the form accurately and completely to ensure a smooth application process.

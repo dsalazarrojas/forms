@@ -1,5 +1,3 @@
-<thinking>...to avoid duplication or irrelevance, please ensure the form is used for its intended purpose: creating mind maps to visualize and document complex ideas and concepts. It is meant for individuals or teams to brainstorm, organize, and present their thoughts in a structured and visually appealing way.</thinking>
-
 # Information Mind Map Form - Help Guide
 ## Purpose
 The Information Mind Map Form is designed to help you create mind maps for planning, brainstorming, and presenting complex ideas and projects. It guides you through a series of questions to help you structure your thoughts and visualize your concepts in a visually appealing way.

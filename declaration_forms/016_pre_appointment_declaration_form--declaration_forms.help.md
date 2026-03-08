@@ -1,5 +1,3 @@
-<thinking>...The purpose of the pre-appointment declaration form is to collect information from patients before an appointment. This form is typically filled out by the patient before their appointment to provide essential details about their medical history, travel history, symptoms, and other relevant information. This information helps healthcare professionals prepare for the appointment and ensure a more efficient and effective consultation. Before starting, please note that this form is not intended for patients who have already been diagnosed with a medical condition. If you're unsure, please consult your healthcare provider for guidance...</thinking>
-
 # pre_appointment_declaration_form - Help Guide
 ## Purpose
 The pre-appointment declaration form is used to collect information from patients before an appointment. This form gathers details about the patient's medical history, travel history, symptoms, and other relevant information to help healthcare professionals prepare for the appointment.

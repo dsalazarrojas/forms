@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to request a seminar session on specific topics or subjects. To ensure that the request is relevant and not a duplicate, please note that only one session request can be submitted per user per day. It's essential to provide accurate and clear information to facilitate the efficient processing of your request.
-</thinking>
-
 # seminar_session_request_form - Help Guide
 ## Purpose
 The seminar session request form is designed for users to submit requests for seminar sessions on specific topics or subjects. It helps the organization's team to gather information about the user's needs and preferences for the seminar session.

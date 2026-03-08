@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quiz On Inclusion Policies - Help Guide
 
 ## Purpose

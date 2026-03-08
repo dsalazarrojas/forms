@@ -1,27 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for an equal exchange, likely for an online marketplace or store. The form is structured into multiple pages (customer details, product selection, payment and shipping information, etc.) and has a mix of text, select, and note fields. This form is likely used for a specific business use case and has some required fields for customer data and order information.
-
-The form is composed of the following pages and fields:
-
-- Customer Details: This page collects basic customer information such as name, email address, and phone number.
-- Select Products: This page allows customers to select multiple products from a list of options.
-- Payment Information: This page is for collecting payment details.
-- Order Total: This page is for displaying the total cost of the order.
-- Shipping Address: This page is for collecting shipping address information.
-- Payment Method: This page is for selecting the payment method.
-- Shipping Method: This page is for selecting the shipping method.
-- Order Comments: This page is for leaving notes or comments for the order.
-- Customer Notes: This page is for leaving notes or comments for the customer.
-- Order Status: This page is for selecting the status of the order.
-- Email Address: This page is for collecting email address.
-- Phone Number: This page is for collecting phone number.
-- Shipping Cost: This page is for collecting shipping cost.
-- Order Comments: This page is for leaving additional notes or comments for the order.
-
-Given the structure and fields, this form is likely used for a specific business use case such as an online store or platform.
-
-</thinking>
-
 # Order Form For Equal Exchange - Help Guide
 ## Purpose
 The Order Form For Equal Exchange is a form intended to collect information from customers for an equal exchange, likely for an online marketplace or store.

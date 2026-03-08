@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Occlusal Splints Design Survey - Help Guide
 
 ## Purpose

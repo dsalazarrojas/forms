@@ -1,10 +1,3 @@
-<thinking>
-To prevent duplication, this form should only be completed once a year, or when there's a significant change in circumstances, e.g., when the borrowing or repayment is settled. This form is used to document and track domestic currency borrowing between individuals or entities.
-
-Please note that some fields might be self-explanatory, but a brief explanation is still necessary for transparency and clarity.
-
-</thinking>
-
 # Domestic Currency Borrowing Declaration Form - Help Guide
 ## Purpose
 The Domestic Currency Borrowing Declaration Form is used to document and track domestic currency borrowing and lending between individuals or entities. This form helps to ensure accurate and up-to-date information about borrowing and lending activities.

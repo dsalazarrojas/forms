@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations seeking insurance relief, which is a type of financial assistance for individuals who are experiencing a difficult time meeting their financial obligations due to unforeseen events or circumstances. The form is designed to be completed by those who wish to donate to support this cause.
-</thinking>
-
 # Insurance Relief Donation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vertebral Column And Joint Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge about the vertebral column and its joints. This quiz is designed to test your understanding of the different parts of the vertebral column, including its anatomy and functionality. The form consists of multiple-choice questions that cover various aspects of the vertebral column, such as its segments, joints, and disks.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for school counselors to document and track student interviews. Each field is designed to capture relevant information about the student, including their name, school year, grade level, and reasons for counseling. The form aims to standardize the data collection process, ensuring consistency and accuracy in tracking student progress and outcomes.
-</thinking>
-
 # School Counselor Interview Form - Help Guide
 ## Purpose
 This form is used for school counselors to document and track student interviews.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect personal and estate-related information from individuals or entities making a declaration. The form is designed to be completed by a representative of the estate or a designated contact person. The form fields are a mix of personal details, estate information, and contact details. This guide will walk through each field to ensure the completion process is clear and accurate.
-</thinking>
-
 # small_estate_declaration_form - Help Guide
 ## Purpose
 The small_estate_declaration_form is used to collect personal and estate-related information from individuals or entities making a declaration.

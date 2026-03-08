@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect donations for hunger relief efforts. This form likely serves an organization that provides aid to those struggling with food insecurity. The purpose of this form is to gather information about the donor's willingness to contribute to the cause. The fields are structured to collect basic contact and payment information, allowing the organization to process and follow up on donations. This form likely does not handle complex payment processing or sensitive financial data, so the fields should not be overly complicated or intrusive. 
-</thinking>
-
 # Hunger Relief Donation Form - Help Guide
 ## Purpose
 The Hunger Relief Donation Form is a simple form designed to collect donations for hunger relief efforts. Fill out this form to contribute to the cause and help make a difference in the lives of those struggling with food insecurity.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a self-appraisal form used for students to evaluate their own performances, progress, or status in a course or educational setting. The form is likely used by students to assess their own strengths, weaknesses, and areas for improvement. It's essential to ensure that this form is only filled out once by each student, to avoid duplicating effort and ensuring accurate self-appraisal.
-</thinking>
-
 # self_appraisal_form - Help Guide
 ## Purpose
 This self-appraisal form is used for students to evaluate their own performances, progress, or status in a course or educational setting.

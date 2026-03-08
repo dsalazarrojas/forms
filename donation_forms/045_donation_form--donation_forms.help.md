@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a donation form designed to collect information from donors, potentially for a fundraising campaign. It includes fields for basic information such as name, email, phone, and address, as well as credit card details like card number, expiration month and year, and CVC. The form also includes fields for categorization and meta information like created at, updated at, and assigned tool.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect donation information from donors for a fundraising campaign. It includes fields for basic information, credit card details, and categorization and meta information.

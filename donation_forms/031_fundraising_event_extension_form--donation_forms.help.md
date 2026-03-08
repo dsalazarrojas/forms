@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect participant information and feedback for a fundraising event. This form likely serves as an extension to a main form, gathering additional details about participants and their donations. The goal is to ensure that all relevant information is collected, making it easier to manage and follow up with participants. Before proceeding, ensure that the form is being used for its intended purpose and that there are no pre-existing forms with similar objectives in the organization.
-</thinking>
-
 # fundraising_event_extension_form - Help Guide
 
 ## Purpose

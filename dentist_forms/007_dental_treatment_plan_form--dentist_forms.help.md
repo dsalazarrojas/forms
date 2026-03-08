@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the "Dental Treatment Plan Form" in an efficient and accurate manner. The form's primary purpose is to gather essential information about a patient's dental treatment, including their name, medical history, insurance provider, and treatment plan. 
-
-The information gathered will be used to create a personalized dental treatment plan tailored to the patient's specific needs. The form is designed to be completed by the patient or a healthcare professional.
-
-To ensure that the form is filled out correctly, please review the following guidelines:
-- Make sure to fill out the form accurately and completely.
-- If any information is unknown or not applicable, please use the available fields to provide the most accurate information possible.
-- Review the form for errors before submitting it.
-
-To complete the form, please follow the instructions below:
-</thinking>
-
 # Dental Treatment Plan Form - Help Guide
 ## Purpose
 The Dental Treatment Plan Form is designed to gather information about a patient's dental treatment needs. This information will be used to create a personalized treatment plan tailored to the patient's specific needs.

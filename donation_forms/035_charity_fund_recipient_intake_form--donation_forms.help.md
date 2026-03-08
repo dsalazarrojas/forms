@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is designed to collect information from individuals or families in need of charity fund assistance. The purpose of this form is to gather essential details about the applicant's personal and financial situation, including demographic information, contact details, and specific assistance requirements. This information will be used to assess the applicant's eligibility for charity fund support. Please ensure that the form is completed accurately and truthfully to ensure a proper evaluation of the applicant's needs.
-
-</thinking>
-
 # Charity Fund Recipient Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals or families in need of charity fund assistance.

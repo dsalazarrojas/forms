@@ -1,23 +1,3 @@
-<thinking>
-The "Archiving Knowledge Quiz" form is designed to gauge a participant's understanding and experience in the field of digital archiving. By completing this form, participants will be assessed on their knowledge of various concepts related to digital archiving, including the primary goal of archiving, optimal file formats, the importance of metadata, and common challenges faced in archiving.
-
-This form is not meant to be a comprehensive assessment of an individual's expertise, but rather a means to gauge their current level of understanding and experience. The results of this quiz are intended to aid in identifying areas where additional training or guidance may be necessary.
-
-Please note that this form is not meant to be submitted by those who are not familiar with the basics of digital archiving. It is best suited for those with some level of experience or training in the field.
-
-To complete this form, please ensure that you have a basic understanding of digital archiving principles. You will be asked to select the correct answers for a series of questions related to the field, and provide any necessary additional information in the text fields.
-
-The form consists of two main sections: "Participant Information" and "Knowledge Assessment". The "Participant Information" section collects basic contact information, such as name and email. The "Knowledge Assessment" section is where you will answer the questions related to digital archiving.
-
-Each question has a set of predefined options for selection. Please choose the correct answer that best describes your knowledge or experience in the field.
-
-In the "Additional Training Needs" field, you will have the opportunity to specify any topics that you need additional training or guidance on.
-
-Upon completion, you will be asked to rate the difficulty of the quiz and provide feedback on the form.
-
-Please take your time to answer the questions carefully, and feel free to ask if you have any questions or need clarification on any of the questions.
-</thinking>
-
 # Archiving Knowledge Quiz - Help Guide
 ## Purpose
 This guide is to help you complete the "Archiving Knowledge Quiz" form, which assesses your understanding and experience in the field of digital archiving.

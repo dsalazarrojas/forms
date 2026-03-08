@@ -1,9 +1,3 @@
-<thinking>
-The Student Interest Form is a crucial tool used by educators to gather information about students' interests, goals, and preferences. This form is typically filled out by students during the enrollment process or at the beginning of a new academic term. It helps teachers and school administrators understand each student's unique needs and tailor their educational approach accordingly. 
-The purpose of this form is to gather essential data about students' grade levels, interests, career goals, and other relevant factors that can inform educational planning and support. 
-To prevent duplication of effort and ensure accurate data collection, please fill out the form only once per student. 
-</thinking>
-
 # Student Interest Form - Help Guide
 ## Purpose
 The Student Interest Form is a crucial tool for teachers and school administrators to understand each student's unique needs and interests. It helps tailor the educational approach to individual students' needs.

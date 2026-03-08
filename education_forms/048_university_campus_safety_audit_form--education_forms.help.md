@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on potential hazards and risks found on university campuses. It helps to identify and track areas of concern, allowing for prompt follow-up and mitigation actions to be taken. The purpose of this form is to ensure the safety and well-being of students, staff, and faculty by providing a systematic way of reporting and addressing hazards. This form is not intended to replace other safety protocols and procedures already in place, but rather complement them for a more comprehensive safety audit.
-</thinking>
-
 # University Campus Safety Audit Form - Help Guide
 ## Purpose
 The University Campus Safety Audit Form is designed to identify and track potential hazards and risks on university campuses. It provides a systematic way to report and address hazards, ensuring the safety and well-being of students, staff, and faculty.

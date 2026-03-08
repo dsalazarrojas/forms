@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect consent from individuals for recording and storing data for creative writing projects. The form is used for internal purposes only and is not intended for public disclosure. It ensures that individuals understand and agree to the storage and use of their responses for creative writing projects. 
-</thinking>
-
 # Creative Writing Reading Recording Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from individuals for recording and storing their responses for creative writing projects. It is used for internal purposes only and does not involve public disclosure of personal information.

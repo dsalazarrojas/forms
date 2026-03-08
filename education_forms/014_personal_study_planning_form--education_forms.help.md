@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personal_study_planning_form - Help Guide
 
 ## Purpose

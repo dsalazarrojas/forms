@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on users' knowledge and preferences related to various religions. The purpose is to understand user demographics, religious beliefs, and interests. This form should only be filled out by users who are familiar with the concept of religions and are willing to answer questions about their beliefs and practices. This form may not be suitable for users who are under 18 years old or do not have a basic understanding of world religions.
-</thinking>
-
 # World Religions Knowledge Quiz - Help Guide
 ## Purpose
 The World Religions Knowledge Quiz is designed to collect data on users' knowledge and preferences related to various religions.

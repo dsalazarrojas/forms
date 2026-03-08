@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Symbolism And Theme Assessment - Help Guide
 ## Purpose
 

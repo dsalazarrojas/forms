@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Customer Insights Academy Registration Form", we need to consider the form's purpose, how to complete it, and what each field means. Based on the provided YAML, the form appears to be for participants to register for the Customer Insights Academy, providing information about themselves, their contact details, program information, additional information, and the ability to upload files. The form's purpose is likely to collect data for administrative or marketing purposes. We should ensure that users understand that this form is not affiliated with any specific form platform and is an original adaptation created using AI.
-</thinking>
-
 # Customer Insights Academy Registration Form - Help Guide
 ## Purpose
 The Customer Insights Academy Registration Form is designed to collect participant information for the Customer Insights Academy. This form is used to gather details about participants, including contact information, program details, and additional information. Please note that this form is not affiliated with any specific form platform and is an original adaptation created using AI.

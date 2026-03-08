@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # surgical_ward_donation_form - Help Guide
 ## Purpose
 The **surgical_ward_donation_form** is a form used to collect donations for the surgical ward. The form is designed to gather general information, donation amount, and payment method from the user. This form is required for all donations.

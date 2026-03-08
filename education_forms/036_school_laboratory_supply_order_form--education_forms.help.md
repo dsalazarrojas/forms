@@ -1,10 +1,3 @@
-<thinking>
-The School Laboratory Supply Order Form is designed to collect information from educators and staff members of educational institutions to place orders for laboratory supplies. The form is meant to be filled out by authorized personnel, who will provide details about the school, department, and specific supplies needed. This form is likely used by institutions to ensure proper inventory management and fulfillment of laboratory supply orders. This form should not be completed by students or unauthorized individuals.
-
-To ensure a smooth order process, please note that each field is optional, but required fields should be filled out to the best of your ability.
-
-</thinking>
-
 # School Laboratory Supply Order Form - Help Guide
 ## Purpose
 This form is used to collect information for laboratory supply orders from educational institutions. Please fill out the form with your school's and department's details to place a successful order.

@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect information for donations to support military personnel or causes. This form is likely used by military organizations or charities to process donations from individuals, possibly for various purposes such as food, medical care, or other forms of aid.
-
-Before proceeding, ensure that the form is relevant and necessary for your specific use case. This form is not intended to be used for other types of forms, and the information provided here is based on the specific schema provided.
-
-The form collects various types of information including personal details, donation amount, payment method, and other relevant details.
-
-To provide a clear and concise help guide for the end users, the fields will be explained in detail below:
-
-</thinking>
-
 # Military Support Donation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "cyberbullying_and_online_aggression_survey" form that covers its purpose, completion instructions, and field explanations. This form appears to be designed to collect information about experiences and behaviors related to cyberbullying and online aggression. The form seems to be structured into multiple sections, each with select multiple options. Our guide should be clear, concise, and practical to help end-users understand what to expect and how to complete the form accurately.
-</thinking>
-
 # cyberbullying_and_online_aggression_survey - Help Guide
 ## Purpose
 The "cyberbullying_and_online_aggression_survey" form is designed to gather information about your experiences and behaviors related to cyberbullying and online aggression. This form will help collect data to better understand the impact of online harassment and identify potential areas for improvement.

@@ -1,15 +1,3 @@
-<thinking>
-As I review the provided YAML structure, it appears that this form is designed to gather information from customers for an online order of beauty supplies. The form includes fields for customer contact information, order details, shipping and payment methods, and terms and conditions acceptance. The form seems to cater to businesses or salons as well, considering the inclusion of a professional license number field and a purchase order number field for payment by PO. The fields for selecting hair care, styling, nail care, tools, and other products indicate that this form is used for ordering various beauty supplies. There is also a field for estimated total, which suggests that the form is also used for quoting or invoicing purposes.
-
-The purpose of this form appears to be for customers to place orders for beauty supplies, either for personal use or for their business, while providing necessary details for shipping and payment. 
-
-Please note that there is no field that indicates a specific minimum order quantity or value for each category of products, which might be a potential point for improvement. It would be beneficial to have this information available to customers to make informed decisions about their orders. 
-
-Also, some fields like "business_name" and "license_number" seem to be redundant or non-relevant for personal orders. A more streamlined approach might be needed to make the form more customer-friendly and efficient. 
-
-However, overall, the form structure appears to be comprehensive and well-organized for the intended purpose.
-</thinking>
-
 # Beauty Supplies Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for an online order of beauty supplies, including various product categories and order details. The form is intended for both personal and business orders.

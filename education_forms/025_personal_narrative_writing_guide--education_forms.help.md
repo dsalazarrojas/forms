@@ -1,7 +1,3 @@
-<thinking>
-The form "Personal Narrative Writing Guide" is designed to collect information about a user's personal background, writing goals, and current position in the context of education or academic writing. It is likely used by students, researchers, or professionals in the field of education to gather insights into their individual backgrounds and writing habits.
-</thinking>
-
 # Personal Narrative Writing Guide - Help Guide
 ## Purpose
 The Personal Narrative Writing Guide is a form designed to collect information about your background, writing goals, and current position. This information will help you to reflect on your own experiences and goals, and can be used as a reference point for future writing and professional development.

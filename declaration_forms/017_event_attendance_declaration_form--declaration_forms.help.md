@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the purpose and usage of the "Event Attendance Declaration Form". This form is designed to collect information about events, including event details, dates, times, and attendees' contact information. 
-
-Before proceeding, ensure you have the necessary permissions to fill out this form, as it may be subject to review or audit by authorized personnel.
-
-This form is not intended for commercial purposes. 
-
-</thinking>
-
 # Event Attendance Declaration Form - Help Guide
 
 ## Purpose

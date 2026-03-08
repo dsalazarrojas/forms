@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the "door_collection_request_form" form is to collect information related to the delivery of products or items. This form is likely used by warehouse or logistics teams to document and communicate details about pickup and delivery processes. It's essential to complete this form accurately to ensure smooth and efficient delivery operations. Please note that this form does not require mandatory information for all fields, but providing complete and accurate details will help improve the delivery experience.
-
-</thinking>
-
 # door_collection_request_form - Help Guide
 ## Purpose
 The "door_collection_request_form" form is designed to collect relevant information about the delivery process. This form is intended for use by warehouse or logistics teams to document and communicate details about pickup and delivery events.

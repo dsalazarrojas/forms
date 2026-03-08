@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to provide feedback about their distance learning experience. The goal is to understand their satisfaction with the course materials, instruction quality, and overall experience. This form is not designed for instructors or administrators to complete, so if you're not a student, you may not need to take this form. If you've already taken a similar survey, your feedback will still be valuable and appreciated.
-</thinking>
-
 # Distance Learning Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their distance learning experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a Donor Feedback Survey form, which is likely used to gather feedback and opinions from donors about their experiences with the organization. The form contains 25 fields, which seems to be a high number of questions. I'm assuming the purpose is to gather comprehensive feedback from donors.
-</thinking>
-
 # Donor Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback and opinions from donors about their experiences with our organization. This feedback will help us to understand what we're doing well and what we can improve on to better serve our donors.

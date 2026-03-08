@@ -1,7 +1,3 @@
-<thinking>
-The Student Media Network Feedback form is likely used by students to provide feedback on the media services provided by the K-State media outlets, such as newspapers, television stations, and podcasts. This form may be used for students to express their preferences, opinions, or concerns about the content they receive. Before creating this form, it's essential to ensure that there isn't an existing form that serves a similar purpose and to avoid duplication of efforts.
-</thinking>
-
 # Student Media Network Feedback - Help Guide
 ## Purpose
 The Student Media Network Feedback form is designed to allow students to provide feedback on the media services provided by K-State. This feedback helps the media team understand what content is preferred, what content is missing, and areas for improvement.

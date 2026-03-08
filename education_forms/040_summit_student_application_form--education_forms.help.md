@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a student's details and status for administrative purposes. It is intended for internal use within an educational institution or organization. This form may be used by staff or administrators to update or create new student records.
-</thinking>
-
 # summit_student_application_form - Help Guide
 ## Purpose
 The summit_student_application_form is used to collect student information and status for administrative purposes within an educational institution or organization.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from teachers working at the Child Care Center, specifically to record their daily sign-in and sign-out times, along with other relevant details such as their name, employee ID, classroom assignment, shift schedule, and any relevant health status or maintenance issues. This form is likely used for administrative and logistical purposes to track teacher attendance and activities within the center. It's essential to ensure that all teachers fill out the form accurately and thoroughly to maintain proper records.
-
-Before starting, please review the form attentively to ensure you understand each section and fill in the required fields accurately.
-
-</thinking>
-
 # Child Care Center Teacher Sign In Form - Help Guide
 ## Purpose
 The purpose of this form is to record your daily activities, attendance, and other important details for administrative and operational purposes.

@@ -1,30 +1,3 @@
-<thinking>
-The Public Health Travel Declaration Form is used to collect information from travelers about their travel history and any potential health risks associated with their trip. This form helps public health authorities track and monitor travel movements to prevent the spread of diseases. It is recommended that this form is filled out by all travelers, including those traveling for business or leisure.
-
-This form can be filled out for both domestic and international travel, and it's intended to be completed by the traveler themselves. However, it's worth noting that some fields may be required or optional depending on the context of the travel.
-
-The form is designed to be completed in the following steps:
-
-1. Select the origin of your travel
-2. Choose the destination city of your travel
-3. Enter the travel date
-4. Indicate the length of your travel
-5. Specify the reason for your travel
-6. Choose the type of travel
-7. Select the frequency of your travel
-8. Indicate the purpose of your travel
-9. Enter any details about your travel origin
-10. Enter any details about your travel destination
-11. Specify any travel accommodation information
-12. Enter the return date of your travel
-13. Make a health declaration
-14. Provide your email address
-
-Before filling out this form, make sure to review the fields carefully and provide accurate information to ensure that your travel history is accurately recorded.
-
-This guide will walk you through each field in the form to ensure you understand what information is required and how to fill it out correctly.
-</thinking>
-
 # Public Health Travel Declaration Form - Help Guide
 ## Purpose
 The Public Health Travel Declaration Form is used to collect information from travelers about their travel history and any potential health risks associated with their trip.

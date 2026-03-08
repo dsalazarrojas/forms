@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used for student co-op programs. The purpose of this form is to collect information about students participating in co-op programs. This form is likely used for administrative purposes, such as tracking student progress, maintaining records, and providing support. 
-
-The form does not appear to be used for emergency situations or sensitive information, so it's unlikely that the fields are meant to be filled out for every single co-op program. However, it's possible that this form is used for recurring co-op programs or for students participating in multiple co-op programs.
-
-It's also worth noting that some fields, such as "supervisor_info" and "institution_info", have multiple options, which might suggest that they are meant to be filled out with specific, predefined values. This might be the case for fields like "supervisor_info" which is a "select_one" type, suggesting that there might be only one correct answer, and "institution_info" which is a "select_multiple" type, suggesting that there might be a limited set of options to choose from.
-
-It's also worth noting that the form has a mix of required and optional fields. Required fields are likely to be the ones that are absolutely necessary for the system to function correctly, while optional fields might be for additional information or to provide more context.
-
-</thinking>
-
 # Student Co Op Form - Help Guide
 ## Purpose
 The Student Co Op Form is used to collect information about students participating in co-op programs.

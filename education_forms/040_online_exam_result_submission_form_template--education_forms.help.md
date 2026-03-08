@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about an online exam and its results. It's meant to be filled out by students or exam administrators to provide a record of the exam's completion and outcome. The form should only be filled out once per exam, to avoid duplicate submissions.
-</thinking>
-
 # Online Exam Result Submission Form Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Course Registration Form CCC" is to allow users to register for courses, which can include various details like course codes, names, dates, times, and student information. This form may be used to gather data for internal purposes, such as scheduling or enrollment management. Ensure that you are registering for the correct course and not duplicating an existing record.
-</thinking>
-
 # Course Registration Form CCC - Help Guide
 
 ## Purpose

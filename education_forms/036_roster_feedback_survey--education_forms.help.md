@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback from team members on a specific team's performance. The purpose of this form is to gather information from individuals who have worked with or interacted with the team to provide their opinions and suggestions. The form asks for the team's name, the participant's name, their feedback on the team's performance, and the category of the feedback provided.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is a custom creation using AI to adapt public survey topic metadata. This allows users to freely use, modify, and even sell forms derived from this original work, as long as they give credit.
-
-This form's metadata and content have been generated to be as neutral and objective as possible, without any intention of extracting or copying proprietary content from other platforms or sources.
-
-</thinking>
-
 # roster_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from team members on a specific team's performance. It is meant to be a quick and easy way to gather opinions and suggestions from individuals who have interacted with the team.

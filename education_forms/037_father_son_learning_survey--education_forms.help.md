@@ -1,12 +1,3 @@
-<thinking>
-The Father Son Learning Survey is a form designed to help fathers and sons assess their relationship and identify areas of improvement. 
-This form aims to gather information about the quality of their bond, how they interact with each other, and what they can do to strengthen their relationship. 
-The survey is composed of various sections that cover different aspects of their relationship, such as communication, activities, and shared interests. 
-Please answer these questions honestly, and remember that this survey is a tool to help you better understand and improve your relationship with your son. 
-Note that this form is part of an internal system and should not be used outside of this specific context. 
-If you've completed this survey before, please do not fill it out again to avoid duplication. 
-</thinking>
-
 # Father Son Learning Survey - Help Guide
 ## Purpose
 The Father Son Learning Survey is a questionnaire designed to help fathers and sons assess their relationship and identify areas of improvement.

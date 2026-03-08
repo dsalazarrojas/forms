@@ -1,11 +1,3 @@
-<thinking>
-
-The Strengths and Difficulties Questionnaire is a form used to assess an individual's strengths and difficulties in various categories. This form is designed to help users identify their personal strengths and areas of improvement.
-
-Before proceeding, ensure that you are familiar with the purpose and scope of this form. If you have any doubts or concerns, please contact your administrator or refer to the user guide for further guidance.
-
-</thinking>
-
 # Strengths And Difficulties Questionnaire - Help Guide
 ## Purpose
 The Strengths and Difficulties Questionnaire is a tool used to evaluate an individual's strengths and difficulties in various categories, providing valuable insights into personal growth and development.

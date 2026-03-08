@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from patients regarding their medical history, contact details, and other relevant information. The purpose of this form is to provide a comprehensive understanding of the patient's situation, ensuring that healthcare providers have the necessary information to deliver high-quality care. Before filling this form, please ensure that you have the patient's consent to collect and process their personal data.
-</thinking>
-
 # Patient Declaration Form - Help Guide
 
 ## Purpose

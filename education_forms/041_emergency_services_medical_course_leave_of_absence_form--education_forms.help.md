@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from students seeking a leave of absence due to medical emergencies or services such as the Emergency Services Medical Course. The purpose of this form is to gather relevant details from the students, including their personal information, medical course information, and instructor's contact details. This form will aid the institution in providing necessary support and resources for the students' recovery.
-
-Before filling out this form, please ensure that you have the necessary permissions from your instructor or department head. If you have already submitted a leave of absence form, please do not submit again, as this may cause duplication of effort and unnecessary processing.
-
-Please be honest and provide accurate information to ensure the institution's support is tailored to your needs.
-
-</thinking>
-
 # Emergency Services Medical Course Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to collect information from students seeking a leave of absence due to medical emergencies or services such as the Emergency Services Medical Course.

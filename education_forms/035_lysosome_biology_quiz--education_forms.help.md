@@ -1,9 +1,3 @@
-<thinking>**Internal Review:**
-
-This form is designed to test the knowledge of users on the topic of lysosome biology. The form is composed of 14 questions, each focusing on a different aspect of lysosome biology, including its definition, function, formation, location, and relationship with other cellular components. The form requires users to provide single or multiple-choice answers for each question, with some questions having a numerical input for location within the cell.
-
-To ensure that users understand the purpose and relevance of the form, it's essential to have a clear and concise help guide that explains each question and its corresponding answer options. This will help users to fill out the form correctly and accurately, and minimize errors and confusion.</thinking>
-
 # Lysosome Biology Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your understanding of lysosome biology. It consists of 14 questions that cover different aspects of lysosomes, including their definition, function, formation, location, and relationship with other cellular components.

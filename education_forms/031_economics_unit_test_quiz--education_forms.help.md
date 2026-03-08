@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture student performance data for unit tests, including class information, student ID, name, unit test question, answer, grade, score, and additional comments from both the student and teacher. 
-The purpose of this form is to gather and track student progress and performance in unit tests, helping educators and administrators make data-driven decisions. 
-This form should only be used for unit tests, and not for other types of assessments or evaluations. 
-</thinking>
-
 # economics_unit_test_quiz - Help Guide
 ## Purpose
 The economics_unit_test_quiz form is designed to gather student performance data for unit tests.

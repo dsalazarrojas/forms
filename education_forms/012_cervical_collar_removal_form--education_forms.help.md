@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cervical Collar Removal Form - Help Guide
 ## Purpose
 The Cervical Collar Removal Form is used to document the removal of a cervical collar, which is a device used to stabilize the neck. This form is essential for ensuring a smooth and safe removal process, and it helps the medical staff to keep track of patient information and treatment progress.

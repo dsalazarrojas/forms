@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the form's purpose and requirements.</thinking>
-
 # Questionaire - Help Guide
 ## Purpose
 This form is designed to collect information about students, including their personal details, educational background, and family status. It is meant to be a comprehensive tool for gathering data that will help in understanding the demographics of students.

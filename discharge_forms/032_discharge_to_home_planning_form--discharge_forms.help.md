@@ -1,7 +1,3 @@
-<thinking>
-This form is used for planning discharges from a healthcare facility, ensuring that all necessary information is collected to facilitate a smooth transition for the patient. It's essential to complete this form accurately and thoroughly to avoid any potential issues. Before filling out this form, please ensure that the patient's information is up-to-date, and that all relevant fields are completed as required or as needed.
-
-</thinking>
 # Discharge To Home Planning Form - Help Guide
 ## Purpose
 The Discharge To Home Planning Form is used to collect essential information for planning a patient's discharge from a healthcare facility. This form helps identify the patient's needs and requirements to ensure a seamless transition back home.

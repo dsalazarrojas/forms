@@ -1,6 +1,4 @@
-# <thinking>...This form is used to collect and update personal information of students. The form should only be filled out by students who have already been registered in the system. If you are a student looking to register, please use the registration form. Please note that this form will not be shared outside of the institution, and all information collected will be kept confidential.</thinking>
-
-# Scholarship Personal Information Update - Help Guide
+# # Scholarship Personal Information Update - Help Guide
 ## Purpose
 This form is used to update personal information of students. It's essential to fill out this form accurately and truthfully to ensure that your records are up-to-date and reflect your current status.
 

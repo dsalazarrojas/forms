@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their instructors and teaching styles. The form aims to gather information on various aspects of the instructor's performance, including their knowledge, preparation, clarity, enthusiasm, and overall teaching style. This form is intended for students to provide honest and constructive feedback to help instructors improve their teaching and student learning experience. To ensure that the form is filled out correctly, it is crucial that the student understands the purpose and requirements of each field. This guide will outline each field's meaning and how to complete the form accurately and efficiently.
-
-</thinking>
-
 # College Course Feedback Form Instructor - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their instructors and teaching styles.

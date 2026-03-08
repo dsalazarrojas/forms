@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Wellbeing Research Network Registration Form - Help Guide
 ## Purpose
 The Student Wellbeing Research Network Registration Form is designed for students to provide information about their wellbeing, which will be used for research purposes. Please note that this form is a one-time entry and is only meant for students who are interested in participating in the wellbeing research study.

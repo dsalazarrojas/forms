@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the student's attitude towards learning and their preference in classes. The form is meant to be filled out by the students themselves, hence requiring their personal information such as name, date of birth, and contact details (email, phone). The form also includes questions related to what motivates them and which class they prefer, allowing the educator/instructor to gain insight into the student's preferences. This form does not require any specific information about the student's attitude, but rather it seems to focus on their preferences and demographics. This form should only be used for students who fit into one of the provided class options. 
-</thinking>
-
 # Student Attitude Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students about their preferences and demographics in order for the educator/instructor to better understand their needs and provide tailored support.

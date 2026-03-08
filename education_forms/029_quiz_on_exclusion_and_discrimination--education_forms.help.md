@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quiz On Exclusion And Discrimination - Help Guide
 ## Purpose
 This form is designed to help users identify and document instances of exclusion and discrimination in educational settings. It aims to provide a comprehensive assessment of the impact of these behaviors on students' experiences and outcomes.

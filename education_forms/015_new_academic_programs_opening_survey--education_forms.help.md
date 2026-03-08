@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Academic Programs Opening Survey - Help Guide
 ## Purpose
 The New Academic Programs Opening Survey is a form used to collect information about new academic programs that are opening up at an institution. This information will help the administration and staff better understand the new programs and their details.

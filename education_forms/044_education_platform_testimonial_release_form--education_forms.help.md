@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for collecting testimonials from users of an education platform, capturing key information about the user, their school, and their experience with the platform. The form should be filled out by users who wish to provide feedback on the platform, and it's essential to ensure that all required fields are completed accurately. Please review each field carefully to ensure you're providing the correct information. Note that fields with the "required" field set to "true" are critical for the form submission process, so be sure to fill those out as well. This form is for the benefit of the education platform, so provide honest and constructive feedback to help us improve. 
-</thinking>
-
 # Education Platform Testimonial Release Form - Help Guide
 ## Purpose
 This form is for students who wish to share their experiences with the education platform. It captures essential information about the student, their school, and their testimonial. This form helps us understand your opinions and feedback to improve the platform.

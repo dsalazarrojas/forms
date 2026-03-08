@@ -1,12 +1,3 @@
-<thinking>
-  The Argumentative Essay Outline Form is a tool designed to help students create a structured approach to writing an argumentative essay, a type of essay that presents a claim and supports it with evidence and reasoning. The form guides the student through the process of identifying the main topic or prompt, developing a clear and arguable thesis statement, and organizing the essay's structure and content. The form asks students to think critically about their research and arguments, providing space to identify potential counterarguments and refutations.
-
-The form is used to collect essential information from students about their essay's organization and progress, allowing instructors to assess their understanding of the writing process and provide constructive feedback. This feedback enables students to improve their writing skills and produce well-structured and effective argumentative essays.
-
-This form is intended for students in academic settings, and its completion is a required part of the assignment.
-
-</thinking>
-
 # Argumentative Essay Outline Form - Help Guide
 ## Purpose
 The Argumentative Essay Outline Form is a tool for students to plan and organize their argumentative essays. It guides them through the key elements of a well-structured essay, helping them to develop a clear and arguable thesis statement and supporting their arguments with evidence and reasoning.

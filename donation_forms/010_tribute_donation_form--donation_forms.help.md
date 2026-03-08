@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tribute Donation Form - Help Guide
 
 ## Purpose

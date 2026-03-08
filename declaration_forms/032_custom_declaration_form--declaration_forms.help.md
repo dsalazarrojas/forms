@@ -1,10 +1,3 @@
-<thinking>
-The custom declaration form is a critical document that serves as a formal record of the shipment's details. Its purpose is to ensure accurate and transparent declaration of the shipment's contents, weight, and value for regulatory compliance and internal management. 
-
-To avoid duplication, users should ensure the form is completed for each unique shipment, taking note of the shipper and consignee details and cargo details. It is not a one-time process, so it's recommended users fill it in for each cargo shipment, even if it's not their first or last time, to keep records consistent and up to date. 
-
-</thinking>
-
 # Custom Declaration Form - Help Guide
 
 ## Purpose

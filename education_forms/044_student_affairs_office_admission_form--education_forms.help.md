@@ -1,13 +1,3 @@
-<thinking>
-
-The "Student Affairs Office Admission Form" is a form created to gather information from students applying to the Student Affairs Office. The purpose of this form is to collect demographic, contact, and other relevant information from students to process their applications and provide support. This form is designed to be easy to fill out and submit. Before starting, please ensure you are submitting a complete and accurate application. 
-
-To check for completeness and accuracy, review each field and its corresponding section to ensure you have provided all necessary information. 
-
-Please note that this form is designed to collect data for the Student Affairs Office, and the data will be used to process student applications.
-
-</thinking>
-
 # Student Affairs Office Admission Form - Help Guide
 ## Purpose
 The Student Affairs Office Admission Form is a form designed to collect information from students applying to the Student Affairs Office.

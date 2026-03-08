@@ -1,9 +1,3 @@
-<thinking>
-
-The "Sine Calculator Form" is designed to calculate specific values for sine waves. This form will help users to enter parameters of a sine wave and get the calculated output. It's assumed that users with technical background, particularly from physics, mathematics, or related fields, will be more familiar with the form purpose and requirements. This form should only be used for educational purposes or to quickly perform simple sine wave calculations. To ensure the form is used correctly, a quick review of each field will be provided below.
-
-</thinking>
-
 # Sine Calculator Form - Help Guide
 ## Purpose
 This form is designed to calculate specific values for sine waves. Users can input parameters like sine value, wave type, and frequency to get the calculated output. The form is intended for educational purposes or to quickly perform simple sine wave calculations.

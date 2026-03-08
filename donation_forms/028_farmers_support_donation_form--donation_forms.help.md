@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from farmers who wish to support our organization's activities through donations. This form aims to gather essential details such as name, contact, and donation specifics. Before filling out this form, please ensure that you haven't already submitted a donation form in the past, as it may be treated as a duplicate submission. Please review the form carefully to avoid any discrepancies.
-</thinking>
-
 # Farmers Support Donation Form - Help Guide
 ## Purpose
 The Farmers Support Donation Form is designed to collect information from farmers who wish to support our organization's activities through donations. This form helps us understand your support and tailor our services accordingly.

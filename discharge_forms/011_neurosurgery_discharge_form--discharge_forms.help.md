@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document the details of a patient's discharge from the hospital, including information about the patient's stay, any medication instructions, and follow-up appointments. This form should be used for neurosurgical procedures to ensure a smooth and safe discharge process.
-</thinking>
-
 # Neurosurgery Discharge Form - Help Guide
 ## Purpose
 The Neurosurgery Discharge Form is used to gather essential information for the discharge process of patients undergoing neurosurgical procedures. This form helps ensure that all necessary details are documented and communicated effectively between medical staff and patients.

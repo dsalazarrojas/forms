@@ -1,6 +1,3 @@
-<thinking>
-This form is for customers to submit service requests to the internal IT team. It is designed to be used by customers who need assistance with various IT-related issues. The form should only be completed once per issue. Please ensure that you are not submitting duplicate requests for the same issue.</thinking>
-
 # it_service_request_form - Help Guide
 ## Purpose
 The "it_service_request_form" is a form used to submit service requests to the internal IT team for assistance with various IT-related issues. This form allows customers to provide necessary contact details, describe the issue, and specify the requested service type.

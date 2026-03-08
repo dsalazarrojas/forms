@@ -1,12 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide for the "Daily Online Class Reporting Form". This guide will aim to educate end users on what the form is meant to do, how to fill it out correctly, and what each field represents.
-
-This form is designed to gather feedback and ratings from students about their daily online classes. It's a self-assessment tool for students to report on various aspects of their learning experience, providing valuable insights to educators on how to improve their teaching methods and overall class environment.
-
-We will ensure that the guide is clear, concise, and practical, taking into account the provided YAML fields. We'll provide a field-by-field explanation to help users fill out the form accurately.
-
-</thinking>
-
 # Daily Online Class Reporting Form - Help Guide
 ## Purpose
 The "Daily Online Class Reporting Form" is a self-assessment tool designed to gather feedback from students about their daily online classes. This form aims to provide valuable insights to educators on how to improve the learning experience, teacher effectiveness, and overall class environment.

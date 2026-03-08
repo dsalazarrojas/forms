@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from a student and their parent/guardian during the admission process. This form will guide the user through a series of fields to gather relevant details about the student. Please ensure that each field is filled out completely and accurately. 
 
 To complete this form, follow the steps below:

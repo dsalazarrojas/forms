@@ -1,7 +1,3 @@
-<thinking>
-The form is used to request information for an educational design thinking workshop. The form is intended to capture contact details, workshop specifics, and other relevant information from the users. The fields are designed to guide the users in providing the necessary information to facilitate the workshop planning and execution. This form is meant for internal use and is not intended for public submission. The form will be reviewed by the workshop organizers to ensure that it meets the requirements and is suitable for the workshop.
-</thinking>
-
 # Educational Design Thinking Workshop Request Form - Help Guide
 ## Purpose
 This form is designed to capture information for educational design thinking workshops. It helps workshop organizers understand your needs and preferences, allowing us to tailor the workshop to suit your requirements.

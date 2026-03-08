@@ -1,13 +1,3 @@
-<thinking>
-
-To create this help guide, we need to determine the purpose of the form and the fields it contains. Based on the provided YAML, it appears that the form is used for diet consultations, where a client provides medical history and nutrition goals information. 
-
-We need to check if there are any redundant or duplicate fields and ensure that the form is complete and accurate. 
-
-Please note that some field labels are weak/unclear, and we will need to explain them best-effort.
-
-</thinking>
-
 # Diet Consultation Form - Help Guide
 ## Purpose
 The Diet Consultation Form is used to collect information from clients for diet consultations. This form is used to gather medical history and nutrition goals to provide personalized advice and guidance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a funding request form used to collect information from users who are seeking financial support for their projects or initiatives. The form is designed to gather essential details such as name, email, phone number, address, and funding request amount. Additionally, it includes an optional funding source selection and a follow-up question box for users to add any additional information.
 
 </thinking>

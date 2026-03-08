@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect survey responses from customers, and each field is essential for understanding their preferences and demographic data. It is crucial to fill out this form accurately to ensure that the data is reliable and useful for analysis.
-- This form is for the "survey_for_buymoria_online_store" only.
-- Before proceeding, please ensure you have not completed this form previously.
-</thinking>
-
 # survey_for_buymoria_online_store - Help Guide
 ## Purpose
 The survey for Buymoria Online Store aims to collect demographic and preference data from customers to improve our services and tailor our offerings to better meet their needs.

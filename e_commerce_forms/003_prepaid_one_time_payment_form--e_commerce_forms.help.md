@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a one-time prepaid payment. The form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using AI. The form's purpose is to gather details such as customer and order information, payment method, shipping and billing addresses, order status, and customer consent. This form is designed to be flexible and adaptable to various use cases, allowing customers to provide their input and feedback. The form's structure and fields are intended to be easy to understand and fill out for end-users. However, please note that some fields may have unclear or ambiguous labels; these will be explained in the field-by-field explanation section.
-
-To ensure the form is completed correctly, please follow the instructions below.
-
-Please ensure that all required fields are filled out before submitting the form. Required fields are marked as "required" in the field-by-field explanation section.
-
-Please fill out the form in the following order: customer information, order information, payment method, payment details, shipping address, billing address, order details, order date, order time, order status, customer consent, additional customer consent, comments, notes, and customer comments. This order will help ensure that the form is filled out correctly and consistently.
-
-Please ensure that you select only one option for payment method, order status, and customer consent fields. Selecting multiple options will not be accepted.
-
-Please provide clear and concise answers for all text fields. If you are unsure about a field, please ask for clarification or seek guidance from the form owner or administrator.
-
-This form is designed to be filled out by customers. If you are a business owner or administrator, please ensure that you review and validate the customer's input before submitting it to the relevant departments or teams.
-</thinking>
-
 # Prepaid One Time Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a one-time prepaid payment. It is intended to be a flexible and adaptable tool for various use cases, allowing customers to provide their input and feedback.

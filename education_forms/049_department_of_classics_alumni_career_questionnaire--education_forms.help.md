@@ -1,9 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "Department of Classics Alumni Career Questionnaire" form.
-The purpose of this form is to collect information about the career paths of Department of Classics alumni, including their current job title, work location, and career achievements.
-This form will help the Department of Classics track the career outcomes of its graduates and provide valuable insights for future students and alumni.
-</thinking>
-
 # Department Of Classics Alumni Career Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about the career paths of Department of Classics alumni. This will help us track the career outcomes of our graduates and provide valuable insights for future students and alumni.

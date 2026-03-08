@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is for submitting an alcohol awareness course registration. Before filling out the form, please ensure that you haven't already submitted it. If you're unsure about the course level, delivery format, or other preferences, review the options carefully. If you're representing an organization, please provide the school or workplace name if required. If you're registering for a course for someone else, please fill out the form with their information. Remember to provide your preferred course date and time slot, as well as your preferred delivery format. If you're unsure about any part of the form, contact your course administrator for guidance.</thinking>
-
 # Alcohol Awareness Course Submission - Help Guide
 ## Purpose
 

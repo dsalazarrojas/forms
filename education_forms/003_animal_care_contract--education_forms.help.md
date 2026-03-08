@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the essential information for end-users to understand the "Animal Care Contract" form. The form is used to collect information for a student who will be taking care of an animal, ensuring that both the student and guardian understand their responsibilities and liabilities. The purpose of this form is to document the terms of the care arrangement, including animal type, care responsibilities, and emergency contact details. The form is designed to be completed by students and guardians to ensure a smooth transition of care for the animal.
-</thinking>
-
 # Animal Care Contract - Help Guide
 
 ## Purpose

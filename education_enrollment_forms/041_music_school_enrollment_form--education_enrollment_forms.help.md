@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect information from students who want to enroll in the music school. The purpose of this form is to gather personal and educational details to provide an optimal learning experience for the students. Each field is carefully crafted to capture necessary information for the music school staff to manage the enrollment process efficiently.</thinking>
-
 # Music School Enrollment Form - Help Guide
 ## Purpose
 The Music School Enrollment Form is designed to collect information from students who want to enroll in the music school. This form will help the music school staff to provide an optimal learning experience for the students.

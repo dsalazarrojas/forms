@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to audit the utilization of funds provided by nonprofit donors to non-profit organizations. It is crucial to ensure that the funds are being used effectively and transparently. Before proceeding, verify that this form is not a duplicate of any previously submitted audit form.
-</thinking>
-
 # Nonprofit Donor Fund Utilization Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information about the utilization of funds provided by nonprofit donors. It helps to ensure that the funds are being used transparently and effectively.

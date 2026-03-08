@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for teachers to obtain agreements from students regarding plagiarism and other academic honesty issues. It's crucial to ensure students understand the expectations around plagiarism, and the form serves as a contract to be signed by both the student and the teacher. To complete this form, the teacher should only be using it when a student's work is suspected to be plagiarized or when there is a need to establish a record of the student's understanding and agreement. The form is not intended for general student registration, progress tracking, or other purposes not related to plagiarism or academic honesty.
-</thinking>
-
 # ELA Plagiarism Contract - Help Guide
 ## Purpose
 The purpose of this form is to document the student's understanding and agreement regarding plagiarism and other academic honesty issues. It's essential to use this form when a student's work is suspected of being plagiarized or when there is a need to establish a record of the student's understanding and agreement.

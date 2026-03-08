@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to order flowers online, specifying the type of flower, color, and other details such as bouquet name, quantity, delivery date, delivery time, customer contact information, and any additional message or note. The form should be filled out with the customer's preferences for the order. The form is designed to be simple and user-friendly, with clear labels and instructions to guide the user through the process.
-
-</thinking>
-
 # online_flower_order_form - Help Guide
 ## Purpose
 This form is used to order flowers online, providing detailed information about the order, including flower type, color, and other specifications.

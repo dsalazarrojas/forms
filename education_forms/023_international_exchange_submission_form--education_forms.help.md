@@ -1,7 +1,3 @@
-<thinking>
-Is this form used for submitting international exchange applications or documents? Does it handle submissions for multiple semesters or programs? Is it used for tracking the status of submitted documents? The form has a mix of fields for personal information (name, email, phone), program-specific information (program, semester), and submission details (uploading documents, submitting dates). It seems to be a form for handling international exchange submissions, allowing users to provide basic personal details, select their program and semester, and upload documents. It also tracks the submission status and date. The form is likely used by exchange students, coordinators, or administrators to manage international exchange submissions.
-</thinking>
-
 # international_exchange_submission_form - Help Guide
 ## Purpose
 This form is used to submit international exchange applications or documents. It gathers personal and program-specific information and allows users to upload relevant documents.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Course Evaluation Form - Help Guide
 
 ## Purpose

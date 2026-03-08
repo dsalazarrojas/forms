@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this hand hygiene education survey is to assess individuals' knowledge and practices regarding hand hygiene. This form is designed to gather information on hand washing habits, hand sanitizer use, and awareness of hand hygiene best practices. To complete this form, respondents should answer each question to the best of their ability, providing honest and accurate information. The survey is intended to be a self-assessment tool, and responses will not be shared or used for any purpose other than to help individuals understand their own hand hygiene practices. It is essential to answer all questions truthfully, as this will help ensure the accuracy of the survey results. Note that some questions are optional, and respondents are free to skip them if they do not feel comfortable answering. However, please answer all required questions to ensure the survey's effectiveness.</thinking>
-
 # hand_hygiene_education_survey - Help Guide
 ## Purpose
 The hand hygiene education survey is a self-assessment tool designed to gauge individuals' knowledge and practices regarding hand hygiene. This form aims to gather information on hand washing habits, hand sanitizer use, and awareness of hand hygiene best practices.

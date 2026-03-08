@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information from daycare parents on their experiences and thoughts about the daycare service. It aims to gather honest feedback to improve the service. This form should only be used for parents who have been or are currently using the daycare service. To avoid duplication, please do not fill out this form if you have already provided feedback or if your child is not currently in our care.
-</thinking>
-
 # Daycare Parent Survey - Help Guide
 ## Purpose
 The Daycare Parent Survey is designed to collect information from parents on their experiences and thoughts about the daycare service. This form is intended for parents who have been or are currently using the service.

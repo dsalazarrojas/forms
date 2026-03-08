@@ -1,7 +1,3 @@
-<thinking>
-The Scratch Knowledge Assessment form is designed to measure the knowledge and skills of users in various aspects related to the Scratch project, a popular educational platform used in schools to teach programming concepts to students. The form is intended to gauge the understanding and proficiency of users in different areas such as project experience, skills, goals, confidence, coding skills, problem-solving, and feedback. This form is crucial for educators and administrators to assess the effectiveness of the Scratch project and identify areas where students need improvement.
-</thinking>
-
 # Scratch Knowledge Assessment - Help Guide
 ## Purpose
 The Scratch Knowledge Assessment form is a tool used to evaluate the knowledge and skills of users in different areas related to the Scratch project.

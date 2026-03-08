@@ -1,5 +1,3 @@
-<thinking>Transcript Authorization Form is used to request access to a student's transcript. To ensure the form is completed correctly, verify that you have the necessary information and permissions to submit this form. This form should not be submitted for duplicate requests or as a prank. A completed form will require the student's name, a relationship to the student (e.g., Mother, Father, Guardian), a contact number, and the student's ID number.</thinking>
-
 # Transcript Authorization Form - Help Guide
 ## Purpose
 The Transcript Authorization Form is used to request access to a student's transcript. This form is typically completed by parents, guardians, or other authorized individuals who need access to a student's academic record.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or individuals for dietary analysis purposes. The form aims to gather relevant data on the patient's medical conditions, food preferences, restrictions, and goals, as well as their medical history, insurance information, and contact details. The form is intended to be completed by patients or their representatives, and the information collected will be used to inform dietary recommendations and plans.
-
-To ensure the form is completed accurately and effectively, the following questions should not be duplicated or incomplete. Please provide detailed and honest answers to each question, and ensure that you have permission from the patient to share their information.
-
-The form is divided into multiple pages, each covering a specific aspect of the patient's health and dietary needs. Please complete each page thoroughly and accurately.
-
-</thinking>
-
 # Dietary Analysis Form - Help Guide
 ## Purpose
 The Dietary Analysis Form is designed to gather information from patients or their representatives to inform dietary recommendations and plans. The form covers various aspects of the patient's health and dietary needs, including medical conditions, food preferences, restrictions, and medical history.

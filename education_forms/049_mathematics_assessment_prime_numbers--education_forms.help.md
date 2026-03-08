@@ -1,7 +1,3 @@
-<thinking> 
-We need to create a help guide for the "Mathematics Assessment: Prime Numbers" form. This form is used to assess a user's understanding of prime numbers in mathematics.
-</thinking>
-
 # Mathematics Assessment: Prime Numbers - Help Guide
 ## Purpose
 This form is used to evaluate a user's knowledge of prime numbers. It consists of a series of questions that test their understanding of basic arithmetic operations involving prime numbers.

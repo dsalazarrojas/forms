@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students and their parents/guardians for middle school enrollment purposes. This form will help the school administration to collect student and parent information, track student attendance, and facilitate communication between teachers, students, and parents.
-
-Before completing this form, please ensure that you are not a duplicate entry. If you have already filled out this form, please do not fill it out again. If you have any issues or concerns, contact the school administration for assistance.
-
-</thinking>
-
 # Middle School Enrollment Form - Help Guide
 ## Purpose
 The Middle School Enrollment Form is designed to collect information from students and their parents/guardians for middle school enrollment purposes. This form will help the school administration to collect student and parent information, track student attendance, and facilitate communication between teachers, students, and parents.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gauge the user's awareness of water scarcity issues and strategies for addressing them. The form consists of multiple sections, each with a different type of question or prompt. The user will be asked to select or provide information on various topics related to water scarcity, its impact, and potential solutions. 
-The form will assess the user's understanding of the issues and their ability to suggest strategies for mitigating them. 
-
-The form is divided into several pages, each containing a series of questions or prompts with different types and formats. The user will be presented with multiple-choice questions, open-ended text inputs, and options to select from. The form will end with a final submission page where the user can review and submit their answers.
-
-The form's questions cover the following topics: water scarcity issues, water conservation strategies, impact on water, first question, personal response, action taken, score, result, and suggestion. Each question is designed to elicit specific information from the user and help assess their knowledge and opinions on water scarcity. 
-
-</thinking>
-
 # Water Scarcity Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to gauge the user's awareness of water scarcity issues and strategies for addressing them. It will help assess the user's understanding of the topics and provide insights for improvement.

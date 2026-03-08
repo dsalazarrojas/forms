@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # visitor_declaration_form_covid_19 - Help Guide
 
 ## Purpose

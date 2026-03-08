@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants who wish to obtain a journeyman electrician license. This form will help us evaluate the application and determine if the applicant meets the necessary requirements for licensure. Please ensure you fill out all required fields accurately to avoid delays in processing your application.
-
-The form is divided into several sections, and each field is explained below.
-</thinking>
-
 # Application For License As A Journeyman Electrician - Help Guide
 ## Purpose
 This form is used to gather information from applicants for a journeyman electrician license. It helps us evaluate the applicant's qualifications and experience to determine eligibility for licensure.

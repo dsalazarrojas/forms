@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather relevant information for student placement decisions. The form collects demographic and academic data from the student, including name, date of birth, and other identifying information. Additionally, it captures details on the student's current educational background, such as grade level, school, and GPA. The form also asks about the reason for placement request, academic strengths and challenges, and any special programs the student might be involved in. Furthermore, it inquires about the student's learning style, preferred class time, and teacher preference. Finally, it allows for additional comments or information to be provided. 
-
-To ensure accurate and efficient completion of this form, please review the following:
-
-- This form is intended for students who require placement in a new educational setting.
-- Please fill out the form only once, even if you have submitted similar information in the past.
-- Ensure that the date of birth is in the correct format (MM/DD/YYYY).
-- If applicable, please provide a valid GPA.
-- When selecting special programs, please choose all that apply.
-
-</thinking>
-
 # Class Placement Form - Help Guide
 ## Purpose
 The Class Placement Form is designed to gather necessary information for student placement decisions in the new educational setting.

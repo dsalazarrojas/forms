@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for students to apply to an international school, and it is a crucial part of the admissions process. Please ensure that you are filling out this form for the correct purpose and do not submit duplicate applications.
-
-</thinking>
-
 # International School Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from students who are interested in applying to our international school. It will help us understand your background, academic qualifications, and reasons for applying.

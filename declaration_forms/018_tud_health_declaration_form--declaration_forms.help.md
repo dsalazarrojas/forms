@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the employee to declare their health status to the company. It's a mandatory form for new hires, contractors, and employees undergoing a promotion. The form collects personal contact information (name and email), contact methods (phone), sensitive personal information (date of birth), medical conditions, allergies, and medical declaration. This form is part of the company's onboarding process to ensure a safe and healthy work environment. Please review the following guide to fill it out correctly.
-</thinking>
-
 # Tud_health_declaration_form - Help Guide
 ## Purpose
 The Tud Health Declaration Form is a mandatory form used to gather employee personal and health information. This form is used for onboarding new hires, contractors, and employees undergoing a promotion to ensure a safe and healthy work environment.

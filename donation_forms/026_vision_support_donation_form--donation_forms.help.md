@@ -1,28 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the "vision_support_donation_form" form. Before proceeding, please ensure you have a clear understanding of the form's intent and that you are not duplicating any previous submissions. If you are unsure, please review our internal documentation or consult with a designated authority.
-
-The "vision_support_donation_form" is a donation form designed to collect information from individuals who wish to show their support for a particular vision or cause. The form gathers essential details to process and acknowledge donations in a secure and efficient manner.
-
-To complete this form, follow these steps:
-
-1.  Ensure the form is being used for its intended purpose and is not a duplicate of a previous submission.
-2.  Enter your name in the "Donor Name" field. This is a required field.
-3.  Provide your email address in the "Donor Email" field. This is also a required field.
-4.  Enter your contact phone number in the "Contact Phone" field, if applicable.
-5.  Enter your email address in the "Contact Email" field, if applicable.
-6.  Specify the amount of the gift in the "Gift Amount" field. This is a required field.
-7.  Choose how frequently you would like to make this donation, from the options provided in the "Frequency" field. This is a required field.
-8.  Select the type of gift, whether it's "Monetary" or "In-kind", from the "Gift Type" field. This is a required field.
-9.  Choose the method of payment from the options provided in the "Payment Method" field. This is a required field.
-10. If desired, provide additional comments or information in the "Comments" field.
-11. Confirm your donation details in the "Confirm Donation" field.
-12. If the donation amount exceeds $5,000, you may be prompted for a tax ID number.
-13. Specify whether the donation is tax-deductible in the "Is Tax-Deductible" field.
-14. Optionally, provide more comments or information in the "Comments 2" field.
-15. Fill out the custom fields as necessary.
-
-</thinking>
-
 # vision_support_donation_form - Help Guide
 ## Purpose
 The "Vision Support Donation Form" is a form designed to collect information from individuals who wish to show their support for a particular vision or cause.

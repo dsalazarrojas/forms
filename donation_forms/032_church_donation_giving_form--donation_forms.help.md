@@ -1,7 +1,3 @@
-<thinking>
-This is a form for users to make donations to the church. The form is designed to collect personal and donation information from the user, allowing them to specify the amount and purpose of their donation. The form includes fields for the donor's name, email, gift amount, and designation of the gift purpose. The form also asks if the user would like to cover the processing fee, cover the fee with their gift, and includes fields for billing information (address, city, state, zip, and phone number) and employer matching information. The form is required to be completed in its entirety, as the fields are all marked as required except for a few optional fields.
-</thinking>
-
 # Church Donation Giving Form - Help Guide
 ## Purpose
 This form is designed for users to make donations to the church. It collects personal and donation information to process the gift accurately.

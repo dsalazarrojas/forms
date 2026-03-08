@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for students to request funding for a specific group or project. The purpose of this form is to gather necessary information from the students to process their funding request. 
-
-To avoid duplicates, ensure that you are not requesting funding for the same project or group multiple times. If you are requesting funding for a different project or group, please submit a new form.
-</thinking>
-
 # Student Group Funding Request Form - Help Guide
 ## Purpose
 The Student Group Funding Request Form is designed for students to request funding for a specific group or project. This form helps the student to provide necessary information to process their funding request.

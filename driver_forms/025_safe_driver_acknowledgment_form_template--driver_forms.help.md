@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect acknowledgment from drivers for safety guidelines and protocols in the workplace. The purpose of this form is to ensure that drivers are aware of and understand the safety procedures and protocols that are in place to prevent accidents and injuries while driving company vehicles or equipment. This form should be completed by drivers who are required to follow these safety guidelines.
-
-When completing this form, please answer all questions honestly and thoroughly. If you are unsure about any of the questions, please ask your supervisor or HR representative for clarification.
-
-</thinking>
-
 # Safe Driver Acknowledgment Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect acknowledgment from drivers for safety guidelines and protocols in the workplace.

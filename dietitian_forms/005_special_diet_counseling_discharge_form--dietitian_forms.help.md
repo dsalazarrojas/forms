@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used in a medical setting to facilitate the discharge process of a patient undergoing diet counseling. The Special Diet Counseling Discharge Form aims to capture essential information about the patient, their medical condition, and their diet plan, as well as any medications they may be allergic to and food restrictions they may have. Completing this form will help healthcare professionals to accurately document the patient's status and ensure a smooth transition from the diet counseling process.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform, and has been created using AI-generated form metadata. If you have any questions or concerns, feel free to contact form@gic.mx.
-
-</thinking>
-
 # Special Diet Counseling Discharge Form - Help Guide
 
 ## Purpose

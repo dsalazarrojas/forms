@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from customers when placing orders for flower arrangements. The purpose of this form is to gather essential details about the customer, their preferences, and the order specifics.
-
-The form is divided into two main sections: -- Customer Information -- and -- Order Details --. To complete this form, follow these steps:
-
-1.  In the -- Customer Information -- section, ensure you provide your name, email address, and phone number.
-2.  In the -- Order Details -- section, select the type of flower arrangement you want, choose the arrangement size, and specify any special flower preferences you may have.
-3.  Enter the date you would like to receive the flowers, select the preferred delivery time, and provide the delivery address.
-4.  If the flowers are to be received by someone else, enter their name.
-5.  You can include a message to be included with the flowers, if desired.
-6.  In the last field, you can provide any special instructions for the delivery, such as a gate code or where to leave the flowers.
-
-Please ensure you fill in all required fields accurately to ensure smooth delivery and communication with our team.
-
-</thinking>
-
 # Anne's Flowers Order Form - Help Guide
 ## Purpose
 

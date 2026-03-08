@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # enroll_for_an_online_seminar_form - Help Guide
 ## Purpose
 This form is used to gather information about the online seminar you wish to enroll in. To confirm that this is the correct form, please ensure that you are enrolling in an online seminar.

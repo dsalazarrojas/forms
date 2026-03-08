@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for Profile Coordinators to provide feedback on their experience with a program or service. It is meant to be a comprehensive form that captures all relevant information regarding their feedback, including overall experience, communication effectiveness, coordinator support, and other relevant details. 
-
-The form is not intended for use by users with visual impairments or language barriers. Please ensure that all users are able to access and complete this form comfortably. 
-
-Please fill out this form completely before submitting it, as it is essential for understanding the effectiveness of our services. 
-
-Please do not resubmit this form multiple times, as this will skew the data analysis.
-</thinking>
-
 # Profile Coordinator Feedback Form - Help Guide
 ## Purpose
 The Profile Coordinator Feedback Form is a tool used to gather feedback from Profile Coordinators on their experience with our services. It is designed to be a comprehensive form that captures all relevant information.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of completing the "End Of Season Party Donations" form. This form is designed to collect donations for a party at the end of a season, and it's likely used by an organization or team to collect funds and messages from donors.
-
-Before proceeding, please ensure you're filling out the correct form for the intended purpose and not duplicating efforts. This form is probably used for fundraising activities and might be specific to certain events or campaigns.
-
-</thinking>
-
 # End Of Season Party Donations - Help Guide
 ## Purpose
 The "End Of Season Party Donations" form is used to collect donations, contact information, and messages from donors for a party at the end of a season. This form helps the organizers of the party to track and acknowledge donations, and it's essential to fill it out accurately.

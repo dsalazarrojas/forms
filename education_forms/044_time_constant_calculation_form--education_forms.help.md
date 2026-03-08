@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for users to select a circuit type and provide a specific value and unit for a time constant calculation. The user will be asked to choose from three options for the circuit type and two options for the unit type. This form is likely used in electrical engineering applications.
-</thinking>
-
 # Time Constant Calculation Form - Help Guide
 ## Purpose
 This form is designed to help users calculate the time constant of a circuit by selecting a circuit type and providing a specific value and unit.

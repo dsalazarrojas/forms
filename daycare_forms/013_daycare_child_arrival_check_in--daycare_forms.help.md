@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for childcare centers or daycare facilities to track a child's arrival information. It is intended to be filled out by caregivers or parents when dropping off their children. The form is used to collect relevant details such as the time the child arrived, their name, contact number, and other essential information for the daycare staff to record.
 
 </thinking>

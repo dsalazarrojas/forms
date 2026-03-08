@@ -1,10 +1,3 @@
-<thinking>
-The commercial driver application form is designed to gather information from applicants who are interested in becoming commercial drivers for a transportation company. This form is used to assess the applicant's qualifications, experience, and qualifications for the role. To ensure that the form is completed accurately and thoroughly, please review the fields carefully and provide truthful information about your background and qualifications.
-
-Before starting, verify that you have not filled out this form previously to avoid duplication of effort.
-
-Please note that some fields may be required or optional, and it's essential to complete all the mandatory fields to ensure a successful submission.
-</thinking>
 # Commercial Driver Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants interested in becoming commercial drivers for our transportation company. It assesses your qualifications, experience, and background to ensure you're a suitable fit for the role.

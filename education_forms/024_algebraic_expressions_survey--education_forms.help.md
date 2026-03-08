@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool designed to assess student's understanding and preferences in the context of algebraic expressions. The form is intended to gather information on various aspects of algebra, including comfort with variables, understanding of algebraic expressions, ability to simplify and evaluate expressions, and more. It is used to identify areas where students may need extra support or reinforcement. This form is meant to be completed by students, and its results can be used by educators to tailor their teaching approach to the specific needs of their students.
-</thinking>
-
 # Algebraic Expressions Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on students' understanding and preferences in algebraic expressions. It is intended to help educators identify areas where students may need extra support or reinforcement.

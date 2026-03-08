@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Behavior Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Stripes Invoice Request Form - Help Guide
 ## Purpose
 This form is used to create an invoice for a nail stripes order. It captures essential details such as order number, customer name, stripe name, order date, and stripe price for the invoice generation process. 

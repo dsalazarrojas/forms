@@ -1,6 +1,3 @@
-<thinking>
-This form is likely part of an internal process for educators to provide feedback to students on their performance, behavior, or progress in a specific subject or project. It may be used to track student engagement, understanding, or overall experience in the class or educational setting. The purpose of this form is to gather information and help educators provide constructive feedback to students. It is essential to ensure the form is not duplicated or unnecessary, as it might create confusion or overload on students and educators alike.</thinking>
-
 # Student Daily Feedback Form - Help Guide
 ## Purpose
 The Student Daily Feedback Form is a tool used by educators to provide constructive feedback to students on their performance, behavior, or progress in a specific subject or project. This form helps gather information and track student engagement, understanding, or overall experience in the class or educational setting.

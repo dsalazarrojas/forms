@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only completed for legitimate feedback and survey purposes, and not for other uses such as submitting a new education request. This form is a feedback request form for education providers, and we want to avoid duplication of existing requests or unnecessary feedback submissions. We should also consider implementing a validation mechanism to prevent abuse of the form.
-</thinking>
-
 # Veterinary Education Feedback Request Form - Help Guide
 ## Purpose
 This form is for providing feedback on veterinary education sessions. It is a request form to gather information and comments on existing or past education sessions. Please fill out as much or as little of the form as you need to.

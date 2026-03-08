@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register partners for e-commerce training sessions. It is meant to capture participant's information in a concise manner. This form should not be filled out if the participant has already been registered for the training sessions. Please ensure you are only filling this form if you are a new participant.
-</thinking>
-
 # e_commerce_partner_training_registration_form - Help Guide
 ## Purpose
 This form is designed to gather information from e-commerce partners who want to participate in training sessions. It captures basic contact information and preferences for training sessions.

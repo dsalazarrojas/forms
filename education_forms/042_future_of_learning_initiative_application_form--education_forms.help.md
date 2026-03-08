@@ -1,9 +1,3 @@
-<thinking>
-To prevent duplicate applications from being submitted and to ensure accurate representation of applicants, this form will only accept one submission per user. Please do not submit multiple applications, as this may delay the review process.
-This form is designed to capture information about an individual's personal details, background, goals, and professional experience. The information gathered will be used to assess potential eligibility for the Future of Learning Initiative, which aims to support and develop skills in education, professional development, and innovation.
-The form consists of multiple pages, each with its own set of fields. This guide will walk you through each field, helping you understand what information is required and how to provide accurate responses.
-</thinking>
-
 # Future of Learning Initiative Application Form - Help Guide
 ## Purpose
 This form is designed to capture information from individuals interested in pursuing a career in education, professional development, and innovation. The information gathered will be reviewed by the selection committee to assess potential eligibility for the Future of Learning Initiative.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a teacher's engagement and satisfaction with their school, colleagues, and students. This form is designed to be filled out by teachers to provide valuable feedback and insights to school administrators and policymakers. The form is meant to be a tool for teachers to share their thoughts, opinions, and experiences, which will help to inform decisions and policies that affect their work environment and the education provided to students.
-To ensure that the feedback provided is accurate and meaningful, it is essential that the form is filled out with care and attention. Please make sure to answer all questions honestly and provide as much detail as possible. If you have any questions or concerns about the form, please do not hesitate to reach out to us.
-</thinking>
-
 # Teacher Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a teacher's engagement and satisfaction with their school, colleagues, and students. It is intended to be a tool for teachers to provide feedback and insights that will help inform decisions and policies affecting their work environment and the education provided to students.

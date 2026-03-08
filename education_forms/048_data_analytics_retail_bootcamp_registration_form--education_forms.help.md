@@ -1,7 +1,3 @@
-<thinking>Before creating the user-facing help guide, I need to analyze the provided YAML fields to understand the form's purpose, structure, and requirements. The form has six fields: General Information, Address, Contact Information, Course Information, Payment Information, and Submit. The form appears to be designed for registering participants in a data analytics retail bootcamp. The fields are all "text" types, which suggests they are for collecting user input. I will assume that the "submit" field is meant to be a button to finalize the registration process.
-
-Given the form's name "Data Analytics Retail Bootcamp Registration Form" and its fields, I will create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Data Analytics Retail Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is for registering participants in the Data Analytics Retail Bootcamp. Please complete the form to provide your general information, address, contact information, course information, and payment details.

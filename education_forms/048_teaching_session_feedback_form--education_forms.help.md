@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students after a teaching session. It should be used by students to report their experiences and thoughts about the session. Ensure the form is not submitted multiple times by the same person, as this can lead to duplicate feedback. Use this form to gather accurate and diverse feedback.
-</thinking>
-
 # Teaching Session Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students after a teaching session. It allows students to share their experiences, thoughts, and opinions about the session. This feedback will help trainers improve their teaching methods, materials, and overall session quality.

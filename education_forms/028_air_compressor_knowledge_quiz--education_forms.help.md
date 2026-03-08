@@ -1,8 +1,3 @@
-<thinking>
-This form is a knowledge quiz for employees working with air compressors, aiming to test their understanding of compressor-related concepts and best practices. The form is designed to assess the respondent's knowledge on various aspects of air compressors, including types, safety, maintenance, and troubleshooting. The quiz is intended to help employees acquire and demonstrate their expertise in this field. This guide is meant to be used by employees who need to complete the quiz.
-
-</thinking>
-
 # Air Compressor Knowledge Quiz - Help Guide
 ## Purpose
 

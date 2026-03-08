@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Indian Independence History Quiz - Help Guide
 
 ## Purpose

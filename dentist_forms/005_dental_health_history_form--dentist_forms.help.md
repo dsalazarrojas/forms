@@ -1,7 +1,3 @@
-<thinking>
-The "Dental Health History Form" is designed to collect information about patients' dental health history. This form is intended to be completed by patients and is used to gather essential data that helps healthcare professionals assess and provide better care. The form's purpose is to streamline and standardize the process of collecting patient information, reducing errors and improving patient care. This form should only be used in the context of dental healthcare and not for any other purpose.
-</thinking>
-
 # Dental Health History Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information about your dental health history. This information will help our healthcare professionals assess your overall health and provide you with the best possible care.

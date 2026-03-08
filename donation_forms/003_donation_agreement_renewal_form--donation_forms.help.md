@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the renewal of a Donation Agreement between the organization and the donor. This form ensures that the donor provides necessary information for the renewal process, including their name, contact information, gift frequency and amount, payment frequency and method, and other details as needed.
-To complete this form, the donor will be presented with a series of fields that ask for their contact information, gift and payment details, and other relevant information. They will need to select or enter the necessary details for each field, and indicate if they have signed and the type of agreement they are renewing.
-</thinking>
-
 # Donation Agreement Renewal Form - Help Guide
 ## Purpose
 The Donation Agreement Renewal Form is used to update and renew existing donation agreements between donors and the organization. This form ensures that the organization has the necessary information to continue or terminate the agreement as agreed upon.

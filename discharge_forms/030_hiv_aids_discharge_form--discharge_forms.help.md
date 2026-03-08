@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will review the provided YAML form structure to understand its purpose and requirements. The form seems to be related to the discharge process for HIV/AIDS patients, likely for medical facilities or hospitals. I will create a guide that explains the form's purpose, how to complete it, and what each field means, based on the provided YAML schema.</thinking>
-
 # HIV/AIDS Discharge Form - Help Guide
 ## Purpose
 The HIV/AIDS Discharge Form is a document used to document the discharge process of patients with HIV/AIDS from a medical facility or hospital. This form collects essential information about the patient's condition, medical history, and care instructions to ensure a smooth transition between care settings.

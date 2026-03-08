@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **SJVAC Youth Programs - Help Guide**
 
 ## Purpose

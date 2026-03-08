@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the knowledge of users on the topic of molecular chaperones, specifically their role in protein folding and the differences between protein structure and complex. It is intended for educators who want to submit feedback and insights on the quiz questions. The form does not store any personal identifiable information and the submission is completely anonymous.
-</thinking>
-
 # Molecular Chaperones Quiz - Help Guide
 ## Purpose
 The Molecular Chaperones Quiz is a form that aims to assess the knowledge of educators on the topic of molecular chaperones, specifically their role in protein folding and the differences between protein structure and complex.

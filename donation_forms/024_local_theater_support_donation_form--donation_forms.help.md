@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be filled out by individuals or organizations that want to donate money to support local theaters in our community. This form should only be completed if the user is making a donation and intends to provide the necessary contact information to receive a confirmation of their donation. To avoid duplication, please only fill out this form once and do not submit multiple entries if you are making the same donation. 
-</thinking>
-
 # Local Theater Support Donation Form - Help Guide
 ## Purpose
 This form is designed to allow individuals or organizations to make donations to support local theaters in our community. Please fill out this form carefully to provide the required information and ensure that your donation is processed correctly.

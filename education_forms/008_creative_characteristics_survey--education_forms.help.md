@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the "creative_characteristics_survey" form, a comprehensive tool designed to assess the creative characteristics and traits of individuals. The form is intended for users to provide detailed descriptions about themselves, their skills, and their preferences. 
-This form is used for research and development purposes. It is crucial to understand that the responses provided will be used to create a comprehensive profile, and the answers should reflect an honest and accurate representation of the user's characteristics.
-Please fill out the form accurately and completely to ensure the results are valid. 
-</thinking>
 # creative_characteristics_survey - Help Guide
 ## Purpose
 The creative_characteristics_survey is a form designed to collect information about an individual's creative characteristics and traits. It helps to understand an individual's creative skills, preferences, and characteristics.

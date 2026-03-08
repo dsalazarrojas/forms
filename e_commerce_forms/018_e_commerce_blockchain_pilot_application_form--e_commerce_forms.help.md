@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the E Commerce Blockchain Pilot Application Form is filled out by the right people for the right reason. This form is intended for businesses and individuals interested in participating in the e-commerce blockchain pilot program. It should only be filled out by authorized representatives of the company, and the application reason should clearly state the intent to participate in the pilot program. To avoid duplication, we should also check if the company is already registered or has already applied before filling out the form.
-</thinking>
-
 # E Commerce Blockchain Pilot Application Form - Help Guide
 ## Purpose
 The E Commerce Blockchain Pilot Application Form is designed to gather information from businesses and individuals interested in participating in the e-commerce blockchain pilot program. This form helps us understand their needs, products, and goals to better support their integration into the pilot program.

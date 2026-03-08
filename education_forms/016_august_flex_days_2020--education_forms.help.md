@@ -1,18 +1,3 @@
-<thinking>
-The form "August Flex Days 2020" is designed to gather information from teachers regarding their interest in attending professional development (PD) workshops during the upcoming August Flex Days. The purpose of this form is to help organizers understand the needs and preferences of teachers, ensuring that the workshops offered cater to their interests and needs.
-
-This form is used to collect data on the following aspects:
-* Participant information (date of interest submission, participant name, email, and contact phone number)
-* Teaching experience (grade level, years of teaching experience)
-* Areas of interest (workshop topics, primary workshop preference, and professional development goals)
-* Availability and flexibility (able to attend full days, preferred days, and transportation needs)
-* Special requirements (dietary restrictions, technology needs, accessibility accommodations, and interest in collaboration sessions)
-* Feedback and suggestions (feedback on previous PD, suggested workshop topics, and additional comments)
-
-The form is designed to be user-friendly and straightforward, with clear labels and hints for each field.
-
-</thinking>
-
 # August Flex Days 2020 - Help Guide
 ## Purpose
 The form is designed to gather information from teachers regarding their interest in attending professional development workshops during the upcoming August Flex Days.

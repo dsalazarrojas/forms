@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Guest Lecturer Claim Form", I first need to understand its purpose and ensure there is no duplication of forms in our system.
-
-The form appears to be a claim form for guest lecturers, allowing them to claim reimbursement for their work. The form is composed of multiple fields, including select multiple, select one, date, and number type fields. The form has several options for submitting claims, including a date and time for submission.
-
-Given the form's name and structure, I will create a help guide that is clear and concise, outlining the form's purpose, step-by-step completion instructions, and field-by-field explanations.
-</thinking>
-
 # Guest Lecturer Claim Form - Help Guide
 
 ## Purpose

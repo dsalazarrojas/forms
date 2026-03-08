@@ -1,10 +1,3 @@
-<thinking>
-The "Educational Leadership Think Tank Application Form" is a web form designed to collect information from potential candidates for an educational leadership program. It aims to identify individuals with relevant experience and motivation for participating in the program. The form is used to ensure that candidates have a clear understanding of the program's objectives and can effectively contribute to the discussions and decision-making processes. 
-
-Before proceeding, please note that this form is for new applications only. If you have already submitted an application, please do not resubmit. Ensure that you have a valid email address, as it will be used for communication and follow-up.
-
-</thinking>
-
 # Educational Leadership Think Tank Application Form - Help Guide
 ## Purpose
 This form is designed for individuals interested in participating in the educational leadership program. It collects information about your background, motivation, and application. Please provide accurate and detailed information to help us understand your eligibility and suitability for the program.

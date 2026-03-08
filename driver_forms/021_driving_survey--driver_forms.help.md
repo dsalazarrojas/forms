@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a person's driving habits and vehicle usage. The form has several sections, including an introduction, vehicle information, driving habits, and additional details. The fields are designed to be optional, allowing users to fill in as much information as they feel comfortable providing. There's no need to fill out the form if you've already completed a similar survey in the past, as the purpose is to gather new data for analysis and improvement. This form will help us better understand how people drive, what they do on the road, and how often they drive. Your input will help us make the driving experience safer and more efficient for everyone.
-
-</thinking>
-
 # driving_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your driving habits and vehicle usage. Please fill it out to help us understand how you drive and what you do on the road.

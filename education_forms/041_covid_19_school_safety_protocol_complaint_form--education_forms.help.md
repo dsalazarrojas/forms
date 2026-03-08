@@ -1,9 +1,3 @@
-<thinking> 
-This form is intended to gather information from individuals who have experienced or witnessed a violation of the COVID-19 school safety protocols. The purpose of this form is to document the incident and provide a channel for reporting any concerns or complaints regarding the school's handling of safety protocols. 
-The form will help identify the complainant, their relationship to the school, the school in question, and the details of the violation. It will also ask if the complainant has any evidence to support their claim, and what resolution they would like to see for the matter. Lastly, it will request the complainant's contact email for follow-up purposes and confirmation that the information provided is true to the best of their knowledge.
-
-</thinking>
-
 # COVID 19 School Safety Protocol Complaint Form - Help Guide
 ## Purpose
 This form is designed to help identify and document instances of potential COVID-19 safety protocol violations within schools.

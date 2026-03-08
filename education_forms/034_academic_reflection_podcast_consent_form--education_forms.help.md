@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Reflection Podcast Consent Form - Help Guide
 ## Purpose
 This form is for the academic reflection podcast, a platform where students can express their thoughts and opinions on various academic topics. By filling out this form, you will be able to provide your consent to participate in the podcast, allowing us to record and distribute your voice and thoughts on the chosen topic.

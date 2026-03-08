@@ -1,7 +1,3 @@
-<thinking>
-The Schedule Change Request Form is used to request a change to a student's schedule. This form is typically submitted by teachers to request a change to a student's schedule due to unforeseen circumstances or extenuating circumstances. This form is used to ensure that the schedule change is properly documented and communicated to relevant parties. 
-</thinking>
-
 # Schedule Change Request Form - Help Guide
 ## Purpose
 This form is used to request a change to a student's schedule. Please use this form to provide clear and concise information about the schedule change you are requesting.

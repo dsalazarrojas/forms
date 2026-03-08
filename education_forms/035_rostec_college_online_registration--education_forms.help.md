@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the online registration of a student or applicant to Rostec College. Before proceeding, please ensure that this form is not used for purposes other than online registration, such as updating existing registrations or submitting external information (e.g., employee registrations). This form is intended for first-time users only.
-</thinking>
-
 # Rostec College Online Registration - Help Guide
 ## Purpose
 This form is used to register as a student or applicant for Rostec College's online courses. Fill out this form to provide us with necessary information for processing your registration.

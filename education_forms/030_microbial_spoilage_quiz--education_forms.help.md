@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a quiz designed to test knowledge about microbial spoilage in foods. The purpose of this form is to educate and assess users about the risks and management practices associated with microbial spoilage in food products. It seems to be part of a training or educational program for people in the food industry, specifically for individuals who need to understand and control microbial growth in food products. The form covers various aspects of microbial spoilage, including its causes, modes of growth, signs, control measures, and awareness levels.
-
-Before proceeding with the form, it's essential to note that it's a self-assessment tool, and users are not required to provide any personal or sensitive information. The form is designed to be completed on a "best-effort" basis, and users should not hesitate to seek clarification or guidance if they encounter any questions or doubts.
-
-</thinking>
-
 # Microbial Spoilage Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge about microbial spoilage in foods. It's a self-assessment tool to help you evaluate your understanding of the risks and management practices associated with microbial growth in food products.

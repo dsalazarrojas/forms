@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students who have received tutoring in Grade 6. The goal is to collect data on the tutoring experience, including the school attended, grade level of the student, type of program, frequency and duration of sessions, and overall rating of the tutoring services. The form is designed to be completed by students, but it's possible that parents or guardians may also be asked to fill out the form on behalf of their child. It's essential to note that the form is not meant to be a duplicate of any other form, and respondents are expected to provide accurate and honest answers.
-</thinking>
-
 # Grade 6 Tutoring Survey - Help Guide
 
 ## Purpose

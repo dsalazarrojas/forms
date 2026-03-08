@@ -1,11 +1,3 @@
-<thinking>
-
-The "Ideas For Outreach" form is used to collect information about potential outreach events and contacts. The form is designed to gather data about events, such as their titles, dates, locations, and details, as well as information about the individuals or institutions submitting the ideas. This form will help the outreach team to identify and follow up on potential outreach opportunities.
-
-The form will be used by internal teams to submit and manage event ideas, and by external contacts to submit their event information. To ensure accurate and relevant submissions, it is recommended to only submit new ideas that are not already in the system. Duplicate submissions will be removed.
-
-</thinking>
-
 # Ideas For Outreach - Help Guide
 ## Purpose
 The "Ideas For Outreach" form is used to collect information about potential outreach events and contacts.

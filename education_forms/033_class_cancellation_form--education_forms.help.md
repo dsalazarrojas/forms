@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for instructors to report the cancellation of classes, providing essential information to facilitate efficient communication and minimize disruption to students. Ensure you're filling this form for the correct reasons (e.g., due to illness, instructor's unavailability, or other unforeseen circumstances). This guide will walk you through each step of the process and explain the purpose of each field, helping you navigate the form with ease.
-</thinking>
-
 # Class Cancellation Form - Help Guide
 ## Purpose
 This form is used for class cancellations. Please ensure that you are using it for the correct reason and that you have the necessary permissions and approvals before proceeding.

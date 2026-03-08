@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information about open source education tool adoption within an educational institution. The purpose of this form is to collect data on the types of tools used, their frequency and duration of use, benefits, challenges, and other relevant details. This information will help the institution understand the current state of open source tool adoption, identify areas of improvement, and make informed decisions about tool recommendations and support. 
-
-This form is not intended to be a generic tool adoption survey, but rather a specific one for education-related tools. Therefore, please only answer questions relevant to your educational context.
-
-Before proceeding, please make sure you have read and understood the purpose of this form and that you are answering questions relevant to your educational institution's context.
-
-</thinking>
-
 # Open Source Education Tool Adoption Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about the open source education tools used in your educational institution.

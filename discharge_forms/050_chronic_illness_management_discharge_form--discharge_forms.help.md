@@ -1,13 +1,3 @@
-<thinking>
-  **Internal Review**: Ensure that this form is relevant and accurate. 
-  - This form is used to document a patient's discharge information and provide guidance on post-discharge care. 
-  - Ensure that all relevant fields are included and the form's design follows standard medical documentation best practices.
-  - Consider adding a section for the healthcare provider's signature and timestamp to ensure accountability and compliance.
-  - Double-check the fields for consistency and redundancy, removing any that are not necessary.
-  - The form should follow HIPAA and other relevant medical regulations.
-  - Double-check the fields for accuracy and ensure that there are no errors or typos.
-</thinking>
-
 # Chronic Illness Management Discharge Form - Help Guide
 ## Purpose
 The Chronic Illness Management Discharge Form is a tool used by healthcare providers to document a patient's discharge information, including medication instructions, follow-up appointments, and post-discharge care.

@@ -1,7 +1,3 @@
-<thinking>
-We have been asked to create a help guide for the "Modified Learner Enrolment Survey Form". This form is designed to gather information from learners, likely for the purpose of understanding their background, preferences, and previous experiences. However, before proceeding, we need to ensure this guide is relevant to the actual use case and is not duplicating efforts. The form consists of fields asking for basic personal details, such as name, email, and date of birth, as well as more specific information, like preferred learning modality, language, and previous education and degree. This guide will help learners understand what each field is meant to capture and how to complete the form accurately.
-</thinking>
-
 # Modified Learner Enrolment Survey Form - Help Guide
 ## Purpose
 This form is designed to collect demographic and background information from learners. It is essential to provide accurate and detailed responses to help us better understand your learning needs and preferences.

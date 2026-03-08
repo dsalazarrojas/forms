@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive help guide for the "Job Posting Request Form" with clear and concise explanations for end-users. This form is designed to collect job posting information from users, and its purpose is to gather essential details about a job posting. The form is likely used by administrators or hiring managers to create or update job postings on their platform or website.</thinking>
-
 # Job Posting Request Form - Help Guide
 ## Purpose
 This form is designed to collect job posting information from users, allowing administrators or hiring managers to create or update job postings on their platform or website.

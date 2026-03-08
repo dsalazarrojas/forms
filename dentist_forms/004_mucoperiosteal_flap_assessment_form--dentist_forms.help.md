@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mucoperiosteal Flap Assessment Form - Help Guide
 
 ## Purpose

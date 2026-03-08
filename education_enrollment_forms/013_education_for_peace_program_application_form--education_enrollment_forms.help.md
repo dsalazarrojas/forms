@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only relevant and non-duplicating applications are submitted. This form is designed to help students and educators apply to a program focused on promoting peace education. The fields will help applicants provide necessary information about themselves, their motivations, and their availability for the program. This form will be reviewed internally, and applicants will be notified of their application status.
-</thinking>
-
 # Education For Peace Program Application Form - Help Guide
 ## Purpose
 The Education For Peace Program Application Form is designed to help students and educators apply to a program focused on promoting peace education. This program aims to support applicants in their educational journey and foster a culture of peace and understanding.

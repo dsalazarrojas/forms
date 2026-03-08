@@ -1,5 +1,3 @@
-<thinking> This form is designed to gather information from high school students about their preferences and priorities when considering colleges. It collects their personal details, academic interests, and opinions about college attributes. The form is meant to be a comprehensive guide for students to express their thoughts and feelings about potential colleges they might apply to. </thinking>
-
 # College Survey For High School Students - Help Guide
 ## Purpose
 This form is designed to help college admissions officers better understand high school students' preferences and priorities when considering colleges. By filling out this form, you will be able to express your thoughts on what matters most to you in a potential college.

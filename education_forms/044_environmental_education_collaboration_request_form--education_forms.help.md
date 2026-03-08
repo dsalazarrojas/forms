@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for requesting environmental education collaborations with schools. It is intended for schools to provide information about their collaboration interests and needs. The form is used to help us understand the school's requirements and provide relevant support and resources.
-
-To prevent duplicate requests, we will only process a single request from each school. If you have previously submitted a request, you will not be able to submit again until the previous request has been processed.
-
-</thinking>
-
 # Environmental Education Collaboration Request Form - Help Guide
 ## Purpose
 

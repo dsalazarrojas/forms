@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the progress of a participant in a course or book. It is meant to be filled out by the participant themselves, providing information on their name, email, the course title, the chapter progress, and other relevant details. The purpose of this form is to provide a snapshot of where the participant is in the course at any given time. By using this form, participants can track their progress and communicate with the instructor or course coordinator. This guide is intended to ensure that the participant fills out the form accurately and completely, which will help the instructor or course coordinator understand the participant's needs and provide better support.
-</thinking>
-
 # Chapter Progress Tracker - Help Guide
 
 ## Purpose

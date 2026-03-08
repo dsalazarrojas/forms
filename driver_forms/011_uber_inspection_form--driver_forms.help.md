@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind the "Uber Inspection Form" is to gather specific details about a vehicle's condition and status for inspection and assessment purposes. This form ensures that the vehicle inspection process is thorough and accurate. It is essential that each field is filled out correctly to avoid duplication of work and ensure that the vehicle inspection process is efficient. Please ensure that you have the necessary information and permissions to complete this form accurately.
-</thinking>
-
 # Uber Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a vehicle's make, model, year, and other relevant details for inspection and assessment purposes.

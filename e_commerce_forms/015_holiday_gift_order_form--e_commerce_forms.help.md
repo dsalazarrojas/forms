@@ -1,28 +1,3 @@
-<thinking>
-This form is meant to collect information for an online holiday gift order form. The form should be used to capture gift recipient, shipping method, shipping address, and payment information. The form is likely used by customers to provide details for a gift they are purchasing online and would be used by the business to fulfill the order.
-
-The form has several fields that need to be filled out, including:
-  * Gift Details: This field is not required, but it seems to be intended to capture some details about the gift itself.
-  * Recipient: This field is not required, but it seems to be intended to capture the name and contact information of the person receiving the gift.
-  * Shipping Method: This field is required and has three options, First Class, Second Class, and Local Pickup.
-  * Shipping Address: This field is not required and seems to be intended to capture the shipping address of the gift.
-  * Billing Details: This field is not required and seems to be intended to capture the billing information for the gift.
-  * Payment Info: This field is not required and seems to be intended to capture payment information.
-  * Gift Image: This field is not required and seems to be intended to capture an image of the gift.
-  * Gift Image Description: This field is not required and seems to be intended to capture a description of the gift image.
-  * Gift Image: This field is not required and seems to be redundant with Gift Image field.
-  * Quantity: This field is not required and seems to be intended to capture the quantity of the gift.
-  * Price: This field is not required and seems to be intended to capture the price of the gift.
-  * Gift Message: This field is not required and seems to be intended to capture a message for the gift.
-
-The form has two fields that seem to be redundant or unnecessary: Gift Image and Gift Image Description. These fields should be removed or merged into a single field.
-
-The shipping method field is the only required field, indicating that the shipping method must be selected for the form to be complete.
-
-The form should be reviewed to ensure that all fields are necessary and that the required fields are clearly identified.
-
-</thinking>
-
 # Holiday Gift Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a holiday gift order. It captures details about the gift, recipient, shipping method, shipping address, and payment information.

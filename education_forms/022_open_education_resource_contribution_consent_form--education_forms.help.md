@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations that want to contribute their Open Education Resources to a platform or repository. The form is intended to gather relevant details about the contributor, the nature of their contribution, and any additional information they may want to provide. This form is likely used in educational settings where contributors want to share their resources, such as textbooks, lectures, or educational materials, with the broader academic community.
-
-To determine if this form is suitable for your needs, please consider the following:
-
-* Is your contribution a textbook, lecture, or educational material?
-* Are you an instructor, author, or creator of the contributed resource?
-* Do you have any additional information you'd like to provide about your contribution?
-
-If you're unsure, please contact the form administrators at [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Open Education Resource Contribution Consent Form - Help Guide
 ## Purpose
 

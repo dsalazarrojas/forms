@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, this form is designed to be filled out by the assigned user who will be working with the individual or educational institution to facilitate GED preparation. This form is used to record referrals for GED preparation support, which will be used to assign the right person to the case.
-</thinking>
-
 # GED Preparation Referral Form - Help Guide
 ## Purpose
 This form is used to refer individuals or educational institutions to our GED preparation support team. It helps in assigning the right person to work with each case, ensuring that the support is provided in a timely and efficient manner.

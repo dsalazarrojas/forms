@@ -1,7 +1,3 @@
-<thinking>
-This form is for program directors and coordinators to submit their program outcomes annually. It is used to collect data on the program's achievements, assessment findings, and evaluation progress. This form is part of the program evaluation process, which helps in identifying areas of improvement and tracking the program's performance over time. Please ensure that this form is completed accurately and thoroughly to ensure that it reflects the actual status of the program.
-</thinking>
-
 # Program Outcomes Annual Report Form - Help Guide
 
 ## Purpose

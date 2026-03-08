@@ -1,13 +1,3 @@
-<thinking>
-The form is intended to collect donation information from individuals who want to support the "Biodegradable Materials Initiative". This form is crucial for the organization to track and acknowledge donations, send receipts, and utilize the collected funds for research and outreach efforts.
-
-Before proceeding, please check if you have not filled out this form previously to avoid duplication. Please ensure you are filling out the correct information for a single donation.
-
-The Biodegradable Materials Initiative focuses on promoting and developing biodegradable materials, products, and processes. Donations support research, outreach, and education to advance this cause.
-
-Please note that some fields are mandatory for the form to be processed correctly.
-</thinking>
-
 # Biodegradable Materials Initiative Donation Form - Help Guide
 ## Purpose
 The Biodegradable Materials Initiative Donation Form is designed to collect information for individuals who want to support the initiative by making a donation. This form allows us to track and acknowledge donations, send receipts, and utilize the collected funds to drive research, outreach, and education efforts for biodegradable materials.

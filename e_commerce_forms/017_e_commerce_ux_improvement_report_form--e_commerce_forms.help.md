@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from users about their experience with our e-commerce store. This feedback will help us identify areas for improvement and make necessary changes to enhance the user experience.
-
-Before completing this form, please note that the questions are designed to be self-explanatory, and you can provide as much or as little information as you feel necessary to answer each question. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # e_commerce_ux_improvement_report_form - Help Guide
 ## Purpose
 This form is designed to gather feedback about your experience with our e-commerce store. Your responses will help us understand what we're doing well and what areas need improvement.

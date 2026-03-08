@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for reporting the condition of a residential room, likely for maintenance or inspection purposes. It seems to be used within a "Res Life Office" department, possibly for student dorms or university housing. The form asks for information about the current damages, date of inspection, resident name, date of check out, room condition, additional comments, and the action to take on the submitted report.
-</thinking>
-
 # Room Condition Report Rcr - Help Guide
 ## Purpose
 The Room Condition Report Rcr form is used to report the current condition of a residential room for maintenance or inspection purposes.

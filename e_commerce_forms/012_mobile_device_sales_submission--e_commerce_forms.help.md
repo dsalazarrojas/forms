@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from mobile device sellers about their sales submissions. It is meant to be used in an e-commerce context, likely on a platform where mobile devices are bought and sold. The purpose of this form is to gather essential details about the seller and the mobile device being sold.
-
-Before proceeding, please ensure you have a valid reason for filling this form and that you're not duplicating an existing submission. This form is a one-time submission form and is not intended for repetitive or recurring use.
-
-If you are a buyer looking to purchase a mobile device, you are not the intended user of this form. Please do not proceed if you are not a seller looking to submit their sales information.
-
-To fill out this form, follow the instructions below.
-</thinking>
-
 # mobile_device_sales_submission - Help Guide
 ## Purpose
 This form is used to collect information from mobile device sellers about their sales submissions. It's meant for use in an e-commerce context where mobile devices are bought and sold.

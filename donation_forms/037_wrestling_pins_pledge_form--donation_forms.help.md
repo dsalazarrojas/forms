@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a pledge to support a specific wrestling event or program. This form will be used to determine the amount and frequency of the pledge, the starting and ending dates of the pledge, and any additional instruments that the pledger would like to support. The form should be filled out with care to ensure accurate information.
-
-To avoid errors, please check the "Required Fields" select box to ensure you have filled out all the mandatory fields.
-
-This form is designed to be filled out by individuals pledging support for a specific wrestling event or program.
-</thinking>
-
 # wrestling_pins_pledge_form - Help Guide
 ## Purpose
 This form is used to collect information for a pledge to support a specific wrestling event or program.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form was generated using AI to create a Eating Disorder Questionnaire based on public survey topic metadata related to dietitians and eating disorders. The purpose of this form is to collect information about an individual's eating habits, patterns, and experiences related to eating disorders. This information can help dietitians understand the individual's behavior and provide tailored guidance. Please note that this form is not affiliated with any form platforms, and the generated content is an original adaptation.
-
-Before filling out this form, ensure that you have not filled it out before as it may be a duplicate submission.
-
-</thinking>
-
 # Eating Disorder Questionnaire - Help Guide
 ## Purpose
 

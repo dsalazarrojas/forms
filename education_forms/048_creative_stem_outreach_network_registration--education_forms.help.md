@@ -1,12 +1,3 @@
-<thinking>Before we start creating the help guide for the "Creative STEM Outreach Network Registration" form, let's consider the following:
-
-*   The form likely collects information from users who want to join or register with the network, providing details like personal information, interests, and preferences.
-*   Each field should be described in a way that's easy to understand and complete, taking into account the required and optional nature of each field.
-*   We'll aim to cover the purpose of the form, the steps to complete it, and provide a field-by-field explanation of each section.
-*   The form is likely for users who want to be part of a network focused on creativity and STEM fields.
-
-</thinking>
-
 # Creative STEM Outreach Network Registration - Help Guide
 ## Purpose
 The Creative STEM Outreach Network Registration form is designed to collect information from users who want to join or be part of the network. This form will help the network administrators to understand more about you and tailor their support to your needs.

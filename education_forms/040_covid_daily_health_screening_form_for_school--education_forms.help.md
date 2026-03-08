@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID Daily Health Screening Form For School - Help Guide
 
 ## Purpose

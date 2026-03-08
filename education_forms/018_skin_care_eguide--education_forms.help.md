@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding their skin care preferences and needs. This form is part of the "education_forms" category, and its title is "Skin Care EGuide". The form is used to gather data on various aspects of skin care, including skin type, concerns, condition, product, frequency, method, goal, precautions, delivery method, delivery time, and email address. This information will help in providing personalized guidance and advice on skin care. To ensure that the form is completed accurately and relevantly, please note that:
-
-* All fields are optional, except for the email address field.
-* The "Other" option is available for fields where the user has a unique skin type, concern, condition, product, or goal.
-* The delivery method and time fields are not used in the current implementation, but they are included for potential future use.
-* The email address field is used to contact the user with further guidance and advice.
-</thinking>
-
 # Skin Care EGuide - Help Guide
 ## Purpose
 The Skin Care EGuide is a form designed to collect information from users regarding their skin care preferences and needs. It helps in providing personalized guidance and advice on skin care.

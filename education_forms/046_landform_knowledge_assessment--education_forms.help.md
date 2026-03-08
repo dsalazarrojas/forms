@@ -1,15 +1,3 @@
-<thinking>
-
-The "landform_knowledge_assessment" form is designed to collect information about different types of landforms, including their characteristics and features. The form is intended to be used by experts in the field of geography, land surveying, or land development.
-
-Before you begin, please ensure that you understand the purpose of this form and that you are filling it out in a relevant context. This form is a comprehensive survey that covers various aspects of landforms, including their types, features, and attributes.
-
-Please be aware that this form is designed to be completed once per landform, and it is meant to gather detailed information about a single landform at a time.
-
-To complete this form, please select the correct options for each field as they apply to the landform you are assessing.
-
-</thinking>
-
 # landform_knowledge_assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about different types of landforms, including their characteristics and features.

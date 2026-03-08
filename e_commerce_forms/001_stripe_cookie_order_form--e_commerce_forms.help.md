@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for a Stripe Cookie Order Form. It's likely used for customers or users to place orders for cookies, possibly for an online store or a physical retail setting. The form is designed to collect various details related to the order, including order details, customer information, and payment settings. The purpose of this form is to streamline the process of taking orders for cookies, making it easier for customers to place their orders and for the business to process and fulfill them.
-</thinking>
-
 # Stripe Cookie Order Form - Help Guide
 ## Purpose
 The Stripe Cookie Order Form is a simple order form designed to collect details about cookie orders, making it easier for customers to place their orders and for the business to process and fulfill them.

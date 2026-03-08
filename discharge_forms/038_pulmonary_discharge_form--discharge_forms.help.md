@@ -1,7 +1,3 @@
-<thinking>As a pulmonary discharge form, the purpose of this form is to capture information related to a patient's discharge from a healthcare facility. This form is likely used to document the patient's status and circumstances of discharge, including details about their medical condition, treatment, and follow-up instructions. This form may be used by healthcare providers to ensure continuity of care and to facilitate communication between healthcare teams. The form may also be used for billing, insurance purposes, or other administrative tasks. Please note that some fields may be optional, indicating that they may not be required for every patient discharge.
-
-</thinking>
-
 # Pulmonary Discharge Form - Help Guide
 ## Purpose
 This form is used to document the details of a patient's discharge from a healthcare facility.

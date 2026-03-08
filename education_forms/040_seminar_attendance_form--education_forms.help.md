@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing details and information related to educational seminars. It likely serves as a tool for organizing and tracking seminar data, such as attendee details, contact information, and seminar specifics. The form may be used by event planners or administrators to collect data for future reference. Before proceeding, please ensure you have the necessary authority to access and use this form for its intended purpose.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide is designed to help you complete the seminar details form accurately and effectively.

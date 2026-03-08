@@ -1,11 +1,3 @@
-<thinking>Here's the internal reasoning to keep in mind before creating the help guide:
-
-This form is used to create and manage matches between features and tasks within the "education" category. The form is likely used to assign team members to specific tasks and features, track progress, and manage deadlines. The goal is to provide a clear and concise guide for users to understand the form's purpose and how to complete it effectively.
-
-Before creating the help guide, let's review the form's fields and ensure that each field's label is clear and concise, and that any optional fields are properly marked as such.
-
-</thinking>
-
 # matching_features_practice_task_form - Help Guide
 ## Purpose
 The "matching_features_practice_task_form" is used to create and manage matches between features and tasks within the "education" category. This form is designed to track progress, assign team members, and manage deadlines.

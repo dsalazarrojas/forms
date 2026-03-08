@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for educators who wish to request support for their emotional health and well-being. This form is designed to help the support team quickly understand the severity and frequency of the support needed, ensuring that the right support can be provided in a timely manner.
-The form should only be filled out by teachers who are experiencing or have experienced difficulties in their emotional well-being and are seeking support. To prevent duplication of efforts, please check with your school administration before submitting this form.
-</thinking>
-
 # Teacher Emotional Health Support Request Form - Help Guide
 ## Purpose
 This form is designed to help support staff quickly understand the severity and frequency of emotional support needed by teachers. It is intended for teachers who are experiencing or have experienced difficulties in their emotional well-being and are seeking support.

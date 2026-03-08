@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's health status, specifically regarding coronavirus symptoms and travel history. It's essential to understand that this form is not a medical diagnosis tool, and the information collected is for internal use only. Please ensure that you're completing this form truthfully, as it may be used for contact tracing or other public health purposes. Before starting, check if you have already filled this form. If you have, please do not resubmit. This form has been created based on general guidelines and may not be applicable to specific medical or travel situations.
-</thinking>
-
 # coronavirus_self_declaration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your health status regarding coronavirus symptoms and recent travel history. This form is for your health and safety, and the information you provide will be used for contact tracing and other public health purposes.

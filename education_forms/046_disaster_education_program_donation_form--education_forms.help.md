@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the user-facing help guide, let's break down each field and its purpose based on the provided YAML schema.
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # environmental_documentary_project_application_form - Help Guide
 
 ## Purpose

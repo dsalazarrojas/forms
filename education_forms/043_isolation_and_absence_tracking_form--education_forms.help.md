@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to track student absences and isolations in an educational setting. It is intended to be completed by administrators or staff members to record student absences and provide a standardized way of tracking attendance. The form is not designed to collect sensitive or confidential information, and its primary purpose is to provide a simple, structured format for recording student absences.
-
-Please make sure to only fill out this form when a student is absent or isolated from class. If you are unsure whether to complete this form, please consult with your supervisor or the relevant school policies before doing so.
-
-Note that this form does not include fields for collecting sensitive or confidential information. If you need to collect such information, you should not use this form and instead use a separate, more comprehensive form designed for that purpose.
-
-This form is an adaptation of a publicly available template and is released under a Creative Commons BY 4.0 license. You are free to use, modify, and distribute this form as you see fit, as long as you give credit to the original creators.
-
-</thinking>
-
 # Isolation And Absence Tracking Form - Help Guide
 ## Purpose
 This form is designed to track student absences and isolations in an educational setting.

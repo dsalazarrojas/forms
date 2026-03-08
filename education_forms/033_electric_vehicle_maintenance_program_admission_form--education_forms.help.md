@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electric Vehicle Maintenance Program Admission Form - Help Guide
 
 ## Purpose

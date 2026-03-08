@@ -1,30 +1,3 @@
-<thinking>
-This form is designed to capture information from users about their educational systems innovation challenge applications. The form is intended to gather project ideas, impact descriptions, supporting documents, team member information, contact details, and project status. The form will help the evaluation committee review and assess the submissions.
-
-The form will be used to:
-
-* Collect project ideas and descriptions
-* Gather information about the impact of the project
-* Collect supporting documents for the project
-* Determine the composition of the team behind the project
-* Gather contact information for the project lead or team members
-* Determine the current status of the project
-
-Please note that the form is optional and not required for submission. The form will be used to support the evaluation process, but it is not a condition for participation.
-
-Before starting the form, please make sure you are submitting a new project. If you have previously submitted a project, please do not resubmit.
-
-The following fields are required for a successful submission:
-
-* Project Idea
-* Impact Description
-
-The other fields are optional and can be filled in to provide additional context and information about your project.
-
-Please be aware that the project status field is a select-one field and is used to determine if the project is active or inactive.
-
-</thinking>
-
 # educational_systems_innovation_challenge_application - Help Guide
 ## Purpose
 The educational systems innovation challenge application form is designed to collect information from users about their educational systems innovation projects. This form will be used to support the evaluation process of the projects.

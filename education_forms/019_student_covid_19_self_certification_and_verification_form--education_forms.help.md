@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the Student COVID 19 Self Certification And Verification Form to educate users on its purpose and completion process.
-</thinking>
-
 # Student COVID 19 Self Certification And Verification Form - Help Guide
 
 ## Purpose

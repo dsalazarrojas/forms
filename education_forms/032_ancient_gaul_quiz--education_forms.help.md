@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to administer a quiz on ancient Gaul, likely for educational purposes. It seems to be designed for students to answer questions and provide feedback, while also allowing instructors to track their scores. This form is likely used within an educational setting, such as a history or cultural studies class... </thinking>
-
 # Ancient Gaul Quiz - Help Guide
 ## Purpose
 The Ancient Gaul Quiz form is designed to educate students about ancient Gaul, gathering information about their understanding of the subject and providing a score-tracking feature for instructors.

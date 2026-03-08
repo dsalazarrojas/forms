@@ -1,8 +1,3 @@
-<thinking> 
-We need to create a user-facing help guide for the Conversions Knowledge Quiz form. The form is intended to help users assess their knowledge on various conversions, including length, weight, volume, time, and temperature conversions. It is required to have a valid email address and the user's name. The form is divided into sections, each addressing a different type of conversion. The user will have to select the correct answer for each question. After completing the quiz, the user can assess their confidence level in conversions and identify topics that they need to review. This form will help users evaluate their understanding of different types of conversions and help them prepare for potential conversions questions in real-life applications. 
-
-</thinking>
-
 # Conversions Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge on various types of conversions. It's divided into several sections, each focusing on a different type of conversion, such as length, weight, volume, time, and temperature conversions. 

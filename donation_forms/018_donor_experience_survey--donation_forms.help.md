@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about donors' experiences with the organization. The purpose of this form is to gather feedback on how well the organization's communication channels are performing, how frequently donors are donating, and what channels they are using to donate. This form is intended for internal use by the organization to improve its services and processes. It is essential that only relevant and accurate data is collected to avoid duplication of effort and ensure that the feedback is actionable. Please ensure that you only fill out the fields that apply to your experience.
-</thinking>
-
 # Donor Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback on your experience as a donor with the organization.

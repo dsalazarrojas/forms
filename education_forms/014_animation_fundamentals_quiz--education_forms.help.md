@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to test a user's knowledge of animation principles, which are fundamental concepts in the field of animation. This form will assess the user's understanding of various animation principles, such as the number of fundamental principles, the principle of squash and stretch, keyframes, easing control, layering, secondary action, follow through, staging, and hold frames. This form is designed to evaluate a user's ability to identify and apply these principles correctly... </thinking>
-
 # Animation Fundamentals Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge of animation principles, which are fundamental concepts in the field of animation.

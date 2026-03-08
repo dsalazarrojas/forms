@@ -1,5 +1,3 @@
-<thinking>Before creating this form, we should ensure that the form is not being used for non-relevant purposes or duplicated. This form is designed for driver job applications, so it's crucial that users understand its purpose. This form is intended for drivers who want to apply for a job with us, and it's essential that we get accurate information from each driver. If a user is not a driver or does not have the necessary information, please do not proceed with this form.</thinking>
-
 # Driver Job Application Form - Help Guide
 ## Purpose
 The Driver Job Application Form is designed for drivers to submit their information and qualifications for a job with our company. It's essential to complete this form accurately and truthfully to ensure a smooth and efficient application process.

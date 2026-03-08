@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Clinical Field Experience Verification Form - Help Guide
 
 ## Purpose

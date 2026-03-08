@@ -1,5 +1,3 @@
-<thinking>... This help guide will assist users in understanding the purpose and function of the Onboarding Form Template, a tool for gathering essential information from new users. The form is designed to streamline the onboarding process, ensuring accuracy and consistency across all input fields. Before proceeding, please ensure that you are using this form to gather information for a legitimate purpose and that the information collected is not duplicated or redundant. ...</thinking>
-
 # Onboarding Form Template - Help Guide
 ## Purpose
 The Onboarding Form Template is a standardized form used to collect essential information from new users, ensuring accuracy and consistency across all input fields. This form is designed to gather relevant details for efficient onboarding processes.

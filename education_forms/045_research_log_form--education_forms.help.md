@@ -1,5 +1,3 @@
-<thinking>Research Log Form is designed to track and monitor research activities, allowing researchers to record and report their research progress, including dates, locations, and personnel involved. This form is used to ensure that all research activities are properly documented and accounted for, and to help track the status of ongoing research projects.</thinking>
-
 # Research Log Form - Help Guide
 ## Purpose
 The Research Log Form is used to track and monitor research activities, including dates, locations, and personnel involved.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners to create an estimate for animal nutritionist services. It will guide the user through a series of questions to gather essential details about the pet, its owner, and the services required. 
-The form will likely be used by animal nutritionists to provide estimates for their services, which can include initial consultations, diet plan development, weight management programs, therapeutic diet consultations, performance nutrition plans, and follow-up assessments. 
-This form is not intended to be a comprehensive medical assessment, but rather a preliminary guide to help the user provide estimates for the services. It will likely be used by professionals in the pet nutritionist field to gather necessary information for their services.
-</thinking>
-
 # Animal Nutritionist Estimate Form - Help Guide
 ## Purpose
 The Animal Nutritionist Estimate Form is designed to gather essential information from pet owners to create an estimate for various animal nutritionist services.

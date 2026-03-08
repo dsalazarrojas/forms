@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for faculty members to book recording sessions. The form captures information about the session's start and end dates and times, the faculty member's name and contact information, the recording method, location, and equipment, as well as any additional notes and confirmation or cancellation status. This form likely serves as a centralized booking system for recording sessions, allowing administrators or faculty members to easily schedule and coordinate recording sessions. To avoid duplicates, it's possible that this form is used in conjunction with a calendar system or a scheduling tool.
-</thinking>
-
 # Faculty Recording Session Booking Form - Help Guide
 ## Purpose
 This form is used to book a recording session for a faculty member. It captures essential information to ensure a smooth and successful recording experience.

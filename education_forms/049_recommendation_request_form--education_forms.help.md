@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Recommendation Request Form" is to collect information from students who are seeking recommendations for various purposes, such as academic or professional references. The form is designed to gather essential details about the student, their contact information, and any supporting documents that may be required. It also allows students to request recommendations from specific individuals, providing a clear and structured approach to facilitate the recommendation process.
-
-This form will be used to help ensure that the information provided is accurate and consistent, reducing the risk of errors or duplication. Before filling out the form, please ensure that you are only submitting a single request for each purpose, and that the information provided is up-to-date and correct.</thinking>
-
 # Recommendation Request Form - Help Guide
 
 ## Purpose

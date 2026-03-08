@@ -1,9 +1,3 @@
-<thinking>
-
-We created this form to allow administrators to easily generate customizable graduation ceremony invitations. The form collects information about the graduating individual, their ceremony details, and the invitation's sendable attributes. To ensure accurate data collection, please fill in the required fields and choose your desired options carefully. This form is designed for a specific use case and should not be used for other purposes without consulting the relevant administrators.
-
-</thinking>
-
 # Graduation Ceremony Invitation Form - Help Guide
 ## Purpose
 This form is used to collect information for a graduation ceremony invitation. Please fill it out carefully to avoid errors.

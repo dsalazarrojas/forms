@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to declare their interest and intent to receive the COVID-19 vaccine, gather information on their demographics, vaccination status, and declaration details. It is designed to streamline the vaccination process and ensure accuracy and consistency of information. Please note that this form is not meant to be duplicated for the same patient. It should be filled out for each patient on their first visit or when necessary. Ensure that you understand the purpose of this form before proceeding.
-</thinking>
-
 # COVID 19 Self Declaration Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients on their demographics, vaccination status, and declaration details to ensure accurate and efficient vaccination processing.

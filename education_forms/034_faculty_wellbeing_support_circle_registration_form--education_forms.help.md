@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Faculty Wellbeing Support Circle Registration Form - Help Guide
 
 ## Purpose

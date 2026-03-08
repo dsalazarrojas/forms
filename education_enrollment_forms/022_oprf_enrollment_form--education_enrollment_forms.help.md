@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users for the purpose of enrollment into a program or service. The form is a simple, multi-page form that collects basic contact information (name, email, phone number) and program-specific details (program choice, date, and time of enrollment). The form is meant to be completed by users who are interested in enrolling into one of the three available programs. The form's fields are designed to be easily understandable and accessible for users.
-
-This form is a critical component of the user journey and is used to gather necessary information for the enrollment process. By understanding how to complete this form, users will be able to provide accurate and complete information, ensuring a smooth and efficient enrollment process.
-
-Before starting, ensure you have not already completed this form in the past to avoid duplication of effort.
-
-</thinking>
-
 # OPRF Enrollment Form - Help Guide
 ## Purpose
 The OPRF Enrollment Form is a multi-page form designed to collect basic contact information and program-specific details for the purpose of enrolling into one of three available programs.

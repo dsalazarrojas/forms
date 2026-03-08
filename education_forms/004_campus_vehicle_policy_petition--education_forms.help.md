@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow students or employees to express their concerns or suggestions regarding the campus vehicle policy. The purpose of the form is to collect input from stakeholders on the current policy and its potential impact on campus life. This input will be used to inform and improve the policy, making it more efficient and effective for everyone.
-</thinking>
-
 # Campus Vehicle Policy Petition - Help Guide
 
 ## Purpose

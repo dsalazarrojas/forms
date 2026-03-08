@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for booking a time slot for students and staff. The form is used to collect information about the student, such as their name, email, phone number, and date available. It is also used to collect information about the staff member involved in the booking, including their last name, first name, title, and email. The form is used to book a time slot, which is a specific time and date for the student to meet with the staff. The form is likely used in an educational setting for scheduling meetings or appointments between students and staff.
-
-Form fields are not duplicated, so no need to review for non-duplication.
-
-</thinking>
-
 # Time Slot Booking Form USM - Help Guide
 ## Purpose
 This form is used to book a time slot for a student to meet with a staff member. It collects information about the student and staff member involved in the booking.

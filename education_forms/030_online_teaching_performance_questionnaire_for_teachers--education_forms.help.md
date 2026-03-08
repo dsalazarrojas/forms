@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Online Teaching Performance Questionnaire For Teachers", is to collect data on the performance and evaluation of teachers in an educational setting. This form is designed to gather information about the teacher's performance level, challenges faced, and evaluation periods. The form is intended to be completed by teachers to reflect on their teaching practices and progress. Before proceeding, please ensure that this form has not been previously created or used in your organization and that it aligns with your internal processes and standards.
-</thinking>
-
 # Online Teaching Performance Questionnaire For Teachers - Help Guide
 ## Purpose
 The purpose of this form is to collect data on the performance and evaluation of teachers in an educational setting. This form is designed to gather information about the teacher's performance level, challenges faced, and evaluation periods.

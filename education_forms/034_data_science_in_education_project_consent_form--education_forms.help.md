@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Science In Education Project Consent Form - Help Guide
 ## Purpose
 The Data Science In Education Project Consent Form is a document used to obtain informed consent from individuals or organizations participating in a research project related to data science in education. This form helps ensure that all parties involved are aware of the project's purpose, data collection, and usage, and that they provide their consent to participate.

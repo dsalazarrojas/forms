@@ -1,10 +1,3 @@
-<thinking>
-The Host Family Application Form is a tool for host families to provide information about themselves and their families to host international students or exchange visitors. 
-It is designed to be a starting point for host families to demonstrate their interest in hosting and to gather essential details for the hosting process. 
-This form may be used by host organizations or educational institutions as an initial step in the hosting process. 
-To avoid duplication, please only submit this form once per host family, and ensure that your answers are complete and accurate.
-</thinking>
-
 # Host Family Application Form - Help Guide
 
 ## Purpose

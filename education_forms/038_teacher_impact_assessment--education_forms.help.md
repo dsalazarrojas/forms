@@ -1,13 +1,3 @@
-<thinking>
-
-The form "teacher_impact_assessment" is designed to gather information about a teacher's impact on their students. This form is intended to be filled out by teachers to self-assess their own work, and by school administrators to evaluate teacher performance.
-
-It is crucial to note that the form is for assessment purposes only and should not be used for non-school purposes. Please make sure to fill out the form accurately and honestly to ensure a fair and thorough evaluation.
-
-Before proceeding, ensure that you have not submitted this form recently, and make sure you are completing it for the correct school year.
-
-</thinking>
-
 # teacher_impact_assessment - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a teacher's impact on their students, helping school administrators assess and improve teaching performance.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect donations from patrons for the Performing Arts Auditorium. The form asks for information to confirm the donor's identity, their donation amount and frequency, and other relevant details. It should only be completed by a genuine individual or organization making a legitimate donation.
-The form fields have been designed to capture all the essential information needed to process a donation effectively. Before submitting the form, ensure you have checked all the fields and provided accurate information. Please review the fields carefully to prevent any errors or discrepancies.
-</thinking>
-
 # Performing Arts Auditorium Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations from patrons for the Performing Arts Auditorium.

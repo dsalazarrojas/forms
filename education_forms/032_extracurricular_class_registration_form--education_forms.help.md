@@ -1,5 +1,3 @@
-<thinking>This form is used to register students for extracurricular classes, which can include sports, clubs, or other activities. Before filling out this form, please ensure that you are registering the correct student and that they are eligible to participate in the extracurricular class. This form should not be used to register students for classes that they are not eligible for, as it may cause duplication of effort and confusion for the student and the school administration.</thinking>
-
 # Extracurricular Class Registration Form - Help Guide
 ## Purpose
 The Extracurricular Class Registration Form is used to register students for extracurricular classes, sports, and clubs.

@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is designed to facilitate check-ins for meetings between university advisors and their students. The form ensures that advisors can record meeting details, notes, and follow-up actions, promoting efficient communication and collaboration. To prevent duplication, we should only use this form for meetings that are directly related to student advising and not for other types of meetings. We should also ensure that advisors only use this form when they have a clear meeting history with the student.
-</thinking>
-
 # University Advisor Meeting Check In Form - Help Guide
 ## Purpose
 This form is used to record meeting details between university advisors and students, ensuring efficient communication and collaboration.

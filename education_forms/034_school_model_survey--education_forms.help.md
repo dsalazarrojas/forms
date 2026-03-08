@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect general information from end-users about their educational background. It will likely be used within an educational institution or organization to gather data for internal purposes, such as to understand student demographics or to create targeted marketing campaigns. It's not intended for public-facing purposes and might be part of a more extensive survey or assessment process that includes other forms.
-
-To confirm that this form meets the requirements and isn't duplicating any existing form, let's review the provided fields. The form includes fields for collecting text-based information (name and contact details), selecting one or multiple options from lists, and capturing date and time. There's also an option to add a note if the user wishes to provide additional context. 
-
-Given the fields, we can assume that the form is meant to collect general, basic information about the respondent and their preferences or characteristics. This form likely doesn't require extensive data or complex calculations but aims to gather a broad overview of the users.
-
-</thinking>
-
 # School Model Survey - Help Guide
 
 ## Purpose

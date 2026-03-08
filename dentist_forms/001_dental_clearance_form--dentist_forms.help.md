@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dental_clearance_form - Help Guide
 
 ## Purpose

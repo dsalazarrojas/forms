@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about household media usage and children's details from users. The form is not affiliated with or endorsed by any form platform and was created using AI as an original adaptation of public survey topic metadata. The form is released under CC BY 4.0 and can be used, modified, and distributed freely, providing credit is given.
-
-Please note that the form has been designed to be user-friendly and clear, but if you have any doubts or concerns, please contact <form@gic.mx>.
-
-To ensure that your experience with the form is smooth and efficient, we suggest you go through the form carefully and fill it out accurately.
-
-</thinking>
-
 # Psa Form - Help Guide
 ## Purpose
 The Psa Form is designed to collect information about household media usage and children's details from users. This form is used to:

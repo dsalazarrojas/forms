@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are applying for officer positions within the Taylor FFA Chapter. This form will help the chapter leadership evaluate the applicants' qualifications and suitability for the positions. The form includes fields for the applicant's name, email, phone number, chapter ID, officer position, term start date, term end date, chapter address, city, state, zip, country, additional comments, and multiple-choice questions for various officer positions. Each field is carefully designed to collect the necessary information required for the chapter's officer selection process.
-
-To check for duplication, this form is intended for new applicant submissions. If an applicant has already submitted an officer application in the past, they should not reapply. Reapplying will not affect their chances of getting selected as an officer, but it will be a waste of their time and the chapter's resources.
-
-To check for relevance, this form is designed to collect the most important information needed by the chapter leadership to assess the applicant's qualifications and fit for the officer position. The chapter leadership will review each application carefully and consider factors such as the applicant's experience, skills, and availability when making their selection decisions.
-
-Please note that some fields are not required, which means they are optional and can be left blank if the applicant does not have the necessary information. The chapter leadership will not penalize applicants for not filling out these optional fields.</thinking>
-
 # Taylor FFA Chapter Officer Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are applying for officer positions within the Taylor FFA Chapter.

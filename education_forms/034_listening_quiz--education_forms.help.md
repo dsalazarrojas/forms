@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Listening Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your listening habits and preferences. It is intended to gather data about your favorite music genres, how you usually listen to music, and your favorite music streaming platforms.

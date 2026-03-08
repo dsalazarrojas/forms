@@ -1,9 +1,3 @@
-<thinking>
-This form is part of the "education_forms" category, designed to create a quiz on Philippine history. The form allows users to input answers to historical questions, take time stamps for submission, and provide additional notes or contact information.
-The form is not intended to be a comprehensive assessment of knowledge, but rather a fun way to engage users with historical events and figures from the Philippines. The form will likely be used for educational purposes, such as in-class activities or online quizzes.
-Given the form's focus on historical knowledge, it is essential to ensure that users have a clear understanding of the form's purpose and how to complete it correctly.
-</thinking>
-
 # philippine-history-quiz - Help Guide
 ## Purpose
 The philippine-history-quiz form is designed to test users' knowledge of historical events and figures from the Philippines. It is meant to be a fun and engaging way to learn about the country's rich history.

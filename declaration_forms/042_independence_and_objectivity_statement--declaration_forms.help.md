@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users declare their independence and objectivity in a specific context, likely for audit or review engagements. The fields are meant to capture information about a user's independence, role in the organization, potential conflicts of interest, involvement in the audit or review, date of independence, time of independence, team, and a statement of declaration. This form appears to be related to professional or business settings, possibly for auditors, reviewers, or other professionals seeking to demonstrate their objectivity and independence. It's essential to ensure the form is filled out accurately and truthfully to maintain the integrity of the declaration.
-
-</thinking>
-
 # Independence And Objectivity Statement - Help Guide
 ## Purpose
 This form is intended for individuals to declare their independence and objectivity in a given context, such as audit or review engagements.

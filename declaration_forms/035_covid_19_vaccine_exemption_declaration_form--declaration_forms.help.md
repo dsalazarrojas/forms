@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about patients who are exempt from receiving a COVID-19 vaccine. This form should only be used for patients who have a valid medical reason for exemption and have consulted with their doctor. The form's purpose is to document the patient's exemption status, the reason for exemption, and any other relevant medical information. Before completing this form, please ensure that you have the patient's doctor's signature and that you are not duplicating any existing records.
-
-</thinking>
-
 # covid-19-vaccine-exemption-declaration-form - Help Guide
 ## Purpose
 

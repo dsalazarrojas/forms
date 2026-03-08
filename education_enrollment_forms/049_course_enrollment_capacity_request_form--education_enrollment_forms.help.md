@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course Enrollment Capacity Request Form - Help Guide
 ## Purpose
 This form is used to request changes to the course enrollment capacity. It helps the system administrators to keep track of changes made to course enrollment capacity and assign them to specific users for processing.

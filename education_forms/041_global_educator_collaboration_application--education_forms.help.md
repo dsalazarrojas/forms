@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from educators about their collaboration interests and preferences for global education projects. This form is designed to help us understand their needs and facilitate effective collaboration. Please ensure that you have reviewed the following instructions carefully to complete the form accurately.
-
-</thinking>
-
 # Global Educator Collaboration Application - Help Guide
 ## Purpose
 The Global Educator Collaboration Application is a tool designed to collect information from educators about their collaboration interests and preferences for global projects. This application helps us understand their needs and facilitates effective collaboration.

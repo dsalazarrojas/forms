@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to gather information about a teacher's certification. This form is used to collect data on a teacher's name, institution, certification level, date of completion, and time of completion. This form will likely be used by school administrators or HR personnel to verify or record a teacher's certification status. Please ensure that the information provided is accurate and up-to-date. This form should not be completed by multiple users simultaneously. If you are unsure about any of the fields, please refer to this help guide for clarification.</thinking>
-
 # Teacher Certification Report Form - Help Guide
 ## Purpose
 The Teacher Certification Report Form is a document used to collect and record a teacher's certification status. It is completed by the teacher or school administrators to provide accurate information about the teacher's certification.

@@ -1,22 +1,3 @@
-<thinking>
-This help guide is intended for users who will be providing evaluation data for teachers, which includes demographic information and performance ratings. The form is meant to be completed by teachers or other authorized personnel to assess the performance of teachers. The form should not be completed by students or unauthorized individuals.
-
-The guide aims to walk users through the process of filling out the form and explaining each field's purpose and requirements.
-
-The form's purpose is to collect data on teachers' performance, which is essential for evaluation and assessment. The guide will help users understand the form's structure and requirements to ensure accurate and complete data collection.
-
-It is crucial to ensure that this form is completed accurately and thoroughly by the intended users, as the data collected will inform teacher evaluations and potentially impact teacher development and support. Non-duplication and accuracy are essential to prevent incorrect data collection and potential misrepresentation of teacher performance.
-
-The guide will also help prevent errors and frustration from users who may struggle to understand the form's complexity or ambiguity. By clarifying each field's purpose and requirements, users can complete the form efficiently and effectively.
-
-The guide will be concise and practical, providing clear explanations for each field while avoiding unnecessary information. Each field will have a brief explanation to help users understand its purpose and requirements.
-
-The guide will not require the user to have specialized knowledge or expertise in the field of education or data collection. The goal is to make the form accessible and user-friendly for all users who will be completing it.
-
-The guide will be updated as needed to reflect changes to the form's structure or requirements. Regular feedback from users will be encouraged to improve the guide's effectiveness and user experience.
-
-</thinking>
-
 # Evaluation Teacher Data Form - Help Guide
 ## Purpose
 The Evaluation Teacher Data Form is designed to collect demographic information and performance ratings for teacher evaluations. This form is intended for teachers or authorized personnel to assess teacher performance.

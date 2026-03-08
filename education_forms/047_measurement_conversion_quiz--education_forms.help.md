@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help users understand the process of converting between different units of measurement. The form asks users to select a conversion question, the unit to convert from, the original value in that unit, and the unit to convert to. Users are then asked to enter the converted value and the result is displayed for them to review.
-</thinking>
-
 # Measurement Conversion Quiz - Help Guide
 
 ## Purpose

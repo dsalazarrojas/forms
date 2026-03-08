@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # elementary_student_reading_log - Help Guide
 ## Purpose
 The elementary_student_reading_log form is used to record and track a student's reading habits. By providing information on the start and end dates and times, as well as the title of the book, author, reading location, reading level, and reading time, educators and administrators can monitor students' reading progress and identify any areas for improvement. 

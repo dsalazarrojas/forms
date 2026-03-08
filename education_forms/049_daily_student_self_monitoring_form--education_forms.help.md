@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to self-monitor their daily progress in school. This form can be used for various purposes, such as tracking attendance, assignments, and progress in different classes. To ensure that you are using this form correctly, please note that it is not intended for duplicate submissions. Each student should only submit one form per day. Please ensure that you are submitting the form for the correct date and class that you are attending. 
-
-</thinking>
-
 # Daily Student Self Monitoring Form - Help Guide
 ## Purpose
 The Daily Student Self Monitoring Form is a tool for students to track their daily progress and attendance in school. 

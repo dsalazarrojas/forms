@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a chapter officer application recommendation. It is designed to be completed by a teacher to recommend a student for a chapter officer position in their school. The form should only be completed by authorized personnel, and the same teacher should not submit multiple forms for the same student.
-</thinking>
-
 # taylor_ffa_chapter_officer_application_recommendation_form - Help Guide
 ## Purpose
 This form is used to recommend a student for a chapter officer position in their school.

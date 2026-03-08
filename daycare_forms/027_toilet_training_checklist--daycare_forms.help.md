@@ -1,11 +1,3 @@
-<thinking>
-
-To help create a relevant and accurate help guide for the "toilet training checklist" form, let's first consider the purpose and context of the form. This form is likely used by daycare staff to track the progress of a child's toilet training, including the child's name, start and completed dates, frequency and number of accidents, successful flushes, pull-ups, and other observations and notes. The form's primary purpose is to provide a structured and organized way to collect data on a child's toilet training progress, allowing staff to monitor and evaluate the child's development.
-
-This guide will focus on explaining each field's purpose and required information, aiming to make it easy for users to complete the form accurately and efficiently.
-
-</thinking>
-
 # toilet_training_checklist - Help Guide
 ## Purpose
 The toilet training checklist is a form used to track a child's progress in toilet training. It captures essential information on the child's name, start and completed dates, frequency and number of accidents, successful flushes, pull-ups, and other observations and notes.

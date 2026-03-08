@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect data on the digital learning experience of students. The main goal is to gather information on their preferences, behaviors, and perceptions regarding online courses. This will help educators and administrators to better understand how students learn best and how they can improve the online learning experience. The form will be completed by students themselves, and the data collected will be used to inform teaching strategies and resources that cater to the needs of students.
-
-Please note that the form is not meant to be a survey with a definitive purpose, but rather a collection of questions that can help us better understand the digital learning experience. If you have any feedback or concerns about this form, please let us know!
-
-Before completing this form, please make sure you have the necessary permission to provide your information and that you understand how your data will be used. If you are unsure, please reach out to your teacher or administrator for guidance.
-
-Also, please note that some questions may seem repetitive, but they are designed to gather a comprehensive understanding of your learning experience. You can complete this form anonymously, and your responses will be kept confidential.
-
-Now, let's get started!
-</thinking>
-
 # digital_learning_experience_survey - Help Guide
 ## Purpose
 This form is designed to gather data on the digital learning experience of students. The main goal is to collect information on their preferences, behaviors, and perceptions regarding online courses.

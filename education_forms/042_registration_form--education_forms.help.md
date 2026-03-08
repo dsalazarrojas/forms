@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect user registration information. The purpose of this form is to gather demographic data from users, including their name and contact information. This information is likely to be used for internal purposes such as creating a contact list, sending newsletters, or tracking user engagement.
-
-Before you begin, ensure that you have not completed this form before, as this form does not store any information locally and all submitted data will be sent to an external server. If you have any doubts or questions, please contact the form owner at form@gic.mx.
-
-</thinking>
-
 # Registration Form - Help Guide
 ## Purpose
 The Registration Form is designed to collect user registration information, including their name and contact details.

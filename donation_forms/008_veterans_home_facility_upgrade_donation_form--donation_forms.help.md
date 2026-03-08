@@ -1,10 +1,3 @@
-<thinking>
-This form is used for collecting information about donations made to support the Veterans' Home upgrade initiative. The form is designed to be completed by individuals or organizations making a donation to this cause. The goal is to gather relevant details about the donor, the amount and method of the donation, and any additional comments or information. It's essential to ensure that each field is filled out accurately and completely to provide a complete picture of the donation.
-
-Before proceeding, please note that you can only submit this form once. If you have already submitted this form, please do not attempt to submit it again, as this may cause duplication of your information.
-
-</thinking>
-
 # VETERANS_HOME_UPGRADE_DONATION_FORM - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weight Loss Consultation Form - Help Guide
 
 ## Purpose

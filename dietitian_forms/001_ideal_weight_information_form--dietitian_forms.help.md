@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ideal Weight Information Form - Help Guide
 
 ## Purpose

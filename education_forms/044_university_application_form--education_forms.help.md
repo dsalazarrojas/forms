@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for collecting information from users who want to apply to a specific university. The form collects various details about the applicant, including their name, email, school attended, degree, graduation date, GPA, SAT scores, and extracurricular activity information. This information will be used to review and process the university applications.
-Before filling out this form, ensure you've already checked the university's eligibility criteria and requirements for admission. This form should not be filled out if you've already submitted an application or if you're filling out this form for someone else.
-</thinking>
-
 # University Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for university admission.

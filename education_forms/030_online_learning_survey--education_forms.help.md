@@ -1,9 +1,3 @@
-<thinking>
-The form "online_learning_survey" is designed to collect feedback and opinions from users who have taken an online course. It aims to gauge their satisfaction with the course, assess their level of engagement, and help improve future iterations of the course by understanding their experiences and preferences.
-To ensure that you don't end up filling out this form in vain, please make sure that you have already taken the online course and are responding genuinely based on your experiences with it.
-If you've taken this form before, please be aware that you won't be able to submit duplicate responses, and your input will not be registered.
-</thinking>
-
 # online_learning_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users who have taken an online course. We want to hear about your experiences and suggestions to improve future iterations of the course.

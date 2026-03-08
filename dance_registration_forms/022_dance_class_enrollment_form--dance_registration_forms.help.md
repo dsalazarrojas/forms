@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for dance class enrollment. It is intended for students and teachers to communicate their availability, payment status, and other relevant details. This form is not for registration for specific classes, but rather for general dance class enrollment purposes. Please ensure that you are using the correct form for your specific needs. If you are unsure, please contact the relevant department or authority for guidance.</thinking>
-
 # dance-class-enrollment-form - Help Guide
 ## Purpose
 The dance-class-enrollment-form is used to collect information for general dance class enrollment purposes.

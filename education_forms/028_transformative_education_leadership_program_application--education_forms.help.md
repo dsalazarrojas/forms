@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users applying for the Transformative Education Leadership Program. It appears to be a standard form for collecting personal and institutional data. To ensure that the form is completed correctly, I will review it for duplication and provide a clear, concise guide for users to follow. I will also make sure to include all required fields and provide explanations for any fields that may be unclear or have ambiguous labels. I will output the help guide in Markdown format as requested.</thinking>
-
 # Transformative Education Leadership Program Application - Help Guide
 ## Purpose
 The Transformative Education Leadership Program Application form is designed to collect information from individuals applying for the program. Please complete this form accurately and thoroughly to ensure your application is considered for the program.

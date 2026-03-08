@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for the "Exam Schedule Communication Form" which is used by staff members to communicate exam schedules to students. Please ensure that this guide is reviewed and approved by the relevant stakeholders before publication.
-To complete this form, please refer to the fields below.
-</thinking>
 # Exam Schedule Communication Form - Help Guide
 ## Purpose
 The Exam Schedule Communication Form is a communication tool used by staff members to share exam schedules with students. It's a crucial document that informs students about exam dates, times, locations, and other essential details. This form ensures timely and accurate communication between staff and students, enhancing their understanding and preparation for exams.

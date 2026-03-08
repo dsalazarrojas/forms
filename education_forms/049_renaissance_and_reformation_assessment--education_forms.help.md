@@ -1,7 +1,3 @@
-<thinking>
-The form "Renaissance And Reformation Assessment" is designed to collect information and insights about the Renaissance and Reformation era. This form likely aims to gather data about historical events, cultural developments, and intellectual movements from this period. To ensure the form is used correctly and effectively, it's essential to understand its purpose and how to complete it accurately. Please note that this form was created using AI and is an original adaptation, not a copy or derivative from any proprietary platform.
-</thinking>
-
 # Renaissance And Reformation Assessment - Help Guide
 ## Purpose
 The Renaissance And Reformation Assessment form is designed to collect information and insights about the Renaissance and Reformation era. This form will help gather data about historical events, cultural developments, and intellectual movements from this period.

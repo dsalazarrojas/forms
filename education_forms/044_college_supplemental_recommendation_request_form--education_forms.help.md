@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to request a letter of recommendation for a student applying to college. This form is used to gather necessary information from a recommender, such as a teacher, coach, or mentor, who can provide a recommendation for the student. This form helps the student to communicate their request to the recommender, and ensures that they provide all the necessary information to make a strong recommendation.
-
-This form is not intended to be completed by the student; it's meant to be sent to the recommender, who will provide their recommendation.
-
-Before proceeding, please ensure that the recommender you're requesting from is someone who knows you well and can provide a genuine recommendation. Also, check with your college or university to see if there are any specific requirements or deadlines for submitting the recommendation.
-
-</thinking>
-
 # College Supplemental Recommendation Request Form - Help Guide
 ## Purpose
 The College Supplemental Recommendation Request Form is a document that requests a recommender to provide a letter of recommendation for a student applying to college.

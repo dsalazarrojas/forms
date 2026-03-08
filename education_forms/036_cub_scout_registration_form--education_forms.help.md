@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cub_scout_registration_form - Help Guide
 ## Purpose
 The "cub_scout_registration_form" is used to register a new scout for a Cub Scout program. This form collects contact information, scout information, and event details to register a scout with the program.

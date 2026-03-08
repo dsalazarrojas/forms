@@ -1,11 +1,3 @@
-<thinking>
-The "Nutrition Quiz" form is designed to gather information from clients about their dietary habits, health goals, and other relevant details. This form will help the dietitian or healthcare professional understand the client's needs and provide personalized advice. It is essential to fill out the form thoroughly and accurately to get the best results. 
-
-Please make sure to only complete this form if you have not already been in contact with a dietitian or healthcare professional. If you have filled this out before, please do not complete it again to avoid duplication of effort. 
-
-Please review the fields carefully and provide the required and optional information as instructed. The form is divided into several sections, each with its own unique purpose.
-</thinking>
-
 # Nutrition Quiz - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their dietary habits, health goals, and other relevant details to help dietitians or healthcare professionals provide personalized advice.

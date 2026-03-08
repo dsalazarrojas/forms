@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for evaluating the performance of a teacher cadet, specifically their educational quote. It appears to be designed for a teacher or educational institution to assess the cadet's progress and development in their education. To ensure accurate and comprehensive evaluation, it's essential to understand the purpose and relevance of this form. This form might be used for internal assessment, reporting, or as a reference point for future evaluations. To avoid duplication of efforts, it's crucial to verify that this form is not already in use for similar purposes within the organization or institution.
-
-</thinking>
-
 # Teacher Cadet Education Quote Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information for evaluating the performance of a teacher cadet, specifically their educational quote.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be filled out by individuals interested in applying for a research fellowship. The form will help the applicant provide necessary information about their background, skills, and interests in order to be considered for the fellowship. To ensure that the form is filled out correctly, please read through each section carefully and answer all questions to the best of your ability. If you're unsure about any of the questions or have any additional information you'd like to provide, please don't hesitate to reach out to the relevant contact person or department.
-
-This guide will walk you through each section of the form and provide explanations of each field to help you fill it out correctly.
-
-</thinking>
-
 # Online Learning Research Fellowship Application - Help Guide
 ## Purpose
 The Online Learning Research Fellowship Application form is designed to help us get to know you better and understand your background and interests.

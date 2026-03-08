@@ -1,12 +1,3 @@
-<thinking>
-This form is used to intake information for delivery services. It is intended to collect necessary details about a delivery service, including contact information, delivery address, delivery date and time, estimated delivery time, order ID, service level, and any additional comments or notes. Before proceeding, ensure that this form is not a duplicate entry or a submission for an already existing delivery service.
-
-This form is designed to be completed by a single user for a single delivery service. Multiple entries from the same user for the same delivery service may cause confusion and errors in the system.
-
-To avoid duplication, please check the existing delivery services in the system before filling out this form.
-
-</thinking>
-
 # delivery_service_intake_form - Help Guide
 ## Purpose
 The delivery service intake form is a collection of fields that gathers information for a delivery service. The form is used to record details about the delivery, including contact information, delivery schedule, and any additional comments or notes.

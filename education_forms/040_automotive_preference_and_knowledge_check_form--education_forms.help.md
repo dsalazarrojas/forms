@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the customer's vehicle preferences and knowledge to provide personalized vehicle recommendations. 
-The form is designed to be completed by customers who are in the market for a new vehicle and want to understand their priorities, budget, and feature requirements. 
-This form will help the customer identify their preferences and provide them with relevant information to make an informed decision. 
-It will also help to avoid duplication of effort and ensure that the customer receives relevant information that meets their needs.
-</thinking>
 # Automotive Preference And Knowledge Check Form - Help Guide
 ## Purpose
 The Automotive Preference And Knowledge Check Form is designed to gather information about your vehicle preferences and knowledge to provide you with personalized vehicle recommendations.

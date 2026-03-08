@@ -1,7 +1,3 @@
-<thinking>
-The form is used to document the details of a patient's discharge from a healthcare facility, including their name, contact information, medication list, allergy information, and medical condition. This form is typically used in a pharmacy setting, where the pharmacist will need to verify the patient's medication list, allergies, and other relevant medical information to ensure safe discharge. To ensure the form is completed accurately, it is essential that the fields are filled out correctly and thoroughly. If there is a medical condition that requires follow-up care, the healthcare professional can add a note in the "Follow-Up" field.
-</thinking>
-
 # Pharmacy Medication Discharge Form - Help Guide
 ## Purpose
 This form is used to document the details of a patient's discharge from a healthcare facility, ensuring that the patient's medication list, allergies, and other relevant medical information are accurately recorded.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # zero_waste_initiative_donation_form - Help Guide
 ## Purpose
 The zero_waste_initiative_donation_form is a form designed to collect donations for the zero waste initiative. This form is used to gather information about the donation amount, frequency, and other details from donors.

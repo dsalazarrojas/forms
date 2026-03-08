@@ -1,8 +1,3 @@
-<thinking>
-This form will be used for the preschool registration process to gather essential information from parents or guardians. The goal is to collect data that will help the preschool staff to understand the child's and the family's needs, as well as provide contact information for emergency situations.
-It's crucial to ensure that this form is filled in correctly, and not duplicating or misusing this data. This will also help us to provide a better experience for our children, ensuring they feel welcomed and supported during their time here.
-</thinking>
-
 # Preschool Registration - Help Guide
 ## Purpose
 The Preschool Registration form is designed for parents or guardians to provide essential information about their children and families. This form will help our preschool staff understand their needs, provide necessary contact information, and ensure a smooth registration process.

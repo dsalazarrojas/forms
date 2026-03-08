@@ -1,8 +1,3 @@
-<thinking>
-The Student Exchange Program Parental Consent Form is a form designed to gather information from parents or guardians of students participating in the school's student exchange program. This form is required to ensure that parents or guardians are aware of and consent to their child's participation in the program. It is essential to ensure that parents or guardians understand their child's involvement and any potential risks or benefits associated with the program.
-Before filling out this form, please make sure you are the parent or guardian of the student and you are aware of the program details. This form is not a duplicate of any other form, and it's a one-time form for student exchange program participation.
-</thinking>
-
 # Student Exchange Program Parental Consent Form - Help Guide
 ## Purpose
 The Student Exchange Program Parental Consent Form is a document that requires parents or guardians to confirm their consent and provide additional information for their child's participation in the student exchange program.

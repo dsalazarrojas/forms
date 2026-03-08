@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Success Story Release Form - Help Guide
 ## Purpose
 The Student Success Story Release Form is designed to collect information about students' achievements and stories of success, allowing schools to share and showcase their students' accomplishments. This form is intended for students to share their personal stories, and by filling it out, you will be granting permission for your story to be published and shared.

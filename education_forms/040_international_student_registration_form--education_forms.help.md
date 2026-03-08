@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for international students to register their information for a specific purpose, such as academic programs, events, or services offered by the institution. This form likely aims to gather information about the students' background, preferences, and requirements to provide tailored support or services. 
-
-Before proceeding, please check if you have already completed this form. If yes, please do not complete this form again. Completing this form multiple times could lead to duplicate and unnecessary processing of your information.
-</thinking>
-
 # international_student_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from international students for a specific purpose. Please ensure that you have already completed this form, if yes, do not proceed further to avoid duplicate processing of your information.

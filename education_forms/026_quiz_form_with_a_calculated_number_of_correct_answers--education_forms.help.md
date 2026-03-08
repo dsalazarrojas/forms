@@ -1,7 +1,3 @@
-<thinking>
-This task requires creating a user-facing help guide for the form "Quiz Form With A Calculated Number Of Correct Answers". To determine the form's purpose and how to complete it, let's analyze the provided YAML fields. The form is part of the "education_forms" category, which suggests it is likely used in an educational context. The title of the form already gives away its purpose: it seems to be used to track user responses to questions, possibly with a calculated number of correct answers. The calculated number of correct answers suggests that the form might be used for assessments or tests.
-</thinking>
-
 # Quiz Form With A Calculated Number Of Correct Answers - Help Guide
 ## Purpose
 This form is designed to track user responses to questions, with the option to calculate the number of correct answers. It is likely used in an educational context to assess user knowledge or skills.

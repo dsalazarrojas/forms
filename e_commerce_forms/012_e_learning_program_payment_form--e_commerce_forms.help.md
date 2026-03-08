@@ -1,8 +1,3 @@
-<thinking>
-We are designing a form for users to submit payment for an e-learning program. This form allows users to input their payment details, such as the payment amount, student name, course code, payment method, and transaction date. The form also includes fields for student contact information and payment status. To ensure this form meets our requirements, we must verify that the form fields are correctly labeled, formatted, and prioritized to provide an optimal user experience. We also want to ensure that our form instructions and explanations are clear and concise.
-
-</thinking>
-
 # e_learning_program_payment_form - Help Guide
 
 ## Purpose

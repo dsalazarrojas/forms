@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for individuals and organizations to submit information about their donations to the historical society. The purpose of this form is to collect data on who, when, and how much has been donated. We want to ensure that this form is completed only once per donor, so please do not submit duplicate entries.
-
-</thinking>
-
 # historical_society_donation_form - Help Guide
 ## Purpose
 The historical society donation form is used to collect information about donations from individuals and organizations. This data will help us better understand our donors and improve our services.

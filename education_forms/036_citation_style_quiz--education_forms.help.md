@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Citation Style Quiz - Help Guide
 ## Purpose
 This guide helps you complete the Citation Style Quiz, a self-assessment form that tests your knowledge of different citation formats used in academic and professional writing.

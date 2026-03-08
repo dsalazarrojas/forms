@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students and their families to enroll in dance classes at the school. The form collects demographic information about the student, their emergency contacts, and medical information. The form will be used to register students and provide necessary information for the school's administrative and medical records.
-</thinking>
-
 # Dance School Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll a student in dance classes at our school. Please provide the required information for the student, emergency contact, and any medical information we need.

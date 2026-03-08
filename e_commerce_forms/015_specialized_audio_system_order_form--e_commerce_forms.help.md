@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal reasoning block for the developer: the form appears to be designed to collect information from a customer placing an order for a specialized audio system. The customer is likely ordering a product that comes with multiple formats (2CD, 2DVD, Digital) and has options for delivery (Standard, Express, Priority, Economy) and shipping. The form also includes fields for customer information (name, email, phone), order details, and payment method. The "Customer Info 2" field is likely for secondary customer information or additional customer details.
 
 # Specialized Audio System Order Form - Help Guide

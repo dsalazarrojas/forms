@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for collecting information from individuals who are interested in donating an organ to a specific organ donation program or organization. The form will help the program or organization to gather relevant details about the donor, including their personal and medical history, contact preferences, and any other relevant information.
-
-Before starting to fill out this form, please ensure that you have reviewed the form carefully and understand its purpose and requirements. This form is designed to be completed by individuals who are interested in donating an organ, and the information collected will be used to facilitate the donation process.
-
-If you are not interested in donating an organ, please do not complete this form. The form is not intended for other purposes and may not be suitable for individuals who do not want to donate an organ.
-
-Please note that this form has been generated using AI and is intended to serve as a starting point for your own form creation and customization. You are free to modify the form according to your specific needs and requirements.
-
-</thinking>
 # Organ Donation Form - Help Guide
 ## Purpose
 The Organ Donation Form is designed to collect relevant information from individuals who are interested in donating an organ to a specific organ donation program or organization.

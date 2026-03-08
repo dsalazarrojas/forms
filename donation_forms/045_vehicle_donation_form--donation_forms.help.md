@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about vehicle donations, including details about the vehicle being donated, the donor's information, and the status of the donation. 
-
-The form is likely used for internal or external tracking, reporting, or documentation purposes, such as logging vehicle donations for tax or accounting records.
-
-Before proceeding, ensure that this form is not already being filled out or submitted elsewhere, as duplicate data may result in confusion or errors.
-
-</thinking>
-
 # Vehicle Donation Form - Help Guide
 ## Purpose
 The Vehicle Donation Form is used to collect and record information about vehicles being donated to an organization, including details about the vehicle, the donor, and the status of the donation.

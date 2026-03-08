@@ -1,11 +1,3 @@
-<thinking>
-
-The "Donor Recognition Authorization Form" is designed to collect information from donors regarding their preferences for recognition and acknowledgement of their donations. This form helps the donor acknowledge and authorize the type of recognition they would like to receive from the organization, which may include their name, organization name, or both. It also allows them to choose the method of acknowledgement, such as phone call, email, mail, or social media. This form is intended to be filled out by donors to ensure that the organization provides them with the appropriate recognition and acknowledgement for their contributions.
-
-Before filling out this form, please ensure that you have not already submitted this information to us previously. If you have already submitted this information, you do not need to fill out this form again.
-
-</thinking>
-
 # Donor Recognition Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information from donors regarding their preferences for recognition and acknowledgement of their donations.

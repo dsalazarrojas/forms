@@ -1,7 +1,3 @@
-<thinking>Given the provided YAML, the internal reasoning block will briefly explain the form purpose and relevance. This form is a College Move In Checklist created to help students prepare for their move-in day. It's used by college administrations to gather information on what items a student has packed and what they still need to bring. This form will help ensure students have all necessary items for a smooth transition, and the provided instructions are for end-users to navigate this form efficiently.
-
-</thinking>
-
 # College Move In Checklist - Help Guide
 ## Purpose
 The "College Move In Checklist" is a form designed for students to provide information on what they have packed and what they still need to bring during the move-in process. This helps college administrations gather accurate and complete information to facilitate a smooth transition for students.

@@ -1,12 +1,3 @@
-<thinking>
-... internal logic checks:
-* The form is used by users to submit donation information for flood relief efforts
-* The form has been configured with the following properties: "flood_relief_donation_form", 9 fields: 1. Donor Information, 2. name, 3. email, 4. phone, 5. amount, 6. donation_method, 7. donation_frequency, 8. notes, 9. donation_frequency_other
-* No duplicate fields are found in the form
-* The fields are configured as follows: Donor Information (text), name (text), email (email), phone (text), amount (number), donation_method (select multiple), donation_frequency (select one), notes (note), donation_frequency_other (text)
-* The fields are not required, except for the Donor Information field (page 1), and the amount field (page 5)
-</thinking>
-
 # flood_relief_donation_form - Help Guide
 ## Purpose
 This form is used by users to submit donation information for flood relief efforts.

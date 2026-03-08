@@ -1,15 +1,3 @@
-<thinking>... 
-
-The university enrollment checklist form is used to collect information from students and parents/guardians about the student's contact information, identification, and course selection. The form is designed to be a comprehensive checklist that captures all the necessary details for enrollment. 
-
-This form is meant to be filled out by students and parents/guardians together, making sure that both parties have a clear understanding of the student's enrollment process. 
-
-The fields in this form are meant to be filled out in sequence, with each section building upon the previous one. 
-
-Before filling out the form, please make sure that you have all the necessary information and documents ready. 
-
-</thinking> 
-
 # university_enrollment_checklist_form - Help Guide
 ## Purpose
 The university enrollment checklist form is used to collect information from students and parents/guardians about the student's contact information, identification, and course selection.

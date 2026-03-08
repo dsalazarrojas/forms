@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Perfect Attendance Form - Help Guide
 ## Purpose
 The Perfect Attendance Form is used to record and report on attendance at events or activities. This form collects information about the attendees' names and dates of attendance.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clearly stated and that the user understands how to complete it without unnecessary duplication of information. The form is intended to gather information from users who want to place an order for shoes, including their design preference, size, quantity, any further requests, contact information, delivery details, and payment method. We should avoid confusing the user with too much information and focus on the essential fields that are required and optional.
-</thinking>
-
 # Shoes Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from users who want to place an order for shoes. It includes fields for design preference, size, quantity, contact information, delivery details, and payment method. Please fill out the form accurately and thoroughly to ensure that your order is processed correctly.

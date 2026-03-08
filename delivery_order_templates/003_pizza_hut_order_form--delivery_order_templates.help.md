@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for managing order information for Pizza Hut deliveries. The primary purpose of this form is to collect and store customer order details, including delivery methods, customer contact information, order specifics, and staff assignment and tracking information. This form likely serves as a centralized hub for managing orders from start to finish, ensuring that orders are accurately recorded and assigned to the correct staff member. The form's fields suggest a focus on efficiency and accuracy in order fulfillment.
-</thinking>
-
 # Pizza Hut Order Form - Help Guide
 ## Purpose
 The Pizza Hut Order Form is a tool designed to collect and track information about customer orders, enabling efficient order fulfillment and assignment of tasks to staff members.

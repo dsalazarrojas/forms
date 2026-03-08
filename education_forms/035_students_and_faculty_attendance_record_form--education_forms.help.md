@@ -1,7 +1,3 @@
-<thinking>Students and faculty attendance records are crucial for tracking and monitoring attendance, which can affect student performance, faculty workload, and overall school operations. This form is used to record the attendance of students and faculty members, providing a clear and accurate overview of their attendance status. To ensure consistency and accuracy, please fill out the form only once for each student and faculty member, and avoid filling out the form multiple times for the same person.
-
-</thinking>
-
 # Students And Faculty Attendance Record Form - Help Guide
 ## Purpose
 The purpose of this form is to record the attendance of students and faculty members. It provides a clear and accurate overview of their attendance status, which can be used for monitoring and analysis.

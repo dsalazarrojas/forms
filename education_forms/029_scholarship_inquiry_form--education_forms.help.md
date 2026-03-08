@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to submit scholarship inquiries. The purpose of this form is to gather information from students about their background, contact details, and any additional information they may want to provide. This form ensures that the information is captured in a standardized way, reducing the need for repetitive questions or follow-up inquiries. To avoid duplication, please do not fill out this form if you have already submitted one or are not currently looking for a scholarship. If you're unsure about your status, please contact us for clarification.
-</thinking>
-
 # Scholarship Inquiry Form - Help Guide
 ## Purpose
 The Scholarship Inquiry Form is a tool for students to provide information about their background, contact details, and additional information required for scholarship applications. This form helps us to understand your eligibility and gather all the necessary information in a single submission.

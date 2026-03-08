@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track student data, specifically student details, academic progress, performance, absences, attendance, disciplinary actions, notes, and additional information. The form's structure allows for a flexible and comprehensive collection of data for educational purposes. The form is not affiliated with any specific platform, and its creation was guided by public survey topic metadata in the education category.
-</thinking>
-
 # Student Data Tracking Sheet - Help Guide
 
 ## Purpose

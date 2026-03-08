@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help us determine if an order is eligible for free shipping. We will be reviewing each submission to determine if the customer meets our criteria for free shipping. Please note that this form should only be filled out once per order, as repeated submissions will not be processed.
-
-This guide will walk you through each section of the form to help ensure you submit accurate information.
-
-</thinking>
-
 # Free Shipping Eligibility Request Form - Help Guide
 ## Purpose
 The Free Shipping Eligibility Request Form is designed to help us determine if an order is eligible for free shipping. Please fill out this form thoroughly and accurately to help us review your request.

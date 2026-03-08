@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Entrepreneurial Skills Training Registration Form - Help Guide
 ## Purpose
 This form is for participants to register for Entrepreneurial Skills Training, which is a program designed to equip individuals with essential skills and knowledge to succeed in their entrepreneurial ventures. It is recommended that you only register once for the current program to avoid duplication of efforts.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # driver_safety_declaration_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to evaluate and gather information about the educational sector, specifically regarding its presence, indicator status, and other relevant details. This form aims to provide an efficient and structured process for collecting data from end users. To avoid repetition and duplication, this form will guide users through its sections, ensuring they fill in all required and relevant information in the correct order.
-</thinking>
-
 # Educational Sector Indicator Evaluation - Help Guide
 ## Purpose
 This form is designed to assess the current status of the educational sector. It will help in identifying areas that need improvement and provide valuable insights for informed decision-making.

@@ -1,7 +1,3 @@
-<thinking>
-The iep_services_course_registration form is designed to collect essential information from participants for course registration purposes. The purpose of this form is to gather demographic and contact details of individuals who wish to participate in a course or service offered by the organization. This form is intended for internal use within the organization and should only be used for the specific purpose of registration for services or courses. If you are looking to collect other types of data or for external use, please consider creating a separate form tailored to your specific needs.
-</thinking>
-
 # iep_services_course_registration - Help Guide
 ## Purpose
 The iep_services_course_registration form is designed to collect essential information from participants for course registration purposes.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by users who intend to submit their creative writing projects for admission. To prevent duplication, we must verify that each submission meets the necessary criteria. This form should only be used for users who are submitting their creative writing projects for admission, and not for any other purpose.
-</thinking>
-
 # Creative Writing Admission Form - Help Guide
 ## Purpose
 The Creative Writing Admission Form is a document used to submit creative writing projects for admission to a particular program or organization. It is intended for individuals who wish to share their original creative writing work with the world.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect student application information for the Technology School. Before filling this form, please ensure that you have not submitted any duplicate applications. If you are unsure about any information, please contact the relevant authority for clarification.
-</thinking>
-
 # Technology School Application Form - Help Guide
 ## Purpose
 This form is meant for students to submit their applications to the Technology School. Please fill in the required information to complete your application.

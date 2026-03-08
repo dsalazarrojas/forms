@@ -1,11 +1,3 @@
-<thinking>
-To ensure the packing cube set order form is completed correctly, we first need to understand its purpose and the context it's being used in. This form is likely used for e-commerce transactions, specifically for customers to place orders for packing cube sets. It's designed to collect necessary information from the customer to fulfill their order accurately. 
-
-The form should not be used in other contexts such as internal surveys, product feedback forms, or HR onboarding forms. It's intended for a very specific use case and should not be used outside of that context.
-
-We need to make sure we are not duplicating efforts and forms are not being used for the wrong purpose. This form is a critical component of the e-commerce process and should be used as intended.
-</thinking>
-
 # Packing Cube Set Order Form - Help Guide
 
 ## Purpose

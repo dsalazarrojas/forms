@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML, I understand that this form is designed to capture an individual's professional development plan. It is crucial to ensure that the form is completed accurately and efficiently. To avoid confusion, let's review the form purpose and ensure that this is the correct form for the intended use case.</thinking>
-
 # professionalDevelopmentPlan - Help Guide
 ## Purpose
 This form is designed to help individuals outline their professional development plans, including career objectives, descriptions, and strategies for achieving their goals.

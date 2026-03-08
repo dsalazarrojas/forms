@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for door orders. It is meant for customers or staff members to input details about a door order, such as customer information, order status, and payment method. This form is likely used in an e-commerce or order management system. The form has a mix of text, number, time, and select fields to collect various types of information. Each field should be filled in according to the guidelines provided, ensuring that the form is completed accurately and efficiently.
-</thinking>
-
 # door_order_form - Help Guide
 ## Purpose
 The door_order_form is used to collect information for door orders in an e-commerce or order management system.

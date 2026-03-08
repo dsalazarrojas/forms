@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help dental practices prepare for emergencies, which can include natural disasters, power outages, or other unexpected events that may impact the practice. The purpose of this form is to gather information about the practice's emergency preparedness plan, including the roles and responsibilities of different personnel, emergency contact information, and plan details. 
-
-To ensure that this form is useful and effective, it's essential to avoid duplication of efforts and ensure that it's relevant to the specific needs of the dental practice. This form should not be used to collect redundant or unnecessary data. 
-
-Before filling out this form, review its contents and ensure that it's suitable for your needs. If you have any questions or concerns, feel free to reach out to us for assistance.
-</thinking>
-
 # emergency_preparedness_for_dental_practices - Help Guide
 ## Purpose
 The emergency preparedness form is a tool to help dental practices prepare for and respond to emergencies, ensuring the safety and well-being of patients, staff, and assets.

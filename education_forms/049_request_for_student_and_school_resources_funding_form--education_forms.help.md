@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the "education_forms" category and is designed to collect information from students and schools seeking funding for various reasons. It appears to be a generic form with minimal specific requirements for each field, suggesting it's intended for general use cases. The form does not seem to have any duplicate fields or conflicting requirements, so it's likely safe to proceed with the help guide creation.
-</thinking>
-
 # Request For Student And School Resources Funding Form - Help Guide
 ## Purpose
 This form is for students and schools to request funding for various purposes.

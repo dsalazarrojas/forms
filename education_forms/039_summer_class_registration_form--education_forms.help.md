@@ -1,6 +1,3 @@
-<thinking>
-This form is a Summer Class Registration Form used by students to register for summer classes or programs. It is used to collect demographic information from students, including their name, contact information, and course information. The form asks students to provide their first and last name, email, phone number, and address. It also asks for their student ID and whether they are interested in summer programs. The purpose of this form is to help the institution or organization running the summer classes or programs to understand their target audience and prepare for the classes or programs.
-</thinking>
 # Summer Class Registration Form - Help Guide
 ## Purpose
 The Summer Class Registration Form is designed to collect information from students who are interested in registering for summer classes or programs. This form will help the institution or organization running the classes or programs to understand who is interested and prepare accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the New Zealand School Enrolment Form. This form is used for enrolling students in a school in New Zealand and requires information about the student and their guardian/parent. The form is divided into multiple pages, but the information gathered is crucial for the school's records and the student's enrolment process. To ensure accuracy and completeness of the data, it's recommended that users fill out the form with care and attention to detail.
-</thinking>
-
 # New Zealand School Enrolment Form - Help Guide
 ## Purpose
 The New Zealand School Enrolment Form is a document used for enrolling students in a school in New Zealand. It requires information about the student and their guardian/parent to complete the student's record and facilitate their enrolment process.

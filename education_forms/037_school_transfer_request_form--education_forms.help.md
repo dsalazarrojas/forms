@@ -1,12 +1,3 @@
-<thinking>
-This form is used to process school transfer requests from students. 
-The form is intended for students seeking to transfer to another school within the institution or system. 
-The purpose of this form is to ensure that the student's needs and circumstances are accurately represented, and that the request is properly documented.
-When a student submits this form, the relevant departments are notified, and the request is processed accordingly.
-Ensure you are not submitting duplicate requests or using this form for unrelated purposes.
-If you are unsure about this form, please reach out to the relevant authorities for guidance.
-</thinking>
-
 # School Transfer Request Form - Help Guide
 
 ## Purpose

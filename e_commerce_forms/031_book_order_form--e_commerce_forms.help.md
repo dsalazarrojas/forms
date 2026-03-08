@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for customers placing orders for books. It includes fields for customer details, shipping information, book orders, and payment preferences. The form is structured to collect all necessary information for successful order processing and delivery. To avoid duplication, the form will only allow one set of book orders to be submitted at a time. Please note that the form is not a placeholder and is intended for actual order submissions.
-
-</thinking>
-
 # Book Order Form - Help Guide
 ## Purpose
 The Book Order Form is designed to collect order information from customers, including customer details, shipping information, book orders, and payment preferences. This form is intended for customers to submit their order requests to our team for processing.

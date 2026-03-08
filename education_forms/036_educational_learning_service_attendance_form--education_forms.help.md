@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture information related to educational learning services, specifically for students to report their attendance. The purpose of this form is to collect data on students' attendance in classes, allowing administrators to track attendance patterns and identify potential issues. To complete this form, users will be presented with a series of fields that must be filled in accordingly.
-
-This guide will walk you through each field in the form, explaining what to expect and how to complete it correctly. This form is not required, but providing accurate information will help ensure that the data is used effectively.
-
-Before completing the form, please review the following fields carefully. If you are unsure about any field, please reach out to your administrator for clarification.
-
-Please note that this form may be duplicated in the future, but for now, it is a one-time collection of information.
-</thinking>
-
 # Educational Learning Service Attendance Form - Help Guide
 ## Purpose
 The form is designed to collect information on students' attendance in educational learning services, allowing administrators to track attendance patterns.

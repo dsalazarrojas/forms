@@ -1,5 +1,3 @@
-<thinking>This form is intended to assess the proportional relationships between various factors in an educational context. The form captures information about a teacher and a student, including their name and age, and allows the user to select a math problem and provide answers from the teacher and student perspectives. The purpose of this form is likely to evaluate understanding of proportional relationships, a fundamental concept in mathematics education. Before filling out this form, please review the following guidance to ensure you understand its purpose and how to complete it accurately.</thinking>
-
 # Proportional Relationships Assessment - Help Guide
 ## Purpose
 The Proportional Relationships Assessment form is designed to evaluate the understanding of proportional relationships between variables in an educational context.

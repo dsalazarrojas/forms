@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a comprehensive form for collecting patient information and consent for dental lab work. The form includes fields for patient contact information, medical history, and emergency contact information. It seems that the form is intended for dental clinics or offices to gather necessary information from patients before performing lab work. Before proceeding, let's ensure that this form is relevant to the dental industry and does not duplicate existing forms. Upon review, this form does not appear to be a direct copy of any existing form, and its purpose seems to be specific to the dental industry. Therefore, it's likely a valid form for this use case.</thinking>
-
 # Dental Lab Work Consent Form - Help Guide
 ## Purpose
 This form is used by dental clinics or offices to gather necessary information from patients before performing lab work. It collects patient contact information, medical history, and emergency contact information.

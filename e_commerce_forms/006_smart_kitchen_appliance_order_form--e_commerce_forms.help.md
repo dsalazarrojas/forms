@@ -1,8 +1,3 @@
-<thinking>
-This form is used for customers to place an order for smart kitchen appliances. It is an e-commerce order form, which means it is used for users to provide their order details, select the items they want to order, specify the quantity, and enter their shipping and payment information. This form is designed to be simple and easy to use, with clear labels and instructions to guide the user through the ordering process.
-
-</thinking>
-
 # smart_kitchen_appliance_order_form - Help Guide
 ## Purpose
 This form is used to place an order for smart kitchen appliances. It allows users to enter their order details, select the items they want to order, specify the quantity, and enter their shipping and payment information.

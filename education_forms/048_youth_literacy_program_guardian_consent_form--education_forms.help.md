@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from guardians or parents of children who are participating in the Youth Literacy Program. The purpose of the form is to gather consent from guardians for the participation of their children in the program. The form asks for contact information, relationship details, and medical information to ensure the child's safety and well-being. It's crucial to have this information to provide appropriate care and communication during the program.
-</thinking>
-
 # Youth Literacy Program Guardian Consent Form - Help Guide
 ## Purpose
 This form is used to obtain permission from guardians or parents for their child to participate in the Youth Literacy Program. It is essential for the program administrators to have this information to ensure the child's safety and well-being.

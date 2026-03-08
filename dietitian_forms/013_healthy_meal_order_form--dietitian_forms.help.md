@@ -1,5 +1,3 @@
-<thinking>Healthy Meal Order Form is a form used for customers to place orders for food and beverages. The form requires the customer to input their meal type, date, time, name, email (if desired), address, and payment method. It also asks for delivery or pickup information.</thinking>
-
 # Healthy Meal Order Form - Help Guide
 ## Purpose
 The Healthy Meal Order Form is designed to gather information from customers for their meal orders. This includes their preferred meal type, contact details, and order specifics.

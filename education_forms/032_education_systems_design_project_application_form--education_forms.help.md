@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an education systems design project. This form is used to gather project details, team leadership, project location, project start and end dates, project budget, project description, project status, supporting documents, additional comments, project category, education level, and project type. To ensure that the form is completed correctly, it's essential to understand the requirements and relevance of each field.
-
-This form may be used by project managers, team leads, or school/university representatives to gather information about a project. Before filling out the form, it's crucial to verify that the project hasn't been submitted or is not already under review, as this may lead to duplicate or irrelevant submissions.
-
-The form is designed to be flexible, allowing users to select multiple options for certain fields. However, this flexibility also means that users must choose the correct options that apply to their project.
-
-This form should be filled out carefully and accurately to ensure that the project is properly assessed and reviewed.
-
-</thinking>
-
 # Education Systems Design Project Application Form - Help Guide
 ## Purpose
 This form is used to collect information about an education systems design project. The project details, team leadership, location, start and end dates, budget, description, status, supporting documents, comments, category, education level, and type are all essential components of the project.

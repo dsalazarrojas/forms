@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gauge the user's knowledge on historical resistance movements. It consists of 6 multiple-choice questions and several text fields for user information. The form is meant to be a self-assessment tool for users to reflect on their understanding of key historical events. 
-
-Before proceeding, let's consider whether the form is suitable for the user's knowledge level and whether they have already taken this form or similar ones. If the user has already taken this form or similar forms, it may not be necessary for them to complete it again. If the user's knowledge level is not suitable, they might find it challenging to complete the form correctly.
-
-The form is composed of 14 fields, each with a different type and purpose. The fields are divided into multiple pages for user convenience. Each field has a specific label and type, which will be explained below.
-
-Please note that the fields may seem repetitive, as some questions have similar labels or options. However, each question aims to assess specific aspects of the user's knowledge. 
-
-To ensure the user can complete the form accurately, the following information will be provided:
-
-</thinking>
-
 # Historical Resistance Quiz - Help Guide
 ## Purpose
 The Historical Resistance Quiz is a self-assessment tool to gauge your knowledge on historical resistance movements. This form is designed to evaluate your understanding of key events in history, such as the American, French, and Russian Revolutions, and the Chinese Revolution.

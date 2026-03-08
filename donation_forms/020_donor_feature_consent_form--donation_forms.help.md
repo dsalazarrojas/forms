@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Donor Feature Consent Form - Help Guide
 ================================
 

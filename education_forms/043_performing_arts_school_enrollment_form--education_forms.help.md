@@ -1,9 +1,3 @@
-<thinking>
-This form is for students and parents to provide information and signatures for a Performing Arts School enrollment. The form will be used to collect data on students' school name, grade level, program name, contact information, and other relevant details. The fields are divided into several pages, and the form requires a combination of text, select_one, email, and date fields. The fields are: School Name, Student Name, Grade Level, Program Name, Email, Contact Phone, Date of Birth, Emergency Contact Name, Emergency Contact Phone, Student Address, Emergency Contact Address, Parent Signature, Student Signature, and School ID. 
-
-To ensure the data is accurate and complete, it is crucial to follow the instructions and explanations for each field carefully. This guide will help users navigate the form and provide the necessary information. Please make sure to review and understand each field before proceeding to the next step.
-</thinking>
-
 # Performing Arts School Enrollment Form - Help Guide
 ## Purpose
 

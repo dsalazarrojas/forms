@@ -1,18 +1,3 @@
-<thinking>
-This form is used to collect information from companies requesting food donations. The purpose of this form is to gather details about the company's food request, including the type of food, quantity, contact person, and drop-off location. The form is intended to be completed by company representatives who are requesting food donations for their organization. The form will be reviewed internally to ensure that the information is accurate and complete.
-
-This form does not require any pre-existing login or account information. It is a one-time submission form.
-
-The internal review process will ensure that the data collected will not be duplicated or misused. Internal checks will verify that the form is completed correctly.
-
-This form can be completed by anyone who wants to request food for their company. However, it's recommended that this form is completed by the person authorized to represent their company's interest.
-
-The information collected will be used to facilitate the food donation process and ensure that the requested food is delivered correctly to the right person. It's a crucial part of our organization's internal process.
-
-This form will be reviewed internally within the next 24-48 hours after submission. We will follow up with the submitter to confirm their request and discuss further details.
-
-</thinking>
-
 # Food Donation Request Form - Help Guide
 ## Purpose
 This form is used to collect information from companies requesting food donations for their organization.

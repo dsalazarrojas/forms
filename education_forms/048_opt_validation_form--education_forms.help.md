@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for validating student information. It's likely used in educational settings for tracking student data. I'm assuming it's intended for administrators or staff to quickly collect and verify student details.
-
-Before proceeding, ensure you're filling out this form for a legitimate purpose, such as tracking student progress or maintaining student records. Please don't submit duplicate entries for the same student, as this can lead to data inconsistencies. 
-
-</thinking>
-
 # Opt Validation Form - Help Guide
 ## Purpose
 This form is designed to collect and validate student information for educational settings.

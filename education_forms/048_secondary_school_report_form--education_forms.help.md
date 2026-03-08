@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about secondary school students' performance and progress. It is used to report on a student's academic performance, attendance, and overall conduct. The form is completed by a teacher or school administrator and is typically used to track student progress and provide feedback to parents or guardians. It is not intended for public-facing use, but rather for internal record-keeping and reporting purposes within the school. Please ensure that you are using the correct form for your intended use case.
-
-</thinking>
-
 # secondary_school_report_form - Help Guide
 ## Purpose
 This form is designed to collect information about secondary school students' performance and progress, including their academic performance, attendance, and overall conduct. It is used to report on student progress to parents or guardians and for internal record-keeping within the school.

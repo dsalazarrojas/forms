@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants interested in becoming a coach under the ONES GATE Coaching program. This form is intended for internal use within the organization and is not meant to be shared with the general public. Please ensure that you only submit your application if you are genuinely interested in coaching and have taken the time to review the form thoroughly. Duplicate submissions may lead to unnecessary processing and potential delays. Please do not submit multiple applications as this can create confusion and may affect the evaluation process.</thinking>
-
 # Clone Of ONES GATE Coaching Application Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from applicants interested in the ONES GATE Coaching program. It will be used by the organization to assess their suitability for the coaching program.

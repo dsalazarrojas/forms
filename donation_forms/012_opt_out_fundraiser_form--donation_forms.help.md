@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # opt_out_fundraiser_form - Help Guide
 
 ## Purpose

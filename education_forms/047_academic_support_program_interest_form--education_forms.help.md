@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from students about their interest in academic support programs. This form helps the support staff to better understand the needs and preferences of students, ensuring that they provide relevant and effective support services. By filling out this form, students can express their interest in various academic support programs, specify their academic challenges, and indicate their availability and preferred support format. The form is meant to be a starting point for support staff to initiate contact and provide guidance to students.
-
-</thinking>
-
 # Academic Support Program Interest Form - Help Guide
 ## Purpose
 The Academic Support Program Interest Form is a tool for students to express their interest in various academic support programs, such as tutoring, writing center, math lab, and library research support. This form helps support staff to understand the specific needs and preferences of students, ensuring that they provide relevant and effective support services.

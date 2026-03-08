@@ -1,7 +1,3 @@
-<thinking>
-The Curbside Pickup Menu form is used to create and manage curbside pickup options for customers. It is typically used in the e-commerce domain to provide customers with convenient alternatives to traditional in-store shopping. The form will not be used for internal purposes only, it's intended for external customer use. The form should not be duplicated in other areas of the website, it's a single-purpose form for curbside pickup options.
-</thinking>
-
 # Curbside Pickup Menu - Help Guide
 ## Purpose
 The Curbside Pickup Menu form is designed to allow customers to easily select and order curbside pickup options from a restaurant or store. It provides a user-friendly interface to manage menu items, prices, and other relevant details.

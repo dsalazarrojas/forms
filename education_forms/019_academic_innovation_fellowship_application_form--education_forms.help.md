@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive application form for the Academic Innovation Fellowship, designed to collect information from applicants who wish to be considered for this prestigious fellowship. The form gathers essential details about the applicant, their proposed project, and their supporting documents. The purpose of this form is to ensure that all necessary information is collected in a structured and organized manner, making it easier for the selection committee to review and evaluate applications. By filling out this form, applicants can showcase their innovative ideas, project details, and personal qualifications, increasing their chances of being considered for the fellowship. Please note that some fields are required, and applicants must provide accurate and complete information to be considered for the fellowship.
-</thinking>
 # Academic Innovation Fellowship Application Form - Help Guide
 ## Purpose
 The Academic Innovation Fellowship Application Form is a comprehensive application form designed to collect information from applicants who wish to be considered for the Academic Innovation Fellowship.

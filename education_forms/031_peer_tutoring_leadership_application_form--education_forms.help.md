@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from peer tutors who are interested in taking on leadership roles within the peer tutoring program. The form will help us gather data on their contact information, leadership roles, and experience in the program. We are looking for individuals who can effectively support and guide their peers in the program. If you have previously filled out this form, please note that you will need to resubmit your application to update your information. This form is for internal use only and will help us to better understand the structure and composition of our peer tutoring team.
-</thinking>
-
 # Peer Tutoring Leadership Application Form - Help Guide
 ## Purpose
 

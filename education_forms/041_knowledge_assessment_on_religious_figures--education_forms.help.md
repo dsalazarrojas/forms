@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form that will assess users' knowledge on religious figures, which is crucial for evaluating their understanding and application of religious principles. This form will help us gather information on a user's familiarity with various religious leaders, their role in history, and other relevant details. To avoid duplication, we'll ensure that users can only submit one assessment per religious leader at a time.
-</thinking>
-
 # Knowledge Assessment On Religious Figures - Help Guide
 ## Purpose
 This form is designed to gauge users' knowledge on religious figures, helping us understand their understanding and application of religious principles. Please note that you can only submit one assessment per religious leader at a time.

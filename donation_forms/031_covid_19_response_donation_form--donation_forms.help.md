@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect donations from individuals in response to the COVID-19 crisis. It is essential to ensure that all users understand the purpose and requirements of the form correctly to avoid duplication of efforts or misinterpretation. The goal is to gather accurate and reliable information while being mindful of sensitive data such as email addresses and phone numbers. This guide will provide a clear and concise explanation of each field, helping users complete the form successfully.</thinking>
-
 # COVID 19 Response Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations from individuals in response to the COVID-19 crisis. The information collected will be used to process donations and may be shared with relevant parties, such as the donor and our organization, to facilitate communication and follow-up.

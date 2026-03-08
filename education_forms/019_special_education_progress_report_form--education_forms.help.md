@@ -1,8 +1,3 @@
-<thinking>
-The form is used to report on the progress of students in special education programs. It is likely used by teachers or administrators to track student performance and provide updates on their progress. This form is probably used to ensure that students are meeting their educational goals and receiving the necessary support to succeed in their special education classes. To confirm, this form will not be used for general student progress reports, but rather for progress reports specific to special education programs. This form is not intended to be completed by students themselves, but rather by staff or administrators who work with special education students.
-
-</thinking>
-
 # Special Education Progress Report Form - Help Guide
 ## Purpose
 The Special Education Progress Report Form is used to report on the progress of students in special education programs, providing updates on their performance and goals.

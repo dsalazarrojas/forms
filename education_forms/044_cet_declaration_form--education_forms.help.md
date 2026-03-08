@@ -1,7 +1,3 @@
-<thinking>
-This form is for candidates to declare their details before entering the Common Entrance Test (CET) examination hall. The form must be completed carefully and truthfully to ensure a smooth and secure examination experience. It is essential to fill out this form before entering the examination hall to prevent any disqualification. Candidates must ensure that they do not carry any prohibited electronic devices, such as mobile phones, smartwatches, or calculators, as specified in the rules and regulations of the examination. This form is also used for record matching with the application portal.
-</thinking>
-
 # CET Candidate Declaration Form - Help Guide
 ## Purpose
 The Common Entrance Test (CET) Candidate Declaration Form is a mandatory form that candidates must complete before entering the examination hall. It is designed to ensure a smooth and secure examination experience by verifying the candidate's details and adherence to the examination rules.

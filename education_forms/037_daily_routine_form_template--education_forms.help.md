@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the daily routine of a user. The form asks the user to provide details about their morning start time, activities, and any additional notes or comments they may have. The form is likely used in educational or research settings to collect data about user behaviors. The form does not ask for any sensitive or personal identifiable information, so it should not be used in situations where confidentiality is a concern.
-
-Before proceeding, ensure that the user understands the purpose of the form and is only completing it if they are indeed providing information for the intended use case. It is also essential to ensure that the form is not completed multiple times by the same user, as this may lead to duplicate or redundant data.
-</thinking>
-
 # Daily Routine Form Template - Help Guide
 ## Purpose
 This form is used to collect information about the daily routine of a user. The data collected will be used in educational or research settings to gain insights about user behaviors.

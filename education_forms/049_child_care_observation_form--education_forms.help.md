@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended for users who need to fill out the Child Care Observation Form. Please note that this form is designed to document the development and behavior of children, and is not for other purposes such as reporting incidents or concerns. 
-
-Before proceeding, ensure that you have all the necessary information and permission to complete this form.
-
-Before completing the form, please review the sections and ensure that you have the required information before proceeding. Each field is marked as required or optional, but all fields with a red asterisk (\*) are mandatory.
-</thinking>
-
 # Child Care Observation Form - Help Guide
 ## Purpose
 This form is designed to document the development and behavior of children, allowing observers to note observations, strengths, and challenges. It is used to gather information for the purpose of supporting child development and identifying potential needs or concerns.

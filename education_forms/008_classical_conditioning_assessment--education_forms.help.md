@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's understanding of classical conditioning, a fundamental concept in psychology. The form is intended to evaluate the student's ability to define and apply classical conditioning principles in real-world scenarios. It should only be completed by students who have a basic understanding of classical conditioning. If you have already completed a classical conditioning assessment in this course, you do not need to complete this form again. Please answer the questions honestly, and provide specific examples to demonstrate your understanding of the concept.
-</thinking>
-
 # Classical Conditioning Assessment - Help Guide
 ## Purpose
 This form is designed to assess your understanding of classical conditioning, a fundamental concept in psychology.

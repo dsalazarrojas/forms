@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to handle requests from guests for access to a school or university facility. A guest pass is a special pass issued to a visitor who is accompanying a student, faculty, or staff member. To fill out this form, you will need to enter the required information of the student or staff member accompanying the guest and the guest's own information, including their name and contact details. This form will then be reviewed by the relevant department to determine if the guest pass can be issued.
-
-The form is intended to be filled out by students, faculty, or staff members to request a guest pass for someone they are accompanying. The information provided will be used to verify the identity of the guest and ensure that they are allowed to enter the facility.
-
-Please make sure to fill out the form completely and accurately to avoid any issues with the guest pass request.
-
-</thinking>
-
 # guest_pass_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request a guest pass for a visitor accompanying a student, faculty, or staff member.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to allow users to place orders for salad deliveries. This form will gather necessary information such as salad type, delivery date and time, and contact details. It is a simple and straightforward form to facilitate easy and efficient order placement. The form will likely be used by both internal and external users, therefore, it's crucial to clearly explain each field to avoid confusion and ensure accurate order placement. It should not be used for any other purpose.
-</thinking>
-
 # Salad Delivery Order Form - Help Guide
 ## Purpose
 The Salad Delivery Order Form is designed to help users place orders for salad deliveries. Please fill out this form with the required and optional fields to provide accurate information for your order.

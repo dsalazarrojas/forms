@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations that make donations to support a cause. The form is intended to be used by administrators to track and record donation data, including the donor's details, donation specifics, and timing.
-</thinking>
 # Donation Tracking Form - Help Guide
 ## Purpose
 The Donation Tracking Form is a tool designed to gather and record donation information from donors. It provides a structured format for administrators to collect relevant details, helping ensure accurate and thorough tracking of donations.

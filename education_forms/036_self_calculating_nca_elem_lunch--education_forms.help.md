@@ -1,5 +1,3 @@
-<thinking>...To prevent duplication, this form will only be accessible to staff users with specific roles. This guide is intended to help staff users understand the form's purpose, fill it out correctly, and provide clear, user-friendly explanations for each field...</thinking>
-
 # Self Calculating Nca Elem Lunch - Help Guide
 ## Purpose
 This form is designed to capture relevant information for self-calculating Nca Elem Lunch orders. It is meant to be completed by staff users with specific roles, ensuring accurate and efficient processing of orders.

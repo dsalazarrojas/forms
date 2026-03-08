@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by teachers to report on the lessons they have covered in their classes, including notes from the lessons, observations on student behavior, and any comments or ratings they may have for the students or the lessons themselves. The form is meant to ensure that the reporting process is thorough and accurate, while also allowing teachers to provide feedback and guidance to students and administrators. This form should only be used to report on individual lessons, and not to aggregate multiple lessons into a single report.
-</thinking>
-
 # Substitute Teacher Reporting Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Fall 2020 Color Street form is designed to collect information from customers for pre-ordering purposes. This form appears to be used in an e-commerce context, and the fields collected are likely to be related to product selection, color and size preferences, quantity, price, date and time of delivery, and contact information. The form has two product forms, each containing similar fields. This guide is to ensure that end-users understand the purpose and requirements of the form, and how to complete it accurately. 
-</thinking>
-
 # Fall 2020 Color Street - Help Guide
 ## Purpose
 The Fall 2020 Color Street form is a pre-ordering form designed to collect information from customers for products. It appears to be used for customers to select products, choose colors and sizes, specify quantity, and provide contact information.

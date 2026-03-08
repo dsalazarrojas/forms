@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to cast a vote on the repertoire for a dance season. The user will be presented with a series of fields where they can provide information about their vote, such as the title of the repertoire, the studio associated with it, the performance date and time, whether they would like to perform it, and their vote. All fields are optional, and the user can fill out as much or as little information as they like. This form is meant to gather feedback from users on what they would like to see performed during the dance season.
-</thinking>
-
 # Dance Season Repertoire Voting Form - Help Guide
 ## Purpose
 The Dance Season Repertoire Voting Form is a tool for users to provide feedback on the repertoire for a dance season. This form allows users to express their preferences and suggestions for the upcoming season.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from participants of a technical writing seminar. It includes fields for participant details, seminar dates, times, locations, and payment methods. 
-
-Please ensure that you fill out this form accurately and thoroughly, especially when selecting options for seminar dates, times, locations, and payment methods. 
-
-This form is intended for internal use within the organization, and the information collected will be used to manage seminar attendance and participant details. 
-
-Before filling out this form, review the options carefully to ensure you select the correct dates, times, locations, and payment methods.
-
-</thinking>
-
 # Technical Writing Seminar Attendance Form - Help Guide
 ## Purpose
 The Technical Writing Seminar Attendance Form is designed to collect information from participants of a technical writing seminar. This form helps the organizers to track participant details, seminar dates, times, locations, and payment methods.

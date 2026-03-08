@@ -1,7 +1,3 @@
-<thinking>
-This form is a Customer Registration Form Template. It's designed for customers to provide their personal information for a new customer account. The form is intended to be filled out by customers who wish to create a new account on your site. Please note that this form is used for one-time registration, and not for any other purpose like order or payment processing.
-</thinking>
-
 # Customer Registration Form Template - Help Guide
 
 ## Purpose

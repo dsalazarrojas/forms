@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # My Online Quiz - Help Guide
 ## Purpose
 This form is designed to create a personal online quiz with multiple-choice questions and a text field for answers. It is intended for users to input their preferences and receive personalized results.

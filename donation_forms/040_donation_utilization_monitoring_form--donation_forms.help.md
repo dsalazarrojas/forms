@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and monitor donations, including donor information, contact details, and donation specifics. The form should be used for donations that have been approved, reviewed, and updated. To ensure accuracy and consistency, please fill out this form carefully and thoroughly. Before submitting, make sure to review the form for any errors or discrepancies.
-</thinking>
-
 # Donation Utilization Monitoring Form - Help Guide
 ## Purpose
 This form is used to track and monitor donations, ensuring that all relevant details are accurately recorded.

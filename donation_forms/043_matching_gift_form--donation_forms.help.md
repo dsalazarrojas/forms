@@ -1,10 +1,3 @@
-<thinking>
-
-Internal reasoning:
-This form is used to collect information for matching gifts, which are donations made by a third party on behalf of the user. The form will be used to collect details about the donation, such as the donor's name, email, and phone number, as well as the type and amount of the matching gift. This form is an optional field for the user, as not all donors will have a matching gift scenario, but it is a valuable tool to track and acknowledge the matching gifts when they occur. This form will be used in conjunction with other forms and data to provide a comprehensive understanding of donations and their corresponding matching gifts.
-
-</thinking>
-
 # Matching Gift Form - Help Guide
 ## Purpose
 The Matching Gift Form is used to collect information about matching gifts, which are donations made on behalf of the user. This form is optional but helps to track and acknowledge matching gifts when they occur.

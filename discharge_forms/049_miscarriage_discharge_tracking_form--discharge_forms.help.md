@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Miscarriage Discharge Tracking Form - Help Guide
 
 ## Purpose

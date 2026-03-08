@@ -1,5 +1,3 @@
-<thinking>This guide is intended to provide a clear understanding of the purpose and requirements of the Asset Origin Declaration Form. This form is a critical document in ensuring accurate and comprehensive asset declarations. It is crucial to fill out this form accurately and honestly, as it may have implications on legal and tax matters. Please review each field carefully and answer truthfully to avoid any potential issues. Before proceeding, make sure to review the entire form to avoid any duplication of information. This form is designed to gather information about assets, their origins, and their value. It is essential to understand that this form is for personal and business assets, and the information provided may be used for legal and tax purposes.</thinking>
-
 # Asset Origin Declaration Form - Help Guide
 ## Purpose
 The Asset Origin Declaration Form is a vital document used to declare the origin of assets, such as properties, vehicles, financial assets, and more. It is essential to provide accurate and comprehensive information to ensure the completeness and accuracy of the declaration.

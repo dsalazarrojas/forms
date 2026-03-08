@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the purpose of collecting information from individuals who are interested in pursuing education at the Hair Academy. The form should only be completed by individuals who are genuine applicants to the academy. It is not intended for internal or administrative purposes. Please ensure you do not submit this form if you are an administrator or staff member at the Hair Academy.
-</thinking>
-
 # Hair Academy Admission Application Form - Help Guide
 ## Purpose
 

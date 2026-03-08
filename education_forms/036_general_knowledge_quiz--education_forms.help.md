@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed for users to take a general knowledge quiz, collecting some basic user information and potentially some other details. To avoid duplication or irrelevant entries, it's likely that this form will be filled out by users only once.
 
 </thinking>

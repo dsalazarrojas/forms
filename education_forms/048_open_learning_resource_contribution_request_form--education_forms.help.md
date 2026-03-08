@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from submitters about their open learning resources, such as articles, videos, or other educational materials. This form helps to categorize, license, and track the submission's status in the database. The form is designed to be completed by submitters who want to share their resources with the community.
-
-To ensure that this form is filled out correctly, please make sure that:
-
-* You are only submitting resources that are relevant and accurate.
-* You are not duplicating existing resources already in the database.
-* You are providing clear and concise information about the resource, including its title, category, license, and description.
-
-</thinking>
-
 # openLearningResourceContributionRequestForm - Help Guide
 ## Purpose
 The openLearningResourceContributionRequestForm is a form designed to collect information from submitters about their open learning resources. This form helps to categorize, license, and track the submission's status in the database.

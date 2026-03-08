@@ -1,7 +1,3 @@
-<thinking>
-The form is for library instructors to request instructional sessions, consultations, or database training for their students. This form helps them to specify the session type, date, start and end times, duration, room, equipment needed, and other relevant details to ensure a smooth and effective session.
-</thinking>
-
 # Library Instruction Request Form - Help Guide
 ## Purpose
 The Library Instruction Request Form is designed to facilitate the submission of requests for library instructional sessions, research consultations, or database training for students. This guide will walk you through the process of filling out the form and explain each field in detail.

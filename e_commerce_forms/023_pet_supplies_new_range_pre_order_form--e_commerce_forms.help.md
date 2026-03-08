@@ -1,11 +1,3 @@
-<thinking>
-This form is used to place a new pre-order for pet supplies. The form is divided into multiple pages, each with its own fields. The form is meant to collect information from customers interested in placing a pre-order for pet supplies.
-
-The form fields are a mix of select_one, select_multiple, date, time, text, number, and email fields. Some fields are required, while others are optional. The fields are designed to gather specific information from customers, such as their name, contact email, and order details.
-
-It's worth noting that the form is currently designed with 25 fields, which might be more than needed. However, these fields are likely a result of iterative design decisions made during the development process. To ensure this form is user-friendly, consider condensing or reorganizing fields where possible. 
-</thinking>
-
 # Pet Supplies New Range Pre Order Form - Help Guide
 ## Purpose
 This form is used to place a new pre-order for pet supplies. It is designed to collect information from customers interested in placing a pre-order for pet supplies.

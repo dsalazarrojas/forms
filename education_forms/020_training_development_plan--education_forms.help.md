@@ -1,12 +1,3 @@
-<thinking>
-To help ensure that the form is completed correctly and effectively, let's review the purpose and requirements of the Training Development Plan form. 
-This form is intended to outline the essential details for a training plan, which includes a clear description, target audience, duration, location, status, and comments. 
-The training plan should not be duplicated, and it is the responsibility of each plan owner to ensure that the data is up to date and accurate. 
-The status of the form should be set to "Active" if the plan is ready for use, "Inactive" if it's not ready for use, and "Draft" if it's not approved. 
-The comments section is for any additional information or notes related to the plan. 
-Please ensure that you provide accurate and relevant information for each field to maintain a clear and organized training plan.
-</thinking>
-
 # Training Development Plan - Help Guide
 ## Purpose
 This guide will help you complete the Training Development Plan form correctly and effectively.

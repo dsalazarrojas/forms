@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about a student's motivation, which is crucial for understanding their learning style, preferences, and goals. The form will help us identify the strengths, weaknesses, and needs of each student, providing valuable insights for teachers and educators to tailor their teaching methods to better support the students' learning experiences. 
-
-Before proceeding, ensure that you have not completed this form previously, as it may affect the accuracy of the results.
-
-</thinking>
-
 # Student Motivation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about students' motivation and learning style, helping teachers and educators understand their students better.

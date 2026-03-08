@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users in an academic setting, specifically for the "Academic Innovation Archive Consent Form". The form is used to obtain consent from contributors to store and archive their materials, which can include articles, papers, or other academic works. This form ensures that contributors understand and agree to the terms of storing their materials, which may involve retaining them indefinitely.
-
-The form is composed of several fields that must be completed by the contributor. 
-
-</thinking>
-
 # Academic Innovation Archive Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from contributors to store and archive their materials in the Academic Innovation Archive.

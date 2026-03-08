@@ -1,14 +1,3 @@
-<thinking>
-This form is used to document the departure of a vessel from a dock. The form will collect information about the vessel's number, port of departure, date and time of departure, port of arrival, discharge outcomes, and any comments or contact information. This form is designed to be filled out by the dock staff when a vessel is about to leave the dock. 
-
-To ensure accurate information is collected, this form should only be completed when the vessel is actually departing. If the vessel has already departed, please refer to our previous departure documentation. 
-
-Before filling out this form, please ensure you have the following information: the vessel number, the date and time of departure, and the intended port of arrival. 
-
-Please note that some of the fields on this form are optional and can be completed at your discretion. 
-
-</thinking>
-
 # Dock Departure Discharge Form - Help Guide
 
 ## Purpose

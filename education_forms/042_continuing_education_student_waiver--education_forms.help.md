@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from students participating in continuing education courses or training. This form is required for adult learners taking courses or training programs. It's crucial to have a valid student waiver and release of liability before they can begin or continue their educational activities.
-
-This form aims to gather essential details about the student, including their name, contact information, emergency contact details, medical conditions, and allergies. It also includes a waiver and release of liability section where the student must agree not to hold the institution liable for any injuries or losses. Additionally, the form requests consent for media usage, such as photos or videos, and includes a signature section for authorization. Lastly, the form requires a digital signature from the student, indicating their agreement with the terms and conditions.
-
-</thinking>
-
 # Continuing Education Student Waiver - Help Guide
 ## Purpose
 The Continuing Education Student Waiver form is a mandatory document required for adult learners taking courses or training programs. It collects essential information for the student, including personal details, emergency contacts, and medical conditions, to ensure a safe and successful learning experience.

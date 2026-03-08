@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather feedback from users after they have attended a training briefing workshop. The purpose of this form is to collect information about their overall experience, satisfaction with the assigned tool, and whether or not the assigned tool was useful to them. This information will help us understand how to improve future workshops and the effectiveness of the assigned tools.
 
 </thinking>

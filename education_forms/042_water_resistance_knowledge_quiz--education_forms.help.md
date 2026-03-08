@@ -1,7 +1,3 @@
-<thinking>
-This block will serve as an internal reasoning block to ensure I understand the form purpose and structure before creating the user-facing help guide.
-</thinking>
-
 # Water Resistance Knowledge Quiz - Help Guide
 ## Purpose
 The Water Resistance Knowledge Quiz is a form designed to test users' knowledge about water resistance. The form is divided into several sections, each covering a different topic related to water resistance. Users are asked to provide their answers to questions and provide feedback at the end of the form.

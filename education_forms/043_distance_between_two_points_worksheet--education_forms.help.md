@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate the distance between two points on a coordinate plane. The purpose of this form is to facilitate the calculation of the distance between two points, taking into account the x and y coordinates of each point. This form is typically used in geometry and trigonometry problems or for calculations related to spatial reasoning. Before proceeding, ensure that you have a valid use case for this form and that you are not already using a similar form for the same purpose.
-</thinking>
-
 # Distance Between Two Points Worksheet - Help Guide
 ## Purpose
 This form is designed to calculate the distance between two points on a coordinate plane.

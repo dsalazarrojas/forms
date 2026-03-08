@@ -1,9 +1,3 @@
-<thinking>
-This is a form designed to assess the impact of academic events, likely for the purpose of evaluating and improving the effectiveness of events, workshops, or seminars held by educational institutions. The form aims to collect feedback from attendees, stakeholders, and possibly organizers to provide a comprehensive understanding of the event's impact, attendance, and overall satisfaction. This form may be part of a larger process to refine event planning and management strategies.
-
-Before filling out this form, please review the following sections to ensure you understand what is required and how to complete it accurately.
-</thinking>
-
 # impact_assessment_of_academic_events - Help Guide
 ## Purpose
 The "Impact Assessment of Academic Events" form is designed to collect feedback from various stakeholders to evaluate the effectiveness of academic events, such as workshops, seminars, and conferences.

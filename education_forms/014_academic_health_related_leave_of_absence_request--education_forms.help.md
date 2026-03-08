@@ -1,6 +1,4 @@
-> <thinking>...The Academic Health Related Leave Of Absence Request form is intended for students to submit requests for a leave of absence related to health reasons. This form aims to collect necessary information for the university to evaluate and process these requests efficiently. To avoid duplicating requests, students are expected to submit only one form per leave of absence. The form should only be submitted after consulting with the relevant university department or advisor.</thinking>
-
-# Academic Health Related Leave Of Absence Request - Help Guide
+> # Academic Health Related Leave Of Absence Request - Help Guide
 
 ## Purpose
 

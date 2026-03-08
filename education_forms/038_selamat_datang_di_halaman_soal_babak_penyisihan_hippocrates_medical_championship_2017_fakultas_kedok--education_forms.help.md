@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about a medical championship event, specifically the "Hippocrates Medical Championship 2017" event hosted by "Fakultas Kedok". The form is likely used to collect data from participants, judges, or officials involved in the event. There is no indication that this form is part of a larger survey or research project, so it's possible that it's a standalone registration form for the event.
-</thinking>
-
 # Selamat Datang Di Halaman Soal Babak Penyisihan Hippocrates Medical Championship 2017 Fakultas Kedok - Help Guide
 ## Purpose
 This form is designed to collect information from participants, judges, or officials involved in the "Hippocrates Medical Championship 2017" event hosted by "Fakultas Kedok".

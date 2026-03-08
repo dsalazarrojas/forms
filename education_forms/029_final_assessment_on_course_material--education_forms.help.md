@@ -1,6 +1,3 @@
-<thinking>
-...the purpose of this form is to assess the effectiveness of course material and gather feedback from users about their experience with the course. The form is designed to be completed by users who have taken the course and can be used to evaluate the course material's relevance, quality, and overall satisfaction. By filling out this form, users can provide valuable insights that can help the course creators improve the course content and provide better services in the future... </thinking>
-
 # Final Assessment On Course Material - Help Guide
 ## Purpose
 The Final Assessment On Course Material form is designed to gather feedback from users about their experience with the course material. It helps course creators evaluate the effectiveness of the course material and identify areas for improvement.

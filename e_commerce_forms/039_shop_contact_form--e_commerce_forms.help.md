@@ -1,5 +1,3 @@
-<thinking>This form is designed to be a simple contact form that allows customers to provide their contact information and messages. The form is used to collect basic contact data from customers and facilitate communication between them and the shop. The form has the following fields: First Name, Last Name, Email, Phone, and Message. All fields are optional, except where explicitly stated as required. The form's purpose is to make it easy for customers to get in touch with the shop, and the shop staff to respond to their inquiries.</thinking>
-
 # shop-contact-form - Help Guide
 ## Purpose
 This form is a contact form for customers to provide their contact information and messages to the shop.

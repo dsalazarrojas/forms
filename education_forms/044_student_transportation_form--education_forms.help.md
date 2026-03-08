@@ -1,10 +1,3 @@
-<thinking>
-Form purpose is to gather student data for transportation management and communication with parents or guardians.
-The form purpose is to gather student information for transportation purposes.
-This form might be part of a more extensive workflow that includes other forms like "Student Enrolment Form" or "Student Progress Form".
-Please ensure the form is completed accurately to avoid duplication.
-</thinking>
-
 # Student Transportation Form - Help Guide
 ## Purpose
 The Student Transportation Form is used to gather student data for efficient and effective transportation management and communication with parents or guardians.

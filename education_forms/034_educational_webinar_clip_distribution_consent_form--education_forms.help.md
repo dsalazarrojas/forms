@@ -1,8 +1,3 @@
-<thinking> 
-This form is for users to provide consent for the distribution of their webinar clips. The distribution of clips can be through various channels such as email, social media, and other online platforms. Users can choose which channels they allow their clip to be distributed through. This form ensures that users have control over how their content is shared. It's essential to complete this form accurately and truthfully to ensure that users' content is distributed according to their preferences. Please note that this form is only applicable for webinar clips and not for other types of content. It is also a one-time form, so users will only be asked to provide consent once for each webinar clip they participate in.
-
-</thinking>
-
 # Educational Webinar Clip Distribution Consent Form - Help Guide
 
 ## Purpose

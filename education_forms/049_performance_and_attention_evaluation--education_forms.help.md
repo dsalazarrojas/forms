@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate a student's performance and attention during a teaching session. It aims to gather information from the teacher about the student's abilities and behavior in the classroom. The purpose of this form is to provide a structured evaluation framework for teachers to assess students' performance and offer constructive feedback.
-
-This form should be completed by teachers to provide an assessment of their students' performance and attention. The teacher's evaluation is based on their direct observation and interaction with the student in the classroom. The teacher will answer questions such as the student's performance, attention, teaching experience, and any additional comments.
-
-To ensure accurate and consistent completion, please ensure that the teacher has observed the student during the entire teaching session and has sufficient knowledge of the student's abilities and behavior. The form must be completed for each student, and the teacher's evaluation should be honest and fair.
-
-To avoid duplication of effort, please ensure that the form is only completed once per student per session, and that any previous evaluations are not carried over.
-
-</thinking>
-
 # Performance And Attention Evaluation - Help Guide
 ## Purpose
 This form is designed to gather information from teachers about their students' performance and attention during a teaching session.

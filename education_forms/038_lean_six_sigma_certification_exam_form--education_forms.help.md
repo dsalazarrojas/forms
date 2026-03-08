@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users regarding their Lean Six Sigma certification exam. The purpose of this form is to collect relevant details such as exam date, contact information, submission type, and submission status among other fields. This form is intended for users who are undergoing the Lean Six Sigma certification process. The fields are designed to be easy to fill out and are meant to provide the necessary information for certification.
-
-</thinking>
-
 # Lean Six Sigma Certification Exam Form - Help Guide
 ## Purpose
 This form is used to collect information from users who are undergoing the Lean Six Sigma certification process. It gathers relevant details such as exam date, submission type, and submission status among other fields.

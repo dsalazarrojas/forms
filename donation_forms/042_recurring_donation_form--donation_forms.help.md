@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect recurring donation information from users. The purpose of this form is to create or edit a recurring donation setup, which can be set up to automatically send donations at specified intervals. Users will need to provide information about their assigned tool, the amount they want to donate, and the frequency at which they want to donate. This form should not be used for one-time or non-recurring donations. Please ensure that you only use this form for recurring donations and not for other types of donations.
-
-</thinking>
-
 # Recurring Donation Form - Help Guide
 ## Purpose
 This form is used to create or edit a recurring donation setup for automatic donations at specified intervals.

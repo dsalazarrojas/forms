@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect donation information from users, including their name, email, phone number, donation amount, and frequency of donations. It also includes fields for campaign details, such as campaign ID, name, URL, and status. Additionally, the form includes fields for payment method, email confirmation, and terms and conditions acceptance. The field labels and options suggest that this form is for nonprofit donations, and the "Donation Frequency" section suggests that the form is for recurring donations.
-This form appears to be a comprehensive donation form, but it's unclear if it's meant for one-time donations or recurring donations. I'll make sure to clarify this in the help guide.
-The "Donation Status" and "Payment Status" fields seem to be redundant, and it's not clear what information they're meant to convey. I'll focus on explaining the more relevant fields in the help guide.
-</thinking>
-
 # PayPal Nonprofit Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donation information from users for your nonprofit organization. It's meant for individuals who want to donate to your campaign.

@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Add A New Product - Help Guide
 ## Purpose
 This form is used to add a new product to the e-commerce system. It collects relevant information for product listing and management.

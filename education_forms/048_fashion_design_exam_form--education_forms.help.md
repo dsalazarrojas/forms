@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used for evaluating the fashion design exam. The purpose of this form is to collect information about the student's performance in the fashion design exam. The form might be filled out by the student or instructor to document the student's progress, submission, and evaluation.
-
-Before proceeding, please make sure that you are filling out the correct form and that you have all the necessary information. The form might be a template for instructors to assess the student's work, or it might be a student-facing form to capture their own progress and submission details.
-
-It's also possible that this form is used for both purposes, and the context will determine how to fill it out correctly.
-
-</thinking>
-
 # Fashion Design Exam Form - Help Guide
 ## Purpose
 The Fashion Design Exam Form is used to document and evaluate student's performance in fashion design exams.

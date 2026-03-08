@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of robotics training sessions. The purpose of this form is to gather information about the trainee's experience, training session details, and overall outcome of the training. This form is meant to be used by trainers, instructors, or evaluators to assess the quality of the training sessions. Before filling out this form, please ensure you have read and understood the form's purpose and are submitting your responses in accordance with your role and the session's context. Duplicate or incomplete submissions may lead to inaccurate evaluations and compromise the form's reliability.
-
-</thinking>
-
 # robotics_training_evaluation_form - Help Guide
 ## Purpose
 

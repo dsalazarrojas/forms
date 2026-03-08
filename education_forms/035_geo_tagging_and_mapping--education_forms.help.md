@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the geotagging and mapping process. It's used to determine whether geotagging and mapping is applicable or not. The form will only be used in specific scenarios where geotagging and mapping is required. It's crucial to fill in the form accurately to avoid duplication of effort or misallocation of resources.
-</thinking>
-
 # Geo Tagging And Mapping - Help Guide
 ## Purpose
 This form is used to determine whether geotagging and mapping is applicable or not. Please fill in the form accurately to ensure correct allocation of resources and avoid duplication of effort.

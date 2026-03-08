@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students, advisors, or department staff about a thesis support inquiry. Before filling out this form, please ensure that you are submitting a valid request for thesis support and that the information is accurate. Duplicate submissions will be checked and may be discarded. Please fill out all required fields to ensure a proper review of your support request.
-</thinking>
-
 # University Thesis Support Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information about a thesis support inquiry from students, advisors, or department staff.

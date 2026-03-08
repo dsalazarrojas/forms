@@ -1,5 +1,3 @@
-<thinking>As the form is used for showcasing pedagogical innovations, I understand it is used by project leaders and educators to gather information about a teaching project, such as the project leader's contact details and a description of the project. It seems to be used to facilitate communication and collaboration. I also see that most of the fields are optional, which may indicate that users can choose to provide as much information as they are comfortable with.</thinking>
-
 # Pedagogical Innovation Showcase Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information about a teaching project, including the project leader's contact details and a description of the project, to facilitate communication and collaboration among project stakeholders.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I must admit that I'm intrigued by the creative and somewhat unconventional approach of using AI-generated forms. This "Yearbook Order Form" appears to be designed for ordering yearbooks, likely for a school or institution. The form is simple, with three fields: "Student Info", "Order Details", and "Payment Info". I'm assuming that the form is used to collect information from parents or guardians to order yearbooks, and the "Student Info" field likely collects details about the student, while "Order Details" captures specifics about the order, such as quantity and shipping information. "Payment Info" is self-explanatory. I'll now create a user-facing help guide for this form, following the required Markdown structure.</thinking>
-
 # Yearbook Order Form - Help Guide
 ## Purpose
 The Yearbook Order Form is designed to collect information from parents or guardians to order yearbooks for students. This form helps schools or institutions gather essential details to process the yearbook order efficiently.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback from educators and trainers on the effectiveness of specific activities they have conducted with their students or trainees. It will help them evaluate how well an activity aligns with the stated learning objectives, the engagement level of participants, the appropriateness of difficulty, and other relevant factors. Please ensure that this form is completed for each activity separately and that you are only providing feedback on the specific activity that is being evaluated. If this form has already been submitted for the same activity, please do not resubmit. The feedback provided will be used to inform future developments and improvements of activities.</thinking>
-
 # Activity Oriented Diagnostic Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from educators and trainers on the effectiveness of specific activities they have conducted with their students or trainees.

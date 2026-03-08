@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the level of education reform in a school or institution. It is intended to help administrators and stakeholders evaluate the effectiveness of education reform efforts. The form will collect information on various aspects of education reform, such as school name, email, phone number, reform type, educational areas, scores, comments, and dates/time. This form is meant to be a general assessment tool, and the specific fields and options are designed to provide a comprehensive understanding of the state of education reform in the school.
-
-The form's purpose is to:
-
-- Assess the level of education reform in a school or institution.
-- Evaluate the effectiveness of education reform efforts.
-- Provide a general assessment tool for administrators and stakeholders.
-</thinking>
-
 # Education Reform Assessment Quiz - Help Guide
 ## Purpose
 The Education Reform Assessment Quiz is designed to help you assess the level of education reform in a school or institution. This form will guide you through the process of evaluating the effectiveness of education reform efforts and provide a general assessment tool for administrators and stakeholders.

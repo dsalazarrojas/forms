@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from donors for charitable donations. This form is used to process one-time and recurring donations, allowing donors to specify the amount, type, and designation of their gift. Donors can choose to remain anonymous or receive a tax receipt, providing an option for transparency and accountability.
-</thinking>
-
 # CSR Charity Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donation information from individuals and organizations for charitable purposes. It is intended for donors to specify their name, email, donation amount, donation type, and any additional details about their gift.

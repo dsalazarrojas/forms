@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for an online subscription sample order. The purpose of this form is to gather essential details about the user's subscription preferences, including the type of subscription, plan description, number of subscriptions, subscription start and end dates, payment method, contact information (email and phone number), and any other relevant details. This form is typically used for e-commerce transactions.
-Before filling out this form, please ensure you have all necessary information and permissions to proceed. This form does not duplicate any other form.
-</thinking>
-
 # Online Subscription Sample Order Form - Help Guide
 ## Purpose
 The Online Subscription Sample Order Form is designed to collect subscription-related information from users. It helps the user select their preferred subscription plan, enter subscription details, and provide contact information.

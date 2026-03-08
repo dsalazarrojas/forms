@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dietetics And Nutrition Discharge Form - Help Guide
 ## Purpose
 This form is used to document important details related to a patient's discharge from the hospital or healthcare facility. It captures information about the patient's name, discharge date, instructions for discharge, medication information, and follow-up details.

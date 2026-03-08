@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and self-assessment from language learners on various aspects of their language skills, such as pronunciation, fluency, vocabulary, and comprehension. This form is used to gather information about the strengths and weaknesses of the learners' language skills, which can be used to identify areas that need improvement and provide targeted support. The form is designed to be comprehensive, covering all key skills and areas of language acquisition.
-
-This form is intended for language learners, and it is likely that users who have completed the form before will not need to do so again. However, users who are accessing this form for the first time or have not accessed it within a certain timeframe will be able to submit their answers without worrying about duplication.
-
-</thinking>
-
 # Prophets - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and self-assessment from language learners on various aspects of their language skills.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from faculty members regarding their experience with remote work productivity. It is intended to help administrators and decision-makers understand how faculty members are using remote work arrangements to their advantage and what challenges they face while working from home. This form should only be filled out by faculty members who have experience with remote work.
-</thinking>
-
 # Faculty Remote Work Productivity Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from faculty members about their experiences with remote work productivity. Your input will help administrators and decision-makers understand how faculty members are using remote work arrangements and what challenges they face while working from home.

@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block here...</thinking>
-
 # Summer Camp Interest Form - Help Guide
 ## Purpose
 The Summer Camp Interest Form is a tool to gauge interest in our summer camp program. It helps us understand how many people are anticipating or have already registered for our summer camp program.

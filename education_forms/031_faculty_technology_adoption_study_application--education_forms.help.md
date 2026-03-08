@@ -1,5 +1,3 @@
-<thinking>...This form is for faculty members to report their interest and involvement in technology projects, research initiatives, and other endeavors. The goal is to gain a deeper understanding of faculty interests and adoption of various technologies to inform future support and resource allocation. This form should only be filled out once, and it is not intended to be a duplicate or repetitive task. The form will gather information on a faculty member's university, contact email, and other relevant details, as well as their interest and involvement in different projects and technologies... </thinking>
-
 # Faculty Technology Adoption Study Application - Help Guide
 ## Purpose
 The Faculty Technology Adoption Study Application is a form designed to gather information from faculty members about their interests, projects, and involvement in various technology initiatives. This form helps to better understand faculty adoption and support needs for future initiatives.

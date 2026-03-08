@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crowdfunding Pledge Claim Form - Help Guide
 ## Purpose
 The Crowdfunding Pledge Claim Form is a tool used to collect information from donors or contributors who have pledged to support a project or campaign. This form helps track and verify pledges, ensuring that the necessary details are collected and recorded accurately.

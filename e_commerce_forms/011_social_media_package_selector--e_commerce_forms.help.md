@@ -1,12 +1,3 @@
-<thinking>
-The goal of the "Social Media Package Selector" form is to determine the best-fit social media package for an e-commerce client's needs. This form helps users choose a suitable package by selecting a type of social media platform (e.g., Facebook, Instagram, TikTok) and plan (e.g., Basic, Standard, Premium) for their business goals and payment method. 
-
-It is essential to ensure that each user completes this form accurately to receive a personalized recommendation. 
-
-Please ensure that you are not duplicating this form for other purposes, as it has a specific purpose. If you need to create a different form for another use case, please do not use this form's schema. 
-
-</thinking>
-
 # Social Media Package Selector - Help Guide
 ## Purpose
 The Social Media Package Selector form is designed to help you choose the best-fit social media package for your e-commerce business needs.

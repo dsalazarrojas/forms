@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for creating a public law knowledge quiz, which is likely used to assess the knowledge of individuals on public law topics. The form is designed to collect relevant information about the quiz, such as the correct answers, points assigned to each question, and the total points. The purpose of the form is to create a public law knowledge quiz that can be used to evaluate the understanding of public law concepts.
-
-</thinking>
-
 # public_law_knowledge_quiz - Help Guide
 ## Purpose
 This form is used to create a public law knowledge quiz. It collects information about the quiz, such as correct answers, points assigned to each question, and total points.

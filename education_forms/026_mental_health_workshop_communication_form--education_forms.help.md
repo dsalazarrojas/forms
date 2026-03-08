@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from workshop participants to improve mental health workshops provided by the organization. The purpose of this form is to collect participant preferences, workshop topics, and other relevant information to tailor the workshop to the needs of the participants.
 
 The form is part of the education forms category.

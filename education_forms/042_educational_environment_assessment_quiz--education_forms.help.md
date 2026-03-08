@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the educational environment in a classroom setting. It is meant to gather information about the resources and features available in the classroom, as well as the quality of teaching and overall satisfaction. The form is intended to be completed by someone who has experienced the classroom environment firsthand, such as a teacher or student. The form's purpose is to help identify areas of improvement and provide insights for future education settings.
-
-</thinking>
-
 # Educational Environment Assessment Quiz - Help Guide
 ## Purpose
 The Educational Environment Assessment Quiz is designed to evaluate the quality of resources, safety, and overall satisfaction in a classroom environment.

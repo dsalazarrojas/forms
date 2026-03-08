@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to help students request transcripts for academic records, financial aid, or other purposes. It collects student information such as name, date of birth, email address, student ID, and institution name. The student can select the type of transcript they need and provide comments if necessary. The form also asks for the student's and institution's signature, which can be confirmed or declined. This form is intended for use by students who need to request transcripts for various reasons, and it is not affiliated with any specific institution or form platform.
-</thinking>
-
 # Student Transcript Request Form - Help Guide
 ## Purpose
 This form is designed to help students request transcripts for academic records, financial aid, or other purposes. It collects necessary information to process the request efficiently.

@@ -1,20 +1,3 @@
-<thinking>
-The Faculty Tech Integration Interview Consent Form is used to collect consent from faculty members regarding the collection, recording, and use of audio or video from interviews. This form is used to ensure that faculty members are informed and provide their consent for the use of their recorded materials in various ways such as for research, educational purposes, or other specified reasons.
-
-This guide is designed to walk the user through each field of the form, which includes:
-* Consent type (e.g., for research, educational purposes, etc.)
-* Interview information (a text field for providing details about the interview)
-* Audio or video format (e.g., audio only, video only, audio and video)
-* Recording method (e.g., in-person, remote, etc.)
-* Faculty information (e.g., informed, not informed, etc.)
-* Data collection (e.g., yes, no)
-* Faculty consent (e.g., agree, disagree)
-* Faculty consent date and time
-* Faculty consent duration
-
-Before completing the form, please note that the faculty member will need to provide their consent in writing for the interview to proceed.
-</thinking>
-
 # Faculty Tech Integration Interview Consent Form - Help Guide
 ## Purpose
 The Faculty Tech Integration Interview Consent Form is used to collect consent from faculty members regarding the collection, recording, and use of audio or video from interviews. This form ensures that faculty members are informed and provide their consent for the use of their recorded materials in various ways.

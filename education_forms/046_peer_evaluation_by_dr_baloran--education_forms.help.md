@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peer Evaluation By Dr. Baloran - Help Guide
 ## Purpose
 The Peer Evaluation By Dr. Baloran form is used to collect feedback from students about Dr. Baloran's teaching style, communication skills, organization, and preparation. This form helps Dr. Baloran to understand how well they are meeting the expectations of their students, identify areas of improvement, and make necessary adjustments to their teaching methods.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to evaluate online courses and gather feedback from students to help us identify areas of improvement. To ensure we capture the necessary information, please make sure the form is filled in completely and honestly. Please note that some questions may have the same level of importance to ensure we get a comprehensive understanding of your experience. You will not be able to submit the form until you have completed all required fields.
 
 # online_course_completion_evaluation_form - Help Guide

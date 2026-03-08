@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Waiver And Interview Form - Help Guide
 
 ## Purpose

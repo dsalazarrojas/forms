@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about students, including their basic details, contact information, emergency contact details, and educational history. It is essential to ensure that all required fields are accurately filled out to avoid duplication and misrepresentation of student data.
-</thinking>
-
 # Student Information Sheet Form - Help Guide
 ## Purpose
 The Student Information Sheet Form is designed to gather essential details about students, which are used to ensure accurate student data representation and to prevent duplication.

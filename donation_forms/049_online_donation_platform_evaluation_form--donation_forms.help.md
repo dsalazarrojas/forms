@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to evaluate the online donaton platform's effectiveness, gathering feedback from users. The purpose of this form is to collect data on user experiences, opinions, and ratings to help improve the platform. Please ensure that you're not already filling out a feedback form for this platform as this form is intended to gather general feedback from a wide range of users.</thinking>
-
 # Online Donaton Platform Evaluation Form - Help Guide
 ## Purpose
 The Online Donaton Platform Evaluation Form is designed to gather feedback from users to help improve the platform's effectiveness and user experience.

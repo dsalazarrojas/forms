@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect registration information from participants in the Open Source Education Initiative (OSEI). This form is intended for participants to provide their details, interests, and preferences in relation to the initiative. The form is divided into sections that cover different aspects of participant information, including participant details, interests, education, and partnerships. The form is required to be completed by participants in order to register for the initiative.
-
-Before proceeding with this guide, ensure that you have all necessary permissions and approvals from your organization or institution to participate in the Open Source Education Initiative. Additionally, verify that you have not already submitted this form to avoid duplication of effort.
-
-This guide is designed to walk you through each section of the form, explaining each field and its purpose. Please read through the guide carefully to ensure you complete the form accurately and thoroughly.
-
-</thinking>
-
 # Open Source Education Initiative Registration - Help Guide
 ## Purpose
 The Open Source Education Initiative Registration form is designed to collect participant information for the Open Source Education Initiative. This form is a crucial step in registering for the initiative and ensuring that your organization or institution can participate.

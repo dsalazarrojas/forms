@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to provide a clear and concise explanation of the Digital Study Club Registration form. The form is designed for users to register for a study club that likely focuses on educational or learning activities. The purpose of the form is to collect essential information from users to facilitate the organization and facilitation of sessions. To register, users will need to provide their first name, last name, email address, confirm their email, set a password, and confirm their password. They will also need to express their interests, preferred format (online or offline), timezone, availability, and preferred session frequency and length. Lastly, they will need to specify their preferred language and topic, as well as provide any additional information about themselves.
-</thinking>
-
 # Digital Study Club Registration - Help Guide
 
 ## Purpose

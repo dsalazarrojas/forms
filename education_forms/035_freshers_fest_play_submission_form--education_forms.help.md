@@ -1,7 +1,3 @@
-<thinking>
-The form "Freshers’ Fest Play Submission Form" is designed to collect information from participants in the Freshers' Fest event. This form will be used to gather details about the participant's name, contact information, and performance information. Please note that this form is not meant to be filled out by participants who have already performed or submitted their performance. This form is only for freshers, which means first-year students. The fields in this form are intended to collect specific data about the participant's performance and submitter's information. Please ensure that you are submitting a unique performance to avoid duplication.
-</thinking>
-
 # Freshers’ Fest Play Submission Form - Help Guide
 ## Purpose
 The "Freshers' Fest Play Submission Form" is designed to collect performance information from first-year students (freshers) at the University of [University Name]. This form allows students to submit their performance details to be showcased during the event.

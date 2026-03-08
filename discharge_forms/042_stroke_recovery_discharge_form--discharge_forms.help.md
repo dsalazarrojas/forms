@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm whether this form is for you and that you've never filled it out before, please review the provided content. This form is for healthcare professionals to document discharge information for patients who have undergone stroke recovery. You will be using this form to record details about your patient's discharge, including their care plan, follow-up information, and other relevant details. Please ensure that you have all the necessary information before completing this form.
 
 # Stroke Recovery Discharge Form - Help Guide

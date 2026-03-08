@@ -1,31 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their guardians for the purpose of assessing their eligibility for admission to an elementary school. The form includes fields for demographic information, educational levels, and special needs. 
-
-The form has the following fields:
-- Student Name: to capture the name of the student
-- Parent/Guardian Name: to capture the name of the parent or guardian of the student
-- School Name: to capture the name of the school the student is applying to
-- Student DOB (Date of Birth): to capture the student's birthdate
-- Student Grade: to capture the student's grade level (assuming this is a reference to the student's grade level in school)
-- Student Email: to capture the student's email address (if applicable)
-- Student Phone: to capture the student's phone number
-- Student Address: to capture the student's home address
-- Guardian Phone: to capture the parent or guardian's phone number
-- Guardian Email: to capture the parent or guardian's email address (if applicable)
-- Student Gender: to determine the student's gender
-- Student Ethnicity: to determine the student's ethnicity
-- Guardian Name: to capture the name of the parent or guardian (if different from the student's)
-- Student Birthplace: to capture the place where the student was born
-- Guardian Relationship: to determine the relationship between the student and the guardian (e.g. mother, father, etc.)
-- Student English Level: to determine the student's English language proficiency level
-- Student Math Level: to determine the student's math proficiency level
-- Student Reading Level: to determine the student's reading proficiency level
-- Student Social Skills: to capture any special social skills or requirements for the student
-- Student Special Needs: to capture any special needs or requirements the student has.
-
-Please note that this form may not be suitable for all students and schools, and you should adjust the fields as per your specific requirements.
-</thinking>
-
 # Elementary School Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students and their guardians for the purpose of assessing their eligibility for admission to an elementary school.

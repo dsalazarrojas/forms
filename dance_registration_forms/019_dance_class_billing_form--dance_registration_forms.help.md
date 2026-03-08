@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Dance Class Billing Form", we need to first understand its purpose. Based on the provided YAML fields, it appears that this form is designed to collect information related to billing and payment details for dance classes.
-
-The form likely serves to capture data such as student name, email, and billing address, as well as details about the total amount due, payment method, and payment status. It may also include additional fields for notes and assigned tools. This form is probably used by instructors or administrators to manage student billing and payments.
-
-We should also check if the form is used in other contexts or if it's a duplicate form. However, assuming it's a unique form for dance class billing, we can proceed with creating the help guide.
-
-</thinking>
-
 # Dance Class Billing Form - Help Guide
 ## Purpose
 The Dance Class Billing Form is used to collect information related to billing and payment details for dance classes.

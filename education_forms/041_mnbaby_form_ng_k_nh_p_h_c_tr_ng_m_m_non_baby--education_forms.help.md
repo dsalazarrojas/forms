@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering children for preschools, which is an essential process for parents to enroll their babies in these educational institutions. To create this form, I will need to provide an internal explanation and then generate the user-facing help guide based on the provided YAML fields.
-
-The form is designed to collect necessary information about the child and the enrollment process. It includes fields for category, description, form name, assigned tool, output file, form title, form description, form category, form version, created date, updated date, status, and form ID.
-
-</thinking>
-
 # Mnbaby Form Đăng Ký Nhập Học Trường Mầm Non Baby - Help Guide
 ## Purpose
 This form is used for registering children for preschools, allowing parents to easily and quickly provide required information for the enrollment process.

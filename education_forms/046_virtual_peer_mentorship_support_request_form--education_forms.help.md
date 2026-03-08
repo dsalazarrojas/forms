@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users request support from peer mentors in their academic or professional development. The purpose of this form is to gather information from users about their needs and preferences for support, allowing the support team to provide tailored assistance. Before proceeding, ensure that you have not already submitted a similar request, as this form is designed to help with unique or ongoing support needs. Ensure that you are submitting a request in good faith, as this form is not intended for spamming or misusing the support system.
-</thinking>
-
 # Virtual Peer Mentorship Support Request Form - Help Guide
 ## Purpose
 The Virtual Peer Mentorship Support Request Form is designed to help you request support and guidance from peer mentors in your academic or professional development. Fill out this form to provide information about your needs and preferences, and our support team will tailor their assistance to suit your requirements.

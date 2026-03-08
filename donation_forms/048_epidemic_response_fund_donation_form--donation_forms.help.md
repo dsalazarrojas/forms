@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect donations for the epidemic response fund. The form asks for personal information, donation amount, frequency, and method. It also asks for address and contact details for potential follow-up actions. Ensure that users only fill out this form for the intended purpose and do not submit duplicate donations.
-
-This guide is intended to help users complete the form correctly and understand the implications of their submission.
-
-To confirm the form's purpose and relevance, consider the following:
-
-* This form is used for donations specifically for the epidemic response fund.
-* Only users who wish to contribute to this cause should fill out the form.
-* Duplicate donations should not be submitted; only new donations will be processed.
-</thinking>
-
 # Epidemic Response Fund Donation Form - Help Guide
 ## Purpose
 The Epidemic Response Fund Donation Form is used to collect donations specifically for the epidemic response fund. It is intended for individuals who wish to contribute to this cause.

@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to consider the form's purpose, how to complete it, and what each field means. This form is for creating a new product purchase order, and the fields are organized into a logical sequence to facilitate the ordering process.
-
-The form is likely used by customers to place new orders, and the fields are designed to collect relevant information about the order. The field labels and types give us a clue about the intended use of each field.
-
-For instance, "product_id" and "order_quantity" suggest that the form is collecting information about the product being ordered, while "customer_address", "customer_email", and "customer_phone" imply that the form is also collecting contact information for the customer. "order_status" and "payment_method" fields suggest that the form is tracking the order's progress and payment method.
-
-We will create a help guide that explains each field in simple terms, making it easy for users to understand and complete the form correctly.
-
-</thinking>
-
 # product_purchase_order_form - Help Guide
 ## Purpose
 This form is used to create a new product purchase order. Fill out the form with the required information to place a new order.

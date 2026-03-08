@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a general Nutrition Care Plan Form designed for healthcare professionals or nutritionists to document a patient's dietary needs, goals, and restrictions. The fields appear to be related to assessing the patient's requirements for proper nutrition and care. The form likely aims to help nutritionists develop a comprehensive care plan for each patient. Before creating the form, ensure that you understand the specific requirements of your organization or clinic and do not duplicate existing forms.
-</thinking>
-
 # Nutrition Care Plan Form - Help Guide
 ## Purpose
 The Nutrition Care Plan Form is designed to help healthcare professionals document a patient's dietary needs, goals, and restrictions to develop a comprehensive care plan.

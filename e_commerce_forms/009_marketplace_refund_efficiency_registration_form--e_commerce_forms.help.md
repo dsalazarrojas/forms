@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to register information about a refund related to a purchase made through a marketplace. The form collects order details, reason for refund, and product condition, aiming to increase the efficiency of the refund process. 
-
-The form has four fields, divided into two pages. The first page collects order information and the second page asks for refund reason and product condition. The form's purpose is to gather relevant data for efficient refund processing. 
-
-The form does not collect any sensitive or personal data, and its fields are not required to be filled. The form can be filled out by anyone seeking to register a refund, but it is recommended that the buyer and seller use it. 
-
-Before filling out this form, the buyer and seller should make sure they do not register duplicate entries. 
-
-This form's original adaptation is based on public survey topic metadata, and it is not affiliated with any proprietary form creation or survey platforms. The form can be freely used, modified, and even sold under Creative Commons 4.0 license. 
-</thinking>
-
 # Marketplace Refund Efficiency Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register information about a refund related to a purchase made through a marketplace. This will help increase the efficiency of the refund process.

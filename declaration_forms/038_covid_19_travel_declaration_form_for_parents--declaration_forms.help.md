@@ -1,5 +1,3 @@
-<thinking>COVID-19 Travel Declaration Form For Parents is a critical form that helps parents or guardians inform the school about travel history and health status of their child. This form is essential to ensure the school maintains a safe and healthy environment for all students. The form should only be filled out by parents or guardians who need to report travel history for their child. Please fill this form out only if you have traveled with your child or if your child has traveled without you. If you are unsure about the form or its purpose, please contact the school administration for guidance. This help guide is intended for informational purposes and not to create additional work for the school staff. The school reserves the right to request additional information or documentation if necessary.</thinking>
-
 # COVID 19 Travel Declaration Form For Parents - Help Guide
 ## Purpose
 

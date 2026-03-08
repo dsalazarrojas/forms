@@ -1,7 +1,3 @@
-<thinking>
-The form "educational_app_testing_request_form" is intended to gather information from potential testers who are interested in participating in educational app testing. The purpose of this form is to collect relevant details about the tester and the testing requirements. This form is designed to be completed by those who want to be part of the testing process, and it's a straightforward and easy-to-use document that requires no prior technical knowledge. It is recommended to fill it out once you're ready with all the necessary information.
-</thinking>
-
 # Educational App Testing Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential testers who are interested in participating in educational app testing. It's a simple and easy-to-use form that helps us understand your testing requirements and qualifications.

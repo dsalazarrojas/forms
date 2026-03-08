@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly, it's essential to understand its purpose and relevance to the grading process. This form is used for evaluating student assignments, and each field is designed to capture specific aspects of the assignment's quality. By completing this form, graders can accurately assess the assignment and provide feedback to students. The form should be filled out for every assignment, and the information gathered will aid in calculating overall scores and determining the grade. The fields are categorized into three main sections: Grader and Assignment Details, Quality Assessments, and Additional Feedback.
-
-Before proceeding, make sure you have all necessary documents, such as student IDs and assignment titles, as the form requires precise identification of the assignment being graded and the student. This form should be submitted after you have evaluated the entire assignment, taking all criteria and aspects into consideration. If you are unable to grade all aspects, use the 'No Grade' option when submitting this form.
-</thinking>
 # Assignment Grading Form - Help Guide
 
 ## Purpose

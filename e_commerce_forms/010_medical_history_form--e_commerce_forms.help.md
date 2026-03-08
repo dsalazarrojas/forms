@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient medical information, including patient contact details, medical history, allergies, and medical test results. The form is likely intended for healthcare professionals or medical institutions to collect and document patient medical history and other relevant information.
-</thinking>
-
 # medical_history_form - Help Guide
 ## Purpose
 This form is designed to collect patient medical history and other relevant information from patients.

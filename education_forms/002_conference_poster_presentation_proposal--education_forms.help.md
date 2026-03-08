@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a conference poster presentation proposal. Presenters can provide details about their work, including their name, title, institution, and email address. They can also specify their presentation format preference, audio-visual requirements, and poster dimensions. Additionally, they can indicate if they have co-presenters, if their work has been presented before, and if they are interested in publication. The form also asks about the presenter's status as a student and if they need a travel grant. Presenters can optionally provide their special accommodations and key references. Finally, they need to certify that their work is original and agree to presentation terms. This form ensures that presenters can effectively communicate their needs and requirements for a successful conference poster presentation.
-</thinking>
-
 # Conference Poster Presentation Proposal - Help Guide
 
 ## Purpose

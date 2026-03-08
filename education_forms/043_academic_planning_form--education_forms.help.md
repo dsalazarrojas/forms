@@ -1,7 +1,3 @@
-<thinking>
-This form was created for students to input information about their academic planning, such as their personal details, academic goals, and any support they may need. It's likely to be used by educators or administrators to get a clear understanding of the students' needs and progress. Before completing this form, check with your instructor or academic advisor to ensure you're not duplicating efforts or missing required information. 
-</thinking>
-
 # Academic Planning Form - Help Guide
 ## Purpose
 The Academic Planning Form is used to gather essential information from students about their academic goals, progress, and needs. It helps educators and administrators better understand each student's situation and provide tailored support.

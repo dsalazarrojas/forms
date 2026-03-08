@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an e-commerce store's readiness to launch, including its product listing, pricing, shipping information, payment gateway, order processing, customer support, and analytics tracking. This form ensures that all necessary fields are filled out correctly to avoid any potential issues during the store's launch.
-The form consists of multiple pages, each with its own set of questions or fields that need to be answered or filled out. It's essential to go through each page carefully and answer every question to ensure accurate and complete information is provided.
-Before proceeding, it's also essential to ensure that the information provided is not duplicated or inconsistent across different pages.
-</thinking>
-
 # e-commerce_store_checklist_form - Help Guide
 ## Purpose
 This form is designed to help evaluate the readiness of an e-commerce store for launch, covering various aspects such as product listing, pricing, shipping, payment, order processing, customer support, and analytics tracking.

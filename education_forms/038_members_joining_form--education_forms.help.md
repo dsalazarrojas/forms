@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who are joining the organization. This form will be used to gather essential details about each new member, including their name, email, phone number, and date of joining. It's crucial to fill out this form accurately to ensure that the organization can keep track of its members effectively.
-
-When filling out this form, please note that you can only fill it out once for each member joining the organization. If you need to make any changes to the information you've already submitted, you will need to submit a new entry.
-
-Before proceeding, make sure you're familiar with the following fields and their requirements. Some fields are optional, and you can skip them if not applicable.
-
-This guide will walk you through the process step by step, explaining each field's purpose and what to expect.
-</thinking>
-
 # Members Joining Form - Help Guide
 ## Purpose
 The Members Joining Form is a crucial tool for the organization to keep track of its members accurately. It collects essential information such as name, email, phone number, and date of joining.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Pain Therapy Discharge Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's discharge from chronic pain therapy, including their personal details, treatment summary, treatment outcomes, medications, and discharge instructions. This form helps healthcare providers track and document a patient's progress and ensure a smooth transition to post-treatment care.

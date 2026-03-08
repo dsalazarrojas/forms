@@ -1,10 +1,6 @@
 # After School Detention Form - Help Guide
 ## Purpose
 
-<thinking>
-This form is used to document and track student detentions, which are assigned as a disciplinary measure for misbehavior or misconduct. The form provides a structured way to collect necessary information about the student, the detention details, and the parent/guardian's notification and response. This information helps teachers, administrators, and parents/guardians understand the circumstances surrounding the detention and ensures that students are held accountable for their actions.
-</thinking>
-
 ## How To Complete This Form
 
 Before starting, please review the form carefully to ensure you have all the necessary information. If you need assistance, don't hesitate to ask a colleague or supervisor. The form is divided into several sections, each covering a specific aspect of the detention process. Start by filling out the student information section, which includes the student's full name, ID number, grade level, and homeroom teacher. Then, proceed to the detention details section, which requires information about the detention date, time, location, and duration. Next, provide details about the incident that led to the detention, including the type of violation and any witnesses. You may also need to specify if the student has had previous disciplinary actions. Finally, provide contact information for the parent/guardian and information about the student's attendance status and behavior during the detention.

@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Dietary Assessment Form Template - Help Guide
 
 ## Purpose

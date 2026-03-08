@@ -1,5 +1,3 @@
-<thinking>This form, `physics_equations_reference_sheet_submission`, is designed for users to submit physics-related information, such as equations and descriptions, for reference and review. The purpose of this form is to gather data from various categories and sources, including student and educator submissions. To ensure accurate data collection, it's essential to understand the form's purpose and each field's significance. This guide will help users navigate the form and provide clarity on its fields.</thinking>
-
 # physics_equations_reference_sheet_submission - Help Guide
 ## Purpose
 The form is intended to collect and organize physics-related information, including equations, descriptions, and submission details.

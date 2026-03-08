@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect donations for a Law School Scholarship Fund. The purpose of this form is to gather information from individuals who wish to donate to the fund, which aims to support students in need of financial aid to pursue their law studies. This form ensures that donors are able to submit their donations securely and efficiently. The form fields are designed to be clear and concise to facilitate easy completion. Please ensure that you only need to fill out this form once for a one-time payment or if you wish to set up a recurring donation.
-
-</thinking>
-
 # Law School Scholarship Fund Donation Form - Help Guide
 ## Purpose
 The Law School Scholarship Fund Donation Form is designed to collect donations for students in need of financial aid to pursue their law studies.

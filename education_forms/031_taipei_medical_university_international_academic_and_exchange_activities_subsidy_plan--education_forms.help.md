@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from international students or academic staff at Taipe Medical University regarding their exchange activities, such as academic and exchange subsidies. This form aims to gather relevant details about their exchange periods, durations, objectives, scholarships, and expenses, as well as travel documents. It is essential to ensure that all relevant fields are filled accurately to avoid any miscommunication or delays in processing. Please note that the form is not affiliated with any specific platform or proprietary content. It's an AI-generated form, and its purpose is to provide a general guide for users to understand its intent and usage.
-</thinking>
-
 # taipei_medical_university_international_academic_and_exchange_activities_subsidy_plan - Help Guide
 ## Purpose
 This form is designed to collect information from international students or academic staff at Taipe Medical University regarding their exchange activities, academic and exchange subsidies, and other relevant details.

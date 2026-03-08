@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for School Bus Drivers to report the condition of their vehicle before a trip. It captures information related to pre-trip inspections, which helps ensure that the vehicle is safe and roadworthy for the trip. The form is used to monitor and maintain the vehicle's condition, and it helps identify potential issues early on. By completing this form, drivers can take proactive measures to address any issues that may affect the vehicle's performance during the trip.
 
 </thinking>

@@ -1,15 +1,3 @@
-<thinking> 
-
-This form is designed to evaluate teachers based on their performance, skills, and overall experience in the educational field. It is likely used by educational institutions or organizations to assess the effectiveness of their teaching staff. The form is divided into various sections, which cater to different aspects of a teacher's performance.
-
-Before filling out this form, please ensure that you are familiar with the evaluation criteria and the teacher's performance in the relevant period. If you are not sure about any field, it is recommended that you refer to the relevant documentation or consult with the evaluator or the teacher themselves.
-
-This form is designed to be completed by evaluators or administrators who are familiar with the teaching staff and their performance. If you are not authorized to fill out this form, please do not proceed.
-
-To ensure that the form is completed accurately and efficiently, please follow the instructions below.
-
-</thinking>
-
 # Teacher Evaluation Checklist Form - Help Guide
 ## Purpose
 The Teacher Evaluation Checklist Form is designed to assess the performance of teachers in the educational field. It is used by educational institutions or organizations to evaluate the effectiveness of their teaching staff.

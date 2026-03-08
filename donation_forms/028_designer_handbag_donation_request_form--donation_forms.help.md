@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from designers who wish to donate a handbag to the organization. This form will guide you through the process of submitting a donation request. Please note that this form is not intended for actual handbag donations, but rather for requesting a handbag to be donated. If you are an actual donor, please do not fill out this form as it will not result in a handbag being donated. Please ensure you are filling out this form for the correct purpose to avoid any confusion or delay in processing your request.
-
-</thinking>
-
 # Designer Handbag Donation Request Form - Help Guide
 
 ## Purpose

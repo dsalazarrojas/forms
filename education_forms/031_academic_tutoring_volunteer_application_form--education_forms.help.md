@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals who want to apply to become a volunteer tutor. The form is intended for students, faculty, or alumni who wish to provide academic support to their peers. The form collects information on personal details, academic background, and qualifications, as well as preferences and availability for tutoring sessions. To ensure that the form is completed correctly, applicants should have a valid reason for applying, be available to provide necessary documentation (e.g., student ID number), and provide accurate information about their availability and qualifications.
-</thinking>
-
 # Academic Tutoring Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants who want to become volunteer tutors, providing support to their peers in academic areas they are qualified to tutor.

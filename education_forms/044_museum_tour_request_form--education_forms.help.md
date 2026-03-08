@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Museum Tour Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... this form purpose is to collect donation information from users. It might be used for fundraising, charity campaigns, or any other purpose where donations are involved. Ensure you understand the form's purpose and context, and that it's not a duplicate effort. This form should only be used for donations, not for other types of requests or surveys. </thinking>
-
 # Donation Form - Help Guide
 ## Purpose
 The Donation Form is a tool for users to provide their donation information. It is designed to be completed by individuals who wish to make a donation to a specific cause or campaign.

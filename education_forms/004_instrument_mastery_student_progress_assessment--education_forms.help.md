@@ -1,8 +1,3 @@
-<thinking>
-The Instrument Mastery Student Progress Assessment form appears to be designed to evaluate students' progress and levels of mastery in playing a musical instrument. This form is used to collect information about the student's instrument of choice, their practice habits, and their current level of interest and motivation to continue practicing. This form is likely used in an educational setting to monitor student progress and provide guidance to instructors or parents.
-
-</thinking>
-
 # Instrument Mastery Student Progress Assessment - Help Guide
 ## Purpose
 This form is used to assess the student's progress and mastery level in playing a musical instrument.

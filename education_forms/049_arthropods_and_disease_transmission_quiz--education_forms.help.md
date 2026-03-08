@@ -1,12 +1,3 @@
-<thinking>
-This form is an educational tool designed to assess the knowledge and confidence level of users regarding arthropod-borne diseases, also known as vector-borne diseases. Arthropods include mosquitoes, ticks, fleas, lice, mites, and other insects that transmit diseases to humans. The form is composed of multiple-choice questions that cover various aspects of vector-borne diseases, including disease vectors, transmission methods, and prevention techniques.
-
-To the best of my knowledge, this form is an original adaptation of publicly available information on arthropod-borne diseases and does not copy or extract content from any proprietary platforms. The form's purpose is to educate users on the importance of understanding and preventing vector-borne diseases.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is released under CC BY 4.0 and can be used, modified, and distributed freely. For any inquiries, contact form@gic.mx.
-
-</thinking>
-
 # Arthropods And Disease Transmission Quiz - Help Guide
 ## Purpose
 

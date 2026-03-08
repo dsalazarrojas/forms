@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect information from potential volunteers for the Learning Center. The purpose of this form is to gather relevant details about the volunteer's background, interests, and availability. The form will be reviewed and evaluated to determine if the volunteer is a good fit for the Learning Center's programs.
-
-To ensure that the form is completed correctly, make sure to provide honest and accurate information. The information collected will be used to match you with suitable opportunities that align with your interests and skills.
-
-Before starting the form, please review the instructions carefully to avoid confusion. If you have any questions or need clarification on any field, feel free to contact us for support.
-
-Please note that this form is for general use and may be used by various departments within the Learning Center. Your responses will be kept confidential and handled in accordance with our privacy policies.
-
-Also, ensure that you are agreeing to the terms and conditions specified in the form, including the volunteer commitment and agreement to sure, which are mandatory for all volunteers.
-</thinking>
-
 # Learning Center Volunteer Application Form - Help Guide
 ## Purpose
 The Learning Center Volunteer Application Form is designed to collect information from potential volunteers to determine if they are a good fit for the Learning Center's programs.

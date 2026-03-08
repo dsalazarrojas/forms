@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to guide users through the process of making a gift aid declaration. The form is used to declare gifts or donations given to charities. It captures information about the taxpayer and the charity, including the value of the gift, its date, and other relevant details. 
-
-The form is likely used in the context of gift aid, a system used in the UK to provide relief at higher and top rates of tax on certain gifts and donations made by individuals to charity. The purpose of the form is to ensure that taxpayers are accurately reporting their gifts and meeting the requirements for gift aid, and to provide charities with the necessary information to claim gift aid tax relief.
-
-To avoid duplication and ensure accuracy, the form should only be completed once for each gift or donation, and the taxpayer ID is likely to be used to identify the taxpayer across different forms.
-
-The form is likely to be used by taxpayers and charities in the UK, and the information collected will be used for tax purposes. It is essential to ensure that the form is completed accurately and thoroughly to avoid any issues with the gift aid tax relief.
-
-</thinking>
-
 # Gift Aid Declaration Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess knowledge about sexual cells, which are a type of cell that can reproduce both sexually and asexually. The form is intended to be completed by students, researchers, or anyone interested in learning about biology and cellular structures. 
-
-To ensure that the form is relevant to your needs, please note that it is not affiliated with, endorsed by, or derived from any form platform. This form was created using only public survey topic metadata as inspiration, making it an original adaptation. 
-
-Before proceeding, let's clarify that the form's purpose is to evaluate knowledge about sexual cells, their functions, and characteristics. The form consists of 10 questions, each designed to test your understanding of different aspects of sexual cells.
-
-</thinking>
-
 # Sexual Cells Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess knowledge about sexual cells, their functions, and characteristics.

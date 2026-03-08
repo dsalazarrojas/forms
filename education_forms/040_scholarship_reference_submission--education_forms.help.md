@@ -1,13 +1,3 @@
-<thinking>
-This form is for scholarship reference submission, used to collect information from academic referees about a student's or applicant's qualifications and achievements. 
-
-This form is not intended to be filled out by the submitter themselves, but rather by the referee providing a reference for the submitter. 
-
-Please ensure that you are not submitting this form for yourself or a third-party, as this may lead to duplication or irrelevant submission. Ensure that you are the intended referee and have the necessary information and permissions to fill out this form accurately.
-
-Before proceeding, please make sure that all relevant fields are filled in accurately and honestly. You can ask the submitter or your institution's administrative team if you have any questions about which fields are required or need to be filled in. 
-</thinking>
-
 # Scholarship Reference Submission - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a programming code, its status, deployment details, and review process. Before filling out this form, please ensure you are not duplicating work by checking if a similar code declaration already exists. This form is designed to guide the user through a series of questions to gather essential data about the code, including its title, status, deployment details, owner, review process, and due dates. Please fill out the form carefully, providing accurate information to help maintain a clear and efficient record of the code.
-</thinking>
-
 # Programming Code Declaration Reference Form - Help Guide
 ## Purpose
 The Programming Code Declaration Reference Form is designed to collect and record essential information about a programming code. This form aims to provide a clear and comprehensive summary of the code's details, status, and relevant attributes.

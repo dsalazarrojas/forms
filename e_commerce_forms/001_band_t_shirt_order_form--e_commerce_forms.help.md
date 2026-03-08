@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture customer information and order details for a band t-shirt order. The form is intended for customers to provide their contact and delivery information, select their preferred t-shirt style, color, and quantity, and choose their preferred shipping and payment method. The form also includes fields for special requests or notes and acceptance of terms and conditions. This form is likely used in an e-commerce context to process customer orders.
-</thinking>
-
 # Band T Shirt Order Form - Help Guide
 ## Purpose
 This form is for customers to place an order for a band t-shirt. Please fill out the form with your information and preferences.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from students for enrollment purposes. The form is designed to be easy to use and understand, with clear labels and instructions. The form is divided into several sections, each with a specific purpose. The student's name, email, and date of birth are collected to ensure accurate and secure enrollment processes.
-
-The form has been designed to be user-friendly, with helpful hints and clear explanations for each field. It is essential to fill out the form carefully and accurately to ensure that the information collected is correct and secure.
-
-When filling out the form, please make sure to complete each field as instructed. If you're unsure about any field, you can refer to this help guide for clarification. Remember to review your answers carefully before submitting the form.
-
-</thinking>
-
 # Student Enrollment Validation Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from students for enrollment purposes, ensuring accurate and secure enrollment processes.

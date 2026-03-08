@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a person's daily food intake. The form is divided into multiple pages, each with its own set of fields. The form can be completed by the person, and the information collected will be used to assess their dietary habits and provide recommendations for improvement. This form is intended for healthcare professionals to use in their practice, and the collected data will be stored and managed by them. I will assume that the form is not intended for public access or external sharing.
-
-</thinking>
-
 # Daily Food Intake Form - Help Guide
 ## Purpose
 The Daily Food Intake Form is designed to collect information about a person's daily food intake habits. It helps healthcare professionals assess and provide recommendations for improvement.

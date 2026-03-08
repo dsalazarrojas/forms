@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is a quiz that tests the user's understanding of the US government system, specifically the legislature, executive, and judicial branches. The form is used to assess the user's knowledge of the three branches of government and their powers. The purpose of this form is to provide a quick and easy way to evaluate the user's understanding of the government system.
-
-Before starting the quiz, ensure that you have a basic understanding of the three branches of government and their roles. This quiz is not meant to be a comprehensive test of the subject, but rather a fun and interactive way to learn about the government system.
-
-</thinking>
-
 # Legislature Vs Executive Quiz - Help Guide
 ## Purpose
 The Legislature Vs Executive Quiz is a 3-question quiz designed to test your understanding of the US government system, specifically the legislature, executive, and judicial branches.

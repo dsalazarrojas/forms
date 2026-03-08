@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "organizational_behavior_study_application", is to gather information from participants about their personal details, availability, and role within an organization. It appears to be used for research or study purposes related to organizational behavior. The form asks for basic contact information, such as name, email, phone number, and department, as well as their role and availability. The form likely aims to collect data about the participants' characteristics and schedules to inform research findings or facilitate communication within the organization.
-
-Before proceeding, please ensure that you're completing this form for the intended purpose and that the information you provide is accurate and up-to-date.
-
-To avoid duplication, kindly check that you haven't already submitted this form with the same or similar information.
-
-</thinking>
-
 # organizational_behavior_study_application - Help Guide
 ## Purpose
 This form is designed to collect participant details for research or study purposes related to organizational behavior.

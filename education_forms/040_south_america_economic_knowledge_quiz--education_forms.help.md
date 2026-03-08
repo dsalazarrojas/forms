@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to assess the knowledge of users about the economy of South America, specifically in terms of country and economic indicators. This form will help users demonstrate their understanding of the region's economic landscape by selecting the correct answers to various questions.
-
-Before proceeding, please note that this form is intended for South American economic knowledge assessment and may not be relevant to other regions or topics. Please ensure that you are familiar with the basics of South American economy before completing this form.
-
-The form consists of multiple-choice questions for each country in the region and various economic indicators such as GDP, Inflation, Unemployment, GDP Growth, and Population. Users will be presented with options to select the correct answer for each question.
-
-To complete this form, follow these steps:
-
-1. Select the correct country from the list for each question.
-2. Choose the correct economic indicator from the options provided.
-3. For questions with multiple-choice answers, select the correct option.
-
-</thinking>
-
 # South America Economic Knowledge Quiz - Help Guide
 ## Purpose
 The South America Economic Knowledge Quiz is designed to assess the knowledge of users about the economy of South America, specifically in terms of country and economic indicators.

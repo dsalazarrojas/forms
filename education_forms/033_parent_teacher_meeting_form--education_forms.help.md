@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to facilitate communication between parents and teachers, providing a platform for parents to report their child's progress, provide feedback, or schedule meetings with the teacher. This form will help teachers keep track of meeting requests and progress updates from parents. To ensure accurate tracking and effective communication, please complete the form carefully and accurately.
-
-Please note that this form should not be used for general inquiries or non-specific updates. If you need to provide general feedback or ask a question, you may want to consider using other communication channels such as email or phone calls.
-
-</thinking>
-
 # parent_teacher_meeting_form - Help Guide
 ## Purpose
 The parent-teacher meeting form is designed to enable parents to report their child's progress, provide feedback, or schedule meetings with the teacher. This form helps teachers keep track of meeting requests and progress updates from parents.

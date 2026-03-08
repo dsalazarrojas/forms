@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pickup_transportation_service_request_form - Help Guide
 ## Purpose
 The pickup transportation service request form is used for arranging transportation services, and is intended for both drivers and riders to be able to use it easily without needing to know how to code.

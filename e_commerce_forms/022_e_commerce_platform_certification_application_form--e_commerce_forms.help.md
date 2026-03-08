@@ -1,7 +1,3 @@
-<thinking>
-This form is for the e-commerce platform certification application. To ensure accuracy and consistency, please review the form carefully before submitting. This form is a crucial part of the certification process, and the information provided will be used to assess your platform's eligibility for certification. To avoid duplication, please do not submit multiple applications for the same platform.
-</thinking>
-
 # e_commerce_platform_certification_application_form - Help Guide
 ## Purpose
 This form is used to apply for certification of your e-commerce platform. It is essential to provide accurate and detailed information about your platform to ensure a smooth certification process.

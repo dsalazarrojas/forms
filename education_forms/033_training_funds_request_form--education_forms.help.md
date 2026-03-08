@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Training Funds Request Form" is used to request training funds for employees. The form is used by employees to submit their training needs and requests for approval. 
 
 To ensure that the form is properly filled out, the system checks for non-duplication to prevent multiple submissions for the same training course. This helps to prevent unnecessary paperwork and reduces the likelihood of duplicate approvals.

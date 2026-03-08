@@ -1,8 +1,3 @@
-<thinking>
-To confirm, the form is called "Worksheet Completion Survey" and is used to gather feedback from teachers or educators on the completion of worksheets in their classrooms. This form should be completed by teachers who have used worksheets in their teaching and have some experience with them. The form will gather information on various aspects of the worksheet, including clarity, instructional materials, engagement, learning outcomes, ease of use, and comments. To avoid duplication, this form should not be completed if the teacher has already provided feedback on the same worksheet in the past.
-
-</thinking>
-
 # Worksheet Completion Survey - Help Guide
 ## Purpose
 This guide will help you complete the Worksheet Completion Survey form, which is designed to gather feedback on the completion of worksheets in your classroom.

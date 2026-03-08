@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for students to register as a Mental Wellness Ambassador on campus, a position that aims to promote mental wellness and provide support to their peers. The form collects demographic and personal information, motivations and interests, skills and qualifications, availability and commitment, and any additional information that may be relevant to the role. 
-The form is used to assess the applicant's suitability for the position and to ensure they have the necessary skills, experience, and personal characteristics to effectively perform the role. 
-This guide will help you complete the form accurately and ensure that you provide the necessary information.
-</thinking>
-
 # Campus Mental Wellness Ambassador Registration - Help Guide
 ## Purpose
 

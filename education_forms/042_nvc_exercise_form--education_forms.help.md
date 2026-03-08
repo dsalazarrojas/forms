@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information on a specific topic related to non-visualized concepts (NVC) exercises. This form has been created using AI and is not affiliated with or endorsed by any form platform. It is an original adaptation of public survey topic metadata and does not copy or use proprietary content from any form creation, data collection, or survey platform. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell it, as long as they give credit.
-
-To ensure the form is being used correctly, please read this help guide carefully.
-
-</thinking>
-
 # NVC Exercise Form - Help Guide
 ## Purpose
 

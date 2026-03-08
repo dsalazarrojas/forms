@@ -1,10 +1,3 @@
-<thinking>
-The form "Sponsor Donation Form" is designed for collecting information from sponsors or donors. The form's purpose is to gather necessary details from individuals or organizations willing to support or sponsor specific initiatives, events, or projects. 
-This form is likely used to track and record the contributions of sponsors, which might be required for administrative, accounting, or reporting purposes. 
-It is essential to ensure that the form is completed accurately and completely, as the information gathered is crucial for proper accounting, tax purposes, or sponsor recognition. 
-Before proceeding, make sure this is the correct form for your intended purpose and not to duplicate efforts by ensuring that you have not filled out this form previously. 
-</thinking>
-
 # Sponsor Donation Form - Help Guide
 ## Purpose
 This form is designed for sponsors or donors to provide information about their contributions to support specific initiatives, events, or projects.

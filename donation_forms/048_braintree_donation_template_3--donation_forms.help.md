@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect donations from individuals for various programs and causes. It should not be used for any other purpose or to collect sensitive information not relevant to donations. The fields included in this form are designed to gather essential information from donors, including their contact details, donation preferences, and payment methods. It's essential to ensure that each field is completed accurately and truthfully, as this information will be used to process and confirm donations. Please note that the fields marked as "required" are essential for the donation process, and incomplete or incorrect information may lead to delays or issues with processing the donation. Before proceeding, please review the form carefully and ensure that all required fields are completed correctly.</thinking>
-
 # Braintree Donation Template 3 - Help Guide
 ## Purpose
 This form is designed to collect donations for various programs and causes. It is intended for individuals to provide their contact information, donation preferences, and payment details to support their chosen programs.

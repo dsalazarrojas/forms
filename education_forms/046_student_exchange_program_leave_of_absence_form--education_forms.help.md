@@ -1,8 +1,3 @@
-<thinking>
-To confirm the form's purpose and fields before creating the user-facing help guide, I will review the input schema. The form is for a "Student Exchange Program Leave Of Absence Form," which suggests it's related to students taking a leave of absence from their educational program. The fields provided seem to cover basic student information, contact details, and leave-related data. I will create a help guide that is clear and concise.
-
-</thinking>
-
 # Student Exchange Program Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence from the Student Exchange Program. Fill out the form to provide necessary information about your leave, which will help the administration process your request efficiently.

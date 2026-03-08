@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_delivery_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Education Course Discharge Form is used to document the process of discharging a student from an education course. This form is essential for maintaining accurate records and facilitating communication among staff members involved in the course. Please ensure you are not attempting to discharge a student who has not actually left or is not in a position to be discharged.
-</thinking>
-
 # Education Course Discharge Form - Help Guide
 ## Purpose
 The Education Course Discharge Form is a document used to formally notify the education institution and other relevant parties that a student has been discharged from a course. This form is used to record the circumstances surrounding the student's discharge and ensure a smooth transition for the student and staff.

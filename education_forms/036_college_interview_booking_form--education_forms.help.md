@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for college interviews, including their personal details, interview preferences, and any special requirements or accommodations they may need. This form helps the college admissions team to efficiently manage interview requests and ensure that all applicants have a smooth and productive experience. It's essential to provide accurate and up-to-date information to avoid any misunderstandings or miscommunications during the interview process. Please ensure that the form is filled out completely and accurately to facilitate the college's ability to process your application efficiently.
-</thinking>
-
 # College Interview Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information about you for the college interview process. It will help us understand your preferences and requirements for the interview, ensuring a smooth and productive experience for you and our admissions team.

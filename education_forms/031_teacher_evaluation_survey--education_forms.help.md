@@ -1,11 +1,3 @@
-<thinking>
-To ensure that each form is completed correctly and accurately, we will provide a brief internal reasoning check to verify that each field is filled out properly.
-We will check if the form has been filled out for the purpose of gathering feedback for the teacher's evaluation.
-We will make sure that each section is filled out in order from top to bottom and that the correct answers match the purpose of the section.
-We will check if the answers are within the options provided.
-We will make sure that each section is filled out thoroughly without leaving any blank spaces.
-</thinking>
-
 # Teacher Evaluation Survey - Help Guide
 ## Purpose
 The teacher evaluation survey is designed to gather feedback from students, parents, and other stakeholders on a teacher's performance. It helps to identify areas of improvement and provide valuable insights for professional development.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ayurveda Nutrition Assessment Form - Help Guide
 
 ## Purpose

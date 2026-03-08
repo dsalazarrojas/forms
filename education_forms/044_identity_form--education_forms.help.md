@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Identity Form - Help Guide
 
 ## Purpose

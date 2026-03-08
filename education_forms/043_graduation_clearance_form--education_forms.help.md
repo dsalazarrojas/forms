@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to verify a student's graduation status. It is meant to be filled out by the student or someone authorized to represent the student to confirm their eligibility for graduation. The fields in this form are used to collect information about the student's name, identification, and educational background. The form also includes fields for a student's signature and that of a clearance officer, indicating approval of the student's graduation status.
-
-</thinking>
-
 # Graduation Clearance Form - Help Guide
 
 ## Purpose

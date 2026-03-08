@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for educators to submit online course content. The form aims to collect necessary information for course metadata, allowing administrators to review and manage courses effectively. 
-This form is intended for submitting course content for review, and it is not meant for other purposes. 
-The form will not store any sensitive or personal information. 
-Please make sure to fill out the form accurately and completely. 
-If you have already submitted a course using this form, please do not submit it again.
-</thinking>
-
 # Online Course Content Submission Form - Help Guide
 ## Purpose
 This form is designed for submitting online course content. It collects information such as course title, category, description, and more to facilitate the review and management of courses.

@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the Cuddle Bear Share Copy form is only used when it's actually needed and not duplicated. This form is used by authorized personnel to report a donation of cuddle bears made available for distribution. The purpose of this form is to collect the necessary information for tracking and record-keeping purposes. To complete this form, the user will need to fill out the fields as follows:</thinking>
-
 # Cuddle Bear Share Copy - Help Guide
 ## Purpose
 The Cuddle Bear Share Copy form is used by authorized personnel to report a donation of cuddle bears made available for distribution.

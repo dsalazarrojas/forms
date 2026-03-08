@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Space Renovation Request Form - Help Guide
 ## Purpose
 The Learning Space Renovation Request Form is designed to gather information from instructors and staff to facilitate the renovation of learning spaces in the educational institution. This form helps to collect details about the renovation project, including general information, contact details, space characteristics, project scope, and photos or attachments. The form will be reviewed and approved by relevant stakeholders to ensure that the learning space renovation meets the necessary requirements and is completed on time.

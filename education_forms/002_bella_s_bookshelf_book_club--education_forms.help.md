@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bella's Bookshelf Book Club - Help Guide
 
 ## Purpose

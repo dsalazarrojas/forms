@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from students on their interaction with their teacher. It's designed to help teachers identify areas of improvement, provide insights into their teaching practices, and foster a better understanding between students and teachers. This form should not be used for any other purpose, and its results should not be used to evaluate teachers in a biased or unfair manner.
-
-</thinking>
-
 # Teacher Student Interaction Feedback Evaluation Form - Help Guide
 
 ## Purpose

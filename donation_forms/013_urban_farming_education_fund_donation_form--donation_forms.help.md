@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Farming Education Fund Donation Form - Help Guide
 
 ## Purpose

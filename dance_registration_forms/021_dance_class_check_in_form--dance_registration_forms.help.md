@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students registering for a dance class, ensuring they are checked in and ready to participate. The form should only be filled out by students who are physically present in the dance class and are not a substitute for the teacher's sign-in process. This form is meant to be a quick and efficient way to keep track of attendance and any necessary information that may affect the class. It is not a comprehensive registration form for new students; instead, it's a check-in process for students already enrolled in the class.
-
-</thinking>
-
 # Dance Class Check In Form - Help Guide
 ## Purpose
 This form is used to record the attendance and details of students participating in a dance class.

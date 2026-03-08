@@ -1,13 +1,3 @@
-<thinking> 
-
-To create a user-facing help guide for the "Fundraising Terms Guide" form, we need to consider the following:
-
-* The purpose of the form is likely to gather information from potential donors about their fundraising intentions and goals.
-* We need to guide the user through the form fields to ensure they understand what is expected of them.
-* The form fields appear to be a mix of personal data (contact details) and agreement fields, indicating that the form is not just a straightforward form but rather a series of statements the user must agree or disagree with.
-
-</thinking>
-
 # Fundraising Terms Guide - Help Guide
 
 ## Purpose

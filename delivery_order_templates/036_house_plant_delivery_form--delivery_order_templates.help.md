@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information for house plant deliveries. It is intended for customers who are ordering plants for delivery. The form is likely used in an e-commerce or online marketplace context. It is not a duplicate of existing forms, and it is not a form used in other contexts such as product returns or refunds.
-
-Please note that the form includes fields for customer information (name, email, phone), delivery details (delivery date, time, address), payment method (credit card, PayPal, bank transfer), and plant ordering information (plant selection and quantity). There is also a field for notes where customers can provide additional information to the delivery person. 
-
-</thinking>
-
 # House Plant Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information for house plant deliveries. It's intended for customers who are ordering plants for delivery.

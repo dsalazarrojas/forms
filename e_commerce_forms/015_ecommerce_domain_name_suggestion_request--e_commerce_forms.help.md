@@ -1,12 +1,3 @@
-<thinking>
-The ecommerce_domain_name_suggestion_request form is designed to allow users to provide details about an ecommerce store, including its name, description, and other relevant information. This form is intended to assist in the process of suggesting a domain name for the store. The form will guide users through providing information such as the store's name, category, subcategory, keywords, and other relevant details. This information will help in suggesting a suitable domain name for the store.
-
-The form will be completed in a step-by-step manner, page by page. Each page will have fields that need to be filled out. The information provided will be stored and used for suggesting a domain name for the store.
-
-Please make sure to provide accurate and relevant information to ensure that the suggested domain name is helpful.
-
-</thinking>
-
 # ecommerce_domain_name_suggestion_request - Help Guide
 ## Purpose
 This form is designed to provide information about an ecommerce store to suggest a suitable domain name.

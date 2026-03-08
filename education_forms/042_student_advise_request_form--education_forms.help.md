@@ -1,9 +1,3 @@
-<thinking>
-To avoid duplication, please only submit this form if you're a student looking for academic advise. This form is intended for internal use by the academic advisors at our institution. Please do not submit this form for other purposes.
-The form is designed to help students who are looking for academic advise on specific topics. If you're a student who needs guidance on a particular subject or field of study, this form will help you get in touch with our academic advisors who can provide you with personalized guidance and support.
-The form is not affiliated with any form platform, and the data collected will be used solely for internal purposes.
-</thinking>
-
 # Student Advise Request Form - Help Guide
 ## Purpose
 The Student Advise Request Form is designed to help students who are looking for academic advise on specific topics. This form is intended for internal use by the academic advisors at our institution.

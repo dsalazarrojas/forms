@@ -1,14 +1,3 @@
-<thinking>
-The form is intended to collect information from employees who have experienced an injury while working for the company. This form will help gather details about the injury, including the employee's name, email, and contact information, as well as the nature of the injury, the date and time it occurred, and any witness information. The purpose of this form is to ensure that the company is aware of any injuries that have occurred and can provide support and assistance as needed.
-
-Before completing this form, please ensure that you have not already submitted a declaration form for the same injury. If you have, do not submit another form.
-
-This form should be used for reporting work-related injuries only. If you have a work-related injury that occurred before starting work for the company, do not use this form to report it.
-
-Please be honest and accurate when completing this form, and include as much detail as possible about your injury.
-
-</thinking>
-
 # Injury Declaration Form - Help Guide
 ## Purpose
 The Injury Declaration Form is a tool used to report work-related injuries that have occurred while working for the company. This form is used to gather necessary information to ensure proper support and assistance are provided.

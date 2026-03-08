@@ -1,9 +1,3 @@
-<thinking>
-
-The "dental_patient_feedback_form" form is designed to gather feedback from patients about their dental experiences at a dentist's office. This form aims to collect quantitative and qualitative data to help dentists understand their patients' satisfaction levels and areas for improvement. It is recommended to use this form for routine follow-up purposes and to monitor the quality of care provided. Please be aware that this form has been designed to be adaptable and can be modified or extended according to your specific needs.
-
-</thinking>
-
 # dental_patient_feedback_form - Help Guide
 ## Purpose
 

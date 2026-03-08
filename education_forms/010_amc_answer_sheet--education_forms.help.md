@@ -1,8 +1,3 @@
-<thinking>
-The AMC Answer Sheet form is designed to collect student information and their answers to a series of questions. This form is used to track student progress and performance on assessments, likely in an educational setting. It is intended to be completed by students, and the form will ask for information such as student name, ID number, exam date, exam type, grade level, school name, and teacher or proctor name, as well as answers to 25 questions.
-Before filling out this form, please ensure you are using the correct questions and answers relevant to the assessment. Some questions may be specific to your exam or program, so please review the questions carefully.
-</thinking>
-
 # AMC Answer Sheet - Help Guide
 ## Purpose
 The AMC Answer Sheet form is designed to collect student information and their answers to a series of questions. This form is used to track student progress and performance on assessments, likely in an educational setting.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is for students to provide information about themselves so that instructors can plan and deliver music lessons tailored to their needs. This form is not meant to be a comprehensive assessment or evaluation tool. Each field is optional, allowing students to provide as much or as little information as they feel comfortable with.
-</thinking>
-
 # music_lesson_intake_form - Help Guide
 ## Purpose
 The music_lesson_intake_form is a questionnaire designed to collect information from students who want to schedule music lessons with an instructor. The form is meant to be a helpful way for students to communicate their needs and interests to the instructor before booking a lesson.

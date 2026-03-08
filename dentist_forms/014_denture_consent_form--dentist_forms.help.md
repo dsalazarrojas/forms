@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect consent information from patients, likely for denture procedures or treatment. This form appears to be used in the dental industry, and its fields are related to patient and dentist details. I will assume that the form is for use in a professional setting, possibly for medical or healthcare purposes. I will not assume any proprietary information or specific business logic, as the form is AI-generated. I will create a clear and concise help guide for end users.
-</thinking>
-
 # Denture Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent from patients for denture procedures or treatment. It contains fields for patient and dentist details.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used by child care centers to verify employment information of their employees or staff members. It is used to confirm their employment status, work schedule, and other relevant details. It's essential to complete this form accurately and thoroughly, as it helps the child care center understand the employee's availability and work arrangements.
-
-To ensure this form is completed correctly, please note that:
-
-- Some fields may be optional or required, depending on your situation. Make sure to review each page carefully for specific requirements.
-- The options provided are not definitive or exhaustive and may need to be adjusted according to your specific circumstances.
-- The form is designed to collect information from the employee, so please ensure that the employee has all necessary permissions to submit this form.
-
-</thinking>
-
 # Employment Verification Form For Child Care - Help Guide
 ## Purpose
 

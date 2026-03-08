@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for submitting late paperwork for various reasons such as leave requests or attendance. It is crucial to provide accurate information to ensure that the submitted paperwork is processed correctly. 
-
-**Please note that this form should only be completed once for each late paperwork submission. Duplicate or unnecessary submissions will not be processed.**
-
-</thinking>
-
 # Late Paperwork Submission Form - Help Guide
 ## Purpose
 This form is used to submit late paperwork for various reasons such as leave requests or attendance. It is essential to provide accurate information to ensure that the submitted paperwork is processed correctly.

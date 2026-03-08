@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect student preferences for class projects, allowing students to express their interests, skills, and needs for project selection. It aims to provide teachers with valuable insights to create inclusive and engaging learning experiences. This form should not be used to collect sensitive or personal information that could compromise student safety or confidentiality.
-
-</thinking>
-
 # Class Project Preference Poll - Help Guide
 ## Purpose
 The Class Project Preference Poll is a tool for students to express their preferences for upcoming class projects. By completing this form, students can indicate their interests, skills, and needs for project selection, allowing teachers to tailor project assignments to their abilities and interests.

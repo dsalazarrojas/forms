@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block is as follows:
-This form is used to document the completion of a student's school session. It captures essential information such as the school completion date, program ID, student ID, student name, school name, instructor name, re-enrollment date, grade level, student group, and student level. This form is designed to be completed by students or administrators to provide a formal record of a student's academic progress. Before starting, ensure that you are authorized to complete this form, as it may require specific permissions or access levels. Also, verify that you are not duplicating an already submitted form for the same student.
-
-</thinking>
-
 # Summer School Completion Discharge Form - Help Guide
 ## Purpose
 This form is used to record the completion of a student's school session. It ensures that the student's academic journey is properly documented and reported.

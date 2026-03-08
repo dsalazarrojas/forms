@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed to collect information from donors, ensuring that each field is filled correctly for accurate processing and follow-up. To prevent duplicates, the form will automatically check if an email address is already registered in our database. Each field is optional, allowing donors to fill in the information they wish to provide. The form's fields will be described below.
-</thinking>
-
 # Donor Information Form - Help Guide
 ## Purpose
 The Donor Information Form is a tool used to collect essential information from individuals who wish to donate. This form serves as a vital means of communication with our donors, allowing us to stay in touch and provide updates on their donation's progress.

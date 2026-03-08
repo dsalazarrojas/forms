@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block to check if the form is intended for vendor setup, if so we will proceed to create user-facing help guide.</thinking>
-
 # new_vendor_setup_form - Help Guide
 ## Purpose
 The **new_vendor_setup_form** is a form designed to collect information about new vendors. This form is used to register a new vendor and set up their account details. Please ensure that the form is filled out accurately and completely to avoid any issues with the vendor's account creation.

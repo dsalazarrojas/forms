@@ -1,5 +1,3 @@
-<thinking>...We are implementing a system to recognize and reward outstanding teachers, and this form is part of it. Please make sure you understand the purpose and requirements of this form. You are not allowed to nominate someone who has already been nominated. If you are not the teacher's department head or authorized representative, please do not submit a nomination. You can review the fields below to get started... </thinking>
-
 # Teacher Of The Week Nomination Form - Help Guide
 ## Purpose
 The Teacher Of The Week Nomination Form is designed to recognize and reward outstanding teachers who go above and beyond in their roles. This form allows you to nominate a teacher who deserves special recognition.

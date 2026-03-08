@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_learning_platform_beta_application - Help Guide
 
 ## Purpose

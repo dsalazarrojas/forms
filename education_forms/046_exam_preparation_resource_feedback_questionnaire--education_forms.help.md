@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback from students on the resources and materials provided for an exam preparation course. The goal is to identify the strengths and weaknesses of the course resources and provide a more effective learning experience for future students. 
-
-This form is not intended for non-students or staff members of the educational institution. Please ensure that you are a student of the institution before submitting feedback. 
-</thinking>
-
 # exam_preparation_resource_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students on the resources and materials provided for an exam preparation course. Your input will help improve the course resources and provide a more effective learning experience for future students.

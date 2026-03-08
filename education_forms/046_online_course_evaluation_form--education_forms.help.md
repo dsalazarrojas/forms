@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the quality and effectiveness of an online course. The form gathers user feedback on their experience with the course, providing valuable insights to the course creators and administrators. The form is designed to be simple and easy to navigate, with clear and concise questions that help users express their opinions.
-</thinking>
-
 # Online Course Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback on their experience with an online course. It is intended to provide valuable insights to the course creators and administrators to improve the course content, structure, and overall quality.

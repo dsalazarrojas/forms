@@ -1,8 +1,3 @@
-<thinking>
-This form, titled "Training Platform Usability Poll", is an assessment tool designed to collect feedback from users on various aspects of a training platform, including platform usability, content relevance, overall satisfaction, learning experience, platform improvement, and platform usability comments. This form was created using AI-generated metadata and is not affiliated with, endorsed by, or derived from any form platform. The form's purpose is to gather user opinions and suggestions to help improve the training platform.
-
-</thinking>
-
 # Training Platform Usability Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback on the usability, content, and overall satisfaction of a training platform.

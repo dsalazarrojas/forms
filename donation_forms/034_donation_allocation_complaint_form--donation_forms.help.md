@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about a donation complaint from a donor or recipient. The form is designed to be used when a donation has been misallocated, and the individual wants to report an issue regarding the allocation of the donation. This form is not meant for general feedback or inquiry about donations.
 
 To ensure that the form is being used correctly, please note that:

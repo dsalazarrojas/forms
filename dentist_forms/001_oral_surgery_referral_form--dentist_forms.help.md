@@ -1,8 +1,3 @@
-<thinking>
-This form is used for referring a patient to an oral surgery specialist. The form helps gather information about the patient's medical history, potential allergies, and the specific details of the planned surgery. The form also collects the patient's goals and consent for the procedure. The purpose of this form is to ensure that the oral surgery specialist has all the necessary information to provide safe and effective care for the patient. Before proceeding, please ensure that you have the necessary permissions and consents from the patient, and that the form is completed accurately and truthfully.
-
-</thinking>
-
 # Oral Surgery Referral Form - Help Guide
 ## Purpose
 This form is used to refer patients to an oral surgery specialist. It helps gather information about the patient's medical history, potential allergies, and the specifics of the planned surgery.

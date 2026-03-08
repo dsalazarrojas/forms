@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from college graduates for inclusion in the yearbook, a publication that showcases the graduates' achievements and milestones. The form is designed to collect essential details such as contact information, academic credentials, and post-graduation plans. It also requests permission for the use of the graduate's photo and for contact and media release. The form will help to create a comprehensive profile of each graduate, ensuring that they can be reached and featured in the yearbook and other college publications.
-</thinking>
-
 # College Graduates Content Request Form Template - Help Guide
 
 ## Purpose

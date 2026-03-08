@@ -1,11 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Academic Programme Suspension Request" form, let's consider the following:
-
-*   The form purpose is to collect information for an academic programme suspension request from students. This form is likely used by university administrators to gather necessary details for processing suspension requests.
-*   The form fields are designed to gather information about the student, such as their name, identification number, programme name, suspension start date, expected end date, reason for suspension, supporting documents, contact method during suspension, student signature, and submission date.
-
-</thinking>
-
 # Academic Programme Suspension Request - Help Guide
 ## Purpose
 This form is used by students to request suspension of their academic programme. It helps the university gather necessary information for processing the request.

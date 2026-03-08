@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scholarship_program_enrollment_form - Help Guide
 ## Purpose
 The scholarship program enrollment form is designed to provide students with a platform to enroll themselves in a program that suits their needs. This form is typically used by students to register for a program, and the collected information will be used to manage and track the status of their enrollment.

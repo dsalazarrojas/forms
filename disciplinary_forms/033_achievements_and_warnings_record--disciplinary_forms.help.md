@@ -1,9 +1,3 @@
-<thinking>... This form, titled "Achievements And Warnings Record," is designed to document notable events or actions taken by individuals in an organization, such as achievements or warnings. The purpose of this form is to create a centralized record of these events, providing a clear and concise account of what happened, who was involved, and what actions were taken or recommended.
-
-This form is intended to be completed by authorized personnel within the organization, typically managers, teachers, or others in positions of authority. To ensure data accuracy and consistency, it's essential to follow the guidelines outlined in this help guide.
-
-To complete this form, please follow the instructions below.</thinking>
-
 # Achievements And Warnings Record - Help Guide
 ## Purpose
 The "Achievements And Warnings Record" form is used to document notable events or actions taken by individuals in the organization, such as achievements or warnings. This form helps create a centralized record of these events, providing a clear and concise account of what happened, who was involved, and what actions were taken or recommended.

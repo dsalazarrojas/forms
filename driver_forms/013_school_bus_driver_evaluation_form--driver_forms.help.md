@@ -2,8 +2,6 @@
 ## Purpose
 This form is designed to collect feedback and evaluation of a school bus driver's performance. It is used by supervisors to assess the driver's skills, behavior, and overall effectiveness on the job.
 
-<thinking>This form is meant to be used during a regular evaluation of a school bus driver's performance. The form should only be used for this purpose and not for other types of evaluations or assessments. This form is not intended to be used for promotional or disciplinary purposes, but rather for developmental and feedback purposes.</thinking>
-
 ## How To Complete This Form
 
 1. Please fill out the form completely and accurately to ensure that the driver receives a fair and comprehensive evaluation.

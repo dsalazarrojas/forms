@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form is a dental treatment waiver, designed to collect information about a patient's general information, medical history, emergency contact, dentist authorization, submission, and patient signature. This form is likely to be used in a medical or dental clinic setting. To ensure that you are using the correct form, please check that your clinic has not already created a similar form, as this form is an original adaptation. If you are not sure, you can contact form@gic.mx for further clarification.
+> This form is a dental treatment waiver, designed to collect information about a patient's general information, medical history, emergency contact, dentist authorization, submission, and patient signature. This form is likely to be used in a medical or dental clinic setting. To ensure that you are using the correct form, please check that your clinic has not already created a similar form, as this form is an original adaptation. If you are not sure, you can contact form@gic.mx for further clarification.
 
 # Dental Treatment Waiver - Help Guide
 

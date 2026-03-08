@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their university history tournament entry. The form is likely used for academic or competitive purposes, such as recording participant data for a history tournament at a university. Before proceeding, ensure that you are not duplicating an existing entry or submitting unnecessary information. This form is intended to be filled out once per user.
-</thinking>
-
 # University History Tournament Entry Form - Help Guide
 ## Purpose
 The University History Tournament Entry Form is a data collection tool used to gather information from users about their university history tournament entry. This form is designed to record participant data for a historical tournament at a university.

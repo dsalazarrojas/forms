@@ -1,7 +1,3 @@
-<thinking>
-To ensure the Hiphop Dance Registration Form is filled out correctly, the form should only be completed by individuals who are registering their own crew for the dance competition. This form is intended to gather information about the crew members and their managers. Please note that all fields are optional, but providing accurate and complete information will help us to process your registration efficiently. Please make sure to review all fields carefully before submitting the form.
-</thinking>
-
 # Hiphop Dance Registration Form - Help Guide
 ## Purpose
 This form is for crew members and their managers to register for the Hiphop Dance Competition. Please fill out the form below to provide us with your crew's information and to indicate your acceptance of the terms and conditions of the competition.

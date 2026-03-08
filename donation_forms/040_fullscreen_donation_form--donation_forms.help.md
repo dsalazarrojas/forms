@@ -1,7 +1,3 @@
-<thinking>
-This block explains the purpose and checks for relevance and non-duplication of this form. The form is for collecting donations from users, and it appears to be a general donation form with various fields for capturing information about the donation. There are no obvious duplication or conflicts with other forms in the provided YAML configuration. The form seems to be designed for collecting donations of various types and frequencies, and it also captures contact information and comments. This form does not appear to be related to any specific internal processes or workflows, so it can be assumed that it is for external use by customers or users.
-</thinking>
-
 # fullscreen_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donations from users, providing an opportunity for them to contribute to your cause or project. It allows users to choose the amount and type of donation they wish to make, as well as specify any additional details such as phone number, email, and comments.

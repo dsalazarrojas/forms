@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Daycare Cleaning Checklist" form is to provide an assessment of the cleanliness and organization of a daycare facility. This form is used to evaluate the cleanliness and organization of various areas within the facility, including facilities, bathrooms, kitchen, toys and toys box, trash, floors, walls, windows, doors, furniture, toys and activities, toys and games, storage, outdoor areas, playground, and other areas. This form helps identify areas that require improvement and ensures the facility is safe and healthy for children.
-</thinking>
-
 # Daycare Cleaning Checklist - Help Guide
 ## Purpose
 The Daycare Cleaning Checklist is a form used to assess the cleanliness and organization of various areas within a daycare facility. It is used to identify areas that require improvement and to ensure the facility is safe and healthy for children.

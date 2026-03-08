@@ -1,14 +1,3 @@
-<thinking> 
-To ensure we're on the same page, let's break down the purpose and relevance of this form. The University Accreditation Review Evaluation Form is designed to collect information for a university's accreditation review process. This process typically involves evaluating a university's compliance with certain standards or criteria set by an accrediting agency. The form will be filled out by individuals involved in the review process, such as committee members, university representatives, or department chairs.
-
-Given the structure of the form, it's likely that the reviewers will be providing feedback on the university's accreditation status, including the type of review, the date and time of submission, the status of the evaluation, and any recommendations or comments.
-
-The purpose of this form is to ensure that all relevant information is collected and recorded in a consistent and organized manner. This will facilitate the evaluation process and ensure that all stakeholders are aware of the current accreditation status.
-
-To avoid duplication of effort, it's essential to follow the same process for every submission. This form provides a standardized template for reviewers to use, reducing errors and confusion.
-
-</thinking>
-
 # University Accreditation Review Evaluation Form - Help Guide
 ## Purpose
 The University Accreditation Review Evaluation Form is designed to collect information for a university's accreditation review process.

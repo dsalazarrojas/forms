@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Call For Case Studies - Help Guide
 
 ## Purpose

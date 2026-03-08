@@ -1,16 +1,3 @@
-<thinking>
-This form is likely used for collecting feedback on tutoring services within the education sector. The form may be part of a larger system for managing tutoring services, allowing administrators or educators to capture feedback, comments, or suggestions from users. It's possible that this form is used for both internal and external stakeholders, such as students, parents, or other tutors. 
-The form purpose could be to:
-
-- Gather feedback on tutoring performance, quality, and effectiveness
-- Identify areas of improvement for the tutoring service
-- Collect suggestions for new services or service enhancement
-- Monitor progress and track changes over time
-- Support data-driven decision-making in the education sector
-
-To avoid duplication, this form should be used for a specific purpose and not for general comments or discussions. 
-</thinking>
-
 # Tutoring Services Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on tutoring services within the education sector. It helps administrators or educators gather valuable insights to improve the quality and effectiveness of their services.

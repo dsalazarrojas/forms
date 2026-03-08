@@ -1,14 +1,3 @@
-<thinking>
-This form is used to document and record incidents that may have led to a student being given a warning. The purpose of this form is to ensure that all relevant details and actions taken are documented accurately and consistently. Please complete this form only for incidents that have occurred and not for hypothetical or past events.
-
-Before starting, please ensure that you have not already filled out this form for the same incident. To check, please review your previous submissions or ask your supervisor/department head if you're unsure.
-
-This form consists of multiple pages with various fields that need to be filled out. The fields are designed to gather specific information related to the incident and the actions taken. Each field is explained below in detail.
-
-Please note that all fields are optional, but it is essential to fill out as much information as possible to ensure a thorough documentation of the incident.
-
-</thinking>
-
 # demerit_warning_form - Help Guide
 ## Purpose
 This form is used to document and record incidents that may have led to a student being given a warning.

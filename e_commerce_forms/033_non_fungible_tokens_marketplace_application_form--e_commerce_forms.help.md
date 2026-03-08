@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from artists and creators who want to be part of a Non Fungible Tokens (NFT) marketplace. The form is used to gather essential details about the artist, their artwork, and their experience with NFTs. The purpose is to onboard artists into the marketplace, ensuring they are aware of and agree to the terms of use.
-</thinking>
-
 # Non Fungible Tokens Marketplace Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to gather information for donation purposes from individuals interested in supporting the Rehabilitation Center, ensuring that the information provided is accurate and secure. To prevent duplication, the system checks for existing donations from the same donor before allowing a new submission.
 
 </thinking>

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students related to their graduation. It is intended to be completed by students themselves, and the data collected will be used to update their status in the university's records. To ensure accuracy, please fill out this form carefully and truthfully. If you have any issues or concerns, please contact the relevant authorities.
-
-</thinking>
-
 # graduation_application_declaration_form - Help Guide
 ## Purpose
 The Graduation Application Declaration Form is a document used to declare a student's graduation status. It is a required form for students who have completed their academic program and wish to update their status in the university's records.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from parents regarding their experience with distance learning, a method of education that allows students to learn remotely. This form is designed to capture their thoughts, suggestions, and concerns about the effectiveness and overall quality of the distance learning experience. By gathering this information, educators and administrators can identify areas of improvement and make data-driven decisions to enhance the distance learning experience for all students.
-
-To ensure we don't duplicate effort, it's essential to only complete this form once after each session or course.
-
-</thinking>
-
 # Distance Learning Feedback Form For Parents - Help Guide
 ## Purpose
 The Distance Learning Feedback Form For Parents is a tool used to gather feedback from parents about their experience with distance learning.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their guardians about their educational status and background. The form is intended to gather demographic data, such as student names and emails, guardians' names and emails, and relevant dates. This information will help the educational institution understand the student body better. It's essential to fill out this form accurately and thoroughly to ensure that the institution can effectively provide support and services to the students.
-
-Before proceeding, please check if this form has been filled out by you or your family member in the past. If it has, please do not fill it out again to prevent duplication of data.
-</thinking>
-
 # school-enrollment-survey - Help Guide
 ## Purpose
 The "School Enrollment Survey" is a form designed to collect demographic information from students and their guardians to help the educational institution understand the student body better.

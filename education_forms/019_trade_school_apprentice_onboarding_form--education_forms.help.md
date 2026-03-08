@@ -1,7 +1,3 @@
-<thinking>
-The Trade School Apprentice Onboarding Form is designed to collect information from new apprentices who have been accepted into the trade school program. This form is used to gather details about the apprentice's program details, student information, contact information, education history, personal details, employment status, training details, emergency contact, and other relevant information. This form is intended to be completed by the apprentice during the onboarding process. Please ensure that all relevant fields are filled in accurately and completely.
-</thinking>
-
 # Trade School Apprentice Onboarding Form - Help Guide
 ## Purpose
 The Trade School Apprentice Onboarding Form is designed to collect information from new apprentices who have been accepted into the trade school program. This form is used to gather details about the apprentice's program details, student information, contact information, education history, personal details, employment status, training details, emergency contact, and other relevant information. 

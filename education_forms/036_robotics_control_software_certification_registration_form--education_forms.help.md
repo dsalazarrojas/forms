@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed to register individuals or entities for the Robotics Control Software Certification, which is likely a professional certification program related to robotics control software. The form likely aims to collect relevant information about the candidate, including their contact details, robot-related information, and certification specifics. To ensure accurate and consistent data collection, it is essential to follow the instructions carefully and ensure that the form is filled out by the correct individuals or entities.
-
-The form seems to be designed for a specific audience, such as robotics professionals or researchers, and it is likely that the information collected will be used for certification purposes, such as verifying the expertise of individuals or entities in robotics control software.
-
-Before proceeding, please review the form requirements to avoid duplication of efforts or registration of incorrect individuals/entities.
-
-</thinking>
-
 # Robotics Control Software Certification Registration Form - Help Guide
 ## Purpose
 The Robotics Control Software Certification Registration Form is designed to register individuals or entities for the Robotics Control Software Certification, a professional certification program that verifies expertise in robotics control software.

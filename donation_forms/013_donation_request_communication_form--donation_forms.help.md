@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for users to communicate their requests for donations to the organization. The form is designed to collect basic contact information and specific details about the donation request. 
 
 To ensure that you are using the correct form, please note that this form is specifically for requesting donations and not for other types of communication. If you are unsure, please refer to the organization's donation policy for more information.

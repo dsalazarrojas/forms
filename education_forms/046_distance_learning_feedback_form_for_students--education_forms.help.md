@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect feedback from students about their distance learning experience. This form is designed to gather honest opinions and suggestions for improvement. It is essential that the form is clear and easy to understand to ensure students provide valuable feedback. To avoid duplicate or misleading information, please ensure that all required fields are filled out accurately and completely. If you have any questions or concerns, please do not hesitate to reach out to us.
-</thinking>
-
 # Distance Learning Feedback Form For Students - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their distance learning experience. Your opinions and suggestions will help us improve our programs and services.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, the "ocean_geography_quiz", is intended for educational purposes, allowing users to test their knowledge on geographical information related to oceans. The form is designed to be interactive, providing a series of questions that assess the user's understanding of various aspects of ocean geography. The form is likely to be used in academic settings or by educational institutions to evaluate students' understanding of this subject matter.
-
-To prevent potential duplication or unnecessary use, the form's design is focused on ensuring that users understand each field's purpose and the correct way to complete it. 
-
-</thinking>
-
 # ocean_geography_quiz - Help Guide
 ## Purpose
 The "ocean_geography_quiz" form is designed to test users' knowledge on geographical information related to oceans. It is meant for educational purposes, typically used in academic settings or by educational institutions to assess students' understanding of this subject matter.

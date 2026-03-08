@@ -1,9 +1,3 @@
-<thinking>
-The form is used to collect information from potential applicants for admission to the Informatics Institute. The form is intended to gather relevant details about the applicant, including their first name, last name, email, phone number, academic program of interest, date of birth, time of birth, address, education background, and work experience. This information is necessary for the Institute to assess the applicant's qualifications and suitability for admission. 
-
-Please note that the form is designed to be filled out by individuals who are interested in applying to the Informatics Institute. If you are filling out this form and you are not applying to the Institute, please do not submit it. Thank you for your understanding.
-</thinking>
-
 # informatics_institute_application_form - Help Guide
 ## Purpose
 The form is used to collect information from potential applicants for admission to the Informatics Institute. 

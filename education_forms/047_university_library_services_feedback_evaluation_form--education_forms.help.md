@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the University Library services. The form will ask users to evaluate their satisfaction with the services provided and suggest areas for improvement.
-</thinking>
-
 # university_library_services_feedback_evaluation_form - Help Guide
 ## Purpose
 The University Library services feedback evaluation form is designed to help us understand how effective our services are in meeting your needs. Your responses will help us improve our services and make them better for everyone.

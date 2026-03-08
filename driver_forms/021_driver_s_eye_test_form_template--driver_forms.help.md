@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Driver's Eye Test Form Template - Help Guide
 
 ## Purpose

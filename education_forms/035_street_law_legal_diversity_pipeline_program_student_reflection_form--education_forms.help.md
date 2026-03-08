@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect student reflections on the Street Law Legal Diversity Pipeline Program. It appears to be a part of a larger program aimed at promoting diversity and inclusion. This form likely serves as a tool for students to share their thoughts, experiences, and insights on the program's impact and importance. 
-
-Before filling out this form, ensure that you have a clear understanding of the program's goals and objectives. The form is likely used by program administrators or instructors to assess student engagement and feedback.
-
-This guide will walk you through the process of completing the form and explain each field's purpose.
-
-</thinking>
-
 # street_law_legal_diversity_pipeline_program_student_reflection_form - Help Guide
 ## Purpose
 The Street Law Legal Diversity Pipeline Program Student Reflection Form is designed to gather student feedback on the program's effectiveness, impact, and areas for improvement. This form is typically used by program administrators to assess student engagement and gather insights that inform future program development.

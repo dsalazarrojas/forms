@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from individuals taking a veterinary science exam. The form is used to ensure that the exam process is efficient and accurate. To avoid duplication, please fill out this form only if you have not already done so. The form is intended to gather basic contact information, exam details, and a note if necessary. Please ensure you have the necessary permissions and approvals before submitting this form.</thinking>
-
 # Veterinary Science Exam Form - Help Guide
 ## Purpose
 The Veterinary Science Exam Form is designed to collect information from individuals taking a veterinary science exam. This form is used to ensure that the exam process is efficient and accurate.

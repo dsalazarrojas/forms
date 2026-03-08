@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for educators interested in joining the Global Educators Book Club. Its purpose is to collect registration information from potential members. The form is not a mandatory registration process; it is rather a way for educators to express their interest in joining the book club and provide essential details for the club organizers to get in touch with them. It's essential to ensure that the form's fields accurately represent the educators' preferences and availability.
-
-The form can be completed online, and the data collected will be used for internal purposes only, such as contacting the educators for further information or sending them updates about club activities.
-
-This guide will walk through each field step-by-step to help educators understand how to fill it out accurately.
-
-</thinking>
-
 # Global Educators Book Club Registration - Help Guide
 ## Purpose
 The Global Educators Book Club Registration form is a simple online form used to collect information from interested educators. It's a non-mandatory registration process that allows you to express your interest in joining the club and provide details about your preferences and availability.

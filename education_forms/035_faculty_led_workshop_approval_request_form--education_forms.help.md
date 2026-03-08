@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Faculty Led Workshop Approval Request Form" is to enable faculty members to propose and request approval for workshops they wish to lead or organize in their department. This form serves as a formal means of communicating their request to the relevant authorities, including details about the workshop's title, description, location, date, and other essential information. 
-This form should only be used for new workshops that have not been previously approved or proposed. If a workshop has already been approved or proposed, please use the existing approval process.
-</thinking>
-
 # Faculty Led Workshop Approval Request Form - Help Guide
 
 ## Purpose

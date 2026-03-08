@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from remote village outreach donors to understand their donation preferences and history. The goal is to streamline the donation process and improve the efficiency of remote village outreach efforts. This form is used in conjunction with other forms and internal systems to track donations and analyze trends. Please review and complete the form carefully, ensuring that all fields are filled out accurately and relevant to your donation preferences.
-</thinking>
-
 # Remote Village Outreach Donation Form - Help Guide
 
 ## Purpose

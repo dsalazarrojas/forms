@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to collect information about an individual's background and preferences. It's likely used in an educational or research setting to gather data for various purposes, such as surveying student or customer demographics. The form asks for personal details like name, birth date and place, favorite colors, and parents. It also inquires about favorite foods, animals, sports, historical periods, figures, books, movies, music, games, and hobbies. The fields are a mix of multiple and single select options, which means some questions allow the user to choose multiple answers while others require only one. The form does not ask for any sensitive or financial information, so it's probably not related to payment or billing information.
-</thinking>
-
 # Costume History Assessment - Help Guide
 ## Purpose
 This form is used to collect information about an individual's background, preferences, and interests.

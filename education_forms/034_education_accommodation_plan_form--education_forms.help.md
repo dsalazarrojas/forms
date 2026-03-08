@@ -1,9 +1,3 @@
-<thinking>
-The Education Accommodation Plan Form is used to gather information about a student's support needs and accommodations required to support their education. The form is designed to be filled out by a school administrator or staff member who has knowledge of the student's individual circumstances. The form should not be filled out by the parent or guardian as the questions are intended to be answered based on the student's current situation, not on parental perspective.
-The form is not meant to be a one-size-fits-all solution and should be adapted based on individual student's needs. The fields in the form should be used to gather specific information about the student's requirements and circumstances.
-Before filling out this form, please ensure that you have the student's consent and that the form is filled out based on your observation of the student's needs.
-</thinking>
-
 # Education Accommodation Plan Form - Help Guide
 ## Purpose
 The Education Accommodation Plan Form is used to gather information about a student's support needs and accommodations required to support their education.

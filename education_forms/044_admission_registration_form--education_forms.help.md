@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Admission Registration Form - Help Guide
 
 ## Purpose

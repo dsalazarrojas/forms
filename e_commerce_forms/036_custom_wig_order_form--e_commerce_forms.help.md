@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect order information from customers for custom wig orders. It's intended for customers to provide their contact and order details. Each field is essential to gather specific information from the customers to fulfill their requests accurately. Please ensure that the form is filled out entirely and correctly, as missing or incorrect information may lead to delays or cancellations of the order.
-</thinking>
-
 # Custom Wig Order Form - Help Guide
 ## Purpose
 The Custom Wig Order Form is designed to collect information from customers to create a custom wig that meets their requirements and preferences.

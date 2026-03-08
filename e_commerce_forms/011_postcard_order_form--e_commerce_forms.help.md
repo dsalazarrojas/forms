@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to place an order for a postcard, selecting a product, specifying the quantity, and making a payment method choice. This form is likely used in an online store or retail setting where customers can browse and purchase postcards with different designs or content. The form does not require any payment to be made, so customers can fill it out without committing to a purchase.
-
-This form does not duplicate any other forms in the system as it is a unique and specific product purchase form.
-</thinking>
-
 # postcard_order_form - Help Guide
 ## Purpose
 This form allows customers to place an order for a postcard by selecting the product, specifying the quantity, and making a payment method choice.

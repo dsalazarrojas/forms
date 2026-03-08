@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a basic, five-page text input form with no conditional logic or advanced features. The form's purpose is likely to collect general information or feedback from users. However, without more information about the form's intended use case or business logic, it's difficult to provide a more specific explanation.
-
-To ensure that this form is not duplicated or used for spam/scam purposes, please note that this form does not store any personally identifiable information (PII) and is only meant for public use. The form's title is the only variable input field, suggesting it may be used for branding or labeling purposes.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 

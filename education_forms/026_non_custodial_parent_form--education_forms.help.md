@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for the "Non Custodial Parent Form" to assist end-users in completing the form accurately and efficiently. This form is designed to collect information about non-custodial parents, and it's essential to ensure that users understand its purpose and the fields required to complete it.
-
-To avoid duplication, we will check if a similar form already exists in our system. If it does, this form will only be used to update or modify existing information. This form is not intended for initial creation of new non-custodial parent records.
-
-The form has three main sections: Custodial Parent 1, Custodial Parent 2, and Non-Custodial Parent. Each section contains various fields that require information about the custodial and non-custodial parents. The Non-Custodial Parent section has a specific reason field where you can select from pre-defined options or provide a custom reason if needed.
-
-Before starting, please ensure that you have all the necessary information about the custodial and non-custodial parents. This guide will walk you through each field and its purpose to help you complete the form correctly.</thinking>
-
 # Non Custodial Parent Form - Help Guide
 ## Purpose
 The Non Custodial Parent Form is used to collect information about non-custodial parents, allowing you to update or modify existing records in our system. Please ensure that you have all necessary information before completing this form.

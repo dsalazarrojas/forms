@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from individuals who interact with students in Moore Hall, likely for administrative or research purposes. This form appears to be a log of various interactions with students, including notes from prophets and sages, goals and outcomes, and other relevant information. It seems to be an internal tool for tracking and record-keeping. There might be some redundancy in fields, but it's essential to ensure that the form serves its intended purpose and provides accurate information.
-</thinking>
-
 # moore_hall_duty_log - Help Guide
 ## Purpose
 The purpose of this form is to collect data from individuals who interact with students in Moore Hall. This data is likely used for administrative or research purposes.

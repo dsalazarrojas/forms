@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users input their sandwich order preferences for delivery. The form allows users to select the type of bread, dietary restrictions, special requests, extra items, and side dishes they would like. The goal is to gather information about the user's preferences to create a customized sandwich order that meets their needs. This form is not intended to be used for non-delivery purposes.
-</thinking>
-
 # Sandwich Order Form Template - Help Guide
 ## Purpose
 This form is designed to gather information from users about their sandwich order preferences for delivery purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the "Support Local Agriculture Initiative" program. The purpose of this form is to gather data from users to better understand their interests and preferences for supporting local agriculture. The form will help us understand whether users are willing to volunteer for the initiative, their pledge amount, preferred donation methods, contact information, and specific volunteer types. Please ensure that you have read through the entire form before proceeding.
-</thinking>
-
 # Support Local Agriculture Initiative - Help Guide
 ## Purpose
 This form collects information from users to support the "Local Agriculture Initiative". It's essential to complete this form accurately to help us understand your interests and preferences.

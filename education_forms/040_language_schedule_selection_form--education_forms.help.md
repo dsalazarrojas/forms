@@ -1,7 +1,3 @@
-<thinking>
-The language schedule selection form is used to collect information from students regarding their preferred language schedule for a course. This form is used to gather data for scheduling purposes. It is not a payment or transactional form. Please make sure you are on the correct form.
-</thinking>
-
 # Language Schedule Selection Form - Help Guide
 ## Purpose
 The Language Schedule Selection Form is a tool for students to select their preferred language schedule for a course. It is used to gather information for scheduling purposes.

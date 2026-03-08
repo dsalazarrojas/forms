@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their interest in extracurricular activities offered by the school. The form is divided into several sections, including clubs, sports, and enrichment activities. The purpose of this form is to help the school administration understand student interest and preferences for these activities, which can inform decisions about which activities to offer and when to schedule them.
-</thinking>
-
 # School Extracurricular Interest Poll Form - Help Guide
 ## Purpose
 This form is designed to collect information from students about their interest in various extracurricular activities offered by the school, including clubs, sports, and enrichment activities.

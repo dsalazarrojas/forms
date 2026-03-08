@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for obtaining consent from parents or guardians for their child(ren) to participate in educational activities. It's essential to fill out this form accurately and completely to ensure the necessary permissions and information are collected. Please make sure to fill out this form only once for each child and not duplicate any information. If you're unsure about any field or its purpose, review this guide carefully before proceeding.
-</thinking>
-
 # virtual_school_consent_form - Help Guide
 ## Purpose
 The virtual_school_consent_form is used to collect consent from parents or guardians for their child(ren) to participate in educational activities.

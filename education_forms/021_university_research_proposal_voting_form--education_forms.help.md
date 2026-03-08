@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for evaluating and voting on research proposals submitted by university faculty members. This guide is intended for end-users who need to understand how to fill out this form correctly. Please ensure that you have read and understood the form's purpose before proceeding.
-</thinking>
-
 # University Research Proposal Voting Form - Help Guide
 ## Purpose
 The University Research Proposal Voting Form is used to evaluate and vote on research proposals submitted by university faculty members. This form is intended to gather evaluations and scores from research committees for each proposal.

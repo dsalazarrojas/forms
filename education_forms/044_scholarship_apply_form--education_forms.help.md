@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only used for its intended purpose and to prevent duplication of efforts. The scholarship application form is designed to collect information from students applying for a scholarship. To prevent misuse, we should check if the user has already submitted an application or if the current form is not for a specific type of scholarship.
-</thinking>
-
 # Scholarship Apply Form - Help Guide
 ## Purpose
 This form is used for students to submit their application for a scholarship. Please fill out this form carefully and honestly to ensure your chances of receiving the scholarship.

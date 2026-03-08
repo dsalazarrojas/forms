@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to generate leads for language school events, aiming to capture essential information from potential students or language learners about their experience and interests. The primary goal is to provide a clear and concise way for event organizers to understand the demographics and needs of their target audience, helping to tailor their marketing strategies accordingly. Before proceeding, ensure this form is not a duplicate submission; each user should only submit once.
-
-</thinking>
-
 # language-school-education-expo-lead-generation-form - Help Guide
 ## Purpose
 

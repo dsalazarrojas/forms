@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to support end users in completing the Halloween Pre Order Form. The form is meant to collect information from customers for a Halloween-themed pre-order, and it is expected to be completed by a customer. The form should not be completed by a system or internal employee, unless it is absolutely necessary. The form has multiple fields, including text, email, number, select, date, time, note, and text fields. Some fields are required and some are not. The fields include:
-- Customer name
-- Shipping address
-- Customer email address
-- Product quantity
-- Product price
-- Product type (select from T-Shirt, Tote Bag, or Mug)
-- Order date
-- Order time
-- Special instructions (optional)
-- Customer phone number
-
-Please note that the form is not meant for internal use and is intended for external customers. Also, the form fields should be completed accurately and honestly to ensure successful and accurate order fulfillment.</thinking>
-
 # Halloween Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for a Halloween-themed pre-order. It includes fields for customer information, shipping details, product preferences, and special instructions.

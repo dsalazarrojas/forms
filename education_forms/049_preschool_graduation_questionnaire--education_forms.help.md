@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect data on a student's progress and assessment at the end of a preschool program, gathering feedback and ratings from teachers and parents to help educators and administrators make informed decisions about the student's development and future recommendations.
-
-To complete this form, the user will need to provide information for each section, ensuring that all required fields (Student ID, Date of Graduation Assessment, Graduation Date, Student Feedback, Teacher Feedback, Student Rating, Teacher Rating) are filled out accurately and thoroughly. Some fields, such as Teacher Assessment, Parent Feedback, and Teacher Recommendation, are optional and can be skipped or left blank if not applicable.
-
-</thinking>
-
 # Preschool Graduation Questionnaire - Help Guide
 ## Purpose
 The Preschool Graduation Questionnaire is a form used to collect data on a student's progress and assessment at the end of a preschool program.

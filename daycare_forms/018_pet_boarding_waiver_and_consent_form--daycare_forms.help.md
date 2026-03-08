@@ -1,10 +1,3 @@
-<thinking>
-This form is used by pet owners to provide information about their pet and authorize its boarding and care in case of an emergency. 
-The form is intended to be filled out by pet owners before their pets are boarded at a facility. 
-It is a waiver and consent form, so it's essential to fill it out carefully and accurately. 
-
-</thinking>
-
 # Pet Boarding Waiver And Consent Form - Help Guide
 ## Purpose
 The Pet Boarding Waiver And Consent Form is a document that allows pet owners to provide essential information about their pet, including medical conditions, contact information, and emergency contact details. This form is used to ensure that the pet is properly cared for and that the owner's wishes are respected in case of an emergency.

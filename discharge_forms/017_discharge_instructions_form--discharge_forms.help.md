@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this discharge instructions form, it is essential to understand that it is used to record and document information related to a patient's discharge from a healthcare facility. This form typically captures details about the patient, such as their name, contact information, and medication-related data. The form is designed to ensure a smooth transition of care and follow-up for the patient after discharge.
-</thinking>
-
 # Discharge Instructions Form - Help Guide
 ## Purpose
 This form serves as a tool for healthcare providers to document and share essential information with patients about their care and follow-up instructions after discharge from the hospital.

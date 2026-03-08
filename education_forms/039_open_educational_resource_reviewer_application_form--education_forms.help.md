@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to review open educational resources. The form is intended for internal use by educators and administrators within the organization. Please ensure you are filling out this form to provide accurate and relevant information. Before proceeding, ensure that you are not duplicating efforts with other reviewers.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

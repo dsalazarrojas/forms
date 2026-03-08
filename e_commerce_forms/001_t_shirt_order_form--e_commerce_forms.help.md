@@ -1,7 +1,3 @@
-<thinking>
-The form is used to process orders for custom t-shirts. This information is not publicly available and is only meant to guide the end user who needs to fill out this form. This form does not process duplicate orders. The fields on this form are meant to be used to get information from the customer and process the payment.
-</thinking>
-
 # T Shirt Order Form - Help Guide
 ## Purpose
 This form is used to process orders for custom t-shirts. The customer can choose their t-shirt size, payment method, and shipping details.

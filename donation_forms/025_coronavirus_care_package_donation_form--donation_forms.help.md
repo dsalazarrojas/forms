@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coronavirus Care Package Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals or organizations interested in donating care packages to people affected by the COVID-19 pandemic. The form helps to track donor details, order information, and payment details in a secure and organized manner.

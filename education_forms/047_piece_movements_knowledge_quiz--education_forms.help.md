@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Piece Movements Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of chess piece movements. It consists of a set of questions that cover various aspects of chess piece movements, including which piece moves first, their movement range, and more.

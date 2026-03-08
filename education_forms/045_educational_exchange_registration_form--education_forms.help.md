@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for students to register for an educational exchange program. The form collects information about the student's personal details, academic program, and exchange institution information. The form is designed to be completed by students to initiate the exchange process.
-
-This guide will walk you through the form fields and provide explanations for each section to help users complete the form accurately.
-
-</thinking>
-
 # Educational Exchange Registration Form - Help Guide
 ## Purpose
 The educational exchange registration form is used to collect information from students participating in an educational exchange program. The form helps to gather necessary details to facilitate the exchange process.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Summer School Enrollment Form is used correctly and efficiently, please note that this form is designed to gather information from both students and their parents/guardians for the purpose of enrolling students in summer school programs. This form is not meant to be used for other purposes, such as general feedback or support requests. Please ensure that you are completing this form for the correct reason and have the necessary permissions to do so. Additionally, please review your answers carefully and ensure that you are providing accurate and complete information, as this form will be used to create important documentation for the summer school program.
-</thinking>
-
 # Summer School Enrollment Form - Help Guide
 ## Purpose
 The Summer School Enrollment Form is used to gather information from students and their parents/guardians for the purpose of enrolling them in summer school programs. This form helps us understand the student's interests, availability, and other relevant details to provide the best possible experience for them during the program.

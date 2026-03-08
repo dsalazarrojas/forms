@@ -1,7 +1,3 @@
-<thinking>
-This form is used for partners to submit an application for an e-commerce data science partnership. The form should only be completed by authorized partners, and the purpose is to gather relevant information for internal review and evaluation. It's recommended that users only complete this form if they have a genuine interest in partnering with your organization for e-commerce data science purposes. Please do not submit duplicate applications or applications with incomplete information.
-</thinking>
-
 # e_commerce_data_science_partnership_application_form - Help Guide
 ## Purpose
 The e_commerce_data_science_partnership_application_form is a document used to collect information from partners interested in collaborating with your organization for e-commerce data science projects. This form helps to gather essential details about the partner, their product, and the partnership request.

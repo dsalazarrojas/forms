@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test a student's knowledge of grammar rules related to classroom objects, including articles, plural forms, prepositions, and countability. The quiz will help identify areas where students need improvement. The form includes fields for student information, class section, date, quiz instructions, multiple choice questions, and an option for feedback.
-</thinking>
-
 # Classroom Objects Grammar Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of grammar rules related to classroom objects.

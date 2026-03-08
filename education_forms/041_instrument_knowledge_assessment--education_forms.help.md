@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for assessing an individual's knowledge of a music instrument. It is likely used in a music education or music-related setting. There might be multiple instances of this form in the same application, so ensure to check if the form has already been filled by the user before proceeding.
-</thinking>
-
 # Instrument Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess a user's knowledge and experience with musical instruments. It collects information about their familiarity with various aspects of music, including the instrument they play, their experience with it, and their ability in specific skills such as theory and performance.

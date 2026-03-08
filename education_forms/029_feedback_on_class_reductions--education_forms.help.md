@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect feedback from instructors and administrators on class reductions, providing a way to document and address concerns about classes that have been reduced in size due to various reasons. This form will help in analyzing the effectiveness of class size reduction policies and identify areas for improvement. It is essential to complete this form accurately and thoroughly to ensure that the feedback is helpful and actionable.
-
-Please ensure that you have a clear understanding of the purpose and context of this form before proceeding. If you have already provided feedback on a class reduction, please do not submit duplicate feedback.
-
-Before filling out this form, consider the following:
-
-* Be specific about the class reduction you are referring to
-* Provide clear and concise feedback
-* Avoid using jargon or technical terms that may be difficult to understand
-
-</thinking>
-
 # Feedback On Class Reductions - Help Guide
 
 ## Purpose

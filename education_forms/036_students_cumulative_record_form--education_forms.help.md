@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect and document information about students, including their name, student ID, grade level, student grade, courses, term start and end dates, note, email, and contact phone number. The form helps in maintaining a record of students' cumulative data which is crucial for student tracking and assessment. 
-
-To ensure accurate and comprehensive data collection, it's essential to fill out all required fields and ensure consistency with actual student information.
-
-</thinking>
-
 # Students Cumulative Record Form - Help Guide
 ## Purpose
 This form is used to collect and document information about students, including their name, student ID, grade level, student grade, courses, term start and end dates, note, email, and contact phone number. The form helps in maintaining a record of students' cumulative data which is crucial for student tracking and assessment.

@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's analyze the form schema to ensure we understand its purpose and the information it collects. This form seems to be a service request form for a college or university setting, where users can submit requests for various types of services such as maintenance, facilities, technology, and catering support. The form collects information about the requestor, the service requested, and the details of the service needed. It also includes fields for contact information, estimated budget, and approval status.</thinking>
-
 # College Service Request Form - Help Guide
 ## Purpose
 This form is used to submit a service request to the college or university administration. It collects information about the requestor, the type of service requested, and the details of the service needed.

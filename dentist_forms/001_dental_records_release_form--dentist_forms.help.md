@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients for the release of their dental records. The purpose of this form is to ensure that patients have provided their consent for the release of their dental records and that the release is done in accordance with relevant medical regulations.
-
-The form collects information about the patient, their medical history, medical procedures, allergies, medications, medical records, and other relevant details. This information will be used to ensure that the patient's dental records are released accurately and securely.
-
-To avoid any potential issues with duplicate or incorrect submissions, please make sure to fill out the form carefully and accurately. If you have any questions or concerns, please do not hesitate to contact us.
-
-</thinking>
-
 # Dental Records Release Form - Help Guide
 ## Purpose
 The Dental Records Release Form is designed to collect information from patients for the release of their dental records.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information about the learning experience from both students and teachers. It is used to gather insights into how the learning process is going, what students have achieved, and what areas for improvement exist. This form should only be filled out by students and teachers who have participated in a learning experience, such as a course, workshop, or seminar. 
-
-</thinking>
-
 # Learning Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and information about the learning experience from both students and teachers. It is used to gather insights into how the learning process is going, what students have achieved, and what areas for improvement exist.

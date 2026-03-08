@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's working status, nationality, and place of residence. The form consists of multiple pages with various fields, including select_one, select_multiple, and date fields. The purpose of this form is to collect data on an individual's working status, nationality, and place of residence in different contexts. Before filling out this form, please review the instructions carefully to ensure you understand the purpose and requirements of each field. If you are unsure about any field, please ask for clarification. Note that this form is not designed for emergency or urgent situations, and the information collected will not affect your immediate work or personal status. The information collected will be used for administrative or organizational purposes only.
-</thinking>
-
 # Working Declaration Form - Help Guide
 ## Purpose
 The Working Declaration Form is designed to collect information about an individual's working status, nationality, and place of residence. The form is intended for administrative or organizational purposes and will not affect your immediate work or personal status.

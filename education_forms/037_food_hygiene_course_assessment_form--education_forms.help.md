@@ -1,7 +1,3 @@
-<thinking>...checking the provided YAML fields and form structure to create an informative and user-friendly help guide...
-
-The "Food Hygiene Course Assessment Form" is used to evaluate the knowledge and skills of individuals who have attended a food hygiene course. It appears that the form is used to gather feedback or assessment of the course content, effectiveness, and overall experience. This form is likely used by course organizers or instructors to evaluate the course's progress and make improvements for future sessions.</thinking>
-
 # Food Hygiene Course Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and assessment of the food hygiene course content, effectiveness, and overall experience.

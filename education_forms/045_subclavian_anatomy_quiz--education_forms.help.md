@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge of subclavian anatomy, specifically focusing on identifying and locating subclavian vessels, nerves, and muscles. The form will present questions and multiple-choice answers to evaluate the user's understanding of these anatomical structures. The form's purpose is to provide a self-assessment tool for healthcare professionals, students, and individuals interested in anatomy. To ensure relevance, we will check if the user has previously completed this form, and if so, we will not display it again to prevent duplication of effort.
-</thinking>
-
 # Subclavian Anatomy Quiz - Help Guide
 
 ## Purpose

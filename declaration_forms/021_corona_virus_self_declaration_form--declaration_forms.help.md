@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to collect information from users about their recent travel history, contact details, and potential exposure to COVID-19. This is a self-declaration form, meaning that users will be providing personal and potentially sensitive information about themselves. 
-
-To confirm that the form is being used correctly, we can add a check for the following:
-
-* The form should only be filled out by users who are actually filling it out for themselves.
-* Users should only be answering questions about themselves, and not about someone else.
-* Users should not be filling out the form more than once.
-* Users should not be filling out the form if they have already completed it previously (we can use a unique identifier like a user ID to track this).
-
-We will also need to ensure that users understand that their information will be treated confidentially and that they are providing truthful information.
-</thinking>
 # Corona Virus Self Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their recent travel history, contact details, and potential exposure to COVID-19. It is essential to provide accurate and truthful information to ensure the safety and health of all individuals.

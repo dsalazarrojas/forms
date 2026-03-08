@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior High School Application Form - Help Guide
 ## Purpose
 The Senior High School Application Form is designed to collect information from students applying to a specific school. This form gathers data about the student's name, address, grade level, date of birth, expected graduation date, contact information, school choice, application type, and other relevant details. The form is used to streamline the application process and ensure accurate data collection.

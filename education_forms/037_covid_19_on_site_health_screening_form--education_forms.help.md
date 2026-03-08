@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 On Site Health Screening Form - Help Guide
 ## Purpose
 The COVID 19 On Site Health Screening Form is designed to help assess the health and safety of individuals attending on-site programs or courses. This form helps us understand each participant's COVID-19-related health status, exposure, and vaccination history to ensure a safe and healthy environment for everyone.

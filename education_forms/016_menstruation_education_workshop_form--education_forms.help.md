@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is used for its intended purpose and not for any other reason. The form should only be used for the Menstruation Education Workshop, and not for other unrelated workshops or purposes. This form will be used to collect data and information for this specific workshop. The purpose of the form is to gather essential details about the workshop, such as the date and time, list of attendees, and comments. The "Assigned Tool" field is a critical part of this form, as it helps identify which tool is being used for the workshop. The form will also collect the output file, if any. This form is designed to be user-friendly and easy to fill out, and all the fields are clearly labeled and explained. Please ensure you use this form for its intended purpose and follow the instructions carefully.
-</thinking>
-
 # Menstruation Education Workshop Form - Help Guide
 ## Purpose
 

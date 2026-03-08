@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # OmC! (Oh My Closet!) ORDER FORM - Help Guide
 ## Purpose
 The purpose of this form is to collect shipping information from users to place an order with OmC! (Oh My Closet!). 

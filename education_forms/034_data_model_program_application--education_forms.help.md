@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from candidates about their application for a data model program. This form is likely used in the context of data modeling, which involves creating and refining data models for data-driven applications. The form is designed to gather relevant details about the candidate, including their contact information, resources, and project proposal.
-</thinking>
-
 # data_model_program_application - Help Guide
 ## Purpose
 This form is used to collect information from candidates about their application for a data model program.

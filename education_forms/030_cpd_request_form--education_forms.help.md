@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CPD Request Form - Help Guide
 
 ## Purpose

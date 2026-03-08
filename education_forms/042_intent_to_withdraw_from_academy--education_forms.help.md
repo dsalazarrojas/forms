@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to express their intent to withdraw from the academy. It's a crucial step in the withdrawal process, ensuring that the student's decision to leave is formalized and documented. This form should only be submitted by students who are currently enrolled in the academy, and not by staff or faculty members. To ensure consistency, please use the provided guidelines for filling out the form. If you're unsure about any of the fields, refer to this help guide for clarification.
-</thinking>
-
 # Intent To Withdraw From Academy - Help Guide
 ## Purpose
 The purpose of this form is to formally declare a student's intent to withdraw from the academy. This process helps maintain accurate records and ensures a smooth transition for the student.

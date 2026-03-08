@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I need to understand the form's purpose and requirements. Let me review the provided YAML fields to ensure I create an accurate and practical help guide for the end-user.</thinking>
-
 # Public Health Project Donation Form - Help Guide
 ## Purpose
 The Public Health Project Donation Form is designed for individuals to provide support to projects that benefit public health initiatives. This form is used to collect information from donors, including project details, donation amounts, frequency, and payment information. It is essential to fill out this form accurately to ensure that your donation is processed correctly and reaches its intended purpose.

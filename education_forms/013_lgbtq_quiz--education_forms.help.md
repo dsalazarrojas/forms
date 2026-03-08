@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the user's knowledge, understanding, and beliefs related to the LGBTQ community. This form is designed to be a comprehensive assessment tool for education, awareness, and advocacy purposes. The form asks questions about various aspects of the LGBTQ community, including its history, terminology, rights, culture, community, allies, organizations, events, resources, and laws. The questions are meant to be answered in a text format, allowing the user to provide detailed responses. This form is intended to be a helpful tool for individuals looking to learn more about the LGBTQ community and its issues. However, please note that some fields are optional, and the user's responses will not be scored or evaluated in any way. This form is purely for educational purposes and is not affiliated with any form platform.
-</thinking>
-
 # LGBTQ Quiz - Help Guide
 ## Purpose
 The LGBTQ Quiz is a form designed to assess your knowledge, understanding, and beliefs related to the LGBTQ community. This form is meant to be a helpful tool for education, awareness, and advocacy purposes.

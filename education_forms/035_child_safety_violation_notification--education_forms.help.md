@@ -1,5 +1,3 @@
-<thinking> This form is used to report incidents of child safety concerns. The form should only be completed if a serious child safety incident has occurred. The fields in the form help to gather detailed information about the incident. To prevent duplication, users should only report incidents that have not been previously reported. </thinking>
-
 # Child Safety Violation Notification - Help Guide
 
 ## Purpose

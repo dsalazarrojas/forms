@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about philanthropic initiatives. To ensure that the form is filled out for the correct purpose and is not a duplicate, please note that:
-- The form is only for reporting on philanthropic initiatives that have already been completed or are ongoing.
-- The category should match the type of philanthropic initiative being reported (e.g. Donation, Grant, Other).
-- If you're unsure which category to select, please refer to the definition of each category below.
-</thinking>
-
 # Philanthropic Initiative Report Form - Help Guide
 
 ## Purpose

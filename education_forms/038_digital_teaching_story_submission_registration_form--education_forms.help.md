@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information for digital teaching story submissions, allowing educators to provide detailed information about their teaching stories. The form will be used to create a centralized repository of these submissions for various purposes, such as review, assessment, and publication. To ensure that each submission is properly documented and easily accessible, the form should only be filled out once per unique digital teaching story. Please fill out the form completely and accurately to ensure that your submission is correctly captured and processed.</thinking>
-
 # Digital Teaching Story Submission Registration Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about digital teaching stories submitted by educators. It is intended to help create a centralized repository of these submissions for review, assessment, and publication purposes.

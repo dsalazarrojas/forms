@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that end users understand the purpose of this form and how to complete it accurately. The Summer League Team Registration Form is intended to collect information from teams interested in participating in the summer program. This form is not a mandatory or required document, but it is recommended for teams who wish to register for the program. The form can be completed by team administrators or representatives to provide essential details about their team, such as their league participation, team name, contact information, and fundraising goals. To avoid duplication of efforts, teams should only register once for the summer program.
-
-</thinking>
-
 # Summer League Team Registration Form - Help Guide
 
 ## Purpose

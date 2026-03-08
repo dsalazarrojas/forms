@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a leave of absence for coursework. The purpose is to allow students to request a leave of absence due to various reasons such as health issues, family matters, or other personal reasons. This form is used by students to submit their request, and the completed form will be reviewed by relevant authorities. To ensure a smooth and efficient processing of the request, it's essential to fill out this form accurately and thoroughly.
-</thinking>
-
 # Coursework Leave Of Absence Request - Help Guide
 
 ## Purpose

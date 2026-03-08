@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about forest and land use, including landowner details, contact information, and project specifics. The purpose of this form is to ensure that land use is properly documented and declared in accordance with relevant regulations. To complete this form, please follow the instructions below.
-
-Please note that this form is not intended to be used for any other purpose than declaring forest and land use. If you are unsure about the purpose of this form or its relevance to your situation, please consult with the relevant authorities or the form creator before proceeding.
-
-</thinking>
-
 # Forest And Land Use Declaration Form - Help Guide
 ## Purpose
 The Forest And Land Use Declaration Form is a document that collects information about land use and land ownership, and is intended to be used in conjunction with relevant regulations and laws regarding land use.

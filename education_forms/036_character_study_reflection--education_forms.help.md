@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for students or educators to reflect on a literary character's development and analysis. The form has been created to gather information on the character's traits, motivations, and relationship with the environment, as well as the student's personal reflection on the character's journey. This guide will help users understand the purpose and requirements of the form, making it easier for them to complete and submit their reflection.
-
-To ensure the accuracy of the reflections, this guide will cover each field in the form, explaining what information is required and what the student is expected to provide.
-
-The form is divided into several sections, focusing on different aspects of character analysis.
-
-Please note that the form requires the student to submit a confirmation of their reflection, ensuring that the submitted information is their original work.
-
-After completing the form, the student will be able to submit their reflection, providing an in-depth analysis of the character and their development throughout the story.
-
-</thinking>
-
 # Character Study Reflection - Help Guide
 
 ## Purpose

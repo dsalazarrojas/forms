@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze the provided YAML. The form is called "Trial Version: Sta..Maria National High School Online Enrolment S.Y.2020 2021", which suggests it's an online enrollment form for a high school in the Philippines. Given the fields included (first name, last name, email, date of birth, phone, student number, year level, parent name, address), it appears to be a basic student information form for enrollment purposes. There's no clear indication of non-relevance or duplication in this context.
-</thinking>
-
 # Trial Version: Sta..Maria National High School Online Enrolment S.Y.2020 2021 - Help Guide
 ## Purpose
 This form is intended for the online enrollment of students to Sta..Maria National High School for the School Year 2020-2021. It collects basic information about the student, including personal details and contact information.

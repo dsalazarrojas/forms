@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Lifesaving Skills Video Feedback" form. This form is used to collect feedback from participants on their experience with a training program, specifically on the lifesaving skills they learned. The purpose of this form is to gather valuable insights that can be used to improve the quality of the training program. To complete this form, the participant will be required to provide their feedback on the form title, their personal feedback, the trainer's feedback, and ratings for the overall, training materials, and learning outcomes. We should also check if the participant has already completed this form in the past to avoid duplication.
-</thinking>
-
 # Lifesaving Skills Video Feedback - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The form "field_trip_incident_form" is a crucial tool for reporting incidents that occur during school field trips. It is intended to gather essential information about the trip, including details about the school, the trip itself, and any incidents that may have occurred. This form helps school administrators and staff to quickly and accurately collect data that can be used for safety and incident reporting, reducing the risk of misinformation and ensuring that all necessary actions can be taken. By completing this form, users can provide a clear and concise account of the incident, including the location, time, and type of incident that occurred. The information collected will be reviewed and used to support student safety and incident response.
-
-</thinking>
-
 # field_trip_incident_form - Help Guide
 ## Purpose
 The "field_trip_incident_form" is a form used to report incidents that occur during school field trips. It helps school administrators and staff collect essential information to ensure student safety and respond promptly to incidents.

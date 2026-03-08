@@ -1,14 +1,3 @@
-<thinking>
-The "Inclusive Curriculum Developer Application Form" is intended for users who want to propose new curriculum development projects that are inclusive of various educational forms, such as job application forms, education forms, and others. This form is used to gather information about the proposed project, including its category, title, and descriptions. It is not intended to be a comprehensive guide for creating educational materials, but rather a tool to help project proposers provide a brief overview of their idea. 
-
-The form will help the project approvers understand the scope and requirements of the project, allowing them to decide whether to approve or reject it. 
-
-Note: This form will not be used for project execution or implementation, but only for the initial proposal phase. 
-
-The form fields are designed to be self-explanatory, and this guide will explain each field in detail to ensure that the user completes it correctly and efficiently.
-
-</thinking>
-
 # Inclusive Curriculum Developer Application Form - Help Guide
 ## Purpose
 The Inclusive Curriculum Developer Application Form is a tool used to propose new curriculum development projects. It is intended to gather information about the proposed project, including its category, title, and descriptions. 

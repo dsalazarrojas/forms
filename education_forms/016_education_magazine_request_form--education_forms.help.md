@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect requests for educational content from educators who want to submit their ideas for consideration for publication in an education magazine. The purpose of this form is to gather information about the submitter's proposal, including the title, contact information, and details about the educational content being proposed.
-
-Internal note: We want to ensure that each educator who submits a request is aware of the form's requirements and can fill it out correctly to avoid duplication and relevance issues.
-
-This form is meant to be filled out by educators who want to submit their proposals for educational content, such as articles, videos, or other educational materials. By filling out this form, submitters will be able to provide the necessary information about their proposal, including their contact information, details about the content, and any additional comments.
-
-The form has several sections that require different types of information. Please read the field-by-field explanation to understand each section's requirements.
-
-</thinking>
-
 # Education Magazine Request Form - Help Guide
 ## Purpose
 This form is designed to collect requests for educational content from educators. By filling out this form, you can submit your proposal for consideration for publication in our education magazine.

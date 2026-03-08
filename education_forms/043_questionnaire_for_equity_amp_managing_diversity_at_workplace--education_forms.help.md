@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and data for the purpose of equity and managing diversity at the workplace. It is likely used in an HR or diversity and inclusion department to gather feedback, insights, or data for analysis. The form is probably used to create a report or output file that summarizes the collected data. The output file might be used for further analysis, reporting, or sharing with stakeholders.
-To ensure that the form is not used for redundant or duplicate purposes, please note that this form is specifically designed for the purpose of equity and managing diversity at the workplace. If you are unsure about the form's purpose or have similar requirements, please check with the responsible team or department to avoid duplicate work.
-</thinking>
-
 # Questionnaire For Equity & Managing Diversity At Workplace - Help Guide
 ## Purpose
 This form is designed to collect data and information for the purpose of equity and managing diversity at the workplace. It is used to gather feedback, insights, or data for analysis, which is then used to create a report or output file.

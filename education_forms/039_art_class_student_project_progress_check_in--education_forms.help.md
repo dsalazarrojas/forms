@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Art Class Student Project Progress Check In" form. This guide will explain the purpose of the form, how to complete it, and provide a field-by-field explanation of each section and field. This form is designed to help students assess their progress on their art class projects, providing instructors with valuable insights to support student growth and development.</thinking>
-
 # Art Class Student Project Progress Check In - Help Guide
 ## Purpose
 This form is designed to help art class students evaluate their progress on their projects, identify areas of improvement, and receive feedback from instructors. The goal is to facilitate student growth, provide support, and help them stay on track with their project goals.

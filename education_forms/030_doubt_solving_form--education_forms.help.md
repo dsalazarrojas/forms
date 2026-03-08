@@ -1,7 +1,3 @@
-<thinking>
-The "Doubt Solving Form" is a tool used to collect information about a user's doubts, concerns, or questions in the Education and Customer Service categories. Before filling out the form, ensure you understand the purpose and relevance of the form to avoid submitting redundant or unnecessary information. This form is not a replacement for direct contact or support channels. To ensure a smooth experience, follow the instructions carefully, and please note that some fields are required.
-</thinking>
-
 # Doubt Solving Form - Help Guide
 ## Purpose
 The Doubt Solving Form is a tool used to collect information about a user's doubts, concerns, or questions in the Education and Customer Service categories. This form aims to gather relevant details to provide accurate support and guidance.

@@ -1,10 +1,3 @@
-<thinking>
-This is a form designer and technical writer creating a user-facing help guide for a "driver_information_form" under the category "driver_forms". The purpose of the form is to collect information from drivers, and we want to ensure that end-users understand its purpose, how to complete it, and what each field means. We will follow the provided YAML structure to create a concrete, concise, and practical guide that does not require any additional business logic beyond the fields' labels and types.
-
-The form appears to be designed to collect basic contact and vehicle information from drivers, with options for selecting a driver's license type and multiple insurance options. However, the current required/required status of the form fields and other aspects of the form design will be taken into consideration.
-
-</thinking>
-
 # Driver Information Form - Help Guide
 ## Purpose
 The Driver Information Form is designed to collect essential information from drivers, including contact details, vehicle information, and license and insurance details. This form aims to gather relevant data in a concise and easy-to-use format.

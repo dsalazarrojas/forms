@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of selecting a learning model, which is a crucial step in creating a personalized learning experience. The form is likely used by educators or administrators to determine the best learning model for a particular group of students, taking into account various factors such as next term planning, student attendance, and class schedules. This form is not intended for mass production and is likely used in a one-on-one or small group setting.
-
-Before proceeding, ensure that you understand the purpose and requirements of the form. If you have already created a learning model, you may not need to complete this form.
-
-</thinking>
-
 # Learning Model Selection Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the "Learning Model Selection Form" to ensure a successful learning experience for your students.

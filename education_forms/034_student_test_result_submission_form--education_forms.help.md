@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Test Result Submission Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to evaluate research proposals. 
-It is used by evaluators to provide feedback to researchers on their proposals. 
-The form is part of a larger system that helps manage research proposals from submission to evaluation and approval. 
-The form fields are designed to gather specific information about each proposal, making it easier for evaluators to assess the quality and feasibility of each proposal. 
-Please note that this form is for evaluators and should not be filled out by researchers themselves. 
-This form is intended to be used in conjunction with the Research Proposal Evaluation Checklist, which is the corresponding checklist to be filled out by the researcher when submitting their proposal.
-</thinking>
-
 # Research Proposal Evaluation Checklist - Help Guide
 ## Purpose
 The Research Proposal Evaluation Checklist is a form used by evaluators to provide feedback to researchers on their proposals.

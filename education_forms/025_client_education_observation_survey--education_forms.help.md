@@ -1,27 +1,3 @@
-<thinking>
-If the form is being used for educational purposes, we need to ensure that it's being used correctly and effectively. This form is used to gather information about the client's education session, such as their engagement level, participation, comprehension, and effectiveness of materials used. It's essential to fill out this form carefully and accurately to help improve future sessions. 
-If you're not sure about any part of this form, please refer to the provided guidance.
-
-To prevent duplicate observations, please fill out only one form per session.
-
-The form is divided into several sections:
-
-* **Section 1: Observer Information**
-	+ This section gathers information about the observer, including their name, email, role, and other relevant details.
-* **Section 2: Client Information**
-	+ This section is about the client, including their name, ID number (if applicable), and other relevant details.
-* **Section 3: Session Details**
-	+ This section asks about the type of session, topic, and session duration.
-* **Section 4: Client Feedback**
-	+ This section collects feedback from the client, including their engagement level, participation, and other relevant details.
-* **Section 5: Session Effectiveness**
-	+ This section assesses the effectiveness of the session, including the instructor's effectiveness and other relevant details.
-* **Section 6: Additional Comments**
-	+ This section allows for additional comments and observations about the session.
-
-Please fill out the form accordingly and accurately.
-</thinking>
-
 # Client Education Observation Survey - Help Guide
 
 ## Purpose

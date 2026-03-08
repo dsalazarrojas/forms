@@ -1,7 +1,3 @@
-<thinking>
-This is a basic form that allows users to donate to a cause. The form is likely to be used in a fundraising context where users can input their details to make a donation. It's not explicitly stated but it's a reasonable assumption. The purpose of the form is to collect information from users and store it in the database for further use. This could be used to create a database of donors, track donation history, and potentially send follow-up notifications or surveys.
-</thinking>
-
 # Donation Form - Help Guide
 
 ## Purpose

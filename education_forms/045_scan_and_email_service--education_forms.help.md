@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the form titled "Scan And Email Service" which is designed to facilitate a scanning service for educational materials, allowing users to submit requests for scanning specific books. The form will be used to collect relevant information for the scanning process, including student name, email address, book title, scan page range, and other relevant details. This form will be used by staff or administrators to manage requests and ensure accuracy and consistency in the scanning process.
-
-</thinking>
-
 # Scan And Email Service - Help Guide
 ## Purpose
 The "Scan And Email Service" form is used to submit requests for scanning specific books, allowing users to receive scanned copies by email.

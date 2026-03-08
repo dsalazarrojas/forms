@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to document the manuscript review process, providing a structured format for reviewers to report their feedback, comments, and ratings on a submission. The goal is to ensure that the review process is thorough, transparent, and consistent across all submissions. The form should be used for all types of submissions, including articles, books, book chapters, conference papers, and others. Reviewers should only fill out this form if they have reviewed a manuscript and have a clear understanding of the submission's quality and feasibility for publication.
-</thinking>
-
 # Manuscript Review Process Report Form - Help Guide
 ## Purpose
 This form is designed to document the review process of a manuscript, providing a structured format for reviewers to report their feedback, comments, and ratings.

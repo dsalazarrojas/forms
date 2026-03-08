@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a student's health status and wellness before returning to school, to help ensure a safe and healthy school environment. It asks for basic identifying information such as the student's full name, grade level, and parent/guardian contact details. It also inquires about the student's current health status, including recent fever, cough, loss of taste or smell, international travel, and household exposure to illness. Additionally, it asks about any chronic health conditions that may impact the student's health and well-being. The form concludes with an authorization for the school to perform daily temperature checks and a declaration of accuracy and completeness of the provided information.
-
-</thinking>
 # Back To School Health Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to ensure that students return to school with accurate and up-to-date health information, to prevent the spread of illnesses and maintain a safe school environment.

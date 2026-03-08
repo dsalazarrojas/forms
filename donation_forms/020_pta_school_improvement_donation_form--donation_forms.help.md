@@ -1,6 +1,3 @@
-<thinking>
-This form is for collecting information for donations to the PTA School Improvement program. It's likely used for internal tracking and management of donations and their purposes. There might be some overlap with other forms or processes, but it's not a concern for this specific form. The form collects contact information for the donor and details about the donation. It also includes fields for additional comments or information. It's designed for PTA members or parents to provide information for their own donations or to track information on behalf of others.</thinking>
-
 # PTA School Improvement Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information for donations to the PTA School Improvement program. It allows users to provide details about their donations, including the amount donated, the purpose of the donation, and any additional comments or information.

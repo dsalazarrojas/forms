@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a student's enrolment in a program. The purpose of this form is to gather the necessary details about the student and their emergency contact to ensure a smooth and successful enrolment process. This form should only be filled out once for each student.
-</thinking>
-
 # Enrolment Information Form - Help Guide
 ## Purpose
 The Enrolment Information Form is a crucial document that collects essential details about a student's enrolment in a program. This form helps the institution to verify the student's information and their emergency contact's details for enrolment purposes.

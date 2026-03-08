@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Curriculum Development Leave Of Absence Request" form. This guide will help end-users understand the purpose of the form, how to complete it, and what each field means. I will base the guide on the provided YAML fields and aim to be concrete, concise, and practical. I will also provide a brief internal reasoning block to check for relevance and non-duplication before outputting the final help document in Markdown.</thinking>
-
 # Curriculum Development Leave Of Absence Request - Help Guide
 ## Purpose
 This form is for requesting a leave of absence for curriculum development purposes. It is used to notify the team and management of your planned absence, ensuring a smooth transition of tasks and responsibilities during your leave.

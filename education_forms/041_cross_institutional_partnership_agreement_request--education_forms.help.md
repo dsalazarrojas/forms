@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from institutions interested in partnering with us for educational purposes. The form will be used to gather details about the institution, the project description, and any supporting documents that may be required. The form is not intended to be a comprehensive partnership agreement, but rather a starting point for further discussion and negotiation. Please note that this form is not a legally binding document and is only a request for partnership information. We will review the submitted information and follow up with the institution to discuss further details. Please ensure that you are submitting a genuine request for partnership and not duplicating an existing partnership request. If you have already submitted a similar request, please do not resubmit it.
-</thinking>
-
 # cross_institutional_partnership_agreement_request_form - Help Guide
 ## Purpose
 The "cross_institutional_partnership_agreement_request_form" is designed to gather information from institutions interested in partnering with us for educational purposes.

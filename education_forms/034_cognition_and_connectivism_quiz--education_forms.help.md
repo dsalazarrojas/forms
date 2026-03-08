@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cognition And Connectivism Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of Cognition And Connectivism, two important concepts in education. It will help you identify your knowledge in these areas and provide you with self-assessment questions to reflect on your understanding.

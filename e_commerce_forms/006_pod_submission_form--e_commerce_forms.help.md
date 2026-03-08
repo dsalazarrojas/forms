@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about products submitted for production. The form is intended to ensure that product submissions are complete and accurate, and that all required fields are filled out. This form should only be used for products that are being submitted for production, and not for other purposes such as testing or demonstration. Please make sure to fill out all required fields and ensure that the product information is accurate before submitting the form.
-</thinking>
-
 # pod_submission_form - Help Guide
 ## Purpose
 This form is used to collect product information for production purposes.

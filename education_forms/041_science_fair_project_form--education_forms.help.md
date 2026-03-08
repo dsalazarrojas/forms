@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a science fair project, specifically the experiment name, student details, category, research question, methodology, results, conclusion, and references used in the project. This form is designed to collect data for the science fair project in an organized and structured manner, making it easier for participants to submit their projects and for judges to evaluate them.
-
-This form is intended for use in educational settings, such as schools, to facilitate the submission and evaluation process for science fair projects. It is essential to fill out this form accurately and completely to ensure that the project is evaluated fairly and correctly.
-
-Please note that this form is AI-generated and not affiliated with any specific form platform, and it is released under the Creative Commons Attribution 4.0 license, allowing free use, modification, and even commercialization.
-
-Before starting, make sure you have a clear understanding of the project's scope and goals. If you have any doubts or concerns, contact the form creator at form@gic.mx.
-
-</thinking>
-
 # Science Fair Project Form - Help Guide
 
 ## Purpose

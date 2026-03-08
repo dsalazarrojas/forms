@@ -1,11 +1,3 @@
-<thinking>... (Internal reasoning block to determine the form purpose and non-duplication)
-
-This form is designed to collect information from participants in an educational neuroscience exploration project. The form gathers basic registration details, participant information, emergency contacts, and contact preferences for the project. The form is likely part of a larger research initiative aimed at exploring the effects of neuroscience on learning and cognitive development. 
-
-This form is intended for new participants joining the project, and it is not meant to be filled out by project coordinators or administrators. If you have previously registered for the project, you will not need to fill out this form again. 
-
-</thinking>
-
 # Educational Neuroscience Exploration Registration Form - Help Guide
 ## Purpose
 The Educational Neuroscience Exploration Registration Form is designed to collect registration information from participants in an educational neuroscience project. This form will help us understand your background, contact preferences, and emergency contact information.

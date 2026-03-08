@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Book Survey - Help Guide
 ## Purpose
 

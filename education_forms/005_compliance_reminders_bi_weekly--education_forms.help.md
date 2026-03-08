@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to aid in tracking and monitoring compliance reminders within an educational institution. Compliance Reminders Bi Weekly form is intended for use by school staff to document and manage bi-weekly compliance reminders, ensuring that all necessary tasks and actions are taken on time. 
-</thinking>
-
 # Compliance Reminders Bi Weekly - Help Guide
 
 ## Purpose

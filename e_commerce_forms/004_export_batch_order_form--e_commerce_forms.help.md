@@ -1,15 +1,3 @@
-<thinking>
-The export_batch_order_form form is used for exporting batches of orders. This form is used to create new export batches, which are collections of orders that will be exported to the customer. The export process is typically used for large quantities of orders and is an efficient way to manage and track orders.
-
-When to use this form: 
-- You need to create a new export batch.
-- You want to export a collection of orders to a customer.
-- You have multiple orders that need to be exported together.
-
-Before filling out this form, make sure you are only filling out one form at a time. Filling out multiple forms at once can lead to errors in the export process.
-
-</thinking>
-
 # export_batch_order_form - Help Guide
 ## Purpose
 

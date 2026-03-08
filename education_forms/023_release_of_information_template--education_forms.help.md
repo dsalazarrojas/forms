@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect release information from users, likely for administrative or compliance reasons. This form likely serves as a template for collecting standardized release information across various categories or projects. 
-The release information template is used to gather details from users about the release of information. This template can be used in different contexts, such as research, academic, or business settings.
-To confirm, this form will be used to collect information about the release of information, and it is not a form for collecting user's contact information or personal data in general.
-</thinking>
-
 # release_of_information_template - Help Guide
 ## Purpose
 The purpose of this form is to collect standardized release information from users, which can be used in various settings such as research, academic, or business.

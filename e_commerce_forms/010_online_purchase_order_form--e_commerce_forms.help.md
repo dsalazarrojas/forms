@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate online purchases, and it seems to be a combination of order and customer information collection. I will ensure the form fields and labels are clearly explained in the guide.
-
-</thinking>
-
 # online_purchase_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for online purchases, including customer details and order status.

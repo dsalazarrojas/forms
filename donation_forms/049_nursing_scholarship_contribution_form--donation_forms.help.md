@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information from individuals who wish to contribute to a nursing scholarship program. The purpose of this form is to collect relevant donor details, contribution information, payment details, and any additional comments or feedback from the donors. It's essential to ensure that the form is filled out correctly to provide a smooth and accurate process for both the donor and the organization managing the scholarship fund. To avoid duplication of efforts, kindly note that the form is not intended for internal use and is meant for external donors.
-
-</thinking>
-
 # Nursing Scholarship Contribution Form - Help Guide
 
 ## Purpose

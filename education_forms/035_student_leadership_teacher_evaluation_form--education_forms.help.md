@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "Student Leadership Teacher Evaluation Form," is designed to assess the performance of students in leadership roles. It is typically used by teachers to evaluate the strengths and weaknesses of students, providing them with constructive feedback that can help improve their leadership skills. This form is usually used during the academic year to track student progress and help them become better leaders in their school or community. 
 
 Before filling out this form, please make sure you are evaluating a student who has held a leadership role. The evaluation should be based on your observation of their performance during that time. If you are unsure which student to evaluate, please refer to your school's leadership roster or ask your school's administration for clarification. 

@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's break down the form purpose and ensure we're not duplicating effort. The form is called "Outstanding Citizen Scholarship Application," which implies it's for students who excel in their academic and community pursuits. The form likely collects information about the applicant's academic background, leadership experience, community service, and other relevant details. To avoid duplication, let's focus on providing a clear and concise guide that assumes the user has some basic understanding of the application process.</thinking>
-
 # Outstanding Citizen Scholarship Application - Help Guide
 ## Purpose
 The Outstanding Citizen Scholarship Application is a form designed to collect information from students who have demonstrated exceptional academic and community achievements. This application is likely intended for students who have made outstanding efforts in their academic background, leadership, and community service.

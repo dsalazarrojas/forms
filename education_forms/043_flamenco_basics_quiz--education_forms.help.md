@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their experience with Flamenco, a tool designed for learning and exploring the basics of Flamenco. This form is intended to be a simple and user-friendly way to collect feedback and knowledge from users, helping us to improve and refine Flamenco's features and offerings. It is likely that this form is used in an educational setting, possibly as a quiz or assessment tool.
-
-To prevent duplication, we can assume that this form is not meant to be filled out multiple times by the same user. This form is designed to collect information from individuals who have interacted with Flamenco in some way, likely as part of a course or program.
-
-Before filling out this form, it's essential to understand what each field means and how it contributes to the overall goal of improving Flamenco. This guide will walk you through the form's purpose, how to complete it, and what each field entails.
-
-</thinking>
-
 # Flamenco Basics Quiz - Help Guide
 ## Purpose
 The Flamenco Basics Quiz is a tool designed to gather information about users' knowledge and experience with Flamenco. This form helps us understand what users know and what they need more help with, allowing us to refine our offerings and make Flamenco more effective for everyone.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Needs Assessment Survey - Help Guide
 ## Purpose
 The Student Needs Assessment Survey is a form designed to collect information about students' needs, concerns, and expectations from educators, instructors, and other stakeholders. This survey aims to identify areas where support or improvement is required to provide the best possible learning experience for students.

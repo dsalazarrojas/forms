@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for student and school resources funding requests. This form is used by school administrators to request financial support from the assigned user. The form is used to collect details such as school enrollment, financial situation, and resource requests.
-
-Before completing this form, please ensure that you have the necessary information and that you have not already requested financial support from the assigned user in the past (i.e., you have not submitted a duplicate form).
-
-</thinking>
-
 # request_for_student_and_school_resources_funding_form - Help Guide
 ## Purpose
 This form is designed to provide school administrators with a way to request financial support from the assigned user for student and school resources. Please use this form to provide accurate and clear information to help facilitate the processing of your request.

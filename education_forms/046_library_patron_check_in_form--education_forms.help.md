@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Patron Check In Form - Help Guide
 
 ## Purpose

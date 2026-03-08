@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for dance schools to gather information about students' parents or guardians' consent to record dance classes. It is likely used for legal or privacy purposes, such as obtaining consent from parents to record their child's dance performances or practices. This form might be used internally within a dance school or shared with parents/guardians. 
-
-Before proceeding, please ensure you have a valid reason for completing this form, as it may not apply to you. Please review this form carefully to ensure you provide accurate information. 
-
-</thinking>
-
 # dance_choreography_recording_consent_form - Help Guide
 ## Purpose
 The dance_choreography_recording_consent_form is designed to obtain consent from students' parents or guardians for recording dance classes. This form helps to inform parents about the recording process and gather their consent, ensuring that all parties involved are aware and on the same page.

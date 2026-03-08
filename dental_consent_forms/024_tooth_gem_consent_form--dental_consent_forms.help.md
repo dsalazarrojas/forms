@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain consent from patients for the Tooth Gem procedure, a treatment that aims to preserve the tooth structure while addressing dental issues. The form is designed to capture key information and obtain necessary signatures to ensure the patient's understanding of the procedure and their consent to proceed. Please make sure to review the form carefully and ensure that the patient's responses are accurate and complete before proceeding.
-
-</thinking>
-
 # Tooth Gem Consent Form - Help Guide
 ## Purpose
 The Tooth Gem Consent Form is used to obtain consent from patients for the Tooth Gem procedure, a treatment that aims to preserve the tooth structure while addressing dental issues.

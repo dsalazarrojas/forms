@@ -1,5 +1,3 @@
-<thinking>Internal form purpose and duplication check: This form is intended for users to request online peer coaching support. It allows users to specify their preferences for coaching support, including the type of support they need, when they want to start, and how often they would like to be contacted. The form should only be completed by users seeking online peer coaching support, and not by users seeking other types of support or requesting support for someone else.</thinking>
-
 # Online Peer Coaching Support Request - Help Guide
 ## Purpose
 The purpose of this form is to request online peer coaching support. You can use this form to specify your preferences for coaching support, including the type of support you need, when you want to start, and how often you'd like to be contacted.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to schedule an appointment with their advisor, providing them the opportunity to choose their preferred meeting time, date, location, and other relevant details. This form will help advisors track student's preferences and ensure a smooth and efficient meeting experience. To avoid duplication of effort, students are advised to fill this form only for new meetings, not for recurring or already scheduled appointments.
-</thinking>
-
 # Student Advisor Appointment Form - Help Guide
 
 ## Purpose

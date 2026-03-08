@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations requesting elderly meals. The purpose of this form is to gather contact details, meal preferences, and donation details for elderly individuals who need meals delivered to their residence. The form is not intended for individuals to claim a meal delivery for themselves but rather for others who are requesting on their behalf. Please note that this form is not for internal use only; therefore, ensure that all fields are accurate and truthful. This form's submission is subject to review and approval before processing any requests. Ensure that all fields are filled out completely before submitting.
-</thinking>
-
 # Elderly Meals Request Form - Help Guide
 ## Purpose
 The purpose of this Elderly Meals Request Form is to collect information from individuals or organizations requesting meals for elderly individuals. This information will be used to process and coordinate meal delivery services.

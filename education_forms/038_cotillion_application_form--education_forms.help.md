@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure that this form is being used for its intended purpose and that there are no errors or duplication. This form appears to be a detailed application form for a Cotillion, which is an important milestone in the life of many individuals. The fields in this form are well-structured and cover essential aspects of the application process. However, to further clarify, the purpose of this form is to collect information from applicants to process their application for a specific event. This form will help us gather necessary details such as name, contact information, event description, and payment method, among others. Let's proceed with creating a comprehensive help guide for end-users to ensure they understand each field correctly.</thinking>
-
 # Cotillion Application Form - Help Guide
 ## Purpose
 The Cotillion Application Form is a crucial document that collects essential information from applicants to process their application for a specific event. Please review each field carefully to ensure accurate completion.

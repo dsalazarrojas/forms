@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly go over the purpose and requirements of this form. This form is used for makeup school instructors to renew their teaching certification. Instructors will need to provide personal information, teaching certification details, and school information to complete the form. Please ensure that you have all necessary documents and information before starting. This form should only be completed once for each instructor renewal.</thinking>
-
 # Makeup School Instructor Renewal Application - Help Guide
 ## Purpose
 The Makeup School Instructor Renewal Application form is used for makeup school instructors to renew their teaching certification. This form collects necessary information to process your renewal request.

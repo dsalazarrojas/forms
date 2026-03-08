@@ -1,5 +1,3 @@
-<thinking>Before designing this help guide, let's quickly review the purpose of this form and consider if it's relevant and non-duplication of content. The form seems to be designed for applicants to submit an academic research proposal, specifically focusing on accessibility-related research projects. It appears to gather information about the applicant, research proposal, accessibility needs, and ethics considerations. Given the form's structure, it's likely a part of a larger process for academic research funding or approval. To avoid duplication, we should ensure that the guide covers all necessary aspects of the form without unnecessary repetition.</thinking>
-
 # Academic Accessibility Research Application - Help Guide
 
 ## Purpose

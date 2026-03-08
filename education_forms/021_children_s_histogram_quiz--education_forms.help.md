@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's quickly review the form purpose and fields. This form is designed to be a quiz on histograms, a type of graph used to display data in intervals. The form is intended to help users assess their understanding of histograms, their application in real-world scenarios, and their analysis skills.</thinking>
-
 # Children's Histogram Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your understanding of histograms, their basics, and their application in various contexts. It is a self-assessment tool for children to gauge their knowledge and identify areas where they need more guidance.

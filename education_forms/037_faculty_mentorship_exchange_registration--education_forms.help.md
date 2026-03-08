@@ -1,13 +1,3 @@
-<thinking>
-This form is used to register a faculty member for a mentorship program. It is intended for faculty members to express their interest in participating in the mentorship program and provide information about their areas of expertise and interests. This form is not intended for non-faculty members or individuals without a faculty title.
-
-Before proceeding, please ensure that you are a faculty member and have a valid faculty title. If you are a non-faculty member, please do not use this form. If you have previously submitted this form, please do not submit it again.
-
-This form is used to create a mentorship record that can be used to pair you with a mentee and facilitate your participation in the mentorship program. Please provide accurate and up-to-date information in the fields below to ensure that you are effectively matched with a mentee and have a successful experience in the program.
-
-Please note that some fields are optional, but providing accurate information in all fields will improve the quality of the match and your experience in the program.
-</thinking>
-
 # Faculty Mentorship Exchange Registration - Help Guide
 ## Purpose
 The Faculty Mentorship Exchange Registration form is used to register faculty members for the mentorship program. It is intended for faculty members to express their interest in participating in the mentorship program and provide information about their areas of expertise and interests.

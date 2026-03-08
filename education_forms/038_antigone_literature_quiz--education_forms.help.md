@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge user knowledge of the Antigone play by Sophocles. The Antigone Literature Quiz assesses users' understanding of the characters and themes in the play. This form is a tool for educators or administrators to evaluate student knowledge and understanding.
-
-To create the help guide for this form, I will use the provided YAML fields to understand the form's structure and purpose.
-</thinking>
-
 # Antigone Literature Quiz - Help Guide
 
 ## Purpose

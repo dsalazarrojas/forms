@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Academy Trainer Renewal Application Form - Help Guide
 ## Purpose
 This form is for trainers seeking to renew their certification at the Beauty Academy. Trainers must complete this form to provide updated information and requirements for their renewal. Please ensure you have all necessary documents and information before starting the form.

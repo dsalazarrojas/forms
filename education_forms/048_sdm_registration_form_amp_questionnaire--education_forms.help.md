@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## sdms_registration_form_questionnaire - Help Guide
 
 ## Purpose

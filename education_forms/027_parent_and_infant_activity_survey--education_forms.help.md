@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents about their activities related to their infants. The purpose of this form is to collect data on the frequency of various activities that parents engage in with their infants, such as talking, reading, playing, tending, and learning. This data will help us understand the dynamics of parent-infant interactions and inform programs that support early childhood development. Please ensure that the information provided is accurate and relevant to your personal experiences as a parent. If you have completed this form before, please do not submit this form again.
-</thinking>
-
 # Parent And Infant Activity Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your activities related to your infant. Please answer the questions honestly to help us understand how you engage with your child.

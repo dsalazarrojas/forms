@@ -1,7 +1,3 @@
-<thinking>
-This form is for nominating a teacher for the "Teacher Of The Month" award. The purpose of this form is to provide a structured way for staff members to submit nominations for teachers who have demonstrated exceptional teaching skills and dedication to their students. To avoid duplication, only one nomination per teacher will be considered for each month. Before submitting a nomination, please ensure that you have not already nominated the same teacher for the current month.
-</thinking>
-
 # Teacher Of The Month Nomination Form - Help Guide
 ## Purpose
 This form is designed to help you nominate a teacher for the "Teacher Of The Month" award.

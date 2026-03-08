@@ -1,20 +1,3 @@
-<thinking>
-This form is for enrolling a student in a summer school program. The form is used to collect information from the student and their parent or guardian. The purpose of this form is to ensure that all necessary details are captured for the student's enrollment process. 
-
-This form is intended to be completed by the student's parent or guardian, and it should only be submitted once the student has been accepted into the program. 
-
-Please ensure that you are submitting this form for the correct student and program. 
-
-If you are unsure about any part of this form, please reach out to the program administrators for clarification. 
-
-The fields in this form are used to capture the following information:
-- Parent information (name, contact details)
-- Student details (name, date of birth, program details, payment method and amount)
-- Enrollment status
-
-This form will be reviewed and processed by the program administrators, so please ensure that all fields are filled out correctly and accurately.
-</thinking>
-
 # summer_school_enrollment_form_template - Help Guide
 ## Purpose
 This form is for enrolling a student in a summer school program. The form collects information from the student and their parent or guardian.

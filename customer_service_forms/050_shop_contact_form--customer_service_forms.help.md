@@ -1,16 +1,3 @@
-<thinking>
-This form is a contact form for a shop, allowing customers to submit their contact information and any questions or comments they may have. Before completing this form, please ensure that you are submitting a new inquiry and not duplicating an existing one.
-
-This form is designed to gather the following information:
-* Shop contact information (Shop Email and Shop Phone)
-* Brief description of the issue or query
-* Yes/No answer to a question about whether the customer wants to be contacted via email
-* Optional message or comment
-* Customer name
-
-Please review each field carefully and enter the required information accurately to ensure that your inquiry is processed efficiently.
-</thinking>
-
 # Shop Contact Form - Help Guide
 ## Purpose
 The Shop Contact Form is designed to allow customers to submit their contact information and any questions or comments they may have about the shop.

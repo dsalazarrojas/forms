@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their experience with heat transfer, a fundamental concept in thermodynamics. The purpose of this form is to gather data on users' understanding of heat transfer, its applications, and any questions or concerns they may have. This form is not affiliated with or derived from any proprietary form platforms, but rather created by AI using public survey topic metadata as inspiration.
-</thinking>
-
 # heat_transfer_exam_form - Help Guide
 ## Purpose
 The "Heat Transfer Exam Form" is a survey designed to gauge users' understanding of heat transfer concepts, its applications, and any questions or concerns they may have. This form is intended for individuals with some knowledge of heat transfer, and it's expected that you can provide clear and concise answers to each question.

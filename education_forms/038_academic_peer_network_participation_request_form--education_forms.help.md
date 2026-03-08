@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in participating in the Academic Peer Network, a platform connecting individuals across the academic sector. This form serves as an initial step for those wanting to get involved in various activities such as events, resource contributions, or other forms of collaboration. It helps organizers understand participants' preferences, availability, and previous experiences, enabling a smoother integration process for everyone. 
-This form should not be used to collect redundant or unnecessary information that could discourage users from participating. Ensure that each question is necessary and relevant to avoid overloading the participant with too much information.</thinking>
-
 # Academic Peer Network Participation Request Form - Help Guide
 ## Purpose
 The Academic Peer Network Participation Request Form is designed to gather essential details from individuals interested in joining the Academic Peer Network. This helps organizers understand participants' preferences, availability, and experiences, making the integration process smoother and more efficient.

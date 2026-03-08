@@ -1,6 +1,3 @@
-<thinking>
-The Student Sports Registration Form is designed to collect information about students participating in sports activities on campus. This form should only be filled out by actual students of the institution, not external individuals or entities. To avoid duplication of effort, make sure to fill out this form only once per student. 
-</thinking>
 # Student Sports Registration Form - Help Guide
 ## Purpose
 This form is intended for students to register for sports activities on campus. It will help the sports department keep track of student participation and ensure that students are accounted for when participating in events.

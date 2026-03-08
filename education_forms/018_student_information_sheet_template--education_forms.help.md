@@ -1,13 +1,3 @@
-<thinking>
-
-I'm assuming this form is used in an educational institution to collect information about students. This form likely serves as a template for a student information sheet that administrators or staff would use to collect, organize, and possibly verify the details of students, their parents, and emergency contacts.
-
-Before we start using this form, let's quickly review its purpose to ensure it's being used correctly. This form seems to be a comprehensive template covering various aspects of a student's information, including academic interests, demographic data, and contact details.
-
-After reviewing the form's design and fields, let's create a help guide for end users to understand the form's purpose, how to complete it, and what each field represents.
-
-</thinking>
-
 # Student Information Sheet Template - Help Guide
 ## Purpose
 The Student Information Sheet Template is a comprehensive form used to collect and document student information for administrative purposes.

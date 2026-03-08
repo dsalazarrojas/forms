@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about countries, focusing on their profile submission. It's intended to be used by individuals or organizations submitting data for a country's profile. The form is not intended to be a comprehensive survey, but rather a way to gather essential details about a country's educational system.
-To avoid duplication, please ensure that the submitted data is not already available in the system. If you're unsure, check the existing country profiles or contact the form administrators.
-This form will guide you through the process of filling it out.
-</thinking>
-
 # Country Profile Submission Form - Help Guide
 ## Purpose
 The Country Profile Submission Form is designed to collect information about countries, focusing on their educational systems. This form helps individuals or organizations submit data for a country's profile, ensuring accuracy and consistency in the submitted information.

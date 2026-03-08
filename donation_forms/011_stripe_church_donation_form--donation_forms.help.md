@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from church members for donations to the church. The form will help track and manage donations, including the amount, frequency, and method of payment. This form will ensure that the church has accurate and up-to-date information about donations, which is crucial for financial tracking and reporting. Before completing this form, please ensure that you have not already submitted a donation for the same purpose, as duplicate submissions will not be accepted.
-</thinking>
-
 # Stripe Church Donation Form - Help Guide
 ## Purpose
 The Stripe Church Donation Form is designed to collect information from church members for donations to the church. This form will help the church track and manage donations efficiently.

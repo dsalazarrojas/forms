@@ -1,10 +1,3 @@
-<thinking>
-This block is meant to be a brief internal reasoning block explaining the purpose and checks for relevance and non-duplication.
-The form is used for verifying the student's class status, which is a crucial task in educational settings. 
-The form is designed to collect information on the student's attendance, performance, and other relevant details. 
-It's likely that the form is used for internal administrative purposes within the educational institution.
-</thinking>
-
 # Teacher Class Verification Form - Help Guide
 
 ## Purpose

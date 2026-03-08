@@ -1,8 +1,3 @@
-<thinking>... Internal reasoning block to ensure form purpose and field relevance are understood.
-This form is designed to collect information from donors who wish to support child education initiatives. The purpose of this form is to gather crucial details about the donor, their donation preferences, and their preferred payment method. This information will enable our organization to process their donation efficiently and effectively, while also allowing us to keep the donor informed about the impact of their gift. To ensure accurate and secure processing, please fill out the form carefully and completely.
-
-</thinking>
-
 # Child Education Sponsorship Donation Form - Help Guide
 ## Purpose
 The Child Education Sponsorship Donation Form is used to collect information from donors who wish to support educational initiatives for children. The form helps our organization to understand the donor's preferences and process their donation efficiently.

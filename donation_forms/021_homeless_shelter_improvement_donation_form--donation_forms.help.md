@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for donations to improve homeless shelters. It's intended to collect information from donors about their donation amounts, frequency, and preferences. This form is used by the organization to manage donations and tailor the experience to each donor's needs.
-</thinking>
-
 # Homeless Shelter Improvement Donation Form - Help Guide
 ## Purpose
 The Homeless Shelter Improvement Donation Form is designed to collect information from donors who wish to contribute to the betterment of homeless shelters. By providing this form, the organization can understand the needs and preferences of donors and tailor the experience accordingly.

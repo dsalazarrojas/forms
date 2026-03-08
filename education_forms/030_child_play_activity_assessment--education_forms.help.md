@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a child's play activity, observing their behavior and developmental skills during a play session. The form aims to provide an objective evaluation of the child's play engagement, social interactions, and skill development. This assessment can be completed by educators, therapists, or caregivers who have witnessed the child's play activity.
-</thinking>
-
 # Child Play Activity Assessment - Help Guide
 
 ## Purpose

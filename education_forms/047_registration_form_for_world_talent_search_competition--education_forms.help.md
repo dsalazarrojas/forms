@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for the World Talent Search Competition. It gathers information about the competition's start and end dates, location, contact details, and other relevant fields. The fields are categorized into different types for ease of understanding and completion. This form does not require any specific information, making it a general registration form for potential participants. Please ensure that you fill in all required fields for correct processing. Please note that this form is a general template and might need adjustments based on your specific competition requirements.
-</thinking>
-
 # Registration Form For World Talent Search Competition - Help Guide
 ## Purpose
 The World Talent Search Competition registration form is a general template for potential participants to register their interest in the competition. It provides a basic structure for collecting necessary information for the competition's management.

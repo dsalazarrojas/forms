@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to validate the form purpose and field relevance ...
-- The form "dance_performance_check_out_form" is used for dancers to check out of a performance.
-- The fields are designed to collect essential information for efficient check-out process.
-- No fields are duplicated or redundant.
-</thinking>
-
 # dance_performance_check_out_form - Help Guide
 ## Purpose
 This form is designed to collect information from dancers for the efficient check-out process after a performance. It is required for all dancers to complete this form accurately and thoroughly.

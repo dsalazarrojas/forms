@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to be used by students to request permission to bring guests to events, such as events hosted by their schools. This form will help event organizers determine whether or not to grant the request, based on various factors such as the event type, date, and number of guests. 
-
-The form will help ensure that the request is properly reviewed and that necessary information is provided. It will also help keep track of approved requests and the status of the approval process.
-
-This form is designed to be filled out by students, and the information provided will be used to make a decision on whether or not to grant the request. The form will also provide a way for the student to provide additional information, such as special requests, and for event organizers to leave comments on the request.
-
-Please note that this form is not meant to be used for general event planning or registration. It is specifically designed for requesting to bring guests to events.
-
-Also, please note that if you are filling out this form, it is expected that the information provided is accurate and up-to-date.
-</thinking>
-
 # Student Guest Bringing Request Form - Help Guide
 ## Purpose
 The purpose of this form is to allow students to request permission to bring guests to events hosted by their schools.

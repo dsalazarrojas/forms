@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to gather information from travelers for the Borthwick Castle, regarding their travel history, contact information, and other relevant details. This information will help the relevant authorities to assess the risk of potential coronavirus transmission. This form is not meant to be filled out multiple times by the same person.
-
-The form will be used to collect the following details: travel history, contact information, and other relevant facts.
-
-This form is designed for travelers who have been to or intend to travel to or from the Borthwick Castle.
-
-Please note that all the form fields are optional. However, it's recommended to fill them out as accurately as possible to ensure the best assessment.
-
-</thinking>
-
 # Coronavirus Self Declaration Borthwick Castle (Travel Allowed) - Help Guide
 ## Purpose
 This form is designed for travelers to declare their travel history and other relevant information in order for the relevant authorities to assess the risk of potential coronavirus transmission.

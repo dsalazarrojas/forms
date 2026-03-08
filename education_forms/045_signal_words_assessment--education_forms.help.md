@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to assess a user's reading skills, specifically their ability to identify and interpret signals from text. The Signal Words Assessment form is designed to evaluate a user's reading comprehension, accuracy, and speed, as well as their ability to focus on main and supporting ideas.
-
-Before completing this form, ensure that you understand the context and the questions being asked. This form is intended to be used in educational settings, such as language assessments or reading evaluations.
-
-Please note that the questions are designed to be specific and objective. This form does not require any external resources or information.
-
-After filling out the form, you will be able to see your assessment results, which will provide insight into your reading skills.
-</thinking>
-
 # Signal Words Assessment - Help Guide
 ## Purpose
 

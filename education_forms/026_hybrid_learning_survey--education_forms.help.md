@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from students, teachers, and administrators on the hybrid learning model implemented in the educational institution. The form aims to capture their opinions on student devices, teacher support, and other aspects of the hybrid learning model. By completing this form, you will be contributing to the improvement of the hybrid learning model, which will help tailor the educational experience to better meet the needs of all stakeholders.
-</thinking>
-
 # Hybrid Learning Survey - Help Guide
 ## Purpose
 The Hybrid Learning Survey is a tool designed to gather feedback and insights from students, teachers, and administrators on the hybrid learning model. The data collected will help the institution understand the strengths and weaknesses of the current model and make informed decisions for its improvement.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect contact details and demographic information from young engineers interested in enrolling in a program in Cape Town, South Africa. It is a crucial step in the enrollment process, and the information collected will be used to create a profile and determine the suitability of the applicants. Please note that this form is designed to be completed by a single person, and the fields are meant to be filled in by the individual themselves, not by someone else on their behalf.
-
-Before filling out the form, ensure that you are providing accurate and truthful information about yourself. Any misrepresentation of your details can lead to disqualification from the program.
-
-The form has multiple pages, each with a specific set of questions. Please complete each page thoroughly and accurately.
-
-</thinking>
-
 # Young Engineers Cape Town South Enrolment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic information from young engineers interested in enrolling in a program in Cape Town, South Africa.

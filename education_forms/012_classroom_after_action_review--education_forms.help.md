@@ -1,10 +1,6 @@
 # Classroom After Action Review - Help Guide
 
 ## Purpose
-<thinking>**Purpose:**
-This form is used by instructors or facilitators to gather feedback from participants about a classroom session. The form aims to assess the quality of the session, identify areas for improvement, and provide actionable recommendations for future sessions. By completing this form, participants can provide constructive feedback that helps instructors and facilitators refine their teaching methods and create better learning experiences for everyone. 
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Women’s Health Discharge Form - Help Guide
 
 ## Purpose

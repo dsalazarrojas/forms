@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit donations to the silent auction. The form will ask for the donor's contact information, the type of donation, a description of the donation, and other relevant details such as the currency and value of the donation. To ensure accurate and complete donations, the form is designed to be easy to fill out and requires the most essential information. Please make sure to fill out this form only if you are authorized to do so. If you are unsure, do not proceed.
-</thinking>
-
 # Silent Auction Donation Form - Help Guide
 ## Purpose
 The Silent Auction Donation Form is a user-friendly form designed to collect donations from individuals and organizations for the silent auction. It gathers essential information, such as donor contact details, donation type, description, value, and currency, to ensure accurate and efficient processing.

@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to facilitate the ordering process for "Jessica's Dream Nails" Fall/Winter products, allowing customers to select a seasonal category and provide details for their order. The form will ask for information on the product type, quantity, price, and inventory updates. It's essential to ensure that the customer understands what each field is asking for to avoid mistakes and ensure accurate ordering.
-
-To confirm, the form will cover the following topics:
-- Season (Fall/Winter) selection
-- Product name
-- Quantity of the product
-- Price of the product
-- Product image URL
-- Product type selection
-- Inventory updates
-- Description
-- Email address
-- Phone number
-- Category
-- Sub-category
-- Product image selection
-- Multiple product image fields
-
-This form is intended for internal use and might not require all fields to be filled for every user. The goal is to collect relevant information for the customer's order.
-</thinking>
-
 # Jessica's Dream Nails Fall/Winter Order Form W/ Inventory Updates - Help Guide
 ## Purpose
 This form is designed to help customers order products from "Jessica's Dream Nails" and provide essential information for inventory updates during the Fall and Winter seasons.

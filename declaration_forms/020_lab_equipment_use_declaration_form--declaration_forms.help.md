@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Equipment Use Declaration Form - Help Guide
 ## Purpose
 This form is used by researchers, staff, and users to declare the use and status of lab equipment. This form ensures that equipment is properly maintained, and that users are aware of safety precautions and guidelines for handling and using the equipment.

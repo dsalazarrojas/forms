@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphing Skills Assessment - Help Guide
 
 ## Purpose

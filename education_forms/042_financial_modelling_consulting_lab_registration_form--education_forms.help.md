@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to register for a Financial Modelling Consulting Lab. The form collects information from the user, including their name, contact email, phone number, department, workshop interests, and other relevant details. The form is intended for users who wish to participate in the lab, and the required fields are those that will help the organisers to tailor the lab to the user's needs.
-</thinking>
-
 # Financial Modelling Consulting Lab Registration Form - Help Guide
 
 ## Purpose

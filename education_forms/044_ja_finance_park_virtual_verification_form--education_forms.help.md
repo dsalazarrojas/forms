@@ -1,6 +1,3 @@
-<thinking> 
-The JA Finance Park Virtual Verification Form is a form used to verify the identity and contact information of a person. To complete this form, the end user will be presented with various fields that require different types of information. The purpose of this form is to gather accurate and complete data for further processing and verification. This form should not be used for any other purpose other than identity and contact verification. Please ensure that you are using the correct information and that the form is not being duplicated for non-verified purposes.</thinking>
-
 # JA Finance Park Virtual Verification Form - Help Guide
 ## Purpose
 The JA Finance Park Virtual Verification Form is used to verify the identity and contact information of a person. This form is designed to gather accurate and complete data for further processing and verification purposes.

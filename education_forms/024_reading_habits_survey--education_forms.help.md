@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about users' reading habits, including their reading frequency, favorite book genres, authors, and formats. It will likely be used to analyze and understand user behavior related to reading, which can be useful for marketing, research, or other purposes.
-
-To ensure that the responses are accurate and consistent, it's essential to complete the form carefully and thoughtfully. Please note that some fields are required, while others are optional. Make sure to fill in all required fields to provide a complete and accurate representation of your reading habits.
-
-</thinking>
-
 # Reading Habits Survey - Help Guide
 ## Purpose
 

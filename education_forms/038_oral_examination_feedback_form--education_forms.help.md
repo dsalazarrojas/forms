@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect feedback from examiners on the performance of a candidate during an oral examination. This feedback will be used to help improve the assessment process and the candidate's development. Before completing this form, ensure you have the relevant information and context about the candidate and the examination. This form does not replace the need for a detailed and official written report. Please fill in the form accurately and thoroughly, and avoid duplication of effort by not submitting multiple versions of the same form...</thinking>
-
 # Oral Examination Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from examiners on the performance of a candidate during an oral examination. This feedback will be used to help improve the assessment process and the candidate's development.

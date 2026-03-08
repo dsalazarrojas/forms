@@ -1,8 +1,3 @@
-<thinking>
-Is the form purpose to collect dimensions and information about products to provide accurate product details to customers? 
-Is the form intended to be completed by store owners or administrators, and is it a one-time form or a recurring form that needs to be filled out each time a product is listed in the store?
-</thinking>
-
 # Product Dimensions Information Form - Help Guide
 ## Purpose
 The Product Dimensions Information Form is used to collect accurate product dimensions and information to provide customers with the correct details about products listed in your store. This form helps ensure that product listings are accurate and complete, making it easier for customers to make informed purchasing decisions.

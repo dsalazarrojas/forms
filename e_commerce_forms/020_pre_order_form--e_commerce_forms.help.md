@@ -1,8 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and does not duplicate existing information, let's first confirm the purpose and requirements for the 'Pre Order Form'.
-The 'Pre Order Form' is used for customers to provide information related to their pre-order, which includes shipping address, contact details, and product specifics. The form is likely to be used for online marketplaces or e-commerce platforms to gather necessary information from customers before processing their pre-orders. The required fields are not explicitly stated in the provided YAML, so we will assume that only the 'email' and 'shipping_method' fields are required for the form to be considered complete.
-</thinking>
-
 # Pre Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for processing pre-orders. Please fill out this form to ensure that your order is processed correctly and on time.

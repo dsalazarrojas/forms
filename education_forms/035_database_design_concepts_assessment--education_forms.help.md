@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess a user's understanding of database design concepts. Its purpose is to evaluate their ability to think critically about database design principles and their application in real-world scenarios. The form is composed of multiple sections that cater to different aspects of database design, such as theory questions, scenarios, and scoring of answers. The form's design aims to provide a comprehensive assessment of the user's knowledge and skills in database design concepts.
-
-</thinking>
-
 # Database Design Concepts Assessment - Help Guide
 ## Purpose
 

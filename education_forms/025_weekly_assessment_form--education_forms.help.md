@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for weekly assessments, which is used to track the progress and status of team members and their objectives. This form is likely used by team leaders or managers to monitor the performance of team members on a weekly basis and identify areas of improvement. 
-
-Before filling out this form, please ensure you have not already completed the assessment for this week. If you have, please do not submit this form to avoid duplication of effort.
-
-</thinking>
-
 # weekly assessment form - Help Guide
 ## Purpose
 The weekly assessment form is designed to gather information on team members' progress, status, and goals for a specific week.

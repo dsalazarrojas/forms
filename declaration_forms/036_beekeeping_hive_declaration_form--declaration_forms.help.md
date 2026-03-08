@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Beekeeping Hive Declaration Form", I will ensure that the form is explained in a clear and concise manner, making it easy for users to understand the purpose and requirements of the form. I will provide a step-by-step guide on how to complete the form, and explain each field in detail, making sure that users understand what information is required and what they need to enter.
-
-</thinking>
-
 # Beekeeping Hive Declaration Form - Help Guide
 ## Purpose
 The Beekeeping Hive Declaration Form is a form used to declare and report information about your beekeeping activities, including beekeeper information, apiary location, hive health and conditions, and certification. This form helps authorities track and monitor beekeeping activities in the area to prevent the spread of diseases and ensure public safety. 

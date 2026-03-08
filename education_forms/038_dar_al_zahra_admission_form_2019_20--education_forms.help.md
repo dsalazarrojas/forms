@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to gather essential information for student admissions at Dar Al Zahra School. The form collects details such as student name, email, phone number, student ID, parent name, parent phone number, date of birth, school name, address, parent email, grade level, parent phone type, admission date, admission time, student gender, nationality, and religion. This information will be used to create a student profile and facilitate a smooth admission process. It is expected that the user will fill out all required fields to ensure accurate and complete information. Please note that some fields are optional and can be filled out at the user's discretion. 
-
-</thinking>
-
 # Dar Al Zahra Admission Form 2019 20 - Help Guide
 ## Purpose
 The Dar Al Zahra Admission Form 2019 20 is a form designed to collect essential information for student admissions at Dar Al Zahra School. The form is used to gather details about the student and their parent/guardian, including contact information, identification, and demographic data.

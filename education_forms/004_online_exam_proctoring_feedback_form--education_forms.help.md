@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from proctors who have conducted online exams, allowing them to share their experiences and suggestions for improvement. This feedback is essential for refining the proctoring process and ensuring that exams are conducted fairly and effectively. Before filling out this form, please ensure that you have not already submitted feedback for this exam, as duplicate submissions may cause unnecessary delays in processing. This form should only be filled out by proctors who have actual experience with the exam in question.
-</thinking>
-
 # online_exam_proctoring_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from proctors who have conducted online exams. Your input will help us refine the proctoring process and ensure that exams are conducted fairly and effectively.

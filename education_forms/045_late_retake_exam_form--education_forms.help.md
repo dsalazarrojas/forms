@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Late Retake Exam Form - Help Guide
 ## Purpose
 This form is used to request a retake for a student in a class. It captures information needed to review and evaluate the request.

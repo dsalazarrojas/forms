@@ -1,7 +1,3 @@
-<thinking>
-The Kayleighs Lipsense Order Form FINAL is a critical form used to gather essential information from customers for order processing and fulfillment. This form must be completed accurately and thoroughly to ensure prompt and proper order execution. Please ensure you are filling out the correct form. If you have any questions or concerns, please don't hesitate to reach out to our support team.
-</thinking>
-
 # Kayleighs Lipsense Order Form FINAL - Help Guide
 
 ## Purpose

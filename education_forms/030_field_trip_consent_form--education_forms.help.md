@@ -1,10 +1,3 @@
-<thinking>
-Please note that this form is a Field Trip Consent Form, which is designed to be used by schools to gather information and obtain consent from students and parents before taking students on field trips. This form is intended to inform students and parents of the trip details, risks, and responsibilities associated with the trip. It is also meant to ensure that students and parents understand their roles and responsibilities during the trip.
-
-Before filling out this form, please review the purpose and instructions carefully to ensure that you understand the form's requirements and implications.
-
-</thinking>
-
 # Field Trip Consent Form - Help Guide
 ## Purpose
 This form is a school-sponsored Field Trip Consent Form used to inform and obtain consent from students and parents before taking students on field trips.

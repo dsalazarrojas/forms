@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this form is used correctly and to provide clarity to end-users, let's break down its purpose and functionality:
 
 * The "Dance Studio Enquiry Form" is used by potential customers to express their interest in enquiring about a dance-related program or service offered by the dance studio.

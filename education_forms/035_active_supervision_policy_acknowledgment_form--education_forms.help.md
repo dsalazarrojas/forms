@@ -1,16 +1,3 @@
-<thinking>Form purposes and field duplication checks are as follows:
-
-- Purpose:
-  This form is designed to acknowledge that a staff member has received and read the active supervision policy.
-  It ensures that staff members understand the requirements of the policy and commit to following them.
-
-- Form Duplication:
-  This form is not affiliated, endorsed by, or derived from any form creation platform.
-  It's an original adaptation using AI and public survey topic metadata as inspiration.
-  Repeatedly using this form without modification may not be practical or efficient.
-
-</thinking>
-
 # Active Supervision Policy Acknowledgment Form - Help Guide
 ## Purpose
 This form is designed to confirm that a staff member has received and read the active supervision policy, ensuring they understand their commitments and responsibilities.

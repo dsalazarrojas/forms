@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess e-commerce agreements, collecting necessary information from customers to ensure a smooth and secure business transaction. The purpose of this form is to validate the agreement's terms and conditions with the customer, reducing the risk of miscommunication and potential disputes. This form should not be used for other purposes or for customers who have already completed a similar assessment in the past.
-
-</thinking>
-
 # E Commerce Agreement Assessment - Help Guide
 ## Purpose
 The E Commerce Agreement Assessment form is used to collect information from customers regarding their e-commerce agreements, ensuring a clear understanding of the terms and conditions.

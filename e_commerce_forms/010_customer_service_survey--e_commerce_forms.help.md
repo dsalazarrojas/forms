@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with the company's customer service. The form is meant to gather information about the customer's satisfaction with various aspects of their experience, such as the quality of the product, accuracy of order total, and helpfulness of customer support. This feedback will help the company to improve its customer service and overall user experience.
-</thinking>
-
 # customer_service_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our customer service.

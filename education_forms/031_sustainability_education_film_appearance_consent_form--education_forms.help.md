@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is likely used for obtaining consent from participants in a sustainability education film project. The purpose of this form is to collect necessary contact and demographic information from participants, including their email, phone number, and physical address, as well as to collect consent for the use of their photo, audio, and video recordings. This form may be used for both participants and schools or organizations involved in the film project. The form appears to be a comprehensive consent form that covers various aspects of the participant's involvement in the project, including their media release and consent for various types of content.
 
 # Sustainability Education Film Appearance Consent Form - Help Guide

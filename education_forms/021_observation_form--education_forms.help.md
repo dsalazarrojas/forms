@@ -1,11 +1,3 @@
-<thinking>
-This is a form for observing and evaluating employee performance within a team. It's meant for team leaders to provide feedback and input on their employees' work, focusing on specific tasks and behaviors, and helping to improve overall performance.
-
-This form aims to standardize the process, providing an efficient and structured way of collecting necessary information to assess employee performance, identify areas of improvement, and support individual development.
-
-Before filling out this form, please check if you've already submitted similar observations and evaluations within a reasonable timeframe. This will help maintain a consistent and fair assessment process for each team member.
-</thinking>
-
 # Observation Form - Help Guide
 ## Purpose
 The Observation Form is designed for team leaders to observe and evaluate employee performance, providing feedback and input on specific tasks and behaviors.

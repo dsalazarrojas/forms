@@ -1,11 +1,3 @@
-<thinking>Here is the internal reasoning to check purpose and non-duplication:
-- The form seems to be collecting data on students' modes of transportation to and from school.
-- Each field is designed to gather specific information on the frequency, mode, and other related aspects of student transportation.
-- There are some fields that seem to be redundant (e.g., "Do students use a bus for transport?" and "What mode of transport is used most frequently?") and should be merged or reworded.
-- The form appears to be asking about various aspects of student transportation, including frequency, modes of transport, and other related factors.
-- Some fields are related to staff or teacher involvement in transportation, which might not be directly related to student transportation.
-</thinking>
-
 # School Transport Survey - Help Guide
 ## Purpose
 This guide will help you complete the School Transport Survey, which is designed to gather information on students' modes of transportation to and from school.

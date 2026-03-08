@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholar Progress Survey - Help Guide
 ## Purpose
 This form, "Scholar Progress Survey," is designed to gather information about a student's academic progress. It is intended for educational institutions to assess the strengths and areas of improvement for students, as well as gather recommendations from teachers.

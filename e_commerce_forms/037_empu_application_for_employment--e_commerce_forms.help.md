@@ -1,10 +1,3 @@
-<thinking>
-...The form is a template for applicants to provide an employment application. 
-The form is designed to help applicants fill out basic details about their job preferences. 
-It should not be filled out by non-applicants or non-users of our system. 
-It is a single page form. 
-</thinking>
-
 # empu_application_for_employment - Help Guide
 ## Purpose
 This is the employment application form for individuals seeking employment. Fill out this form to provide basic details about your current or desired job title, category, type, description, and requirements.

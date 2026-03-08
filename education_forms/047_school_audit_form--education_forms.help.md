@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from various stakeholders, including staff, students, and parents, to assess the performance and progress of a school. The form is likely used during regular audits to identify areas of improvement and track changes over time. This form is likely used by school administrators or management to collect data and make informed decisions.
-
-This form is likely to be completed by staff, students, and parents, depending on the specific roles and responsibilities assigned to them. The form should be completed honestly and objectively, providing a clear and unbiased assessment of the school's performance.
-
-Before starting the form, ensure that you are in the correct section and that you have read and understood the instructions carefully.
-
-</thinking>
-
 # school_audit_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from various stakeholders to assess the performance and progress of a school. It is used to identify areas of improvement and track changes over time.

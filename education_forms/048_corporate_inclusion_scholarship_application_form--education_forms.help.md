@@ -1,15 +1,3 @@
-<thinking>
-We will create a help guide for the "corporate_inclusion_scholarship_application_form" form that includes a brief internal reasoning block that explains the form purpose and checks for relevance and non-duplication.
-
-The purpose of this form is to gather information from students about their contact information, educational background, motivation statement, employment status, education level, expected graduation date and year, foundation inclusion scholarship status, and other relevant details. This information is used to assess a student's eligibility for a foundation inclusion scholarship.
-
-Before proceeding, please ensure that:
-* You are submitting a genuine and valid application for the corporate inclusion scholarship.
-* You have not previously submitted a similar scholarship application through this form.
-
-Please note that this guide is only applicable to the "corporate_inclusion_solarship_application_form" form, and any other forms or purposes may have different requirements and procedures.
-</thinking>
-
 # corporate_inclusion_scholarship_application_form - Help Guide
 ## Purpose
 The "corporate_inclusion_scholarship_application_form" is designed to collect information from students about their contact details, educational background, motivation statement, employment status, and other relevant information to assess their eligibility for a foundation inclusion scholarship.

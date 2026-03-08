@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from parents or guardians about their child's experience and concerns related to school reopening. It is designed to be completed by parents who have previously indicated that they do not intend to enroll their child in the current school year. The form is not intended for students or staff members. It is recommended that the form is completed by only one parent per household. This form is for gathering general information and not for sharing sensitive or personal student data. Please ensure that you have the necessary permissions to complete this form.
-</thinking>
-
 # Reopening School Survey - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians about their child's experience and concerns related to school reopening. It is intended for parents who have previously indicated that they do not intend to enroll their child in the current school year.

@@ -1,14 +1,3 @@
-<thinking> 
-We have a form with 25 fields in total. To create a user-facing help guide, we need to identify the purpose of the form and ensure we are not duplicating content. Based on the provided YAML, the form appears to be related to creating or managing delivery routes, but we will need to review each field individually to determine the specific purpose and provide clear explanations to ensure users understand what each field is for. 
-
-This form is likely to be used by users with some technical knowledge, as it includes fields with types like date, time, and number. Given that some fields have multiple options, users may need some guidance on how to use these effectively.
-
-Upon reviewing the form, the fields can be broadly categorized into text fields, date fields, number fields, select fields, and boolean fields. 
-
-We will create a comprehensive help guide that covers each of these categories, providing clear explanations and best-effort interpretations of field labels to help users complete the form effectively.
-
-</thinking>
-
 # Delivery Route Label Order Form - Help Guide
 ## Purpose
 The Delivery Route Label Order Form is a tool for creating or managing delivery routes. The form is divided into multiple pages, each with different fields to gather specific information. The purpose of this form is to collect relevant details about delivery routes, including labels, dates, and other important information.

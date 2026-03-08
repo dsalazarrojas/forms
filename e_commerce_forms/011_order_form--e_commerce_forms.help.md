@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a basic order form designed for customers to submit their information and details for a purchase or request. The form is composed of fields that collect the customer's name, contact information, order details, and a subtotal or total amount. It is expected that the user will fill out the form with the necessary information and submit it for processing.
 
 # Order Form - Help Guide

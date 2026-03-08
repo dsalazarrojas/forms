@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by educators or staff members to gather information about the educational support needs of students or learners. The form might be used in a variety of settings, such as schools, universities, or educational institutions. It could be used to assess the level of educational support required for students, such as academic support, mental health support, or other types of support.
-</thinking>
-
 # Educational Support Questionnaire - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback about a course from students and teachers. This form is likely used by instructors to assess the effectiveness of their teaching methods, student engagement, and overall course performance. The data collected through this form can be used to improve future course iterations, adjust teaching strategies, and provide valuable insights to students and teachers alike.
-
-Before we dive into the form, let's clarify that this form is designed to be completed by students and teachers, providing feedback on various aspects of the course. It's essential to complete this form with thoughtful and honest responses to provide valuable insights.
-
-This form consists of multiple sections, each focusing on different aspects of the course. Please read each section carefully and answer accordingly.
-
-</thinking>
-
 # pbe_feedback_survey - Help Guide
 ## Purpose
 The pbe_feedback_survey form is designed to collect feedback from students and teachers about a course, providing valuable insights to improve teaching methods, student engagement, and overall course performance.

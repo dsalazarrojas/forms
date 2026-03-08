@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the "youth_sports_fund_donation_form" form. The purpose of this form is to collect information for a donation to support youth sports programs. This form is designed to be completed by individuals or organizations making a donation to support local youth sports initiatives. Before proceeding, ensure that the information and donation amount provided are accurate and align with your intended donation goals and any applicable policies. 
-</thinking>
-
 # youth_sports_fund_donation_form - Help Guide
 ## Purpose
 The "youth_sports_fund_donation_form" is a form intended for collecting donation information from individuals or organizations to support local youth sports programs.

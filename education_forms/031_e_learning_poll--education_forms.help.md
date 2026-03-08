@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their eLearning platform preferences and experiences. This includes whether or not they have used an eLearning platform, their email address, their preferred time of day for learning, a note field for additional comments, and a field for their phone number. This information will be used to better understand user preferences and experiences with eLearning platforms.
-</thinking>
-
 # e_learning_poll - Help Guide
 ## Purpose
 The e_learning_poll form is designed to gather information about your eLearning platform experiences and preferences.

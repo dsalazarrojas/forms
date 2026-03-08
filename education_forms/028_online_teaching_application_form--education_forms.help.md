@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to apply for teaching positions online. The form captures information about the applicant's qualifications, experience, and personal details. It seems that the form is intended for a general online teaching application process, but the fields are not clearly defined in the YAML configuration, leading to some ambiguity. For instance, "application_form_2" and "uploaded_cv_2" seem to be redundant with "application_form" and "uploaded_cv" respectively. Similarly, the "name" fields appear to be duplicates. The best course of action would be to review and refine the form's structure and field labels to ensure clarity and consistency. 
-</thinking>
-
 # Online Teaching Application Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to elicit feedback from peers on presentations, allowing users to share their opinions and suggestions on the presentation's quality and content. 
-It is essential to provide constructive and respectful feedback that can help the presenter improve their skills and presentation style. Before filling out this form, please take a moment to reflect on the presentation you have witnessed, and provide feedback that is specific, objective, and actionable.
-To avoid duplication of feedback, please ensure that you are providing feedback on a single presentation at a time.
-</thinking>
-
 # Presentation Peer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from peers on presentations, helping the presenter improve their skills and style.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only used for its intended purpose and not duplicated. This form is designed to collect information from users for conversion requests related to study guides. A study guide conversion request form is typically used by users to request the conversion of a specific study guide into a different format, such as PDF or EPUB. To prevent duplication of efforts and ensure accurate processing, only users who have a valid reason for requesting a study guide conversion should fill this form. Additionally, this form should not be filled out for general inquiries or other purposes.
-</thinking>
-
 # Study Guide Conversion Request Form - Help Guide
 ## Purpose
 The Study Guide Conversion Request Form is designed to collect information from users for conversion requests related to study guides. This form is intended for users who need to request the conversion of a specific study guide into a different format.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from parents or guardians about their child's orientation session preferences, personal details, and contact information. This guide will help you complete the form accurately and provide a clear understanding of each field's purpose.
-</thinking>
-
 # Child Orientation Registration - Help Guide
 ## Purpose
 The Child Orientation Registration form is designed to gather details from parents or guardians about their child's orientation preferences, personal details, and contact information. This information will help us tailor the orientation session to their needs and ensure a smooth communication process.

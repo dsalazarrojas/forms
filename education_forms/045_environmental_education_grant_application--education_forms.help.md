@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Environmental Education Grant Application - Help Guide
 
 ## Purpose

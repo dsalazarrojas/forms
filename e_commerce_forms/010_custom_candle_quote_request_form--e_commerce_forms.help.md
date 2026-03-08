@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used in an e-commerce setting to gather information from customers for custom candle orders. The form may be used to request a quote for a custom candle, allowing customers to provide their name, email, phone number, product type, fragrance, color, and other details. The form could potentially be used by a business that sells candles, soaps, or other products related to aromatherapy or home decor.
-The form may help to prevent duplication by storing the quote request data and not allowing a duplicate request to be submitted.
-The form fields seem to be a mix of basic text fields and number fields, indicating it's used to gather general information and pricing data from the customer. The product type field seems to be a select box, suggesting that the business offers different types of candles or products. The form may also be used to gather additional details such as phone numbers and quantities to help the business fulfill the order.
-
-</thinking>
 # Custom Candle Quote Request Form - Help Guide
 
 ## Purpose

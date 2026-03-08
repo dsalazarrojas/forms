@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals regarding their psychological and medical background. The fields in this form are intended to capture various aspects of an individual's mental and physical well-being. The form is not designed to collect personal data that should be sensitive or potentially threatening.
-When designing this form, I considered the following questions:
-
-* What are the key areas of information to be collected?
-* How can the form be structured in a way that is clear and user-friendly?
-* How can I ensure that the form is free from duplication and redundancy?
-
-Upon reviewing the form structure, I noticed that the fields are categorized into several sections, including contact details, medical history, mental status, and treatment history. Each section is designed to collect specific information that will help in understanding an individual's overall health and wellness.
-
-To avoid duplication, I ensured that fields with similar information are grouped together and that each field has a clear and concise label that explains its purpose.
-
-The form has a mix of text fields and select multiple fields, which will help in collecting more detailed information from the individual.
-</thinking>
-
 # psychology_questionnaire_template - Help Guide
 ## Purpose
 This form is designed to collect information from individuals regarding their psychological and medical background.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and other relevant details from individuals who want to make a donation to a nonprofit organization. This form is likely used for fundraising purposes, and the collected data will be used to follow up with donors and manage their interactions with the organization. To avoid duplicating efforts and ensure accurate data collection, it is essential to fill out this form carefully and truthfully.
-
-Before proceeding, please ensure that you have already made a donation or have a valid reason for completing this form. If you have any existing relationship with the nonprofit organization, such as being a current or past donor, volunteer, or employee, please indicate this in the relevant field.
-</thinking>
-
 # Nonprofit Organization Donation Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who wish to make a donation to a nonprofit organization. It is used for administrative purposes to track donor interactions and follow up on donation commitments.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about students related to their sacraments, which are sacred rites or ceremonies performed within the context of a religious tradition. This form is designed to gather details about the student's sacraments, including their first name, last name, date of birth, date of entry, address, and other relevant information. The form also allows for the selection of the type of sacrament the student has received and any additional notes or comments. The information collected through this form will be used to track and manage student records within the institution or organization.
-</thinking>
-
 # Sacrament Information Form For Students - Help Guide
 
 ## Purpose

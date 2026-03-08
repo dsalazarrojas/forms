@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for enrolling a student into a primary school. The form aims to collect essential information about the student and their parent/guardian. The fields are designed to be simple and easy to understand, ensuring accurate and complete data collection. It's crucial to complete this form carefully, as the information will be used for official school records and student enrollment purposes.
-
-</thinking>
-
 # Primary School Enrollment Form - Help Guide
 ## Purpose
 This form helps us enroll a student into our primary school. To provide the best possible experience for the student, kindly complete this form carefully and accurately.

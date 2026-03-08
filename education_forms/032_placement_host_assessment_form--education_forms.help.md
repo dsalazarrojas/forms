@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to support the user in completing the Placement Host Assessment Form in the most accurate and efficient manner. To ensure that users understand the form's purpose and requirements, please note that this form is used to gather information about job placements and the contact person responsible for the host company. 
-
-The form is used by the placement team to collect data for reporting and evaluation purposes.
-
-Please make sure that the form is filled out completely and accurately to avoid any errors or discrepancies in the reporting process.
-</thinking>
-
 # Placement Host Assessment Form - Help Guide
 
 ## Purpose

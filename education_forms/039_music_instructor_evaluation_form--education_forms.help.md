@@ -1,7 +1,3 @@
-<thinking>
-This form will likely be used by a music school or institution to evaluate music instructors. The form is used to gather feedback on a music instructor's performance, teaching style, and overall quality of instruction. It's possible that this form is used for both student and teacher feedback, as it includes fields for both student and teacher information.
-</thinking>
-
 # Music Instructor Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on a music instructor's performance, teaching style, and overall quality of instruction.

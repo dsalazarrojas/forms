@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Education Research Partnership Request Form - Help Guide
 ## Purpose
 

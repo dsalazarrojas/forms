@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Work Best Practices Training Form - Help Guide
 ## Purpose
 This form is designed to help employees understand and evaluate the effectiveness of remote work best practices in their work environment. It assesses the employees' knowledge and attitude towards remote work policies and assesses the impact of these policies on their work experience.

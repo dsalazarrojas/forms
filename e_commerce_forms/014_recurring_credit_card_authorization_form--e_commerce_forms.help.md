@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # recurring_credit_card_authorization_form - Help Guide
 ## Purpose
 The Recurring Credit Card Authorization form is used to authorize recurring payments from a customer's credit card. This form is required to collect sensitive information from customers, including their card holder information, payment details, and credit card authorization.

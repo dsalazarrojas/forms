@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals seeking employment in the education sector. It aims to gather details about the applicant, their personal and professional background, and any relevant supporting documents. This form is meant for internal use by educational institutions or organizations within the education sector. Please ensure that you are eligible to fill out this form before proceeding. If you're not sure about the purpose or requirements of this form, review the relevant internal documentation or contact the relevant authorities for clarification. This form is not intended for external use or for collecting sensitive information from children or non-consenting individuals. If you're filling out this form for a colleague or someone else, ensure they are aware of and agree to the information being collected.
-</thinking>
-
 # Education Sector Employment Application - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking employment in the education sector. It gathers details about the applicant, their personal and professional background, and relevant supporting documents.

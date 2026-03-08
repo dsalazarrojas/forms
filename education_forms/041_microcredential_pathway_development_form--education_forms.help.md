@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to help users create a microcredential pathway, which is a series of connected activities that lead to a specific learning outcome or skill. The form is designed to collect information about the user's learning pathway, including their goals, activities, and progress. The form will guide users through a series of questions and prompts to help them create a clear and structured pathway. Users are not required to fill out the entire form at once; they can complete it in sections, saving their progress and returning to it later if needed. This form is not a test or assessment, and users are not expected to provide sensitive or personal information. Users should only fill out the form if they are interested in developing a microcredential pathway.</thinking>
-
 # Microcredential Pathway Development Form - Help Guide
 ## Purpose
 The Microcredential Pathway Development Form is a tool to help you create a personalized learning pathway to achieve specific learning outcomes or skills.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently. The purpose of this form is to collect information from applicants interested in enrolling in the Advanced Education Division. Each field is crucial in determining the applicant's eligibility and suitability for enrollment. To avoid duplication of effort, please review your answers carefully and make sure you have the necessary information before proceeding.
-</thinking>
-
 # Advanced Education Division Selection Form - Help Guide
 ## Purpose
 The Advanced Education Division Selection Form is designed to collect essential information from applicants who are interested in enrolling in the division. The form is divided into sections that cover the applicant's profile, division selection, program specifics, rationale for selection, and enrollment details.

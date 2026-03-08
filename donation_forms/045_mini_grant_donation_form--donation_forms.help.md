@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mini Grant Donation Form - Help Guide
 
 ## Purpose

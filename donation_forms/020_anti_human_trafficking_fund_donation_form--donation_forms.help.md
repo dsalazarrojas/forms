@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to allow users to make a donation to the Anti Human Trafficking Fund. The purpose of this form is to provide an easy and secure way for individuals to support efforts to combat human trafficking. 
-
-The form collects various information to ensure that the donation process is smooth and accurate. It is essential to complete this form correctly to ensure that your donation is processed correctly and your donor details are recorded accurately.
-
-To confirm that this form is relevant and not a duplication, it's essential to check that the donor's contact email is accurate, as it will be used for donation receipt and communication. 
-
-</thinking>
-
 # Anti Human Trafficking Fund Donation Form - Help Guide
 ## Purpose
 The Anti Human Trafficking Fund Donation Form is designed to allow individuals to make a donation to support efforts to combat human trafficking. This form collects information necessary to process and record the donation accurately.

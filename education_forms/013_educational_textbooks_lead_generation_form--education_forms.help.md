@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose and functionality of the Educational Textbooks Lead Generation Form. This form is used to generate leads for educational textbooks, and it captures crucial information about the school, contact person, and book details. To ensure the form is completed correctly, I will provide a clear and concise explanation of each field, taking into account the type and options provided in the form schema.</thinking>
-
 # Educational Textbooks Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to capture information about educational textbooks, including school details, contact person, and book specifics. The purpose of this form is to generate leads for textbook sales and related services.

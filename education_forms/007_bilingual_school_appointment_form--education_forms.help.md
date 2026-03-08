@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bilingual School Appointment Form - Help Guide
 ## Purpose
 The Bilingual School Appointment Form is designed to facilitate communication between parents/guardians and school staff for scheduling appointments in a bilingual setting. This form helps to ensure that all necessary information is collected in a clear and efficient manner, promoting effective communication and reducing misunderstandings. It is intended for use in a school setting where both English and Spanish languages are spoken.

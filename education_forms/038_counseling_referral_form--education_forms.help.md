@@ -1,12 +1,3 @@
-<thinking>
-This form is used to refer a student to a counseling program or service. 
-The form collects information about the student, including their name, grade level, education level, and contact information. 
-It also collects information about the referral reason, program, and counselor responsible for the referral. 
-The form helps to identify the student's needs and determine the best course of action for their referral. 
-This form should only be completed by authorized personnel in the school or institution. 
-Please ensure that you are filling this form out correctly, as any incorrect information may lead to miscommunication and potentially harm the student.
-</thinking>
-
 # counseling_referral_form - Help Guide
 ## Purpose
 The counseling referral form is used to refer a student to a counseling program or service. It provides the necessary information to facilitate the referral process and ensure the student receives the support they need.

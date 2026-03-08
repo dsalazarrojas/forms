@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to register for the HBCU (Historically Black Colleges and Universities) Initiative. It captures information about the individual's roles, interest statements, date, time, contact information, and any additional notes or details. This form is not meant to be duplicated, so please do not register multiple times. Please ensure that the information you provide is accurate and up-to-date.
-</thinking>
-
 # HBCU Initiative Registration Form - Help Guide
 ## Purpose
 The HBCU Initiative Registration Form is designed to collect information from participants about their roles, interests, and contact details. It's essential to complete this form accurately to ensure that your registration is successful and to help us tailor our initiative to your needs.

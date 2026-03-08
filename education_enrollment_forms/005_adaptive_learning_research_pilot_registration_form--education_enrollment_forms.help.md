@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adaptive Learning Research Pilot Registration Form - Help Guide
 
 ## Purpose

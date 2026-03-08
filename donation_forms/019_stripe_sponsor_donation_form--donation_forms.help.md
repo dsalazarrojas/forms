@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a donation process. It is likely to be used for a fundraising campaign or similar. This form has 26 fields, which is unusual, so it's possible that some of these fields may be redundant or unnecessary. To avoid duplication, ensure that all fields are reviewed and edited carefully to focus on collecting relevant and essential information.
-</thinking>
-
 # stripe_sponsor_donation_form - Help Guide
 ## Purpose
 This form is used to collect information for a donation process.

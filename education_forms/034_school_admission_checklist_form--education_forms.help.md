@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their parents during the admission process in schools. The form is intended to gather basic personal details and contact information from students and their parents. It is a general-purpose form and not specific to any particular school or region. The purpose of this form is to facilitate the admission process by capturing necessary information in a structured and organized manner.
-</thinking>
 # School Admission Checklist Form - Help Guide
 ## Purpose
 

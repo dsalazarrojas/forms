@@ -1,8 +1,3 @@
-<thinking> 
-This is a project planning form used for creating new projects or editing existing ones. It's essential to fill out this form accurately and completely to ensure that all necessary information is captured correctly. Before filling out this form, ensure that you have the necessary permissions and approvals required for the project. If you're unsure about any field, please reach out to your project lead or manager for guidance.
-
-</thinking>
-
 # Project Planning Form - Help Guide
 
 ## Purpose

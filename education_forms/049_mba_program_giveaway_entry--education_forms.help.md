@@ -1,12 +1,3 @@
-<thinking>
-We have a form to capture user information for an M.B.A. program giveaway entry. This form is intended to collect details about the user, their program of interest, and their motivation for applying. The form is designed to be completed by individuals interested in being entered into the program. The form fields will ask for basic contact information, program preferences, and motivation statements. 
-
-This form is not intended for internal employees or staff members of the company, and we want to ensure that only genuine users are entered into the program. We should check for duplication of entries and disallow users from submitting multiple entries. 
-
-This guide will walk the user through each field, helping them understand what to expect and how to complete the form accurately. 
-
-</thinking>
-
 # mba_program_giveaway_entry - Help Guide
 ## Purpose
 This form is for users interested in entering the M.B.A. program giveaway. It helps us gather information about you and your program preferences to determine eligibility for the program.

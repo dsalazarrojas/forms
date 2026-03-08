@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a registration form for the Inclusive Curriculum Design Studio, likely used to collect information from individuals interested in participating in this educational program. The form likely aims to gather data on the registrants' education background, including their qualifications, areas of interest, and any conflicts they may have. The "Education Conflict" fields could be used to capture any potential issues or concerns related to the program, while the "Note Conflict" fields might be used to capture any personal notes or comments from the registrants.
-</thinking>
-
 # inclusive_curriculum_design_studio_registration_form - Help Guide
 ## Purpose
 This form is a registration form for the Inclusive Curriculum Design Studio, used to collect information from individuals interested in participating in this educational program.

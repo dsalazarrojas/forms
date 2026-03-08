@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of students on the topic of Alkyl Halides. The form asks a series of multiple-choice questions related to the structure, properties, and reactions of alkyl halides. The questions cover various aspects of alkyl halides, including their general formula, halogen types, reaction types, and stereochemistry. The form aims to evaluate the student's understanding of the subject matter and their ability to apply it to different scenarios.
-</thinking>
-
 # Alkyl Halides Knowledge Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge on Alkyl Halides, a crucial topic in organic chemistry. The questions cover various aspects of Alkyl Halides, including their structure, properties, and reactions.

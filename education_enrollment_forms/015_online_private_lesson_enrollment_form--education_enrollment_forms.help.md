@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Private Lesson Enrollment Form - Help Guide
 ## Purpose
 This form is used for online private lesson enrollment, allowing students to enroll in private lessons with instructors. It is designed to collect relevant information from students and instructors to ensure a smooth and effective learning experience.

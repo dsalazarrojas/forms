@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Cufflink Order Form - Help Guide
 
 ## Purpose

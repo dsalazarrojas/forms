@@ -1,7 +1,3 @@
-<thinking>
-The Gastroenterology Discharge Form is used to document patient information and follow-up instructions after a hospital or clinical visit. This form ensures that all necessary details are recorded and communicated to the patient, and that the patient understands their post-visit responsibilities. Before completing this form, please ensure that the patient's medical record is up-to-date and accurate, and that you have reviewed the patient's chart to gather all necessary information. This form should not be used as a substitute for other medical records or forms.
-</thinking>
-
 # Gastroenterology Discharge Form - Help Guide
 ## Purpose
 The Gastroenterology Discharge Form is used to collect patient information and follow-up instructions after a hospital or clinical visit, ensuring accurate and complete documentation of the patient's care.

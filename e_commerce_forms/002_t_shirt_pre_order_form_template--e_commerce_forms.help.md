@@ -1,13 +1,3 @@
-<thinking>
-The T Shirt Pre Order Form Template is designed to collect information from customers who want to pre-order a T shirt. The purpose of this form is to gather customer details, product preferences, and order specifics for successful order fulfillment and delivery. The form should not be used for general contact or inquiry purposes.
-
-This form collects information such as customer name, email, phone number, shipping address, and order details. It also includes fields for customer notes, special instructions, and order comments. The form is not meant to be used for non-order related activities. Please ensure this form is not used for purposes other than pre-ordering T shirts, such as for customer service or general inquiries.
-
-To confirm, this form is intended for pre-ordering purposes and should be used within that context. If you plan to use it for other purposes, please review this documentation again or seek clarification from your team members to avoid confusion and potential errors.
-
-Please review your project scope and purpose before proceeding with this form.
-</thinking>
-
 # T Shirt Pre Order Form Template - Help Guide
 ## Purpose
 The T Shirt Pre Order Form Template is designed to collect information from customers who want to pre-order a T shirt. This form gathers necessary details for successful order fulfillment and delivery.

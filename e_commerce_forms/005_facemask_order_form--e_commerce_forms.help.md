@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to place an order for facemasks, and it is likely to be used by a web application or website that allows customers to browse and purchase facemasks online. This form should only be used for this specific use case, and not for other types of orders or purchases. The purpose of this form is to collect necessary information from customers for the order to be processed successfully. 
-
-</thinking>
-
 # Facemask Order Form - Help Guide
 ## Purpose
 The Facemask Order Form is designed to help customers place an order for facemasks online. It is used to collect relevant information required for processing the order.

@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended for users completing the "Common And Proper Nouns Quiz" form. The form is designed to assess users' understanding of common and proper nouns, and help them practice their ability to identify and use these linguistic elements correctly in various contexts. This guide will walk users through each step of the form, explaining the purpose and expected outcomes of each field. 
-
-The form is composed of 17 fields, divided into sections with clear labels. Each section is designed to test different aspects of common and proper nouns. The form is meant to be completed by students, likely in an educational setting. 
-
-To complete the form, users will be guided through a series of questions and exercises that cover the identification and usage of common and proper nouns in sentences. 
-
-Each question will have a set of options or an open-ended field for users to provide their responses. 
-
-The form is designed to be self-contained, and users can complete it in any order or pace they like.
-
-</thinking>
-
 # Common And Proper Nouns Quiz - Help Guide
 
 ## Purpose

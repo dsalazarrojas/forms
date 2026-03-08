@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for credit card authorization, which likely involves checking the details of a customer's credit card information. The form may be used to verify the customer's identity, card type, expiration date, and other relevant information. This is a crucial form for financial transactions and security checks.
-
-To prevent duplication, let's ensure that this form does not overlap with existing forms, especially those related to user registration, payment processing, or other sensitive information.
-
-The form appears to be quite comprehensive, covering various aspects of credit card details. It's essential to understand each field clearly to ensure accurate and complete submission.
-</thinking>
-
 # credit_card_authorization_form - Help Guide
 ## Purpose
 The credit card authorization form is designed for verifying credit card information, ensuring accurate and secure financial transactions.

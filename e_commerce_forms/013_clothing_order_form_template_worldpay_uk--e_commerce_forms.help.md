@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the purpose of the Clothing Order Form Template WorldPay UK, how to complete it, and explain each field in detail to ensure users fully understand what is required of them.
-
-The form purpose is to collect customer information, billing and shipping address details, order items, and delivery options for placing an order. This guide will walk through each page of the form, explaining what information is required for each section.
-
-</thinking>
-
 # Clothing Order Form Template WorldPay UK - Help Guide
 ## Purpose
 The purpose of this form is to collect customer information, billing and shipping address details, order items, and delivery options for placing an order.

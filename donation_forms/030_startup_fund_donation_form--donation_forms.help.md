@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information from individuals or organizations that are interested in donating funds to a startup or a business. The purpose of this form is to gather general information, donation preferences, and other relevant details from potential donors. The form is designed to be completed by individuals who want to support a startup or business by contributing funds, and it is expected that the information collected will help in tracking and managing the donations.
-</thinking>
-
 # startup_fund_donation_form - Help Guide
 ## Purpose
 This form is used for collecting information from potential donors who are interested in supporting a startup or business by contributing funds.

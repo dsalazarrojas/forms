@@ -1,11 +1,3 @@
-<thinking>
-
-This form, called "Affidavit Of Non Operation", seems to be used for individuals to declare that a vehicle is not being operated on public highways. This could be for various reasons such as storage, repair, non-insurance, or other reasons. The form is designed to gather information about the vehicle owner, vehicle details, and declaration of non-operation.
-
-From what I can see, this form is intended for situations where a vehicle is not being used for an extended period. It's likely used for administrative purposes, such as updating vehicle status, reporting a change in ownership, or meeting specific regulatory requirements. Before starting, make sure this is the correct form for your use case and that you have all necessary details to complete it accurately.
-
-This guide is for user-facing guidance, so please be concrete and clear in your explanations.</thinking>
-
 # Affidavit Of Non Operation - Help Guide
 ## Purpose
 This form is for declaring that a vehicle is not being operated on public highways. This includes situations where the vehicle is in storage, being repaired, or not insured.

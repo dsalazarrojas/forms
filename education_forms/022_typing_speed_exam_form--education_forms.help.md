@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate typing speed of a user. The purpose of this form is to collect information about the user's name, email address, phone number, score, and time taken. The form is not required and is used to gauge the user's typing speed, likely for internal or research purposes. This form should not be used for any official or critical evaluation.
-
-</thinking>
-
 # Typing Speed Exam Form - Help Guide
 
 ## Purpose

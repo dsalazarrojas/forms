@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ophthalmology_discharge_form - Help Guide
 ## Purpose
 This form is used to document a patient's discharge information and instructions for post-discharge care after an ophthalmology procedure. It ensures that all necessary details are collected and communicated effectively to the patient, reducing the likelihood of misunderstandings or complications.

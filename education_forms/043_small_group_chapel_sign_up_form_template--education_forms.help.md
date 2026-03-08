@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to register student groups for the chapel service. It is designed to be filled out by students and group leaders/leaders to sign up for the chapel service. Before filling out this form, please ensure that you haven't already registered with this group. 
-
-The form is divided into multiple pages, each page is meant to capture different information about the group or student signing up. 
-
-The following fields are required and will be checked on submission. 
-
-Please follow these steps to complete the form successfully.
-
-</thinking>
-
 # small_group_chapel_sign_up_form_template - Help Guide
 ## Purpose
 This form is used to register student groups for the chapel service. It is designed for students and group leaders/leaders to sign up for the chapel service. 

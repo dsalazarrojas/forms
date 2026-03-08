@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students or their guardians for primary school pre-registration purposes. This form will likely be used by schools to gather necessary details from students or their guardians before the student starts attending the school. The form's purpose is to ensure that the school has the necessary information to provide a smooth and safe learning environment for the student.
-</thinking>
-
 # Primary School Pre Registration Form Template - Help Guide
 ## Purpose
 This form is used to collect pre-registration information from students or their guardians before the student starts attending primary school.

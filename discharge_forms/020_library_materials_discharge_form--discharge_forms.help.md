@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Materials Discharge Form - Help Guide
 
 ## Purpose

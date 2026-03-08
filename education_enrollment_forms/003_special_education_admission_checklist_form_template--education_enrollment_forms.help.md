@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect detailed information from parents or guardians of students who are applying for special education services. The form is intended to gather essential data about the student, their disability or medical condition, education history, and other relevant information.
-
-To ensure accurate and comprehensive data collection, it is crucial to review and complete this form carefully. Please note that the form is a template and might need to be adapted or modified according to specific institutional or regulatory requirements.
-
-Before proceeding, please check if you have any existing forms or templates that cover similar information. If you have a similar form, you can skip this one to avoid duplication of effort. Otherwise, please continue with the following guide to complete the form.
-</thinking>
-
 # Special Education Admission Checklist Form Template - Help Guide
 ## Purpose
 The Special Education Admission Checklist Form Template is designed to collect comprehensive information from parents or guardians of students who are applying for special education services. This form helps schools, institutions, or organizations understand the student's background, needs, and goals to provide tailored support.

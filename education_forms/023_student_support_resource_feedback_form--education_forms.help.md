@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback from students on the quality of support resources provided by the institution. The purpose of this form is to help the institution understand what's working well and where improvements can be made. 
 
 To ensure that your feedback is actionable, please only submit a single instance of this form per resource. Duplicate submissions may lead to unnecessary repetition and confusion in our analysis.

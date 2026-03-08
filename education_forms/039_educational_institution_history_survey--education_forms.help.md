@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about educational institutions, likely for research, reporting, or other internal purposes. The form has four main sections: Student Information, Staff Information, Alumni Information, and Historical Insights. Each section is optional, except for the "Submit" button, which is required. This form was created to be used in educational settings, and its purpose is to gather relevant data about the institution's past and present.
-
-</thinking>
-
 # Educational Institution History Survey - Help Guide
 ## Purpose
 This form is designed to collect information about educational institutions, likely for research, reporting, or other internal purposes.

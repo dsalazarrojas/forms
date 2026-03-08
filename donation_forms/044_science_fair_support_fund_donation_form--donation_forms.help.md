@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Science Fair Support Fund Donation Form", I will analyze the provided YAML fields and provide a clear, concise, and practical explanation of each field and its purpose.
-
-The purpose of this form is to collect donations from individuals for the Science Fair Support Fund, which aims to support science fairs and educational initiatives. This form is designed to gather information about the donor, including their contact details, donation amount, frequency, and other relevant details. 
-
-The form has multiple pages with various fields, including name, address, phone, email, amount, frequency, and other demographic information. Some fields are optional, while others are required. 
-
-Before proceeding, I will review the form's structure and content to ensure that I provide accurate and helpful information to the end-users.
-
-</thinking>
-
 # Science Fair Support Fund Donation Form - Help Guide
 ## Purpose
 The Science Fair Support Fund Donation Form is designed to collect donations from individuals for the Science Fair Support Fund, which aims to support science fairs and educational initiatives.

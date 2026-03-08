@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information from students about their essay submissions, including the essay title, file upload, and other relevant details. This form is designed to help students submit their essays in a structured and organized manner, making it easier for them to provide the necessary information and for administrators to review and process the submissions. It's essential to ensure that this form is used correctly to avoid any confusion or duplication of efforts.
-</thinking>
-
 # Student Essay Upload Form - Help Guide
 
 ## Purpose

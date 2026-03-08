@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from users to facilitate the creation of tutorials or guides on various subjects. The purpose of this form is to provide a structured and organized way of gathering details from users, ensuring that the tutorials are comprehensive and meet the needs of the target audience. This form is a critical tool in the process of creating valuable educational resources.
-
-Before proceeding, please note that if you have already submitted a similar request in the recent past, your submission may be treated as a duplication. To ensure that your request is considered unique and valid, make sure that your submission contains new information or has changed since the last submission.
-
-</thinking>
-
 # tutorial_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about tutorials or guides you'd like to request. This includes the subject, topic, and any additional details you'd like to provide. The form also allows you to specify your preferred method and time of contact for further communication.

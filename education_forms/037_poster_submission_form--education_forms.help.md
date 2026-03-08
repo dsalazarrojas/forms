@@ -1,8 +1,3 @@
-<thinking>
-This guide will help you complete the Poster Submission Form, a tool designed to collect information about student projects. This form ensures that all relevant details are gathered accurately and consistently, reducing the risk of missing crucial information.
-We will guide you through each field to make sure you fill it out correctly. Please ensure you have all necessary information before starting as some fields may require specific format or type of input.
-</thinking>
-
 # Poster Submission Form - Help Guide
 ## Purpose
 The Poster Submission Form is a tool used to collect information about student projects. It is essential to fill out this form accurately to ensure that the project details are correctly recorded and easily accessible.

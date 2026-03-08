@@ -2,22 +2,6 @@
 ## Purpose
 The middle_school_teacher_application_form is designed to collect information from applicants interested in teaching positions at a middle school. This form will help us evaluate your qualifications, experience, and availability to determine the best fit for our team.
 
-<thinking>
-This form is intended for middle school teacher applicants who wish to apply for a teaching position at a middle school. The form is designed to collect relevant information about the applicant's qualifications, experience, and availability. The form will ask for details on their teaching experience, education background, and teaching certifications. We use this information to evaluate potential candidates for middle school teaching positions.
-
-The following fields are included in this form:
-- Applicant Information: This section captures the basics about the applicant.
-- Contact Information: This section is for additional contact information.
-- Teaching Experience: This section asks about the applicant's teaching experience.
-- Job Opening: This is a drop-down menu with job options.
-- School Information: This section is for additional school information.
-- Availability: This section asks about the applicant's availability in terms of days and hours.
-- Education Background: This section inquires about the applicant's education level.
-- Teaching Certifications: This section inquires about the applicant's teaching certifications.
-- Personal Statement: This section allows the applicant to provide additional details about themselves.
-
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 1. Provide your basic information as an applicant in the "Applicant Information" section.

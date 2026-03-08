@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraising Campaign License Form - Help Guide
 ## Purpose
 The Fundraising Campaign License Form is used to collect information from individuals or organizations interested in running a fundraising campaign under the name of the organization. This form is used to verify the authenticity of the individual or organization and ensure they have a valid tax ID and contact information. It is also used to gather any other relevant details for our records.

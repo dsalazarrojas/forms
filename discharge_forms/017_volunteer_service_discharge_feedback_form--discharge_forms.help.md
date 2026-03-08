@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from volunteers after their service has been discharged. This form is used to gather information about the volunteer's experience, the reasons for their discharge, and any additional comments or concerns they may have. This information will help staff members understand the volunteer's perspective and improve their service delivery. Please ensure that you only complete this form once for each volunteer service, and if you are not sure about the purpose of this form, please reach out to your supervisor or the volunteer service team.
-</thinking>
-
 # Volunteer Service Discharge Feedback Form - Help Guide
 ## Purpose
 The Volunteer Service Discharge Feedback Form is used to collect feedback from volunteers after their service has been discharged. This helps staff members understand the volunteer's experience and improve their service delivery.

@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to gather information for an orthodontic procedure, specifically the informed consent of the patient, treatment terms, and other relevant details such as contact information, insurance details, and medical history. This form should be filled out by a dentist or orthodontic specialist to ensure that the patient is aware of the procedure and its terms before commencement. This form may be used for both initial consultations and follow-up appointments.
-
-</thinking>
-
 # Orthodontic Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before undergoing an orthodontic procedure. It ensures that the patient is aware of the treatment terms and conditions, as well as providing other relevant details such as contact information and medical history.

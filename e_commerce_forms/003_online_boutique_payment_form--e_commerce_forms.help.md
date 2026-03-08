@@ -1,14 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the "Online Boutique Payment Form", we must first ensure that the form is properly set up and configured with the intended purpose in mind.
-
-This form appears to be designed to collect information about online orders, including payment details, customer information, and order status. It's likely that the form is used for processing online payments and managing customer data for an e-commerce business. However, the exact use case and business requirements must be clarified with the stakeholders to provide an accurate and relevant help guide.
-
-Please review the form schema and verify that the fields are correctly mapped to the intended use case, and that all fields are required or optional based on the business needs.
-
-Assuming the form is correctly set up, we can proceed with the help guide.
-
-</thinking>
-
 # Online Boutique Payment Form - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information from a patient and a practitioner (dentist) about the risks associated with a tooth gem procedure. The purpose of this form is to ensure that both the practitioner and the patient are informed about the potential risks and complications of the procedure, and to obtain their consent before proceeding. 
-
-The form includes multiple fields that ask for the practitioner's and patient's consent, as well as fields for the practitioner and patient's signature, date, and time of completion. The form also includes fields for additional comments, legal protection, and risk descriptions.
-
-The form's design is likely to be used in a clinical setting, such as a dentist's office, to ensure that both the practitioner and the patient are aware of the potential risks and complications of the procedure. This form is not meant to be a substitute for professional medical advice, but rather a tool to facilitate informed consent and communication between the practitioner and the patient. 
-
-Before filling out this form, the practitioner is expected to have informed the patient about the associated risks and complications of the procedure, and to obtain their consent before proceeding with the treatment. The patient should also be informed about the risks and complications before providing their consent. 
-
-Please note that the form fields are not mandatory, but the practitioner's and patient's consent are required fields and must be completed before proceeding with the treatment. 
-
-This form's content and fields are generated based on public survey topic metadata and industry best practices, and should not be used as a definitive medical guide. It is recommended to review and modify the form according to your clinical needs and local regulations.
-
-</thinking>
-
 # Tooth Gem Consent Form - Help Guide
 
 ## Purpose

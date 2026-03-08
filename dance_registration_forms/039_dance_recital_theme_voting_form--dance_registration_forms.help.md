@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect theme suggestions from students or staff members for the school's annual dance recital. The purpose of this form is to gather feedback and ideas from various categories and dance styles to help the recital committee decide on a theme for the event. The form will be reviewed internally to avoid duplication of ideas and to ensure that all suggestions are relevant and feasible.
-</thinking>
-
 # Dance Recital Theme Voting Form - Help Guide
 ## Purpose
 The Dance Recital Theme Voting Form is a tool for students and staff to submit their theme suggestions for the annual dance recital. This form helps the recital committee gather feedback and ideas from various categories and dance styles to decide on a theme for the event.

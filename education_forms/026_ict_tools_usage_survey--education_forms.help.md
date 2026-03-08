@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about the usage and satisfaction of ICT (Information and Communication Technology) tools used in the educational sector. The goal is to gather feedback from users regarding the tools they use, their frequency and importance, and areas for improvement. This form is likely to be used by educators, administrators, or IT professionals within educational institutions to gather data for future planning and decision-making.
-
-</thinking>
-
 # ict_tools_usage_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the usage and satisfaction of ICT tools used in the educational sector.

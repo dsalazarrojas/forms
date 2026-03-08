@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be completed by students, parents, or school administrators to document a student's absence from school due to dental excursions or appointments with a dentist. The form should not be used for other purposes, such as general attendance recording. Please ensure that each field is filled in accordance with the information you have about the student's dental appointment. 
-
-This form is not a template for any existing form platform, but rather a customized creation inspired by public survey topic metadata.
-
-The purpose of this form is to gather information about a student's dental excusal from school. It's intended to be filled by students, parents, or school administrators.
-
-</thinking>
-
 # Dental Excuse Form - Help Guide
 ## Purpose
 This form is designed to document a student's absence from school due to dental excursions or appointments with a dentist. It provides necessary information to school administrators to process the student's excusal.

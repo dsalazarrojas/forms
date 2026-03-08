@@ -1,12 +1,3 @@
-<thinking>
-This form is used internally by the dance studio management team to track and process requests for changes to the studio space. To ensure accuracy and efficiency, please review the form carefully before submitting it. This form is not intended for external use, and users should not share it without permission. Before filling out this form, please consider the following:
-- Be sure to provide as much detail as possible in the Request Details field.
-- If you have any special requests or concerns, include them in the Comments field.
-- Double-check and triple-check your contact and email information.
-- Ensure the Date and Time fields accurately reflect the date and time of the request.
-- Choose the correct submission option from the options provided.
-</thinking>
-
 # Dance Studio Space Change Request Form - Help Guide
 ## Purpose
 The Dance Studio Space Change Request Form is used to document and track changes to the studio space, allowing the management team to efficiently process and manage these requests.

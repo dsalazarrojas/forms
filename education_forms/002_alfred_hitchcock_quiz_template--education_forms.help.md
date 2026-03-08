@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Alfred Hitchcock Quiz Template", I will first analyze the form's purpose and internal logic. The form appears to be a quiz template designed to test the knowledge of Alfred Hitchcock fans or students about his life and work. The main goal is to evaluate their understanding of Hitchcock's film career, particularly his transition from directing silent films to thrillers. The form will help instructors assess the participant's understanding of this transition.
-
-The form is composed of six fields, each with a different purpose:
-
-*   The first field asks for the participant's name, which is a required field to identify the respondent.
-*   The second field asks for the participant's email address, which is optional, likely for sending results to the respondent.
-*   The third field is a multiple-choice question about the most famous Hitchcock film directed as a silent film director, which is a required field to assess knowledge of Hitchcock's early work.
-*   The fourth field is another multiple-choice question about the release year of a specific Hitchcock film, which is also a required field.
-*   The fifth field asks for a short answer about a recurring theme in Hitchcock films, which is optional.
-*   The sixth field is an estimated score for the participant, which is also optional and intended for instructor use.
-*   The seventh field is for optional feedback from the participant about the quiz.
-*   The eighth and final field is a consent checkbox to allow instructors to use the participant's responses for analysis.
-
-Considering these details, the form's main goal is to assess the participant's knowledge and understanding of Hitchcock's life and work.
-
-</thinking>
-
 # Alfred Hitchcock Quiz Template - Help Guide
 ## Purpose
 This quiz template is designed to assess the knowledge and understanding of Alfred Hitchcock fans or students about his life and work, specifically his transition from directing silent films to thrillers.

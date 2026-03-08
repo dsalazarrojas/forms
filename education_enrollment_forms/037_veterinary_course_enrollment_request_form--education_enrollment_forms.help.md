@@ -1,9 +1,3 @@
-<thinking>
-Form purposes and non-duplication check:
-- The Veterinary Course Enrollment Request Form is used to collect information from users interested in enrolling in a veterinary course.
-- To avoid duplication, users can only enroll in one course per form submission.
-</thinking>
-
 # Veterinary Course Enrollment Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in enrolling in a veterinary course. 

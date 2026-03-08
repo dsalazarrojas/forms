@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge users' awareness of educational transformation concepts, which is crucial for evaluating and improving the effectiveness of educational programs. The form will help collect data on users' categories, descriptions, assigned tools, output files, and form IDs for further analysis. To avoid duplication of effort and ensure accurate data collection, please ensure that you only fill out this form if you have not already completed a similar form. Also, please note that this form is meant to be filled out by users who have been assigned to educational transformation projects, and if you are not part of such a project, you might not need to complete this form.
-</thinking>
-
 # Educational Transformation Awareness Survey - Help Guide
 ## Purpose
 The Educational Transformation Awareness Survey is a form designed to collect data on users' awareness of educational transformation concepts. This form is meant to be filled out by users who have been assigned to educational transformation projects. 

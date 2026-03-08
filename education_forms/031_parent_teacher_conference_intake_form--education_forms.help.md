@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this "Parent Teacher Conference Intake Form" is to gather information from parents or guardians of students to prepare for a parent-teacher conference. This form likely serves as a data collection tool for teachers to have a thorough understanding of the students' situations and concerns before meeting with parents, making it an essential part of the educational process.
-
-To prevent duplication and non-relevance, this form should only be used for its intended purpose and not for other unrelated tasks.
-
-</thinking>
-
 # Parent Teacher Conference Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians to prepare for a parent-teacher conference. It helps teachers understand the students' situations and concerns before meeting with parents.

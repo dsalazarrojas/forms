@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect client information for dermal filler treatments. The form includes fields for client information, contact information, medical history, allergies, emergency contacts, medical conditions, treatment options, appointment preferences, dermal filler type, appointment date and time, preferred contact method, a note for the client, email, phone number, address, procedure type, follow-up schedule, insurance provider, insurance plan, and consent. This form is designed to be completed by clients before their appointment. 
-
-Before proceeding, ensure that you have obtained informed consent from the client before submitting this form.
-
-It is essential to note that some fields are optional and some are required. This guide will explain each field's purpose and the necessary information to be filled in.
-</thinking>
-
 # Dermal Filler Client Intake Form - Help Guide
 ## Purpose
 ## How To Complete This Form

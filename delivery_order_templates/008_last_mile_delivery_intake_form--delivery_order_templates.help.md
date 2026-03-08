@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture information related to last-mile delivery orders. It is intended for end-users to enter order details such as customer name, contact number, email, shipping address, delivery date, delivery time, delivery time zone, and delivery location. This form is not intended for use in high-risk scenarios or where sensitive information is required. Please ensure you have the necessary permissions and authority to access and process this information before proceeding.
-
-</thinking>
-
 # Last Mile Delivery Intake Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scholarship_application_release_form - Help Guide
 
 ## Purpose

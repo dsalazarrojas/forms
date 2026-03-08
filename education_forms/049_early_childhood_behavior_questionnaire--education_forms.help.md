@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a child's behavior in an early childhood setting, focusing on identifying potential behavioral issues that may require attention and support. The form is meant to be used by caregivers, educators, or healthcare professionals to help them understand the child's behavior and identify areas that may need improvement.
-</thinking>
-
 # Early Childhood Behavior Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a child's behavior in an early childhood setting, focusing on identifying potential behavioral issues that may require attention and support.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess their knowledge on food hygiene practices. The form has two main purposes: (1) to evaluate the user's understanding of food safety and hygiene principles and (2) to record and track their progress in completing the quiz. The form is intended to be completed by users who want to test their knowledge on food handling, storage, and disposal practices. This form is not meant for collecting personal data, and all responses are anonymous. There is no duplication of effort in completing this form as each user can only access it once. 
-</thinking>
-
 # Food Hygiene Quiz - Help Guide
 ## Purpose
 The Food Hygiene Quiz is designed to assess your knowledge on food safety and hygiene practices. It is intended to help you evaluate your understanding of food handling, storage, and disposal principles. 

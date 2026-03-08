@@ -1,12 +1,3 @@
-<thinking>
-A well-structured help guide is essential to ensure a smooth user experience. The Classroom Book Order Form is designed to collect information from teachers for book ordering purposes. This form is intended for teachers to order books for their students and should only be used for this specific purpose. Please make sure to fill out the form correctly to ensure accurate book ordering and timely delivery.
-
-To avoid any confusion or duplication of efforts, please review the form carefully before submitting it.
-
-This guide will walk you through each section of the form, explaining each field and its purpose.
-
-</thinking>
-
 # Classroom Book Order Form - Help Guide
 ## Purpose
 The Classroom Book Order Form is used by teachers to order books for their students. This form helps us to accurately process your book orders and ensure timely delivery.

@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this E Commerce Delivery Experience Poll Form. The form's purpose is to gather feedback from customers on their experience with delivery timeliness, communication, and overall satisfaction. This form is likely used to identify areas of improvement for the e-commerce platform's delivery services. 
-
-This form has eight fields, each designed to elicit specific information from customers. Some fields are single-select options, while others are multi-select options or free-text input. The form is not strictly required, indicating that the responses are voluntary and intended to provide valuable feedback. 
-
-Before we proceed, we should check for any potential redundancy or duplication of information across fields. For instance, "Timeliness of Delivery" and "Timeliness" seem to be related, but perhaps they're not entirely redundant, as they might have different context or focus. We'll need to examine each field carefully to ensure we're not over-asking or confusing the user.
-
-Assuming each field is distinct and valuable, we'll create the help guide below.
-</thinking>
-
 # E Commerce Delivery Experience Poll Form - Help Guide
 ## Purpose
 This form helps us understand your experience with our delivery services. Please take a few minutes to answer the following questions to provide us with valuable feedback.

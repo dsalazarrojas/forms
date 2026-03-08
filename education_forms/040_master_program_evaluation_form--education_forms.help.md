@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students on their experience with a Master's program. It is crucial to understand the student's perspective on various aspects of the program, including their satisfaction with the program, faculty support, and accessibility of resources. This form should only be filled out by students who have completed the program. If you are a non-program alumni, please do not fill out this form.
-</thinking>
-
 # Master Program Evaluation Form - Help Guide
 
 ## Purpose

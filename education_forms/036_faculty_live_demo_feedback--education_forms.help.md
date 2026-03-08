@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be intended for faculty to provide feedback on live demos, covering various aspects such as presenter's effectiveness, knowledge, presentation materials, and overall satisfaction. Before proceeding, please ensure you are familiar with this form's purpose and are not duplicating your previous feedback. This form should only be used for genuine feedback on the live demo event.
-</thinking>
-
 # Faculty Live Demo Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from faculty members on live demo events, helping organizers evaluate the presenter's performance and identify areas for improvement.

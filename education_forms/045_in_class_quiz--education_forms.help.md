@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the in-class quiz experience. This form has three main fields: Quiz Start, questions, and Submit Quiz. The form is used to record the completion status of the quiz and gather feedback on whether the participant found the quiz challenging or not.
-</thinking>
 # in_class_quiz - Help Guide
 ## Purpose
 The in_class_quiz form is used to collect data on the in-class quiz experience.

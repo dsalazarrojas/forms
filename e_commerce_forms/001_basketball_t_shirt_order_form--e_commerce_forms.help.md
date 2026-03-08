@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is intended for end-users to understand the Basketball T Shirt Order Form. It explains each section of the form, from order information to payment details, to ensure users complete it accurately and efficiently. The form is designed for customers to order basketball T-shirts with custom options for size, color, and team name. It includes fields for customer information, shipping details, and order specifics like quantity and payment method. Users must confirm they have read and agreed to the terms and conditions before submitting their order. The form is divided into sections for easy navigation and understanding. </thinking>
-
 # Basketball T Shirt Order Form - Help Guide
 
 ## Purpose

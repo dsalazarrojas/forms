@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from potential speakers for the Conference 2020. The purpose of this form is to gather essential details from speakers, including their contact information, professional experience, and presentation proposal. This includes the title and abstract of their proposed session, the format and technical requirements for their presentation, as well as their previous speaking experience.
-
-When filling out this form, please make sure you have all the necessary information ready to avoid having to come back later. This form will guide you through the process, and we will review each section carefully to ensure we have all the necessary details for your presentation.
-
-This form is divided into two main sections: -- Speaker Information -- and -- Presentation Proposal Details. The speaker information section requires you to fill in your personal details, which will be used by us to contact you and follow up on your submission. In the presentation proposal details section, you will provide us with information about the session you would like to propose, including the title, abstract, and format.
-
-Please note that some fields are required to ensure we have all the necessary information for your presentation. If you have any questions or concerns, don't hesitate to contact us.
-</thinking>
-
 # Conference 2020 Speaker Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential speakers for the Conference 2020. The purpose of this form is to gather essential details from speakers, including their contact information, professional experience, and presentation proposal.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather registration information from students for a geology course. The form is used to collect personal details, academic status, session preferences, and workshop information from students. The form will help the course administrators to manage course registration and ensure that the students are properly registered for the course.
-To prevent duplicate registrations, the system checks for existing registrations before allowing a new registration. This prevents multiple registrations from the same person.
-The fields in this form are designed to collect specific information that is relevant to the course and its management. 
-</thinking>
-
 # Geology Course Registration - Help Guide
 ## Purpose
 The Geology Course Registration form is used to collect personal details, academic status, session preferences, and workshop information from students to help course administrators manage course registrations.

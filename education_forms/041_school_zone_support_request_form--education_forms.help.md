@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by school zone administrators to report and document issues within their school zone. This form should be used to report issues that occur on a specific day and time, such as problems with facilities, equipment, or other concerns. To ensure accurate reporting and to help support requestors, it's crucial that only one issue per day is reported. Before completing the form, please make sure you have not already submitted a report for the same issue.
-</thinking>
-
 # School Zone Support Request Form - Help Guide
 ## Purpose
 The School Zone Support Request Form is used to report issues within a school zone. It helps administrators document and track problems that need to be addressed.

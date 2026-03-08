@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the language skills of individuals, specifically their native language, current language proficiency, and any other language proficiency that does not fit into the provided options. This form was designed to be a simple and straightforward tool for collecting language-related data, without any affiliation or derivation from other form platforms. The form is released under a Creative Commons license, allowing users to use, modify, and share it freely. Before proceeding, ensure that this form is relevant to your needs and does not duplicate any existing forms you may already be using.
-</thinking>
-
 # Home Language Survey - Help Guide
 ## Purpose
 The Home Language Survey form is a simple tool used to collect information about an individual's language skills, including their native language and current language proficiency.

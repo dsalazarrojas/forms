@@ -1,12 +1,3 @@
-<thinking>
-This is a form designed to collect information about eating habits, symptoms, and experiences related to eating disorders. 
-
-The form is intended to help professionals in the mental health field understand the severity of a person's situation and provide guidance on how to proceed with treatment or further assessment. 
-
-Before filling out this form, please make sure you are not taking a professional's time and resources without a valid reason for doing so. If you have already filled this form out recently, there is no need to fill it out again.
-
-</thinking>
-
 # eating_disorder_survey - Help Guide
 ## Purpose
 This form is designed to help professionals in the mental health field understand the severity of a person's eating habits and symptoms, and provide guidance on how to proceed with treatment or further assessment.

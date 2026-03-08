@@ -1,21 +1,3 @@
-<thinking>...This form is designed to collect essential information about a patient's visit to a medical facility. It gathers details such as personal identification (first and last name, date of birth, address, phone number, and patient ID), medical provider information (medical provider, address, and medical provider ID), and dates of service. It also includes fields for patient's medical history, medical conditions, medical provider's specialty, and consent. Additionally, it includes a signature field for both the medical provider and the patient. The form is required and has a total of 26 fields, with some fields being optional but not applicable in this context. This form is HIPAA compliant, meaning it respects the Health Insurance Portability and Accountability Act of 1996, which is a federal law that sets standards for protecting the privacy and security of patient health information.
-
-The following fields require a date input: Date of Birth, Date of Service, Date, Authorization Date. Please ensure you use the correct format for date input (YYYY-MM-DD).
-
-The following fields require a time input: Time.
-
-The following fields require a selection input: Medical Status and Medical Provider Specialization. Please make sure to choose one of the provided options.
-
-This form is required to be completed in full, meaning all fields are mandatory and cannot be left blank.
-
-The form is designed to be filled out by a patient or their authorized representative.
-
-Please note that some fields are not applicable for this form but have been included in case you need to use this form in future scenarios.
-
-Please fill in all fields accurately and with the correct information.
-
-If you have any questions or concerns, please contact us at form@gic.mx.</thinking>
-
 # Dental HIPAA Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a patient's visit to a medical facility, ensuring HIPAA compliance.

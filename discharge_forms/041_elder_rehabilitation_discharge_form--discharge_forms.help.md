@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture information related to the discharge process for elders from rehabilitation facilities. The purpose of this form is to gather relevant details about the discharge process, including rehabilitation clinics, skilled nursing facilities, home health teams, follow-up planning, and patient and provider signatures. 
-
-To prevent duplication, this form should only be completed for each patient discharge.
-
-Please ensure that all relevant information is provided accurately and completely to ensure that the discharge process is smooth and efficient for the patient.
-
-This form includes multiple sections for capturing various types of information, including details about the patient's medical history, rehabilitation clinics, skilled nursing facilities, home health teams, follow-up frequency, follow-up timeframe, follow-up date, follow-up provider, follow-up location, follow-up phone, follow-up email, follow-up note, patient signature, provider signature, rehab facility signature, home health signature, other signature, rehab facility, home health team, other providing care, and other care details.
-</thinking>
-
 # Elder Rehabilitation Discharge Form - Help Guide
 ## Purpose
 The Elder Rehabilitation Discharge Form is designed to capture information related to the discharge process for elders from rehabilitation facilities. This form helps ensure that all relevant details are collected accurately and efficiently to facilitate a smooth discharge process.

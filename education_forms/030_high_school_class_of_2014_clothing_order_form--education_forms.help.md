@@ -1,5 +1,3 @@
-<thinking>As we designed this form for a high school class of 2014 clothing order, we aimed to create a user-friendly interface that captures the required information for ordering customized clothing. We considered the simplicity of the form design and the clarity of the field labels to ensure that the user can easily navigate through the form. We also made sure to include a range of options for users to choose from, reducing the likelihood of duplication and ensuring that users can select the desired clothing item. This form is designed to be a helpful tool for the high school class of 2014 to create a memorable and fun event. It is not affiliated with or derived from any form platform, but rather a unique adaptation created using public metadata as inspiration.</thinking>
-
 # High School Class Of 2014 Clothing Order Form - Help Guide
 ## Purpose
 

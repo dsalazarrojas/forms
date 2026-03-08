@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disciplinary Record Affirmation - Help Guide
 ## Purpose
 This form is used to document and track incidents within the organizational context. It captures essential details about incidents, such as date, time, location, and outcome, to ensure accurate and comprehensive record-keeping. The purpose of this form is to provide a clear and consistent way to report and manage incidents, facilitating effective communication and decision-making within the organization.

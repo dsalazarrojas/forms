@@ -1,6 +1,3 @@
-<thinking>
-The "krebs_cycle_knowledge_quiz" form is designed to test users' knowledge on the Krebs cycle, a crucial process in cellular respiration. The form is likely used in educational settings, such as exams or assessments, to gauge users' understanding of the Krebs cycle's stages, electron transport chain rate, and other related concepts. This form should not be used for personal or marketing purposes, and its completion is expected to be done in a professional or educational setting. To ensure consistency, please note that the form has a mix of required and optional fields, and users are not expected to provide personal contact information unless necessary. Please ensure that you have a clear understanding of the Krebs cycle before attempting to complete this form.</thinking>
-
 # krebs_cycle_knowledge_quiz - Help Guide
 
 ## Purpose

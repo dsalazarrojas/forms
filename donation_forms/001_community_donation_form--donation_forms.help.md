@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Community Donation Form", we first need to understand the form's purpose and the context it's being used in. 
-
-The form is for collecting donations from community members for various funds and causes. It requires users to provide their contact information, specify the donation amount, frequency, and details about the donation. The form is likely used by organizations or non-profit entities to collect donations from their community.
-
-We should ensure that the form's instructions and explanations are clear and concise, making it easy for users to complete it accurately and confidently. Let's break down the form into sections and fields, explaining each field's purpose and required status.
-
-</thinking>
-
 # Community Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations from community members for various funds and causes. Please fill out this form to support your community and make a positive impact.

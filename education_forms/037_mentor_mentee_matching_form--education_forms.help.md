@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mentor_mentee_matching_form - Help Guide
 
 ## Purpose

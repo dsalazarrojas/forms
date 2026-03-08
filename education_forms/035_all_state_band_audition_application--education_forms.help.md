@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help students audition for the All-State Band. The All-State Band is a prestigious ensemble that brings together talented students from across the state to perform at a special event. To ensure that students are properly evaluated and selected for this event, the form requires a detailed and comprehensive application process. 
-
-The form is not meant for general practice or testing purposes, and students are expected to take it seriously. 
-
-Please ensure that you only complete this form if you are a serious candidate for the All-State Band. 
-
-Please be as honest and thorough as possible when filling out this form.
-</thinking>
-
 # All State Band Audition Application - Help Guide
 ## Purpose
 The All-State Band Audition Application is a form used to evaluate and select students for the All-State Band event. This form requires detailed and accurate information about the student's musical background, experience, and goals.

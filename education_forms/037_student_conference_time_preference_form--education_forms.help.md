@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Student Conference Time Preference Form" that explains its purpose, how to complete it, and each field's meaning. This form is used to gather preferences for students regarding the conference schedule, allowing them to indicate their availability on specific days of the week and time slots. The purpose of this form is to ensure that students are informed and can participate in the conference according to their schedule. The form will not be duplicated or completed multiple times, as it's a one-time submission form.
-</thinking>
-
 # Student Conference Time Preference Form - Help Guide
 ## Purpose
 This form is used to indicate your availability and preferences for the conference. Please answer the questions honestly to help us schedule the conference according to your needs.

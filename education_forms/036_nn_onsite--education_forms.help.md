@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information related to on-site educational programs or events. It is used to track the presence of students, their details, and other relevant information. The form may be used by administrators or staff to monitor and manage student attendance, progress, or other on-site activities.
-
-This form does not appear to be intended for collecting sensitive or personal data that would require special handling. The fields seem to be primarily focused on collecting information about students and their interactions with the educational program or event.
-
-The form does not appear to be designed for any specific region, country, or language. Therefore, it is assumed that the form is intended to be used in a general context.
-
-The form fields are a mix of multiple-choice lists, text fields, and date/time fields, suggesting that the form is designed to capture a variety of information about students and their interactions with the educational program or event.
-
-</thinking>
-
 # nn_onsite - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to on-site educational programs or events, including student details and other relevant data.

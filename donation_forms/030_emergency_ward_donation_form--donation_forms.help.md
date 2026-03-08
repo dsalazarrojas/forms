@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to explain the purpose and completion of the "Emergency Ward Donation Form". The form is designed to collect information from users who wish to make a donation to the Emergency Ward. This information will be used to process and follow up on donations. This guide will cover what each field is used for and how to fill out the form correctly.
-</thinking>
-
 # Emergency Ward Donation Form - Help Guide
 ## Purpose
 The Emergency Ward Donation Form is used to collect information from donors who want to make a donation to the Emergency Ward. Your donation will help support the Emergency Ward's mission, and we are grateful for your support.

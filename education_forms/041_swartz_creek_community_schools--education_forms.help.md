@@ -1,10 +1,3 @@
-<thinking>
-To ensure that the form is completed correctly and efficiently, I'll need to understand the purpose and relevance of the form. From the YAML schema, I can see that the form appears to be for booking a performance event at Swartz Creek Community Schools. The fields seem to cover various aspects of the event, including the date and time of the booking, the performer's details, and the event's characteristics (e.g., number of performers, duration). It's likely that the form is used by school administrators or staff to collect information about upcoming performances.
-
-I'll make sure not to duplicate any explanations and keep the guide concise and practical.
-
-</thinking>
-
 # Swartz Creek Community Schools - Help Guide
 ## Purpose
 This form is for booking a performance at Swartz Creek Community Schools. It collects information about the event, including the date and time of the booking, performer's details, and event characteristics.

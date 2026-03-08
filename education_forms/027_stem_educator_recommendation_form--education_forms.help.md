@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # stem_educator_recommendation_form - Help Guide
 ## Purpose
 The stem_educator_recommendation_form is used to collect information from educators to recommend students for educational programs or opportunities. This form is meant to be completed by educators, such as teachers, counselors, or administrators, who have first-hand knowledge of a student's abilities and potential. Please note that you should only fill out this form if you have a genuine recommendation to make, and ensure that the student's information is up-to-date and accurate.

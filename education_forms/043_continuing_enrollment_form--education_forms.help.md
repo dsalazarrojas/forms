@@ -1,5 +1,3 @@
-<thinking> This form appears to be a tool for students to declare their intent to continue their studies in an academic program, providing essential information for maintaining active status. Its fields cover various aspects of the student's status, including their identification, academic details, and financial information. The form is likely used to ensure that students remain active in their programs and to facilitate administrative tasks such as tracking progress and fees. It does not appear to be a survey or a generic form but rather a form designed for a specific purpose within the context of academic programs. I will now create the user-facing help guide for this form. </thinking>
-
 # Continuing Enrollment Form - Help Guide
 
 ## Purpose

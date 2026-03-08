@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in a theater group setting after they have been discharged (let go). The purpose of this form is to gather information about the participant's experience, their overall rating of the program, and suggestions for improvement. It is essential to fill out this form completely to provide accurate and helpful feedback.
-
-This form is typically completed by participants who have recently left the theater group, usually after their discharge date. It is not meant to be completed by participants who are still active in the group.
-
-Please review the following steps and guidelines to ensure you have successfully completed the form:
-
-</thinking>
-
 # Theater Group Participant Discharge Feedback Form - Help Guide
 
 ## Purpose

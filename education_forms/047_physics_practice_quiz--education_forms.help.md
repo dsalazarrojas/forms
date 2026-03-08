@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's physics practice quiz preferences and settings.
-The form is meant to be an original adaptation of a public survey topic, and not a copy or extraction of any existing form or survey.
-The following guide will walk you through the form fields and explain each one in detail.
-</thinking>
-
 # Physics Practice Quiz - Help Guide
 ## Purpose
 The Physics Practice Quiz form is designed to collect user preferences and settings for a physics practice quiz.

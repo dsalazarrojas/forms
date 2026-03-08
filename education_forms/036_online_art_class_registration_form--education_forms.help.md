@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for registering for an online art class. The purpose of this form is to gather information from users about their interest in taking an online art class. This form does not require any sensitive or personally identifiable information and is designed to be used by anyone interested in registering for an online art class.
-The form will not be used to create or collect any personally identifiable information.
-</thinking>
-
 # online_art_class_registration_form - Help Guide
 ## Purpose
 The online art class registration form is used for registering for an online art class. To complete the form, follow the steps below.

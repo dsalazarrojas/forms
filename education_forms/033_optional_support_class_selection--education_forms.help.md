@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect optional information from users for support class selection purposes. The form will be used to gather details about the user's school, grade level, interest level, start time, preferred days, and end time for support class selection. This form is intended to be completed by users who require support for various reasons, such as seeking additional guidance or review materials. It is essential to provide accurate and complete information to get the most out of the support offered. Please ensure that you have not previously submitted a similar request for the same purpose to avoid duplication of efforts.
-
-</thinking>
-
 # Optional Support Class Selection - Help Guide
 
 ## Purpose

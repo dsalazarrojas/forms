@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from substitute teachers about their experiences in the classroom. The form is designed to be simple and easy to complete, allowing the substitute teacher to provide their thoughts on what they enjoyed about the class, what they learned, and any feedback they may have for the regular teacher. This form is not affiliated with, endorsed by, or derived from any form platform, and its design is inspired by public survey topic metadata for the "education" category. 
-</thinking>
-
 # Substitute Teacher Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from substitute teachers about their experiences in the class. It's used to gather information about their likes, learning, and any feedback for the regular teacher.

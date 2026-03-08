@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ACCESS Program Proposal Form - Help Guide
 ## Purpose
 This form is designed to help you submit a proposal for a new program to support the education sector. It collects essential information about your program, including its title, description, target audience, and budget. Your proposal will be reviewed to determine its alignment with our institution's mission and goals.

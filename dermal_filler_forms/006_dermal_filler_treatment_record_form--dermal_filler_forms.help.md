@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help ensure that this form is used correctly and efficiently by end-users, let's go through the following reasoning:
 
 - This form is designed to collect information related to dermal filler treatments, which are cosmetic procedures used to restore or enhance the appearance of the skin.

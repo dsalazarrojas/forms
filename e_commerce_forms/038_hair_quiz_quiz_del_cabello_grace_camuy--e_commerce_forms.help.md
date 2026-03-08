@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a simple survey or quiz for individuals who want to explore their knowledge about hair-related topics, specifically the Quiz Del Cabello GRACE CAMUY. The form is not affiliated with or endorsed by any platform, and it's a public domain adaptation of an original form created by AI using only public survey topic metadata.
-
-This form does not collect any sensitive or personal information, and it's meant to be a fun and educational tool for users.
-
-To ensure that you're not filling out a duplicate form, you can check the form's metadata to see if it's been updated or modified since your last interaction.
-
-</thinking>
-
 # Hair Quiz / Quiz Del Cabello GRACE CAMUY - Help Guide
 ## Purpose
 The Hair Quiz / Quiz Del Cabello GRACE CAMUY form is designed to test your knowledge about hair-related topics. It's a simple quiz that you can complete at your own pace.

@@ -1,12 +1,3 @@
-<thinking>
-The Dance Academy Enrollment Form is a crucial form that helps us understand a student's information and the details of their dance class. This form is designed for students and their parents/guardians to provide essential details about the student and their class preferences. To ensure that each student has a smooth and enjoyable dance experience, we require this form to be filled out before the start of each class.
-
-Before filling this form, please make sure you are not submitting it multiple times. Each form submission is associated with a unique student ID. If you've already submitted this form, you can simply skip this section and get in touch with your teacher if you need to update any information.
-
-Now, let's go over each section of the form:
-
-</thinking>
-
 # Dance Academy Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a student and their class preferences for the dance academy.

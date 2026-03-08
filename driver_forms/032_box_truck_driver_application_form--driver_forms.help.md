@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by potential box truck drivers to apply for a driver position. The purpose of the form is to collect relevant information from the applicants, including their personal details, driving qualifications, employment history, and background. This information will be reviewed to ensure that the applicant meets the necessary qualifications and requirements to be considered for the position. To avoid duplication of effort and ensure that the applicant has provided accurate and complete information, please ensure that you have reviewed all the fields carefully before submitting the application.
-</thinking>
-
 # Box Truck Driver Application Form - Help Guide
 ## Purpose
 This form is used to collect information from potential box truck drivers applying for a position.

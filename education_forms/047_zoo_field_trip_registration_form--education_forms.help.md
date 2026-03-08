@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this form accurately captures the necessary information for a zoo field trip registration, we will cover the purpose of this form and the process of completing it step-by-step.
 
 As we design this form for the "zoo field trip registration", we will focus on collecting essential details about students, teachers, and their contact information to make the trip a success.

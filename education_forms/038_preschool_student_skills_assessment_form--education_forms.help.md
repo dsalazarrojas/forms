@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Preschool Student Skills Assessment Form is used to accurately gauge a child's cognitive, social, and emotional skills. This form will help educators assess the child's abilities in various areas, such as gross motor, fine motor, social skills, communication skills, emotional regulation, and self-awareness. We want to avoid duplication of assessments or misinterpretation of results, so this guide is essential for ensuring correct use.
-</thinking>
-
 # Preschool Student Skills Assessment Form - Help Guide
 ## Purpose
 This form is designed to help educators assess a child's skills in various areas, including cognitive, social, and emotional development.

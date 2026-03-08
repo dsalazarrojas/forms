@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in enrolling in an MBA program. The purpose of this form is to gather essential details about the applicant's background, education, employment, and other relevant information to assess their eligibility and suitability for the program. This form will help the program administrators to understand the applicant's qualifications, interests, and goals.
-
-The form is divided into several sections that cover various aspects of the applicant's profile, such as personal details, education, employment, and supporting documents. Before filling out the form, please note that this information will be reviewed and considered as part of the application process.
-
-Please ensure that the data entered is accurate and complete to avoid any potential discrepancies or delays in processing your application. If you need help or have any questions, feel free to reach out to the program administrators.
-
-</thinking>
-
 # mba_program_enrollment_form - Help Guide
 ## Purpose
 The MBA program enrollment form is designed to collect information from individuals interested in enrolling in the program. This form is used to assess the eligibility and suitability of applicants for the program.

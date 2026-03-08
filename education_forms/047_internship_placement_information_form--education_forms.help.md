@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internship_placement_information_form - Help Guide
 ## Purpose
 The internship_placement_information_form is a tool used to gather relevant details about an internship opportunity. It helps in understanding your availability, education level, and preferences for an internship placement. This form is used to streamline the internship application process and ensure that all necessary information is captured accurately.

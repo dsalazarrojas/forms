@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help evaluate the knowledge and skills of CCDRA members by testing their understanding of key concepts related to court reporting. The test will cover three main sections: Ethics and Professionalism, Technical Procedures, and Legal Terminology. Each section will assess the candidate's understanding of essential concepts and procedures in court reporting. Completing this test is a requirement for CCDRA membership and will help ensure that members have a solid grasp of the skills and knowledge necessary for effective court reporting.
-
-</thinking>
-
 # CCDRA Member Site Test - Help Guide
 ## Purpose
 The CCDRA Member Site Test is a comprehensive evaluation of CCDRA members' knowledge and skills in court reporting. This test is designed to ensure that members have a solid understanding of essential concepts and procedures in court reporting.

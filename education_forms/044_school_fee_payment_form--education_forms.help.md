@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Fee Payment Form - Help Guide
 
 ## Purpose

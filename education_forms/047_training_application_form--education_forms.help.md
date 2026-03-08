@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals who are interested in participating in a training program. This form is designed to be completed by those who wish to apply for a specific training program, and it will help the organizers collect necessary details such as participant information, course details, contact information, and emergency contact details. 
-
-We aim to ensure that the form is user-friendly, efficient, and easy to understand, so please carefully read through this guide to learn how to complete it properly. 
-
-Before you start, please note that each field is labeled with a specific purpose in mind, and it's essential to provide accurate and clear answers to help us process your application efficiently. 
-
-Please be aware that while this form is designed to be user-friendly, some fields are mandatory (marked as "required"), and you will need to fill them out to ensure a successful submission. 
-
-If you have any questions or concerns while filling out this form, don't hesitate to reach out to us, and we'll do our best to assist you.
-</thinking>
-
 # Training Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to apply for a training program. It will help us gather necessary details about you and your training requirements.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about students enrolling in an art class. The purpose of this form is to gather essential details about the student's background, art experience, and expectations from the class. This information will help the art instructor tailor the class to the student's needs and ensure a productive and enjoyable learning environment. 
-
-Please note that this form is required for all students enrolling in the art class, and it's essential to provide accurate and honest answers to ensure the best possible experience.
-
-</thinking>
-
 # Art Class Intake Form - Help Guide
 
 ## Purpose

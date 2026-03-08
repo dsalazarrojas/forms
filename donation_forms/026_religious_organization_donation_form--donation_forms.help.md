@@ -1,9 +1,3 @@
-<thinking>
-
-The Religious Organization Donation Form is designed to collect donations from individuals and organizations for a specific religious purpose. The form is intended to gather information about the donor, including their name, contact details, and preferred donation method. This form will help the organization manage and track donations efficiently. Before filling out the form, please ensure that you are not a duplicate donor and that your donation is in line with the organization's purpose and policies.
-
-</thinking>
-
 # Religious Organization Donation Form - Help Guide
 ## Purpose
 The Religious Organization Donation Form is a tool for individuals and organizations to make donations to support the religious cause. It allows donors to provide their contact information and donation details, which helps the organization manage and process donations effectively.

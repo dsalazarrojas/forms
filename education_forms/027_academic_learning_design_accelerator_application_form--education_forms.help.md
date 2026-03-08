@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Academic Learning Design Accelerator program. The form is intended to gauge each applicant's qualifications and suitability for the program, as well as their project goals and needs. This helps the program team to review and match applicants with suitable projects and resources. It's essential to fill out the form accurately and thoroughly to ensure a successful match. Please note that this form is a critical step in the application process and should be completed carefully.
-
-</thinking>
-
 # Academic Learning Design Accelerator Application Form - Help Guide
 ## Purpose
 The Academic Learning Design Accelerator Application Form is a crucial step in the application process for the Academic Learning Design Accelerator program. It allows applicants to provide essential information about themselves and their project goals, enabling the program team to review and match them with suitable projects and resources.

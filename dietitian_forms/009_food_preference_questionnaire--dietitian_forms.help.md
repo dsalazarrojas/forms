@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Preference Questionnaire - Help Guide
 
 ## Purpose

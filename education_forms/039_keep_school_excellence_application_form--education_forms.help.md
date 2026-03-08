@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form, and is it relevant to the user's current context? Is this form being filled out for the first time, or is it a follow-up action? Has the user already been informed about the form's context and requirements? Is this form part of a larger process or a standalone action?</thinking>
-
 # Keep School Excellence Application Form - Help Guide
 ## Purpose
 The "Keep School Excellence Application Form" is a form designed to gather information about a school's excellence application period, status, and other relevant details. This form is typically filled out by school administrators or staff members to update or manage school applications.

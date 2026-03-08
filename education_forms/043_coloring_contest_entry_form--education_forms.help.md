@@ -1,5 +1,3 @@
-<thinking>...the form's purpose is to collect participant information and entry details for the Coloring Contest, allowing users to register and share their artwork. The form ensures that entrants' data is accurate, and it's designed for both adults and children. This is an entry form for a coloring contest, and users will be submitting their work for public display. The form is meant for a single entry per participant, and users are required to provide certain information like name, age, and category. The form will also ask for a link or reference to the uploaded artwork... </thinking>
-
 # Coloring Contest Entry Form - Help Guide
 ## Purpose
 The Coloring Contest Entry Form is designed to collect participant information and entry details for the coloring contest. This form is a single-entry form for both adults and children, ensuring that each entry submitted is accurate and meets the required criteria.

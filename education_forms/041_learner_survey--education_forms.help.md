@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback and ratings from learners who have participated in a survey or program. The form is used to collect demographic information, such as student ID, name, and email, as well as ratings and feedback from the learners. The purpose of this form is to help us better understand the effectiveness of the survey or program.
-
-This form is intended for learners who have participated in a survey or program and is not meant to be filled out by anyone else. If you are not a learner who has participated in a survey or program, please do not fill out this form.
-
-Please ensure that you only fill out this form if you have actually participated in the survey or program being referred to in this form.
-
-</thinking>
-
 # Learner Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from learners who have participated in a survey or program.

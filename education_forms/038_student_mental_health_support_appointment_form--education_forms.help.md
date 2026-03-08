@@ -1,7 +1,3 @@
-<thinking>
-The Student Mental Health Support Appointment Form is a tool used to schedule and organize support sessions for students seeking mental health support. It is crucial to fill out this form accurately to ensure that the student receives the right type and duration of support they need. Before proceeding, please ensure that you have not already submitted a similar request or appointment for the same purpose. If you are unsure or have any questions, please contact the relevant authority for clarification.
-</thinking>
-
 # Student Mental Health Support Appointment Form - Help Guide
 ## Purpose
 The Student Mental Health Support Appointment Form is a form designed to collect information about a student's mental health support needs. This form helps students schedule appointments with the appropriate support team members and ensure they receive the necessary support to address their concerns.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect consents and information from students and their parents for the 2019-2020 school year. This form is likely used to track student attendance, absences, and other educational data.
-Before filling out this form, ensure that you have the necessary permissions and approvals to do so. If you're a parent or guardian, please fill out this form for your child. If you're a teacher or staff member, please ensure that the information you provide is accurate and up-to-date.
-Please note that this form should only be filled out once per student per year. If you need to update or correct any information, please contact the relevant school authorities.
-</thinking>
-
 # Student Consents 2019 2020 - Help Guide
 ## Purpose
 This form is used to collect consents and information from students and their parents for the 2019-2020 school year.

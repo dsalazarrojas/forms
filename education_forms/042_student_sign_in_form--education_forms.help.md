@@ -1,11 +1,3 @@
-<thinking>
-This form is a simple student sign-in form used for tracking student information. The purpose of this form is to collect basic details about a student, including their name, contact information, and attendance status. The form is meant to be used by school administrators or staff to gather data for academic records or other administrative purposes.
-
-This form does not store any sensitive or confidential information, and all data collected will be stored securely and in accordance with applicable data protection regulations.
-
-Please note that the form is designed to be simple and easy to use, with clear labels and instructions to guide the user through the completion process. Each field has been carefully curated to minimize redundancy and unnecessary fields.
-
-</thinking>
 # Student Sign In Form - Help Guide
 ## Purpose
 The Student Sign In Form is a basic data collection tool used to gather student information for academic and administrative purposes.

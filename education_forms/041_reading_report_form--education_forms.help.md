@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by teachers to provide information on a student's reading progress and other relevant details. It's likely used to track student reading habits and performance over time. The form will ask for various information such as reading frequency, grade level, and student attendance. The fields will be used to provide insight to parents or other educators about how a student is performing in reading. It's not intended for other uses such as tracking student attendance for disciplinary purposes, so if you're looking for that information, this form might not be the best fit.
-</thinking>
-
 # Reading Report Form - Help Guide
 ## Purpose
 The Reading Report Form is a document used to gather information about a student's reading progress and habits. This form will help teachers and educators track student reading performance and provide insights to parents and educators about how a student is doing in reading.

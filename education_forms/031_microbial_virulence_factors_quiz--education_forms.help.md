@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a quiz designed to assess knowledge about microbial virulence factors, likely for educational purposes in fields related to microbiology, medicine, or biological sciences. The form has a simple layout with three pages: "microbial_virulence_factors_quiz", "quiz_questions", and "answer_key". The form is designed to be completed by users who want to test their knowledge about microbial virulence factors, possibly for academic or certification purposes.
-
-Before proceeding, ensure that this form is not a duplication or copy of an existing form, and that the provided metadata is accurate and relevant to the form's purpose.
-
-Assuming this form is original and relevant, proceed to create the user-facing help guide.</thinking>
-
 # Microbial Virulence Factors Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge about microbial virulence factors, which are characteristics that enable microbes to cause disease in humans or other organisms. The quiz will assess your understanding of various types of virulence factors, their effects on host organisms, and how they contribute to microbial pathogenesis.

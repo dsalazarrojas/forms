@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of auditing a school's curriculum for compliance. The purpose of this form is to ensure that schools are meeting the required standards and guidelines set forth by the relevant authorities. The form is intended to be completed by school administrators or designated auditors, who will collect and document information about the school's curriculum. This information will then be used to assess compliance and identify areas for improvement.
-
-Before filling out this form, please ensure that you have the necessary permissions and authorizations to complete it. If you are unsure, please contact the relevant authorities or seek clarification before proceeding.
-
-This form is not meant to be a duplication of existing records or reports. Please only provide new or updated information that is not already documented elsewhere.
-
-By completing this form, you will be providing valuable insights and data that will help schools improve their curriculum and better serve their students.
-
-Please note that all fields are optional, but providing accurate and complete information is essential for a thorough audit.
-
-</thinking>
-
 # School Curriculum Compliance Audit Form - Help Guide
 
 ## Purpose

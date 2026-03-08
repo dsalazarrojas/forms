@@ -1,9 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Employees Health Declaration Form" in the "declaration_forms" category.
-This form is designed to collect information from employees on their health status, medical history, and other relevant details. The form should help employees provide accurate and clear information about their health to ensure a safe and healthy work environment. 
-To ensure accuracy and completeness, please review this guide carefully and provide feedback if you have any questions or concerns.
-</thinking>
-
 # Employees Health Declaration Form - Help Guide
 ## Purpose
 The Employees Health Declaration Form is a mandatory form that requires completion by all employees. It is used to collect information on their health status, medical history, and other relevant details. This information is crucial for the company to provide a safe and healthy work environment.

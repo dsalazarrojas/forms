@@ -1,7 +1,3 @@
-<thinking>
-This is the CFS Professional Application Form, used for applicants to initiate their certification journey. Please ensure you are submitting a completed application as duplicate submissions may result in unnecessary delays in your certification process. Before proceeding, ensure you have not already submitted a CFS application. If you've submitted an application before, you will be prompted to access your existing application instead of creating a new one.
-</thinking>
-
 # CFS Professional Application Form - Help Guide
 ## Purpose
 The CFS Professional Application Form is designed for Certified Financial Specialists (CFS) applicants to initiate their certification journey. This form collects necessary information to evaluate and verify the applicant's eligibility for certification.

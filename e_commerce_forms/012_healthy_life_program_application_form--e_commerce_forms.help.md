@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals apply for the Healthy Life Program, a wellness initiative that aims to promote healthy living habits. The form gathers information about the applicant's motivations, product preferences, and previous experiences related to healthy living products. This form is intended for internal use within the organization, and the data collected will be used to tailor the program's offerings and support services.
-</thinking>
-
 # Healthy Life Program Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in joining the Healthy Life Program. The data collected will help us better understand your needs and preferences, which will inform the development of our program's offerings.

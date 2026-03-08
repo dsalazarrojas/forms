@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to be a notification template for schools and administrators to communicate with parents and learners about a suspension of a learner. The purpose of this form is to inform parents about the reason for the suspension, follow-up steps, and other relevant details. This form is likely used by schools to standardize their internal processes and ensure consistency in communication with parents.
-The form fields appear to be designed to collect information about the learner's suspension period, parent notification, follow-up steps, school name and email, learner's name and email, reason for suspension, and suspension date. The fields may be subject to variations in usage depending on the school's policies and procedures.
-This form is intended to be completed by school administrators and staff who need to notify parents about learner suspensions. It's possible that the form may be duplicated or modified to suit specific school needs.
-</thinking>
-
 # Learner Suspension Notification - Help Guide
 ## Purpose
 The Learner Suspension Notification form is a template used by schools to inform parents about a learner's suspension. This form provides a standardized way to communicate with parents, ensuring consistency in the information provided.

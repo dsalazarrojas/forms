@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for educational game developers to submit their applications for game development projects. The form is used to collect relevant information from applicants, ensuring that each project meets the required criteria and has a clear understanding of the developer's capabilities and goals. To avoid duplication of efforts and ensure that each project is properly evaluated, the form is designed to collect detailed information from applicants.
-</thinking>
-
 # Educational Game Development Application Form - Help Guide
 ## Purpose
 The Educational Game Development Application Form is a comprehensive application form designed for educational game developers to submit their project proposals. This form helps us evaluate the project's feasibility, assess the applicant's expertise, and ensure that the project aligns with our goals.

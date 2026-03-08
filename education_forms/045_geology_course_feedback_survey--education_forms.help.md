@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about a geology course. The purpose of this form is to gather information on how the students perceive the course, the instructor, and the department offering the course. The form will help the instructor and department understand the strengths and weaknesses of the course and make improvements for future semesters.
-</thinking>
-
 # Geology Course Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about a geology course. The feedback will help the instructor and department understand what they do well and what areas need improvement.

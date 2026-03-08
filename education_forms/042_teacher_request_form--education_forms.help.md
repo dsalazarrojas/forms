@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture information from a teacher about a student's request. This form will help the teacher to provide the necessary details about the student's needs and preferences for support. 
-
-The form should only be filled out by a teacher, and the data collected will be used to provide support to the student. 
-
-This form should not be filled out by a student or anyone other than a teacher, as it contains information that is specific to the teacher's role in supporting the student. 
-
-Please ensure that you are filling out this form correctly, as the information will be used to guide the support provided to the student. 
-
-</thinking>
-
 # teacher_request_form - Help Guide
 ## Purpose
 The teacher_request_form is a form designed to capture information from a teacher about a student's request. This form will help the teacher to provide the necessary details about the student's needs and preferences for support.

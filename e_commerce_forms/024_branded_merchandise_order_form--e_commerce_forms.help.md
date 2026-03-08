@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Branded Merchandise Order Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As the form is designed to collect feedback on educators, it's likely used in an academic setting to evaluate the performance and effectiveness of teachers. The form likely serves as a tool for educational institutions to assess the skills and qualities of their educators. By understanding this purpose, users will be able to approach the form with the right mindset and fill it out accurately. Note that the form has a mix of numerical and textual fields, suggesting that it covers both quantitative and qualitative aspects of an educator's performance. It's also possible that the form is used for internal evaluation purposes and not publicly shared, which could impact how users should approach their responses.</thinking>
-
 # Educator Evaluation Form - Help Guide
 
 ## Purpose

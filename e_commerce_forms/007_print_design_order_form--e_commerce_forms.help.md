@@ -1,10 +1,3 @@
-<thinking>
-This form is a Print & Design Order Form designed to capture information for print orders from clients. The form is intended to be filled out by clients who need to place an order for customized print materials. It is meant to be used in an e-commerce context, where the client is interacting with a digital platform to place their order. There is no internal logic or business rules that would cause duplication of this form, so it is safe to proceed with creating the help guide.
-
-The form is likely to be used in a business-to-business (B2B) or business-to-consumer (B2C) setting, where the client is interacting with the form to provide information for their print order. The form is designed to be simple and concise, making it easy for clients to provide the required information for their order.
-
-</thinking>
-
 # Print & Design Order Form - Help Guide
 ## Purpose
 The Print & Design Order Form is a simple form designed to collect information from clients for their print order. The form is intended for clients who need to place an order for customized print materials.

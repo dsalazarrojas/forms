@@ -1,7 +1,3 @@
-<thinking>
-This form is used for school winners of an Arbor Day Poster Contest to input their information and ratings for regional judges. The judges will review and evaluate the entries based on artistic quality, tree representation, message clarity, creativity and originality, and overall impression. This form is part of the contest process to ensure fair and unbiased evaluation. Please ensure all required fields are filled out accurately.
-</thinking>
-
 # Arbor Day Poster Contest School Winner Regional Judge Form - Help Guide
 ## Purpose
 The Arbor Day Poster Contest School Winner Regional Judge Form is used to collect information from regional judges to evaluate and rate school winners of the Arbor Day Poster Contest. This form helps the judges to assess the artistic quality, tree representation, message clarity, creativity and originality, and overall impression of each winning entry.

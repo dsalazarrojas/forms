@@ -1,11 +1,3 @@
-<thinking>**Internal Reasoning Block - DO NOT OUTPUT**
-
-To create a comprehensive help guide for the "Personalized E-commerce Order Form," we first need to understand the form's purpose and its intended use cases. This form is designed to gather information from customers for an e-commerce order, specifically focusing on customer information, order details, payment methods, and product specifics.
-
-We should verify that this form is relevant to the target audience and not duplicated within the existing documentation.
-
-</thinking>
-
 # Personalized E-commerce Order Form - Help Guide
 ## Purpose
 This form is used to gather customer information, order details, payment methods, and product specifics for an e-commerce order.

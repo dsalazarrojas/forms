@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about teachers' backgrounds, experiences, and practices. The form is intended to gather specific details from teachers about their demographic information, teaching style, and areas of interest. The goal is to collect data that can be used to create more effective and targeted support systems for teachers. To avoid duplication, please ensure that you have not already completed this form. If you have any doubts or concerns, please contact the relevant department.
-</thinking>
-
 # Teachers Survey 2 - Help Guide
 
 ## Purpose

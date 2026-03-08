@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect user feedback and requests for pedagogical innovation from the educational community. It's likely used by teachers, administrators, and students to share their ideas, concerns, or suggestions related to pedagogical innovation in the context of schools or universities. Before proceeding, make sure you're filling out this form in a relevant context and that your submission isn't already covered by a previous consultation request. 
-
-</thinking>
-
 # Pedagogical Innovation Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from the educational community on pedagogical innovation, allowing us to better understand their needs, concerns, and ideas.

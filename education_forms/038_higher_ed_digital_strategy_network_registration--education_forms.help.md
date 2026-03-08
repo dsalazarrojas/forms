@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Higher Ed Digital Strategy Network Registration - Help Guide
 ## Purpose
 This form is designed for registering individuals with the Higher Ed Digital Strategy Network. The purpose of this form is to collect information about the user, their role and interests, and their preferred contact method. This form will help the network administrators understand who is interested in being part of the network and what areas of interest they have.

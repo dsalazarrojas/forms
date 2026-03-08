@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about horse riding instructors from students or parents. The purpose of this form is to gather data about the instructor's employment status, allowing for better evaluation and recommendation of horse riding instructors. The form is not intended to be a comprehensive assessment, but rather a starting point for further evaluation. 
-</thinking>
-
 # Horse Riding Instructor Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect information about horse riding instructors from students or parents.

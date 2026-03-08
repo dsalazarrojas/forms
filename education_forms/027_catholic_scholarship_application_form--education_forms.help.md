@@ -1,6 +1,3 @@
-<thinking> 
-To create a user-facing help guide for the Catholic Scholarship Application Form, I'll need to first understand its purpose, relevance, and potential for duplication. This form seems to be designed for students to apply for a scholarship, likely through a Catholic organization or church. The form aims to gather information about the applicant's personal, academic, and financial background. The fields are generally clear and straightforward, but some might be confusing for users unfamiliar with the Catholic faith or financial jargon. To avoid duplication, users should ensure they provide unique and accurate information for each field.</thinking>
-
 # Catholic Scholarship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about applicants for a Catholic scholarship. It gathers personal, academic, and financial data to assess eligibility and award scholarships to deserving students.

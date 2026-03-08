@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document the checkout process of a Chromebook for the students of Thomasville City Schools. The purpose of this form is to ensure that students, their parents, and school staff accurately and efficiently document the details of the Chromebook checkout process.
-
-The form is meant to be completed by school staff when a Chromebook is checked out to a student, either for personal use or for educational purposes. The fields in this form are designed to capture the essential information needed to track the ownership and usage history of the device.
-
-To avoid duplication, this form should only be used for Chromebook checkouts that occur after the initial checkout process. If a student or staff member already has a Chromebook checked out and needs to make a change to their contract, they should use the "Update Chromebook Checkout" form instead.
-</thinking>
-
 # thomasville_city_schools_chromebook_checkout_contract - Help Guide
 ## Purpose
 The purpose of this form is to document the checkout process of a Chromebook for the students of Thomasville City Schools. It captures essential information needed to track ownership and usage history of the device.

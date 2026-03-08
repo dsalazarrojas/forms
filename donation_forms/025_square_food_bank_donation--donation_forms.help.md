@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to record and manage information about donations made to the food bank. The purpose of this form is to collect detailed information about the donor, the donor's sponsor (if any), the date and time of the donation, and other relevant details. This form is not intended for public-facing purposes, as it is used for internal tracking and management of food bank donations. The information collected through this form will be used to process the donation, communicate with the donor, and track donation history.
-
-To ensure accuracy and consistency, users should ensure that they are submitting complete and accurate information. If a user is uncertain about any field or option, they should refer to this help guide for clarification.
-
-Before filling out this form, ensure that you have the necessary information and approvals to proceed with the donation. If you are unsure about any part of the process, do not hesitate to reach out to the food bank staff for assistance.
-
-</thinking>
-
 # square_food_bank_donation - Help Guide
 ## Purpose
 The purpose of this form is to record and manage information about donations made to the food bank.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information for charity fundraising purposes. The form is intended for individuals who wish to participate in or support fundraising events or campaigns. The form gathers personal details, donation information, and consent to use personal data and communications. The fields are structured to accommodate different types of participants, donors, and event organizers. This form is a critical component of the charity's fundraising process, ensuring that all relevant information is collected for tax purposes, public recognition, and participant/donor management.
-
-</thinking>
-
 # Charity Fundraising Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and consent from participants, donors, and event organizers for charity fundraising purposes.

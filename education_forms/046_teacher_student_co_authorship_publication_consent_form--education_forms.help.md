@@ -1,10 +1,3 @@
-<thinking>
-This form is used to obtain consent from teachers and students for co-authorship in publications. This form is intended for academic institutions to collect information about teachers and students who have contributed to a publication. It's essential to ensure that both teachers and students have given their consent before publishing their work. 
-
-Before proceeding, please verify that you are filling out the correct form. This form has no duplicate fields and is designed to be filled out once.
-
-</thinking>
-
 # Teacher Student Co Authorship Publication Consent Form - Help Guide
 ## Purpose
 The Teacher Student Co Authorship Publication Consent Form is used to collect consent from teachers and students for their work being published in a publication. This form ensures that both teachers and students have given their consent before their work is published, maintaining the academic integrity and transparency of the publication.

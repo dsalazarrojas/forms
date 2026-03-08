@@ -1,5 +1,3 @@
-<thinking>... This form is intended to be used to record the check-in and check-out of students during school hours. It is used to track student attendance, provide a record of the reasons for late arrivals or early departures, and facilitate communication between parents and school staff. Before proceeding, ensure that you are completing this form for a valid reason and not duplicating an existing entry...</thinking>
-
 # Check In Out Form - Help Guide
 ## Purpose
 The Check In Out Form is used to record the check-in and check-out of students during school hours, providing a record of attendance and reasons for late arrivals or early departures.

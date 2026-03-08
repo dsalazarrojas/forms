@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to collect information about youth political engagement trends, aiming to understand the attitudes, behaviors, and preferences of individuals in this demographic regarding politics and civic participation. This form will gather data on their educational background, interest in politics, engagement levels, and attitudes towards various aspects of politics. Please ensure that you are eligible to participate in this survey, and that your responses are honest and accurate. Your participation in this survey will help researchers understand the political landscape among the youth population, and inform policy decisions that impact this demographic. 
-
-Please complete the form by answering the questions truthfully and accurately. If you have any questions or concerns, or if you wish to skip any questions, please feel free to do so. 
-
-</thinking>
-
 # Youth Political Engagement Trends Survey - Help Guide
 ## Purpose
 This form is designed to collect information about youth political engagement trends, aiming to understand the attitudes, behaviors, and preferences of individuals in this demographic regarding politics and civic participation.

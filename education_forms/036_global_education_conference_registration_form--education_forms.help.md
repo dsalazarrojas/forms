@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, my task is to create a user-facing help guide for the "global_education_conference_registration_form" form, which appears to be a registration form for a global education conference. The form is designed for gathering personal details, contact information, event details, registration preferences, additional information, and emergency contact information from users. 
-
-To complete this form, users will need to fill in the required and optional fields, which include personal details, contact information, event details, and preferences. The form also includes fields for emergency contact information and submission time. However, some fields are marked as 'required: false', which means they are optional.
-
-The form's purpose is to collect information from users to process their registration for the conference. The form's fields should be filled in accurately and truthfully to ensure smooth processing of registration.
-
-In this help guide, I will explain each field's purpose and how to fill it in correctly.</thinking>
-
 # global_education_conference_registration_form - Help Guide
 ## Purpose
 This form is designed for users to register for the global education conference. It collects personal details, contact information, event details, registration preferences, and emergency contact information.

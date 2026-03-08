@@ -1,9 +1,3 @@
-<thinking>
-
-The Prefix Mastery Assessment form is designed to gauge the mastery of a student in a specific subject area, likely in an educational setting. This form is meant to be completed by students who have a strong understanding of the subject matter. However, before proceeding, please ensure that you haven't already completed this form in the past, as it may be a repeat assessment. 
-
-</thinking>
-
 # Prefix Mastery Assessment - Help Guide
 ## Purpose
 The Prefix Mastery Assessment is designed to evaluate the mastery of students in a specific subject area. 

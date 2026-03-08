@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Toy Order Form - Help Guide
 
 ## Purpose

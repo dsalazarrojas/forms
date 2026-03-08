@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from individuals who wish to donate educational resources, such as books, equipment, or other materials, to institutions or organizations. The form will help you provide detailed information about the resources you are willing to donate, including your personal details and the institution(s) you would like to donate to.
-
-The goal of this form is to ensure that we can review and process your request efficiently. Please fill out all fields accurately and completely. If you are unsure about any field, you can contact us for further clarification.
-
-</thinking>
-
 # Open Educational Resources Donation Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who wish to donate educational resources to institutions or organizations.

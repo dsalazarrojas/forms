@@ -1,14 +1,3 @@
-<thinking>
-The Speed and Motion Request Form is designed to capture information about speed and motion requests from users. It is intended for use by students, instructors, or staff members to provide details about their speed and motion needs for events, projects, or activities. To ensure accuracy and completeness, please review the form fields carefully and provide all necessary information.
-
-Before submitting your request, please note that the form is not a duplicate submission form. If you have already submitted a request with the same details, please do not re-submit. To determine if a request has already been submitted, you can check the internal database or contact the responsible staff member.
-
-The form will be reviewed and processed upon submission. Please be aware that submission is not instantaneous, and it may take some time for the review process to be completed.
-
-Please ensure that you provide accurate and clear information in each field to facilitate efficient processing of your request.
-
-</thinking>
-
 # Speed And Motion Request Form - Help Guide
 ## Purpose
 The Speed And Motion Request Form is designed to capture information about speed and motion requests from users.

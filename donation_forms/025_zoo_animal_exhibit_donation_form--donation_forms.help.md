@@ -1,7 +1,3 @@
-<thinking>
-The Zoo Animal Exhibit Donation Form is used to collect information about donations made to the zoo's animal exhibits. This form is designed to be completed by donors who want to support the zoo's conservation efforts by providing a monetary or in-kind donation. The form will help the zoo's staff track and manage donations, making it easier to keep accurate records and report on the success of fundraising campaigns. This form will be used to gather information such as donor contact details, donation amount, and the purpose of the donation. By completing this form, donors will be able to specify which animal exhibit they wish to support, and provide any additional comments or notes they may have. The form will also ask for the donor's signature, address, and other contact information to ensure that the donation is properly acknowledged and recorded. This form is designed to be simple and easy to use, and all fields are marked as required or optional depending on the donor's preferences.
-</thinking>
-
 # Zoo Animal Exhibit Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about donations made to the zoo's animal exhibits, including donor contact details, donation amount, and the purpose of the donation.

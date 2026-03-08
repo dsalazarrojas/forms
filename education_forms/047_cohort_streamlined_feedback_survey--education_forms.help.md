@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is a Cohort Streamlined Feedback Survey, designed to gather feedback from participants in a cohort program. The form is divided into sections, and each section focuses on a specific aspect of the cohort experience. The feedback collected will help us understand participant satisfaction, identify areas for improvement, and inform future program development.
-
-To complete this form, please carefully read each section and answer the questions based on your experience in the cohort. The form has several sections, including participant information, overall experience, content and curriculum, instruction and facilitation, pacing and duration, learning outcomes, and feedback and suggestions. 
-
-</thinking>
-
 # Cohort Streamlined Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants in a cohort program, aiming to understand their satisfaction, experiences, and suggestions for improvement.

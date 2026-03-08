@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from new patients seeking the services of a dietitian. The form aims to capture essential details about the patient's personal and medical background, including their personal info, medical history, contact information, and nutrition habits. This guide will walk you through the steps to complete the form and provide explanations for each field.
-</thinking>
-
 # Dietitian Patient Questionnaire - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for students, parents, and administrators to submit orders for school supplies. The form can be accessed through a secure online portal or a printed copy distributed in schools. It is designed to collect information about the student, the order date, the school name, grade level, school supply requests, parent's name, contact information, and email address. Before proceeding, please ensure that the form is being used for its intended purpose and that you have not already submitted a similar request.
-
-</thinking>
-
 # School Supply Order Form - Help Guide
 
 ## Purpose

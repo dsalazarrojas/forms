@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for employees to declare their completion of a course, providing details such as the course title, their name, and dates related to their training program. To confirm, the form seems to be a standard data collection tool used by HR or training departments to gather information on employee course completion. To avoid duplication, it's assumed this form is only used for initial course completion declarations and not for updating or revising existing records.
-
-</thinking>
-
 # Course Completion Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your course completion from an employee. It's used to track and document their training history and program participation.

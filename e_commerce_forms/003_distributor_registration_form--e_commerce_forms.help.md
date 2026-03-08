@@ -1,15 +1,3 @@
-<thinking>
-This form is used to register a new distributor. A distributor is a person or company that sells products or services on behalf of another company. This form is used to provide information about the representative, company, and other relevant details. 
-
-The form will be used to store information about the distributor in the database. 
-
-The form fields are designed to collect essential information about the distributor. The fields are: Representative Name, Company Name, Address Line 1, Address Line 2, City, State, Zip, Recruiter Name, Phone, Email, Order Details, and Terms and Conditions.
-
-The form is used to collect information about the distributor for future reference. It is essential to fill in all the fields accurately and completely. 
-
-The form can be filled out by the distributor or their representative. It is recommended to read the terms and conditions carefully before submitting the form.
-</thinking>
-
 # distributor_registration_form - Help Guide
 ## Purpose
 This form is used to register a new distributor.

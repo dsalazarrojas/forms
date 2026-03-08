@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Subject Representative Feedback Form - Help Guide
 
 ## Purpose

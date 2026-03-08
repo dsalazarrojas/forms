@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive delivery order template designed to collect essential information from customers for appliance delivery purposes. To ensure the form's purpose is not duplicated, please note that this form is intended for customers who have already been assessed as eligible for delivery services. The form will only be used for deliveries within the customer's specified time frames and addresses. It is also assumed that the customer has already communicated their appliance details and preferred delivery options to the company.
-</thinking>
-
 # Appliance Delivery Form - Help Guide
 ## Purpose
 

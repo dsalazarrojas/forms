@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for students to register themselves for the Certified Phlebotomy Training program, which is likely a training program for phlebotomy technicians. The form gathers necessary information for registration, including student contact information, educational background, and health-related questions. The form aims to ensure that students meet the program's requirements and understand its policies.
 
 # Certified Phlebotomy Training - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for the Talent Exchange Program. This form is likely used to facilitate the exchange of talents, skills, or expertise within an organization or community. The form is not affiliated with, endorsed by, or derived from any form platforms, and it is an original adaptation created by AI. It is released under a Creative Commons 4.0 license, allowing for free use, modification, and even commercial use as long as proper attribution is given. The form appears to be used within the education industry, collecting details about user information, education history, professional skills, rotation details, exchange program information, and application documents. 
-
-</thinking>
-
 # Talent Exchange Program Application Form - Help Guide
 ## Purpose
 The Talent Exchange Program Application Form is designed to collect information from users for the purpose of the Talent Exchange Program. This program aims to facilitate the exchange of talents, skills, or expertise within an organization or community.

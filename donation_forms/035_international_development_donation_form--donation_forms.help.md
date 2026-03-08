@@ -1,20 +1,3 @@
-<thinking>
-We need to create a help guide for the "International Development Donation Form" that explains its purpose, how to complete it, and what each field means.
-
-The form is designed to collect information from donors to support international development projects. The form likely helps track and manage donations for these projects, ensuring accurate and efficient data collection.
-
-The form has multiple fields to capture various aspects of the donor's information and the project they are supporting. This includes:
-
-- Personal details (first_name, last_name, email)
-- Project specifics (project_type, project_status, amount)
-- Donor's details (donor_name, donor_organization, donor_title)
-- Contact information (phone_number, donor_email)
-- Additional context (notes, message)
-
-Let's break down each section to help users complete the form correctly and understand what each field is for.
-
-</thinking>
-
 # International Development Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors for international development projects, helping to track and manage donations efficiently.

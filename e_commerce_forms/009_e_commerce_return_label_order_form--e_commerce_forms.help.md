@@ -1,7 +1,3 @@
-<thinking>
-The e_commerce_return_label_order_form is designed to facilitate returns and refunds for online orders. This form is meant to be filled out by customers or staff to request a return or refund on a purchased item. It should only be used for genuine return requests and not for testing or demonstration purposes. Ensure that the form is not filled out multiple times for the same order ID, as this can lead to duplicate records and unnecessary processing time. The fields are designed to collect relevant information for the return process.
-</thinking>
-
 # e_commerce_return_label_order_form - Help Guide
 ## Purpose
 The e_commerce_return_label_order_form is a form used to initiate the return and refund process for online orders. It collects essential information to facilitate efficient processing and resolution of return requests.

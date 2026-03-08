@@ -1,12 +1,3 @@
-<thinking>
-The Student Of Concern Form is used to capture information about a student who has concerns or needs. This form is used to provide teachers and educators with the necessary information to support students in their care. 
-
-To complete this form accurately, please ensure that you have all the necessary details about the student, their parent, and the specific concerns or support services required. 
-
-The form is divided into multiple pages for easier navigation. Each field is marked as required or optional, but please fill in all relevant information to ensure that the student receives the necessary support.
-
-</thinking>
-
 # Student Of Concern Form - Help Guide
 ## Purpose
 This form is used to capture information about a student who has concerns or needs, providing teachers and educators with the necessary details to support the student in their care.

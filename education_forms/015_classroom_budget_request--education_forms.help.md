@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classroom Budget Request - Help Guide
 ## Purpose
 This form is designed to collect information from teachers for budget requests for classroom materials, equipment, and other educational needs. 

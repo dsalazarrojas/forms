@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for collecting information about language and institution preferences from users, likely for language learning or educational purposes. It appears to be a comprehensive form covering various aspects of language and institution setup, including language preferences, institutional affiliations, contact information, and other details. 
-
-To determine if this form is relevant to the user, it would be best to ask the following questions: 
-- Are you taking a language course or learning a new language? 
-- Are you affiliated with any institutions (e.g., universities, schools, or companies)? 
-- Do you have any contact information (e.g., email, phone number) that you'd like to share? 
-
-If the user answers "yes" to any of these questions, they should proceed with the form. Otherwise, they can be directed to a different form or process.
-
-</thinking>
-
 # Language And Institution Setup Survey - Help Guide
 
 ## Purpose

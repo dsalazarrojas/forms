@@ -1,25 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from students about the concepts covered during a recitation session. The purpose of this form is to gather information on the effectiveness of the session, the clarity of the concepts, and the relevance of the topics discussed. This feedback will help the instructor to improve the recitation session and provide a better learning experience for students. The form will help the instructor to identify areas that need improvement and make necessary adjustments to the session.
-
-The form has a total of 13 fields that include:
-* A session feedback field where students can express their thoughts about the session
-* A concept clarity field where students can rate the clarity of the concepts covered
-* A concept relevance field where students can rate the relevance of the concepts
-* A session usefulness field where students can rate the usefulness of the session
-* A field to select multiple recitation concepts that were useful
-* A field to provide any other useful concepts that were not covered in the session
-* A field to provide suggestions for the instructor
-* A field to provide feedback about the session
-* A field to enter email
-* A field to enter phone number
-* A field to select session date
-* A field to select session time
-
-Before filling out the form, make sure to select all the necessary fields to provide a comprehensive feedback about the session. The fields marked as required are essential to provide accurate feedback, so be sure to fill them out. The fields with hint are meant to help you provide more detailed information, if needed.
-
-The following pages will help you fill out the form more efficiently. 
-</thinking>
-
 # Feedback on Recitation Concepts - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about the concepts covered during a recitation session. The feedback will help the instructor to improve the session and provide a better learning experience for students.

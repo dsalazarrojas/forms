@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information related to student lunches, including meal type, food allergies, and other relevant details. This form appears to be designed for schools or educational institutions to collect information from students, parents, or teachers. The form seems to be focused on managing student lunches, including the type of meal, any food allergies, and other related details. I will now create a user-facing help guide for this form.
-</thinking>
-
 # NCA Elem Lunch - Help Guide
 ## Purpose
 This form is used to collect information about student lunches, including meal type, food allergies, and other relevant details.

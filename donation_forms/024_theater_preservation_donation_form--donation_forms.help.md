@@ -1,9 +1,5 @@
-<thinking>...</thinking>
-
 Theater Preservation Donation Form Help Guide
 =====================================
-
-<thinking>Before filling out this form, please ensure that you have the necessary information and consent from the supporter to collect. Ensure that the form fields are filled out accurately and correctly to avoid duplication or errors. If you are unsure about any part of the form, please reach out to your designated team member for guidance.</thinking>
 
 # Theater Preservation Donation Form - Help Guide
 

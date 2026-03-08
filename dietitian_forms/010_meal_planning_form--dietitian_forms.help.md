@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users provide information about their dietary preferences, habits, and goals for meal planning. The form asks questions that cover a variety of aspects, including meal frequency, dietary restrictions, and eating habits. The user will be able to input their preferences and habits across different categories. This form aims to gather relevant data to assist users in creating meal plans that cater to their specific needs.
-</thinking>
-
 # Meal Planning Form - Help Guide
 ## Purpose
 The Meal Planning Form is designed to collect information about your dietary preferences, habits, and goals to help create personalized meal plans tailored to your needs.

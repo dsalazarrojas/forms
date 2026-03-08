@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from preschool staff members about their experiences and satisfaction with their work environment, colleagues, and overall job performance.
-The form is intended to be completed by preschool staff members themselves, providing them with an opportunity to reflect on their own strengths and weaknesses, as well as areas for improvement.
-To ensure that the feedback is constructive and actionable, each section of the form has been carefully crafted to solicit specific and relevant information.
-This form is not intended to be a formal evaluation or performance review, but rather a tool for staff members to provide honest and open feedback.
-</thinking>
-
 # Preschool Staff Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from preschool staff members about their experiences and satisfaction with their work environment, colleagues, and overall job performance.

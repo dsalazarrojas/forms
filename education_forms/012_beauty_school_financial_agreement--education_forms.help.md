@@ -1,9 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "Beauty School Financial Agreement" form.
-This form is designed to collect information from students who are enrolling in the school's programs in Cosmetology, Esthetics, Nail Technology, Hair Design, or Instructor Training. The form is used to capture their student information, program enrollment details, financial terms, and terms of agreement.
-Upon reviewing the YAML provided, I will ensure that each field is explained in a clear and concise manner, avoiding any unsupported business logic.
-</thinking>
-
 # Beauty School Financial Agreement - Help Guide
 ## Purpose
 This form is used to collect and document the student's financial agreement with the beauty school. It is essential to complete this form carefully, as it contains important information about the student's enrollment and payment plan.

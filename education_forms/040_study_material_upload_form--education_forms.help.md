@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by educational institutions or instructors to collect study materials from students or researchers. The form may be used to upload and manage study materials, such as notes, articles, or presentations, that are required for a course or research project. To ensure accuracy and relevance, please ensure that you are using this form within an educational context. If you are unsure or if this form does not match your specific use case, please do not proceed. 
-</thinking>
-
 # Study Material Upload Form - Help Guide
 ## Purpose
 The Study Material Upload Form is designed to collect and manage study materials from students or researchers. This form allows you to upload and organize study materials, such as notes, articles, or presentations, that are relevant to your academic or research work.

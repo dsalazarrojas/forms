@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process refund requests from donors for donations made to the organization. The form helps to identify the donor, the date of the claim, and the reason for the refund. It is designed to ensure that refunds are processed efficiently and accurately.
-</thinking>
-
 # Donation Refund Claim Form - Help Guide
 ## Purpose
 This form is used to claim a refund for a donation made to our organization. Please fill out the form with the necessary information to process your refund request.

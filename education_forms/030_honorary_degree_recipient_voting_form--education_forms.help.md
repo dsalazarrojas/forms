@@ -1,8 +1,3 @@
-<thinking>
-To create this form, I will be checking for non-duplication of effort and relevance of the form's purpose. The form appears to be for voting for honorary degree recipients, where committee members can indicate whether a candidate meets certain criteria (goals) or not. The purpose of this form is to collect feedback from committee members on the candidates they are voting on. This form seems to be well-structured and should be easy to understand for end users.
-
-</thinking>
-
 # honorary_degree_recipient_voting_form - Help Guide
 ## Purpose
 This form is used to collect feedback from committee members on honorary degree recipients. Committee members will be asked to indicate whether each candidate meets specific criteria.

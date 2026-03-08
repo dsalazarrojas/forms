@@ -1,7 +1,3 @@
-<thinking>
-The "Equation Solving Worksheet" form is designed to collect information from students about their approach to solving mathematical equations. This form is likely to be used in an educational setting, such as a school or university, to gather insights into students' thought processes and problem-solving strategies. The form's purpose is to provide a structured way for students to reflect on their own learning experiences and provide feedback to educators on how they approach equation solving.
-</thinking>
-
 # Equation Solving Worksheet - Help Guide
 ## Purpose
 This form is designed to collect information from students about their approach to solving mathematical equations.

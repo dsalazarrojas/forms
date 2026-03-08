@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who want to donate to the Maternal Health Program. The purpose of this form is to gather details about the donor's donation amount, frequency, payment method, and contact information (name and email). This information will be used to process donations and follow up with donors.
-</thinking>
-
 # Maternal Health Program Donation Form - Help Guide
 ## Purpose
 This form is a donation collection tool for the Maternal Health Program. It is designed to gather information from individuals who wish to contribute to the program.

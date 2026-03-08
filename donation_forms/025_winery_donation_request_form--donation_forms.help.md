@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from wineries about their donation requests, including event details, supporting documents, and follow-up status. The form should be filled out by someone at the winery, and the event inquirer's contact information will be collected to help with follow-up communication. It's essential to fill out this form accurately and completely, as it will help in assessing the winery's donation requests effectively.
-</thinking>
-
 # Winery Donation Request Form - Help Guide
 ## Purpose
 The Winery Donation Request Form is designed to collect information from wineries about their donation requests, including event details and supporting documents.

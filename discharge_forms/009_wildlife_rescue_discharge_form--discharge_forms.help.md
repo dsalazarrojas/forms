@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to document the release of a rescued animal from a wildlife sanctuary or rescue organization. The purpose of this form is to provide essential information about the animal's species, name, type, rescue date, discharge date, location, and new guardian's contact details. This form should be completed by the wildlife rescue organization staff or volunteers who are involved in the release process. Please ensure that you are authorized to access this form and that you are not duplicating effort by completing this form for an animal that has already been discharged.
-</thinking>
-
 # Wildlife Rescue Discharge Form - Help Guide
 ## Purpose
 This form is used to document the release of a rescued animal from a wildlife sanctuary or rescue organization.

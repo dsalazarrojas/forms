@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to be used for listing used books on an e-commerce platform. It aims to collect information about the book such as its title, ISBN, condition, price, and other details to enable easy and accurate listing and searching of used books. It is essential to fill out all required fields to ensure the book is correctly listed.
-
-</thinking>
-
 # Used Book Listing Form - Help Guide
 ## Purpose
 This form is used for listing used books on our platform. Please fill it out with accurate and complete information to help buyers and sellers connect.

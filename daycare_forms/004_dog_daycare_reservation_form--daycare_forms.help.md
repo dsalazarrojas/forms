@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for their dog's day care reservation. The reservation form is designed to gather details about the dog's characteristics, owner's contact information, and any additional services requested. Before continuing, please ensure you're familiar with the reservation form and its requirements. If you've already created a previous reservation or have specific inquiries about the daycare's services, kindly refer to those documents for context.</thinking>
-
 # Dog Daycare Reservation Form - Help Guide
 ## Purpose
 This form is for reserving a spot for your furry friend at our dog daycare. We require some essential information from you to ensure a comfortable and safe experience for your dog. Please take a few minutes to fill out the form accurately, and we'll take care of the rest.

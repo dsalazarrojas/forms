@@ -1,7 +1,3 @@
-<thinking>
-This form is used for declaring a change in venue for an event. To complete this form, ensure you understand the current circumstances and have all the necessary information. Please review each field carefully and fill it out accurately. If you are submitting this form for the first time, ensure you answer all fields to provide a complete declaration. If you are updating an existing declaration, make sure the information matches the original declaration.
-</thinking>
-
 # Change Of Venue Declaration Form - Help Guide
 ## Purpose
 The Change Of Venue Declaration Form is used to notify the relevant authorities of a change in venue for an event. This form helps ensure that the event organizers and attendees are informed and prepared for the change.

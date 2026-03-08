@@ -1,7 +1,3 @@
-<thinking>
-The Inclusive Curriculum Research Filming Consent Form is used to obtain consent from participants before filming takes place in research studies. This form ensures that participants understand the purpose, scope, and implications of the filming, and agree to participate. It helps researchers to ensure that participants are aware of their rights and are informed about the filming process. To fill out this form, make sure to answer all questions truthfully and carefully. Note that this form is not a legal document, and its completion is not a guarantee of consent. In case of any concerns or questions, contact the research team.
-</thinking>
-
 # Inclusive Curriculum Research Filming Consent Form - Help Guide
 
 ## Purpose

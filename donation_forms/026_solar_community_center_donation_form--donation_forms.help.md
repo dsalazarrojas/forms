@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Solar Community Center Donation Form. The form is designed to collect information from potential donors regarding their donation preferences and details. The fields and options in the form are meant to guide users through the donation process.
-
-</thinking>
 # Solar Community Center Donation Form - Help Guide
 ## Purpose
 The Solar Community Center Donation Form is designed to collect information from potential donors about their donation preferences and details. This form is used to gather essential data to process and manage donations for the Solar Community Center.

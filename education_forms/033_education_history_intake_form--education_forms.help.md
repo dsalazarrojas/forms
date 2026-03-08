@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a user's educational history. The form has multiple pages, each with a combination of single-select, multiple-select, and text input fields. This form is likely used for data collection and record-keeping purposes, possibly for academic, employment, or personal records. To ensure accurate completion of this form, users should review each field's requirements and instructions carefully. Please review the form's fields below to understand how to properly complete it.
-</thinking>
-
 # Education History Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document a user's education history. This includes information about their education level, school attended, program of study, degree earned, graduate field, and other relevant details.

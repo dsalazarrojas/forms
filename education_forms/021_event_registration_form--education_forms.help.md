@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registering events. It captures essential information about the event, the registration process, and the participant's agreement to certain terms and conditions.
-The form is structured to collect data for the purpose of event management and participant tracking.
-It is expected that the form will be filled out by event participants or registrants.
-</thinking>
-
 # event_registration_form - Help Guide
 
 ## Purpose

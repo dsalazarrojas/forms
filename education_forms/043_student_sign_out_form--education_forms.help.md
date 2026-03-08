@@ -1,9 +1,3 @@
-<thinking>
-
-The Student Sign Out Form is a data collection form used to document the details of a student's departure from school. To ensure that you're using this form correctly, first check that you're authorized to use it and that you're not completing multiple copies of the same form for the same student on the same day. If you're unsure, double-check your permissions and clear any duplicate entries before proceeding.
-
-</thinking>
-
 # Student Sign Out Form - Help Guide
 ## Purpose
 The Student Sign Out Form is a data collection form used to document the details of a student's departure from school. The form is used to provide accurate and consistent information about student absences, ensuring that students are accounted for and teachers are informed about their whereabouts.

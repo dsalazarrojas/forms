@@ -1,8 +1,3 @@
-<thinking>
-This guide is for users who need to complete the Clinical Trial Discharge Form. The purpose of this form is to document the participant's status and details at the end of a clinical trial. Please make sure that you are authorized to access this form and that it is not a duplicate request. If you are unsure, please contact the research team or your supervisor.
-
-</thinking>
-
 # Clinical Trial Discharge Form - Help Guide
 ## Purpose
 This form is used to document the participant's status and details at the end of a clinical trial. It is essential to ensure that the participant's care is properly discharged, and their safety is guaranteed.

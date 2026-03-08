@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_course_development_appointment_form - Help Guide
 
 ## Purpose

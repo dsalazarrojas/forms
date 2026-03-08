@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adjunct Faculty Employment Application - Help Guide
 ## Purpose
 The purpose of this form is to provide information about your qualifications and experience for potential employment as an adjunct faculty member. Please ensure that all sections of the form are completed accurately and thoroughly.

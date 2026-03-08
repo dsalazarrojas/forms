@@ -1,6 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "worldpay_us_alumni_donation_form" form. This form is intended to collect donation information from alumni donors, including their contact information, donation amount, and payment method. The form's purpose is to streamline the donation process, ensuring accurate and secure transactions. We will guide users through each field to help them fill out the form correctly and efficiently.</thinking>
-
 # worldpay_us_alumni_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donation information from alumni donors for the Worldpay US Alumni Donations program. Please fill out the form accurately and securely to complete your donation.

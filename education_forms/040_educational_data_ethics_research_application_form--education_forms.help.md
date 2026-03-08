@@ -1,8 +1,3 @@
-<thinking>
-The Educational Data Ethics Research Application Form is a tool used to collect information about educational research projects, aiming to ensure that all relevant parties are aware and agreeable to the project's purpose and scope. This form must be filled out to gather necessary data for approval and ethical reviews of educational research projects. Please verify that this form is filled out for the correct research project and that all provided information is accurate and true.
-
-</thinking>
-
 # Educational Data Ethics Research Application Form - Help Guide
 
 ## Purpose

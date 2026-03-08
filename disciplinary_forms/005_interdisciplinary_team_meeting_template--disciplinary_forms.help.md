@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document and track meetings within a team, allowing team members to share information and stay organized. The "interdisciplinary_team_meeting_template" form helps ensure that all relevant details about a meeting are captured, including the meeting's purpose, attendees, location, schedule, and status.
-Before filling out this form, please note that the information is intended for internal use within the team. The meeting details are not meant to be shared with external parties, and this form is not a formal document for external communication.
-Please ensure that you have a clear understanding of the meeting's purpose and goals before proceeding. If you have already filled out a meeting template for the same meeting, please do not resubmit. This will help prevent duplicate entries and ensure that all team members are working with the most up-to-date information.
-</thinking>
-
 # interdisciplinary_team_meeting_template - Help Guide
 ## Purpose
 The purpose of this form is to document and track meetings within the team, facilitating effective communication and collaboration among team members.

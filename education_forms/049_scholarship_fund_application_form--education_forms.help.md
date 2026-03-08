@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I need to ensure that the form is being used correctly and is not being duplicated or used for the wrong purpose. The form is a Scholarship Fund Application Form, which means it is intended for students to apply for scholarships. Each field in the form should be filled out with the relevant information to ensure that the application is complete and accurate. To avoid duplication, please make sure to submit one application per student.</thinking>
-
 # Scholarship Fund Application Form - Help Guide
 ## Purpose
 The Scholarship Fund Application Form is used by students to apply for scholarships. It is a form that helps students submit their applications for financial aid to fund their education expenses.

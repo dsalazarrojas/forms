@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations requesting charitable donations from the organization. The purpose of this form is to gather essential details about the organization, the type of donation requested, and the purpose of the donation. This form is used by the organization to evaluate and potentially approve or reject a donation request.
-</thinking>
-
 # Charitable Request Form - Help Guide
 ## Purpose
 This form is used to gather information from organizations requesting charitable donations from us.

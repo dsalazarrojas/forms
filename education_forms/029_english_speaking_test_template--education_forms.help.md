@@ -1,14 +1,3 @@
-<thinking> 
-  This form is designed to test your basic knowledge about English speaking and language usage. Please fill out each section accurately and truthfully, as this test is intended to assess your understanding of basic concepts in English. This form contains a variety of sections that will evaluate your ability to understand and utilize common English expressions and terminology.
-
-To avoid confusion and duplication, please ensure that you fill out the form in a sequential manner, one section at a time. If you need help or clarification on any question, please feel free to reach out to our support team.
-
-The test consists of a series of multiple-choice and single-answer questions that cover a range of topics including favorite sports, favorite foods, favorite colors, and other common English-speaking topics. Some questions may be more subjective, so please answer them based on your genuine preferences and experiences.
-
-Please make sure to provide accurate and complete answers to each question, and take your time to read through the instructions before proceeding. This form is designed to be completed by users who are fluent in English, so please answer each question based on your understanding of the language.
-
-After completing the form, you will be able to review your answers and submit them for review. If you encounter any technical issues or have questions about a specific question, please contact our support team for assistance.</thinking>
-
 # english_speaking_test_template - Help Guide
 ## Purpose
 This form is designed to test your basic knowledge about English speaking and language usage.

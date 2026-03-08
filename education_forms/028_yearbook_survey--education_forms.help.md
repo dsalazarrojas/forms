@@ -1,24 +1,3 @@
-<thinking>
-
-This form is a Yearbook Survey form, designed to collect information from students about their personal details and educational background. The form is intended for students who are part of an educational program or institution and aims to gather their responses to various questions. Please ensure that you are accessing this form as part of a valid educational context, as it may not be relevant in other scenarios.
-
-The form is designed to collect the following information:
-- First Name
-- Last Name
-- Grade
-- School Name
-- School Year (e.g., First, Second, Third, etc.)
-- Email (optional)
-- Phone Number (optional)
-- Note (optional)
-- Date of Birth (in date format)
-- Day of Birth (in numerical format, 1-31)
-- Time of Birth (in 24-hour format)
-
-Please review each field carefully and provide accurate information to ensure that your responses are recorded correctly.
-
-</thinking>
-
 # Yearbook Survey - Help Guide
 ## Purpose
 This form is designed to collect information from students about their personal details and educational background.

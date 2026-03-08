@@ -1,19 +1,3 @@
-<thinking>
-# Internal reasoning:
-The purpose of this form is to collect data on various aspects of online courses, including course title, student level, course level, enrollment period, and more. This data can be used to analyze and improve the effectiveness of online courses. 
-
-This form is designed to be used by course instructors, administrators, or educators who want to gather information on student retention, course satisfaction, and other important factors that affect the quality of online education. 
-
-The form consists of multiple pages, each with several fields that ask for specific information such as course title, institution, student level, course level, enrollment period, and more. 
-
-Each field has a label and a hint that provides context and guidance on what the field is for. Some fields are required, while others are optional. 
-
-The form also includes fields for feedback, email, and phone number, which can be used to contact the user for follow-up questions or to provide more information. 
-
-Overall, this form is designed to be user-friendly and easy to navigate, making it simple for users to provide the necessary information.
-
-</thinking>
-
 # Online Course Retention Factors Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on various aspects of online courses, including course title, student level, course level, enrollment period, and more, to analyze and improve the effectiveness of online courses.

@@ -1,24 +1,3 @@
-<thinking>
-
-This help guide is designed to assist end users in completing the "school_bus_pre_trip_inspection_checklist" form. This form is intended to be used by school bus drivers to conduct pre-trip inspections of their vehicle before embarking on a school bus trip. 
-
-The form collects general information about the vehicle, safety equipment, vehicle condition, driver conduct, vehicle pre-trips, emergency procedures, vehicle equipment, driver vehicle information, vehicle status, and driver signature. 
-
-Before completing this form, drivers should review the following:
-
-* Review the vehicle's general information, including its make, model, year, and any relevant documentation (e.g., maintenance records).
-* Check the vehicle's safety equipment, such as seatbelts, airbags, and fire extinguishers, to ensure they are functioning correctly.
-* Inspect the vehicle's condition, paying attention to any signs of wear or damage.
-* Check the driver's conduct, including their hours of service, fatigue levels, and any medical conditions that may affect their ability to drive.
-* Review the vehicle's pre-trips, including its route, expected duration, and any potential hazards or concerns.
-* Familiarize yourself with emergency procedures, such as evacuation routes and emergency exits.
-* Check the vehicle's equipment, including its lights, sirens, and any other essential tools.
-* Review the driver's vehicle information, including their name, contact information, and any relevant certifications or training.
-* Check the vehicle's status, including its current fuel level, temperature, and any other relevant indicators.
-* Finally, sign the form to confirm that you have completed the pre-trip inspection and that the vehicle is ready for the trip.
-
-</thinking>
-
 # school_bus_pre_trip_inspection_checklist - Help Guide
 
 ## Purpose

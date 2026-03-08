@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the proficiency evaluation form. I'll start by explaining the purpose and relevance of the form, and then I'll break down the form into its individual sections with clear explanations for each field. After that, I'll provide some tips for the end users to help them complete the form effectively.</thinking>
-
 # Proficiency Evaluation Form - Help Guide
 ## Purpose
 The Proficiency Evaluation Form is designed to collect information about a student's proficiency level and attendance at workshops. The form is used to assess the student's progress and performance in their field of study. It's essential to fill out this form accurately and thoroughly to ensure that the student's skills and knowledge are evaluated correctly.

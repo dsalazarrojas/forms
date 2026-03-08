@@ -1,10 +1,3 @@
-<thinking> 
-This is a Final Payment Form, used to collect information from customers for a final payment. 
-
-This form should only be used for final payments and not for any other type of transaction. Please ensure you are using this form correctly to avoid any confusion or errors. 
-
-</thinking>
-
 # Final Payment Form - Help Guide
 ## Purpose
 The Final Payment Form is used to collect information from customers for a final payment.

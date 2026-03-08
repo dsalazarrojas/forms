@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help teachers assess their training needs, which will be instrumental in identifying areas where they require professional development. It will help administrators and trainers to provide targeted support to teachers to improve their skills and teaching practices.
-
-It is essential to complete this form accurately to ensure the effectiveness of the training program.
-
-</thinking>
-
 # Teacher Training Needs Assessment Form - Help Guide
 ## Purpose
 The Teacher Training Needs Assessment Form is designed to help teachers identify their training needs and provide valuable insights to administrators and trainers to create targeted support programs.

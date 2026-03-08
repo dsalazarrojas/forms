@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form to obtain consent from individuals who will be filmed for an educational technology pilot. This form is designed to capture necessary information about the filming process, including the purpose, location, and duration of the filming. Please note that the form fields are not required for completion, as this form is intended to be a consent form.
-
-Before completing this form, please note that the pilot filming is a part of an educational technology project, and the information collected will be used to support the project's objectives. If you have any questions or concerns, please contact the project team.
-</thinking>
-
 # Educational Technology Pilot Filming Consent Form - Help Guide
 ## Purpose
 This form is a consent form for the educational technology pilot filming. Please provide your consent by completing the form and submitting it before the filming begins.

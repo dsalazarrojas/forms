@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from donors who wish to donate classroom supplies to support a specific school or educational institution. The form captures details about the donor, including their name, email address, phone number, association with the school, the type and quantity of supplies donated, the condition of the items, estimated value of the donation, delivery method, and whether they would like to receive a donation receipt for tax purposes. The form is structured to guide the donor through a clear and concise process, ensuring that the necessary information is collected accurately and efficiently.
-</thinking>
-
 # Classroom Supplies Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from donors who wish to contribute classroom supplies to support the school. This form helps the school administration to track and acknowledge donations, and to communicate with the donors about the impact of their contributions.

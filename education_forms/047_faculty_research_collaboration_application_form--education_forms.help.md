@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for the "Faculty Research Collaboration Application Form" that explains its purpose, how to complete it, and what each field means. To do this, I will analyze the provided YAML schema and provide a clear and concise guide for end-users. I will also ensure that the explanations are concrete, practical, and based on the actual field labels and their intended use. This guide will help users understand what to expect and how to fill out the form accurately and efficiently.</thinking>
-
 # Faculty Research Collaboration Application Form - Help Guide
 ## Purpose
 The Faculty Research Collaboration Application Form is designed to gather information about research collaborations between faculty members and other researchers. The form is used to facilitate collaboration and resource sharing between faculty members and to track research activities and progress.

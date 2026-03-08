@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insecticide Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess users' knowledge about insecticides, covering various topics and requiring users to answer multiple-choice and short-answer questions. It collects user input through multiple sections, including a quiz section and sections for user contact information.

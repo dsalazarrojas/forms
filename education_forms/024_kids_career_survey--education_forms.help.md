@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students, teachers, and parents about their interests, goals, and perceptions regarding careers. The form is intended to help the institution or organization understand the needs and aspirations of their students and make informed decisions about career guidance and development programs. To ensure accuracy, please review the information below carefully and only fill out the form if the details are current and relevant to the child's career goals and interests.
-</thinking>
-
 # Kids Career Survey - Help Guide
 ## Purpose
 The Kids Career Survey form is a tool designed to collect information from students, teachers, and parents about career aspirations, interests, and goals. This form will help the institution or organization better understand student needs and develop effective career guidance programs.

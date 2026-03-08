@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for educational grant applications, which are typically used to fund projects, research, or programs in educational institutions. Before proceeding, make sure you are filling out this form for a valid educational grant application purpose and not for any other unrelated reason. Please note that some fields are optional, but filling them out can provide additional context and information for the reviewers.
-</thinking>
-
 # Educational Grant Application Form - Help Guide
 ## Purpose
 The Educational Grant Application Form is designed to collect relevant information for educational grant applications. This form is intended for educational institutions to submit their grant requests.

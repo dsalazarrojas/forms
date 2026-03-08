@@ -1,5 +1,3 @@
-<thinking>Form purpose is to request writing center appointments that allow students to receive help with writing-related tasks from a writing center. This form is likely used by students, but also by instructors or staff members to request support for their students. To avoid overbooking or duplicate requests, the form may ask for some internal checks to ensure that it's the first time the form is being used for a particular student.</thinking>
-
 # Writing Center Appointment Request - Help Guide
 ## Purpose
 The Writing Center Appointment Request form is a tool used by students and instructors to request support from the writing center. This form helps the writing center team to better understand the student's needs and provide tailored assistance.

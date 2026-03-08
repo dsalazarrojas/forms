@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to help users understand the fundamental concepts of programming variables. This form will guide them through a series of questions that cover the basic types of variables, their classification, how they interact with control structures, and their role in functions and memory storage. Users will be required to answer questions about variable declaration, updates, examples, and initialization. By completing this form, users will gain a solid understanding of the core concepts of programming variables and their applications in different programming languages.
-</thinking>
-
 # Programming Variables Quiz - Help Guide
 ## Purpose
 The purpose of this form is to test your understanding of programming variables, covering their types, classification, scope, declaration, updates, examples, and initialization.

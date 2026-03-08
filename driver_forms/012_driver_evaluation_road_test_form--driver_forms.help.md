@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate a driver's performance during a road test. It's designed to collect data and feedback from instructors and students about a driver's abilities and areas for improvement. To avoid duplication, please ensure that only one evaluation is submitted for each driver, and that the evaluation status is up to date.
-</thinking>
-
 # Driver Evaluation Road Test Form - Help Guide
 ## Purpose
 The Driver Evaluation Road Test Form is used to assess a driver's skills and knowledge during a road test. Instructors use this form to provide feedback to drivers on their performance, while students can also provide their own comments and feedback.

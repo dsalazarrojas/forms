@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture customer information for a short sleeve t-shirt order. To avoid duplication, ensure you have not previously ordered from us. If you have any existing accounts with us, please log in before attempting to place an order as a new customer.
-
-</thinking>
-
 # Short Sleeve T Shirt Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect customer information for a short sleeve t-shirt order. This includes customer details, product details, payment method, and shipping information.

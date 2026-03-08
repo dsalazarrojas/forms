@@ -1,7 +1,3 @@
-<thinking>
-This form is used to handle a late withdrawal request from a student. The purpose of this form is to gather necessary information from the student and the staff member handling the withdrawal process. This form will likely be used when a student is withdrawing from a course or program after the withdrawal deadline.
-</thinking>
-
 # Late Withdrawal Form - Help Guide
 ## Purpose
 The Late Withdrawal Form is used to facilitate the withdrawal process for students who are unable to complete their course requirements within the given timeframe. This form will help students and staff members to effectively manage the withdrawal process and ensure that all necessary information is captured.

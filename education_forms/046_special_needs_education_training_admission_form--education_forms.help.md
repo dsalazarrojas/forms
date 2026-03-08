@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for the "Special Needs Education Training Admission Form", I must clarify that this form is intended to collect information from applicants who require special education training. The form will gather personal and professional details to assess the applicant's suitability for the training program. This form will not be used for any other purpose. It is essential to ensure that the information is accurate and complete, as it will be used to make informed decisions about the applicant's admission. I will not include any information that may be redundant or not relevant to the form's purpose. I will provide a clear and concise explanation of each field to help the end user complete the form correctly.</thinking>
-
 # Special Needs Education Training Admission Form - Help Guide
 ## Purpose
 The Special Needs Education Training Admission Form is designed to collect information from applicants who require special education training. This form will help assess the applicant's suitability for the training program and ensure that the necessary details are provided to make informed decisions about admission.

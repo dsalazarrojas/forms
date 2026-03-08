@@ -1,7 +1,3 @@
-<thinking> 
-This form, "pledge_drive_form", is designed to collect information for a pledge drive campaign. It is likely to be used by individuals or organizations to collect donations or pledges from supporters. Before proceeding, please ensure that you have reviewed and understood the purpose and relevance of this form within your organization or project. Additionally, double-check with your team to avoid duplicating efforts or forms with similar purposes. 
-
-</thinking>
 # pledge_drive_form - Help Guide
 ## Purpose
 This form is used to collect information for a pledge drive campaign, which may include donations or pledges from supporters.

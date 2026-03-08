@@ -1,7 +1,3 @@
-<thinking>
-We need to check if the form is not a duplicate of another form, and that the purpose of the form is clear and relevant to the provided YAML fields. The form is for gathering information from users, specifically about their learning preferences and goals, and it's likely used in an educational setting. The fields are mostly multiple-choice and open-ended questions that aim to understand the user's motivation, knowledge, and interest in learning. 
-</thinking>
-
 # KWL Form - Help Guide
 ## Purpose
 The KWL Form is a questionnaire designed to help educators and staff in the education field understand learners' preferences and goals. It's essential to complete this form to provide better support and services to learners.

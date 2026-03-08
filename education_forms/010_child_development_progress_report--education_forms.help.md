@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Development Progress Report - Help Guide
 
 ## Purpose

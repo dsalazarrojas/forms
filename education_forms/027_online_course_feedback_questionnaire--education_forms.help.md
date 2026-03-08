@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I need to create a help guide for the "Online Course Feedback Questionnaire" form. Before I start writing, let me understand the form's purpose and how it's used within the organization. This form is likely used to collect feedback from students or instructors about online courses, which is then used to improve course content, instruction, and overall learning experience. I'll assume that this form is not meant to collect sensitive or personal information, as all fields are either optional or not required. With this understanding, I can now create a concrete and practical help guide for the end users.</thinking>
-
 # Online Course Feedback Questionnaire - Help Guide
 ## Purpose
 The "Online Course Feedback Questionnaire" form is designed to collect feedback from students or instructors about online courses. This information helps us understand what works well and what can be improved in our course content, instruction, and overall learning experience.

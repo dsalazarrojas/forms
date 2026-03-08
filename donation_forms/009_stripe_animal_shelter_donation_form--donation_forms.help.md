@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather donations for an animal shelter. This form likely exists to collect information from users who want to support the shelter's efforts. Before proceeding, please ensure that you are filling out this form for the correct purpose and not duplicating an existing submission.
-The following guide will walk you through each field of the form to help you fill it out correctly.
-</thinking>
-
 # stripe_animal_shelter_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect donations for an animal shelter. If you're interested in supporting the shelter, this form is the correct place to start.

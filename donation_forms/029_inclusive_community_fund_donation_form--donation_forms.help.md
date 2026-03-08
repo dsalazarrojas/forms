@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inclusive Community Fund Donation Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The "Education Leadership Transparency Survey" is a form designed to gather information from education stakeholders on their experiences and perceptions of leadership transparency in the education sector. The main goal of this survey is to understand the challenges and opportunities related to leadership transparency in education. The survey is intended to be completed by education stakeholders, including leaders, educators, and other relevant individuals. This form is part of a larger effort to improve leadership transparency and promote more effective communication within the education sector.
-
-Before starting this survey, ensure that you have not already completed it. If you have any concerns or questions about this survey, please contact the relevant authorities.
-
-The responses to this survey will be kept confidential, and any identifying information will be removed before analysis.
-</thinking>
-
 # Education Leadership Transparency Survey - Help Guide
 ## Purpose
 The "Education Leadership Transparency Survey" is a form designed to gather information from education stakeholders on their experiences and perceptions of leadership transparency in the education sector.

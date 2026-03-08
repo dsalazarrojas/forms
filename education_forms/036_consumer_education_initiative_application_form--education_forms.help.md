@@ -1,6 +1,3 @@
-<thinking>
-To prevent duplication, this form should only be submitted by organizations that are not already approved for the Consumer Education Initiative. The purpose of this form is to gather information from new applicants for the Consumer Education Initiative. This form will help us understand their organization's name, type, address, contact information, and details about their education initiative. By providing accurate and complete information, applicants can demonstrate their eligibility and suitability for funding and support. We encourage all eligible organizations to apply, and we will review and respond to each submission promptly.
-</thinking>
 # Consumer Education Initiative Application Form - Help Guide
 ## Purpose
 This form is intended to gather information from organizations interested in participating in the Consumer Education Initiative.

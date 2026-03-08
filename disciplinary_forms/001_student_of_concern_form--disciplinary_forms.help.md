@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a student who is struggling or experiencing difficulties in a specific subject or area of concern. The form is used to identify potential issues and provide support for the student. Please ensure you are filling out this form only once per student instance, and not for each instance of concern. Also, please provide detailed and accurate information to aid support efforts.</thinking>
-
 # Student Of Concern Form - Help Guide
 ## Purpose
 The Student Of Concern Form is a tool to collect information about students who are experiencing difficulties or showing signs of distress. This form helps teachers and school administrators identify potential issues and provide support to students.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing eating habits and food preferences data for users. It's crucial that the data is collected accurately to ensure consistency with the form's purpose and relevance to the target audience. To avoid duplication, users should not fill out this form if they have already completed a similar form in the past. The Eating Habits Questionnaire is a critical component in assessing users' eating habits and identifying areas for improvement. It's essential to answer this form truthfully, as it will help in providing the best possible guidance and recommendations for users' eating habits.
-</thinking>
-
 # Eating Habits Questionnaire - Help Guide
 ## Purpose
 This Eating Habits Questionnaire is designed to gather information about your eating habits, including your meal times, food preferences, and any professional help you may have sought for your eating habits.

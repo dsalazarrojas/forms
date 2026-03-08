@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be used for tracking and managing donations received by a nonprofit organization. It's used to capture details about the donator, including their contact information and donation specifics such as date, amount, frequency and source of the donation. The form also includes an option for the user to add additional notes about the donation. This form should only be used for tracking and managing donations, and should not be used as a general contact form. Please make sure the fields are filled in accurately and completely before submitting the form.
-</thinking>
-
 # Nonprofit Donation Audit Form - Help Guide
 ## Purpose
 The Nonprofit Donation Audit Form is a tool for tracking and managing donations received by a nonprofit organization. It is used to capture details about the donator, including their contact information and donation specifics such as date, amount, frequency, and source of the donation.

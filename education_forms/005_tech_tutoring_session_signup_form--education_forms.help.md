@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students and tutors to sign up for tech tutoring sessions. To ensure accurate session planning, it's crucial that each student and tutor fills out the form correctly. Please verify that your session details are accurate before submitting, as this form serves as a record for both parties involved. Also, be aware that if a student signs up for multiple sessions, it's likely due to technical restrictions in our system; please do not attempt to register twice for the same session.
-</thinking>
-
 # Tech Tutoring Session Signup Form - Help Guide
 ## Purpose
 The Tech Tutoring Session Signup Form is for students to sign up for one-on-one tech sessions with certified tutors. This form helps in maintaining a record of the sessions, ensuring that both parties involved are aware of the session details.

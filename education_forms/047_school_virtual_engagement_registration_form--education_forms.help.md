@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students for school virtual engagement, allowing them to provide their details and event information. To ensure that the form is filled out correctly, please check the form's purpose and your eligibility to fill it out before proceeding. If you have already submitted this form, please do not submit it again.
-</thinking>
-
 # School Virtual Engagement Registration Form - Help Guide
 ## Purpose
 The School Virtual Engagement Registration Form is designed to collect information from students participating in virtual events or programs. This form helps us understand who is attending, their interests, and preferences for future events.

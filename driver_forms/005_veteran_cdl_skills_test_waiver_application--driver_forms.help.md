@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure we're providing accurate and helpful guidance, let's quickly verify that the form is for veteran CDL skills test waiver applications. This form collects information for veteran-specific CDL skills test waivers.
-
-This form has several fields that might seem confusing for end-users if not explained. For instance, `military_vehicle_class` seems to be a redundant field given that it's paired with `military_vehicle_operated`. We'll assume that this field is meant to be a way to specify which classes of vehicles the veteran drove during their military service.
-
-We'll provide clear explanations for each field to minimize confusion and ensure users know what information is expected from them.
-
-</thinking>
-
 # Veteran CDL Skills Test Waiver Application - Help Guide
 ## Purpose
 This form is for veteran CDL skills test waivers. It collects information to process and evaluate your waiver request.

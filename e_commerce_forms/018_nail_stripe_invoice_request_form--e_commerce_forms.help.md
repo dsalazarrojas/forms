@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request invoices for a nail stripe service. The form is intended for customers who are interested in purchasing a nail stripe service and need to provide information about their order. The form will be used to collect customer details, stripe preferences, and order information. 
-Before proceeding, please ensure you have reviewed the order details carefully and that the form is not a duplicate of a previously submitted request.
-</thinking>
-
 # nail_stripe_invoice_request_form - Help Guide
 
 ## Purpose

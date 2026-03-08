@@ -1,9 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for a donation form, likely used for collecting information from donors. The form is called "pta_donation_form" and its purpose is to gather data about the donor, including their name, contact information, and details about the donation. The form has multiple pages, but we'll focus on the first page for this guide. The fields on this page include: Donater Name (text), Email (email), Address (note, but likely not actually used for address formatting), Amount Donated (number), Purpose of Donation (select one from a list), Date of Donation (date), Method of Donation (select multiple), and Signature (note, likely for physical signature capture). The form is likely used for tracking and recording donations for a school or similar organization.
-
-</thinking>
-
 # pta_donation_form - Help Guide
 ## Purpose
 The pta_donation_form is a tool used to collect information from donors, allowing us to track and record donations made to our school.

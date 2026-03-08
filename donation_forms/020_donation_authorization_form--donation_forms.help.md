@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donation Authorization Form - Help Guide
 
 ## Purpose

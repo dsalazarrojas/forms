@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to guide users through solving a series of word problems step-by-step. The form consists of 11 fields, each representing a step or a field for input or reflection. The form is meant to facilitate the solution process, providing a structured approach to finding answers.
-The form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI-generated form technology, taking public survey topic metadata as inspiration.
-The form can be freely used, modified, and even sold, as long as credit is given. If you have any questions or concerns, please contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Word Problem Solution Guide - Help Guide
 ## Purpose
 This form is designed to guide users through solving a series of word problems step-by-step. It helps users to break down complex problems into manageable parts and find answers with ease.

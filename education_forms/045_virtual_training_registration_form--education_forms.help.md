@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering virtual training sessions. It's likely used by learners who want to participate in a virtual training session. This form is probably used for both internal and external users.
-</thinking>
-
 # Virtual Training Registration Form - Help Guide
 ## Purpose
 This form is used to register for virtual training sessions. Please complete the form with your details to sign up for the training you're interested in.

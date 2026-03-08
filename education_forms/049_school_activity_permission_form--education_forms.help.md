@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to obtain the permission of school administration for students to participate in a school activity or event. To ensure this form is used correctly and consistently, please review the following instructions.
-
-**Form Purpose:**
-This form is meant for school staff, administrators, or parents to grant permission to students for a specific school activity or event.
-
-</thinking>
-
 # School Activity Permission Form - Help Guide
 
 ## Purpose

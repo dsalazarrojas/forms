@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent from a global educator for the publication of their interview. The purpose of this form is to ensure that the educator understands and agrees to the terms of the publication, such as the interview content, audience, and usage. It is essential to complete this form before proceeding with the publication to ensure the educator's privacy and security. Please ensure that you complete this form accurately and truthfully, and that it is not duplicated or used for any other purpose.
-
-</thinking>
-
 # Global Educator Interview Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from a global educator for the publication of their interview. It is essential to complete this form accurately and truthfully to ensure the educator's privacy and security.

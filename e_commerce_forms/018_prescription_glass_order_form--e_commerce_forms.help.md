@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prescription_glass_order_form - Help Guide
 
 ## Purpose

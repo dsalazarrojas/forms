@@ -1,7 +1,3 @@
-<thinking>
-The Save The Trees Donation Form is designed to collect information from individuals who wish to make a donation to support the organization's mission to save trees. The form is intended to gather essential details such as the donor's name, contact information, and donation amount. To ensure accuracy and consistency, this form is not meant for use with other forms in the same category, as the internal logic of this form is tightly coupled with other system components.
-</thinking>
-
 # Save The Trees Donation Form - Help Guide
 ## Purpose
 The Save The Trees Donation Form is a user-facing form used to collect donation information from individuals who wish to support the organization's mission to save trees. This form is designed to gather essential details about the donor, including name, contact information, and donation amount.

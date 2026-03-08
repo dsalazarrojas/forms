@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from visitors on their experience at a school. It is meant to understand the visitor's satisfaction level with various aspects of their visit, such as the facilities, services, staff, and overall experience. This form will help the school administration to identify areas of improvement and make necessary adjustments to enhance the visitor's experience. Before proceeding, please ensure that you have not already provided feedback on this form previously to avoid duplication of effort.
-
-</thinking>
-
 # School Visitation Survey Form - Help Guide
 
 ## Purpose

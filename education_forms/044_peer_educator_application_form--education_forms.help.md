@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peer Educator Application Form - Help Guide
 ## Purpose
 The Peer Educator Application Form is designed for individuals interested in becoming peer educators at our institution. This form collects information about your availability, role, and other relevant details to help us assess your application.

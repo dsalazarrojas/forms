@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in donating stem cells for various medical applications. It appears to be a straightforward form to collect basic personal information from donors. Before proceeding, please ensure this form aligns with your organization's specific requirements and regulations. If you're unsure, please refer to your organization's guidelines or seek clarification from the responsible authorities.
-</thinking>
-
 # Stem Cell Donation Form - Help Guide
 ## Purpose
 This form is designed to collect personal information from individuals interested in donating stem cells for various medical applications.

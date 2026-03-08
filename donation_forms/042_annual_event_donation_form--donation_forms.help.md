@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Event Donation Form - Help Guide
 ## Purpose
 The Annual Event Donation Form is designed to collect information from donors about their donations to our organization. This form helps us to track and acknowledge your generous support for our annual events. Please fill out the form accurately and completely to ensure that we can process your donation correctly.

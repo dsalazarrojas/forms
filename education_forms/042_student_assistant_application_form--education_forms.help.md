@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information from students who are applying to be a Student Assistant. This form is intended to be completed by students who are interested in gaining work experience and assisting faculty members with tasks and projects. The form will collect personal information, availability, and specific details about their work preferences.
-The form is designed to be completed by students, and the information collected will be used to determine their eligibility to be a Student Assistant. The form is not meant for faculty members or staff to apply for Student Assistant positions.
-</thinking>
-
 # Student Assistant Application Form - Help Guide
 ## Purpose
 This form is for students who want to apply to be a Student Assistant. It will help us understand their personal and work-related information.

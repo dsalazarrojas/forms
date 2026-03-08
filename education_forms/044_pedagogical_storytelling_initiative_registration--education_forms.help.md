@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the Pedagogical Storytelling Initiative, a project that likely aims to gather data on storytelling approaches and methods used in educational settings. To confirm, please note that this form does not contain any proprietary or copyrighted content, but rather is an original adaptation of public survey topic metadata. As this form was created using public metadata, it does not require any affiliation, endorsement, or permission from the original platforms mentioned.
-
-</thinking>
-
 # Pedagogical Storytelling Initiative Registration - Help Guide
 ## Purpose
 This form collects information for the Pedagogical Storytelling Initiative, a project aimed at gathering data on storytelling approaches and methods used in educational settings.

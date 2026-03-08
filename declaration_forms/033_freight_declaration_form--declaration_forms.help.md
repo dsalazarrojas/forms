@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a shipment, specifically its details, goods, and party information. This form is designed to gather necessary data for a freight declaration, which is typically required for customs clearance, taxation, or other regulatory purposes. The form is not affiliated with any specific form platform, and its content is generated based on public survey topic metadata.
-</thinking>
-
 # freight_declaration_form - Help Guide
 ## Purpose
 The freight declaration form is used to collect information about a shipment, which is essential for customs clearance, taxation, or other regulatory purposes. This form helps to ensure that shipments are properly documented and cleared through customs.

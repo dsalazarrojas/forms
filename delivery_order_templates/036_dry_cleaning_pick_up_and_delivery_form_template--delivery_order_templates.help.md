@@ -1,5 +1,3 @@
-<thinking> This form, titled "prophets," appears to be designed for capturing delivery information and preferences for a product or service. It seems to aim at collecting data for delivery logistics and customer preferences for delivery methods. This form might be part of an internal or customer-facing system, but its primary goal is to ensure efficient and timely delivery. Before we dive into the form's specifics, let's confirm that this guide is relevant and not duplicating any existing guides for the same form, especially since "prophets" might be an internal term, not publicly known. We also need to make sure that the form is up-to-date and reflects the current state of the system or application that it's a part of.</thinking>
-
 # prophets - Help Guide
 ## Purpose
 This guide explains how to fill out the "prophets" form for delivery information and preferences. It's crucial for ensuring that your delivery details are correctly recorded and accurately processed.

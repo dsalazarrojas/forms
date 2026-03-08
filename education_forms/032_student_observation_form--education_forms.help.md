@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about student observations, which is a critical component of educational assessment and development. The form is intended to provide a standardized framework for teachers and educators to document and evaluate student performance, behavior, and progress. It is likely to be used in a school or educational setting.
-
-This form appears to be a comprehensive observation form that assesses various aspects of student performance, including their behavior, progress, and evaluation. To ensure that the form is used correctly and effectively, it is essential to understand its purpose and the information it seeks to capture.
-
-The form's structure suggests that it is designed to be completed by teachers or educators who are responsible for observing and assessing students' performance. The fields on the form cover essential areas such as student name, class, grade, behavior, teacher name, class size, observation date and time, student progress, comments, and evaluation date and time. This information can be used to identify areas of strength and weakness in students' performance and provide insights for improvement.
-
-Before proceeding, it is crucial to confirm that this form is relevant to your specific use case and that it does not duplicate any existing forms. If you are unsure, please consult with your team or supervisor to ensure that this form is suitable for your needs.
-</thinking>
-
 # Student Observation Form - Help Guide
 ## Purpose
 The Student Observation Form is designed to collect information about student performance, behavior, and progress. It helps teachers and educators to assess and document student performance, identify areas of strength and weakness, and provide insights for improvement.

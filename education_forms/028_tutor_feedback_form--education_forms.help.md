@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from tutors on their overall experience, which will help us improve the quality of our educational services. This form is optional, and your input is highly valued in shaping the future of our programs. Please ensure that you're filling out this form for the correct purpose and not duplicating efforts. This form is intended for tutors, not students. If you're a student, you might be looking for the <a href="#student-form">Student Feedback Form</a>. If you've already submitted feedback, you might not need to fill this out again. Please use this form for providing constructive feedback on your experiences with our program, not for complaints or personal issues. Please fill out this form carefully and honestly, and we'll review your feedback to identify areas for improvement... </thinking>
-
 # Tutor Feedback Form - Help Guide
 
 ## Purpose

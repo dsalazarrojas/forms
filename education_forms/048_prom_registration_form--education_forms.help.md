@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Prom Registration Form - Help Guide
 ## Purpose
 The Prom Registration Form is used to collect information from students who are attending the school prom. This form is designed to gather necessary details such as guest information, meal preferences, and event details to ensure a smooth and enjoyable prom experience for all attendees.

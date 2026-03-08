@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from teachers regarding material requests for their classes. The form should only be used for school materials and will be reviewed by school administrators for approval. This form is not intended for personal or non-school-related purposes.
-</thinking>
-
 # School Material Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about school materials requested by teachers for their classes. This form helps school administrators keep track of material requests, ensuring they are reviewed and approved in a timely and organized manner.

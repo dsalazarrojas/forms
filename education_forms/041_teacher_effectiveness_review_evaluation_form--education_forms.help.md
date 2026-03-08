@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess and evaluate a teacher's performance in a school setting. The form helps reviewers provide constructive feedback to teachers, identifying areas where they excel and areas where they need improvement. It is crucial to complete this form accurately and honestly to help teachers grow professionally and provide the best possible education to students.
-</thinking>
-
 # Teacher Effectiveness Review Evaluation Form - Help Guide
 
 ## Purpose

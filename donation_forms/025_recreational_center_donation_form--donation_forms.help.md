@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The Recreational Center Donation Form is designed to collect information from donors and users who want to support the Recreational Center's activities and programs. This form helps to track the donor's details, the amount donated, and their preferred program or method of donation. The form is intended to be used for internal tracking and communication with donors, and it's not for external publication.
 </thinking>
 

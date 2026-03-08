@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from users who wish to participate in hybrid classroom technology testing. The purpose of the form is to understand the user's experience with and interest in using various technologies in an educational setting. The form is not intended to be a comprehensive survey, but rather a brief assessment to gather information about the user's familiarity with and attitudes towards specific tools.
-The form is not meant to be a substitute for a formal application or enrollment process, but rather a tool to gauge interest and gather data for planning purposes.
-Please note that some form fields may require additional information or clarification, but are not strictly mandatory. The completion of this form is voluntary and will only be used for internal data analysis and planning.
-</thinking>
-
 # Hybrid Classroom Technology Testing Registration Form - Help Guide
 ## Purpose
 This form is designed to help us understand your experience and interest in hybrid classroom technology testing. Your input will help us better plan our testing process and provide a more efficient and effective user experience.

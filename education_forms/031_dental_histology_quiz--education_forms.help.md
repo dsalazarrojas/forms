@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect responses to 25 dental histology quiz questions. The purpose of this form is to assess the knowledge and skills of users in the field of dental histology. Each question is multiple-choice, and users will be asked to select the correct answer for each question. The form is designed to be completed by users who have a basic understanding of dental histology and are looking to test their knowledge in this area.
-
-This form is not intended to be a comprehensive review of the entire field of dental histology, but rather a selection of questions that will help users gauge their understanding of specific concepts and topics. Users can complete the form at their own pace, and are not required to answer all questions if they are not confident in their responses.
-
-Note that the form is designed to be completed by users who are familiar with the subject matter, and who are looking to self-assess their knowledge. If users are not familiar with dental histology, they may find the form challenging or confusing.
-
-It is also worth noting that the form is not a substitute for formal education or training in dental histology, and users should not rely solely on this form to prepare for certification or professional development. Rather, it is a tool for users to gauge their understanding and identify areas where they may need further study or review.
-
-</thinking>
-
 # Dental Histology Quiz - Help Guide
 ## Purpose
 

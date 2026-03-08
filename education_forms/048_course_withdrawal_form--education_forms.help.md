@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to document a student's course withdrawal request. The form should only be used by authorized personnel for students to formally withdraw from a course. To prevent unauthorized submissions, ensure that students have access to the system and that only authorized personnel are filling out this form. Also, ensure that this form is not submitted multiple times for the same student. 
-</thinking>
-
 # Course Withdrawal Form - Help Guide
 
 ## Purpose

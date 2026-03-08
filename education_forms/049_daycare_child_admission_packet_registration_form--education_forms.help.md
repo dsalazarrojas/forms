@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians of children who are applying to join a daycare center. The form gathers essential details such as the child's name, address, and contact information. This form is designed to be completed by parents or guardians to register their child for daycare services.
-</thinking>
-
 # Daycare Child Admission Packet Registration Form - Help Guide
 
 ## Purpose

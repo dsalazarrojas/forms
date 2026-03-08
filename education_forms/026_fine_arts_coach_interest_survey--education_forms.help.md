@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we'll examine the fields that are present. We see that this form is intended to gather information about an individual's interest in fine arts coaching, specifically regarding areas of interest, language, and experience. There appears to be a strong emphasis on collecting information for a fine arts coach, which implies that this form might be used to identify potential candidates for a coaching position or program. 
-
-We also see that some fields are required, such as "fine_arts_coach_type", "fine_arts_coach_language", "fine_arts_coach_biography", and "fine_arts_coach_education", which further supports this interpretation. The form also asks for "fine_arts_coach_interest" with options to rate one's interest, which is likely used to gauge the candidate's level of interest in coaching. However, we cannot definitively confirm the purpose without further information about the specific context in which this form is being used.
-
-Upon reviewing the form again, it appears there is some redundancy between fields, such as "fine_arts_coach_type" and "fine_arts_coach_language". This might suggest that some fields are not necessary or could be combined. However, without further context, it's hard to say for certain.
-
-We will output a help guide that addresses these potential issues and clarifies the purpose and usage of the form.
-
-</thinking>
-
 # Fine Arts Coach Interest Survey - Help Guide
 ## Purpose
 This form is intended to help us identify potential candidates for fine arts coaching positions or programs. It gathers information about your interest and qualifications in coaching, including areas of interest, language, experience, and level of interest.

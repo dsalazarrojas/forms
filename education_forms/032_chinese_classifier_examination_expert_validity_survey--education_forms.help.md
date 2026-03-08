@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chinese Classifier Examination Expert Validity Survey - Help Guide
 ## Purpose
 This form is designed to assess the validity of a Chinese classifier examination, which is a test used to evaluate the proficiency of language learners in a specific language. The expert who completes this form will rate and provide feedback on the exam's items, instructions, and overall validity, ensuring that the exam is effective and unbiased. The results will help to improve the exam's validity and reliability.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect daily Bible study notes from users. The form is intended for individuals who engage in daily Bible study activities, such as reading and reflecting on scripture, and want to document their progress and insights. The form is likely to be used by Bible study groups, individuals, or anyone interested in biblical studies. There might be other forms with similar names, but this one is an original creation based solely on public survey metadata, so it's a new and unique form for a specific purpose.
-</thinking>
-
 # Daily Bible Study Notes - Help Guide
 ## Purpose
 This form is designed to help individuals record their daily Bible study notes. It includes spaces for recording the date of study, the specific verses or passages read, notes taken, and more.

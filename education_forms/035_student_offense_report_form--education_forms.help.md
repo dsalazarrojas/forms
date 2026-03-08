@@ -1,7 +1,3 @@
-<thinking>
-A Student Offense Report Form is used to document incidents involving students, such as misbehavior or incidents of bullying. The form ensures consistency and accuracy in reporting student offenses across the institution, and helps in creating a safe and respectful environment for students. To complete this form, follow the steps below.
-</thinking>
-
 # Student Offense Report Form - Help Guide
 ## Purpose
 This form is used to document and report incidents involving students, ensuring consistency and accuracy in the reporting process.

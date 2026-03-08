@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Safety And Hygiene Training Form - Help Guide
 ## Purpose
 The Food Safety And Hygiene Training Form is designed to record the completion of food safety and hygiene training sessions. This form helps track training completion data for compliance and record-keeping purposes.

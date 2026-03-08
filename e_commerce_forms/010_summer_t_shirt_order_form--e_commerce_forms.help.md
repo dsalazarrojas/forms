@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a Summer T Shirt order from customers. It is intended to be a simple and straightforward form for customers to provide their order details, shipping information, and payment details.

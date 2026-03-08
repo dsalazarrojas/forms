@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are interested in online tuition and homeschooling services. The form is designed to be completed by parents or guardians of students who wish to take advantage of these services. The form is not a formal application for admission to any educational institution, but rather a registration form to provide information and facilitate communication between the user and the educational service provider.
-</thinking>
-
 # Online Tuition And Homeschooling Registration Form - Help Guide
 
 ## Purpose

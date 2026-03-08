@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from tanker drivers applying for a tanker driver position. The form is designed to gather relevant details about the applicant, including their personal and professional information. Before filling out this form, please review the provided instructions to ensure you understand the requirements.
-
-The form is not intended for existing tanker drivers; only new applicants should submit this form. Please do not resubmit if you have already applied or are an existing employee of our company.
-
-</thinking>
-
 # tanker_driver_application_form - Help Guide
 ## Purpose
 This form is for new tanker driver applicants to provide their personal and professional information to be considered for a tanker driver position.

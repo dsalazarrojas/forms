@@ -1,9 +1,3 @@
-<thinking>
-To determine the form's purpose and relevance, we'll analyze the form's metadata and content. Based on the provided YAML, the form is designed to collect information related to a "Sample Podcast Release Form." This suggests that the form is intended for the release of a podcast episode. The form collects fields such as guest names, release dates, release locations, recording locations, release times, audio recordings, and release audio recordings. This information is likely used to create a metadata record for the podcast episode's release.
-The form appears to be relevant to content creators, podcast hosts, or administrators who need to manage podcast releases. To confirm, let's assume this form is used by a podcasting platform to gather necessary details for each episode.
-We'll proceed with creating the help guide, but if this form is not relevant to podcasting, please provide more context.
-</thinking>
-
 # Sample Podcast Release Form - Help Guide
 ## Purpose
 The Sample Podcast Release Form is designed for podcast creators and hosts to collect and manage metadata for each episode release. This form helps to gather essential details about the guest, release schedule, location, and audio recording for each episode.

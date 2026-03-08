@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support students who are applying for a band scholarship. As a result, the fields on this form are likely to be relevant to the applicant's personal and musical background. Please ensure that you have read and understood this guide to avoid duplicate submissions.
-</thinking>
-
 # Band Scholarship Application Form - Help Guide
 
 ## Purpose

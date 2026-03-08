@@ -1,14 +1,3 @@
-<thinking>
-To create an effective and user-friendly help guide for the "Online Class Video Upload Form", I need to understand the form's purpose, how to complete it, and what each field means. This form is designed for students to upload video content related to their online classes. 
-
-The form seems to be collecting various metadata about the video, including title, description, course title, upload status, video URL, student information, and video properties such as type and duration. 
-
-However, I notice that some fields appear to be redundant or have unclear labels. For example, "Student ID" might not be clear as it could be a unique identifier for each student, but it's not specified what type of ID it is. Similarly, "Video URL" might not be necessary given the "Video File" field. 
-
-To confirm, I will proceed with creating the help guide based on the provided YAML fields. 
-
-</thinking>
-
 # Online Class Video Upload Form - Help Guide
 ## Purpose
 This form is designed for students to upload video content related to their online classes. Fill out the form to provide metadata about the video.

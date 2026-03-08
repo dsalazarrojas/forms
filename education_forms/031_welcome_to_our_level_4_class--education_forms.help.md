@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used as intended and not for duplicate purposes. This form appears to be designed to collect information about the students in a class, specifically their abilities, needs, and circumstances. It's essential to use this form correctly to provide accurate and helpful data for the educators or administrators who will be reviewing it.
-</thinking>
-
 # welcome_to_our_level_4_class - Help Guide
 ## Purpose
 This form is designed to gather information about the students in your Level 4 class, which will be used to better understand their abilities, needs, and circumstances. Completing this form accurately and thoroughly will help us tailor our support and resources to meet their requirements.

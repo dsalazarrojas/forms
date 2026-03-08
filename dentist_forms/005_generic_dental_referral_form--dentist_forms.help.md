@@ -1,14 +1,3 @@
-<thinking>
-This form is a Generic Dental Referral Form designed to collect information from patients or dentists for a referral purpose. The form aims to gather patient information, dental referral details, and medical history in an organized and structured manner. The form has the following fields: patient name, patient contact information, medical information, dentist information, referral reason, referral details, referral location, and medical history. To ensure accurate and complete information, it is essential to provide all relevant details.
-
-Please ensure that all fields are filled out correctly and thoroughly. If a field is not applicable or not relevant to the referral, please mark it as 'N/A' or 'Not Applicable' if necessary.
-
-Before proceeding with this form, make sure to have the following:
-- The patient's consent for referral.
-- The necessary information to fill out the form accurately and completely.
-- The correct referral reason and details.
-</thinking>
-
 # Generic Dental Referral Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients or dentists for a referral purpose. The form is used to collect patient information, dental referral details, and medical history.

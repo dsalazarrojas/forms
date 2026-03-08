@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request student records, likely for academic or administrative purposes within an educational institution. The form appears to be used to collect various information related to students, including their name, exam results, grade, and contact information. It seems that the form is designed to gather data on individual students, rather than for general information or inquiries. Before completing this form, please ensure that you are authorized to do so and that you are not duplicating efforts.
-</thinking>
-
 # Student Records Request Form - Help Guide
 ## Purpose
 This form is used to request student records for academic or administrative purposes within the educational institution.

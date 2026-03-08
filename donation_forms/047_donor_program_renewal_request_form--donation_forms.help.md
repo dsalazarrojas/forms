@@ -1,5 +1,3 @@
-<thinking>... internal logic checks to ensure this form is used only by authorized users and not duplicated...</thinking>
-
 # Donor Program Renewal Request Form - Help Guide
 ## Purpose
 This form is designed to help donors renew their program memberships. It is intended for donors who wish to continue participating in a program and need to update their information or make changes to their membership.

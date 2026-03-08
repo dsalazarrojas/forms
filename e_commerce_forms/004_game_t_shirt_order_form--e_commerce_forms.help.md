@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to place an order for a game-themed T-shirt. The form collects various pieces of information, including order details, payment method, and contact information. The form is divided into multiple pages, each covering a specific aspect of the order. This form is likely used in an e-commerce context, where users are ordering a T-shirt from an online store. This form is likely used by customers, and the information collected will be used to fulfill the order and communicate with the customer.
-To ensure that the form is filled out correctly, we need to verify that the form is being used in a valid context and that the form fields are populated in a way that makes sense for the given purpose. We should check that the form is not used for other purposes, such as creating fake orders or orders for other products.
-</thinking>
-
 # Game T Shirt Order Form - Help Guide
 ## Purpose
 The Game T Shirt Order Form is used to collect information for a game-themed T-shirt order. It is a multi-page form that covers order details, payment information, and contact information.

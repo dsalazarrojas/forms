@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about students' experiences and backgrounds on the first day of school. The purpose of this form is to help educators or administrators understand students' previous schooling, family dynamics, interests, and educational history. By completing this form, students can provide valuable insights that can be used to create a supportive and inclusive learning environment. Please ensure that you complete this form only once, as repeating it may not provide additional value.
-</thinking>
-
 # First Day Of School Questionnaire - Help Guide
 ## Purpose
 The First Day Of School Questionnaire is a form designed to collect information about students' experiences and backgrounds on the first day of school. This information helps educators or administrators create a supportive and inclusive learning environment.

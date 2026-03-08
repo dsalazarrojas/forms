@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist end-users in completing the LED Mask Preorder Form, a form designed for customers to provide their details and preferences for a preorder. The form appears to be a template for various fields and options, with some required fields for customer and review details. The form may be used for different purposes or with different requirements, such as standard or deluxe orders.
-
-</thinking>
-
 # LED Mask Preorder Form - Help Guide
 ## Purpose
 The LED Mask Preorder Form is designed to collect customer information and preferences for a preorder. This form helps us better understand your needs and provide a more personalized experience.

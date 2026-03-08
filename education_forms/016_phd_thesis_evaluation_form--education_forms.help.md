@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PhD Thesis Evaluation Form - Help Guide
 ## Purpose
 The PhD Thesis Evaluation Form is a document used to assess the quality and completeness of a PhD thesis. It helps the evaluator to evaluate the thesis and provide feedback to the author. This form is used to collect the evaluator's rating and comments for the thesis.

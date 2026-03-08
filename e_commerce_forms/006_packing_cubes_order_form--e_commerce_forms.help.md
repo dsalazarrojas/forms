@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Packing Cubes Order Form - Help Guide
 ## Purpose
 The Packing Cubes Order Form is used to gather customer information and preferences for the packing cubes order process. This form helps us understand your needs and requirements for your packing cubes order, ensuring that we can provide you with the best possible service.

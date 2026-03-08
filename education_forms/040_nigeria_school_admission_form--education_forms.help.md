@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for a school in Nigeria, likely for admission purposes. It collects data about students, including their personal details like name, date of birth, contact email and contact number of parents, student's address, parent's name, student's class, school, and subject of interest. This information will be used to process admissions and ensure a smooth school experience for new students.
-</thinking>
-
 # Nigeria School Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information from students seeking admission to a school in Nigeria. It is essential to complete this form accurately and thoroughly to ensure a successful and seamless admission process.

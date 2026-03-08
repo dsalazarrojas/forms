@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Abstract Submission Form - Help Guide
 ## Purpose
 This form is designed for submitting abstracts for presentations, workshops, or other academic works. It collects essential information about the author, presentation details, and abstract content. This guide will walk you through the process of completing the form and explain each field in detail.

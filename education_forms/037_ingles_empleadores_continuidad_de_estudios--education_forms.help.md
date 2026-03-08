@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about employees' educational background and continuity of studies. It's crucial to provide accurate and detailed information to facilitate effective employee management and tracking. Before completing this form, please ensure that the information you're providing is up-to-date and accurate, and that you're not duplicating data entry efforts. This form should only be filled out when the employee's educational background and continuity of studies change or when an update is required.
-</thinking>
-
 # ingles_empleadores_continuidad_de_estudios - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information about employees' educational background and continuity of studies. This includes personal details such as first name, last name, email, phone number, and a brief description. You will also be asked to provide category information, title, form ID, and details about the assigned tool.

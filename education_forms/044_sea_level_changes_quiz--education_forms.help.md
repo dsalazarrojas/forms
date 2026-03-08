@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users on their perceptions and experiences regarding sea level changes. It is intended to be a starting point for a larger research project. This form should not be filled out by users if they have already completed a similar form on the same topic, and it's recommended to fill it out thoroughly and truthfully.
-</thinking>
-
 # Sea Level Changes Quiz - Help Guide
 ## Purpose
 

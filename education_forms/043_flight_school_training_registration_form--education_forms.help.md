@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering individuals for flight school training programs. It's a crucial step in getting admitted to the program. Please note that this form may be required for multiple purposes, such as for initial enrollment or for continuing education credits. Before proceeding, make sure to have all the necessary information ready.
-</thinking>
-
 # Flight School Training Registration Form - Help Guide
 ## Purpose
 This form is to register individuals for flight school training programs. It requires information about the applicant's details and training preferences for the admission process.

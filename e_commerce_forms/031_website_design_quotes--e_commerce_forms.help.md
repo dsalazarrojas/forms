@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to collect contact information and design quote requests from website visitors. This form is designed to be used on the website to capture relevant details about the visitor, such as their name, phone number, quote request, email, and company name. It is essential to ensure that the form is completed accurately and thoroughly to provide the best possible response to the user's design quote request.
-
-Before filling out the form, please make sure you have all the necessary information ready. If you're unsure about any of the fields, please refer to this help guide for clarification.
-
-</thinking>
-
 # website_design_quotes - Help Guide
 ## Purpose
 The website_design_quotes form is used to collect contact information and design quote requests from website visitors.

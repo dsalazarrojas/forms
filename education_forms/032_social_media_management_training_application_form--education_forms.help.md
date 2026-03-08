@@ -1,10 +1,3 @@
-<thinking> 
-The "social_media_management_training_application_form" form is a tool used by educators and administrators to manage social media training applications. It's designed to collect information about training expectations, specific areas to optimize, account type, number of hours, start date, end date, contact email, contact phone, comments, and application form type. 
-
-This form is used to gather necessary details for effective social media management training applications. Before filling out this form, please ensure that you haven't already submitted a similar application. 
-
-</thinking>
-
 # social_media_management_training_application_form - Help Guide
 ## Purpose
 The social_media_management_training_application_form is a tool used by educators and administrators to collect information about social media management training applications.

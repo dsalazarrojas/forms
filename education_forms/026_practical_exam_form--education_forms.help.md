@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record information about a practical exam taken by students. The purpose of this form is to allow examiners to record the exam question, the student's answer, any notes they may have during the exam, their own score and comment, and the student's score and comment. This form is not used for any other purpose and should only be completed by examiners for the sole purpose of documenting student performance during practical exams.
-
-</thinking>
-
 # Practical Exam Form - Help Guide
 ## Purpose
 The Practical Exam Form is used to record information about a practical exam taken by students. This information includes the exam question, student answer, examiner's notes, examiner's score, student's score, and examiner's comment.

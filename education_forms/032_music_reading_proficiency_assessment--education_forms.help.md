@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_reading_proficiency_assessment - Help Guide
 ## Purpose
 The music_reading_proficiency_assessment form is designed to evaluate the music reading proficiency of a student or musician. It assesses their skills in reading musical notation from 3-12 and gauges their confidence level in reading different notation levels. Additionally, it asks about their preferred method of lesson planning, which can help inform instruction. This form helps music educators identify areas of strength and weakness for individual students, and inform their instructional approaches accordingly.

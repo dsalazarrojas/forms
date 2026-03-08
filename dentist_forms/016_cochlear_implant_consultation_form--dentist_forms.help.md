@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from patients interested in cochlear implants. The goal is to assess their eligibility and suitability for the procedure. The form covers various aspects of the patient's hearing history, medical history, motivations for seeking an implant, and support system. This will help the medical team understand the patient's needs and provide personalized guidance.
-</thinking>
-
 # Cochlear Implant Consultation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to help teachers and students communicate their expectations and feedback before the start of a class. This form is meant to be a pre-class survey to gather information on what the students expect from the class and what the teacher expects from the students. It's essential to complete this form honestly and accurately to ensure a smooth and successful class.
-</thinking>
-
 # pre-class-survey - Help Guide
 
 ## Purpose

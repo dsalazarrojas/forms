@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical history information from patients prior to participating in Zumba classes. This form will be used by dance instructors or staff to assess the health and safety risks associated with certain medical conditions or previous injuries. The form is required for all patients who wish to participate in Zumba classes and will help the instructors to provide the best possible experience and ensure the patient's safety. This form should not be used for any other purpose. Please ensure that the form is not duplicated or used for any other purpose.
-</thinking>
-
 # Zumba Medical History Form - Help Guide
 ## Purpose
 This form is used to collect medical history information from patients prior to participating in Zumba classes.

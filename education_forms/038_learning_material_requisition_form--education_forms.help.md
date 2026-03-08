@@ -1,5 +1,3 @@
-<thinking>**Internal Note:** This form is a learning material requisition form designed to gather information for teachers to request learning materials from students. The form is intended to streamline the process of requesting materials and ensure accurate information is collected. To avoid duplication, please fill out the form only once. If you need to request multiple materials, please submit a new form for each material. Also, ensure that you have the necessary permissions and approvals before submitting the form.</thinking>
-
 # Learning Material Requisition Form - Help Guide
 ## Purpose
 The Learning Material Requisition Form is a tool designed to facilitate the process of requesting learning materials from students. This form helps to gather essential information about the materials needed, the deadline for submission, and other relevant details.

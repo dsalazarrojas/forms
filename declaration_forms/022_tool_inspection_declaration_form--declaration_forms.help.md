@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about tool inspections, including the tool's type, description, condition, location, inspector's name, date, time, and email and phone number. This data is used to ensure that tools are being properly maintained and inspected, and to provide a record of who inspected each tool and when.
-To ensure that this form is filled out correctly, please verify that:
-- This form has not been filled out before.
-- The tool's condition is accurately reflected in the form.
-- The inspector's date and time are accurate.
-- The inspector's email and phone number are correct.
-</thinking>
-
 # Tool Inspection Declaration Form - Help Guide
 ## Purpose
 The Tool Inspection Declaration Form is designed to collect information about tool inspections. This data is used to maintain records of tool inspections and ensure that tools are properly maintained.

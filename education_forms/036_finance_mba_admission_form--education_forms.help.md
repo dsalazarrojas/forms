@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about prospective students applying to the Finance MBA program at our institution. The form is designed to collect details about the applicant's background, interests, and goals, as well as any relevant professional experience they may have. This form is not intended for students already admitted to the program but rather for those who are applying for admission.
-To avoid duplication of effort, please do not submit multiple applications for the same student.
-</thinking>
-
 # Finance MBA Admission Form - Help Guide
 ## Purpose
 The Finance MBA Admission Form is a critical part of the application process for the Finance MBA program at our institution. This form is used to collect information about prospective students' background, interests, goals, and professional experience.

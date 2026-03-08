@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to gather information about an individual's knowledge and understanding of states of matter, likely for assessment or educational purposes. The form likely aims to identify the student's ability to recognize and describe different states of matter, which is a fundamental concept in physics and chemistry. This form might be used in a school or educational setting to gauge students' understanding before or after teaching.
-
-The form consists of multiple "states of matter assessment" fields, which seem to be identical and repetitive. This suggests that the form is designed to gather responses to various questions, each related to states of matter, from the student. However, without more specific information, it is difficult to confirm the exact purpose and structure of the form.
-
-To avoid duplication and ensure the form is used correctly, it is essential to understand the intended use case. If this form is for students in a specific class, the fields might be meant to gauge their understanding of different states of matter at various stages. If it's for teachers or educators, the form could be used to track students' progress or assess their understanding.
-
-Assuming the form is meant for students, the following guide will explain each field's purpose based on the provided YAML.
-
-</thinking>
-
 # States Of Matter Assessment - Help Guide
 
 ## Purpose

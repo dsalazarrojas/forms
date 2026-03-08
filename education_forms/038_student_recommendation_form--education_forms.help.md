@@ -1,7 +1,3 @@
-<thinking>
-We should first consider the purpose of this form and verify that it's a genuine requirement for our system. This form appears to be a collection of fields for student and teacher information, likely used for recommendation purposes in an academic setting. It's essential to ensure that this form is not a duplication of another form or a redundant task. If it's a new form, we should focus on creating a clear and concise guide for users to complete it efficiently.
-</thinking>
-
 # Student Recommendation Form - Help Guide
 ## Purpose
 The Student Recommendation Form is designed to collect information about students and teachers for recommendation purposes. This form helps to gather essential details about students and their teachers, which can be used to support their growth and development.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from students who are interested in postgraduate programs. The form collects data on various aspects of these programs, including fields of study, study modes, interests, report formats, and contact information. It's essential to complete this form accurately to ensure that the provided data is used effectively in making informed decisions about postgraduate program offerings.
-
-The form is meant to be completed by students who are considering or are already enrolled in postgraduate programs. It's crucial to fill out the form carefully, as the information collected will be used to tailor programs to the needs and interests of the students.
-
-Before starting, check that you haven't completed this form before, especially if you're a repeat student. This will help avoid duplication of data and ensure that your information is accurately recorded.
-
-Please take a few minutes to read through this help guide to understand the purpose and requirements of each field in the form.
-</thinking>
-
 # Postgraduate Program Selection Survey - Help Guide
 ## Purpose
 This form is designed to gather information from students who are interested in or are already enrolled in postgraduate programs. The form collects data on various aspects of these programs, including fields of study, study modes, interests, report formats, and contact information. This information will be used to tailor programs to the needs and interests of students.

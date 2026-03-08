@@ -1,7 +1,3 @@
-<thinking>
-Please let me know if this form is meant for internal use only or if it's a public-facing form. This form appears to be a detailed philanthropic contribution declaration form with a range of questions that seem to be related to tax purposes (e.g. non-citizen status, residency status, gift type, and recipient entity information). Are there any internal or technical constraints or considerations that I should be aware of when creating this help guide?
-</thinking>
-
 # philanthropic_contribution_declaration_form - Help Guide
 ## Purpose
 This form is used to declare philanthropic contributions for tax purposes. It collects information about the donor's donation date, amount, and details about the gift, including the type of gift, the recipient entity, and the gift's value and frequency.

@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to allow library patrons to renew their library cards. The form should only be used for this purpose and not for other uses such as borrowing or requesting a new library card.
-
-To avoid duplication of library card renewals, this form is meant to be used only once per library card. 
-
-The following fields are to be filled out for the card renewal process:
-- The user's name
-- The user's email address
-- The user's phone number
-- The expiration date of the library card
-- The library card number
-- The new expiration date of the library card
-- The preferred method of payment
-- The amount to be paid
-
-The fields are self-explanatory and will guide the user through the process of renewing their library card.
-
-The payment method and amount fields are optional and only need to be filled if the user wishes to pay for the renewal.
-</thinking>
-
 # Library Card Renewal Form - Help Guide
 ## Purpose
 The Library Card Renewal Form is used to renew an existing library card for a library patron. This form helps to ensure that the card is up-to-date and active for future use.

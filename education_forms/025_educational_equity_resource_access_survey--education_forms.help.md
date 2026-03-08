@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the educational equity resource access of students, teachers, and school administrators. This form is designed to gather data on various aspects of educational resource access, including demographic information, educational experience, access barriers, support services, language access, and resource providers. This information will be used to identify areas where resources are lacking and to inform decision-making to improve educational equity.
-
-Before proceeding, please ensure that you have not completed this form previously, as it may be unnecessary to repeat the process.
-
-</thinking>
-
 # Educational Equity Resource Access Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the educational equity resource access of students, teachers, and school administrators.

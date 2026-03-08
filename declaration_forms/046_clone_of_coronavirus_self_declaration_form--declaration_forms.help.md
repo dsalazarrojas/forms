@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to screen for potential COVID-19 symptoms and exposure risks before allowing individuals to enter a facility. The goal is to determine if an individual poses a risk of transmission or is a potential carrier of the virus. The form is intended to be completed by the individual prior to entry, and its results will influence whether they are allowed to enter the facility or not.
-</thinking>
-
 # Coronavirus Self Declaration Form - Help Guide
 
 ## Purpose

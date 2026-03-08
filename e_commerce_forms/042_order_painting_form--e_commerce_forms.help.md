@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for customers to place orders for paintings. It appears to be a simple order form with various fields such as painting size, color, order notes, and customer information. The form also includes fields for upload, video, and payment method, which might suggest that this form is intended for e-commerce or online sales purposes.
-
-Before creating this form, ensure that you have not created a similar form for this use case, and that you understand the business requirements and constraints associated with it.
-</thinking>
-
 # Order Painting Form - Help Guide
 ## Purpose
 The Order Painting Form is a digital form used to place orders for paintings. This form helps customers provide necessary information about their order and allows them to upload relevant files if required.

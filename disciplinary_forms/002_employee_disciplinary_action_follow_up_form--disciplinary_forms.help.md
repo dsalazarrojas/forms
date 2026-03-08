@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for HR and management teams to follow up on disciplinary actions taken against employees. A disciplinary action is a formal process of addressing employee performance, misconduct, or other issues that may affect work performance or company policies. This form helps to ensure that all relevant information is documented and tracked for future reference. 
-</thinking>
-
 # Employee Disciplinary Action Follow Up Form - Help Guide
 ## Purpose
 The Employee Disciplinary Action Follow Up Form is used to track and document the progress of disciplinary actions taken against employees. It helps HR and management teams to follow up on the effectiveness of the disciplinary actions and ensure that they are being implemented as planned.

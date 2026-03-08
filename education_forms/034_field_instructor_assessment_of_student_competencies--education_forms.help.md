@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Instructor Assessment Of Student Competencies - Help Guide
 
 ## Purpose

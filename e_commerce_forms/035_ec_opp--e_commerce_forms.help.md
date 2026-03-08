@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information for electronic commerce opportunities. This form is likely used to record details about a business opportunity related to electronic commerce, such as a potential partnership or business venture. The form is probably used to gather relevant data from users, such as the title, name, and description of the opportunity, as well as categorization and status information. The form may also collect contact information, such as email and phone number. It's possible that the form is used for internal use within a business or organization, and the purpose of this guide is to assist users in completing the form accurately and efficiently.
-</thinking>
-
 # ec_opp - Help Guide
 ## Purpose
 This form is used to record details about electronic commerce opportunities, including title, name, description, date, time, categorization, status, and contact information.

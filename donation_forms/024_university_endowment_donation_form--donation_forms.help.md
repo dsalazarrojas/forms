@@ -1,14 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "University Endowment Donation Form", we need to consider the following factors:
-
-* The form is used for collecting donations from individuals and organizations to support the university's endowment.
-* The form should be completed by donors who want to make a one-time or recurring donation.
-* The form requires contact information, donation amount, frequency, and payment method.
-* The form may also include additional donation options and notes from the donor.
-
-The form is designed to be completed by individuals and organizations who want to support the university's endowment.
-</thinking>
-
 # University Endowment Donation Form - Help Guide
 ## Purpose
 The University Endowment Donation Form is used to collect donations from individuals and organizations to support the university's endowment. Donations can be made one-time or on a recurring basis, and can include additional donations. The form captures contact information, donation amount, frequency, and payment method.

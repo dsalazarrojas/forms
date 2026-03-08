@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yearbook Application Form Template - Help Guide
 
 ## Purpose

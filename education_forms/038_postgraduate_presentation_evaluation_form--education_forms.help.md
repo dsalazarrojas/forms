@@ -1,11 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "Postgraduate Presentation Evaluation Form". This form is designed to evaluate the performance of postgraduate students or speakers in a presentation setting. The purpose of this form is to assess their presentation skills, organization, communication skills, and overall performance. To complete this form, you will need to provide ratings or written comments for each field, which will help the evaluator understand the strengths and weaknesses of the presenter. This form should not be used to evaluate a single presentation, as it is intended for repeated use throughout the semester or academic year. Therefore, please only submit one form per presentation, and ensure that you are evaluating a different presenter each time. 
-
-This form is intended to be used in an academic or professional setting where presentations are a critical part of the learning process or business meetings. It is designed to be used by instructors, mentors, or peers who need to assess the performance of the presenter. Please make sure to complete the form seriously and honestly, as your feedback will help the presenter improve their skills.
-
-This guide will walk you through each field of the form, explaining what each one means and how to fill it out correctly.
-</thinking>
-
 # Postgraduate Presentation Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of postgraduate students or speakers in a presentation setting. It assesses their presentation skills, organization, communication skills, and overall performance.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about users' reading habits and preferences. It is likely part of a larger educational program or assessment, such as a reading survey or a study on reading behavior.
-To ensure the form is not redundant or unnecessary for the user, it's essential to review the form's purpose and the questions it asks. The form's purpose should align with the user's goals and expectations.
-</thinking>
-
 # Reading Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess users' reading habits, preferences, and experiences.

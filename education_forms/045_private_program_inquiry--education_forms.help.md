@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from users about their private program inquiry. 
-It appears that this form is used for users to express their interests or preferences for programs, likely related to arts or leisure activities. The purpose of the form is to gather details about the user's program of choice. 
-The form is likely part of a registration or information-gathering process for a program or activity that the user is interested in. 
-The form fields indicate that it will ask for a range of information, including program type, preferred dates and time, session length, program details, contact information, and session details. 
-It's likely that the form is intended to be filled out by users who are seeking to sign up or participate in a program. 
-It's also possible that the form is part of a larger system for managing user registrations or inquiries. 
-</thinking>
-
 # Private Program Inquiry - Help Guide
 ## Purpose
 This form is used to collect information from users about their private program preferences. Fill out this form to express your interest in a program.

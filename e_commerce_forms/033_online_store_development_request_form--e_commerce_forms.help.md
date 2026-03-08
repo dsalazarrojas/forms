@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather information from customers or clients who are interested in online store development. The purpose of this form is to collect relevant details about the project, such as business name, contact information, project description, and other related details. This information will help our team assess the project requirements and get started with the development process.
-
-To ensure that the form is filled out correctly, please note that some fields are marked as required, which means that you must provide an answer for these fields to proceed with the form submission. The fields with a "select_one" or "select_multiple" type will have options, and you should select the relevant option that best matches your answer.
-
-</thinking>
-
 # online_store_development_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or clients who are interested in online store development.

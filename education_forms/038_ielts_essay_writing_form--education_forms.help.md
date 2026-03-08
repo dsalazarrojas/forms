@@ -1,9 +1,3 @@
-<thinking>
-
-The form "ielts_essay_writing_form" appears to be a form used for evaluating essays written by candidates for the International English Language Testing System (IELTS). The form likely serves as a tool for assessors to provide feedback and scores on the written essays submitted by candidates. The form may be used in the context of English language proficiency tests or academic assessments. The fields suggest that the form is used to rate specific aspects of the essay, such as overall scores and band scores, as well as provide comments and feedback.
-
-</thinking>
-
 # ielts_essay_writing_form - Help Guide
 ## Purpose
 The IELTS essay writing form is used to evaluate essays written by candidates for the International English Language Testing System (IELTS). The form is used to provide feedback and scores on various aspects of the essay.

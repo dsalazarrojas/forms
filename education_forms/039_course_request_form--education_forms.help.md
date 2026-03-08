@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for instructors, staff, and students to request a new course from the institution. It is used to gather information about the course they want to request, including its name, department, level, and language, as well as the contact email of the person submitting the request. The form is not a required or mandatory form and can be submitted multiple times by different users. Therefore, it is essential to ensure that each request is unique and well-researched before submitting. This form will help the institutional administration evaluate and review course requests and ensure that all requests are properly managed and executed.
-</thinking>
-
 # Course Request Form - Help Guide
 
 ## Purpose

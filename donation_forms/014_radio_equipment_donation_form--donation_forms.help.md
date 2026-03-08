@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users navigate the Radio Equipment Donation Form, which is used to collect information from individuals or organizations donating radio equipment. The form is used to gather details about the donor, the item being donated, and the donation details. It is not a required form, so users may choose not to fill it out.
-
-</thinking>
-
 # Radio Equipment Donation Form - Help Guide
 
 ## Purpose

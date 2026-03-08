@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students about their academic planning and advising needs. The form is intended to be completed by students, typically before or after meeting with their academic advisors. The purpose of this form is to provide a structured way for students to outline their academic goals, course planning, and any anticipated challenges or support resources they may need. This form is meant to be a helpful tool for advisors and students to collaborate on planning and achieving academic success.
-</thinking>
-
 # Advising Planning Form - Help Guide
 ## Purpose
 This form is used to collect information from students about their academic goals, course planning, and advising needs. It is intended to be completed by students before or after meeting with their academic advisors.

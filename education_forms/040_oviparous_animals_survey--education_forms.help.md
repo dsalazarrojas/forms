@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on oviparous animals, such as reptiles, birds, and fish. The form is intended to be used by researchers to gather information on the reproductive habits of these animals, specifically their egg-laying patterns and characteristics. 
-
-The form includes multiple sections to collect various types of information, such as species identification, egg characteristics, and researcher details. The sections are designed to be completed in a logical order, with the researcher providing their contact information and comments at the end of the form. 
-
-It is essential to ensure that the form is filled out accurately and thoroughly, as the data collected will be used to inform research and conservation efforts. 
-
-The form should only be used for the intended purpose, and any unnecessary or duplicate submissions should be avoided.</thinking>
-
 # oviparous_animals_survey - Help Guide
 ## Purpose
 This form is designed to collect data on oviparous animals, such as reptiles, birds, and fish, to inform research and conservation efforts.

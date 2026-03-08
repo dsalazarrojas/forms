@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Course Feedback Form is to gather comments and suggestions from students, instructors, or staff about a specific course. This form helps to identify areas of improvement and provide a platform for feedback and discussion. Before filling out this form, please ensure that you're providing feedback on a course that you've actually taken or are familiar with.
-</thinking>
-
 # Course Feedback Form - Help Guide
 ## Purpose
 The Course Feedback Form is a tool used to gather comments and suggestions from students, instructors, or staff about a specific course. The form is designed to be completed by anyone who wishes to provide feedback about a course, such as students, instructors, or staff members.

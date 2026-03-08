@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect donations, tithes, and offerings from individuals, likely for a religious or charitable organization. The form likely captures information such as the date and time of the donation, the amount given, and any comments or notes associated with the donation. This information will help the organization track and record donations for administrative and financial purposes.
-
-To ensure accuracy, please check if this form has already been filled out by the user before proceeding. If the form has been filled out before, please do not fill it out again.
-
-</thinking>
-
 # Online Tithes And Offering Form - Help Guide
 ## Purpose
 This form is designed to collect donations, tithes, and offerings from individuals for the benefit of a religious or charitable organization. It captures relevant information such as the date and time of the donation, the amount given, and any comments or notes associated with the donation.

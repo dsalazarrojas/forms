@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture relevant information from students who want to register for a reverse career fair. The form asks for basic contact information, education level, field of interest, and preferences for the career fair, such as registration options and attendance. The form checks for duplication by user email address.
-</thinking>
-
 # Reverse Career Fair Student Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to obtain the necessary consent from patients for dental cleaning procedures. It is an essential document that ensures patients understand and agree to the treatment they will receive. It is recommended that this form is completed by patients before their scheduled appointment. 
 
 </thinking>

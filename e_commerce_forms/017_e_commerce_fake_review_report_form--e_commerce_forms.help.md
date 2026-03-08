@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about fake reviews on an e-commerce platform, allowing administrators to identify and address suspicious activity. This form is used to report reviews that do not meet the platform's standards, such as those that contain false information, are not relevant to the product, or are intended to manipulate buyer behavior. By completing this form, users can help to maintain a trustworthy and reliable review system.
-</thinking>
-
 # E-Commerce Fake Review Report Form - Help Guide
 ## Purpose
 The E-Commerce Fake Review Report Form is used to report fake or suspicious reviews on an e-commerce platform.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from the documentation team about their social media reporting activities. The purpose of this form is to collect data on the team's social media behaviors, team members' reporting habits, reporting frequency, and other relevant details. The form will help the team to track their performance and identify areas for improvement. This form will also help the team to report their activities on specific platforms and channels, providing a clear and concise overview of their social media reporting efforts. This form should only be filled out by team members who are authorized to report on behalf of the team.
-
-</thinking>
-
 # Documentation Team Social Media Reporter Application - Help Guide
 ## Purpose
 This form is used to gather information from the documentation team about their social media reporting activities.

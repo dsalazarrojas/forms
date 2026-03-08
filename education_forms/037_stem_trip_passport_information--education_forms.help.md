@@ -1,10 +1,3 @@
-<thinking>
-This form is for gathering participant information for a STEM trip. The purpose of this form is to collect details about the participant, including their name, date of birth, email, phone number, address, school name, school email, and school phone number. This information will be used to create a passport for the participant, which will be used to facilitate their experience on the trip. Please ensure that the participant information is accurate and up-to-date. Before completing this form, please review the following guidelines:
-* Only submit the form once per participant.
-* Ensure that you have the necessary permissions from the participant to share their information.
-* Double-check the participant's details before submitting the form.
-</thinking>
-
 # stem_trip_passport_information - Help Guide
 ## Purpose
 This form is used to create a passport for participants on a STEM trip, collecting their personal and school contact information.

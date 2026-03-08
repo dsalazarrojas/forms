@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clover Kids 2020 - Help Guide
 ## Purpose
 The **Clover Kids 2020** form is a comprehensive tool used to collect essential information about your child for participation in our program. This form helps us understand your child's background, interests, and needs to provide a safe and enjoyable experience for them.

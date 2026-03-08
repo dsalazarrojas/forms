@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Generic Product Order Form - Help Guide
 
 ## Purpose

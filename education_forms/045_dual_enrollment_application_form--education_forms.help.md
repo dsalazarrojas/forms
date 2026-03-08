@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage dual enrollment applications for students. The form collects information about the student's high school, student details, chosen courses, approval status, student name, parent name, email, and phone number. The purpose of this form is to gather relevant information for the dual enrollment process. This form is not intended to be a substitute for other forms, such as student transcripts or other supporting documents. Please ensure that the student's high school information is accurate and up-to-date before submitting the form.
-</thinking>
-
 # dual_enrollment_application_form - Help Guide
 ## Purpose
 The dual enrollment application form is used to collect information for the dual enrollment process. This form is not intended to be a substitute for other forms, such as student transcripts or other supporting documents.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about the e-commerce checkout process. The goal is to understand the steps involved in completing a transaction online, from the customer's perspective. It is essential to keep the questions clear and concise for users to provide accurate and helpful feedback. 
-
-Before proceeding, please ensure that you have not completed this form previously or have access to the relevant information. If so, please do not repeat your previous responses. Your responses will contribute to improving the checkout process and providing better service to customers.
-
-This form is divided into several sections, each focusing on a specific aspect of the checkout process. 
-
-Please note that some fields might have specific formats or requirements for input, such as email addresses. 
-
-If you need help or have questions, please don't hesitate to contact us at form@gic.mx.
-</thinking>
-
 # E Commerce Checkout Process Questionnaire - Help Guide
 ## Purpose
 This form aims to gather feedback on the e-commerce checkout process to identify areas for improvement and enhance customer experience.

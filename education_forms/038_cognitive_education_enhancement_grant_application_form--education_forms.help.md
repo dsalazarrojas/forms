@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for applicants to submit a grant application for cognitive education enhancement projects. The purpose of this form is to gather information about the project's purpose, goals, objectives, budget, timeline, evaluation plan, and other relevant details. The form should only be completed by authorized personnel from the institution.
-
-Before starting, please make sure you have all necessary information and approvals from your institution. If you've already submitted a grant application for this project, do not resubmit this form. 
-
-</thinking>
-
 # Cognitive Education Enhancement Grant Application Form - Help Guide
 ## Purpose
 The Cognitive Education Enhancement Grant Application Form is a tool to help you submit a grant application for your cognitive education enhancement project. This form is designed to gather detailed information about your project, including its goals, budget, timeline, and evaluation plan.

@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Kindergarten Checklist Form" that is clear, concise, and practical. Our goal is to help end-users understand the form's purpose, how to complete it, and what each field means. We'll follow the provided YAML structure and ensure that each field label is explained in a way that accurately reflects its intended purpose.
-
-</thinking>
-
 # Kindergarten Checklist Form - Help Guide
 
 ## Purpose

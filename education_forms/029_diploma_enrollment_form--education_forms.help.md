@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit the necessary information for diploma enrollment. It is used internally by staff to process and review applications. This guide is for end-users who need to submit their diploma enrollment form. Please make sure to carefully review and complete this form accurately to avoid duplication of effort and potential delays in processing your application.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to gather information for diploma enrollment. Please complete this form if you have been assigned a tool to use for your diploma program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' knowledge and experiences with the site layout. To confirm, you're an expert form designer and technical writer, and I will create a user-facing help guide based on the provided YAML fields. The guide will cover the form's purpose, step-by-step instructions, and detailed explanations of each field. I will also provide tips and recommendations for users to complete the form accurately and efficiently. I will make sure to keep the explanations concrete, concise, and practical, without inventing unsupported business logic. I will also check for relevance and non-duplication of information to ensure the guide is comprehensive and easy to follow.
-</thinking>
-
 # Site Layout Knowledge Check - Help Guide
 ## Purpose
 The Site Layout Knowledge Check form is designed to collect information about your knowledge and experiences with the site layout. This data will help us better understand your current role in the organization and your interaction with the site's layout. Please fill in the form accurately to provide us with valuable insights.

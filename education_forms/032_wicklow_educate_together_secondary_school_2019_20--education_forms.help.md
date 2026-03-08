@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users affiliated with Wicklow Educate Together, a secondary school, specifically for the period 2019-20. It seems the form is meant for users to provide some basic details about themselves and the form, such as their role, school category, and submission date and time. However, it appears there may be a need for internal consistency checking to ensure users are not submitting multiple forms for the same purpose. This form does not seem to have any sensitive or sensitive information fields.
-</thinking>
-
 # wicklow_educate_together_secondary_school_2019_20 - Help Guide
 ## Purpose
 This form is designed to collect information from users affiliated with Wicklow Educate Together, a secondary school, for the period 2019-20. It is intended to gather details such as form name, role, school category, and submission date and time.

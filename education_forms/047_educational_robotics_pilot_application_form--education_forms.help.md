@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from schools and educational institutions interested in participating in the Educational Robotics Pilot program. The purpose of this form is to gather essential details about the school and its representatives, including contact information and specifics about the robots being used or requested. This form is intended for schools that are already familiar with the program and have a basic understanding of its goals and objectives.
-
-To ensure that the form is filled out correctly and efficiently, please review the following instructions and guidelines.
-
-</thinking>
-
 # Educational Robotics Pilot Application Form - Help Guide
 ## Purpose
 The Educational Robotics Pilot Application Form is a crucial document that helps us assess your school's eligibility and feasibility for participating in the Educational Robotics Pilot program.

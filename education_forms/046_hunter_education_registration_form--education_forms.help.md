@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a hunter's education and registration status. This form will help verify the education and certification details of the hunter. It is crucial to ensure that the information is accurate and up-to-date. Please note that this form is intended for educational purposes only and should not be used for any other purpose. Before proceeding, please verify that you have not already submitted this form. This form is meant to be completed once per hunter and should not be duplicated.
-</thinking>
-
 # hunter-education-registration-form - Help Guide
 ## Purpose
 This form is designed to collect and verify information about a hunter's education and registration status. This includes details such as first name, last name, date of birth, email address, phone number, education state, education county, hunter number, certification number, state of residence, county of residence, date of education, and notes. The form is required for educational purposes and should be completed accurately to ensure the information is up-to-date.

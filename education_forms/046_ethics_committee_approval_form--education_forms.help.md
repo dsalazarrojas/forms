@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from the research team about a specific project's ethics committee approval status. The purpose of this form is to track and verify the approval process of research projects within the institution or organization. The form is intended to be filled out by the research team, and it will be reviewed by the ethics committee.
-
-The form is not meant to be a comprehensive project proposal or application form. It is a simplified form that captures the necessary information for the ethics committee to review and approve the project.
-
-The form will help the ethics committee to quickly identify projects that require approval, review the project details, and verify the approval status. It will also help the research team to keep track of the project's progress and ensure that all necessary approvals are in place.
-
-Before filling out this form, please ensure that you have all the necessary information ready. The form should not be used to request approval for projects that are not yet initiated or have not been previously approved.
-
-</thinking>
 # ethics_committee_approval_form - Help Guide
 ## Purpose
 The ethics committee approval form is a simplified form designed to track and verify the approval process of research projects within an institution or organization.

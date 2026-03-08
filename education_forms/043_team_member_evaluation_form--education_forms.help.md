@@ -1,6 +1,3 @@
-<thinking> 
-The form "team_member_evaluation_form" is designed to assess the performance and skills of team members in a project management context. It is intended to be completed by project leads or team members to evaluate their own or their team member's skills in areas such as project lead, time management, problem-solving, communication, and collaboration. The form is meant to be used as a tool for self-reflection and peer feedback, and its results can help identify areas of improvement and strengths. To ensure accurate and reliable results, it is recommended to complete the form in a thoughtful and honest manner. Please review the form carefully and answer the questions based on your actual experiences and observations. If you have any doubts or concerns, please reach out to your supervisor or HR department for guidance.</thinking>
-
 # team_member_evaluation_form - Help Guide
 ## Purpose
 The "team_member_evaluation_form" is a tool for assessing team member performance and skills in a project management context.

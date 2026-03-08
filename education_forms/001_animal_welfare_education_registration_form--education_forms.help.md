@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Welfare Education Registration Form - Help Guide
 
 ## Purpose

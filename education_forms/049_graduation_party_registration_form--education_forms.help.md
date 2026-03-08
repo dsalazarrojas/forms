@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to gather information for a Graduation Party Registration Form. The form captures details such as party theme, location, date, time, attendees, food, drinks, and messages. It is intended to be completed by party attendees to register for the graduation party. Please ensure that you complete this form accurately and thoroughly to ensure that your party is well-planned and enjoyable for all attendees. This form has been designed to collect information from multiple attendees, so please fill out each section carefully.</thinking>
-
 # Graduation Party Registration Form - Help Guide
 ## Purpose
 The Graduation Party Registration Form is a form designed to collect information from party attendees to register for the graduation party. It gathers details such as party theme, location, date, time, attendees, food, drinks, and messages to ensure a well-planned and enjoyable party.

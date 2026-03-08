@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess students' understanding of literature texts by evaluating their ability to comprehend and analyze passages. The form is intended to be completed by students after reading a given text, and it is used to gather data on their comprehension level. The form consists of multiple questions that require students to choose from a variety of options, and it also includes fields to record their submission time and date.
-
-Before completing this form, please note that:
-
-- All fields are optional, unless otherwise specified (indicated by `required: true` in the form definition).
-- The form is designed to be completed by students who have read the provided literature text.
-
-</thinking>
-
 # Literature Comprehension Quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # incubator_support_donation_form - Help Guide
 ## Purpose
 This form is for the "incubator_support_donation_form" is designed to collect information about donations to support an incubator program. It gathers data from potential donors regarding their interest in participating in the program, their personal information, and the purpose of the donation.

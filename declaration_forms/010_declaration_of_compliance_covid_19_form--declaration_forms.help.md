@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the COVID-19 vaccine doses authorized for administration in a healthcare setting. This form is used to document whether an authorized person is present during administration of each COVID-19 vaccine dose. The fields on this form are designed to be completed for every vaccine dose administered.
-</thinking>
-
 # Declaration Of Compliance Covid 19 Form - Help Guide
 
 ## Purpose

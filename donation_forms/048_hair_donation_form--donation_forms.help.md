@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for individuals who want to donate their hair for people in need, such as cancer patients. The fields are designed to collect information from the user to manage and facilitate the donation process. The purpose of the form is to gather essential details from donors, ensure proper handling and distribution of donated hair, and facilitate communication with the donor. Please ensure you only fill out this form once. If you're a repeat donor, you don't need to fill out this form again.
-</thinking>
-
 # Hair Donation Form - Help Guide
 ## Purpose
 The Hair Donation Form is designed to collect information from individuals who want to donate their hair for people in need, such as cancer patients.

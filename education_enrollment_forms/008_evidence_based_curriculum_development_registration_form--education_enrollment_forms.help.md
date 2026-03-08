@@ -1,13 +1,3 @@
-<thinking>
-
-The Evidence Based Curriculum Development Registration Form is a tool used to gather information from educators and subject matter experts to develop high-quality, evidence-based curriculum. This form is designed to collect details about the curriculum, including its title, category, description, and evidence-based approach, among other relevant information. 
-
-Before proceeding with the form, please ensure that you have not submitted this form previously, as it is intended to collect unique and up-to-date information from each respondent. If you have submitted this form before, your previous response will be updated accordingly.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # Evidence Based Curriculum Development Registration Form - Help Guide
 ## Purpose
 

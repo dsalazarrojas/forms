@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will ensure that the user-facing help guide for the "School Trip Attendance Form" is clear, concise, and practical. Before providing the guide, I will analyze the form's purpose and fields to ensure that the explanation is accurate and relevant.</thinking>
-
 # School Trip Attendance Form - Help Guide
 ## Purpose
 The School Trip Attendance Form is a tool used to record and track student attendance during school trips. It helps teachers and school administrators to ensure that students are accounted for and that parents are notified of their child's participation in the trip. By completing this form, you can provide essential information about the trip, including student details, trip schedules, and parent permissions.

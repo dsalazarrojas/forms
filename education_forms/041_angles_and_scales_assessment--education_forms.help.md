@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Angles And Scales Assessment - Help Guide
 ## Purpose
 This form is designed to assess students' understanding of angles and scales concepts. It is used to collect information from students about their ability to calculate angles and perform scale conversions.

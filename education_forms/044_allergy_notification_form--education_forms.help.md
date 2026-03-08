@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, I'd like to take a moment to clarify the internal reasoning behind this form. This form is designed to collect information about a student or patient's allergies and medical history for the purpose of ensuring their safety and well-being while on school premises. The form is intended to be filled out by parents or guardians, and it's crucial that the information provided is accurate and up-to-date. To avoid duplication or miscommunication, please ensure that only one parent or guardian fills out the form for each student or patient. The form is divided into several sections, each covering different aspects of the student's allergies and medical needs. By carefully completing this form, you'll be helping the school to provide a secure and comfortable environment for your child.</thinking>
-
 # Allergy Notification Form - Help Guide
 ## Purpose
 This form is designed to collect important information about a student or patient's allergies and medical history. It's essential to fill it out accurately and completely to ensure their safety and well-being while on school premises.

@@ -1,9 +1,3 @@
-<thinking>
-The Aircraft Maintenance Engineering Application Form is a crucial document used to evaluate the qualifications of individuals seeking employment as aircraft maintenance personnel. This form collects information about the applicant's background, experience, and skills to determine their fit for the role. It is essential to ensure that the form is completed accurately and thoroughly to ensure a fair evaluation. Before filling out the form, please verify that you have the necessary qualifications and experiences to apply for the position.
-
-The form is divided into several sections, each focusing on a specific aspect of the applicant's background. It is crucial to fill out the form in order, ensuring that you provide the required information in each section.
-</thinking>
-
 # Aircraft Maintenance Engineering Application Form - Help Guide
 ## Purpose
 The Aircraft Maintenance Engineering Application Form is a comprehensive document used to assess the qualifications of individuals applying for aircraft maintenance engineering positions. It is designed to gather detailed information about the applicant's background, experience, and skills to ensure a fair evaluation of their fit for the role.

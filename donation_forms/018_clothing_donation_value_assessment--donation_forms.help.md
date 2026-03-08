@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clothing donation value assessment, and it is essential that the user understands the correct way to fill it out to ensure accurate and consistent data collection. Please make sure to review the form carefully to ensure you're not duplicating any existing entries or submitting incomplete data. This form will guide you through a comprehensive assessment of the clothing items being donated, including the number of items, their condition, and their estimated value.
-</thinking>
-
 # Clothing Donation Value Assessment - Help Guide
 ## Purpose
 The Clothing Donation Value Assessment form is used to evaluate the value of clothing items being donated to the organization. This form helps us understand the scope and condition of the donation, ensuring that we can accurately process and distribute the items to those in need.

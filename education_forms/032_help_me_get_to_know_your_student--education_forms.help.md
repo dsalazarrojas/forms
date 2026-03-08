@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a survey for parents and educators to get to know their students better. The purpose of this form is to collect information from parents and educators about their students in the beginning of the year. This form is likely used in educational settings such as schools or universities.
-</thinking>
-
 # Help Me Get To Know Your Student - Help Guide
 ## Purpose
 This form is designed to help parents and educators gather information from students at the beginning of the year. It can be used to collect contact information, survey results, and other relevant details about each student.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from non-profit organizations for the purpose of submitting a transparency declaration. This form is intended for organizations to provide information about themselves, their leadership, and their financials. Before completing this form, please ensure that you are authorized to represent your organization and that the information provided is accurate. Please note that some fields are optional, but all required fields must be filled out to submit a complete declaration. If you have already submitted a transparency declaration for this organization, you may not need to fill out this form again, as duplicate submissions are not necessary.
-</thinking>
-
 # Nonprofit Transparency Declaration Form - Help Guide
 ## Purpose
 The Nonprofit Transparency Declaration Form is designed for non-profit organizations to submit a transparency declaration, which is a document that provides information about an organization's financial and leadership details.

@@ -1,8 +1,3 @@
-<thinking>
-This form was designed to assess a student's understanding of cell membrane proteins, which are crucial for various cellular functions such as recognizing and binding to pathogens, synthesizing proteins and lipids, and more. The form is intended to gauge a student's knowledge and comprehension of the different types and functions of cell membrane proteins, as well as their structural features and dynamics. By filling out this form, students will be able to demonstrate their understanding of the complexities of cell membrane proteins and their role in maintaining cell structure and function. This form is not affiliated with any form platform, but rather an original adaptation created by AI using public survey topic metadata.
-
-</thinking>
-
 # Cell Membrane Proteins Assessment - Help Guide
 ## Purpose
 This form is designed to assess your understanding of cell membrane proteins. It consists of multiple sections that cover various aspects of cell membrane proteins, including their types and functions, structural features, and dynamics.

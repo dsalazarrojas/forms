@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to help individuals submit requests for open-source learning tools. The form will be used to gather information from users about the tools they are interested in, including the name of the tool, its category, and the description of the request. The form will also collect the contact email of the user and any additional notes they may have. The purpose of this form is to gather feedback and suggestions from users about potential open-source learning tools.
-
-To ensure that the form is filled out correctly, the category field is required, and users must select one of the provided categories. This helps us understand which type of tools are in demand.
-
-The fields that are not required, such as tool name, description, and email, are optional and can be filled out at the user's discretion.
-
-Before filling out the form, please note that the form submission is not yet implemented, and any submitted information is not yet being used for any purpose. This is a work in progress.
-
-</thinking>
-
 # open_source_learning_tool_request_form - Help Guide
 ## Purpose
 

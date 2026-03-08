@@ -1,8 +1,3 @@
-<thinking>
-This form aims to collect feedback from students and staff on the menu, service, and overall experience of the school's cafeteria. The goal is to understand their opinions and preferences to improve the cafeteria's offerings and services. This form is not intended to collect sensitive or personal information, and all responses will be treated as anonymous. Please fill out this form to provide honest and constructive feedback. Before completing the form, make sure to review the questions and answer them based on your genuine experiences and thoughts.
-
-</thinking>
-
 # Cafeteria Menu Improvement Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback from students and staff on the menu, service, and overall experience of the school's cafeteria. Your input will help us understand your needs and preferences, allowing us to make improvements to make the cafeteria a better place for everyone.

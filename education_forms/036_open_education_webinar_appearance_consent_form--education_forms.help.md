@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting user consent and demographic information for an open education webinar. This form ensures that attendees understand and agree to the terms and conditions before joining the webinar. It is designed to be filled out by a single user at a time, and should not be shared or completed in bulk. 
-Please ensure that this form is used as intended and not used for any other purpose.
-</thinking>
-
 # Open Education Webinar Appearance Consent Form - Help Guide
 ## Purpose
 This form is used to collect user consent and demographic information for an open education webinar. It is essential to complete this form before attending the webinar to ensure that you understand and agree to the terms and conditions.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used for users to declare their non-UK driving licence status, which is likely used for internal purposes such as insurance purposes or other administrative tasks. The form is designed to be completed by users who do not hold a UK driving licence. The form should only be used by those who genuinely need to declare their non-UK driving licence status, and not by those who do not. 
-
-To ensure that this form is used correctly, we will be providing a clear and concise guide to help users complete it accurately and efficiently.
-
-We will be checking the form's purpose and usage to prevent duplicate declarations and to ensure that users are not declaring multiple non-UK driving licences.
-
-This form will be reviewed and updated regularly to ensure that it remains relevant and accurate.
-
-</thinking>
-
 # Non UK Driving Licence Declaration Form - Help Guide
 ## Purpose
 This form is used to declare a non-UK driving licence status. If you are a user who does not hold a UK driving licence, please use this form to declare your status for internal purposes such as insurance or administrative tasks.

@@ -1,5 +1,3 @@
-<thinking>... This form is used to evaluate the performance of students during their clinical clerkship. The form is meant to assess the student's clinical skills, professionalism, and overall performance. It's likely used in an academic or healthcare setting. Before completing this form, please ensure that you are evaluating the student's performance based on your own observations and experiences. If you have any questions or concerns, please refer to the relevant institutional policies or procedures... </thinking>
-
 # Clinical Clerkship Evaluation Form - Help Guide
 ## Purpose
 The Clinical Clerkship Evaluation Form is a tool used to assess the performance of students during their clinical clerkship. The form is designed to evaluate the student's clinical skills, professionalism, and overall performance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from users to test digital classroom features. It is designed for educational institutions to gather contact information and other details from users to facilitate testing of features such as online learning platforms, virtual classrooms, or other digital educational tools. This form is typically used in a controlled testing environment to gather consent from users before exposing them to new or experimental features. The purpose of this form is not to collect personal data for marketing or sales purposes.
-</thinking>
-
 # Digital Classroom Feature Testing Consent - Help Guide
 ## Purpose
 This form is designed to obtain consent from users to test digital classroom features. It will be used to gather contact information and other details from users for the purpose of feature testing, and not for any other purpose.

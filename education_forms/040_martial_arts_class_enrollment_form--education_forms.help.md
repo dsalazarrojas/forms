@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from students wishing to enroll in a martial arts class at a local martial arts school. The form includes fields for general contact information (name, email, phone), class preferences (class type, level, time, frequency), and emergency contact information. The form also includes fields for any medical conditions, consent, and special requests or notes from the student or instructor. The purpose of this form is to ensure that the student and instructor have a clear understanding of the class schedule and requirements, and to gather any necessary information for the instructor to provide a safe and effective learning environment. This form should only be used for students who wish to enroll in a class at the school, not for general inquiries or other purposes. Please make sure to fill out the form accurately and completely.</thinking>
-
 # Martial Arts Class Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from students wishing to enroll in a martial arts class at a local martial arts school.

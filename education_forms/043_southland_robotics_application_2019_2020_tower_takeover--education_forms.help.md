@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # southland_robotics_application_2019_2020_tower_takeover - Help Guide
 ## Purpose
 The southland_robotics_application_2019_2020_tower_takeover form is designed to collect job preferences and details for Southland Robotics' internal use. This form aims to gather information about your job preferences, contact details, job status, and other relevant job attributes.

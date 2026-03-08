@@ -1,18 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the COVID 19 Restaurant Online Ordering Template form. This form is designed for customers to place orders for their meals, providing options for various aspects of the order such as order date, time, type, and payment method. 
-
-We need to ensure that the customer understands the purpose and requirements of the form and can easily fill it out. 
-
-The form is divided into several sections, each with specific fields that need to be completed. The form's fields are categorized into different groups, such as order information, customer information, delivery information, meal selection, and payment information. 
-
-Before filling out this form, please make sure to review the fields and their explanations carefully to ensure that you provide accurate information. If you have any questions or concerns, don't hesitate to reach out to us.
-
-This form is designed to be user-friendly and easy to fill out, with clear labels and explanations for each field. We want to make sure that our customers have a smooth and efficient experience while placing their orders.
-
-Please note that some fields are required, marked with an asterisk (*), and others are optional. 
-
-</thinking>
-
 # COVID 19 Restaurant Online Ordering Template - Help Guide
 ## Purpose
 This form is designed to help customers place orders for their meals at our restaurant. It provides options for various aspects of the order, such as order date, time, type, and payment method.

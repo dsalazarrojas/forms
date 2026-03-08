@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be related to student records and data privacy, which is a crucial concern in educational settings. The form likely aims to collect information about who students want to grant access to their academic records and what specific records they are willing to release. The form seems to be part of a process to maintain student data privacy while allowing access to relevant information for designated parties. I will now provide a help guide based on the provided YAML fields.</thinking>
-
 # Student Academic Records Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about who you want to grant access to your academic records and what specific records you are willing to release. This helps maintain your data privacy while allowing authorized parties to access relevant information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parking Pass - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This guide will walk through how to use the Learning Preferences Survey form. 
-
-It's likely that this form is used by educational institutions to learn about students' preferences and learning styles. 
-
-It may already be in use or about to be deployed. Make sure that the user has not filled out the form before. 
-
-Please follow the instructions carefully, and if you have any questions or concerns, please reach out to the support team.
-</thinking>
-
 # Learning Preferences Survey - Help Guide
 
 ## Purpose

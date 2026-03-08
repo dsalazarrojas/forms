@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to prevent duplicate forms and submissions and to ensure that end-users understand the purpose and requirements of the form. The form is used to collect information from applicants for scholarships and the purpose of this guide is to walk users through each field and help them complete the form accurately and efficiently.
-</thinking>
-
 # Scholarship Request Form - Help Guide
 ## Purpose
 The Scholarship Request Form is a document used to collect relevant information from applicants for scholarships. This form helps us understand your background, goals, and requirements to evaluate your eligibility for a scholarship.

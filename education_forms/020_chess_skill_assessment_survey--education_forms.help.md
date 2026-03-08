@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from chess players about their skills, preferences, and goals. This form is likely used to assess the player's level of expertise, experience, and interests related to chess. It may be used by chess coaches, instructors, or organizations to understand the player's strengths and weaknesses. The form asks for information such as the player's name, age group, years of playing chess, current Elo rating, self-assessed skill level, and various aspects of their chess abilities and preferences.
-</thinking>
-
 # Chess Skill Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your chess skills, preferences, and goals. It will help us understand your level of expertise, experience, and interests related to chess.

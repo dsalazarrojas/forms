@@ -1,9 +1,3 @@
-<thinking>
-  To prevent duplicate registration, we will be checking the uniqueness of first and last names and email addresses in real-time before allowing users to submit the form.
-  We are also using a real-time validation check for date and time fields to ensure they conform to the required formats (YYYY-MM-DD and HH:MM in 24-hour format, respectively).
-  Please make sure to fill out all required fields accurately and correctly to avoid errors.
-</thinking>
-
 # Dance Classes Registration Spring 2020 - Help Guide
 ## Purpose
 This form is designed to register students for dance classes offered during Spring 2020. Please fill out the form completely and accurately to ensure a smooth registration process.

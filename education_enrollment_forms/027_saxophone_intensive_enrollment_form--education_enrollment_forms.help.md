@@ -1,11 +1,3 @@
-<thinking>
-The Saxophone Intensive Enrollment Form is designed to collect information from participants for the Saxophone program. It is used by program staff to gather details about participants, their preferred sessions, session dates, and any notes or contact information they may have. This form helps program staff to better understand participant preferences and manage session enrollment efficiently. 
-
-Before completing the form, please ensure you are not already enrolled in a previous Saxophone Intensive session. Duplicate submissions will be rejected.
-
-To complete this form correctly, please follow the instructions below.
-</thinking>
-
 # Saxophone Intensive Enrollment Form - Help Guide
 ## Purpose
 The Saxophone Intensive Enrollment Form is a tool for participants to provide information and preferences for the Saxophone program.

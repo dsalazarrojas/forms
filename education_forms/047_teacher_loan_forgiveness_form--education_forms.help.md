@@ -1,7 +1,3 @@
-<thinking>
-The "Teacher Loan Forgiveness Form" is a critical document for teachers to apply for loan forgiveness programs that help alleviate the financial burden of student loans. This form is used to gather essential information about a teacher's educational background, loan details, and school affiliation. Before proceeding, please ensure you have all necessary information and documents required for loan forgiveness. Duplicate or incomplete applications may result in delays or rejection of the application.
-</thinking>
-
 # Teacher Loan Forgiveness Form - Help Guide
 ## Purpose
 The Teacher Loan Forgiveness Form is a document used to apply for loan forgiveness programs for teachers. This form collects information about your educational background, loan details, and school affiliation to help determine your eligibility for loan forgiveness.

@@ -1,7 +1,3 @@
-<thinking>
-I will first analyze the provided YAML fields to understand the form's purpose, functionality, and requirements. Upon reviewing the YAML, I notice that the form is for placing an order for stationery items, which could be for personal or business use. The form appears to be a general order form with various fields for capturing different types of information related to the stationery order.
-</thinking>
-
 # Stationery Order Form - Help Guide
 ## Purpose
 The Stationery Order Form is a form used to place an order for stationery items such as paper, cards, or other office supplies. This form is designed to capture the necessary information for the order.

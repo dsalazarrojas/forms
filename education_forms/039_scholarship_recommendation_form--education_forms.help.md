@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Recommendation Form - Help Guide
 
 ## Purpose

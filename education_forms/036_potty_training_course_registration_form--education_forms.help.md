@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the purpose of registering an individual or family for a potty training course. The form will collect information about the parent, child, contact details, course specifics, and payment information. This will help us ensure that the course information is accurate and up-to-date for the selected participant(s). This form will not collect redundant or duplicate information, ensuring that each submission is unique. Please fill out the form below, providing accurate and clear information about the participant(s).
-</thinking>
-
 # Potty Training Course Registration Form - Help Guide
 ## Purpose
 This form is designed for registration purposes only. Please fill it out accurately and thoroughly to ensure that we can provide the best possible experience for you and your child.

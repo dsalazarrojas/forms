@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the student learning experience in an educational setting. It is designed to gather data on various aspects of student and teacher interaction, including student demographics, parent involvement, teacher feedback, and classroom environment. This form aims to provide a comprehensive picture of the learning experience and can be used by educators, administrators, or researchers to inform teaching practices, policy decisions, or academic programs.
-</thinking>
-
 # Student Learning Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about the student learning experience in an educational setting.

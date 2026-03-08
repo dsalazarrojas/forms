@@ -1,13 +1,3 @@
-<thinking> 
-  This form is designed to collect information from Class 12 students to register for their exams. 
-  It captures personal details such as student name, date of birth, and parent/guardian contact information. 
-  The form also asks for exam-related details like exam year, session, and stream selection. 
-  It inquires about the student's previous exam attempts and whether they need special accommodations. 
-  Finally, it captures information on the student's exam fee payment status and a declaration of the accuracy of the provided information. 
-  This form should be completed by students who wish to register for their Class 12 exams. 
-
-</thinking>
-
 # Class 12 Exam Registration Form - Help Guide
 ## Purpose
 The Class 12 Exam Registration Form is designed to collect necessary information from students to facilitate a smooth exam registration process.

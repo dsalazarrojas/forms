@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychology Exam Registration Form - Help Guide
 ## Purpose
 

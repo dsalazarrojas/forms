@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is for a candidate to apply for a Learning Technology Fellowship, a program that supports individuals to develop innovative learning solutions. To ensure the form is completed correctly, we first need to confirm that the form purpose and the user's intention match.
-
-The form is designed to collect information about the candidate and their project proposal, which includes university details, project duration and start and end dates, contact information, and more. It's essential to ensure the information provided is accurate and complete to be considered for the fellowship.
-
-To prevent duplication of effort, we should also check if there are any existing applications submitted by the candidate before completing this form.
-
-</thinking>
-
 # Learning Technology Fellowship Application - Help Guide
 ## Purpose
 

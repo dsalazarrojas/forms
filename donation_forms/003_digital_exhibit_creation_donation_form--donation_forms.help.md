@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to collect information from donors for digital exhibit creation donation purposes. The form aims to gather essential details from the donor, such as their name, contact information, donation amount, frequency of donations, and preferred payment method. This form is likely to be used by museums, galleries, or other cultural institutions to receive donations for digital exhibits. 
-
-To ensure accurate completion of the form, it's essential to carefully review each field to avoid duplication or incorrect submission. The form's purpose is to collect genuine donor information for legitimate donation purposes.
-
-</thinking>
-
 # digital_exhibit_creation_donation_form - Help Guide
 
 ## Purpose

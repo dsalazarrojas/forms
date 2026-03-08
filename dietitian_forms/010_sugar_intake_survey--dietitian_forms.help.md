@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on an individual's sugar intake habits. The goal is to assess their frequency of sugar consumption, amount of added sugars in their diet, and other related factors. This form should not be filled out if the individual has already provided similar information in the past, as repeating this data would be unnecessary and potentially redundant. It is also assumed that the individual is able to provide honest and accurate information about their habits.
-</thinking>
-
 # Sugar Intake Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your sugar intake habits. Please take a few minutes to complete this survey to help us better understand your habits.

@@ -1,5 +1,3 @@
-<thinking>This is a guide to help users understand the purpose of the "Afternoon Absence Form" and provide guidance on how to complete it. This form is typically used for students to notify the school administration of their intention to be absent during the afternoon session. The form requires the parent or guardian's name, emergency contact number, student's full name, student's ID number (if applicable), date of absence, reason for absence, departure time, and return status. The student must select the periods they will be missing from classes. The form is an essential tool for school administrators to track student absences and ensure the student's well-being. Please ensure you complete this form accurately and thoroughly to enable the school to provide the necessary support and care for the student.</thinking>
-
 # Afternoon Absence Form - Help Guide
 ## Purpose
 This form is used to notify the school of a student's intention to be absent during the afternoon session.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from drivers regarding their knowledge of traffic rules, road signs, safe driving practices, and driver's license details. This information will be used to assess the driver's knowledge and understanding of these essential topics.
-The form's purpose is to evaluate the driver's ability to recall and apply traffic rules, understand road signs, practice safe driving habits, and provide accurate information about their driver's license. This knowledge is crucial for driving safely and following regulations. This information will likely be used by driving schools, driving schools, or other organizations providing educational or training services for drivers.
-</thinking>
-
 # Driver Knowledge Questionnaire - Help Guide
 ## Purpose
 The Driver Knowledge Questionnaire is a form designed to assess a driver's knowledge and understanding of essential traffic rules, road signs, safe driving practices, and driver's license details. This information is critical for driving safely and following regulations.

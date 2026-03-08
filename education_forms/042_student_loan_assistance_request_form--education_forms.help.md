@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students seeking assistance with their student loans, and it will be used by the financial aid office to understand their needs and provide guidance on available resources and options. This form should only be filled out once per student, and any subsequent requests should not be submitted without an approved Form ID. The purpose of this guide is to ensure that students understand what is being collected and how to provide the necessary information correctly.
-</thinking>
-
 # Student Loan Assistance Request Form - Help Guide
 ## Purpose
 The Student Loan Assistance Request Form is intended for students who need assistance with their student loans. This form will be used by the financial aid office to understand your needs and provide guidance on available resources and options.

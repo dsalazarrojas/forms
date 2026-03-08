@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # soil_science_quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on soil science, covering various aspects of soil properties, processes, and conservation. The quiz is divided into different sections, each focusing on a specific topic related to soil science.

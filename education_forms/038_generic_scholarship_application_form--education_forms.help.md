@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and consistently, let's break down its purpose and requirements. This generic scholarship application form is designed to collect information from students and parents/guardians regarding their eligibility and requirements for scholarships. The form likely aims to support decision-making for scholarship awards, ensuring that the relevant data is collected accurately and fairly. To avoid duplication and ensure relevance, it's essential to review the provided form structure, which includes a range of fields such as contact details, academic information, and parent information.
-</thinking>
-
 # generic_scholarship_application_form - Help Guide
 ## Purpose
 This generic scholarship application form is used to collect information from students and their parents/guardians to determine their eligibility and requirements for scholarships.

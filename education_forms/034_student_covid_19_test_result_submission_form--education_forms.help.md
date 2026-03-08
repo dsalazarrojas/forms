@@ -1,7 +1,3 @@
-<thinking>
-This form is a submission form designed for students to provide their COVID-19 test results. It is intended for students to input their test result information, including the result, date of the test, symptoms experienced, and who submitted the test result. The form is meant to capture general information and test result data. It is essential to fill out the form accurately to ensure that the data is used correctly in the decision-making process.
-</thinking>
-
 # Student COVID 19 Test Result Submission Form - Help Guide
 ## Purpose
 The Student COVID 19 Test Result Submission Form is designed to collect test result data from students. This form is used to capture relevant information about a student's COVID-19 test result, including the test result, date of the test, symptoms experienced, who submitted the test result, and other general information.

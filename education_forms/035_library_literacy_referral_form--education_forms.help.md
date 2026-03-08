@@ -1,8 +1,3 @@
-<thinking>
-The form "Library Literacy Referral Form" appears to be a tool for librarians and educators to refer students to library resources for literacy development. This form allows users to provide information about the student, the reason for referral, and other relevant details. The form is likely used to assess student literacy needs and provide targeted support. This guide will cover the purpose, completion instructions, and field-by-field explanation of this form.
-
-</thinking>
-
 # Library Literacy Referral Form - Help Guide
 ## Purpose
 The Library Literacy Referral Form is a tool used by librarians and educators to refer students to library resources for literacy development. This form helps identify student needs and provide targeted support.

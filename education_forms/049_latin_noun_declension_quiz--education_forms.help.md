@@ -1,9 +1,3 @@
-<thinking>Latin Noun Declension Quiz is a quiz that tests a user's knowledge of Latin noun declensions. It is designed to help learners practice their knowledge of the different forms nouns take in Latin. Users will be presented with various questions about Latin nouns, including their forms, plurals, and meanings. The form is designed to be completed by a user, who will be asked to answer each question based on their knowledge of Latin nouns.
-
-This guide assumes that the user is familiar with the basics of Latin, including the different declensions of Latin nouns. If the user is not familiar with these concepts, it may be helpful to review the basics of Latin before attempting this quiz.
-
-Before starting the quiz, review the following fields carefully, as they may be important for completing the quiz successfully.</thinking>
-
 # Latin Noun Declension Quiz - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for applicants who want to apply for the Technical Support Team. The Technical Support Team is responsible for providing technical support to internal and external stakeholders. The form is used to collect contact information, personal details, education and work experience, technical skills, certifications, and work experience.
-This guide will help users understand what information is required and how to fill out the form accurately.
-</thinking>
-
 # technical_support_team_application_form - Help Guide
 ## Purpose
 The technical_support_team_application_form is used to apply for the Technical Support Team. Provide accurate and complete information to ensure a smooth evaluation process.

@@ -1,7 +1,3 @@
-<thinking>
-The Sunday School Registration Form is designed to collect information from individuals who wish to register for Sunday school activities. To determine if this form is relevant to you, please consider whether you are interested in registering for Sunday school activities.
-</thinking>
-
 # Sunday School Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who wish to register for Sunday school activities.

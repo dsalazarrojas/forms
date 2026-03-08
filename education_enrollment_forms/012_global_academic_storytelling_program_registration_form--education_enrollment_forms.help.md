@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users interested in participating in the Global Academic Storytelling Program. This form is required for registration, and the submitted data will be used to create profiles for program participants. Before proceeding, please ensure you are eligible to participate in the program and that you have not already registered. If you have any additional questions or concerns, please contact our support team. 
-</thinking>
-
 # Global Academic Storytelling Program Registration Form - Help Guide
 ## Purpose
 The Global Academic Storytelling Program Registration Form is used to collect demographic information and program preferences from users interested in participating in the program.

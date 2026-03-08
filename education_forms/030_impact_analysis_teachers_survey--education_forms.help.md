@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from teachers about the impact of specific research areas on the university. This form is used to analyze the effects of research areas on the university's performance. It is recommended to fill out this form only once every six months, and only by teachers who are part of the university's faculty. 
-
-This form aims to gather data on various aspects of research, including whether certain research areas have a positive or negative impact on the university. The data collected from this form will be used to make informed decisions about future research directions and resource allocation.
-
-Before filling out this form, please ensure that you have not already submitted an impact analysis for this semester. Filling out this form multiple times can lead to data duplication and confusion in the analysis.
-
-</thinking>
-
 # Impact Analysis Teachers Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from teachers about the impact of specific research areas on the university.

@@ -1,5 +1,3 @@
-<thinking>...checking internal logic for form "ESL And Computer Skills Registration"... form is intended for learners to register their preferences and schedule for ESL and computer skills courses. Internal logic checks for non-duplication and relevance checks to ensure that users can only register for courses they meet the eligibility criteria...</thinking>
-
 # ESL And Computer Skills Registration - Help Guide
 ## Purpose
 The ESL And Computer Skills Registration form is designed to help learners register their preferences and schedule for ESL and computer skills courses. This form is meant to gather necessary information to ensure proper course placement and to prevent duplicate registrations.

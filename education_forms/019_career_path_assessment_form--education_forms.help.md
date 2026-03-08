@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Career Path Assessment Form - Help Guide
 ## Purpose
 This form is designed to help you assess your career path and provide insights into your strengths, interests, and preferences. The assessment is intended to be a starting point for career exploration and guidance.

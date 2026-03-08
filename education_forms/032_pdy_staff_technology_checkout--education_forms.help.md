@@ -1,13 +1,3 @@
-<thinking>
-
-The form `pdy_staff_technology_checkout` appears to be designed for teachers or staff members to document information about technology equipment checked out to students. It captures details such as equipment status, loan duration (dates received and returned), location, condition, department, category, and remarks. 
-
-The form has 25 fields across 2 pages, with fields such as select_multiple, text, date, select_one, and select_multiple types. Most fields are required for form completion.
-
-This form seems to be part of an internal system for tracking and managing equipment checkout for staff and students. To ensure that the form serves its purpose, it's essential to understand how to fill it out correctly. The following help guide will walk you through each field and its intended use.
-
-</thinking>
-
 # pdy_staff_technology_checkout - Help Guide
 ## Purpose
 This form is used to document details about technology equipment checked out to students by staff members. It includes information about the equipment's status, loan duration, location, condition, and remarks.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a student's visit to the school nurse. It gathers details such as the student's identifier, the date of the visit, the reason for the visit, any symptoms the student is experiencing, and the student's name. This form is meant to be used by school staff to document and track student visits in a standardized and efficient manner.
 
 # School Nurse Visit Form - Help Guide

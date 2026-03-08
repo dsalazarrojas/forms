@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donations from individuals who wish to support the Ada Bible Church through the PayPal standard platform. The form requires personal information, such as donor name, email, phone number, and mailing address, to facilitate communication and record-keeping. Donor name, email, and mailing address are required fields as they serve as the primary means of contact and for tax-deductible receipt purposes. The form also asks for donation details including designation of the fund, donation amount, and frequency of the gift. Additionally, it includes an option to honor or remember someone through the gift. The form ensures that the donor is aware that this is a voluntary donation to a non-profit organization and must agree to this fact. The form is designed to be completed by individuals donating through the PayPal standard platform, and the final step includes a confirmation that the donor understands this process.
-</thinking>
-
 # Ada Bible Church Donation Form - Paypal Standard - Help Guide
 ## Purpose
 This form is used to collect donations from individuals supporting the Ada Bible Church through the PayPal standard platform.

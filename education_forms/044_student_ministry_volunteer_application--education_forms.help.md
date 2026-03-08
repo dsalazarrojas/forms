@@ -1,11 +1,3 @@
-<thinking>
-
-To create this help guide, we need to understand the purpose of the "Student Ministry Volunteer Application" form. Based on the form's properties, it appears to be a form for students to apply for volunteer roles within a ministry. The form may be used by students to express their interest in various volunteer roles, such as Ministry of Outreach, Ministry of Worship, or Ministry of Education. The form likely serves as a means for students to share their qualifications, availability, and any other relevant information to be considered for these volunteer roles.
-
-Before proceeding, let's check if there are any forms with similar purposes or if the form has already been duplicated. This guide will be helpful to end-users who need to understand how to fill out the form correctly and what each field represents.
-
-</thinking>
-
 # student_ministry_volunteer_application - Help Guide
 ## Purpose
 This form is for students to apply for volunteer roles within the ministry. It is designed to gather information about the student's qualifications, availability, and preferences for various volunteer roles.

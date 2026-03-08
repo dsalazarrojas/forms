@@ -1,7 +1,3 @@
-<thinking>
-This form is a customer questionnaire for a hemp extraction service. The goal is to collect information about the customer's hemp crop, their contact details, the type of hemp, the quantity, the price, and their delivery address. This form should only be filled out by customers who wish to have their hemp extracted. The purpose of this form is to ensure that customers provide accurate and complete information about their hemp crop and their contact details.
-</thinking>
-
 # hemp_extraction_customer_questions - Help Guide
 ## Purpose
 This form is for customers who want to have their hemp extracted. It collects information about the customer's hemp crop, contact details, the type of hemp, quantity, price, and delivery address.

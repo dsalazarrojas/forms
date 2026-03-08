@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Online Degree Program Application" form that explains its purpose, how to complete it, and each field's meaning. This guide will help end-users understand what information they need to provide and how to fill out the form correctly. To ensure the guide is relevant and concise, let's review the form's purpose and the fields' meanings.
-
-The "Online Degree Program Application" form is designed to collect information from students applying to online degree programs. The form is used to gather essential details about the student, their program of interest, and their application details. The form's fields are divided into several categories, including personal information, program selection, and application details.
-
-To complete this form, users will need to provide their personal information, select their preferred program, and submit their application. The form's fields will be explained in detail below.
-</thinking>
-
 # Online Degree Program Application - Help Guide
 ## Purpose
 The "Online Degree Program Application" form is a tool for students to apply to online degree programs offered by the institution. This form helps us gather essential information about the student, their program of interest, and their application details.

@@ -1,12 +1,3 @@
-<thinking>
-The "Study Planner Input Form" is a tool designed to help users plan and organize their study schedule effectively. This form collects information about the user's study goals, schedule, preferred time slots, study frequency, and other relevant details. The form is intended to be completed by individuals who need to create a study plan for a specific period. 
-
-To avoid confusion and ensure accurate information, we recommend that users complete the form only for the intended purpose and not for other purposes. Also, please note that this form is not intended to be a replacement for other forms or systems that you might use for similar purposes.
-
-Please review the instructions carefully and only fill out the form if you have a genuine need for it.
-
-</thinking>
-
 # Study Planner Input Form - Help Guide
 ## Purpose
 This form is designed to help you create a study plan tailored to your needs. It will guide you through a series of questions to collect relevant information about your study goals, schedule, and preferences.

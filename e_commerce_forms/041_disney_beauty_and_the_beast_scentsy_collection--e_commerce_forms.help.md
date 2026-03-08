@@ -1,11 +1,3 @@
-<thinking>
-The form "Disney Beauty and the Beast Scentsy Collection" is intended to collect user information for a specific order of scented products. To confirm that this form serves a valid business purpose and does not duplicate an existing form, the following analysis has been conducted:
-
-* Form purpose: This form is designed to collect user data for the Disney Beauty and the Beast Scentsy Collection, which suggests it's a customer order form for a specific product line.
-* Similar forms analysis: The form does not appear to have any similarities with existing forms that are broadly used or well-defined in the organization, indicating a specific or unique purpose.
-* Business requirements: This form requires user data such as name, address, and contact information (user_first_name, user_last_name, address_1, address_2, city, state, zip, email, phone). It also requires a product selection (Beauty and the Beast, Enchanted Castle, Mrs. Potts & Chip), quantity, and an optional message.
-</thinking>
-
 # Disney Beauty and the Beast Scentsy Collection - Help Guide
 ## Purpose
 This form is designed to collect user information for the Disney Beauty and the Beast Scentsy Collection. Please fill out the form with your details to place an order for one of the scented products.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for migrant students to provide information about their academic and career plans. It aims to help students create a plan that aligns with their goals, skills, and interests. This form will help students identify and achieve their academic and career objectives by providing a framework to think about their strengths, weaknesses, and opportunities.
-
-Before proceeding, please take a moment to review the form's requirements and make sure that you're not duplicating information. This will save time and help ensure that your data is accurate and up-to-date.
-
-</thinking>
-
 # Migrant Student Academic And Career Plan Form - Help Guide
 ## Purpose
 The Migrant Student Academic and Career Plan Form is designed to help migrant students create a plan that aligns with their goals, skills, and interests. This form will help students identify and achieve their academic and career objectives by providing a framework to think about their strengths, weaknesses, and opportunities.

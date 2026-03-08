@@ -1,7 +1,3 @@
-<thinking>
-The Boxed Lunch Order Form is a critical component of the business's operations, and its accuracy is essential for ensuring that orders are fulfilled correctly and efficiently. This form is used to capture the necessary information from customers, including their contact details, order preferences, and special requirements. To avoid errors, it's essential to complete this form accurately and thoroughly. Please review the form carefully and ensure that you have entered all required fields before submitting it.
-</thinking>
-
 # Boxed Lunch Order Form - Help Guide
 ## Purpose
 

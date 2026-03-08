@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the Small Business Fund, which likely provides financial support to small businesses or entrepreneurs. 
-To ensure this form is used correctly, please make sure you have the necessary permissions to access and process the collected data. Additionally, review the form carefully to ensure you are filling it out correctly and not duplicating your efforts or submitting irrelevant information. 
-
-The form is divided into several sections, and each field should be filled out according to the explanations provided below. If you are unsure about any field, please ask your supervisor or a relevant authority for guidance.
-</thinking>
-
 # Small Business Fund Donation Form - Help Guide
 
 ## Purpose

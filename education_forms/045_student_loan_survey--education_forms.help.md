@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather feedback and data from students about their experiences with student loans. The form asks various questions to assess the satisfaction and effectiveness of student loan programs, including questions about loan types, payment schedules, and overall satisfaction. This form is probably used by administrators or researchers to collect data for improving student loan processes. To ensure this form is being used correctly, please review the following help guide to understand its purpose and how to complete it accurately.
-</thinking>
-
 # Student Loan Survey - Help Guide
 ## Purpose
 The Student Loan Survey is a form designed to gather feedback and data from students about their experiences with student loans. It aims to assess the satisfaction and effectiveness of student loan programs, helping administrators or researchers to make informed decisions for improvement.

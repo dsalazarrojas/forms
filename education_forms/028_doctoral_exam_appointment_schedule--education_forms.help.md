@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctoral Exam Appointment Schedule - Help Guide
 ## Purpose
 This form is designed to collect information about doctoral exam appointments, allowing students, faculty, and staff to schedule and manage exam sessions. The form is used to create and manage exam schedules, ensuring that exam dates, times, and types are accurately recorded and easily accessible.

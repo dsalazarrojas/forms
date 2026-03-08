@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about the learning outcomes of students in the education system. The learning outcomes being assessed include various aspects of student performance, such as their ability to apply knowledge and skills, their engagement with course materials, and their self-assessment of their own progress. The form is used to track student performance and identify areas where students may need additional support or resources. This form is a part of the education system's quality assurance and evaluation process.
-
-Please note that this form may be used in conjunction with other evaluation tools and assessments to get a comprehensive picture of student learning outcomes. The results of this form will be used to inform teaching practices and support student growth and development.
-
-Before proceeding with this form, please ensure that you have the necessary permissions and approvals to complete it. If you are unsure about any aspect of the form, please do not hesitate to reach out to the relevant authorities.
-</thinking>
-
 # Learning Outcomes Benchmarking Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the learning outcomes of students in the education system. This form helps to track student performance and identify areas where students may need additional support or resources.

@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that the "Educator Climate Change Literacy Registration Form" is filled out correctly, so we'll first check if the form is relevant to the user's needs and if it's not a duplicate submission. This form is intended to gather information from educators who are interested in learning more about climate change and how it affects their institution or department. We'll use this data to provide targeted resources and support to help educators better understand and address climate change in their work.
-</thinking>
-
 # Educator Climate Change Literacy Registration Form - Help Guide
 
 ## Purpose

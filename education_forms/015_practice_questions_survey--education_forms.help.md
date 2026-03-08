@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect feedback and input from users about practice questions in an educational setting.
-  The purpose of this form is to gather information about how users experience and perceive practice questions in their learning process.
-  This form is intended for users to provide their honest feedback and suggestions on what questions they found helpful or unhelpful.
-  Please note that some of the fields in this form are optional, so you can choose to answer only the questions that are relevant to you.
-</thinking>
-
 # Practice Questions Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback and input on practice questions in an educational setting. We value your honesty and suggestions in helping us improve the quality and relevance of our practice questions.

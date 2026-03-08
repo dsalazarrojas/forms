@@ -1,11 +1,3 @@
-<thinking>
-
-The form is used to request an invoice. It is a crucial step in the payment process and requires accurate information to ensure a smooth transaction. This guide will help users understand the importance of providing the correct details.
-
-Before filling out this form, ensure that you are authorized to request an invoice and that you have all the necessary information required for the form.
-
-</thinking>
-
 # Invoice Request Form - Help Guide
 ## Purpose
 The Invoice Request Form is used to submit a request for an invoice, ensuring that you receive accurate and timely payment. To fill out this form correctly, please follow the instructions below.

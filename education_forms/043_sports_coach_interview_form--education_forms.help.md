@@ -1,10 +1,3 @@
-<thinking>
-
-This form is used to collect information from sports coaches to be considered for a position. The form is used to gather general information, education history, years of experience, coaching licenses, sport background, work experience, personal statement, references, and a final submit button. The form is divided into several sections, each with its own purpose, and is intended to be completed by the applicant.
-
-
-</thinking>
-
 # sports_coach_interview_form - Help Guide
 ## Purpose
 

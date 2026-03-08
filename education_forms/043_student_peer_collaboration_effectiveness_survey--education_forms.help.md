@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students on their experiences with peer collaboration, a crucial aspect of academic success. This survey will help the institution assess the effectiveness of their current collaboration strategies and provide insights for improvement. It is essential to ensure that the survey questions are clear and concise to elicit accurate and reliable feedback from students.
-</thinking>
-
 # Student Peer Collaboration Effectiveness Survey - Help Guide
 ## Purpose
 The Student Peer Collaboration Effectiveness Survey aims to gather feedback from students on their experiences and perceptions of peer collaboration in academic settings. This feedback will help the institution evaluate the effectiveness of their collaboration strategies and make informed decisions for improvement.

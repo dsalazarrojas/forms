@@ -1,8 +1,3 @@
-<thinking>
-This form is a tool designed to help users navigate and explore career pathways related to STEM fields (science, technology, engineering, and mathematics) for students and professionals who identify as Black. The purpose of this form is to collect information about users' educational backgrounds, career goals, and interests, as well as to help them discover potential tools and resources that can aid them in their career development. This form is a part of the HBCU Homecoming Edition Of S.T.E.Ming While Black Career Pathway Directory, which aims to provide a platform for users to find relevant information and support for their career paths.
-Before proceeding, please note that the information provided in this form will not be used to create any form of account, subscription, or email list. All collected data will be used solely to improve the functionality and relevance of the directory.
-</thinking>
-
 # HBCU Homecoming Edition Of S.T.E.Ming While Black Career Pathway Directory - Help Guide
 ## Purpose
 This form is designed to help you explore career pathways related to STEM fields as a Black individual. It will collect information about your educational background, career goals, and interests to provide you with relevant resources and tools to aid in your career development.

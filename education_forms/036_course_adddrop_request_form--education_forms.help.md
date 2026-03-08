@@ -1,5 +1,3 @@
-<thinking>This form is designed to allow students to submit a request to add or drop courses in their academic program. The form is intended for students who need to make changes to their course list, and it helps administrators process these requests efficiently. This guide is meant to help students understand how to fill out the form correctly, ensuring that their requests are processed accurately and in a timely manner.</thinking>
-
 # Course AddDrop Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Equipment Use Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to inform the laboratory management about the use of specific equipment in the lab. It is used to document the start and end dates of equipment use, as well as the status and purpose of the equipment. This form helps the management to keep track of all equipment usage and ensure that equipment is not misused or left unaccounted for.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist dancers and staff in understanding the purpose and requirements of the Dance Competition Time Off Form. The form is designed to collect information about dance events, such as competition schedules, rehearsal schedules, and dancer attendance. 
-
-The form will be used to schedule and organize dance events, ensuring accurate and timely communication between dancers, staff, and the event management team.
-
-To avoid any duplication or inaccuracies, please carefully review the form's fields and ensure all information is accurate and up-to-date.
-
-This guide is designed to be a quick reference for completing the form in a clear and concise manner.</thinking>
-
 # Dance Competition Time Off Form - Help Guide
 ## Purpose
 The Dance Competition Time Off Form is used to collect information about dance events, schedules, and dancer attendance. This includes competition start and end dates and times, rehearsal schedules, and event attendance. 

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Office Software Proficiency Assessment form is to evaluate the proficiency of users in various office software applications, such as Microsoft Office, Google Docs, and LibreOffice. This form is used to collect information on the software used, skills, and proficiency levels, as well as personal details like email and phone number. The goal is to assess the proficiency of office software users to better understand their skills and provide training or support accordingly.
-
-This form seems to be a general assessment tool and does not appear to be specifically designed for any particular business logic or process. Therefore, I will assume that it is a generic form and provide explanations based on the provided YAML fields.
-
-</thinking>
-
 # Office Software Proficiency Assessment - Help Guide
 ## Purpose
 The Office Software Proficiency Assessment form is used to evaluate the proficiency of users in various office software applications.

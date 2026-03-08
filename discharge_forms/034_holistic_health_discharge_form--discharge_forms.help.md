@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holistic Health Discharge Form - Help Guide
 
 ## Purpose

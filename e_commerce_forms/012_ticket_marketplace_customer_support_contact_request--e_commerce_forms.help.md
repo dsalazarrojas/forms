@@ -1,9 +1,3 @@
-<thinking>
-This form is used to allow customers to contact the ticket marketplace's customer support team with any issues or questions they may have. The form is designed to gather information from the customer in a structured and organized way, ensuring that the support team can efficiently assist with inquiries. This form is intended to be used by customers who are not sure about the status of their orders, have questions about their accounts, or need help with any other issue related to the ticket marketplace. 
-
-This form should not be used for general marketing or promotional purposes. Customers who are interested in promoting the ticket marketplace or its services should use other channels such as email or social media.
-</thinking>
-
 # Ticket Marketplace Customer Support Contact Request - Help Guide
 ## Purpose
 This form is designed to allow customers to contact the ticket marketplace's customer support team with any issues or questions they may have.

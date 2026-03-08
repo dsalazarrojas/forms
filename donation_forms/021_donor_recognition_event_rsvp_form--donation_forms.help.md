@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Recognition Event RSVP Form - Help Guide
 ## Purpose
 The Donor Recognition Event RSVP Form is designed for donors to RSVP and provide information for an upcoming Donor Recognition Event. This form allows donors to confirm their attendance and share their guest count, email address, and contact information.

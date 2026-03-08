@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from schools and their members interested in joining the Sustainable Learning Community, a platform that promotes sustainable education and community engagement. The form is designed to ensure that all interested parties can easily register and provide their necessary contact and demographic information to be part of the community.
-The main goal of this form is to gather essential details for the community management team to communicate effectively with members, provide them with relevant resources and opportunities, and facilitate collaboration and knowledge-sharing within the community. 
-
-To avoid duplicate registrations, the form will check if a school or member has already registered, using an email or phone number.
-</thinking>
-
 # Sustainable Learning Community Registration Form - Help Guide
 ## Purpose
 This form is for schools and their members to register and provide necessary contact and demographic information to become part of the Sustainable Learning Community. The information gathered will be used for community management and communication purposes.

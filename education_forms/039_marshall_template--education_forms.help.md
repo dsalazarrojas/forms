@@ -1,9 +1,3 @@
-<thinking>
-
-The marshall_template form is used to collect and display information in a structured and organized manner, primarily for educational purposes. This form is likely used in an institutional setting such as a school or university for students, teachers, or staff to fill out personal information, events, or other types of data that need to be tracked. The form consists of 9 fields, each with a specific purpose and type of input.
-
-</thinking>
-
 # marshall_template - Help Guide
 ## Purpose
 This form is designed to collect information in a structured and organized manner, ideal for use in educational settings where data needs to be tracked and recorded.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to assess a user's understanding of database normalization, a fundamental concept in database design. This form is intended to gauge a user's ability to identify primary and foreign keys, candidate keys, and other database normalization concepts. It will likely be used by database administrators, developers, or educators to evaluate a candidate's knowledge in this area. Please note that this form is for assessment purposes only and is not intended for actual data entry or collection. 
-
-This form consists of 25 fields, which can be broadly categorized into several sections. 
-
-1. User Information: This section collects basic information about the user, including email and phone number. 
-
-2. Candidate Information (Education and Experience): This section contains fields for candidate's educational background and professional experience. 
-
-3. Database Normalization: This section tests the user's understanding of database normalization concepts, including primary keys, foreign keys, natural keys, and synthetic keys. 
-
-4. Confirmation and Submission: This section contains fields for confirming the user's information and submission of the form. 
-
-Please review the form layout and instructions carefully to complete the assessment accurately.
-
-</thinking>
-
 # Database Normalization Assessment - Help Guide
 ## Purpose
 This form is designed to assess a user's understanding of database normalization concepts.

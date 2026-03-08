@@ -1,7 +1,3 @@
-<thinking>
-This form is for Boy Scout leaders to order custom shirts for their troop. The form requires information about the troop, including its number, leader's name, contact email, phone number, order date, and requested delivery date. Additionally, it asks for details about the shirt size, color, and quantity, as well as whether the shirt should have embroidery and what text to embroider on it. Finally, it requests shipping information, including the address and method of delivery. The form aims to gather all necessary details to process the order correctly.
-</thinking>
-
 # Boy Scout Shirts Order Form - Help Guide
 ## Purpose
 The Boy Scout Shirts Order Form is a tool for Boy Scout leaders to place orders for custom shirts for their troop. This form is used to collect relevant information about the troop, order details, and shipping information to ensure accurate processing and delivery of the ordered shirts.

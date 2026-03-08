@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to assess an individual's knowledge on ethics, likely in an academic or professional setting. The form will help gather information on a person's understanding of various ethical concepts and principles. It's essential to ensure the form is completed thoroughly and accurately, as the information gathered will impact the assessment's validity. Before proceeding, confirm the purpose of this form is to assess ethics knowledge, not for other purposes such as data collection or marketing.
-</thinking>
-
 # Ethics Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your understanding of ethics, a crucial aspect of many fields, including academia and professional settings. The assessment will help gauge your knowledge on various ethical concepts and principles.

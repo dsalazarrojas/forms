@@ -1,9 +1,3 @@
-<thinking>
-This form is for gathering information from students or learners about their experience with the Learning Management System (LMS). The form is meant to collect feedback and ratings on the system's usability, functionality, and overall experience.
-We are checking if you have already completed this form to avoid duplication of work and to prevent over-burdening of our resources.
-We will use the collected data to improve the LMS and make it more user-friendly.
-</thinking>
-
 # Learning Management System Survey - Help Guide
 ## Purpose
 

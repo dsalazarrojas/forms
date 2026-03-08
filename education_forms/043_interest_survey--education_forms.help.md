@@ -1,5 +1,3 @@
-<thinking>As this form is a tool to gather information about users and their interests, it's essential to ensure that it's filled out correctly. Before proceeding, please note that this form is designed to collect data about a specific set of users, and it's not intended for mass submission. Please ensure that you're filling out the form for the correct purpose and not duplicating your entry. This will help us get a better understanding of your interests and preferences. If you're unsure, please contact the relevant authorities for clarification.</thinking>
-
 # Interest Survey - Help Guide
 ## Purpose
 The Interest Survey form is a tool for collecting information about users and their interests. It is designed to gather specific data about each user, including their interests, education, and preferences.

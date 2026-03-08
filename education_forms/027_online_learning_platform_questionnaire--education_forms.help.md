@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and opinions from users of the online learning platform. This form is used to collect information about how users use the platform, what features they find valuable, and their overall experience with the platform. It is not intended to collect sensitive or personal information, but rather to help improve the platform's functionality and user experience. Please fill out this form only if you are a user of the online learning platform and have relevant feedback or suggestions.
-
-This form is not meant to be filled out by users who are not affiliated with the platform, as the information collected is intended for internal use by the platform developers and administrators.
-
-Before filling out this form, please ensure that you have reviewed the fields carefully and are providing accurate and honest feedback. Your input is valuable to us and will help us improve the platform for future users.
-
-</thinking>
-
 # online_learning_platform_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and opinions from users of the online learning platform, to help us improve its functionality and user experience.

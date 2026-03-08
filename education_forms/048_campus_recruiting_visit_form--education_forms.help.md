@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from employers who wish to conduct on-campus recruiting visits, interviews, or other recruitment activities. The form aims to collect necessary details about the employer's company information, contact person, visit details, and requirements for the visit. This information will help the campus administration plan and prepare for the visit, ensuring a smooth and successful experience for both the employer and the students.
-
-This form should only be completed by authorized representatives of the employer's organization. Please ensure that only one person completes this form to avoid duplication of data.
-
-This form will ask for information about the employer's company, contact person, and visit details, including the purpose, date, duration, number of recruiters, and requirements for the visit. Please provide accurate and complete information to help us plan and prepare for your visit.
-
-</thinking>
-
 # Campus Recruiting Visit Form - Help Guide
 ## Purpose
 The Campus Recruiting Visit Form is designed to gather essential information from employers who want to conduct on-campus recruiting activities. This form helps the campus administration plan and prepare for a successful visit, ensuring a smooth experience for both the employer and the students.

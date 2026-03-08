@@ -1,23 +1,3 @@
-<thinking>
-This help guide is being written based on the provided YAML form definition. The purpose of this form is to collect information from users for an e-commerce platform, specifically for placing orders. This form likely serves as a tool for customers to place new orders or update order details in the system.
-
-The form's fields are designed to gather user information, payment methods, order details, and order status updates. The fields are not strictly required, suggesting that this form is used for both new and existing orders.
-
-Each field in the form serves a specific purpose:
-* `User Info`: This field is likely used to capture the user's basic information, such as name and contact details.
-* `Shipping Info`: This field may be used to capture shipping address details for the order.
-* `Payment Method`: This field gives users the option to select their preferred payment method, such as card number, PayPal, or bank transfer.
-* `Order Details`: This field is used to capture any additional information related to the order.
-* `Order Total`: This field is probably used to display the total cost of the order.
-* `Order Status`: This field is used to update the order status, which can be pending, shipped, or cancelled.
-* `Order Date`: This field captures the date the order was placed.
-* `Order Time`: This field captures the time the order was placed.
-* `Order Phone`: This field is used to capture the user's phone number.
-* `Email Address`: This field captures the user's email address.
-
-Before proceeding, please ensure you are filling out the correct information for your order.
-</thinking>
-
 # Link Order Form - Help Guide
 ## Purpose
 This form is used to place new orders or update existing orders on our e-commerce platform.

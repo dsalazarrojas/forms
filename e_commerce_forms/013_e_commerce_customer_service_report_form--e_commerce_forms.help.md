@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report customer service interactions, such as order status changes or customer complaints. It's essential to complete this form accurately to help the customer service team understand the situation and provide better support. To complete this form, follow the instructions below.
-</thinking>
-
 # e_commerce_customer_service_report_form - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the usability of the admission website from various users. The form is meant to gauge the overall user experience, identify areas of improvement, and provide insight into the effectiveness of the website in meeting the needs of different user groups. This form will help us understand how well the website is performing in terms of navigation, user experience, and technical aspects. It will also allow us to gather suggestions for improvement and identify potential technical issues. The survey will be completed by users who have visited the website for different purposes, such as researching programs, starting an application, or checking requirements. 
-
-This form should not be filled out by anyone who has not visited the website.
-
-</thinking>
-
 # Admission Website Usability Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the usability of the admission website from users. It aims to understand how well the website meets the needs of its visitors and identify areas for improvement.

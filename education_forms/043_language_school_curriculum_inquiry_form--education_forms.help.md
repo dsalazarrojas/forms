@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and requirements of the Language School Curriculum Inquiry Form. The form is used to collect information from students who are inquiring about language school programs, such as language levels and programs of interest. It is intended to be completed by students who are interested in enrolling in a language school program. 
-
-Please note that this form is not intended for internal use and should not be completed by internal staff members. The form fields are designed to be completed by students and should be filled in accordingly.
-
-The form is divided into several sections, each with its own purpose and requirements. Please refer to the Field-by-Field Explanation section for detailed instructions on how to complete each field. 
-
-</thinking>
-
 # Language School Curriculum Inquiry Form - Help Guide
 ## Purpose
 The Language School Curriculum Inquiry Form is designed to collect information from students who are inquiring about language school programs. This form helps language school administrators to better understand the needs and interests of students and provide relevant information to help them make informed decisions about their language programs.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect contact information and registration details from individuals interested in joining the Academic Diversity And Equity Network. The purpose of this form is to gather essential details from users to connect them with the network and ensure they receive relevant updates and information. This form is not affiliated with or endorsed by any specific form platform, and it is released under CC BY 4.0 license, allowing for free use, modification, and even commercial use with proper credit.
-Before proceeding, please note that the form fields are designed to be user-friendly and relevant to the topic. This guide will walk you through each field, ensuring you complete the form accurately and effectively.
-
-</thinking>
-
 # Academic Diversity And Equity Network Registration - Help Guide
 ## Purpose
 This form is designed to collect contact information and registration details from individuals interested in joining the Academic Diversity And Equity Network.

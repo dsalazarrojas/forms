@@ -1,10 +1,3 @@
-<thinking>
-To create an effective help guide for the "Animal Shelter Donation Motivation Survey" form, it's essential to break down the form's purpose, required information, and field-by-field explanations. This form is designed to collect valuable insights from donors about their motivations, habits, and expectations when it comes to donating to the animal shelter. The form aims to understand what influences their decisions, what matters most to them, and how the shelter can better engage with them to build a stronger relationship.
-
-The form consists of 22 fields, and we'll cover each one in the following sections: Purpose, How to Complete This Form, Field-by-Field Explanation, and Tips.
-
-</thinking>
-
 # Animal Shelter Donation Motivation Survey - Help Guide
 
 ## Purpose

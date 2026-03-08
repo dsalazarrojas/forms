@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be filled out by students or their guardians to request exemptions from afternoon classes. The purpose of this form is to provide students with a formal process to request exemptions due to various reasons such as medical conditions, sports activities, or other legitimate reasons. This form helps staff to quickly identify and assess the validity of exemption requests. Please note that each field is crucial in determining the type of exemption and its validity. Ensure that you fill this form accurately and thoroughly to avoid delays in processing your request.
-
-</thinking>
-
 # Afternoon Class Exemption Request Form - Help Guide
 
 ## Purpose

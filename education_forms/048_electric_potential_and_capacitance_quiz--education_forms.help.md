@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electric Potential And Capacitance Quiz - Help Guide
 
 ## Purpose

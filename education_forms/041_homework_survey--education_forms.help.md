@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from students regarding their homework assignments, including student ID, assignment name, grade, submission date, and completion time. This form serves as a data collection tool for educators to monitor student progress and performance. Ensure that the form is used to collect accurate and complete data and that you are aware of any institutional and legal guidelines that apply to data collection.</thinking>
-
 # Homework Survey - Help Guide
 ## Purpose
 The Homework Survey form is designed to collect information from students regarding their homework assignments, enabling educators to track student progress and performance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Assessment Questionnaire - Help Guide
 
 ## Purpose

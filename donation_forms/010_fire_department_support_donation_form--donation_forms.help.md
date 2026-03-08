@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Fire Department Support Donation Form is to allow users to make donations to support the fire department, either in the form of monetary contributions or by providing other forms of assistance. This form is intended for public use and can be completed by anyone who wishes to provide support. To ensure data accuracy and minimize duplicate records, please do not complete this form if you have already submitted a donation in the past 6 months.
-</thinking>
-
 # Fire Department Support Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations and feedback from the public in support of the local fire department. Your input will help the department understand community needs and allocate resources effectively.

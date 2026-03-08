@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be a simple assessment tool for Political Science students, researchers, and professionals to evaluate their knowledge and understanding of key concepts in politics. It is meant to be a self-administered evaluation tool for personal or academic purposes. 
-
-The form consists of four pages, each focusing on a different aspect of politics: "What is Politics", "Political System", "Political Ideology", and "Political Participation". 
-
-The form has been generated using AI and is not affiliated with or endorsed by any specific form platform. It is released under the Creative Commons BY 4.0 license, allowing users to modify, sell, or distribute it as they see fit.
-
-Given the simplicity of the form, it is likely not to be used for large-scale surveys or official assessments. However, it can be a useful tool for individual evaluations or as a starting point for more comprehensive assessments.
-
-Before proceeding, please ensure you have understood the purpose and scope of this form.
-
-</thinking>
-
 # Political Science Assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and understanding of key concepts in Political Science. It is a self-administered evaluation tool for personal or academic purposes.

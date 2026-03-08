@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about emergency contacts for a child in daycare. It is intended for daycare providers to use in case of an emergency, and the information collected will be used to ensure the safety and well-being of the child. Please ensure that you are completing this form in the correct context, and that you have not previously submitted this information.
-</thinking>
-
 # Daycare Emergency Contact Form - Help Guide
 ## Purpose
 The Daycare Emergency Contact Form is a crucial document that helps daycare providers gather essential contact information in case of an emergency. This form ensures that the provider has the necessary details to contact you or your authorized representative in case of an unexpected event.

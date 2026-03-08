@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Consumption Report Form - Help Guide
 
 ## Purpose

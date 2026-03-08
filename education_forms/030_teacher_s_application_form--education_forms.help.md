@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teachers Application Form - Help Guide
 
 ## Purpose

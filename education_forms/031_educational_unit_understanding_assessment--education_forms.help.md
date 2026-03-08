@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and not duplicating existing forms or tasks. The form is meant to gather feedback from students and teachers about their experiences with educational units, specifically to assess their understanding and perception of the unit's content and teaching method. It should not be used to collect general feedback or for other purposes unrelated to educational units.
-</thinking>
-
 # Educational Unit Understanding Assessment - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to confirm their orders, provide shipping information and contact details, and confirm their shipping preferences. 
-
-This form is intended for customers to input their order details, shipping information, and contact information after placing an order. This form is meant to be used by customers who are ready to confirm their order and shipping preferences.
-
-Please note that this form is not meant to be used for any other purpose other than confirming orders and shipping information. 
-
-</thinking>
-
 # Order Confirmation Form - Help Guide
 ## Purpose
 The Order Confirmation Form is a form used to confirm customer orders and shipping information. 

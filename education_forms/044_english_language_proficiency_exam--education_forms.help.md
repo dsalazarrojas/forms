@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess the English language proficiency of students. This form is likely used by schools or language institutions to evaluate the language skills of students, such as reading, writing, listening, and speaking. The form collects various information about the student, including their language background, proficiency level, and assessment scores. This form may be used to track student progress, identify areas of improvement, or for certification purposes.
-
-Before proceeding, please ensure that you are not attempting to use this form for duplicate or unrelated purposes.
-
-</thinking>
-
 # english_language_proficiency_exam - Help Guide
 ## Purpose
 The english_language_proficiency_exam form is designed to assess the English language proficiency of students. 

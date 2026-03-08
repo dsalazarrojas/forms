@@ -1,9 +1,3 @@
-<thinking>
-
-Before creating this help guide, I'd like to acknowledge that this form appears to be a comprehensive beer order form designed to gather information from customers for various aspects of their order, including personal details, order type, beer selection, quantity, delivery method, and payment information. The form seems to be catering to different types of customers, including individuals, subscribers, and businesses. I'll focus on providing clear and concise explanations for each field, ensuring that end-users understand the purpose and requirements of each section.
-
-</thinking>
-
 # Beer Order Form - Help Guide
 ## Purpose
 The Beer Order Form is designed to collect information from customers for their beer orders, ensuring accurate and efficient processing of their requests. This guide will walk you through each field of the form, explaining its purpose and required information.

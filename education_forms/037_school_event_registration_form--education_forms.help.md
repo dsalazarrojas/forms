@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about school events, such as the name and description of the event, the school involved, and relevant details like date, time, and category. This form likely aims to gather data for internal purposes, such as event management, communication, or reporting. Ensure that you are filling out the correct form for your intended purpose. If you're unsure, please contact the relevant personnel for clarification. Before starting, make sure you are not registering the same event twice. This will help prevent duplicate entries and ensure accurate record-keeping.
-</thinking>
-
 # School Event Registration Form - Help Guide
 ## Purpose
 The School Event Registration Form is used to collect information about school events. This form is meant for registering events related to schools.

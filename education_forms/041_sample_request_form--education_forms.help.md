@@ -1,6 +1,3 @@
-<thinking>... (Internal Reasoning Block) ...
-This form is intended to capture information from users for a sample request, likely for a marketing or sales purpose. The form is used to collect contact information and details about a product or service. To ensure that the form is filled out correctly, it's essential to check for duplication and relevance. Please fill out this form only if you are a genuine customer or representative interested in our sample request. If you are a spammer or trying to abuse this form, your submission will be discarded. Please note that this form is for non-essential purposes, and we do not guarantee any responses or actions taken from the form submissions. If you have any questions or concerns, please contact us directly. ...</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 The Sample Request Form is designed to collect information from users about their interest in a product or service. This form is meant to be a starting point for further contact and discussion. Please fill out the form accurately and truthfully to ensure that we can respond to your request effectively.

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide explains the **residentAssistantTrainingEvaluationForm**, a critical tool for evaluating the effectiveness of resident assistant training programs. This form is used to collect feedback from residents, instructors, and other stakeholders to assess the quality and relevance of the training provided. To complete this form, follow the instructions below.
-
-</thinking>
-
 # residentAssistantTrainingEvaluationForm - Help Guide
 ## Purpose
 The residentAssistantTrainingEvaluationForm is designed to gather feedback from residents, instructors, and other stakeholders on the effectiveness and relevance of resident assistant training programs. This form helps identify areas of improvement and ensures that the training is meeting its intended goals and objectives.

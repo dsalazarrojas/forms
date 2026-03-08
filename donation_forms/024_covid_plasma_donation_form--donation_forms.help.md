@@ -1,11 +1,3 @@
-<thinking>
-To create an effective user-facing help guide, we need to consider the following:
-
-*   The form's purpose: This form is designed to collect information from individuals who are interested in donating COVID-19 convalescent plasma. The goal is to gather essential details about the donor, including their personal and medical history.
-*   Non-duplication and relevance: We need to ensure that the form is clear and concise, avoiding duplication of information and unnecessary fields. This will prevent confusion and make it easier for users to complete the form accurately.
-*   Field explanation: Each field should have a clear and concise explanation to help users understand its purpose and relevance.
-</thinking>
-
 # COVID Plasma Donation Form - Help Guide
 
 ## Purpose

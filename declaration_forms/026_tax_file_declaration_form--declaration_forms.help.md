@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Tax File Declaration Form", we should first consider the form's purpose and how it will be used by end-users. This form appears to be a generic form with a variety of input fields, including text, date, number, email, and select options. The form title and category fields are also present, but they do not appear to be crucial to the form's primary purpose.
-</thinking>
-
 # Tax File Declaration Form - Help Guide
 ## Purpose
 The Tax File Declaration Form is used to collect information related to tax files, likely for administrative or organizational purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from pet owners for raw dog food delivery orders. The form collects two primary types of information: "Pet Info" and "Delivery Info". The form is not a payment form, as it only collects text-based input for both "Pet Info" and "Delivery Info" pages. This form is ideal for pet food delivery services to efficiently gather essential details from customers. 
 
 </thinking>

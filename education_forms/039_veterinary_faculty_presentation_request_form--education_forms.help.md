@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from veterinary faculty members who wish to present at events or share their expertise with others. This form helps the event organizers to understand the presenter's availability, presentation format, and other essential details to ensure a smooth and successful event. Before filling out this form, please make sure you have not submitted a similar request recently, as this form is designed to be a one-time request.
-</thinking>
-
 # Veterinary Faculty Presentation Request Form - Help Guide
 ## Purpose
 The Veterinary Faculty Presentation Request Form is designed for veterinary faculty members to request to present at events or share their expertise with others. This form helps the event organizers to understand the presenter's information, schedule, and presentation details.

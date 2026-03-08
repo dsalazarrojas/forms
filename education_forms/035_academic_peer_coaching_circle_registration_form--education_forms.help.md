@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for users to register for a peer coaching circle, which is a group of educators or professionals who come together to share experiences, discuss challenges, and support each other in their professional development. The form will help collect information on the participants' registration details, contact information, and preferences for the coaching circle sessions.
-
-The form has a total of 10 fields, which are divided into two sections: "Registration Details" and no other fields beyond this section. The "Registration Details" section includes fields for participant name, email address, affiliation, coaching focus areas, availability, and prior experience. The remaining section includes fields for communication preference and additional notes.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation of a form created using AI.
-</thinking>
-
 # Academic Peer Coaching Circle Registration Form - Help Guide
 ## Purpose
 The Academic Peer Coaching Circle Registration Form is designed to collect information from participants interested in joining the peer coaching circle. The form is used to gather registration details, preferences, and expectations from participants to ensure a successful and effective peer coaching circle experience.

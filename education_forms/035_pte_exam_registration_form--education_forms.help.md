@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students who want to register for a PTE (Professional Teachers Exam) exam. The form is designed to capture details about the students, their exam preferences, and their electronic signature for verification purposes. To ensure that you're filling out the correct form, please make sure you're registering for the PTE exam and not another type of exam or program. Also, please note that this form is a generated AI form and not affiliated with any proprietary form platforms, but rather an original adaptation of a public survey topic.
-</thinking>
-
 # PTE Exam Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who want to register for the PTE exam. Please fill out this form to provide us with your details and exam preferences.

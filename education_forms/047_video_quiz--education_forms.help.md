@@ -1,9 +1,3 @@
-<thinking>
-To prevent duplication of effort, this form will be used to create new video quizzes that can be embedded in other forms, pages, or even standalone. This form will be used for users to create a video quiz with custom settings for sharing and embedding.
-
-This form is designed to be user-friendly and straightforward, with clear field labels and instructions. The form will guide users through creating a video quiz with the following fields:
-</thinking>
-
 # Video Quiz - Help Guide
 ## Purpose
 The Video Quiz form is used to create a new video quiz with custom settings for sharing and embedding.

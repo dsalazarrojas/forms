@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Open Curriculum Design Fellowship registration process. It is intended to gather essential information from applicants for the fellowship program. This form should only be completed once per applicant. Please ensure that the provided information is accurate and up-to-date. Note that some fields may be marked as required or optional, and it's essential to fill out all required fields to complete the registration process successfully.
-</thinking>
-
 # Open Curriculum Design Fellowship Registration - Help Guide
 ## Purpose
 The Open Curriculum Design Fellowship Registration form is a crucial part of the application process for the Open Curriculum Design Fellowship program. This form is used to collect essential information from applicants to evaluate their eligibility and assess their suitability for the program.

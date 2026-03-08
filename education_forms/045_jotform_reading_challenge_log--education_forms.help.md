@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for a team's reading challenge log, likely used to track progress, habits, and outcomes related to reading. 
-The form likely aims to encourage teams to maintain regular reading habits, which can have a positive impact on their productivity and mental well-being. 
-The form may be used within an organization or institution, such as a school or library, to monitor team members' reading habits and foster a culture of reading.
-Please ensure you are completing this form for the intended purpose and not for personal or unrelated use.
-</thinking>
-
 # Jotform Reading Challenge Log - Help Guide
 ## Purpose
 The Jotform Reading Challenge Log is designed to help teams track and maintain their reading habits, providing a platform to record progress, goals, and reflections.

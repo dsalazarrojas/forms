@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is for students to declare their involvement in various activities, preferences, and availability for certain events or situations. It's essential to complete this form accurately to ensure that students' needs and interests are understood by the institution or organization they are interacting with.
-
-Before starting the form, please review the following:
-
-* Ensure you have all the necessary information and details required to complete this form accurately.
-* If you're unsure about any field or question, do not hesitate to ask for clarification.
-* If you have any concerns or issues, please contact the relevant authorities or support team for assistance.
-
-To avoid duplication of effort and ensure that your declaration is correctly recorded, please do not submit incomplete or partially completed forms.
-
-This form is designed to be completed by students, and your responses will be treated confidentially. Please be honest and accurate in your declarations to ensure that your needs are met and your interactions with the institution or organization are smooth and efficient.
-
-</thinking>
-
 # Student Declaration Form - Help Guide
 ## Purpose
 This form is designed for students to declare their involvement in various activities, preferences, and availability for certain events or situations. It helps the institution or organization understand students' needs and interests.

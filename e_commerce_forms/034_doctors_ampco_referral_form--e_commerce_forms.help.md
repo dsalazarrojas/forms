@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients or clients for referral to a medical doctor. The form is designed to be completed by the patient or client themselves, providing essential details for the doctor to review before their visit. This form should not be used for duplicate referrals or non-referred patients.
-</thinking>
-
 # Doctors&Co Referral Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients or clients for referral to a medical doctor. Please fill in the form with the required details for a smooth and efficient referral process.

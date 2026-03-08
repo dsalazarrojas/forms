@@ -1,8 +1,3 @@
-<thinking>
-The Nonprofit Donation Form is designed for end users to provide their donation details for a specific campaign. This form is typically used for online donations, allowing users to contribute to their favorite causes without the need for physical transactions. It's essential to ensure that the form is filled out correctly to ensure accurate donation processing and to minimize errors. Please review this guide to understand the purpose of each field in this form.
-
-</thinking>
-
 # Nonprofit Donation Form - Help Guide
 ## Purpose
 The Nonprofit Donation Form is a tool for individuals to contribute to various campaigns and causes through an online platform. It collects essential information from donors to process their donation correctly and efficiently.

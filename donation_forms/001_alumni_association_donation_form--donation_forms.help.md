@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and preferences from individuals making donations to the Alumni Association. The purpose of this form is to gather personal details, such as full name, email address, and phone number, to facilitate communication and ensure that donations are acknowledged correctly. Additionally, the form collects donation specifics like amount, designation, and frequency to help the association manage and apply the funds effectively. This form also offers options for donors to specify where they would like their gift to be applied and whether they want it to be anonymous. 
-
-</thinking>
-
 # Alumni Association Donation Form - Help Guide
 ## Purpose
 The Alumni Association Donation Form is a tool for individuals to provide personal and donation information to the association. This form helps the association to understand donors' preferences and manage donations effectively.

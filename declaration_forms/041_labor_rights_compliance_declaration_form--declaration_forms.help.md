@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # labor_rights_compliance_declaration_form - Help Guide
 ## Purpose
 The labor rights compliance declaration form is used to collect information about an employee's employment status, hours worked, and other relevant details for labor law purposes. This form helps to ensure compliance with labor regulations and provides an accurate record of employee employment information.

@@ -1,10 +1,3 @@
-<thinking>
-To confirm, we are creating a user-facing help guide for the "Cross Disciplinary Research Initiative Application" form. The form is for researchers applying for funding or support for their projects that bridge multiple disciplines. The goal is to help non-technical stakeholders understand how to fill out the form correctly, ensuring they provide all necessary information for review.
-
-We will follow the provided YAML structure and create a concise and practical guide to assist users in completing the form.
-
-</thinking>
-
 # Cross Disciplinary Research Initiative Application - Help Guide
 ## Purpose
 This guide will walk you through the "Cross Disciplinary Research Initiative Application" form, helping you provide the necessary information for your project review.

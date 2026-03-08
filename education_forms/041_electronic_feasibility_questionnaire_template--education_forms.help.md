@@ -1,7 +1,3 @@
-<thinking>
-The Electronic Feasibility Questionnaire Template is designed to gather information about a project or idea's feasibility, specifically in the context of electronic systems or technologies. The form is intended to be used as a starting point for evaluating the potential success of a project or idea, particularly in the education sector. The form asks questions that help identify key factors such as project goals, leadership, quality, and facilities. This template is meant to be a general framework, not a specific survey, and users are free to adapt it for their specific use cases.
-</thinking>
-
 # Electronic Feasibility Questionnaire Template - Help Guide
 ## Purpose
 The Electronic Feasibility Questionnaire Template is a form designed to gather information about the electronic feasibility of a project or idea. It's used to evaluate the potential success of a project or initiative, particularly in the education sector.

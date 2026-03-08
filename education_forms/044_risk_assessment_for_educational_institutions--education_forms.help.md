@@ -1,9 +1,3 @@
-<thinking>
-
-The form "risk_assessment_for_educational_institutions" is designed to gather information from educational institutions to assess their risks. This form is used to identify potential risks and vulnerabilities that may affect the institution's operations or students' safety. This form should only be filled out by representatives of educational institutions. To avoid confusion, it is recommended to fill this form only once per institution, as repeating it may lead to duplicated data.
-
-</thinking>
-
 # risk_assessment_for_educational_institutions - Help Guide
 ## Purpose
 The "risk_assessment_for_educational_institutions" form is designed to gather information from educational institutions to assess their risks and vulnerabilities.

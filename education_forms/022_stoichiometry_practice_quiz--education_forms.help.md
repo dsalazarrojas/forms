@@ -1,9 +1,3 @@
-<thinking>
-The provided form "Stoichiometry Practice Quiz" aims to help users test their understanding of stoichiometry concepts. This quiz will be used by educators or administrators to evaluate the knowledge of students in stoichiometry, a branch of chemistry that deals with the quantitative relationships between the amounts of reactants and products in chemical reactions.
-The form has 25 fields, each targeting different aspects of stoichiometry. Before proceeding with this guide, please review the form fields below:
-
-</thinking>
-
 # Stoichiometry Practice Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your knowledge of stoichiometry concepts.

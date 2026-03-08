@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for requesting landing page builds for clients. It is used to gather information for new projects. It is essential to complete this form accurately and thoroughly to ensure that the project requirements are met. 
-Before proceeding, please make sure that you have not already submitted this form for the same project. Repeated submissions may lead to duplicate entries and confusion. 
-Please follow the instructions carefully and take your time to fill in all the required fields.
-</thinking>
-
 # Landing Page Build Request Form Template - Help Guide
 ## Purpose
 This form is used to request a landing page build from our team. It is essential to provide accurate and complete information to ensure that the project requirements are met.

@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that our Donor Network Registration Form is filled out correctly to accurately capture the necessary information for our donors. This form is not meant to be filled out multiple times, so please only submit it once. The form is designed to collect essential information about our donors, including their name, email, address, phone number, date of birth, date of registration, organization (if applicable), role, segments (if applicable), and any additional note or confirmation details. We'll use this information to update our donor database and provide personalized services to them.
-</thinking>
-
 # Donor Network Registration Form - Help Guide
 ## Purpose
 The Donor Network Registration Form is designed to collect essential information about our donors, allowing us to update our donor database and provide personalized services to them.

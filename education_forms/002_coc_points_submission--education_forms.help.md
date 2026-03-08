@@ -1,7 +1,3 @@
-<thinking>
-This form is used for CoC Points Submission, which is a critical part of the Society for Creative Anachronism (SCA) Point System. To submit, users will need to have a valid SCA membership. This form is used to track and verify points earned by members through various activities. It's essential to ensure that points are submitted correctly to maintain the integrity of the point system. Please note that this form must not be used for duplicate or incomplete submissions.
-</thinking>
-
 # CoC Points Submission - Help Guide
 ## Purpose
 The CoC Points Submission form is used to submit points earned by members through various activities within the Society for Creative Anachronism (SCA). The form requires users to provide essential information about themselves and their submission, including their name, email address, branch or barony affiliation, and a description of their work. Submissions must be accurate and original to maintain the point system's integrity.

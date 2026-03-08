@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding and completing the Technical School Admission Form. The form is designed to collect information from prospective students who wish to enroll in the technical school. The purpose of this form is to gather essential details about the student, including their name, contact information, educational background, and other relevant details. This guide will walk users through each field of the form to ensure they understand what information is required and what is expected of them.
-
-This form has been designed to be as clear and concise as possible. However, if you have any doubts or concerns about any field, please refer to the field explanation below.
-</thinking>
-
 # Technical School Admission Form - Help Guide
 ## Purpose
 This form collects information from prospective students who wish to enroll in the technical school.

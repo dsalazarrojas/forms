@@ -1,15 +1,3 @@
-<thinking>
-
-This form is for users to order a seasonal gift wrapping set, which is a set of gift wrapping materials and decorations. The form is designed to be completed by customers who want to order this product from a store or online platform. The form has three pages, each with a specific purpose:
-
-- Page 1: Gift Wrapping Set Details
-- Page 2: Shipping Details
-- Page 3: Additional Information
-
-This form is not meant to be a duplicate or copy of any existing form, but rather an original adaptation created using AI.
-
-</thinking>
-
 # Seasonal Gift Wrapping Set Order Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for educators, administrators, or parents to provide a recommendation or endorsement for a student. It captures essential information about the student, their teacher, and school details. The form is suitable for various purposes, such as academic recommendations, character references, or scholarship applications. 
-To avoid duplication, users are advised to fill out this form only once for each student, and not to use this form for any other purpose. 
-This form is designed to gather information about a student and their teacher in an organized and structured manner, ensuring clarity and consistency in the recommendations and endorsements provided. 
-</thinking>
-
 # Teacher Recommendation Form - Help Guide
 ## Purpose
 The Teacher Recommendation Form is used to gather information from teachers about their students for purposes such as academic recommendations, character references, or scholarship applications. 

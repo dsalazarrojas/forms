@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for users to document their professional development, including personal details, job-related information, and relevant certifications and projects. It is used to provide a structured and consistent way of capturing this information from users. This form should only be filled out by users who are applying for a professional development program.
-
-This form should not be filled out if the purpose is for another type of application or if the information is already documented in another form.
-
-Please review your application type and purpose before filling out this form.
-
-</thinking>
-
 # Professional Development Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by administrators to collect information about students returning to in-person school after a period of online or remote learning. The purpose of this form is to ensure that students, parents, and teachers are all on the same page regarding the student's return, and to provide necessary details for a smooth transition. This form should only be completed once for each student.
-</thinking>
-
 # Return To In Person School Information And Commitment Form - Help Guide
 ## Purpose
 This form is used to collect information about students returning to in-person school after a period of online or remote learning.

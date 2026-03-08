@@ -1,7 +1,3 @@
-<thinking>
-This form is used to replace a grade in a student's record. Before proceeding, please ensure you have a valid reason for replacement and that you are not duplicating an existing replacement request. If you have already submitted a replacement request for the same grade, please do not submit another request. Please ensure you are authorized to access and complete this form.
-</thinking>
-
 # Grade Replacement Form - Help Guide
 ## Purpose
 This form is used to replace an existing grade in a student's record with a new grade.

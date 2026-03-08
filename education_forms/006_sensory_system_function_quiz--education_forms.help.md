@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a quiz designed to assess an individual's understanding of the sensory system, specifically their perception and function of different senses. The form likely aims to gauge knowledge in various areas of the sensory system. It seems to be a self-contained form, with a clear and focused goal of evaluating sensory function. Upon reviewing the provided fields, it is likely to be a multiple-choice type form, possibly for education or academic purposes. However, I'll need more information to confirm this, such as the specific context in which the form will be used. I'll create a help guide based on the provided YAML fields, assuming it's for educational purposes. If there's any specific context or additional information, please provide it for a more accurate help guide.
-</thinking>
 # Sensory System Function Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of the sensory system, specifically your perception and function of different senses. The quiz will assess your knowledge in various areas of the sensory system.

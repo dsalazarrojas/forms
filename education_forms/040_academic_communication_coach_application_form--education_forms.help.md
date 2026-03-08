@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help applicants apply for the Academic Communication Coach position within your institution. It is essential to ensure that your application is complete and accurate to increase the chances of being considered for the position. This form is divided into several sections, including personal information, qualifications and experience, coaching approach, availability, and references.
-
-Before proceeding, please review the form carefully and make sure you have all the necessary information to complete it. If you have any questions or concerns, do not hesitate to reach out to the relevant department for clarification. 
-
-</thinking>
-
 # Academic Communication Coach Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for the Academic Communication Coach position. It will be used to assess your qualifications, experience, and fit for the role.

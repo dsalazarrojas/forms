@@ -1,7 +1,3 @@
-<thinking>
-This form was generated to support the process of requesting transcripts for various purposes, such as job applications, college admissions, college or university transcripts, scholarships, financial aid, or other purposes. This form aims to gather essential information about the student and their school to facilitate the transcript request process. Please review the form carefully to ensure you are using it correctly. Note that some fields are not required, and you should only fill out the relevant sections for your specific use case.
-</thinking>
-
 # Transcript Request Form - Help Guide
 ## Purpose
 

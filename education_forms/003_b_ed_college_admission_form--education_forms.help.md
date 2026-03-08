@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals applying for admission to BEd (Board of Education) College. The form aims to gather essential information from the applicant, including personal details, educational background, and professional experience. Before completing this form, please ensure you have the necessary documentation ready, such as your transcript and ID.
-</thinking>
-
 # BEd College Admission Form - Help Guide
 ## Purpose
 This form is for individuals who wish to apply for admission to BEd College. It is a mandatory form that requires specific information from the applicant to evaluate their suitability for the program.

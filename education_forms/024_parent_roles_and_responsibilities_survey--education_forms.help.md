@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's education. It aims to gather insights into their roles and responsibilities related to the child's education. This form will be used internally to understand the dynamics of parental involvement and support. It is recommended to fill out this form only if you are a parent or guardian with direct involvement in your child's education.
-</thinking>
-
 # parent_roles_and_responsibilities_survey - Help Guide
 ## Purpose
 The form is designed to collect information from parents or guardians to understand their roles and responsibilities related to their child's education.

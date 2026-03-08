@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the availability and schedule of a lesson. This form is intended to provide a structured way to submit details about a lesson, including the teacher's name, the lesson's name, date, start and end times, maximum and minimum number of students, location, and any relevant tags. 
-This form is likely to be used by educators or administrators to plan and organize lessons, ensuring that they have a clear understanding of each lesson's availability and requirements.
-This form should only be filled out once per lesson, as it is not intended for duplication of effort.
-</thinking>
-
 # Lesson Availability Form - Help Guide
 ## Purpose
 The Lesson Availability Form is a structured way to submit details about a lesson, including its schedule and requirements. This information helps educators and administrators plan and organize lessons effectively.

@@ -1,7 +1,3 @@
-<thinking>
-The Pediatric Discharge Form is used to record information about a patient's visit to the pediatric care facility. This form is typically filled out by hospital staff after a patient has been discharged. The form helps to ensure that the necessary information is documented and communicated to the patient's caregivers. This form will only be relevant for patients who have been treated in a pediatric care facility and are being discharged. It's not intended for patients who have not been admitted or are still under observation. This form may be used in conjunction with other forms to ensure complete and accurate discharge information.
-</thinking>
-
 # Pediatric Discharge Form - Help Guide
 ## Purpose
 The Pediatric Discharge Form is used to document a patient's discharge from the hospital, ensuring that all necessary information is recorded and communicated to the patient's caregivers.

@@ -1,10 +1,3 @@
-<thinking>
-As a form designer and technical writer, my goal is to create a user-friendly help guide that effectively communicates the purpose and requirements of the "Student Empowerment Leadership Fellowship Application" form. I will ensure that the guide is clear, concise, and concrete, providing end-users with a smooth and efficient experience. I will also strive to explain each field accurately based on the provided YAML specifications, avoiding any assumptions or interpretations that may lead to confusion or miscommunication.
-
-The form purpose is to collect information from students applying for the Student Empowerment Leadership Fellowship. This guide aims to walk through the application process, explaining each field's purpose, type, and requirements to help students provide accurate and complete information.
-
-</thinking>
-
 # Student Empowerment Leadership Fellowship Application - Help Guide
 ## Purpose
 The Student Empowerment Leadership Fellowship Application form is designed to collect information from students applying for the Student Empowerment Leadership Fellowship program. This form will gather details about the students' background, interests, and qualifications for the fellowship.

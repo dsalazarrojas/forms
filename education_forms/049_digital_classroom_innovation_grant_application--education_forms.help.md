@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended to gather information for the Digital Classroom Innovation Grant application process. This grant application is for educational institutions to support innovative projects. To ensure that your project is eligible for the grant, please review the form carefully and fill it out accurately.
-</thinking>
-
 # Digital Classrom Innovation Grant Application - Help Guide
 ## Purpose
 This form is used to collect information for the Digital Classroom Innovation Grant application process. It will help us understand your project's details and assess its eligibility for funding.

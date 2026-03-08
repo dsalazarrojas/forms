@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the perceived impact of a curriculum on student values, likely for educational research or assessment purposes. This form is designed to gather information about the school, student, and curriculum aspects that contribute to student values. 
-Given the provided fields, it is unlikely that multiple forms would be created for the same school, and it would be redundant to have multiple forms for different schools. However, it's possible that this form could be used in different contexts such as assessing curriculum impact on various student values or across different school levels (e.g., high school, middle school, elementary school). 
-It's also worth noting that the form seems to focus on collecting data on student values and the curriculum's impact, but it doesn't explicitly mention the purpose of the survey rating field, which could be used for further qualitative feedback or ratings from the respondents.
-</thinking>
-
 # Curriculum Impact On Values Survey - Help Guide
 ## Purpose
 The Curriculum Impact On Values Survey is designed to understand how a curriculum affects student values such as honesty, hard work, respect, responsibility, creativity, and empathy. The survey aims to gather information about the school, curriculum area, school subjects, and student values.

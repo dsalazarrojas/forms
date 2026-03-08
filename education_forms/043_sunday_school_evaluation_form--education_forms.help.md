@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to create an evaluation form for Sunday school, allowing students, parents, and teachers to provide feedback and comments on a student's performance. This form is used to collect information about student attendance, participation, and academic progress. 
-
-The form is designed to be completed by students, parents, and teachers, and each field is optional, allowing users to provide as much or as little information as they feel necessary. 
-
-This form is intended to be used in educational settings where Sunday school attendance and participation is monitored. The form can be used to evaluate the effectiveness of the Sunday school program, identify areas for improvement, and provide a record of student progress.
-
-</thinking>
-
 # Sunday School Evaluation Form - Help Guide
 
 ## Purpose

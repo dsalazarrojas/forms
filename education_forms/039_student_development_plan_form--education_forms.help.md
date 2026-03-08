@@ -1,21 +1,3 @@
-<thinking>
-
-To determine the form's purpose and guide the user through its completion, I'll analyze the provided YAML fields. The form is called "Student Development Plan Form" which implies it is used to track a student's progress, goals, and development in a specific area. The form's fields seem to suggest that it is used to collect information about a student's:
-
-- Unique identifier (`student_id`)
-- Name (`name`)
-- Grade level (`grade_level`)
-- Area of focus (`subject_area`)
-- Academic year (`school_year`)
-- Goals and objectives (`goals`)
-- Comments or feedback (`comments`)
-- Who submitted the form (`submitted_by`)
-- Timestamp of submission (`submitted_at`)
-
-Considering the fields, this form likely aims to monitor students' progress, especially in their academic development in various subjects. It can be a tool for teachers, parents, or students themselves to set and track goals, monitor progress, and reflect on the student's growth.
-
-</thinking>
-
 # Student Development Plan Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather information on school safety measures and procedures in place to ensure student and staff safety. This form will likely be used by school administrators or facility managers to conduct regular safety inspections. To avoid duplication of efforts, please make sure the form is completed in a timely manner and that all required fields are filled.
-</thinking>
-
 # School Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information on school safety measures and procedures, enabling administrators to assess and evaluate the safety protocols in place.

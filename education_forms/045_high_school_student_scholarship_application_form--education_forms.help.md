@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and accurately, please review the form carefully before proceeding. This form is for high school students applying for a scholarship. The form asks for basic information about the student and their guardian or parent. Please provide accurate and complete information for the best chance of being considered for the scholarship. Make sure to fill in all required fields (indicated by the *) and provide any additional details requested in the optional fields.
-</thinking>
-
 # High School Student Scholarship Application Form - Help Guide
 ## Purpose
 The High School Student Scholarship Application Form is designed to help high school students apply for a scholarship to support their further education. The form gathers essential information about the student and their guardian or parent to ensure a fair evaluation of the scholarship application.

@@ -1,5 +1,3 @@
-<thinking>Before creating this form, we need to ensure that we have a clear understanding of its purpose and requirements. We also need to avoid duplication of effort, ensuring that the form is not being used for purposes other than its intended use. This form is designed to assess an individual's readiness for an animation career, evaluating their educational background, experience, and skills.</thinking>
-
 # Animation Career Readiness Assessment - Help Guide
 ## Purpose
 The Animation Career Readiness Assessment is designed to evaluate your suitability for an animation career. The form will guide you through a series of questions and prompts that will help you assess your educational background, experience, and skills.

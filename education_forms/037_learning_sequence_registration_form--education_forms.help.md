@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students, parents, or guardians. It appears to be used for educational purposes, likely for student registration or progress tracking. The form has various fields for personal details, academic information, and parental contact. The following guide will walk you through the process of completing the form.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic and enrollment information from students or their parents/guardians for educational institutions.

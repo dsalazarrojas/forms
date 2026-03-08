@@ -1,8 +1,3 @@
-<thinking>
-This form serves as a centralized platform for students to submit their admissions applications for various degree programs. It is designed to collect relevant information about the applicant, including demographic and educational details, academic background, and supporting documents.
-To ensure accuracy and consistency in the data collection process, please ensure that you have reviewed the entire form carefully before proceeding. If you have already applied or submitted a previous application, do not attempt to duplicate your application or submit incomplete/incorrect information.
-</thinking>
-
 # Admissions Application - Help Guide
 ## Purpose
 The Admissions Application form is a comprehensive platform for students to submit their applications for various degree programs at our institution. The form is designed to collect information about the applicant, including demographic details, educational background, and supporting documents.

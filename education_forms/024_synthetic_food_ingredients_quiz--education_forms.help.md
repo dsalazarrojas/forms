@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Synthetic Food Ingredients Quiz - Help Guide
 ## Purpose
 This form is designed to help users understand the basics of synthetic food ingredients, their effects on people, and their presence in food products. It is used to gather information and provide feedback on the topic.

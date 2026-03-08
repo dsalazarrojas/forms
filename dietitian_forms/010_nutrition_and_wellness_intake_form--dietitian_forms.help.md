@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users to help a healthcare professional or dietician understand their dietary needs and medical history. The form should only be filled out by users who have been referred by a healthcare professional or dietician. This form is designed to gather comprehensive information about the user's medical history, allergies, medications, and nutrition goals.
-</thinking>
-
 # Nutrition And Wellness Intake Form - Help Guide
 ## Purpose
 The Nutrition And Wellness Intake Form is designed to gather information from users to help healthcare professionals or dietitians understand their dietary needs and medical history.

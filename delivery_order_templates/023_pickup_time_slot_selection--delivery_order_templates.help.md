@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for selecting a pickup time slot for an order. The purpose of this form is to gather information from the user regarding their desired pickup time. This form will likely be used by customers or employees to communicate their availability for order pickup.
-
-This form should only be used when a customer is placing or managing an order, or when an employee is checking in a customer's order for pickup. It is not meant to be used in other scenarios such as when checking out or paying.
-
-Please fill out the form only once and only when it applies to you.
-
-</thinking>
-
 # Pickup Time Slot Selection - Help Guide
 ## Purpose
 This form is used for selecting a pickup time slot for an order.

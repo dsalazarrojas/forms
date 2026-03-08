@@ -1,9 +1,3 @@
-<thinking>
-Form "AI Technique Assessment" is used to evaluate and record an assessor's opinion on various AI techniques, such as transformer models and clustering, based on their understanding and application. This form will help assessors to rate their confidence in applying these techniques, provide feedback on their perceived complexity, and suggest resources for further learning. This form is designed to be completed by assessors who have had experience applying the techniques, and their feedback is used to provide valuable insights for others who will be learning these techniques.
-Before filling out this form, please make sure you have experience applying the techniques you are assessing. If you're unsure, it's okay to ask for guidance or clarification.
-This form is designed to be completed in a few steps, and each field has a specific purpose. Please follow the instructions below to complete the form efficiently and accurately.
-</thinking>
-
 # AI Technique Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess and record an assessor's opinion on various AI techniques, providing feedback on understanding, application, and complexity.

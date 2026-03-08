@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a knowledge quiz on Judaism, created using AI and public survey topic metadata as inspiration from the education category. It's an original adaptation that doesn't copy or use proprietary content from any other form platforms. The form is released under CC BY 4.0, allowing free use, modification, and even commercial use as long as credit is given.
-
-To check for relevance and non-duplication, I'll review the form's purpose, structure, and content. 
-
-*   The form appears to be relevant to the "education" category, which is a suitable topic for a knowledge quiz.
-*   The form's structure is clear and concise, with a logical progression from introduction to result and submission.
-*   The content seems to cover various aspects of Judaism, including education and the community, but some fields appear to be redundant or unnecessary.
-
-</thinking>
-
 # Judaism Knowledge Quiz - Help Guide
 
 ## Purpose

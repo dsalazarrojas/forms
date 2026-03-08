@@ -1,11 +1,3 @@
-<thinking>
-The purpose of a dental consent form is to obtain consent from patients to release their dental records to a third party, such as a new dentist or insurance provider. This form helps to ensure that the patient has given their informed consent for the transfer of their records. 
-
-Checking that the form is being used for its intended purpose and not being reused for other unrelated medical purposes is essential. To do this, you can check the form's ID and version to make sure it's the correct one for the relevant medical procedure. 
-
-The following guide helps the user fill out the form correctly.
-</thinking>
-
 # dental_record_release_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from patients to release their dental records to a third party.

@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect project submission information from users. This form is used for executive programs, which are likely a series of projects or initiatives that have been approved by the executive team. This form is likely used to track and manage these projects, and the submission process is a key part of that process... </thinking>
-
 # executive_program_project_submission - Help Guide
 ## Purpose
 This form is used to collect project submission information from users, specifically for executive programs.

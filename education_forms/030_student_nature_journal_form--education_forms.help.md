@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a student's nature observations, including the date and weather conditions observed, location, and any notes or comments made during the observation. This form is likely used in educational settings to document and record student behavior, interests, or skills in a naturalistic or observational manner. Before filling out this form, please ensure you are authorized to access and complete the form, and that you have permission to observe and record student data. Additionally, if you have previously completed this form, ensure you have reviewed and understand the changes or updates made to the form before filling it out again.
-</thinking>
 # Student Nature Journal Form - Help Guide
 ## Purpose
 The Student Nature Journal Form is a document used to record and observe student behavior, interests, or skills in an educational setting.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for orders for spirit wear items. It captures the customer's contact details, order details, and payment information. The form is designed to be completed by customers who want to place an order for spirit wear items.
-
-Before filling out this form, ensure that you are not duplicating an existing order, and that you have a clear understanding of the product and the ordering process.
-
-Please note that some fields are mandatory, marked as "required", and failure to fill them out may result in errors or delayed processing of your order. 
-
-</thinking>
-
 # Spirit Wear Order Form - Help Guide
 ## Purpose
 The Spirit Wear Order Form is designed to collect order details from customers who want to purchase spirit wear items. 

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Student Survey form is relevant and not duplicated by checking with the end-users that it's intended use is for student feedback and that they understand the form's purpose, which is to gather information about their experience and needs. We need to explain the form's purpose clearly and concisely, and provide a step-by-step guide on how to complete it. This includes explaining each field and its intended use.
-</thinking>
-
 # Student Survey - Help Guide
 ## Purpose
 This student survey is designed to gather feedback from students on their experience and needs in the educational environment. The information collected will help us understand areas of improvement and provide better support to students.

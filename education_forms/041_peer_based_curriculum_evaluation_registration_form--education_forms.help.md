@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from peers for the evaluation of a curriculum. The form is meant to be completed by individuals who have reviewed a curriculum and are providing feedback on its quality and effectiveness. The form is used to gather information on the reviewer's name, institution, and contact information, as well as the curriculum title, evaluation date, and evaluation time.
-
-To ensure that the form is completed correctly, please note that:
-
-* The form is not intended for internal use within an institution, so please do not enter your internal institutional ID or other internal contact information.
-* The form is meant for peer-to-peer evaluation, so please be honest and objective in your feedback.
-* The form is intended for the evaluation of a curriculum, so please be specific about what you are evaluating.
-
-</thinking>
-
 # Peer Based Curriculum Evaluation Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from peers who have reviewed a curriculum. The information collected will help improve the quality and effectiveness of the curriculum.

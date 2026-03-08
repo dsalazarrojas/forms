@@ -1,9 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I've reviewed the provided YAML structure and have crafted a user-facing help guide for the "Co Curricular Participation Documentation" form. This form is designed to collect information about a student's co-curricular activities, allowing the school to better understand their participation and engagement in various programs. This guide will walk users through the form's purpose, how to complete it, and provide explanations for each field.
-
-</thinking>
-
 # Co Curricular Participation Documentation - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a student's co-curricular activities, such as sports, arts, and academic clubs, to help the school track their participation and engagement in these programs. This information is used to monitor student involvement and provide insight into the student's development and growth.

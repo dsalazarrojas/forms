@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Functional Communication IEP Goal Tracking Form", we first need to understand its purpose. This form is designed to help track and monitor a student's progress in achieving their functional communication goals. The goal is to provide a way to collect data on student's functional communication skills, such as how often they communicate with others, and what notes are taken during sessions. By tracking this information, educators can better understand the student's progress and provide targeted support. 
-
-We should also check if this form is being used for its intended purpose and not for other unrelated purposes, such as tracking student attendance or grades. This guide should be a one-time creation, and not a continuously updated document.
-
-</thinking>
-
 # Functional Communication IEP Goal Tracking Form - Help Guide
 ## Purpose
 The Functional Communication IEP Goal Tracking Form is a tool used to monitor and track a student's progress in achieving their functional communication goals. 

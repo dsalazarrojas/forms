@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you complete the E Commerce Website Evaluation Checklist form. The form is designed to evaluate an e-commerce website by collecting information about its key features, such as the website's design, navigation, and overall experience.
-
-Before filling out the form, please review the following fields and their respective labels, as some fields may be self-explanatory while others require a more in-depth explanation.
-
-</thinking>
-
 # E Commerce Website Evaluation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on an e-commerce website's user experience, design, and overall quality. The data collected will be used to identify areas of improvement and optimize the website for better performance.

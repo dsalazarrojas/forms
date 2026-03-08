@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I must first understand the purpose and context of the form. The provided YAML file suggests that the form is designed to gather information about students' technology habits and preferences. It includes questions about devices used at home, primary device used, screen time, favorite applications, internet sources, and other related topics. 
-
-Before proceeding, let me confirm that this form is intended for students to report their personal technology habits and that there are no other forms with similar purposes in the system.
-
-</thinking>
-
 # Student Technology Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who want to make a donation to support reforestation efforts. This form is designed to gather basic contact information, project details, and payment information from donors. The form will not collect any sensitive or personal data. It is intended to be completed by individuals who are making a donation, not for organizations or companies.
-The form does not need to be completed if you are:
-  - A returning donor (we may have your information on file).
-  - A staff member or volunteer (you should be using your work login).
-</thinking>
-
 # Reforestation Donation Form - Help Guide
 ## Purpose
 The Reforestation Donation Form is used to collect information from individuals who want to make a donation to support reforestation efforts.

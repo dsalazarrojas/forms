@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "The Little Scholars Application Form" is to collect information from students and their families regarding their enrollment into the program at The Little Scholars, a prestigious learning institution. 
-This form will help us gather relevant and required data to verify student identity and contact details, ensuring a smooth onboarding process for new students.
-</thinking>
-
 # The Little Scholars Application Form - Help Guide
 ## Purpose
 The purpose of this form is to provide necessary information for the enrollment process of new students into The Little Scholars program. 

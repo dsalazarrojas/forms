@@ -1,5 +1,3 @@
-<thinking>This form is intended for users to provide order information in a financial setting. This includes personal details such as name and email, as well as specific order-related information like shipping address, fin type, color, and size. The form will be used to gather data for a financial order, and the fields must be filled in accordingly.</thinking>
-
 # Fin Order Form - Help Guide
 ## Purpose
 The Fin Order Form is used to collect information for a financial order. This form is designed to gather personal details and specific order-related information to facilitate the order process.

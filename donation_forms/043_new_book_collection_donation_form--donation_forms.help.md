@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations that want to donate books to the library's collection. The purpose of the form is to gather relevant information about the donor and the book they wish to donate. The form is meant to be completed by the donor themselves, and the information collected will be used to process the donation and ensure that the book is properly cataloged and made available to the library's patrons. To ensure that the correct information is collected, please review the following fields carefully before submitting the form.
-
-</thinking>
-
 # New Book Collection Donation Form - Help Guide
 ## Purpose
 The New Book Collection Donation Form is used to gather information from donors who wish to contribute books to the library's collection.

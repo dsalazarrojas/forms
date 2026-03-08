@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block to understand the form purpose and relevance</thinking>
-
 The form is for declaring the presence of a prophet or a person in a specific event or location. It seems to be a form used by authorities or officials to track and record the attendance and activities of individuals at specific events or locations. The form is likely used in a security or administrative context.
 
 </thinking>

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess the style of a design project, likely for a fashion or interior design context. The purpose of this form is to collect information about the design's aesthetic, functionality, and overall appeal. It's likely used in a business setting to evaluate and improve design quality or to gather feedback from customers. The form asks questions to gauge the respondent's opinions on various aspects of the design, such as the color palette, material selection, and overall style.
-
-Please consider the following when filling out this form:
-
-* Make sure to answer based on your genuine opinions and perceptions of the design.
-* Be as specific as possible when describing your thoughts and feelings.
-* If a question asks for a numerical value, try to provide a number that best represents your opinion.
-
-Please note that this form is designed to be completed by one person at a time, and the questions are meant to be answered from the perspective of that individual.
-
-Before starting, make sure to review the entire form to ensure you have enough time to complete it accurately.
-
-</thinking>
-
 # premier_designs_style_quiz - Help Guide
 ## Purpose
 The premier_designs_style_quiz is a form designed to gather information about a design project's aesthetic and functional aspects.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete a form related to the American Civil War. This guide will walk you through the process of filling out the "Civil War Map Worksheet" form, which is an educational tool designed to analyze the geographical and historical context of the Civil War. The form aims to gather information about student and class details, and then guide users through a series of questions related to the map analysis, such as identifying Union and Confederate states, understanding the significance of the Mississippi River, and analyzing the Battle of Gettysburg. This guide will cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section.
-
-</thinking>
-
 # Civil War Map Worksheet - Help Guide
 ## Purpose
 The "Civil War Map Worksheet" form is an educational tool designed to help students analyze the geographical and historical context of the Civil War. It is intended to be completed by students and teachers to gather information about student and class details, and then guide users through a series of questions related to the map analysis.

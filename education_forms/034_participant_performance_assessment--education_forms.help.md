@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for performance assessment, including demographic data, contact details, and managerial data. This form is likely used in an educational setting to assess participant performance and gather relevant data for analysis. It's essential to ensure that all relevant data is collected correctly to avoid duplication and to understand participant characteristics. Please review the form carefully to understand the importance of each field and ensure you're providing accurate information.
-</thinking>
-
 # Participant Performance Assessment - Help Guide
 ## Purpose
 The Participant Performance Assessment form is designed to collect demographic and contact information for participants in an educational setting. This form is used to assess participant performance and gather data for analysis.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about a customer's purchase history in the e-commerce platform. The form will help us verify the customer's claim and process their request. 
-Please ensure this form is only submitted for genuine claims, avoid submission of duplicate claims as this will cause unnecessary workload for our team. Please fill in your details carefully and accurately to ensure a smooth processing. 
-</thinking>
-
 # E Commerce Claim Form - Help Guide
 ## Purpose
 The E Commerce Claim Form is designed to collect information from customers who are making claims about their purchases on our e-commerce platform. This form helps to verify the customer's claim and process their request efficiently.

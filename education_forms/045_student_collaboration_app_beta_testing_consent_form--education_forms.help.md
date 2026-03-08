@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover all aspects of the "Student Collaboration App Beta Testing Consent Form".
 
 ## Student Collaboration App Beta Testing Consent Form - Help Guide

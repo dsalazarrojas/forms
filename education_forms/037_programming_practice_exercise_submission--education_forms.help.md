@@ -1,20 +1,3 @@
-<thinking>Internal notes:
-- The form is used to record and track submissions for programming practice exercises.
-- Submissions are for internal use only.
-- The form is not meant for public access.
-- The form fields should be filled out accordingly.
-- The exercise solution is optional but recommended.
-- The feedback is also optional but can be useful for further review.
-- The mentor comments are optional but help with assessment.
-- The solution status should be set to Active or Inactive depending on the submission validity.
-- The submission id, exercise name, user id, and submission date should be filled out to maintain record accuracy.
-- The options for Solution status and Submission id are set to Active and Yes, respectively, by default, so users should choose a different option if necessary.
-- The user should make sure to input the correct exercise name to avoid submission misalignment.
-- Submissions can be used for internal review and assessment by mentors.
-- There's no limit to the length of the exercise solution and feedback.
-- Submissions can be reviewed by anyone with access, but the user should be aware that their submission can be viewed by their peers and mentors.
-</thinking>
-
 # programming_practice_exercise_submission - Help Guide
 ## Purpose
 The "programming_practice_exercise_submission" form is used to record and track submissions for programming practice exercises. This form is intended for internal use and should not be accessed by external users. It helps maintain accurate records of exercise solutions, feedback, and mentor comments.

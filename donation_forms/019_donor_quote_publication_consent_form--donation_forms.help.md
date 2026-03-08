@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain consent from donors for the publication of quotes or testimonials they have provided. The form is designed to be completed by the donor, who must indicate whether they consent to the publication of their quote and if they have signed the permission. The form will help to ensure that donors are aware of and agree to the terms of publication, and that their quotes are used in accordance with their preferences.
 
 # Donor Quote Publication Consent Form - Help Guide

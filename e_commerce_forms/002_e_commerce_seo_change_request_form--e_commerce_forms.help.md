@@ -1,7 +1,3 @@
-<thinking>Before diving into the help guide, let's clarify the purpose and requirements of this form. This form is designed to gather information for E Commerce SEO change requests. The form asks users to submit their requests to update or modify E Commerce-related SEO settings. This form is intended for authorized personnel to track and manage these requests effectively. It is crucial that users fill out this form accurately to ensure that changes are properly assessed and implemented.
-
-When filling out this form, please note that submitting multiple requests at once is an option, which is indicated by the label "Submit Request" being a multi-select field.</thinking>
-
 # E Commerce SEO Change Request Form - Help Guide
 ## Purpose
 This form is intended for E Commerce SEO change requests. It's designed to help authorized personnel track and manage these requests effectively.

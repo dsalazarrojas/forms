@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for the purpose of discharging divorce proceedings. It gathers information about the spouses involved, their addresses, dates of birth, and other relevant details. Please ensure that the form is used in accordance with applicable laws and regulations in your jurisdiction. The form is not intended to be a substitute for professional legal advice or a court document. If you are unsure about the purpose or usage of this form, please consult with a qualified legal expert.
-</thinking>
-
 # Divorce Proceedings Discharge Form - Help Guide
 
 ## Purpose

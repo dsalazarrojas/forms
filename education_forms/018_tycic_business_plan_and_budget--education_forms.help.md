@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information for a business plan and budget for a user, likely for an educational project or assignment. The purpose of this form is to gather essential details from the user such as their user name, business name, idea, budget, date, time, and other relevant project specifics like category, school year, project description, and other subjective assessments like usefulness and make up. This form is probably used in an academic setting and is meant to guide students in creating a comprehensive plan and budget for their business project. To avoid duplication of effort, it's essential to fill out this form carefully and accurately, as it is intended to be a one-time submission. </thinking>
-
 # Tycic Business Plan And Budget - Help Guide
 ## Purpose
 This form is used to collect information for a business plan and budget for a user, likely in an academic setting. 

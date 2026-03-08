@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the level of technical knowledge about Additive Manufacturing (AM) among users. It is essential to have a clear understanding of this technology to determine its potential applications and limitations in various industries. This form will help assess the knowledge of users at different levels, from beginner to expert, and provide a benchmark for future reference. It is not intended for non-technical users or those who are completely new to the subject. Please ensure that you answer the questions honestly, and do not skip any of the questions as they are all relevant to the topic.
-</thinking>
-
 # Additive Manufacturing Knowledge Quiz - Help Guide
 
 ## Purpose

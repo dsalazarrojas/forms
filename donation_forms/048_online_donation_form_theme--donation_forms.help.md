@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect online donations for events. It is used for events where users need to submit their information to participate or show interest. This form is part of the donation form category and is designed for users who want to participate in online events. 
-The main goal of this form is to collect information about the event and the donor. The form has fields to enter the event name, description, date, and time. It also has fields to capture donor information such as name, email, phone number, and donation amount. Additionally, it includes fields for payment details and method description. 
-</thinking>
-
 # Online Donation Form Theme - Help Guide
 ## Purpose
 The Online Donation Form Theme is designed to collect information for online event donations.

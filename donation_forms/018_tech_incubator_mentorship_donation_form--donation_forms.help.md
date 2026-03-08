@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations for the Tech Incubator Mentorship program. It is a tool for individuals to contribute to the program's goals of providing mentorship and support to tech startups and entrepreneurs. Before proceeding, please note that this form is for one-time or recurring donations, and it requires a valid email address for confirmation and follow-up information. Ensure that you have reviewed the terms and conditions before submitting your donation. If you have already filled out this form in the past, please do not submit it again as your information will not be recorded.
-</thinking>
-
 # Tech Incubator Mentorship Donation Form - Help Guide
 ## Purpose
 The Tech Incubator Mentorship Donation Form is designed to collect donations for the Tech Incubator Mentorship program, providing a platform for individuals to contribute to the program's mission of supporting tech startups and entrepreneurs.

@@ -1,13 +1,3 @@
-<thinking>
-This is a form for enrolling in a diesel engine welding course. It is used to capture student information for course registration. 
-
-Before proceeding, ensure that you are enrolling in the correct course and that you have all necessary information. 
-
-To avoid errors, please ensure that you are entering correct dates in the correct format and that the student is active in the system.
-
-If you have already been enrolled in this course, the form will not be able to be submitted and you will have to contact the system administrator for further assistance.
-</thinking>
-
 # diesel_engine_wiring_course_enrollment_form - Help Guide
 ## Purpose
 This form is used to enroll in a diesel engine welding course.

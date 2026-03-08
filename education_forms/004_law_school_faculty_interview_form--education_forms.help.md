@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for internal purposes within an educational institution to facilitate the evaluation and feedback process for potential faculty members during the interview process. The form might be used by hiring managers or other relevant personnel to collect information and opinions from interviewers and interviewees. To ensure relevance, it's essential to understand that this form is not affiliated with any specific survey or form platform and was generated based on public metadata. This guide will help users understand the purpose and structure of the form for effective completion.
-</thinking>
-
 # law_school_faculty_interview_form - Help Guide
 ## Purpose
 This form is designed to collect information and feedback from potential faculty members during the interview process. It aims to gather details about faculty information, contact details, evaluations, and feedback comments. The form is likely used for internal evaluation and improvement purposes.

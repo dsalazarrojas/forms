@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Director Recommendation Form" is a document used to formalize and document director recommendations made by the organization to students or professionals for future career opportunities. This form is typically completed by the organization's personnel to verify and provide information about the recommended individual's qualifications and abilities. 
 
 **Director Recommendation Form - Help Guide**

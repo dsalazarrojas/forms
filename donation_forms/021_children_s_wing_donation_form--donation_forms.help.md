@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Children Wing Donation Form. The form is used for collecting donations from individuals or organizations for the Children Wing, a charitable program that supports the well-being of children. The form is designed to gather essential information for donation processing and receipting. To ensure accurate and timely processing, it's essential to complete the form correctly. Please review each field carefully and ensure the information provided is accurate and complete. Note that some fields may be optional, but providing incorrect or incomplete information can lead to delays or issues with the donation process. Before proceeding, please review the form carefully to avoid any potential issues. </thinking>
-
 # Children Wing Donation Form - Help Guide
 ## Purpose
 The Children Wing Donation Form is used to collect donations from individuals or organizations for the benefit of the Children Wing, a charitable program that supports the well-being of children.

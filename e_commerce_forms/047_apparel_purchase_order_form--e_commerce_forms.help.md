@@ -1,8 +1,3 @@
-<thinking>
-We need to confirm that this form is for creating or updating a purchase order related to apparel sales. Before we begin, we should also check if there is another form for this purpose to avoid duplication of work.
-
-This form is intended to gather information for buyer and seller interactions, payment terms, and order delivery requirements. The form fields seem to be well-suited for this purpose and no other form has this specific configuration in the current catalog.</thinking>
-
 # Apparel Purchase Order Form - Help Guide
 ## Purpose
 The Apparel Purchase Order Form is designed to collect information required for apparel sales. This includes buyer details, order specifications, payment terms, and delivery instructions.

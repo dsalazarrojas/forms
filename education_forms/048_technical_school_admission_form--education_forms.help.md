@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students and parents for the purpose of enrolling a student in a technical school. The purpose of this form is to gather necessary details such as student and parents' contact information, student's grade level, and other relevant details for the enrollment process. The form will guide the student and parent through the process of filling out the required fields, ensuring that all necessary information is collected correctly and accurately.
-</thinking>
-
 # Technical School Admission Form - Help Guide
 
 ## Purpose

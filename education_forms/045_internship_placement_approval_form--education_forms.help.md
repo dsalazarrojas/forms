@@ -1,10 +1,3 @@
-<thinking> 
-To create an efficient help guide for this form, we'll first consider the internal reasoning behind its purpose and the fields it contains. This guide will help ensure that end users understand how to use the form correctly, which should lead to fewer submissions with missing information or errors.
- 
-This form appears to be used for internship placement purposes, likely to track and validate information about students' work placements during their academic or career development. Each field is categorized into two main categories: student information and job details. This separation makes sense since these are distinct aspects of the internship.
- 
-</thinking>
-
 # Internship Placement Approval Form - Help Guide
 ## Purpose
 The Internship Placement Approval Form is used to collect and validate information about students' internship placements. This form is a critical part of managing and tracking internship placements, ensuring all necessary details are captured correctly for future reference and reporting.

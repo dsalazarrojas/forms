@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers to request delivery coordination with stores. It is meant to be used by customers who need assistance with receiving or sending goods. The form is divided into two pages with different sections, one for the main information and another for additional details. It is not intended for duplicate submissions, so please ensure you only fill it out once for each delivery request.
-
-The fields provided in the form should be filled out according to the following guidelines. 
-
-This guide is to be used by the customer/end-user to help them understand the purpose and usage of the form, ensuring they fill it out correctly.
-</thinking>
 # Cross Store Delivery Coordination Contact Form - Help Guide
 ## Purpose
 This form is used for customers to request delivery coordination with stores for receiving or sending goods.

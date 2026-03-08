@@ -1,14 +1,3 @@
-<thinking>
-The Higher Education Leadership Fellowship Application Form is designed to capture relevant information from applicants interested in participating in the Higher Education Leadership Fellowship program. This form is intended for individuals who have not previously applied for the fellowship, to avoid duplication of effort and to ensure that applications are considered fairly and equally.
-
-The form is a single page with multiple sections, each focusing on a specific aspect of the applicant's background and experience. The required fields are marked as "required" and are crucial for the evaluation process. Non-required fields are optional and can provide additional context, but are not mandatory for the application.
-
-Please note that the form does not include fields for upload or file upload, which means that applicants will not be able to attach supporting documents or files to their application.
-
-Before starting the application process, make sure to have all the necessary information ready, especially the required fields. It is also a good idea to review the form carefully and ensure that you have answered all the questions accurately.
-
-</thinking>
-
 # Higher Education Leadership Fellowship Application Form - Help Guide
 
 ## Purpose

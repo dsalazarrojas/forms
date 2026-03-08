@@ -1,6 +1,3 @@
-<thinking> 
-Please ensure this form is only used for updating Muet Results and that you have the necessary permissions to do so. Also, please do not submit duplicate updates to the system as it can cause data inconsistencies. The following form is used for updating Muet results for individual students. Please fill it out carefully and accurately to ensure that the updates are reflected correctly in the system.</thinking>
-
 # Muet Results Update Form - Help Guide
 
 ## Purpose

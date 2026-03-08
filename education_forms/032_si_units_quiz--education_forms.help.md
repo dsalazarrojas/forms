@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to help users test their knowledge of SI units. The form asks users to select and enter various SI units and their symbols. The purpose of this form is to assess the user's understanding of the SI system and its components. To ensure accurate completion, users should familiarize themselves with the SI units and their definitions. 
-
-This form has been designed with the following fields to be filled out:
-- **Base Units**: This section asks users to select from a list of base SI units, such as Meter, Kilogram, and Ampere.
-- **Derived Units**: This section asks users to select from a list of derived SI units, such as Joule, Newton, and Watt.
-- **Unit Symbols**: This section asks users to select from a list of SI unit symbols, such as m, kg, and °C.
-- **Prefixes**: This section asks users to select from a list of SI prefixes, such as mega, giga, and micro.
-- **Base SI Unit**: This field asks users to enter a base SI unit.
-- **Derived SI Unit**: This field asks users to enter a derived SI unit.
-- **SI Prefix**: This field asks users to enter an SI prefix.
-- **SI Symbol**: This field asks users to enter an SI symbol.
-- **Derived Units 2**: This section asks users to select from a list of derived units.
-- **Base Symbols**: This section asks users to select from a list of base SI unit symbols.
-- **SI Base Quantity**: This field asks users to enter an SI base quantity.
-
-Please review the form fields carefully before starting the quiz. Each field has been carefully crafted to ensure accurate and fair assessment of your knowledge.
-</thinking>
-
 # SI Units Quiz - Help Guide
 ## Purpose
 This form is designed to help users test their knowledge of SI units.

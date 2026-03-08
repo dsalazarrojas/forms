@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from truck drivers, focusing on their personal details, vehicle information, driving history, and performance. This form is intended for internal use within an organization and is not affiliated with any form creation platform. The form was generated using a combination of public survey topic metadata (truck driver evaluation) and industry category (transportation/logistics). It does not contain any proprietary content from other form platforms. The form's purpose is to collect comprehensive data about truck drivers for evaluation and performance assessment. This form should only be used by authorized personnel within the organization and not for external purposes.
-</thinking>
-
 # Truck Driver Evaluation Form - Help Guide
 
 ## Purpose

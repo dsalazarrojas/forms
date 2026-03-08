@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information from attendees of a legal seminar. The form is meant to gather data on the attendee's personal details (first name, last name, email, phone number), professional details (company name), and seminar-specific information (seminar title, date, time, address, registration date, and who registered them). The form is not intended to collect sensitive or confidential information.
-
-Before proceeding, ensure that the form is not already completed for the same attendee. If it is, please do not re-complete it. This form is meant for new registrants only.
-
-</thinking>
 # legal_seminar_attendance_form - Help Guide
 ## Purpose
 The legal seminar attendance form is used to capture information from attendees of a legal seminar. This form is necessary for registration and follow-up purposes.

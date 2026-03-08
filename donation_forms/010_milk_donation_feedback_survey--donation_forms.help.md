@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from milk donors, which will help the organization to identify areas of improvement in their milk donation system and processes. 
-The main goal is to gather data on individual donors' experiences, including their satisfaction with the process, quality of milk collected, and any potential issues encountered. 
-This data will help the organization optimize its milk collection and distribution system.
-It's crucial to fill out the form completely and honestly, as the feedback provided will directly contribute to the improvement of the milk donation program.
-Please make sure to fill out the form carefully, and only select options that apply to your experiences.
-</thinking>
-
 # Milk Donation Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from milk donors, which will help us identify areas of improvement in our milk donation system and processes. We want to hear about your experiences, so we can make the process better for you and other donors.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students and staff plan their academic and professional development in relation to graduation. It is meant to be filled out by students to provide a clear plan for their graduation process, including their expected graduation year, academic program, and major. This form is used to gather information for administrative and academic planning purposes.
-</thinking>
-
 # Personal Graduation Planning Form - Help Guide
 ## Purpose
 The Personal Graduation Planning Form is a tool for students to outline their academic and professional goals, plans, and objectives for their graduation. It helps students and staff track and achieve these goals.

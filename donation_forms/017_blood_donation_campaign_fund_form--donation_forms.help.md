@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from blood donation campaign contributors, allowing them to donate in various ways, such as one-time, monthly, or annual donations. The form is intended for individuals and organizations to support a campaign that promotes blood donation, with the goal of saving lives. The form should be filled out by those who wish to contribute to the campaign, either personally or on behalf of their company. It is essential to provide accurate and complete information to ensure that the donation is processed correctly. Please review the form carefully before filling it out to avoid any confusion or duplication of efforts.</thinking>
-
 # Blood Donation Campaign Fund Form - Help Guide
 ## Purpose
 The Blood Donation Campaign Fund Form is designed to collect information from individuals and organizations interested in supporting a blood donation campaign. This form will guide you through the process of making a donation, allowing you to choose the donation method, amount, and frequency that suits you best.

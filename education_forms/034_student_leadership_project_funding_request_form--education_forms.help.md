@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students for their leadership project funding requests. The form is a way for students to submit their project proposals, which will be reviewed and approved by the funding committee. The form is meant to be filled out by the student lead or contact person for the project, providing all necessary details about the project, including funding requests, timelines, and contact information. Please ensure that you have the necessary permissions and approvals within your institution before submitting this form.
-
-</thinking>
-
 # Student Leadership Project Funding Request Form - Help Guide
 ## Purpose
 This form is used to gather information for student leadership project funding requests. It helps the funding committee review and evaluate the projects.

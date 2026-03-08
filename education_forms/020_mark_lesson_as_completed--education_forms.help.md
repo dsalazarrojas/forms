@@ -1,7 +1,3 @@
-<thinking>
-A form that allows users to mark lessons as completed is a common feature in educational settings where instructors need to keep track of student progress. This form should help ensure that users only complete it for lessons that have already occurred or are in the future, and not for lessons that are currently active or scheduled. The form should be filled out for lessons marked as "Active" or "No" to provide an update on the lesson completion status.
-</thinking>
-
 # Mark Lesson As Completed - Help Guide
 
 ## Purpose

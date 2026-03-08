@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Science Fair Judging Form - Help Guide
 
 ### Purpose

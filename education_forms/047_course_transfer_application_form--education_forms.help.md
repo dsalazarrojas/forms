@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for students to submit applications for course transfers. The form is meant for students to provide necessary information to be considered for transferring to a different course in the university. Please note that this form should not be used for other purposes and is intended for students who are already enrolled in a course. This form will help us to verify the student's intention and ensure that all relevant information is collected correctly.
-
-The form should not be completed if the student is not already enrolled in a course and is attempting to register for a course that is not currently open. The form should be used only for students who want to transfer to a different course and are meeting the course's prerequisites and requirements. If the student is not sure about any of the fields, they can reach out to their academic advisor for guidance.
-
-Please make sure to fill out the form carefully and honestly. If you are not a student or do not meet the requirements, please do not submit this form.
-
-</thinking>
-
 # Course Transfer Application Form - Help Guide
 
 ## Purpose

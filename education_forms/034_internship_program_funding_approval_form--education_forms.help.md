@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended for users who want to understand and complete the internship program funding approval form. The form is used to gather information and approve funding for internship programs. To complete this form, users should ensure that all required fields are filled in accurately and completely. This form is used to request funding for internship programs, and it is intended to be used by students, faculty, and department administrators. It is essential to ensure that the information provided is accurate and complete to avoid delays or rejections of funding requests.
-
-Before completing this form, please ensure that you have all the necessary information and approvals before proceeding. It is also a good idea to review the form carefully to avoid any errors or omissions.
-
-This form is used to request funding for internship programs, and it is divided into several sections. Please follow the instructions below to complete the form accurately.
-
-</thinking>
-
 # internship_program_funding_approval_form - Help Guide
 ## Purpose
 

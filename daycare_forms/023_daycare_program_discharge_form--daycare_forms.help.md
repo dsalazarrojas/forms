@@ -1,12 +1,3 @@
-<thinking>
-This form is for use by daycare centers to collect information when a child is being discharged from their care. This form is intended to gather necessary details about the child's status at the time of discharge, including the date, reason, and contact information of the caregiver and daycare staff. 
-
-This form may be used to ensure that the necessary steps for a smooth transition are followed and to maintain accurate records of the child's attendance. The form is not designed to be completed by the caregiver or parent; rather, it is intended for use by the daycare staff to document the discharge process. 
-
-To use this form, daycare staff will select the date of discharge, explain the reason for discharge, and provide contact information for the caregiver and daycare. They will also indicate the discharge status of the child and the daycare name and contact information. If additional comments or notes are necessary, they can be recorded in the "Comments" field.
-
-The following sections of the form are for collection of information, and the user should ensure they accurately complete each one according to the instructions provided.</thinking>
-
 # Daycare Program Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge process of a child from a daycare program.

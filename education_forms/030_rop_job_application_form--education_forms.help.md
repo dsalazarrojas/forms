@@ -1,7 +1,3 @@
-<thinking> 
-The "Rop Job Application Form" is designed for job seekers to provide information about themselves and their qualifications to potential employers. This form is typically used in academic or research settings to gather data from students or researchers applying for jobs or internships. The purpose of the form is to streamline the application process, making it easier for employers to assess candidates' qualifications and fit for the position. Before starting, please ensure that you have not already submitted this form for the same job opportunity, as duplicate applications may cause confusion or lead to missed opportunities. If you're unsure about any field or have questions, please contact the relevant department or person listed on the job posting.
-</thinking>
-
 # Rop Job Application Form - Help Guide
 ## Purpose
 The "Rop Job Application Form" is a tool used to collect information from job seekers, typically in academic or research settings. It helps employers assess candidates' qualifications and fit for a position.

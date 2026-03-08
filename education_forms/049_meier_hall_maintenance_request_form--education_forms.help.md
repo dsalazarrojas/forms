@@ -1,9 +1,3 @@
-<thinking>
-This form is for requesting maintenance for Meier Hall. It is intended for individuals to report any issues they have with the facility. This form should not be used for general feedback or suggestions, but rather for specific maintenance needs.
-The form is meant to be filled out by anyone who wishes to report a problem with Meier Hall, regardless of their position or affiliation with the institution.
-Before submitting the form, please ensure you have read and understood the information below.
-</thinking>
-
 # meier-hall-maintenance-request-form - Help Guide
 ## Purpose
 The Meier Hall Maintenance Request Form is a tool for reporting any issues or concerns with the Meier Hall facility. This form helps facility management to track and address maintenance requests promptly.

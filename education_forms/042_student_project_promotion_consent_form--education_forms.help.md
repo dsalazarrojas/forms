@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Project Promotion Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from students and their guardians for the promotion and potential use of a student's project in a specific context. This form ensures that both the student and their guardian are aware of and agree to the terms of the promotion, including how the project will be used and shared.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of attaching files to a specific context, such as a support request or an order. The form is composed of 6 fields that gather personal and attachment details. The form requires the user to fill in their first and last name, which is a required field to establish their identity. The attachment type field is a selection of predefined types, and the email and phone fields are optional for additional contact information. Please review the form fields below to ensure you are entering accurate and complete information. 
-
-</thinking>
-
 # File Attachment Form - Help Guide
 ## Purpose
 The File Attachment Form is a data collection tool designed to gather personal and attachment details. It is intended for users to provide information and attach files to a specific context, such as a support request or an order.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data for a math quiz related to functions, specifically asking users to select their function type and answer multiple-choice questions regarding the domain, range, graph, equation, value, derivative, and other attributes of these functions. The purpose of this form is to assess users' understanding of various functions and their properties. To ensure the form is used correctly, let's review the fields and their labels to verify they align with the intended use case and avoid duplication of effort.
-</thinking>
-
 # Functions Math Quiz - Help Guide
 ## Purpose
 This form is a quiz to assess your knowledge of different types of functions and their properties.

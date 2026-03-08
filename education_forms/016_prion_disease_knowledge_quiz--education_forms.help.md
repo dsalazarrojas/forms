@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge about prion disease, a type of infectious agent that can be transmitted through contaminated food, water, or other sources. It is essential to understand how to properly fill out this form to ensure that your responses are accurately recorded and can be used to improve public health surveillance. Please make sure to fill out this form completely and accurately, as it will be used to track your knowledge and understanding of prion disease. This form should only be filled out once, as repeat submissions may cause duplication of records.
-</thinking>
-
 # Prion Disease Knowledge Quiz - Help Guide
 ## Purpose
 The Prion Disease Knowledge Quiz is designed to assess your understanding of prion disease, a type of infectious agent that can be transmitted through contaminated food, water, or other sources.

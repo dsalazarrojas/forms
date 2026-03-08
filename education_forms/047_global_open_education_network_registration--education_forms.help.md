@@ -1,8 +1,3 @@
-<thinking>
-The Global Open Education Network Registration form is designed to gather information from users who are interested in becoming a member of the Global Open Education Network. The form is intended to capture the essential details about the user, including their member details, interests, consent to participate, email address, and phone number. The purpose of this form is to ensure that the user has a clear understanding of their role and responsibilities as a member of the Global Open Education Network. The fields in this form are designed to be completed by the user with the utmost care and attention to detail. Before proceeding, please take a moment to review the following instructions and explanations to ensure that you are familiar with the form and its requirements.
-
-</thinking>
-
 # Global Open Education Network Registration - Help Guide
 ## Purpose
 The Global Open Education Network Registration form is designed to gather information from users who are interested in becoming a member of the Global Open Education Network. The purpose of this form is to capture the essential details about the user and ensure that they have a clear understanding of their role and responsibilities as a member of the Global Open Education Network.

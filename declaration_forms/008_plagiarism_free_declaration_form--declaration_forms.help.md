@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Plagiarism Free Declaration Form - Help Guide
 
 ## Purpose

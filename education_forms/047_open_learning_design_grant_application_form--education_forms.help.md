@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Open Learning Design Grant Application Form - Help Guide
 
 ### Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from teachers to request donations for their school or department. The form allows teachers to provide their name, teacher ID, requested amount, reason for the request, contact information, and any additional notes. This form is used to facilitate the process of requesting donations from teachers who are not able to purchase necessary materials or resources on their own. It is recommended to review the form carefully and provide accurate information to ensure that your request is processed efficiently.
 
 </thinking>

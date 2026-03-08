@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a participant's learning preferences and habits. This information will be used to help us better understand how people learn and what they enjoy, ultimately informing the development of educational content and resources. It is recommended to complete this form only once, as it will take approximately 5-7 minutes to finish. Please answer honestly, and do not worry if you're not sure about any of the options, as the information collected will be kept anonymous and confidential.
-
-</thinking>
-
 # Learning Preference Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using artificial intelligence and is not affiliated with any form platform. The form is designed to collect information from parents and teachers for communication and collaboration in the educational field.
-</thinking>
-
 # Parent Teacher Communication Form - Help Guide
 ## Purpose
 This form is used by parents to communicate with teachers and express their needs and concerns regarding their child's education. It is designed to facilitate collaboration and mutual understanding between parents and teachers.

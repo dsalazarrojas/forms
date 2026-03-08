@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from candidates for academic interviews. It's used to gather details such as name, contact email, preferred interview dates, and interview mode (in-person, video conference, or phone call). This form is likely used by universities, research institutions, or other educational organizations to manage interview scheduling and logistics. 
-
-The form has been created to be a generic, adaptable template that can be used across various contexts, not affiliated with any specific platform. As such, it's essential to review the form's purpose and ensure it aligns with your organization's needs before using it. Please verify that this form is not being used for any other purposes that might conflict with your organization's goals.
-
-</thinking>
-
 # Academic Interview Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from candidates for academic interviews, enabling efficient scheduling and logistical management.

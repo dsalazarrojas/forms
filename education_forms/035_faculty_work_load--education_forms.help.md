@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning block: The purpose of this form is to collect information about a faculty member's workload, including their work schedule and any additional details they may need to share. This form likely serves as a data collection tool to facilitate administrative tasks or research purposes. To ensure this form is used correctly, let's review its purpose and make sure it's not being used to collect redundant data.
-
-Based on the provided YAML fields, the form has a simple structure with a mix of numerical, date, time, note, email, phone number, single-select, and multiple-select fields. There's no obvious indication of what data these fields will be used for or which specific workload tasks they represent. However, the fields seem to gather basic contact and availability information. To create a more comprehensive help guide, let's break down the form into its purpose, instructions, and field explanations.
-
-</thinking>
-
 # Faculty Work Load - Help Guide
 
 ## Purpose

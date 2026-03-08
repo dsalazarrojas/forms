@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for individuals to apply for a global exchange fellowship program. The form is designed to collect information from candidates, including their contact details, educational background, motivation for applying, and references. This form is likely used by organizations or entities that offer scholarships or grants to students or researchers to support their global exchange experiences.
-
-Before proceeding, please ensure that you are eligible to apply for this program. If you have already submitted an application, please do not resubmit. Each application form should be filled out individually, as any duplicate or incomplete submissions will be rejected.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # global_exchange_fellowship_application - Help Guide
 ## Purpose
 This form is for individuals to apply for a global exchange fellowship program. It gathers information about the candidate's contact details, motivation, references, and educational background.

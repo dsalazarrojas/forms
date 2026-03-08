@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist you in filling out the Admission Form 2020 21. The purpose of this form is to provide essential information about your child for the admission process in our school. This guide will walk you through the form step by step, explaining each field and what information is required. Please ensure you complete this form accurately and thoroughly.
-</thinking>
-
 # Admission Form 2020 21 - Help Guide
 ## Purpose
 The Admission Form 2020 21 is a crucial document required for the admission process in our school. This form collects information about the child, parent/guardian, and other relevant details to ensure a smooth and effective admission process.

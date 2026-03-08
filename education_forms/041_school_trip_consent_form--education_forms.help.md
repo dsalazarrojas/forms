@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the "School Trip Consent Form" that explains its purpose, how to complete it, and what each field means. I will follow the required Markdown structure and make sure to be concrete, concise, and practical in my explanation.</thinking>
-
 # School Trip Consent Form - Help Guide
 
 ## Purpose

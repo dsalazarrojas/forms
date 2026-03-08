@@ -1,8 +1,3 @@
-<thinking>
-This form is part of an educational system used to manage student enrollment processes in high schools. Before filling out this form, please ensure that you have all the necessary information about the student and their guardians. This form is not intended for duplicate or concurrent enrollments. If you're unsure about any field, please refer to the "Field-by-Field Explanation" section below.
-
-</thinking>
-
 # high_school_enrollment_form - Help Guide
 ## Purpose
 This form is used to collect and process student enrollment data for high school students, including personal details, guardian contact information, and other required documents.

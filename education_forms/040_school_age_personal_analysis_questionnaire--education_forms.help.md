@@ -1,12 +1,3 @@
-<thinking>
-The "school_age_personal_analysis_questionnaire" form is designed to collect information about a student's academic performance, interests, and demographics. The form is used to analyze a student's progress and development in school. This form will help in understanding the student's strengths and weaknesses, interests, and performance in various subjects.
-
-The form is divided into sections that cover different aspects of a student's life. Each section is designed to be completed by the student, teacher, or parent. The purpose of the form is to provide an accurate and comprehensive analysis of the student's performance.
-
-To ensure the form is used correctly, it's essential to understand each field's purpose and requirements. Please follow this guide to complete the form accurately.
-
-</thinking>
-
 # school_age_personal_analysis_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a student's academic performance, interests, and demographics to provide an accurate and comprehensive analysis.

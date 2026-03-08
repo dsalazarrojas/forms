@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from customers for online food orders. The form is intended to be used for customers to select their preferred meal options, input their delivery details, and confirm their payment method. The form is not required for customers to fill out, and it is intended to be a convenience tool for customers to provide their order information.
-</thinking>
-
 # Food Online Order Form - Help Guide
 
 ## Purpose

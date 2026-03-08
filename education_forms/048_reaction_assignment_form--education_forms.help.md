@@ -1,7 +1,3 @@
-<thinking>
-The AI-generated "Reaction Assignment Form" aims to collect participant information, assign tasks, and confirm participation in a simple, easy-to-use format. To ensure relevance, please note that this form was created based on public survey topic metadata from the "education" category, and it does not duplicate existing forms. The form was developed to assist in educational settings, but its specific use cases may vary.
-</thinking>
-
 # Reaction Assignment Form - Help Guide
 ## Purpose
 The "Reaction Assignment Form" is designed to gather participant information, assign tasks, and confirm participation in educational settings.

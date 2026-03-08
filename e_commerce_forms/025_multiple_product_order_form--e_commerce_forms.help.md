@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple order form for customers to provide multiple products and contact information. It seems there are no other forms with this name, and its purpose is likely to allow customers to place orders for multiple items. I will provide a clear and concise help guide based on this form's fields.
-</thinking>
-
 # multiple_product_order_form - Help Guide
 ## Purpose
 This form is designed to help customers place orders for multiple products. It collects information about the customer and the products they wish to order.

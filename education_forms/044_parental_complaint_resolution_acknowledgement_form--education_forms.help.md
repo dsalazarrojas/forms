@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to document and track complaints filed by parents regarding their children's experiences at school. The purpose of this form is to ensure that both the parent and school acknowledge and resolve the complaint in a timely and satisfactory manner. This form should not be used for general feedback or suggestions, but rather for complaints that require specific action or resolution from the school.
-
-Before filling out this form, please ensure that you are submitting a complaint that is relevant and legitimate. If you are unsure about the type of issue you are experiencing, please refer to your school's handbook or contact the school administrator for guidance.
-
-</thinking>
-
 # Parental Complaint Resolution Acknowledgement Form - Help Guide
 ## Purpose
 The Parental Complaint Resolution Acknowledgement Form is used to document and track complaints filed by parents regarding their children's experiences at school, ensuring both the parent and school acknowledge and resolve the complaint in a timely and satisfactory manner.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form template is designed for students or parents to report a missing assignment or item, which is typically required for academic work or educational activities. It aims to gather information from the student or parent about the item or assignment that is missing, which can be crucial for the teacher or school administration to track and resolve the issue. This form is meant to be completed by the student or parent to ensure that the missing item is reported in a clear and concise manner, providing necessary details for follow-up actions. Before proceeding, please ensure that you are filling out the form for the correct purpose and not duplicating the effort, as this form is meant to be used for specific instances of missing assignments or items.</thinking>
-
 # Missing Assignment Form Template - Help Guide
 
 ## Purpose

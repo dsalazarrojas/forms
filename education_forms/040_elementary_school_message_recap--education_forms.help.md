@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students about their elementary school experiences. This form is designed to gather specific details from students to help them recap their thoughts and feelings about their time in elementary school. By filling out this form, students can reflect on their experiences, identify areas of strength and improvement, and gain a better understanding of themselves. This form is not intended for use in production, but rather for personal reflection and self-improvement purposes only.
-</thinking>
-
 # Elementary School Message Recap - Help Guide
 ## Purpose
 The Elementary School Message Recap form is designed to help students reflect on their experiences and gather specific information from elementary school students. This form is intended for personal use, and the information collected will not be used for any commercial or marketing purposes.

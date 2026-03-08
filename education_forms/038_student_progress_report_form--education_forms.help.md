@@ -1,14 +1,3 @@
-<thinking>
-The Student Progress Report Form is used to provide an update on the progress of a student. This form is used for internal purposes and should not be used to report student progress externally. It is likely intended for use within an educational institution or organization to monitor student performance.
-
-Form fields should not be filled in by external sources or automated systems without proper authorization.
-
-Form fields should be filled in with as much detail as possible to ensure that the student progress report accurately reflects the current status of the student.
-
-This guide is to provide users with information on how to fill out the Student Progress Report Form and what each field is intended to represent.
-
-</thinking>
-
 # Student Progress Report Form - Help Guide
 ## Purpose
 

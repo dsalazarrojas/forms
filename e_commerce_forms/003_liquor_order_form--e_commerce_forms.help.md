@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of ordering liquors for a customer. The form will be used by sales and customer service teams to collect relevant information from customers before fulfilling their liquor orders. The purpose of this form is to ensure accurate and efficient communication with customers regarding their orders. The form will collect information such as the type of liquor, quantity ordered, order time, customer contact details, and additional notes from customers. It is essential that this information is accurately and completely filled out to guarantee timely and correct order fulfillment. This form should not be used for other purposes, but for liquor orders only.
-</thinking>
-
 # Liquor Order Form - Help Guide
 ## Purpose
 

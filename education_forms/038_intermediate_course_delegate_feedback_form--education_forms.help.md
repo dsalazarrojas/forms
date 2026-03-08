@@ -1,8 +1,3 @@
-<thinking> 
-This form is for providing feedback from participants in an intermediate course. It's meant for delegates who have completed the course to share their experiences and suggestions for improvement. The form is not mandatory, so it's expected that not all participants will fill it out. This guide is here to help users understand the purpose and usage of the form.
-
-</thinking>
-
 # intermediate_course_delegate_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in an intermediate course. It helps us understand their experiences and suggestions for improvement, which we'll use to refine the course.

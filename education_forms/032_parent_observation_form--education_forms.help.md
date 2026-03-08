@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing observations and comments from parents regarding their child's performance in school. This form should only be used for parents who are already involved in their child's education process, such as regular meetings or parent-teacher conferences. The form should not be used as a substitute for official school records or as a means to report incidents or concerns that require immediate action.
-</thinking>
-
 # Parent Observation Form - Help Guide
 ## Purpose
 The Parent Observation Form is a document designed to gather information from parents about their child's performance, behavior, and progress in school. This form is meant to be used by parents who are actively involved in their child's education and want to provide feedback and insights to teachers or school administrators.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Information Form Template - Help Guide
 ## Purpose
 This form is designed to gather essential information about a child's basic details, family background, and emergency contact information. It is intended for parents or guardians to provide accurate and complete data to ensure effective communication and logistics for the program.

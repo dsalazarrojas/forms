@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a new release of fitness equipment, allowing the customer to place a pre-order for the product. This form is designed to gather details such as the customer's name, email, phone number, order date, order time, shipping address, payment method, delivery preferences, and other relevant information. By filling out this form, the customer can provide their preferences and details for the pre-order, ensuring that the order is processed correctly and efficiently.
-</thinking>
-
 # Fitness Equipment New Release Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a new release of fitness equipment, allowing them to place a pre-order for the product.

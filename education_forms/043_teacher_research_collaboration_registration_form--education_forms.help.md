@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for teachers to register their research collaboration interests and projects with the institution. The purpose of this form is to facilitate communication and collaboration among teachers and staff. It is recommended to fill out the form for internal record-keeping and potential future collaborations.
-
-Please ensure this is your intended purpose and you are not duplicating an existing collaboration.
-
-</thinking>
-
 # Teacher Research Collaboration Registration Form - Help Guide
 ## Purpose
 The Teacher Research Collaboration Registration Form is a tool to help teachers register their research interests and projects with the institution. This form collects necessary information for internal record-keeping and potential future collaborations among teachers and staff.

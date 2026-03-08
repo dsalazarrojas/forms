@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to track attendance of children at daycare centers. The purpose of this form is to provide a simple and easy-to-use digital template for caregivers and staff to report attendance data of children at daycare centers. The form is intended for use during normal working hours, and it's recommended to fill it out for each day of attendance.
-
-The form is designed to be completed by caregivers and staff members, and it should not be filled out by children themselves. It's essential to fill out the form accurately and consistently, so we recommend reviewing the form carefully before submitting it.
-
-Before proceeding, ensure that you have the necessary information and permissions to fill out the form. The data collected through this form will be used for record-keeping and reporting purposes only.
-
-</thinking>
-
 # Daycare Attendance Form - Help Guide
 ## Purpose
 The Daycare Attendance Form is designed to track attendance of children at daycare centers during normal working hours. It helps caregivers and staff members to report attendance data accurately and consistently.

@@ -1,10 +1,3 @@
-<thinking>
-To begin with, let's consider the purpose of this form. Based on the provided YAML, it appears to be a Student Experience Survey designed to gather feedback and opinions from students about their experiences in a course or educational setting. The form likely aims to assess various aspects of the student experience, including attendance, engagement, teacher support, course difficulty, and overall satisfaction. This form might be used to evaluate the effectiveness of instructional design, identify areas for improvement, and inform future curriculum development. To ensure relevance, we must consider whether the survey's questions align with the learning objectives and outcomes of the course, and whether the responses will be used to inform meaningful changes.
-
-Non-duplication of effort is also essential, and we must verify that the survey questions are not too similar to existing assessments or evaluations. This will help us avoid redundancy and ensure that the survey is an efficient and effective tool for gathering valuable insights.
-
-</thinking>
-
 # Student Experience Survey - Help Guide
 ## Purpose
 

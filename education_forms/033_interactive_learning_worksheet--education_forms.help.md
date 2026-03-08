@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from students and teachers for an interactive learning worksheet. It is likely used in an educational setting to support student learning and assessment. The form may be part of a larger system for tracking student progress and feedback. To ensure accurate completion, please review the form carefully and ask if you have any questions or need further clarification. 
-
-</thinking>
-
 # Interactive Learning Worksheet - Help Guide
 
 ## Purpose

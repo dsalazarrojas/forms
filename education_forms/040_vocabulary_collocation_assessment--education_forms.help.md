@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the user's understanding of vocabulary collocations, which are pairs of words that often go together in language. The purpose of this form is to evaluate the user's ability to recognize and use vocabulary collocations correctly in context. 
-
-</thinking>
-
 # Vocabulary Collocation Assessment - Help Guide
 ## Purpose
 This form is designed to test your understanding of vocabulary collocations, which are pairs of words that often go together in language. 

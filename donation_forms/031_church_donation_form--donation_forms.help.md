@@ -1,7 +1,3 @@
-<thinking>
-This form is a Church Donation Form, which is designed to collect donor information and donation details for church offerings. The form is intended for individuals who wish to make a donation to the church. To ensure that the form serves its purpose, we should verify that it is being used for its intended purpose and not for other types of transactions or purposes. Additionally, we should avoid duplicating efforts by not using this form for non-donation related activities.
-</thinking>
-
 # Church Donation Form - Help Guide
 ## Purpose
 The Church Donation Form is a simple, online form designed to collect donation information from donors. It captures details such as donor contact information, donation amount, and preferred payment method. This form is intended to be used by individuals who wish to make a donation to the church, either as a one-time gift or as a recurring contribution.

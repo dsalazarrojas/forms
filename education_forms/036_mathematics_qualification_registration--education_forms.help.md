@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students to register for a mathematics qualification, such as a math exam or certification. The form is designed to gather details about the candidate, including their education level, exam preferences, and contact information. The purpose of this form is to ensure accurate and complete information is collected for administrative and communication purposes. This form should only be filled out once per candidate, and any duplicate submissions will be treated as invalid. Please ensure that you are only registering once for the mathematics qualification.
-</thinking>
-
 # Mathematics Qualification Registration - Help Guide
 ## Purpose
 This form is used to register for a mathematics qualification, such as a math exam or certification.

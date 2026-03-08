@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for job applicants to submit their application for a job at Kidz Inc. childcare center. The form is designed to gather information about the applicant's personal details, job preferences, and experience. This form will help us assess the applicant's suitability for the job and ensure that we are matching the right candidate with the right role.
-
-Before proceeding, please note that this form is not intended for existing employees or external referrals. Only new applicants should use this form to submit their application. Please ensure that you have not already submitted an application through this form before, as duplicate applications will not be accepted.
-
-</thinking>
-
 # kidz_inc_childcare_job_application - Help Guide
 ## Purpose
 The kidz_inc_childcare_job_application form is a job application form for potential caregivers at Kidz Inc. childcare center. It's designed to collect your personal details, job preferences, and experience to help us determine whether you're a good fit for our team.

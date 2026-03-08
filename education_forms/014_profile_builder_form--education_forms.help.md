@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to collect user information for a profile builder, which is used to create a professional profile. The form is divided into multiple pages, each with different fields to collect various aspects of the user's profile. The purpose of this form is to gather information such as educational background, job title and status, job role, job level, education institution, graduation date, job type, years of experience, education degree, email, phone number, profile picture, address, country, state, city, zip code, profile summary, LinkedIn profile, and profile background.
-Please ensure that all the fields have been properly filled out before proceeding further.
-</thinking>
-
 # profile_builder_form - Help Guide
 ## Purpose
 The profile_builder_form is used to create a professional profile.

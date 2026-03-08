@@ -1,7 +1,3 @@
-<thinking>
-The "Stipend Request Form" is used to collect information from both supervisers and students to request and agree on stipends for student projects or research. The form ensures both parties have a clear understanding of the stipend request details, including the superviser and student names, contact information, and project timeline. It also helps to prevent duplication of requests and ensures that both parties have agreed on the request details. To complete the form, both superviser and student should fill out the required fields with accurate information. This form is intended to be a collaborative tool for both parties to work together and agree on the stipend request.
-</thinking>
-
 # Stipend Request Form - Help Guide
 ## Purpose
 The Stipend Request Form is a collaborative tool used by both supervisers and students to request and agree on stipends for student projects or research. It ensures clear communication and prevents duplication of requests.

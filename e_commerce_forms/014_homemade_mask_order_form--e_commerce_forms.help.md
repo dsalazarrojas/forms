@@ -1,12 +1,3 @@
-<thinking>
-To determine the most effective way to present the "homemade-mask-order-form" user-facing help guide, we need to consider the following:
-
-*   The form's purpose is to gather information from customers for their orders, which includes details like name, contact information, order date, time, shipping address, order message, order total, payment method, shipping method, order status, customer notes, order ID, customer title, order type, quantity, price, product name, order date added, customer name, shipping cost, tax rate, and total cost.
-*   The form requires specific information from the customer, including phone number, email, customer name, shipping address, payment method, shipping method, order status, assigned to, and order type. This suggests that the form is used for order management and fulfillment.
-*   Considering the fields, it appears that this form is used for both customer information and order management purposes. To make the most out of this information, we should provide a clear and concise guide that helps users fill out the form correctly.
-
-</thinking>
-
 # homemade-mask-order-form - Help Guide
 
 ## Purpose

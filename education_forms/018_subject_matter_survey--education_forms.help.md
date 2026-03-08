@@ -1,9 +1,3 @@
-<thinking>
-The Subject Matter Survey form is designed to gather information about the topic of a project or task that you are working on. This form will help us better understand the nature of your work and identify areas where we can improve our processes and services.
-Before filling out this form, please ensure that you are responding to the correct survey. If you have already completed this survey in the past, please do not complete it again. Your responses will help us to refine our services and make them more relevant to your needs.
-Please note that this form is for general feedback and suggestions, and your responses will be treated as anonymous. If you have any specific questions or concerns, please use the "Any questions or concerns" field.
-</thinking>
-
 # Subject Matter Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the topic of a project or task that you are working on.

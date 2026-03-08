@@ -1,7 +1,3 @@
-<thinking>
-We're using this form to collect information from donors about their donation requests, including their name, email, the amount they wish to donate, how frequently they would like to donate, their preferred payment method, and any additional message they'd like to share. This form is intended for internal use and will help us understand the scope of donation requests we receive. To avoid duplication, please only submit one request per form. If you're requesting on behalf of someone else, please ensure that you have their permission to submit this form.
-</thinking>
-
 # Donation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors about their donation requests, including the amount and frequency of their donations.

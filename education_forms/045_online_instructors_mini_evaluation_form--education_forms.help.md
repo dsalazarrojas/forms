@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Instructors Mini Evaluation Form - Help Guide
 
 ## Purpose

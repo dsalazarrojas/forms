@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on student progress, providing an overview of a student's achievements and challenges. It appears to be used for monitoring and reporting student performance in an educational setting. This form likely serves as a tool for teachers or administrators to assess student progress, provide feedback, and communicate with parents or guardians.
-</thinking>
-
 # Student Progress Sheet Report Form - Help Guide
 ## Purpose
 The Student Progress Sheet Report Form is used to track and document a student's progress, providing valuable information for teachers, parents, and administrators to monitor and support their development.

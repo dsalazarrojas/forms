@@ -1,7 +1,3 @@
-<thinking>
-This form is a shipping declaration form, which is used to collect information related to shipping details. The form has a large number of fields, all of which are "Shipper Details" types. This form is likely used in a business or industrial setting where multiple shipper details need to be recorded. However, without further information, it's difficult to pinpoint the exact purpose and scope of this form. To avoid duplication, we'll assume this form is used to collect unique details for each shipper, and the purpose is likely related to shipping logistics or inventory management. 
-</thinking>
-
 # Shipping Declaration Form - Help Guide
 ## Purpose
 The Shipping Declaration Form is used to collect information related to shipping details. Its primary use is to gather unique details for each shipper in a business or industrial setting, likely for shipping logistics or inventory management purposes.

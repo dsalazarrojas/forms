@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Student Safety Contract CCSD - Help Guide
 ## Purpose
 The Lab Student Safety Contract CCSD is a form designed to document a student's understanding and agreement to adhere to safety protocols while participating in a lab or experimental environment. This form is intended to ensure students are aware of their responsibilities and the potential risks associated with lab activities.

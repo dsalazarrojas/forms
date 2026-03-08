@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Estimation Techniques Quiz - Help Guide
 ## Purpose
 The Estimation Techniques Quiz is a form used to assess your understanding of various estimation techniques used in project management. This form consists of 17 questions that test your knowledge and help you evaluate your own skills in estimating project scope.

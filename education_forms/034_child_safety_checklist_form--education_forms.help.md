@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the safety of a child's environment, specifically in locations such as nurseries, playgrounds, living rooms, or other areas where children are present. The form is intended to identify potential hazards and ensure that the space is safe for children. It's essential to complete this form carefully and accurately to maintain a secure environment for kids.
-</thinking>
-
 # Child Safety Checklist Form - Help Guide
 ## Purpose
 The Child Safety Checklist Form is a tool to evaluate the safety of a child's environment, helping to identify potential hazards and ensure a safe space for children.

@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form for tracking and recording important information related to deliveries. To avoid duplication, please ensure that this form is used for each new delivery instance. Non-relevant or duplicate entries may cause unnecessary clutter and errors in our system. Please follow these instructions carefully to complete the form correctly.
-</thinking>
-
 # Courier Check Out Form - Help Guide
 
 ## Purpose

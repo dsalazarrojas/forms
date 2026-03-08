@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from potential sponsors of environmental campaigns.
-It ensures that the organization and donation type are selected correctly, which is crucial for the campaign's success.
-This form does not duplicate the existing donor information as it is intended for new sponsorships.
-</thinking>
-
 # Environmental Campaign Sponsorship Pledge Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential sponsors of environmental campaigns. It helps us understand who is supporting each campaign and ensures that the selected organization and donation type are correctly associated with the campaign.

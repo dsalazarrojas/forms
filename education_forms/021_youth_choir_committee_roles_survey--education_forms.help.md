@@ -1,12 +1,3 @@
-<thinking>
-The Youth Choir Committee Roles Survey form is designed to collect information about the roles and responsibilities of a youth choir committee. This form is intended to help the committee understand their own strengths and weaknesses, as well as their interests and preferences. By completing this form, committee members can gain a better understanding of themselves and their roles within the committee, which can help them work more effectively together. This form should not be completed by people who are not members of a youth choir committee.
-
-The form will be used for internal purposes only, and the information collected will help the committee make informed decisions about their work. 
-
-Please note that the form is not meant to be a comprehensive assessment, but rather a tool to help committee members reflect on their roles and responsibilities.
-
-</thinking>
-
 # Youth Choir Committee Roles Survey - Help Guide
 ## Purpose
 This form is designed to help youth choir committee members understand their own roles and responsibilities within the committee.

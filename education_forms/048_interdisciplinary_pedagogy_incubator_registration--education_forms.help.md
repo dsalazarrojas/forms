@@ -1,10 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the Interdisciplinary Pedagogy Incubator Registration form, we first need to understand the form's purpose and the context in which it will be used. This form is designed to collect information from participants who are interested in joining an incubator program focused on interdisciplinary pedagogy. The form's purpose is to gather essential details about the participant, their interests, and the incubator they wish to join.
-
-The form is divided into several pages, each with its own set of fields. To avoid duplication and ensure accurate data collection, it is essential to follow the instructions carefully.
-
-</thinking>
-
 # Interdisciplinary Pedagy Incubator Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants interested in joining an interdisciplinary pedagogy incubator program. The data collected will help the program administrators to understand the participants' interests, goals, and needs.

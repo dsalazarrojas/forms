@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form serves its purpose without duplication or confusion. The form, "Monthly Giving Option Poll," is intended to gather information from users on their giving preferences. We should focus on explaining each field in a clear and concise manner, taking into account the provided options and type of form elements (select_one, number, etc.). The form appears to be focused on gathering information on the frequency and method of donations, with an emphasis on contact details. We will structure the guide to cater to these specific use cases.
-</thinking>
-
 # Monthly Giving Option Poll - Help Guide
 ## Purpose
 The Monthly Giving Option Poll form is designed to collect information from users on their preferences for making donations to our organization. This guide will walk you through each field of the form, helping you understand what each question is asking and how to complete it accurately.

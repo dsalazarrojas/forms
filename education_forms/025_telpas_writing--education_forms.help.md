@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to provide input on writing-related activities. It appears to be a survey or assessment tool used to gather information on writing habits, preferences, and experiences. The form is quite extensive, with multiple fields across various data types, including text, select options, dates, times, emails, and phone numbers. There are also fields for optional notes and integers. It seems that the form is intended for use by educators or researchers in the field of education, possibly to gather data on writing practices and habits of students or teachers. I'm assuming that the form is not a high-stakes form, based on the lack of required fields. However, I'll need to review the fields more closely to ensure I provide accurate guidance.
-
-To ensure I don't duplicate any instructions that might have been previously written, I'll start from scratch. I'll break down each field into a bullet point, providing explanations for each field in a clear and concise manner, without assuming any internal logic or business rules not specified in the form YAML.
-
-</thinking>
-
 # TELPAS Writing - Help Guide
 ## Purpose
 This form is designed to gather information on writing-related activities. It may be used by educators or researchers to collect data on writing habits and practices of students or teachers.

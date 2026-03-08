@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a generic form for collecting information related to a coronavirus self-declaration form, likely for official or business purposes. It seems to be a form used to gather data for employee or supplier information, customer information, and other related details. The form has multiple fields for different types of information, including text, select_one, and select_multiple fields. However, the fields' labels and names are not entirely clear in their purpose, suggesting that this form might be in an early stage of development or design. I will do my best to provide a clear explanation for each field, but please note that some interpretation may be required due to the form's unclear nature.
-
-The form has a total of 25 fields, which is quite extensive. I will try to provide a concise explanation for each field while keeping the tone user-friendly and practical.
-</thinking>
-
 # coronavirus_self_declaration_form_viva_toyota - Help Guide
 ## Purpose
 This form is used to collect information related to a coronavirus self-declaration. It may be used by employees or suppliers to provide details about their work-related information.

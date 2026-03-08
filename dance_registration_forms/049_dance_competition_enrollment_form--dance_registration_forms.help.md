@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help individuals enroll in a dance competition. The purpose of this form is to collect essential information from participants, including their personal details, contact information, and dance style preferences. The form is likely to be used by dance competition organizers to manage participant registrations and ensure that all necessary information is gathered for the competition.
-
-Before proceeding, please note that:
-
-* This form is only applicable for participants who want to enroll in the dance competition.
-* The fields marked as "required" are mandatory and must be completed for the participant to be eligible for the competition.
-* Please ensure that the information provided is accurate and up-to-date to avoid any issues during the competition.
-
-</thinking>
-
 # Dance Competition Enrollment Form - Help Guide
 
 ## Purpose

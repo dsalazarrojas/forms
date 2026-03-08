@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle and its driver's history. The purpose of this form is to gather data for a specific use case, such as insurance claims or vehicle maintenance. Please ensure that you have all necessary permissions to complete this form and that the data you enter is accurate and up-to-date. Note that this form is not intended for general public use and is likely only accessible to authorized personnel.
-</thinking>
-
 # Vehicle Driver Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle and its driver's history for a specific use case.

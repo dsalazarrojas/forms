@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a consent form for a campus data analytics pilot project. The purpose of the form is to gather participant information, project details, data usage and privacy concerns, and consent from individuals who wish to participate in the pilot project. This form is likely used to ensure that participants understand the project's purpose, data collection methods, and how their data will be used and protected.
-
-The form is structured into several sections, including participant information, project details, data usage and privacy, consent, and contact information. Each section is designed to collect specific types of information from participants, such as their name, role on campus, department, and contact information.
-
-Before filling out this form, participants should ensure that they understand the project's purpose and data collection methods, and agree to participate voluntarily. They should also be aware of their rights to withdraw from the project at any time.
-
-</thinking>
-
 # Campus Data Analytics Pilot Consent Form - Help Guide
 ## Purpose
 This form is for individuals who wish to participate in the campus data analytics pilot project. It is designed to gather information about the participant, project details, data usage and privacy, and consent from the participant.

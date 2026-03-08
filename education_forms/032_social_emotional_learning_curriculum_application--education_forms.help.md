@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a tool for providers to input their information for a Social Emotional Learning (SEL) curriculum application. The form likely allows providers to supply their name, years of experience, email, and phone number, as well as confirm consent to share data and select their type of provider (e.g., school, nonprofit, or provider). The fields are mostly optional, but it's unclear why "experience_years" is not required. Perhaps it's meant to capture additional information about the applicant's background. The purpose of this form is to gather information from providers to facilitate the SEL curriculum application process. Before proceeding, ensure that this form is not a duplicate of an existing form, and the information being collected is relevant to the application process.
-</thinking>
-
 # Social Emotional Learning Curriculum Application - Help Guide
 ## Purpose
 This form is used to gather information from Social Emotional Learning (SEL) providers for the curriculum application process.

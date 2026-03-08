@@ -1,11 +1,3 @@
-<thinking>
-This form is used to process tuition waivers for students. Before starting, please ensure that you are not duplicating effort and that the waiver is relevant to your current circumstances. This form should be used for single or multiple students, and the relevant fields will be displayed depending on whether you are processing a single or multiple students.
-
-To process a single student's waiver, please fill out the form with the student's information and select the relevant waiver type. If you are processing multiple students, additional fields will be displayed to accommodate multiple students.
-
-Please note that the form will guide you through the necessary fields to fill out for each student. If you have any questions or concerns, please don't hesitate to reach out to the relevant staff member or department.
-</thinking>
-
 # Tuition Waiver Form - Help Guide
 ## Purpose
 

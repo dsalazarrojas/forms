@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback from students about economic education courses. The form asks for basic demographic information about the student, such as their name, email, and major. It also asks for details about the course, including the course name, ID, and ratings from the student. Additionally, the form asks for feedback about the instructor, including their name and rank. The form is intended to be completed by students who have taken or are currently taking an economic education course. Please note that this form is not intended to be used for any other purpose...</thinking>
-
 # Economic Education Feedback Survey - Help Guide
 
 ## Purpose

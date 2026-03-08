@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Enrollment Verification Form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # Enrollment Verification Form - Help Guide
 ## Purpose
 The Enrollment Verification Form is a document used to verify a student's enrollment status and details. It is used to collect information about a student's enrollment, including their name, contact information, enrollment status, and school-related details. The form is designed to help administrators and staff accurately track and manage student enrollment data.

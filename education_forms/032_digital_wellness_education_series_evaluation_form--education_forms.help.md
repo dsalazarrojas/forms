@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and relevance of the Digital Wellness Education Series, a series of workshops and educational programs designed to promote digital wellness among participants. The form asks participants to reflect on their experience, providing feedback on the content, quality, and overall satisfaction with the series. It also gathers information on staff participation and attendance. The form should only be completed by participants who have attended the workshop.
-</thinking>
-
 # Digital Wellness Education Series Evaluation Form - Help Guide
 
 ## Purpose

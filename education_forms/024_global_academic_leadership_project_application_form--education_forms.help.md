@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # global_academic_leadership_project_application_form - Help Guide
 ## Purpose
 The Global Academic Leadership Project Application Form is designed to collect information from applicants to the Global Academic Leadership Project, a program that promotes academic excellence and leadership development among students. This form is used to gather personal details, academic background, contact information, project details, leadership qualifications, scholarship application, and file uploads.

@@ -1,9 +1,3 @@
-<thinking>
-The Pedagogical Innovation Pilot Application Form is designed to support educators and educational institutions to apply for pedagogical innovations, with the ultimate goal of promoting effective teaching practices. This form gathers information about the innovation, its implementation, and expected outcomes, and it also allows applicants to provide supplementary materials, like project URLs, files, and other details. 
-
-This form ensures that all necessary information about the project is collected and provides a platform for educators to present their innovative ideas. The form is intended for educational institutions to apply for pedagogical innovation pilots, which can be internal or external to the institution.
-</thinking>
-
 # Pedagogical Innovation Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to support educational institutions in applying for pedagogical innovation pilots. It gathers necessary information to assess and implement the innovation.

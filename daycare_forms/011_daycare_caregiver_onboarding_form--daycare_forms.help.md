@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Caregiver Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from daycare caregivers during onboarding, ensuring a smooth and efficient integration into our daycare system. The form is meant to capture essential details about the caregiver, their availability, acknowledgement of our policies, and contact information.

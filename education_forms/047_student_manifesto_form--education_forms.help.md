@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students in an educational setting. This form gathers general information, contact details, personal goals, academic history, a personal manifesto, and contact information to create a comprehensive profile of the students. This form is designed to be completed by students to showcase their interests, goals, and experiences, making it easy for the students to express themselves and be noticed by their peers or educators. To avoid duplication of effort, it's recommended to use this form as a template for students to fill out during orientation or onboarding events, reducing the need for multiple, separate forms with similar questions.
-</thinking>
-
 # Student Manifesto Form - Help Guide
 ## Purpose
 This form is designed to allow students to express themselves and showcase their interests, goals, and academic history in a comprehensive way.

@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended for end-users who want to complete the lesLms_2020_2021_permission_slipsinternet_usage form. The form is designed to gather information on the usage of internet services. It is likely used in an educational setting to track or record internet usage, perhaps for research, monitoring, or other purposes.
-
-To confirm, this form is part of the "education_forms" category. It's possible that it's used to collect data for a specific study or project, or to monitor internet usage among students. Before proceeding, ensure that you're not duplicating efforts or attempting to collect unnecessary data. This form may be part of a larger study or program, so it's essential to understand its purpose and context.
-
-Before completing this form, consider the following questions:
-
-* Are you authorized to access or use the data collected from this form?
-* Are you certain about the purpose and scope of this form within your institution or organization?
-* Have you reviewed any internal guidelines or procedures related to internet usage or data collection?
-
-If you're still unsure, reach out to your supervisor or the form creator for clarification. Once you're confident about the form's purpose and requirements, you can proceed with completing it.
-
-</thinking>
-
 # lesLms_2020_2021_permission_slipsinternet_usage - Help Guide
 
 ## Purpose

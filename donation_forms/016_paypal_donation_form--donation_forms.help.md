@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "PayPal Donation Form" form. This form is used to collect donations from users, allowing them to specify the donation amount, frequency, method, currency, and other relevant details. The purpose of this form is to streamline the donation process, making it easier for users to contribute to the cause. To ensure that each user can fill out the form correctly, we will provide clear explanations for each field, taking into account the provided YAML fields. This guide will cover the form's purpose, how to complete it, field-by-field explanations, and some tips for users to keep in mind.
-
-</thinking>
-
 # PayPal Donation Form - Help Guide
 ## Purpose
 The PayPal Donation Form is designed to collect donations from users, allowing them to specify the donation amount, frequency, method, currency, and other relevant details. This form streamlines the donation process, making it easier for users to contribute to the cause.

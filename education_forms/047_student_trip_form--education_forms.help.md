@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to submit their trip details for an outing or excursion organized by an educational institution. The primary purpose of this form is to ensure accurate and up-to-date information about student trips to streamline logistical processes and enhance the overall experience. It should be used for all student trips to prevent duplication or miscommunication. If you're not submitting a student trip form, please do not fill this form.
-</thinking>
-
 # Student Trip Form - Help Guide
 ## Purpose
 The Student Trip Form is designed to gather essential information about student trips, allowing our team to efficiently plan and coordinate logistics. Please use this form for all student trips to ensure accurate and up-to-date information.

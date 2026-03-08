@@ -1,13 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Pedagogical Research Awareness Survey form, it's essential to ensure the form's purpose and structure are clearly understood by end users. This guide will help users navigate the form and provide accurate information about each field. To begin, let's review the form's purpose and structure:
-
-* The form's purpose is to survey educators or researchers about their pedagogical approaches, theories, and practices, aiming to gather awareness and insights about the effectiveness and applicability of different pedagogical research methods in real-world settings.
-* The form consists of 6 fields across 5 pages, each with its own label, type, and options.
-* Users can select multiple options for some fields, while others are single-select or text inputs.
-* The form's structure and content suggest a focus on collecting qualitative data, likely for research or survey purposes.
-
-</thinking>
-
 # Pedagogical Research Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from educators or researchers about their pedagogical approaches, theories, and practices. The purpose of this survey is to collect insights into the effectiveness and applicability of different pedagogical research methods in real-world settings.

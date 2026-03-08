@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end-users to register for an education class. The purpose of this form is to capture essential details about the student, including contact information and personal details such as gender, birthday, and student ID. This form will be used to create a record in the database for future reference. Please ensure you have all required information before submitting the form as some fields are marked as required.
-</thinking>
-
 # Education Class Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from students to create a record for future reference.

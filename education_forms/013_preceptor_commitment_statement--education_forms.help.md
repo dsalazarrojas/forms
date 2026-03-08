@@ -1,16 +1,3 @@
-<thinking>
-The "Preceptor Commitment Statement" form is used to capture the commitment of a preceptor in a medical education setting. This form is typically completed by a preceptor when they are assigned to mentor a student in a clinical rotation. It ensures that the preceptor understands their role, responsibilities, and expectations in guiding the student throughout the rotation. By completing this form, the preceptor acknowledges their commitment to provide a safe and educational environment for the student. This form also helps to reduce confusion and miscommunication between the preceptor and the student, promoting a successful and productive learning experience.
-
-To ensure accurate and relevant data, please check the following:
-
-* Are you the preceptor assigned to mentor a student in a clinical rotation?
-* Have you completed a preceptor commitment statement in the past?
-* Is there a preceptor commitment statement for this specific student's rotation already on file?
-
-If you've answered "no" to these questions, proceed with completing this form.
-
-</thinking>
-
 # Preceptor Commitment Statement - Help Guide
 ## Purpose
 The "Preceptor Commitment Statement" is a document that captures the commitment of a preceptor to mentor a student in a clinical rotation. It ensures that the preceptor understands their role, responsibilities, and expectations in guiding the student throughout the rotation.

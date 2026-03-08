@@ -1,13 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form used for managing magazine subscriptions with Stripe. The form is called "Magazine Subscription Form Template With Stripe" and is part of the "e_commerce_forms" category. This guide will help users understand the purpose and usage of the form, which is to collect subscription information and payment details from users.
-
-The form includes fields for user information, subscription plan, subscription period, payment amount, payment type, payment method, payment status, Stripe token, payment message, and payment refund. Each field has been designed to ensure that users can easily provide the necessary information for subscribing to a magazine.
-
-Before diving into the guide, let's confirm that this form is intended for users who wish to subscribe to a magazine using Stripe, a popular online payment platform. This guide will assume that users are familiar with the basics of online subscriptions and payment methods.
-
-Now, let's proceed with the guide.
-</thinking>
-
 # Magazine Subscription Form Template With Stripe - Help Guide
 ## Purpose
 This form is designed for users who wish to subscribe to a magazine using Stripe. It collects necessary information to process a successful subscription and payment.

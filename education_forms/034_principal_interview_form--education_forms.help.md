@@ -1,7 +1,3 @@
-<thinking>
-Please note that the provided form structure is quite basic and does not include any fields with specific labels or options. The form has 5 pages, each with a "label" field, but no other descriptive fields or sections.
-</thinking>
-
 # Principal-Interview-Form - Help Guide
 ## Purpose
 The Principal-Interview-Form is designed to gather information from school administrators or educators for research, assessment, or other purposes. It is an adaptation of a public survey topic and is intended to be used as a template for collecting information about principals or head teachers in educational settings.

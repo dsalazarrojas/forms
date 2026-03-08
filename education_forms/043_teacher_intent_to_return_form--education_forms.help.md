@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from teachers regarding their intent to return to work after a leave of absence. This information is collected to track the number of teachers who intend to return and to gather their specific return plans for future planning purposes. The form should be filled out by teachers who are planning to return to work after a leave of absence, and should not be filled out by teachers who are currently on leave but have not yet confirmed their return.
-</thinking>
-
 # Teacher Intent To Return Form - Help Guide
 ## Purpose
 This form collects information from teachers regarding their intent to return to work after a leave of absence. This data is used for planning and tracking purposes.

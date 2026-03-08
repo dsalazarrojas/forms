@@ -1,9 +1,3 @@
-<thinking>
-
-To prevent duplication and ensure relevance, let's clarify that this help guide is intended for users of the University Engineering Admission Form, which is designed for individuals seeking admission into the engineering program at the university. The form is meant to gather necessary information from applicants to facilitate a smooth and efficient application process. Before proceeding, please ensure you have read and understood the form's purpose and content.
-
-</thinking>
-
 # University Engineering Admission Form - Help Guide
 ## Purpose
 The University Engineering Admission Form is a comprehensive application form designed to gather essential information from potential students seeking admission into the engineering program. This form is a crucial step in the admission process, and providing accurate and complete information will help the admissions committee make an informed decision.

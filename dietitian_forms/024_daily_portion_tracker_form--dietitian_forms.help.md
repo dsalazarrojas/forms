@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track daily food portions for individuals, providing an overview of their daily eating habits. This form captures information on the portion size, type of food, and other relevant details for each food item consumed.
-</thinking>
-
 # daily_portion_tracker_form - Help Guide
 ## Purpose
 The daily portion tracker form is designed to help individuals track their daily food portions, providing a comprehensive overview of their eating habits.

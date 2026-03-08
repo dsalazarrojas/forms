@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to request expansion of a scholarship program. It is used to provide details about the scholarship program you are interested in expanding, including its title, category, description, and status. 
-
-Before filling out this form, please ensure that you have a valid reason for requesting the expansion and that the program you are requesting is not already active or has an existing expansion request in progress. This form helps the scholarship committee in understanding your requirements and evaluating the feasibility of expanding the program.
-
-Please fill out this form with accurate and detailed information to ensure that your request is processed efficiently.
-
-</thinking>
-
 # Scholarship Program Expansion Request Form - Help Guide
 ## Purpose
 The Scholarship Program Expansion Request Form is used to request expansion of a scholarship program. It provides a structured way to submit detailed information about the program you are interested in expanding.

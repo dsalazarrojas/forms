@@ -1,11 +1,3 @@
-<thinking>
-This form is for event drivers to declare their involvement in a motorsport event. The main purpose is to collect information about the driver, which will likely be used for event management, insurance claims, or other administrative tasks. This form is typically filled out by drivers as part of their event registration process.
-
-It's worth noting that the form has no required fields, which means that drivers can potentially fill it out partially or not at all. However, please ensure that all relevant information is provided to avoid potential issues during the event.
-
-Before proceeding with the form explanation, please ensure that you understand the context and purpose of this form and that you're not duplicating any existing forms.
-</thinking>
-
 # motorsport_event_driver_declaration_form - Help Guide
 ## Purpose
 The motorsport_event_driver_declaration_form is a form used to collect information about drivers participating in a motorsport event. This form is typically filled out as part of the event registration process.

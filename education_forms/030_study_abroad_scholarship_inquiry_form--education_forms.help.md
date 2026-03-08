@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Study Abroad Scholarship Inquiry Form - Help Guide
 
 ## Purpose

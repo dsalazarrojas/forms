@@ -1,13 +1,3 @@
-<thinking>
-
-The "Pledge Form" is a crucial tool for donors to express their commitment to support a cause or organization financially. This form helps in collecting information from donors about their donation intentions, such as the amount they are willing to pledge, their name, contact details, and the frequency of their giving. By filling out this form, donors can provide valuable insights into their financial commitment, allowing us to better understand our donor base and tailor our communication and fundraising strategies accordingly.
-
-This form is typically used during events, campaigns, or other fundraising activities where donors are encouraged to pledge their support for a cause. The information collected through this form will be used to follow up with donors, acknowledge their pledges, and provide updates on the impact of their contributions.
-
-Before filling out this form, please note that the information you provide will be used to contact you and update you on the progress of the cause you are supporting.
-
-</thinking>
-
 # Pledge Form - Help Guide
 ## Purpose
 The "Pledge Form" is designed to collect information from donors about their financial commitment to support a cause or organization. This form is typically used during events, campaigns, or other fundraising activities.

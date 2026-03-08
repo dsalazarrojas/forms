@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for requesting approval for a field trip, allowing students to travel to off-campus locations for educational purposes. The field trip form requires approval from both the school principal and the sponsor company. The form should only be submitted once for each trip. Please ensure that the form is filled out thoroughly and accurately to ensure a successful approval process.
-
-</thinking>
-
 # Field Trip Approval Request Form - Help Guide
 
 ## Purpose

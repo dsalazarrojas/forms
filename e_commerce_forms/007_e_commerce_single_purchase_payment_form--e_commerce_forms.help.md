@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form, "e_commerce_single_purchase_payment_form", is to facilitate single purchase transactions in an e-commerce setting. This form captures the required information for a customer to complete a purchase transaction. 
-
-The form collects customer and order details, as well as payment information. The form may not be relevant for multi-purchase scenarios or bulk purchase requests, as it's focused on individual transactions.
-
-There might be overlap or redundancy between fields, and the form does not have any validation or calculation rules applied. This form does not handle sensitive payment information like credit card details.
-
-</thinking>
-
 # e_commerce_single_purchase_payment_form - Help Guide
 ## Purpose
 This form is designed for customers to provide information for a single purchase transaction in an e-commerce setting.

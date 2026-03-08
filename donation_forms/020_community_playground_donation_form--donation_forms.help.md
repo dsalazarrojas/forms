@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Community Playground Donation Form", I will first need to understand the purpose and context of the form. From the provided YAML, it seems that the form is designed to collect donations for a community playground, allowing users to provide their contact information, donation details, and preferences for recognition and payment. The form likely serves as a means to raise funds for the playground's maintenance, equipment, or other related expenses.
-
-The form consists of multiple sections, including donor information, donation details, payment information, and recognition and dedication preferences.
-
-After reviewing the form structure, I will create the help guide based on the provided fields and options, aiming to provide a clear and concise explanation for users to complete the form accurately and efficiently.
-
-</thinking>
-
 # Community Playground Donation Form - Help Guide
 ## Purpose
 The Community Playground Donation Form is designed to collect donations for the maintenance, equipment, or other expenses of a community playground. Fill out this form to provide your contact information, specify your donation details, and choose your preferred recognition and payment methods.

@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the "Club Sign In" form is filled out correctly to accurately track member attendance and participation in club meetings. This form should only be filled out by actual club members or guests, and not by people trying to join the club. 
-If the form is being filled out by a guest, they should be aware that they will need to provide their member ID or name to receive any club benefits. 
-Please ensure that the form is completed in full and accurately, including all required fields, to allow for proper tracking and communication with the club members and guests.
-</thinking>
-
 # Club Sign In - Help Guide
 ## Purpose
 This form is used to track member attendance and participation in club meetings and events. It is essential to fill out this form correctly to receive any club benefits or to be eligible for membership.

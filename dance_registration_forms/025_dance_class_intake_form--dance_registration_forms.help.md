@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students who are interested in enrolling in a dance class. It is used to gather their personal and contact details, medical history, and consent from parents or guardians for minors. The form aims to ensure that students and parents/guardians are properly registered and aware of the necessary information for the student's dance program.
-</thinking>
-
 # Dance Class Intake Form - Help Guide
 
 ## Purpose

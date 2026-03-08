@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, this form is intended to assess the math skills of a preschooler. This form is designed to gather information about a child's understanding of various math concepts, such as addition and subtraction, counting, sorting, and shapes. Each question is meant to evaluate the child's response in a select-one format, where they can choose either "Yes" or "No" to answer.
-
-This form is part of a larger educational assessment tool, and the data collected will help educators and researchers understand the math abilities of preschoolers. By answering this survey, you will be contributing to this valuable research and helping to inform early childhood education programs.
-
-Please review the form carefully to ensure you understand each question and answer accurately. If you have any questions or concerns, please do not hesitate to reach out to the form administrators.
-
-</thinking>
-
 # Early Childhood Math Skills Survey - Help Guide
 ## Purpose
 The Early Childhood Math Skills Survey is a tool used to assess the math abilities of preschoolers. The survey consists of multiple questions that evaluate their understanding of various math concepts, such as counting, sorting, and shapes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering vehicles, likely for insurance or government agencies. The form appears to be used for collecting information about a vehicle's ownership, registration status, and details. Before filling out this form, ensure you have all the necessary information about the vehicle you want to register. The form has multiple pages, but the main fields are grouped under "vehicle information" and "registration details." Please review each field carefully to ensure accurate completion.
-</thinking>
-
 # Vehicle Registration Form - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle for registration purposes.

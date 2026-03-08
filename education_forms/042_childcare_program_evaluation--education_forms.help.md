@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Program Evaluation - Help Guide
 
 ## Purpose

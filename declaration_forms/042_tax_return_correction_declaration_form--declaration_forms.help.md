@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of the "tax_return_correction_declaration_form" form is to enable users to declare corrections to a previously filed tax return. This form is likely used for official or formal corrections, and not for casual or informal corrections. It's designed to be used in a formal process where a taxpayer is requesting a change or adjustment to their tax return, which may involve a correction or amendment. This form is probably used by tax authorities or government agencies to track and verify the corrections made.
-
-This form is likely used for situations where a taxpayer needs to correct errors or inconsistencies in their tax return, such as:
-
-*   Correcting mathematical errors or miscalculations
-*   Amending or changing tax credits or deductions
-*   Resolving discrepancies or inconsistencies in tax information
-
-The form is designed to be completed by the taxpayer or their representative, and it may need to be reviewed and approved by the relevant tax authorities or government agencies.
-
-</thinking>
-
 # tax_return_correction_declaration_form - Help Guide
 ## Purpose
 The "tax_return_correction_declaration_form" is a form designed to declare corrections to a previously filed tax return. It is used for official or formal corrections and is likely used by tax authorities or government agencies to track and verify the corrections made.

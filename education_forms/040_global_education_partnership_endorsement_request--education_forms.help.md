@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Education Partnership Endorsement Request - Help Guide
 ## Purpose
 This form is used to request endorsement for a global education partnership. The purpose of this form is to gather information about your organization, its partnership goals, and project specifics. This data will be used to review and potentially endorse your partnership.

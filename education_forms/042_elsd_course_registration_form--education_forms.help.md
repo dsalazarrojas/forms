@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who wish to register for a course using our online system. The purpose of this form is to collect essential details from you for course enrollment and management. This form will only be accessible to users who are authorized to use it. Please note that this form is for registering for a course, and not for other purposes such as searching for courses, viewing course content, or other non-registrating activities. Please ensure that you have the necessary authorization and the correct course information before completing this form.
-</thinking>
-
 # elsd_course_registration_form - Help Guide
 ## Purpose
 The elsd_course_registration_form is used to register for courses in our system.

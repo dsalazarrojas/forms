@@ -1,7 +1,3 @@
-<thinking> 
-This form was created to gather information about your child's needs and experiences. The form asks for 25 text input fields, which might be used to create a comprehensive profile of your child. Before starting, please ensure that you have not filled out this form before, and that you are completing it for the purpose of providing accurate information about your child. This form is meant to be completed by parents or guardians, and the responses will be used to support their child's development and well-being. 
-</thinking>
-
 # Tell Me About Your Child Form - Help Guide
 ## Purpose
 This form is designed to collect information about your child's experiences, needs, and characteristics. The goal is to create a comprehensive profile that can be used to support your child's development and well-being.

@@ -1,7 +1,3 @@
-<thinking>
-The Student Government Purchase Request Form is designed to allow students to request purchases on behalf of their student government. This form helps to keep track of and verify student government purchases, and to provide a formal request for purchases that require approval. When completing this form, make sure to only submit valid and accurate information. To avoid duplication, check our database to see if a similar request has already been submitted. If you are unsure, contact the responsible authority for clarification.
-</thinking>
-
 # Student Government Purchase Request Form - Help Guide
 ## Purpose
 The Student Government Purchase Request Form is used to submit a formal request for purchase to the student government. This form helps to track and verify purchases, ensuring that all necessary information is captured accurately and consistently.

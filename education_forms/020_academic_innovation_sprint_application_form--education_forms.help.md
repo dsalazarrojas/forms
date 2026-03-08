@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for an Academic Innovation Sprint, a collaborative project where individuals with diverse skills and experiences come together to work on innovative projects in academia. To ensure that the form is filled out correctly and effectively, please follow the steps below.
-</thinking>
-
 # Academic Innovation Sprint Application Form - Help Guide
 
 ## Purpose

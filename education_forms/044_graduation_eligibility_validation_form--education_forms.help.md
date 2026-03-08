@@ -1,13 +1,3 @@
-<thinking>
-To determine graduation eligibility, this form is used to validate a student's progress and status in their academic program. The form collects information such as student's personal details like name, date of birth and graduation status, to graduation-specific details like graduation date, graduation status, and outstanding requirements. This form aims to ensure that students meet the requirements for graduation and are on track to complete their studies. The form is designed to be filled out by students themselves or by program administrators to track student progress.
-
-Please note that this form is intended for internal use within an educational institution. All the information collected will be used to track student progress and graduation status, and it is not intended for external use.
-
-Before filling out this form, please make sure that all required fields are filled out accurately and completely.
-
-This form consists of multiple fields, each of which will be explained in detail below.
-</thinking>
-
 # Graduation Eligibility Validation Form - Help Guide
 ## Purpose
 This form is used to validate a student's graduation eligibility status and track their progress through the academic program.

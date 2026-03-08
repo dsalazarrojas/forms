@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used for its intended purpose and not duplicated. This guide is for educational settings, specifically to gauge the school climate. A school climate survey aims to measure the quality of relationships among students, staff, and faculty, and the overall school environment. This information will be used to improve the school community. Please review this form carefully to ensure you have completed it correctly and not filled it out previously.
-</thinking>
-
 # School Climate Survey - Help Guide
 ## Purpose
 This form is designed to gauge the school climate by asking questions about your experiences, opinions, and perceptions of the school environment. Your input will help us better understand your needs and concerns, and inform decisions to improve the school community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about donors for outreach purposes. The form is intended for use by organizations to manage and track their donor relationships. The goal of this form is to provide a standardized way to document and analyze donor data, ensuring that the organization can effectively communicate with and follow up with donors. This form will help organizations to keep track of donor names, their relationship with the organization, contact method, email, notes, follow-up status, last contacted date, and contact frequency. The form is designed to be flexible and can be adapted to suit the specific needs of the organization.
-</thinking>
-
 # Donor Outreach Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about donors for outreach purposes, allowing organizations to manage and track their donor relationships effectively.

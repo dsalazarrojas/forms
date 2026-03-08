@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on how to improve a service or product, specifically in the context of providing more information to users. It is meant to gather information that will help us evaluate and refine our services. Please ensure that you understand the purpose of this form before proceeding. This form is not designed to be a generic feedback form, but rather a specific one tailored to the service or product we are trying to improve. If you have already provided similar feedback on this topic, please do not submit another form.
-</thinking>
-
 # start_with_more_information - Help Guide
 ## Purpose
 This form is designed to collect user feedback on how to improve a service or product, specifically in the context of providing more information to users. We are seeking to understand what users are looking for when interacting with our service or product, and how we can better meet their needs.

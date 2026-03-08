@@ -1,7 +1,3 @@
-<thinking>
-Is the form intended for registering participants in a learning or digital storytelling experience? Are the questions designed to elicit specific preferences or background information from participants? Is there any overlap or duplication in the questions being asked?
-</thinking>
-
 # digital_storytelling_in_learning_registration_form - Help Guide
 ## Purpose
 This form is designed to collect participant details and preferences for a learning or digital storytelling experience.

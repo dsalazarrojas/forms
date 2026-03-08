@@ -1,6 +1,3 @@
-<thinking>
-The form "e_learning_course_order_form_template" is designed to collect information for an e-learning course order. The form includes fields for course information, user details, payment details, and course specifics. It appears to be intended for online education purposes. To confirm, the form fields suggest it is used for ordering and managing e-learning courses. If this form is not relevant to your context, please let me know and I can adjust accordingly.</thinking>
-
 # e_learning_course_order_form_template - Help Guide
 ## Purpose
 This form is used to collect and manage information for e-learning course orders.

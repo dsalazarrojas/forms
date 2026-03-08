@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to provide information about themselves and their educational background, as well as for their recommenders to provide recommendations. This form is intended for students who are planning to study abroad and need to submit documentation for a study abroad program. 
-</thinking>
-
 # Study Abroad Recommendation Form - Help Guide
 ## Purpose
 This form is for students who are planning to study abroad and need to provide information about themselves and their recommenders. It is used to gather necessary documentation for a study abroad program.

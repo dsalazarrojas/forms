@@ -1,5 +1,3 @@
-<thinking>...This form is designed for applicants to the Housing Leadership Programme, a program that likely aims to develop leadership skills in individuals working in the housing sector. The form is meant to collect personal and professional details from applicants, including their motivations and references. Before filling out this form, ensure you are a valid applicant and have not submitted a duplicate application... </thinking>
-
 # Housing Leadership Programme Application - Help Guide
 ## Purpose
 The Housing Leadership Programme Application Form is designed to collect information from individuals interested in participating in the Housing Leadership Programme. This program aims to develop leadership skills in individuals working in the housing sector.

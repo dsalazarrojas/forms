@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from surgical technology clinical slots, which are essential for the efficient management of surgical teams, clinics, and labs. It is likely used by surgical technologists, instructors, or administrators to plan and coordinate rotations, schedules, and rotations details. The purpose of this form is to gather information about rotation preferences, clinical slots, time slots, preferred locations, rotation lengths, available dates, start dates, end dates, rotation frequencies, rotation types, rotation details, rotation preferred start dates, rotation preferred end dates, rotation preferred times, and rotation comments.
-
-The form appears to be used in an educational context, possibly for student training or rotation scheduling in a medical setting. The form fields suggest that it is used to collect data for planning and coordination purposes.
-
-It is recommended that the form be reviewed to ensure that it is still relevant and up-to-date. If the form fields have changed or new requirements have been added, this will likely require updating the form's metadata.
-
-The form fields seem to be well-designed and easy to understand, but if any changes are made to the form's layout or fields, it's worth double-checking that the changes don't impact usability or cause confusion for users.
-
-Please review this form carefully and ensure that the fields are still relevant and up-to-date before distributing it further.
-
-</thinking>
-
 # Surgical Technology Clinical Slot Survey - Help Guide
 ## Purpose
 This form collects information about clinical slots and rotations for surgical technology students or technologists.

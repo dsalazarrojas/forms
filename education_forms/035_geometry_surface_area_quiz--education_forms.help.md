@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help users estimate the surface area of various three-dimensional objects, such as cubes, squares, spheres, and cylinders, by providing input fields for relevant formulas and dimensions. It's likely that this form is used in educational settings for students to practice mathematical calculations. To confirm, let's review the form fields... Ah-ha! Each field is either a text field for the formula or a number field for the dimensions. It appears that this form doesn't require any user authentication or specific knowledge, making it suitable for public use. I'm ready to proceed with creating the help guide...</thinking>
-
 # Geometry Surface Area Quiz - Help Guide
 ## Purpose
 The Geometry Surface Area Quiz is a tool to help users estimate the surface area of various three-dimensional objects using mathematical formulas. This form is designed to guide students through calculations for a cube, square, sphere, and cylinder.

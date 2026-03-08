@@ -1,11 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the "math_and_science_competition_registration" form. This form is for registering participants in a math and science competition. It is intended for students and teachers to provide information about the competition.
-
-To ensure clarity and consistency, we will use the provided YAML schema to guide our design. We will use the labels and types to inform our explanations.
-
-Before proceeding, we check for relevance and non-duplication of fields to avoid unnecessary complexity.
-</thinking>
-
 # math_and_science_competition_registration - Help Guide
 ## Purpose
 This form is for registering participants in a math and science competition. It requires information from both the student and teacher sides.

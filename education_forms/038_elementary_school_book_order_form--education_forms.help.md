@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information from students, schools, and teachers related to book orders for elementary schools. The purpose of this form is to collect contact details, school name, and teacher name to facilitate the book ordering process. It's essential to complete this form accurately to ensure efficient processing and delivery of ordered books. Please fill out this form only for book orders intended for your school or educational institution; otherwise, please use the standard school contact information to place your order.
-
-</thinking>
-
 # Elementary School Book Order Form - Help Guide
 
 ## Purpose

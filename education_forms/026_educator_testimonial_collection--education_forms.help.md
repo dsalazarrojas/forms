@@ -1,7 +1,3 @@
-<thinking>
-**Internal Reasoning:** The "Educator Testimonial Collection" form is used to gather feedback from educators about their experiences with various programs and initiatives. This form is designed to capture their perspectives, successes, and challenges, which will be used to improve the programs and initiatives offered to support educators and their students. The form is meant for educators to share their thoughts and opinions about programs in which they have participated and to provide specific details about the participants they have interacted with. This feedback will help to identify areas of improvement and will be used to make informed decisions about future program development.
-</thinking>
-
 # Educator Testimonial Collection - Help Guide
 ## Purpose
 The "Educator Testimonial Collection" form is used to gather feedback from educators about their experiences with programs and initiatives.

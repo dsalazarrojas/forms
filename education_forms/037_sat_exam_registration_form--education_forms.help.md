@@ -1,8 +1,3 @@
-<thinking> 
-The SAT Exam Registration Form is used to register students for the SAT exam. Before proceeding, please ensure you are registering a student and not attempting to register multiple students at once. Also, make sure you are not submitting duplicate registrations for the same student. This form should only be filled out by authorized personnel in the institution.
-
-</thinking>
-
 # SAT Exam Registration Form - Help Guide
 ## Purpose
 The SAT Exam Registration Form is used to register students for the SAT exam. This form is intended for authorized personnel within the institution to collect and record student information for the exam.

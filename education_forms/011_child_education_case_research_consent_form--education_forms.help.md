@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect consent from parents or guardians for a child to participate in educational research. The form will help ensure that the researchers understand the child's identity and age eligibility, while also ensuring that the parents or guardians understand the specific research activities for which they are consenting. This consent form is used to verify that the child's participation is voluntary. The information collected will be used for research purposes only. It is essential to fill out this form carefully to avoid any confusion or miscommunication. Please take your time and ensure that you fill out all required fields to complete the form. If you have any doubts or concerns, please reach out to the researcher. 
-</thinking>
-
 # Child Education Case Research Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from parents or guardians for a child's participation in educational research. It's essential to ensure that the researcher understands the child's identity and age eligibility.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Test Prep Course Refund Request Form - Help Guide
 ## Purpose
 This form is intended for students to request a refund for a Test Prep course they have taken. The form should be completed by the student to provide necessary details for a refund processing.

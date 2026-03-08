@@ -1,8 +1,3 @@
-<thinking>
-This form is used to refer a student to a higher authority for disciplinary reasons. It is intended to be used when a teacher or staff member believes a student has committed an infraction that requires further action. The form should only be completed for incidents that are not minor and are not already being addressed through other means.
-Before filling out this form, ensure that you have a legitimate reason for the referral and that you are not duplicating effort or referring a student for an infraction that is being handled through another process.
-</thinking>
-
 # Discipline Referral Form - Help Guide
 ## Purpose
 The Discipline Referral Form is used to bring a student's behavior to the attention of a higher authority, typically for incidents that are not minor and are not already being addressed through other means.

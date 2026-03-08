@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for tracking student attendance, which is a crucial aspect of education. The form is used to record the attendance of students, including their names, attendance status, and any comments or remarks. The form is designed to be filled out by teachers or school administrators to keep track of student attendance and provide a record of student engagement. To ensure consistency, it's essential to fill out the form accurately and thoroughly for each student. Please ensure that you're using this form for its intended purpose and not duplicating any other attendance tracking systems.</thinking>
-
 # Student Attendance Tracking Form - Help Guide
 ## Purpose
 The Student Attendance Tracking Form is used to track student attendance, including their names, attendance status, and any comments or remarks. This form helps teachers and school administrators keep a record of student engagement and ensures accurate tracking of student attendance.

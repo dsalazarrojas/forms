@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit information about language course inquiries, gathering relevant details about the prospect's qualifications, interests, and needs for a course, while also allowing them to indicate their availability for follow-up. The form is designed to be user-friendly, but some fields may have unclear labels or require additional explanation to ensure a smooth and accurate submission process. This form is intended for internal use within an organization, and the information gathered will be used for decision-making purposes. 
-
-</thinking>
-
 # Online Language Course Inquiry - Help Guide
 ## Purpose
 This form is used for users to provide information about language course inquiries. The data collected will help in understanding prospect's qualifications, interests, and other relevant details.

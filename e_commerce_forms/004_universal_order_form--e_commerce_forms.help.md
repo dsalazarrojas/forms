@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Universal Order Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to obtain consent from participants to record and share their academic peer exchange sessions. It helps ensure that all participants are aware of the recording and sharing policies. This form should be filled out by all participants before each recording session. 
-
-To determine if this form is relevant, please consider the following: 
-
-* You are recording an academic peer exchange session.
-* You are collecting data on this session.
-* You are unsure if participants are comfortable with recording and sharing their contributions.
-</thinking>
-
 # Academic Peer Exchange Recording Consent Form - Help Guide
 ## Purpose
 The Academic Peer Exchange Recording Consent Form is used to obtain consent from participants to record and share their contributions during academic peer exchange sessions. This form ensures that all participants are aware of the recording and sharing policies.

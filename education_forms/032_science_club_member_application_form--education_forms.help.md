@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose of the Science Club Member Application Form and how to complete it. This form is intended for individuals interested in joining the Science Club, a community of students and educators passionate about science, technology, engineering, and mathematics (STEM). Before proceeding, ensure you haven't submitted this form before; duplicate submissions can cause inconvenience.
-</thinking>
-
 # Science Club Member Application Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to apply for COVID 19 relief scholarships, which are designed to support students affected by the pandemic. The form collects information about the student's situation, financial need, and academic progress. The purpose of this form is to determine eligibility for a scholarship that can help alleviate the burden of school fees during this challenging time. This form should only be completed by students who have been directly affected by the pandemic. Please make sure to review the form carefully before submitting it to ensure that all required fields are completed accurately and truthfully.</thinking>
-
 # COVID 19 Relief Scholarship Application Form - Help Guide
 ## Purpose
 This form is used to apply for COVID 19 relief scholarships, which are designed to support students affected by the pandemic.

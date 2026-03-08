@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering for an online dance class. It is likely intended for students who want to sign up for a dance class, providing their personal details and preferences.
-To avoid duplication of entries, this form should only be filled out once per person.
-</thinking>
-
 # Online Dance Class Registration Form - Help Guide
 ## Purpose
 This form is used to register for an online dance class. Fill out the form to provide your personal details and preferences.

@@ -1,9 +1,3 @@
-<thinking>
-
-The Personalized Learning Plan Form is used to capture information about a learner's learning needs and preferences. This form helps instructors understand how to tailor their teaching to each individual learner's goals, skills, and availability. This information can be used to create a customized learning plan that meets the learner's specific requirements. Please ensure that you have filled out this form for every learner you are working with, as it helps to ensure that each learner receives the best possible support and instruction.
-
-</thinking>
-
 # Personalized Learning Plan Form - Help Guide
 ## Purpose
 

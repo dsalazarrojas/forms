@@ -1,5 +1,3 @@
-<thinking>What is the purpose and requirements of this form? It's used for a Yoga Instructor Training Form, likely for certification or registration purposes. It should be used by yoga instructors to provide information about themselves, their qualifications, or their training. There are eight fields to be completed: form title, category, description, full name, email, phone, date, and time. The form is likely used for registration, certification, or other official purposes within the yoga training context.</thinking>
-
 # Yoga Instructor Training Form - Help Guide
 ## Purpose
 This form is designed to collect information from yoga instructors for certification, registration, or other official purposes within the yoga training context.

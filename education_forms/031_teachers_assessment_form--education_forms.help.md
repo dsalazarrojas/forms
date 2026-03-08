@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Teachers Assessment Form - Help Guide
 ## Purpose
 This form was created to assess the performance of teachers. It consists of 8 pages, each with a text field. The teacher will be assessed on their ability to complete each page.

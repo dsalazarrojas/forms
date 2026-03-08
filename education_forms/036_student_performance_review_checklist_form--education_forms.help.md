@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Performance Review Checklist Form - Help Guide
 ## Purpose
 This form is designed to help instructors assess a student's performance and progress. It's used to gather information about a student's overall performance, progress, and goals, as well as to note any comments or suggestions from the instructor. This data can be used to inform future educational decisions and to provide guidance to the student.

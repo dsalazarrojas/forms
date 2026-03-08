@@ -1,9 +1,3 @@
-<thinking>
-This form is used by administrators to create and manage resources for Community Health Workers (CHW). CHWs are essential community-based workers who provide health education, outreach, and linkages to health services for vulnerable populations.
-When a CHW encounters a resource that they feel is relevant to a client's needs, they will submit this form to create a new resource entry. The purpose of this form is to provide a standardized way to collect and organize resource information, making it easier for CHWs to refer clients to these resources.
-Before completing this form, ensure that the resource you are adding is not already listed in the system. Review the existing resource list to avoid duplication.
-</thinking>
-
 # CHW Resource Form - Help Guide
 ## Purpose
 The CHW Resource Form is used to create and manage resources for Community Health Workers.

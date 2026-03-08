@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from tutors about their interactions with students. Specifically, it is designed to collect data on weekly progress, student performance, and feedback from the tutor's lessons. This form can be used by educators to keep track of student development and provide a structured template for reporting on lessons.
-
-To ensure that this form serves its purpose and does not duplicate efforts, we will check for non-duplication and relevance before proceeding with the guide. 
-
-</thinking>
-
 # Weekly Tutor Report - Help Guide
 ## Purpose
 The Weekly Tutor Report form is designed to collect data on student progress and feedback from tutors' lessons. It is intended to provide a structured template for tutors to report on their interactions with students, allowing them to track student development and provide valuable insights for future lessons.

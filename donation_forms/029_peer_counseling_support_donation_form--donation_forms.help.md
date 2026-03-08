@@ -1,8 +1,3 @@
-<thinking>
-The Peer Counseling Support Donation Form is a tool used to collect information from individuals or organizations interested in supporting peer counseling services. The form is designed to gather relevant details from the user, including their name, contact information, and other relevant details that will help us understand their needs better.
-The form is intended for individuals or organizations willing to support peer counseling services. It is not necessary to fill out the form if you are a client seeking peer counseling services. Instead, please contact us directly through our main contact method.
-</thinking>
-
 # Peer Counseling Support Donation Form - Help Guide
 ## Purpose
 The Peer Counseling Support Donation Form is a tool to collect information from individuals or organizations interested in supporting peer counseling services. This form will help us better understand your needs and preferences.

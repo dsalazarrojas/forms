@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rubiks_Cube_Notation_Quiz - Help Guide
 ## Purpose
 This form is designed to help users understand and learn the notation system used for the Rubik's Cube. The form will guide you through a series of questions and ask for personal details to help us assess your understanding of the cube notation.

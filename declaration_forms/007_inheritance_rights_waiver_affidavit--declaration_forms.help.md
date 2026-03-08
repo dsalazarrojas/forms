@@ -1,20 +1,3 @@
-<thinking>
-This is a help guide for the "Inheritance Rights Waiver Affidavit" form. The form is used to waive certain rights related to an estate, such as inheritance rights, in a specific context. It is typically used to ensure that all parties involved in the estate's management are aware of the waiver and have signed it. The form is completed by a collector who is responsible for collecting and processing the declarations. It is essential to fill out this form accurately and truthfully to avoid any potential issues or disputes related to the estate.
-
-The form has 25 fields that are divided into different sections:
-
-- Declaration Forms: This section asks you to choose the type of declaration form you are using (Law Offices, Estate Administrators, Families, or Other).
-- Legal Forms: This section asks you to choose the type of legal form you are using (Affidavit, Agreement, Document, or Other).
-- Estate Settlement: This section is optional and allows you to enter any additional information about the estate settlement.
-- Waivers: This section asks if there are any waivers related to the estate.
-- Collection Information: This section asks for the collection date and time of the declaration.
-- Collector's Information: This section asks for the collector's name, address, phone number, and email.
-- Estate Information: This section asks for the estate owner's name, address, phone number, and email.
-- Other Information: This section is optional and allows you to enter any other information related to the declaration.
-- Declaration Submitter's Information: This section asks for the name, phone number, and email of the person submitting the declaration.
-- Declaration Signature: This section is optional and allows you to upload a scanned version of the signed declaration.
-</thinking>
-
 # Inheritance Rights Waiver Affidavit - Help Guide
 ## Purpose
 The "Inheritance Rights Waiver Affidavit" form is used to waive certain rights related to an estate. It is essential to fill out this form accurately and truthfully to avoid any potential issues or disputes related to the estate.

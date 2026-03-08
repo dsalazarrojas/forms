@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their knowledge and understanding of laboratory safety practices and procedures. This form is meant to be used by users who are familiar with the basics of laboratory safety and want to verify their knowledge.
-</thinking>
-
 # Laboratory Materials Knowledge Quiz - Help Guide
 ## Purpose
 The Laboratory Materials Knowledge Quiz is a form designed to test your understanding of laboratory safety and procedures.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect donations for the Retirement Planning Education Fund, a fund that supports educational programs and initiatives related to retirement planning. This form is designed to gather information from donors to better understand their preferences and needs. The form is part of a larger system that helps the organization manage and track donations.
-
-Before proceeding, please ensure that you have the necessary permissions and authorizations to access this form and the information it collects.
-
-</thinking>
-
 # Retirement Planning Education Fund Donation Form - Help Guide
 ## Purpose
 The Retirement Planning Education Fund Donation Form is used to collect donations for educational programs and initiatives related to retirement planning. The information collected will be used to better understand donor preferences and needs.

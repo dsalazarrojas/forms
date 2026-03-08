@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Order Form - Help Guide
 ## Purpose
 The Makeup Order Form is designed to collect information for online orders of makeup products from customers. This form helps us understand the customer's preferences and details for processing their orders efficiently. It is recommended to fill out this form carefully, ensuring that all required fields are completed.

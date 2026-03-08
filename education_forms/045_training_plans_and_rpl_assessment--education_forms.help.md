@@ -1,16 +1,3 @@
-<thinking>
-The "Training Plans And RPL Assessment" form is likely used by HR or training departments to track employee training plans and progress. This form probably helps to ensure that employees are on track with their training and RPL (Recognition of Prior Learning) status, allowing for efficient resource allocation and training program evaluation.
-
-It might be used for the following use cases:
-
-* To create and track training plans for employees
-* To assess RPL status for employees
-* To monitor training progress and provide necessary support
-* To evaluate training effectiveness and make decisions on future resource allocation
-
-To avoid duplication of information and ensure consistency, it's essential to review this form carefully and ensure all required fields are completed accurately.
-</thinking>
-
 # Training Plans And RPL Assessment - Help Guide
 ## Purpose
 This form is used to create and track training plans for employees, assess RPL status, and monitor training progress.

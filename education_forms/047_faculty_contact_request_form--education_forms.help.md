@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by students or staff to request contact information of a faculty member. The purpose of this form is to gather relevant information from the user, such as their department, the faculty member they are inquiring about, and the reason for their inquiry. This information will be used to facilitate communication between the user and the faculty member.
-
-Before proceeding, please note that this form is meant for individual requests and not for general inquiries or bulk requests. If you have a large or recurring request, please contact the department directly. Duplicate requests will be removed, and only unique requests will be processed.
-
-</thinking>
-
 # Faculty Contact Request Form - Help Guide
 ## Purpose
 The Faculty Contact Request Form is used by students or staff to request contact information of a faculty member.

@@ -1,17 +1,3 @@
-<thinking>
-The purpose of the Graduate Exit Survey is to gather feedback from students who have completed their graduate program to assess the quality and effectiveness of the program. This form is designed to collect information about the student's experience, satisfaction, and perceptions of the program, as well as any comments or suggestions they may have. This form should only be completed by students who have actually enrolled in the graduate program, and not by those who are merely interested in the program or have not yet been admitted.
-
-To ensure accuracy and consistency in the responses, please review the following guidelines:
-
-* Make sure you have actually enrolled in the graduate program.
-* Answer the questions truthfully and to the best of your ability.
-* Select only one option for select_one type fields.
-* Select all that apply for select_multiple type fields.
-* Use the provided text fields to provide clear and concise answers.
-* Do not repeat any answers or provide unnecessary information.
-* If you have any comments or suggestions, please use the text field for comments.
-</thinking>
-
 # Graduate Exit Survey - Help Guide
 ## Purpose
 The Graduate Exit Survey is designed to gather feedback from students who have completed their graduate program to assess the quality and effectiveness of the program.

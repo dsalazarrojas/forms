@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for students to submit their artwork for evaluation or display. The purpose of this form is to collect information about the student, their artwork, and their school affiliation for administrative purposes. 
-
-The form is not designed for mass submission, but rather for individual artwork evaluation. It's best to submit each artwork separately and not in bulk.
-
-The form does not store submitted artworks for an extended period, so please submit one at a time to avoid confusion.
-
-Please ensure each field is correctly filled out to avoid delays in the review process.
-
-</thinking>
-
 # Student Artwork Submission Form Template - Help Guide
 ## Purpose
 The purpose of this form is to allow students to submit their artwork for evaluation or display. It is intended for individual submissions, and it is best to submit each artwork separately.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Braintree Online Donation Form", I will need to understand the form's purpose and how it will be used by end-users. The form is designed to collect donations from individuals for a particular organization or cause. It appears to be a comprehensive form that captures various details about the donor, including their contact information, donation preferences, and payment method. The form seems to be intended for both one-time and recurring donations, with options for anonymous giving and receipt delivery. I will assume that this form will be used by individuals who want to contribute to a specific campaign or cause, and that the form's purpose is to facilitate the donation process.
-
-Before providing the final help guide, I would like to note that some fields may be required or optional based on the provided YAML configuration. Required fields are marked as "required: true" in the YAML configuration, while optional fields are marked as "required: false".
-
-</thinking>
-
 # Braintree Online Donation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Feedback On Learning Materials Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about the learning materials used in their courses. It helps instructors and course designers understand what works well and what needs improvement. Please complete this form to provide valuable insights that can enhance the learning experience.

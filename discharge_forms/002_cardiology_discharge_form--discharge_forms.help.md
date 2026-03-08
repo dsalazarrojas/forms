@@ -1,5 +1,3 @@
-<thinking>Cardiology Discharge Form is used to document the final steps and instructions for a patient's discharge from the hospital, ensuring a smooth and safe transition back to home care. This form should only be completed for patients with a cardiac condition, as it contains information specific to cardiology patients. Ensure this form is used correctly to avoid duplication of effort and ensure accuracy in patient care. Please review the form carefully before completing it, and ensure all required fields are filled out completely. This form will be used to communicate with the patient and their primary care physician, so accuracy and clarity are crucial. If you are unsure about any information or have questions, please reach out to the cardiology team for clarification.</thinking>
-
 # Cardiology Discharge Form - Help Guide
 ## Purpose
 The Cardiology Discharge Form is used to document the final steps and instructions for a patient's discharge from the hospital. This form is essential for ensuring a smooth and safe transition back to home care for patients with a cardiac condition.

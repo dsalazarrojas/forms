@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to support academic transformation projects by providing a platform for applicants to submit their proposals, outlining the goals, methods, and expected outcomes of their projects. This form is intended for applicants who are seeking funding for academic transformation initiatives that align with the specified categories (Curriculum Redesign, Technology Integration, Pedagogical Innovation, Assessment Reform, Student Engagement, Equity and Inclusion, or Other). 
-
-To ensure relevance and avoid duplication, applicants are asked to clearly describe their project and provide a breakdown of their budget, as well as indicate whether they are receiving funding from other sources. This form is intended to guide applicants through the process of providing detailed information about their project, ensuring that all necessary details are provided and that the application is complete.
-
-</thinking>
-
 # Academic Transformation Fund Application Form - Help Guide
 ## Purpose
 This form is designed to guide applicants through the submission of their academic transformation project proposal, ensuring that all necessary details are provided.

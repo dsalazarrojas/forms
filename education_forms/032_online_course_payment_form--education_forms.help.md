@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect payment information for online courses. The payment form is a crucial component of the online course platform, as it enables instructors to receive payment from students for their courses. The form is intended to be completed by students to provide their payment details to the instructor. The form collects the following information: course title, course price, course description, student email, instructor email, payment method, payment type, card details, and date of birth.
-
-Please note that this form is part of a broader system, and the payment information collected here will be used for payment processing and course management. The form's fields are designed to be straightforward and easy to understand. Before proceeding, please make sure that you understand the form's purpose and the required fields. This form's fields and options are based on the following YAML schema:
-</thinking>
-
 # Online Course Payment Form - Help Guide
 ## Purpose
 The online course payment form is designed to collect payment information from students to enable instructors to receive payment for their courses.

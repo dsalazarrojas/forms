@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help customers submit orders for plants. It collects customer information, address, payment details, plant information, and order specifics.
-This form should only be used for customers who have been previously vetted or who have a valid relationship with our business. 
-We want to avoid duplication of orders or attempts to manipulate orders, hence the requirement for customers to be vetted.
-</thinking>
 # plant_order_form - Help Guide
 ## Purpose
 The plant_order_form is a form designed to facilitate the process of ordering plants from our business. It is meant for customers who have been previously vetted or have a valid relationship with our business.

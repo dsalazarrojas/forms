@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow students and teachers to register for a workshop on school to work pathways, which is a program that helps students transition from school to a career. This form will likely be used by students who are interested in participating in the workshop, but it's also possible that teachers will use it to manage workshop registrations. The form will be used by students and teachers to provide information such as student name, school grade level, workshop date, email, phone number, assigned teacher, and notes. To avoid duplication, this form should not be filled out if the user is already registered for the workshop.
-
-</thinking>
-
 # School To Work Pathways Workshop Registration Form - Help Guide
 
 ## Purpose

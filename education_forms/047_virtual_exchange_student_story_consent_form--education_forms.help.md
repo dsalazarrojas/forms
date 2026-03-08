@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_exchange_student_story_consent_form - Help Guide
 
 ## Purpose

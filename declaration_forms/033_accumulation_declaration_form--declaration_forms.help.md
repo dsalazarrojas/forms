@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from declarants for the purpose of declaration, specifically for filing and reporting. It's essential to ensure that the information provided is accurate and true to the best of the declarant's knowledge. Please note that this form is intended for declarants who are filing under their own capacity, and not for any other individual or organization. Before starting, review the form carefully and answer all questions truthfully. If you're unsure about any field or question, it's recommended to consult with the relevant authorities or seek clarification from the form administrator.
-</thinking>
-
 # Accumulation Declaration Form - Help Guide
 ## Purpose
 This form is used to gather information from declarants for the purpose of declaration and reporting. It is essential to provide accurate and truthful information to the best of your knowledge.

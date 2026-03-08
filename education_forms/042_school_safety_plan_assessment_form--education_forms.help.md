@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the safety protocols and procedures in a school setting. The purpose of this form is to ensure that schools maintain a safe environment for students and staff, and that safety measures are in place in case of emergencies. This form should only be filled out by school administrators or authorized personnel.
-</thinking>
-
 # School Safety Plan Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the safety protocols and procedures in a school setting. It is designed to ensure that schools maintain a safe environment for students and staff, and that safety measures are in place in case of emergencies.

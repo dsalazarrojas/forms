@@ -1,14 +1,3 @@
-<thinking>
-The form, called "COVID 19 Travel Declaration Form For Visitors," is a document that collects information from visitors about their travel history, health status, and other relevant details. It is crucial that this form be filled out accurately and truthfully to ensure a smooth and safe experience for all parties involved.
-
-This form is intended for visitors to fill out before arriving at their destination, and it should only be completed if the information provided is accurate and reliable. The data collected will be used for contact tracing and health monitoring purposes.
-
-Please ensure that you have reviewed the form carefully and answered all questions truthfully before submitting it. If you are unsure about any of the questions, please consult the relevant authorities or your travel agent for guidance.
-
-Please do not submit the form if you have not been truthful in answering any of the questions. Your cooperation in filling out this form is greatly appreciated.
-
-</thinking>
-
 # COVID 19 Travel Declaration Form For Visitors - Help Guide
 ## Purpose
 

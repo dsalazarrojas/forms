@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # education-training-registration-form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information, training details, and participant answers for educational training programs. This form helps in organizing and registering participants for such programs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from donors for the purpose of processing their donations to the community outreach program. This form will help us understand the donor's contact details, donation preferences, and payment methods. It's essential to fill out this form accurately and completely to ensure a smooth donation process. Please review the form carefully and ask for clarification if any field is unclear. This form is not intended for internal use and will not affect the donor's account information. If you have already submitted a donation, please do not fill out this form again.
-</thinking>
-
 # Community Outreach Donation Form - Help Guide
 ## Purpose
 The Community Outreach Donation Form is designed to collect information from donors for the purpose of processing their donations to the community outreach program.

@@ -1,8 +1,3 @@
-<thinking>
-As the form designer and technical writer, I need to ensure that the user understands the purpose and usage of the "Digital Education Transformation Case Consent Form". 
-This form is used for capturing participant information and obtaining their consent for digital education transformation cases. It's designed to be filled out by individuals who are involved in the transformation process. The purpose of this form is to gather necessary contact details and consent information for the transformation process. To avoid duplication, this form should not be filled out multiple times by the same participant. 
-</thinking>
-
 # Digital Education Transformation Case Consent Form - Help Guide
 ## Purpose
 The Digital Education Transformation Case Consent Form is used to capture participant information and obtain their consent for digital education transformation cases.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a help guide for the "Staff Use Mobile Food Delivery Intake Form" form, I must first understand the purpose and fields of this form. Based on the input schema, it seems that this form is designed for staff to select a delivery order template, enter customer details, choose a pickup location, select a date and time for the order, and provide any additional order notes.
-
-Before proceeding, I'll check if there's any non-duplication or relevance issue. In this case, the form appears to be a simple data intake form for staff to collect and process orders from customers. The fields seem to be well-defined, and there's no obvious duplication or relevance issue.
-
-</thinking>
-
 # Staff Use Mobile Food Delivery Intake Form - Help Guide
 ## Purpose
 This form is designed for staff to collect and process orders from customers. Selecting the correct template, entering customer details, choosing a pickup location, specifying the order date and time, and providing any additional order notes are all essential steps in the order processing workflow.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students who are applying for educational grants. It should only be used by students who are eligible to receive such grants. The form should not be used in cases where the student has already received a grant from the same institution in the past 6 months. This is to prevent duplication of effort and ensure that resources are allocated fairly among all eligible students.
-</thinking>
-
 # Educational Grant Declaration Form - Help Guide
 ## Purpose
 The Educational Grant Declaration Form is a document that students must complete to apply for educational grants from the institution. The form collects relevant information about the student, their purpose for applying, and the grant amount they are seeking.

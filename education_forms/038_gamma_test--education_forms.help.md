@@ -1,11 +1,3 @@
-<thinking>
-
-The "gamma_test" form is designed to collect information related to education-related data. This form is likely part of an educational platform or system where users need to provide information about their educational backgrounds, interests, or preferences. The form is divided into multiple pages, each focusing on a specific aspect of the user's educational data.
-
-To ensure the correct and relevant data is collected, we need to verify that the form is being used for its intended purpose. Please review the form's fields and ensure they are not duplicated or unnecessary.
-
-</thinking>
-
 # gamma_test - Help Guide
 ## Purpose
 The "gamma_test" form is designed to collect information about users' educational backgrounds, interests, or preferences in an educational setting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their career interests and goals. The Career Cluster Survey is meant to help respondents identify potential career clusters that align with their interests and skills, as well as provide insight into their preferred learning modes, career goals, and any barriers to entry they may face. The survey is intended to be completed by students and professionals in the education sector. However, the form's purpose and questions may not be specific to the education sector, so it is possible that this form could be used in other contexts as well. If you're not in the education sector, you may still find the form useful, but the questions might not be as relevant to your needs.
-</thinking>
-
 # Career Cluster Survey - Help Guide
 ## Purpose
 This form is designed to gather information from respondents about their career interests and goals. It is intended to help respondents identify potential career clusters that align with their interests and skills.

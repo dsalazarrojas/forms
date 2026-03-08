@@ -1,6 +1,3 @@
-<thinking>...
-This form is designed for users to provide personal data for Semestral Clearance, likely for some internal administrative purpose within the organization. I assume it's a clearance process for students or employees, but further context is required to confirm. The "user_input" field is likely for general personal information, while "email" and "phone" fields are for contact purposes. I'm assuming the "required" field "email" is a crucial piece of information, whereas "user_input" and "phone" are optional. I will now create the help guide based on this information.</thinking>
-
 # SHS Semestral Clearance - Help Guide
 ## Purpose
 This form is used for users to provide personal data for Semestral Clearance. It is intended for internal administrative purposes within the organization.

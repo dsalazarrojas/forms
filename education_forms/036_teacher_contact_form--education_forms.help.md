@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between parents and teachers in the education system. The form is meant to be used by parents to contact teachers regarding their children's education. The form will be reviewed and responded to by the teacher, and the response will be kept on file for future reference.
-</thinking>
-
 # Teacher Contact Form - Help Guide
 ## Purpose
 This form is a communication tool for parents to contact teachers about their children's education.

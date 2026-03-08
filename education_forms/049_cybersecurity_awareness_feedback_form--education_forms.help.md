@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Cybersecurity Awareness Feedback Form. This guide will provide users with a clear understanding of the form's purpose, how to complete it, and what each field means. I will base the explanation on the provided YAML fields, being concrete, concise, and practical. If a field label is weak or unclear, I will explain it best-effort without inventing unsupported business logic.
-
-Before proceeding, I will review the form's structure and content to identify any potential issues or areas for improvement. This form appears to be focused on gathering feedback from participants about their experience with a cybersecurity awareness training program.
-
-After reviewing the form's content and YAML fields, I will create the user-facing help guide using the provided Markdown structure. I will make sure to include explanations for each field in a clear and concise manner, using bullet points for each field. I will also include a "Tips" section to provide additional guidance or best practices for completing the form.
-
-Please let me know if there are any changes or updates to the form's content or structure before I proceed with creating the user-facing help guide.</thinking>
-
 # Cybersecurity Awareness Feedback Form - Help Guide
 ## Purpose
 The Cybersecurity Awareness Feedback Form is designed to gather feedback from participants about their experience with the cybersecurity awareness training program. This form will help us understand your perceptions of the training's effectiveness, suggest ways to improve the program, and gather information about your preferences and concerns.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to verify a student's institutional information. The form is designed to collect data about the student's name, ID, email, phone number, and any additional notes about the student. It also collects data about the institution's name and phone number. This form is often used in educational contexts, such as when a student is applying to a program or institution, and the institution needs to verify the student's details. 
-
-To prevent duplication of effort, ensure that you only fill out this form if you are authorized to do so by the institution or the student.
-
-</thinking>
-
 # Institution Verification Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information for a home-based learning report, which is a report that documents a student's progress and performance at home. This form is intended to be completed by parents or educators who have direct contact with the student. The form is meant to be used in conjunction with other documentation and assessment tools to provide a comprehensive picture of the student's learning experience at home. Please ensure that you have reviewed the relevant policies and procedures before completing this form, and that you have not previously submitted a report for this student using this form.
 
 # Home Based Learning Report Form - Help Guide

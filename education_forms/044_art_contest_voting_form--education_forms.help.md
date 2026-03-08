@@ -1,7 +1,3 @@
-<thinking>
-The form is for art contest voters to submit their ratings and comments about the artworks that will be considered for first, second, and third place prizes in an art contest. The form asks for information from the voter, such as their name, email, and voting date, as well as the name and category of the contest. The form also asks the voter to select their top three choices for the top three prizes, providing fields for the artist and artwork title for each selection. The form also includes a section for the voter to provide comments on their selections. The form does not include fields for a third place selection, as the field is marked as not required. The form also includes fields for the voter to rate the importance of technical skill, creativity, and artistic vision in their selections. The form's fields and structure are designed to collect information in a structured and organized way, allowing for easy review and analysis of the voter's comments and ratings.
-</thinking>
-
 # Art Contest Voting Form - Help Guide
 
 ## Purpose

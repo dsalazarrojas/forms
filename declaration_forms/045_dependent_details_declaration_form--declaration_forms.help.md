@@ -1,9 +1,3 @@
-<thinking>...thinking
-
-The "Dependent Details Declaration Form" is a crucial document required for individuals to declare their dependent's information for official purposes. It is essential to ensure the accuracy and completeness of the provided details to avoid duplication or misrepresentation. Please verify that you are only accessing this form for the correct purpose and not duplicating an already existing declaration.
-
-</thinking>
-
 # Dependent Details Declaration Form - Help Guide
 ## Purpose
 The Dependent Details Declaration Form is a document used to declare and verify the information of a dependent for official purposes. This form ensures that the dependent's details are accurate and complete, and it's essential to fill out this form correctly to avoid duplication or misrepresentation of the declaration.

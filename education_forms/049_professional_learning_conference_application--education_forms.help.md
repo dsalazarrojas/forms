@@ -1,7 +1,3 @@
-<thinking> 
-This form is likely intended for educators or educational institutions to apply for a professional learning conference. The purpose of this form is to gather information from the applicant about their interests, details, and preferences for the conference. This form may be used to assess the qualifications and interests of potential attendees, or to collect additional information for logistical planning purposes. Before starting this form, please note that you are applying for a professional learning conference, and make sure you are authorized to complete it on behalf of your institution. If you have already submitted a similar application, you may not need to fill out this form again.
-</thinking>
-
 # professional_learning_conference_application - Help Guide
 ## Purpose
 This form is designed to collect information about your interests, details, and preferences for a professional learning conference.

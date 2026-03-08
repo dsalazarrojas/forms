@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended for users to enroll in programs related to nature and conservation programs. It captures essential information about the program, such as the participant's name, program type, start and end dates, and other relevant details.
-  Please ensure that you are completing this form for a legitimate purpose, and not for mass data entry.
-  This form is not intended to be a replacement for other forms, but rather a complementary tool to gather specific information for program management and administration.
-  If you're unsure about the purpose or scope of this form, please refer to your supervisor or team lead for clarification.
-</thinking>
-
 # nature_program_enrollment_form - Help Guide
 ## Purpose
 The Nature Program Enrollment Form is a tool for users to enroll in nature and conservation programs. This form helps gather essential information about the program, making it easier for program administrators to manage and coordinate the program efficiently.

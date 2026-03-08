@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a participant application form for research studies. The form's purpose is to collect demographic and research-related information from potential participants to determine their eligibility and suitability for the study. 
 
 To complete this form, follow these steps:

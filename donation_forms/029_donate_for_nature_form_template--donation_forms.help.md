@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to collect donation information for a nature-related cause or organization. It is intended for end-users to provide their contact and payment details to facilitate donations. The form includes fields for donor information, donation amount, and payment method details. The "Donation Type" field is meant to indicate the type of donation, and the "Currency" field is for selecting the currency of the donation amount. This template is likely used in a web application or mobile app for users to submit their donations.
-</thinking>
-
 # Donate For Nature Form Template - Help Guide
 ## Purpose
 This form is designed to collect donation information for a nature-related cause or organization.

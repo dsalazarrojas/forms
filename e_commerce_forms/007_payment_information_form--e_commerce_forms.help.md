@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect payment information from customers. It includes fields for details about the payment, customer name, shipping address, mobile number, Facebook URL, payment mode, and additional notes.
-</thinking>
-
 # payment_information_form - Help Guide
 ## Purpose
 This form is designed to collect essential payment information from customers. 

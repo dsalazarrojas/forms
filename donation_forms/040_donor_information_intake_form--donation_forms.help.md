@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Information Intake Form - Help Guide
 ## Purpose
 The Donor Information Intake Form is a collection of information about the donor, including contact details, donation preferences, and frequency of giving. This form helps the organization gather essential data to manage donor relationships and tailor communication according to their preferences.

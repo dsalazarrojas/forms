@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML schema. The form title "quran_reading_and_writing_assessment" suggests that it's related to evaluating or assessing someone's knowledge or proficiency in reading and writing in the context of the Quran. However, without further context, it's difficult to pinpoint the exact purpose.
-
-The form has 25 questions, all of which are text fields. This might imply that the form is collecting information or feedback from users about their understanding or interpretation of the Quran, or perhaps it's assessing their ability to articulate their thoughts or knowledge about specific topics related to the Quran.
-
-Considering the large number of questions, it's likely that this form is being used for a self-assessment or survey-type purpose, where users are evaluating their own knowledge or understanding of the Quran. This could be part of a training or educational program.
-
-Before proceeding, let's confirm the form purpose and scope: Is this form intended for users to evaluate their knowledge or understanding of the Quran, perhaps as part of a training program? Are there any additional context or instructions that would clarify the form's intention?</thinking>
-
 # quran_reading_and_writing_assessment - Help Guide
 
 ## Purpose

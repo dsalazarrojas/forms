@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Research Symposium Recording Consent Form - Help Guide
 
 ## Purpose

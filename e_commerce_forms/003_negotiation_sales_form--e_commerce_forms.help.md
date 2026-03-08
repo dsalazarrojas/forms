@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the "Negotiation Sales Form", which is designed to facilitate sales negotiations between customers and sales representatives. The form is used to gather relevant information about the product being negotiated, the terms of the sale, and the details of the transaction. Its purpose is to ensure accurate and complete data collection for smooth and efficient sales processes.
 
 # Negotiation Sales Form - Help Guide

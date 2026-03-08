@@ -1,8 +1,3 @@
-<thinking>
-Donor Application Form purpose is a crucial process for any organization that wants to collect donations and interact with its donors effectively. This form is meant for donors who are willing to support a particular project, cause or initiative and want to provide their information. 
-Before filling out this form, it would be helpful to review this document to ensure that it suits your needs and hasn't been completed before. Duplicate applications will be ignored. Please ensure that all the information provided is accurate and up-to-date. Donor information will be used to process your application.
-</thinking>
-
 # Donor Application Form - Help Guide
 ## Purpose
 This form is designed to help organizations collect information from individuals who want to donate to their cause. It's a simple and straightforward process that requires some basic details from the donor.

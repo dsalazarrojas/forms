@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to test knowledge of scientific principles, which are crucial in research methodology. This form will help researchers assess their understanding of fundamental concepts in scientific research, such as the scientific method, literature review, hypothesis testing, and data analysis. This form will be used to gauge their understanding of these principles and identify areas where they may need further training or education. The form is a self-assessment tool for researchers to evaluate their knowledge and skills in scientific research.</thinking>
-
 # Scientific Principles Quiz - Help Guide
 ## Purpose
 

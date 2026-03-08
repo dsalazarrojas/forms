@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Weight Loss Intake Form. This form is designed to collect important information from patients about their current health status, weight loss goals, and exercise habits. It is essential to understand that this form is not a medical diagnosis tool and should not be used as a substitute for professional advice or treatment. Please ensure that you have reviewed any necessary information with your healthcare provider before completing this form.
-</thinking>
-
 # Weight Loss Intake Form - Help Guide
 ## Purpose
 The Weight Loss Intake Form is a tool for patients to share information about their weight loss goals, medical history, and exercise habits. This form helps healthcare providers understand the patient's current situation and create a personalized treatment plan tailored to their needs.

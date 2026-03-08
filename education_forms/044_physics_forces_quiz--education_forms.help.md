@@ -1,12 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the provided form.
-
-The form is intended to be a quiz for testing users' understanding of various aspects of physics forces. The fields are designed to guide the user through a series of questions that cover different types of forces, their application, and the laws that govern them. This form is likely used for educational purposes, such as for students or physics enthusiasts to test their knowledge.
-
-Upon reviewing the input schema, I noticed that some fields are not explicitly required, which may indicate that they are optional or not applicable for this quiz. I'll make sure to clarify the purpose and requirements for each field in the help guide.
-
-</thinking>
-
 # Physics Forzes Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of various aspects of physics forces, including types of forces, their application, and the laws that govern them.

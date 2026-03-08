@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # royal-english-medium-school-registration-form - Help Guide
 
 ## Purpose

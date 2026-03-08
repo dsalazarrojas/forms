@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from individuals interested in participating in the Leadership Training Institute, a program designed to develop leadership skills and provide networking opportunities. This form will help us understand the applicants' background, goals, and expectations from the program. We will not consider duplicate submissions from the same individual.
-
-This form is intended for individuals looking to enhance their leadership skills, gain knowledge, and connect with like-minded professionals. Please fill out the form carefully and accurately, providing as much detail as possible. The information collected will be used to determine your eligibility for the program and create a suitable plan for your participation.
-
-</thinking>
-
 # Leadership Training Institute Admission Form - Help Guide
 
 ## Purpose

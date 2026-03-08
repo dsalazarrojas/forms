@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in purchasing fashion products. It is a general-purpose form for fashion product orders, and it does not require the customer to log in or create an account. The form has several fields to gather essential information such as the type of product, email, phone number, delivery preference, and delivery date and time. Customers can select one or multiple product types from the first field. They will also be asked to input their email and phone number, and select a delivery time and date if necessary. 
-</thinking>
-
 # Fashion Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in purchasing fashion products. It guides you through the process of placing an order for the products of your choice.

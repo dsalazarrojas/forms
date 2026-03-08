@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the registration process for attendees of the Educational Technology Expo. The form aims to collect relevant information from participants to provide them with a smooth and organized experience during the event. This guide is intended to help users complete the form accurately and efficiently.
-</thinking>
-
 # Educational Technology Expo Registration Form - Help Guide
 ## Purpose
 The Educational Technology Expo Registration Form is a tool for attendees to register for the event. The form collects personal and organization-related information to provide attendees with a tailored experience.

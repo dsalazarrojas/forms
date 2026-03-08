@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from parents or guardians to book a meeting with a teacher for their child. The form collects personal details, guardian details, contact information, student details, available time slots, teacher selection, and meeting details. This form is meant to be completed by a parent or guardian to coordinate a meeting that suits them and their child's schedule.
-
-</thinking>
-
 # parent_and_teacher_meeting_booking_form - Help Guide
 ## Purpose
 The parent_and_teacher_meeting_booking_form is used to book a meeting between a parent/guardian and a teacher for their child. This meeting can be used to discuss the child's progress, set goals, or address any concerns.

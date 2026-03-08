@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate a person's understanding of fraction concepts, specifically the ability to add, subtract, multiply, and compare fractions with different denominators. The form is meant to assess a person's understanding of fraction equivalence, addition, subtraction, multiplication, and division. It covers a range of scenarios, including adding and subtracting fractions with different denominators, comparing fractions, and solving word problems that involve these operations.
-This form is intended for educational purposes, likely for students in elementary school or high school, or for people who need to review and improve their understanding of fractions.
-This form does not appear to be duplicated, and its purpose is clear: to help individuals develop their understanding of fractions.
-
-</thinking>
-
 # Fraction Concepts Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate a person's understanding of fraction concepts, specifically the ability to add, subtract, multiply, and compare fractions with different denominators.

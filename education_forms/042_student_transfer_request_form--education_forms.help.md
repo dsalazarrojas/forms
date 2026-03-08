@@ -1,8 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Student Transfer Request Form", we must first understand the internal reasoning behind this form. 
-The purpose of this form is to collect information about a student's transfer request, which may include whether the student is being transferred, the teacher's information, the reason for the transfer, and the new class details. The form likely exists to facilitate an efficient and organized process for handling student transfers, ensuring that all necessary information is captured without leaving any critical fields unaddressed. To be relevant, the user submitting the form would likely have a clear understanding of what they are being asked for, to avoid duplication of effort. 
-</thinking>
-
 # Student Transfer Request Form - Help Guide
 ## Purpose
 The Student Transfer Request Form is designed to collect information necessary for handling a student's transfer request efficiently.

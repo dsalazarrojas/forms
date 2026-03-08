@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is a help guide for the Weekly Report form.
 
 # Weekly Report - Help Guide

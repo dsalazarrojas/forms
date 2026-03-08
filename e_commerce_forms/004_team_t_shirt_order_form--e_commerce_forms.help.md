@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from team members about their t-shirt orders. This includes their first and last names, team name, preferred t-shirt size, team logo, order date, shipping address, and phone number. This form is used for internal purposes only and is not intended for public access. Please ensure that you are accessing the correct form and that your submission is accurate and up-to-date.
-</thinking>
-
 # Team T Shirt Order Form - Help Guide
 ## Purpose
 The Team T Shirt Order Form is designed to collect personal and order information from team members for internal purposes. Please ensure that your submission is accurate and up-to-date.

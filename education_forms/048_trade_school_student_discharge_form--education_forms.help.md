@@ -1,18 +1,3 @@
-<thinking>
-This form is used for students to provide information about their trade school experience. The fields are designed to gather details about the student's background and program enrollment. The form is intended to be completed by the student or their representative.
-
-The form is not meant to be a lengthy survey, but rather a straightforward collection of essential information.
-
-The purpose of this form is to:
-
-- Gather basic student information
-- Track program enrollment and completion status
-- Record discharge reasons for program completion
-
-The following fields should be completed to accurately represent student data.
-
-</thinking>
-
 # Trade School Student Discharge Form - Help Guide
 ## Purpose
 This form is used to gather information about the student's trade school experience, including their background, program enrollment, and discharge reason.

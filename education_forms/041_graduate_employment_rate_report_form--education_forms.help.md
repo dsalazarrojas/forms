@@ -1,5 +1,3 @@
-<thinking>Internal forms serve several purposes such as tracking user behavior, collecting customer feedback, or providing a structured way to collect specific data. In the context of this form, the Graduate Employment Rate Report Form likely aims to collect data on graduate employment rates, program outcomes, and other relevant details. This form could be used by academic institutions to monitor graduate employment trends, track program effectiveness, or identify areas for improvement. To ensure the form's purpose is clear, let's review its fields one by one, making sure each field has a valid and logical reason to exist. For instance, the "Program Outcome Data" field likely requires data on the type of program outcomes, such as internships, job placements, or research projects.</thinking>
-
 # Graduate Employment Rate Report Form - Help Guide
 ## Purpose
 This form is designed to collect data on graduate employment rates, program outcomes, and other relevant details to help academic institutions monitor graduate employment trends and track program effectiveness.

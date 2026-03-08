@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect applications from individuals who want to join the conference leadership team. The purpose of this form is to gather information about the applicant's background, experience, and motivation for joining the leadership team. This information will be used to assess their suitability for the role and ensure that they are a good fit for the team. Please fill out this form carefully and thoroughly, as the information provided will be used to evaluate your application.
-
-Before filling out this form, please note that you should only apply if you have not applied to the conference leadership team before. If you have previously applied, please do not reapply, as this may cause confusion and duplication of effort.
-
-</thinking>
-
 # Conference Leadership Team Member Application Form - Help Guide
 ## Purpose
 This form is designed to collect applications from individuals who want to join the conference leadership team. The information provided will be used to assess their suitability for the role and ensure that they are a good fit for the team.

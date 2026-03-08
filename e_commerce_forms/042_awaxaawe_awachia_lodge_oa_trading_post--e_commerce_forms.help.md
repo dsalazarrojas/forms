@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Awaxaawe Awachia Lodge OA Trading Post - Help Guide
 ## Purpose
 The Awaxaawe Awachia Lodge OA Trading Post form is designed to collect information from customers for their orders, including their contact and lodge information, patch and insignia orders, apparel and gear orders, fulfillment and payment preferences, and other order details. This form ensures that all required information is collected for efficient order processing and fulfillment.

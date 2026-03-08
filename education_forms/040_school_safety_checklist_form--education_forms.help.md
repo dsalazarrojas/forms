@@ -1,8 +1,3 @@
-<thinking>
-The School Safety Checklist Form is used by school administrators and faculty to ensure that all necessary safety measures and protocols are in place at the school. This form helps track and record the presence of safety protocols, emergency equipment, and other critical safety measures. It also collects information on the school's emergency contact details, location, and incident reporting procedures. The form is intended for use in a school setting, and the answers should reflect the specific safety measures and protocols implemented by the school.
-To avoid duplication of efforts, please only fill out this form if the school's safety procedures and protocols are to be updated or revised.
-</thinking>
-
 # School Safety Checklist Form - Help Guide
 ## Purpose
 The School Safety Checklist Form is used by school administrators and faculty to ensure that all necessary safety measures and protocols are in place at the school.

@@ -1,13 +1,3 @@
-<thinking>
-
-The form's purpose is to gather information from users applying for educational research innovation hub resources. The form collects details from the user, including their contact information, institutional affiliation, research project, budget planning, and additional information. This form is designed to be completed by potential applicants to the Educational Research Innovation Hub.
-
-Before starting the form, please note that this is an AI-generated form, and its content is not affiliated with or endorsed by any specific form platform. The form's metadata was used as inspiration, and it's an original adaptation.
-
-This guide will walk you through the form's purpose, how to complete it, and an explanation of each field to ensure a smooth and error-free submission.
-
-</thinking>
-
 # Educational Research Innovation Hub Application Form - Help Guide
 
 ## Purpose

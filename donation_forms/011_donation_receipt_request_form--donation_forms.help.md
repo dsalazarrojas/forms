@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are requesting a donation receipt. The purpose of this form is to gather details about the user, the donation they wish to receive, and any additional relevant information such as the amount donated, the date and time of the donation, and a description of the receipt. This form will likely be used by administrators or support staff to verify and process the donation request. It's worth noting that this form is likely intended for internal use and may not be visible to the general public.
-
-When filling out this form, please note that some fields may be optional, but providing accurate and complete information will help the processing team quickly and efficiently address the request.
-
-The fields on this form are intended to be self-explanatory, but here's a more detailed breakdown of each field for clarity.
-
-</thinking>
-
 # Donation Receipt Request Form - Help Guide
 ## Purpose
 This form is used to gather information from users requesting a donation receipt. Please provide accurate and complete information to ensure efficient processing of your request.

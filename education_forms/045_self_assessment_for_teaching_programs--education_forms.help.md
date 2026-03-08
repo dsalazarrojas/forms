@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for educators to self-assess their teaching practices, feedback, and areas for improvement. It's likely used to monitor and evaluate teaching methods and identify areas where educators need to improve. It might be used by educational institutions or departments to gather data on teaching quality and effectiveness.
-</thinking>
-
 # Self Assessment For Teaching Programs - Help Guide
 ## Purpose
 This form is designed to help educators evaluate their teaching practices, provide feedback on their own teaching, and identify areas for improvement.

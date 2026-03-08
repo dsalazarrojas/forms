@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect peer evaluations for a Research Workshop Agreement (RWA) 3. This form is used to assess the effectiveness of the workshop in achieving its goals and identify areas for improvement. The form consists of multiple fields that capture various aspects of the workshop, including ratings and comments from participants, their ratings of specific aspects of the workshop, and questions about their equality.
-
-</thinking>
 # Peer Evaluation Form RWA 3 - Help Guide
 ## Purpose
 The Peer Evaluation Form RWA 3 is designed to collect feedback from participants about the Research Workshop Agreement 3. This form is meant to be filled out by workshop participants to provide an objective evaluation of the workshop's performance.

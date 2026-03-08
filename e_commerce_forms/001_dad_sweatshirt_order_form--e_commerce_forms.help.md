@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture order details for a dad's sweatshirt. The purpose of this form is to collect information about the order, including order details, shipping details, payment method, shirt color, shirt size, order comments, shipping address, payment details, order total, shipping cost, and order status. This form is intended for internal use by the customer service team to process and manage orders efficiently. It is recommended that users complete this form thoroughly and accurately to avoid delays in order fulfillment. 
-</thinking>
-
 # Dad Sweatshirt Order Form - Help Guide
 ## Purpose
 The Dad Sweatshirt Order Form is used to collect information about orders, including order details, shipping details, payment method, and other relevant information. This form is intended for internal use by the customer service team to process and manage orders efficiently.

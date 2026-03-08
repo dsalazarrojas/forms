@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information about a professional's relationship with a patient, including a professional disclosure statement, informed consent, and other relevant details. This type of form is often used in healthcare settings, such as medical offices or clinics, to ensure transparency and consent between healthcare providers and their patients. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, but rather generated using public metadata from surveys related to "education" and "forms". The form is released under a Creative Commons BY 4.0 license, which allows users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-To determine if this form is relevant to your use case, consider the following:
-
-* If you are a healthcare provider looking to establish a professional relationship with a patient, this form may be useful.
-* If you are a researcher or developer interested in creating forms for healthcare settings, this form may be a good starting point.
-* If you are looking for a form that is not affiliated with any particular platform, this form may be a good option.
-
-However, if you are looking for a form for a different use case or context, you may want to consider creating or adapting a different form.
-</thinking>
-
 # Professional Disclosure Statement And Informed Consent - Help Guide
 ## Purpose
 This form is designed to collect information about a healthcare provider's professional relationship with a patient, including a professional disclosure statement, informed consent, and other relevant details.

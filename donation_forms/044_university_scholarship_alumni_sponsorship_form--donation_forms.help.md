@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from university alumni who are interested in sponsoring scholarships for students. The form is used to gather details about the donor, including their contact information, sponsorship level, and areas of interest. The form is intended for internal use within the university and is not a public-facing form. Therefore, it is not necessary to include fields like captcha or email verification. Each field is designed to collect specific information that will help the university administration to process the donor's request.
-
-Before completing this form, please ensure that you have not already sponsored a scholarship in the past, and that you are not attempting to sponsor multiple scholarships for the same student. If you have already sponsored a scholarship, you will be contacted separately by the university administration to follow up on your previous sponsorship.
-
-If you are not sure about any of the fields below, please contact the university administration for assistance.
-</thinking>
-
 # University Scholarship Alumni Sponsorship Form - Help Guide
 ## Purpose
 This form is used to collect information from university alumni who are interested in sponsoring scholarships for students. The form is designed to gather details about the donor, including their contact information, sponsorship level, and areas of interest.

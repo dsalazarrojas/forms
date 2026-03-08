@@ -1,16 +1,3 @@
-<thinking>
-The Dentist Job Application Form is designed to collect information from individuals who wish to apply for a position as a dentist. This form is intended for use by dentists or individuals with relevant experience and qualifications to apply for openings in dental clinics, hospitals, or private practices.
-
-The form collects general information about the applicant, including their name, contact details, work experience, education, and language proficiency. It also includes fields for specific requirements such as certification, language, and availability.
-
-Please note that this form does not handle sensitive or protected data and is designed for general application purposes. As such, it is not intended for use in collecting sensitive or protected data.
-
-Before using this form, please ensure that you are familiar with the requirements for the position you are applying for, and that you have the necessary documents and information ready to be completed.
-
-Also, note that the submit fields and buttons are placeholders for potential implementation details and do not affect the actual form submission process.
-
-Before you start filling out the form, please make sure that you have reviewed and understood the form instructions and requirements for the position you are applying for.</thinking>
-
 # Dentist Job Application Form - Help Guide
 
 ## Purpose

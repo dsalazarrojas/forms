@@ -1,38 +1,3 @@
-<thinking>
-This is a form used for customers to place orders at a supermarket. The form is used to collect customer and order details for both in-store and online orders. It seems this form might be used in a retail environment where both cash and digital payment methods are accepted. The form is designed to be flexible, allowing customers to choose how they want to make their purchases and provide relevant details.
-
-This form could potentially be used in conjunction with an order management system to track and process customer orders.
-
-To ensure the form is used correctly, let's break down each field to provide a clear understanding of what information it collects:
-
-- **Customer Details**: This field collects the customer's personal details such as name, email, and phone number.
-- **Products**: This field allows customers to select the products they are ordering. It is a dropdown menu with options for "In-Store" and "Online" purchase methods.
-- **Payment Info**: This field collects payment information such as credit card details or other payment methods.
-- **Delivery Info**: This field collects delivery information such as name, address, zip code, city, state, and phone number.
-- **Order Notes**: This field allows customers to add any additional notes about their order.
-- **Customer Email**: This field collects the customer's email address.
-- **Customer Phone**: This field collects the customer's phone number.
-- **Customer Note**: This field allows customers to add any additional notes for the store staff.
-- **Order Date**: This field collects the date of the order.
-- **Order Time**: This field collects the time of the order.
-- **Product Select**: This field allows customers to select the products from the available options.
-- **Products**: This field is similar to "Product Select" but allows customers to select multiple products.
-- **Payment Method**: This field allows customers to select how they will pay for their order, such as cash, credit card, or PayPal.
-- **Payment Info**: This field collects any additional payment information.
-- **Delivery Method**: This field allows customers to select how they will receive their order, such as in-store pickup, delivery, or shipping.
-- **Delivery Address**: This field collects the delivery address.
-- **Zip Code**: This field collects the zip code of the delivery address.
-- **City**: This field collects the city of the delivery address.
-- **State**: This field collects the state of the delivery address.
-- **Contact Phone**: This field collects the contact phone number of the delivery address.
-- **Delivery Note**: This field allows customers to add any additional delivery notes.
-- **Total Price**: This field collects the total price of the order.
-- **Discount**: This field collects any discount applied to the order.
-- **Tax**: This field collects any tax applied to the order.
-- **Order Notes 2**: This field allows customers to add any additional notes about their order.
-
-</thinking>
-
 # Supermarket Order Form - Help Guide
 ## Purpose
 The supermarket order form is used to collect customer and order information for both in-store and online orders.

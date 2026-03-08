@@ -1,5 +1,3 @@
-<thinking>This form is designed to facilitate learning and understanding of probability concepts. The form is composed of a series of questions and reflections, aimed at gauging respondents' grasp of probability notions and their application in real-life situations. The questions are meant to elicit a range of responses, from simple answers to more in-depth reflections. The form is not intended to be a formal assessment tool, but rather a guide for self-directed learning and exploration. Before completing this form, please ensure that you have not already completed it, as it is meant to be a personal learning exercise and not a repetitive task.</thinking>
-
 # Probability Learning Activity - Help Guide
 ## Purpose
 The Probability Learning Activity is designed to provide an interactive and self-directed learning experience focused on understanding probability concepts. The form is not a formal assessment but rather a guided exploration of probability notions.

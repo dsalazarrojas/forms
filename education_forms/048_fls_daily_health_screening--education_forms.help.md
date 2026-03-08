@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fls Daily Health Screening - Help Guide
 
 ## Purpose

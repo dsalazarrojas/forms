@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for tracking changes to a student's concentration or major. It allows students to submit a request to change their concentration or major, and for advisors and administrators to review and approve or deny these requests. The form captures relevant information about the student's current and proposed concentrations, as well as the reason for the change. It also includes space for comments from both the student and the advisor.
-
-This form should only be used by students who are currently enrolled and have a valid university login. The form should not be used to make changes to a student's program or major if they are not currently enrolled.
-
-The form will not be processed if it is incomplete or if the student has already submitted a request for change in the current term. A new form must be submitted for each new request for change.
-
-</thinking>
-
 # MPH Concentration Change Survey - Help Guide
 ## Purpose
 The MPH Concentration Change Survey form is used to submit a request to change your concentration or major at the university.

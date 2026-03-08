@@ -1,5 +1,3 @@
-<thinking>...The following is a step-by-step guide on creating a Curriculum Planning Form. This form is designed to help educators plan and organize their curriculum for a class. Please review the form carefully and ensure all required fields are filled out to get an accurate assessment. Before filling out this form, check if you have already completed it in the past, and if so, update only the necessary fields.</thinking>
-
 # Curriculum Planning Form - Help Guide
 ## Purpose
 The Curriculum Planning Form is a tool designed to help educators plan and organize their curriculum for a class. This form will help you outline the key details of your class, including class details, subject areas, teaching methods, and class size, among other things.

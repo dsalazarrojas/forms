@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants and their emergency contacts for an international dance competition. The purpose is to gather the necessary details to register participants and assign them to suitable competitions based on their skills and age groups. This form should only be filled out once per participant. Please ensure that you fill in all required fields accurately.
-</thinking>
-
 # International Dance Competition Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants and their emergency contacts for an international dance competition. The information will be used to register participants and assign them to suitable competitions based on their skills and age groups.

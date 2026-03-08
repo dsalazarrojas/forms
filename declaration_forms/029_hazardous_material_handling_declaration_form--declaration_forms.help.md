@@ -1,7 +1,3 @@
-<thinking>
-Please note that the purpose of this form is to gather information related to the handling and declaration of hazardous materials. This form may be used in a business or industrial setting to collect data on the types of materials being handled, any potential risks or injuries associated with their handling, and any safety measures or procedures in place to mitigate these risks.
-</thinking>
-
 # Hazardous Material Handling Declaration Form - Help Guide
 ## Purpose
 The Hazardous Material Handling Declaration Form is designed to collect information about the handling and declaration of hazardous materials in a business or industrial setting. This form helps to ensure that the handling and declaration of these materials are done in a safe and controlled manner.

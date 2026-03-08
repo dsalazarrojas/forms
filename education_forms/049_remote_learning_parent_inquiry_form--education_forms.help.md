@@ -1,14 +1,3 @@
-<thinking>
-
-To confirm, the form purpose is for remote learning parent inquiries, likely used for parents to provide feedback, suggestions, or ask questions related to the remote learning experience.
-
-Before filling out this form, ensure that:
-
-* You are not filling out duplicate or unnecessary submissions (e.g., if you have already inquired about the same issue).
-* You have a clear understanding of what you want to express about the remote learning experience.
-
-</thinking>
-
 # Remote Learning Parent Inquiry Form - Help Guide
 ## Purpose
 This form is designed for parents to submit feedback, suggestions, or questions related to the remote learning experience. Your input helps us improve our services.

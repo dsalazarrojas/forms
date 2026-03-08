@@ -1,11 +1,3 @@
-<thinking>... Internal reasoning block to check for form purpose and non-duplication...
-
-The purpose of this form is to gather information from parents or guardians about their child's registration in a childcare program. The form asks for personal and contact information, program selection, schedule, and other relevant details to ensure a smooth and safe experience for the child. 
-
-To avoid duplication of effort, this form should only be filled out once per child. If a parent or guardian is registering multiple children, they will need to fill out the form multiple times, but with different information for each child.
-
-</thinking>
-
 # Childcare Program Registration Form - Help Guide
 ## Purpose
 The Childcare Program Registration Form is designed to gather information about your child's registration in our program. Please provide accurate and complete information to ensure a successful and safe experience for your child.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to guide the user through a process of selecting courses. The form is part of a larger educational system, and its primary function is to allow users to provide necessary information about course selection. To avoid duplication, we will make sure to check for existing entries before submitting the form.
-</thinking>
-
 # Course Selection Form - Help Guide
 ## Purpose
 This form is designed to collect information from the user about their course selection preferences. It is an essential part of the educational system, and filling out this form will help us get to know you better and provide you with the most suitable course options.

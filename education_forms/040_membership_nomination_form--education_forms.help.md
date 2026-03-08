@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about students who are graduating and their nominators. The form is used to gather data on whether the student is a member of a group or organization, the date and time of nomination, and other relevant details. This form is not meant to be filled out by the graduating student themselves, but rather by the nominator who is nominating them. There should be no duplication of effort, and the information should be accurate and up-to-date.
-</thinking>
-
 # Membership Nomination Form - Help Guide
 ## Purpose
 The Membership Nomination Form is used to collect information about graduating students and their nominators. This form helps to identify and recognize students who are graduating and have made significant contributions to a group or organization.

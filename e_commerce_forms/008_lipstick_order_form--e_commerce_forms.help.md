@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a help guide that is clear and easy to follow for end-users, let's start by understanding the purpose of the Lipstick Order Form. The form is designed to collect information from customers for lipstick orders, including shipping details, payment methods, and customer information. It appears to be a comprehensive form that captures all necessary details for a smooth order process.
 
 Here is a brief guide to help end-users complete the form correctly:

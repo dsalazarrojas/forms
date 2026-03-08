@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a dinner event donation form. The purpose of this form is to gather details about the event, such as date, time, and donation items, as well as contact information for the donor. The form will be used by event organizers to collect and manage donations for the event.
-To ensure accurate and complete data is collected, please review the form carefully and fill in all the required fields. If you are a donor, you will be asked to provide your contact information, including your phone number and email address.
-Before filling out the form, please note that the donation amount field is optional, but if you are making a donation, please fill it out accurately to ensure proper tracking of donations.
-The following fields are required: Name, Event Date, and Email.
-</thinking>
-
 # Dinner Event Donation Form - Help Guide
 ## Purpose
 The Dinner Event Donation Form is designed to collect information for a dinner event donation. The form is used by event organizers to gather details about the event, the donor, and the donation amount and items. This information will be used to manage donations for the event.

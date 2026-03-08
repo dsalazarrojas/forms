@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to record the process of discharging a client from a personal training program, which means ending the client's participation in the program. The form is meant for trainers to collect necessary information from the client before discharging them, ensuring a smooth transition and preventing potential data duplication.
-</thinking>
-
 # Personal Training Discharge Form - Help Guide
 ## Purpose
 The Personal Training Discharge Form is used to document the client's disconnection from a personal training program. This form ensures all necessary details are captured and helps trainers close the client's program effectively.

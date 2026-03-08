@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "school-registration-form" that explains its purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # school-registration-form - Help Guide
 ## Purpose
 The "school-registration-form" is designed to collect information from students and parents for school registration purposes. This form aims to gather essential details such as student name, contact information, and class choices to streamline the registration process.

@@ -1,11 +1,3 @@
-<thinking>
-This guide assumes that the form is designed to educate users about the concept of symbiotic relationships in biology, specifically asking questions about mutualism, commensalism, parasitism, and other related concepts.
-The form's purpose is to help users understand the characteristics and effects of different types of symbiotic relationships. The questions and fields in the form are designed to gather information about these relationships in a way that is clear and concise.
-This form is not intended for commercial purposes and is intended for educational use only. It is free to use, modify, and distribute, but please give credit to the original author.
-The form is divided into several sections, and each question or field has a specific purpose and label. Here is a brief explanation of each field and how to complete the form:
-
-</thinking>
-
 # Symbiotic Relationships Quiz - Help Guide
 ## Purpose
 

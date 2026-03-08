@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information from customers about their e-commerce orders. Its purpose is to facilitate communication between customers and the shipping team. The form will likely be used by e-commerce companies to collect information about customer orders, shipping details, and order status.
-To ensure this form is relevant to your business and not a duplicate, please verify that you have a genuine need for such a form in your industry or organization.
-Please note that this form was created using AI and not affiliated with any form platforms. You are free to use, modify, and distribute it as needed, just give credit.
-</thinking>
-
 # E Commerce Shipping Communication Form - Help Guide
 ## Purpose
 The E Commerce Shipping Communication Form is designed to gather information from customers about their orders, helping you communicate with them effectively and resolve any issues efficiently.

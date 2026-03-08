@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to explain form purpose and check for relevance and non-duplication ...
-
-This form is designed to generate a customized quiz template for educational purposes. It collects information for a student's quiz results, including their name, date, and quiz questions with their answers. The form also collects details for sending a certificate to the student and HR. The purpose of this form is to facilitate the generation of a personalized quiz report.
-
-The form is intended for use in an educational setting, and its output will be used to create a quiz report that can be sent to the student and/or HR. This form is relevant to the education category.
-
-There is no duplication of effort in this form, as it is designed to collect unique and necessary information for the generation of a customized quiz report.
-
-</thinking>
-
 # Template For Quiz - Help Guide
 ## Purpose
 The Template For Quiz form is designed to generate a customized quiz template for educational purposes. It collects information for a student's quiz results, including their name, date, and quiz questions with their answers.

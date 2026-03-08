@@ -1,6 +1,3 @@
-<thinking>
-The form is for students to apply for the position of a Policy Advisor, which is a crucial role in helping students navigate university policies and procedures. This form helps to gather information about the student's contact details, educational background, work experience, and references. It's essential to ensure that the application process is streamlined and efficient. Please note that this form is for internal use only and not for sharing with external parties. Also, please make sure to fill out the form accurately and honestly to ensure that your application is considered for the Policy Advisor position. If you have filled out this form before, you might be able to reuse some information, but please review and update as necessary.</thinking>
-
 # Student Policy Advisor Application Form - Help Guide
 ## Purpose
 The Student Policy Advisor Application Form is designed to help students apply for the Policy Advisor position. This role is crucial in ensuring that students receive guidance on university policies and procedures.

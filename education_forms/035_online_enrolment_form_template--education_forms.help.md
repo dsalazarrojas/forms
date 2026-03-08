@@ -1,9 +1,3 @@
-<thinking>
-
-The online Enrolment Form Template is a crucial document for students to provide their details and register for a course. Before filling out this form, please ensure that you are not already enrolled in the same course and that you have the correct contact information. It is also essential to double-check that you have entered the correct dates.
-
-</thinking>
-
 # Online Enrolment Form Template - Help Guide
 ## Purpose
 The online Enrolment Form Template is designed to collect essential information from students who wish to register for a course. This information will help the course administrators to verify the student's identity, provide access to the course materials, and ensure that the student is eligible for the course.

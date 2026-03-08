@@ -1,6 +1,3 @@
-<thinking> 
-The Grade Request Form is used to request changes to student grades. This form is designed to be completed by students who wish to challenge or dispute their grades. The form is not intended for general comments or suggestions, but rather for formal requests to review or update grades. Please ensure that you are submitting a legitimate request before completing this form, as unnecessary submissions may be considered a distraction.</thinking>
-
 # Grade Request Form - Help Guide
 
 ## Purpose

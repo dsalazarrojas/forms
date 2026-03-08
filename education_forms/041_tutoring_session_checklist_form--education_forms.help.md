@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture information about tutoring sessions, specifically the objectives, materials needed, session notes, date, and time of the sessions. This form is not intended to be a comprehensive survey or assessment, but rather a checklist to help tutors keep track of their sessions.
-</thinking>
-
 # Tutoring Session Checklist Form - Help Guide
 ## Purpose
 The Tutoring Session Checklist Form is designed to help tutors organize and record the details of their sessions. This form is meant to be a quick reference tool for tutors to fill out during or after each session, ensuring they capture essential information about the objectives, materials, and other relevant aspects of the session.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for artists to participate in an auction, providing their contact information, artwork details, and auction preferences. This guide will walk you through each section of the form to ensure a smooth and accurate submission.
-
-To participate in this auction, please review the following sections:
-
-*   Artist Information: This section collects your personal details, such as name, email, and phone number.
-*   Art Medium and Experience: Here, you will specify your primary art medium and provide information about your experience as an artist.
-*   Artwork for Auction: This section is where you will enter details about the artwork being auctioned, including its title, description, dimensions, and medium used.
-*   Auction Details: In this section, you will provide information about the estimated value or reserve price of your artwork and the percentage of the sale that will be donated.
-*   Additional Information: Finally, you will provide a brief artist biography and any additional information about the artwork.
-
-Please note that this guide refers to the provided YAML fields. Each section will contain specific fields that correspond to the YAML properties, providing a clear explanation of what each field means and how to complete it accurately.
-
-</thinking>
-
 # Artist Auction Participation - Help Guide
 ## Purpose
 The purpose of this form is to provide artists with a clear and structured way to participate in an auction. By following this guide, you will be able to submit your artwork and information accurately and efficiently.

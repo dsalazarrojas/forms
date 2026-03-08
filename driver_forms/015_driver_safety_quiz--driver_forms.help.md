@@ -1,14 +1,3 @@
-<thinking>
-This is a help guide for the "Driver Safety Quiz" form. This form is intended for drivers to assess their knowledge of road safety and identify areas where they may need improvement. It appears that this form is designed to be completed by drivers and is likely used in a commercial or professional context, such as a transportation or logistics company. 
-
-There may be concerns about duplicating this form with similar existing ones, and the purpose of this form may need to be further clarified. However, assuming this form is designed to serve a specific purpose and the fields are correctly configured for that purpose, this help guide will provide clear instructions on how to complete this form.
-
-To complete this form, users will be prompted to navigate through various sections, each focusing on different aspects of road safety, such as traffic signs and rules. The form is likely designed to be completed in a sequential manner, with each section building on the previous one. 
-
-Please note that some fields are optional and may not be applicable to all users, but they are all clearly labeled as such.
-
-In the following sections, each field will be explained to ensure users understand what is expected of them.</thinking>
-
 # Driver Safety Quiz - Help Guide
 ## Purpose
 The "Driver Safety Quiz" form is designed to assess your knowledge of road safety rules and regulations. It is a self-assessment tool that helps drivers identify areas where they may need improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to contribute to the Youth Empowerment Fund, a non-profit organization that supports youth development programs. The form allows users to provide donations with specific details, such as the amount and frequency of their contributions. This form ensures that all necessary information is collected for efficient and accurate processing.
-</thinking>
-
 # youth_empowerment_fund_donation_form - Help Guide
 ## Purpose
 This form is for users to submit their donations to the Youth Empowerment Fund. Please fill out the form with accurate information to help us process your donation efficiently.

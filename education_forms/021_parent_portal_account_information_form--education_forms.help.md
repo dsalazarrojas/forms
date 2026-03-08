@@ -1,19 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to collect accurate and relevant information from parents about their account details. To prevent errors and inconsistencies, please review the form carefully before completing it.
-
-We've designed this form to be as straightforward and easy to understand as possible. If you're unsure about any field, take a moment to read through this help guide and feel free to ask questions if you need further clarification.
-
-This form is not meant to be duplicated or shared with others without proper authorization. Please be mindful of sensitive information and keep it confidential.
-
-Before we dive into the form explanation, here are some general tips:
-
-* Please be as accurate and honest in your responses as possible.
-* If you're unsure about a field, it's always better to err on the side of caution and ask for help.
-* If you're completing the form for someone else, make sure to obtain their permission and respect their privacy.
-
-Now, let's walk through the form together.
-</thinking>
-
 # Parent Portal Account Information Form - Help Guide
 
 ## Purpose

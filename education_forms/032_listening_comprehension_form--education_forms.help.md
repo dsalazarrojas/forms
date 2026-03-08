@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to measure the listening comprehension of users, which is an essential skill in various professional and academic settings. The form is meant to assess the user's ability to understand and respond to a given question or prompt, and it's likely to be used in educational contexts, such as language learning, or in HR evaluations. It's crucial to ensure that the form is filled out accurately and thoroughly to get a reliable reading on the user's listening skills.
-
-To ensure that the form is filled out correctly and effectively, we need to consider the following:
-
-- **Form completion rate**: This form should be completed at a steady pace, allowing the user to answer each question or prompt without feeling rushed.
-- **Response accuracy**: Users should be encouraged to answer the questions accurately and thoroughly, without leaving any fields blank or providing vague responses.
-- **Consistency**: Users should be consistent in their responses throughout the form, using the same format and tone in their answers.
-
-Please note that this form is designed to be used in a specific context, and its content might not be relevant or applicable in other scenarios.
-
-</thinking>
-
 # listening-comprehension-form - Help Guide
 ## Purpose
 The listening-comprehension-form is designed to measure the listening comprehension of users by asking a series of questions or prompts that require the user to respond accurately and thoroughly.

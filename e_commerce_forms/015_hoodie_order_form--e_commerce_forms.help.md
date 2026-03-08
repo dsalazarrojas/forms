@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is not being used for any other purpose other than what it was designed for - to collect information from customers for a hoodie order. This form should only be filled out once per order and should not be duplicated. If someone is trying to use this form for any other purpose, it may be considered a misuse of this form. Please only use this form for legitimate orders.
-</thinking>
-
 # Hoodie Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers to process their hoodie orders. It is essential to fill out this form accurately and completely to ensure that their order is fulfilled correctly and efficiently.

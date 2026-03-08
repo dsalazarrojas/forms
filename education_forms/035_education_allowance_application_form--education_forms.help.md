@@ -1,14 +1,3 @@
-<thinking>
-You're looking to create a user-facing help guide for a "Education Allowance Application Form" that provides clear explanations for end-users on how to complete the form accurately. This form is used for educational purposes, likely for students seeking financial support or benefits. Before we start, let's assume that the form is part of a larger system used to manage educational allowances and that it's used by both students and administrators alike.
-
-To ensure that your guide is helpful, I will focus on explaining the form's purpose, the step-by-step process of completing it, and a detailed breakdown of each field in the form.
-
-Assuming the form is intended for educational institutions or programs, the form's purpose could be to collect information from students or recipients of educational allowances. The form might be used for various types of education-related benefits, such as scholarships, grants, or other forms of financial support.
-
-With this context, the form's purpose is to gather necessary information to process and evaluate applications efficiently.
-
-</thinking>
-
 # Education Allowance Application Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that our students understand the purpose and requirements of the "Student Travel Declaration Form" to avoid any confusion or errors. This form is used to collect information from students who are traveling for official business, conferences, or other approved reasons. It's essential that students accurately fill out this form to ensure they are eligible for travel reimbursement or other related benefits. To confirm, this form will only be used for students traveling for official purposes, not for personal reasons.
-
-</thinking>
-
 # Student Travel Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information from students who are traveling for official business or conferences. Please ensure that you are eligible to complete this form before proceeding.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by parents or guardians to provide permission for their child to participate in the after-school program. The form will be used to collect information about the student, their program participation, and emergency contact details. The information collected will help the after-school program staff to provide a safe and enjoyable experience for all students. Please ensure that all fields are filled in accurately and completely. If you have any questions or concerns, please do not hesitate to reach out to the program staff.
-</thinking>
-
 # After School Permission Form - Help Guide
 
 ## Purpose

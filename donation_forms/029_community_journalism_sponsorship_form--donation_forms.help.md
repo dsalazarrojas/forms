@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from sponsors who are interested in supporting community journalism projects. The form is meant to be filled out by sponsors who want to provide financial or in-kind support to journalism projects. The form is used to gather essential details about the sponsor, their contact information, and the specifics of their sponsorship. This form is not affiliated with any form platform and is an original adaptation created using AI.
-</thinking>
-
 # Community Journalism Sponsorship Form - Help Guide
 ## Purpose
 This form is used to collect sponsorship information from individuals or organizations interested in supporting community journalism projects.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for truck inspectors to conduct a thorough inspection of a truck. The form is used to collect information about the condition of a truck's tires, brakes, lights, mirrors, fluids, fuel, and mechanical condition. The form also includes fields for notes and other conditions that may not be explicitly listed. This form is intended to be used by truck inspectors to assess the overall condition of a truck and identify any potential issues that need to be addressed. This guide will walk you through each field in the form.
-
-</thinking>
-
 # Truck Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to conduct a thorough inspection of a truck and gather information about its condition.

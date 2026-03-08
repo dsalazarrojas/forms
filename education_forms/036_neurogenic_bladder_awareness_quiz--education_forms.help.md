@@ -1,7 +1,3 @@
-<thinking>
-This is an internal reasoning block to check for relevance and non-duplication. The form purpose is to gather information on a user's awareness and experiences with neurogenic bladder conditions. This form is likely used for research or educational purposes, such as surveys or quizzes. The fields are designed to ask specific questions to gauge the user's understanding and experiences regarding neurogenic bladder conditions.
-</thinking>
-
 # Neurogenic Bladder Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to help us understand your experiences and awareness of neurogenic bladder conditions. Please answer the questions as accurately as possible to help us better understand your needs and concerns.

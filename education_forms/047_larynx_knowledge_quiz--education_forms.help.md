@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Larynx Knowledge Quiz - Help Guide
 
 ## Purpose

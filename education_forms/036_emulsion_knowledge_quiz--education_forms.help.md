@@ -1,10 +1,3 @@
-<thinking>
-We'll assume this form is used for collecting feedback or information from students or users about their knowledge in Emulsion, with the aim of understanding their understanding and knowledge level.
-
-To prevent duplication of effort and non-relevant information, this form is meant to be filled out by those who have completed a specific training or course related to Emulsion.
-
-This form is designed to be a simple multiple-choice and short answer quiz that can be easily understood by anyone with a basic level of computer literacy and who has taken the relevant training course.</thinking>
-
 # Emulsion Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to gauge the understanding and knowledge level of users about Emulsion, following a specific training course.

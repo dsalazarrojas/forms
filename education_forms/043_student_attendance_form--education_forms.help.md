@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to track student attendance. It is likely used by teachers or administrators to monitor student attendance and note any relevant details. The form may be part of a larger attendance tracking system used in educational institutions. 
-The form does not appear to be designed for any specific industry or organization, and its purpose seems to be general enough to be applicable in various educational settings. Therefore, it's possible that this form is intended to be a generic template for tracking student attendance. 
-To determine the form's relevance and potential duplication, consider the following:
-* Is the form part of a larger system for tracking student attendance and progress?
-* Does it align with the institution's or department's policies and procedures?
-* Are there any existing forms or processes that perform similar functions?
-</thinking>
-
 # Student Attendance Form - Help Guide
 ## Purpose
 This form is designed to track student attendance, likely for educational institutions to monitor student progress and note any relevant details.

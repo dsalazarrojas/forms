@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursing Application Fee Waiver Request - Help Guide
 ## Purpose
 This form is designed to help nursing students apply for a fee waiver to reduce their financial burden when applying to a nursing program.

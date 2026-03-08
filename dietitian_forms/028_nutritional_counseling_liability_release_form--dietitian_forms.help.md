@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are seeking nutritional counseling services. It's essential to understand that this form is not affiliated with or endorsed by any form platform, and the provided fields are tailored to the specific needs of nutritional counseling services. The form's purpose is to ensure that both the client and the counselor understand their responsibilities and limitations before proceeding with the services. This form will help to establish clear communication and expectations between the client and the counselor.
-</thinking>
-
 # Nutritional Counseling Liability Release Form - Help Guide
 ## Purpose
 The Nutritional Counseling Liability Release Form is designed to gather essential information from both clients and counselors to establish clear communication and expectations before proceeding with nutritional counseling services. This form helps to ensure that both parties understand their responsibilities and limitations, thereby preventing potential misunderstandings and liability issues.

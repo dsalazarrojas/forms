@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from firms that want to participate in events, such as conferences, workshops, or other types of gatherings. The form will likely be used by event organizers to collect necessary details about the firms that will be participating in these events, including contact information and specific event details. This form should not be used to collect duplicate information, such as firm contact information that is already known to the organizers. 
-</thinking>
-
 # Firm Crawl Signup Form - Help Guide
 ## Purpose
 This form is used to gather information from firms that will be participating in events, conferences, or other types of gatherings.

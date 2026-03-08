@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for students to provide information about themselves, their parents, education background, address, and contact information. It appears to be a form for enrolling or registering a student in an educational institution. The purpose of this form is likely to collect demographic and personal information from students, their parents, and school administrators. This form does not seem to require sensitive or financial information, so it may be used for initial intake or enrollment purposes. However, without further information, the exact use case of this form is not entirely clear. It's possible that the form is used for general information gathering, admissions, or student registration.
-
-To confirm, I will assume the form is for student registration/enrollment purposes, as the fields are mostly personal and demographic. If this assumption is incorrect, please correct me.
-
-The form appears to be designed for educational institutions to collect information from students, their parents, and school administrators. It seems to be a standard form with no specific fields indicating sensitive or financial data collection. The form is divided into sections for student information, parent information, education background, and contact information. Each section likely serves a specific purpose, such as ensuring the correct contact information is on file or understanding the student's education history.
-
-Please note that some fields may require additional explanation or clarification. For instance, "student_documentation" is a select-one field with options, but without context, it's unclear what these options represent. Similarly, "school_administratoin" and "school_administrator_title" could be improved with more context. However, based on the provided YAML fields, I will attempt to create a helpful guide below.
-
-</thinking>
-
 # Student Application Form - Help Guide
 ## Purpose
 This form is for student registration/enrollment purposes, gathering demographic and personal information from students, their parents, and school administrators.

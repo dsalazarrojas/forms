@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist with the process of preparing an e-commerce store for launch. It's crucial to ensure all necessary information is collected and accurate. The form should be filled out once for each new e-commerce store. To prevent duplication, please check with your team before proceeding.
-</thinking>
-
 # E Commerce Store Launch Checklist Form - Help Guide
 
 ## Purpose

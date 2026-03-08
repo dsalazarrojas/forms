@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to evaluate the quality of training materials used during a training session. It helps the trainer to provide feedback on the materials' relevance, accuracy, and overall effectiveness. This form is typically filled out by the trainer after the session, providing an assessment of the materials used and any feedback on their performance.
-
-The form is intended to ensure consistency and accuracy in the assessment of training materials, helping to identify areas of improvement and best practices. It's a crucial tool for the training department to collect data and make informed decisions on the quality of the training materials.
-
-This form should not be filled out multiple times by the same person for the same training material. Each material should have its own unique form instance.
-
-</thinking>
-
 # Training Material Quality Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the quality of training materials used during a training session. It helps assess the relevance, accuracy, and overall effectiveness of the materials.

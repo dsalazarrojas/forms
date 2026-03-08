@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in becoming volunteers for educational programs. The form is used to gather contact details, availability, and commitment information from potential volunteers. This form is not intended for program administrators or existing volunteers to use. Please ensure you have not filled out this form previously before proceeding.
-</thinking>
-
 # Educational Program Volunteer Application Form - Help Guide
 ## Purpose
 The Educational Program Volunteer Application Form is used to collect information from individuals interested in becoming volunteers for educational programs. This form helps us understand your availability and commitment to volunteer with our programs.

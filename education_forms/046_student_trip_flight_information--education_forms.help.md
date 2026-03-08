@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist students, administrators, and travel coordinators in completing the Student Trip Flight Information form. The form is used to capture essential details about student trips, including travel plans, contact information, and other relevant data. This guide aims to ensure that users understand the form's purpose and how to accurately fill it out, reducing errors and improving the overall efficiency of the travel planning process.
-
-To complete this form, please refer to the guide below.
-
-</thinking>
-
 # Student Trip Flight Information - Help Guide
 ## Purpose
 The Student Trip Flight Information form is used to gather essential details about student trips, including flight arrangements, travel dates, and contact information. This information helps travel coordinators and administrators manage and process student travel requests efficiently.

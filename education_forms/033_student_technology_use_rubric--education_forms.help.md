@@ -1,17 +1,3 @@
-<thinking>
-
-The Student Technology Use Rubric is a form used to assess and document a student's technology use, including the type of technology used, its usage, and the student's ratings of their own and teacher's performance. The form is designed to provide a standardized and comprehensive evaluation tool for students and educators to track and improve technology use in the classroom. 
-
-This form should be used in conjunction with other evaluation tools and data sources to ensure a comprehensive and accurate assessment of student learning and progress.
-
-The purpose of this form is to:
-
-* Evaluate student technology use and its impact on learning
-* Document student ratings and teacher observations of technology use
-* Provide a clear and standardized process for assessing student technology use
-
-</thinking>
-
 # Student Technology Use Rubric - Help Guide
 ## Purpose
 The Student Technology Use Rubric is designed to assess and document a student's technology use, including the type of technology used, its usage, and the student's ratings of their own and teacher's performance. This form provides a standardized and comprehensive evaluation tool for students and educators to track and improve technology use in the classroom.

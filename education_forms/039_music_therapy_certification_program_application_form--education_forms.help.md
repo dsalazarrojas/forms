@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we'll start by explaining the purpose of the form and checking for relevance and non-duplication.
-
-This form is intended for individuals who want to apply for the Music Therapy Certification Program. The program is likely a formal recognition of expertise in music therapy, and this form is the application process for interested individuals to submit their qualifications and experience. Before proceeding, let's review the form fields to ensure that we don't duplicate any information or create redundant content.
-
-</thinking>
-
 # Music Therapy Certification Program Application Form - Help Guide
 ## Purpose
 This form is for individuals who want to apply for the Music Therapy Certification Program. It's a formal recognition of expertise in music therapy, and this application form guides you through the necessary steps to submit your application.

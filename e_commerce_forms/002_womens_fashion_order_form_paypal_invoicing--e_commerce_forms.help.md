@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to facilitate ordering and invoicing for women's fashion items using the PayPal payment gateway. The purpose of the form is to collect customer information, product selection, and order details for efficient processing and billing.
-
-The form has 9 fields, and the required fields are: First Name, Last Name, Email, Phone Number, Shipping Address, Product, Quantity, and Price. The form also has a field for Order Notes, which is optional.
-
-To avoid errors, ensure that the customer's Email and Shipping Address are correctly formatted and complete. Additionally, the Product selection should be one of the options listed. The Quantity and Price fields should only be numbers. The Order Notes field is optional, but it may be used to provide additional context or instructions.
-
-Before submitting the form, please review the form to ensure all fields have been completed accurately and according to the instructions.
-</thinking>
-
 # Womens Fashion Order Form Paypal Invoicing - Help Guide
 ## Purpose
 The Womens Fashion Order Form Paypal Invoicing is intended to facilitate ordering and invoicing for women's fashion items using the PayPal payment gateway.

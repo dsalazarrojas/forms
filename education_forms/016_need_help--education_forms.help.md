@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # need-help-education-forms - Help Guide
 ## Purpose
 This form is used to provide support and guidance for education-related topics. The purpose of this form is to gather information about the user's education needs, allowing our team to offer relevant assistance.

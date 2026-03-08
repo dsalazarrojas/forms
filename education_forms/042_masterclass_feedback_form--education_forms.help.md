@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Masterclass Feedback Form is to collect feedback from students regarding their experiences with a specific class. This form is designed to gather information on various aspects of the class, including student name, instructor details, class attendance, and feedback. The form is likely used to improve the quality of instruction and overall learning experience at the masterclass.
-Please note that the form seems to be a duplicate of other forms with some additional fields, which might indicate that some of these fields are not necessary or might be redundant. It is recommended to review the form's purpose and fields carefully to avoid duplication of work and ensure that the form serves its intended purpose effectively.
-</thinking>
-
 # Masterclass Feedback Form - Help Guide
 ## Purpose
 The Masterclass Feedback Form is a tool to collect feedback from students on their experiences with a specific class. This form aims to gather information on various aspects of the class, including student name, instructor details, class attendance, and feedback.

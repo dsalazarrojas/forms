@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for applicants to submit their application for a film directing program. The form is used to collect information about the applicant, including their contact details, educational background, and supporting materials. The form will be reviewed by the film directing program admissions team to evaluate the applicant's suitability for the program. Please ensure that you only submit this form once, as duplicate submissions will not be accepted.
-</thinking>
 # film_directing_admission_form - Help Guide
 ## Purpose
 The film directing program admission form is used to collect application information from applicants. This form helps us to evaluate your suitability for the program and ensures that you provide all necessary details for review.

@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-The "Music Lesson Check In Form" is designed to gather essential information from students for music lessons, such as their details, instructor information, and lesson specifics. To ensure this form is being used correctly, please confirm the following:
-1. **Student and Instructor Roles**: This form should only be used for students who have registered for music lessons with the instructor.
-2. **Form Completion**: Complete this form for each scheduled music lesson.
-3. **Data Duplication**: Ensure that each student's data is not duplicated in the system.
-</thinking>
-
 # Music Lesson Check In Form - Help Guide
 ## Purpose
 This form is used to record student attendance and gather information about music lessons for administrative and educational purposes.

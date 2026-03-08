@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:** 
-The "Version 2 Of Course Registration Form" is designed to collect information from students registering for a course. This form captures the student's personal details, course specifics, and relevant dates. The form aims to provide a clear and concise way to register students for the course.
-</thinking>
-
 # Version 2 Of Course Registration Form - Help Guide
 
 ## Purpose

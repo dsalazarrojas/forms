@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's understanding of the water cycle. The purpose of this form is to gauge the user's knowledge and confidence level regarding the water cycle concepts. It is intended to be a self-assessment tool that allows users to evaluate their own understanding and identify areas where they need improvement.
-
-The form consists of several fields that cover various aspects of the water cycle, including the user's personal details (first name, last name, email), their quiz score, confidence level, and understanding of specific water cycle concepts. There are also fields for additional comments and explanations.
-
-This form is likely to be used in educational settings, such as schools or universities, to monitor students' understanding of the water cycle and provide personalized feedback.
-
-</thinking>
-
 # Water Cycle Understanding Survey - Help Guide
 ## Purpose
 The Water Cycle Understanding Survey is a self-assessment tool designed to evaluate the user's knowledge and confidence level regarding the water cycle.

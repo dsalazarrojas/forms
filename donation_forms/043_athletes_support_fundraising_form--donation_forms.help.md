@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's verify that the form is intended for the purpose of supporting athletes or sports teams' fundraising efforts, specifically for various expenses such as travel, equipment, training, and medical support. The form should be used by donors to provide financial support to the athletes or teams, either one-time or recurring, with the option for recognition and tribute donations. The donor's information is required for tax-deductible receipts and for recognition purposes. We should also ensure that the donor is aware of and acknowledges the non-refundable nature of their donation.
-</thinking>
-
 # Athletes Support Fundraising Form - Help Guide
 ## Purpose
 The Athletes Support Fundraising Form is designed to support athletes or sports teams with various fundraising efforts. Donors can contribute financially to support travel, equipment, training, and medical expenses. The form is used to collect necessary information from donors for tax-deductible receipts and recognition purposes.

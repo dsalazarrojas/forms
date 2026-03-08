@@ -1,10 +1,3 @@
-<thinking>
-This form is a generic form designed to collect information about delivery details. The form is not affiliated with any specific platform and is generated based on public metadata from a survey topic in the "driver_forms" category. 
-
-Before proceeding, ensure that the form is relevant to your use case and not a duplicate of another form. If unsure, consider verifying the form's purpose and structure against your business needs.
-
-</thinking>
-
 # delivery_report_form - Help Guide
 
 ## Purpose

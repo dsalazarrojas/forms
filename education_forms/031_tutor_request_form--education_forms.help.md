@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tutor Request Form - Help Guide
 ## Purpose
 The Tutor Request Form is a tool used to request a tutor for a specific subject and topic. It helps to match students with the most suitable tutor based on their needs and requirements. This form is used by students to provide detailed information about their needs, such as subject, topic, and available time, to enable tutors to offer their services and provide guidance.

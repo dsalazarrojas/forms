@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to facilitate the discharge process for patients who have been receiving medical care in a hospital or clinic setting. The form is used to gather information about the patient's condition, treatment, and instructions for follow-up care. It's crucial to complete this form accurately and thoroughly to ensure that the patient receives proper post-discharge care and instructions. Please review the form carefully and ensure that all required fields are filled in correctly. 
-</thinking>
- 
 # neurology_discharge_form - Help Guide
 ## Purpose
 This form is used to document the discharge process for patients who have been receiving neurology care in a hospital or clinic setting. It gathers information about the patient's condition, treatment, and instructions for follow-up care.

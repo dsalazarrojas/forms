@@ -1,5 +1,3 @@
-<thinking>As a helpful guide, we should provide users with a clear understanding of the form's purpose and how to complete it. This form, the "Home Dietetics Support Assessment," is designed to collect contact information, medical history, health status, medications, diet and nutrition details, allergies and contraindications, medical conditions, and lab test results from individuals seeking home dietetics support. The form is not intended to be a comprehensive or medical-grade assessment, but rather a preliminary tool to gather relevant information for further consultation with healthcare professionals.</thinking>
-
 # Home Dietetics Support Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for instructors and administrators to request open access courseware distribution to students. It is essential to ensure that the form is filled out correctly and accurately to avoid duplication of effort and misallocated resources. Before filling out this form, please check with your department or institution to see if there are any existing requests or processes in place for open access courseware distribution. If you are unsure or have questions, contact your local support team for guidance.
-</thinking>
-
 # Open Access Courseware Distribution Request Form - Help Guide
 ## Purpose
 The Open Access Courseware Distribution Request Form is designed to facilitate the process of requesting open access to courseware for students. This form ensures that the correct information is collected to provide access to courseware, while also avoiding duplication of effort and misallocated resources.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals about their health and travel history during the COVID-19 pandemic. This form aims to gather crucial data to support public health efforts in Queens Park Villas. By completing this form, users will provide essential details about their symptoms, travel, and contact history, which will help health officials take necessary measures to prevent the spread of the virus.
-
-Before proceeding, please ensure you have not already completed this form. Duplicate submissions will not be accepted.
-</thinking>
-
 # coronavirus_self_declaration_form_queens_park_villas - Help Guide
 ## Purpose
 The coronavirus self-declaration form is a crucial tool in the fight against the COVID-19 pandemic. It is designed to collect information about your health and travel history, which will help health officials take necessary measures to prevent the spread of the virus.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # College Course Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help instructors and administrators evaluate the effectiveness of a college course. It gathers feedback from students on various aspects of the course, including course content, instructor performance, and overall experience. The data collected will be used to improve the course and provide insights for future course development.

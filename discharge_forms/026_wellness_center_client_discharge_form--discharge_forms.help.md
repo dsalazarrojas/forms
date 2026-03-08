@@ -1,11 +1,3 @@
-<thinking>
-  To confirm that this form is intended for use at a wellness center, and not affiliated with any other form platform, and is an original adaptation using public metadata.
-  The form is intended to gather information and provide a structured discharge process for clients at a wellness center. 
-  Please note that this form does not collect any sensitive or protected data, and it's not designed for any HIPAA-regulated purpose.
-  This form is not intended for any other use other than client discharge at a wellness center.
-  It is recommended to review this form carefully before using it, to ensure you're aware of its purpose and fields.
-</thinking>
-
 # wellness_center_client_discharge_form - Help Guide
 ## Purpose
 The wellness center client discharge form is a document used to record and verify important information during the discharge process of a client at a wellness center. This form helps ensure a thorough and organized discharge, reducing the risk of miscommunication and errors.

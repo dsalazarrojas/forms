@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help teachers evaluate their teaching practices in the physics department. It is used to assess the effectiveness of various methods, approaches, and strategies used in teaching physics, including lesson planning, student engagement, student outcomes, and teacher support. This form is meant to be a self-reflection tool for teachers to identify areas of improvement and best practices in their teaching.
-</thinking>
-
 # physics_teaching_self_evaluation_form - Help Guide
 ## Purpose
 The physics_teaching_self_evaluation_form is a self-reflection tool for teachers to evaluate their teaching practices in the physics department. It helps identify areas of improvement and best practices in teaching physics.

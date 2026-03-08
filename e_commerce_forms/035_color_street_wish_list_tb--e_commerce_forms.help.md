@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to order or add to their wish list items from Color Street. The form is intended to capture essential details such as customer name, email, shipping address, and payment information. This guide will walk you through the form fields and provide clarity on what is required and what the options mean.
-</thinking>
-
 # Color Street Wish List TB! - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to submit a wish list and order or add items from Color Street. The form is designed to collect essential information such as name, email, shipping address, payment method, and delivery option.

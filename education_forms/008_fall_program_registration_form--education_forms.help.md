@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a Fall program, likely for registration and related purposes. The form likely belongs to an educational institution and serves as a means to gather details about each participant. To ensure the form is used correctly, let's clarify its purpose and usage.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform, such as Jotform, Google Forms, or ODK Collect. It was created using AI-generated form design based on public survey topic metadata. This form is released under the Creative Commons 4.0 license, allowing you to use, modify, and even sell derived forms while giving credit.
-
-Please review this help guide to ensure you understand how to use the form correctly and its intended purpose. Fill out the form with accurate information to maximize its usefulness.
-
-</thinking>
-
 # Fall Program Registration Form - Help Guide
 ## Purpose
 The Fall Program Registration Form is used to collect participant information for a Fall program at an educational institution. This form will be used to gather details about each participant, including participant information, program information, registration details, payment information, and review and communication preferences.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and evaluate the effectiveness of a university's curriculum. It's intended to be used by university administrators, educators, or curriculum developers to assess the strengths and weaknesses of a particular curriculum. The form will likely be used to identify areas for improvement and inform decisions about curriculum revisions. 
-
-To avoid duplication of effort, please ensure that this form is used only for its intended purpose and that all necessary information is provided to complete it accurately.
-
-</thinking>
-
 # University Curriculum Effectiveness Review Evaluation Form - Help Guide
 ## Purpose
 The University Curriculum Effectiveness Review Evaluation Form is a tool used to assess the effectiveness of a university's curriculum. This form helps administrators, educators, and curriculum developers evaluate the strengths and weaknesses of a particular program and identify areas for improvement.

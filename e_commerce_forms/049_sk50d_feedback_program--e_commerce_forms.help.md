@@ -1,9 +1,3 @@
-<thinking>
-SK50D is a customer satisfaction survey designed to collect feedback from clients and partners about our products or services. This survey is meant to be a simple, one-page feedback form used in various contexts, such as after product demos, training sessions, or regular check-ins. The form should not be completed more than once per individual, as the feedback provided may become outdated or redundant if submitted multiple times. 
-
-To ensure that we receive the most valuable and up-to-date feedback, we ask that you only submit this form once per individual, and not for every interaction or meeting. If you have already submitted feedback for the same individual, please do not resubmit. Thank you for your cooperation and understanding.
-</thinking>
-
 # SK50D Feedback Program - Help Guide
 ## Purpose
 

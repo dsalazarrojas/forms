@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Learning Registration Form - Help Guide
 ## Purpose
 The E Learning Registration Form is a document used for registering students to an online course. It is intended to be completed by students to provide necessary information to the course administrators for course enrollment and other related activities.

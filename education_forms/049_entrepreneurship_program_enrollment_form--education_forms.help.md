@@ -1,7 +1,3 @@
-<thinking>
-The form is for enrolling a participant in an entrepreneurship program. It's designed to gather information from the participant such as their contact details, date of birth, and any specific needs or requirements they may have. This information will be used to tailor the program's services and ensure a smooth experience for the participant. Please note that while some fields are not required, it is recommended that users fill them out as accurately as possible to get the most out of the program. This form is intended for new participants, not for existing ones, so please do not fill it out if you are already enrolled in the program.
-</thinking>
-
 # entrepreneurship_program_enrollment_form - Help Guide
 ## Purpose
 The entrepreneurship program enrollment form is designed to gather information from new participants, allowing us to tailor the program's services and ensure a smooth experience for each individual. 

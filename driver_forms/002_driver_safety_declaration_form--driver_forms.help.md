@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect driver information, including contact details, vehicle registration, and other relevant data such as license class and accident history, for various administrative and regulatory purposes. This form may be part of a larger process, such as onboarding a driver for a company, verifying driver identity, or other business requirements. To avoid duplication, ensure that you're not already have a similar form in your possession.
-</thinking>
-
 # Driver Safety Declaration Form - Help Guide
 ## Purpose
 The Driver Safety Declaration Form is a critical document that helps us ensure the safety and well-being of all drivers. This form collects personal and vehicle information to help us provide the best possible services and services to our drivers.

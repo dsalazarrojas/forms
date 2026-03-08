@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "University Recourse Form" to ensure end-users understand its purpose and how to complete it properly. This form is designed to collect information from students for university resources, such as support services, academic guidance, or course offerings. The form will be filled out by students seeking assistance, and the submitted data will be reviewed by university officials. To create an effective help guide, we must ensure the explanation is concrete, concise, and practical, avoiding any unsupported business logic.
-</thinking>
-
 # University Recourse Form - Help Guide
 ## Purpose
 This form is designed to collect information from students for the university's resources. Students can use it to seek assistance with academic, support, or other services, and university officials will review the submitted data to address their requests.

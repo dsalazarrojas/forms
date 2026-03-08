@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In Kind Donation Form - Help Guide
 
 ## Purpose

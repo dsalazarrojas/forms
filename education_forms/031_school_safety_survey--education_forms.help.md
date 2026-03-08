@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess a school's safety and emergency response procedures, as well as its overall approach to school safety. 
-The purpose of this form is to collect data that will help identify areas of improvement in school safety, emergency response, and communication with parents and students. 
-This form should not be used for commercial purposes, and the collected data will be used for internal analysis and improvement of school safety procedures.
-Please ensure that you have the necessary permissions and approvals to fill out this form. 
-Also, be aware that this form was generated using AI, and its accuracy and completeness are not guaranteed.
-Please review the form carefully and answer truthfully to ensure accurate data collection.
-</thinking>
-
 # School Safety Survey - Help Guide
 ## Purpose
 The School Safety Survey is designed to assess a school's safety and emergency response procedures, as well as its overall approach to school safety. The survey aims to collect data that will help identify areas of improvement in school safety, emergency response, and communication with parents and students.

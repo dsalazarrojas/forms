@@ -1,7 +1,3 @@
-<thinking>
-This form is used for business entities to declare their compliance with various laws and regulations. The form is part of a process to ensure the business entity is meeting its legal obligations. The fields on this form are designed to collect information about the entity's status with regard to tax compliance, regulatory compliance, financial reporting, employment laws, environmental regulations, health and safety standards, and licensing requirements. This form will help you verify that the business entity is operating within the legal framework and identify any areas where improvement is needed.
-</thinking>
-
 # Business Entity Compliance Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to help business entities declare their compliance status with various laws and regulations. This form ensures the entity is operating within the legal framework and highlights areas where improvement is needed.

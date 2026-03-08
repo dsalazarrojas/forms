@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended to gather information about the outcomes and performance of a donor campaign. The fields should be completed by the campaign organizers to provide insights into the campaign's success and areas for improvement.
-  It would be helpful to ensure that each field has a valid value, and if not, please clarify with the campaign organizers to avoid duplication and ensure the form is filled out correctly.
-  It's also a good idea to review the form's purpose and fields to ensure that they align with the campaign's goals and objectives.
-</thinking>
-
 # Donor Campaign Outcome Report Form - Help Guide
 ## Purpose
 This form is used to report on the outcomes and performance of a donor campaign. It helps to gather information about the campaign's success and areas for improvement.

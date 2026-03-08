@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students who have taken an ASIC Design course. The form is designed to be completed by students to provide their honest opinions on the overall quality of the course, the effectiveness of the instructor, and their experiences with the course materials. The information gathered will help instructors and course designers understand what works well and what areas to improve in the course, ultimately making it more effective for future students. This form is not affiliated with, endorsed by, or derived from any form platform, and its content is released under the Creative Commons BY 4.0 license. If you've taken the course and have feedback to share, please feel free to complete this form to help us improve the course.
-
-</thinking>
-
 # ASIC Design Course Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students who have taken the ASIC Design course. Please take a few minutes to complete this form to help us improve the course.

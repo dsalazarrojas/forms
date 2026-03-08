@@ -1,12 +1,3 @@
-<thinking>
-Internal note: This form is designed to capture relevant information from the teacher regarding the educational plan for their student. This form should not be used to submit grades or other sensitive information, but rather to gather feedback from the teacher on the student's learning style, IEP (Individualized Education Program) goals, and any recommended interventions or recommendations for the student. The purpose of this form is to ensure that teachers have a clear understanding of the student's needs and can provide targeted support to help the student succeed. 
-
-Before filling out this form, please ensure that you have a good understanding of your own teaching practices and the student's learning style and needs. The form should not be used to simply fill in fields, but rather as a tool to reflect on your practices and how they can be adjusted to better meet the student's needs. 
-
-This form is not intended to be a comprehensive assessment, but rather a useful tool to guide your practice. If you have any questions or concerns, please reach out to your supervisor or school administrator for guidance. 
-
-</thinking>
-
 # Teacher Input For Educational Plan - Help Guide
 ## Purpose
 This form is designed to help teachers gather information and provide feedback on a student's learning style, IEP goals, and recommended interventions or recommendations. The purpose of this form is to ensure that teachers have a clear understanding of the student's needs and can provide targeted support to help the student succeed.

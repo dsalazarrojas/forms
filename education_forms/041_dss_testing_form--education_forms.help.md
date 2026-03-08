@@ -1,11 +1,3 @@
-<thinking>
-This form is for testing purposes, ensuring that users can provide accurate and consistent data for internal evaluation and analysis. The form should only be filled out if the user is participating in a testing session, as indicated by the testing_date and testing_time fields. If a user is not participating in a testing session, they should not fill out this form.
-
-Each field in this form is designed to capture specific information necessary for testing, and users are required to fill out fields 1-6 and 8-9. Fields 7 and 10 are optional and only required if the user is participating in a testing session or if the category field is populated, respectively.
-
-The form's purpose is to collect accurate and complete data for internal evaluation and analysis.
-</thinking>
-
 # dss_testing_form - Help Guide
 ## Purpose
 This form is designed for testing purposes, ensuring that users can provide accurate and consistent data for internal evaluation and analysis.

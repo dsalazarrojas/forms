@@ -1,11 +1,3 @@
-<thinking>**This is a thought process to ensure the form purpose and requirements are understood:**
-
-The form "Course Completion Declaration Form" is designed to collect information from students or learners about their course completion status. It seems to be related to educational programs or courses, possibly for tracking student progress or verifying completion of a program. The form is not required to be filled out, but it might be used for administrative purposes or internal tracking.
-
-The form is divided into five pages, with fields for user input, course completion date, course completion declaration, student ID, and program completion declaration. Each page seems to be optional, but it's possible that some fields are required for specific purposes.
-
-</thinking>
-
 # Course Completion Declaration Form - Help Guide
 ## Purpose
 The "Course Completion Declaration Form" is a tool used to collect information from students or learners about their course completion status. It can be used for administrative purposes or internal tracking of student progress in educational programs.

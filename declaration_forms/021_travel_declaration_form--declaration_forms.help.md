@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for travelers to declare their travel information, health status, and other relevant details. The form is designed to be completed by travelers before embarking on their journey to ensure that all necessary information is collected and recorded properly. This form may be used by authorities or airlines to verify the health and travel status of passengers.
-
-</thinking>
-
 # Travel Declaration Form - Help Guide
 ## Purpose
 The Travel Declaration Form is used to collect information from travelers about their travel plans and health status. This form is designed to ensure that all necessary information is collected and recorded properly for travel purposes.

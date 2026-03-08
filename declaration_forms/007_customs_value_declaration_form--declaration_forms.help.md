@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate completion, please note that this form is intended for declaring customs values on shipments. It captures essential information about shipments, goods, and contacts related to the importation process. This guide is meant to be a step-by-step reference to help users fill out the form correctly and efficiently.
-</thinking>
-
 # Customs Value Declaration Form - Help Guide
 
 ## Purpose

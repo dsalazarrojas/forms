@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a practice form for users to get familiar with inputting numbers in different formats. This form should be filled out by users who are looking to improve their numerical input skills. 
-Please note that this form does not store actual user data and is for testing purposes only. Please do not attempt to fill this form multiple times with the same or different data.
-</thinking>
-
 # Numeric Input Practice Form - Help Guide
 ## Purpose
 This form is a practice form for users to get familiar with inputting numbers in different formats, such as text, number, time, date, select-one, select-multiple, email, and phone numbers.

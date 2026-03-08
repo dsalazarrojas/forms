@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # student_of_the_year_form - Help Guide
 
 ## Purpose

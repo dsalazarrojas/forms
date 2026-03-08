@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students who are seeking enrollment in a school or educational program. This form will be used to collect details about the student's application, including their personal information, any special accommodations they may require, information about their parents, the details of their enrollment request, and the approval status of the school administrator.
-</thinking>
-
 # Student Enrollment Approval Form - Help Guide
 
 ## Purpose

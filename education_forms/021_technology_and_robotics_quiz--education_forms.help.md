@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from participants in a technology and robotics quiz, capturing their name, email, phone number, and demographic data. This form is likely used for educational purposes, such as gathering feedback or assessing user engagement in a robotics-related course or program.
-</thinking>
-
 # technology_and_robos_quiz - Help Guide
 ## Purpose
 This form is designed to collect data from participants in a technology and robotics quiz. It is intended for educational purposes, such as gathering feedback or assessing user engagement in a robotics-related course or program.

@@ -1,9 +1,3 @@
-<thinking>
-The Educational Outreach Impact Report Form is a tool used to track the progress and outcomes of educational outreach programs. It helps in understanding the effectiveness of these programs and identifying areas that need improvement. 
-The form is designed to be completed by school representatives, program coordinators, or other relevant personnel. It is meant to gather information on various aspects of the program, including school details, program specifics, and outcomes. 
-This form should only be used for programs that have not been previously reported. Please ensure that you do not submit duplicate reports for the same school. This form is a one-time reporting requirement for new programs.
-</thinking>
-
 # Educational Outreach Impact Report Form - Help Guide
 ## Purpose
 The Educational Outreach Impact Report Form is used to track the progress and outcomes of educational outreach programs. It helps in evaluating the effectiveness of these programs and identifying areas that need improvement.

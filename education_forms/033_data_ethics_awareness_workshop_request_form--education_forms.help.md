@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for event organizers and coordinators to request a Data Ethics Awareness Workshop. It is meant to be used by individuals responsible for planning and facilitating such workshops. The form is designed to collect information about the workshop, including the name and contact information of the requestor, the event details (date, time, location, and number of attendees), and any additional information that might be relevant to the workshop's organization.
-</thinking>
-
 # Data Ethics Awareness Workshop Request Form - Help Guide
 
 ## Purpose

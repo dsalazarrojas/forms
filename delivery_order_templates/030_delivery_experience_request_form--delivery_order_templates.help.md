@@ -1,5 +1,3 @@
-<thinking>... internal note: The "Delivery Experience Request Form" is designed to collect information about customer experiences with deliveries, including the satisfaction with delivery experience, delivery service level, and customer service. This form helps to monitor and improve the quality of service provided to customers. Before filling out this form, please ensure that you have not submitted a similar request for the same order. Duplicate requests will not be processed. This form is intended to gather feedback from customers regarding their recent deliveries. Each field in this form is crucial in providing a complete picture of the customer's experience. Please answer the questions truthfully and provide as much detail as possible. ...</thinking>
-
 # Delivery Experience Request Form - Help Guide
 ## Purpose
 The "Delivery Experience Request Form" is a tool used to collect information about customer experiences with deliveries. It is designed to help monitor and improve the quality of service provided to customers.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information from students who are applying to an institution for various programs or courses. The form is intended to collect data about the student's personal details, educational background, academic goals, and other relevant information that will help the institution evaluate their application. It's crucial to complete this form carefully and accurately to ensure that your application is considered for admission. Please check that you are not submitting duplicate applications or filling out this form for someone else. If you are unsure about any of the questions or fields, please contact the institution's admissions department for clarification.
-
-</thinking>
-
 # Admissions Questionnaire - Help Guide
 ## Purpose
 This form is used to collect personal and educational information from students applying to various programs or courses at the institution.

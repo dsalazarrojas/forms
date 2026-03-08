@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Panel Application Form - Help Guide
 ## Purpose
 The Panel Application Form is designed to collect information from users who are interested in joining a panel. The form gathers general user details, contact information, and specific membership preferences. Please ensure you have reviewed the form carefully and are eligible to apply before submitting your application.

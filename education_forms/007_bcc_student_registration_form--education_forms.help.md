@@ -1,10 +1,3 @@
-<thinking>
-To provide an effective user-facing help guide for the BCC Student Registration Form, it is essential to first understand the purpose of the form and check for relevance and non-duplication of efforts. The BCC Student Registration Form is designed to collect information from students for the purpose of enrolling them in a school or educational program. This form is used to gather essential details such as student's personal and contact information, medical conditions, and other relevant data required for student registration. 
-
-To ensure that the form is completed accurately and efficiently, it is crucial to provide clear explanations for each field, reducing the possibility of confusion or errors. This guide will walk users through each field, providing a step-by-step explanation of what to expect and how to complete each section.
-
-</thinking>
-
 # BCC Student Registration Form - Help Guide
 ## Purpose
 The BCC Student Registration Form is designed to collect information from students for educational registration purposes. This form helps gather essential details that are crucial for student enrollment.

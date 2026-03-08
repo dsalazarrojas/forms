@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the accuracy of this form, please verify that you are on the right form by checking the title: "university-honors-program-assessment". This form is intended to gather information about students' experiences with the university's honors program. If you're an administrator, please use this form to collect feedback from students about their experiences in the program. If you're a student, please use this form to describe your experiences and how the program has impacted your education and personal growth.
-</thinking>
-
 # university-honors-program-assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and experiences from students about the university's honors program. This information will help administrators better understand how the program is meeting its goals and how it can be improved.

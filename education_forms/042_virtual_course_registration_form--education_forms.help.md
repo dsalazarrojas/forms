@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Virtual Course Registration Form" to help end users understand its purpose, complete it, and navigate each field. This form was generated using AI, but its purpose is to collect information about virtual courses for educational purposes. It is likely that this form will be used in a academic or educational setting, such as a university or online learning platform.
-</thinking>
-
 # Virtual Course Registration Form - Help Guide
 ## Purpose
 The Virtual Course Registration Form is designed to collect information from students who are interested in registering for a virtual course. The form will help the course organizers to gather necessary details about the students and provide them with a smooth registration experience.

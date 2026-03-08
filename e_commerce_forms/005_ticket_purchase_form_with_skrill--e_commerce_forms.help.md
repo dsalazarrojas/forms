@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to allow users to purchase tickets through a secure payment gateway provided by Skrill, a popular online payment service. This form is a multi-page form, with each page serving a specific purpose in the ticket purchasing process. The form requires no specific user authentication or validation, making it open to all users. This form's purpose is non-redundant, and users are expected to fill it out only once to complete their ticket purchase.
 
 </thinking>

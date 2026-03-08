@@ -1,13 +1,3 @@
-<thinking>
-We need to create a clear and concise help guide for the "Educational Support Records Release Form" that explains its purpose, instructions, and field-by-field explanation to ensure end-users understand what is required.
-
-The form is used for recording the educational support records of a student. It's a critical document that requires accurate and detailed information about the student's education journey. This guide will walk users through the process of completing the form, highlighting what each field means and how to provide accurate and helpful information.
-
-The form's purpose is to gather information about the student's educational history, including their name, ID, parent/guardian contact details, and educational institution information. This information will be used to provide support and guidance to the student throughout their educational journey.
-
-Before proceeding, please ensure that you have all the necessary information and consent from the student and their parent/guardian.
-
-</thinking>
 # Educational Support Records Release Form - Help Guide
 ## Purpose
 The Educational Support Records Release Form is used to collect and document the educational history and contact information of students, ensuring that institutions have the necessary records to support the student's educational journey.

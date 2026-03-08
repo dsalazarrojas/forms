@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Bluepay T Shirt Order Form is to collect necessary information for the order and delivery of custom T-shirts. This form is used to capture the contact information of the customer, order details such as shirt colors, sizes, and quantities, and payment preferences. It is essential to fill out this form accurately to ensure the correct order is processed.
-
-Before starting, please review the fields below to ensure you have all the required information, and avoid submitting duplicate orders.
-
-</thinking>
-
 # Bluepay T Shirt Order Form - Help Guide
 ## Purpose
 The Bluepay T Shirt Order Form is a comprehensive form designed to collect customer contact and order information, shirt details, and payment preferences for the processing of custom T-shirt orders.

@@ -1,6 +1,3 @@
-<thinking> 
-The corporate matching gift consent form is a crucial document that employers use to determine whether or not to provide matching gift benefits to their employees. The form should only be used for this purpose, and its completion should be reviewed carefully to ensure accuracy and relevance. Before filling out the form, please verify that it is not a duplicate of a previously completed form.</thinking>
-
 # corporate_matching_gift_consent_form - Help Guide
 ## Purpose
 The corporate matching gift consent form is used to determine whether or not to provide matching gift benefits to employees. This form ensures that all necessary information is collected to facilitate accurate processing and eligibility determination.

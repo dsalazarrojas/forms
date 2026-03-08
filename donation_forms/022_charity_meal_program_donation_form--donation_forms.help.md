@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals or organizations that want to donate to a charity meal program. This form is designed to gather donor's contact and donation details to process the transaction and communicate with the donor for receipt, updates, and other necessary information. 
-The form has been designed with accessibility and clarity in mind, with clear labels, hints, and options to guide the user through the process. Each field is carefully crafted to ensure that the user understands the purpose and expectation of the field. 
-Before proceeding, ensure that the form is not being duplicated or submitted for a different purpose. This form is intended for individuals or organizations that want to make a charitable donation to the meal program.
-</thinking>
-
 # Charity Meal Program Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors to process their charitable donation to the meal program.

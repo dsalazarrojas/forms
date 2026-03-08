@@ -1,6 +1,3 @@
-<thinking>
-This form is used for students to select their school and locker information. The purpose of this form is to help students access their designated lockers for classes or events. The form is divided into multiple pages with different fields to gather necessary information such as student and school details. The fields are labeled clearly and the user can choose from various options for each field.</thinking>
-
 # Student Locker Selection Form - Help Guide
 ## Purpose
 The Student Locker Selection Form is used to gather information from students for locker selection purposes. It helps the students access their designated lockers for classes or events.

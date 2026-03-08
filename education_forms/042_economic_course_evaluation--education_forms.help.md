@@ -1,12 +1,3 @@
-<thinking>
-The form's purpose is to collect feedback and evaluations from students on economic courses. This form will help instructors assess the performance of their courses, gather student opinions, and make informed decisions about future course development.
-
-Before filling out this form, ensure that you have completed the evaluation on the specific course you are providing feedback on and that you have not already submitted a similar evaluation form for the same course. This form should be completed by students who have participated in an economic course and are willing to share their honest opinions.
-
-The form's fields are designed to collect information on various aspects of the course, including student names, course details, and opinions on course performance, outcome, and recommendations. The evaluations will be used to improve the quality and effectiveness of future economic courses.
-
-</thinking>
-
 # Economic Course Evaluation - Help Guide
 ## Purpose
 

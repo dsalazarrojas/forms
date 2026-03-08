@@ -1,21 +1,3 @@
-<thinking>
-
-To ensure relevance and non-duplication, let's briefly analyze the form purpose and fields.
-
-The "stem_program_referral_form" appears to be a comprehensive form designed to collect information about a student, their education background, program preferences, academic support, family, and other relevant details. It seems to be used for referrals or admissions purposes within the education sector.
-
-Upon reviewing the form fields, it seems to be divided into several sections, including:
-
-1. General information (Student Information, etc.)
-2. Education Background (multiple questions with various formats: text, select_one, select_multiple, date)
-3. Program Preferences (multiple select_one and select_multiple fields)
-4. Academic Support (multiple fields with select_one and date format)
-5. Family (select_multiple and select_one fields)
-
-The form requires several fields to be completed, including Student Programs 1 and 2, Education Background 1 and 2, Program Preferences 1, Academic Support 1, and Family 1, indicating that these are crucial for the referral process.
-
-</thinking>
-
 # stem_program_referral_form - Help Guide
 ## Purpose
 The "stem_program_referral_form" is a comprehensive form used to collect information about a student for referrals or admissions purposes within the education sector.

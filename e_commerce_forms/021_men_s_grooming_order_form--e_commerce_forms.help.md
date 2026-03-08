@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture information about men's grooming orders, including order details, customer information, delivery and payment options, product information, quantity, order total, and order date. To ensure accurate and efficient data collection, please complete the form carefully. Please note that this form is used to place orders for men's grooming services, and it is essential to provide valid information in each field to avoid any issues with order processing.
-
-This form is designed to be simple and user-friendly, and all required fields are marked as such. However, if you have any questions or concerns about the form or its fields, please do not hesitate to ask for clarification.
-
-Before starting, please review this guide to understand each field's purpose and how to complete it accurately.
-
-</thinking>
-
 # Men’s Grooming Order Form - Help Guide
 ## Purpose
 This form is used to place orders for men's grooming services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for temperature-controlled delivery purposes, typically for food or pharmaceutical products that require temperature control during shipping. The goal is to collect information about the delivery details, type, shipping temperature, and other relevant details. Please ensure you are filling out this form for a legitimate reason and not duplicating an existing record.
-</thinking>
-
 # temperature-controlled-delivery-form - Help Guide
 ## Purpose
 The temperature-controlled delivery form is designed to collect information about deliveries that require temperature control during shipping. This form is intended for use with food or pharmaceutical products that need to be kept at a specific temperature range to ensure safety and quality.

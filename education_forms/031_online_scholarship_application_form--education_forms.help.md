@@ -1,10 +1,3 @@
-<thinking>
-To be clear, this form is designed to help students who wish to apply for scholarships online. 
-The purpose of this form is to ensure that applicants provide accurate and necessary information for the scholarship application process.
-This guide is intended to help applicants understand what is needed from them and ensure they are not submitting duplicate information.
-The form is divided into several sections, each with specific fields that are explained below.
-</thinking>
-
 # Online Scholarship Application Form - Help Guide
 ## Purpose
 This online scholarship application form is designed to gather necessary information from students who wish to apply for scholarships. 

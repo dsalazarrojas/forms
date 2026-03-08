@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information for authorized parties to request and access academic records of students. The form is meant to be completed by students who are granting permission for their records to be shared with authorized parties, such as employers, universities, or other institutions. 
-
-The form is meant to be completed by students who are aware of their rights and responsibilities regarding the sharing of their academic records, and are willing to sign off on the authorization.
-
-The form is likely to be used in academic settings where students are applying for jobs, graduate programs, or other purposes that require verification of their academic credentials. 
-
-It's worth noting that the form appears to be a comprehensive authorization form that covers various aspects of a student's academic records, including the type of records being requested, the duration of the authorization, and the fee payment and privacy rights of the student. 
-
-It's also worth noting that this form is likely to be used in conjunction with other forms and procedures in place in the institution.
-
-</thinking>
-
 # Academic Records Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from students to share their academic records with third parties.

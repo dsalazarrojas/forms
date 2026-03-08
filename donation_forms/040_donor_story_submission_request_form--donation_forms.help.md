@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Story Submission Request Form - Help Guide
 
 ## Purpose

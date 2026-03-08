@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather donations for a healthcare organization that is in need of masks, food, and face shields for their health care services. The form is intended to collect general contact information from the donor, the specific items being donated, and the amount of the donation. The form will be used to communicate with the donor and potentially follow up on their donation. The form fields are straightforward, with no special requirements or constraints.</thinking>
-
 # We @ Quality U Can Trust Asking For Donation For Mask,Food,Face Shields For Our Health Care - Help Guide
 ## Purpose
 This form is designed to collect donations for masks, food, and face shields for healthcare services, allowing you to support the organization's efforts to provide essential care.

@@ -1,14 +1,3 @@
-<thinking>
-The form "prophets" is designed to collect information about officer-related data. 
-The form is likely used by officers to report their duties, events, and other relevant information. The "prophets" form has 25 fields, including Officer ID, start time, end time, shift, events, notes, submitted date, submitted time, assigned tool, assigned tool ID, assigned tool name, duty report, duty report ID, officer name, officer name ID, officer name full, officer name last, duty type, duty type ID, duty type name, officer ID 2, officer name full ID, officer last ID, officer last, and officer last name. It is possible that this form is used for administrative purposes, such as tracking officer schedules, reporting, and other management tasks.
-
-This form has several fields with select_one type, which means that user can choose only one option from the list. The form also has fields with text type, which can accept any type of text input. The start time, end time, submitted date, and submitted time fields are of time type, which can accept date and time input. The officer ID and officer name fields seem to have multiple options, which might be related to the officer's information.
-
-Some fields, such as duty report, duty report ID, assigned tool, assigned tool ID, and duty type name, have text type, which can be used for free-text input. The fields with id 21, 22, 23, 24, and 25 seem to be related to officer's information, which might be used for identification or other purposes.
-
-It is possible that some fields are redundant or have similar purposes, which might lead to user confusion. To ensure accurate and efficient completion of this form, it is recommended to review each field carefully and ensure that each field has a clear and specific purpose.
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The "prophets" form is designed to collect information about officer-related data.

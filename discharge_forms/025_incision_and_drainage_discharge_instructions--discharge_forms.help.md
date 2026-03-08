@@ -1,7 +1,3 @@
-<thinking>
-To confirm the purpose of this form and ensure it's not a duplicate, let's review the context and fields provided. The form is for "incision-and-drainage-discharge-instructions," which seems to be related to medical procedures, possibly in the field of surgery or wound care. The fields included are patient information (name, contact method, address, email, phone), discharge information (discharge date), and procedure-specific details (surgeon, incision site, incision site photos, and a questionnaire with multiple options). There are no obvious indicators of redundant or contradictory fields based on the provided structure.
-</thinking>
-
 # incision-and-drainage-discharge-instructions - Help Guide
 ## Purpose
 This form is used to document patient discharges from incision and drainage procedures. It gathers necessary information for medical professionals, including patient contact details, discharge dates, and procedural specifics.

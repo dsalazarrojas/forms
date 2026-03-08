@@ -1,5 +1,3 @@
-<thinking>Parent-Teacher Conference Registration Form is used by parents to register their child for a parent-teacher conference. This form is typically filled out by parents when they need to schedule a meeting with a teacher to discuss their child's progress. To avoid duplication, this form should only be filled out once per conference.</thinking>
-
 # Parent Teacher Conference Registration Form - Help Guide
 ## Purpose
 This form is used to register a parent-teacher conference, which is a meeting between a parent and their child's teacher to discuss the child's progress and address any concerns.

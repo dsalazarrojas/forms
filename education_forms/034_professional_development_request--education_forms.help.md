@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by employees to request professional development opportunities within the organization. These opportunities can be for training, mentorship, or other activities that enhance an employee's job skills and career growth. 
-Please ensure you have permission to use this form and that your requests are relevant to your role and responsibilities within the company. 
-Before submitting a request, check that you're not duplicating an existing request. 
-</thinking>
-
 # professional_development_request - Help Guide
 ## Purpose
 This form is used to submit a professional development request to the organization. The request should be for training, mentorship, or other activities that enhance an employee's job skills and career growth.

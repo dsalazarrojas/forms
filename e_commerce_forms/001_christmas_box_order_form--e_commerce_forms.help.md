@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect order information for Christmas gift boxes. It is meant for customers to provide their personal details such as name, email, phone number, and address. The form also includes sections for order details and delivery information. The form's fields are categorized into personal information, order details, and delivery information sections. This helps to keep the form organized and easier to understand. Each field's label and hint have been carefully crafted to be clear and concise, allowing the customer to easily provide the required information. Upon reviewing the form, it can be noticed that there is no duplication of fields such as email and phone number, and the form has a good balance of required and optional fields to ensure that customers can easily provide the necessary information without feeling overwhelmed.
-
-The form's fields are designed to cater to various preferences and needs of the customers, such as choosing a preferred Christmas box type, selecting a payment option, and deciding on additional gift wrapping service. 
-
-This form is a comprehensive tool for customers to provide all necessary information for a successful order and to ensure that their gift boxes are delivered correctly. It is designed to reduce errors and increase the chances of successful order fulfillment.
-</thinking>
-
 # Christmas Box Order Form - Help Guide
 ## Purpose
 This form is a tool to collect order information for Christmas gift boxes. It helps customers provide personal details, choose a preferred gift box type, select a payment option, and specify delivery preferences.

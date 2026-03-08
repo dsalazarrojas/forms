@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to guide users through a simplified purchase process for a heritage flag, which is likely a fictional or hypothetical product. The form is designed to collect customer information, shipping details, payment information, and confirmation of the order. The fields are divided into several sections, each with its own set of fields that require different types of information. This form likely serves as a template for a real-world sales process in an e-commerce setting.
-
-To prevent duplication and ensure the form is used correctly, it is essential to ensure that the form is only used for its intended purpose and that users understand its correct usage.
-
-</thinking>
-
 # heritage_flag_purchase_form - Help Guide
 ## Purpose
 The heritage flag purchase form is a simplified purchase process for a heritage flag, a product that is likely to be a novelty item or a collectible. The form guides users through the required information collection for a successful transaction.

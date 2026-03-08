@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for users to register for the Practice And Process Studies Summer School. The goal is to collect user information and preferences for the program. To ensure accurate and relevant data, please make sure to provide the following information:
-
-* A valid email address is required for contact and confirmation purposes.
-* Selecting "True" for "Email Confirmation" means that the user will receive a confirmation email after submitting the form.
-* "Practice" field allows users to select one or more practice sessions they are interested in.
-* Please enter a real 10-digit phone number for the "Phone" field.
-* "Date" and "Time" fields should be in the correct format (YYYY-MM-DD and HH:MM AM/PM respectively).
-
-This form is designed to be completed in a linear manner, page by page. Please follow the instructions below to complete it accurately:
-
-</thinking>
-
 # Practice And Process Studies Summer School Registration - Help Guide
 ## Purpose
 This form is designed to help users register for the Practice And Process Studies Summer School. It collects user information and preferences for the program.

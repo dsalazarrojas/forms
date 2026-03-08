@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from school administrators to set up online schools. It is likely intended for educational institutions that offer online courses or programs. The fields are likely to be used to collect contact information, school details, and other relevant data for further processing.
-</thinking>
-
 # Online School Setup Form - Help Guide
 ## Purpose
 This form is designed for school administrators to provide essential information to set up and manage online schools. It consists of three pages: Page 1, Page 2, and Page 3. Each page has a text field where you can input your information.

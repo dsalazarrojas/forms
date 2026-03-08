@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to log volunteer hours for students who have participated in volunteer activities. This form helps track and record the hours spent volunteering, providing a record of student's volunteer work. To ensure accuracy and relevance, please note that this form should only be used for recording volunteer hours for student-related events or programs.
-
-It is also recommended to avoid completing this form for duplicate entries or events that have not actually occurred. If you are unsure about the eligibility or relevance of an entry, please consult with a designated authority.
-
-</thinking>
-
 # student_volunteer_hour_log_form - Help Guide
 ## Purpose
 

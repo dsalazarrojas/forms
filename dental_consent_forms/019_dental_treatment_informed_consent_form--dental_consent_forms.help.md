@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients before undergoing any dental treatment. The form is used to ensure that the patient is aware of the details of the treatment, including the procedure date and time, and to obtain their consent for the treatment. The form should only be used for patients who are receiving treatment for the first time or have significant changes to their treatment plan. Please review the form carefully and ensure it is completed accurately and honestly.
-</thinking>
-
 # Dental Treatment Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before undergoing any dental treatment. It ensures that patients are aware of the details of the treatment and understand what to expect.

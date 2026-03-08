@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the retention strategies of a dental practice, gathering information on patient identification, current retention efforts, rating of retention efforts, comparison with others, improvement strategies, current strategies used, effectiveness of current strategies, and areas for improvement. This form helps practices identify areas where they may need to improve their retention strategies to better serve their patients. To ensure accuracy, please complete each field as thoroughly as possible and only select options that apply to your practice. 
-
-Please note that this form is for internal use only and the data collected will be used to help the practice improve its retention strategies.
-</thinking>
-
 # Dental Practice Retention Strategies Assessment - Help Guide
 ## Purpose
 This form is designed to help dental practices assess their retention strategies, identifying areas of improvement and best practices to better serve their patients.

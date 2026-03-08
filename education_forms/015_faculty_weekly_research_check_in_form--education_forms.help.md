@@ -1,15 +1,3 @@
-<thinking>
-
-This guide is intended to help faculty members complete the Faculty Weekly Research Check In Form. 
-
-The form is meant to gather information about a faculty member's research progress, any obstacles they may have faced, and how they plan to stay on track. It is likely used by administrative or research staff to monitor and support the progress of research projects. 
-
-The form is not meant to be completed daily, but rather as a weekly check in to provide updates on progress. 
-
-It should be completed every week, on a specific date as chosen by the form creator. 
-
-</thinking>
-
 # Faculty Weekly Research Check In Form - Help Guide
 ## Purpose
 The Faculty Weekly Research Check In Form is designed to help faculty members keep track of their weekly research progress. It collects information about the research they are conducting, any obstacles they may face, and their next steps to stay on track.

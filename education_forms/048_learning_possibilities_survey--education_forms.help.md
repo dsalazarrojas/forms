@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback and insights from various stakeholders in the education sector, including students, educators, and parents. The purpose of this form is to identify areas of improvement in the learning process and to gain a better understanding of the needs and preferences of different groups. This form is not affiliated with any specific education platform, and its creation is a result of an AI-generated adaptation of public survey topic metadata.
-
-Please note that this form is a free adaptation of public information, and it is not affiliated with any proprietary form platforms. By using this form, you are free to modify it as you see fit, and you can even sell it, as long as you give credit to the original creator.
-
-Before proceeding, it is essential to ensure that this form is relevant to your specific needs and goals. If you are unsure about the form's purpose or any of its fields, please review the following guide carefully.
-
-</thinking>
-
 # learning_possibilities_survey - Help Guide
 ## Purpose
 The learning_possibilities_survey form is designed to gather feedback from students, educators, and parents on various aspects of the learning process. This feedback will help identify areas of improvement and gain insights into the needs and preferences of different groups.

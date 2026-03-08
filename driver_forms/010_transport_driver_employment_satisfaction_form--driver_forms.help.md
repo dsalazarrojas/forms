@@ -1,7 +1,3 @@
-<thinking>
-The Transport Driver Employment Satisfaction Form is designed to measure the overall satisfaction of transport drivers with their employment. The form collects data on various aspects of their job satisfaction, including their relationship with their transportation company, job title, job security, team communication, and company culture. The form is intended to be completed by the transport drivers themselves, providing valuable insights into their employment experiences and satisfaction levels. Before completing this form, please ensure that you are a transport driver and that you have been prompted to complete this form by your employer or HR representative. If you have already completed this form, please do not duplicate your response.
-</thinking>
-
 # Transport Driver Employment Satisfaction Form - Help Guide
 ## Purpose
 This form is designed to measure the satisfaction of transport drivers with their employment. The form collects data on various aspects of their job satisfaction, which will help the company to improve their working conditions and policies.

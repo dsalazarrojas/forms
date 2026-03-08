@@ -1,11 +1,3 @@
-<thinking>
-The Algebra Quiz form is designed for students to assess their understanding of algebraic concepts and skills, specifically in areas such as evaluating expressions, solving linear equations, and applying mathematical properties. This form is intended for educational purposes and should only be filled out by individuals who have been assigned to the quiz through an educational setting. 
-
-To ensure data quality, please note that the provided YAML defines an input schema with 26 fields across two main categories: student information and quiz questions. 
-
-Please make sure to fill out the form only if you have been officially assigned to it.
-</thinking>
-
 # Algebra Quiz - Help Guide
 ## Purpose
 

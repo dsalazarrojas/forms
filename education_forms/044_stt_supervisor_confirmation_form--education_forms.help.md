@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be completed by a supervisor to provide confirmation of their work with a volunteer. The purpose of this form is to gather information and confirm completion of tasks or projects assigned to the volunteer. The supervisor should fill out this form to ensure that all relevant information is recorded accurately and consistently. Please ensure that you have all necessary permissions and approvals before proceeding.
-
-This form should only be completed once for each volunteer. If a supervisor needs to report on multiple volunteers, they should complete this form for each one separately.
-
-Please be mindful of the format and consistency when filling out this form to ensure that the information is easily readable and comparable.
-</thinking>
-
 # Stt Supervisor Confirmation Form - Help Guide
 ## Purpose
 The Stt Supervisor Confirmation Form is a form used to confirm the completion of tasks or projects assigned to a volunteer. This form is intended to be completed by the supervisor who has worked with the volunteer.

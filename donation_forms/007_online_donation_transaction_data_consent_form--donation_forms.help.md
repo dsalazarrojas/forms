@@ -1,11 +1,3 @@
-<thinking>
-This form is for obtaining consent from donors regarding the use of their data in online transactions. 
-The data will be used for Donor Profile, Transaction Data, and Donation Amount. 
-The form will be used to track donor preferences for communication (phone, email, post) and data usage. 
-Donors will be asked to provide their contact information for data usage and communication purposes. 
-Please note that this form will be used to store data for future reference and not for real-time processing. 
-</thinking>
-
 # online_donation_transaction_data_consent_form - Help Guide
 ## Purpose
 The online donation transaction data consent form is used to collect consent from donors for the use of their data in online transactions. This form is essential for ensuring that donors are aware of how their data will be used and to obtain their explicit consent for its use.

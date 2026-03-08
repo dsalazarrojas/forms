@@ -1,13 +1,3 @@
-<thinking>
-
-The Admissions Committee Application Form is a critical document that helps the Admissions Committee evaluate candidates for a position on the committee. To ensure the form is used correctly and efficiently, we need to make sure it is completed accurately and thoroughly.
-
-First, let's review the form's purpose and fields to ensure it is relevant to the candidate's qualifications and experiences. We need to verify that the form is not duplicated or filled out incorrectly.
-
-After the initial review, we'll proceed with a step-by-step guide on how to fill out the form correctly.
-
-</thinking>
-
 # Admissions Committee Application Form - Help Guide
 ## Purpose
 The Admissions Committee Application Form is a comprehensive document designed to collect essential information about the candidate's background, qualifications, and experience. This information will be used by the Admissions Committee to assess the candidate's suitability for a position on the committee.

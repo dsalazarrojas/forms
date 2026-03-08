@@ -1,8 +1,3 @@
-<thinking>
-**Purpose:** The Teaching Aspirations Survey is an essential tool for understanding the aspirations and goals of education professionals in their career. This form is designed to collect data about their job satisfaction, career goals, educational background, and years of service, among other relevant factors. 
-This information will help in identifying the needs and preferences of education professionals, which can inform the development of training programs, policies, and resources that cater to their specific requirements.
-</thinking>
-
 # Teaching Aspirations Survey - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-The Butterfly Observation Log form is designed to collect information about butterfly sightings, observations, and behaviors. This form is intended for use by individuals who wish to report and record their encounters with butterflies in the field, typically for educational, research, or conservation purposes. 
-
-Before filling out this form, please note that the fields have been carefully designed to gather relevant information and minimize redundant or unnecessary questions. 
-
-This guide will help you navigate the form with ease and ensure that your observations are accurately recorded.
-
-</thinking>
-
 # Butterfly Observation Log - Help Guide
 ## Purpose
 

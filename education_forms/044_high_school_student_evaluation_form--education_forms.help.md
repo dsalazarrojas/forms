@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate high school students' progress and skills in various areas. The form aims to assess their strengths and weaknesses in subjects such as English, Math, Science, History, Geography, and Art. It also covers skills like Self-Improvement, Problem-Solving, Time Management, and Communication. The form is meant to be completed by educators, teachers, or school administrators who are familiar with the student's work and performance. The form is not intended to be filled out by the students themselves.
-
-</thinking>
-
 # High School Student Evaluation Form - Help Guide
 ## Purpose
 

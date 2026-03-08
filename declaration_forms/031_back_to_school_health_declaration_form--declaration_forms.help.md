@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for back-to-school health declaration for a student. It's a requirement for the school administration to have accurate and up-to-date information about the student's health status, allergies, medications, and emergency contacts. Please make sure to provide accurate information as it will be used to ensure the student's well-being and safety within the school environment.
-
-</thinking>
-
 # Back To School Health Declaration Form - Help Guide
 ## Purpose
 This form is a requirement for the back-to-school health declaration for a student. It provides the school administration with accurate and up-to-date information about the student's health status, allergies, medications, and emergency contacts.

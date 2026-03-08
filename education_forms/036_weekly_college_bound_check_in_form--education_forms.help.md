@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate check-in activities with students who are college-bound. The purpose of this form is to gather information about the student's progress, check-in status, and any relevant comments or concerns. This form will help students and their mentors or advisors stay organized and on track with their college-bound activities.
-
-This form will not be used for any other purpose than for the intended use as a check-in tool for students. 
-
-</thinking>
-
 # Weekly College Bound Check In Form - Help Guide
 ## Purpose
 The Weekly College Bound Check In Form is a tool for mentors, advisors, and students to stay organized and on track with college-bound activities. It is meant to be used for regular check-ins to monitor progress and provide support.

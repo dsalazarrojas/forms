@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who need to fill out a "Calories Diet Plan Form" for their dietitian or nutritionist. This form is used to gather information about the user's preferences, goals, and constraints related to their diet and nutrition. The purpose of the form is to provide the dietitian with necessary details to create a personalized diet plan that suits the user's needs. 
-The form consists of several pages with fields that ask for personal and health-related information. The fields are organized in a logical and structured manner, making it easy for users to fill out the form. 
-Before filling out this form, please ensure that you have provided all necessary information and that the fields are complete. This guide will walk you through each field and provide explanations for each to help you complete the form accurately.
-</thinking>
-
 # Calories Diet Plan Form - Help Guide
 ## Purpose
 The "Calories Diet Plan Form" is designed to gather information about your nutritional needs and preferences. This form will help your dietitian create a personalized diet plan tailored to your requirements. Please answer the questions truthfully and accurately to ensure that your diet plan is effective.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Data Management Practices Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about research data management practices. It aims to understand how researchers store, share, and manage their data. The survey will help us assess the current state of research data management and identify areas for improvement.

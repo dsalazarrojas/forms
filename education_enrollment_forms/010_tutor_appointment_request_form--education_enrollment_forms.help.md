@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow students to request a tutor appointment with a specific tutor, indicating their availability and preferred time slots. This form will help the tutoring service understand their student's needs and schedule appointments accordingly. To avoid duplication, the form should only be filled out once per session request.
-</thinking>
-
 # Tutor Appointment Request Form - Help Guide
 ## Purpose
 The Tutor Appointment Request Form is designed for students to request a tutor appointment with a specific tutor, indicating their availability and preferred time slots. This form helps the tutoring service understand their student's needs and schedule appointments accordingly.

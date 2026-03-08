@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Laboratory Experiment Feedback Questionnaire - Help Guide
 
 ## Purpose

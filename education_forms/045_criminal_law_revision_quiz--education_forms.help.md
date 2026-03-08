@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to help users assess their knowledge of criminal law. It is a self-assessment quiz that tests the user's understanding of various aspects of criminal law. The form is not intended to be a comprehensive assessment of the user's knowledge, but rather a tool to help users identify areas where they may need to focus their studies. The quiz has multiple pages with various types of questions, including multiple-choice, single-answer, and open-ended text questions. The form is not timed, and users can complete it at their own pace.
 
 # Criminal Law Revision Quiz - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Thank You Letter Request Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-We should check if the form purpose is not already being addressed in existing guides, to avoid duplication of efforts and ensure relevance. This guide will be focused on providing a clear and concise walkthrough for the end-users to complete the form.
-
-Let's review the form fields and ensure they are properly understood by the users.
-
-The form appears to be for enlisting a Ghana immigration service protocol, which might be for military or government purposes. We should confirm this with the client before proceeding. 
-
-The form fields are quite standard, with text fields for first name, last name, email, phone number, department, and place of duty. It also includes date fields for date of birth, date joining, and reporting date. Additionally, it includes a select one field for rank with options Yes and No.
-
-We will provide clear explanations for each field and provide tips for users who may be unfamiliar with these fields.
-</thinking>
-
 # ghana-immigration-service-protocol-enlistment-2020-2021 - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals for the Ghana immigration service protocol. This form is likely for military or government purposes, such as enlisting individuals for various roles or services.

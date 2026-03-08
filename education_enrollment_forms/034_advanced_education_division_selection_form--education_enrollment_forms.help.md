@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advanced Education Division Selection Form - Help Guide
 
 ## Purpose

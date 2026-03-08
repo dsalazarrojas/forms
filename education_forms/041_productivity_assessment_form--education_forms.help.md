@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Productivity Assessment Form is used to assess the productivity of employees within an organization. This form is meant to be filled out by employees to provide insights into their work habits and effectiveness. It is recommended that the form be filled out only once every quarter, as it is designed to be a snapshot of the current state of an employee's productivity. To ensure accurate and consistent results, please ensure that the form is filled out in the same timeframe.
 
 ## Purpose

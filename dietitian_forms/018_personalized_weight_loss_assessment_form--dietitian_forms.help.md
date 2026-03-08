@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive weight loss assessment form designed for individuals or healthcare professionals to collect and analyze data for personalized weight loss programs. The form has 25 fields and seems to collect information related to general health, lifestyle, medical conditions, previous weight loss programs, family history, social media usage, medical test results, medical history, emergency contact information, medical insurance, billing, consent, and personal notes. The form requires specific fields like general information, medical history, emergency contact information, billing, and consent to be filled out. Some fields are optional and include medical conditions, medications, previous weight loss programs, family history, social media, medical test results, weight loss coaches, medical insurance, medical professionals, and notes.
-
-Please note that the form does not have a clear structure or organization and seems to be more of a collection of individual questions rather than a well-structured assessment. This might affect the user experience and the accuracy of the data collected.
-
-The form has a good amount of fields for collecting data but lacks a clear explanation of the purpose and how the collected data will be used. The form might benefit from additional instructions and guidance on what the data is intended to measure, why it is necessary, and how it will help with weight loss goals.
-
-</thinking>
-
 # Personalized Weight Loss Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your health, lifestyle, and medical history to help create a personalized weight loss plan tailored to your needs. Please provide as much detail as possible to ensure accurate assessment.

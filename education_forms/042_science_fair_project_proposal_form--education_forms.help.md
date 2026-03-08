@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students about their science fair project proposals. The form asks for the project title, category, description, teacher's name, student's name, student's email, and student's phone number. This information will be used to review and evaluate the project proposals. It's essential to complete this form accurately to ensure that your project is considered for the science fair.
-
-To avoid duplication, please note that this form should not be used for projects that have already been submitted or are currently being evaluated. Ensure that you are submitting a new project proposal for review.
-</thinking>
-
 # Science Fair Project Proposal Form - Help Guide
 
 ## Purpose

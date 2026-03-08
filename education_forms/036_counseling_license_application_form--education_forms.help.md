@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from individuals seeking to obtain a counseling license. It's a crucial document that will be used to assess their eligibility for licensure. The form will be reviewed internally to ensure the provided information is accurate and complete. Please note that this form is meant for individuals who have already acquired the necessary education and experience to be eligible for a counseling license.
-
-</thinking>
-
 # Counseling License Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals seeking to obtain a counseling license. It is a critical document that will be reviewed internally to assess your eligibility for licensure.

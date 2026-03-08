@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to record the details of a cancer patient's discharge from the support program, ensuring that all relevant information is captured and communicated effectively between caregivers. To determine if this form is relevant and not duplicated, we should consider the following:
-
-*   The form is used to document the discharge process for cancer patients, which may involve capturing information such as patient demographics, discharge reasons, services provided, progress summaries, and follow-up guidance.
-*   The form might be used in conjunction with other forms or tools to ensure comprehensive care and accurate tracking of patient outcomes.
-*   Before proceeding with the form, verify that the information being collected is not already documented in the patient's medical record or other relevant sources.
-
-</thinking>
-
 # Cancer Support Discharge Form - Help Guide
 ## Purpose
 

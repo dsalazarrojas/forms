@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for users to declare their preferred languages for various aspects of their life, such as work, school, and communication. It seems to be a simple, straightforward form intended to gather information on language preferences. I'll assume that the purpose of this form is to help organizations or individuals understand language needs and preferences for communication, education, or business purposes. This form is likely used in an educational or professional setting.
-
-To ensure accuracy, I will make sure to follow the provided instructions and only use the information present in the form schema.
-
-</thinking>
-
 # Language Preference Declaration Form - Help Guide
 ## Purpose
 The Language Preference Declaration Form is designed to gather information on your language preferences for various aspects of your life, such as work, school, and communication. This form will help us understand your language needs and preferences to better serve you.

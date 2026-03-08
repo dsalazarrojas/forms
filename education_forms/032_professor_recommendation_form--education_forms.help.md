@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professor_recommendation_form - Help Guide
 
 ## Purpose

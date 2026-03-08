@@ -1,6 +1,3 @@
-<thinking>
-We're designing a form for students to register for dance classes. To create this form, we need to consider the fields that are essential for students to provide information about themselves and their preferences. The form should ask for student details, contact information, payment method, registration date, registration time, dance style, student notes, payment status, class details, instructor details, course details, payment terms, and other services. The form should guide students through the process of selecting a dance class that suits their needs and preferences. By breaking down the form into its individual fields, each with its own explanation, we'll ensure that students understand what is expected of them and can fill out the form accurately.</thinking>
-
 # dance_classes_registration - Help Guide
 ## Purpose
 This form is designed for students to register for dance classes. It collects information about their student details, contact information, payment method, and other relevant details for the registration process.

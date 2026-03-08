@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # panhellenic_executive_board_application_2017 - Help Guide
 ## Purpose
 This form is used for applicants to apply for a position on the Panhellenic Executive Board. The form collects personal information and supporting documents for review and evaluation by the selection committee.

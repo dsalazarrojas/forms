@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from language school applicants, gathering data on their student information, language interests, language skills, education history, and work experience. The form aims to streamline the application process, ensuring that applicants provide accurate and comprehensive details about themselves. By filling out this form, applicants will be able to showcase their interests, skills, and background, making it easier for language schools to evaluate their suitability for admission. To avoid duplication, please review the form carefully and only submit once.
-</thinking>
-
 # Language School Application Form - Help Guide
 ## Purpose
 The Language School Application Form is designed to gather essential information from applicants, enabling language schools to assess their eligibility and provide a smooth application experience.

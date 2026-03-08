@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and evaluations from nursing students regarding their experience with their instructors and the overall course content. This form is designed to be completed by students to provide their honest opinions on various aspects of the course, including teacher support, course materials, and overall satisfaction. The form is intended to be a valuable tool for instructors to gain insights and improve the quality of their teaching and the overall learning experience.
-
-Before starting, please note that you will be asked to complete this form only once per semester. If you have already completed this form for this semester, you will not be able to access it again.
-
-To ensure the quality and usefulness of the feedback, please answer all questions honestly and thoroughly. If you have any additional comments or suggestions, please include them in the "Additional Comments" field.
-
-Before you start filling out the form, make sure to review all the options carefully and select the one that best represents your opinion.
-
-</thinking>
-
 # Nursing Student Evaluation Form - Help Guide
 ## Purpose
 The Nursing Student Evaluation Form is designed to collect feedback and evaluations from nursing students regarding their experience with their instructors and the overall course content. This form will help instructors gain insights and improve the quality of their teaching and the overall learning experience.

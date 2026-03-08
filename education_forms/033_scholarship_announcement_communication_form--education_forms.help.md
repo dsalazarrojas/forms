@@ -1,7 +1,3 @@
-<thinking>
-The scholarship announcement communication form is used to share information about an upcoming scholarship opportunity with the university community. To avoid duplication, please ensure that you have not already announced this scholarship in the past 30 days.
-</thinking>
-
 # scholarship_announcement_communication_form - Help Guide
 ## Purpose
 The scholarship announcement communication form is used to share information about an upcoming scholarship opportunity with the university community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the impact of a delivery on various factors such as service quality, environmental impact, community impact, and overall satisfaction. It is meant to be completed by delivery teams to help them track and improve their delivery performance. This form should not be used for any other purpose.
-</thinking>
-
 # Delivery Impact Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the impact of a delivery on various aspects such as service quality, environmental impact, community impact, and overall satisfaction. This helps delivery teams to track their performance and identify areas for improvement.

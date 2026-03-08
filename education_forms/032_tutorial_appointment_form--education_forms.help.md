@@ -1,14 +1,3 @@
-<thinking>
-We're designing this form to help students and tutors easily schedule appointments for tutorials.
-This form should be used by:
-* Students looking to get help with a specific subject or topic.
-* Tutors offering their time to help students.
-The form will be used to collect information from both students and tutors to set up a tutorial session.
-
-To avoid duplication, we recommend that students and tutors do not fill out this form multiple times.
-
-</thinking>
-
 # Tutorial Appointment Form - Help Guide
 ## Purpose
 The Tutorial Appointment Form is designed to help students and tutors schedule appointments for tutorial sessions. This form is used to collect information from both students and tutors to set up a session.

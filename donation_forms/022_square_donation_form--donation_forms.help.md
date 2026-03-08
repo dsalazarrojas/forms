@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Square Donation Form - Help Guide
 ## Purpose
 The Square Donation Form is designed to collect information about one-time and recurring donations from individuals or organizations. This form helps in understanding the nature of the donations, including the amount, frequency, and other relevant details.

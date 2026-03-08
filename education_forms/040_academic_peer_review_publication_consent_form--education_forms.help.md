@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed for academic peer review publication consent, which is a necessary step in the academic publishing process. It's likely used in academic or research settings where scholars, scientists, or experts review manuscripts or papers before they're published. The form is meant to gather information from reviewers about their consent to publish their reviews, how they want to be credited if published, and any embargo requests they may have.
-
-To avoid duplication and ensure accuracy, it's essential to review this form carefully before sharing or using it.
-
-</thinking>
-
 # Academic Peer Review Publication Consent Form - Help Guide
 ## Purpose
 The Academic Peer Review Publication Consent Form is a document that allows reviewers to express their consent for the publication of their peer review, including how they want to be credited and if any embargo requests are needed.

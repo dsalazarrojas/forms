@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be a template for assessing students' performance in motion and chemistry classes. It has multiple pages, each with various fields such as student information, assessment scores, and additional details. The form seems to be designed for tracking student progress and providing feedback to teachers or parents. I will assume that this form is meant to be filled out by teachers or administrators, possibly as part of a regular assessment or evaluation process.
-
-Before I proceed, I would like to ask a few questions to ensure I understand the form's purpose correctly:
-
-* Is this form meant to be used in a specific educational institution or by a particular department (e.g., primary, secondary, higher education)?
-* Are there any specific requirements or guidelines that need to be followed when filling out this form (e.g., formatting, formatting guidelines)?
-* Are there any specific sections or fields that are more critical than others?
-
-Please provide the answers to these questions, and I will create a clear and concise help guide for the form.
-
-If you're ready to proceed without further clarification, please let me know, and I'll generate the help guide based on the provided YAML.
-</thinking>
-
 # Motion And Chemistry Assessment - Help Guide
 ## Purpose
 The Motion And Chemistry Assessment form is designed to evaluate students' performance in motion and chemistry classes. It helps teachers or administrators track student progress and provide feedback to students and parents.

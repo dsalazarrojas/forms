@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test understanding of Nationalism in Europe. It is not a real-world survey and its content has been generated based on public survey topic metadata. The form is free to use, modify, and even sell, just give credit. This form does not collect any actual data and is not affiliated with or endorsed by any form platform.
-</thinking>
-
 # Nationalism In Europe Test Form - Help Guide
 ## Purpose
 

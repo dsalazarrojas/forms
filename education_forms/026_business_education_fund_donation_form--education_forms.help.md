@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for individuals or organizations to make donations to the Business Education Fund, a non-profit organization that supports education and related causes. The form helps donors provide personal information, specify their donation details, and choose their payment method. It's essential to ensure that the donor's details are accurate and complete to facilitate processing and follow-up.
-
-</thinking>
-
 # Business Education Fund Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals and organizations making donations to the Business Education Fund. It's crucial to fill out the form accurately to ensure that your donation is processed correctly and you receive recognition and updates about your donation.

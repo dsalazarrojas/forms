@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents to provide information and schedule appointments for their children's consultations. The purpose of this form is to gather essential details about the parent, their child, and the consultation appointment. This form may be used by teachers, administrators, or other staff members to communicate with parents and ensure a smooth consultation process.
-</thinking>
-
 # Parent Consultation Appointment Form - Help Guide
 ## Purpose
 The Parent Consultation Appointment Form is designed to collect necessary information from parents to schedule and conduct consultations for their children's education. Please use this form to provide accurate and up-to-date details about your child and the consultation appointment.

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Teaching Methods Knowledge Quiz" form that explains its purpose, how to complete it, and what each field means. This form appears to be a survey or assessment tool for educators or students to gauge their knowledge of teaching methods. The form likely aims to gather information about a person's familiarity with various teaching techniques, methods, and tools. 
-
-The form's purpose is likely to evaluate a person's understanding of teaching methods, which can help identify knowledge gaps and areas for improvement. The form's completion is likely to be a self-assessment or survey-like experience where users respond to questions about their knowledge of teaching methods. 
-
-Let's ensure that the form's fields are clearly explained and easy to understand for end-users.
-
-</thinking>
-
 # Teaching Methods Knowledge Quiz - Help Guide
 ## Purpose
 The "Teaching Methods Knowledge Quiz" is a self-assessment tool designed to gauge your knowledge of various teaching methods and techniques. This quiz aims to help you identify areas where you need improvement and gauge your understanding of different teaching approaches.

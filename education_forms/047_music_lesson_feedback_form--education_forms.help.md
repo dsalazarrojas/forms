@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the "Music Lesson Feedback Form" serves its intended purpose without duplication or redundancy. This form is designed to gather feedback from students after a music lesson, collecting information on their experience, instructor details, and feedback on the lesson. To prevent duplication, we will only include fields that are absolutely necessary for the feedback process, while keeping the form concise and user-friendly. We will also ensure that each field is clearly labeled and easy to understand, reducing the likelihood of user confusion.</thinking>
-
 # Music Lesson Feedback Form - Help Guide
 ## Purpose
 The Music Lesson Feedback Form is designed to gather feedback from students after a music lesson, helping instructors improve their teaching methods, identify areas of improvement, and provide better services in the future.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a registration form for an educational neuroscience exploration program, likely for researchers or attendees to provide demographic information and details about their participation.
-It seems that the form is designed to collect contact information, preferences, and other relevant details from participants.
-Before proceeding, I would like to confirm that this form is not intended to be a duplicate of any other similar form, and that the information collected will be used for legitimate purposes of the program.
-</thinking>
-
 # educationalNeuroscienceExplorationRegistrationForm - Help Guide
 ## Purpose
 This form is designed to collect information from participants of an educational neuroscience exploration program. It is intended to gather demographic details, preferences, and other relevant information to facilitate the program's administration and organization.

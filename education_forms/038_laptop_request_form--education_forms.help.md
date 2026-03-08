@@ -1,14 +1,3 @@
-<thinking>
-This guide will be used to explain the purpose and completion of the Laptop Request Form to end-users.
-
-The Laptop Request Form is used to collect information from students who are requesting a laptop for educational purposes. This form helps to streamline the process of identifying students who are eligible for laptop allocation, and to ensure that the required information is accurately captured.
-
-To prevent duplication of forms, please ensure that you are not filling out multiple forms for the same student.
-
-Before filling out this form, please ensure that you have the necessary permission from the student to access and collect their information.
-
-</thinking>
-
 # Laptop Request Form - Help Guide
 
 ## Purpose

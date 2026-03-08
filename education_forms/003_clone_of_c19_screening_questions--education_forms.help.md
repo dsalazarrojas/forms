@@ -1,10 +1,3 @@
-<thinking>
-This form is used to screen students or participants for potential COVID-19 risks. The form's purpose is to gather information on the individual's full name, date of screening, symptoms, recent exposure to COVID-19, close contact with confirmed cases, temperature reading, and consent to follow school guidance. The form is designed to be completed by students or participants, and the answers will be used to inform decisions on COVID-19 protocols and measures within the educational institution. To ensure accuracy, please review and fill out this form carefully, and if you have any doubts or concerns, please reach out to the relevant authorities.
-
-This form is a one-time submission and does not require repeated completion. Please ensure that you have provided accurate and up-to-date information to ensure the well-being of yourself and others.
-
-</thinking>
-
 # Clone Of C19 Screening Questions - Help Guide
 ## Purpose
 This form is used to screen students or participants for potential COVID-19 risks and ensure their safety and well-being within the educational institution.

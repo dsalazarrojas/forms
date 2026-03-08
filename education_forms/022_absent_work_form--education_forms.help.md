@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for students to report their absence and provide details about the absence, including the reason, date, and missed work. It is intended to be completed by students, and the form's purpose is to facilitate communication between students, teachers, and school administrators about absences and missed work. I will ensure that the form's fields are clearly explained and easy to understand for end users.
-
-Form fields are generally well-structured and clear, but a few fields could be improved for better user experience. For example, the "Reason for absence" field has an "Other" option that might lead to confusion, as it is not explicitly defined. The "Missed work was collected or provided by" field has a somewhat confusing label, as it implies that work is automatically collected or provided, which might not always be the case. However, these fields are not necessarily incorrect or unclear, but rather, they could be improved for better user understanding.
-</thinking>
-
 # Absent Work Form - Help Guide
 ## Purpose
 The Absent Work Form is designed for students to report their absence and provide details about the absence, including the reason, date, and missed work.

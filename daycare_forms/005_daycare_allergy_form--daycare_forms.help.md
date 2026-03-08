@@ -1,7 +1,3 @@
-<thinking>
-The Daycare Allergy Form is designed to collect information about a child's allergies, medical history, and emergency contact details. This form is intended for parents or guardians to report any allergies, medical conditions, or emergency contact information for their child in a daycare setting. The form helps the daycare staff to be aware of any potential risks and take necessary precautions to ensure the child's safety. This form should only be filled out once per child and is intended for daycare staff use only.
-</thinking>
-
 # Daycare Allergy Form - Help Guide
 ## Purpose
 This form is used to report any allergies, medical conditions, or emergency contact information for a child in our daycare program.

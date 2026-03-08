@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Winter STEM Club Registration" form, we need to consider the purpose of the form and ensure that each field is clearly explained. The form's purpose is likely to collect information from students who want to join the Winter STEM Club, which might include details such as their names, contact information, and program preferences. We should also double-check that the form isn't duplicating any information that's already known or redundant.
-</thinking>
-
 # Winter STEM Club Registration - Help Guide
 ## Purpose
 The Winter STEM Club Registration form is designed to collect information from students who want to join the club. This information will be used to keep in touch with the students and provide them with updates about the club's activities.

@@ -1,30 +1,3 @@
-<thinking>
-We need to create a help guide for the E Commerce Developer API Registration form. This form is used for developers to register their API keys and details for accessing various e-commerce platforms. The form is divided into multiple sections, each with its own fields. To complete the form, developers will need to provide information about their platform, intended API use, and API keys. They will also need to agree to the terms and conditions.
-
-To ensure data quality and avoid duplication, the form checks for duplicate API keys and platform types. This is to prevent multiple registrations with the same API key or platform type.
-
-Before filling out the form, developers should ensure they have all the required information ready, including their API keys, platform type, and intended API use. They should also carefully review the terms and conditions before agreeing to them.
-
-The form is designed to be user-friendly and easy to navigate. Each field has a clear label and explanation to guide the developer through the registration process.
-
-Here's a brief summary of each field in the form:
-
-*   **E Commerce Developer API Registration**: This is the title of the form.
-*   **platform_name**: This field is where developers enter their platform name.
-*   **developer_details**: This field is where developers provide more details about themselves.
-*   **intended_api_use**: This field allows developers to select how they plan to use the API.
-*   **terms_agreement**: This field is where developers agree to the terms and conditions.
-*   **api_key**: This field is where developers enter their API key.
-*   **api_key2**, **api_key3**, **api_key4**, **api_key5**, **api_key6**, **api_key7**, **api_key8**, **api_key9**, **api_key10**: These fields are all API keys.
-*   **email** and **email2**: These fields are where developers enter their email addresses.
-*   **terms_agreement2**: This field is another agreement field for terms and conditions.
-*   **notes**, **notes2**, and **notes3**: These fields are for any additional notes or comments.
-*   **platform_type** and **platform_type2**: These fields are where developers select the type of platform they are using.
-*   **platform_type3**: This field is another platform type field.
-*   **output_file**: This field is for output file.
-
-</thinking>
-
 # E Commerce Developer API Registration - Help Guide
 ## Purpose
 The E Commerce Developer API Registration form is used for developers to register their API keys and details for accessing various e-commerce platforms.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients to facilitate a comprehensive nutrition consultation. The form captures essential details about the patient's health, medical history, and goals. It helps dietitians and healthcare professionals to provide personalized guidance and support for patients. Please make sure to complete all required fields, especially medical conditions, allergies, and medications. Ensure you are honest and accurate when answering the questions.
-</thinking>
-
 # nutrition consultation form - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive platform for patients to share their health details and goals with dietitians and healthcare professionals, enabling personalized consultations and guidance.

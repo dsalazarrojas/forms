@@ -1,14 +1,3 @@
-<thinking>
-To create a helpful user-facing guide for the "Bachelor Program Evaluation Form", let's consider the purpose and context of this form. This form is designed to gather feedback on the quality and effectiveness of the bachelor's programs, specifically to improve the undergraduate offerings. The form's primary purpose is to collect data from students on their experiences, opinions, and ratings on various aspects of the program, such as the relevance of the curriculum, teaching quality, and facilities. This feedback will help the program directors and deans to identify areas of improvement, enhance the programs, and make informed decisions for future students.
-
-This guide will walk users through the form step-by-step, explaining each field and providing clarity on what to expect. We will cover the following:
-
-* Purpose and how to complete the form
-* A detailed field-by-field explanation of each section
-* Additional tips and recommendations for users
-
-The form is designed to be straightforward, and the user experience should be smooth and efficient. Let's move on to creating the user guide!
-</thinking>
 # Bachelor Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality and effectiveness of the bachelor's programs. It aims to collect data from students to help program directors and deans identify areas of improvement and enhance the programs.

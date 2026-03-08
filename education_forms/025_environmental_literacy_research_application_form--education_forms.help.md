@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals seeking funding for environmental literacy research projects. It is designed to collect contact information and project details from applicants. To ensure accuracy and avoid duplication, please fill out the form completely and honestly. Note that the form does not store or transfer any sensitive information and is intended for internal use only. By filling out this form, you are applying for funding for your research project. Please review each field carefully to ensure you provide the necessary information for your application.
-</thinking>
-
 # Environmental Literacy Research Application Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for a donation form with a PayPal checkout option. The form will likely be used on a website or application that requires users to donate money, possibly with a specific currency selection. The "Donation Form PayPal Checkout" will have fields for the amount of the donation, the currency to be used, and other optional fields for additional information such as notes and contact details. 
-
-This form should be completed only if the user wants to donate money to the site, as it doesn't have any other purpose. It is also likely that the form will be used in a single page view, without any other related forms being shown. It is not intended for any other type of submission or payment. 
-
-This form is not meant for any other type of submission or payment, so please do not attempt to use it for other purposes. 
-
-</thinking>
-
 # Donation Form PayPal Checkout - Help Guide
 ## Purpose
 The "Donation Form PayPal Checkout" is a form used for making donations to a website or application. This form allows users to input the amount and currency of their donation, as well as other optional fields such as notes and contact information.

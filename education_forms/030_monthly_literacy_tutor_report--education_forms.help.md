@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to capture data from educators or administrators who provide literacy support to students. The form appears to be focused on collecting detailed information about students, their progress, and the tutor's experiences with them. The fields provided suggest that the form is used to track students' literacy skills, identify areas where they need improvement, and monitor progress over time. This form may be used by education institutions, literacy programs, or organizations that provide educational services. 
-
-It is essential to ensure that users understand the purpose and requirements of the form to ensure that it is filled out accurately and thoroughly. The following help guide will outline the fields and their expectations.
-
-</thinking>
-
 # Monthly Literacy Tutor Report - Help Guide
 ## Purpose
 The Monthly Literacy Tutor Report form is designed for educators or administrators to provide detailed information about students they support in literacy programs. This form is used to track student progress, identify areas of improvement, and monitor changes over time.

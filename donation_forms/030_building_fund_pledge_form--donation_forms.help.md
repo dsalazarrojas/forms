@@ -1,5 +1,3 @@
-<thinking>As the form is designed to collect information from donors to support the building project, it's essential to ensure that each field is understood correctly for a smooth and successful donation process. The form seems to be well-structured, with a clear purpose of collecting donor information for a building project. It's worth noting that the form includes a range of fields to cater to different types of donors and pledge options. The "donor_type" field has a few options that might need further clarification, but overall, the form is quite comprehensive.</thinking>
-
 # Building Fund Pledge Form - Help Guide
 
 ## Purpose

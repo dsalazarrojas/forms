@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from students, which will then be used for school counseling. The purpose of this form is to gather detailed information about each student's background, preferences, and goals to provide them with the best possible support during their time in school.
-
-This form is intended for use by students themselves. Please ensure you fill it out carefully and truthfully, as the information provided will be used to tailor support services to your specific needs. If you have any doubts or concerns, feel free to reach out to the school's administration for further guidance.
-
-</thinking>
-
 # School Counseling Intake Form - Help Guide
 ## Purpose
 

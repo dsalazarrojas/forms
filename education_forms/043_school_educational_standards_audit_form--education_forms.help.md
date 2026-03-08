@@ -1,21 +1,3 @@
-<thinking>
-The School Educational Standards Audit Form is used to assess the quality and effectiveness of educational standards in schools. It helps to evaluate the curriculum, teaching methods, facilities, and student services provided by the school. This form is intended to provide a comprehensive overview of the school's educational standards and identify areas that require improvement. It is a critical tool for school administrators to assess their performance and make data-driven decisions to enhance the overall educational experience.
-
-The form is designed to be filled out by school administrators or educators to provide a detailed account of the school's current standards. It is not intended to be completed by students.
-
-The School Educational Standards Audit Form is part of the school's regular assessment and evaluation process. It is used to ensure that the school is meeting its educational standards and providing a high-quality educational experience for students.
-
-The form is designed to be completed in multiple sections, each focusing on a specific aspect of the school's educational standards. The sections include:
-
-*   **Curriculum Evaluation**: This section assesses the effectiveness of the school's curriculum in meeting educational standards.
-*   **Teaching Evaluation**: This section evaluates the effectiveness of teaching methods and approaches used in the school.
-*   **Facilities Evaluation**: This section assesses the condition and status of the school's facilities.
-*   **Student Services Evaluation**: This section evaluates the services provided to students, such as support services and resources.
-*   **District and Region Evaluation**: This section assesses the school's status in terms of district and region audit.
-
-The form requires careful consideration of each section to ensure that the school is meeting its educational standards.
-</thinking>
-
 # School Educational Standards Audit Form - Help Guide
 ## Purpose
 The School Educational Standards Audit Form is used to assess the quality and effectiveness of educational standards in schools.

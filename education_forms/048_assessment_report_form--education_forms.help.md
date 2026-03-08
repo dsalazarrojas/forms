@@ -1,14 +1,3 @@
-<thinking>
-The Assessment Report Form is a tool used to assess the performance of students or trainees in a course or training program. This form is used to evaluate their technical knowledge, problem-solving skills, and professionalism. It provides a clear and structured way to report on their strengths and weaknesses, allowing evaluators to provide actionable feedback and identify areas for improvement. 
-
-To ensure that this form is filled out accurately and consistently, it is essential to review the performance of each student or trainee thoroughly. The form is designed to be completed by an evaluator or instructor who has direct knowledge of the student's or trainee's performance. If the evaluator needs more evidence or information to make an informed decision, they should not mark the "Recommended Assessment Status" as "Incomplete". 
-
-Duplicate reports for the same student or trainee should be avoided, as it may create confusion and affect the accuracy of the assessment. It is recommended to keep records of previous reports for reference, but the new report should be an updated version of the previous one, not a duplicate. 
-
-Before starting to fill out this form, ensure that you have all the necessary information and evidence to support your assessment. Review the form carefully to ensure that you have provided accurate and clear feedback for the student or trainee.
-
-</thinking>
-
 # Assessment Report Form - Help Guide
 ## Purpose
 The Assessment Report Form is used to assess the performance of students or trainees in a course or training program.

@@ -1,14 +1,3 @@
-<thinking>
-
-The National History Quiz form is designed to collect data from students and teachers on the completion status, submission method, and other details related to the national history quiz. This form ensures that the necessary information is captured accurately and efficiently, allowing for better tracking and analysis of the quiz results.
-
-To determine the relevance and non-duplication of the form, we consider the following factors:
-
-* The form is intended to be filled out by students and teachers to provide information on the national history quiz.
-* The form is not intended for duplicate submissions, ensuring that each submission is unique and accurate.
-
-</thinking>
-
 # National History Quiz - Help Guide
 ## Purpose
 The National History Quiz form is designed to collect data from students and teachers on the completion status, submission method, and other details related to the national history quiz.

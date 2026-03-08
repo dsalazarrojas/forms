@@ -1,15 +1,3 @@
-<thinking>
-This form seems to be a basic order form used for customers to place orders. The form is designed to collect necessary information for the order, including customer information, shipping details, and payment information. This form likely feeds into a larger e-commerce system that handles order management. I will assume that the form will be submitted to a server for processing, and any entered values will be stored in a database.
-
-Please let's review the form fields to ensure I haven't misunderstood its purpose or functionality. Are there any specific features or integrations with other systems that I should be aware of?
-
-Form fields seem mostly self-explanatory, except for a few that might need extra context:
-
-*   "shipping_method" field: Given that it's a "select_one" type, I assume it's asking the customer to choose a shipping option. This could be something like "Express", "Standard", or "Free Shipping". Should I clarify this further or is it clear enough?
-*   "order_note" field: Given that it's a "note" type, I assume it's for customers to add any additional comments or notes about their order. Should I explain this further or is it clear enough?
-
-Please review my assumptions and provide any additional context or clarifications.</thinking>
-
 # Product Order Form - Help Guide
 ## Purpose
 The Product Order Form is a tool for customers to provide their order details to place orders. This form collects customer, shipping, and payment information, which is then submitted to the server for processing.

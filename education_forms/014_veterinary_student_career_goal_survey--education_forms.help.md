@@ -1,18 +1,3 @@
-<thinking>
-To determine the purpose of the form, I'll review the fields and options in the inputSchema. The form appears to be collecting information from veterinary students about their career goals, experiences, and preferences. The fields cover a range of topics, including career goals, work experience, and post-graduation plans.
-
-Upon reviewing the form fields, I noticed that the form is asking students to select multiple options for certain fields, such as career goals, research interests, and clinical experiences. This suggests that the form is designed to gather information about the student's interests and preferences.
-
-The form also asks for specific information about work experience, such as hours worked, location, and supervisor. This could indicate that the form is collecting data about the student's work history and future job aspirations.
-
-The options for each field appear to be fairly straightforward, and the student is asked to select one or multiple options. This suggests that the form is designed to gather specific and concrete information about the student's career goals and experiences.
-
-However, there is one field that stands out as potentially unclear: "post_graduation_plan_other" and "work_place_other". These fields seem to be asking for additional information that is not specified in the options. I will make a note to add a clear explanation or example for these fields.
-
-Overall, the form appears to be collecting information that will help the student identify their career goals and aspirations, as well as their experiences and preferences. I will review the form for any further clarification and make sure that each field is clear and understandable for the student.
-
-</thinking>
-
 # Veterinary Student Career Goal Survey - Help Guide
 ## Purpose
 The Veterinary Student Career Goal Survey is designed to help veterinary students identify their career goals and aspirations. The form collects information about the student's career goals, experiences, and preferences, which will be used to provide guidance and support for their future career development.

@@ -1,19 +1,3 @@
-<thinking>
-This form is a Profile Builder Form designed to collect various information from users in a structured and organized manner. It appears to be used for creating or updating user profiles, likely for e-commerce purposes. The form is divided into different pages or sections, each containing a mix of single-select, multiple-select, text, email, date, time, and checkbox fields. 
-
-The form requires the following fields to be completed:
-- A name field
-- A yes/no question about being a team member
-- A yes/no question about selecting multiple options
-- An email address field
-- A yes/no question about whether this is a public profile
-- A yes/no question about selecting multiple options again
-- Text fields for favorite color, age, height, date of birth, favorite time, email, phone number, favorite hobby, favorite food, and favorite animal
-- Checkbox fields for choosing yes or no options
-
-Please review the form structure and content carefully before proceeding. Ensure that each field is filled in accordingly and that the required fields are completed first. Note that some fields are marked as required, so make sure to fill those first before moving on to the others.
-</thinking>
-
 # Profile Builder Form - Help Guide
 ## Purpose
 This form is used to create or update user profiles for e-commerce purposes.

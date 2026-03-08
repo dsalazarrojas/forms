@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive quiz on Romanticism, testing the user's knowledge on the art and literature movements of the 18th and 19th centuries. The form is meant to assess the user's understanding of key concepts, figures, and characteristics associated with Romanticism.
-
-To prevent duplication and ensure accurate completion, we will check for non-duplicate responses and validate user input against known answers.
-
-</thinking>
-
 # Romanticism Knowledge Quiz - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to record attendance information of K12 students. It is likely used by administrative staff to collect data on student attendance, including the date and time of attendance, reasons for absence, tardiness, and early leave. This form may be used to track attendance patterns, identify trends, and inform decisions related to student attendance. It is not intended to be used for other purposes, such as student registration or course enrollment.</thinking>
-
 # K12 Attendance Form - Help Guide
 
 ## Purpose

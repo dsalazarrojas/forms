@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge on the concept of heat transfer, specifically the modes of heat transfer: conduction, convection, and radiation. The form is intended for educational purposes and is not affiliated with any form platform.
-
-Before proceeding, please note that the form is not a substitute for formal education or certification. If you're looking for a comprehensive education in heat transfer, we recommend seeking guidance from a qualified instructor or professional in the field.
-
-To ensure that you're completing the form correctly, please review the following guide.
-
-</thinking>
-
 # Heat Transfer Quiz - Help Guide
 ## Purpose
 The Heat Transfer Quiz is a tool designed to gauge your understanding of the three main modes of heat transfer: conduction, convection, and radiation.

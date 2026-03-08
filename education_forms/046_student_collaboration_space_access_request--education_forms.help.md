@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is intended to help students understand how to fill out the "Student Collaboration Space Access Request" form. The form is used to request access to a collaboration space, and it's essential to ensure that the requested access is legitimate and in line with university and school policies. The form should only be filled out by students who are genuinely interested in accessing a collaboration space for educational purposes. 
-
-To avoid duplication, please do not fill out this form if you have already requested access to the same space in the past.
-
-To complete this form, please carefully follow the instructions below.
-
-</thinking>
-
 # Student Collaboration Space Access Request - Help Guide
 ## Purpose
 The Student Collaboration Space Access Request form is used to request access to a collaboration space for educational purposes. This form is intended for students who need to access a space for research, study groups, or other academic-related activities.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a family's needs, particularly in relation to counseling services. The form will likely be used by social workers or counselors to assess the needs of families who may be struggling with various issues. It's essential to ensure that the form is completed accurately and thoroughly to provide the best possible outcome for the family.
-
-To prevent duplication, we'll want to ensure that families are not assessed more than once. This form should only be completed once for each family.
-
-</thinking>
-
 # Family Needs Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information about a family's needs, particularly in relation to counseling services.

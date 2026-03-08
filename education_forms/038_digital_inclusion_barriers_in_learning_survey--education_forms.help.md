@@ -1,8 +1,3 @@
-<thinking>**Form Purpose and Validation**
-This form is designed to collect information on the digital inclusion barriers faced by learners, which include device access, internet access, skills, financial barriers, support systems, online equipment, and internet speed. The purpose of this form is to gather data on how learners experience and overcome these barriers, aiming to inform strategies for inclusive learning. This form has been created using AI, but the data collected will be used to support real-world educational initiatives.
-
-</thinking>
-
 # Digital Inclusion Barriers In Learning Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the digital inclusion barriers faced by learners, which include device access, internet access, skills, financial barriers, support systems, online equipment, and internet speed.

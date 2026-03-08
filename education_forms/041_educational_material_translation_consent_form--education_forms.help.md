@@ -1,7 +1,3 @@
-<thinking>
-To ensure that we are not duplicating effort and to confirm that the form is being used correctly, let's review the purpose and usage of the "Educational Material Translation Consent Form". The form is meant to gather user information, including student and parent details, and to obtain consent for translating educational materials. It is likely used by school administrators or educators to manage the translation process for educational materials, ensuring that the correct students and parents are informed and provide consent. 
-</thinking>
-
 # Educational Material Translation Consent Form - Help Guide
 ## Purpose
 The "Educational Material Translation Consent Form" is a tool used by school administrators or educators to gather user information, student and parent details, and obtain consent for translating educational materials.

@@ -1,11 +1,3 @@
-<thinking>... 
-
-The "Residency Classification Declaration" form is a crucial document for individuals to declare their residency status, which is a requirement for various purposes such as tax, immigration, and government benefits. The form helps in ensuring the accuracy of residency information, which is vital for legal and administrative purposes. 
-
-To avoid duplication, please note that this form should only be completed by individuals who are required to declare their residency status. If you have already completed a similar form, please refrain from completing this one to prevent any potential discrepancies.
-
-</thinking>
-
 # Residency Classification Declaration - Help Guide
 
 ## Purpose

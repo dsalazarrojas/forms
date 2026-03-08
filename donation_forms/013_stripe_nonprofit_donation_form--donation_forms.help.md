@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Stripe Nonprofit Donation Form is a critical component for accepting donations from individuals or organizations. The form allows users to provide information for one-time and recurring donations, as well as request gift receipts for donors.
 
 </thinking>

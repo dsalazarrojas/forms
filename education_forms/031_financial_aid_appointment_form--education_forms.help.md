@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is a financial aid appointment form used to gather information from students to schedule a meeting with a representative. This form will be used to collect data for the financial aid office. 
-</thinking>
-
 # financial_aid_appointment_form - Help Guide
 
 ## Purpose

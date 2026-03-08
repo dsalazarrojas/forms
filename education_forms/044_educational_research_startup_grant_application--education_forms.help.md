@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to support the submission of Educational Research Startup Grant applications to the granting agency. To ensure consistency in formatting and accuracy in data entry, the following instructions are provided.
-
-Before proceeding, please ensure that the form has been reviewed and validated by the research team and all required fields have been filled out. It's also essential to note that the form has several optional fields which are not required but can provide additional context and details about the application.
-
-</thinking>
-
 # Educational Research Startup Grant Application - Help Guide
 ## Purpose
 This form is used to submit the Educational Research Startup Grant application to the granting agency.

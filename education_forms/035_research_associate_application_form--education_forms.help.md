@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Associate Application Form - Help Guide
 ## Purpose
 The Research Associate Application Form is used to collect information from applicants for research associate positions. This form is required for all applicants to provide their personal details, research experience, and qualifications.

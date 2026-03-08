@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for a vendor invoice, allowing customers to provide details about their purchases, including the customer's and vendor's contact information, invoice date, total amount, payment method, and other relevant details. It's intended to be used for official transactions between customers and vendors. To avoid duplication, ensure that each field is filled out completely and accurately, especially for the required fields. A clear and thorough completion of this form will help in efficient and secure payment processing.
-</thinking>
-
 # Vendor Invoice Form - Help Guide
 ## Purpose
 The Vendor Invoice Form is designed to collect essential details about a transaction between a customer and a vendor, ensuring accurate and secure payment processing.

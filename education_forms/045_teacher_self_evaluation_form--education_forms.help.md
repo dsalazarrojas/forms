@@ -1,12 +1,3 @@
-<thinking>
-We are creating a comprehensive help guide for end-users to understand the purpose and usage of the <string> form.
-
-This form is used to evaluate and rate a teacher's performance, self-reflection on goals, areas of improvement, and other relevant attributes. The form is a crucial tool for teachers to self-evaluate their performance and provide valuable insights for professional development. 
-
-We will guide the end-users through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to evaluate and rate a teacher's performance, self-reflection on goals, areas of improvement, and other relevant attributes. This form is designed to be completed by teachers to provide a self-evaluation of their performance and identify areas that need improvement.

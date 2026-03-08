@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants about their research, including details about their research question, methodology, objective, and outcome. It also gathers information about the applicant's contact info, email address, phone number, and submitted files. This form is intended for internal use within the education department, and it's meant to help them track and manage research applications. 
-
-The form does not currently have any validation or duplication checks in place, meaning that multiple entries can be submitted with the same data. It is assumed that the form will be reviewed and approved before proceeding.
-
-</thinking>
-
 # Curriculum Transformation Research Application Form - Help Guide
 
 ## Purpose

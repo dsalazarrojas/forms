@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's experience and skills in the field of industrial engineering. The form consists of 24 questions that cover a range of topics related to industrial engineering, from design and development to operations and maintenance. Each question is a text field that requires the user to provide a brief description of their experience and skills in that particular area. The form is intended for internal use within the industrial engineering community and is meant to help users identify areas of strength and improvement. It's possible that this form is part of a larger assessment or evaluation process.
-Please note that this form is not intended for commercial use or mass production. It's a single instance form designed to collect information for internal use and is not affiliated with any form platforms.
-</thinking>
-
 # industrial_engineering_exam_form - Help Guide
 ## Purpose
 This form is designed to collect information about a user's experience and skills in the field of industrial engineering.

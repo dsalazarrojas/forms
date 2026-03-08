@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student COVID 19 Vaccination Status Form - Help Guide
 ## Purpose
 The purpose of the Student COVID-19 Vaccination Status Form is to collect and verify the vaccination status of students. This form ensures that students, teachers, and school administrators have accurate and up-to-date information on vaccination status, which is crucial for maintaining a healthy and safe school environment.

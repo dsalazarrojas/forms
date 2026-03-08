@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to collect basic contact information and demographic data from prospective university students. It is used to track student applications and manage enrollment processes. Please ensure that this form is used only for legitimate purposes and not for any other use that may be considered spammy or abusive. 
-
-This form is not intended for any other type of data collection. Please do not use this form for any other purpose than what is described here.
-
-</thinking>
-
 # University Enrollment Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-The Linear Function Evaluation Form is used to assess the evaluation of linear functions, typically in the context of mathematics education. This form is designed to be completed by educators, students, or parents to provide an evaluation of a student's understanding of linear functions. The form is used to evaluate a student's understanding of the concept of linear functions, their ability to apply mathematical operations, and their problem-solving skills.
-
-The form is intended to be used for both formative and summative assessments. It is used to identify areas where a student needs improvement, and to provide feedback on their understanding and progress.
-
-The form is not intended to be used as a substitute for a thorough discussion with a teacher, but rather as a supplement to the evaluation process.
-
-Before starting the form, please ensure that the student has a basic understanding of linear functions and their characteristics.
-
-</thinking>
-
 # Linear Function Evaluation Form - Help Guide
 ## Purpose
 The Linear Function Evaluation Form is used to assess a student's understanding of linear functions, their ability to apply mathematical operations, and their problem-solving skills.

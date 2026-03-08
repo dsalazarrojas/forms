@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for school bus pre-trip inspection reports, which are critical for maintaining the safety and well-being of students. The purpose of this form is to document the results of a pre-trip inspection, which should be conducted before a school bus departs for a trip. The form is used by school bus drivers to report on the vehicle's condition, safety equipment, and other relevant details. The information collected helps the school administration and maintenance teams to identify potential safety issues and schedule necessary repairs or maintenance.
-This form is a general-purpose form and can be used for various types of school bus inspections, so it is not specific to a particular type of inspection or event.
-The fields in this form are designed to capture information that is commonly collected during a pre-trip inspection, such as vehicle status, comments from the driver, safety deficiencies, and safety equipment on board.
-</thinking>
-
 # School Bus Pre-trip Inspection Report Form - Help Guide
 ## Purpose
 This form is used by school bus drivers to report on the results of a pre-trip inspection, which is conducted before a school bus departs for a trip. The information collected helps the school administration and maintenance teams to identify potential safety issues and schedule necessary repairs or maintenance.

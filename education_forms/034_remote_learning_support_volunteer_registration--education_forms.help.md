@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help individuals register as a remote learning support volunteer. The purpose of this form is to collect information from potential volunteers about their availability, willingness to confirm their volunteer information, and terms and conditions of volunteering. 
-
-The form is divided into several sections, each focusing on a different aspect of the volunteer registration process. To ensure that the form is completed accurately and efficiently, it's essential to understand each field's purpose and required information. 
-
-The form's internal logic checks for duplication of volunteer information and non-acceptance of terms and conditions, which should only be filled out once. 
-
-This form is a self-explanatory and user-friendly guide to help potential volunteers understand their roles and responsibilities as a remote learning support volunteer. By following this guide, volunteers will be able to complete the form correctly and efficiently.
-
-</thinking>
-
 # Remote Learning Support Volunteer Registration - Help Guide
 ## Purpose
 The Remote Learning Support Volunteer Registration form is designed to collect information from potential volunteers about their availability, willingness to confirm their volunteer information, and terms and conditions of volunteering. This form helps the volunteer registration process by ensuring that volunteers understand their roles and responsibilities.

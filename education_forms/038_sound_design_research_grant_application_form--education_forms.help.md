@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end-users to apply for a sound design research grant. The purpose of this form is to gather essential information from applicants, including their contact details, project title, budget, duration, and any supporting documents. This form is not intended for multiple applications, so please do not submit multiple forms.
-</thinking>
-
 # Sound Design Research Grant Application Form - Help Guide
 ## Purpose
 The Sound Design Research Grant Application Form is a document used to provide essential information for applicants who are applying for a sound design research grant.

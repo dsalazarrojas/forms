@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to register for a multicultural classroom development training, which aims to enhance the diversity and inclusivity of a school's classroom environment. This form is intended for school staff or teachers to provide information about their training needs and preferences. It's essential to fill out this form accurately and completely to ensure that the training program can cater to their needs effectively.
-
-Before proceeding, please note that this form is not for multiple submissions. Please make sure that you have not submitted this form previously to avoid duplicate entries.
-
-</thinking>
-
 # Multicultural Classroom Development Registration Form - Help Guide
 ## Purpose
 This form is used to gather information from teachers and school staff to provide tailored support and training to improve a school's multicultural classroom environment.

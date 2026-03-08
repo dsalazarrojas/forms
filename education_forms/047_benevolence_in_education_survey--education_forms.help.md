@@ -1,12 +1,3 @@
-<thinking>
-This form is a collection of questions designed to gauge the respondent's perceptions about the school environment, staff behavior, and overall experiences. The questions aim to understand the level of kindness, empathy, and support within the school setting. This form is meant to provide insight into areas that may need improvement to create a more benevolent and inclusive school environment.
-
-Please note that this form is a survey and is intended to be completed by respondents who have had experiences within the school. The answers should reflect the respondent's genuine perceptions and feelings about their experiences. 
-
-Also, this form is not designed to collect sensitive or personal information, and all answers will be kept anonymous. If you have any concerns or questions, please contact form@gic.mx for assistance.
-
-</thinking>
-
 # Benevolence In Education Survey - Help Guide
 
 ## Purpose

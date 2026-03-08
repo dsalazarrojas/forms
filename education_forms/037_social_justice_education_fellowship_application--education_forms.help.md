@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the form's purpose and ensure this guide is relevant and doesn't duplicate any existing resources. This form appears to be designed for candidates applying to a Social Justice Education Fellowship program. It seems to be a comprehensive form collecting personal and educational information from applicants. The fields range from basic contact information to specific details like education background, academic achievements, and affiliations. Our main goal is to ensure that end-users understand how to navigate this form and what each field represents.</thinking>
-
 # Social Justice Education Fellowship Application - Help Guide
 ## Purpose
 This form is designed for candidates to apply to a Social Justice Education Fellowship program. Please fill out this form with accurate and relevant information to increase your chances of being selected for the program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients about their dental cleaning experience. It appears to be a form for releasing or reporting on a patient's dental cleaning history, which is likely a sensitive topic. This form has been generated based on public survey topic metadata, and its purpose is to gather relevant information from patients in a structured and organized way. To avoid duplication and ensure that users understand the form's purpose, it's crucial to clearly explain each field's intent and requirement. Please review the form carefully before proceeding.
-</thinking>
-
 # dental_cleaning_release_form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their dental cleaning experience, including their personal details, contact information, dental history, allergies, medical conditions, and other relevant details.

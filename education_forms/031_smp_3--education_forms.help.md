@@ -1,26 +1,3 @@
-<thinking>
-This form, "smp_3", is designed to collect data about a student's progress and information related to their education. It likely serves a purpose within a school or educational institution, possibly for tracking student performance, teacher data, or school administration purposes.
-
-To complete this form, follow these steps:
-
-1. Start by ensuring you have all the required and optional data at hand.
-2. Fill out the "Student ID" field, which is used to identify the student.
-3. Enter the student's name under "Student Name".
-4. Input the student's grade, which could be a numerical value.
-5. Select the student's grade scale, which is another numerical value.
-6. Enter the student's birth date, a date field.
-7. For the teacher associated with this student, input their ID.
-8. Enter the teacher's name.
-9. Input the teacher's email address.
-10. Enter the teacher's phone number.
-11. Enter the school's ID.
-12. Enter the school's name.
-13. Input the school's address.
-14. Enter the school's post code.
-15. Enter the school's city.
-
-</thinking>
-
 # smp_3 - Help Guide
 ## Purpose
 This form is used for collecting student and teacher data within educational settings.

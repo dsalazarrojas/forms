@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used for students or staff to book facilities or staff members within a school. The form may be used to request a booking for a specific date and time, and to select the type of booking (e.g. staff, facilities, or other). The form may also include fields for providing comments, contact information (email and phone), and confirmation fields for email and phone. This form is likely used internally within the school, and the fields should be clear and easy to understand for users.
-
-To avoid duplication, the form may be used in conjunction with other systems or processes within the school.
-
-The field 'booking_type' allows for multiple selections, while the field 'facility' allows for a single selection.
-
-The field 'confirm_email' and 'confirm_phone' are likely used to confirm whether the provided contact information is correct or not.
-
-</thinking>
-
 # School Booking Form - Help Guide
 ## Purpose
 

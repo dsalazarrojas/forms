@@ -1,14 +1,3 @@
-<thinking>
-The symmetry_concepts_quiz form is designed to collect information from users about their understanding of symmetry concepts. This form is likely used in an educational setting, perhaps in a math or science class, to assess students' knowledge of symmetry and related concepts. The form appears to be focused on assessing users' ability to identify and understand different types of symmetry, such as line and rotational symmetry. The form is likely used to evaluate students' understanding of these concepts and provide feedback or assessment. This form is not a survey or opinion form, but rather a more in-depth evaluation of users' knowledge.
-To ensure the form is not used inappropriately, it's essential to follow these guidelines:
-* Make sure you are in an educational or related setting, as this form is not for general public use.
-* Answer the questions honestly to the best of your ability, without any distractions or biases.
-* Follow the required fields, as they are marked.
-* Use the options provided to answer the questions, and do not introduce any additional information not requested by the form.
-
-This form is not a self-contained knowledge assessment. Please do not attempt to fill out the form without proper understanding or context.
-</thinking>
-
 # symmetry_concepts_quiz - Help Guide
 ## Purpose
 This form is designed to evaluate users' understanding of symmetry concepts, including line and rotational symmetry. It is used in educational settings to assess students' knowledge and provide feedback or assessment.

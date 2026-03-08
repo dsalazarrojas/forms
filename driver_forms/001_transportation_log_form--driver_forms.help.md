@@ -1,9 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, my goal is to create a comprehensive help guide for the Transportation Log Form that clearly communicates its purpose, steps to complete, and field explanations to ensure that end users understand how to fill out the form efficiently and effectively. This guide will follow the provided YAML structure, using Markdown formatting for readability.
-
-</thinking>
-
 # Transportation Log Form - Help Guide
 ## Purpose
 

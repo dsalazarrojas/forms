@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participation in a research pilot program focused on evaluating the accuracy, consistency, and fairness of AI-assisted grading compared to traditional human-only grading. The goal is to collect data from participants, which may include undergraduate and graduate students, faculty members, and teaching assistants. The form requires participants to provide their demographic information, such as name, email, and department or school affiliation. They will also be asked to indicate their role within the institution and consent to participate in the pilot, data sharing, and anonymization of their data. The form includes a section on academic integrity acknowledgment and confirmation of digital signature. It's worth noting that there's no specific instruction on how to complete the "right to withdrawal acknowledgment", which might be considered non-conformant. 
-</thinking>
-
 # AI Grading Pilot Participation Consent Form - Help Guide
 
 ## Purpose

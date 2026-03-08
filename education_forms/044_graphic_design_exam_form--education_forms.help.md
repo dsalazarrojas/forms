@@ -1,15 +1,3 @@
-<thinking>
-This form is used for evaluating student performance in graphic design exams, typically used by educators to assess a student's skills and knowledge in a graphic design course. This form will help educators record student performance data for future reference and provide feedback to students. The form's purpose is to ensure that each student's progress is tracked and their performance evaluated in a fair and consistent manner. 
-
-The form can be completed by educators, who will provide feedback, comments, and score students based on their performance in the exam. This form is meant to be a comprehensive tool for evaluating student performance in graphic design and should not be used for other purposes.
-
-The following sections should only be filled out by educators. Please ensure that all necessary information is provided before submitting the form. 
-
-Please note that this form can be modified or customized as needed for different exam types and circumstances.
-
-To avoid duplication of effort, please ensure all necessary documents are attached before submitting the form.
-</thinking>
-
 # Graphic Design Exam Form - Help Guide
 ## Purpose
 This form is used by educators to evaluate student performance in graphic design exams. It is a comprehensive tool to track student progress and provide feedback.

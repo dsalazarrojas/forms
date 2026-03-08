@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from community members who want to participate in the Community Tutoring program. It's intended for both tutors and students to register their interests, qualifications, and availability. This form will help us understand who's interested in being a tutor, who's looking for tutoring support, and how to best match them. Please fill out this form only once, as duplicate registrations will not be accepted. This form will guide you through the necessary steps to register as a tutor or student in the program. Please answer honestly and accurately to help us provide the best support to our community members.
-</thinking>
-
 # Community Tutoring Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register as a tutor or student in the Community Tutoring program. It's designed to collect relevant information about your role, qualifications, availability, and preferences.

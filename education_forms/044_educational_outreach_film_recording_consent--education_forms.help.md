@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants in educational outreach programs to provide their consent for filming and recording. The purpose of this form is to gather information about the participants, the details of the filming, and their consent for the recording. It is intended for use in educational settings, such as schools, universities, and research institutions. This form is a general-purpose form and may not be specific to a particular organization or industry. The form was generated using AI and is released under CC BY 4.0, allowing for modification and reuse.
-</thinking>
-
 # Educational Outreach Film Recording Consent Form - Help Guide
 ## Purpose
 This form is for participants in educational outreach programs to provide their consent for filming and recording.

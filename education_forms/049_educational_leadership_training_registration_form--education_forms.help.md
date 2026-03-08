@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about educational leadership training registration. The form is intended for users to provide their details and submit a request for training. The fields are designed to capture the essential information required for the training registration process. To ensure accurate and efficient completion of the form, please carefully review each field as you proceed.
-</thinking>
-
 # educational-leadership-training-registration-form - Help Guide
 ## Purpose
 This form is a tool for submitting requests for educational leadership training. It is intended to collect relevant details to facilitate the registration process.

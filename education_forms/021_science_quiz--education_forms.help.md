@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Science Quiz - Help Guide
 ## Purpose
 The Science Quiz form is a tool used to create and manage science quizzes. This form is used to collect information and track progress for students who have taken the science quiz.

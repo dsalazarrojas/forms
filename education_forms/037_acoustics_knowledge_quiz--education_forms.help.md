@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of students regarding acoustics. It is intended to be filled out by students who have some background in the subject. The form is a part of an educational process and is meant to gauge the student's understanding of various concepts in acoustics. This form will not be affiliated with, endorsed by, or derived from any form platform, it's an original adaptation created by AI using public metadata as inspiration.
-</thinking>
-
 # Acoustics Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to evaluate students' knowledge of acoustics concepts. It consists of multiple-choice and short-answer questions that cover various topics in acoustics, such as wave properties, sound speed, decibel scale, room acoustics, and noise control.

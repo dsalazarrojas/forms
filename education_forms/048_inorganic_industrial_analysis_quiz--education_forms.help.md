@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to assess their knowledge and skills in inorganic industrial analysis. It is intended for those with experience or knowledge in this area, such as industry professionals, researchers, or students. Please note that this form is not a replacement for in-depth training or education, but rather a tool to gauge your current level of understanding. 
-</thinking>
-
 # Inorganic Industrial Analysis Quiz - Help Guide
 ## Purpose
 The Inorganic Industrial Analysis Quiz is a self-assessment tool designed to evaluate your knowledge and skills in inorganic industrial analysis. It consists of multiple pages with various fields that cover different topics, including inorganic chemistry concepts, industrial chemistry applications, and other relevant aspects.

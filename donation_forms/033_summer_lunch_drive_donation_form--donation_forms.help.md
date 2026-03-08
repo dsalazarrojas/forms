@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect donations for the Summer Lunch Program, likely a charitable initiative aimed at providing lunches to underprivileged individuals during the summer months. The purpose of this form is to gather essential information from donors, including their name, organization (if applicable), amount donated, and other details to ensure the successful execution and tracking of the program. The form seems to be designed to be comprehensive, including fields for comments, email, phone number, address, and payment method, suggesting that it may be used for both in-person and online donations. This form may also be used to collect follow-up information from donors, such as additional comments, name of the person making the donation (if different from the donor), and contact details in case of further communication. Please review the form fields to ensure they align with your specific use case and organization's requirements.
-</thinking>
-
 # Summer Lunch Drive Donation Form - Help Guide
 ## Purpose
 The Summer Lunch Drive Donation Form is designed to collect donations and relevant information from donors for the Summer Lunch Program.

@@ -1,22 +1,3 @@
-<thinking>
-The Learning Accessibility Taskforce Application Form is a tool used by the Learning Accessibility Taskforce to collect information from individuals interested in joining the taskforce. This form is used to assess the qualifications, experience, and motivation of applicants to participate in the taskforce. 
-To be eligible for the taskforce, applicants should have a strong interest in accessibility and a good understanding of the subject matter. The form is designed to be filled out by individuals with varying levels of experience, but a high level of motivation and a willingness to learn are essential. 
-
-This form has been designed to be user-friendly and easy to understand, with clear labels and explanations for each field. However, if you are unsure about any field, please do not hesitate to reach out to us for clarification. 
-
-Please note that filling out this form is the first step in the application process. If you are selected, you will be contacted for further evaluation and discussion. 
-
-Before starting, please ensure you have a valid email address, as you will be contacted via this email address if you are selected. 
-
-Also, please be aware that some fields are optional, but providing accurate and complete information will improve your chances of being selected. 
-
-Lastly, please ensure that you have the necessary permissions and clearances required to work with sensitive information, as the taskforce may handle sensitive data. 
-
-The information collected through this form will be kept confidential and stored securely. 
-
-Please fill out the form carefully, and we will review your application and get back to you if you are selected for further evaluation. 
-</thinking>
-
 # Learning Accessibility Taskforce Application Form - Help Guide
 ## Purpose
 The Learning Accessibility Taskforce Application Form is a tool used by the Learning Accessibility Taskforce to collect information from individuals interested in joining the taskforce.

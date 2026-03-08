@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about presentations, including background information, presentation type, presenter details, and evaluation. It is a crucial form for organizers and presenters to ensure smooth and effective presentations. To ensure accuracy and consistency, please complete this form carefully.
-
-Before starting, please note that the fields marked as "required" are mandatory and must be filled out. The form consists of multiple sections, each with its specific purpose.
-
-</thinking>
-
 # Presentation Induction Questionnaire Form - Help Guide
 ## Purpose
 The Presentation Induction Questionnaire Form is designed to collect essential details about presentations. This form will help ensure that both organizers and presenters are well-prepared and on the same page.

@@ -1,11 +1,3 @@
-<thinking>
-We are using this form to gather information from donors regarding their contributions to the Dispute Resolution Fund. 
-The primary goal of this form is to receive contributions and ensure that all donors receive a proper receipt of their donations. 
-This form will only be used for donations and should not be used for other purposes.
-It is crucial that we do not receive duplicate donations. Please check the internal system or ask your supervisor if you need to confirm the status of a previous donation.
-If you are unsure about the purpose or usage of this form, please contact your supervisor for guidance.
-</thinking>
-
 # Dispute Resolution Fund Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors about their contributions to the Dispute Resolution Fund. The goal is to ensure that all donors receive a proper receipt of their donations.

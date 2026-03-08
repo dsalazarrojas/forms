@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with virtual training. This form is meant to be a simple and straightforward way to collect opinions and suggestions from individuals who have participated in virtual training. The form is designed to be easy to fill out and requires no technical knowledge. It is essential to complete the form to provide valuable feedback that will help improve the virtual training experience.
-</thinking>
-
 # Virtual Training Survey - Help Guide
 ## Purpose
 The Virtual Training Survey is a tool designed to gather feedback from users about their experience with virtual training. This feedback will help to improve the quality and effectiveness of the virtual training experience.

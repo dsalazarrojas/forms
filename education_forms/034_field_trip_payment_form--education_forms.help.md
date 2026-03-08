@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Field Trip Payment Form is used to process payments for field trips, which are educational excursions organized by schools for their students. This form is designed to collect essential information from students, teachers, or staff members to process payments accurately and efficiently. To ensure accurate processing, please make sure to fill out the form carefully and thoroughly.
 
 </thinking>

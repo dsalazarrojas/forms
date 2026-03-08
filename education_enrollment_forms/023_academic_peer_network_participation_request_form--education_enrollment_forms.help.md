@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help individuals express their interest and availability to participate in an Academic Peer Network. By providing information on their academic background, availability, and preferences, the participant can be matched with suitable peers for collaboration and knowledge sharing. It's essential to fill out this form accurately and completely to ensure the right connections are made within the network. Please note that this is the first step to participate in the Academic Peer Network. Duplicate requests may be deleted or flagged for further review to maintain the network's quality and relevance.
-</thinking>
-
 # Academic Peer Network Participation Request Form - Help Guide
 ## Purpose
 This form is designed to help you express your interest in joining the Academic Peer Network. It will help us match you with suitable peers for collaboration and knowledge sharing. Please fill out this form accurately and completely to ensure the right connections are made within the network.

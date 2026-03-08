@@ -1,20 +1,3 @@
-<thinking>
-This is a form for parents or guardians to communicate with teachers on a regular basis, allowing them to share their thoughts, concerns, and feedback about their child's academic performance and overall development. This form is designed to foster open communication between parents and teachers, ensuring a collaborative and supportive relationship. By completing this form, parents can help teachers better understand their child's needs and progress, enabling teachers to tailor their instruction and support accordingly.
-
-This form is intended to be completed on a regular basis, possibly at the beginning of each school year or semester. It is a crucial tool for teachers to gain a better understanding of each student's strengths, weaknesses, and areas of improvement.
-
-The form asks for a range of information, including:
-
-* Contact details (parent name, email, phone number)
-* Information about the student (name, grade level, school year)
-* Preferred communication frequency and methods
-* Ratings of the student's academic progress, social development, and classroom participation
-* Identification of any behavioral concerns or special learning needs
-* Request for a meeting or conference
-
-Please note that this form is not intended to be a substitute for regular, in-person communication between parents and teachers. It is meant to be a complementary tool to facilitate open and ongoing dialogue.
-</thinking>
-
 # Annual Parent Teacher Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way for parents or guardians to communicate with teachers about their child's academic performance and overall development. It helps teachers gain a better understanding of each student's strengths and weaknesses and allows them to tailor their instruction and support accordingly.

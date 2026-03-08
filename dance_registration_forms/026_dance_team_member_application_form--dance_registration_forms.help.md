@@ -1,17 +1,3 @@
-<thinking>
-This form is intended for dancers who wish to join or become a part of a dance team. The purpose of this form is to gather information about the applicant, including their contact details, dance experience, and emergency contact information. This form is not for internal use only, as it is designed to be used by both internal and external users. Please ensure that you have the necessary permissions and approvals before sharing this form with external parties.
-
-This form is divided into several sections, each with its own set of fields. Please make sure to fill out each section accurately and completely.
-
-To ensure that your application is processed correctly, please follow these steps:
-
-1.  Fill out the **Dancer Details** section with your name, email, and phone number.
-2.  Select your **Dancer Type** (Dancer, Team Member, or Both).
-3.  Indicate your dance experience and special skills.
-4.  Provide your availability and emergency contact information.
-
-Please note that this form is not intended for internal use only, and you should only share it with people who need to fill it out. Also, please ensure that the form is filled out accurately and completely to avoid any delays in processing your application.</thinking>
-
 # Dance Team Member Application Form - Help Guide
 ## Purpose
 The Dance Team Member Application Form is designed for dancers who wish to join or become a part of a dance team. It is used to gather information about the applicant, including their contact details, dance experience, and emergency contact information.

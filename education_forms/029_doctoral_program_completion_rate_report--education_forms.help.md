@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the completion rate of doctoral programs. The form will gather information on the status, type, and completion rate of the programs, as well as other relevant details. Before filling out this form, please make sure you have the necessary permissions and data access. Also, please ensure that you are not duplicating information that is already available in the system. This form is designed to be completed by individuals with knowledge of the relevant programs and their status.
-</thinking>
-
 # Doctoral Program Completion Rate Report - Help Guide
 ## Purpose
 This form is used to collect data on the completion rate of doctoral programs, including status, type, and other relevant details.

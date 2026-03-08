@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record security information for delivery purposes. It is used to document important details related to the delivery of security products or systems. This form is likely used in a business-to-business or business-to-consumer context. Please fill out this form carefully and accurately to ensure the security information is recorded correctly.
-</thinking>
-
 # Security System Delivery Form - Help Guide
 ## Purpose
 This form is used to record security information for delivery purposes, including delivery orders, client company details, security product information, delivery dates and times, contact details, and special instructions.

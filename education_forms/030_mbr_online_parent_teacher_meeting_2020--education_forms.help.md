@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about online parent-teacher meetings, which are likely used to facilitate communication and updates between parents and teachers. It's assumed that the form is part of a larger system for managing online meetings, and the purpose of this form is to collect specific details about each meeting. The field labels and types are designed to provide clear and concise information for both parents and teachers to fill out. Before proceeding, ensure that this form is relevant to your specific use case and that you have not already created a similar form with the same purpose in your system.
-</thinking>
-
 # mbr_online_parent_teacher_meeting_2020 - Help Guide
 ## Purpose
 The mbr_online_parent_teacher_meeting_2020 form is used to capture information about online parent-teacher meetings. It's designed to facilitate communication and updates between parents and teachers.

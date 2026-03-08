@@ -1,20 +1,3 @@
-<thinking>
-The form "math_department_student_feedback_for_teachers" is used by students to provide feedback about the math department and its offerings. This form is designed to help teachers and department staff understand student perceptions of the quality of math courses, teaching, and overall experience.
-
-To complete this form, students will need to select multiple options to answer questions about their overall experience, evaluate the course content and teacher performance, and provide written feedback and comments. The form is divided into multiple pages, each with its own set of questions.
-
-The overall experience section allows students to indicate whether their overall experience in the math department was positive or not. This question is a required field and has two options: 'Yes' and 'No'.
-
-The course content section allows students to rate how engaging and relevant they found the course content. This field is a numerical rating, allowing students to provide a more nuanced evaluation.
-
-The teacher performance section also has a numerical rating, enabling students to evaluate their satisfaction with the quality of instruction provided by their teacher.
-
-The feedback section is for students to write a free-text response to provide their comments about the math department and its offerings.
-
-Finally, the Additional Comments and repeated sections are optional, allowing students to provide supplementary information and re-evaluate their initial answers if necessary.
-
-</thinking>
-
 # math_department_student_feedback_for_teachers - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for student exchange programs, allowing users to input details about the student and host institution. The form has multiple sections to gather specific information about the student's and host's educational background, program details, and contact information. This form is intended for students and host institutions to facilitate the exchange process.
-
-Before proceeding, please review the fields carefully and ensure you are providing accurate information. This form should only be filled out once for each exchange application. If you have already submitted an application, please do not resubmit.
-
-</thinking>
-
 # Student Exchange Application - Help Guide
 ## Purpose
 This form is designed to collect information for student exchange programs, allowing users to input details about the student and host institution. The form has multiple sections to gather specific information about the student's and host's educational background, program details, and contact information.

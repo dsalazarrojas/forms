@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a mushroom delivery order. It's likely used by mushroom farms or businesses that deliver fresh mushrooms to customers' homes. This form is probably part of a online ordering system or a digital workflow for managing customer orders. It's essential to fill out the form accurately to ensure timely and efficient delivery of the order. Please ensure that you are filling this form for the correct purpose.
-
-Before proceeding, double-check that this form isn't a duplicate of another order or that you've already submitted your order.
-
-</thinking>
-
 # Mushroom Delivery Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a mushroom delivery order. It helps mushroom farms or businesses deliver fresh mushrooms to customers' homes.

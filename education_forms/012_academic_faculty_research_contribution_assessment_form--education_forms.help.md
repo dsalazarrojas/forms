@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for assessing the research contributions of academic faculty members. 
-This form is meant to collect information about the faculty's research projects, publications, grants, and other contributions during a specific reporting period. 
-The form is typically used in the evaluation and assessment process to inform decisions about faculty promotions, tenure, and other career advancement opportunities. 
-Before filling out this form, please ensure that you have not already submitted it, as duplicate submissions can cause confusion and delay the review process. 
-Ensure that you are submitting for your own research contributions, as this form is not intended for colleagues or others to fill out on your behalf. 
-If you are unsure about any part of the form, please reach out to your department or institution's relevant contacts for clarification.</thinking>
-
 # Academic Faculty Research Contribution Assessment Form - Help Guide
 ## Purpose
 The Academic Faculty Research Contribution Assessment Form is a critical tool for documenting and assessing the research contributions of academic faculty members. The form helps to ensure that all relevant information about faculty research is collected, evaluated, and used to make informed decisions about faculty careers and promotions.

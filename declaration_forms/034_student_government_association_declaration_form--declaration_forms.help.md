@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to declare their interest in participating in the Student Government Association. The form is not meant to be filled out by parents or non-students. The purpose of this form is to gather necessary information from students who are interested in joining the Student Government Association. This form should only be filled out by students who are actually interested in joining the Student Government Association.
-</thinking>
-
 # Student Government Association Declaration Form - Help Guide
 ## Purpose
 This form is used to declare interest in joining the Student Government Association. Please fill out this form to express your interest and provide necessary information about yourself.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "GoFundMe Donation Form", I will analyze the provided YAML fields and provide a clear and concise explanation of each field. This form is designed for collecting donations for various causes, and users will be able to select their preferred cause and payment method. I will ensure that the explanation is concrete, practical, and covers all the necessary information for users to complete the form successfully.
-
-</thinking>
-
 # GoFundMe Donation Form - Help Guide
 ## Purpose
 The GoFundMe Donation Form is designed to collect donations for different causes, such as Animal Shelter, Environment, Education, Health, and Homelessness. This form allows users to select their preferred cause and payment method, providing a convenient way to support their chosen charity.

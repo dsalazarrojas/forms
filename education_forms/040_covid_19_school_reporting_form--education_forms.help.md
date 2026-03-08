@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is likely to be related to tracking and reporting COVID-19 cases and vaccination metrics within a school setting. This form may be used to gather information on the number of vaccinated and non-vaccinated students and staff, as well as new cases and individuals in quarantine. The form may be intended for use by school administrators or health officials to monitor and report on the health and wellness of students and staff within the school district. This form should be filled out by a reporting officer, ensuring that the data is accurate and up-to-date, which suggests that it may be used for official purposes such as contact tracing or health monitoring. It's possible that this form is part of a larger system for tracking and managing COVID-19 cases within a specific region or district, and its data will be used for district-wide health monitoring.
-</thinking>
-
 # COVID 19 School Reporting Form - Help Guide
 ## Purpose
 This form is used to report and track COVID-19 cases and vaccination metrics within a school setting. It is intended to be completed by a reporting officer and is used to provide accurate and up-to-date information on student and staff health and vaccination status.

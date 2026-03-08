@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are accepting a policy, such as clients, contractors, or employees. The purpose of this form is to gather their name, address, and other relevant details. It also captures their acceptance of the associated risks and their understanding that the declaration is signed in good faith. This form is designed to ensure that all parties involved are aware of their responsibilities and obligations under the policy. 
-
-The form is structured in a way that requires the individual to provide their full name, address, client name (if any), policy document details, date and time of acceptance, and other relevant information. The form also has fields for risks associated with the policy, declaration is signed, signature date and time, signature, attorney name, title, firm, address, and other related details.
-
-The form has been designed to minimize duplication of efforts and ensure that the individual understands their responsibilities and obligations under the policy.
-
-</thinking>
-
 # Policy Acceptance Declaration - Help Guide
 ## Purpose
 This form is used to collect information from individuals who are accepting a policy. It ensures that all parties involved are aware of their responsibilities and obligations under the policy.

@@ -1,17 +1,3 @@
-<thinking>
-This form is for recording and tracking student interactions, such as meetings or assessments, with a teacher. The purpose of this form is to document the student's needs, teacher comments, and other relevant details. This form is not required for all interactions, but rather serves as a tool for teachers to provide feedback and guidance to students.
-
-The following guide will walk you through the process of completing this form.
-
-To complete this form, follow these steps:
-
-1.  Ensure you are in the correct page for the relevant student interaction.
-2.  For each field, provide the requested information or select the relevant option.
-
-Please note that some fields are optional, and you are not required to fill them in for all interactions.
-
-</thinking>
-
 # Student Interaction Form - Help Guide
 ## Purpose
 This form is designed to record and track student interactions, providing a platform for teachers to document student needs, comments, and outcomes.

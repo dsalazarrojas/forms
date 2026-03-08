@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to provide feedback and reflections on their homework exercises, allowing teachers to gauge their understanding and adjust the curriculum accordingly. The form is designed to be a template for capturing student thoughts, opinions, and insights on various aspects of the class. Please note that this form is not intended for general inquiries or other purposes not related to the homework exercises.
-</thinking>
-
 # Homework Exercises Template - Help Guide
 ## Purpose
 The purpose of this form is to collect student feedback and reflections on their homework exercises. It is intended to help teachers understand students' thoughts, opinions, and insights on various aspects of the class.

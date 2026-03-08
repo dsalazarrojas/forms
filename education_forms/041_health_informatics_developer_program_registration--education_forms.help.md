@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a registration form for individuals interested in the Health Informatics Developer Program. It likely collects information from applicants to assess their eligibility, qualifications, and contact details. To avoid duplication, it's recommended that users only fill out the form once. 
-
-</thinking>
-
 # Health Informatics Developer Program Registration - Help Guide
 ## Purpose
 This form is designed to collect information from applicants interested in joining the Health Informatics Developer Program. The purpose of this form is to gather details about the applicant's education background, work experience, and contact information. 

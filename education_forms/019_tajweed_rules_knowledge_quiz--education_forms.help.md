@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's knowledge of Tajweed rules, a set of rules for reciting the Quran. This form is likely used in the context of Islamic education or training programs. Before starting, please check if you have already completed this form to avoid duplication of effort.
-</thinking>
-
 # Tajweed Rules Knowledge Quiz - Help Guide
 ## Purpose
 The Tajweed Rules Knowledge Quiz is designed to assess your understanding of the Tajweed rules.

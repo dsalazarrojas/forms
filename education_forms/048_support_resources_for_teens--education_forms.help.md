@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Support Resources For Teens - Help Guide
 ## Purpose
 This form is designed to collect information from teenagers who need support resources. The form gathers personal details and support requirements to help identify the right resources for each individual.

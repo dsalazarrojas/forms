@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for dentists and dental professionals to collect information and process denture cases. It is used to capture details about the patient's identity, dental history, impression information, fabrication details, quality control, notes, review, and signature. The form is likely used in a clinical setting, such as a dental clinic or laboratory, where dentures are processed and fitted. 
-
-This form is intended for internal use only and not for external public use. However, the provided instructions will guide users through the form's purpose and completion.
-
-</thinking>
-
 # Denture Processing Checklist - Help Guide
 ## Purpose
 This form is designed to collect and document relevant information during the denture processing workflow. It covers key aspects such as patient details, dental history, impression information, fabrication details, quality control, and more.

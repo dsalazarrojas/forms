@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for customers to make a purchase for a gadget. It captures the customer's personal details and payment information to facilitate the transaction. The form is designed to be simple and straightforward, gathering only the necessary information for the payment process. This guide will walk the end-user through the form's purpose, how to complete it, and what each field means to ensure a smooth and successful transaction.
-
-</thinking>
-
 # Gadget Purchase Payment Form - Help Guide
 ## Purpose
 The Gadget Purchase Payment Form is designed for customers to complete their purchase information for a gadget purchase. To use this form, simply follow the instructions below.

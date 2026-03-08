@@ -1,16 +1,3 @@
-<thinking>
-This guide is intended to help employees understand how to complete the Workplace Harassment Complaint Form (WHCF) accurately and efficiently. The WHCF is designed to report incidents of harassment in the workplace, providing a platform for employees to share their experiences and concerns in a safe and confidential manner.
-
-Before starting the form, please take a moment to review the following:
-
-* The form is meant to gather information about incidents of harassment that have occurred in the workplace.
-* The information collected will be kept confidential and only accessed by authorized personnel.
-* Completing this form does not imply that an investigation will be conducted, but rather, it serves as an initial step in the reporting process.
-* If you have experienced harassment in the past and have already reported it, please do not submit this form again. You can, however, update your previous report with new information if needed.
-
-Please review the form carefully, filling in all required and optional fields to ensure that you report your incident accurately and thoroughly.
-</thinking>
-
 # Workplace Harassment Complaint Form - Help Guide
 ## Purpose
 The Workplace Harassment Complaint Form is designed to collect information about incidents of harassment that occur in the workplace. This form is a confidential and secure channel for employees to report their experiences and concerns.

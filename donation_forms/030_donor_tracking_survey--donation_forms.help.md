@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to track donor information and follow-up activities. The purpose of this form is to collect data on whether a donor has provided tracking information, frequency of follow-ups, and any additional comments or follow-up notes. The form is designed to be completed by donors or their representatives, and the information collected will be used to inform future follow-up activities.
-
-</thinking>
-
 # Donor Tracking Survey - Help Guide
 ## Purpose
 The Donor Tracking Survey is a form used to track donor information and follow-up activities. This form helps us understand how often to follow up with donors and what information we need from them to continue our efforts.

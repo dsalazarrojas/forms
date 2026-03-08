@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creation Archiving Form - Help Guide
 
 ## Purpose

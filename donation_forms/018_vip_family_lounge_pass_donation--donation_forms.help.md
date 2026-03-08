@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vip_family_lounge_pass_donation - Help Guide
 ## Purpose
 The "vip_family_lounge_pass_donation" form is designed to collect information for a VIP pass donation, which is a special pass for a family or individual. This form is used to capture details about the donor and the recipient of the pass, including donor contact information, recipient information, and a message if desired.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about students, their interests, and preferences. It is likely used to help schools or institutions understand student interests and tailor their programs or services accordingly.
-This form collects information about students' school year, school activities they enjoy, lessons they take, their expectations, enjoyment of school, and other details like age, school name, and parent name. Some questions are required while others are optional.
-The form does not seem to be designed for students to self-complete, and most fields appear to be used by educators or staff members to record information about students. The fields are mostly about demographic information and preferences.
-</thinking>
-
 # Student Interest Survey - Help Guide
 ## Purpose
 This form is used to gather information about students' interests, school activities, lessons, and preferences to help schools or institutions understand their needs and tailor their programs or services accordingly.

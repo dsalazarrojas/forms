@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to order customized products and provide order details. It captures product information, customization options, shipping details, and other relevant information to facilitate the order process. The form is designed to be filled out by users to create a customized order for their products. This form is likely to be used by customers or clients to place orders for bespoke products, and the information collected will be used to fulfill and deliver the order.
-
-To avoid duplication, users should not reuse any existing order form, as this form is designed to capture new and unique order details. If users need to make changes to an existing order, they can do so by filling out this form and indicating that it's an update to an existing order.
-
-</thinking>
-
 # Product Customization Prototype Order Form - Help Guide
 ## Purpose
 This form is designed for users to order customized products and provide order details to facilitate the order process.

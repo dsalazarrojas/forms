@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests for the Academic Innovation Toolkit from users. The purpose of this form is to gather information about the requester, the toolkit they are requesting, and the intended use of the toolkit. This form is intended to ensure that the toolkit is delivered to the correct requester and that the requester's needs are met. Before filling out this form, please ensure that you are not duplicating a previous request, as this can lead to unnecessary work and confusion. If you are unsure whether you should be requesting the toolkit, please contact the relevant department or team to discuss your needs.
-</thinking>
-
 # Academic Innovation Toolkit Request Form - Help Guide
 ## Purpose
 The Academic Innovation Toolkit Request Form is a form designed to collect requests for the Academic Innovation Toolkit. This form will help us understand your needs and preferences for the toolkit, ensuring that it is delivered to you efficiently and effectively.

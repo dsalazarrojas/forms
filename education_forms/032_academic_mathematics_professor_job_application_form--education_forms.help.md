@@ -1,5 +1,3 @@
-<thinking>As the form is designed for academic job applications, it is intended to gather information about candidates' backgrounds, qualifications, and experiences relevant to the position of a mathematics professor. This form is likely to be used by academic institutions or departments seeking to fill such a role. The form's design reflects the typical requirements of a job application in the academic field, focusing on the candidate's qualifications, research interests, and teaching experience. It does not duplicate or copy content from any existing form platforms.</thinking>
-
 # Academic Mathematics Professor Job Application Form - Help Guide
 ## Purpose
 This form is designed to help academic institutions or departments gather information from candidates applying for a mathematics professor position.

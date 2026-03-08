@@ -1,9 +1,3 @@
-<thinking>
-The Corporate Donation Form is a tool for collecting information from corporate donors. 
-It's designed to capture key details about the employee making the donation, the details of the donation, and any relevant contact information. 
-Please make sure that you have the necessary permissions to access this form.
-</thinking>
-
 # Corporate Donation Form - Help Guide
 ## Purpose
 This form is used to collect information from corporate donors for donation purposes.

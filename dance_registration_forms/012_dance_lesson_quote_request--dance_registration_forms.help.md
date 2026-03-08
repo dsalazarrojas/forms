@@ -1,8 +1,3 @@
-<thinking>
-The Dance Lesson Quote Request form is used by customers to inquire about dance lessons, providing essential details such as their name, preferred dance types, lesson duration, and contact information. This form helps the customer get a quote for the lessons they're interested in, while ensuring that the studio receives the necessary information to provide an accurate quote. To prevent duplication, we should ensure that the customer doesn't submit the form if they've already inquired about the same lesson quote.
-
-</thinking>
-
 # Dance Lesson Quote Request - Help Guide
 ## Purpose
 The Dance Lesson Quote Request form is designed to gather information from customers who are interested in dance lessons. By filling out this form, customers can get a quote for the lessons they're interested in and help the studio provide the best possible services.

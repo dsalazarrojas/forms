@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Student Technology Device Use Agreement Form", which is used in educational settings to gather information on students' usage and condition of technology devices, such as laptops, tablets, desktops, and smartphones, that are issued to or used by students. 
-This form will help students acknowledge the terms and conditions of device usage and return. It's essential to fill out the form carefully, as it will help the institution to track and manage device usage and condition effectively. Before filling out this form, make sure to read each field carefully and fill out all required fields. You can fill out this form multiple times if needed. 
-</thinking>
-
 # Student Technology Device Use Agreement Form - Help Guide
 ## Purpose
 This form is used to record students' agreement on the terms and conditions of technology device usage and return. It is a mandatory form that must be filled out by students before using institution-issued technology devices.

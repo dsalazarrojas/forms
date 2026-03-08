@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive form for tracking faculty workload, encompassing various fields related to work schedules, options, and other details. The form seems to be designed for collecting information from faculty members, possibly for administrative or scheduling purposes. It may be used by administrators or HR personnel to manage faculty workloads, track schedules, and maintain records.
-
-Before proceeding, let's ensure this form meets the necessary requirements and doesn't duplicate any existing information.
-
-</thinking>
-
 # Faculty Work Load Form - Help Guide
 ## Purpose
 The Faculty Work Load Form is designed to track and manage faculty workload information, ensuring accurate and timely updates to facilitate efficient faculty planning and resource allocation.

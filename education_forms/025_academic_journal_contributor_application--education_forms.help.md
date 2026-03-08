@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from academic journal contributors, who submit their work for publication in a specific academic journal. The form aims to gather essential details about the contributor, their submission, and any supporting documents. This guide will walk you through the form's purpose, how to complete it, and provide an explanation of each field.
-
-</thinking>
-
 # Academic Journal Contributor Application - Help Guide
 ## Purpose
 The Academic Journal Contributor Application form is a tool for academic authors to submit their work to a specific academic journal. The form collects essential information from contributors about their submission, including contributor details, manuscript information, and supporting documents.

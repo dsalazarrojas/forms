@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "paypal_sponsor_donation_form" to ensure that end users understand its purpose and how to complete it effectively. The form is used for donations, and we need to break down its purpose and usage into easy-to-follow sections.
-</thinking>
-
 # paypal_sponsor_donation_form - Help Guide
 ## Purpose
 The "paypal_sponsor_donation_form" is a form designed for users to make donations to a sponsor. This form collects basic information from the donator, including their name, email, donation amount, and description, to process the donation and provide a receipt for the transaction.

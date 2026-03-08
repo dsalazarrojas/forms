@@ -1,7 +1,3 @@
-<thinking>
-This form is used to plan and manage school residencies. It's designed for administrators and applicants to input relevant information about the residency, such as location, dates, and duration. The form helps track and organize residency plans, ensuring that all necessary details are captured and updated.
-</thinking>
-
 # School Residency Planning Form - Help Guide
 ## Purpose
 The School Residency Planning Form is used to plan and manage school residencies, capturing essential details such as location, dates, and duration.

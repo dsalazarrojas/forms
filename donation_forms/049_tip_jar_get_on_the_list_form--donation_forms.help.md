@@ -1,5 +1,3 @@
-<thinking> This form is designed to allow users to submit a tip jar request to get on a list. It requires minimal information from users, including category selection and optional fields for additional notes and output file selection. This form is likely used by customers or users who want to request a spot on a list, potentially for a service or product offering. Each field should be filled out with relevant information to ensure the user's request is properly recorded and processed. </thinking>
-
 # Tip Jar Get On The List Form - Help Guide
 ## Purpose
 This form is for submitting a tip jar request to get on a list. Fill out the form with your category and any additional notes to describe your request.

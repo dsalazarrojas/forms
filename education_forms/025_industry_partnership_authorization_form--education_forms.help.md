@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be for collecting information from industry partners for partnership authorization purposes.
-The form seems to be collecting general information about the partnership, such as name, contact details, role, and agreement terms.
-The purpose of this form is to gather necessary data for partnership authorization.
-It's possible that this form is used by businesses or organizations to collaborate and partner with other companies or entities.
-This form should only be completed by the partner company or entity that is entering into the partnership with the submitting organization.
-Please review the form carefully and ensure you are submitting accurate information.
-</thinking>
-
 # industry_partnership_authorization_form - Help Guide
 ## Purpose
 The industry_partnership_authorization_form is used to collect information from industry partners for partnership authorization purposes. This form is designed to gather necessary data for partnership collaboration.

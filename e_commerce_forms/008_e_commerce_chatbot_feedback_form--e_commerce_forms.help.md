@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from customers about their experience with an E-commerce chatbot. This feedback will help improve the chatbot's performance and provide valuable insights for the business. It's essential to ensure that the form is filled out completely and accurately to get relevant information.
-
-Before starting to fill out the form, take a few moments to review the questions and make sure you're not duplicating any information. For instance, if you're reporting an issue with the chatbot, it's best to provide a brief description in the "Issue Description" field and then elaborate in the "Description" field.
-
-When providing information, be as detailed and specific as possible, and make sure to include any relevant images or attachments where necessary.
-
-The form has multiple sections, each designed to collect a specific type of information. Please fill out the form as follows:
-
-</thinking>
 # E Commerce Chatbot Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our E-commerce chatbot. Your input will help us improve the chatbot's performance and provide a better experience for our customers.

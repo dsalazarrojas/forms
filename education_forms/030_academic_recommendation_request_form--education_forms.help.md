@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from academic recommenders for a student who is requesting a professional academic recommendation. The form is used to facilitate communication between students and their recommenders, ensuring that the recommender has all the necessary information to provide a strong and effective recommendation. To avoid duplication, please only submit one form per student. If a student requires multiple recommendations, please create a new form for each student.
-
-</thinking>
-
 # Academic Recommendation Request Form - Help Guide
 ## Purpose
 This form is used to collect information from academic recommenders for a student's academic or professional goals, such as graduate school applications, undergraduate programs, scholarships, research opportunities, or job applications.

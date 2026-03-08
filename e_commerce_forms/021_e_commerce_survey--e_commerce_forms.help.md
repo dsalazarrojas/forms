@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from e-commerce customers about their purchasing habits, preferences, and satisfaction with online shopping experiences. It is intended for business use, such as market research or customer feedback collection. The form includes a mix of personal details, purchase history, and preferences for various product categories. Please note that some fields are marked as "required" to ensure the collection of relevant and accurate information.</thinking>
-
 # E Commerce Survey - Help Guide
 ## Purpose
 The E Commerce Survey is a collection of questions designed to gather information from customers about their online shopping habits, preferences, and experiences.

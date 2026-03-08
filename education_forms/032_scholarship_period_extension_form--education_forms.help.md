@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Period Extension Form - Help Guide
 ## Purpose
 This form is used to request an extension to the scholarship period for students. It is used to provide additional information and supporting documents to support the extension request.

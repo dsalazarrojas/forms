@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Academic Writing Collaboration Network Registration form, let's clarify the form's purpose. The form is designed for individuals looking to connect with peers who share their research interests and goals in academic writing. By registering, users can join a network that fosters collaboration, accountability, and support throughout the writing process. We aim to ensure that the provided information is relevant and accurate. The following guide will walk you through the form's purpose, completion, and field explanations to ensure a smooth and effective registration process.</thinking>
-
 # Academic Writing Collaboration Network Registration - Help Guide
 ## Purpose
 The Academic Writing Collaboration Network Registration form is designed for academics and researchers to connect with peers who share their research interests and goals. By registering, you can join a network that provides a supportive environment for collaboration, accountability, and mutual growth throughout the writing process.

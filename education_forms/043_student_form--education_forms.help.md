@@ -1,6 +1,3 @@
-<thinking>
-I need to create a user-facing help guide for a student form with the following schema. This form is designed to collect information from students, presumably for administrative or academic purposes. To ensure relevance and non-duplication, I will focus on explaining the fields that are explicitly marked as "required" or have a specific type that indicates a need for clarification. The fields include "name", "surname", "date_of_birth", "email", "phone", and "student_id". I will also provide explanations for the optional fields "student_form", "address" in case they might be useful for the users.</thinking>
-
 # Student Form - Help Guide
 ## Purpose
 The Student Form is a collection of fields used to gather information from students. This form is designed to provide the necessary details to identify and contact students.

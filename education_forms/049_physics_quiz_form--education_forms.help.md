@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to collect information about physics-related knowledge from end-users. The purpose of the form is to gauge the user's understanding of various physics concepts. The form has multiple fields that cater to different aspects of physics, including the understanding of mass, energy, velocity, and more.
-
-This form is not a critical path in the system, meaning that its completion is not mandatory for the end-users to complete their tasks or access their features. Therefore, the form is optional and intended for users to test their knowledge in a relaxed environment. The form's questions are designed to be engaging, informative, and challenging, making it an effective assessment tool.
-
-The form's structure consists of six fields: "start_form", "what_is_physics", "what_is_a_mole", "what_is_einstein", "calculate_result", and "result". Each field is designed to elicit a specific response from the user, making the form a comprehensive tool for evaluating their physics knowledge.
-
-</thinking>
-
 # physics_quiz_form - Help Guide
 ## Purpose
 This form is designed to test your knowledge of physics-related concepts. It has six fields that cater to different aspects of physics.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Pioneer Station" is designed to collect user information in a straightforward manner. It's likely intended for data collection purposes and does not seem to have any specific business logic behind it. The form consists of 4 fields: 3 text fields and 1 select_one field with two options. It appears to be a simple data collection tool.
-</thinking>
-
 # Pioneer Station - Help Guide
 ## Purpose
 The Pioneer Station form is designed to collect user information in a simple text-based format.

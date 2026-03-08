@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Partner Visa Sponsor Statutory Declaration Form - Help Guide
 
 ## Purpose

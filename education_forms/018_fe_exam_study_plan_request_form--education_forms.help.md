@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from students who are requesting a study plan for the FE (Fundamentals of Engineering) exam. The FE exam is a critical component of the Professional Engineer (PE) licensing process, and it's essential to ensure that students are adequately prepared to pass the exam. By providing a study plan request form, we can gather relevant details about the student's needs, preferences, and goals, ultimately helping them create a tailored study plan that suits their individual requirements.
-
-To prevent duplication of effort, this form should only be filled out by students who are genuinely interested in requesting a study plan. We encourage students to be honest and transparent in their submission to ensure that the requested resources are allocated efficiently.
-</thinking>
-
 # FE Exam Study Plan Request Form - Help Guide
 ## Purpose
 This form is designed to help students create a personalized study plan for the FE exam. It gathers information about the student's preferences, needs, and goals to provide a tailored plan that suits their individual requirements.

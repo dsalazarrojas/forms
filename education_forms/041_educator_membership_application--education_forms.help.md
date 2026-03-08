@@ -1,12 +1,3 @@
-<thinking>Before creating this help guide, I will consider the following:
-
-* The form is called "Educator Membership Application" and is likely used for educators or educational institutions to apply for a membership.
-* The form has several sections and fields for user information, contact information, membership information, and more.
-* The form fields are a mix of text fields for user input, select_one and select_multiple fields for categorization, and email fields for email addresses.
-* The form does not have any specific validation rules or conditional logic, making it a general guide that explains each field's purpose and usage.
-
-</thinking>
-
 # Educator Membership Application - Help Guide
 ## Purpose
 The Educator Membership Application form is designed for educators or educational institutions to apply for a membership with our organization. This form helps us understand your qualifications, background, and requirements to process your membership application.

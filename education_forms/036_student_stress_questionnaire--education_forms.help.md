@@ -1,10 +1,3 @@
-<thinking>
-The form "Student Stress Questionnaire" is designed to gather information from students to understand their stress levels, sources of stress, and support systems in place. The form is likely to be used in educational settings to assess student well-being and identify areas where support can be provided.
-
-To ensure that the form is used correctly, it's essential to review its purpose and relevance to the target audience. This form should not be used to collect sensitive or personal data without proper consent and authorization.
-
-Before sharing this form with students, please review the data collection and storage policies to ensure they align with your institution's guidelines. If you're unsure, it's always best to consult with your institution's data protection officer or a relevant authority.</thinking>
-
 # Student Stress Questionnaire - Help Guide
 ## Purpose
 The Student Stress Questionnaire is designed to gather information from students to understand their stress levels, sources of stress, and support systems in place.

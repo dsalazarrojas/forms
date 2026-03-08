@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be designed for dental clinics or healthcare providers to collect patient information. The form's purpose is likely to gather medical history, dental history, and other relevant information from patients before conducting examinations or treatments. To ensure that the form is being used correctly, it is essential to check that the form is not being used for any other purpose, such as for marketing or sales.
-
-To confirm relevance, the form's categories (e.g., medical history, dental history) suggest that it is meant for healthcare professionals to gather information for medical or dental treatment. This form does not contain fields that would be typical for marketing or sales forms, such as demographic information or product/service inquiries. 
-
-To ensure non-duplication, the form appears to be focused on one specific topic: dental and medical history of the patient. There is no indication that the same data is being collected multiple times, which would be the case if the form were a template for a survey platform. 
-
-Given this, it is likely that the form was designed to be used for a specific purpose: providing dental and medical history for patient treatment. 
-</thinking>
-
 # dental_history - Help Guide
 ## Purpose
 This form is designed to gather dental and medical history from patients, providing healthcare professionals with the necessary information for examination and treatment.

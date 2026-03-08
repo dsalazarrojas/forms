@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's understanding of wave phenomena, covering various aspects such as wave types, speeds, frequencies, and real-life examples. 
-The form appears to be designed to gather information about the user's knowledge and experiences with different types of waves, including wave characteristics, and their relation to real-life situations. 
-This form is intended for educational purposes, likely for students or researchers in the field of physics or related fields, to evaluate their understanding of wave concepts. 
-However, I do not have any information about the user's current level of knowledge or if they have previously completed similar forms, so I assume the form is for first-time users. 
-Please note that the form has a mix of required and optional questions, and some fields are specifically designed to collect contact information of students and teachers, which implies that the form may be used for administrative purposes as well.
-</thinking>
-
 # Wave Phenomena Assessment - Help Guide
 ## Purpose
 The Wave Phenomena Assessment form is designed to evaluate your understanding of wave concepts, including wave types, speeds, frequencies, and real-life examples.

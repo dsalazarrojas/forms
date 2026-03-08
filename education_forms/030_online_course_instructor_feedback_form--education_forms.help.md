@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to allow students to provide feedback to the course instructors on the quality and effectiveness of the online courses they have taken. This feedback can be used by the instructors to improve their teaching skills and by the educational institution to evaluate the courses.
-This form is intended to be filled out by students, and not by course instructors. The form is meant to capture the students' perspectives and experiences with the courses.
-Please note that the form is a one-time feedback opportunity, and students are not expected to fill it out repeatedly.
-</thinking>
-
 # Online Course Instructor Feedback Form - Help Guide
 ## Purpose
 The Online Course Instructor Feedback Form is designed to gather students' feedback on the quality and effectiveness of the online courses. This feedback is essential in helping course instructors improve their teaching skills and for the educational institution to evaluate the courses.

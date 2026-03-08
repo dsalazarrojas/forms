@@ -1,37 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a student's graduation, including personal details such as name, email, contact number, and parent's email. It also collects information about the student's graduation, such as graduation year, degree awarded, school name, school URL, graduation date, ceremony participation, graduation time, and graduation day. Additionally, it includes fields for submission status, form submitter, submission date, notes, graduation ceremony details, and graduation ceremony attendees. This form is likely used for administrative or academic purposes to track student graduation information. 
-
-Before starting, verify that this form is not a duplicate and the user is the intended recipient. Make sure to review the form fields carefully and provide accurate information to ensure accuracy. 
-
-The form is designed to be completed by students or school administrators to provide accurate and up-to-date information about a student's graduation. 
-
-The following is the help guide for this form. 
-
-# Graduation Information Collection - Help Guide
-## Purpose
-This form is used to collect information about a student's graduation, including personal details and graduation-related information. 
-
-## How To Complete This Form
-To complete this form, follow these steps: 
-1. Fill in your student's name in the "Student Name" field. 
-2. Enter your student's email in the "Student Email" field. 
-3. Provide your student's contact number in the "Student Contact Number" field. 
-4. Enter your parent's email in the "Parent Email" field. 
-5. Input the graduation year in the "Graduation Year" field. 
-6. Select the degree awarded in the "Degree Awarded" field. 
-7. Enter the school name in the "School Name" field. 
-8. (Optional) If applicable, provide the school URL in the "School URL" field. 
-9. Select the graduation date in the "Graduation Date" field. 
-10. Choose whether the student will participate in the graduation ceremony in the "Ceremony Participation" field. 
-11. Enter the graduation time in the "Graduation Time" field. 
-12. Select the submission status in the "Submission Status" field. 
-13. Fill in the name of the person submitting the form in the "Form Submitter" field. 
-14. Input the submission date in the "Submission Date" field. 
-15. (Optional) Add any additional notes about the graduation ceremony in the "Notes" field. 
-16. Provide details about the graduation ceremony in the "Graduation Ceremony Details" field. 
-17. List the attendees of the graduation ceremony in the "Graduation Ceremony Attendees" field. 
-</thinking>
-
 # Graduation Information Collection - Help Guide
 ## Purpose
 This form is used to collect information about a student's graduation, including personal details and graduation-related information. 

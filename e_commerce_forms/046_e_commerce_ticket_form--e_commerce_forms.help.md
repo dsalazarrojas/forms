@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # e_commerce_ticket_form - Help Guide
 ## Purpose
 The e_commerce_ticket_form is designed to collect information about an order from an e-commerce platform. This form will help us process and resolve any issues related to orders in a quick and efficient manner.

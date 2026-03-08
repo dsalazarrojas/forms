@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for drivers to check in and report their status on a specific route. It is assumed that the driver will be interacting with a fleet management system, and this form is intended to be a user-friendly way to provide information about their current status and location. The form fields are minimal and focused on essential information that allows for easy tracking and monitoring. 
-
-This form will likely be filled out by drivers on their mobile devices or other web-enabled platforms, hence, it is crucial to provide clear and concise instructions for its use. This way, drivers will know exactly what they need to fill out and submit the form correctly. 
-
-This form should not be a substitute for other check-in systems, but rather a supplementary method to ensure accurate and up-to-date data for operations management.
-</thinking>
-
 # Driver Route Check In Form - Help Guide
 ## Purpose
 The Driver Route Check In Form is designed to be a quick and easy way for drivers to report their status on a specific route. This form will help drivers to keep the fleet management system updated with their current location and status.

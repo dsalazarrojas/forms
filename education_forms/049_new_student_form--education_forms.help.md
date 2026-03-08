@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new students who are enrolling in an educational institution. The purpose of this form is to ensure that all required information is accurately captured and to facilitate the registration process. Please use this guide to ensure that you complete the form correctly and efficiently.
-
-</thinking>
-
 # New Student Form - Help Guide
 
 ## Purpose

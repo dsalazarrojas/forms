@@ -1,20 +1,3 @@
-<thinking>
-
-To ensure that users understand the purpose of the form and avoid duplication, let's quickly go over the form's design and functionality. 
-
-The form is designed to collect data on the condition and status of a vehicle (specifically, a bus) after an inspection. The form consists of sections for inspection details, vehicle information, and a detailed evaluation of the bus's condition. 
-
-Upon reviewing the form's fields, it seems that the form is intended to assess the bus's:
-
-*   Exterior condition
-*   Interior condition
-*   Safety equipment and systems
-*   Mechanical condition
-
-The form's fields seem to cover the necessary aspects of a bus inspection, but it's always a good idea to double-check and make sure that the form's purpose and functionality align with the actual requirements and needs of the users.
-
-</thinking>
-
 # Bus Inspection Form - Help Guide
 ## Purpose
 The Bus Inspection Form is designed to collect data on the condition and status of a vehicle (specifically, a bus) after an inspection.

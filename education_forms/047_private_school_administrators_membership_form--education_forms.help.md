@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for private school administrators to provide their information and details for membership in a professional network or community. The purpose of this form is to collect data about the school administrators, including their contact information, school details, and membership preferences. This form is designed to be completed by private school administrators who want to join the network or community, and it will help them provide their information in a structured and organized way.
-
-To check for relevance and non-duplication, we need to ensure that the form is only completed by authorized and eligible private school administrators. This form will help us verify their membership status and provide them with access to exclusive content and resources.
-
-</thinking>
-
 # Private School Administrators Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from private school administrators who want to join the network or community. It will help us verify their membership status and provide them with access to exclusive content and resources.

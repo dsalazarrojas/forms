@@ -1,16 +1,3 @@
-<thinking> 
-This guide is designed to be a comprehensive resource for users to understand how to complete the "Music And Play Knowledge Quiz" form. The form is intended to collect information about users' musical preferences and habits. This guide will walk users through each step of the form, providing explanations for each field to ensure they understand the purpose and requirements of each question. 
-
-Before starting the guide, please note that the form is divided into two sections: "How often do you listen to music?" and "Music preferences". 
-
-The guide will cover the following topics:
-- Purpose of the form
-- How to complete the form
-- Field-by-Field Explanation
-- Tips
-
-</thinking>
-
 # Music And Play Knowledge Quiz - Help Guide
 ## Purpose
 This form, "Music And Play Knowledge Quiz", is designed to collect information about users' musical preferences and habits, including how often they listen to music, their favorite musicians, instruments, music genres, and more. 

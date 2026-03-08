@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess an individual's understanding of rates, specifically their ability to identify and calculate rates from different units of measurement. The form consists of a series of questions that aim to gauge the user's understanding of rates, their calculation, and their application in real-world scenarios. This form should be filled out by users who have a basic understanding of rates and their calculations.
-
-This form is part of the "education_forms" category, which likely pertains to educational or training contexts. The "rates_understanding_quiz" form is designed to be a self-assessment tool for users to evaluate their knowledge of rates.
-
-Before filling out the form, make sure to review the form carefully and answer each question based on your understanding of rates. If you're unsure about any question, try to recall your knowledge from previous experiences or training materials.
-</thinking>
-
 # rates_understanding_quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your understanding of rates and their calculations.

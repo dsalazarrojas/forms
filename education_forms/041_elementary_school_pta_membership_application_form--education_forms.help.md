@@ -1,7 +1,3 @@
-<thinking>
-This form is for elementary school PTA (Parent-Teacher Association) membership application. It's essential to ensure the accuracy and completeness of the data provided. Before filling out this form, please review the fields carefully and answer all required questions truthfully. If you're unsure about any field, please contact the relevant authority for clarification.
-</thinking>
-
 # elementary_school_pta_membership_application_form - Help Guide
 ## Purpose
 This form is for students and parents to apply for membership in the Elementary School PTA. It collects essential information for the association's records and communication purposes.

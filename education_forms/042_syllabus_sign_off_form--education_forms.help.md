@@ -1,6 +1,3 @@
-<thinking>
-This form is used for signing off a course by a student. It captures details of the course such as course name, instructor, dates, and times. It also captures comments from student and instructor. This form is useful for recording course attendance and ensuring that students have properly attended a course. It may also be used to request a course signature from the student or instructor.
-</thinking>
 # Syllabus Sign Off Form - Help Guide
 ## Purpose
 The Syllabus Sign Off Form is a document used for recording course attendance and obtaining signatures from students and instructors.

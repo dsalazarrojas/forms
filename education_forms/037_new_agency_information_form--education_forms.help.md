@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a new agency that will be integrated into the system. The purpose is to gather details such as the agency's name, address, phone number, email, website, social media handles, description, and contact person. Before filling out this form, please ensure that you are authorized to represent the agency and that the agency has not already been registered in the system. Duplicate registrations will not be allowed.
-</thinking>
-
 # New Agency Information Form - Help Guide
 ## Purpose
 This form is designed to provide a structured way to collect and store essential information about a new agency. The information collected will be used for various purposes within the system.

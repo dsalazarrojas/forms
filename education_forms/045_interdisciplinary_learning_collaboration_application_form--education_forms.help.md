@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interdisciplinary Learning Collaboration Application Form - Help Guide
 ## Purpose
 This form is designed to facilitate the submission of applications for interdisciplinary learning collaborations. It gathers relevant information about the collaboration, project lead, collaboration type, budget, submission date, review status, review comments, approval decision, and approval comments. The form is intended for individuals who wish to collaborate on a specific project.

@@ -1,9 +1,3 @@
-<thinking>
-This form is being created for a specific purpose: to gather feedback from students on their experience with a plant cell experiment. The feedback form is designed to be completed by students, and its purpose is to help educators understand student perceptions and outcomes of the experiment. This form will help to identify areas of improvement for the experiment and provide valuable insights for future refinements. It is not intended for any other purpose. This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata. It is released under CC BY 4.0, allowing for free use, modification, and even commercial sale with proper credit.
-
-Before proceeding, please ensure this form is relevant to your specific use case. If you have already created a similar form or have a specific form in mind, consider using that instead to avoid duplication.
-</thinking>
-
 # Plant Cell Experiment Feedback - Help Guide
 ## Purpose
 The Plant Cell Experiment Feedback form is designed to gather students' opinions and experiences with a plant cell experiment, helping educators understand how to improve and refine the experiment for future use.

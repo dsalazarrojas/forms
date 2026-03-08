@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lecture Broadcast Consent Form - Help Guide
 ## Purpose
 The Lecture Broadcast Consent Form is used to collect consent from participants for the recording and sharing of their lectures. It ensures that participants understand the terms and conditions of their participation and consent to the recording and sharing of their lectures. This form is an essential part of the educational process, allowing participants to make informed decisions about their participation.

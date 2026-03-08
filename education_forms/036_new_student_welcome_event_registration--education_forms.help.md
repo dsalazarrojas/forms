@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate or unnecessary registrations, we will be checking the email and student ID provided by the user against our internal database. This ensures that each student only registers for the welcome event once. We also verify the school ID and student status to ensure accuracy and consistency in our records. Please provide accurate and up-to-date information to ensure smooth registration and minimize errors.
-</thinking>
-
 # New Student Welcome Event Registration - Help Guide
 ## Purpose
 This form is designed to register students for the New Student Welcome Event. It collects essential information from students to facilitate a smooth and enjoyable experience during the event.

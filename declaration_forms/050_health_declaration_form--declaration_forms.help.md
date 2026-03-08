@@ -1,7 +1,3 @@
-<thinking>
-This form is a Health Declaration Form designed to collect information about an individual's health status. The form is meant to be completed by individuals seeking medical attention or those who require a medical check-up. The form is divided into several sections, each focusing on a specific aspect of the individual's health. This form will help to identify the purpose of the form and avoid duplication in the medical records. It's essential to provide accurate and truthful information to ensure proper medical care and diagnosis.
-</thinking>
-
 # Health Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your health status, medical history, and contact details. It's crucial to complete this form accurately and truthfully to ensure you receive proper medical care and diagnosis.

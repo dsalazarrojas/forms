@@ -1,4 +1,3 @@
-<thinking>...The Payment Declaration Form is a critical tool used for declaring payments and transactions. It serves as a comprehensive record-keeping mechanism for tracking payments, providing a clear overview of financial transactions. This form is intended for users who are authorized to perform transactions and payments within their organization, ensuring accuracy and transparency in financial data. By using this form, users can accurately document payment methods, amounts, and status, making it easier to keep track of financial history. To avoid errors, fill out this form accurately and completely. Ensure you're authorized to access and complete this form...</thinking>
 # Payment Declaration Form - Help Guide
 ## Purpose
 The Payment Declaration Form is a tool used for declaring payments and transactions. It serves as a record-keeping mechanism for tracking financial transactions, providing a clear overview of payments made and received.

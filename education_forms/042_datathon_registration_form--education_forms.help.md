@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that is concrete, concise, and practical for the "Datathon Registration Form".</thinking>
-
 # Datathon Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants, teams, and teams' representatives for the Datathom event. It helps us to gather essential details for event organization and coordination.

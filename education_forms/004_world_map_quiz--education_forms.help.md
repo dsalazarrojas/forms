@@ -1,13 +1,3 @@
-<thinking>
-
-The form "World Map Quiz" is intended to be a comprehensive assessment tool to gauge users' knowledge of geographical locations. It is used to create interactive maps with various types of questions, such as multiple choice, drag-and-drop, and date entry, to test users' ability to identify places, dates, and concepts related to the world map. Each field in this form is designed to cater to different aspects of geographic knowledge, from basic country recognition to more complex tasks like placing cities on a map or identifying dates of historical events.
-
-The purpose of this form is to provide a fun and engaging way to learn about geographical locations and events, while also allowing users to evaluate their own knowledge and potentially identify areas for improvement.
-
-This form is not designed to be a comprehensive exam or a serious assessment tool, but rather a tool for users to explore and learn about the world map in a relaxed and interactive manner.
-
-</thinking>
-
 # World Map Quiz - Help Guide
 ## Purpose
 The World Map Quiz is an interactive tool designed to test and assess your knowledge of geographical locations, dates, and concepts related to the world map. It is meant to be a fun and engaging way to learn about the world, rather than a comprehensive exam or serious assessment tool.

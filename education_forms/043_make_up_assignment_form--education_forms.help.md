@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students about a "Make Up" assignment, which is an educational activity that allows students to create and submit their own assignments. This form is designed to gather details about the student's name, the date they completed the assignment, the reason for their absence (if any), and the date they submitted the assignment.
-</thinking>
-
 # Make Up Assignment Form - Help Guide
 ## Purpose
 The "Make Up Assignment Form" is a tool used to collect information from students about their created assignments. 

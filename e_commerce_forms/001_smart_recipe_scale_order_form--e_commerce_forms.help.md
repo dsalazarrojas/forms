@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide their contact information, shipping details, and payment information for a smart recipe scale order.
-</thinking>
-
 # smart_recipe_scale_order_form - Help Guide
 ## Purpose
 This form is intended for customers to enter their contact and order details when placing an order for a smart recipe scale.

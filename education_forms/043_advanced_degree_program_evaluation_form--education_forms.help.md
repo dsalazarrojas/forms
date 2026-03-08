@@ -1,9 +1,3 @@
-<thinking>
-The Advanced Degree Program Evaluation Form is a tool used to evaluate the quality and effectiveness of advanced degree programs, such as Master's or Ph.D. programs, offered by educational institutions. This form helps students and program administrators assess various aspects of the program, including academic rigor, faculty support, resources and facilities, and overall satisfaction. The form ensures that the program meets the required standards and provides valuable feedback for improvement. 
-
-Please note that this form should only be used by authorized personnel, and the information collected will be treated as confidential. If you are not authorized to use this form, please do not access it. Additionally, if you have already filled out this form in the past, please do not fill it out again, as duplicate submissions can cause confusion and affect the accuracy of the evaluation process.
-</thinking>
-
 # Advanced Degree Program Evaluation Form - Help Guide
 
 ## Purpose

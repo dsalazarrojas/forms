@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # state_of_the_region_museums_survey_2013 - Help Guide
 ## Purpose
 The state_of_the_region_museums_survey_2013 form is designed to collect feedback and information from visitors to our museum. The purpose of this form is to gather insights on how we can improve our museum's facilities, exhibits, and services. Your input will help us understand what you value and what you expect from our museum.

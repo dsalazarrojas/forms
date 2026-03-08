@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donation information from individuals or organizations who want to support the Community Center. The form will be used to process one-time and recurring donations for various purposes such as general support, youth programs, facility improvements, scholarships, and other programs. The form also allows donors to choose their preferred payment method and whether or not to remain anonymous. 
-</thinking>
-
 # Community Center Donation Form - Help Guide
 
 ## Purpose

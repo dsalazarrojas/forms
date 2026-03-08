@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donation information from users to support local charities. The form is designed to be completed by individuals who wish to make a one-time or recurring donation to a local charity. It captures essential details such as user's name and email address, donation amount, frequency of donation (one-time or recurring), payment gateway preference, and additional information about the charity (name, address, phone number). The form also includes space for users to provide any additional comments or messages if needed. The form's purpose is to streamline and facilitate the donation process, ensuring that donations are directed to the correct charity and the donor's details are accurately recorded.
-</thinking>
-
 # Micro Donation Form For Local Charities - Help Guide
 ## Purpose
 This form is designed to collect donation information from users to support local charities.

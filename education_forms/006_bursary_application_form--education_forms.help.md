@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bursary Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose, non-duplication, and relevance...</thinking>
-
 Form Purpose:
 The "Honor Roll Graduation Recognition Form" is intended to recognize students' academic achievements and milestones in their educational journey. This form allows schools to acknowledge students' hard work and dedication by providing a formal platform to commemorate their academic progress, achievements, and successes. It is used to provide a record of student recognition and to facilitate the awarding of academic achievements.
 

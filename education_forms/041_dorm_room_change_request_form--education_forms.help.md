@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dorm Room Change Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are requesting to change their dorm room. The form asks for various details such as the student's personal information, reasons for the request, and other relevant details to ensure the room change process is smooth and efficient. 

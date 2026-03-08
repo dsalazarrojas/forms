@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Technology Product Demo Consent Form - Help Guide
 ## Purpose
 The "Education Technology Product Demo Consent Form" is used to collect information from participants and school administrators about the demo details, participant information, and demo preferences. This form is a crucial tool for facilitating effective product demos and ensuring that both the school administrators and Edtech providers are informed and aligned with the demo's requirements.

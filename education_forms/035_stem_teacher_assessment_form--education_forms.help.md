@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for teachers to assess their students' performance, progress, and other relevant factors. The purpose of this form is to gather data on student and teacher performance, which can be used for evaluation, reporting, and decision-making. Before proceeding, ensure that you have the necessary authority to access and input this form's data, and that you are aware of your institution's policies and guidelines regarding student and teacher performance assessment.
-</thinking>
-
 # Stem Teacher Assessment Form - Help Guide
 ## Purpose
 The Stem Teacher Assessment Form is designed to gather data on student and teacher performance, progress, and other relevant factors to inform evaluation, reporting, and decision-making.

@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a questionnaire designed to gather information about students' housing and accommodation status. It seems to have multiple sections, likely indicating that students can provide information about different types of accommodations they are currently using or planning to use. This form likely aims to collect data about the types of accommodations, addresses, phone numbers, email addresses, and notes associated with each accommodation. Before proceeding, it's essential to check if this form is not already created in your system and if it's not intended to be used for other purposes, as having multiple identical forms can cause confusion and duplication of data.
-</thinking>
-
 # university_housing_and_accommodation_questionnaire_form - Help Guide
 
 ## Purpose

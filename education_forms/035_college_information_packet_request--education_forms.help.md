@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from prospective students about their interests, academic goals, and contact information. This data will be used to provide tailored information and guidance to help them make informed decisions about their college choices. 
-We use this form to ensure that we are in contact with the correct person and that we provide the most relevant information for their specific needs. This form is also used to help us understand the student's preferences for visiting the campus and receiving financial aid information. It will help us tailor our outreach to best support their interests and goals.
-Please note that this form will not be used for any other purpose other than to provide information and support to the student. We will not share or sell this information to any other organization without the student's consent.
-</thinking>
-
 # College Information Packet Request - Help Guide
 ## Purpose
 This form is for prospective students who are interested in learning more about our college and its offerings. By filling out this form, you will help us understand your needs and provide you with the most relevant information and support.

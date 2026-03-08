@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about Amazon PPC campaigns, specifically to provide a comprehensive overview of a campaign's objectives, budget, and other relevant details. The goal is to ensure that all necessary information is collected to effectively manage and optimize these campaigns. This form will be used by the marketing team to get a clear understanding of each campaign, and ensure that all necessary stakeholders are informed and involved in the campaign's progress.
-
-The form is composed of several sections, each with a specific purpose.
-
-</thinking>
-
 # Amazon PPC Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about Amazon PPC campaigns, providing a clear overview of a campaign's objectives, budget, and other relevant details.

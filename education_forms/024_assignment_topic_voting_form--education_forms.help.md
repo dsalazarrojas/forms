@@ -1,5 +1,3 @@
-<thinking>Form design involves a delicate balance between usability, aesthetics, and data collection needs. In designing the "Assignment Topic Voting Form" form, I aimed to create an intuitive layout with minimal cognitive load, ensuring users understand their task. The form's main purpose is to gather students' preferences for course assignments, capturing their interest levels in various topics and collecting additional information for context.</thinking>
-
 # Assignment Topic Voting Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...We need to make sure that we are not duplicating efforts. This form is used to collect information for scholarship purposes. It's crucial to ensure that all required fields are filled out correctly...</thinking>
-
 # Scholarship Interview Form - Help Guide
 ## Purpose
 The Scholarship Interview Form is a tool to collect information for scholarship purposes. It is used to gather data about the scholarship interview process.

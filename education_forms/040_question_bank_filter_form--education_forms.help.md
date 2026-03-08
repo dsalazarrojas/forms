@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a way for users to filter and search through the question bank to find specific questions based on various criteria. This form will allow users to select a subject area, grade level, type of question, question type, question bank ID, and other specific criteria to narrow down their search results. It's essential to use this form to ensure that the questions that are presented to students are relevant and applicable to their specific needs.
-</thinking>
-
 # Question Bank Filter Form - Help Guide
 ## Purpose
 The Question Bank Filter Form is a tool used to filter and search through the question bank to find specific questions based on various criteria.

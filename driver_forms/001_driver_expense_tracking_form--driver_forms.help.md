@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from drivers to track their expenses related to their trips. It captures details about mileage, fuel costs, tolls, parking, food, lodging, and other expenses for a trip. The form should be used to provide a detailed report for managers and accountants to review and verify the expenses for reimbursement. 
-
-</thinking>
-
 # Driver Expense Tracking Form - Help Guide
 ## Purpose
 The Driver Expense Tracking Form is designed to collect detailed information about a driver's expenses related to their trips. This includes mileage, fuel costs, and other expenses for the trip.

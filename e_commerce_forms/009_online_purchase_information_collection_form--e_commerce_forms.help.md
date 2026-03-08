@@ -1,8 +1,3 @@
-<thinking>
-To create an online purchase information collection form, I will first check if we already have the required information for the customer to purchase online. This form should only be filled if we do not have all the necessary information in our records. If we do, it's possible that there's some sort of duplicate request or unnecessary redundancy and we can close the ticket right away. 
-If this form is still needed, this guide will provide step by step instructions on how to properly fill it out and what each field means.
-</thinking>
-
 # online_purchase_information_collection_form - Help Guide
 ## Purpose
 This form is for collecting additional information required to fulfill an online purchase. Fill this form only if we don't have all the necessary information in our records for the customer.

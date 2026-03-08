@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emmaus_bible_college_youth_ministry_internship_application - Help Guide
 
 ## Purpose

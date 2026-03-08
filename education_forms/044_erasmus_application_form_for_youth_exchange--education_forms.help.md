@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Erasmus+   Application Form For Youth Exchange - Help Guide
 
 ### Purpose

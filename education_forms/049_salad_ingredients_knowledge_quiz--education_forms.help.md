@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assess users' knowledge about salad ingredients, specifically their preferences and experiences related to salads. This form is designed to gather information to improve the salad industry's understanding of consumer behavior and preferences.
-The form will ask users about their favorite salad ingredients, how they like to have their salads, their preferred salad dressings, what they learn from this quiz, and other questions that will help us better understand their preferences and habits.
-Please note that this form is not intended to be a comprehensive assessment tool, but rather a fun and engaging way to gather data and insights about salad consumers.
-</thinking>
-
 # Salad Ingredients Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess users' knowledge about salad ingredients, specifically their preferences and experiences related to salads.

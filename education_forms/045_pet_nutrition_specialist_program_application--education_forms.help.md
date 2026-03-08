@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial part of the Pet Nutrition Specialist Program Application process. It is designed to collect information from potential candidates who want to become certified Pet Nutrition Specialists. The form will be used to assess their eligibility, motivation, and other relevant details. Before proceeding, please ensure you are eligible to apply and haven't previously submitted your application. This will help us process your application more efficiently.
-</thinking>
-
 # Pet Nutrition Specialist Program Application - Help Guide
 
 ## Purpose

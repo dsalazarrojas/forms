@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students who want to sign up for online piano lessons. The form asks for student information, lesson schedule preferences, start and end dates, lesson duration and frequency, instrument type, and contact details. The form is designed to help instructors understand the student's preferences and schedule, so they can tailor the lessons to meet the student's needs. Please ensure you fill in the form accurately and thoroughly to avoid delays or missed lessons.
-</thinking>
-
 # Online Piano Lesson Sign Up Form - Help Guide
 ## Purpose
 This form is for students who want to sign up for online piano lessons. It helps instructors plan and schedule lessons that fit your needs and preferences.

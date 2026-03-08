@@ -1,7 +1,3 @@
-<thinking>
-This is the form's purpose: the Nursing Program Declaration Form is a document that captures the details of an applicant's nursing program preferences. The form helps the applicant to declare their intent to enroll in a nursing program, allowing them to provide information about their program choice, training provider, and contact details. This information is likely used internally for administrative purposes and to keep track of applicant interest. To ensure data accuracy and prevent duplicate submissions, it's essential to fill out the form correctly. Please review the fields carefully before proceeding.
-</thinking>
-
 # Nursing Program Declaration Form - Help Guide
 ## Purpose
 The Nursing Program Declaration Form is a document that captures the details of an applicant's nursing program preferences. The form helps the applicant to declare their intent to enroll in a nursing program, allowing them to provide information about their program choice, training provider, and contact details.

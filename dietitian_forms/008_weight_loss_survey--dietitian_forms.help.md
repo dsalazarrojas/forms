@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their current weight, height, weight loss goals, age, dietary background, physical activity level, sleep duration, food intake habits, exercise frequency, and weight loss methods. It's essential to complete this form accurately to provide valuable insights for weight loss surveys.
-
-To ensure the data collected is reliable and relevant, please fill out the form carefully. If you've already completed a similar survey recently, please review the questions carefully to avoid duplication and provide new or updated information.
-
-</thinking>
-
 # Weight Loss Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their weight loss goals, habits, and preferences.

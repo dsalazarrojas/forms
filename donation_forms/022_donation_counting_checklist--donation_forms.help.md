@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block explaining the form purpose and checks for relevance and non-duplication...</thinking>
-
 # Donation Counting Checklist - Help Guide
 
 ## Purpose

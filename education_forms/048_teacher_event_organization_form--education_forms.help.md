@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a teacher's event or meeting. 
-It appears to be used for internal organization and tracking purposes. 
-Before completing this form, ensure that you're not already tracking this event elsewhere in your system.
-Please note that some fields may have optional or required status, but all fields are likely intended to be filled out by the teacher.
-</thinking>
-
 # Teacher Event Organization Form - Help Guide
 
 ## Purpose

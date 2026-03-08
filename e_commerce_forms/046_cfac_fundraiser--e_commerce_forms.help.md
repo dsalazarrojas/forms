@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CFAC Fundraiser - Help Guide
 
 ## Purpose

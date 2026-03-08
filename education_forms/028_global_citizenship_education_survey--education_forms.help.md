@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather input from users regarding their level of familiarity and opinions on global citizenship education. The form aims to collect feedback on the current state of global citizenship education and suggestions for improvement. This information will be used to identify areas of improvement and inform program development. To ensure accuracy, users should only fill out this form once.
-
-</thinking>
-
 # Global Citizenship Education Survey - Help Guide
 ## Purpose
 This form gathers input from users on their level of familiarity and opinions on global citizenship education.

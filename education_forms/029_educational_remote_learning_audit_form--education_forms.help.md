@@ -1,16 +1,3 @@
-<thinking>
-## Form Purpose and Relevance Check
-The "Educational Remote Learning Audit Form" is designed to collect data on the current state of remote learning initiatives in educational settings. This form is intended to be used by educators, administrators, or IT professionals to assess the effectiveness and challenges of remote learning platforms and tools.
-
-Before proceeding, please ensure that you are familiar with the context and goals of remote learning in your institution. This form is not a replacement for in-depth interviews or observations, but rather a supplementary tool to gather quantitative data for analysis.
-
-Please note that this form is a self-contained entity, and its purpose is to collect data on your experiences and perceptions. Do not respond to this form if you are simply trying to fulfill a requirement or obligation.
-
-If you have already responded to this or a similar form in the past, please be aware that your responses may be compared for consistency. This form is designed to collect data over time to track trends and changes in remote learning.
-
-If you have any questions or concerns about this form, please don't hesitate to reach out to us at form@gic.mx.
-</thinking>
-
 # Educational Remote Learning Audit Form - Help Guide
 ## Purpose
 This form is designed to collect data on the current state of remote learning in your educational institution. It aims to gather information on the effectiveness and challenges of remote learning platforms and tools used by educators, students, and administrators.

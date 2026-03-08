@@ -1,37 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fitness Center Member Discharge Feedback Form," we need to understand the purpose of the form and each field. The form is likely used by fitness center staff to collect feedback from members who are discharging their membership. The goal of the form is to gather information about the reason for cancellation, the member's experience, and any additional insights or comments they may have.
-
-Each field should be explained in a way that is concrete, concise, and practical. If a field label is unclear or open-ended, we should provide an explanation based on the field's purpose.
-
-To complete this form, the user should:
-
-1. Enter the Form Title (Page 1)
-	* This is the header of the form that will be used to title the feedback.
-2. Enter Member Name (Page 1)
-	* This is the name of the member who is discharging their membership.
-3. Enter Reason for Cancellation (Page 1)
-	* This is the primary reason why the member is discharging their membership.
-4. Provide Other Reason for Cancellation (Optional, Page 1)
-	* This field is optional and allows users to provide an additional reason for cancellation if the provided reason doesn't fit their situation.
-5. Choose Cancellation Date (Page 2)
-	* This is the date the member's membership will be cancelled.
-6. Enter Cancellation Reason (Page 2)
-	* This is a more detailed explanation of the reason for cancellation.
-7. Provide Cancellation Insights (Page 2)
-	* This field is for any additional information or feedback the member wants to share about their experience.
-8. Enter Gym Feedback (Page 2)
-	* This field is for comments about the fitness center's equipment, staff, or facilities.
-9. Enter Staff Feedback (Page 2)
-	* This field is for comments about the fitness center's staff.
-10. Enter Comments (Page 2)
-	* This field is for any additional comments or suggestions the member wants to share.
-11. Sign as Member (Page 3)
-	* This is the member's electronic signature to confirm they have completed the form.
-12. Sign as Staff (Page 3)
-	* This is the staff member's electronic signature to confirm they have received the feedback.
-
-</thinking>
-
 # Fitness Center Member Discharge Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from members who are discharging their membership from the fitness center. The form is completed by staff members to collect information about the reason for cancellation, the member's experience, and any additional insights or comments.

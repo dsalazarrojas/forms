@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather participant information for a global education exchange program, which may include student, teacher, or other categories of participants. The form is used to collect contact information, education level, field of study, language proficiency, and other relevant details about the participant. This form is likely used by administrators or program staff to manage participant data and facilitate communication. The form should not be used for duplicate registrations, and users should ensure that they are registering a new participant or updating an existing one.
-</thinking>
-
 # global_education_exchange_registration_form - Help Guide
 ## Purpose
 This form is used to collect information for a global education exchange program, including participant details, contact information, and other relevant data.

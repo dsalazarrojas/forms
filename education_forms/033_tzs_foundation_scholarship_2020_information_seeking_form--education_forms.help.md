@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from colleges seeking to partner with the T.Z.S. Foundation for the 2020 scholarship. The form's purpose is to gather details about colleges, including their contact person, email, phone number, and other relevant information. The form should only be completed by authorized representatives of colleges. If a college has already submitted a form, please do not submit again. Please fill out the form accurately and thoroughly, and ensure that all required fields are completed.</thinking>
-
 # TZS Foundation Scholarship 2020 Information Seeking Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from colleges that are interested in partnering with the T.Z.S. Foundation for the 2020 scholarship.

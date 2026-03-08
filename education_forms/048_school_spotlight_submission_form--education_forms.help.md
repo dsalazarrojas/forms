@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from schools about themselves, allowing users to submit a "School Spotlight" which can be showcased on a public-facing platform. The form aims to gather relevant details about a school's name, website, address, school type, story, achievements, media, email, phone, and categories of interest. To ensure accuracy and prevent duplication, this guide will help users complete the form correctly and consistently. Please review the form purpose and fields carefully before proceeding.
-
-</thinking>
-
 # School Spotlight Submission Form - Help Guide
 ## Purpose
 The School Spotlight Submission Form is used to collect information from schools about themselves. This form is intended to provide a platform for schools to showcase their unique features, achievements, and interests.

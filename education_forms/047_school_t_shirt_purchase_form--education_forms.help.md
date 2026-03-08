@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by school staff to record and process orders for school t-shirt purchases made by students. The form captures information on student sizes, t-shirt sizes, student fees, class affiliation, total fees, payment methods, and order dates. This form does not have any validation checks to ensure that the data is not duplicated or irrelevant. Therefore, the data entered in this form will be subject to verification and validation by the school staff before processing.
-</thinking>
-
 # School T Shirt Purchase Form - Help Guide
 ## Purpose
 This form is used to record and process orders for school t-shirt purchases made by students.

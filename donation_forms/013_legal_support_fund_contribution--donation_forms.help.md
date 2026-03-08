@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "legal_support_fund_contribution" form. The form is meant to gather donation details, name, contact number, email, amount, and description from users for the legal support fund. We should check if the form is being used for its intended purpose and not for duplicate or non-relevant submissions.
-</thinking>
-
 # legal_support_fund_contribution - Help Guide
 ## Purpose
 This form is designed to collect donations for the legal support fund. It is meant to gather relevant information from users to facilitate the processing and tracking of donations.

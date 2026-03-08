@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to obtain media release from parents or guardians for a student. The purpose of this form is to inform parents or guardians that their child's image, audio, or video may be used for educational purposes and to obtain their consent for this use. This form is typically used in educational institutions to ensure that parents or guardians are aware of the school's media release policy and provide consent for their child's image, audio, or video to be used in educational materials.
-This form is a required form and must be completed by all parents or guardians whose child's image, audio, or video will be used in educational materials.
-</thinking>
-
 # School Media Release Form - Help Guide
 
 ## Purpose

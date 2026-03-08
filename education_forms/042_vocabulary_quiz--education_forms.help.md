@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect and track student's vocabulary knowledge in an educational setting. It is designed to be used by educators, teachers, or administrators to gather information about student's vocabulary skills. The form includes fields for the student's first and last name, grade level, subject, vocabulary word, definition, correct answer, student's answer, score, result, date submitted, time submitted, submitter's contact information, and submitter's comments.
-The form aims to collect data on student's vocabulary knowledge, provide a way to track student's progress, and help administrators or educators to assess student's vocabulary level.
-This form is not intended to be used by students themselves, but rather by educators or administrators to collect and track data.
-</thinking>
-
 # Vocabulary Quiz - Help Guide
 ## Purpose
 The Vocabulary Quiz form is designed to help educators or administrators collect and track student's vocabulary knowledge.

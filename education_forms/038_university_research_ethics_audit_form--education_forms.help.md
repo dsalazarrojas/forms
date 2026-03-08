@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and verify the status of research studies being conducted at the university. This form is intended for internal use by the research ethics committee to monitor and oversee ongoing research projects. It is essential to complete this form accurately and thoroughly to ensure that all research studies meet the required standards and guidelines for ethics and safety.
-
-Before proceeding, please ensure that this form is not being used for duplicate or redundant research, and that all necessary information has been gathered and verified. The following guide will walk you through the form's purpose, completion, and each field's meaning and requirements.</thinking>
-
 # University Research Ethics Audit Form - Help Guide
 ## Purpose
 The University Research Ethics Audit Form is a crucial tool used by the research ethics committee to track and evaluate ongoing research projects within the university. Its purpose is to ensure that all studies adhere to the established guidelines and standards for ethics and safety.

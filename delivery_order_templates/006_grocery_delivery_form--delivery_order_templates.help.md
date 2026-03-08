@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information for a grocery delivery service. The form is designed to collect data from customers for successful order fulfillment, including customer details, payment information, and delivery preferences. To ensure accurate and efficient processing of the delivery order, please make sure to fill out the form completely and correctly.
-</thinking>
-
 # Grocery Delivery Form - Help Guide
 ## Purpose
 The Grocery Delivery Form is used to collect information from customers for a smooth and successful grocery delivery experience.

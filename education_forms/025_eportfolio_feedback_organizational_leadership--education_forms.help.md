@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help users provide feedback on an eportfolio, focusing on organizational leadership skills. The form is meant to assess a user's self-evaluation and reflection on their leadership skills, as well as gather feedback from others on their performance. 
-
-It is likely a part of an eportfolio evaluation process, where the user's self-assessment and feedback from others will be used to identify areas of strength and areas for improvement in leadership skills. 
-
-To avoid duplication, please ensure you have not completed this form before, as some questions are duplicates of previously answered questions.
-
-Please note that this form has many fields, but most of them are optional. 
-
-</thinking>
-
 # Eportfolio Feedback Organizational Leadership - Help Guide
 ## Purpose
 The Eportfolio Feedback Organizational Leadership form is designed to help you evaluate and improve your leadership skills through eportfolio feedback. It consists of multiple sections, including self-assessment questions and feedback questions from others.

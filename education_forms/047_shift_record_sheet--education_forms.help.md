@@ -1,5 +1,3 @@
-<thinking>...The form's primary purpose is to collect information about shifts, presumably for tracking or reporting purposes. This form is likely used by educators, instructors, or shift coordinators to document shifts worked by tutors, instructors, or other staff members. The form might be used to track hours worked, subjects taught, and tutors assigned to specific shifts. To avoid duplication or incorrect information, make sure to review and update this form accordingly.</thinking>
-
 # Shift Record Sheet - Help Guide
 ## Purpose
 The Shift Record Sheet is a form used to collect information about shifts worked by staff members. It's essential to provide accurate and up-to-date information to ensure proper tracking and reporting.

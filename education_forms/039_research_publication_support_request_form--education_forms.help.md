@@ -1,7 +1,3 @@
-<thinking>
-To help ensure the form is used correctly, we need to check that the form is not filled out for a research publication that already exists or that the correct category is selected. This form should only be filled out for a research publication that is not already in the system.
-</thinking>
-
 # Research Publication Support Request Form - Help Guide
 ## Purpose
 The Research Publication Support Request Form is designed to support researchers in managing their research publications. The form helps to track and update information about research publications, including their status, due dates, and assigned personnel.

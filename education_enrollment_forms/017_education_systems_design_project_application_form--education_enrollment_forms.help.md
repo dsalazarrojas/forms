@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the Education Systems Design Project Application Form. This form is used to submit and manage education project applications. To ensure you understand the form's purpose and usage, please review the guide below.
-
-</thinking>
-
 # Education Systems Design Project Application Form - Help Guide
 ## Purpose
 The Education Systems Design Project Application Form is used by educators to submit their project proposals for review and consideration for funding. This form collects essential information about the project, including the project team, description, timeline, budget, and other relevant details.

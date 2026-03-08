@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from students on their educational experience.
-It should only be used to gather feedback from students who are actively enrolled in the educational program.
-It is essential to ensure that each question is completed for every student who has taken the course.
-</thinking>
-
 # students_feedback_questionnaire_version_2 - Help Guide
 ## Purpose
 This form is used to gather feedback from students on their educational experience. It helps us understand their thoughts, feelings, and suggestions about the program.

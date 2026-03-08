@@ -1,8 +1,3 @@
-<thinking> 
-The form "Seminar Assessment Form" is intended to gather feedback from attendees about a seminar they participated in. The form should not be completed by individuals who did not attend the seminar. The form is not required to be completed in its entirety. However, it's recommended that attendees provide a rating of the overall content and their comments about materials used. The "would_you_like_to_be_contacted" field should be selected as "True" only if the user is interested in being contacted further about similar events.
-
-</thinking>
-
 # Seminar Assessment Form - Help Guide
 ## Purpose
 The seminar assessment form is used to gather feedback from attendees to improve the seminar's content, organization, and materials.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is for students or parents/guardians to provide information about the student and their interest in participating in the workshop. The form is used to gather information such as the student's personal details, their programming experience, and their learning goals, as well as the workshop details such as the preferred session and start date. The form also includes terms and agreement sections for the student's participation. The form is required for every student and parent/guardian to fill out before the workshop.</thinking>
-
 # Coding Workshop Intro To Coding - Help Guide
 ## Purpose
 This form is for students or parents/guardians to provide information about the student and their interest in participating in the workshop.

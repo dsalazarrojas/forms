@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students applying for the High School Scholarship 2012 2013. The purpose of this form is to gather relevant details from applicants, which will be reviewed by the scholarship committee. Please note that the form is not affiliated with any form platform and is a unique creation using public metadata as inspiration.
-</thinking>
-
 # High School Scholarship Application Form 2012 2013 - Help Guide
 
 ## Purpose

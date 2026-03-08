@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure accurate information, we must first confirm that this form is for school admission purposes only, and not for other types of inquiries or applications. This form is intended for prospective parents or guardians to submit an inquiry about their child's admission to the school. The form is designed to collect necessary information about the student, school preferences, and other relevant details.
-</thinking>
-
 # School Admission Enquiry Form - Help Guide
 
 ## Purpose

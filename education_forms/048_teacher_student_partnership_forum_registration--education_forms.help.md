@@ -1,7 +1,3 @@
-<thinking>
-The form "teacher-student-partnership-forum-registration" is designed to capture information about the participation level of teachers and students in a partnership forum. The purpose of this form is to gather data on whether teachers and students are registered or not. This form likely serves as an intake form for a project or program that aims to build collaboration between teachers and students. This form does not need to be filled out if the project or program does not require teacher-student partnerships. This section is meant to be filled out by a single project coordinator or administrator.
-</thinking>
-
 # teacher-student-partnership-forum-registration - Help Guide
 ## Purpose
 The "teacher-student-partnership-forum-registration" form is designed to capture information about the participation level of teachers and students in a partnership forum. This form helps the project coordinator to know who is participating and who is not.

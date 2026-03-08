@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the safety status of a van, covering various aspects such as tires, brakes, lights, fuel level, and emergency equipment. The van operator should provide their best judgment or inspection results for each item, indicating whether it's "in good condition", "requires maintenance", or "is not functioning properly". This guide will walk through each section of the form to ensure the operator completes it accurately and thoroughly.
-</thinking>
-
 # Van Safety Checklist - Help Guide
 ## Purpose
 The Van Safety Checklist is a comprehensive form designed to evaluate the van's safety status before and during a trip. It covers essential aspects of the van's condition, such as tires, brakes, lights, and emergency equipment. This form is intended to help the operator identify potential safety issues and take necessary steps to ensure the van is in a safe condition for the trip.

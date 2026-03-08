@@ -1,5 +1,3 @@
-<thinking>... ( internal reasoning block: This form is intended to collect user input for tracking fuel prices. The fields are organized into logical sections and categories for easy completion. Each field is designed to provide the most essential information for tracking fuel prices. The form is split into a single page with a text label for input, and fields for fuel type, date, and price...</thinking>
-
 # Fuel Price Tracking Form - Help Guide
 ## Purpose
 This form is intended to collect user input for tracking fuel prices.

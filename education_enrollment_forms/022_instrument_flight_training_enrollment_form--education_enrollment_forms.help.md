@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assist users in enrolling in instrument flight training programs. The form is intended to collect relevant information from users, including their contact details, student information, preferred flight schools, and flight instructors. This form will help the organization managing the training program to better understand the needs and preferences of potential trainees.
-
-Before proceeding, please note that this form was generated based on public metadata and not directly affiliated with or endorsed by any form creation platform. This form serves as an original adaptation, and its structure and field labels have been adjusted for clarity and purpose.
-
-If you are already registered with us, please ensure you are not duplicating your enrollment process.
-
-</thinking>
-
 # Instrument Flight Training Enrollment Form - Help Guide
 ## Purpose
 The Instrument Flight Training Enrollment Form is designed to collect essential information from users interested in enrolling in instrument flight training programs. Completing this form accurately will help us understand your needs and preferences for an optimal training experience.

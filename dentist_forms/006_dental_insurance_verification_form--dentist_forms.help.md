@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Dental Insurance Verification Form", I will consider the form's purpose, how to complete it, and each field's meaning. The form's purpose is to verify patient insurance information for dental procedures. The form is likely used by healthcare providers to confirm the validity of a patient's insurance coverage before providing treatment. To complete this form, the user will need to fill out the patient's information, insurance details, medical provider information, billing information, insurance card info, claim status, and additional information. Each field requires a specific type of input, such as text (e.g., patient name, insurance carrier) and date (e.g., submission date).
-</thinking>
-
 # Dental Insurance Verification Form - Help Guide
 ## Purpose
 The Dental Insurance Verification Form is used to verify patient insurance information for dental procedures. Healthcare providers use this form to confirm the validity of a patient's insurance coverage before providing treatment.

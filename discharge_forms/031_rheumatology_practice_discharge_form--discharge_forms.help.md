@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning block: This form is used to collect information for discharging patients from a rheumatology practice. It ensures that all necessary details are captured for a smooth transition of care. The form is divided into sections, each covering a specific aspect of the patient's care. It is essential to fill out the form accurately and thoroughly to avoid any potential issues during or after discharge... </thinking>
-
 # rheumatology_practice_discharge_form - Help Guide
 
 ## Purpose

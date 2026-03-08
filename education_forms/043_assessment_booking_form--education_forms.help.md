@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students to book an assessment session. The form is intended for students who need to book an assessment for a course or module they are enrolled in. The form will help the assessment administrator to determine the student's availability and book a time slot that suits them best. 
-
-This form will also help to identify any special accommodations required by the student and ensure that they have reviewed the assessment guidelines and relevant documents.
-
-It is recommended to complete this form carefully and accurately to ensure that the assessment process goes smoothly. 
-
-</thinking>
-
 # Assessment Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from students to book an assessment session for their courses or modules. 

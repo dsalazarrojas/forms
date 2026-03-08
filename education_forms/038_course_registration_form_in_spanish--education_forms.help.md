@@ -1,11 +1,3 @@
-<thinking>
-The form "Course Registration Form In Spanish" is designed to collect information about a course in Spanish. The form is intended to capture details such as course name, start date, instructor, and other relevant course details. This form is likely used in an education or training setting where courses are being registered or organized.
-
-Before proceeding with this guide, ensure that the form is being used for its intended purpose and that the information collected will be accurate and complete. This guide is intended to provide a clear and concise understanding of each field, helping users to complete the form correctly and efficiently. Please review the fields and their respective explanations below.
-
-
-</thinking>
-
 # Course Registration Form In Spanish - Help Guide
 ## Purpose
 The "Course Registration Form In Spanish" is a form used to collect detailed information about courses, including their name, start date, instructors, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations from individuals or organizations, providing a structured way to gather information about the donor, their contribution details, and other relevant legal and compliance information. The form is intended for internal use by organizations that require accurate and compliant donation data. It's essential to fill out this form accurately to ensure that the donation is recorded and reported correctly. Please note that this form should not be used to solicit or collect donations from minors or for any purpose other than legitimate donations.
-</thinking>
-
 # Contribution Form - Help Guide
 ## Purpose
 This form is used to collect donations from contributors and ensure that all required information is provided.

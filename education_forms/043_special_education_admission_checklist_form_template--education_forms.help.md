@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**special_education_admission_checklist_form_template** - Help Guide
+> **special_education_admission_checklist_form_template** - Help Guide
 ## Purpose
 The Special Education Admission Checklist Form Template is designed to gather information from students and their families to support the special education admission process. This form aims to collect relevant details about the student's education history, family environment, and personal characteristics to aid in making informed decisions for their educational placement. **Please note that this form is a template and should not be considered a substitute for professional assessments or evaluations.**
 

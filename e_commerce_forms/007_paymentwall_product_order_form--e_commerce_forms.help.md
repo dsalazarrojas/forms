@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data for payment processing and order management, allowing users to input information related to products, orders, and customers. The purpose of the form is to gather essential details for efficient order fulfillment and customer service. It's possible that a similar form already exists within the organization, in which case, this form would serve as a replacement or an alternative, offering a more user-friendly interface for end-users.
-</thinking>
-
 # Paymentwall Product Order Form - Help Guide
 ## Purpose
 The Paymentwall Product Order Form is designed to collect essential information for payment processing and order management. This form is intended for both customers and internal staff to input order details and product information.

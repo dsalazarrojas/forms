@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Empowerment Grant Application Form - Help Guide
 
 ## Purpose

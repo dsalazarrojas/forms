@@ -1,5 +1,3 @@
-<thinking>This form is designed for BOSS (Behavior Observation and Support System) observers to collect detailed information about student behavior, engagement, and progress during lessons or classes. The form captures key aspects such as the observer's name, the observed student's name, date and time of observation, and specific behaviors, triggers, and consequences. The goal is to gather objective and objective data to support teachers and educators in identifying areas of strength and improvement for students. This form ensures that all required fields have a clear and concise description to guide observers in accurately and efficiently filling out the form.</thinking>
-
 # BOSS Observation Form - Help Guide
 ## Purpose
 The BOSS Observation Form is designed to collect and document observations of student behavior, engagement, and progress during lessons or classes.

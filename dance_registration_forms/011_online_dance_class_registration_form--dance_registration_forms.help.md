@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is designed to help end-users complete the "Online Dance Class Registration Form" with ease. The form is meant to be a simple and user-friendly way to collect registration data from individuals interested in enrolling in various dance classes. It's intended for use by potential dance class participants who want to register for one of three available dance classes. The form fields are minimal and focused on collecting essential contact and scheduling information. 
 
 Please ensure to review and complete the form carefully, as the provided fields are required to facilitate the registration process.

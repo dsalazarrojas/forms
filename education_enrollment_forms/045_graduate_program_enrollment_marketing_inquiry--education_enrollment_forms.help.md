@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect marketing inquiries for graduate programs. It will likely be used by marketing teams to track and follow up on potential applicants. It's essential to ensure that each field is filled out correctly and relevant to the user's interests, as this information will help tailor marketing efforts to their needs.
-</thinking>
-
 # Graduate Program Enrollment Marketing Inquiry - Help Guide
 ## Purpose
 This form is used to collect marketing inquiries for graduate programs. It helps potential students express their interest in specific graduate programs, allowing marketing teams to follow up and tailor their efforts accordingly.

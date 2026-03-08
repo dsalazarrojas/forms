@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Education For Peace Program Application Form", I will first analyze the provided YAML fields to understand the form's purpose and functionality. The form appears to be designed for users to apply for the Education For Peace program, which likely involves educational or professional development initiatives. The fields provided include basic contact information (first name, last name, email, and phone number), university affiliation (university name), and relevant details about the applicant's motivation and availability. There is no indication of a requirement for duplication or relevance checks. Therefore, I will focus on creating a help guide that covers the form's purpose, completion instructions, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Education For Peace Program Application Form - Help Guide
 ## Purpose
 The Education For Peace Program Application Form is designed to gather information from individuals interested in participating in educational or professional development initiatives under the Education For Peace program. This form helps the program team assess applicants' qualifications and suitability for the program.

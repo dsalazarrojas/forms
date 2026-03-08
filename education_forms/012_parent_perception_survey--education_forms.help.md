@@ -1,7 +1,3 @@
-<thinking>
-This form is a Parent Perception Survey designed to gather feedback from parents regarding their experiences and perceptions of their school. This data will help the school administration understand the parents' opinions and concerns, which can inform school policies and decisions. It's essential to ensure that parents are aware of the purpose and scope of this survey to provide accurate and relevant feedback. Please consider whether this survey is relevant to your school and your role as a parent. If you've already completed a similar survey, please skip this one to avoid duplication of effort.
-</thinking>
-
 # Parent Perception Survey - Help Guide
 ## Purpose
 The Parent Perception Survey is a tool for parents to express their opinions and concerns about their school. Your input will help the school administration understand your views and make informed decisions.

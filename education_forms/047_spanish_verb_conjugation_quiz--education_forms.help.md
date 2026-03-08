@@ -1,12 +1,3 @@
-<thinking>
-This help guide is to assist users in filling out the Spanish Verb Conjugation Quiz form. The form is designed to test users' knowledge of Spanish verb conjugation in various tenses. The form consists of 14 questions that cover different aspects of verb conjugation, from simple present tense to more complex tenses and verb forms. Users will be presented with a series of questions, each with a specific verb to conjugate or translate. The form does not require any prior knowledge of the user, making it accessible to anyone with a basic understanding of Spanish.
-
-To complete the form, users will be presented with a series of questions, each with a specific task to perform. They will be asked to select the correct conjugation of a given verb or provide a translation of the verb. Some questions will have multiple options to choose from, while others will require users to provide a more open-ended response. Each question is designed to build upon the previous one, gradually increasing the complexity of the tasks and verb forms.
-
-This form is not meant to be a comprehensive test of users' knowledge, but rather a tool to assist them in improving their understanding of Spanish verb conjugation. Users are encouraged to take their time and review each question carefully before submitting their answers. The form will provide feedback and guidance to help users identify their strengths and weaknesses.
-
-</thinking>
-
 # Spanish Verb Conjugation Quiz - Help Guide
 ## Purpose
 This form is designed to test and improve your knowledge of Spanish verb conjugation in various tenses. The form consists of 14 questions that cover different aspects of verb conjugation, from simple present tense to more complex tenses and verb forms.

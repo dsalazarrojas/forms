@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Furniture Donation Form Template - Help Guide
 
 ## Purpose

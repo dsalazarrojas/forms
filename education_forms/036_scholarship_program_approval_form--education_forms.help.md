@@ -1,10 +1,3 @@
-<thinking>
-The form purpose should be clear and straightforward. This form is used by approvers to validate or deny a scholarship request submitted by students or applicants. This form should only be used for internal approval processes. To avoid duplication, approvers should check if a similar form already exists or if the request has been approved/denied.
-
-For a field-by-field explanation, I will base the explanation on the properties of the input schema provided.
-
-</thinking>
-
 # Scholarship Program Approval Form - Help Guide
 ## Purpose
 The Scholarship Program Approval Form is a document that approvers use to validate or deny a scholarship request. This form is meant to be used internally by approvers to review and approve or deny requests made by students or applicants.

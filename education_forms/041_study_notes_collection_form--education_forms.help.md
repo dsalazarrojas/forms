@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect study-related information from students or educators. The form captures data on the study group, date and time of the study session, notes, and various categories and tags related to the study. It is meant to be used by students and educators to record, track, and report on their study activities and progress.
-
-To prevent redundancy and ensure accurate data collection, it is recommended to review the form fields carefully before filling it out. This includes checking if the same information has been entered in previous forms or sessions.
-
-Before proceeding, consider the following:
-
-* Are you collecting information for the same study session?
-* Have you already entered similar information in a previous form?
-* Do you have all the necessary information to complete the form accurately?
-
-</thinking>
-
 # study_notes_collection_form - Help Guide
 ## Purpose
 The study notes collection form is used to capture study-related information from students or educators.

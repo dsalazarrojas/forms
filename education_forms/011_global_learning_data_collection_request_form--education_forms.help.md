@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Global Learning Data Collection Request Form - Help Guide
 ## Purpose
 The Global Learning Data Collection Request Form is designed to collect contact information and data from users to better understand their learning needs and preferences. This form is typically used by educational institutions to gather data from students, staff, or faculty members. By completing this form, you will be able to provide valuable insights to support the development of educational programs and services.

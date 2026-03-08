@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students about their school, club, and program involvement. The form is designed to be completed by students to share their knowledge and experiences with their peers. The form is not intended for general public use, and the information collected will only be used for internal purposes. 
-</thinking>
-
 # Student Knowledge Sharing Forum Registration - Help Guide
 ## Purpose
 The Student Knowledge Sharing Forum Registration form is a collection of fields that gather information about students' school, club, and program involvement. Completing this form helps to share knowledge and experiences with peers and contributes to the overall student knowledge sharing community.

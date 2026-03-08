@@ -1,7 +1,3 @@
-<thinking>
-To confirm, we are creating a user-facing help guide for the "Free Math Tutoring" form, which is part of the "Education Forms" category. This form is intended to collect information from math tutoring services or educators who want to offer their services online. I will ensure that the guide is concrete, concise, and practical, and that each field explanation is clear and accurate based on the provided YAML fields.
-</thinking>
-
 # Free Math Tutoring - Help Guide
 ## Purpose
 The "Free Math Tutoring" form is designed to collect information from math tutors or educators who want to offer their services online. This form is used to gather details about their qualifications, availability, and services offered.

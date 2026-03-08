@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect contact information from donors, including their first name, last name, email, phone number, address, preferred language, contact method (email, phone, or mail), how they heard about the organization, and whether they would like to receive updates.
-This form is meant to be completed by individuals who are interested in supporting the organization through donations. The form helps the organization gather essential contact information to communicate with the donor effectively and tailor their communication according to the donor's preferences.
-</thinking>
-
 # Donor Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect contact information from donors and gather essential details to communicate with them effectively.

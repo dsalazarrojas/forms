@@ -1,13 +1,3 @@
-<thinking>
-This form is for enrolling a trade certification program. To use this form, the user should be an authorized individual, such as a trade certification administrator or a representative of the trade. 
-
-The form is used to collect information for the trade certification program, including program name, start and end dates, status, applicant's email, phone number, and a note for program details. The program details field is for any additional information that the trade certification administrator or representative wants to provide, such as program description, location, and prerequisites.
-
-To ensure accuracy and prevent duplication, please make sure to fill out the form completely and correctly and do not resubmit the same information.
-
-Please use this guide to complete the form correctly.
-</thinking>
-
 # Trade Certification Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll a trade certification program into the system.

@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to collect student information for registration in the Ballet In The Bay program. Before filling out this form, ensure you are a currently enrolled student at Ballet In The Bay. This form is designed to gather necessary details to facilitate your participation in the program. Please note that all required fields must be completed for the form to be submitted. The form consists of six fields: First Name, Last Name, Email, Phone, Level, and Student ID.
-
-</thinking>
-
 # Student Registration Form For Ballet In The Bay - Help Guide
 
 ## Purpose

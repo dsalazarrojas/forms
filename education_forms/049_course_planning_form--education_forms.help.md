@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Course Planning Form" that is clear, concise, and practical. The form is used for course planning, and its purpose is to collect information necessary for creating and organizing courses. This guide will cover the form's purpose, how to complete it, and what each field means.
-
-To create a great guide, we need to understand the form's purpose and relevance. This form is used for course planning, which is an essential process in education.
-
-Before we start, let's check if there is a similar form that we can reuse or duplicate the information from. After checking, we will create a guide that explains each field in a clear and concise way.
-
-</thinking>
-
 # Course Planning Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We'll create a helpful guide for the ERP Declaration Form, ensuring end users understand its purpose and how to complete it. We'll carefully consider each field's label and type to provide clear explanations. Our goal is to make the form easy to use and minimize questions. We'll also check for relevance and non-duplication to ensure the explanations are concise and practical.
-</thinking>
-
 # ERP Declaration Form - Help Guide
 ## Purpose
 This form is designed for users to declare their involvement with ERP (Enterprise Resource Planning) systems. It gathers information about the user's declaration status, declaration details, and related information.

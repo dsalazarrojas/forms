@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information about inventory management from end-users. The goal of this form is to collect opinions and feedback on various aspects of inventory management, such as the effectiveness, satisfaction, and importance of inventory management. The form is divided into several sections, each focusing on different aspects of inventory management. This form is a public domain, AI-generated adaptation of a survey and is released under CC BY 4.0 license. This form does not collect personal or sensitive data, and its completion is voluntary. 
-
-Before proceeding with the form, please ensure that you have not previously completed it. 
-
-Please note that the form consists of multiple pages. You will be navigated automatically to the next page after completing each one. 
-
-Please answer the questions honestly, and provide your best effort to answer each question truthfully. 
-
-Also, ensure that you do not answer questions that do not apply to you or your organization.
-
-Please be aware that the form is not affiliated with, endorsed by, or derived from any form platform. It is a public domain, AI-generated adaptation of a survey, and you are free to use, modify, and even sell forms derived from it - just give credit.
-
-</thinking>
-
 # inventory_management_quiz - Help Guide
 ## Purpose
 The "inventory_management_quiz" form is designed to collect opinions and feedback on various aspects of inventory management from end-users.

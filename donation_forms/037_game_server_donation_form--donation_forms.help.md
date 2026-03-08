@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain how to complete the "Game Server Donation Form" to collect donations for a game server. The form is used to gather information from users to process donations for a specific stream ID. To confirm, this is the correct form to fill out if you are a streamer looking to raise funds for your game server.
-</thinking>
-
 # Game Server Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations from users for a specific game server. To complete the form, please follow the steps below.

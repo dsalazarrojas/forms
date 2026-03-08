@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess the availability and accessibility of library resources, providing options for users to choose from regarding the availability and support of these resources. This form will help identify areas of improvement and provide insight into the utilization of library resources.
-</thinking>
-
 # Library Resources Assessment Form - Help Guide
 ## Purpose
 The Library Resources Assessment Form is designed to evaluate the availability, accessibility, and utilization of library resources. It helps users assess the current state of library resources and provides an opportunity for users to offer feedback and suggestions for improvement.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about the enhancement needs and characteristics of Montessori schools. It seems that the form is designed to collect data on aspects such as classroom environment, teacher availability, student participation, and other factors that can impact the quality and effectiveness of the Montessori educational experience.
-
-Before proceeding, please take a moment to review the form and ensure that you have not completed it in the past. This will help us provide you with accurate and relevant information.
-
-If you are not sure about any of the fields, please refer to this guide for clarification.
-
-</thinking>
-
 # montessori_school_class_enhancement_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the enhancement needs and characteristics of Montessori schools.

@@ -1,9 +1,3 @@
-<thinking>
-
-The "Student Innovation Project Permission Form" is used to gather necessary information from students and parents to ensure that the student's innovation project is properly authorized and monitored by the school administration. This form helps to identify any potential risks or concerns related to the project, ensure compliance with school policies, and facilitate open communication between students, parents, and school staff. Before completing this form, please note that the school administration will review and validate the information provided to ensure that all necessary permissions and requirements are met. 
-
-</thinking>
-
 # Student Innovation Project Permission Form - Help Guide
 ## Purpose
 The "Student Innovation Project Permission Form" is a document that needs to be completed by students and parents to provide necessary information about a student's innovation project.

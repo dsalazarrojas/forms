@@ -1,15 +1,3 @@
-<thinking>This form is used to obtain permission from users to share curriculum content, which is a crucial process in educational institutions. To ensure the form is completed accurately, please review the following instructions carefully.
-
-The form is required for users to declare their intention to share curriculum content, specifying details about the content, its distribution method, and the permissions granted. The form helps in maintaining a record of shared content and permissions, facilitating transparency and accountability within the institution.
-
-Before filling this form, ensure that you have the necessary permissions and approvals from the relevant authorities. The form is not a substitute for formal approvals; it's a supplementary document to support the sharing of curriculum content.
-
-Please complete the form accurately and honestly, ensuring that the information provided is correct and up-to-date. The form should be submitted after carefully reviewing each field for completeness and correctness.
-
-To avoid duplication, ensure that you have not submitted a similar form for the same content in the past. If you're unsure, please consult with the relevant authority before proceeding.
-
-</thinking>
-
 # Curriculum Content Release Form - Help Guide
 ## Purpose
 The Curriculum Content Release Form is used to declare the intention to share curriculum content, specifying details about the content, its distribution method, and the permissions granted.

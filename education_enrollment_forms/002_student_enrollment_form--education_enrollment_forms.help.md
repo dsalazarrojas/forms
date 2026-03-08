@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be designed for enrolling students in an educational institution, collecting information about the student's and parent's details, payment methods, and payment gateways. The form seems to be collecting information for the purpose of processing student enrollments, including student and parent contact information, payment details, and enrollment status.
-
-To ensure the form is being used correctly, the following checks should be performed before and after submitting the form:
-
-*   The form should only be used by authorized personnel for enrolling students.
-*   All required fields should be filled in before submitting the form.
-*   The student and parent information should match and be accurate.
-*   The payment methods and gateways should be selected correctly.
-*   The form should only be submitted once the student is actually enrolled.
-
-Please ensure to review the provided YAML for any missing or incorrect information before proceeding.
-
-The following guide will help explain the form fields and requirements for the students to complete the form correctly.
-
-</thinking>
-
 # Student Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect and process student enrollment information. Please fill in all the required fields carefully and accurately.

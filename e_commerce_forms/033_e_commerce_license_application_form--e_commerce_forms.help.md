@@ -1,8 +1,6 @@
 # E Commerce License Application Form - Help Guide
 ## Purpose
 
-<thinking>...The E Commerce License Application Form is designed for business owners to apply for an e-commerce license. It captures information about the business, its ownership, and the license application process. This form ensures that you provide accurate and complete information, which helps us to review and process your license application efficiently....</thinking>
-
 ## How To Complete This Form
 
 1. Review each page carefully to ensure you have all the necessary information.

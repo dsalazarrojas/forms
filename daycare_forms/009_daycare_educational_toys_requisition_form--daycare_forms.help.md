@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the request for educational toys for daycare purposes. The form will be used by the daycare administration to submit a request for educational toys. The request will be reviewed, and the toys will be ordered or approved. 
-</thinking>
-
 # Daycare Educational Toys Requisition Form - Help Guide
 ## Purpose
 The Daycare Educational Toys Requisition Form is a request form used by daycare administration to submit a request for educational toys. The form should be completed by the daycare administrator to provide details about the toys requested for the classes and students.

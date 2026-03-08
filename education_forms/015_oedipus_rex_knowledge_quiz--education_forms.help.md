@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge about the classic play "Oedipus Rex" by Sophocles. The form's purpose is to gauge their understanding of the play's key elements, including its main plot, characters, theme, and resolution. The questions are meant to be answered with a simple "Yes" or "No" or a brief description of the element being asked about.
-
-The form is designed to collect information about users' knowledge in a non-evaluative way, without the intention of assigning scores or grades. It's a self-assessment tool aimed at providing users with an understanding of their own strengths and weaknesses regarding the subject matter.
-
-Please ensure you've reviewed the form carefully to avoid any duplicate or irrelevant information.
-
-</thinking>
-
 # OedipusRexKnowledgeQuiz - Help Guide
 ## Purpose
 This form is designed to assess users' knowledge about the classic play "Oedipus Rex" by Sophocles. It gauges their understanding of the play's key elements, including its main plot, characters, theme, and resolution.

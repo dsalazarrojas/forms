@@ -1,20 +1,3 @@
-<thinking>
-To determine the purpose of the "Educational Program Registration Form", I'll need to analyze the input schema provided. The form appears to be a registration form for students in an educational program, collecting information about the student, their guardian, and other relevant details.
-
-The form is intended to collect the following information:
-
-* Student personal details (name, email, ID, date of birth)
-* Guardian personal details (name, phone, email, date of birth)
-* Relationship between the student and guardian
-* Student's educational program type and grade level
-* Student's language proficiency
-* Additional notes for the student and guardian
-
-To prevent duplicate registrations, the form may be used to store student data in a database for future reference. To prevent irrelevant registrations, the form may be used to identify students who are not eligible for the program.
-
-This guide will help users understand how to complete the form correctly and effectively.
-</thinking>
-
 # Educational Program Registration Form - Help Guide
 ## Purpose
 

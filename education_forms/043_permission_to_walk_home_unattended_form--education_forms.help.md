@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who need to walk home unattended from school. It's crucial that the form is completed accurately to ensure the school can provide necessary support and supervision. Please ensure that you're filling out the form for a valid reason and not duplicating the effort. If you've already submitted this form, please do not resubmit it without approval from the relevant authorities.
-</thinking>
-
 # Permission To Walk Home Unattended Form - Help Guide
 ## Purpose
 This form is used to obtain permission for students to walk home unattended from school.

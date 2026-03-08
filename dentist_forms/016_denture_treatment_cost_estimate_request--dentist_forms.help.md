@@ -1,9 +1,3 @@
-<thinking>
-
-The Denture Treatment Cost Estimate Request form is designed to help dentists and their staff estimate the cost of a patient's dental treatment. This form will help to collect relevant information from the patient, including their medical history, treatment options, and other necessary details for the dentist to provide an accurate cost estimate. To ensure the form is completed correctly, the staff should verify that the patient's information is accurate and up-to-date. This form should not be used for any other purpose other than a cost estimate for denture treatment.
-
-</thinking>
-
 # Denture Treatment Cost Estimate Request - Help Guide
 ## Purpose
 This form is used to collect information necessary for a dentist to provide an accurate cost estimate for denture treatment.

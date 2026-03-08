@@ -1,10 +1,3 @@
-<thinking>
-The form "Executive Education Certificate And Training" is designed to collect information from individuals who have completed an executive education program in the field of non-governmental organizations (NGOs) and global development. This form is intended to assess the understanding and application of various concepts related to executive education, such as global opportunities, organization operation and management, global access to basic needs and funding, innovative ideas and practices, organizational rights and rule of law, follow-up, NGO sustainability and management tool, consulting services, executive education and training certificate, and action-oriented planning.
-
-Before completing this form, please ensure that it is relevant to your specific situation. If you're unsure, please review the form carefully and only complete it if it aligns with your needs. Completing this form multiple times without a valid reason may lead to errors or inconsistencies in the data collection process.
-
-</thinking>
-
 # Executive Education Certificate And Training - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have completed an executive education program in the field of non-governmental organizations (NGOs) and global development.

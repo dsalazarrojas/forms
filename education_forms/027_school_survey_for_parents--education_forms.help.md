@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents on various aspects of their child's education experience. Its purpose is to gauge the level of involvement and communication between parents and teachers, as well as to gather information on the methods used to track progress and the support services utilized. This form should not be filled out by the same person more than once. Please ensure you're completing this form in the context of your personal or professional capacity as a parent/guardian of the child in question.
-</thinking>
-
 # School Survey For Parents - Help Guide
 ## Purpose
 The "School Survey For Parents" is designed to gather feedback from parents on their involvement and communication with teachers, methods used to track progress, and support services utilized for their child's education.

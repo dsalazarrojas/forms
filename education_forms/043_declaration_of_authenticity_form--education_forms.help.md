@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information and declarations from students and their supervisors in an educational setting. This form should only be used for students who have been absent from school or have been involved in unauthorized activities. The form should not be used in situations where the student's declaration is not genuine.
-Before filling out this form, please ensure that the student's declaration is accurate and not duplicated. If you are unsure, please consult with the school authorities or the student's supervisor before proceeding.
-This form is used to gather information and declarations from students and their supervisors in an educational setting. Please ensure that the student's declaration is accurate and not duplicated.
-</thinking>
-
 # Declaration Of Authenticity Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and design should be based on the input schema provided in the YAML. The form is likely for workshop registration, which suggests it is used to collect participant information. The purpose of the form is to gather necessary details from participants to manage the workshop effectively. I will now create a help guide based on the input schema, making sure to explain each field's purpose and required status.
-</thinking>
-
 # data_driven_instruction_workshop_registration - Help Guide
 ## Purpose
 This form is designed to collect participant information for the data-driven instruction workshop. Please fill out the form accurately to help us efficiently manage the workshop.

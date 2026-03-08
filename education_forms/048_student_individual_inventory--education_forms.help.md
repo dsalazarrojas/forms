@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Individual Inventory - Help Guide
 ## Purpose
 This form is designed to collect and store information about individual students, including their basic contact details, educational background, and academic history. This data is used for internal purposes such as tracking student progress, reporting, and analytics.

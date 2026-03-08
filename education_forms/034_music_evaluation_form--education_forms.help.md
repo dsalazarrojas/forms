@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose of the Music Evaluation Form and how to complete it correctly. The form is used to gather information about a piece of music, such as its style, category, and ratings. The form is designed to be completed by users who are familiar with music theory and terminology. Before completing the form, users should review the options carefully and ensure they select the most accurate responses.
-
-This form is a self-contained guide, and users should not need additional context or information to complete it. However, users who are not familiar with music theory may need to consult external resources to better understand the form's purpose and terminology.
-
-The form includes several fields, each with its own label, type, and options. Users must ensure they complete each field correctly to provide accurate information.
-
-</thinking>
-
 # Music Evaluation Form - Help Guide
 ## Purpose
 The Music Evaluation Form is used to gather information about a piece of music, such as its style, category, and ratings.

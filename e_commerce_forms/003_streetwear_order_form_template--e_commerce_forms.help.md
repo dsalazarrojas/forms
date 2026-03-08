@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information for a streetwear order, including customer details, order items, payment method, and order status. The form is intended to be used by customers to place an order, but it can also be used by administrators to manage and track orders. This form is a template, and it's likely that there are other forms with similar purposes in the system that this form is meant to replace or complement.
-Checking the schema, it appears that this form has various fields for customer information (name, email, phone), order details (order items, total amount, order date/time), and payment information (payment method). The form also has fields for order status and store information (store name, address, city).
-I'm not seeing any obvious duplication or overlap between this form and other forms in the system, so I'm assuming that this form is intended to be a standalone form for a specific use case.
-</thinking>
-
 # Streetwear Order Form Template - Help Guide
 ## Purpose
 This form is designed to capture information for a streetwear order, including customer details, order items, payment method, and order status.

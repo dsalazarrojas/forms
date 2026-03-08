@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for uploading a graduation thesis. To confirm, the purpose of this form is to provide a platform for students to upload their graduation thesis documents. This form likely serves as a centralized repository for thesis submissions, allowing administrators or reviewers to track and review these documents. To ensure accurate and relevant thesis uploads, we should check for duplicate submissions and avoid unnecessary uploads. This form seems to be designed to be completed by students, but it may also have an administrative interface for review and approval. We need to verify the exact process and any additional features, such as review and approval processes, that this form may have.
-</thinking>
-
 # Graduation Thesis Upload Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a template for creating and maintaining student progress reports. This form will help users track student performance, progress, and other related data. This template is likely used in an educational setting, possibly for a school or university. It's essential to ensure that the form is completed accurately and consistently to provide a clear picture of each student's progress. To avoid confusion, it's a good idea to review the form carefully before starting to fill it out. Ensure that you understand the required and optional fields and their meanings. If you're unsure about any field, you can refer to this guide for clarification.
-</thinking>
-
 # Student Progress Report Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for discharging patients from a medical facility, such as Navicent Health System. The primary purpose of this form is to gather information on a patient's identification, medical history, and discharge details. This form is likely used in a clinical setting, where patient discharges are a regular occurrence. It's possible that this form is used for billing or insurance purposes as well. The form is quite comprehensive, covering various aspects of a patient's medical history and discharge details. It's essential to ensure that all fields are filled out accurately to provide the best possible care and documentation for the patient's next steps.
-</thinking>
-
 # navicentUrgentCareMedicalDischarge - Help Guide
 ## Purpose
 This form is used to gather information on a patient's medical discharge from Navicent Health System.

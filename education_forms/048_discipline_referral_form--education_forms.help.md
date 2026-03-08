@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discipline Referral Form - Help Guide
 ## Purpose
 This form is used to document incidents involving students that require referral for disciplinary action. It helps to provide a structured way of gathering information and ensuring consistency in the referral process. Before completing this form, please review the school's policies and procedures for referrals to ensure the incident is not a duplicate or covered by existing rules.

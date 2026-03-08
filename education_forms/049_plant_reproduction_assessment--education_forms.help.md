@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide, let's analyze the form's purpose and the provided YAML schema.
-
-The form's purpose is to collect information about plant reproduction, likely for educational or research purposes. It appears to be a comprehensive assessment of various aspects of plant reproduction, including the mode of reproduction, the male reproductive organ, characteristics of plant reproduction, and the differences between sexual and asexual reproduction.
-
-Upon analyzing the YAML schema, we can see that the form consists of 12 questions, ranging from the mode of reproduction to specific structures involved in sexual reproduction. The questions are designed to collect detailed information about plant reproduction, indicating that the form is aimed at educating or assessing the user's knowledge in this domain.
-
-To avoid duplication of information, I will focus on providing a concise and practical guide while maintaining the essential details.
-
-</thinking>
-
 # Plant Reproduction Assessment - Help Guide
 
 ## Purpose

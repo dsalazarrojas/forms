@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to log contact information for parents and guardians. The purpose of this form is to gather data for tracking and reporting. Please ensure that only relevant and accurate information is entered in this form to avoid duplication of effort and ensure data quality.
-</thinking>
-
 # Parent Contact Log Form - Help Guide
 ## Purpose
 This form is used to record contact information for parents and guardians. It captures essential details about the interactions between school staff and parents, including the date of contact, method of contact, and any notes from the conversation.

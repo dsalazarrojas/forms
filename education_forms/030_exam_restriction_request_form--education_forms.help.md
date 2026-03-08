@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to provide information for exam restriction requests, where a student may require special accommodations for an exam. This form is used to document and verify the need for these accommodations. Before filling out this form, please ensure that you have a valid reason for requesting exam restrictions and that you have discussed this with your instructor. Also, please ensure that you are not requesting restrictions for a student who does not need them. This form should not be used to request accommodations for non-academic purposes or to circumvent academic policies. Please use this form only for legitimate exam restriction requests...</thinking>
-
 # Exam Restriction Request Form - Help Guide
 ## Purpose
 This form is designed to help you request exam restrictions for a specific exam. This may include accommodations for students who need special assistance during the exam.

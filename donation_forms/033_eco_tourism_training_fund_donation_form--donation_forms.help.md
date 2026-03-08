@@ -1,6 +1,3 @@
-<thinking>
-This form is for collecting information from donors who want to support the eco-tourism training fund. The purpose of this form is to gather details about the donor, the amount of their donation, and other relevant information.
-</thinking>
 # eco_tourism_training_fund_donation_form - Help Guide
 ## Purpose
 This form is used to collect donations for the eco-tourism training fund. Donors can input their name, email, phone number, and address, as well as the amount and method of their donation, and whether or not their organization is a donor.

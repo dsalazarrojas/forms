@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the impact of innovation projects, ensuring that each project's goals, outcomes, and results are accurately recorded and reported. The form serves as a tool for project teams and administrators to collect relevant information about project impact, including project title, start and end dates, start and end times, project impact area, and project outcomes. By completing this form, users provide valuable insights into the project's success, outcomes, and areas for improvement.
-
-</thinking>
-
 # Innovation Project Impact Evaluation Form - Help Guide
 ## Purpose
 This form helps project teams and administrators evaluate the impact of innovation projects, providing a systematic and standardized way to collect relevant information about project success, outcomes, and areas for improvement.

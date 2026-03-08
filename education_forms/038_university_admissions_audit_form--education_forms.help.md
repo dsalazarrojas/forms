@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to be a user-friendly resource for end-users who will be completing the University Admissions Audit Form. The form is designed to provide a structured and efficient way to collect information related to university admissions, allowing users to track and review applicants' progress. 
 
 It is recommended that users ensure that the form is only used for a specific application and not duplicated for the same applicant.

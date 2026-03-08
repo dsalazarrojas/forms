@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for gathering essential information from engineering students to create a comprehensive profile.
-The purpose of this form is to collect details about the student's personal and academic background, skills, interests, and goals.
-This guide will cover the steps and explanations for each field in the form to ensure users understand what is expected of them.
-The form is a crucial tool for the educational institution to track student performance and provide tailored support.
-</thinking>
-
 # Engineering Student Profile Survey - Help Guide
 ## Purpose
 The Engineering Student Profile Survey is a tool used by the educational institution to gather essential information about engineering students. This information will help us create a comprehensive profile of each student, enabling us to better understand their needs and provide targeted support for their growth and development.

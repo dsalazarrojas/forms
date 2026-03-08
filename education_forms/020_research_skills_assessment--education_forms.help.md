@@ -1,12 +1,3 @@
-<thinking>
-To confirm, the form "research_skills_assessment" is used to assess research skills in various fields such as data collection, analysis, and interpretation. This form is likely used in an educational or academic setting to evaluate a student's or researcher's competence in these areas. 
-
-The form has 17 fields, with most of them being text fields labeled as "Introduction", "Data Collection", "Data Analysis", "Data Interpretation", "Knowledge Application", "Feedback and Evaluation", and "Final Comments". There are some optional fields, labeled as "Optional", "Optional Questions", with some being "1 Optional", "2 Optional Questions", "3 Optional", etc. which may contain any additional information or questions not covered in the previous sections. These optional fields may be used to gather additional data or insights that are not included in the core assessment.
-
-To prevent duplication, it would be wise to ensure that each field is filled only once for each assessment, and that the assessment form is submitted completely before proceeding to avoid incomplete submissions.
-
-</thinking>
-
 # research_skills_assessment - Help Guide
 ## Purpose
 This form is used to assess research skills in various fields such as data collection, analysis, and interpretation. It is designed to evaluate a student's or researcher's competence in these areas in an educational or academic setting.

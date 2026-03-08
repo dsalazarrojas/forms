@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assist users in writing a formal letter, providing a structured approach to ensure that the letter's purpose, recipient, date, and other key elements are properly addressed. The form's purpose is to help users produce a well-crafted letter that effectively conveys their message. The form's fields are designed to be completed in a step-by-step manner, making it easier for users to create a professional-looking letter.
-
-This form is a one-time use form, and its primary goal is to help users write a single letter. Therefore, users do not need to worry about saving their progress or accessing their previously completed forms.
-
-To confirm that this form is suitable for the intended purpose, the following criteria are in place:
-
-* The form's structure and fields are designed to accommodate the specific needs of writing a formal letter.
-* The fields are organized in a logical and easy-to-follow order.
-* The required fields are marked as such, and users cannot proceed without completing them.
-
-Given these criteria, users can be assured that this form will guide them through the process of writing a well-structured and effective formal letter.
-
-</thinking>
-
 # Letter Writing Guide - Help Guide
 ## Purpose
 The Letter Writing Guide form is designed to assist users in writing a formal letter, providing a structured approach to ensure that the letter's purpose, recipient, date, and other key elements are properly addressed.

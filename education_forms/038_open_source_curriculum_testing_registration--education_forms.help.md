@@ -1,10 +1,3 @@
-<thinking>
-We're about to create a user-friendly help guide for the "open_source_curriculum_testing_registration" form. This form is used for registering open-source curriculum tests. To create a helpful guide, we'll need to understand the purpose and relevance of each field, ensuring that we're not duplicating information. The form seems to be designed for gathering information about pilots, test versions, user identifiers, contact details, and test periods. We should focus on explaining each field's purpose in a concrete and concise manner, without assuming any business logic not explicitly stated in the YAML configuration.
-
-Here's a brief internal reasoning block to ensure we're on the same page:
-The form "open_source_curriculum_testing_registration" is designed to collect essential information from users. We'll break down each field to ensure users understand what's required and what's optional, as well as any specific constraints or hints that might help with completing the form accurately.
-</thinking>
-
 # open_source_curriculum_testing_registration - Help Guide
 ## Purpose
 This form is used for registering open-source curriculum tests. Users need to provide information about pilots, test versions, user identifiers, contact details, and test periods to complete the form.

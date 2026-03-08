@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 As a form designer and technical writer, I'll aim to create a user-friendly help guide for the "home_school_survey" form. This guide will cover the form's purpose, how to complete it, and explain each field in detail. Given the large number of questions on the form, I'll focus on providing clear and concise explanations for each field, ensuring that users understand what is expected of them.
 
 # home_school_survey - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-The "Last Will and Testament Declaration Form" is a document used to declare the wishes of an individual regarding the distribution of their assets after death. This form is often used in conjunction with other legal documents, such as wills, to ensure that an individual's wishes are respected in the event of their passing. 
-To avoid duplication and ensure the integrity of the document, this form should only be used for personal, non-commercial purposes and not for the distribution of assets of a business or organization. 
-</thinking>
-
 # last_will_and_testament_declaration_form - Help Guide
 ## Purpose
 This form is used to declare an individual's wishes for the distribution of their assets after death. It is an essential document in estate planning and ensures that an individual's wishes are respected in the event of their passing.

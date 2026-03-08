@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help collect information from applicants for the Education Equity Fellowship, a program that provides support for students or recent graduates in their educational or professional journey. This guide will help ensure that the applicant provides accurate and complete information to be considered for the fellowship. Please review each field carefully and fill it out as instructed. Note that some fields may be optional, but providing accurate and detailed answers is crucial for a successful application. If you need more information or clarification on any field, please refer back to this guide or contact the fellowship administrators.
-</thinking>
-
 # Education Equity Fellowship Application Form - Help Guide
 ## Purpose
 The Education Equity Fellowship Application Form is a collection of questions designed to gather information about your background, education, and interests to help you qualify for the Education Equity Fellowship. This form will help us understand your motivation, skills, and availability for the fellowship.

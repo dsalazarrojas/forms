@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the renewal of ethical review approvals for research projects. The purpose of this form is to collect information from project leads on the original approval date, reason for renewal, and any changes or new risks to participants. This form is intended for use in academic or research settings where ethical reviews are required for certain projects.
-Before completing this form, please make sure you are not already approved for the project and that it's not a duplicate submission.
-</thinking>
-
 # Application For Ethical Review Renewal Form Template - Help Guide
 ## Purpose
 This form is used for renewing ethical review approvals for research projects.

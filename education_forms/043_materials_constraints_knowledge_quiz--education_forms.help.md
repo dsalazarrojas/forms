@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose of the form and the requirements of each field. This form appears to be a survey or questionnaire with multiple pages, each with a single select_one field. The purpose of the form is likely to collect user feedback or opinions on a series of questions, with each page representing a distinct section or topic.
-
-Before creating the guide, let's check if there are any specific requirements or constraints that need to be considered. In this case, the form requires users to answer all pages, and each page has a single select_one field with only two options: "Yes" and "No".
-
-</thinking>
 # Sample Form - Help Guide
 ## Purpose
 

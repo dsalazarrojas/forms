@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their well-being and support systems in school, home, and other social settings. The form aims to gather information on how students feel in different environments and situations, such as when at school, at home, in class, and when interacting with teachers. It is essential to complete this form honestly and thoroughly to help us understand your experiences and provide better support for you. Please note that some of the fields are optional, and you can choose to answer only those that you feel comfortable with.
-</thinking>
-
 # Student Well Being Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their well-being and support systems in school, home, and other social settings.

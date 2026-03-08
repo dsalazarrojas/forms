@@ -1,5 +1,3 @@
-<thinking>...the form is meant to collect feedback and survey information from users regarding program quality, which helps management and stakeholders assess the overall performance and areas for improvement. This form is likely used for quality control and improvement purposes. Please fill out this form only once per program, as repeating the survey for the same program may lead to unnecessary duplication of data and may skew the results.</thinking>
-
 # Program Quality Survey - Help Guide
 ## Purpose
 The Program Quality Survey is designed to collect feedback and information about your program's performance. It's a tool used by management and stakeholders to assess your program's quality and identify areas for improvement.

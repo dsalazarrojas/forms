@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will use the provided YAML schema to create a user-facing help guide for the "Literature Quiz On Scene Analysis" form. First, I will analyze the form purpose and structure to ensure it's relevant and not duplicated. Upon reviewing the form, I will focus on explaining each field in a concise and practical manner, aiming to cover each point in the specified structure.</thinking>
-
 # Literature Quiz On Scene Analysis - Help Guide
 ## Purpose
 The "Literature Quiz On Scene Analysis" form is designed to guide users in analyzing and providing insights on specific literary scenes. Each scene represents a distinct part of the literary work, and this form helps users to examine each scene in detail.

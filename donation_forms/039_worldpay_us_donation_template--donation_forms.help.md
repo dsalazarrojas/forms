@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to gather information for nonprofits to create a donation template for their fundraising efforts. The form's internal metadata suggests it was generated using public survey data from the "donation_forms" category, which implies it's focused on online donation processes. The field names and labels, such as "Donation Template", "Category", and "Description", also support this assumption. The form's purpose is likely to assist nonprofits in streamlining their donation processes, enhancing donor engagement, and ensuring secure transactional operations.
-</thinking>
-
 # WorldPay US Donation Template - Help Guide
 ## Purpose
 This form is a template designed to help nonprofits create a seamless experience for online donations. It aims to simplify fundraising efforts, enhance donor engagement, and secure transactional operations.

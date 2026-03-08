@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to record the practice exam response of students and provide space for teachers to offer comments and feedback. This form will help in tracking the progress of students in their exam preparation.
-
-To ensure that this form is filled correctly and efficiently, please follow these steps:
-
-- Ensure that each question is answered clearly and accurately.
-- Fill out the student's name for identification purposes.
-- Provide comments for the teacher to give feedback on the student's performance.
-- Fill out the exam date and time for accurate tracking.
-- Answer each question number as per the question prompt.
-
-</thinking>
-
 # exam_free_response_question_practice_form - Help Guide
 ## Purpose
 This form is designed to record the practice exam response of students and provide space for teachers to offer comments and feedback.

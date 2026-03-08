@@ -1,11 +1,3 @@
-<thinking>
-This guide is for a form used to request permissions to add a new course to an educational platform. The form is meant for users who need to request access to a course that is restricted or closed. The form will gather information about the requester, the course they are asking for access to, and any additional information or context they would like to provide. 
-
-To avoid submitting duplicate requests, the form will ask for the submitter's information as well. 
-
-This guide will walk you through how to fill out the form correctly and what each field means.
-</thinking>
-
 # Course Add Permission Request Form - Help Guide
 
 ## Purpose

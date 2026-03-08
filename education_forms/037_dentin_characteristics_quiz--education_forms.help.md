@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about the characteristics of dentin, a layer of tissue in teeth. The purpose of this form is to assess the knowledge of users about the characteristics of dentin, specifically its structure and function. The form is divided into multiple sections, each with a set of questions that aim to elicit specific information about dentin. The form can be completed by selecting the correct answers to the questions or by entering text responses.
-
-To prevent duplication and ensure the form is completed correctly, I will check for any non-numeric values in required fields and ensure that the form is filled out according to the provided instructions.
-</thinking>
-
 # Dentin Characteristics Quiz - Help Guide
 ## Purpose
 

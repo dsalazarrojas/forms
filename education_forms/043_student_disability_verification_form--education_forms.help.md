@@ -1,17 +1,3 @@
-<thinking>
-This form is used to collect information from students to verify their disability status. This form is used by administrators to assess and document a student's disability, which may be used for accommodations and support purposes. To fill out this form, please note the following:
-
-- All fields are optional unless specifically marked as required.
-- Date fields should be entered in the format MM/DD/YYYY.
-- For "Disability Type", select all applicable options from the list.
-- The "Medical Provider" field is for the name and title of the medical provider who diagnosed or confirmed the disability.
-- "Contact Number" is for the phone number of the student's medical provider.
-- "Disability Statement" is a brief statement explaining the student's disability.
-- "Disability Statement Date" is the date the student's disability statement was signed.
-- "Disability Statement Signed By" is the name of the person who signed the student's disability statement.
-
-</thinking>
-
 # Student Disability Verification Form - Help Guide
 
 ## Purpose

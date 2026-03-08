@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their account settings and preferences. The form will help the team understand how users would like to be contacted and what their typical order frequency is. It is not a duplicate form, and users will only see it once. Please proceed with filling out the form below.
-</thinking>
-
 # Alyssa Cs - Help Guide
 ## Purpose
 The Alyssa Cs form is a user-facing form used to collect information about account settings and preferences.

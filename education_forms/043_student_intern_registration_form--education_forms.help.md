@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students to register for an internship program. It appears to be a general form for capturing student details, but further context would be helpful to confirm its specific purpose and usage. It does not appear to be for creating new users or users, so the purpose is likely for internship management or tracking. Before proceeding, ensure that you have the necessary permissions to fill out this form, and that you have not already filled it out previously. This will help ensure that your data is accurate and up-to-date.
-</thinking>
-
 # Student Intern Registration Form - Help Guide
 
 ## Purpose

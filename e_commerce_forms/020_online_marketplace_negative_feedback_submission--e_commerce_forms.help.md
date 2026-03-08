@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect negative feedback from customers on online marketplaces. The purpose of this form is to provide a channel for customers to report issues they have encountered while using an online marketplace, such as product quality concerns, ordering problems, payment disputes, or delivery issues. This form will help marketplace administrators to track and respond to customer complaints, which will improve the overall user experience and increase customer satisfaction.
-
-Before submitting feedback, please ensure that:
-
-1. You have not previously submitted a similar issue through this form.
-2. The issue you are reporting is specific to the online marketplace you are using.
-3. You have checked that the feedback you provide is accurate and clear.
-4. You have filled in all required fields.
-</thinking>
-
 # Online Marketplace Negative Feedback Submission - Help Guide
 ## Purpose
 This form is used to report negative issues or concerns that you have encountered while using an online marketplace.

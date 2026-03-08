@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from parents and students regarding their participation in a dance studio's activities. The form asks for the student's and parent's information, medical conditions, allergies, emergency contact details, medical releases, signature, date, and time of participation. This is a necessary step for ensuring that students and parents understand and agree to the studio's policies and procedures. Please make sure to complete this form carefully and thoroughly to ensure a smooth and safe experience for everyone involved.
-
-</thinking>
-
 # Dance Studio COVID 19 Release Form - Help Guide
 ## Purpose
 This form is required for participation in dance studio activities. It gathers information from students and parents to ensure the studio's policies and procedures are understood and agreed upon.

@@ -1,11 +1,3 @@
-<thinking>As a veterinarian seeking access to educational resources, you might be wondering why this form exists and how to fill it out. The primary purpose of the "Veterinary Education Resource Access Request" form is to allow you to request access to educational resources that you need to enhance your knowledge and skills in the field of veterinary medicine. To determine whether this form is relevant to your needs and to avoid duplicates, please consider the following questions:
-- Are you a veterinarian or a veterinary student?
-- Are you seeking access to a specific educational resource (e.g., textbook, video, document) that will improve your knowledge or skills?
-- Do you have the contact information of the person requesting access to this resource (including their name, email, and phone number)?
-
-If you answered "yes" to the above questions, this form is relevant to your needs. Otherwise, you might not need to fill it out.
-Before filling out this form, please review the fields below to ensure you understand what information is required and what options are available. This will save you time and help you submit your request correctly.</thinking>
-
 # Veterinary Education Resource Access Request - Help Guide
 ## Purpose
 The "Veterinary Education Resource Access Request" form is designed to allow you to request access to educational resources that will improve your knowledge and skills as a veterinarian or veterinary student. This form will help us understand your needs and provide you with the necessary resources to enhance your education.

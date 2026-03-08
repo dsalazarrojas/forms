@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # History Quiz - Help Guide
 ## Purpose
 The "History Quiz" form is designed to collect information about historical events, questions, and answers related to a specific historical period. This form is meant to be a general-purpose tool for capturing historical data, and it does not cover any specific historical period or topic.

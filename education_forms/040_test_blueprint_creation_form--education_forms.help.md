@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help you create a test blueprint, which is a document outlining the structure and content of a test or assessment. It is intended to be used by educators and instructional designers to plan and organize their tests and assessments.
-</thinking>
-
 # Test Blueprint Creation Form - Help Guide
 ## Purpose
 This form is used to create a test blueprint, which is a detailed outline of the structure and content of a test or assessment. It helps educators and instructional designers to plan and organize their tests and assessments.

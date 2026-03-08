@@ -1,10 +1,3 @@
-<thinking>
-This is an e-commerce form for the following purposes:
- 1. To allow customers to place orders for team t shirts and game jerseys.
- 2. To collect customer information for order fulfillment.
- 3. To provide an option for customers to select the method of payment.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to allow customers to place orders for soccer team t shirts and game jerseys. The form collects customer information and payment method details, making it easier for customers to place orders.

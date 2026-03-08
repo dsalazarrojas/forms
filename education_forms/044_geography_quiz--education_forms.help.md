@@ -1,8 +1,3 @@
-<thinking>
-This form is for the "geography_quiz" form which appears to be a multiple-choice quiz that tests a user's knowledge on geography-related questions. This form is likely to be used in an educational setting to assess a student's understanding of geography. I will create a help guide that explains the purpose, usage, and fields of this form.
-
-</thinking>
-
 # Geography Quiz - Help Guide
 ## Purpose
 The Geography Quiz form is designed to assess a user's knowledge on geography-related questions. It consists of multiple-choice questions that test their understanding of geography.

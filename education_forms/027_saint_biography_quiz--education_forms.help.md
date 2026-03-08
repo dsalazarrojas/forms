@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect detailed information about a saint, including their biography, date of birth and death, and other relevant details. This form is designed to be completed by participants in a quiz or survey related to saints.
-</thinking>
-
 # Saint Biography Quiz - Help Guide
 ## Purpose
 The Saint Biography Quiz is a form used to collect information about a saint's biography, including their date of birth and death, and other relevant details.

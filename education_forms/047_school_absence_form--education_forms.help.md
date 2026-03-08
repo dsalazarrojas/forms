@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Absence Form - Help Guide
 ## Purpose
 The School Absence Form is designed to report a student's absence from school due to an illness, family emergency, or other valid reasons. This form is meant to be completed by parents or guardians, providing essential information to the school administration for accurate tracking and record-keeping.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # kindergarten_afternoon_arrangement_form - Help Guide
 
 ## Purpose

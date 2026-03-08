@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Treatment Quote Approval Form - Help Guide
 ## Purpose
 This form is used to generate a quote for dental treatment and obtain approval from the patient before proceeding with the treatment. It is intended to ensure that both the patient and the dental clinic are on the same page regarding the treatment plan and cost.

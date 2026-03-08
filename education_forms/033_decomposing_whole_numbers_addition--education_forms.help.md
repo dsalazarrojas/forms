@@ -1,5 +1,3 @@
-<thinking>...This form is used to decompose or break down whole numbers for addition, which is a mathematical operation. The goal is to help users understand how to break down whole numbers into their base 10 parts to facilitate easier addition. This form is likely used in educational settings or math practice scenarios...</thinking>
-
 # Decomposing Whole Numbers Addition - Help Guide
 ## Purpose
 This form is designed to assist users in breaking down whole numbers into their base 10 parts for addition exercises. The form will guide you through the process, ensuring accuracy and efficiency in your calculations.

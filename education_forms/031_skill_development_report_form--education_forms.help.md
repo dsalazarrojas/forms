@@ -1,19 +1,3 @@
-<thinking>
-
-This form appears to be a skill development report template designed to gather feedback and progress information from educators and learners on a learner's skill development. It seems to be used for tracking and evaluation purposes. This form may be used for both internal and external stakeholders. 
-
-There might be some overlap with other forms or processes that gather similar information, but it is likely unique to the specific use case of the "education_forms" category.
-
-The form has two pages: "Skill Development Survey" and "Educator Comments". On the first page, "Skill Development Survey", there are fields for "Learner Progress" and "Feedback". "Learner Progress" is a select-one field with "Yes" and "No" options, while "Feedback" is a free-text field. 
-
-On the second page, "Educator Comments", there is a field for "Educator Comments" which is a required text field. 
-
-There is also a separate page for "Training Programs" which is not currently visible on this form version but is likely part of a larger form structure. 
-
-Lastly, there is a field "Evaluation Dates" which is a date field and "Next Steps" which is a free-text field but not required. 
-
-</thinking>
-
 # Skill Development Report Form - Help Guide
 ## Purpose
 The Skill Development Report Form is a template used to gather feedback and progress information from educators and learners on a learner's skill development. It is designed to track and evaluate a learner's progress and provide guidance for next steps.

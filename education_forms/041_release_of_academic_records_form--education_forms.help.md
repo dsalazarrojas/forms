@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Release Of Academic Records Form", we need to understand its purpose, which is to allow users to release their academic records for educational purposes. However, we also need to consider whether the form is being filled out for the correct reasons and not for other purposes, such as financial aid or employment applications. We should also ensure that the form is not being filled out unnecessarily, which could lead to duplicate submissions. 
-
-The form is part of the "education_forms" category and contains 5 fields: 1) the main form title, 2) category selection, 3) a description field, 4) a field to confirm if the release is authorized, and 5) a notes field.
-
-</thinking>
-
 # Release Of Academic Records Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be for the enrollment of students into educational programs, likely for a degree or certification program at a school or institution. The form may be used by students or their parents/guardians to provide information necessary for enrollment, such as personal contact details, school and program selection, and other relevant student information. To avoid duplication, it's recommended to check if the student is already enrolled in a program before submitting this form.
-
-</thinking>
-
 # degmnhs_enrollment_form - Help Guide
 ## Purpose
 This guide helps users complete the degmnhs_enrollment_form for student enrollment into degree programs.

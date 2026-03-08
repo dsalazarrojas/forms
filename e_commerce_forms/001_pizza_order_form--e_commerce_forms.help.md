@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for users to place an order for a pizza, providing personal details such as name, address, phone number, and email for delivery or pickup, as well as additional information about the order, including date and time, payment preferences, and payment details. This form might be used by an e-commerce platform or a local pizza shop to gather order details and facilitate payment.
-</thinking>
-
 # Pizza Order Form - Help Guide
 ## Purpose
 This form is designed to collect personal details and order information from users to facilitate delivery or pickup of a pizza. It will guide users through a series of steps to provide all necessary information.

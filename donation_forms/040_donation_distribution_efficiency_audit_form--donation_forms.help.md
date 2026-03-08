@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about the distribution efficiency of donations. It is used to identify areas of improvement and optimize the distribution process. The purpose of this form is not to duplicate efforts, so please fill it out only once for each program and reporting period. The form will help us to understand how donations are being distributed and make data-driven decisions to improve our processes.</thinking>
-
 # Donation Distribution Efficiency Audit Form - Help Guide
 ## Purpose
 The Donation Distribution Efficiency Audit Form is used to collect information about the distribution of donations for different programs, campaigns, and reporting periods.

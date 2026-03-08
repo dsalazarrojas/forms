@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their personal care product order. The form has multiple fields that allow customers to input their product choice, quantity, price, email, phone number, additional notes, and payment method and date. 
-The form will help customers provide their order details to the business for further processing. It is essential to ensure that customers fill out the form correctly to avoid any errors or misunderstandings. 
-To avoid any confusion, ensure that each field is filled out completely and accurately before submitting the form. 
-The fields are as follows: 
-* "Choose a product" allows customers to select the product they are interested in purchasing. 
-* "Quantity" allows customers to specify the number of products they would like to purchase. 
-* "Price" allows customers to input the price of the product they selected. 
-* "Email" allows customers to input their email address. 
-* "Phone" allows customers to input their phone number. 
-* "Additional Notes" allows customers to provide any additional information they want to share. 
-* "Payment Method" allows customers to choose their preferred payment method. 
-* "Payment Date" allows customers to input the date of the payment. 
-</thinking>
-
 # Personal Care Product Order Form - Help Guide
 ## Purpose
 This form is for customers to provide their personal care product order details.

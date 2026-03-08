@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Student Residency Application Form, we need to understand that its purpose is to gather information about students applying for residency, including their occupation, education background, contact details, and demographic information. This form is intended to be completed by students who are applying for residency at an educational institution or facility. The form is designed to be completed by a student or their representative, and the information collected will be used to assess the student's eligibility for residency.
-
-When designing the form, we have considered the following requirements:
-
-* The form should be easy to fill out and understand.
-* Each field should have a clear and concise label and description.
-* The form should not be duplicative or redundant in any way.
-
-</thinking>
-
 # Student Residency Application Form - Help Guide
 ## Purpose
 The Student Residency Application Form is designed to collect information about students applying for residency at an educational institution or facility.

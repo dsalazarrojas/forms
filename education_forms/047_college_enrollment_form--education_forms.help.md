@@ -1,6 +1,3 @@
-<thinking>
-The College Enrollment Form is designed to collect information about students who are interested in enrolling in a college or university. This form is used to gather data on the student's personal details, academic background, and enrollment preferences. The form is divided into two main sections: Personal Information and Enrollment Details. In the Personal Information section, we ask for the student's first name, middle name, last name, date of birth, gender, and contact information. In the Enrollment Details section, we collect information about the student's academic background, intended major and degree, housing preference, meal plan selection, and other relevant details. The form is intended to be completed by the student, and some fields may be required or optional depending on the student's status and preferences. We aim to ensure that the form is as clear and concise as possible to avoid any confusion. We will not collect redundant or unnecessary information to ensure the student's privacy and data security.</thinking>
-
 # College Enrollment Form - Help Guide
 
 ## Purpose

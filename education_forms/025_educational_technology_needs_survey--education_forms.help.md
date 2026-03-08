@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on the educational technology needs of students, faculty, and other stakeholders in educational institutions. The purpose of this form is to understand the needs and expectations of various groups within the educational sector, which will help shape the development and implementation of educational technology solutions. It is essential to complete this form accurately and thoroughly to ensure that the gathered data is reliable and useful. Please note that this form is not a duplicate of any other form, and its content is unique to the educational technology needs survey.
-</thinking>
-
 # educational_technology_needs_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the educational technology needs of students, faculty, and other stakeholders in educational institutions. This will help shape the development and implementation of educational technology solutions that cater to these needs.

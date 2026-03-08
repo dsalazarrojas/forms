@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and consent for teledentistry services. The form's purpose is to ensure that patients understand and agree to the terms of their teledentistry care. This form is not affiliated with any form platform, and its contents are original and adapted from public survey topic metadata.
-</thinking>
-
 # Teledentistry Consent Form - Help Guide
 ## Purpose
 The Teledentistry Consent Form is a document used to collect patient information and consent for teledentistry services. It is designed to ensure that patients understand and agree to the terms of their care.

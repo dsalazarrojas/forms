@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to allow retailers and delivery teams to quickly and easily sign up for a free trial of delivery services. By completing this form, users will confirm their eligibility, select their preferred delivery dates and times, and provide necessary contact information to ensure a smooth trial experience.
-
-To prevent users from completing the same form multiple times, this form is designed to be used once per user. If a user has already completed the form, they will not be able to access it again.
-
-The goal of this form is to streamline the trial process, making it easy for retailers and delivery teams to onboard new customers and manage their delivery preferences. By completing this form, users will be able to select their preferred delivery dates and times, ensuring that their trial experience is efficient and productive.
-</thinking>
-
 # Retail Delivery Free Trial Sign Up - Help Guide
 ## Purpose
 

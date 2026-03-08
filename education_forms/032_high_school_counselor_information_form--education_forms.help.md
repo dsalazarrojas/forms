@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the provided YAML fields and understand the form's purpose and requirements. The form is called "High School Counselor Information Form" and it seems to be designed to collect information from high school students or their representatives about their school counselor. The form has several fields, including contact methods, email, phone number, user name, student name, student grade, user type, notes, assigned to, submitted on, submitted by, and submitted on 2. The form is not required, so users can fill it out at their discretion. There doesn't seem to be any specific business logic or validation rules applied to the form, so we can assume that the form is meant to collect general information. Let's break down each field to create a user-friendly help guide.</thinking>
-
 # High School Counselor Information Form - Help Guide
 
 ## Purpose

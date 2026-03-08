@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prophets_knowledge_quiz_form - Help Guide
 
 ## Purpose

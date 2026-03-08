@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture contact information for dietitians working in the organization. It is crucial that only valid and correct information is provided. Please ensure you have the necessary permissions and approvals before submitting this form. Please do not submit this form if you have already submitted it previously.
-</thinking>
-
 # Dietitian Contact Information Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from dietitians working in the organization. It will help us keep track of your details and ensure that we can reach out to you for any updates or further information needed for your role.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on institutional learning policies, which are guidelines and regulations that govern student and staff behavior in educational institutions. The form is intended to raise awareness about these policies among students and staff.
-
-The form has two sections: the "Student Answers" and "Staff Survey Form". The "Student Answers" section allows students to share their thoughts and experiences related to institutional learning policies. The "Staff Survey Form" section, on the other hand, provides staff members with an opportunity to provide feedback and insights on the effectiveness of the policies.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and public survey topic metadata as inspiration.
-
-</thinking>
-
 # Institutional Learning Policy Awareness Survey - Help Guide
 ## Purpose
 The Institutional Learning Policy Awareness Survey is designed to collect feedback and insights from students and staff on institutional learning policies. This form helps to raise awareness and improve understanding of these policies, which are essential for creating a positive and supportive learning environment.

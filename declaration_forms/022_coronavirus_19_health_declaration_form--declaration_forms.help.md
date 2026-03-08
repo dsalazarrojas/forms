@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Coronavirus 19 Health Declaration Form, let's quickly review the purpose and context of this form. The form appears to be designed for patients to declare their health status and provide personal and contact information, as well as medical history and provider details. This form likely serves as a template for healthcare providers to assess the risk level of patients and provide necessary care. It's essential to ensure that you, as the end-user, understand the form's intent and how to complete it accurately and thoroughly.</thinking>
-
 # Coronavirus 19 Health Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients to help healthcare providers assess their health status and provide appropriate care. Please ensure you complete this form accurately and honestly.

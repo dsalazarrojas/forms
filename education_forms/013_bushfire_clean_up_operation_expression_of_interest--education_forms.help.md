@@ -1,10 +1,3 @@
-<thinking>
-The form is intended for individuals who want to volunteer for a bushfire clean-up operation. This form is used to gather information about the volunteer's identity, availability, and experience in disaster clean-up operations, as well as their emergency contact information and agreement to undergo safety training. The purpose of the form is to ensure that the volunteer is adequately prepared and qualified to participate in the clean-up operation. This includes verifying their identity, checking their availability, and assessing their fitness level and availability of personal protective equipment (PPE). The form also aims to ensure that the volunteer understands the importance of safety and emergency procedures. The information collected will be used to organize and assign volunteers for the operation.
-
-Please ensure that you read through the form carefully and fill it out accurately to provide the most helpful information for the clean-up operation organization.
-
-</thinking>
-
 # Bushfire Clean Up Operation Expression Of Interest - Help Guide
 ## Purpose
 

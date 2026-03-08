@@ -1,7 +1,3 @@
-<thinking>
-The Power Skills Course Registration form is designed for participants to register for a Power Skills Course. This form collects information about the participant, their learning needs, and course selection. To ensure accurate completion, please review the form carefully and ensure that all required fields are filled in. Note that the form is used to collect general information and is not specific to any particular course or event.
-</thinking>
-
 # Power Skills Course Registration - Help Guide
 ## Purpose
 This form is used to register participants for a Power Skills Course.

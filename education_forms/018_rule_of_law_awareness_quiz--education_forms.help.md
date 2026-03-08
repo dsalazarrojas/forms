@@ -1,8 +1,3 @@
-<thinking>
-The form "Rule Of Law Awareness Quiz" is likely designed for individuals to test their knowledge about the rule of law. The purpose of this form is to gauge understanding of the rule of law, possibly in an academic, educational, or training setting. I'm assuming it's meant to be completed by one person at a time, and the answers will likely be submitted to the form's backend for processing. It's possible that the form has multiple sections, each focused on a different aspect of the rule of law, such as sections A to G. I'm going to create a help guide that explains each section in detail. I'll make sure to cover all required and optional fields, assuming that the form's logic is based on the provided YAML fields. I'll try to be concrete, concise, and practical in my explanations. If a field label is unclear, I'll explain it best-effort without inventing unsupported business logic. I'll follow the provided structure and create a Markdown help guide with sections on purpose, how to complete the form, field-by-field explanation, and tips.
-
-</thinking>
-
 # Rule Of Law Awareness Quiz - Help Guide
 ## Purpose
 This guide will walk you through the completion of the Rule Of Law Awareness Quiz form. The quiz is designed to test your knowledge about the rule of law in different areas.

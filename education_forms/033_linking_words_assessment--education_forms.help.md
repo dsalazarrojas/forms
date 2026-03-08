@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess linking words, which are words or phrases that connect two or more ideas, concepts, or words in a sentence or paragraph. The form gathers information about the user's relationship with the subject matter, including choices, dates, and times related to the linking words. The form is used by [insert relevant entity or team here] to understand the user's preferences and habits regarding linking words.
-</thinking>
-
 # Linking Words Assessment - Help Guide
 ## Purpose
 This form is used to gather information about the user's relationship with linking words, including choices, dates, and times related to the linking words.

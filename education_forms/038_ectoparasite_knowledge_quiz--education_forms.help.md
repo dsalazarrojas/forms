@@ -1,9 +1,3 @@
-<thinking>
-
-To check for duplication and relevance of this help guide, the provided YAML defines a form with 21 questions focused on ectoparasites, specifically fleas and lice. This help guide aims to provide guidance for end-users on completing and understanding the form's intent. The form is designed to gather information on various aspects of ectoparasites, including life cycles, prevention methods, treatments, and control strategies. The questions cover different types of ectoparasites (fleas and ticks) and their interactions with animals and humans.
-
-</thinking>
-
 # Ectoparasite Knowledge Quiz - Help Guide
 ## Purpose
 This help guide is designed to assist end-users in understanding and completing the Ectoparasite Knowledge Quiz form. The form aims to gather information on different aspects of ectoparasites, including life cycles, prevention methods, treatments, and control strategies.

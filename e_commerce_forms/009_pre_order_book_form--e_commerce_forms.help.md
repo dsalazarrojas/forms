@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect pre-order information for a book from customers. The form is designed to be simple and easy to use, with only necessary fields to capture the required information. It's likely used by a sales or customer service team to gather customer details and preferences for a book pre-order process.
-</thinking>
-
 # Pre Order Book Form - Help Guide
 ## Purpose
 This form is used to collect pre-order information for a book from customers.

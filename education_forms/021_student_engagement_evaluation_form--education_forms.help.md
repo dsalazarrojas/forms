@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the engagement level of students in a learning environment. It aims to collect feedback from students on their learning experience, challenges they faced, and suggestions for improvement. The form is used to assess the effectiveness of educational programs and provide insights for instructors to enhance the learning process.
-
-The form will be completed by students, and its responses will be used to inform decisions on program adjustments and resource allocation. Each question is designed to be answered by the student to provide a comprehensive understanding of their engagement level, challenges, and feedback.
-
-Please note that some fields are optional, and students should only complete the form if they have a genuine interest in sharing their feedback.
-
-</thinking>
-
 # student-engagement-evaluation-form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-We're creating a help guide for the "Academic Library Survey" form. This form is designed to gather information from users about their experiences and expectations from an academic library. 
-
-The form's purpose is to gather data on:
-- Respondent's information (name, email, etc.)
-- Patron type (student, faculty, staff, or visitor)
-- Frequency of library use (daily, weekly, monthly, or rarely)
-- Satisfaction with resources (current collection, digital resources, etc.)
-- Accessibility of services and space
-- Desired services that the library should offer
-- Open comments and suggestions
-- Optional contact email for follow-up
-
-We'll check for any duplication or irrelevant fields and ensure the explanations are clear and concise.
-
-</thinking>
-
 # Academic Library Survey - Help Guide
 ## Purpose
 The "Academic Library Survey" is a form designed to gather information from academic library users about their experiences, satisfaction, and expectations. The data collected will help the library understand its users' needs and improve services.

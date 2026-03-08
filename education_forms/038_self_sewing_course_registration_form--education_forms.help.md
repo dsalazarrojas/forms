@@ -1,10 +1,3 @@
-<thinking>...
-To create a helpful guide for this form, let's break down the form's purpose and how to complete it, while keeping in mind the required and optional fields.
-
-This form is for registering students for the Self Sewing Course. The form requires basic information such as the course details, student information (name), course dates, instructor, and student contact information (email and phone number). The form is designed to be simple and easy to fill out, with only a few required fields to ensure accuracy and validity of the registration data.
-
-</thinking>
-
 # Self Sewing Course Registration Form - Help Guide
 ## Purpose
 

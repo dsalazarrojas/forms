@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Interconnections Quiz - Help Guide
 ## Purpose
 The Global Interconnections Quiz is a form designed to test students' knowledge of globalization, technology, and international links. It's intended to help educators run quick online assessments and collect results in one place.

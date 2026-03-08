@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Postdoctoral Fellowship Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from a recommender about a candidate for a postdoctoral fellowship. This form helps the reviewer to evaluate the candidate's potential for the fellowship, considering their academic background, research interests, and other relevant details. **Please note that this form should only be completed by authorized recommenders who know the candidate well.**

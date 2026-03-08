@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students who have taken the Ancient Architecture Quiz, which is likely used to assess their knowledge and understanding of ancient architectural styles. This form will help instructors record the student's name, their answers to two questions, and any additional feedback they may have. The form is also used to record the instructor's estimated score for the student. The student will also be asked to consent to have their responses recorded.
-</thinking>
-
 # Ancient Architecture Quiz - Help Guide
 ## Purpose
 

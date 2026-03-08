@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to provide a support desk for hybrid learning, which is a type of educational approach that combines different learning methods and tools to create a more effective and engaging learning experience. This form will guide users through a three-page process to submit their requests for support.
-
-To be eligible to use this form, users should be part of the hybrid learning program and have a legitimate reason for requesting support. The form is divided into three pages: Request Details, Contact Information, and Submission. Each page has a unique purpose and set of fields that the user must fill out to complete the form.
-
-</thinking>
-
 # Hybrid Learning Support Desk Request Form - Help Guide
 ## Purpose
 The Hybrid Learning Support Desk Request Form is designed to provide support for hybrid learning programs. This form helps users submit their requests for assistance, guidance, or resources related to their hybrid learning experience.

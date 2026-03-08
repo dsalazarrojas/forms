@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, I will create a user-facing help guide for the "Curriculum Co Creation Group Registration Form" as per the provided YAML fields. The form appears to be used for registering a group or project for curriculum co-creation, and it includes fields for education background, contact information, and group details. I will assume that this form is part of an internal process or system for managing curricula.
-
-I will also assume that some fields may be optional and not all fields will be applicable to all users.
-
-</thinking>
-
 # Curriculum Co Creation Group Registration Form - Help Guide
 ## Purpose
 The Curriculum Co Creation Group Registration Form is used for registering groups or projects for curriculum co-creation. This form captures relevant information about the group, its purpose, and its details.

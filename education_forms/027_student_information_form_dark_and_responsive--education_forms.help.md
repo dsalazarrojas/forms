@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about students in a school or educational setting. The purpose of this form is to gather essential data about each student, including their name, grade level, age, contact information, background details, and other relevant particulars. This form is a critical tool for educators and administrators to keep track of student records, facilitate communication, and provide personalized support.
-</thinking>
-
 # Student Information Form Dark And Responsive - Help Guide
 ## Purpose
 The Student Information Form Dark And Responsive is designed to collect comprehensive information about students in a school or educational setting. This form helps educators and administrators to record and manage student data effectively.

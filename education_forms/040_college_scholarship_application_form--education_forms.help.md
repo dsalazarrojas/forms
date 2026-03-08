@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for students who are applying for a college scholarship. The form collects various information about the applicant, including their personal details, academic background, financial need, and extracurricular activities. It's essential to fill out this form accurately and completely to ensure that the applicant's eligibility for the scholarship is assessed correctly. Please note that some fields are required, marked as "true" in the form configuration, and must be filled out to continue with the application process. Other fields, marked as "false," are optional and can be skipped if not applicable.
-To prevent duplication of effort, please ensure that you haven't submitted the application before, as this form is intended for new submissions only.
-</thinking>
-
 # College Scholarship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students applying for a college scholarship. It's essential to fill out this form accurately and completely to ensure that the applicant's eligibility for the scholarship is assessed correctly.

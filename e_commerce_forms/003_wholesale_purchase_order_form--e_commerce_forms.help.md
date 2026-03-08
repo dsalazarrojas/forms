@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 ## Wholesale Purchase Order Form - Help Guide
 ## Purpose
 The Wholesale Purchase Order Form is a form designed for wholesale customers to place orders for bulk quantities of items. This form allows customers to provide their contact and customer details, select the items they wish to purchase, and specify the quantity and additional information for each item.

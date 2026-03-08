@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for exchanging phone numbers between accounts. It could be used for a variety of reasons, such as transferring ownership or swapping numbers between accounts. The form likely belongs to an e-commerce platform, given the "e_commerce_forms" category.
-</thinking>
-
 # Phone Exchange Form - Help Guide
 ## Purpose
 The Phone Exchange Form is used to exchange phone numbers between accounts.

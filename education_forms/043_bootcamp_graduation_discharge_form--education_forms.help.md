@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Bootcamp Graduation Discharge Form is to capture information about a participant's completion of a bootcamp program. This form is used to document the participant's progress, skills acquired, and overall experience with the program. It is essential to fill out this form accurately and completely to ensure that the participant's information is up-to-date and reliable.
-To complete this form, start by selecting the correct options for each field, and ensure that all required fields are filled out. This form is typically completed by program administrators or participants themselves.
-The form consists of the following fields:
-</thinking>
-
 # Bootcamp Graduation Discharge Form - Help Guide
 ## Purpose
 

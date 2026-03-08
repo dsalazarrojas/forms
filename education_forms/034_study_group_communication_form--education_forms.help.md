@@ -1,5 +1,3 @@
-<thinking>...the form "study_group_communication_form" is used for sharing meeting information and member details among group members. This form is likely used in educational settings or group projects where members need to communicate effectively with each other. The purpose of this form is to collect relevant meeting information and member details to facilitate smooth communication and collaboration among group members. Before filling out this form, ensure that you have not already filled it out in the past, and that you are completing it for the correct purpose...</thinking>
-
 # study_group_communication_form - Help Guide
 ## Purpose
 The study_group_communication_form is used to share meeting information and member details within a group setting, such as in educational institutions or group projects.

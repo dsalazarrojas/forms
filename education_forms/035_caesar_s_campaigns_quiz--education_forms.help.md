@@ -1,11 +1,3 @@
-<thinking>
-Caesar's Campaigns Quiz is a form used to assess historical knowledge about Julius Caesar's campaigns. It's a multiple-choice quiz with three questions that test the user's understanding of the historical events surrounding Caesar's military campaigns. The form is designed to be completed by students and history enthusiasts, and it's expected to be used in a controlled environment where the purpose is to test knowledge rather than to collect personal data.
-
-The form is divided into two sections: student information (Student name, Class or group) and historical questions (Key event year, Major opponent, Campaign region, Score, Feedback, Completion time). The form will not collect or store any sensitive or personal data, and it's designed to be completed quickly and efficiently.
-
-This form is not intended to be used for commercial purposes, and it's not meant to be filled out by people without basic knowledge of the subject matter. It's recommended to complete this form only if you have a good understanding of Caesar's military campaigns.
-</thinking>
-
 # Caesar s Campaigns Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to assess your knowledge about Julius Caesar's military campaigns.

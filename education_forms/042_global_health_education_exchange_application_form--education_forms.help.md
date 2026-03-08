@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals or organizations interested in participating in the Global Health Education Exchange, a platform for educational exchange and collaboration. The form aims to collect demographic information and academic background from applicants. To ensure accurate and efficient processing, please ensure that you have not submitted this form previously and that all information is up-to-date and accurate.
-</thinking>
-
 # Global Health Education Exchange Application Form - Help Guide
 ## Purpose
 This form is designed to collect demographic and academic background information from individuals or organizations interested in participating in the Global Health Education Exchange. The information collected will be used to facilitate connections, collaborations, and information exchange within the platform.

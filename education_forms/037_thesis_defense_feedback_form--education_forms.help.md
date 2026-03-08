@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thesis Defense Feedback Form - Help Guide
 ## Purpose
 

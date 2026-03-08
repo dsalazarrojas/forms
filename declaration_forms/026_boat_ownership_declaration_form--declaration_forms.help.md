@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather information about boat ownership from the declarant, ensuring that the information is accurate and up-to-date. The form collects personal information about the declarant, boat details, and ownership specifics. The form's purpose is not to collect information about every boat, but rather to verify the declarant's ownership status and ensure they are in compliance with regulations. Before filling out this form, please ensure that you are the rightful owner of the boat and that the information provided is correct and up-to-date. If you are unsure or have any questions, please contact the relevant authorities.
-
-This form is not intended to be used for general inquiries or other purposes. Please do not fill it out if you are not the owner of the boat.
-
-Please note that some fields are required, indicated by an asterisk (*) in the field label. These fields must be filled out to complete the form.
-
-Please fill out the form carefully and accurately, and make sure to review it before submission.
-
-If you have any questions or concerns, please contact the relevant authorities.
-
-</thinking>
-
 # Boat Ownership Declaration Form - Help Guide
 ## Purpose
 This form is intended to collect information about boat ownership from the declarant, ensuring that the information is accurate and up-to-date.

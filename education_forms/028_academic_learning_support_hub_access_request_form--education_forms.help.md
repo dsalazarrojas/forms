@@ -1,12 +1,3 @@
-<thinking>
-The form is created for students and staff to request access to the Academic Learning Support Hub, a platform that provides various resources and services for students to improve their academic performance.
-
-The form is designed to gather essential information from requesters, including their name, email address, department or program affiliation, reason for access, preferred services, urgency level, accessibility needs, preferred contact method, and any additional information.
-
-To ensure that the form is completed accurately and efficiently, it is crucial to understand each field's purpose and requirements.
-
-</thinking>
-
 # Academic Learning Support Hub Access Request Form - Help Guide
 ## Purpose
 This form is designed for students and staff to request access to the Academic Learning Support Hub, a platform that provides various resources and services to improve academic performance.

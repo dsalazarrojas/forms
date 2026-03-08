@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the "Orientation Log Submission" form, which is used to document the details of an orientation session, including user information, session details, and facilitator information.
-This form is intended to help staff and administrators track and record the essential information for new students, employees, and volunteers who attend orientation sessions. 
-This form will be used by staff and administrators to ensure accurate and up-to-date records of orientation sessions, which is crucial for communication, reporting, and compliance purposes.
-To avoid duplication of effort, please ensure that only one submission is made per session.
-</thinking>
-
 # Orientation Log Submission - Help Guide
 ## Purpose
 The Orientation Log Submission form is used to collect and store important information about orientation sessions, including attendee details, session specifics, and facilitator information. This form is essential for ensuring accurate and reliable records of orientation sessions.

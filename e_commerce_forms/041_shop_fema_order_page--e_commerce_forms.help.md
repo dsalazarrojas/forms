@@ -1,7 +1,3 @@
-<thinking>
-The shop-fema-order-page form is designed to collect information from customers about their order details. It appears to be a basic form for customers to input their order details, including shipping information, order items, and contact information. To avoid duplication, it's likely that this form is part of a larger application or system that already has some basic information about the customer or order. This form is probably used in an e-commerce context, where customers can place orders and provide additional information to facilitate the order process.
-</thinking>
-
 # shop-fema-order-page - Help Guide
 ## Purpose
 The shop-fema-order-page form is used to collect information from customers about their orders, including shipping details, items, and contact information.

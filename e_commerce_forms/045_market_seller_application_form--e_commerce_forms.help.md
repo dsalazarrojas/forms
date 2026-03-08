@@ -1,7 +1,3 @@
-<thinking>
-This form is for market sellers to apply to become certified as a seller on our platform. It is used to collect information about the seller, their products, and their business practices. This form will help us assess their readiness to sell on our platform and ensure they meet our standards for quality and reliability. Before filling out this form, please make sure you have all the required information and details ready. Note that some of these fields are marked as required, which means that not having a valid answer for these fields will prevent you from submitting the form. Make sure to review each field carefully before proceeding.
-</thinking>
-
 # Market Seller Application Form - Help Guide
 ## Purpose
 This form is for market sellers to apply to become certified as a seller on our platform.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Dessert Order Form - Help Guide
 
 ## Purpose

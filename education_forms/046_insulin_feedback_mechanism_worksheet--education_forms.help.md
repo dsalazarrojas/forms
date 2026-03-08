@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback on the insulin mechanism from end-users. This form is designed to gather information on various aspects of the insulin mechanism, including its effectiveness, usability, and overall experience. The form is intended to be used by end-users who have interacted with the insulin mechanism in some way. 
-
-Before starting to fill out this form, please ensure that you have not already submitted feedback on the same insulin mechanism. Repeated feedback from the same user can lead to redundant information and make it difficult to identify areas for improvement.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata and is released under a Creative Commons Attribution 4.0 license. 
-
-If you have any questions or concerns about the form, please contact [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Insulin Feedback Mechanism Worksheet - Help Guide
 ## Purpose
 The Insulin Feedback Mechanism Worksheet is designed to gather end-user feedback on the insulin mechanism. It aims to collect information on its effectiveness, usability, and overall experience.

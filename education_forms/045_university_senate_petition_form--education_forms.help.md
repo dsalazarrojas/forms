@@ -1,7 +1,3 @@
-<thinking>
-The University Senate Petition Form is designed to allow students, staff, or faculty to submit petitions to the university senate for consideration. Before starting this form, please ensure that you have not submitted a similar petition in the past and that your request is not already being addressed by an existing initiative or policy. This will help the university administration to focus on new and innovative ideas.
-</thinking>
-
 # University Senate Petition Form - Help Guide
 ## Purpose
 

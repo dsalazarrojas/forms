@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "Online Meeting Evaluation Form" that is clear, concise, and practical for end-users. This form appears to be used to gather feedback and evaluation from attendees of online meetings, and the goal is to make it easy for users to understand its purpose and use it effectively. We will need to carefully review each field to ensure that the explanations are accurate and aligned with the provided YAML fields. Before we start, let's ensure that we are on the same page about the purpose of this form. Is this form meant to gather feedback on the presentation, content, and overall experience of the meeting, or is it used for something else entirely? Are there any specific requirements or constraints that we need to keep in mind while creating the help guide?
-</thinking>
-
 # Online Meeting Evaluation Form - Help Guide
 ## Purpose
 The Online Meeting Evaluation Form is used to gather feedback and evaluation from attendees of online meetings. It helps to assess the effectiveness of the meeting, the quality of the content, and the overall experience of the attendees.

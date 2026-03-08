@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "Library Reservation Form" to ensure end-users understand its purpose, how to complete it, and what each field represents. The form is designed to gather information from users for library reservation purposes. This form is likely used by library staff to collect details from patrons who want to reserve a book or resource from the library. To confirm, the form's purpose is to gather user information for library reservations.
-
-The form has 12 fields, which can be grouped into categories: User Details, Book Reservation, and Submission. We will guide the user through these sections in the explanation below.
-
-</thinking>
-
 # Library Reservation Form - Help Guide
 ## Purpose
 This form is used to collect information from users for library reservations. Please fill out the form with your details and preferences, and library staff will process your request.

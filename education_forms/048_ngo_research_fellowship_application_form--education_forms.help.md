@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for applicants to the NGO (Non-Governmental Organization) Research Fellowship program, a competitive research initiative aimed at supporting research projects that align with the goals of the organization. The form gathers information about the applicants, their research proposals, and their connections with NGOs to ensure that the proposed research aligns with the program's objectives and that the applicant is well-suited for the fellowship. This guide will walk you through the form's structure and help you fill out each section correctly.
-</thinking>
-
 # NGO Research Fellowship Application Form - Help Guide
 ## Purpose
 The NGO Research Fellowship Application Form is designed to collect information from applicants to support their research projects. This guide will help you understand each section of the form and ensure you provide accurate and complete information for your application.

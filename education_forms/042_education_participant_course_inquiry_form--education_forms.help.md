@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in participating in educational courses. The form is likely used by educational institutions or organizations to collect data on potential participants' preferences and interests. This helps them tailor their courses and programs to better meet the needs of their students. To ensure that the form is filled out correctly, please make sure to review the following information carefully. 
-
-The form consists of several fields that ask for different types of information such as course details, personal contact information, and preferences. Each field has a specific purpose and should be filled out accordingly. Please do not duplicate information or provide irrelevant data as it may cause delays or inaccuracies in the processing of your application. 
-
-For instance, if you are inquiring about a course, do not forget to fill out the "Course Type", "Course Level", and "Preferred Format" fields. If you are a foreign language learner, please select your preferred language from the options provided in the "Preferred Language" field. 
-
-Please fill out the form completely and accurately to ensure that your inquiry is processed efficiently.
-</thinking>
-
 # Education Participant Course Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in participating in educational courses.

@@ -1,7 +1,3 @@
-<thinking>
-The form "high_school_student_check_in_form" is designed to collect information from high school students. As a help guide, we aim to make the completion process clear and intuitive for end-users. We need to ensure that this form is relevant and not duplicated in other areas.
-</thinking>
-
 # high_school_student_check_in_form - Help Guide
 ## Purpose
 The high school student check-in form is used to collect student information for high school students, typically for attendance or academic purposes.

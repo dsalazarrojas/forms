@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear to the end-users, and that they understand what information is being asked for and why. This form is for collecting information about donors. We will be using this form to gather data on the individuals who have donated to our organization, including their name, email, and contact preferences.
-The form is not intended to be duplicated or used for any other purpose. It is essential to fill it out accurately and thoroughly to ensure that the information is up-to-date and accurate.
-We also need to check if the form fields are being filled out correctly, to avoid any confusion or errors.
-</thinking>
-
 # Donation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about donors, including their name, contact details, and preferred method of contact.

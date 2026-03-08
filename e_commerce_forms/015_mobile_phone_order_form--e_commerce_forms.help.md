@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from users to process a mobile phone order. It is intended for use in a B2B or B2C context, where a customer is placing an order for a mobile phone. The fields are organized to gather the essential details for a mobile phone purchase, including personal information (first name, last name, and email), contact information (phone number), and payment details (phone selection, payment method, and card information). The form is divided into 2 pages and requires the user to complete 9 fields in total. The payment method field is optional, allowing users to choose from credit card, PayPal, or bank transfer. The form is designed to be completed by the end user, and it's expected that the form will be used for order processing in a business-to-business or business-to-consumer context. </thinking>
-
 # Mobile Phone Order Form - Help Guide
 ## Purpose
 

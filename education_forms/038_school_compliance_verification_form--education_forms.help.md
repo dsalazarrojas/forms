@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to verify the compliance of a student with school policies, procedures, and regulations. This form is likely used by schools to ensure that students and their parents are aware of and have agreed to abide by these rules. The staff member responsible for completing this form needs to verify that the student and parent have signed it, and that the school name matches the one provided by the student. This form is not meant to be a comprehensive review of the student's entire educational history, but rather a specific verification of compliance with certain policies.
-</thinking>
-
 # School Compliance Verification Form - Help Guide
 ## Purpose
 The School Compliance Verification Form is a document used to verify that a student and their parent have agreed to follow school policies, procedures, and regulations.

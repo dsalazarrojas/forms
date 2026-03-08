@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about parents' perception of their own parenting style. The form is likely used to gather data for research, analysis, or other organizational purposes. It's a self-assessment tool aimed at helping parents reflect on their behavior and attitudes towards their children. The form may be used by educational institutions, counseling services, or other organizations focused on family development.
-
-Before proceeding, ensure that the form is relevant to your work or project. If you're a parent participating in research, you're likely a good candidate. If you're a parent not participating in research, this form might not be directly applicable to your situation. 
-
-To avoid any potential duplication of work, ensure you have not recently completed this form. If you're unsure, it's always best to clarify the form's purpose and requirements with the form administrator.
-
-</thinking>
-
 # Parenting Style Survey - Help Guide
 
 ## Purpose

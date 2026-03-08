@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed to collect information from chapter leaders or presidents in a professional organization or club. The form is focused on gathering data about events and attendance for the years 2019 and 2020, as well as information about chapter leadership. The form likely serves as a survey to collect feedback, attendance numbers, and other relevant details about chapter events and leadership.
-
-Before proceeding, ensure that the chapter's leadership information and event details are up-to-date and accurate. This form should only be filled out once per chapter.
-
-Please note that this form has been designed to be filled out by chapter leaders, so the instructions below are tailored to their needs. If you're filling out this form on behalf of someone else, please ensure you have their permission to do so.
-
-</thinking>
-
 # gcc_annual_chapter_survey_2019_2020 - Help Guide
 ## Purpose
 This form is designed to collect information from chapter leaders or presidents about their chapter's events and leadership for the years 2019 and 2020. The data collected will help us better understand chapter activities and improve our services.

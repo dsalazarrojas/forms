@@ -1,13 +1,3 @@
-<thinking>... internal reasoning and checking for duplication ...
-
-This form is designed to evaluate the quality and impact of a journal article presented in a journal club setting. The evaluation form is used to gather feedback from attendees on various aspects of the paper, including its title, authors, presentation quality, and overall impact. This form is likely used to help journal club organizers and participants make informed decisions about which papers to present and discuss in future sessions.
-
-The form appears to have a mix of required and optional fields, which might be used to cater to different levels of feedback.
-
-Before proceeding, let's make sure this form is not being duplicated or redundant with other existing forms in the system.
-
-... </thinking>
-
 # Journal Club Evaluation Form - Help Guide
 ## Purpose
 The Journal Club Evaluation Form is designed to gather feedback on journal articles presented in a journal club setting. This feedback is used to help journal club organizers and participants evaluate the quality and impact of each paper.

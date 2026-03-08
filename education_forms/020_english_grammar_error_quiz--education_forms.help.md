@@ -1,5 +1,3 @@
-<thinking>This form is designed to test users' knowledge of English grammar rules and identify errors in their writing. The form will ask users to provide their user information, describe an English grammar error, and confirm whether the provided error is correct or incorrect. Users can then add a note to elaborate on their answer, if needed. The form is a simple, AI-generated tool for assessing English grammar knowledge, and it is not affiliated with any form platform or proprietary content provider.</thinking>
-
 # English Grammar Error Quiz - Help Guide
 ## Purpose
 The English Grammar Error Quiz form is a self-assessment tool designed to evaluate users' knowledge of English grammar rules. It is a simple and user-friendly form that helps you identify and correct English grammar errors in your writing.

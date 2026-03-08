@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "University Preferences Survey" form. This form is designed to collect information about a user's preferences and plans related to their university experience. The form is not required, but it will help us better understand your needs and preferences. Please note that this guide is only for the purpose of providing clarity and will not be used to store any sensitive or personal identifiable information.
-</thinking>
-
 # University Preferences Survey - Help Guide
 ## Purpose
 

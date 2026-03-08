@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect dietary restrictions and preferences from individuals, which are essential for providing personalized nutrition advice and ensuring safe meal planning. The purpose of this form is to gather accurate and detailed information about the user's dietary restrictions, allergies, and preferences. It is crucial to provide this information to ensure that the user receives relevant and safe meal recommendations. 
-
-The form is divided into multiple sections to collect various types of information, including medical conditions, food allergies, diet types, and contact information. Each section is designed to be completed by the user, and the form is intended to be completed in an individual's own time, at their own pace.
-
-</thinking>
-
 # Dietary Restrictions Form - Help Guide
 
 ## Purpose

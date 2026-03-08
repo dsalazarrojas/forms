@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for applicants to provide information and attachments to support their application to a graduate program. The purpose of this form is to gather relevant details about the applicant's background, education, and experiences. This form is not affiliated with any form platform, and it is an original adaptation of a public survey topic.
-
-Before filling out this form, please ensure that you have reviewed the required documents and have all the necessary information ready to be uploaded. 
-
-</thinking>
-
 # Graduate Program Application Form - Help Guide
 ## Purpose
 The Graduate Program Application Form is designed to collect information about your academic background, education, and experiences to support your application to a graduate program. This form is divided into various sections to help you provide detailed and accurate information about your application.

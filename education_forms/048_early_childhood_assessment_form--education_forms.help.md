@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata as inspiration, with no affiliation with or proprietary content from any form creation or survey platform. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, with proper credit given.
-</thinking>
-
 # Early Childhood Assessment Form - Help Guide
 ## Purpose
 The Early Childhood Assessment Form is designed to collect information about children's developmental progress and family contact details. This form is intended for use in assessing children's early childhood development and gathering information from families for further evaluation or research purposes.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to obtain information from students regarding a computer loan, which likely involves borrowing a computer from the institution for academic purposes. This form is likely used by the institution's administration or student affairs department to track and manage the loan process. The form should only be filled out by students who are borrowing a computer, and the information collected will help the institution keep track of the loan duration, amount, and other relevant details.
-To fill out this form, the student will need to provide some basic information about themselves and the computer they are borrowing. This includes their Student ID, which is likely a unique identifier used by the institution to track student records. The form also requests the make and model of the computer, which could be used to track the specific device being lent. The loan amount, loan date, and return date are also required fields, which will help the institution keep track of the loan duration and any associated fees or penalties. The student name and contact number are optional fields, which could be used to contact the student with any questions or concerns.
-</thinking>
-
 # Student Computer Loan Agreement - Help Guide
 ## Purpose
 The Student Computer Loan Agreement form is used to collect information from students borrowing a computer from the institution for academic purposes.

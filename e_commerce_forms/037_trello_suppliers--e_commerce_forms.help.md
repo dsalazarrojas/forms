@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to manage or interact with suppliers in some way, perhaps for purchasing or inventory management purposes. Given the fields present, it might be used to collect information about a supplier, such as their name, address, email, and supplier type. However, without further context, it's hard to pinpoint its exact purpose. The fields present do not indicate any duplication or overlap with other forms. I will create a concise and practical guide for the form as per the given requirements.
-</thinking>
-
 # Trello Suppliers - Help Guide
 ## Purpose
 This form is used to collect information about Trello suppliers, likely for purchasing or inventory management purposes. The form helps users gather and organize data about Trello suppliers.

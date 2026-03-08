@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Lyft Inspection Form is completed correctly to accurately reflect the vehicle's condition and status. This form should only be filled out once per vehicle, and any previous form submission for the same vehicle should be deleted. Please note that some fields may not be required, but completing all fields will help provide a thorough inspection.
-</thinking>
-
 # Lyft Inspection Form - Help Guide
 ## Purpose
 This form is designed to gather information about a vehicle's condition and status for Lyft's use. It helps to ensure accurate and efficient processing of vehicle-related data.

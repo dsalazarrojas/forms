@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record details for the pickup and drop-off of kindergarten students during the school day. It's used to communicate with parents and staff about the student's arrangement during this time. It's essential to accurately complete this form to ensure a smooth and safe experience for the children. Please review each field to ensure you understand what information is required and how to complete it correctly.
-
-</thinking>
-
 # Kindergarten Afternoon Arrangement Form - Help Guide
 ## Purpose
 The Kindergarten Afternoon Arrangement Form is used to communicate with parents and staff about a student's pickup and drop-off during the school day. Please complete this form to ensure accurate and timely arrangements for your child's pickup.

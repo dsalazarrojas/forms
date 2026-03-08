@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for assessing knowledge of textile related topics. To avoid non-duplication of effort, please note that this guide is for end-users who are not familiar with textile-related knowledge. If you're already familiar, you can skip this guide.
-
-The purpose of this form is to evaluate a person's knowledge in textile-related topics. This form will help us understand the level of knowledge the user has in various aspects of textiles, such as fibers, fabric structures, and textile processes.
-
-</thinking>
-
 # Textile Knowledge Assessment - Help Guide
 ## Purpose
 The Textile Knowledge Assessment form is designed to evaluate a person's knowledge in textile-related topics. This form will help us understand the level of knowledge the user has in various aspects of textiles.

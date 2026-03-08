@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to gather feedback from students about their experience with the engineering final exam review sessions. This feedback is crucial for instructors and the institution to understand the effectiveness of the review sessions and make necessary improvements for future sessions. The form should be completed by students to provide their honest feedback about the sessions they attended. This feedback will help identify areas of improvement and help create more effective and engaging review sessions for students.
-
-To ensure that the form is completed correctly, we should verify that the form purpose is still relevant to the intended audience and that the form is not being duplicated in the process.
-
-</thinking>
-
 # Engineering Final Exam Review Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experience with the engineering final exam review sessions. The feedback will help instructors and the institution improve the effectiveness of these sessions.

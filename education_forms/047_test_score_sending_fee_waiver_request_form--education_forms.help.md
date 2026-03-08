@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is being used correctly and for the right purpose, please be aware that this form is meant to be used by students who are seeking a fee waiver for sending their test scores. This form should only be submitted by students, not schools or any other entity. Also, please make sure that the student is submitting the form for themselves, not on behalf of another student. Before filling out this form, review the provided fields carefully and ensure that all required information is accurate and up-to-date.
-</thinking>
-
 # Test Score Sending Fee Waiver Request Form - Help Guide
 ## Purpose
 This form is designed to request a fee waiver for sending test scores. It is intended to be completed by students who are unable to afford the fees associated with sending their test scores and need a fee waiver to be considered for test score sending.

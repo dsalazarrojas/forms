@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for university event registration purposes. It captures information about an event, including its details, organizers, and contact information. The event type is a select_multiple field with options "Yes" and "No", which likely refers to whether the event has a specific type or is open to various types. The form appears to be for collecting data from users to create or update event information.
-</thinking>
-
 # University Fair Registration Form - Help Guide
 ## Purpose
 This form is intended for university event registration. It collects information about an event, including its details and contact information.

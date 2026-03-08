@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect personal information from applicants, including their name, contact details, and declaration of certain attributes or characteristics. The form aims to ensure the accuracy and completeness of the information submitted. Please note that this form is for personal information and should not be used for commercial or business purposes.
-
-To avoid duplication of information and ensure the accuracy of the data, please make sure to:
-
-- You are filling out this form for the correct purpose and not duplicating it.
-- Your personal details are correct and up-to-date.
-- You have answered all questions truthfully.
-</thinking>
-
 # Statutory Declaration Form - Help Guide
 ## Purpose
 The Statutory Declaration Form is a personal information collection form used for official purposes.

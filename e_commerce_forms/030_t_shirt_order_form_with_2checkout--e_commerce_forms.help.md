@@ -1,10 +1,3 @@
-<thinking>
-This guide assumes that the T Shirt Order Form With 2Checkout is used for customers to place orders for customized t-shirts with specific sizes, colors, and designs. This form is likely used in an e-commerce context, where customers can select their preferred size, color, and design for the t-shirt, and provide their contact information for order fulfillment. The form may also include fields for billing and shipping details, such as address, city, state, and zip code. 
-
-The form should not be filled out multiple times, as each submission is a new order. 
-
-</thinking>
-
 # T Shirt Order Form With 2Checkout - Help Guide
 ## Purpose
 

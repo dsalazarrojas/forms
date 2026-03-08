@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for gathering feedback from students about the wellbeing space or area in their school. The purpose of this form is to collect information on students' satisfaction levels with the wellbeing space, their participation in activities, and suggestions for improvement. 
-
-The form is likely part of a larger initiative to improve the wellbeing space experience for students. It may be used by school administrators or faculty members to gauge student opinions and gather insights to create a more engaging and supportive environment. 
-
-To the best of my knowledge, this form is not meant to be a duplicate or replacement for any existing form, and its completion is intended to be a one-off activity. 
-
-</thinking>
-
 # School Wellbeing Space Survey - Help Guide
 ## Purpose
 The School Wellbeing Space Survey is a form designed to collect feedback from students on their experience with the wellbeing space or area in their school. The purpose of this form is to gather information on student satisfaction, participation, and suggestions for improvement.

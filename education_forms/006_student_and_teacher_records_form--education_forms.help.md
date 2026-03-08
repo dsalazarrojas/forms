@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect various types of information related to students and teachers within an educational institution. The form aims to gather data on student and teacher records, which could include their personal details, enrollment, onboarding, directory management, and more. This form is likely used by institutions to track and manage student and staff information in a centralized manner. The fields provided suggest that this form is used for both students and teachers, but the distinction is not clear. To complete this form, users would need to enter information for each of the fields listed, such as student and teacher form sections, enrollment, onboarding, and directories for both students and staff. The exact fields and their purposes should be clarified in the explanation section.</thinking>
-
 # Student And Teacher Records Form - Help Guide
 ## Purpose
 This form is designed to collect various types of information related to students and teachers within an educational institution.

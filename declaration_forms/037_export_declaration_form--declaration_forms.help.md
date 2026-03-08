@@ -1,7 +1,3 @@
-<thinking>
-This form is used for declaring the export of products, including details such as product name, quantity, unit price, total cost, export date, and shipping method. Before proceeding, ensure that you have reviewed the relevant guidelines and regulations for exporting products from your organization. Please note that some fields are optional and may not be relevant to your specific export scenario. It is crucial to fill in the form accurately to ensure compliance with export regulations.
-</thinking>
-
 # Export Declaration Form - Help Guide
 
 ## Purpose

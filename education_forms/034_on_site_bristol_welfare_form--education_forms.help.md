@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is designed for users to request on-site welfare support for learners. The purpose of this form is to collect information about the learner's needs and preferences, which will be used to provide the necessary support. 
-
-To use this form, please make sure you are not requesting welfare support for a student who is not currently on-site. If you have already submitted a request for the same student, please do not resubmit. 
-
-</thinking>
-
 # on_site_bristol_welfare_form - Help Guide
 ## Purpose
 This form is used to request on-site welfare support for learners who are currently on-site.

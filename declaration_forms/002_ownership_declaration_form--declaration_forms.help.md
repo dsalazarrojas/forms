@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a declaration form for ownership, and its purpose is to gather information about the owner of a pet. The form may be used for various purposes, such as registration, identification, or certification. It's possible that this form is part of a larger system or process that requires the owner to declare their ownership of a pet. However, the exact use case and the implications of filling out this form are not specified. It's recommended to review the form's context and purpose with the relevant stakeholders to ensure that it serves its intended use case and doesn't lead to unnecessary information collection or duplication.
-
-</thinking>
-
 # ownership_declaration_form - Help Guide
 ## Purpose
 The ownership declaration form is a tool used to gather information about the owner of a pet. It's essential to fill out this form accurately to ensure that the owner's details are recorded correctly.

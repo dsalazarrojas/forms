@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students about their recent experience with a teaching course or program. The form is meant to be completed by students to provide their thoughts, feelings, and opinions about the course, its teachers, and the teaching assistants. This feedback will help the instructors and administrators of the course to identify areas of improvement and provide better services to the students in the future.
-
-To ensure that the form is completed accurately and efficiently, here is a brief check for relevance and non-duplication:
-
-* This form is intended for students who have recently completed or are currently enrolled in the course.
-* If you have already submitted feedback, please do not complete this form again.
-</thinking>
-
 # Teaching Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their recent experience with a teaching course or program. It helps instructors and administrators to identify areas of improvement and provide better services to students.

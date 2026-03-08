@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students, faculty, and staff about their experience with the institution's writing support services. The goal is to understand what services are being used, what challenges are faced, and what improvements can be made to better serve the writing community. This form aims to gather qualitative and quantitative data to inform future support services development.
-
-This form is not intended for new users who are looking to access writing support services, but rather for those who have already used them and are willing to share their experience.
-
-Please ensure that you have completed the form before submitting, as any incomplete submissions may lead to confusion or incorrect data collection.
-
-This form should not be filled out by those who have not used the writing support services before, as it may lead to biased or inaccurate feedback.
-</thinking>
-
 # Academic Writing Support Survey - Help Guide
 
 ## Purpose

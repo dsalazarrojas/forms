@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from teachers about their teaching schedule. The form is not mandatory, and it's primarily used for internal record-keeping purposes. It's meant to be filled out by teachers to provide information about their teaching hours, classroom details, and other relevant data. This form is not intended for public consumption, and the data collected will be used within the institution to support administrative tasks.
-</thinking>
-
 # Teacher Timetable Form - Help Guide
 ## Purpose
 The Teacher Timetable Form is a tool used by teachers to provide information about their teaching schedule, classroom details, and other relevant data. This form is not mandatory but helps the institution's administrative tasks.

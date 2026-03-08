@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who need to fill out the "Program Kit Registration Form". The form is used for registering participants and collecting information about their kits and shipping details. Before filling out this form, please ensure that you are a registered participant. If you're unsure, contact our support team to confirm your registration status. 
-
-Duplicate submissions from the same participant will not be accepted to avoid errors in the registration process.
-
-</thinking>
-
 # Program Kit Registration Form - Help Guide
 ## Purpose
 The "Program Kit Registration Form" is used to collect information about a participant's kits, shipping details, and other relevant details. It's essential to complete this form accurately to ensure that your kits are shipped correctly and on time.

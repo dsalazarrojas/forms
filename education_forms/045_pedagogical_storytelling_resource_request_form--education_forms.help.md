@@ -1,7 +1,3 @@
-<thinking>
-Please confirm that the form is for requesting resources related to pedagogical storytelling. This form is intended for educators to submit requests for resources that will support their pedagogical practices. We need to ensure that this form is completed accurately and not submitted in duplicate. If you are requesting resources for the same purpose, please do not fill out this form again. Please provide your educator name, resource type, resource URL, reason for requesting the resource, and email address where you can be contacted. Your contact number is also optional but helpful for further communication.
-</thinking>
-
 # Pedagogical Storytelling Resource Request Form - Help Guide
 ## Purpose
 The Pedagogical Storytelling Resource Request Form is designed for educators to request resources that support their pedagogical practices. This form will help us understand your resource needs and provide you with the relevant resources.

@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to capture information from students participating in a peer review research study. The form is likely to be used within an educational institution to gather data on students' perspectives and experiences. The purpose of the form is to understand students' views on a particular research subject, and the fields are designed to capture relevant details about the student, such as their category, name, contact information, and specific responses to research questions. The form is designed to be completed by students participating in the research study, and the data collected will be used to inform the research study's findings.
-
-The form is likely to be used by researchers or administrators within the educational institution to gather data and track responses from students.
-
-Before filling out the form, make sure you have the necessary permissions and approvals to participate in the research study.
-
-</thinking>
-
 # Student Peer Review Research Consent Form - Help Guide
 ## Purpose
 

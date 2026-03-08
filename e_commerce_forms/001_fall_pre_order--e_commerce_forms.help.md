@@ -1,35 +1,3 @@
-<thinking>
-This form is used for customers to place a preorder for a specific product during the fall season. It is designed to be used in conjunction with the product's availability and shipping schedules. The customer will be asked to select a product, specify the quantity, preferred contact method, and other relevant details such as email address and comments. This form is intended to capture all necessary information for a smooth preorder process. 
-
-The form will be filled out by customers who are interested in placing a preorder for the fall season. It is recommended that the form is reviewed carefully to ensure all necessary information is provided. 
-
-This form is not intended to capture general feedback or comments, but rather specific information required for the preorder process. 
-
-This form is used in the context of e-commerce operations and will be reviewed by the order management team. Please review this form carefully to ensure all required information is provided. 
-
-This form has multiple pages and will be reviewed in sections. 
-
-Please note that some fields are required and must be filled out in order to process your preorder. 
-
-Please ensure that all required fields are filled out correctly to avoid any issues with your preorder. 
-
-The following is a breakdown of the form fields and their purpose: 
-
-- **product_preorder**: Select the product you would like to preorder. 
-- **quantity**: Specify the quantity of the product you would like to preorder. 
-- **contact_method**: Choose how you would like to be contacted. 
-- **other_products**: Check if you are interested in other products. 
-- **email**: Enter your email address. 
-- **comments**: Add any additional comments or questions you may have. 
-- **updates**: Check if you would like to receive updates on your preorder. 
-- **add_other_products**: Check if you would like to add other products to your preorder. 
-- **email_confirmation**: Confirm your email address. 
-- **additional_comments**: Add any additional comments. 
-- **confirm_updates**: Check if you would like to confirm updates on your preorder. 
-- **additional_products**: Add any other products you would like to preorder.
-
-</thinking>
-
 # Fall Preorder - Help Guide
 ## Purpose
 This form is used for customers to place a preorder for a specific product during the fall season.

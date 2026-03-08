@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to create a customized word search puzzle for the user. The form allows users to choose the size, orientation, and design of the puzzle, including grid size, background color, font, and font style. The form also includes options for word list type, word count, word description, and word list example. This form is designed for users who want to create a word search puzzle with specific parameters.
-
-Before creating the form, please ensure that you have not filled out this form previously. If you need to recreate the same settings, you can start from scratch.
-
-The following instructions guide you through filling out the Word Search Activity form.
-
-</thinking>
-
 # Word Search Activity - Help Guide
 
 ## Purpose

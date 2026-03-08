@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # epic_departure_form - Help Guide
 ## Purpose
 The epic_departure_form is a form used to document the departure details of a student from a flight academy. It includes fields for start and end times, flight academy details, student information, and contact details. This form is typically used by flight academy staff to record the departure times and dates of students.

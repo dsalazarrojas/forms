@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to record donations for a marathon event. It collects various details such as the donor's name, contact information, payment method, and other relevant details. The form is intended to be used by both donors and event organizers to accurately track and manage donations. It is crucial to ensure that the form is completed accurately and thoroughly to avoid any errors or discrepancies in the donation process.
-
-</thinking>
-
 # marathon_sponsorship_donation_form - Help Guide
 ## Purpose
 The marathon sponsorship donation form is used to record and manage donations for a marathon event. It is essential to provide accurate and complete information to ensure smooth processing of donations.

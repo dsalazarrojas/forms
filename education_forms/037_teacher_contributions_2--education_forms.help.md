@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the "Teacher Contributions 2" form. To ensure that the form is completed accurately and efficiently, I will provide a clear and concise explanation of its purpose, how to complete it, and what each field means. This guide will be presented in Markdown format, following the required structure. After completing the internal reasoning block, I will provide the final help guide in Markdown.</thinking>
-
 # Teacher Contributions 2 - Help Guide
 ## Purpose
 The "Teacher Contributions 2" form is designed to collect information from teachers about their contributions in a specific subject area. This form helps to track and document the activities, goals, and progress of students, as well as the teacher's involvement and ratings. The form is used to provide a comprehensive overview of the teacher's contributions and to facilitate collaboration and planning between teachers.

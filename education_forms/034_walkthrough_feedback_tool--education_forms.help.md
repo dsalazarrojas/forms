@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have completed a walkthrough process or activity. The purpose of this form is to collect information on how users perceive the effectiveness and usability of the walkthrough process. The feedback will help the organization understand the strengths and weaknesses of the walkthrough and identify areas for improvement.
-
-To avoid duplication, this form is not affiliated with, endorsed by, or derived from any form platform, ensuring that the generated form is an original adaptation of publicly available metadata. 
-
-This form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-</thinking>
-
 # Walkthrough Feedback Tool - Help Guide
 ## Purpose
 The Walkthrough Feedback Tool is designed to gather feedback from users who have completed a walkthrough process or activity. This feedback will help the organization understand the effectiveness and usability of the walkthrough process.

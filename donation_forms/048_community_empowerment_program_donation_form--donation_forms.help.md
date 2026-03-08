@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect donations for the Empowerment Program. The purpose is to gather information from donors, including their name, email address, and donation details. The form ensures that each donor's information is accurate and complete for tax receipt and communication purposes. Donors can select the focus area for their donation and choose to set up recurring donations. The form also allows donors to make their donation anonymous if desired.
-
-</thinking>
-
 # Empowerment Program Donation - Help Guide
 ## Purpose
 This form is designed to collect donations for the Empowerment Program, a initiative that supports various focus areas such as training and education, micro-grants, operational support, and the general fund.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from sellers who are experiencing common challenges in their sales process. The purpose of this form is to gather data on how sellers are currently addressing these challenges and what remedies they are using to overcome them. This form is used to identify areas for improvement and potential solutions to help sellers overcome common sales challenges.
-
-</thinking>
-
 # Unpaid Sellers Remedies Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from sellers about their experiences and remedies used to overcome common sales challenges. The goal is to gather insights and suggestions to help improve sales processes.

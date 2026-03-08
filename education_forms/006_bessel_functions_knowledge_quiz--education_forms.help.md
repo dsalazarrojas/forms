@@ -1,7 +1,3 @@
-<thinking>
-A form to assess users' knowledge on Bessel functions, a crucial concept in mathematical analysis and physics. This form appears to be part of a larger assessment or evaluation tool for students or researchers in the field. The form is designed to collect information about the user, the questions they are asked, and their answers to these questions. It is essential to understand the purpose of this form in your context to fill it out correctly.
-</thinking>
-
 # Bessel Functions Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge on Bessel functions, a crucial concept in mathematical analysis and physics. It consists of several sections, each with specific questions and fields to be filled out.

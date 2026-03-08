@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering participant information and consent for recording footage during the campus orientation. It is designed to be completed by participants of the campus orientation program. The form should only be filled out by individuals who have been explicitly informed that they will be participating in the campus orientation program. This form will help to obtain the necessary consent for recording footage of participants. It is assumed that participants will provide their valid email and phone numbers for potential follow-up communications. The form can be filled out by multiple people at once, but each participant must submit their own form. This form should not be filled out by individuals who are not participating in the campus orientation program.
-</thinking>
-
 # Virtual Campus Orientation Footage Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and consent for recording footage during the campus orientation. It is intended for individuals who have been informed that they will be participating in the campus orientation program.

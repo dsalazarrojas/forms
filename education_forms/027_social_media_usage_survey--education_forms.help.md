@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on social media usage patterns among individuals. The purpose of this survey is to collect data on how individuals interact with social media platforms, their frequency of usage, the time spent on these platforms, and their perceived effects on mental health. It's essential to provide clear explanations for each field to ensure that respondents can accurately fill in their information.
-</thinking>
-
 # Social Media Usage Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on your social media usage patterns, including the platforms you use, how often you use them, and how they affect your life.

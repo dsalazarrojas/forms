@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used when a disciplinary action needs to be amended or updated. This form should only be used when the original disciplinary action is not sufficient or requires further action. It is essential to check that the original disciplinary action has not been duplicated before proceeding. This form is intended for internal use within the organization and should only be completed by authorized personnel.
-</thinking>
-
 # Disciplinary Action Amendment Form - Help Guide
 ## Purpose
 This form allows users to update or amend a previously issued disciplinary action. It is used to provide more information or clarification on the action taken against an employee.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be a general-purpose guide for end-users to fill out the Early Admission Application Form, but it doesn't seem to be specifically designed for a particular institution or program. To use this form, please ensure that you are applying for early admission to an academic program and not for another purpose. This form is not intended for internal use within an institution and is meant for public use. 
-
-Please review your application requirements carefully to ensure this form meets your needs. If you have any doubts, please contact the relevant department or authority for guidance. 
-
-</thinking>
-
 # Early Admission Application Form - Help Guide
 
 ## Purpose

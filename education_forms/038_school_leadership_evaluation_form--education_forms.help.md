@@ -1,5 +1,3 @@
-<thinking>Form fields are meant to be filled out by school leaders and teachers to provide a comprehensive assessment of school leadership, covering 24 key areas including overall environment, communication, and collaboration. Each field in this form represents a specific leadership skill or trait, allowing users to rate or select their level of agreement or performance. When filling out this form, please ensure you're answering based on your personal experience and observations within the school. Avoid duplicating answers or providing irrelevant information, as this will help ensure a thorough and accurate evaluation. This form is designed to be completed by school leaders and teachers, so please only answer questions based on your role and position within the school.</thinking>
-
 # School Leadership Evaluation Form - Help Guide
 
 ## Purpose

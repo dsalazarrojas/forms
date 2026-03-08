@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help students apply for work or study programs. It requests basic information about the applicant, including their name, contact details, and educational background. This form is intended to be used by students who wish to apply for work or study programs, and it is not a required form for internal use. To confirm that this form is not a required form for internal use, the "required" field for most fields is set to false. However, this does not affect the form's usability or functionality. It's also worth noting that the form is designed to accommodate a range of different types of input fields, from text and select fields to note fields, making it versatile for various types of applications.
-</thinking>
-
 # work_study_application_form - Help Guide
 ## Purpose
 The work_study_application_form is designed to collect information from students applying for work or study programs.

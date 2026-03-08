@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adverb Usage Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of adverbs, their definitions, classification, and usage in sentences. It will help assess your understanding of adverbs and their role in language.

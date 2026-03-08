@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that the form purpose is to monitor parent-teacher engagement. The form is designed to collect information from parents about their engagement with teachers. This form should only be used for monitoring purposes, and the data collected will be used to help teachers understand parent involvement. The form should not be used for other purposes, such as reporting or evaluation.
-</thinking>
-
 # parent-teacher-engagement-monitoring-form - Help Guide
 ## Purpose
 This form is used to monitor parent-teacher engagement, collecting information from parents about their involvement and communication with teachers.

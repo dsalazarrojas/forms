@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking and updating course progress, titles, and statuses. It may be used by instructors or administrators to monitor student or course completion, including active, inactive, dropped, awaiting approval, or completed statuses. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to track and update course progress, including course titles, completion dates, grades, and statuses. It's intended for use by instructors or administrators to monitor the status of courses.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to allow customers to place an order for a holiday collection. The purpose of this form is to collect information about the customer's order, including shipping details and order notes. This form will be used to process the order and ensure that all necessary information is gathered to fulfill the customer's request.
-
-Before filling out this form, please ensure that you have not already submitted a similar order in the past. Filling out this form will not affect your previous orders, and any new orders will be processed separately.
-
-When filling out this form, please provide accurate and complete information. If you are unsure about any field, please ask for clarification from our customer support team.
-
-This form is divided into several sections. Please make sure to review each section carefully and fill out the fields accordingly.
-</thinking>
-
 # Holiday Collection Order Form - Help Guide
 ## Purpose
 The Holiday Collection Order Form is designed to allow customers to place orders for a holiday collection. This form collects necessary information about the customer's order, shipping details, and order notes to ensure accurate and timely fulfillment.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to help the Dance Academy collect information from potential students and their parents/guardians for enrollment purposes. This form will help the Dance Academy to gather essential details such as contact information, medical conditions, and other relevant details that will enable them to provide the best possible experience for the student. 
-
-Please note that this form is not for actual payment or financial details; hence, there is a separate form for that. The focus here is on the students' and parents' preferences, needs, and medical information to ensure the best possible outcome.
-
-Ensure that you complete this form with the utmost care as it will be used for administrative purposes. 
-
-</thinking>
-
 # Dance Academy Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential students and their parents/guardians for enrollment in the Dance Academy.

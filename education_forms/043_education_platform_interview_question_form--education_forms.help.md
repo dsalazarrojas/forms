@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from a candidate about their education background, work experience, skills, and other relevant details that can be used for educational purposes. The form is likely used in an educational platform to collect data about candidates for a specific program or position. Before proceeding, please ensure you haven't filled out this form before, as this guide is intended to provide a clear understanding of the form's purpose and requirements.
-</thinking>
-
 # Education Platform Interview Question Form - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate's education background, work experience, skills, and other relevant details for educational purposes.

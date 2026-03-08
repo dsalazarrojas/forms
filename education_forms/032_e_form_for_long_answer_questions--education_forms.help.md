@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback or answers from students to essay questions, allowing students to express their thoughts and opinions in a written form. This form will be useful for teachers to get a clear understanding of their students' perspectives and ideas. To ensure relevance, it is recommended to only use this form for educational purposes, such as in-class essays or exams. Please do not use this form for any other purpose as it might not be suitable. To avoid duplication, please make sure that the questions and fields are not already covered in other forms.
-</thinking>
-
 # E Form For Long Answer Questions - Help Guide
 ## Purpose
 This form is designed to collect long answer questions from students, providing a platform for them to express their thoughts and opinions in a written format. It helps teachers to assess their understanding of the subject matter and provide feedback to students.

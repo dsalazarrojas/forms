@@ -1,5 +1,3 @@
-<thinking>...This form's purpose is to collect information from students applying for a scholarship program. The form is designed to gather contact information, personal details, and other relevant data from applicants. Before starting, please note that the form is not affiliated with any specific institution or platform, but rather a public adaptation of a hypothetical form designed for educational purposes. Ensure you are applying for a real scholarship program and not a mock one. Also, ensure that you are not filling out this form multiple times as it may cause duplication of effort and data inconsistency.</thinking>
-
 # Scholarship Program Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information from students applying for a scholarship program. It is intended to gather contact information, personal details, and other relevant data from applicants.

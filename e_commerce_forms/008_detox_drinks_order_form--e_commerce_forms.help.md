@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Detox Drinks Order Form - Help Guide
 ## Purpose
 The Detox Drinks Order Form is designed for customers to provide their order information, including customer details, order specifics, billing address, order notes, payment information, and terms and conditions. This form helps streamline the ordering process, ensuring that all necessary information is collected and accurately recorded.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of students or individuals on the topic of colloids. It aims to evaluate their understanding of various aspects of colloids, including definitions, examples, particle size, and stability factors. The form is composed of multiple-choice questions and free-text fields, allowing users to provide feedback and suggestions for improvement. This form is likely used in educational settings to gauge the effectiveness of teaching materials or to support the development of educational resources.
-Before completing this form, please ensure you have a good understanding of the subject matter and are not duplicating an existing assessment. If you're unsure or have questions, please reach out to the form author or contact the email address provided.
-
-The form is divided into several sections, each covering a distinct topic related to colloids. The questions and fields are designed to be clear and concise, but if you're unsure about any part, please feel free to ask.
-
-</thinking>
-
 # Colloids Knowledge Assessment - Help Guide
 ## Purpose
 The Colloids Knowledge Assessment form is designed to evaluate the knowledge and understanding of students or individuals on the topic of colloids. It assesses their understanding of definitions, examples, particle size, and stability factors related to colloids.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for providing feedback on a return case, which is the process of handling an order that needs to be returned or replaced. Before submitting feedback, please note that this form should only be used for return cases that are not already closed or resolved. Duplicate submissions may be ignored.
-</thinking>
-
 # Returns Coordinator Feedback Form - Help Guide
 
 ## Purpose

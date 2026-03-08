@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from international students for the purpose of processing their applications. It is used in conjunction with other forms and documents to ensure that students meet all the necessary requirements for admission. This form should not be completed by students who have not been previously approved or have already been admitted to the program.
-
-This form is designed to be completed by students applying to the program for the first time. Please do not complete this form if you have already submitted an application or have been admitted to the program in the past.
-
-Please note that this form is subject to change, and the fields and options may change over time. It is the student's responsibility to ensure that all required fields are completed accurately and thoroughly.</thinking>
-
 # New International Student Application Form - Help Guide
 ## Purpose
 The New International Student Application Form is a form used to collect information from international students applying to the program for the first time. It is used in conjunction with other forms and documents to ensure that students meet all the necessary requirements for admission.

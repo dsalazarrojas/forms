@@ -1,19 +1,3 @@
-<thinking>
-This form is a Disciplinary Action Absence Form used for documenting instances of employee absences in the workplace. Before starting the form, it is essential to confirm that no duplicate entries are created for the same absence and to ensure that the form is being used for its intended purpose.
-
-The form is divided into several pages for better organization. Page 1 is the main content page, page 2 is the manager comments, and page 3 is the employee acknowledgement and acknowledgement from the manager.
-
-The purpose of this form is to:
-
-- Document instances of employee absences from work, including reasons and duration.
-- Record the disciplinary action taken, such as verbal or written warnings.
-- Capture the date of the last contact with the employee and the date of the disciplinary action.
-- Obtain employee and manager acknowledgement and signature.
-
-Please ensure that all fields are filled out accurately and truthfully.
-
-</thinking>
-
 # Disciplinary Action Absence Form - Help Guide
 ## Purpose
 The Disciplinary Action Absence Form is used to document instances of employee absences from work, including reasons and duration, and to record the disciplinary action taken.

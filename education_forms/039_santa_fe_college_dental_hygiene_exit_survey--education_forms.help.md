@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students who are exiting the dental hygiene program at Santa Fe College. This survey aims to gauge their satisfaction with the program, identify areas for improvement, and encourage students to provide suggestions or comments. Before completing this form, please ensure that you have taken the dental hygiene program and are providing honest and constructive feedback.
-</thinking>
-
 # Santa Fe College Dental Hygiene Exit Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have completed the dental hygiene program at Santa Fe College. Your input will help us understand your experience and suggest areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The "Class Year Overview Form" is used to collect information about a class's academic year. This form is used to track and document the achievements, challenges, and goals of a class. It should only be filled out by authorized users, such as class advisors or administrators, to avoid duplication of efforts and ensure consistency in the data collected. This form is essential for understanding the class's performance and identifying areas that require improvement or attention from the class advisors or school administration.
-</thinking>
-
 # Class Year Overview Form - Help Guide
 ## Purpose
 The Class Year Overview Form is a crucial tool for capturing the highlights and challenges of a class's academic year. It is used by class advisors or school administrators to provide an objective overview of the class's performance and to identify areas that require improvement or attention for the next academic year.

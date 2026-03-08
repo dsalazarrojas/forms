@@ -1,14 +1,3 @@
-<thinking> 
-This form is a general template for collecting student information in an educational setting. The purpose of this form is to gather demographic and contact details from students or their parents/guardians. The form appears to be part of a system or process used to manage student data, likely for educational institutions or organizations.
-
-Form fields are a mix of text-based fields for name, address, and contact information, as well as a few select_one fields for specifying grade level and subject interest. A note field is also available for any additional comments or remarks.
-
-The form's structure and fields are fairly standard, suggesting that it's designed for straightforward data collection. The absence of any advanced features or specialized fields implies that it may be used in a general, administrative capacity rather than for any specific educational program or assessment.
-
-To ensure the form is used correctly, it's essential to review the form's fields carefully and only fill out the required fields as instructed. 
-
-</thinking>
-
 # mc_deca_0_18 - Help Guide
 ## Purpose
 This form is designed to collect demographic and contact information from students or their parents/guardians.

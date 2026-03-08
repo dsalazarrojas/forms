@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to communicate and track dance rehearsals. It helps ensure that all relevant information is shared between parties involved in the rehearsal, such as instructors, attendees, and organizers. This includes details about the rehearsal's schedule, location, and attendance, as well as any important updates or changes.
-
-Before filling out this form, please note that it's created using AI-generated form design principles. It does not copy, extract, or use any proprietary content from other form platforms. This form's metadata will be released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-</thinking>
-
 # Dance Rehearsal Communication Form - Help Guide
 ## Purpose
 This form is designed to facilitate effective communication and organization of dance rehearsals. It ensures that all relevant information is shared between parties involved, such as instructors, attendees, and organizers.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Creative Writing Prompt Generator form. The form is designed to collect information from users to generate creative writing prompts, which can be used to inspire writers to create new works of fiction. The form collects user data, including first and last name, email, phone number, writing group, prompt type, word count, genre, story length, frequency of prompts, date and time of the prompt, location, and description, to provide a comprehensive understanding of the user's creative writing needs and preferences.
-
-Upon filling out the form, the user will be provided with a generated creative writing prompt tailored to their selected preferences. The goal of the form is to help writers find inspiration and get started on their writing projects. To ensure the form is used correctly, users are required to select at least one prompt type and genre, as well as select a story length and frequency of prompts.
-
-The form's design is intended to be user-friendly and straightforward, with minimal duplication of fields. However, users may find it helpful to review each field's purpose and instructions below to ensure they fill out the form accurately.
-
-</thinking>
-
 # Creative Writing Prompt Generator - Help Guide
 ## Purpose
 The Creative Writing Prompt Generator form is designed to help writers find inspiration and get started on their creative writing projects. By filling out the form with your information and preferences, you will be provided with a tailored creative writing prompt.

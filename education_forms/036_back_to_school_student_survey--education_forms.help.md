@@ -2,8 +2,6 @@
 
 ## Purpose
 
-<thinking>Back To School Student Survey is a tool designed to help you get to know your students better, both academically and personally. This form is intended for students to reflect on their preferences, interests, and goals, so that you can tailor your teaching approach to meet their needs and create a more engaging and productive learning environment. By completing this survey, you'll help your teacher better understand how to best support and engage you throughout the year, making your learning experience more enjoyable and effective.</thinking>
-
 ## How To Complete This Form
 
 To complete the Back To School Student Survey, simply follow these steps:

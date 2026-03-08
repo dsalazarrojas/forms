@@ -1,14 +1,3 @@
-<thinking>
-This form is likely intended to collect data from users about their online assessment experience. It might be used to monitor or evaluate user engagement with online content, educational platforms, or tools. I assume the form is for a non-administrative purpose, as the fields do not seem to be related to user account management or other administrative tasks. Before filling out this form, please confirm that this form is relevant to your needs and that you have not already filled out an identical form. 
-
-Please note that the fields and their explanations are as follows: 
-
-* Title and label might be confusing, so I'll stick to providing explanations based on the field labels for the sake of clarity.
-* "Yes" and "No" options might imply binary or true/false responses, but I'll explain them neutrally without implying any business logic.
-* Date and Time fields might be related to assessment completion or completion deadlines, but I'll explain them as-is.
-* Select One fields might imply a choice between options, but I'll explain them literally without implying any specific intent.
-</thinking>
-
 # Online Assessment Form - Help Guide
 ## Purpose
 The Online Assessment Form is a tool to gather information from users about their online assessment experience. Please take a few minutes to complete this form to help us better understand your needs and preferences.

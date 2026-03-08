@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donations from library patrons for the library fund. This form will be used by patrons to submit their donation information, which will then be reviewed and processed by library staff. Please note that this form is designed to be filled out by library patrons, not by library staff. This form is a one-time submission form, meaning that it is not intended to be filled out repeatedly by the same patron, so it's not necessary to make any fields "sticky" or persistent.
-</thinking>
-
 # library_fund_donation_form - Help Guide
 ## Purpose
 This form is used to collect donations from library patrons for the library fund. It is intended for one-time submissions from library patrons and is used to gather information about the donation, such as the amount donated, payment method, and other details.

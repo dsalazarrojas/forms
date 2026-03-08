@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed for reporting donations, and its purpose is to record and track donations received by an organization. The form includes fields for collecting information about the donor, such as name, email, phone number, department, equipment type, condition, quantity, value, delivery method, and more. It also includes fields for tracking additional information, such as status, comments, tags, custom attributes, and notes.
-
-This form is used for reporting donations, and its purpose is to collect accurate and detailed information about each donation. The form ensures that all required fields are completed to avoid errors. If a field is incomplete or contains incorrect information, it will be flagged as such and cannot be submitted.
-
-Please note that this form is used for reporting donations, and it's essential to fill it out accurately and completely to avoid any issues.
-
-</thinking>
-
 # report_donations - Help Guide
 ## Purpose
 The report_donations form is designed to record and track donations received by an organization. It collects detailed information about each donation, including donor details and donation specifics.

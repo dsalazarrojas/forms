@@ -1,9 +1,3 @@
-<thinking>
-This form is used to recommend educational programs to users. It is meant to be completed by users to express their opinions or feedback about an educational program. Each field is used to collect specific information about the educational program, its characteristics, and the user's experience.
-The main goal is to gather information that can be used internally for future planning and development of educational programs.
-Please check if you have already completed this form in the past to avoid duplicating effort and data.
-</thinking>
-
 # educational_program_recommendation_form - Help Guide
 ## Purpose
 This form is used to express opinions or feedback about educational programs.

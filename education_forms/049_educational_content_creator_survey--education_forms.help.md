@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Educational Content Creator Survey" form, which aims to gather information from educational content creators about their experiences, goals, and practices. This form is intended to help us better understand the needs and challenges of educational content creators, which will inform our support and resources for this community. We encourage you to provide honest and detailed answers to help us improve our support for you. Please note that this survey is for research purposes only and all answers will be kept confidential. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # Educational Content Creator Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information from educational content creators about their experiences, goals, and practices. This will help us better understand the needs and challenges of this community and improve our support for you.

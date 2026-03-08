@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the technology confidence of faculty members in a specific institution. The purpose of this form is to gather information about the self-assessment of faculty on their technology use and familiarity. The form aims to evaluate the level of comfort and proficiency of faculty members in using various technologies such as email, learning management systems, and other digital tools. This information will be used to inform technology training and support efforts to ensure that faculty members receive targeted training and support.
-
-Before proceeding, please make sure you have not completed this form in the past or are not currently taking another survey that covers similar topics. Completing this form multiple times may skew the results and create redundancy in the data.
-
-</thinking>
-
 # Faculty Technology Confidence Survey - Help Guide
 ## Purpose
 The Faculty Technology Confidence Survey is a questionnaire designed to assess the technology confidence of faculty members in our institution.

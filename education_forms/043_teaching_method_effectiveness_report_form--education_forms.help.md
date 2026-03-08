@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used by educators or instructors to evaluate the effectiveness of a particular teaching method in a classroom setting. The purpose of this form is to collect qualitative and quantitative data about the teaching method, including feedback from students, and to assess the method's effectiveness. It's essential to ensure that the form is filled out accurately and thoroughly to gather reliable and meaningful data. To avoid duplication of effort, instructors should only fill out this form for each unique classroom session or teaching method.
-
-This guide is intended to help users understand how to complete the form correctly and effectively.
-</thinking>
-
 # Teaching Method Effectiveness Report Form - Help Guide
 ## Purpose
 

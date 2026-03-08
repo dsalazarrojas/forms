@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about education policy awareness from various stakeholders in the education sector. It's crucial to understand the purpose and relevance of this form before proceeding. Please consider the following:
-
-* Are you a representative of the education sector, and is this form relevant to your work?
-* Is there any existing similar form that you are aware of, that you've filled out in the past?
-* If you have not filled out a similar form in the past, do you feel this form will help improve your experience or knowledge regarding educational policies?
-
-If you answered 'no' to the above questions, then it's possible that this form might not be relevant to you or your organization, and it's best to stop here.
-
-However, if you answered 'yes', then please proceed to read and fill out this form carefully.
-
-</thinking>
 # Education Policy Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from educators, administrators, and other stakeholders in the education sector to better understand their awareness and understanding of educational policies. The data collected will help in creating a comprehensive report that will aid in policy development and improvement.

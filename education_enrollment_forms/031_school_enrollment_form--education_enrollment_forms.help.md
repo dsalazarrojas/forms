@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used for parents or guardians to provide information about their child's school enrollment. It may be used by school administrations to collect student data for various purposes such as tracking student progress, managing student records, and communicating with parents. Ensure that you are accessing this form in a context where it is appropriate, and that you have the necessary permissions to input this information. 
-
-Please review each field carefully and provide accurate and truthful information. 
-
-The following guide is a step-by-step explanation of the form fields. If any field's label is unclear, the best effort has been made to provide a practical explanation of the field's intent without introducing additional business logic that is not specified in the form.
-
-</thinking>
-
 # School Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a student's enrollment in the school. This form is designed to be filled out by parents or guardians and may be used by school administrators to track student progress and manage student records.

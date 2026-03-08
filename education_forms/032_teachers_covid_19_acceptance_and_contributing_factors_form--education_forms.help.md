@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information from teachers about their COVID-19 acceptance and contributing factors. The form is designed to be a flexible and adaptable tool that can be used in various educational settings to understand teachers' perspectives and concerns about COVID-19. The form is not meant to be a comprehensive or definitive assessment, but rather a starting point for further discussion and exploration.
-
-Before filling out this form, please ensure that you have the necessary information and consent from your school administration or relevant authorities to complete it. The form is meant to be a collaborative effort, and your input will help shape the discussion and understanding of the COVID-19 pandemic's impact on teachers in your school.
-
-Please note that the form is a dynamic tool, and your input may vary depending on your individual situation and school context. You may find that some fields are not applicable to your specific case, and you can simply leave them blank.
-
-It is also worth noting that the form has a few fields that may seem repetitive or similar to each other. This is intentional, as it is designed to allow you to provide detailed information and thoughts in each area, even if some fields may overlap slightly.
-
-</thinking>
-
 # Teachers COVID 19 Acceptance And Contributing Factors Form - Help Guide
 
 ## Purpose

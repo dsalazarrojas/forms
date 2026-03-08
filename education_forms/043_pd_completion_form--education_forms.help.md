@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assist in completing and submitting workshop tasks, providing a space for users to address questions and upload evidence and workshop content as needed.
-
-To prevent duplication and maintain accuracy, it is recommended that users review the form carefully before submission.
-
-</thinking>
-
 # pd_completion_form - Help Guide
 ## Purpose
 The pd_completion_form is a form designed to aid in the completion and submission of workshop tasks. It allows users to address questions, upload evidence, and add workshop content in a structured and organized manner.

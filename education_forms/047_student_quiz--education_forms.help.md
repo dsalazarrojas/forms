@@ -1,9 +1,3 @@
-<thinking>
-This is a critical section of the guide that explains the form's purpose and checks for relevance and non-duplication.
-The form is designed to collect information about students' performance on a quiz. The purpose of this form is to gather data about students' strengths and weaknesses in different areas of study. This data can be used to identify areas where students need extra support or review.
-Please ensure that the form is used for its intended purpose and not for other purposes, like data collection for marketing or sales. Also, make sure to complete the form only once for each student.
-</thinking>
-
 # Student Quiz - Help Guide
 ## Purpose
 The Student Quiz form is designed to collect data about students' performance on a quiz. This form helps teachers and educators identify areas where students need extra support or review.

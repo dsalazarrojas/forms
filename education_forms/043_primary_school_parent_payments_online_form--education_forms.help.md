@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording primary school parent payments. Its purpose is to gather detailed information about each payment transaction, including payment method and date, payment amount and details, student and school ID, and confirmation of payment method.
-</thinking>
-
 # primary_school_parent_payments_online_form - Help Guide
 ## Purpose
 

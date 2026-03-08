@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Form For Pairing French And American Students 2015 American Version - Help Guide
 
 ## Purpose

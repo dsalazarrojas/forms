@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block is to ensure the user understands the purpose and scope of the form. The form is used to collect information about a student's document requests, which can be for transcripts, diplomas, or certifications. This form is likely used by administrative or support staff to gather necessary details to process the document requests efficiently.
 
 # Document Request Form - Help Guide

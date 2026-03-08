@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in completing the "Totalitarianism Knowledge Quiz" form. The form is used to collect information for the education form category. Each field is designed to gather specific data for the quiz, such as the quiz title, category, and output file information. The form also collects information about the quiz type and the assigned tool. To ensure the form is filled out correctly and consistently, this guide will walk users through each step of the form and explain each field in detail.
 
 # Totalitarianism Knowledge Quiz - Help Guide

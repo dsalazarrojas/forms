@@ -1,5 +1,3 @@
-<thinking>As a teacher or educator, creating a comprehensive lesson plan is an essential part of the teaching process. A well-crafted lesson plan helps ensure that the learning objectives are clear, the teaching methods are effective, and the evaluation criteria are well-defined. The Key Stage Lesson Plan Form is designed to guide you in creating a thorough and structured lesson plan that covers all the necessary aspects of a lesson. This form is meant to be a helpful tool, not a one-size-fits-all solution. Before starting, please review your lesson's specific needs and adjust the form accordingly.</thinking>
-
 # Key Stage Lesson Plan Form - Help Guide
 
 ## Purpose

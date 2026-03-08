@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help organizations create a standardized and efficient application process for their education fellowship programs. The purpose of this form is to gather necessary information from candidates to assess their eligibility and suitability for the fellowship. This form should not be filled out by individuals who have already been awarded or denied a fellowship by the same organization in the current fiscal year. Please ensure that you have not submitted this form previously and are eligible to apply for this opportunity.
-</thinking>
-
 # Education Equity Fellowship Application Form - Help Guide
 ## Purpose
 The Education Equity Fellowship Application Form is designed to help organizations collect information from candidates to evaluate their suitability for a fellowship opportunity. This form is intended for candidates who have not been awarded or denied a fellowship by the same organization in the current fiscal year.

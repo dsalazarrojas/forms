@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Integrity Form - Help Guide
 
 ## Purpose

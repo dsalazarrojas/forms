@@ -1,12 +1,3 @@
-<thinking>
-This form is for the "Pediatrics Virtual Course Agreement Form" in the education_forms category. The purpose of this form is to gather information and agreements from students and instructors for a virtual pediatrics course. 
-
-The form collects user information, medical history, medical conditions, course enrollment information, and course progress details. Each field in this form is designed to be completed by the student or instructor to provide accurate and comprehensive information. 
-
-To avoid duplication and ensure accuracy, the system will not allow multiple forms to be completed with the same user information. Please ensure that you are completing the correct form for your intended purpose and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Pediatrics Virtual Course Agreement Form - Help Guide
 ## Purpose
 The Pediatrics Virtual Course Agreement Form is designed to collect information and agreements from students and instructors for a virtual pediatrics course. This form helps to ensure accurate and comprehensive information is collected for course enrollment, progress, and evaluation.

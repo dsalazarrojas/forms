@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for nontraditional education research grant applications. It is a tool for applicants to provide their details, project information, and research proposal to support their grant application. Before filling out this form, please ensure that you have a clear understanding of the grant's requirements and that you are not duplicating an existing application. If you have already submitted a similar application, please do not submit this form.
-</thinking>
-
 # Nontraditional Education Research Grant Application Form - Help Guide
 ## Purpose
 This form is designed to support nontraditional education research grant applications. It gathers essential information from applicants to help them create a comprehensive grant application.

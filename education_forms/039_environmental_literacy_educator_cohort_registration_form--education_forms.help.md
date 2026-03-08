@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Environmental Literacy Educator Cohort Registration Form. This form is designed to collect information from educators interested in participating in the Environmental Literacy Educator Cohort, a program aimed at promoting environmental literacy among educators. The purpose of this form is to gather demographic information, teaching details, and program-specific data from educators who wish to join the cohort. This guide will walk you through each section of the form, explaining the purpose and expected input for each field.</thinking>
-
 # Environmental Literacy Educator Cohort Registration Form - Help Guide
 ## Purpose
 The Environmental Literacy Educator Cohort Registration Form is designed to help us better understand your needs as an educator interested in promoting environmental literacy. Please answer the questions below to help us tailor our support for you and your peers.

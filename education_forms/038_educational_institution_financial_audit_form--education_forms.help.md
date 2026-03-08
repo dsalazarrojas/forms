@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an educational institution's financial audit, which is used to assess the institution's financial health and performance. This form is typically used by auditors to gather data about the institution's financial status, which can help identify areas that require improvement. The form should only be completed by authorized personnel within the institution, and the data collected will be used for internal purposes only. To prevent duplication of effort, please ensure that this form is not completed multiple times for the same institution.
-</thinking>
-
 # Educational Institution Financial Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information about an educational institution's financial audit, which is used to assess the institution's financial health and performance.

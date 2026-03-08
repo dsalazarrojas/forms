@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Foundation Skills Assessment form is to collect information about the individual's contact details, including name, date of birth, age, contact email, phone number, and contact address. This form is likely used for internal or external communication purposes and requires users to fill out their details accurately and truthfully. Please ensure that you only submit the form if you have not already done so, and review your answers carefully to ensure they are correct.
-</thinking>
-
 # Foundation Skills Assessment - Help Guide
 
 ## Purpose

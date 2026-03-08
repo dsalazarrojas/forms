@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help students register for a science fair, providing necessary information about themselves and their projects. 
-The form should only be used by students who are participating in the science fair. 
-</thinking>
-
 # Science Fair Registration Form - Help Guide
 ## Purpose
 The Science Fair Registration Form is used to collect information from students participating in the science fair. This includes personal details and project specifics to help the organizers review and prepare for the event.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form that is used for processing student grade withdrawals, likely in an educational setting. The form is meant to collect information from students, teachers, and potentially other contacts. The purpose of this form is not explicitly defined in the provided YAML, so let's assume it's for administrative purposes, such as updating student records or tracking grade-level changes. The fields are quite diverse, with a mix of text, select_one, number, and email inputs. The form likely aims to gather information about the student, their grade level, reason for withdrawal, contact information, and other relevant details. We should focus on making the help guide clear and concise, covering the form's purpose, how to complete it, and a field-by-field explanation of each input.
-</thinking>
-
 # Withdrawal Grade Form - Help Guide
 ## Purpose
 The Withdrawal Grade Form is used for processing student grade withdrawals. This form is used to collect information from students and other contacts to update student records or track grade-level changes.

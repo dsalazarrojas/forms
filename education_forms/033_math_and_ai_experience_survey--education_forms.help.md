@@ -1,14 +1,3 @@
-<thinking>
-We need to create a help guide for a form used to survey individuals about their math and AI experience. This form is used to gather information on various aspects of math and AI, including proficiency levels, tool usage, integration, and more.
-
-To ensure that the form is completed accurately and consistently, it's essential to understand its purpose and the questions it's designed to answer. This form is not a mandatory requirement for everyone, but rather an optional tool for gathering information to improve our services.
-
-To avoid duplication or irrelevant entries, we'll need to clearly define what each question is asking and how to interpret the response options provided.
-
-Before proceeding, please carefully review this help guide to ensure you understand each question and its purpose. If you have any doubts, it's best to seek clarification before submitting the form.
-
-</thinking>
-
 # Math And AI Experience Survey - Help Guide
 
 ## Purpose

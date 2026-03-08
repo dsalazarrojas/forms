@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register donors to the onboarding program, ensuring they have a structured and personalized onboarding experience. The form collects various information from the donor, including contact details, preferences, and donation habits. It's essential to fill out this form accurately to avoid duplication and ensure correct communication and follow-up processes. Please ensure you only fill out this form once and provide all required information for a smooth onboarding process.
-</thinking>
-
 # Donor Onboarding Program Registration Form - Help Guide
 ## Purpose
 The Donor Onboarding Program Registration Form is used to register donors to the program, ensuring they have a structured and personalized experience. The form collects information from the donor, including contact details, preferences, and donation habits.

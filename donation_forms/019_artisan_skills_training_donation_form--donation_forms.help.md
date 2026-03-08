@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from donors to support the Artisan Skills Training program. The form has several sections to gather details about the donor, donation, and communication preferences. It's essential to ensure that each field is filled out accurately to provide a complete and personalized experience for the donor. Please review the form carefully and fill out all required fields to ensure a smooth donation process.
-
-</thinking>
-
 # Artisan Skills Training Donation Form - Help Guide
 ## Purpose
 The Artisan Skills Training Donation Form is a tool used to collect information from donors to support the Artisan Skills Training program. It helps us understand the donor's preferences, donation amount, and communication preferences.

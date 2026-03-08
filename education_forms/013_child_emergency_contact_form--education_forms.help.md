@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect emergency contact information for a child, including their name, date of birth, and contact information for primary and secondary emergency contacts. This information is crucial in case the child needs immediate attention or is unable to contact the parent/guardian themselves. The form is designed to be completed by a parent or guardian and is meant to provide critical details in emergency situations. It's essential that the information provided is accurate and up-to-date.
-</thinking>
-
 # Child Emergency Contact Form - Help Guide
 ## Purpose
 The Child Emergency Contact Form is used to collect contact information for a child's primary and secondary emergency contacts in case of an unexpected event or emergency. This information will be used to ensure that the child receives proper care and attention when needed.

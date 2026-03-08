@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to enroll in a language course. The purpose of this form is to gather the necessary details about the user and their course preferences. Before proceeding, please ensure that you haven't already completed this form, as it may cause duplication of effort. If you're interested in enrolling in a language course, please read on to understand how to complete this form and what information is required.
-</thinking>
-
 # Language Course Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to enroll in a language course. It's a straightforward, one-page form that requires minimal information from you. Please take a few minutes to review the fields and instructions to ensure you provide the necessary details.

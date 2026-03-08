@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Screening Tool - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals quickly assess patients for COVID-19 risks and symptoms. It will guide you through a series of questions to determine the patient's status and provide a summary of their screening results.

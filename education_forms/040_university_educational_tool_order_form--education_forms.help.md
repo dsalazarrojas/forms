@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their educational tool requests. It appears to be a straightforward form for university staff to gather details about educational tools, including the tool type, location, and request status. The form does not seem to include any sensitive or personal data fields. It is likely that this form is used to streamline the process of assigning educational tools within a university setting. There is no indication of any duplication or non-relevant fields in the provided YAML, so this form should be relatively straightforward to complete.
-</thinking>
-
 # University Educational Tool Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding their educational tool requests.

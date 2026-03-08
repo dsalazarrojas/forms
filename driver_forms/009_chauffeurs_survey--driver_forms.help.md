@@ -1,9 +1,3 @@
-<thinking>
-The Chauffeurs Survey form is designed to collect feedback from chauffeurs about their experiences, job satisfaction, and suggestions for improvement. This form is part of a larger initiative to ensure that the chauffeur's needs and concerns are heard and addressed. By completing this form, you will be providing valuable insights that can help us better understand the chauffeur experience and make informed decisions to improve the service.
-To ensure that the feedback collected is accurate and relevant, please note that this form is intended for chauffeurs who have completed a job or a series of jobs with our service. If you have not completed a job with our service, your feedback may not be relevant to the survey.
-Before completing this form, please ensure that you have the necessary information and answers to provide accurate and honest feedback. Please take the time to carefully review each question and answer truthfully.
-</thinking>
-
 # Chauffeurs Survey - Help Guide
 
 ## Purpose

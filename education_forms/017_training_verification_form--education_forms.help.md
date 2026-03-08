@@ -1,7 +1,3 @@
-<thinking>
-This form is used for training verification, and it's crucial to ensure that each field is completed accurately to provide reliable data. Please review the form carefully to avoid duplication and ensure that you're providing the correct information. If you're unsure about any field, double-check the field type and options to ensure you're selecting the correct answer. This form is designed to collect information about a team member's training, and each field is crucial in providing a comprehensive picture of their training experience.
-</thinking>
-
 # training_verification_form - Help Guide
 ## Purpose
 The purpose of this form is to verify training information for team members. It helps to collect data on their training status, performance, and other relevant details.

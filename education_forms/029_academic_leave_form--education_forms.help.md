@@ -1,8 +1,3 @@
-<thinking>
-Please provide the necessary information to generate the help guide.
-The form's purpose is to collect information from students requesting academic leave. This guide will walk you through the process of filling out the form, explaining each field's purpose and requirements.
-</thinking>
-
 # Academic Leave Form - Help Guide
 ## Purpose
 The Academic Leave Form is a tool used by students to request academic leave from the institution. This form is used to gather necessary information to process the leave request.

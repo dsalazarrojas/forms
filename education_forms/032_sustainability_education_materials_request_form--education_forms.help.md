@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from schools and organizations for sustainability education materials requests. The purpose of this form is to gather specific information about the requesting institution, the type of request (resources, training, or consultation), the type of resources or training required, and the preferred delivery method and output format. This information will help us to better understand the needs of your institution and provide tailored support.</thinking>
-
 # sustainability_education_materials_request_form - Help Guide
 ## Purpose
 The sustainability education materials request form is designed to collect information from schools and organizations to support their education and training needs.

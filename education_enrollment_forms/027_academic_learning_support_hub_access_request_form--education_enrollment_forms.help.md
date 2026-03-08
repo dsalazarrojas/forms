@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Learning Support Hub Access Request Form - Help Guide
 
 ## Purpose

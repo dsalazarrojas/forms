@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information from prospective students interested in enrolling in an engineering program. The form will be used to determine the eligibility of the student for the program. Please note that the form does not require any fields to be filled, and it is recommended to fill in as much information as possible. This form is designed to be submitted once, and it is not intended to be completed multiple times. If you are a returning user, please do not submit this form again. If you are unsure about any information, please contact the relevant authorities for clarification.</thinking>
-
 # Engineering Program Enrollment Form - Help Guide
 ## Purpose
 The Engineering Program Enrollment Form is a form designed to collect information from prospective students interested in enrolling in an engineering program. This form helps us to determine your eligibility for the program and allows us to tailor our support to your specific needs.

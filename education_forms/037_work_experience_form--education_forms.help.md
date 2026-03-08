@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for users to document their work experience, allowing them to provide information about their job title, employer, dates of employment, job hours, industry, phone number, reference, duties, location, education relevant to their occupation, and other details that are not part of the predefined options. The form likely serves as a means to gather comprehensive information about a user's professional history, which can be used for various purposes such as job applications, employment verification, or educational purposes.
-To avoid duplication, this form should not be completed by users who have already provided work experience information through other means.
-</thinking>
-
 # work_experience_form - Help Guide
 ## Purpose
 This form is designed to gather information about your work experience, including job title, employer, dates of employment, job hours, industry, and other relevant details.

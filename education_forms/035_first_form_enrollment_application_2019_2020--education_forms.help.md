@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First form enrollment application 2019 2020 - Help Guide
 
 ## Purpose

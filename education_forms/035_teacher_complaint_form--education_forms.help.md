@@ -1,7 +1,3 @@
-<thinking>
-This form is for teachers to report any complaints or incidents that have occurred within the educational institution. This form is meant to be used for internal documentation and tracking purposes only. Please use this form to report incidents that have not been reported before. If you have already reported an incident, please do not submit this form again. This will help us track and manage complaints more efficiently.
-</thinking>
-
 # teacher_complaint_form - Help Guide
 ## Purpose
 The "Teacher Complaint Form" is a tool for teachers to report any incidents or complaints they have experienced within the educational institution.

@@ -1,14 +1,3 @@
-<thinking>
-The Ixodes Ricinus Knowledge Quiz form is designed to test the user's knowledge of the scientific name of the Ixodes ricinus, a type of tick. The form consists of two pages: "Quiz" and a series of questions related to the scientific name of the Ixodes ricinus. The form is designed to assess the user's understanding of the different species and their correct answers.
-
-To avoid any duplication, please ensure that you are completing this form with a fresh mind and without any prior knowledge of the Ixodes ricinus.
-
-This form is a self-assessment tool, and the user's answers are not intended to be verified or reviewed by an expert.
-
-Please note that the form has a large number of questions, and it is recommended to read each question carefully and answer accordingly.
-
-</thinking>
-
 # Ixodes Ricinus Knowledge Quiz - Help Guide
 
 ## Purpose

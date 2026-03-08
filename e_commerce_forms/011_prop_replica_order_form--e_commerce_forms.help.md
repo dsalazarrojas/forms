@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prop Replica Order Form - Help Guide
 ## Purpose
 This form is used to capture information for replica orders, including shipping details, customer information, and order items. It is intended for use by authorized personnel in the replica department.

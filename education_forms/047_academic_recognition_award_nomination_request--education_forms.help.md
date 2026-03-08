@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an Academic Recognition Award nomination request. The purpose of this form is to gather relevant details from the nominator about the nominee, their affiliation, and the justification for the nomination. This includes selecting the relevant award category, providing additional documentation or endorsements, and submitting the nomination date.
-</thinking>
-
 # Academic Recognition Award Nomination Request - Help Guide
 ## Purpose
 The Academic Recognition Award is a platform for recognizing and rewarding outstanding individuals for their academic achievements. This form helps you to submit a nomination for an Academic Recognition Award by providing detailed information about the nominee and the reasons why they deserve recognition.

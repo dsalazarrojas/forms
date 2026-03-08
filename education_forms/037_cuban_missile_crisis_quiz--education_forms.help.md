@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information from users about their history class name, the year of the Cuban Missile Crisis, the site where the missile was located, the type of missile, the date of the crisis, the user's response, follow up information, education background, email address, phone number, and note. This form likely aims to gather details from students or historians studying the Cuban Missile Crisis and its related events.
-Before completing this form, ensure that you have filled out a "History Class Name" field in previous interactions, otherwise, you might be asked to confirm it in the next question.
-Please note that you should be accurate in selecting the "Event Year" as it might be used for historical validation.
-Also, the fields for "Missile Site", "Missile Type", "Follow Up", "Education Background" and "Education Background" are select options, meaning you need to pick one or more of the given options.
-</thinking>
-
 # Cuban Missile Crisis Quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about the Cuban Missile Crisis.

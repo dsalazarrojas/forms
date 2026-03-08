@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the overall experience of international students with various aspects of the institution or program they are part of. This form is usually used to assess the satisfaction level of international students in relation to academic and social services. This form is a survey and should only be used to collect feedback and sentiment from students. The questions in this form are designed to be straightforward and easy to understand. Before completing this form, please ensure that you have answered honestly and to the best of your ability.
-</thinking>
-
 # international_student_satisfaction_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and sentiment from international students on their experience with the institution or program they are part of.

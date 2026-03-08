@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and completion of the Environmental Impact Disclosure Report Form. Before proceeding, please confirm that you are filling out this form for a project that meets the following criteria:
-- The project involves a specific environmental impact.
-- You have not already filled out this form for the same project.
-
-If you are unsure about whether you need to fill out this form, please consult with your supervisor or a designated representative.
-
-</thinking>
-
 # environmentalimpactdisclosurereportform - Help Guide
 ## Purpose
 The Environmental Impact Disclosure Report Form is used to document and report on the environmental impact of a specific project. This form is required for projects that involve certain activities such as construction, mining, agriculture, manufacturing, transportation, energy, waste management, or other projects that have a potential environmental impact.

@@ -1,11 +1,3 @@
-<thinking>
-This is a form for collecting information and permission from parents for their children to visit an art gallery as part of a school trip. Before filling out this form, please ensure you have already checked with the school trip organizers to confirm that this is the correct form.
-
-This form has several sections: School Trip Details, Student Information, Parent - Guardian Consent, and Digital Signature. Each section is designed to collect necessary information for the trip, such as school details, student name, and emergency contact information. Please make sure to fill out each section completely and accurately.
-
-Note to the form owner: You may want to review this form with the parents before they complete it to ensure they understand the purpose and requirements.
-</thinking>
-
 # Art Gallery Visit Permission Form - Help Guide
 
 ## Purpose

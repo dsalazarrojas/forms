@@ -1,10 +1,3 @@
-<thinking>
-This form is used for parent-teacher communication, allowing parents to communicate with teachers and school administrators about their child's education. This form is a crucial tool for parents to express their concerns, queries, or feedback to the school.
-The form will be reviewed by the teacher or school administrator and a response will be sent to the parent accordingly.
-The form should not be used for non-educational purposes. Please use this form if you have a genuine concern or question regarding your child's education.
-Please fill this form only if you are a parent of a student. 
-</thinking>
-
 # Parent Communication Form - Help Guide
 
 ## Purpose

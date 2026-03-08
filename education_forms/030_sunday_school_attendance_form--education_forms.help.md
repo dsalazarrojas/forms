@@ -1,11 +1,3 @@
-<thinking>
-This form is used to track Sunday school attendance. It appears to be used by teachers or administrators to record student attendance and other relevant information. The purpose of this form is to gather data on students who attend Sunday school, including their names, attendance status, and other details. This form likely helps teachers or administrators to keep track of attendance and stay organized. It's worth noting that some of the fields seem to be related to infrastructure or infrastructure-related details, such as class and section information. This form might be used in a school or educational institution with a specific Sunday school program.
-
-Before filling out this form, ensure that you have all the necessary information and permissions to complete it accurately.
-
-The following instructions will guide you through the completion of this form. Please follow them carefully to ensure that you complete the form correctly.
-</thinking>
-
 # sunday_school_attendance_form - Help Guide
 ## Purpose
 This form is used to track Sunday school attendance and gather relevant information about students.

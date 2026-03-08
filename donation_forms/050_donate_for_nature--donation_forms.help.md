@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to make a donation to a nature-related cause. This form is intended to gather information from users to process their donations efficiently and effectively. Before proceeding, please ensure that you have reviewed the form carefully and that the information provided is accurate. If you are already aware of this form's purpose and requirements, feel free to skip to the help guide.
-
-</thinking>
-
 # Donate For Nature - Help Guide
 ## Purpose
 This form is designed to collect donations from users for a nature-related cause. It gathers essential details such as the donor's name, email address, donation amount, currency, and payment method. The form also includes space for any additional information or a message.

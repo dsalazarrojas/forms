@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used by transportation companies, truckers, or other drivers to perform a pre-trip inspection on their vehicle before starting a trip. The form helps to ensure that the vehicle is in good condition and ready for the journey. 
-
-The form has been thoroughly inspected to ensure that all relevant fields have been covered to provide the necessary information about the vehicle and the driver. 
-
-Please note that the form is designed based on public metadata and does not contain any proprietary information. 
-
-</thinking>
-
 # straight_truck_pre_trip_inspection_form - Help Guide
 ## Purpose
 The Straight Truck Pre-Trip Inspection Form is designed to collect information about a vehicle's condition, status, safety equipment, insurance, and other essential details before starting a trip. This form helps ensure that the vehicle is ready for safe operation and minimizes the risk of accidents or equipment failures during transit.

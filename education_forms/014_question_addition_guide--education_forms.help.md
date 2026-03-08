@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Question Addition Guide - Help Guide
 ## Purpose
 This form is used to add a new question to the system. Please ensure that the question you are adding is relevant and not a duplicate of an existing question. If you are adding a new question for the same topic, please consider checking the existing questions in that topic before proceeding.

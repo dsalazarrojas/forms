@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Authorization Form - Help Guide
 
 ## Purpose

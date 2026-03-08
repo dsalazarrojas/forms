@@ -1,15 +1,3 @@
-<thinking>
-This form is for requesting educational material, such as books, resources, or other educational materials, from the system. It is used to gather information about the request, including the title of the form, the requester's details, the type of material requested, the quantity needed, the department related to the request, and any additional comments. The form status is an optional field where the user can track the progress of the form submission. 
-
-This form is intended for end users who need to request educational materials for their work or studies. The form should not be used for other purposes or for requesting non-educational materials.
-
-Please make sure to only submit this form if you truly need to request educational materials. If you're not sure whether you need to submit this form, please contact your supervisor or the relevant department to confirm.
-
-Before filling out this form, please review the fields below to make sure you're providing all the required information:
-
-Please also note that some fields are required, meaning you must provide a value in these fields to complete the form.
-</thinking>
-
 # Educational Material Request Form - Help Guide
 ## Purpose
 The Educational Material Request Form is designed to help you request educational materials such as books, resources, or other materials from the system.

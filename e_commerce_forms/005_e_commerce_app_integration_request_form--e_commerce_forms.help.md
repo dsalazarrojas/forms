@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is intended for users who want to integrate their e-commerce app with our platform. We will review this form to determine if the integration request is valid and to guide the integration process. Please fill out this form completely and accurately to facilitate a smooth integration process.
-</thinking>
-
 # E Commerce App Integration Request Form - Help Guide
 ## Purpose
 

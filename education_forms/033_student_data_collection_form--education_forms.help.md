@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Student Data Collection Form is to gather essential information about students, including their identification details, academic performance, and other relevant data. This form is designed to be completed by students, parents, or administrators to record and track student data for educational purposes. Please ensure that the form is filled out accurately and consistently to avoid errors. Before completing the form, review the instructions below to understand the fields and their requirements.
-</thinking>
-
 # Student Data Collection Form - Help Guide
 
 ## Purpose

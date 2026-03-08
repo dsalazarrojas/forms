@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Testing Hospital Discharge Form - Help Guide
 ## Purpose
 This form is designed to document the discharge of a patient who has been tested for COVID-19. It captures essential information about the patient's condition, treatment, and post-discharge instructions to ensure safe and successful recovery.

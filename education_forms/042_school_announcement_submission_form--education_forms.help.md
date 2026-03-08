@@ -1,8 +1,3 @@
-<thinking>
-Please ensure the submitted school announcements are relevant and not duplicate.
-The purpose of this form is to submit new announcements from school staff. The form is designed to collect essential information and details about the announcements, including the staff responsible for the announcement, the announcement details, and relevant metadata.
-</thinking>
-
 # School Announcement Submission Form - Help Guide
 ## Purpose
 The School Announcement Submission Form is used by school staff to submit announcements to be displayed on the school's communication channels. This form helps to streamline the process of creating and disseminating important announcements to students, staff, and parents.

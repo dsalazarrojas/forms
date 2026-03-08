@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture customer information and preferences for an online clothes order process. It will likely be used by customers to provide their personal details, clothing preferences, and order specifics. This form should not be used for non-customer-facing purposes or for orders that do not pertain to clothing items. The fields included are meant to guide the customer through a comprehensive process of providing all necessary information for a successful order.
-</thinking>
-
 # Clothes Order Form - Help Guide
 ## Purpose
 This form is designed to capture customer information and preferences for an online clothes order process.

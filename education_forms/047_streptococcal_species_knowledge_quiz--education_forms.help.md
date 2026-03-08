@@ -1,16 +1,3 @@
-<thinking>
-This help guide is to be used in conjunction with an "education_forms" category. As a quiz form, the "Streptococcal Species Knowledge Quiz" is designed to collect information from users about their knowledge on Streptococcal species. This form is intended to be a self-assessment tool for users to gauge their understanding on the subject matter. The form is not meant to be a comprehensive exam, but rather a tool to help users identify areas where they need to improve. 
-
-This form is not intended for commercial use, and users are advised to complete it for personal knowledge improvement only. 
-
-Please note that the form has several fields that allow users to input information, and each field has its own specific requirements and options. 
-
-The form has been designed with accessibility and usability in mind, and all fields have been labeled and explained clearly. 
-
-Before proceeding, please ensure you have read and understand the form's purpose and instructions. 
-
-</thinking>
-
 # Streptococcal Species Knowledge Quiz - Help Guide
 ## Purpose
 The "Streptococcal Species Knowledge Quiz" is a self-assessment tool designed to help users gauge their understanding on Streptococcal species. This form is intended for personal knowledge improvement and should not be used for commercial purposes.

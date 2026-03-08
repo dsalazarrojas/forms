@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals who are applying to a school. This form will help the school's admissions team to assess each applicant's eligibility and suitability for the program. To ensure that each application is thoroughly reviewed, please make sure to fill out the form accurately and completely. If you have filled out this form previously, please be aware that any changes to your information will overwrite your previous submission.
-</thinking>
-
 # School Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants who are interested in enrolling in a school. Please provide accurate and up-to-date information to ensure a smooth application process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a basic contact form intended for users to provide their contact information and a message for the web page administrators or owners to reach out to them. The form is divided into three sections: Contact Information, Message Details, and Contact Preferences. The form will be used to capture the essential contact information of the users and their preferred method of contact.
-</thinking>
-
 # Basic Web Page Contact Form - Help Guide
 ## Purpose
 This form is designed to capture contact information and messages from users, allowing the web page owners or administrators to respond or follow up with them.

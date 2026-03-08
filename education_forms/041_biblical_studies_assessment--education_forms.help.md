@@ -1,21 +1,3 @@
-<thinking>
-This form, titled "Biblical Studies Assessment," is designed to evaluate a participant's current state of knowledge, engagement, and growth in their biblical studies. It will assess their understanding of key concepts and provide valuable feedback. This form is meant for internal use and may be used to help educators, instructors, or facilitators understand the participants' strengths and weaknesses in their biblical studies. 
-
-This form consists of several sections, each focusing on specific aspects of a participant's knowledge and engagement. 
-
-The first section, "Participant Information," collects basic details about the participant, including their name, email address, and the program or class they are currently enrolled in. 
-
-The second section, "Scripture Knowledge," asks about the participant's understanding of the Bible's structure, including the number of books in the New Testament and the number of gospels. 
-
-The third section, "Comprehension and Application," evaluates the participant's ability to understand and apply scriptural concepts, such as their comprehension level, their ability to apply scripture to life, and their perception of their spiritual growth. 
-
-The fourth section, "Engagement and Study Habits," examines the participant's frequency and method of scripture study, as well as their overall engagement level and perceived spiritual growth. 
-
-The fifth section, "Growth and Development," looks at the participant's perceived spiritual growth, faith strengthening, and key learnings or insights gained from their studies. 
-
-The sixth and final section, "Future Learning Goals," asks about the participant's future goals and plans for their biblical studies. 
-
-</thinking>
 # Biblical Studies Assessment - Help Guide
 
 ## Purpose

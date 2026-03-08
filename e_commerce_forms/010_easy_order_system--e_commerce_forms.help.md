@@ -1,8 +1,3 @@
-<thinking>
-The Easy Order System form is designed to facilitate the creation of a user-friendly interface for customers to enter their orders and preferences. This form should not be used for any other purpose.
-The form has three pages: Order Details, Customer Details, and Delivery Preferences. It's intended for users who want to place an order and have specific preferences regarding delivery. The form is not affiliated with any proprietary platform, but rather a public adaptation created by AI using public survey topic metadata as inspiration.
-</thinking>
-
 # Easy Order System - Help Guide
 ## Purpose
 The Easy Order System form is a customizable, user-friendly form designed to collect information about orders and delivery preferences from customers. It's ideal for businesses and organizations that need to gather data from individuals or groups with a specific request for goods or services.

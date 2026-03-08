@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for collecting and tracking information related to daily activities or instruction sessions for small groups, potentially within an educational setting. The purpose of this form is to gather essential details about the session, such as the name, category, and description of the activity, as well as the assigned tool and student progress. This information might be used for assessment, progress tracking, or other internal management purposes. It's likely that this form will be used by teachers or instructors to provide feedback and insights on student performance and progress.
-</thinking>
-
 # Small Group Instruction Daily Checklist Form - Help Guide
 ## Purpose
 The Small Group Instruction Daily Checklist Form is designed to gather information about daily activities or sessions, providing a structured way to track and evaluate progress.

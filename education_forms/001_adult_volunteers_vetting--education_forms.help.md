@@ -1,5 +1,3 @@
-<thinking>As the form "Adult Volunteers Vetting" is designed to collect information from adult volunteers who want to help with school activities, it is essential to ensure the accuracy and relevance of the submitted data. This form is typically completed by potential volunteers who are over 18 years old and want to contribute their time and skills to the school. Before starting the form, please ensure that you are eligible to volunteer and have not completed this form in the past. If you have any previous experience with the school or have been vetted by us before, please do not fill out this form.</thinking>
-
 # Adult Volunteers Vetting - Help Guide
 ## Purpose
 This form is designed to collect information from adult volunteers who wish to help with school activities. The purpose of this form is to ensure that we have accurate and up-to-date information about you, which will enable us to effectively manage our volunteers and match them with suitable opportunities.

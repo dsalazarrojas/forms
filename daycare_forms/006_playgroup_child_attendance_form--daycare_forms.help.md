@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track the attendance of children at a playgroup. The playgroup typically takes place during the day, with parents dropping off their children and picking them up at designated times. This form helps staff quickly and easily record the attendance of children, ensuring accurate records are kept for future reference. It is likely to be used by the daycare or playgroup staff to manage attendance and interactions with parents.
-
-Before using this form, please ensure that the information you enter is accurate and up-to-date. This form should not be used to store sensitive or confidential information.
-</thinking>
-
 # Playgroup Child Attendance Form - Help Guide
 ## Purpose
 This form is used to record the attendance of children at a playgroup session.

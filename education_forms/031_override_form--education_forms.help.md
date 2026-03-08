@@ -1,10 +1,3 @@
-<thinking>
-This form is used to override a form, providing a way for users to change the status of a previously submitted form. It's a crucial feature for administrators to manage form submissions and ensure that the form process is up-to-date. Before filling out this form, make sure you're authorized to override a form and that you've reviewed the form submission you're trying to override.
-
-This form is part of the "Education Forms" category, and it's essential to fill it out accurately to ensure that your override request is processed correctly. Please take a few minutes to read through each field carefully to ensure you provide the necessary information.
-
-</thinking>
-
 # override_form - Help Guide
 ## Purpose
 The override_form is used to change the status of a previously submitted form. This form allows users to override a form status, provide additional comments, and request a re-review of a form submission.

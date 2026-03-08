@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expert Validity Survey For Chinese Classifier Examination S - Help Guide
 ## Purpose
 This form is designed to collect expert opinions on the validity of a Chinese classifier examination. It will ask for input on specific dates, notes, contact information, and selection-based questions to gather detailed feedback on the examination's validity.

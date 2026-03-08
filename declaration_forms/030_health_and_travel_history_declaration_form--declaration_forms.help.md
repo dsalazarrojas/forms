@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's travel history, medical conditions, and contact information. The form is intended for individuals who are required to submit a health declaration for travel purposes.
-
-The form is not intended for general public use. This guide is for internal use only and should not be shared with external parties.
-
-Before filling out this form, please ensure that you understand the context and purpose of the form.
-
-This form is used for internal purposes and is not intended to be shared with external parties. Please do not submit this form if you are not authorized to do so.
-
-This form is intended to be completed by authorized personnel only. If you are not authorized, please do not proceed.
-
-Please note that the following fields are required for the form to be considered complete:
-
-* Travel History
-* Health Insurance
-* Travel Destination
-* Travel Date
-* Return Date
-* Travel Duration
-* Travel Type
-* Travel Reason
-* Health Declaration
-
-Please ensure that you complete all the required fields to avoid any issues with submission.
-
-Please also note that some fields may be marked as optional, but they are still important for providing additional information.
-
-Please complete all the fields as accurately as possible to ensure the information is correct and complete.
-
-Please review the form carefully before submission to avoid any errors.
-
-Please contact authorized personnel if you have any questions or concerns.
-</thinking>
-
 # health_and_travel_history_declaration_form - Help Guide
 ## Purpose
 The health_and_travel_history_declaration_form is a form used to collect information about an individual's travel history, medical conditions, and contact information for travel purposes.

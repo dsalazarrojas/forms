@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and that users understand its requirements. The purpose of this form is to request access to online training programs, which can be internal or external to the organization. This form will be used by administrators to manage access to training programs for employees. Users must be able to provide necessary details such as training location, training topic, and training provider to be considered for access.
-
-To avoid duplication of efforts and incorrect submissions, ensure you only submit a new form when you have not been granted access to the program in the past.
-
-This form must be filled out completely and accurately. Incomplete or inaccurate submissions may delay or result in denial of access.
-</thinking>
-
 # Online Training Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to online training programs. Fill out this form completely and accurately to ensure a timely and successful access request.

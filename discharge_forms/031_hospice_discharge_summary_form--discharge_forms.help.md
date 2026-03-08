@@ -1,11 +1,3 @@
-<thinking>
-
-The Hospice Discharge Summary Form is used to document the discharge summary of a patient from a hospice care program. This form is an essential document that provides a comprehensive overview of the patient's care and treatment during their stay at the hospice. It is crucial to ensure that the patient's medical history, diagnosis, and treatment are accurately and thoroughly documented to prevent errors and ensure continuity of care.
-
-Before filling out this form, please ensure that you have reviewed the patient's medical record and that the information provided is accurate and up-to-date. This form should not be used as a substitute for a comprehensive medical record, but rather as a summary of the patient's care and treatment. If you have any doubts or questions, please consult with the patient's primary care physician or the hospice care team.
-
-</thinking>
-
 # Hospice Discharge Summary Form - Help Guide
 ## Purpose
 The Hospice Discharge Summary Form is used to document the discharge summary of a patient from a hospice care program.

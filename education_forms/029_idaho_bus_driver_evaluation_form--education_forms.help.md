@@ -1,11 +1,3 @@
-<thinking>
-
-The Idaho Bus Driver Evaluation Form appears to be used for evaluating bus drivers in Idaho. The form includes fields for collecting information about the bus driver, their vehicle, and its history of inspections. This form might be used by authorities to verify the legitimacy and safety of buses and their drivers on Idaho roads.
-
-Before proceeding, ensure that the form is relevant to your needs and hasn't been duplicated. If this form is for personal use, you might want to consider whether you have the necessary permissions or authorizations to use it for your purposes.
-
-</thinking>
-
 # idaho_bus_driver_evaluation_form - Help Guide
 ## Purpose
 The Idaho Bus Driver Evaluation Form is used to collect information about bus drivers and their vehicles. This form helps evaluate the legitimacy and safety of buses and their drivers on Idaho roads.

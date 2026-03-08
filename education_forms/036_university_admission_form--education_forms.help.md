@@ -1,11 +1,3 @@
-<thinking>
-To ensure that users understand the purpose of this form and to prevent non-duplication, the internal reasoning block will first verify that the user has provided all the necessary information required for admission to the university. This form is designed for students who are applying for admission to the university. The form is divided into several sections, each of which is designed to collect specific information from the student. The user should carefully fill out each section and ensure that all required fields are completed. 
-
-If the user has already applied to this university, there is no need to fill out this form again as it will lead to duplicate the application process. 
-
-Please note that the form fields are self-explaining and the labels are descriptive and straightforward. 
-</thinking>
-
 # University Admission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students applying for admission to the university. It is essential to complete this form accurately and honestly to ensure that your application is processed correctly.

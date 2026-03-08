@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for students to assess their knowledge on Civil Procedure. Each question is designed to test their understanding of various concepts, rules, and procedures. This form should not be used for actual assessment purposes, but rather as a study aid to help students gauge their knowledge before attempting the final exam. Please note that this form does not replace actual course materials or instruction.
-</thinking>
-
 # Civil Procedure Study Quiz - Help Guide
 ## Purpose
 This form is a study aid for students to assess their knowledge on Civil Procedure concepts, rules, and procedures.

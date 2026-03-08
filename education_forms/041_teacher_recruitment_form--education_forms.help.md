@@ -1,35 +1,3 @@
-<thinking>
-**Why is this form important?**
-
-This form is crucial for the recruitment process of teachers in the organization. The purpose of this form is to collect information about potential teachers who are interested in joining the team. This form helps in understanding the candidate's preferences, qualifications, and availability, making it easier to match them with suitable positions.
-
-**Are there any duplicates or unnecessary fields?**
-
-The form seems to be well-designed, with a good balance of fields to collect relevant information. However, some fields like 'first name' and 'last name' might be redundant with 'education background' which can potentially include this information. Additionally, 'resume link', 'image link', and 'social media link' might be optional or not applicable for all users. These fields could be revisited to see if they are truly necessary.
-
-**How to complete this form?**
-
-To complete this form, please follow these steps:
-
-1.  Select whether you are interested in being a teacher (`teacher_recruitment_form`).
-2.  Enter your first name, last name, email, and phone number.
-3.  Provide your date of birth (in YYYY-MM-DD format).
-4.  Mention your relevant experience (number of years).
-5.  Share a brief description of your education background.
-6.  Specify your job description.
-7.  Choose the dates and times you are available.
-8.  Indicate your salary expectations.
-9.  Attach a link to your resume (if applicable).
-10.  Attach a link to your image (if applicable).
-11.  Provide a link to your social media profile (if applicable).
-12.  Specify your location.
-13.  Choose your gender.
-14.  Select whether you are available for part-time, full-time, or contract work.
-15.  Indicate whether you have teaching specializations, languages, or certifications.
-16.  Specify your available days, hours, and seconds.
-
-</thinking>
-
 # Teacher Recruitment Form - Help Guide
 ## Purpose
 

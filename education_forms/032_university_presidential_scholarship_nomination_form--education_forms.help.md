@@ -1,6 +1,3 @@
-<thinking>
-This form is used to nominate a student for a university presidential scholarship. The university's scholarship committee reviews nominations to select students who excel academically and demonstrate a strong potential for leadership and service. Nominators should only submit nominations for students who meet the selection criteria and are a good fit for the scholarship. Nominations will be reviewed for completeness and accuracy. If a nomination is missing required information, the nominator will be asked to complete it before the nomination is reviewed.</thinking>
-
 # university_presidential_scholarship_nomination_form - Help Guide
 ## Purpose
 The purpose of this form is to nominate a student for the university's presidential scholarship. The form collects information about the student's academic performance, nomination status, and faculty recommendation.

@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information and agreement details related to research deposits, including travel agent names, deposit fees, deposit dates, and deposit amounts. This form aims to standardize the process of collecting and managing research deposit information. The fields include text inputs for travel agent names, contact information, and travel agency details, as well as numerical inputs for deposit fees, amounts, and dates. Select options are provided for deposit status and research deposit agreement status. Note that some fields are marked as required, indicating that they must be filled in for the form to be submitted. The form is intended for use in an e-commerce context, where customers interact with travel agencies to conduct research. </thinking>
-
 # Research Deposit Fee Agreement - Help Guide
 ## Purpose
 The Research Deposit Fee Agreement form is a crucial document used in the research process to collect essential details about the research deposit, ensuring a smooth and transparent interaction between customers and travel agencies.

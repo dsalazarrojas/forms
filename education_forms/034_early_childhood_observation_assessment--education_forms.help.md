@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on observations made during early childhood assessments. The purpose of this form is to gather information on the frequency and type of observations, as well as details about the assessment tools used. The form is likely used in educational settings to track and analyze data on children's development.
-The form should only be completed by authorized users with a valid user ID.
-</thinking>
-
 # Early Childhood Observation Assessment - Help Guide
 ## Purpose
 The Early Childhood Observation Assessment form is used to collect data on observations made during early childhood assessments. This data is used to track and analyze children's development.

@@ -1,11 +1,3 @@
-<thinking>
-A University Course Curriculum Approval Form is used to collect and track approval status and comments from faculty members for a specific university course. 
-This form can help faculty members provide their approval or disapproval for the course curriculum. 
-It can be used for tracking changes made to the course curriculum, recording the approval status, and adding comments for future reference. 
-To avoid duplication, please only use this form for courses that have not been previously approved. 
-This form should not be used for courses that require more complex approval processes, such as courses with external partners, multiple levels of approval, or courses with significant curriculum changes.
-</thinking>
-
 # University Course Curriculum Approval Form - Help Guide
 ## Purpose
 This form is used to collect and track approval status and comments from faculty members for a specific university course. It helps track changes made to the course curriculum, records the approval status, and allows for future reference.

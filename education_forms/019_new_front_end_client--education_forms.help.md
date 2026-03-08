@@ -1,12 +1,3 @@
-<thinking>
-The form "new_front_end_client" is designed to collect information about a new client or customer from the front end, which is typically the user interface or the "client-side" application used by the end-users. This form is likely used to gather contact information, roles, and other relevant details about the client or customer.
-
-The form appears to be designed for creating a new client or customer profile, and the fields provided suggest that it is focused on collecting contact information, such as name, email, phone, and company. The form also includes fields for roles and departments, which could be related to the client or customer's job function or position within the organization. Additionally, the form includes fields for manager information, which may be relevant for internal management purposes.
-
-Before proceeding, please note that this form seems to be designed for a single user interaction, and there may be potential issues with data duplication or inconsistency if not properly implemented. It is essential to ensure that the form is properly validated and that data is stored correctly to avoid any duplication or errors.
-
-</thinking>
-
 # new_front_end_client - Help Guide
 ## Purpose
 The "new_front_end_client" form is designed to collect information about a new client or customer from the front end.

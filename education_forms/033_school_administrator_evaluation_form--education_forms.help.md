@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to be a comprehensive tool for school administrators to evaluate various aspects of the school's programs, tools, and resources. It is likely used by school administrators to provide feedback and suggestions for improvements. 
 
 The form can be filled out by school administrators to rate and comment on different aspects of the school's programs, such as teacher surveys, administrator performance, and overall impact. 

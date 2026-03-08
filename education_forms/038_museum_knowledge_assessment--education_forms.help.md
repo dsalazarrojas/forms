@@ -1,7 +1,3 @@
-<thinking>
-The Museum Knowledge Assessment form appears to be a comprehensive assessment instrument designed to gather various types of information from respondents. The form seems to be used to collect feedback, responses, or data from users on different aspects of a museum's knowledge, likely as part of a broader evaluation or research study. Before proceeding, we will verify if this form has been designed to be used in a specific context, such as within a museum or academic institution, and whether it has been reviewed for duplication of efforts to avoid redundancy.
-</thinking>
-
 # Museum Knowledge Assessment - Help Guide
 ## Purpose
 The Museum Knowledge Assessment form is designed to collect information from users on different aspects of a museum's knowledge, likely for evaluation or research purposes.

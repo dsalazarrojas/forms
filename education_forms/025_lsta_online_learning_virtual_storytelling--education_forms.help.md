@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lsta_online_learning_virtual_storytelling - Help Guide
 ## Purpose
 The LSTA Online Learning Virtual Storytelling form is designed to collect demographic information from users, enabling us to better understand and cater to their needs in our online learning environment. This form will help us gather data on your personal details such as name, contact information, and preferences.

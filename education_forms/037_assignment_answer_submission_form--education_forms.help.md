@@ -1,15 +1,3 @@
-<thinking>
-
-To begin with, this form is designed to collect student answers to assignments and provide feedback and evaluation tools for instructors. This form will likely be used in an educational setting, such as a school or university. The form is meant to be a comprehensive submission form that captures various details about the student's work, including their name, identification number, grade level, email, subject, assignment name, type, date, and submission date. The form also requests information about the student's submission format, resources used, perceived difficulty level, and whether they need help. Additionally, the form includes fields for students to declare their academic honesty and provide their signature. This form is a tool for instructors to assess student performance and provide feedback.
-
-Before proceeding, please ensure that you have the following:
-
-* The correct permissions to access the form and its contents
-* A clear understanding of the submission format and requirements
-* The necessary resources and information to complete the form accurately
-
-</thinking>
-
 # Assignment Answer Submission Form - Help Guide
 ## Purpose
 

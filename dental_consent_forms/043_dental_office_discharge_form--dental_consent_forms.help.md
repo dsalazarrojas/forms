@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to document a patient's information and treatment details during their visit to the dental office. This form is used to gather data that will be used for administrative and clinical purposes. The purpose of the form is to ensure accurate and up-to-date patient information and treatment details are recorded and stored for future reference. Please make sure you are completing this form after the patient's visit is finished and before leaving the office. Also, ensure this form is not used for other purposes, as this is a one-time use form, and any subsequent use may lead to data duplication...</thinking>
-
 # Dental Office Discharge Form - Help Guide
 ## Purpose
 This form is used to document a patient's information and treatment details during their visit to the dental office.

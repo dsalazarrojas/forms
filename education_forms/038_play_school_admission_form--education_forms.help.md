@@ -1,7 +1,3 @@
-<thinking>...I'll create a user-facing help guide for the "play_school_admission_form" following the provided YAML specification. I'll assume the purpose of this form is to collect essential information from parents or guardians to enroll their child in a school or educational institution. I'll also check for any duplication of fields or conflicting requirements. Since the form has a mix of required and optional fields, I'll provide clear instructions on how to complete each field. I'll be concise and practical in my explanations, avoiding any unsupported business logic. I'll also ensure that each field explanation is concrete and easy to understand...
-
-</thinking>
-
 # play_school_admission_form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians to enroll their child in a school or educational institution. Please complete the form carefully to ensure a smooth and efficient enrollment process.

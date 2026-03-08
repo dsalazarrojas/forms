@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Distance Learning Opt In Form", I first need to understand the form's purpose and fields. This form is likely used to collect information from students or parents who are interested in distance learning programs. Based on the YAML fields, the form appears to be used to gather personal details, course information, and contact information. The fields are mostly optional, which suggests that the form is intended to be used as an opt-in form for students or parents to express their interest in distance learning programs.
-</thinking>
-
 # Distance Learning Opt In Form - Help Guide
 ## Purpose
 

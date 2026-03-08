@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to first understand the form's purpose and ensure it's not redundant with other forms. This form, "Trusts Legal Knowledge Survey", appears to be a survey aimed at gathering information about individuals' knowledge and experience in the trust sector. It asks questions about their role within the trust sector, their level of understanding, length of involvement, frequency of engagement, usage of information, formal training, motivations, and contact preferences. This form likely serves to gather data for educational or research purposes, possibly to assess the knowledge and skills of individuals in the trust sector. To ensure the form's purpose is not duplicated, we should check if there are similar surveys or forms already in use within the organization. Assuming there are no similar forms, we can proceed with creating the help guide.
-
-</thinking>
-
 # Trusts Legal Knowledge Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your knowledge and experience in the trust sector. Your responses will help us understand your level of understanding, involvement, and preferences, which will be used for educational or research purposes.

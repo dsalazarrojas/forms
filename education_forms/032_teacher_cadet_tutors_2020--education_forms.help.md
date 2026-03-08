@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for collecting feedback from teachers on whether they have tutored students who are teacher cadets in 2020. The form is designed to be simple and easy to use, with two select fields and one text field. The purpose of this form is to gather information on teacher cadets who tutored in 2020, specifically whether they were from the Bahamas or not, and to collect any additional comments or details about their experience. This form is likely used in an academic or educational setting, possibly in a university or college setting. 
-
-This form should only be used for collecting feedback from teachers who have tutored students who are teacher cadets in 2020. Please do not use this form if you are a teacher cadet who was not tutored in 2020.
-
-</thinking>
-
 # Teacher Cadet Tutors 2020 - Help Guide
 ## Purpose
 This form is designed to gather feedback from teachers on whether they have tutored students who are teacher cadets in 2020.

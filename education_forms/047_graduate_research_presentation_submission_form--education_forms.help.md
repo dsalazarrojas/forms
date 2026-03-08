@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a graduate research presentation submission. It is likely used by students or researchers to present their work to a panel or audience. The form is probably used for academic or professional purposes, such as conferences or thesis presentations. To ensure that the form is completed correctly, please make sure you have all the necessary information ready before starting. Also, ensure that you are completing the form for the correct purpose and not duplicating efforts.
-</thinking>
-
 # graduate_research_presentation_submission_form - Help Guide
 ## Purpose
 This form is used to submit a graduate research presentation. It collects information about the presentation, presenter, and supporting documents.

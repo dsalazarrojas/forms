@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ESL Placement Test Quiz - Help Guide
 
 ## Purpose

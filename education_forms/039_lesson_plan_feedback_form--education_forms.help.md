@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students about a lesson, likely from an educator or instructor. The form will help gather information on what the students thought about the lesson, who the teacher was, what the teacher did well, and a brief description of the lesson plan. This form does not collect sensitive or protected information and is for internal use only. 
-
-This form is a basic feedback mechanism and does not collect any personally identifiable information. No data will be shared publicly or with third parties, and all data collected through this form will be used for internal purposes only within the organization. 
-
-The form is not intended to collect any information that can be used to identify individual students or their responses. The form's data collection is for the sole purpose of providing feedback to the teacher and the organization to improve the teaching process. 
-
-This form was created to provide a basic feedback mechanism for educational institutions. The form is an original adaptation and does not copy, extract, or use proprietary content from any form platform. 
-
-</thinking>
-
 # Lesson Plan Feedback Form - Help Guide
 ## Purpose
 This form was created to collect feedback from students about a lesson provided by an educator or instructor. The feedback is meant to help the teacher and the organization improve the teaching process.

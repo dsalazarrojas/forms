@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a student's special education needs, including their name, ID, date of birth, educational background, and any accommodations they require. This form is designed to be completed by school administrators or educators to ensure that students receive the necessary support and resources. It is crucial that this form is filled out accurately and thoroughly to avoid duplication of efforts and ensure that students receive consistent support. Please review each field carefully to ensure that you are providing the most accurate and complete information possible.
-</thinking>
-
 # special_education_checklist_form - Help Guide
 ## Purpose
 The special education checklist form is used to gather information about a student's special education needs. This information will be used to provide the student with the necessary support and resources.

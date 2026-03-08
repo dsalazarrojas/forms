@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for science project report upload purposes, specifically for students, teachers, and schools to provide information about science projects. This form is likely used to collect data for research, educational, or administrative purposes within the educational institution. To ensure accurate and complete data, please fill out all the required fields.
-
-Before proceeding, check that you are not duplicating an existing record. This form is not meant for general public use, so please only access it through authorized means.
-</thinking>
-
 # science_project_report_upload_form - Help Guide
 ## Purpose
 The science project report upload form is designed for students, teachers, and schools to provide information about science projects. This form helps collect data for research, educational, or administrative purposes within the educational institution.

@@ -1,7 +1,3 @@
-<thinking>
-This form, the Team Brilliance Template, is meant to collect data for a specific e-commerce-related team project. It is essential to ensure that the submitted data is accurate and relevant to the project requirements. Duplicate entries may lead to data inconsistencies, so please verify your submissions before proceeding.
-</thinking>
-
 # Team Brilliance Template - Help Guide
 ## Purpose
 The Team Brilliance Template is designed to collect information for a team project related to e-commerce. Please provide accurate and relevant details to ensure the data submitted is useful for the project's goals.

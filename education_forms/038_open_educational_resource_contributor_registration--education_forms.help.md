@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for contributors of open educational resources to register themselves and their contributions with the organization. It is designed to collect information about the contributor, their expertise, contribution, institution, and submission details.
-To prevent duplicate submissions and ensure accuracy, the form will only allow a single instance of each submission status and review status per contributor.
-The form requires a valid email address, phone number, and institution as a prerequisite for submission.
-</thinking>
-
 # open_educational_resource_contributor_registration - Help Guide
 ## Purpose
 This form is designed to register contributors of open educational resources with the organization. It is meant to collect information about the contributor, their expertise, contribution, and submission details.

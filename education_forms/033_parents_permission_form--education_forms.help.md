@@ -1,12 +1,3 @@
-<thinking>
-The "Parents Permission Form" is used to collect information from parents or guardians to obtain permission for a child to participate in a school trip or activity. This form is essential to ensure that parents are aware of their child's involvement and any risks associated with it. The form is designed to be completed by parents/guardians and should only be filled out once per child. Please ensure that the form is not duplicated for each activity or trip.
-
-The form fields have been designed to collect relevant information from parents, such as their contact details, permission status, and any additional comments or notes. Each field is crucial in ensuring that the school has a clear understanding of the parent's approval and any necessary contact information.
-
-Below is a detailed guide on how to complete this form:
-
-</thinking>
-
 # Parents Permission Form - Help Guide
 ## Purpose
 This form is used to collect permission from parents or guardians for their child to participate in a school trip or activity.

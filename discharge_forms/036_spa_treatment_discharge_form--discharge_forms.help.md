@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the Spa Treatment Discharge Form is part of a larger workflow in the spa or wellness center, where clients come in for treatments and need to be formally discharged at the end of their visit. The purpose of this form is to ensure that clients receive all necessary information about their treatment and are aware of the next steps, reducing the risk of complications or disputes after leaving the spa. This form may be used for clients who are receiving a specific treatment and need to be informed and acknowledged before being discharged.
-</thinking>
-
 # Spa Treatment Discharge Form - Help Guide
 ## Purpose
 The Spa Treatment Discharge Form is used to ensure that clients receive all necessary information about their treatment and are formally discharged at the end of their visit. This form is typically used for clients who are receiving a specific treatment and need to be informed and acknowledged before leaving the spa.

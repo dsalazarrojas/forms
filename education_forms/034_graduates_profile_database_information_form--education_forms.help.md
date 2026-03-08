@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure that this help guide is accurate and relevant to the users who will be completing the form, it's essential to understand the form's purpose and context. Based on the provided YAML fields, it appears that this form is for collecting information from graduates about their profile. The fields cover a range of details such as their name, graduation date, major, university, contact information, and profile picture. This form might be used for database purposes or for tracking and organizing graduate information.
-
-This form does not have specific requirements for fields like profile picture, graduation country, university country, and some other fields. This means that these fields are optional and not necessary for the form to be completed.
-
-The form also seems to be asking about multiple fields related to graduation, such as graduation year, graduation month, and graduation day. However, these fields might not be necessary if the graduation date is only required. 
-
-Given the form's design and fields, it's possible that the form is for general information collection or for a specific project or application that requires this type of data. Further investigation or clarification on the form's purpose and context would be necessary to provide a precise and helpful guide. 
-
-</thinking>
-
 # graduates_profile_database_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from graduates about their profile.

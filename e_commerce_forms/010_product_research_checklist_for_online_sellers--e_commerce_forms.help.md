@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a comprehensive checklist for online sellers to research products. The purpose of this form is to gather information about a product, including its category, target audience, and various product-related attributes such as description, price, image, and video. This form might be used by e-commerce sellers to create a product listing or to analyze existing products in their store. Before starting to fill out the form, check that you are not duplicating the product research and that the product is not already listed in your store.
-
-This is not a one-time-use form but rather a dynamic form that you can use multiple times. Each field is designed to be filled out based on the specific product you are researching.
-</thinking>
-
 # Product Research Checklist For Online Sellers - Help Guide
 ## Purpose
 This form is designed to help online sellers research and prepare products for their store.
