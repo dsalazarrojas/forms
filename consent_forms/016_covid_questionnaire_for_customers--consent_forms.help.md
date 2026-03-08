@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their travel history, contact with infected individuals, symptoms, and other relevant details related to COVID-19. The form aims to gather this information to assess the risk of customers potentially exposing other customers and staff to the virus. This information will be used to inform decisions regarding store policies and procedures to minimize the risk of exposure. Please ensure that you are completing this form for the correct purpose and that you are not duplicating efforts.
-
-</thinking>
-
 # Covid Questionnaire For Customers - Help Guide
 ## Purpose
 This form is designed to gather information about your travel history, contact with infected individuals, symptoms, and other relevant details related to COVID-19. This information will help us assess your risk of exposure and inform decisions regarding store policies and procedures to minimize that risk.

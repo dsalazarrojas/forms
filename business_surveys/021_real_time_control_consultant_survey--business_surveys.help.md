@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from real-time control consultants, likely for a business or organizational context. The form aims to understand the consultant's current activities, goals, expectations, and areas of improvement. It might be used by a business or organization to gather feedback, identify potential improvements, and adjust their services or offerings accordingly.
-
-Before filling out this form, please ensure that you have not already provided similar feedback to the organization. Your input will help shape the future development of their services, so please be as detailed and specific as possible.
-
-</thinking>
-
 # real_time_control_consultant_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from real-time control consultants, allowing the organization to better understand their needs and improve their services.

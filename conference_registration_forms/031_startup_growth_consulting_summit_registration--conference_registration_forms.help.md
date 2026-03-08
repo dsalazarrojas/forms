@@ -1,7 +1,3 @@
-<thinking>
-To ensure that only one form is created for the summit registration, I will first verify if there are already any other forms with similar titles or purposes. I will check the internal database for any existing forms with "startup_growth_consulting" in their titles or labels, and if so, this form will be merged or replaced. If the database does not contain similar forms, I will proceed with creating this new form.
-</thinking>
-
 # startup_growth_consulting_summit_registration - Help Guide
 
 ## Purpose

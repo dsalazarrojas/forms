@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record information about coaching calls. The purpose of this form is to gather details about the coaching call, including the call date, coaching call outcome, and any additional resources used during the call. This form is intended to be filled out by coaches after each coaching call. It is designed to be completed on a monthly basis, hence the name "monthly_coaching_call_check_in_form". 
-This form should not be duplicated for each call, as it is meant to be a recurring form used to track and analyze coaching call data over time.
-</thinking>
-
 # monthly_coaching_call_check_in_form - Help Guide
 ## Purpose
 The monthly_coaching_call_check_in_form is used to record information about coaching calls. This form is intended to be filled out by coaches after each coaching call to track and analyze data over time.

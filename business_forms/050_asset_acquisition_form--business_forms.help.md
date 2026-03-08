@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for requesting the acquisition of new assets for the organization, such as equipment or software. It is intended for use by employees with the authority to make asset acquisition requests, typically from department managers or purchasing agents. This form ensures that all necessary information is collected for the acquisition process, including the requesting department, the asset's title and description, the primary purpose of acquisition, estimated cost, preferred vendor, alternative vendors, budget code, estimated asset lifecycle, and ongoing maintenance requirements. It also includes a field for the date of the request and a flag to indicate if the request is urgent. This form is designed to be completed by the person requesting the asset, and is intended to facilitate the acquisition process and ensure that all relevant information is captured.
-
-Please note that this form is part of a larger system, and some fields may be required or have specific constraints that are not explained in this help guide. If you are unsure about any field, please consult with your department manager or purchasing agent.
-
-Also, please ensure that you are completing this form accurately and thoroughly, as the information collected will be used to make decisions about the acquisition process.
-</thinking>
-
 # Asset Acquisition Form - Help Guide
 
 ## Purpose

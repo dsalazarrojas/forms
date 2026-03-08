@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from sports club members about their preferred methods of communication. The survey will help the club administrators determine the most effective way to contact members and tailor their communication strategy accordingly. The form has multiple sections, each focusing on a different aspect of communication. To ensure accurate and consistent responses, please fill out the form carefully and thoroughly. Also, please note that the required fields are marked as such, and you must provide a response for each of them to submit the form successfully...</thinking>
-
 # Sports Club Communication Survey - Help Guide
 ## Purpose
 The Sports Club Communication Survey is designed to gather information from sports club members about their preferred methods of communication. This survey will help the club administrators determine the most effective way to contact members and tailor their communication strategy accordingly.

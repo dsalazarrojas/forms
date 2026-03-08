@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to calculate the sine of a given number, which is a trigonometric function in mathematics. The purpose of this form is to provide a simple way for users to input a number and get the result of the sine calculation. This form is relevant to the "calculation_forms" category, and it's designed to be a straightforward tool for users to quickly perform basic trigonometric calculations.
-
-</thinking>
-
 # Get Sine (sin) - Help Guide
 ## Purpose
 The Get Sine (sin) form is used to calculate the sine of a given number. This form is designed to provide a quick and easy way to perform this calculation.

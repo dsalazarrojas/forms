@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect demographic information and medical details for registration purposes at Camp John Hope. It should be filled out by individuals who want to register for the 2020 camp season. Please ensure that all required fields are completed accurately and truthfully. Review the form carefully before submitting, and do not reuse a previously submitted form.
 
 </thinking>

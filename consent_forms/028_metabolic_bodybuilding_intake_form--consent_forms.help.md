@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to capture essential information about a patient's metabolic bodybuilding journey. This data will help healthcare professionals understand the patient's past and current experiences with bodybuilding, which can inform their treatment plan and improve outcomes. Please ensure that this form is completed only once for each new patient and is not reused for any other purpose. If the patient's information changes, please update the form accordingly.
-</thinking>
-
 # Metabolic Bodybuilding Intake Form - Help Guide
 ## Purpose
 The Metabolic Bodybuilding Intake Form is designed to gather crucial information about a patient's metabolic bodybuilding journey. This form is meant for patients who are or have been involved in bodybuilding activities. The data collected will help healthcare professionals understand the patient's past and current experiences with bodybuilding, which can inform their treatment plan and improve outcomes.

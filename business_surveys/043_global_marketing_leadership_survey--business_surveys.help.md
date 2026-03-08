@@ -1,14 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll first consider the form's purpose and ensure it's relevant and non-duplicative.
-
-The "Global Marketing Leadership Survey" form appears to be a tool used to gather insights from marketing leadership professionals on their strategies, challenges, and experiences. The form's structure suggests it's designed to collect data on various aspects of marketing leadership, including their approaches, challenges faced, and growth metrics. This form is likely used for research or benchmarking purposes within an organization or industry.
-
-Upon reviewing the form's fields, I see that most of them are text or number fields, with some select options. The "marketing_leadership_style" field has a select-one type with three options, while "marketing_leadership_survey_length" and "marketing_leadership_survey_frequency" have select-one type with four and three options, respectively.
-
-Before generating the help guide, I'll ensure that the explanation is concise, practical, and easy to understand for end-users.
-
-</thinking>
-
 # Global Marketing Leadership Survey - Help Guide
 ## Purpose
 

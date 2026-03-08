@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify wage loss experienced by an injured worker. This form helps to collect information from an injured worker about the impact of their injury on their income. It's essential to complete this form correctly to ensure accurate and timely processing of the wage loss claim. Before proceeding, please ensure you have reviewed the relevant documentation and policies related to wage loss, and that this form is not a duplicate submission (you will not be able to submit multiple forms with the same information). If you're unsure about any part of the process, please reach out to your supervisor or HR representative for guidance.
-</thinking>
-
 # Wage Loss Verification Form - Help Guide
 ## Purpose
 The Wage Loss Verification Form is used to collect information from an injured worker about the impact of their injury on their income. This form helps to verify the amount of wage loss experienced due to the injury.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their outdoor activity safety habits and awareness. This form is likely used by organizations or companies that provide outdoor activities or services to collect data on how safe their participants are. The form's questions cover various aspects of outdoor safety, including frequency of outdoor activities, use of safety equipment, emergency training, outdoor habits, first prophets (likely referring to emergency response options), last prophet (again likely related to emergency response options), and contact information (email and phone number). 
-</thinking>
-
 # Outdoor Activity Safety Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your outdoor activity safety habits and awareness. Please answer all questions truthfully to help us better understand your outdoor safety practices.

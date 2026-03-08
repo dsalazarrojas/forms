@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from employees on various aspects of their work experience, providing valuable insights for the company to improve its policies, practices, and overall work environment.
-The form aims to gather information on employees' satisfaction with their work environment, manager's performance, benefits, and company policies.
-To ensure that the collected data is comprehensive and meaningful, it is essential to understand the context of each question.
-Before completing the form, please read the following explanations to ensure that you provide accurate and helpful feedback.
-</thinking>
-
 # Employee Satisfaction Survey - Help Guide
 
 ## Purpose

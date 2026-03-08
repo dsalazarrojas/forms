@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from claimants who are requesting a refund for a specific reason. This form is used to ensure that all necessary details are gathered for processing the claim. Before filling out this form, please ensure that all information is accurate and complete. If you have already submitted a similar claim, please do not submit this form again. This form is intended to help us process your request efficiently.
-</thinking>
-
 # Benefit Refund Claim Request Form - Help Guide
 ## Purpose
 This form is designed to guide you through the process of submitting a refund claim. It will help you provide all necessary information to process your claim efficiently.

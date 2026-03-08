@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect important information from participants in a tennis tournament, such as their name, contact information, and medical history. This form is essential for ensuring the safety and well-being of all participants. Please note that this form should only be filled out by participants themselves, and not by someone else on their behalf. If you are filling out this form for someone else, please do not proceed. If you have already filled out this form, there is no need to fill it out again.
-</thinking>
-
 # Tennis Tournament Release Form - Help Guide
 ## Purpose
 The Tennis Tournament Release Form is a crucial document that ensures the safety and well-being of all participants in the tennis tournament. It collects essential information about each participant, including their name, contact details, and medical history.

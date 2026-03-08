@@ -1,13 +1,3 @@
-<thinking>
-
-To create an intuitive and user-friendly help guide for this form, we need to understand the purpose and context of the "orientation_completion_checklist" form. Based on the provided YAML fields, it appears that this form is designed to collect information about an employee's orientation process, covering various aspects such as introduction, completion date, facilitator, location, topics, employee details, and supervisor information.
-
-This form likely serves as a tool for HR or orientation coordinators to track and document the completion of orientation sessions for new employees. The form may be used to ensure that all necessary steps are taken during the orientation process, and that employees and their supervisors are held accountable for completion.
-
-Before we dive into the detailed explanation of the form, let's confirm that there's no obvious duplication or overlap between fields, which would indicate that the form is designed to be completed by a single user, typically an HR representative, and not by multiple users simultaneously.
-
-</thinking>
-
 # orientation_completion_checklist - Help Guide
 
 ## Purpose

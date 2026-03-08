@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vintage Item Condition Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Weekly Check In form. Before proceeding, please ensure that you are familiar with the form's purpose and the information it is intended to collect. This form is not a substitute for any formal medical or professional evaluation. If you are unsure about any aspect of this form, please consult your supervisor or a relevant authority.
-</thinking>
-
 # Weekly Check In - Help Guide
 
 ## Purpose

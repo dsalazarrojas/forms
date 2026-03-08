@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "<string>" form, which is used to collect information from submitters.
-The form is designed to gather details about the submitter, including their personal details, education, and other relevant information.
-To ensure the form is completed correctly, please note that some fields are optional.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect information from submitters for internal purposes.

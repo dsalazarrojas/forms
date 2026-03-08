@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a checklist for a Sanitary Survey, which is likely a form used to assess the capabilities and conditions of a water system in a facility. The purpose of this form is to collect information about the facility's water system capacity, construction, operation, and overall condition. This form is meant to be used in a specific industry or category, which is not specified in the provided YAML data. However, based on the form's title and field names, it appears to be used in the field of water treatment or facility management.
-
-To avoid duplication, please note that this form does not seem to be affiliated with any specific form creation or survey platform, and it was generated using public metadata as inspiration. The form's content is original and released under a Creative Commons license, allowing users to modify and use it as needed.
-
-</thinking>
-
 # Sanitary Survey Checklist - Help Guide
 ## Purpose
 The Sanitary Survey Checklist is a form used to assess the capabilities and conditions of a water system in a facility, including its capacity, construction, operation, and physical condition.

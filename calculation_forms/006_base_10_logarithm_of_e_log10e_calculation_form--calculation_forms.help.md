@@ -1,8 +1,3 @@
-<thinking>
-This form is for calculating the base-10 logarithm of a given number, specifically for the purpose of calculating the base-10 logarithm of the mathematical constant e. The form is intended for users who want to calculate this specific type of logarithm for various reasons, such as academic research, professional engineering, statistical analysis, or personal interest. There is no duplication or overlap with other forms in the "calculation_forms" category, as this form is designed to calculate a very specific type of logarithm.
-
-</thinking>
-
 # Base 10 Logarithm Of E (LOG10E) Calculation Form - Help Guide
 ## Purpose
 This form calculates the base-10 logarithm of the mathematical constant e, which is a fundamental constant in mathematics and physics. The form is designed to provide a user-friendly interface for users to input a number and get the base-10 logarithm result.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Electronic Device Production Inspection Form. This form is used to track and document the inspection process of electronic devices during production. The form's purpose is to ensure that all electronic devices meet quality and safety standards before they are released to the market. It's essential to fill out the form accurately and comprehensively to identify and address any production bottlenecks, quality issues, and root causes. To ensure consistency, please review the form carefully and complete it for every electronic device produced.</thinking>
-
 # Electronic Device Production Inspection Form - Help Guide
 ## Purpose
 This form is used to track and document the inspection process of electronic devices during production, ensuring that all devices meet quality and safety standards.

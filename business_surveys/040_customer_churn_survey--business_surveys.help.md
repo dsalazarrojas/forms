@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to ensure that customer churn surveys are filled out accurately and thoroughly, to gather valuable information that can help improve customer relationships. It is essential to understand the purpose and structure of the form to complete it correctly. Please ensure you have all the necessary information before filling out this survey.
-
-</thinking>
-
 # Customer Churn Survey - Help Guide
 ## Purpose
 The customer churn survey is designed to gather information about customers who have left or are about to leave your business. This survey helps identify the reasons behind customer churn and provides valuable insights to improve customer relationships and retention.

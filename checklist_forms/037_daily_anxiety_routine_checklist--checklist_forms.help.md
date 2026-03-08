@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive assessment of an individual's daily anxiety level, coping strategies, mood, anxiety triggers, sleep quality, and other relevant factors. This form is designed to help individuals track their anxiety levels and identify potential patterns or areas for improvement.
-
-Before creating this guide, ensure that the fields on this form are well-understood and non-duplicative. Review the form schema to confirm that each field is clearly labeled and its purpose is clear. Ensure that required fields are correctly marked as required and that hints are provided where possible to guide the user through the completion process.
-
-This guide will cover how to complete each field, providing explanations of the options, types, and any other relevant information needed to fill out the form correctly.
-
-</thinking>
-
 # Daily Anxiety Routine Checklist - Help Guide
 ## Purpose
 This form is designed to help you track and assess your daily anxiety levels, coping strategies, and other relevant factors.

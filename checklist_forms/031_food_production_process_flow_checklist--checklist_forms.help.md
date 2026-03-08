@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to document the food production process, including production steps, dates, times, equipment used, employee names, and comments. It is likely used in a production management setting, possibly in the food industry, where tracking these details is crucial for quality control, inventory management, and compliance with regulatory requirements.
-This form seems to be a template for a recurring process, with multiple pages of similar fields. Each page may represent a production batch or phase, with fields for production details and signatures.
-The form's layout and field types suggest that it is designed for data collection and reporting, possibly for quality control, auditing, or inventory management. However, without additional context, it's hard to determine the exact purpose and usage of this form.
-</thinking>
-
 # Food Production Process Flow Checklist - Help Guide
 ## Purpose
 This form is used to document the production process, including production steps, dates, times, equipment used, employee names, and comments.

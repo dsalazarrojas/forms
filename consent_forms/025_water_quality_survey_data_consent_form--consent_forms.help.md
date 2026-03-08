@@ -1,7 +1,3 @@
-<thinking>
-The Water Quality Survey Data Consent Form is used to collect consents from end users for their data to be collected and stored for the water quality survey. This form is used internally and the data collected will only be used for the purposes of the water quality survey. The form is divided into multiple pages, each with different fields that are used to collect specific information. To ensure that the form is completed accurately and relevant, please review the fields below and complete them accordingly.
-</thinking>
-
 # Water Quality Survey Data Consent Form - Help Guide
 ## Purpose
 This form is used to collect consents from end users for their data to be collected and stored for the water quality survey.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information on roof maintenance conditions. It helps to identify areas of potential damage, assess the overall state of the roof, and track the status of necessary repairs. This form is not affiliated with any form platform and is an original adaptation. The form is designed to be filled out by users who have access to the roof and can provide an accurate assessment. Please note that the form has multiple fields with select_multiple types which means users can select multiple options for each field. This form does not collect any sensitive or personal information.
-</thinking>
-
 # Roof Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used to collect information on the conditions of a roof's maintenance. It is meant to be filled out by users who have access to the roof and can provide an accurate assessment.

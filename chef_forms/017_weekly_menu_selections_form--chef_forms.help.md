@@ -1,6 +1,3 @@
-<thinking>
-The Weekly Menu Selections Form is designed to collect information from restaurants for weekly menu planning purposes. This form is intended to be filled out by restaurant staff or representatives, providing details about their restaurant's menu items and other relevant information. To ensure the form is completed accurately, users should carefully review each field to provide the most relevant and up-to-date information. The form is intended to be used by restaurant staff, so it is essential that the form's purpose and instructions are understood clearly. This guide will walk users through the purpose, completion, and field explanation of the form to ensure accurate and efficient completion.</thinking>
-
 # Weekly Menu Selections Form - Help Guide
 ## Purpose
 This form is designed to collect menu information from participating restaurants for weekly planning purposes. It helps restaurants to effectively communicate their menu offerings, enabling efficient planning and preparation.

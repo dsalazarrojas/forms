@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equine Massagesession Notes - Help Guide
 ## Purpose
 This form is used to record notes and evaluation outcomes of an equine massage session. It is designed to help therapists and practitioners collect feedback from clients and assess the effectiveness of the massage session. The form is not required, but it is recommended to fill it out for future reference and to help improve the equine massage service.

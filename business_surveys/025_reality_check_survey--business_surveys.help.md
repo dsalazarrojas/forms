@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to elicit detailed information from the user about their goals, actions, and expectations in a specific context or scenario. The form is likely used for personal or professional development, goal-setting, or self-reflection purposes.</thinking>
-
 # Reality Check Survey - Help Guide
 ## Purpose
 The Reality Check Survey form is designed to gather information about your thoughts, feelings, and experiences related to your current reality. This form helps you reflect on your goals, actions, and expectations, and is useful for personal or professional development, goal-setting, or self-reflection.

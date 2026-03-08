@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is intended to guide individuals involved in the reproductive procedures of broodmares through the required information collection process. It aims to standardize and organize the necessary data for the procedure, ensuring accuracy and compliance. Please note that this form might need to be reviewed by a veterinarian to ensure its suitability for your specific situation. Check if you're ready for this form before proceeding, and make sure it's not a duplicate submission.</thinking>
-
 # Broodmare Reproductive Procedure Form - Help Guide
 ## Purpose
 This form is designed for individuals involved in the reproductive procedures of broodmares to collect essential information. It is meant to ensure accuracy and compliance in the process. Review the form carefully before proceeding to ensure it meets your specific needs and is not a duplicate submission.

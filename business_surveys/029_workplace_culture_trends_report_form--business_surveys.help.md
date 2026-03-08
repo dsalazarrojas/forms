@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Culture Trends Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about the current state of workplace culture, employee satisfaction, and manager satisfaction within an organization. It will help identify trends and areas of improvement for the organization's leadership and HR team to make data-driven decisions.

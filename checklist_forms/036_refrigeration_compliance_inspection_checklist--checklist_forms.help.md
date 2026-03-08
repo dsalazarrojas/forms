@@ -1,8 +1,3 @@
-<thinking>
-The "Refrigeration Compliance Inspection Checklist" form appears to be a straightforward form for tracking refrigeration equipment compliance. This form likely aims to assess the status of refrigeration equipment in various locations, ensuring it meets certain compliance standards. To confirm, the form is divided into two pages with fields such as location name, equipment ID, inspection date, and more. It's essential to complete this form accurately to maintain regulatory compliance and ensure equipment is functioning correctly. Before diving into the detailed explanations, ensure this form doesn't overlap or duplicate existing procedures, and review the fields to confirm their purpose and any potential dependencies or relationships with other forms.
-
-</thinking>
-
 # Refrigeration Compliance Inspection Checklist - Help Guide
 
 ## Purpose

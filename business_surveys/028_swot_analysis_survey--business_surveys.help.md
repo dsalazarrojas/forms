@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swot Analysis Survey - Help Guide
 ## Purpose
 This form is designed to help identify the Strengths, Weaknesses, Opportunities, and Threats (SWOT) of an individual and the company. A SWOT analysis is a framework used to identify and prioritize these elements to help make informed business decisions. 

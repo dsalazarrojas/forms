@@ -1,22 +1,3 @@
-<thinking>
-To create a help guide for the "Health Coaching Client Plan Adherence Check In" form, let's break down the form's purpose and how users can complete it.
-
-The purpose of this form is to help health coaches track the adherence of their clients to their plans between sessions. It collects relevant information from both the client and the coach to ensure that the client is on track with their goals and to identify any potential concerns or challenges that need to be addressed. This form is essential for maintaining a consistent and effective coaching process.
-
-To complete this form, follow these steps:
-
-1. Start by entering the client's name and session date.
-2. Rate the client's current adherence to their plan, providing a numerical rating (e.g., 1-10).
-3. Describe the next steps the client will take between sessions.
-4. Optionally, provide additional comments or concerns from the coach or client.
-5. Enter any relevant phone numbers or emails for follow-up communication.
-6. Add any notes or comments from the coach or client.
-7. If scheduled, enter the next session date and time.
-
-This form will help health coaches maintain a clear and structured record of client progress and challenges, facilitating more informed and effective coaching sessions.
-
-</thinking>
-
 # Health Coaching Client Plan Adherence Check In - Help Guide
 ## Purpose
 The purpose of this form is to help health coaches track the adherence of their clients to their plans between sessions.

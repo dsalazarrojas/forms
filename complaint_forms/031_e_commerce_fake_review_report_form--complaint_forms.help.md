@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a comprehensive help guide for the E Commerce Fake Review Report Form to assist users in understanding its purpose and usage.
-</thinking>
-
 # E Commerce Fake Review Report Form - Help Guide
 ## Purpose
 The E Commerce Fake Review Report Form is used to report suspicious activity on fake reviews on e-commerce platforms, such as Amazon and eBay. This form helps identify and track reviews that may be fake or misleading, allowing for quick action to be taken to remove them from the platform.

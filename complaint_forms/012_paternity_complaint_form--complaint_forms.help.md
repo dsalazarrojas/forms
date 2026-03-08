@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a paternity complaint, which is a claim or grievance made against an individual or organization for actions or decisions related to paternity leave, childcare, or family benefits. The form's purpose is to gather details about the complainant, their contact information, and the nature of the complaint, as well as any supporting documents. The submitter's information, including their name, contact details, and position, is also collected to provide a point of contact for follow-up actions. The form is designed to be completed by a complainant or their representative, who will provide their own information and that of the submitter. This form is not intended for general feedback or suggestions, but rather for formal complaints.
-
-To avoid duplication, please make sure to fill out this form only for legitimate grievances. Internal staff and management should not use this form for internal complaints.
-</thinking>
-
 # Paternity Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about paternity-related complaints, which will be reviewed and addressed by relevant authorities or management.

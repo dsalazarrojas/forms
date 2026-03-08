@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from veterinarians and other medical professionals in the veterinary supply chain to assess the overall satisfaction with the suppliers they work with. This form will help identify areas of improvement and ensure that the supply chain is functioning efficiently and effectively. Before filling out this form, please ensure that you are responding to the correct survey and that your feedback is based on your actual experiences with the veterinary supply chain.
-</thinking>
-
 # Veterinary Supply Chain Satisfaction Survey - Help Guide
 ## Purpose
 The Veterinary Supply Chain Satisfaction Survey is a tool used to collect feedback from veterinarians and other medical professionals in the veterinary supply chain. This form helps identify areas where the supply chain can be improved to provide better service, delivery, and overall satisfaction.

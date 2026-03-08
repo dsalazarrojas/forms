@@ -1,11 +1,3 @@
-<thinking>
-This form is for gathering feedback on a specific PMI (Project Management Initiative) from project stakeholders. PMI is a project management methodology used for managing projects and their related tasks. 
-To use this form, we're checking the project management initiatives that are in scope for this specific project. This form will be used to gather feedback on the performance of project managers and team members. 
-This is not a duplicate feedback submission for the same project/initiative. If you have already submitted feedback, please do not resubmit it. 
-This feedback will be used for improvement purposes only. 
-Please provide feedback for projects that are still in progress or recently completed. 
-</thinking>
-
 # pmi_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on Project Management Initiatives (PMI) from project participants, helping us improve our project management practices.

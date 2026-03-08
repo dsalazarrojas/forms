@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, we'll follow the provided YAML fields and create a concrete, concise, and practical guide for end-users. Here's the final guide in Markdown format:
 
 # Employee Opinion Survey - Help Guide

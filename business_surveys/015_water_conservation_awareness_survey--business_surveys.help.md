@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the level of awareness and knowledge about water conservation among individuals, organizations, and institutions in the community. This form is designed to be a quick and easy way to collect feedback and opinions about water conservation efforts and initiatives.
-
-To complete this form, follow these steps:
-
-1. **Introduction (Page 1)**: This page provides a brief overview of the purpose and importance of the water conservation awareness survey. Read through the page and understand the context before proceeding.
-2. **Section 1: Water Conservation Practices (Page 2)**: Select one of the options that best describe your water conservation practices from the list. Choose one of the options and proceed to the next section.
-3. **Section 2: Water Conservation Initiatives (Page 3)**: Select all the options that apply to your organization or institution from the list. You can select multiple options as applicable.
-4. **Section 3: Water Conservation Challenges (Page 4)**: Select one of the options that best describe the challenges you face related to water conservation from the list.
-5. **Section 4: Additional Comments (Page 5)**: Enter your numerical answer to the question about the level of agreement with the statement about water conservation.
-
-</thinking>
-
 # Water Conservation Awareness Survey - Help Guide
 ## Purpose
 

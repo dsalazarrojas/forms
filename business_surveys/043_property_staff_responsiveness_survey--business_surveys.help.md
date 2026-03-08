@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Staff Responsiveness Survey - Help Guide
 ## Purpose
 This survey is designed to measure the responsiveness and quality of service provided by property staff. It will help us understand how well we are serving our properties and what areas need improvement.

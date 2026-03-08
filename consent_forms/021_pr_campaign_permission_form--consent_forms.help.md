@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to provide permission for a PR campaign, allowing them to opt-in or opt-out of the campaign. It's essential to fill out this form accurately, as it will be used to track and record participant information. Please ensure that you're only submitting this form once per participant. If you've already submitted this form, you don't need to resubmit it. If you're unsure about any part of the form, please ask your supervisor or team lead for clarification.
-</thinking>
-
 # PR Campaign Permission Form - Help Guide
 ## Purpose
 The PR Campaign Permission Form is a mandatory document that enables participants to provide their consent for a PR campaign. It's crucial to fill out this form accurately and honestly, as it will be used to track and record participant information.

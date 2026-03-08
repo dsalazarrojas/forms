@@ -1,7 +1,3 @@
-<thinking>
-Internal use only: This form is used to collect resident complaints in a facility. When submitting this form, please ensure that you have not previously submitted a complaint for the same issue. Duplicate submissions will not be processed. The form is intended for residents to describe their concerns or problems they experienced during their stay at the facility. Please fill out all required fields for a complete and accurate submission.
-</thinking>
-
 # Resident Complaint Summary Request Form - Help Guide
 ## Purpose
 The Resident Complaint Summary Request Form is designed to collect resident complaints in a facility. This form is used to gather information about the concerns or problems experienced by residents during their stay, and to help facility staff address these issues.

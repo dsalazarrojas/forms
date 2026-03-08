@@ -1,7 +1,3 @@
-<thinking> 
-This form is for conference registration, specifically for tax optimization conference. It's likely to be used by attendees who want to participate in the conference. Since it's a conference registration form, it's possible that some fields may overlap with other conference registration forms, and the form might not be relevant to users who don't fit this specific event or audience. The purpose of the form is to collect necessary information for registration, including user details, event information, and contact preferences. The form is likely to be used by event organizers to collect data and communicate with attendees.
-
-</thinking>
 # Tax Optimization Forum Registration - Help Guide
 ## Purpose
 This form is for conference registration, specifically for tax optimization conference attendees who want to participate in the event.

@@ -1,8 +1,3 @@
-<thinking>
-Business Surveys are used to gather feedback from customers regarding their experiences with our shipping process. This form is designed to capture information about the shipping date, time, and other relevant details. To ensure accurate data collection, please complete this form for every shipment you've made. If a shipment has been completed multiple times, fill out this form once for each instance.
-Please note that the fields on this form are required for data analysis and improvement purposes. If a field is marked as 'optional', it's because we may have already obtained that information through other means, but your input can still help us improve our processes.
-</thinking>
-
 # shipping_process_feedback_survey - Help Guide
 ## Purpose
 The shipping_process_feedback_survey form is designed to gather feedback from customers regarding their experiences with our shipping process.

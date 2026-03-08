@@ -1,19 +1,3 @@
-<thinking>
-
-This form is a registration form for the Retail Digital Payment Summit. Its purpose is to collect attendee details and their participation status for the summit. The form is divided into several pages, but for the sake of this help guide, we will focus on the three fields that require user input. 
-
-To ensure relevance, we will only cover the fields that are actually relevant to user input. Non-relevant fields are likely to be hidden or read-only fields that do not require user input. 
-
-The fields to be covered are: 
-
-* Attendee Details: This field is a text field where attendees can input their details.
-* Participation Type: This field is a select-one field where attendees can select whether they will participate or not.
-* Special Requirements: This field is a note field where attendees can provide additional requirements.
-
-The form purpose is to register attendees for the Retail Digital Payment Summit. 
-
-</thinking>
-
 # Retail Digital Payment Summit Registration - Help Guide
 ## Purpose
 This form is used to register attendees for the Retail Digital Payment Summit. 

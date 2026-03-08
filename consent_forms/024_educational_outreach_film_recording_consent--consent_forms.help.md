@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to obtain consent for educational outreach film recording. This form is likely used to obtain permission from participants to capture various types of footage for educational purposes. The form is designed to be completed by participants and requires their information, permission, and filming details. Before proceeding, please ensure that this form is not a duplicate for you and you have not already completed it. If you are not sure about the purpose of this form or have any questions, please reach out to the relevant authorities.
-</thinking>
-
 # educational_outreach_film_recording_consent - Help Guide
 ## Purpose
 The "Educational Outreach Film Recording Consent" form is designed to obtain permission from participants to capture educational footage.

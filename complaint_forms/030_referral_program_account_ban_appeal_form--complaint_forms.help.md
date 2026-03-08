@@ -1,13 +1,3 @@
-<thinking>
-  This form is intended to facilitate users to appeal against a previously imposed referral program account ban. The purpose of this form is to provide a clear and structured way for users to present their case for reconsideration. 
-  To ensure that appeals are handled efficiently, please ensure that you submit a complete and accurate representation of your appeal. This includes providing a clear reason for the ban and any supporting details that may be relevant to your appeal. 
-  Please note that this form is not intended for duplicate appeals, and if you've already submitted an appeal, please do not resubmit this form. 
-  This form will gather information to assess your appeal, including the reason for the ban, the date of the ban, your account information, and any supporting details you'd like to provide. 
-  Once completed, the submitted form will be reviewed by the designated team who will assess your appeal and respond to you with their decision. 
-  Please be honest and thorough in your submission, as this will help us to make a fair assessment of your appeal. 
-  If you have any questions or concerns, feel free to contact us at [support email]. 
-  </thinking>
-
 # Referral Program Account Ban Appeal Form - Help Guide
 ## Purpose
 The Referral Program Account Ban Appeal Form is designed to provide a structured way for users to appeal against a previously imposed referral program account ban. Please use this form to provide a clear and accurate representation of your case, including a clear reason for the ban and any supporting details that may be relevant.

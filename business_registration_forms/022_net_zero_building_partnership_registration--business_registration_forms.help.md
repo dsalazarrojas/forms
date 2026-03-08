@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Net Zero Building Partnership Registration - Help Guide
 ## Purpose
 The Net Zero Building Partnership Registration form is designed to collect information from partners who wish to collaborate with us on building-related projects. This form is used to gather contact and partnership details, allowing us to assess potential collaborations and ensure a smooth onboarding process.

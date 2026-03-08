@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help diagnose and identify potential issues with a system, such as performance problems or issues affecting its functionality. It is essential to fill out the form accurately to provide a thorough understanding of the system's status. Before filling out this form, please ensure that you are not duplicating the diagnosis, and that the issue has not already been addressed.
-</thinking>
-
 # System Diagnostic Survey - Help Guide
 
 ## Purpose

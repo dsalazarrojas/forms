@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect business demographic information for internal purposes. The goal is to gather a comprehensive view of your business's size, structure, financials, and market dynamics. This data will be used to provide insights and support for business development initiatives.
-
-Before filling out this form, please ensure you have the necessary permissions and authority to provide information about your business. Also, please note that this form is for informational purposes only and will not be used to solicit or provide any financial services.
-
-</thinking>
-
 # Business Demographic Survey - Help Guide
 
 ## Purpose

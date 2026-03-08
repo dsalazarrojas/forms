@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Health Study Parental Consent Form - Help Guide
 
 ## Purpose

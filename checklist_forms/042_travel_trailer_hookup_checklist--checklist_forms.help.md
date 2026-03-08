@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to fill out the Travel Trailer Hookup Checklist. This form is designed to collect information about the trailer's connections and features. Please ensure that you have a clear understanding of the trailer's specifications before proceeding. This guide will walk you through each field and its corresponding options.
-</thinking>
-
 # Travel Trailer Hookup Checklist - Help Guide
 ## Purpose
 The Travel Trailer Hookup Checklist is a form used to gather information about the connections and features of a trailer. This information is necessary to ensure that the trailer is properly hooked up and ready for travel.

@@ -1,11 +1,3 @@
-<thinking>
-
-To determine if the form is relevant to the user, we first need to establish its purpose: "get_eulers_number_exp" likely pertains to calculating Euler's number, a mathematical constant approximately equal to 2.71828. This form would be relevant to users interested in calculating or working with this value. 
-
-We should avoid creating this help guide if the user has no knowledge about Euler's number or no need to calculate it in their work. 
-
-</thinking>
-
 # get_eulers_number_exp - Help Guide
 ## Purpose
 The purpose of this form is to help you calculate Euler's number, a fundamental mathematical constant.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting post-event cleaning services. It captures event details, preferred times, service requirements, contact information, and other relevant data for processing cleaning requests.
-
-Before filling out this form, please ensure that your event has already occurred and you're submitting this request for post-event cleaning. This form should not be used for new event planning or scheduling purposes. Also, please be aware that submitting multiple requests for the same event may lead to duplicate work or confusion.
-
-</thinking>
-
 # Post Event Cleaning Request Form - Help Guide
 
 ## Purpose

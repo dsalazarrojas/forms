@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from artists before submitting their digital art to a platform or organization. The form is designed to be simple and easy to use, ensuring that artists understand their rights and responsibilities when submitting their work. The form helps artists grant or deny consent for their digital art to be used in specific ways, such as commercial use, educational purposes, or for other reasons. This form is a crucial step in maintaining transparency and protecting artist's intellectual property rights.
-</thinking>
-
 # Digital Art Submission Use Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from artists before submitting their digital art to a platform or organization. It helps artists understand their rights and responsibilities when granting or denying consent for their digital art to be used in specific ways.

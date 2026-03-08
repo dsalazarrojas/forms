@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in attending a future search event. This form is likely intended to gather contact and personal details from registrants, event details, and other relevant information to help organizers plan and host the event. It's crucial to ensure that the form is completed accurately and thoroughly to avoid any potential issues with event planning or follow-up communications.
-</thinking>
-
 # Future Search Event Registration - Help Guide
 ## Purpose
 The Future Search Event Registration form is designed to collect information from individuals interested in attending a future search event.

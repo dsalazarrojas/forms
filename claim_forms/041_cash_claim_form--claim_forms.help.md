@@ -1,7 +1,3 @@
-<thinking>... Internal note to myself: This form has multiple pages with various fields, including text fields, dropdowns, and date fields. The form is for cash claims, specifically for authorized expenses. It's designed to capture essential information from the claimant, including claim details, expenses, and supporting documents. I'll need to carefully examine each field to create a comprehensive help guide that explains each field's purpose and requirements...
-
-</thinking>
-
 # Cash Claim Form - Help Guide
 
 ## Purpose

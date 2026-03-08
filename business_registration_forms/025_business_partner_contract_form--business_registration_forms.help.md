@@ -1,7 +1,3 @@
-<thinking>
-Business Partnership registration is a crucial step to establish a formal relationship between two parties. This guide will walk you through the Business Partner Contract Form to ensure a smooth registration process.
-</thinking>
-
 # Business Partner Contract Form - Help Guide
 ## Purpose
 The Business Partner Contract Form is a document used to outline the terms and conditions of a partnership between two businesses. This form serves as a reference point for both parties to ensure that everyone is on the same page regarding their responsibilities, commissions, payment terms, and contract duration.

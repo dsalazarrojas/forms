@@ -1,9 +1,3 @@
-<thinking>
-The Pet Monitoring Checklist form is designed to monitor pets' vital signs, health conditions, and other essential aspects of their care. This form helps pet caregivers track and record important details about a pet's well-being, ensuring that the pet receives proper attention and care. The form is typically used by veterinary clinics, pet hospitals, or pet care centers to gather information on a pet's health status, food and water intake, medication administration, and follow-up appointments.
-The form is likely to be used by pet caregivers, veterinarians, or clinic staff to ensure that pets receive consistent and high-quality care.
-Before creating this guide, I've checked that there are no other similar forms with the same purpose and structure in the repository.
-</thinking>
-
 # Pet Monitoring Checklist - Help Guide
 ## Purpose
 The Pet Monitoring Checklist is a form designed to help pet caregivers track and record essential information about a pet's health status, food and water intake, medication administration, and follow-up appointments.

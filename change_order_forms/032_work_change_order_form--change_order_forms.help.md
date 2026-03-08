@@ -1,7 +1,3 @@
-<thinking>
-A work change order form is used to request changes to work orders. This form is used to capture the essential information required to initiate the change process. To ensure the form is filled out correctly, please review the instructions below.
-</thinking>
-
 # Work Change Order Form - Help Guide
 ## Purpose
 The Work Change Order Form is used to request changes to work orders. This form captures the essential information required to process the change order, including the type of change, description, and estimate.

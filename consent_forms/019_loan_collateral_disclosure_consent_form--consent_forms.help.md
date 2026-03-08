@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the Loan Collateral Disclosure Consent Form. This form is used to obtain the consent of the borrower for disclosing information regarding the loan collateral, such as property details, value, and location. This form ensures that the borrower is aware of and agrees to the disclosure of such information. The form is not a legal document but rather a way to gather the borrower's consent and acknowledgment of their understanding of the process. It's essential to complete this form accurately to maintain a smooth loan process and avoid any potential issues that may arise from unapproved disclosure.
-</thinking>
-
 # Loan Collateral Disclosure Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the borrower's consent for disclosing information regarding the loan collateral. It's essential to complete this form accurately to maintain a smooth loan process and avoid any potential issues that may arise from unapproved disclosure.

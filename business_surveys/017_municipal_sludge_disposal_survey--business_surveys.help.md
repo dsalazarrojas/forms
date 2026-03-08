@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form's purpose and relevance, I will review the provided YAML fields to ensure it is a comprehensive survey for municipalities to share their sludge disposal practices. This form appears to cover various aspects of sludge management, including treatment process, storage capacity, treatment facility types, disposal methods, and regulatory compliance. I will verify that the questions are clear and concise to guide the user through the form without redundancy or omission.
-</thinking>
-
 # Municipal Sludge Disposal Survey - Help Guide
 ## Purpose
 The Municipal Sludge Disposal Survey is a tool designed for municipalities to share their sludge disposal practices, including treatment processes, storage capacities, types of treatment facilities, and regulatory compliance.

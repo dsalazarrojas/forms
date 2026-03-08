@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of the form, let's analyze the YAML inputSchema.
-The form is named "Seasonal Sales Data Evaluation Report" and appears to be related to sales data analysis within a store or retail context. The form likely serves as a tool for evaluating or reporting on sales data during different seasons or time periods.
-The form includes fields such as store ID, sales region, sales date, store sales, sales channel, store name, sales amount, sales person, and store performance. These fields suggest that the form is used to track and analyze sales data from different stores, regions, and sales channels.
-The form does not appear to be highly complex or require extensive business knowledge. However, the fields do suggest that the form is used for data-driven analysis and evaluation.
-</thinking>
-
 # Seasonal Sales Data Evaluation Report - Help Guide
 ## Purpose
 The Seasonal Sales Data Evaluation Report form is a tool for analyzing sales data from stores during different seasons or time periods. This form helps you to evaluate sales performance and identify trends and patterns in sales data.

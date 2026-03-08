@@ -1,7 +1,3 @@
-<thinking>...This form is for capturing information from the end user to support a chargeback refund request. A chargeback is a process where a merchant seeks a refund for a disputed transaction. This form is designed to guide users through the process of providing accurate and complete information to support their chargeback request...
-
-</thinking>
-
 # Chargeback Refund Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Internal note: The purpose of this form is to capture essential information for daycare transportation, including pick-up location, drop-off location, transportation method, pick-up time, and contact details. This form likely helps daycare staff or caregivers to plan efficient and secure transportation for children. To avoid duplication, this form should only be filled out once per transportation request.
-</thinking>
-
 # Daycare Transportation Form - Help Guide
 ## Purpose
 This form is used to provide information for daycare transportation, including pick up and drop off locations, transportation method, and pick up time. This helps our daycare staff to organize and manage transportation requests efficiently.

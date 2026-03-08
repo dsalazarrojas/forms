@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for speakers to register themselves for a panel discussion event. The form captures essential details about the speaker, including their name, topic, brief bio, headline, experience, image, and selection of topics they are experienced in.
-
-The main goal of this form is to provide organizers with an overview of the speaker's background and expertise, enabling them to effectively manage the panel discussion event.
-
-Before completing this form, ensure that you are not already registered as a speaker. Duplicate registrations will be rejected and may cause inconvenience in the event organization process.
-
-</thinking>
-
 # Panel Discussion Speaker Registration - Help Guide
 ## Purpose
 This form is designed for speakers to register themselves for a panel discussion event, providing organizers with an essential overview of their background and expertise.

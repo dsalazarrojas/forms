@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will analyze the provided YAML fields to understand the form's purpose, structure, and field requirements. I will then output a clear and concise help document in Markdown format, following the required structure and providing a detailed explanation of each field.
-
-</thinking>
-
 # Orthopaedic Shoemarket Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information and data about the purchase habits and preferences of individuals in the orthopaedic shoemarket. The survey aims to gather insights into the market size, consumer behavior, and product preferences, which will be used to inform business decisions and improve product development.

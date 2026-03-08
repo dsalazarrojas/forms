@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information on a company's quarterly financial performance. The form includes fields for selecting the quarter, financial year, company name, financial period, sales, costs, profit, operating expenses, operating income, net profit, financial risk, financial performance, and financial focus.
-This form is intended to collect data on various aspects of a company's financial state, such as sales, costs, and profit. It is likely used by finance professionals or business analysts to review and compare data across different quarters and years.
-To avoid duplication of data, the form can be completed by only one user at a time, ensuring that each entry is unique and accurate.
-</thinking>
-
 # quarterly financial performance report - Help Guide
 
 ## Purpose

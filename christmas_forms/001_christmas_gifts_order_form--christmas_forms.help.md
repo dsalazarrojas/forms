@@ -1,7 +1,3 @@
-<thinking>
-We should check if this form is relevant to the task and not a duplicate before proceeding. Let's review the form's purpose and requirements to determine its relevance and uniqueness.
-</thinking>
-
 # Christmas Gifts Order Form - Help Guide
 
 ## Purpose

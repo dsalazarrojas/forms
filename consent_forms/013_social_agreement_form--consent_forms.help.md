@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Agreement Form - Help Guide
 
 ## Purpose

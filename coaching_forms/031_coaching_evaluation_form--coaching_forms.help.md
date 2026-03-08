@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help you create a comprehensive user-facing help guide for the Coaching Evaluation Form. This form is designed to gather feedback from clients about their coaching experience, helping coaches understand their strengths and areas for improvement. To complete this form, you'll need to provide information about your coaching relationship, rating your experience, and offering suggestions for improvement. Before starting, ensure you've had at least one coaching session with your coach, and that you're providing honest and constructive feedback.</thinking>
-
 # Coaching Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their coaching experience. It's intended for coaches to understand their strengths and areas for improvement.

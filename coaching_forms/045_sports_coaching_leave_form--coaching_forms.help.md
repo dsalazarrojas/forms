@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be used by employees to request a sports coaching leave, which is a special type of leave for employees to receive coaching in sports-related activities. This form is usually used to provide details about the employee's leave request, such as their employee ID, name, role, leave start and end dates, leave type, and reason for leave. The form is likely used by HR or management personnel to process and approve leave requests. To avoid duplication, it's essential to ensure that the form is filled out completely and accurately.
-</thinking>
-
 # sports_coaching_leave_form - Help Guide
 ## Purpose
 The sports coaching leave form is used by employees to request a sports coaching leave, which enables them to receive coaching in sports-related activities while still being on leave.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users assess and control work platform-related aspects of their operations. Its purpose is to gather information on specific tasks, sections, and fields that need to be reviewed and validated. This form is likely used in a business or organizational setting where work platform management is crucial.
-The form has multiple sections with various fields, including text, select multiple, select one, number, time, note, email, and text fields. Some fields are required, while others are optional. Users should fill out the form carefully, providing accurate and relevant information for each section.
-</thinking>
-
 # work-platform-control-checklist - Help Guide
 ## Purpose
 The **work-platform-control-checklist** form is designed to collect information on work platform-related tasks, sections, and fields. This form is essential for ensuring that work platforms are properly controlled and managed.

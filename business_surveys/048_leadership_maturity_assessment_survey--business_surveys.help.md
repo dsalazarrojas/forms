@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # leadership_maturity_assessment_survey - Help Guide
 
 ## Purpose

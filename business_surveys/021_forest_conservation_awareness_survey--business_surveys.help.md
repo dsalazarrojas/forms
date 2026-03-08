@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a survey designed to gauge the public's awareness and attitude towards forest conservation. The purpose of the form is likely to collect data on people's perceptions and behaviors related to forest conservation, which can be used to inform policy or campaign decisions. Before proceeding, please ensure that:
-
-* You are not duplicating this survey, which may lead to unnecessary data collection and potential participant fatigue.
-* The survey is relevant to your goals and objectives, and that it is not too broad or too narrow in scope.
-* You have a clear plan for how the data collected will be used and who will receive it.
-
-</thinking>
-
 # Forest Conservation Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your thoughts, feelings, and behaviors related to forest conservation. Your input will help us better understand public perceptions and attitudes towards forest conservation, which can inform policy and campaign decisions.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Trainee Progress Report Form. This form is designed to track the progress of trainees in training programs, allowing trainers and administrators to monitor and evaluate trainee performance. The form is used to collect information on trainee status, progress, completion dates, and comments from both trainees and trainers. This form is a useful tool for training administrators to assess and improve training programs.
-
-The form is divided into sections for trainee information, progress, and notes. The form is not designed to be a comprehensive training evaluation, but rather a progress report to track trainee advancement. The trainee status field is a select one field, where the trainer can choose from three options: Not Started, In Progress, and Completed.
-
-Before starting to fill out the form, please review the fields and their corresponding explanations to ensure you have all the necessary information required for completion.
-</thinking>
-
 # Trainee Progress Report Form - Help Guide
 ## Purpose
 This form is intended to track the progress of trainees in training programs, providing a snapshot of their status and advancement.

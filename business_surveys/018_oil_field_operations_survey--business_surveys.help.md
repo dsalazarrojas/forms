@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information and feedback from oil field workers regarding their shift conditions, safety observations, operational performance, time worked, start time, end time, and notes. The purpose of this form is to ensure that the oil field operations team has a clear understanding of the conditions of each shift, including any safety concerns, performance metrics, and notable events.
 
 This form will be used to collect both required and optional information, depending on the nature of the data being collected. All fields are designed to be completed by the oil field workers themselves, ensuring that the information is accurate and first-hand.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect consent for the use of participant information in various media formats. The form is designed to gather information from participants about their consent status, publication details, and contact information. It's likely used in research or academic settings to obtain consent for the use of participant quotes, images, or other media in publications.
-</thinking>
-
 # Interview Quote Release Form - Help Guide
 ## Purpose
 The Interview Quote Release Form is used to collect consent from participants for the use of their information in various media formats. This form is necessary to ensure that participants' rights are respected and to obtain their permission for the use of their quotes, images, or other media in publications.

@@ -1,11 +1,3 @@
-<thinking>
-The form is likely used for hotel management to take reservations from customers.
-The purpose of this form is for customers to provide their information so that the hotel can process their reservation.
-The main fields are related to the reservation details and payment information.
-The customer can select multiple payment methods, including Credit Card, PayPal, Bank Transfer, and Skrill.
-The form also includes fields for customer contact information, such as phone number and email.
-</thinking>
-
 # Hotel Reservation Form With Skrill - Help Guide
 ## Purpose
 This form is used to take reservations from customers and process their payment information. It collects essential details such as reservation dates, guest name, contact information, and payment method.

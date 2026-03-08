@@ -1,13 +1,3 @@
-<thinking>
-The primary purpose of this form is to gather feedback from accounting system users about their experience with the system's usability, specifically to identify areas of improvement. This helps us understand how users interact with the system and where they face difficulties, ultimately leading to more user-friendly design decisions. This form should only be filled out by users who have actually used the accounting system.
-
-To ensure consistency, please make sure to:
-
-*   Only answer questions relevant to your experience with the accounting system.
-*   Avoid providing feedback about features or areas you have not used or are not familiar with.
-*   Be as specific as possible when describing your experience and suggesting improvements.
-</thinking>
-
 # Accounting System Usability Survey - Help Guide
 ## Purpose
 

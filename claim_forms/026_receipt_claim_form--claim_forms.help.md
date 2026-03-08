@@ -1,7 +1,3 @@
-<thinking>...This form is used for employees to claim receipts related to business expenses, such as meals, trips, or meetings. To prevent duplication, the form is intended to be filled out on a per-claim basis and should only be submitted once for each claimed expense. This ensures accurate tracking and processing of receipts in the system.
-
-...</thinking>
-
 # Receipt Claim Form - Help Guide
 
 ## Purpose

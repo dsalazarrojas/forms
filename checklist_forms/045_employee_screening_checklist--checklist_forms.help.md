@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to screen new employees for their employment status, details, and other relevant information. The form is intended to capture essential data about an employee's contact details, employment status, job title, employment type, date of birth, hire date, and termination date. This form is designed to be completed by the HR department or other relevant teams to ensure accurate and efficient employee data management. 
-</thinking>
-
 # Employee Screening Checklist - Help Guide
 ## Purpose
 This form is used to collect and verify employee information for HR purposes.

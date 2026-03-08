@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for a Cash Handling Incident Report form, which is used to document and report incidents related to cash handling, such as cash shortages, overages, or discrepancies. The purpose of this form is to gather information about the incident, including the date, time, and location, as well as details about the incident itself and the actions taken to address it. This guide will walk users through how to complete the form and explain each field's purpose.
-
-</thinking>
-
 # Cash Handling Incident Report - Help Guide
 ## Purpose
 The Cash Handling Incident Report form is used to document and report incidents related to cash handling, such as cash shortages, overages, or discrepancies.

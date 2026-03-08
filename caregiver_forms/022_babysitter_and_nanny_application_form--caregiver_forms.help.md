@@ -1,7 +1,3 @@
-<thinking>
-This is a form for potential babysitters and nannies to apply for employment, typically used by families or caregivers to find suitable childcare providers. To avoid duplication, please do not submit multiple applications if you are already working with the family or have been previously hired. 
-</thinking>
-
 # Babysitter And Nanny Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information and verify user consent for e-commerce transactions. This form should be used when a user is making a purchase online or offline and needs to provide consent for the transaction. The fields are designed to capture relevant details such as user input, transaction information, and consent status.
-</thinking>
-
 # E Commerce Transaction Consent Form - Help Guide
 ## Purpose
 The E Commerce Transaction Consent Form is used to record user consent for e-commerce transactions. This form captures essential details about the transaction, including user input, transaction information, and consent status.

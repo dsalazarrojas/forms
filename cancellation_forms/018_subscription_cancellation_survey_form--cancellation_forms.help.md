@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers who are cancelling their subscription. It is designed to understand the reasons behind their cancellation and gather feedback on our services. This form will help us improve our services and provide better experiences for our customers in the future. It is essential to fill out this form only once for each subscription cancellation, to avoid duplication of effort and ensure that we have accurate and comprehensive feedback. Please complete this form carefully and honestly, and provide as much detail as possible.
-</thinking>
-
 # Subscription Cancellation Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are cancelling their subscription. It aims to understand the reasons behind their cancellation and gather feedback on our services.

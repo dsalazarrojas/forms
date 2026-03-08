@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Trash Pickup Delay Complaint Form - Help Guide
 
 ## Purpose

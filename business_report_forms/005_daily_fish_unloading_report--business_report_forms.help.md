@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information about daily fish unloading reports from fishermen or fishing vessels. The purpose of this form is to gather data on the species of fish unloaded, the quantity, and other relevant details. This form is likely used by fisheries management personnel or fishery officers to track and manage fish landings.
 
 # Daily Fish Unloading Report - Help Guide

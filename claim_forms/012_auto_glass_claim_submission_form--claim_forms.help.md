@@ -1,11 +1,3 @@
-<thinking>
-The form is designed for customers to submit a claim for auto glass damage repairs. To ensure the form is completed correctly and accurately, please review the following steps:
-
-* Check if the form is relevant to your situation: This guide is intended for customers who have experienced auto glass damage and wish to submit a claim for repair.
-* Verify that you have not already submitted a claim through this form: If you have already submitted a claim, please do not resubmit. Instead, contact our support team for further assistance.
-
-</thinking>
-
 # Auto Glass Claim Submission Form - Help Guide
 ## Purpose
 This form is designed for customers to submit claims for auto glass damage repairs.

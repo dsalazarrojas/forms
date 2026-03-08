@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a tool for assessing insurance needs and providing relevant information to help users make informed decisions. It is intended for individuals who are interested in exploring their insurance options and understanding their coverage needs. To ensure that this form serves its purpose effectively, it is essential that users complete it accurately and honestly. Please review this guide carefully to understand how to complete the form properly.
-
-This form is a multiple-page form with various sections, each containing different fields. Please make sure to fill out all required fields and follow the instructions for each field carefully.
-
-This guide will explain each field in detail to help you complete the form efficiently.
-
-</thinking>
-
 # insurance_pre_assessment_tool - Help Guide
 ## Purpose
 The insurance_pre_assessment_tool is a form designed to help users assess their insurance needs and provide relevant information to make informed decisions.

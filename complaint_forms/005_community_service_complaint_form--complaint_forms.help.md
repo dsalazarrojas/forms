@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Community Service Complaint Form" to ensure that end users understand the purpose and usage of this form. This form is designed to collect complaints about community services, allowing residents to report issues and concerns they've experienced. To prevent duplicate reports, we'll check if a complaint has already been reported before creating a new case. This form will help us identify and address problems efficiently, ensuring that our community services are delivered effectively and residents' needs are met.
-
-</thinking>
-
 # Community Service Complaint Form - Help Guide
 ## Purpose
 The "Community Service Complaint Form" is a tool for residents to report complaints about community services. This form helps us identify and address issues, ensuring that our services are delivered effectively and residents' needs are met.

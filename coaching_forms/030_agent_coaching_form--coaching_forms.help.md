@@ -1,5 +1,3 @@
-<thinking> This form is designed to capture data from an agent coaching session, allowing supervisors or coaches to track and provide feedback on an agent's performance, strengths, and areas for improvement. This form is intended to be used by agents being coached, their supervisors or coaches, and other relevant stakeholders to facilitate professional development and performance coaching. This form is not intended to be used as a final assessment or evaluation tool, but rather as a tool for ongoing coaching and growth. Before completing this form, please ensure that you have not already submitted feedback on the same session using this form. If you have already submitted feedback, please do not re-submit. If you are unsure or need clarification, please reach out to the form creator or your supervisor for guidance. </thinking>
-
 # Agent Coaching Form - Help Guide
 ## Purpose
 The Agent Coaching Form is designed to help agents grow and develop professionally, providing a structured way for supervisors or coaches to offer feedback and guidance on performance, strengths, and areas for improvement.

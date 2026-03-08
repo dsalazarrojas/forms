@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Number Rounding Calculator - Help Guide
 
 ## Purpose

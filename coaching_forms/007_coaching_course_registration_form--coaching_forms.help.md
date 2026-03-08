@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the purpose of this form is to collect information for a coaching course registration, and to ensure that the user is not already registered for the same course, we can add a simple validation to check for existing registrations or identical form submissions. This will prevent duplicate submissions and ensure that users are not inadvertently registered for the same course multiple times.
-</thinking>
-
 # Coaching Course Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for the coaching course registration process. To complete this form, please follow the steps outlined below.

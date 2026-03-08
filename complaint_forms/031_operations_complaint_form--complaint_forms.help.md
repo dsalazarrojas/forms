@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # operations_complaint_form - Help Guide
 ## Purpose
 The operations complaint form is used to collect information from users about any issues they have experienced with the system. This form helps to track and address complaints in a structured and organized manner, ensuring that the operations team can quickly understand the issue and work on resolving it. Please note that this form is meant to be used in a controlled and monitored environment where users submit their complaints through the provided interface.

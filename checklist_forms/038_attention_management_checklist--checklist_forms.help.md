@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users assess and reflect on their attention management skills and habits. It's a self-assessment tool to identify areas where users can improve their focus and productivity. The form is divided into three main sections: User Information, Focus Habits, and Productivity Strategies. By answering the questions honestly, users can gain insights into their strengths and weaknesses and develop strategies to enhance their attention management.
-
-Please note that this form is not a diagnostic tool or a medical evaluation. It's a tool for personal growth and improvement. The form's purpose is to help users take ownership of their attention management and make informed decisions about their work habits and environment.
-
-This form is a one-time assessment and does not require any external resources or software. All answers are private and for the user's personal use only.
-
-</thinking>
-
 # Attention Management Checklist - Help Guide
 ## Purpose
 

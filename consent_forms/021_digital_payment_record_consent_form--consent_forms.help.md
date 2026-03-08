@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive consent form for digital payment records, which is likely used for obtaining user consent on data processing and sharing related to digital payments. However, I couldn't find any explicit indication of the form's purpose or the specific context in which it's being used. I'm assuming it might be related to a healthcare or financial institution, where consent is required for handling sensitive user data. I'll need to make some educated guesses to create a help guide.
-</thinking>
-
 # Digital Payment Record Consent Form - Help Guide
 ## Purpose
 This form is used to obtain your consent for the processing and sharing of your digital payment records. Please take a moment to review each section carefully to ensure you understand what information is being collected and how it will be used.

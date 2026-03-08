@@ -1,7 +1,3 @@
-<thinking>
-The meeting_feedback_form is designed to collect feedback from meeting participants about a specific meeting or event. This form aims to gather information about the effectiveness and relevance of the meeting, including comments and observations from attendees. 
-</thinking>
-
 # meeting_feedback_form - Help Guide
 ## Purpose
 This form is used to provide feedback on meetings and events. It helps to capture comments, suggestions, and ratings from attendees, ensuring that the meeting organizers can improve future events and provide better experiences for participants.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about employee complaints, providing a structured way for employees to report grievances and incidents involving other employees or supervisors. This form helps the organization to understand and address potential issues promptly and fairly. 
-
-To ensure that all complaints are properly recorded and investigated, please do not submit duplicate complaints. Ensure that you have read and understood the guidelines outlined below before submitting your complaint.
-
-</thinking>
-
 # employee_complaint_form - Help Guide
 ## Purpose
 The employee complaint form is a tool for reporting incidents or grievances involving colleagues or supervisors. It is essential to fill out this form accurately and thoroughly to help the organization address and resolve issues promptly.

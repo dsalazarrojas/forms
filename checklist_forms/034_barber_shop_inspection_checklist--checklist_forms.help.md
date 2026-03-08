@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Barber Shop Inspection Checklist - Help Guide
 ## Purpose
 This form is used to conduct regular inspections of barber shops to ensure they meet the necessary standards for safety, sanitation, and overall compliance. The inspection covers various aspects, including professional licensing, sanitation and hygiene, facility and safety, and overall compliance.

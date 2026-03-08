@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect task and date information for shifts. Each shift has three tasks and a notes field.
-
-This form is for data collection and does not contain sensitive or proprietary data, making it unlikely to cause any harm to its users. The form does not seem to be related to any specific business logic and appears to be designed for a generic use case in the "checklist" category. It does not seem to have any duplicates or overlaps with existing form templates.
-
-</thinking>
-
 # Standard Work Checklist - Help Guide
 ## Purpose
 This form is a checklist for recording task completion and dates for up to 9 shifts.

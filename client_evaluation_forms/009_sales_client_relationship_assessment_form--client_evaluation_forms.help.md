@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about the client's sales performance, sales manager's performance, and other related metrics. It appears that the goal is to collect data on the client's sales performance, including their overall satisfaction, and the sales manager's performance, including their sales numbers, commission, and other related metrics. This form may be used by sales teams or managers to assess the performance of clients and sales managers, and to identify areas for improvement or opportunities for growth. It's essential to ensure that this form is not used to collect duplicate or redundant information, and that the data collected is accurate and relevant.
-</thinking>
-
 # Sales Client Relationship Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about a client's sales performance and the performance of their sales manager. The data collected will help the sales team assess the client's sales performance, identify areas for improvement, and provide insights for future sales strategies.

@@ -1,7 +1,3 @@
-<thinking>...This form is designed to collect confirmation information about conference attendees and their registration status. It is typically used to confirm attendee details, payment status, and other relevant information. This form is intended for internal use within the organization and is not a public-facing form. There should be no need to fill out this form for public access, as it is designed to be filled out by authorized personnel within the organization. Please ensure that you are filling out this form for an actual conference event and not for testing or demonstration purposes.
-
-</thinking>
-
 # Budget Conference Entry Confirmation Form - Help Guide
 ## Purpose
 The Budget Conference Entry Confirmation Form is a tool used to collect and confirm attendee information for a conference event.

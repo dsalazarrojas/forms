@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect financial data from agencies for the mid-year financial report. The form will be used to track and analyze the financial performance of agencies throughout the year. To ensure that the correct data is collected, we need to make sure that the form is filled out correctly. This guide will walk you through each step of the process.
-</thinking>
-
 # Agency Mid Year Financial Report - Help Guide
 ## Purpose
 The Agency Mid Year Financial Report is a document used to track and analyze the financial performance of agencies throughout the year. It provides an update on the current financial situation, including revenue, expenses, and cash position.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for vendors to report any disputes they have experienced with your company. It's essential to use this form to help us identify and resolve these issues efficiently. Please only submit one dispute per form. If you have multiple disputes, please submit a new form for each one. This form should only be filled out by vendors, not customers or employees.
-</thinking>
-
 # Vendor Dispute Resolution Survey - Help Guide
 ## Purpose
 This form is for reporting vendor disputes. Please use it to report any issues you have experienced with our company.

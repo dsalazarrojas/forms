@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to calculate future dates by adding a specified number of days to a given start date. The form is designed to provide a simple and efficient way to calculate projected dates in various scenarios, such as business or calendar days. The user is asked to select a start date, the number of days to add, and the calculation method (e.g., standard calendar days, business days, or working days). The calculated date is then displayed, and the user can confirm its accuracy.
-</thinking>
-
 # Add Days - Date Calculation Form - Help Guide
 
 ## Purpose

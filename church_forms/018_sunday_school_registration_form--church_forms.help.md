@@ -1,5 +1,3 @@
-<thinking>As a designer, I will create a user-facing help guide for the Sunday School Registration Form that explains its purpose, how to complete it, and what each field means. This form is used for registering new members for Sunday school, and the fields are designed to collect relevant information about the new member. The form is likely used by school administrators to keep track of new members and their details. Before we begin, let's ensure that the form is not duplicated or redundant, and that the purpose and instructions are clear and concise.</thinking>
-
 # Sunday School Registration Form - Help Guide
 
 ## Purpose

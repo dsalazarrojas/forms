@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the condition of an apartment when a tenant moves in. It's a critical document for landlords or property managers to assess the overall state of the apartment, including its cleanliness, condition, and functionality. The form should be filled out by the tenant at the time of move-in, and it serves as a reference for future maintenance and repairs. 
-
-This form is a checklist, and each section is designed to help the tenant provide a clear and concise report of the apartment's condition. The form is divided into several sections, each focusing on a different aspect of the apartment, such as living room, kitchen, bedrooms, bathrooms, flooring, walls, doors and windows, hardware and fixtures, plumbing, electrical, HVAC, appliances, overall cleanliness, pest evidence, odors, and additional issues. 
-
-The form is intended to be completed by the tenant in a thorough and honest manner, and it's essential to provide accurate information to avoid any potential disputes or issues during the tenancy. 
-
-The form should not be used as a template for other purposes, and its purpose is specific to the apartment move-in condition assessment.
-
-</thinking>
-
 # Apartment Move In Condition Checklist Form - Help Guide
 ## Purpose
 The Apartment Move In Condition Checklist Form is a tool used by landlords or property managers to assess the condition of an apartment when a tenant moves in. It helps to establish a baseline for the apartment's condition and serves as a reference for future maintenance and repairs.

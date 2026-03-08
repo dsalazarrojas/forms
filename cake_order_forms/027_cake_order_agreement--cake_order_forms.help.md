@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for capturing customer information and preferences for cake orders. To determine if the form is being used correctly, the following criteria will be checked for:
-
-* Is the form being used for a cake order?
-* Does the form include all required fields (customer name, email, phone number, order date, event date, event time, cake description, cake size, cake flavor, frosting flavor, filling type, design specifications, total price, deposit amount, balance due, balance due date, delivery method, delivery fee, cancellation policy acknowledgment, refund policy acknowledgment, allergy acknowledgment, customer signature, agreement date, and bakery representative)?
-* Is the form being used for a customer who has not yet made a payment or deposit? If so, ensure that the required fields related to payment and deposit are filled out correctly.
-
-</thinking>
-
 # Cake Order Agreement - Help Guide
 
 ## Purpose

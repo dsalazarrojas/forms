@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect feedback from employees after they check in, allowing managers to monitor and address any issues that may arise during the process. The form is used to gather information from employees in a structured and organized manner, ensuring that all relevant details are captured and addressed in a timely and efficient manner.
-</thinking>
-
 # employee_feedback_check_in_form - Help Guide
 ## Purpose
 The employee_feedback_check_in_form is a tool for employees to provide feedback on their check-in experience, helping managers to identify areas of improvement and make data-driven decisions.

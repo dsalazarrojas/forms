@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I will first review the provided YAML fields to understand the form's purpose and functionality. The form appears to be for canceling an AF membership, and it involves collecting various pieces of information to facilitate a smooth cancellation process. I will now create the help guide based on this understanding.</thinking>
-
 # AF Membership Cancellation - Help Guide
 ## Purpose
 This form is designed to help you cancel your AF membership. By filling out this form, you will be able to provide the necessary information for a smooth cancellation process. Please note that your cancellation will be processed in accordance with our membership terms.

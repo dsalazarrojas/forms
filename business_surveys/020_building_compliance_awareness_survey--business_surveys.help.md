@@ -1,14 +1,3 @@
-<thinking>
-We are considering the creation of a comprehensive help guide for a business survey form designed to gauge employees' awareness and knowledge of compliance requirements in the workplace. This form should be user-friendly and clear in its purpose and instructions. Before we begin, let's consider the following:
-
-* The form's purpose is to collect information about employees' level of awareness and knowledge of compliance requirements, such as fire safety, emergency procedures, accessibility, and chemical handling. This data will help the organization identify areas of improvement and provide targeted training and resources to enhance compliance.
-* The form should be easy to understand and complete, with clear instructions and concise explanations for each field.
-* The form should cover all relevant aspects of compliance awareness, including overall awareness, safety procedures, emergency protocols, accessibility requirements, and training needs.
-* It's essential to provide an opportunity for employees to submit suggestions for improving compliance awareness and provide resources they deem necessary for better compliance.
-* Finally, we need to ensure that the form's layout is logical and easy to navigate, making it accessible to all users.
-
-</thinking>
-
 # Building Compliance Awareness Survey - Help Guide
 ## Purpose
 

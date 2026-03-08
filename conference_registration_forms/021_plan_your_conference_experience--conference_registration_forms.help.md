@@ -1,7 +1,3 @@
-<thinking>
-The form "Plan Your Conference Experience" is intended to help users gather relevant information about their conference plans, such as session and workshop preferences, schedule details, and additional information. This form should only be completed by users who are registered for the conference or have an account. The form's purpose is to gather user-specific data that will be used to enhance their conference experience. Please ensure this form is not accessed by non-registered users.
-</thinking>
-
 # Plan Your Conference Experience - Help Guide
 ## Purpose
 This form is designed to help you tailor your conference experience to your preferences, schedule, and interests. By providing us with information about your conference plans, you'll be able to:

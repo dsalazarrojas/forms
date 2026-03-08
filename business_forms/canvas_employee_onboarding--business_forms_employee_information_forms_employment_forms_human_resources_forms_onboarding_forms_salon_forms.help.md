@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to capture essential information for new employees during the onboarding process. It collects personal, emergency contact, and job-related details, as well as scheduling and payroll information. This form aims to ensure that all necessary details are captured accurately and efficiently, making it easier for new employees to get settled into their new role quickly and effectively. 
-
-This form is designed to be completed in conjunction with the HR department and management to streamline the onboarding process. It's crucial to fill out this form correctly, as the information gathered will be used for various administrative and scheduling purposes.
-
-</thinking>
-
 # (CANVAS) Employee Onboarding - Help Guide
 ## Purpose
 This form is designed to collect and process essential information for new employees during the onboarding process, making it easier for them to get settled into their new role.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for faculty members to collaborate on specific projects and research areas. It is meant to establish and expand networks within the faculty community. Before completing this form, please ensure that you have not already submitted this form for the same project. If you have, this guide will help you understand why and how to update or resubmit.
-</thinking>
-
 # Faculty Collaboration Networks Survey - Help Guide
 ## Purpose
 This form is designed to help faculty members establish and expand their collaboration networks within the faculty community. It collects information about their department affiliation, collaboration goals, expected duration of collaboration, and contact information.

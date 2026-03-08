@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their understanding and consent to receive the COVID-19 booster vaccine. The purpose of this form is to ensure that patients are aware of the potential benefits and risks of the vaccine, as well as their rights and responsibilities regarding vaccination.
-
-This form will be used to assess patient understanding, gather information about their previous vaccine experiences, and obtain their consent to receive the booster vaccine. It is essential that patients understand the potential benefits, risks, and side effects of the vaccine, as well as their individual circumstances and conditions that may affect their eligibility for vaccination.
-
-Please ensure that this form is not filled out by patients who have already been vaccinated and have not received booster doses. This form is only for those who have not received a booster dose yet.</thinking>
-
 # COVID 19 Booster Vaccine Consent Form - Help Guide
 
 ## Purpose

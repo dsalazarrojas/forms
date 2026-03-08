@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to log disinfection tasks, which are procedures performed to sanitize surfaces, equipment, or environments to kill or inactivate infectious agents such as bacteria, viruses, or other microorganisms. The form will be used to track and record the details of each disinfection task, including the date and time, location, type of disinfection, chemicals used, staff involved, comments, and status of the task. Before you start, please make sure you are not logged in as the same user as the one who has already completed this form. If you are unsure which form to use or have any questions, please reach out to your supervisor.
-</thinking>
-
 # Disinfection Task Log - Help Guide
 ## Purpose
 This form is used to record and track details of disinfection tasks performed to sanitize surfaces, equipment, or environments.

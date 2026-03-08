@@ -1,7 +1,3 @@
-<thinking>
-The Swimming Pool Inspection Form is used to collect information about a swimming pool's location, type, size, condition, safety features, equipment, and status. This form is likely used in the context of maintenance, inspection, or other related activities. Before filling out this form, make sure you have a clear understanding of the pool's details and that the information is not already documented somewhere else.
-</thinking>
-
 # Swimming Pool Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect comprehensive information about a swimming pool, including its location, type, size, condition, safety features, equipment, and status.

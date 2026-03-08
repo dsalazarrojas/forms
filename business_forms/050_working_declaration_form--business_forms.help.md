@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture essential details about a worker's job declaration, including their work location, contact information, and work schedule. Before proceeding, ensure that you have all the necessary information to fill out the form accurately. This guide will walk you through each field, so please read through it carefully to ensure you understand what is required.
-</thinking>
-
 # Working Declaration Form - Help Guide
 ## Purpose
 The Working Declaration Form is used to capture essential details about a worker's job declaration, including their work location, contact information, and work schedule.

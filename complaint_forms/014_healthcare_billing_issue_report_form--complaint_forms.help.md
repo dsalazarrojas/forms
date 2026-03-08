@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for reporting billing issues related to healthcare services. It is meant to capture the patient's name, date of service, a brief description of the issue, and other relevant details. This form will help the healthcare provider to quickly identify and resolve the issue, ensuring accurate billing and minimizing any disruptions to their services.
-
-Before proceeding, make sure that you're not reporting an issue that has already been reported and resolved. This form should only be submitted for new issues that haven't been addressed yet.
-
-</thinking>
-
 # healthcare_billing_issue_report_form - Help Guide
 ## Purpose
 The healthcare billing issue report form is used for patients to report any issues they're experiencing with their healthcare billing. This helps the healthcare provider to quickly identify and resolve the issue.

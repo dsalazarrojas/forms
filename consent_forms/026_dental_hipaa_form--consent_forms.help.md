@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect patient information and medical history for HIPAA compliance in a dental clinic or office setting. The purpose of this form is to gather essential details about the patient's personal and medical background, which is vital for the healthcare provider to understand their needs and ensure patient confidentiality and safety. 
-
-Before proceeding, ensure this form is not being filled out for a patient already registered in your system. To confirm, check if the patient's name and date of birth match with existing patient records. If not, please use this form as a new patient registration form. 
-</thinking>
-
 # dental_hipaa_form--consent_forms - Help Guide
 ## Purpose
 This form collects patient information and medical history for HIPAA compliance.

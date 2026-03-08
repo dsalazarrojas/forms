@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for the operations advisory impact survey. The purpose of this form is to gather information on the advisory engagement of team members. The survey is intended for use by operations teams and leaders to assess the level of advisory engagement within their team. This form will help in understanding the impact of advisory engagement on the team's performance and provide suggestions for improvement. The survey is not a mandatory form, and responses will not be used for any official evaluation or rating purpose. 
-
-The form should only be filled once and not duplicated. If a team leader already has the survey responses, they should not fill it out again. The survey is intended for each team leader and their advisory engagement should be reported individually. 
-
-Please ensure that the survey is completed with the correct information. This will help in getting accurate feedback and suggestions for the team.
-</thinking>
-
 # operations_advisory_impact_survey - Help Guide
 ## Purpose
 The operations advisory impact survey is designed to gather information on the advisory engagement of team members. It is intended for use by operations teams and leaders to assess the level of advisory engagement within their team and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool used to track and record the maintenance history of spindles in a machine shop or manufacturing setting. It is designed to ensure that spindles are properly maintained to prevent wear and tear and extend their lifespan. This form is typically used by maintenance personnel or technicians to document the date of the last maintenance, the frequency of maintenance, and any comments or notes about the maintenance process. The goal is to keep track of spindle maintenance history to prevent accidents or errors caused by poorly maintained or neglected spindles.
-</thinking>
-
 # Spindle Maintenance Checklist - Help Guide
 
 ## Purpose

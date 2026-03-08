@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vitamin Subscription Cancellation Form - Help Guide
 ## Purpose
 This form is designed to assist customers in cancelling their vitamin subscription. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is released under CC BY 4.0.

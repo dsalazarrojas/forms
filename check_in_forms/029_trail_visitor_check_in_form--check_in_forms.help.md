@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from trail visitors about their check-in and check-out times, dates, names, and other relevant details. The form fields are designed to gather accurate and comprehensive data to streamline the check-in process. To avoid duplication, this form should only be used for new visitors or when an existing check-in needs to be updated. 
-</thinking>
-
 # Trail Visitor Check In Form - Help Guide
 ## Purpose
 The Trail Visitor Check In Form is used to collect information from trail visitors for check-in and check-out purposes.

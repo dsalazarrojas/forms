@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to assess the operational clarity within a business unit or team. The purpose of the form is to gather information about the goals, communication, resources, employee insights, operational gaps, and other factors that contribute to operational clarity. 
-
-To determine if this form is relevant to your team, consider the following:
-- Are you responsible for evaluating or improving operational clarity within your team or business unit?
-- Do you need to assess the current state of operational clarity within your team or business unit?
-- Are you seeking to identify areas for improvement or potential roadblocks that hinder operational clarity?
-
-If the answer is yes, this form can help you gather the necessary information to assess operational clarity and identify areas for improvement.
-</thinking>
-
 # Operational Clarity Assessment - Help Guide
 ## Purpose
 The Operational Clarity Assessment form is designed to help you evaluate the operational clarity within your team or business unit. It covers essential aspects such as goals, communication, resources, and employee insights to provide a comprehensive view of operational clarity.

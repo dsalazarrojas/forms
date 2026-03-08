@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Determined To Develop A Conflict Of Interest Disclosure Form - Help Guide
 ## Purpose
 

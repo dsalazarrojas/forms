@@ -1,14 +1,3 @@
-<thinking>
-The Deep Cleaning Refusal Form is a template designed to collect information from clients who refuse deep cleaning services. The form is intended to be used when a client declines a deep cleaning service, and its purpose is to gather details about the client's decision and the reason for refusal. This form is likely used in a business or professional setting, such as a cleaning services company or a property management agency.
-
-To complete this form, the user will need to fill out the required fields, which include client information (name, phone number, and email), reason for refusal, and signature. The form may also capture additional details such as the date and time of the refusal and comments from the client.
-
-The form consists of 25 fields, but only some are required. The "Client Details" section (page 1) will likely be used to capture the client's name, phone number, and email address. The "Services Declined" section (page 2) is intended to list the specific services that were declined. The "Reason for Declination" section (page 3) will ask the client to provide a brief explanation for their refusal. The "Acknowledge" section (page 4) is for the client to acknowledge that they have read and understood the information on the form. The "Signature" section (page 5) will capture the client's signature, and the "Signature Provider" section (page 6) will capture the signature of the service provider. Finally, the "Contact Details" section (page 7) will be used to record the contact details of the client.
-
-It's worth noting that while the form has multiple pages, the actual number of fields on each page may vary. Some fields might be hidden or not applicable, depending on the specific use case. It's also likely that some fields will have specific formatting or validation to ensure accurate and consistent data entry.
-
-The form is designed to be completed by the client, but it's possible that additional steps or actions may be required from the service provider after the form is submitted.</thinking>
-
 # Deep Cleaning Refusal Form - Help Guide
 ## Purpose
 The Deep Cleaning Refusal Form is a template designed to collect information from clients who refuse deep cleaning services. Its purpose is to gather details about the client's decision and the reason for refusal.

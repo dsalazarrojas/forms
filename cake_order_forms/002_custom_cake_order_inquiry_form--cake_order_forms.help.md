@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to inquire about custom cake orders. The purpose of this form is to collect information about the customer's preferences and requirements for their cake order. The form should only be completed by customers who are interested in placing a cake order. Please do not complete this form if you are not a customer or if you have already placed a cake order with us.
-</thinking>
-
 # Custom Cake Order Inquiry Form - Help Guide
 
 ## Purpose

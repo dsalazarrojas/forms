@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from workshop participants about their expectations, readyness, topic interests, and other relevant details. It is meant to be filled out by participants before the start of the workshop, and the information collected will be used to facilitate communication and organization within the workshop.
-
-To ensure the collected data is accurate and relevant, it is essential to complete this form thoroughly and honestly. Before filling out this form, please make sure you have not completed it previously, as this data will be stored and updated accordingly.
-
-Please note that some fields are required, meaning you must provide information in those fields. Required fields are marked as such in the form. 
-
-</thinking>
-
 # Workshop Participant Expectation Check In Form - Help Guide
 ## Purpose
 This form is used to collect workshop participant information and ensure a smooth and productive workshop experience.

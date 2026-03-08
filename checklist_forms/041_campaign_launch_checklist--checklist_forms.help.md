@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for campaign teams to create and manage checklists for upcoming campaigns. It allows them to track the status of tasks, assign team members to specific tasks, and schedule due dates for completion. By using this form, teams can ensure that all necessary tasks are completed before launching a campaign, reducing the risk of last-minute issues and improving overall project efficiency.
-</thinking>
-
 # Campaign Launch Checklist - Help Guide
 ## Purpose
 This form is intended to assist campaign teams in creating and managing checklists for new campaigns. It helps teams track and verify the completion of key tasks, assignments, and deadlines, ensuring a smooth and successful campaign launch.

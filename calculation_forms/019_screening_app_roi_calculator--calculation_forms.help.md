@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Screening App ROI Calculator - Help Guide
 ## Purpose
 The Screening App ROI Calculator is a tool designed to calculate the Return on Investment (ROI) of a screening application. This guide will walk you through the process of completing the form to accurately estimate the ROI of your screening app.

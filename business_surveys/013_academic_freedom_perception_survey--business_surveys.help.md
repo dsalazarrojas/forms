@@ -1,8 +1,3 @@
-<thinking>
-As a seasoned expert in form design and technical writing, I'll create a comprehensive user-facing help guide for the "Academic Freedom Perception Survey" form. This guide will cover the purpose of the form, how to complete it, and explain each field in a clear and concise manner. The form's purpose is to gather information about respondents' perceptions of academic freedom on campus, including their role, campus or unit, perception of academic freedom, concerns about restrictions, experience with censorship, institutional support for academic freedom, training and resources needed, preference for anonymity, and additional comments. Before creating the guide, I'll review each field to ensure it's accurate and complete.
-
-</thinking>
-
 # Academic Freedom Perception Survey - Help Guide
 ## Purpose
 This survey is designed to gauge your perception of academic freedom on campus. Your responses will help us understand your concerns, experiences, and opinions about the academic climate and identify areas for improvement.

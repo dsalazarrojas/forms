@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for chapter members to submit updates about their chapter's progress and status. This form is used by the chapter leadership and national or regional organization to monitor and support chapter growth, challenges, and financial health. The form will ask for information on chapter identity, chapter progress, finances, and other relevant updates. Please ensure that the updates are accurate and complete, as this information is used to inform support and decision-making.
-
-The "Chapter Updates Survey" form is intended to be submitted by chapter members on a regular basis to keep everyone informed about the chapter's progress and status. Please ensure that the information submitted is up-to-date and accurate.
-</thinking>
-
 # Chapter Updates Survey - Help Guide
 ## Purpose
 The "Chapter Updates Survey" form is designed to gather information from chapter members about their chapter's progress and status. This information is used by the chapter leadership and national or regional organization to monitor and support chapter growth, challenges, and financial health.

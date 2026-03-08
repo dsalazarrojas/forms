@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is intended for users to calculate time constants for first order systems, which are a fundamental concept in control systems and signal processing. The time constant is a critical parameter used to characterize the system's response to inputs or stimuli. By filling out this form, users will provide necessary system details (System Response Details, System Damping Ratio A, System Mass Ratio B) and calculate the System Time Constant using a provided formula. The form will generate a calculated value for the System Time Constant and also allow users to assign a tool to the calculated result.
-</thinking>
-
 # First Order System Time Constant Calculation Form - Help Guide
 ## Purpose
 This form is for calculating the time constant of a first order system. The time constant is an essential parameter used to describe how the system responds to inputs or stimuli.

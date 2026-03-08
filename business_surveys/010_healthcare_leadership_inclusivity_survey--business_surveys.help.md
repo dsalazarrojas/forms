@@ -1,11 +1,3 @@
-<thinking>
-
-To create an engaging and user-friendly help guide for this form, we need to consider the purpose of the form, how users can complete it, and what each field means. The purpose of the "healthcare-leadership-inclusivity-survey" form is to collect feedback and ideas on how to improve leadership inclusivity in the healthcare industry. This form aims to understand the perceptions and concerns of various stakeholders regarding leadership inclusivity and gather ideas on how to overcome barriers to create a more inclusive work environment.
-
-Before we dive into the help guide, let's ensure that this form is relevant and not duplicating any existing forms. Since this form is AI-generated and based on public survey topic metadata, it's unlikely to be duplicating any existing forms. However, it's essential to double-check the form's content to avoid any overlaps.
-
-</thinking>
-
 # healthcare-leadership-inclusivity-survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ideas on how to improve leadership inclusivity in the healthcare industry. It aims to understand the perceptions and concerns of various stakeholders regarding leadership inclusivity and gather ideas on how to overcome barriers to create a more inclusive work environment.

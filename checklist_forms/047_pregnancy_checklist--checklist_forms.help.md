@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pregnancy Checklist - Help Guide
 
 ## Purpose

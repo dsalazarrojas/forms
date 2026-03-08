@@ -1,10 +1,3 @@
-<thinking>
-This form is a Real Estate Open House Checklist form. This form is designed to collect information about open houses, including the address, type of property, date and time of the open house, show duration, and other relevant details. The form is intended to help real estate agents or staff to efficiently and effectively communicate with visitors and potential buyers.
-
-Before proceeding, ensure that you have read and understood the form's purpose and relevance to your work. This form is not intended for general public use. Real estate professionals and staff should use this form to collect and track important information about open houses.
-
-</thinking>
-
 # Real Estate Open House Checklist Form - Help Guide
 ## Purpose
 The Real Estate Open House Checklist form is designed for real estate agents and staff to collect and track information about open houses. This form helps to streamline communication with visitors and potential buyers.

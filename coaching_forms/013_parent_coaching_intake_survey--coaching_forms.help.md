@@ -1,10 +1,3 @@
-<thinking>
-The Parent Coaching Intake Survey is a crucial form used to gather essential information from parents who are seeking coaching services. This form helps us understand their goals, expectations, and needs for the coaching process. It ensures that we have a clear understanding of their situation and can provide tailored support.
-
-To avoid duplication, please ensure that you have not already provided this information to us previously. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # Parent Coaching Intake Survey - Help Guide
 ## Purpose
 The Parent Coaching Intake Survey is a form used to gather information from parents seeking coaching services. It helps us understand their goals, expectations, and needs for the coaching process.

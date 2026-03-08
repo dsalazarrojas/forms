@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the safety and compliance of a hospital or healthcare facility. The purpose of this form is to ensure that all safety protocols and procedures are in place to protect both patients and staff. This includes checking on the availability of emergency exit signs, the maintenance of fire extinguishers, the cleanliness of floors, and the maintenance of medical equipment. This form is intended to be completed by hospital administrators or safety officers to review and report on the facility's safety status. By completing this form, hospitals can identify areas that may be lacking in safety protocols and implement corrective actions to address these issues.
-</thinking>
-
 # Hospital Safety Checklist - Help Guide
 
 ## Purpose

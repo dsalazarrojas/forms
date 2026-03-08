@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Donation Behavior Study - Help Guide
 ## Purpose
 The Digital Donation Behavior Study is a form designed to collect information about your donation behavior. This form aims to gather insights on what motivates individuals to donate, their preferred frequency of giving, and other details about their donation experiences.

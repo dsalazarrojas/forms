@@ -1,11 +1,3 @@
-<thinking>
-Checking if the form purpose matches the provided context, it seems that this form is for inspecting a roof, specifically to report on its condition after a drone inspection. This form will likely be used by inspectors to report their findings and observations after inspecting a roof, possibly for maintenance or repair purposes. This form is part of a larger checklist, which is a common tool used in various fields, including maintenance, inspection, and quality control.
-The form appears to be designed for a specific use case, which could be a drone inspection of a roof. This form is not intended for general use, but rather for a specific industry or company. The form's structure and field names suggest a focus on drone inspection and roof maintenance.
-Upon reviewing the form's field types and options, it appears that the form requires a mix of text, select, and date/time fields. The fields are not overly complex, but do require some understanding of the options and their purpose.
-To complete this form, users will need to provide information about the roof's condition, any leaks or damage, the inspector's details, and other relevant information. They will need to choose from the provided options for fields like "roof_type" or "drone_used".
-Each field has a specific purpose and requires specific information. For example, "roof_condition" is used to report the condition of the roof, while "leaks" is used to report if there are any leaks. "Inspector_name" and "inspector_company" are used to identify the inspector and their company.
-</thinking>
-
 # Drone Roof Inspection Checklist - Help Guide
 ## Purpose
 This form is used to report on the condition of a roof after a drone inspection. It is a checklist to ensure that all necessary information is gathered and recorded during the inspection.

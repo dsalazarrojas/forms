@@ -1,6 +1,3 @@
-<thinking>
-This form is part of a broader system for managing participant data for the Youth Robotics Club. The form is meant to capture essential information about each participant, such as parental consent and basic contact details. The purpose of this form is to obtain informed consent from parents/guardians and collect some basic participant information for organizational purposes.
-</thinking>
 # Youth Robotics Club Agreement - Help Guide
 ## Purpose
 This form aims to gather parental consent and basic participant details for the Youth Robotics Club.

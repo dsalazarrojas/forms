@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are completing the "Beauty Subscription Retention Motivation Survey" form. This form helps us understand your motivations and satisfaction with our subscription services. Please ensure you have a genuine reason for participating in this survey. If you have already completed this form, kindly do not resubmit.
-</thinking>
-
 # Beauty Subscription Retention Motivation Survey - Help Guide
 ## Purpose
 This form aims to understand your motivations and satisfaction with your subscription services. Your responses will help us identify areas for improvement and implement changes to retain you as a subscriber.

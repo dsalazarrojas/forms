@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for court services complaints. This form is typically used by individuals who need to file a complaint with the court services department. To ensure that the information is accurate and complete, please review each field carefully before submitting the form.
-
-</thinking>
-
 # court_services_complaint_form - Help Guide
 ## Purpose
 The court services complaint form is used to file a complaint with the court services department.

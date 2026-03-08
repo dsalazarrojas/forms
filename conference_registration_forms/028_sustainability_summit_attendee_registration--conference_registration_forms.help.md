@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect registration information for attendees of the Sustainability Summit, an event focused on environmental sustainability and related practices. The form is intended for individuals who wish to attend the summit and is used by the organizers to track attendee details for logistical and communication purposes. The purpose of this help guide is to ensure that the user understands the form's intended use and can fill it out accurately and efficiently.</thinking>
-
 # Sustainability Summit Attendee Registration - Help Guide
 ## Purpose
 The Sustainability Summit Attendee Registration form is used to collect essential information from attendees to ensure a successful and enjoyable experience at the summit. This form helps the organizers understand your preferences and needs, allowing us to provide better support and services during the event.

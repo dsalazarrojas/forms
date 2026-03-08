@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is a general-purpose checklist template for litigation cases, designed to be used by users in various contexts, such as court proceedings or internal case management. It appears to be a comprehensive form that captures a wide range of information related to a litigation case, including details about the case, parties involved, case status, documents, and next steps. However, to ensure consistency and avoid duplication of work, please verify that this form does not already exist in your system and that it's being used for a specific case type or purpose. 
-
-</thinking>
-
 # Litigation Checklist Template - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a specific room in a garden, likely a room used for various gardening activities. The form likely serves as a tool for maintenance, inventory management, or assessment of the garden's condition. It's possible that the form is used by gardening enthusiasts, professionals, or even a company that provides gardening services. The form could be used to assess the condition of the room, identify missing or damaged equipment, and track notes about the room's state.
-
-To ensure that this form is being used as intended, please review the form's metadata to confirm that it matches the context of the survey. This form does not collect sensitive or personal information, and the purpose of this form seems to be straightforward.
-
-Given the form's structure and field labels, it appears that the form is meant for a specific, concrete application in the gardening or landscape design industry. This form's metadata does not suggest a connection to any other industry or context outside of gardening or landscaping.
-</thinking>
-
 # Prairden Room Inventory Survey - Help Guide
 
 ## Purpose

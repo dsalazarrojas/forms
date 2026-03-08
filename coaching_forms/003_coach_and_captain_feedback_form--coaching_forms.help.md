@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from the team, particularly from the captain and coach, regarding the team's performance, communication, and overall atmosphere during the season. This feedback can help identify areas for improvement and recognize achievements. To complete the form, start by providing a brief performance evaluation on a separate page (section_eval). Then, proceed with providing the required information such as the athlete's name, team name, coach's name, and captain's name. After that, rate the coach's and captain's performance, and indicate your satisfaction with the team dynamic. Lastly, include any improvement suggestions and positive highlights from the season. This form is designed to be filled out by team members, especially the captain and coach, to gather honest and valuable feedback. Ensure that all required fields are completed before submitting the form. Please note that this form does not collect personal identifiable information, and all feedback will be treated confidentially.
-
-</thinking>
-
 # Coach And Captain Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from team members about their performance, communication, and overall satisfaction with the team dynamic.

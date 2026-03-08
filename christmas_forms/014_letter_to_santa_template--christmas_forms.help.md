@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a letter to Santa Claus, a fun activity for the holiday season. The form collects information from users, such as their name and email, to create a personalized letter that they can use to share their thoughts and wishes with Santa. This form is not affiliated with or endorsed by any form platform and is an original adaptation created using AI.
-</thinking>
-
 # letter_to_santa_template - Help Guide
 ## Purpose
 The "letter_to_santa_template" form is designed to create a personalized letter to Santa Claus, making it a fun activity for users to share their thoughts and wishes with Santa during the holiday season.

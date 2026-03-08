@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal reasoning block:**
-
-This form is for Christmas market stallholders to apply for a spot at the Christmas market. The form collects information about the applicant's business, contact details, products, and market requirements. The purpose of this form is to ensure that the market has accurate and complete information about each applicant, and to streamline the application process. It's essential to fill out the form accurately and thoroughly to avoid any potential issues or delays in the application process.
-
-</thinking>
-
 # Christmas Market Stallholder Application Form - Help Guide
 
 ## Purpose

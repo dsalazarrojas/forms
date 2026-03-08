@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Santa Breakfast Participation Survey" form, which is used to gather information from participants about their experiences at a Christmas event. This guide will cover the form's purpose, how to complete it, and provide explanations for each field.
-
-The form appears to be used for collecting data on participant demographics, event details, and feedback. It seems to be designed to be completed by individuals who have attended a Christmas-related event, such as a breakfast participation survey.
-
-Before we start, let's check if the form is relevant and not duplicated. Assuming the form is part of a larger system, it is likely that the form is used to collect data for analytics, reporting, or other purposes.
-
-</thinking>
-
 # Santa Breakfast Participation Survey - Help Guide
 ## Purpose
 The Santa Breakfast Participation Survey is designed to collect information from participants about their experiences at a Christmas-related event. This form will help us understand your opinions and feedback about the event.

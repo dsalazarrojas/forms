@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 **Internal Reasoning Block:**
 
 This form is designed to collect information from potential guest speakers to facilitate communication and coordination during their visit. The purpose is to gather necessary details such as contract sign date, speaker's contact information, and any other required or additional notes. This form will help event planners and staff to ensure a smooth and successful event by having all the necessary information at hand.

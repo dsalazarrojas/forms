@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Access Survey - Help Guide
 ## Purpose
 The Digital Access Survey is designed to assess your household's access to digital technologies and services. It helps us understand your needs and areas where we can provide support to ensure everyone has access to the digital tools they need.

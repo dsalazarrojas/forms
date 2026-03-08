@@ -1,5 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their manager's development progress, strengths, areas of improvement, and other relevant details. It will help managers to identify areas where they need to focus their development efforts. This form should only be filled out by employees who are providing feedback on their direct manager. It is essential to fill out this form only once per manager per cycle. Please ensure you have filled out the correct manager's name before submitting this form.</thinking>
 # Manager Development Insight Survey - Help Guide
 ## Purpose
 The Manager Development Insight Survey is a form designed to collect feedback on your manager's development progress, strengths, and areas of improvement. This information helps the manager to identify areas where they need to focus their development efforts.

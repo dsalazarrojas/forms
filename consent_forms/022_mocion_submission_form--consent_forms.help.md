@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on meetings and their outcomes. The purpose of the form is to gather information on meeting details, such as date, time, and location, as well as the status and outcome of the meeting. The form also includes fields for submitting and approving motions, and for capturing information on attendees and submitter details. This form is meant to be completed by meeting attendees or participants, who will be providing their input on the meeting's details and outcomes. It is expected that each field will only be filled out once, so please ensure that the form is completed accurately and thoroughly. If you are unsure about any field, please consult with the meeting organizer or facilitator.
-</thinking>
-
 # Mocion Submission Form - Help Guide
 ## Purpose
 This form is used to collect data on meetings and their outcomes.

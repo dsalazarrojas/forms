@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to create a monthly task checklist for children, allowing them to track and document the tasks completed by the child, their effort level, and receive feedback from guardians. The form is designed to be simple and flexible, allowing users to input various types of data such as task lists, effort levels, challenge lists, and guardian feedback. The form does not have a fixed set of required fields, making it suitable for different types of tasks and activities.
-
-This guide will cover the purpose, completion process, and detailed explanation of each field to ensure users understand how to fill out the form correctly.
-</thinking>
-
 # Monthly Task Checklist For Children - Help Guide
 ## Purpose
 This form is designed to help parents or guardians create a monthly task checklist for children, allowing them to track and document tasks completed, effort level, and receive feedback from guardians.

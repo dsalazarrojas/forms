@@ -1,8 +1,3 @@
-<thinking>
-A change order form is a document used to record and manage changes to a project or task. It typically includes fields for describing the change, agreeing to the change, and documenting the requestor's information. The purpose of this form is to ensure that changes are properly documented, communicated, and approved.
-In this case, the form will guide the user through the process of requesting and agreeing to changes in a change order form.
-</thinking>
-
 # Sample Change Order Form - Help Guide
 ## Purpose
 This form is used to record and manage changes to a project or task.

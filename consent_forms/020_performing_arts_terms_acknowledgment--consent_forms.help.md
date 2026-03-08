@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performing Arts Terms Acknowledgment - Help Guide
 ## Purpose
 This form is used to acknowledge that you have read and understand the terms and conditions for participating in performing arts activities. It is essential to complete this form to ensure that you are aware of your rights and responsibilities as a participant.

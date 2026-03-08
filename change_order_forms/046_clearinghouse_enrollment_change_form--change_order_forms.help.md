@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clearinghouse Enrollment Change Form - Help Guide
 ## Purpose
 This form is used to submit a change request for a client's enrollment. The form is used to update the client's enrollment details and confirm the accuracy of the information provided.

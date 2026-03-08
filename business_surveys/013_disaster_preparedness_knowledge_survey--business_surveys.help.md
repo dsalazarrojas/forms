@@ -1,5 +1,3 @@
-<thinking>Is this a real form, or is it just a template or example? Is there a particular business purpose or goal for this form? Is this form meant for a general audience or a specific company or industry? I am assuming it's a general business survey for disaster preparedness knowledge.</thinking>
-
 # Disaster Preparedness Knowledge Survey - Help Guide
 
 ## Purpose

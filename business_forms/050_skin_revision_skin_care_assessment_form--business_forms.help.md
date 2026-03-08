@@ -1,7 +1,3 @@
-<thinking>
-The Skin Revision Skin Care Assessment Form is designed to collect customer information and assess their skin care needs. The form has 8 pages, each with its own section for collecting different types of data. The first page, "Customer Information", will ask for basic details such as name, address, and contact information. The "Medical History" page will gather information about any medical conditions or allergies the customer may have. The "Skin Information" page will collect details about the skin condition or issue the customer is experiencing. The "Consent" page will gather consent for the assessment. The "Terms and Conditions" page will outline the terms and conditions of the skin revision skin care service. The "Additional Information" page will gather any further information the customer would like to provide. The "Medical History 2" page will gather any further medical history information. The "Skin Care" page will collect skin care related information. All pages are optional except for the "Customer Information" page which is required.
-</thinking>
-
 # Skin Revision Skin Care Assessment Form - Help Guide
 ## Purpose
 This form is designed to help us assess your skin care needs and provide you with the best possible service.

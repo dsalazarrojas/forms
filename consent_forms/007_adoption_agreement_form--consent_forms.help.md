@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and consent from individuals who wish to adopt animals from a shelter. It is a crucial document that outlines the terms and conditions of the adoption process, ensuring a smooth transition for both the adopter and the animal. This form aims to verify that the adopter understands and agrees to provide proper care and treatment for the animal, as well as the adopter's commitment to return the animal if they can no longer care for it. The purpose of this guide is to walk the user through the form's purpose, fields, and requirements.
-</thinking>
-
 # Adoption Agreement Form - Help Guide
 
 ## Purpose

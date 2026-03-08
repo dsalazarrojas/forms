@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register their interest in collecting information or resources (e.g., data) about their home. By completing this form, you'll be able to indicate your contact method preferences (phone, email, text), schedule requests for appointments or services, provide appointment information, confirm the details, and specify who would like to schedule with or provide service for. Note: This is an optional form, and some fields do not have any specific validation or rules to ensure only certain values are selected or entered. This form is meant for general information collection, so you have some flexibility and freedom in filling it out.
-</thinking>
-
 # home_collection_registration_form - Help Guide
 ## Purpose
 This form is used for users to register their interest in collecting information or resources about their home.

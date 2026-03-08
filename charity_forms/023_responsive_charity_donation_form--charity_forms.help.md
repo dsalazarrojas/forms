@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to make donations to different charities. It is intended to be used for internal use and may not be publicly accessible. The form has several fields to gather information about the donation, including the amount, purpose, contact details, and charity name. The form will be used to track and process donations within the organization. Please ensure that you are using this form for its intended purpose and follow internal guidelines for data collection and processing.
-</thinking>
-
 # Responsive Charity Donation Form - Help Guide
 ## Purpose
 The Responsive Charity Donation Form is a tool to facilitate internal charity donations within the organization. It allows users to select a charity and make a donation.

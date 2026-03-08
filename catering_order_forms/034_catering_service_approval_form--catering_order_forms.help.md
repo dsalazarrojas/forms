@@ -1,31 +1,3 @@
-<thinking>
-Checking for relevance and non-duplication of the Catering Service Approval Form. This form is used for requesting catering services for company events and meetings. To complete the form, the requestor must provide personal information such as name, email, and phone number, as well as details about the event, including date, time, location, and number of attendees. The form also requires information on the catering provider, menu description, and total cost. Approval levels and manager approval dates are also tracked to ensure that the request is approved and processed correctly.
-
-The form has multiple pages, but the most important fields are on page 1. These are:
-* Requester Name: Your full name.
-* Email Address: Your email address.
-* Phone Number: Your contact phone.
-* Department: Your department (Event Planning, Human Resources, Administration, Marketing, Operations, or Other).
-* Request Date: Date of this request.
-* Order Number: Catering order reference.
-* Event Name: Name of your event.
-* Event Type: What type of event (Meeting, Conference, Training, Corporate Event, Private Party, Wedding, or Other).
-* Event Date: Date of event.
-* Event Time: Start time.
-* Location: Where will it be held.
-* Number of Attendees: Expected count.
-* Catering Provider: Name of caterer.
-* Menu Description: What will be served.
-* Total Cost: Total catering cost.
-* Budget Code: Cost center or account.
-* Business Justification: Why is this catering needed.
-* Approval Level Required: Who needs to approve (Manager, Director, VP, or Executive).
-* Final Approval Status: Overall status (Fully Approved, Partially Approved, Rejected, or Pending Review).
-* Additional Comments: Any other information.
-
-The rest of the fields are for additional information and can be filled in as needed.
-</thinking>
-
 # Catering Service Approval Form - Help Guide
 ## Purpose
 The Catering Service Approval Form is used for requesting catering services for company events and meetings.

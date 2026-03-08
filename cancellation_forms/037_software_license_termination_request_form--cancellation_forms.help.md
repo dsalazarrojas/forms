@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information regarding the termination of a software license. This form is used to request the cancellation of a software license, and the data collected will help the organization manage and process the termination request efficiently. This form is intended for use by employees within the organization, and only authorized personnel should be completing this form.
-</thinking>
-
 # Software License Termination Request Form - Help Guide
 ## Purpose
 The Software License Termination Request Form is used to formally request the cancellation of a software license. When you fill out this form, you will be providing necessary information for the cancellation process.

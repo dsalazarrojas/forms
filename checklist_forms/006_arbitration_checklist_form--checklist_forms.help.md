@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users track and verify the completion of tasks related to arbitration cases. The form's purpose is to ensure that all necessary steps are taken to prepare for a hearing, including the collection and organization of evidence, notification of parties, and confirmation of logistics. By filling out this form, users can ensure that they have completed all required tasks and that the case is properly prepared for arbitration.
-</thinking>
-
 # Arbitration Checklist Form - Help Guide
 ## Purpose
 This form is used to track and verify the completion of tasks related to arbitration cases.

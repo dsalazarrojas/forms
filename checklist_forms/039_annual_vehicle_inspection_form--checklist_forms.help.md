@@ -1,12 +1,3 @@
-<thinking>
-This form is a checklist for vehicle inspection, used by mechanics or inspectors to record the condition of a vehicle's various components during a routine inspection. The form is used to ensure that the vehicle meets safety and regulatory standards, and to identify any needed repairs or maintenance. This form is intended for use by mechanics or inspectors, and is part of a larger system for tracking and managing vehicle maintenance and inspections. 
-
-The form is organized into a series of fields that ask for information on the vehicle's inspection date, inspector's details, and a checklist of the vehicle's systems and components. Each field is labeled with a specific name and hint to guide the user through the inspection process.
-
-Before starting this form, ensure that you have all the necessary information and tools to complete the form accurately. Review the form carefully to ensure you understand each field and its purpose before proceeding.
-
-</thinking>
-
 # Annual Vehicle Inspection Form - Help Guide
 ## Purpose
 The Annual Vehicle Inspection Form is a checklist used by mechanics or inspectors to record the condition of a vehicle's various components during a routine inspection. This form is used to ensure that the vehicle meets safety and regulatory standards, and to identify any needed repairs or maintenance.

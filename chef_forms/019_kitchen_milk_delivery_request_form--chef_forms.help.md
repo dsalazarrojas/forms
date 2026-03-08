@@ -1,11 +1,3 @@
-<thinking>
-This form is for customers to request milk delivery from the kitchen. To ensure we provide the best possible service, please review the fields below carefully before completing the form. 
-
-The form is designed to collect information about the delivery date and time, customer details, and other relevant information. This guide will help you understand each field's purpose and how to fill it out correctly.
-
-Please note that some fields are not required, but filling them out will help us provide a better service. If you have any doubts or questions, feel free to contact us.
-</thinking>
-
 # Kitchen Milk Delivery Request Form - Help Guide
 ## Purpose
 This form is for customers to request milk delivery from the kitchen.

@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to evaluate the effectiveness of various FinOps tools. FinOps stands for Financial Operations, and this form is designed to gather data on the tools used in the financial operations process. 
-- The form is intended to collect information on specific tools used by teams and their performance.
-- The form will help identify strengths and weaknesses of different tools and provide insights for decision-making.
-- It's crucial to complete this form accurately, as the data collected will be used to make informed decisions about which tools to use and improve.
-- The fields in this form are designed to gather specific types of data: text for descriptive information, number for ratings, and select_one for categorizing tools into three categories: AWS, Azure, and Google Cloud.
-</thinking>
-
 # FinOps Tool Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the effectiveness of various FinOps tools.

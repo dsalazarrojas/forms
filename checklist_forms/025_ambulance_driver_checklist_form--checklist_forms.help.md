@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ambulance Driver Checklist Form - Help Guide
 ## Purpose
 This form is designed to ensure that ambulance drivers are able to perform pre- and post-trip checks on their vehicle, identifying any potential issues or concerns that may impact the vehicle's performance and safety. It is a crucial tool for maintaining the integrity of the vehicle and preventing accidents or injuries. By following this checklist, you can help ensure that your vehicle is in good working condition, ready for service, and that you're aware of any issues that need to be addressed before returning to service.

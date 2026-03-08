@@ -1,8 +1,3 @@
-<thinking>
-This form is likely part of a conference registration process. The purpose of the form is to collect information from attendees who are interested in reviewing fiscal policies related to finance, development, or both. The form is designed to gather user details, their topic interests, any questions they may have, and their contact information (email and phone number). This form should ensure that users only need to complete it once. Please review the fields carefully before starting to fill out the form.
-
-</thinking>
-
 # fiscal_policy_review_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees interested in reviewing fiscal policies related to finance, development, or both.

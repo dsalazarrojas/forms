@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chiropractic Wellness Talk Registration Form - Help Guide
 ## Purpose
 This form is for attendees to register for a chiropractic wellness talk. It gathers information about the attendee, including contact details, event preferences, and registration information. The form helps us to better understand the attendee's needs and preferences, ensuring a smooth and enjoyable experience for them.

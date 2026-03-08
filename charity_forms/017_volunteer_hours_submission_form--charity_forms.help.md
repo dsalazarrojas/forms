@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to submit their volunteer hours worked for a specific project or activity. It is intended to be completed by volunteers who have participated in a volunteer opportunity, and is used to track their hours contributed to the organization. This form is not intended for internal staff use, but rather for external volunteers to report their hours. The form should only be completed once per volunteer opportunity, and not for multiple events or projects. Please ensure you have completed this form accurately, as it is used to record hours worked and will be used for reporting and evaluation purposes.
-</thinking>
-
 # Volunteer Hours Submission Form - Help Guide
 ## Purpose
 The Volunteer Hours Submission Form is used by external volunteers to report their hours worked on a specific volunteer opportunity. It is essential to complete this form accurately to ensure your hours are recorded correctly.

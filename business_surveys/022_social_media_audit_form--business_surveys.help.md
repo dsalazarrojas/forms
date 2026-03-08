@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather data on social media performance and engagement. It is not meant to be used as a one-time assessment, but rather as a regular check-in to monitor progress and identify areas for improvement. Please ensure that you complete all required fields and provide accurate information. If a field is optional, only fill it out if relevant to your social media strategy. Before starting, take a moment to review each field to ensure you understand its purpose and how it applies to your social media efforts.</thinking>
-
 # Social Media Audit Form - Help Guide
 ## Purpose
 This form is used to collect data on your social media performance and strategy. It's designed to be a regular check-in to help you monitor your progress and identify areas for improvement.

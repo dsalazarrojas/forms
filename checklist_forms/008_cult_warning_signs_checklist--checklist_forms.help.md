@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to guide users in identifying potential warning signs that may indicate cultural or societal issues in a given context. The goal is to provide a structured and systematic approach to help users recognize and address these signs. 
-
-Before proceeding, ensure that the form is being used for its intended purpose and not for other purposes, such as market research or opinion polling. This form is specifically designed for identifying warning signs related to cultural or societal issues. 
-
-If you are using this form for other purposes, please consider adapting the questions or using a different form altogether. 
-
-Please review the form carefully to ensure that you are not duplicating efforts or collecting unnecessary data. 
-
-</thinking>
-
 # Cult Warning Signs Checklist - Help Guide
 ## Purpose
 This form is designed to help identify potential warning signs that may indicate cultural or societal issues. It is meant to provide a structured and systematic approach to recognizing and addressing these signs.

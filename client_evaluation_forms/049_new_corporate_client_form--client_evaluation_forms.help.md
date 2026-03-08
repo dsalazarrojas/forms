@@ -1,12 +1,3 @@
-<thinking>
-We need to make sure the form is used correctly by end users. This form is intended to gather information about new corporate clients. The form is split into multiple pages, each covering different aspects of client information. We want to verify that users understand what's expected from them in each page, so they submit the correct data.
-
-Before proceeding, let's take a look at the form structure. It has various types of input fields such as text, select, date, time, note, email, and number. Some of these fields are required, while others are optional. Each field has a specific label, type, and sometimes options. We'll need to explain each field clearly so users know what to expect.
-
-Let's start by checking if this form is being used for the correct purpose. This form is meant to provide information about new corporate clients, so any submitted data should be accurate and relevant. We'll need to make sure users understand what's being asked of them.
-
-We'll go through each field, explaining what it's for and how to fill it out correctly. This will help reduce confusion and incorrect submissions.</thinking>
-
 # New Corporate Client Form - Help Guide
 
 ## Purpose

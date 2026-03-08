@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from prospective students who are applying to a language school. It's intended to be a checklist-style form that gathers data on application information, contact details, language proficiency, education background, employment status, language study plan, and any additional comments. This form is a generic template and not affiliated with any specific language school. The form is meant to be adapted and used by language schools to collect necessary information from applicants.
-</thinking>
-
 # language_school_admission_checklist_form_template - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Language School Admission Checklist Form Template.

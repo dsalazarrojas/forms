@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information from a person who is requesting adoption records. The form is used to gather requester's contact information, adoptee's information, and the type of records they are requesting. The form is designed to ensure that the requester has the necessary authorization and consent to access the records, and that they understand the terms and conditions of the release. The form is not intended to be used for duplicate or unnecessary requests. 
-
-</thinking>
-
 # Adoption Records Release Form - Help Guide
 
 ## Purpose

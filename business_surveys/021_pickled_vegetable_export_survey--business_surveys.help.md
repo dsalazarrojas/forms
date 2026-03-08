@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from customers about their pickled vegetable export needs and preferences. The form should be completed by a customer or their representative to provide accurate and relevant information that will help our business understand their requirements and preferences for pickled vegetable exports. This form will not need to be completed by the same user multiple times.
 
 </thinking>

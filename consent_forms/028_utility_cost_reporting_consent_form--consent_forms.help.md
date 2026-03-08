@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information from utility users regarding their consent to report their cost data. This form is intended for tenants who want to report their utility costs. The form should be completed by the tenant, and the answers should be honest and accurate. The form will help in collecting relevant data to report utility costs effectively.
-
-</thinking>
-
 # Utility Cost Reporting Consent Form - Help Guide
 
 ## Purpose

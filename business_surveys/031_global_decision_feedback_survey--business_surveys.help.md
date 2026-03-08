@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from global decision-makers on their decision-making processes. It is intended for business users to provide their insights and opinions on how they make decisions, which will help us improve our decision-making process. Please make sure you're filling out this form for the first time and not as a duplicate submission. This will help us to get a more accurate representation of global decision-making processes.
-</thinking>
-
 # Global Decision Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from global decision-makers on their decision-making processes. The collected data will help the organization improve its decision-making processes.

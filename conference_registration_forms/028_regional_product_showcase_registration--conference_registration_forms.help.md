@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for event organizers to provide information about an upcoming product showcase, including details such as event organizers, event details, product information, terms and agreements, product images, product videos, product description, event start and end dates, event start and end times, event location, event address, and any additional event notes.
-
-This form appears to be relevant to the conference registration forms category and should not be a duplicate of any other existing form. If any part of this logic is not correct or there is a duplication, we should reevaluate the form.
-
-The form is designed to collect all the necessary information for a successful product showcase event. The form fields are structured in a way that allows for easy navigation and clarity of purpose.
-
-</thinking>
-
 # Regional Product Showcase Registration - Help Guide
 ## Purpose
 This form is designed to gather information about an upcoming product showcase event, allowing event organizers to provide a comprehensive overview of the event.

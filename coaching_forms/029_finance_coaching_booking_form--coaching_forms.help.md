@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-The Finance Coaching Booking Form is designed to collect information from clients or potential clients for coaching services. This form is meant to be used by coaches or administrative staff to book sessions and manage coaching appointments. The form collects personal and scheduling information from the client, as well as details on the type of coaching they require. The form will likely be used by coaches or administrative staff to assign a coach to the client and schedule a session.
-
-...</thinking>
-
 # Finance Coaching Booking Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drainage Inspection Form - Help Guide
 
 ## Purpose

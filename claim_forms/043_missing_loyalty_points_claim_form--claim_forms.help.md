@@ -1,7 +1,3 @@
-<thinking>
-This form is used to claim missing loyalty points from a customer. The purpose of this form is to gather information from the customer to verify their claim and resolve the issue. The form is designed to be completed by the customer who is experiencing issues with their loyalty points. To ensure that the form is completed correctly, please check that the customer is not duplicating their claim and that the form is being used for its intended purpose.
-</thinking>
-
 # Missing Loyalty Points Claim Form - Help Guide
 ## Purpose
 The Missing Loyalty Points Claim Form is used to gather information from customers who are experiencing issues with their loyalty points. This form helps to verify the customer's claim and resolve the issue in a timely manner.

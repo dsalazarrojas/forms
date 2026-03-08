@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Safety Checklist Form - Help Guide
 
 ## Purpose

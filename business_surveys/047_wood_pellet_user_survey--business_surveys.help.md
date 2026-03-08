@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from users about their experiences with wood pellets, specifically their purchasing habits, usage, and satisfaction levels. The form is likely used by a business or organization that sells or supplies wood pellets to customers, and the goal is to gather data to improve their products or services. Before proceeding, please ensure that you have not already completed this survey in the past, as your responses will not be recorded.</thinking>
-
 # Wood Pellet User Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your experiences with wood pellets, including your purchasing habits, usage, and satisfaction levels. This will help us to better understand your needs and preferences, and make our products or services more suitable for you.

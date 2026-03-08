@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for client intake and medical history gathering purposes. It appears to be a comprehensive form designed to collect information on a patient's medical history, medical procedures, and consent for various medical practices. This form seems to be used in a healthcare setting to collect essential information from clients or patients. However, it's worth noting that some questions might be repetitive or redundant, and some fields might be subject to local laws and regulations. Before proceeding, please review the form carefully to ensure that it's up-to-date and relevant to your organization's specific needs.
-
-</thinking>
-
 # Fat Cavitation Client Intake Form - Help Guide
 ## Purpose
 The Fat Cavitation Client Intake Form is a comprehensive form used to collect information on a client's medical history, procedures, and consent for various medical practices in a healthcare setting.

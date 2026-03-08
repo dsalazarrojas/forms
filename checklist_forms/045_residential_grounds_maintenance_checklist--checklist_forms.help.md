@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be completed by property maintenance staff or property managers to assess the condition of residential properties grounds and report any issues that need to be addressed. The form is divided into several sections, each covering a different aspect of the property's exterior, such as walkways, stairs, handrails, and landscaping. The form's design is meant to streamline the process of identifying potential problems and ensuring that property owners or management staff are aware of the condition of the property. This form is not intended to be a comprehensive property assessment, but rather a tool to provide a quick snapshot of the property's condition.
-
-When filling out this form, please ensure that each section represents a fair and accurate assessment of the property's condition. If an issue is found, please provide a clear description of the problem, and if possible, suggest a course of action for maintenance or repairs. 
-
-Note: The form requires the property owner or manager's contact information for communication and follow-up.
-
-</thinking>
-
 # Residential Grounds Maintenance Checklist - Help Guide
 ## Purpose
 The Residential Grounds Maintenance Checklist is a tool used to assess the condition of residential properties grounds and report any issues that need to be addressed.

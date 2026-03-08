@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain written consent from authors for the use of their excerpts in various projects or publications. This form ensures that authors are informed about the intended use of their work and provides a clear understanding of the terms and conditions of the use. This form is to be filled out by authors to grant or deny permission for the use of their excerpts. Before proceeding, please ensure that this form is not a duplicate and that the consent date is accurate. The form is intended to capture all necessary information for both the author and the requestor.
-
-</thinking>
 # Author Excerpt Usage Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a complaint made by a resident against their neighbor. It gathers details such as the complainant's and neighbor's names, contact information, and description of the problem. The form also includes fields for witness information, police report number, dates, and officer contact details. The "Action Taken" field is a crucial part of this form, as it indicates whether any action has been taken by the authorities in response to the complaint. This field is required to be filled in for the form to be complete.
-</thinking>
-
 # Neighbor Complaint Form - Help Guide
 ## Purpose
 The Neighbor Complaint Form is a tool used to document and manage complaints made by residents against their neighbors. It helps to gather essential information and track the progress of the complaints.

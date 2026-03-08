@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback on fire resistant jackets. It assesses various aspects of the jacket, including its overall performance, comfort level, weight, size, safety features, value for money, and the manufacturer and model number. The form aims to help users provide a comprehensive evaluation of the jacket's quality and usability.
-
-</thinking>
-
 # fire_resistant_jacket_survey - Help Guide
 ## Purpose
 The fire_resistant_jacket_survey form is designed to gather user feedback on the performance and usability of fire resistant jackets. This form helps us understand how well the jackets meet your expectations and needs.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for individuals responsible for organizing charity events. The purpose of this form is to ensure that all necessary tasks are completed before, during, and after the event to guarantee its success. The form is designed to track progress on various aspects of the event, such as logistics, security, and promotional materials. It serves as a centralized checklist to prevent missed tasks and streamline the event planning process. Please ensure that you fill out this form accurately and thoroughly to avoid overlooking critical tasks.
-</thinking>
-
 # Charity Event Checklist Form - Help Guide
 ## Purpose
 The Charity Event Checklist Form is a tool used by event organizers to track and manage various aspects of charity events. It helps to ensure that all necessary tasks are completed before, during, and after the event to guarantee its success.

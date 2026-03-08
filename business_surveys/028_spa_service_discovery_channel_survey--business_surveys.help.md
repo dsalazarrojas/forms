@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the Spa Service Discovery Channel Survey form. This form is designed to gather information from spas and wellness centers about their marketing strategies, customer satisfaction, and additional questions related to their operations. The form is likely used by the Spa Service Discovery Channel to better understand the needs and challenges of its customers.
-
-Before proceeding, please note that this form does not appear to be designed for collecting contact information or sensitive data that requires validation to prevent duplication or ensure data accuracy. It seems to be a general feedback or assessment form.
-
-</thinking>
-
 # Spa Service Discovery Channel Survey - Help Guide
 ## Purpose
 This form is a collection of questions designed to gather information from spas and wellness centers about their marketing strategies, customer satisfaction, and additional questions related to their operations. The Spa Service Discovery Channel uses this form to better understand the needs and challenges of its customers.

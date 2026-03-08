@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to track site commissioning outcomes and site readiness. It appears to be related to evaluating whether a site is ready for commissioning or not, and what outcomes are expected from the commissioning process. This form seems to be a part of a larger process for evaluating and managing sites, possibly for construction or project management purposes. There are 5 fields in this form: Site Commissioning Checklist, Commissioning Outcomes, Site Readiness, Review Comments, and Site Commissioning Date. Each field is designed to elicit specific information to aid in site commissioning evaluation.
 
 # Site Commissioning Checklist - Help Guide

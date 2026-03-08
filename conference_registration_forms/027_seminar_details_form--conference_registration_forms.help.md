@@ -1,10 +1,3 @@
-<thinking>
-This form is used for collecting details about a seminar, including its title, start and end dates, location, description, capacity, price, and status. 
-The form is likely used by seminar organizers to input information about an upcoming or past event.
-
-The form consists of multiple pages, each containing fields for a specific aspect of the seminar. This guide will go through each field in detail, explaining its purpose and how to fill it out.
-</thinking>
-
 # Seminar Details Form - Help Guide
 
 ## Purpose

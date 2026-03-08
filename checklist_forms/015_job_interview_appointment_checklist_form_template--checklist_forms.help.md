@@ -1,5 +1,3 @@
-<thinking>This form is designed to guide users through the process of capturing essential information related to a job interview. It's meant to be completed by both hiring managers and interviewers to ensure that all necessary details are recorded and easily accessible for reference. The form's purpose is to standardize the job interview process and improve the overall efficiency of the hiring process. By filling out this form, users can easily review and update job status, details, and other relevant information. This form is a template, so users can customize it as needed to fit their specific needs.</thinking>
-
 # Job Interview Appointment Checklist Form Template - Help Guide
 ## Purpose
 The Job Interview Appointment Checklist Form Template is a standardized form designed to guide users through the process of capturing essential information related to a job interview. It ensures that all necessary details are recorded and easily accessible for reference.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about the maintenance status and history of a server. This form is designed for IT or facilities teams to document and track regular, routine, and emergency maintenance tasks performed on servers. It's essential to keep accurate records of server maintenance to ensure the reliability and efficiency of server operations.
 
 When using this form, please ensure that you only fill out the relevant fields and do not duplicate records. To do this:

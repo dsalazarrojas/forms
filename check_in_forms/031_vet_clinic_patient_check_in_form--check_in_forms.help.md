@@ -1,18 +1,3 @@
-<thinking>
-To ensure that the form is being used correctly and that the data entered is accurate, it is essential to understand the form's purpose and how each field is used. This form is designed to collect information about a patient's visit to the vet clinic, including their personal details, medical history, and visit details. This information will be used to create a medical record for the patient and to provide accurate and effective care. Before starting, please review the fields carefully to ensure that you are entering the correct information.
-
-This form is a multi-page form, with each page representing a different section of the patient's information.
-
-**Page 1**
-
-*   **First Name**: Enter the patient's first name.
-*   **Last Name**: Enter the patient's last name.
-*   **Email**: Enter the patient's email address.
-*   **Phone**: Enter the patient's phone number.
-*   **Species**: Enter the patient's species (e.g., Dog, Cat, etc.).
-
-</thinking>
-
 # Vet Clinic Patient Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's visit to the vet clinic, including their personal details, medical history, and visit details. This information will be used to create a medical record for the patient and to provide accurate and effective care.

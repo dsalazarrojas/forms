@@ -1,8 +1,3 @@
-<thinking>
-This form is used to order services for restaurant grease trap cleaning. It's likely used by restaurant staff or facility management to request cleaning services for specific types of grease traps in their restaurant. The form asks for restaurant information, service details, and trap specifications to ensure efficient and correct cleaning services. The fields on this form are mostly self-explanatory but some might need further clarification.
-
-</thinking>
- 
 # Restaurant Grease Trap Cleaning Order Form - Help Guide
 ## Purpose
 This form is used to order services for restaurant grease trap cleaning. Please fill out the form with your restaurant's information and select the specific services and traps you need cleaned.

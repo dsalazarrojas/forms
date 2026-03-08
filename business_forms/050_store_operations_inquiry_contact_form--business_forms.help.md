@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Operations Inquiry Contact Form - Help Guide
 ## Purpose
 The Store Operations Inquiry Contact Form is used to gather information from customers about their store operations-related inquiries. This form is intended for customers to provide details about their store experiences, concerns, or requests. It is not a form for general customer support or order-related issues.

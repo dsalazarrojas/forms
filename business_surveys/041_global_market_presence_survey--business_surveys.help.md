@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a company's global market presence. The purpose of this form is to gather data on a company's name, website, phone number, email, brand name, product name, market reputation, market potential, product availability, brand recognition, and market standing. This information will help us understand the company's presence and performance in the global market.
-
-The form is divided into several sections, each with its own set of fields. Please note that all fields are optional, but providing accurate and relevant information will help us better understand your company's market presence.
-
-</thinking>
-
 # global_market_presence_survey - Help Guide
 ## Purpose
 The Global Market Presence Survey is a form designed to collect information about a company's global market presence. This data will help us understand your company's performance and reputation in the global market.

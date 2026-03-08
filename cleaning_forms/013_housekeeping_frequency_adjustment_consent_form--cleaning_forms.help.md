@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect resident's feedback on housekeeping frequency adjustments. The purpose of this form is to gather information about their preferences and concerns regarding housekeeping services. It's essential to ensure that the form is completed accurately and not duplicated.
-The form will be used to adjust the frequency of housekeeping services based on the resident's feedback. 
-</thinking>
-
 # Housekeeping Frequency Adjustment Consent Form - Help Guide
 
 ## Purpose

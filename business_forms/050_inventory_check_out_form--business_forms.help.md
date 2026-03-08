@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Check Out Form - Help Guide
 ## Purpose
 The Inventory Check Out Form is designed to help you track items checked out from inventory. This form captures essential details such as description, quantity, unit price, date, and other relevant information to ensure accurate inventory management.

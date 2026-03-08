@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mission Statement Feedback Form - Help Guide
 
 ## Purpose

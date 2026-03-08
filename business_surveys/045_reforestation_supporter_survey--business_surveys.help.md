@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information from supporters of reforestation efforts, aiming to understand their role, preferences, and involvement in reforestation activities. The form will help to identify the target audience for specific communication methods, gather feedback on the effectiveness of current communication channels, and provide insights into the supporter's experience and goals. This will aid in refining the communication strategy for the reforestation team.
-
-This form is a one-time, non-mandatory questionnaire and will take approximately 5-10 minutes to complete. All information collected will be used for internal purposes only.
-
-Please note that this form does not collect any personal identifiable information (PII). We value your privacy and will not use this form for any other purpose than as described.
-
-Please answer the questions honestly and accurately. If you have any questions or concerns about the form, please do not hesitate to reach out to us.
-
-If you have completed this form before, you can simply skip it and move on with your day.
-
-Please ensure that your device's browser is up to date and has JavaScript enabled to complete the form successfully.
-
-</thinking>
-
 # reforestation_supporter_survey - Help Guide
 ## Purpose
 This survey aims to gather insights from supporters of reforestation efforts to refine communication strategies and improve the overall reforestation experience.

@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll break down the form's purpose and create a user-facing help guide for this A3 Problem Solving Form.</thinking>
-
 # A3 Problem Solving Form - Help Guide
 ## Purpose
 The A3 Problem Solving Form is a structured worksheet designed to help teams identify and address problems in their work processes. It provides a framework for documenting and solving problems in a methodical and transparent way.

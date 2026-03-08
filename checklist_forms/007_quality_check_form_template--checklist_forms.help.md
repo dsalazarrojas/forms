@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for quality assurance and control, allowing users to input information about a product, such as its condition or defects, and provide a quality assessment. It's likely used in a manufacturing or production setting, where products are being inspected and evaluated for quality. However, the form's specific purpose and usage should be reviewed to ensure it's not duplicating an existing process or form.
-</thinking>
-
 # Quality Check Form Template - Help Guide
 ## Purpose
 This form is used to collect information about a product's condition and quality, allowing for the inspection and evaluation of its quality.

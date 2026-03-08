@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Women's Health Tech Forum, a conference focused on exploring the intersection of technology and women's health. The form is intended to be used by attendees to provide their personal details and preferences for the sessions they wish to attend. The form is likely to be used by the conference organizers to gather attendee data and tailor the event experience accordingly.
-Before proceeding, please ensure that you have not already filled out this form, as it would result in duplicate submissions. If you are unsure, please contact the form administrators.
-</thinking>
-
 # Women's Health Tech Forum Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information for the Women's Health Tech Forum. Please fill out the form accurately and completely to ensure that we can tailor the event experience to your needs.

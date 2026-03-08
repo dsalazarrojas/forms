@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly to collect accurate information from caregivers and parents. This form is used to register a child for care services. The purpose of this form is to gather essential details about the child, parent or guardian, and the care requirements. To prevent errors and inconsistencies, it's essential that the form is filled out correctly and consistently. To achieve this, please read this help guide carefully. If you're unsure about any field, refer to this guide.
-</thinking>
-
 # Child Care Registration Form - Help Guide
 ## Purpose
 This form is used to register a child for care services. It collects information about the child, parent or guardian, and the care requirements to provide accurate and effective care.

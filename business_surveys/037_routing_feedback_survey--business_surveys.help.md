@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Routing Feedback Survey - Help Guide
 
 ## Purpose

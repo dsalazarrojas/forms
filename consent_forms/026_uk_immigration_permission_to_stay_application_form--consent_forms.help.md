@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # UK Immigration Permission To Stay Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals wishing to apply for permission to stay in the UK. It is essential to ensure that the form is completed accurately and thoroughly to avoid any issues with the application process.

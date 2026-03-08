@@ -1,6 +1,4 @@
-# <thinking> ... </thinking>
-
-This form is a job log form designed for businesses to record and track employee work. It's meant to capture essential information about job assignments, including job titles, staff names, dates, start and end times, work descriptions, materials used, and files related to the job.
+# This form is a job log form designed for businesses to record and track employee work. It's meant to capture essential information about job assignments, including job titles, staff names, dates, start and end times, work descriptions, materials used, and files related to the job.
 
 ## Job Form - Help Guide
 

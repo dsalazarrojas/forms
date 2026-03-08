@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the form is used effectively, please consider the following points:
-1. This form is designed to collect feedback and insights from clients about the value they perceive our services have delivered to their businesses.
-2. The form is divided into two parts: an introduction and a set of questions that gauge client satisfaction and value perception.
-3. Each field in the form has a specific purpose and is labeled accordingly.
-4. To avoid duplication, please fill out the form only once per client.
-</thinking>
-
 # Client Value Insight Survey - Help Guide
 
 ## Purpose

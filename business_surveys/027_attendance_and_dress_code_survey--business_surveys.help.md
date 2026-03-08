@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Attendance And Dress Code Survey - Help Guide
 
 ## Purpose

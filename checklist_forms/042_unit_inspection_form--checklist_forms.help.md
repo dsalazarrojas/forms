@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Unit Inspection Form is to collect information about a unit's condition, tenant status, and lease details during the inspection process. This form ensures that all relevant information is collected and documented accurately and efficiently.
-
-</thinking>
-
 # Unit Inspection Form - Help Guide
 ## Purpose
 The Unit Inspection Form is designed to gather essential information about a unit's condition, tenant status, and lease details during the inspection process. This form helps to standardize the inspection process and ensures that all relevant information is collected and documented accurately and efficiently.

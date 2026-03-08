@@ -1,5 +1,3 @@
-<thinking>...I'll first create a brief internal reasoning block to explain the form purpose and checks for relevance and non-duplication...</thinking>
-
 <details>
   <summary>Internal Reasoning Block</summary>
   The form is designed to gather feedback from the church community about the performance of the pastors, with the aim to evaluate their leadership, communication skills, and areas for improvement. This form will help the church leadership understand the strengths and weaknesses of the pastors and make informed decisions about their role in the community.

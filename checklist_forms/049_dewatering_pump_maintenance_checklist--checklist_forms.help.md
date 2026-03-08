@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track and maintain the status of dewatering pumps in a facility or site. The purpose of this form is to ensure that all necessary information is collected and recorded for each pump, including its location, condition, pressure, and maintenance history.
-
-To complete this form, start by identifying the pump location and its current condition. Then, select the pump's operating status and check for any pipe leaks or damage. Next, provide any comments or maintenance notes, as well as the job site and the person assigned to perform the maintenance. 
-
-The following fields are required to be filled out: none of the fields are required, however, it is recommended that all fields be filled out for accurate and comprehensive maintenance tracking.
-
-</thinking>
-
 # Dewatering Pump Maintenance Checklist - Help Guide
 ## Purpose
 The Dewatering Pump Maintenance Checklist is used to track and maintain the status of dewatering pumps in a facility or site.

@@ -1,8 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information about in-kind donations from users. In-kind donations refer to non-monetary contributions such as goods or services that are given to support a cause or organization. This form aims to gather essential details about the donor, the charity, and the nature of the donation, ensuring that the process is efficient and well-organized.
-To avoid duplication, this form is only accessible to users with the necessary permissions to submit in-kind donations. This guide will walk you through the process of completing the form accurately and completely.
-</thinking>
-
 # In Kind Donation Form - Help Guide
 ## Purpose
 The In Kind Donation Form is a tool used to collect information about non-monetary contributions, such as goods or services, that are given to support a cause or organization.

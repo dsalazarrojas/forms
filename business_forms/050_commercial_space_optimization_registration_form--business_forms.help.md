@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the Commercial Space Optimization Registration Form. The form is designed to collect information about commercial spaces that are interested in optimizing their space to improve their operations, employee satisfaction, and overall business performance. This form will help us understand your organization's needs and provide a starting point for our commercial space optimization consultation. Please ensure that you are registering a single organization per form submission. If you have multiple organizations, please submit a separate form for each. 
-</thinking>
-
 # Commercial Space Optimization Registration Form - Help Guide
 ## Purpose
 The commercial space optimization registration form is designed to help us understand your organization's needs and provide a starting point for our commercial space optimization consultation.

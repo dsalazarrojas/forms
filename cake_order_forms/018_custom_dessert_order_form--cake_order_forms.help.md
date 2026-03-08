@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Custom Dessert Order Form", we first need to understand its purpose. This form is designed to collect contact details, order preferences, delivery address, order date, and order time from customers who want to place a custom dessert order. The form should be easy to complete, and the fields should be clearly explained to avoid any confusion.
-
-</thinking>
-
 # Custom Dessert Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to place a custom dessert order. Fill out the form with your contact details, order preferences, delivery address, and order date and time to ensure that your custom dessert is made and delivered correctly.

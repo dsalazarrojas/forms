@@ -1,8 +1,3 @@
-<thinking>
-The BIPOC Authors Support Form is a comprehensive form designed to help authors from diverse backgrounds connect with the BIPOC (Black, Indigenous, and People of Color) authors support ecosystem. This form is intended to collect relevant information from authors to provide tailored support, guidance, and resources that cater to their specific needs and goals. The form will help the support team understand the authors' writing experiences, goals, and requirements to provide effective support. Please ensure that the information provided is accurate and complete, as it will be used to tailor the support offered. If you have already submitted a similar form, please do not resubmit, as this will help us avoid duplication of effort and streamline the support process.
-
-</thinking>
-
 # BIPOC Authors Support Form - Help Guide
 
 ## Purpose

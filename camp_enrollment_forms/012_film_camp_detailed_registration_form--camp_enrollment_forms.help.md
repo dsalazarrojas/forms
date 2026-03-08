@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for registering participants in a film camp. The purpose of this form is to collect detailed information from each participant, including their personal details, skills, interests, and confirmation of their registration. The form is designed to ensure that all necessary information is collected and verified for the camp's records.
-
-Before proceeding, ensure that you have all the necessary information and attachments required for this form. This form should not be duplicated for the same participant.
-
-</thinking>
-
 # Film Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants in a film camp. It collects detailed information from each participant, including their personal details, skills, and confirmation of their registration.

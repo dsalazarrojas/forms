@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "important_dates_reference_form" is designed to collect information about events or dates that are relevant to the user. This form is intended to be a simple reference guide for users to input and review important dates, such as event names, dates, start and end times, and locations. The form is not meant to be a comprehensive survey or data collection tool but rather a quick reference guide for users to record and recall essential dates. 
 
 </thinking>

@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect information about a customer's sweater preferences. This form likely aims to gather data that can be used to personalize and improve the sweater-making process. The form should be used by customers to provide their input on the style, color, fabric, and other features of the sweater they would prefer. It's essential to ensure that the form fields are clear and straightforward to avoid any confusion for the customer.
-
-To avoid duplication of effort, it's crucial to check if similar forms with similar fields have been created before. This could involve checking existing documentation or form templates within the company. If a similar form exists, consider merging the new form into the existing one instead of creating a new one. This will save time and effort in the long run.
-
-Before creating the form, it's also essential to ensure that all the fields are relevant to the form's purpose. Each field should provide valuable information that contributes to the form's goal of collecting customer preferences. If a field does not contribute significantly to the form's purpose, it may be omitted or modified to make it more relevant.
-
-Considering these factors will help in creating a well-structured and effective form that meets the customer's needs and provides valuable data for the company's decision-making process.
-</thinking>
-
 # Sweater Preference Survey - Help Guide
 ## Purpose
 

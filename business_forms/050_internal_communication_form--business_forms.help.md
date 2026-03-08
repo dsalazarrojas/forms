@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internal_communication_form - Help Guide
 ## Purpose
 This form is designed for internal communication within your organization. It allows you to share feedback, updates, and internal communications with your team, colleagues, or superiors. The form is divided into sections to help you categorize and manage your internal messages effectively.

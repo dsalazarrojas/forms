@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-The "Education Quality Complaint Form" is a tool used by students, staff, and faculty to report issues or complaints related to the quality of service provided by the education institution. This form serves as a means to gather feedback and suggestions for improvement, ensuring that the institution can address and rectify any problems promptly. 
-
-The goal is not to repeat or duplicate complaints, so users are requested to report only new and unique issues. Before filling this form, please ensure that you have not already reported the issue and that it's not a part of an ongoing discussion or resolution attempt.
-
-</thinking>
-
 # Education Quality Complaint Form - Help Guide
 
 ## Purpose

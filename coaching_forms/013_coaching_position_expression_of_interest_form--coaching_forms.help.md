@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help us understand your expression of interest in a coaching position. Please ensure that you have a strong interest in the position and are not simply applying for the sake of applying. We will review each application carefully, and only consider applicants who meet the minimum requirements for the position.
-</thinking>
-
 # Coaching Position Expression Of Interest Form - Help Guide
 ## Purpose
 This form is designed to help us assess your eligibility and interest in the coaching position. Please complete the form carefully, making sure to provide accurate and complete information.

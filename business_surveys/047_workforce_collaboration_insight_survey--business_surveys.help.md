@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from team members about their collaboration experiences and challenges within their team. The purpose of this form is to provide insights into the current state of collaboration within the team, identify areas of improvement, and suggest ways to enhance team collaboration. This form will be used to collect data on team member demographics, collaboration frequency, effectiveness, and challenges, as well as tools and opportunities for improvement.
-
-</thinking>
-
 # Workforce Collaboration Insight Survey - Help Guide
 ## Purpose
 This survey is designed to gather insights into team collaboration experiences and challenges to improve team performance.

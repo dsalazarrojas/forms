@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect sensitive information from users, such as personal details and declaration of authenticity. It is crucial that users understand the purpose and requirements of this form to provide accurate and complete information. Please ensure you're familiar with this form before proceeding. If you've filled out this form before, please review the changes and updates before resubmitting. If you're unsure about any field, please contact the relevant authority for assistance.</thinking>
-
 # declaration_of_authenticity_form - Help Guide
 ## Purpose
 This form is for users to declare their authenticity and provide personal details for verification purposes.

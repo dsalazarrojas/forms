@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect documentation notes on various aspects of the business process or product. The goal is to assess the clarity and usefulness of the documentation. The answers to this form will help in identifying areas that require improvement and inform further development.
-The form is divided into several sections, each with multiple fields. To complete this form, you will need to review each field carefully and provide accurate information.
-</thinking>
-
 # documentation_notes_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and documentation notes on business processes or products. The collected data will help in identifying areas that require improvement and inform further development.

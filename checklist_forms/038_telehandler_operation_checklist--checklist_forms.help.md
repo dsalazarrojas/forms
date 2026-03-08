@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used to record and track information related to telehandler operations on construction sites. The purpose of the form is to gather data on specific telehandler activities, including the site where the operation took place, the type of telehandler used, and other relevant details such as the start and end times of the operation and the number of operators and observers involved. This form may also be used to track the status of the operation and any comments or notes that need to be recorded.
-
-Before proceeding, ensure that the form is not being duplicated for the same operation. If it is, the most up-to-date information should be reviewed and updated accordingly.
-
-This form is likely to be used by operations teams or site managers to efficiently track and manage their telehandler operations.
-
-</thinking>
-
 # Telehandler Operation Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about telehandler operations on construction sites. It includes fields for key details such as operation date, start and end times, site area, number of operators and observers, and supervisor contact information. The form also includes a status field to track the current status of the operation and a comments section for any additional notes or comments.

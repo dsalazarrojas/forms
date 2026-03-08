@@ -1,14 +1,3 @@
-<thinking> 
-The Automation Challenges In Manufacturing Survey form is a data collection tool designed to gather information on the current state of automation in manufacturing industries. It is intended for companies that have already implemented some form of automation within their production processes. The form is used to assess the degree of automation, identify key challenges, and explore potential future investments and priorities.
-
-This form is not meant for companies that have not yet started with automation or have a completely manual production process.
-
-Before filling out this form, please ensure that you have access to accurate and up-to-date information about your company's current automation level, challenges, and investment plans. Your input will help us better understand the manufacturing industry's needs and challenges related to automation.
-
-The form will take you approximately 10-15 minutes to complete. Please answer honestly, and do not worry if some questions do not apply to your company.
-
-</thinking>
-
 # Automation Challenges In Manufacturing Survey - Help Guide
 ## Purpose
 This form aims to gather information on the current state of automation in manufacturing industries, identifying key challenges, and exploring potential future investments and priorities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Harassment Report Intake Form - Help Guide
 
 ## Purpose

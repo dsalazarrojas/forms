@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the current state and progress of various aspects of an organization's Information Security Management System (ISMS). It is designed to gather information from team leads, assess the status of controls, and track the completion of ISMS-related tasks. This form should not be used for duplicate or redundant purposes; it is a single assessment tool for evaluating ISMS maturity levels and progress.
-</thinking>
-
 # ISMS Assessment Checklist - Help Guide
 ## Purpose
 The ISMS Assessment Checklist is a tool used to evaluate the Information Security Management System (ISMS) of an organization. It consists of a series of questions and fields that assess the current state and progress of various aspects of ISMS.

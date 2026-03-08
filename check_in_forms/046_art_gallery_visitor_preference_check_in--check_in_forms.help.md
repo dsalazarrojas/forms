@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather visitor preferences and feedback for the Art Gallery. It's meant to be used when visitors arrive at the gallery to check in and provide information about their visit. This form should not be used for other purposes or repeated instances of the same visitor check in.
-
-This form is designed to gather information such as the visitor's name, contact email, purpose of visit, interests, whether they want to receive updates, and their preferred contact method. It also allows visitors to provide feedback about their experience and any additional requests they may have.
-
-</thinking>
-
 # Art Gallery Visitor Preference Check In - Help Guide
 ## Purpose
 The Art Gallery Visitor Preference Check In form is a simple form designed to gather visitor information and preferences for the art gallery. It's intended to be completed by visitors when they arrive at the gallery.

@@ -1,9 +1,3 @@
-<thinking>
-
-Internal notes: The Sugaring Intake Form is likely designed for individuals who are considering or have undergone sugar mapping surgery, which involves using a sugar solution to create a temporary barrier around the eyes to prevent scarring from cataracts or other eye conditions. The form appears to collect various types of medical history, contact information, and potential allergies. However, there might be some duplication in the medical history sections, which could be optimized for better usability. Before completing this form, please ensure you're not duplicating information that has already been recorded, and if you're unsure about any of the questions, please consult the provided instructions.
-
-</thinking>
-
 # Sugaring Intake Form - Help Guide
 ## Purpose
 The Sugaring Intake Form is a medical history questionnaire designed to gather information about your medical background, contact information, and potential allergies. This form is essential for your safety and effective treatment.

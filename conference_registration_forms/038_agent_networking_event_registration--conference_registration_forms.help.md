@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering attendees for an Agent Networking Event. The form is used to gather information from attendees, including their full name, contact email, and networking goals. The form also inquires about any dietary requirements, special requests, and sessions of interest. The purpose of this form is to collect attendee information for event organization and communication purposes. It should not be used for any other purpose.
-</thinking>
-
 # Agent Networking Event Registration - Help Guide
 ## Purpose
 This form is used to register attendees for the Agent Networking Event. Please fill out this form to provide your information and let us know about your networking goals and any special requirements.

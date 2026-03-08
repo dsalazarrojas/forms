@@ -1,7 +1,3 @@
-<thinking>
-This form is used by operations teams to gather feedback on the progress and outcomes of specific business operations. The feedback gathered will help to identify areas of improvement and optimize future operations. Before proceeding, please ensure that this form is relevant to your current operation and that you have not already submitted feedback on this operation. Please note that this form should not be used for general operations or to provide unsolicited feedback.
-</thinking>
-
 # Operations Transformation Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...to ensure this form is used correctly, please review the internal reasoning behind its creation: This form is used to collect consent from individuals or organizations to release sensitive information related to security records, which is critical for maintaining transparency, trust, and legal compliance. It's essential to fill out the form accurately to avoid duplication of efforts and ensure that all required information is provided. Before proceeding, ensure that you have the necessary authority to sign on behalf of the individual or organization.</thinking>
-
 # Security Records Release Form - Help Guide
 ## Purpose
 The Security Records Release Form is a critical document used to collect consent from individuals or organizations to release sensitive information related to security records. This form helps maintain transparency, trust, and legal compliance.

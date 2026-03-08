@@ -1,7 +1,3 @@
-<thinking>
-The Special Education Checklist Form is designed to collect information about a student's special education needs and services. This form helps educators identify students requiring special education support and track the progress of their programs. It is intended for use by teachers, counselors, and other educational professionals to assess and document student needs.
-</thinking>
-
 # Special Education Checklist Form - Help Guide
 ## Purpose
 The Special Education Checklist Form is a tool used to gather information about students who require special education support. It helps educators identify student needs, track progress, and document services provided.

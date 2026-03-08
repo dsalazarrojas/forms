@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Reporting Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients on the progress of ongoing projects. It's used to track key performance metrics, milestones, and deliverables. This form is essential for providing a clear view of the project's status, challenges, and future plans.

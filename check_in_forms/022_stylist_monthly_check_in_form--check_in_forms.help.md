@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow stylists to check in monthly, providing essential information about their current status and any relevant details. This form is used to track and update the stylist's status, ensuring that all necessary information is captured accurately. It's crucial to complete this form accurately to prevent duplication of efforts and ensure that your data is up-to-date.
-</thinking>
-
 # Stylist Monthly Check In Form - Help Guide
 ## Purpose
 The Stylist Monthly Check In Form is a vital tool for stylists to regularly update their status and provide essential information about themselves and their activities. This form helps to ensure accuracy and consistency in tracking and reporting.

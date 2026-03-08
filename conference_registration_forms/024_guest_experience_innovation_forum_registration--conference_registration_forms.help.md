@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from guests who are interested in attending the Guest Experience Innovation Forum. This form is likely used to gather data from attendees before the event, to better understand their interests and requirements, and to facilitate a more personalized experience. The form should be completed by guests who are interested in attending the event, and is not intended for internal use.
 
 </thinking>

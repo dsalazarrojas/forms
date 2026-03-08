@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on the impact of heat waves on businesses. This form is designed to capture data on the effects of heat waves on local and individual needs, as well as coping strategies employed by businesses during such events. It is crucial that the respondents are aware that this form is intended to be used for data collection and analysis purposes only, and not for real-time emergency response or critical decision-making. 
-
-To ensure accurate and relevant responses, please review the form carefully before submitting your answers. If you have already submitted similar responses, please refrain from duplicating your answers and instead, provide new and updated information.
-
-</thinking>
-
 # Impact Of Heat Wave Survey - Help Guide
 ## Purpose
 The Impact of Heat Wave Survey is designed to gather information on the effects of heat waves on businesses, focusing on local and individual needs, coping strategies, and data collection frequency.

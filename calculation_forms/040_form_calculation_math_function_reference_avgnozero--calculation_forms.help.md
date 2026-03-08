@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this form, I'll first break down the purpose and requirements for the form design.
-
-The form is for "Math Function Reference AvgNoZero()". This implies it's a form related to referencing or calculating averages, likely for data analysis or calculation purposes. The fields are designed for users to input numbers to calculate a result. To ensure the guide is clear and concise, I'll focus on providing step-by-step instructions and explanations for each field.
-
-</thinking>
-
 # Form Calculation: Math Function Reference AvgNoZero() - Help Guide
 ## Purpose
 The Form Calculation: Math Function Reference AvgNoZero() is designed for users to input numbers to calculate a reference average that excludes zero values. This form is useful for data analysis and calculation purposes.

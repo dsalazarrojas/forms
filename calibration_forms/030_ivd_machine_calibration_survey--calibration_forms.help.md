@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IVD Machine Calibration Survey - Help Guide
 ## Purpose
 This form is used to collect information about IVD (In Vitro Diagnostic) machine calibration, including the date and frequency of calibration, as well as any comments or observations made during the process.

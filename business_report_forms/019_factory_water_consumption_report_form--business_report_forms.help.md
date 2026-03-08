@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information about the water consumption in a factory. It's meant to be used by factory administrators or operators to report on the water usage, quality, and related parameters over a specific period. 
-The form has a few different types of fields. The "factory_water_consumption_form" field is a text field that will be used to store information about the factory's water consumption. 
-The factory_name field is a text field used to store the name of the factory. 
-The consumption_start_date and consumption_end_date fields are date fields used to store the start and end dates of the consumption period, respectively. 
-The water_usage field is a numeric field used to store the total water usage. 
-The water_usage_unit field is a select field with four options: liters, gallons, m3, and cubic meters. It's used to store the unit of the water usage. 
-The water_temperature field is a numeric field used to store the water temperature. 
-The water_flow field is a numeric field used to store the water flow rate. 
-The pump_status and leak_status fields are select fields that are meant to be multiple select. The options active and inactive are available for both fields and maintenance option is only available for pump_status. 
-The leak_status field has an additional reported option.
-The notes field is a free text field that the user can use for any other information that is not captured by other fields.
-</thinking>
-
 # Factory Water Consumption Report Form - Help Guide
 
 ## Purpose

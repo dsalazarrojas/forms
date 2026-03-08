@@ -1,8 +1,3 @@
-<thinking>
-This form is a "Misplaced Order Complaint Form" intended to collect information from customers when they report their orders as misplaced. The form is designed to gather details about the misplaced order, including customer information, the reason for the misplacement, and any additional order details.
-The form is meant to be completed by customers who have experienced issues with their order delivery. To complete the form, customers should provide their contact information, a description of the misplaced order, and any other relevant details.
-</thinking>
-
 # Misplaced Order Complaint Form - Help Guide
 ## Purpose
 This form is used to report misplaced orders and provide details about the issue.

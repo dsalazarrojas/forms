@@ -1,7 +1,3 @@
-<thinking>
-This form is for chiropractors to report their business performance and metrics on a regular basis. It's essential to fill out this form accurately to provide a clear picture of their business health. To avoid duplication, please ensure that each chiropractor's report is submitted once for each reporting period.
-</thinking>
-
 # Chiropractic Business Report Form - Help Guide
 ## Purpose
 This form is designed to gather data from chiropractors about their business performance and key metrics. The report should be completed for each reporting period (e.g., monthly, quarterly, semi-annually, or annually) and should reflect the most accurate information possible.

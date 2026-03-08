@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial part of our business registration process, and we want to ensure that our end-users understand its purpose and how to complete it accurately. This form is designed to collect information from wholesale accounts to create new accounts in our system. Before creating a new account, please ensure that you don't already have an account with us. If you're unsure or have already registered, please contact our support team for assistance.
-</thinking>
-
 # Wholesale Account Application Form - Help Guide
 ## Purpose
 The Wholesale Account Application Form is a necessary step for wholesale customers to provide their company information to create a new account with us. This form helps us understand your business and verify your identity.

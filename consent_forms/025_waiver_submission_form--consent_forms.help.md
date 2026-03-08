@@ -1,8 +1,3 @@
-<thinking>
-This form is used for collecting information about waivers submitted by participants. The purpose of this form is to collect data on the activity name, date of activity, participant's name, email, phone number, and signature. The form also includes fields for risk acknowledgement, waiver signed status, and date signed. This form is likely used in a business or institutional setting where waivers are required for activities or events.
-
-</thinking>
-
 # Waiver Submission Form - Help Guide
 ## Purpose
 The Waiver Submission Form is designed to collect information about waivers submitted by participants in activities or events. This form gathers data on the activity name, participant's details, and acknowledgement of risks.

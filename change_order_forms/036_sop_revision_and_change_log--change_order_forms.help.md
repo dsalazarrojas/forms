@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about Standard Operating Procedure (SOP) revisions and changes. The purpose of this form is to document and track changes made to existing SOPs, ensuring that all updates are properly recorded and communicated to relevant parties. Before filling out this form, please review the existing SOP and the intended changes to be made. Ensure that the revisions are not already included in the form's current version.
-</thinking>
-
 # SOP Revision And Change Log - Help Guide
 ## Purpose
 This form is intended to document and track changes made to Standard Operating Procedures (SOPs). The purpose of this form is to ensure that all revisions are properly recorded and communicated to relevant parties.

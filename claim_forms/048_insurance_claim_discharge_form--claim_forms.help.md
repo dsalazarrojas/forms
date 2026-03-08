@@ -1,5 +1,3 @@
-<thinking>Insurance Claim Discharge Form is used to document the closure of an insurance claim. This form is used to confirm that a claim has been resolved, and the insurance provider has been released from further liability. This is an internal process, and only authorized personnel should access this form.</thinking>
-
 # Insurance Claim Discharge Form - Help Guide
 ## Purpose
 The Insurance Claim Discharge Form is used to document the closure of an insurance claim. This form is used to confirm that a claim has been resolved and the insurance provider has been released from further liability.

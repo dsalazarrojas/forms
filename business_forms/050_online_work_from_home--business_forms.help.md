@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from remote workers about their work-from-home arrangements. It will be used to gather data on contact details, work schedules, preferences, and other relevant information to facilitate efficient communication and work arrangements between employees and management.
-
-This form is part of the "business_forms" category. It is not a mandatory form for all employees, but rather a tool to help management and HR to get a better understanding of remote workers' needs and arrangements.
-
-The form is divided into several sections, each representing a different aspect of work-from-home information. It is not a lengthy form, and users are expected to provide brief and concise answers to each question.
-
-</thinking>
-
 # Online Work From Home - Help Guide
 ## Purpose
 The Online Work From Home form is designed to collect information from remote workers about their work arrangements, allowing management and HR to better understand their needs and preferences.

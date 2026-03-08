@@ -1,11 +1,3 @@
-<thinking>
-This form is for creating a Condition and Measurement Report. It captures essential information about a condition assessment of an asset. To determine if you should fill out this form, consider whether you are an inspector or a person involved in maintenance, repairs, or asset management. If you are a user who regularly completes reports, ensure you understand the context and purpose of this form to avoid creating duplicate reports.
-
-This form is meant for inspectors, maintenance teams, or asset managers to record the condition assessment of an asset, including its overall condition, operational status, and any defects found. It's also used to document recommendations for repairs and the priority level of these repairs.
-
-The goal is to provide accurate and detailed information to help maintain or repair the asset effectively. Ensure that the fields you fill out accurately and thoroughly reflect the condition of the asset.
-</thinking>
-
 # Condition And Measurement Report - Help Guide
 
 ## Purpose

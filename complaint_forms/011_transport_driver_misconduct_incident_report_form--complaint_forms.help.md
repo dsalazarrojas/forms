@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to report incidents of misconduct by transport drivers. It is designed to collect information about the incident, including the date and time it occurred, the details of the incident, and any actions taken as a result. Before filling out this form, please ensure that the incident is not already being investigated or reported elsewhere. It is essential to report all incidents, including minor ones, to ensure that the transport department can investigate and take necessary actions to maintain a safe and secure transport service.</thinking>
-
 # Transport Driver Misconduct Incident Report Form - Help Guide
 ## Purpose
 The Transport Driver Misconduct Incident Report Form is used to report incidents of misconduct by transport drivers. The form collects information about the incident, including its date and time, details, and any actions taken as a result.

@@ -1,6 +1,4 @@
-# <thinking>...checking for form purpose and non-duplication...</thinking>
-
-The form "Mortgage Interest Rate Complaint Form" is designed to collect information from users regarding issues or concerns they have with their mortgage interest rates. This form is intended for users to provide details about their experiences, including the description of the issue, the mortgage rate involved, and their contact information.
+# The form "Mortgage Interest Rate Complaint Form" is designed to collect information from users regarding issues or concerns they have with their mortgage interest rates. This form is intended for users to provide details about their experiences, including the description of the issue, the mortgage rate involved, and their contact information.
 
 To complete this form, follow these steps:
 

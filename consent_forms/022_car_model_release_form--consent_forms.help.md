@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Car Model Release Form, we need to understand that this form is used to obtain consent from the owner of a car model for the use of images of the car in various media channels. The form is designed to be completed by the owner, and its purpose is to grant permission for the use of their car model image. The owner's consent is obtained through a series of questions that cover their personal information, vehicle details, and the intended use of the image. This form helps to ensure that the owner is aware of how their car model image will be used and to provide them with an opportunity to decline if they are not comfortable with it.
-</thinking>
-
 # Car Model Release Form - Help Guide
 ## Purpose
 The Car Model Release Form is used to obtain consent from the owner of a car model for the use of images of the car in various media channels.

@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the "Treasury Satisfaction Benchmark Survey" form. The form is designed to collect feedback and satisfaction data from users about the treasury operations within an organization. The survey is meant to be completed by users who have experience with treasury operations, such as cash management, accounting, and risk management. 
-
-By providing this information, the treasury team can gain valuable insights to improve their operations and services. This form is not a mandatory requirement, and responses will be kept anonymous unless selected otherwise.
-
-Please note that this form is part of a larger effort to gather user feedback and improve the overall user experience.
-
-</thinking>
-
 # Treasury Satisfaction Benchmark Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data from users about the treasury operations. It is meant to help the treasury team gain insights to improve their services and operations.

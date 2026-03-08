@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to consider the purpose and structure of the form as per the provided YAML fields. The form appears to be designed to gather information about team travel, including team details, travel dates, travel types, travel purposes, team leaders, travel locations, travel length, travel cost, and emergency contact information.
-
-The form has 12 fields in total, each with a unique name, label, and type. Some fields are required, while others are optional. The fields can be grouped into categories such as "Team Details", "Travel Dates and Locations", "Travel Information", and "Additional Info".
-
-</thinking>
-
 # Team Travel Organization Survey - Help Guide
 ## Purpose
 This form is designed to gather information about team travel, including details about the team, travel dates, travel types, travel purposes, team leaders, travel locations, and other relevant information. This information will be used to facilitate organization and coordination of team travel.

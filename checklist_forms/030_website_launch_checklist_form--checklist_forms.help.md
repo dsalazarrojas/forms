@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and record the launch status and details of a website. It's a simple checklist form that captures essential information to ensure a smooth and organized launch process. The form is designed to be flexible and adaptable to the specific needs of the users, with optional fields for each section. The form's fields are chosen based on common practices and best-effort understanding of the industry standards, but might not cover every single scenario.
-</thinking>
-
 # website_launch_checklist_form - Help Guide
 ## Purpose
 This form is used to track and record the launch status and details of a website.

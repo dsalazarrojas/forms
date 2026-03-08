@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive Landlord Inspection Form, likely used for property management, real estate, or facilities management purposes. The form has 12 fields, each asking for specific information such as appliances, heating systems, plumbing systems, electrical systems, fire suppression and safety features, emergency contact information, and property details. The form's fields seem to be designed to assess the condition and safety of a property, making it suitable for use cases where landlords or property managers need to evaluate a property's suitability for rental or purchase.
-</thinking>
-
 # Landlord Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the condition and safety features of a property, allowing you to assess its suitability for rental or purchase.

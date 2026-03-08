@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # seminar_check_in_form - Help Guide

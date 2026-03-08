@@ -1,15 +1,3 @@
-<thinking>
-The "Prototype Inspection Checklist" form is designed to collect inspection data from stakeholders involved in the prototype development process. This form is used to evaluate the state of a prototype, gather information on its status, and track the outcomes of inspections. The form is meant to be used by development teams, QA teams, and other stakeholders to ensure that the prototype is properly inspected and documented. To ensure consistency and accuracy, please make sure to review and fill out this form thoroughly.
-
-The form can be filled out in multiple pages, and each page corresponds to a specific section of the form. Please make sure to complete each section carefully.
-
-Before you start, make sure you understand the purpose and use case of this form in your organization's product development process.
-
-The form is designed to be used by multiple teams, so please be aware of the options and answers provided by other stakeholders.
-
-This form can be used for multiple prototypes, so make sure to fill out the correct prototype version and iteration number when applicable.
-</thinking>
-
 # Prototype Inspection Checklist - Help Guide
 ## Purpose
 The "Prototype Inspection Checklist" form is used to collect inspection data from stakeholders involved in the prototype development process. It helps evaluate the state of a prototype, track its status, and document the outcomes of inspections.

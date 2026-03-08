@@ -1,7 +1,3 @@
-<thinking>
-The form is meant for campers and their parents to provide information about their family and financial situation in order to be considered for a scholarship. The form will help us assess the eligibility of applicants for the summer camp program. This form should be filled out by the parent or guardian of the child. The purpose of this form is to gather relevant information that will be used to determine the eligibility of the camper for the summer camp program. Please make sure to fill out the form completely and accurately as the information provided will be used to determine the suitability of the application.
-</thinking>
-
 # Summer Camp Scholarship Application Form - Help Guide
 ## Purpose
 This form is for campers and their parents to provide information necessary for a summer camp scholarship application. The form helps us evaluate the eligibility of applicants for our summer camp program.

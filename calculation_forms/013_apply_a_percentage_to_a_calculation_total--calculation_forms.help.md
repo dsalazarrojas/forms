@@ -1,10 +1,3 @@
-<thinking>
-This form allows users to apply a percentage to a calculation total, which is useful for tasks such as calculating discounts, taxes, or fees for an item or a group of items. The form takes into account the base amount, percentage type, percentage value, and other relevant factors to provide an accurate calculation result. This form is designed to support various business needs, such as inventory management, invoicing, or accounting. 
-
-To ensure that users understand the form's purpose and usage, the following instructions and field explanations will be provided.
-
-</thinking>
-
 # Apply A Percentage To A Calculation Total - Help Guide
 ## Purpose
 This form is designed to calculate the total amount of an item after applying a percentage, allowing users to easily apply discounts, taxes, or fees to a base amount.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Innovation Adoption Survey - Help Guide
 
 ## Purpose

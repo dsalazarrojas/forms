@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Cheesecake Order Form", I need to clarify the form's purpose and ensure that there's no duplication in the information provided. The form's purpose is to collect order details from customers for a cheesecake purchase. It's designed to collect various relevant information, including customer's contact details (name, email, and phone number), order information (order date, delivery/pickup preference), cheesecake flavor, size, and quantity. Customers can also choose to add toppings, specify any dietary requirements, and opt for gift wrapping or special messages. The form is meant to cater to diverse customer needs and ensure accurate order placement. I will ensure that the form's fields and options are explained clearly, avoiding any duplication in the explanations.
-
-</thinking>
-
 # Cheesecake Order Form - Help Guide
 ## Purpose
 This form is designed to collect order details for a cheesecake purchase. It ensures that customers provide accurate and relevant information to place their orders successfully.

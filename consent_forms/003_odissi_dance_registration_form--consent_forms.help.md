@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register individuals for the Odissi dance program. The purpose of this form is to gather essential information from prospective students, including their personal details, emergency contact information, and dance program preferences. The form is designed to be completed by the individual registering for the program. Before starting, please ensure that you have read and understood the terms and conditions of the program.
-</thinking>
-
 # Odissi Dance Registration Form - Help Guide
 ## Purpose
 The Odissi Dance Registration Form is used to register individuals for the Odissi dance program. This form requires personal details, emergency contact information, and dance program preferences.

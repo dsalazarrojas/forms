@@ -1,5 +1,3 @@
-<thinking>As a business survey, this form is designed to gather information about an NGO's digital transformation, which involves evaluating their current digital landscape, identifying areas for improvement, and proposing solutions. This form is intended for NGOs who are looking to modernize their digital tools and skills to better serve their constituents. By answering this survey, you will help us better understand the challenges and opportunities faced by NGOs in the digital space, and enable us to provide more tailored advice and support.</thinking>
-
 # NGO Digital Transformation Study - Help Guide
 ## Purpose
 The NGO Digital Transformation Study aims to gather information about the digital transformation of your organization, including your current digital tools, skills, and needs.

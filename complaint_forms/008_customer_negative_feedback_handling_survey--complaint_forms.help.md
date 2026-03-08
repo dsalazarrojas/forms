@@ -1,5 +1,3 @@
-<thinking>As we aim to provide exceptional customer service, we need to collect and address customer complaints efficiently. This form is designed to gather information about customer negative feedback, which will help us understand their concerns and take necessary steps to resolve issues and improve our services. Before filling out this form, please check with our customer support team to ensure that your issue hasn't been reported previously. If it has, you'll be directed to the relevant thread for further discussion.</thinking>
-
 # Customer Negative Feedback Handling Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about customer complaints and provide a channel for feedback handling.

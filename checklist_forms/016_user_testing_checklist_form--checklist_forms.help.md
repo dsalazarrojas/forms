@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to facilitate user testing, which is an essential process in software development, product testing, and user experience (UX) research. The form gathers information from users who participate in testing sessions, providing valuable feedback and insights to improve the product or application being tested. The form's purpose is to capture relevant details about the user's testing experience, including their background, testing environment, objectives, test session, and feedback. The form's structure and fields are based on common testing methodologies and best practices in the field.
-The form is a self-explanatory template, meaning that the fields are designed to be clear and easy to understand, and the questions are straightforward. Each section and field is carefully crafted to gather specific information without requiring extensive knowledge of testing terminology or procedures.
-By completing this form, users will be able to:
-- Describe their background and experience with the product or application being tested
-- Provide details about their testing environment and setup
-- Outline the objectives of the testing session
-- Document the test session and any notable events or issues that arose
-- Leave feedback and comments for the testing team
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # User Testing Checklist Form - Help Guide
 ## Purpose
 

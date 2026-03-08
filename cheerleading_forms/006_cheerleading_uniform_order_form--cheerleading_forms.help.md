@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for customers who want to order custom-made cheerleading uniforms for their teams. The form will be used by team managers or administrators to gather details about the order, including team information, uniform style, color scheme, and shipping information. This guide will help users understand what each field is for and how to complete it correctly.
-
-</thinking>
-
 # Cheerleading Uniform Order Form - Help Guide
 ## Purpose
 This form is used for team managers or administrators to collect information for custom-made cheerleading uniform orders. It's essential to fill it out accurately to ensure timely and correct delivery of uniforms.

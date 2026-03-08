@@ -1,12 +1,3 @@
-<thinking>
-This form is a feedback survey for global reviewers to provide their feedback on the review process. This form is intended to gather information on the review type, the type of reviewer, the reviewer's name, the reviewer's company, and other relevant details such as feedback, satisfaction level, review date, review time, email, phone number, and comments. Before completing this form, please make sure that it's a global reviewer feedback survey and not a duplicate form. This form should only be filled out by global reviewers who are providing feedback on the review process.
-
-This form is a one-page form and is meant to be completed in one sitting. It is designed to gather information for business purposes and is not for personal use.
-
-This form contains 11 fields and each field has a specific purpose and required status.
-
-</thinking>
-
 # Global Reviewer Feedback Survey - Help Guide
 ## Purpose
 This form is designed for global reviewers to provide their feedback on the review process.

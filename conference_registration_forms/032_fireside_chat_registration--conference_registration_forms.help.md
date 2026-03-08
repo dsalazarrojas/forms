@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for a fireside chat conference registration process. The form has several fields that collect data from users about their interests, preferences, and contact information. Users will be asked to provide their title, interests in talks, engagement preferences, topic interest, registration type, topic interest details, speaker details (if registering as a speaker), attendee details, email, phone number, and confirm their email address. Some fields are optional, but providing accurate information will help the conference organizers to tailor the event to the attendees' needs and provide a smooth experience.
-To avoid duplication of effort, please note that this form is designed for conference registration, and users should only fill it out once per registration.
-</thinking>
-
 # Fireside Chat Registration - Help Guide
 
 ## Purpose

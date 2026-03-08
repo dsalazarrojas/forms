@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a checklist for inspecting dormitories. It's meant to be used by staff or maintenance personnel to assess the condition of each room, identify any issues that need attention, and record notes and observations. The form is not strictly required but is used for quality assurance and record-keeping purposes.
-
-It's worth noting that this form doesn't have any conditional logic or dependencies between fields, which means that all fields are presented to the user at all times, regardless of previous answers.
-
-The field types and options are self-explanatory, except for "room_condition" which seems to be a free-text field. In this case, the intention is likely to capture any observations or comments that the user may have about the room's condition.
-
-</thinking>
-
 # Dormitory Inspection Checklist - Help Guide
 ## Purpose
 This form is used to assess the condition of a dormitory room and record any issues or observations.

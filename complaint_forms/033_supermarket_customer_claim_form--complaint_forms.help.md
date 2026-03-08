@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from customers who have made a complaint or issue with their purchase or experience at a supermarket. The form will help us to understand the nature of the issue, identify the supermarket involved, and track the status of the resolution. We will use this information to improve our services and respond to customer concerns effectively. To ensure that we don't miss any critical information, please make sure to fill out this form completely and accurately. If you have already filled out a similar form, please do not repeat the information. 
-</thinking>
-
 # Supermarket Customer Claim Form - Help Guide
 ## Purpose
 This form is designed to gather information about your experience at a supermarket. Please fill out the form completely and accurately to help us understand and address your issue.

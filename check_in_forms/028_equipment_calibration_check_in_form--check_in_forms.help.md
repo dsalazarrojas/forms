@@ -1,9 +1,3 @@
-<thinking>
-This form is used to check in equipment after it has undergone calibration. The purpose of this form is to verify that the equipment is ready for use after a calibration process has taken place. This form is likely to be used by maintenance teams or equipment managers to track and verify the status of equipment calibrations.
-
-Before creating this help guide, I've reviewed the form and its fields to ensure that the instructions are clear, concise, and practical. I've also considered the potential fields and their purposes to provide a comprehensive explanation for each field.
-</thinking>
-
 # equipment_calibration_check_in_form - Help Guide
 ## Purpose
 The equipment_calibration_check_in_form is used to record the check-in of equipment after it has undergone calibration. The form is completed by maintenance teams or equipment managers to verify that the equipment is ready for use.

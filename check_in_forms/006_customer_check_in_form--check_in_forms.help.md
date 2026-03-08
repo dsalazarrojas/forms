@@ -1,16 +1,3 @@
-<thinking>
-This form is for checking in customers, and the purpose of this guide is to help users understand how to fill out the form correctly to provide accurate and relevant information. The form is not intended for any other purpose.
-
-Before proceeding, let's review the form structure:
-
-* The form is divided into several sections, but there is no explicit sectioning or grouping within the form.
-* The form contains text fields for various customer information, including names, reason for visit, and contact information.
-* There are no dropdown or select fields in the form, so the "options" field is not used.
-
-The purpose of this form is to collect basic customer information for checking in customers. The form is not intended for any other purpose, such as creating or editing customer records.
-
-</thinking>
-
 # customer_check_in_form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic customer information for checking in customers.

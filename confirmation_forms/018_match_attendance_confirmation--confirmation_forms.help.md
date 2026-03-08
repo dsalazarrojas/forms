@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to confirm attendance to a match, likely between two teams. The purpose of this form is to gather information about the teams and the game details. 
-
-This form is not meant to be used for other purposes, such as creating a new match or editing an existing one. 
-
-Before submitting the form, please ensure that you are confirming the correct attendance for a match. If the match has already been confirmed, please do not submit this form again. 
-
-</thinking>
-
 # Match Attendance Confirmation - Help Guide
 ## Purpose
 This form is used to confirm the attendance of two teams to a match.

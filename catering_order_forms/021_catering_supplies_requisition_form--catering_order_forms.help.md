@@ -1,7 +1,3 @@
-<thinking>
-This form is used for catering suppliers to submit a requisition for the supplies they need. This requisition form is required to be completed accurately to ensure that the supplies are delivered on time and in the correct quantities. Please note that all fields are required unless otherwise noted. Please ensure that you enter accurate information for the following fields: Requestor Name, Email Address, Phone Number, Department or Business Unit, Requisition Date, Required By Date, Delivery Location, and Budget Code or Account Number, Event or Purpose, Item Name, Item Category, Quantity Needed, Unit of Measurement, and Approval Status.
-</thinking>
-
 # Catering Supplies Requisition Form - Help Guide
 ## Purpose
 The Catering Supplies Requisition Form is used to request and track catering supplies from suppliers. This form will help us to gather all the necessary information to efficiently process and deliver the supplies you need.

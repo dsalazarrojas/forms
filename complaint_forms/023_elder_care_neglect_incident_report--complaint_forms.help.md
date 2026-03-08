@@ -1,7 +1,3 @@
-<thinking>
-We should first understand the purpose of this form is to document incidents of elder care neglect, which is a serious issue that requires thorough reporting to ensure proper investigation and follow-up actions. This form should only be filled out when an incident has actually occurred or is suspected to have occurred, and not for the sake of reporting a hypothetical or potential situation. Before filling out this form, ensure that an incident has indeed taken place and that you are filling it out for a legitimate reason. If the report is found to be unfounded or a duplicate, it may lead to unnecessary resource allocation and potential miscommunication.
-</thinking>
-
 # Elder Care Neglect Incident Report - Help Guide
 ## Purpose
 The Elder Care Neglect Incident Report form is designed to document incidents of elder care neglect in a structured and detailed manner. This form is meant to be filled out by a person witnessing or reporting an incident related to neglect or suboptimal care of an elderly individual.

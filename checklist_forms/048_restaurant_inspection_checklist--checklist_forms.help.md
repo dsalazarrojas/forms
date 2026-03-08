@@ -1,5 +1,3 @@
-<thinking>Checking if the form is a restaurant inspection checklist to be used in conjunction with the provided YAML fields, I found the following fields: restaurant address, restaurant name, business phone, business email, business hours, emergency contact name, emergency contact phone, business insurance, food services, other food services, restroom conditions, trash and receptacles, fire exit signs, fire extinguisher, emergency exit, electrical, and water supply. All fields are text, date, email, select multiple, select one, or note types. None of the fields appear to be duplicated. The form seems to be focused on inspecting or verifying information about a restaurant's physical conditions and operations, which could be used for health and safety purposes or to ensure compliance with regulatory requirements. I will now create a help guide based on the provided YAML fields.</thinking>
-
 # Restaurant Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to inspect or verify information about a restaurant's physical conditions and operations. It will help ensure that the restaurant is compliant with health and safety regulations and standards.

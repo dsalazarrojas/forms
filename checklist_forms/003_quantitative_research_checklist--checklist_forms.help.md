@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about quantitative research projects, specifically about general information, project readiness, timeline, study steps, data collection, data review, workflows, and other related aspects. It is intended for use by researchers, scientists, and project managers to ensure that their projects are properly set up and executed. The form is not affiliated with any specific form platforms and is an original adaptation of public survey topic metadata.
-
-This form is meant to be a checklist-style form, where users can select from provided options or enter free-text answers to various questions. The form has multiple pages, each focusing on a different topic. 
-
-Before completing the form, please ensure you have a clear understanding of the project's context and requirements. The form is designed to be used as a guide, but it is not a substitute for professional judgment or expert advice.
-
-Please note that the form is not a one-size-fits-all solution and might require additional questions or customizations to suit specific project needs. If you need help or have questions, contact form@gic.mx.
-
-</thinking>
-
 # Quantitative Research Checklist - Help Guide
 ## Purpose
 The Quantitative Research Checklist is a form designed to help researchers and project managers gather and organize information about quantitative research projects.

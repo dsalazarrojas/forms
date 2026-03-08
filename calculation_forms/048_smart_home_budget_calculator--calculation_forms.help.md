@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to guide users through a step-by-step process to input their project details and calculate their smart home budget. The form is intended to be a simple and intuitive tool for users to determine their budget for a smart home project. The purpose of this form is to gather information about the project and its expected duration. This form will help users to calculate their budget based on the project duration. The form is not affiliated with any specific platform, but rather a creative adaptation of public survey metadata.
-
-This form does not have any dependencies or references to any other form platforms, and it is an original creation. The form's metadata is released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, which allows for free use, modification, and distribution of the form, as long as the original creator is credited.
-</thinking>
-
 # Smart Home Budget Calculator - Help Guide
 
 ## Purpose

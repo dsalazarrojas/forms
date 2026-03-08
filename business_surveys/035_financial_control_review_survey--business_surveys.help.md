@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to help business owners review and evaluate their financial control measures, assess potential financial risks, and identify areas for improvement. It is a critical part of the financial management process, as it enables businesses to ensure they are in compliance with financial regulations and laws. Before starting the survey, please ensure that you are familiar with the relevant financial regulations and laws applicable to your business.
 
 ## Financial Control Review Survey - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be used by business stakeholders to assess the accuracy of financial forecasts. The Financial Forecast Accuracy Survey aims to gauge the level of confidence in forecast accuracy, the causes of forecast variance, and the potential financial impact of inaccurate forecasts. The survey is likely to be used by finance teams or business leaders to evaluate and improve their forecasting processes.
-</thinking>
-
 # Financial Forecast Accuracy Survey - Help Guide
 ## Purpose
 This survey is designed to help finance teams and business leaders evaluate the accuracy of their financial forecasts. It asks about the level of confidence in forecast accuracy, the causes of forecast variance, and the potential financial impact of inaccurate forecasts.

@@ -1,8 +1,3 @@
-<thinking>
-The Therapy Liability And Payment Form is designed to collect information from clients for therapy services. This form is used to gather details such as client name, contact information, and payment details. It is essential to provide accurate and complete information to ensure smooth communication and financial processing.
-Before starting, please note that you may have filled out a similar form in the past. If that's the case, you can try to find and re-use the information you provided earlier to save time. Please make sure to review the form carefully and update any changes as needed.
-</thinking>
-
 # Therapy Liability And Payment Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for therapy services. It includes details such as client name, contact information, and payment details.

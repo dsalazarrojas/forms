@@ -1,10 +1,3 @@
-<thinking>
-
-This form is designed to assess the condition and safety of a trailer, used for various industries like logistics, transportation, and manufacturing. Its primary goal is to ensure that the trailer is in good condition to prevent accidents and ensure smooth operations. By following this guide, you'll be able to navigate through the form efficiently and effectively.
-
-
-</thinking>
-
 # Trailer Inspection Form - Help Guide
 ## Purpose
 The Trailer Inspection Form is used to evaluate the condition of a trailer, its systems, and overall safety. It helps identify any potential issues that could impact its performance or cause accidents.

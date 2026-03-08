@@ -1,6 +1,3 @@
-<thinking> 
-This form is for obtaining consent from individuals related to the publication of treasury analysis data. It ensures that the individuals understand their rights and responsibilities regarding the data they are providing. The form should only be completed by authorized individuals and is not intended for non-authorized users. Please ensure that this form is not completed in duplicate, and that all fields are filled out accurately and in full. 
-</thinking>
 # Treasury Analysis Publication Consent Form - Help Guide
 ## Purpose
 The Treasury Analysis Publication Consent Form is used to obtain consent from individuals before publishing their treasury analysis data. This form is a legal document that ensures the individuals understand their rights and responsibilities related to the data they are providing.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information about faculty collaboration and meeting details. To ensure relevance and non-duplication, please fill out the form accurately and thoroughly. If you've already registered for this form in the past, please do not register again. This form is intended to be completed by faculty members who are interested in collaboration and want to share their information with colleagues. </thinking>
-
 # Faculty Collaboration Accelerator Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from faculty members about their collaboration and meeting details. This information will be used to facilitate communication and collaboration among faculty members.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a comprehensive Business Automation Checklist that aims to assess the current state of business process automation within an organization. The form is designed to help businesses evaluate their automation maturity, identify areas for improvement, and prioritize efforts to achieve maximum efficiency. It's a crucial tool for companies looking to streamline their operations, reduce manual tasks, and boost productivity. 
-
-Before filling out this form, please ensure you have a clear understanding of your company's current automation status, and be prepared to provide specific details about each area being assessed.
-
-</thinking>
-
 # Business Automation Checklist - Help Guide
 ## Purpose
 The Business Automation Checklist is a self-assessment form designed to gauge your company's current level of automation in various areas, identify gaps and challenges, and provide a roadmap for achieving maximum automation maturity. This form will help you:

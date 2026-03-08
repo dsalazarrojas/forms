@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information from attendees of a supply chain digitalization conference. The form is used to collect demographic information from users about their role in the supply chain, their company details, and their registration preferences. This form is likely used for registration for the conference, and the data collected will be used to tailor the conference content and organization to the attendees' needs and interests.
-
-To avoid duplication, ensure that you are not already registered for the conference. If you are unsure about your role in the supply chain or any other information, please refer to your company's supply chain department or your supervisor for clarification.
-
-Before submitting the form, ensure that all required fields are filled in accurately and completely. Some fields may have specific formats or options that need to be selected.
-
-Please note that some fields are marked as "optional" but may still be required for specific purposes, such as social media links.
-</thinking>
-
 # Supply Chain Digitalization Registration Form - Help Guide
 ## Purpose
 This form is for attendees to provide information about themselves and their companies for the Supply Chain Digitalization Conference. This information will be used to tailor the conference content and organization to your needs and interests.

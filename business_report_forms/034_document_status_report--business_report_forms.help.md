@@ -1,19 +1,3 @@
-<thinking>
-This form appears to be a document status report form, likely used in a business or project management context. The form allows users to input various details about a document, including its status, owner, deadline, comments, follow-up actions, and more. The form seems to be designed for tracking and managing documents over time, possibly for project tracking or reporting purposes.
-
-Before proceeding, I'll review the form structure and contents to ensure that the help guide is accurate and relevant. The form has 25 fields, including various text, select, date, and email fields.
-
-Upon reviewing the form, I notice that some of the fields, such as "User 1" and "User 2" in the "Document Owner" field, seem to be placeholders or examples. I assume these will be replaced with actual user names.
-
-Here's the internal reasoning:
-
-*   The form purpose is to track and report on document status.
-*   The form is likely used by project managers or administrators to track document progress.
-*   Some fields, such as "Document Type" and "Document Status", may require specific knowledge or context that isn't immediately apparent.
-*   The form has a mix of text, select, date, and email fields, which will require careful explanation to ensure users understand what each field is for.
-
-To create the help guide, I will focus on making the explanations clear, concise, and practical for the end user.</thinking>
-
 # Document Status Report - Help Guide
 ## Purpose
 The Document Status Report form is used to track and report on the status of documents. This form helps project managers and administrators keep up-to-date information on document progress, deadlines, and more.

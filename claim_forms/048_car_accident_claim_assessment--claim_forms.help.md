@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Accident Claim Assessment - Help Guide
 ## Purpose
 This form is used to conduct a thorough assessment of a car accident claim. It gathers information about the claims adjuster, claimant, and accident details to determine the liability, damage, and injury assessment of the claim.

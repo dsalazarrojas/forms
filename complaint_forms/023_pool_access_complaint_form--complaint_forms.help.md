@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "pool_access_complaint_form" is a complaint form used for users to report issues or concerns related to a pool. This form is intended to collect information about the complaint, including the user's name, the pool's ID, the date of the complaint, and a description of the issue. The form also allows users to select a pool manager to assign the complaint to and track the status of the complaint. This form is an important tool for pool administrators to efficiently manage and resolve issues related to the pool.
 
 # pool_access_complaint_form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from property owners or managers about their property's current sustainability performance and areas for improvement. The purpose of this form is to help identify gaps in sustainability practices and provide insights for future improvements. Please ensure that you are completing this form for your own property, and that the information provided is accurate and up-to-date. If you have already completed this form for a similar property, please do not duplicate your efforts. This form will only take a few minutes to complete, and your input will help us better understand the sustainability performance of properties like yours.
-</thinking>
-
 # Property Sustainability Awareness Survey - Help Guide
 ## Purpose
 The Property Sustainability Awareness Survey is designed to gather information about your property's current sustainability performance and identify areas for improvement. This survey will help us understand how sustainable your property is and provide insights for future improvements.

@@ -1,7 +1,3 @@
-<thinking>
-The Tax Filing Checklist Form is used to gather information for tax filing purposes. This form helps users provide essential details about their tax filing status, type, and due date. The fields included in this form are designed to help users navigate the tax filing process efficiently.
-</thinking>
-
 # Tax Filing Checklist Form - Help Guide
 
 ## Purpose

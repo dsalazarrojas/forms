@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback from consultants within the company to identify areas of improvement in the current workflow. The goal is to understand where processes are slowest, what tools are efficient or in need of update, and gather suggestions for improvements. This information will be used to inform decisions on process changes and tool updates. Please complete this form thoroughly and honestly to help us improve our consulting workflow.
-
-</thinking>
-
 # Consulting Workflow Improvement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from consultants on the current workflow, identifying areas of improvement, and suggestions for changes.

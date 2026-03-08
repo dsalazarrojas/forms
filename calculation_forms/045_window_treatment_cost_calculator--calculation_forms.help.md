@@ -1,8 +1,3 @@
-<thinking>
-This form is a Window Treatment Cost Calculator, designed to help users estimate the cost of window treatments such as blinds, shades, or curtains for their windows. It's used by customers to gather information about their window treatment needs, including the room type, fabric type, and delivery preferences. I will review the form's structure and provide a concise, practical guide for end-users, ensuring they understand each field's purpose and how to complete the form correctly.
-
-</thinking>
-
 # Window Treatment Cost Calculator - Help Guide
 ## Purpose
 The Window Treatment Cost Calculator is a tool that helps customers estimate the cost of window treatments for their windows. It collects information about the window's dimensions, room type, fabric type, and delivery preferences to provide an estimated cost.

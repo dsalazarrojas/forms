@@ -1,5 +1,3 @@
-<thinking>Since the form is designed to gather information on logo usage guidelines, it's likely intended for use in a business or marketing context, possibly for a company or organization to gather feedback or data on their brand logo's usage. This form could be used to assess compliance with company branding guidelines, identify potential misuse of the logo, or inform design decisions. It's also possible that the form is used to survey users on their perceptions of logos used by competitors or similar businesses. Given the text-based input fields, the survey might be distributed to a specific group of people, such as employees, customers, or partners. Before proceeding, please ensure that this form aligns with your organization's specific branding and marketing goals.</thinking>
-
 # Logo Usage Guidelines Survey - Help Guide
 ## Purpose
 This form is designed to gather information on logo usage guidelines. It asks a series of questions to help the organization understand how their logo is being used and perceived by different groups.

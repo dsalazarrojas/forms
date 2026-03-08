@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Outpatient Volume Report - Help Guide
 ## Purpose
 The Hospital Outpatient Volume Report is a form used to collect and analyze data about the volume of outpatients in a hospital. This report helps hospital administrators track and manage outpatient visits, appointments, and procedures. By filling out this form, you can provide valuable insights into hospital operations and make informed decisions.

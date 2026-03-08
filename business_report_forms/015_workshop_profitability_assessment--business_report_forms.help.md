@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the profitability of a workshop or training session, allowing organizers to evaluate its financial performance and identify areas for improvement.
-The form should only be completed by authorized personnel who have access to financial data and are familiar with the workshop's business goals.
-To ensure data quality and accuracy, only complete this form for workshops that have already taken place.
-</thinking>
-
 # Workshop Profitability Assessment - Help Guide
 ## Purpose
 This form is used to assess the profitability of a workshop or training session. It helps organizers evaluate its financial performance and identify areas for improvement.

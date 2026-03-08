@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture the consent and information of both the teen and their guardian/parent in the context of a support group. The purpose of this form is to ensure that both parties are aware of their roles, responsibilities, and expectations within the group. It is crucial to complete this form accurately to establish a clear understanding and to maintain a positive and safe environment within the group.
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It was generated using AI and is released under CC BY 4.0, allowing for modifications and use in any way as long as credit is given.
-
-The form contains fields to collect information from both the teen and their guardian/parent, including their relationship with the group, their signatures, and consent. It is essential to complete this form accurately to ensure a smooth and productive experience within the group.
-
-Please note that while the form is designed to be user-friendly, some fields may have specific requirements or implications. Please ensure you understand the purpose and implications of each field before completing the form.
-
-</thinking>
-
 # Teen Support Group Agreement - Help Guide
 ## Purpose
 The Teen Support Group Agreement is a form designed to capture the consent and information of both the teen and their guardian/parent in the context of a support group. It ensures that both parties are aware of their roles, responsibilities, and expectations within the group.

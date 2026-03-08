@@ -1,6 +1,3 @@
-<thinking>
-This form is a business survey used for task prioritization, which aims to help organizations determine the order of tasks to be completed based on their priority. It is likely used in project management or business planning contexts. There may be multiple surveys with this title, so ensure you're completing the correct one. If you're unsure, verify your role's specific tasks and requirements.
-</thinking>
 # task_prioritization_survey - Help Guide
 ## Purpose
 This form is used for task prioritization to help organizations determine the order of tasks to be completed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jurisdiction And Limitation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the primary jurisdiction and limitation affecting a particular decision. The purpose of this survey is to gather data that will help us understand the regulatory context and potential restrictions that impact our business operations.

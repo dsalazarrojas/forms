@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be a foundation inspection request form for a construction or real estate context. The form is likely used by inspectors or assessors to gather information about the condition of a foundation, including various aspects such as concrete inspection, concrete block inspection, foundation walls, footing inspection, waterproofing, and drainage. The form may be used to document the findings of an inspection and provide a report of the inspection. The fields on the form seem to be focused on gathering data about the inspection process, including the inspection report, comments, assigned tools, assigned personnel, and submission details.
-
-The form is not explicitly linked to any specific business logic or proprietary platform, suggesting that it is a generic form created for general use. The fields are primarily text-based, with some select-one options for the foundation inspection report.
-
-The form's purpose is likely to provide a standardized way for inspectors to document their findings and submit reports in a structured format. The form's fields are designed to be completed by the inspector, with some fields requiring text-based input and others having specific options for selection.
-
-To determine the completeness of the form, it would be useful to review the form's fields and their labels. Some fields, such as "comments", "assigned tool", "assigned by", "submitted by", and "submitted at", may not be clearly described, requiring additional context or explanation for their intended use. The form's fields are mostly focused on the inspection process and report, with some fields for submission details.
-
-Overall, the form appears to be a useful tool for inspectors to document their findings and submit reports in a structured format. However, additional context or clarification may be necessary for some fields to ensure accurate and effective completion of the form.
-
-</thinking>
-
 # Foundation Inspection Request Form - Help Guide
 ## Purpose
 The Foundation Inspection Request Form is designed to document the findings of an inspection of a foundation, providing a standardized way to gather and report information about the condition of a foundation.

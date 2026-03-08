@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to make special requests for their stay at the resort. It is used to capture information about the guest's arrival date and time, contact method, and any special requests they may have. The form is not designed to be completed by the guest's family members or other individuals on their behalf.
-</thinking>
-
 # Resort Guest Special Request Check In Form - Help Guide
 ## Purpose
 This form is for guests to make special requests for their stay at the resort. It is used to capture important information about their arrival and contact preferences.

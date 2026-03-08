@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact information and other relevant details from individuals who are interested in strategic cost reduction initiatives. It is intended for use by business contacts, such as companies or individuals seeking to discuss potential partnerships or collaborations. Before filling out this form, please ensure that you have not already contacted our team through another channel, as we may not be able to follow up on duplicate submissions. Please complete this form carefully, as the information provided will be used to initiate further discussions and potential partnerships.
-</thinking>
-
 # Strategic Cost Reduction Contact Form - Help Guide
 ## Purpose
 

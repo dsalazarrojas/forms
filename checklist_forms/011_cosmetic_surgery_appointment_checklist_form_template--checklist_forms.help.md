@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cosmetic Surgery Appointment Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to provide a comprehensive checklist for cosmetic surgery appointments. It captures essential information from the patient, such as contact details, medical history, and medical notes, to facilitate a smooth and efficient surgical process. This form can be used by healthcare professionals to ensure that all necessary information is gathered and documented during the consultation.

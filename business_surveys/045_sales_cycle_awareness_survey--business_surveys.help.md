@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about the awareness and knowledge of sales teams regarding the sales cycle process. The form is used to identify areas where the team may need additional training or support to improve their performance. The questions are designed to be multiple-choice, allowing the team to easily and quickly provide their feedback and insights. This form is not meant to be completed by individuals, but rather by the team as a whole, to get a collective understanding of their strengths and weaknesses in the sales cycle process.
-</thinking>
-
 # Sales Cycle Awareness Survey - Help Guide
 ## Purpose
 The Sales Cycle Awareness Survey is designed to gather information about your team's knowledge and awareness of the sales cycle process. This survey helps us understand your team's strengths and weaknesses, allowing us to provide targeted support and training to improve performance.

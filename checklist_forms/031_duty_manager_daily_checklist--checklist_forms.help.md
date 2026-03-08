@@ -1,7 +1,3 @@
-<thinking>
-The form "duty_manager_daily_checklist" is designed to gather information on the daily tasks and activities of a duty manager. It seems that the form is aimed at collecting relevant details for the duty manager to efficiently manage their daily tasks, which might include tracking the status and priority of tasks, taking notes, and having contact information for potential follow-ups. However, without further internal documentation, I assume the purpose might be to monitor and report daily activities for supervisory or administrative use. This form might be part of a larger workflow or reporting process within the organization, and its usage might be restricted to specific roles or departments. To ensure the correctness of this assumption, it would be ideal to review internal documentation or consult with the form's creators and stakeholders.
-</thinking>
-
 # duty_manager_daily_checklist - Help Guide
 ## Purpose
 The "duty_manager_daily_checklist" form is a tool designed to help duty managers track and manage their daily tasks effectively. It collects information on tasks' status, priority, and other relevant details for supervisory or administrative purposes.

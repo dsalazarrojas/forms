@@ -1,7 +1,3 @@
-<thinking>
-This form, "brand_perception_survey_template", is designed to gauge the initial perceptions of a brand concept. The form aims to collect feedback from end-users, gathering their thoughts on various aspects of the brand, such as its design, messaging, values, uniqueness, price perception, and reputation. The goal is to gain insights into what influences their current perception and whether they are likely to engage further with the brand concept. This form is a public, AI-generated adaptation of a survey template, and its completion is intended to be a collaborative process between the end-user and the form designer. Please ensure that the information collected is relevant and not duplicated, as the form is meant to be a starting point for further discussions and refinements.
-</thinking>
-
 # Brand Perception Survey Template - Help Guide
 ## Purpose
 This survey is designed to gather end-users' initial perceptions of a brand concept. It aims to collect feedback on various aspects of the brand, such as design, messaging, values, uniqueness, price perception, and reputation.

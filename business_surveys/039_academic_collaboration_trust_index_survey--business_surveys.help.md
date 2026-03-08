@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey designed to measure the level of trust in academic collaborations. The form asks respondents to provide their contact information, role, and context of their primary collaboration. It then asks a series of questions about their trust in various aspects of their collaboration, such as expertise, integrity, reliability, openness, fairness, communication, and overall trust level. The form also asks about factors that contribute to building trust and factors that erode trust.
-</thinking>
-
 # Academic Collaboration Trust Index Survey - Help Guide
 ## Purpose
 This guide is designed to help users complete the Academic Collaboration Trust Index Survey, a form designed to measure trust in academic collaborations.

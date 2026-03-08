@@ -1,5 +1,3 @@
-<thinking>As this form is designed to be a 90-day employee evaluation form, it's likely used by HR or management to assess the performance of new employees during their initial 90-day probationary period. This period is crucial for new hires to prove themselves in their new role and get comfortable with the company's expectations, procedures, and work environment. A successful 90-day evaluation is vital for determining whether to continue with the employee in their position or not. This form should ideally be completed by the employee's supervisor or HR representative, providing a structured and consistent evaluation process.</thinking>
-
 # 90 Day Employee Evaluation Form - Help Guide
 ## Purpose
 The 90 Day Employee Evaluation Form is a tool used to assess the performance of new employees during their 90-day probationary period. This form helps supervisors or HR representatives to evaluate an employee's overall performance, strengths, areas for improvement, and recommend next steps for their growth and development.

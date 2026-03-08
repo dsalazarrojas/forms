@@ -1,7 +1,3 @@
-<thinking>
-The form is likely designed to be used by business professionals to upload impact reports, which are documents that report on the results and effects of a particular project, action, or initiative. This could be for a company, organization, or individual to share their achievements, challenges, and outcomes. The form might be used to collect and organize information about the impact of these reports, such as details about the report, supporting documents, and any files associated with it. The form might be part of a business process to track and manage impact reports across different projects or initiatives. It's possible that the form is used in a specific industry, like finance or consulting. However, without further context, it's hard to be more specific.
-</thinking>
-
 # Impact Report Upload Form - Help Guide
 ## Purpose
 The Impact Report Upload Form is designed to collect and organize information about impact reports. This form is intended to help users upload relevant details and supporting documents for their impact reports.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect resume information from clients. The purpose of this form is to gather necessary details about a client's resume, including their name, job title, company, location, and start date. This form will help the user to create a comprehensive profile for their clients.
-
-It's essential to ensure that the form is not duplicated and to verify that the provided information is correct and up-to-date. The form can be completed by any authorized individual, but it's recommended that it's filled in by the clients themselves.
-
-</thinking>
-
 # Resume Client Files - Help Guide
 ## Purpose
 The Resume Client Files form is a crucial document that allows you to collect and store essential information about your clients' resumes. This form will help you create a comprehensive profile for each client, making it easier to manage and track their career history.

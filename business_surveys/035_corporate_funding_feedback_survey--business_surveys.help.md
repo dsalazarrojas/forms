@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about corporate funding, which is crucial for understanding the effectiveness and impact of corporate funding on business operations. The purpose of this form is to collect data that can be used to evaluate and improve the corporate funding process. 
-
-Before starting, ensure that you have not already completed this survey, as your feedback will be used to inform future improvements to the corporate funding process. 
-
-The survey consists of six fields, each serving a specific purpose. Below, you will find detailed explanations of each field, which will help you provide the most accurate and helpful feedback.
-
-</thinking>
-
 # Corporate Funding Feedback Survey - Help Guide
 
 ## Purpose

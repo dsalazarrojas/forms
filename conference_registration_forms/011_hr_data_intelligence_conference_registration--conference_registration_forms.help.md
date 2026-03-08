@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be a registration form for the HR Data Intelligence Conference. The form will collect information from attendees, including their main information, contact details, work information, preferences, conference information, session preferences, dietary preferences, emergency contact details, and any additional questions.
- 
-To prevent form duplication, we will check the provided email address to ensure it has not been registered before.
- 
-Please note that this form was created by AI and not affiliated with any form platform.
- 
-Released under CC BY 4.0.
- 
-Please contact form@gic.mx for any inquiries.
- 
-</thinking>
-
 # HR Data Intelligence Conference Registration - Help Guide
 ## Purpose
 This form is designed to gather information from attendees for the HR Data Intelligence Conference. The collected data will be used to manage registrations, track attendee preferences, and provide a seamless experience for all participants.

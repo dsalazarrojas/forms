@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the overall experience of coaches in a sports setting. It is used to gather feedback on various aspects of the coaching process, including team performance, team spirit, coaches' performance, player development, communication, and sportsmanship. The purpose of this form is to help coaches reflect on their strengths and weaknesses, identify areas for improvement, and make data-driven decisions for future seasons. Before completing this form, please note that it is not affiliated with any form platform or proprietary content, and you are free to use, modify, and share it as you see fit.
-</thinking>
-
 # end_of_season_coaches_survey - Help Guide
 ## Purpose
 The end of season coaches' survey is designed to gather feedback on various aspects of the coaching process. It helps coaches reflect on their strengths and weaknesses, identify areas for improvement, and make data-driven decisions for future seasons.

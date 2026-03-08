@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate a smooth and efficient check-in process for daycare centers or childcare services. It's essential for the parents or caregivers to provide accurate and complete information about their child's arrival to ensure the correct handling of the child during their stay and for any necessary communication with parents. This form will help you gather the necessary details about the child and their arrival. It is not necessary for you to complete this form if you have already done so on a previous visit. Please ensure that all fields are filled in accurately and completely before submitting the form.
-</thinking>
-
 # Daycare Child Arrival Check In - Help Guide
 
 ## Purpose

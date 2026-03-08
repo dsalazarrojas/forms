@@ -1,6 +1,4 @@
-### <thinking>...This is a crucial form designed to ensure that blood donors understand the process and risks involved in blood donation. It requires careful consideration and consent from the donors to ensure they are aware of the potential risks and consequences of blood donation. This form is used for blood donations and requires careful review and understanding of each field's purpose and significance. It's essential to avoid any misinterpretation or miscommunication that might put the donor or the recipient at risk. This form should not be filled out if the donor is not eligible or has concerns about the donation process... </thinking>
-
-# Blood Donor Consent Form - Help Guide
+### # Blood Donor Consent Form - Help Guide
 
 ## Purpose
 This form is used to obtain consent from blood donors, ensuring they understand the blood donation process, risks, and consequences. It's crucial to carefully review and fill out this form accurately before proceeding with the donation.

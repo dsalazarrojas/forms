@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end users understand the purpose and scope of this form before guiding them through its completion. The purpose of this form is to gather information about the key factors that influence a car buying decision. It aims to help users evaluate their priorities and preferences when making a purchase. By filling out this form, users can identify their needs and wants, which can inform their search for the right vehicle. This process can save time and effort in the long run by helping users narrow down options and focus on the most suitable vehicles.
-</thinking>
-
 # Car Buying Decision Factors Checklist - Help Guide
 ## Purpose
 The Car Buying Decision Factors Checklist is a tool designed to help users make informed decisions when purchasing a car. It's meant to be a comprehensive guide that considers various aspects of a vehicle purchase.

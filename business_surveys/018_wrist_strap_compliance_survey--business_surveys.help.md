@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the manufacturing, lab, and electronics teams' compliance with specific guidelines. It's meant to be filled out by relevant personnel, and it's not a general survey for all employees. To ensure that the data collected is valid and accurate, it's essential to fill it out carefully. Please make sure to fill out the form completely and answer all questions truthfully. If you're unsure about any question, you can ask for help or clarification before proceeding. 
-
-</thinking>
 # Wrist Strap Compliance Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form template is intended to collect business registration information from businesses that need to provide this data for various purposes, such as government filings, tax purposes, or other official requirements. This form is designed to gather essential details about the business, including its name, address, contact information, and filing status. The form fields are divided into sections that cover key aspects of a business's registration, such as its type, status, and filing fees. The purpose of this form is to ensure that businesses provide accurate and complete information, reducing the risk of errors or discrepancies that may lead to delays or complications in processing.
-
-To confirm the relevance and non-duplication of this form, I will review the existing forms and templates within the organization to ensure that this template does not overlap with other forms or templates with similar purposes. Additionally, I will check for any potential inconsistencies or gaps in the information collected through this form to guarantee that it meets the required standards and best practices for data collection and management.
-
-</thinking>
-
 # Release Of Information Template - Help Guide
 ## Purpose
 This form template is designed to collect business registration information from businesses that need to provide this data for various purposes, such as government filings, tax purposes, or other official requirements.

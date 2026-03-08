@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture essential information from a parent or guardian, typically used in conjunction with a program or activity where a child is involved. The form is designed to be completed by the parent or guardian to provide consent for the child's participation and to release any potential liability. The purpose of this form is to ensure that the parent or guardian is aware of and agrees to the terms of the child's participation. Before completing this form, please confirm that you are the parent or guardian of the child participating in the program or activity and that you understand the terms of the form. If you have already submitted a similar form, please refrain from completing this form again to avoid duplication of effort and potential data conflicts.
-</thinking>
-
 # Parental Consent And Release Form - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for a child's participation in a program or activity. It also includes a release of any potential liability for the organization.

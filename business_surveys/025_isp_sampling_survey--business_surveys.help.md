@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and data from internet service providers (ISPs) about their experience with our sampling methods. This form will help us understand their overall satisfaction with our service, their interest in participating in sampling activities, their current ISP provider, and any additional comments or feedback they may have. Before completing this form, please ensure you have the necessary permission to share this information and that you are not submitting duplicate or irrelevant responses.
-
-</thinking>
-
 # isp_sampling_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and data from internet service providers (ISPs) about their experience with our sampling methods.

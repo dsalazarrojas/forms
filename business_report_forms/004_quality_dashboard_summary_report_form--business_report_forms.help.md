@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Dashboard Summary Report Form - Help Guide
 ## Purpose
 The Quality Dashboard Summary Report Form is a report that collects information about the quality of a project or process. It is used to track and monitor key performance indicators (KPIs) that measure quality, identify issues, and provide context for improvement decisions.

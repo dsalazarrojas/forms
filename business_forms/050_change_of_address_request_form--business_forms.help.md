@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for address updates from customers or business clients. The form is used to submit a change of address request, which may include details such as the new address, move date, services affected, and other relevant information. The form ensures that the address update is accurate and complete, reducing errors and improving communication. The form will be reviewed and verified by the relevant department to ensure the address update is legitimate and authorized.
-</thinking>
-
 # Change Of Address Request Form - Help Guide
 ## Purpose
 This form is used to notify our organization of a change of address for your account or business. Please fill out this form completely to ensure that your address is updated accurately and efficiently.

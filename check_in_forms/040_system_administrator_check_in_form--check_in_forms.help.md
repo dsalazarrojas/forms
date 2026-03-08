@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # system_administrator_check_in_form - Help Guide
 
 ## Purpose

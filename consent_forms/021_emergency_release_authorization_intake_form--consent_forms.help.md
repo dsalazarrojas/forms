@@ -1,5 +1,3 @@
-<thinking>...The form "emergency_release_authorization_intuce_form" is used to capture information about an individual's emergency release authorization. This form is used in emergency situations when the individual's next of kin or authorized representative needs to provide information about their relationship to the individual and their contact details. This form ensures that the individual's medical team has the necessary information to contact the appropriate person in case of an emergency. The form will not be duplicated in the system if it has already been submitted by the same individual.</thinking>
-
 # emergency_release_authorization_intuce_form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-This form was created to evaluate the transparency of the audit process. It is designed to gather feedback from respondents about their experiences with audits, focusing on the level of transparency during each step of the process. The form is used to identify areas where transparency can be improved and to assess the overall trust level of respondents in the audit process. The goal is to provide valuable insights for the audit team to enhance their process and improve client satisfaction.
-
-</thinking>
-
 # Audit Transparency Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the transparency of the audit process. It is used to gather feedback from respondents about their experiences with audits, focusing on the level of transparency during each step of the process.

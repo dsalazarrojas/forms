@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the awareness and understanding of data protection practices among donors, likely for an organization that handles sensitive information related to their donors. The purpose of this form is to gauge the current state of data protection awareness within the donor community, allowing the organization to identify areas of improvement and develop targeted educational materials or training programs.
-</thinking>
-
 # Donor Data Protection Awareness Survey - Help Guide
 ## Purpose
 This form is designed to assess your awareness and understanding of data protection practices as a donor.

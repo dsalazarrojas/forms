@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Photography Permission Form - Help Guide
 ## Purpose
 This form is used to obtain permission from individuals or organizations for wildlife photography purposes. It gathers information about the photographer, their project, and any specific restrictions or restrictions related to the photoshoot. This form is designed for internal use and should only be used for wildlife photography projects that require permission from landowners, wildlife agencies, or other relevant parties. Before starting the form, ensure you have the necessary permissions and approvals in place, as this form only serves as a placeholder for official records.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from restaurant guests for check in purposes. It should only be used for guests who have previously been in contact with the restaurant and are returning for a dining experience. The form is meant to be filled out by guests to provide their information and preferences for their upcoming visit. This form is not meant to be used for new guests or for other purposes such as reservation requests or cancellations. Please ensure that this form is not filled out by guests who have not previously been in contact with the restaurant. 
-</thinking>
-
 # Restaurant Dining Experience Check In Form - Help Guide
 ## Purpose
 The Restaurant Dining Experience Check In Form is designed to collect information from guests who have previously been in contact with the restaurant. This form ensures that the restaurant is prepared for the guest's visit and can provide the best possible dining experience.

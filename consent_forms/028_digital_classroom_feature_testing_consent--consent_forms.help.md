@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from participants to test digital classroom features. 
-This form aims to gather information about the participant's identity, role, contact preferences, and consent status. 
-It seems that this form is part of a testing procedure for digital classroom features, likely for educational or software development purposes. 
-</thinking>
-
 # Digital Classroom Feature Testing Consent - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from participants to test digital classroom features.

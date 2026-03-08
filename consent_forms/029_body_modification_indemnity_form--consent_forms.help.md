@@ -1,15 +1,3 @@
-<thinking>
-This form is used by clients to provide their consent for a body modification procedure. It is essential that clients understand the form's purpose and provide accurate information to ensure a smooth and safe experience. Before filling out this form, clients should review the following:
-- Ensure you are familiar with the procedure and its risks.
-- Disclose any medical conditions, allergies, or medications that may affect the procedure.
-- Understand the potential pain levels and healing times involved.
-- Confirm that you are not pregnant or nursing.
-- Ensure you are providing voluntary consent for the procedure.
-- Understand that you will be releasing and waiving liability for any complications.
-- Acknowledge that you are indemnifying the artist against liability.
-This form should only be filled out by clients who are eligible for the procedure. If you are unsure or have questions, please ask to speak with a representative before proceeding.
-</thinking>
-
 # Body Modification Indemnity Form - Help Guide
 ## Purpose
 This form is used to obtain consent from clients for a body modification procedure. It is essential to carefully review and understand the form before proceeding.

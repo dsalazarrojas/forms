@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the awareness and perception of Environmental, Social, and Governance (ESG) consulting services and practices among various stakeholders. ESG consulting is an essential aspect of modern business practices that focuses on integrating social, environmental, and governance principles into business operations. This form aims to understand the current level of ESG awareness and familiarity among users, their perception of ESG challenges and topics, and their understanding of ESG advisory services.
-
-To complete this form, ensure that you have a clear understanding of the questions and the options provided. The form is divided into multiple pages, each addressing different aspects of ESG consulting. Please answer the questions based on your genuine experiences and perceptions.
-
-</thinking>
-
 # ESG Consulting Awareness Survey - Help Guide
 ## Purpose
 

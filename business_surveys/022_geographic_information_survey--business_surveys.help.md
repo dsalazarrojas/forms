@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information about a visitor's geographic location, demographics, and interaction with a certain business or institution. The purpose of this form is to gather data that can be used to improve services, products, or experiences offered by the business or institution.
-
-Before proceeding, ensure that the data collected is not redundant or already known to the business or institution. 
-
-This form is not intended to be used for mass data collection or to target specific individuals.
-</thinking>
-
 # Geographic Information Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a visitor's geographic location, demographics, and interaction with the business or institution. The information collected will help us improve our services, products, or experiences.

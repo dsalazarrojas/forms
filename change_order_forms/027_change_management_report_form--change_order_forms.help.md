@@ -1,5 +1,3 @@
-<thinking>As a change management report form, this document is intended to facilitate the completion of change requests in your organization. This form is used to gather information on the status of a change request, including the date it was reported, the ID of the change, and the current implementation status. It also captures feedback from stakeholders, success metrics, and lessons learned. By using this form, teams can ensure that changes are properly documented, tracked, and closed. Please ensure that the form is filled out for every change request, and that the fields are filled out accurately and completely. This form is not intended to be filled out for duplicate changes, or for changes that have already been closed. If you are unsure whether a change request requires a change management report, please consult your team or process owner.</thinking>
-
 # Change Management Report Form - Help Guide
 ## Purpose
 The Change Management Report Form is used to document and track the status of change requests within your organization. This form helps to ensure that changes are properly documented, tracked, and closed.

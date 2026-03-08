@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain consent for the use and release of photos taken by our organization. This form is required to ensure that individuals understand and agree to the terms and conditions of the photo release, including the handling, processing, and distribution of their photos. 
 
 When filling out this form, please ensure that you understand each field's purpose and requirements to avoid any confusion or errors. It is also a good practice to review the form carefully before submitting it to make sure all required fields are filled out correctly.

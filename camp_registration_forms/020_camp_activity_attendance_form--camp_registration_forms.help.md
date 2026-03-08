@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Camp Activity Attendance Form - Help Guide
 
 ## Purpose

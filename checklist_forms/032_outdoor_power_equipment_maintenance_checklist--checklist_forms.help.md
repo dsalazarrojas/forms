@@ -1,16 +1,3 @@
-<thinking>
-This guide will help you complete the Outdoor Power Equipment Maintenance Checklist form, which is designed to track and manage the maintenance of outdoor power equipment. This form is intended to be used by equipment owners or maintenance personnel to ensure that regular checks and servicing are performed on equipment to prevent breakdowns and extend its lifespan. 
-
-This form will guide you through the necessary steps to accurately record the maintenance history of your outdoor power equipment.
-
-The form can be used for various types of equipment, such as lawn mowers, trimmers, and other outdoor power equipment, as well as various types of maintenance and inspections required. 
-
-Please make sure to have the necessary information and documentation ready before starting the form.
-
-This guide will explain each field of the form in detail, to ensure you accurately complete the form and understand its purpose.
-
-</thinking>
-
 # Outdoor Power Equipment Maintenance Checklist - Help Guide
 ## Purpose
 This form is designed to track and manage the maintenance of outdoor power equipment, such as lawn mowers, trimmers, and other outdoor power equipment. It helps ensure that regular checks and servicing are performed to prevent breakdowns and extend the lifespan of the equipment.

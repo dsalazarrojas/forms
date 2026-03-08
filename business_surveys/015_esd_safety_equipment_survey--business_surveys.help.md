@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering information about safety equipment and gear used in various environments. The purpose of this form is to collect data about the type, location, and frequency of use of safety equipment and gear. This data will be used to improve safety protocols and procedures within the organization.
-</thinking>
-
 # ESD Safety Equipment Survey - Help Guide
 ## Purpose
 The ESD Safety Equipment Survey is designed to gather information about safety equipment and gear used in various environments. This data will be used to improve safety protocols and procedures within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-A New Stylist Check In form is a critical piece of documentation for our internal processes. This form aims to gather information from new stylists when they arrive at the premises for their first check in. It ensures that we have accurate and up-to-date information about our stylists, which is essential for our operational efficiency and compliance with industry standards. To avoid duplication of information, this form should only be completed when a new stylist starts their first day at our salon. The data collected through this form will be used to update the stylist's profile and ensure seamless communication between our teams.
-</thinking>
-
 # New Stylist Check In - Help Guide
 ## Purpose
 The New Stylist Check In form is designed to collect essential information about new stylists, enabling our team to efficiently update their profiles and ensure smooth communication during their initial check-in process.

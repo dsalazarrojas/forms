@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient being brought to a wildlife rehabilitation center for treatment. The fields are designed to capture essential details about the patient's species, condition, treatment goals, and contact information. The form is not meant to be filled out by the patient themselves, but rather by the individual or organization bringing the patient to the center for care. Please ensure that the form is filled out accurately and thoroughly to provide the best possible care for the patient.
-</thinking>
-
 # Wildlife Rehabilitation Intake Form - Help Guide
 ## Purpose
 The Wildlife Rehabilitation Intake Form is used to collect information about a patient being brought to the wildlife rehabilitation center for treatment. This form is essential for providing appropriate care and making informed decisions about the patient's treatment.

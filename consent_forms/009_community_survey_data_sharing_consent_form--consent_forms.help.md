@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that the form is for community surveys, specifically for sharing data with various entities. The form should be completed by participants who have taken a survey, and it's essential to ensure they understand how their data will be used. The form should be completed in a way that respects participants' rights and privacy. We also need to double-check that the form's purpose, sections, and fields are clear and straightforward.
-</thinking>
-
 # Community Survey Data Sharing Consent Form - Help Guide
 ## Purpose
 This form is for participants to provide their consent for sharing their survey responses with various entities, including academic researchers, government agencies, nonprofit organizations, and others. It ensures that participants understand how their data will be used and that their rights and privacy are respected.

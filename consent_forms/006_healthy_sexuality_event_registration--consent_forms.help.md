@@ -1,12 +1,3 @@
-<thinking>
-The form "Healthy Sexuality Event Registration" appears to be a registration form for some kind of event related to healthy sexuality. To complete this form, you are probably registering an event to promote or support healthy sexual practices. This form might be used by organizations or individuals to collect information about event details and participants for administrative or promotional purposes. 
-
-Please make sure this is not a duplicate submission, and that you're registering a new event. If you're unsure, you can check your internal records to see if an event with the same name already exists. 
-
-If you're registering as a participant, please provide accurate and complete information about yourself and the event you're attending. If you're registering as an event organizer, please ensure that you provide correct information about the event and its details.
-
-</thinking>
-
 # Healthy Sexuality Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information about events related to healthy sexuality, such as workshops, conferences, or support groups. The goal is to register events and gather details about participants and event details for administrative or promotional purposes.

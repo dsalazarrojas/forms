@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather personal and contact information for a leadership camp. This form is intended for camp registration and may be used to collect data for administrative or operational purposes. Please ensure that each field is filled in as accurately as possible to provide a seamless experience for the camp administration team.
-</thinking>
-
 # leadership_camp_registration_form - Help Guide
 ## Purpose
 The leadership camp registration form is designed to collect personal and contact information for a leadership camp. This form will be used to gather relevant details from participants, including their contact information, education background, medical history, and other essential data that will enable the camp administration team to provide a comfortable and effective experience for all attendees.

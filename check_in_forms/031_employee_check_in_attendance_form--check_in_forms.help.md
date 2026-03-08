@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for the "Employee Check In Attendance Form", let me first understand the purpose and requirements of this form. This form appears to be used for tracking employee attendance, including check-in and check-out times, shifts, locations, and reasons for leave. It also seems to involve multiple parties, such as supervisors and clients, which may be required to sign off on the attendance. I will aim to provide a clear and concise explanation of each field, making sure to cover the required and optional fields, and provide tips for completing the form accurately.</thinking>
-
 # Employee Check In Attendance Form - Help Guide
 ## Purpose
 This form is used for tracking employee attendance, including check-in and check-out times, shifts, locations, and reasons for leave. It is designed to be completed by employees and signed off by supervisors and clients to ensure accurate and up-to-date attendance records.

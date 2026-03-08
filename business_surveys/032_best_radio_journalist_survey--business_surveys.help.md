@@ -1,6 +1,4 @@
-# <thinking>...This form is designed to gather feedback on a radio journalist's performance in terms of their work, presentation, and reach. The purpose of this form is to help identify strengths and weaknesses of the journalist and provide a score for each evaluation criteria. Please note that this form is not a duplicate of existing forms. Each field in this form is designed to be completed by a unique respondent... </thinking>
-
-# Best Radio Journalist Survey - Help Guide
+# # Best Radio Journalist Survey - Help Guide
 ## Purpose
 The Best Radio Journalist Survey is designed to collect feedback on a radio journalist's performance, presentation, and reach. The survey is used to evaluate the strengths and weaknesses of the journalist and provide scores for each evaluation criterion.
 

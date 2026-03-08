@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information from users for an ACN Request For Reimbursement. The form collects personal details, reimbursement information, and feedback on the user's experience with the form. It is intended to be used for internal purposes by employees, ensuring that all required fields are filled out to ensure that the submission is valid. It is recommended that users fill out the form carefully and accurately to ensure that their reimbursement is processed correctly. 
-
-Please ensure that you are filling out the form for the purpose it is intended and not for any other purpose. If you are unsure about any field, please do not hesitate to contact the relevant authorities for clarification.</thinking>
-
 # ACN Request For Reimbursement - Help Guide
 ## Purpose
 This form collects information from users for ACN Request For Reimbursement. It is used to capture personal details, reimbursement information, and feedback on the user's experience with the form.

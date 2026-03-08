@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the current state of AI in sales workflows within a company. It is intended for sales teams to provide feedback on their experiences with AI tools and the challenges or benefits they have observed. This information will help to identify areas where AI can be improved or where it may not be providing the expected benefits.
-This form will help sales teams:
-* Share their experiences with AI tools used in their workflow.
-* Identify benefits and challenges with these tools.
-* Provide input on their future investment priorities.
-This feedback is crucial to understanding the current state of sales workflow AI and to make informed decisions about investments in AI.
-
-</thinking>
 # AI Sales Workflow Impact Survey - Help Guide
 ## Purpose
 The AI Sales Workflow Impact Survey is designed to gather feedback from sales teams on their experiences with AI tools used in their sales workflow. This information will help shape future investments in AI to ensure that AI sales platforms meet the real-world needs of sales teams.

@@ -1,5 +1,3 @@
-<thinking>... This form is used to provide an overview of the financial details of an event, such as income and expenses. It is a crucial tool for event planners and organizers to track and analyze the financial performance of events. This form is designed to be a quick and easy way to collect and review event financial data. Please ensure that you have all necessary financial records and data before completing this form. It is also essential to review the form carefully to avoid any errors or inaccuracies.</thinking>
-
 # Event Financial Overview - Help Guide
 ## Purpose
 This form is designed to provide an overview of the financial details of an event, including income and expenses. It is a quick and easy way to collect and review event financial data.

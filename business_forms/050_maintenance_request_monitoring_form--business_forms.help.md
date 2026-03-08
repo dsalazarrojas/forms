@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the tracking and management of maintenance requests within an organization or business. It allows users to submit and monitor maintenance requests, providing essential information such as the status, priority, and due date of each request. This form helps to streamline the process of assigning tasks, tracking progress, and ensuring timely completion of maintenance activities.
-
-This form is intended for internal use within an organization and is not meant to be publicly accessible. Therefore, it is essential to complete this form correctly to ensure accurate and efficient maintenance request monitoring.
-
-To prevent duplication of efforts, please ensure that you are submitting new requests only for maintenance tasks that have not been previously submitted. If you have any doubts or concerns, please reach out to your team or supervisor for clarification.
-
-</thinking>
 # Maintenance Request Monitoring Form - Help Guide
 
 ## Purpose

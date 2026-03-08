@@ -1,6 +1,3 @@
-<thinking>**Form Purpose**
-The Venue Management Report form is used to document and track updates, incidents, and maintenance activities related to event spaces within a venue. The form is designed to provide a standardized and organized format for reporting and tracking these events.</thinking>
-
 # Venue Management Report - Help Guide
 ## Purpose
 ## How To Complete This Form

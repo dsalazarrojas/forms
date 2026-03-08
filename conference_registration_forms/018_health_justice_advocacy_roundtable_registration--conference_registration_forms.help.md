@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for the Health Justice Advocacy Roundtable, which is a platform for healthcare professionals and advocates to discuss and address issues related to health justice. The form is designed to collect relevant information about the user, including their interests, accessibility needs, emergency contact information, and terms of participation. To ensure accurate and efficient processing of the form data, please complete the form carefully and avoid submitting duplicate registrations. If you are unsure about any field, please ask your administrator or refer to this help guide for clarification.
-</thinking>
-
 # Health Justice Advocacy Roundtable Registration - Help Guide
 ## Purpose
 This form is used to register for the Health Justice Advocacy Roundtable. The purpose of the form is to collect information about you and your interests, so we can provide a comfortable and engaging experience for you and other participants.

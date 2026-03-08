@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect attendance information for events, allowing participants to provide their details and event-specific data. This form is typically used for events that have been geotagged, indicating that they are associated with a specific location or region.
-
-Before filling out this form, please ensure that you are submitting data for the correct event. To avoid duplicate submissions, review your previous submissions to ensure that you have not already checked in for this event.
-
-This form is intended for participants to provide their attendance information, and it is expected that they will fill out the form accurately and truthfully.</thinking>
-
 # Geotagged Attendance Check In - Help Guide
 ## Purpose
 The Geotagged Attendance Check In form is used to collect attendance information for events that have been geotagged, allowing participants to provide their details and event-specific data. This form is typically used for events that are associated with a specific location or region.

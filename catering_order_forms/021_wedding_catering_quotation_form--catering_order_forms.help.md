@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for catering companies to gather information from their customers when providing wedding catering services. Its purpose is to collect details about the wedding event, including details about the guests, date, menu preferences, food options, drinks, theme, budget, contact information, and any other necessary details. This form will help the catering company understand the customer's needs and provide an accurate quote for the event.
-</thinking>
-
 # Wedding Catering Quotation Form - Help Guide
 ## Purpose
 This form is used to collect information for a wedding catering quotation. Please fill it out completely and accurately to help us provide the best possible quote for your special day.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about an individual's or business's family supervision practice. The form is likely used for research or analysis purposes within a business or organization. This guide will walk you through each section of the form to help you fill it out accurately...</thinking>
-
 # Family Supervision Practice Survey - Help Guide
 ## Purpose
 The Family Supervision Practice Survey is a form designed to collect information about an individual's or business's family supervision practice. This form is used to gather insights and data for research or analysis purposes within a business or organization.

@@ -1,8 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll create a user-facing help guide for the Conference Proposal Form. This guide will cover the form's purpose, how to complete it, and what each field means, ensuring end-users understand the form's requirements and can submit a well-structured proposal.
-
-</thinking>
-
 # Conference Proposal Form - Help Guide
 ## Purpose
 This form is designed for organizations and individuals to submit proposals for conferences. The goal is to provide detailed information about their proposal, including title, description, expected audience, and budget, to help event organizers review and evaluate their potential participation in the conference.

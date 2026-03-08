@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about an NGO's (Non-Governmental Organization) technology capacity, which can be used to understand their ability to effectively use and leverage technology to achieve their goals and objectives. The form is intended to be completed by an NGO representative, and the purpose is to collect data on various aspects of the organization's technology capabilities, including their tech stack, budget, support, digital skills, staff, and action plan.
-
-This form should only be completed by authorized personnel from the NGO and not by any other individual or organization.
-
-Before filling out this form, ensure that you have the necessary authority to complete it on behalf of your NGO.
-
-</thinking>
-
 # NGO Technology Capacity Survey - Help Guide
 ## Purpose
 This form aims to assess the technology capacity of Non-Governmental Organizations (NGOs) to effectively use and leverage technology to achieve their goals and objectives.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and completion process of the "Daily Workout Checklist" form. Please note that the form is designed to track users' daily workout activities.
-</thinking>
-
 # Daily Workout Checklist - Help Guide
 ## Purpose
 The "Daily Workout Checklist" form is designed to help users track their daily workout activities. This form gathers information about their morning workout, exercise type, duration, intensity, and other relevant details. By filling out this form, users can provide valuable insights into their workout habits and make informed decisions to improve their physical fitness.

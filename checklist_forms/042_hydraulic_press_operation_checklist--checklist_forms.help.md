@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hydraulic Press Operation Checklist - Help Guide
 ## Purpose
 The Hydraulic Press Operation Checklist is used to ensure that hydraulic press operations are performed correctly and safely, reducing the risk of equipment failure and personal injury. It helps operators and maintenance personnel to verify that all necessary safety protocols and operational procedures are followed, and that equipment is properly maintained.

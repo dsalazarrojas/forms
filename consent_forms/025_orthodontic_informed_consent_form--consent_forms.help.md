@@ -1,6 +1,4 @@
-# <thinking>...thinking...</thinking>
-
-The form is designed to collect information from patients for informed consent related to orthodontic treatment. This form is intended to be used by orthodontic practices to gather necessary information from patients before starting treatment.
+# The form is designed to collect information from patients for informed consent related to orthodontic treatment. This form is intended to be used by orthodontic practices to gather necessary information from patients before starting treatment.
 
 ## Purpose
 The purpose of this form is to obtain informed consent from patients for orthodontic treatment. This form is used to ensure that patients understand the risks and benefits associated with the treatment and to gather necessary information for their medical history, contact details, and treatment terms.

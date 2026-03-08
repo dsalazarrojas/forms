@@ -1,11 +1,3 @@
-<thinking>
-The form is intended for collecting and managing formal complaints from customers or clients. The purpose of this form is to gather detailed information about the incident, including the category of complaint, details of the incident, and the desired outcome. The form serves as a central intake channel for formal complaints, allowing the organization to track and manage these complaints in a structured and organized manner. To ensure accurate and efficient processing, it's essential to complete the form correctly and accurately.
-
-This form is a critical tool for organizations to gather feedback and address issues promptly. To get the most out of this form, please ensure you complete it thoroughly and truthfully. If you have any concerns or questions, please don't hesitate to reach out to us.
-
-To prevent duplication of effort, please check the list of open complaints on our website or contact our customer service department before submitting this form. They may be able to provide you with a quick resolution or update you on the current status of your complaint.
-</thinking>
-
 # Complaint Form - Help Guide
 ## Purpose
 The Complaint Form is a tool for submitting formal complaints to our organization. It provides a structured way to gather detailed information about the incident, ensuring that we can effectively address your concerns.

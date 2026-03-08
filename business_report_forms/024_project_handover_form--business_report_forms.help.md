@@ -1,7 +1,3 @@
-<thinking> This form is designed to capture information and details about project handovers in a structured and organized manner. The purpose of this form is to collect data on the handover process, including dates, responsible parties, resources, and comments. This form is intended to be completed by project team members, stakeholders, or individuals involved in the handover process. It's essential to fill out this form accurately and thoroughly to ensure a smooth and efficient handover process. Please make sure to complete each field accurately and follow the guidelines below.
-
-</thinking>
-
 # Project Handover Form - Help Guide
 ## Purpose
 The Project Handover Form is a tool used to document and track project handovers, ensuring that all necessary information is captured and communicated effectively among team members and stakeholders.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to guide property managers and inspectors to assess the condition and maintenance needs of a property. This checklist is meant to be a comprehensive inspection checklist to ensure that all aspects of the property are accounted for during a standard inspection.
 
 ## Property Management Inspection Checklist - Help Guide

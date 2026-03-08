@@ -1,8 +1,3 @@
-<thinking>
-This form is used for restaurants to report and record the results of their sanitization audit, which is a crucial process to ensure cleanliness and compliance with health and safety regulations. The form is used to gather information about the audit findings, including the type of audit, the order in which the audit was performed, and any notes or observations made during the audit. The form is designed to be completed by the restaurant staff or management after the audit has been performed, and the information collected will be used for future reference and to track progress towards maintaining a clean and safe environment.
-
-</thinking>
-
 # Restaurant Sanitization Audit Order Form - Help Guide
 ## Purpose
 The Restaurant Sanitization Audit Order Form is a tool used by restaurants to record and report the results of their sanitization audits.

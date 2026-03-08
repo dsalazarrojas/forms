@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect coaching feedback from clients after a session, aiming to improve the coaching process and provide valuable insights for both the client and the coach. It's essential that this form is used to gather specific, concrete feedback about the session, and not to duplicate efforts already undertaken by other means. This form must be completed thoroughly and honestly to ensure accurate and actionable data for further improvement.
-</thinking>
-
 # Coaching Feedback Form - Help Guide
 ## Purpose
 The Coaching Feedback Form is a crucial tool for coaches to get honest and constructive feedback from clients after each session, enabling them to adjust their approach, improve the coaching process, and ultimately provide better services.

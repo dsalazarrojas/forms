@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from team coaches regarding their leave status, team leadership status, and other relevant details. The form will be used to track and manage team coach time off requests. Ensure that you are filling out this form only when you are officially on leave and have discussed your leave with your team. Please note that this form should only be filled out once for each leave period. ...</thinking>
-
 # Team Coach Time Off Form - Help Guide
 ## Purpose
 This form is used to collect information from team coaches regarding their leave status, team leadership status, and other relevant details to track and manage team coach time off requests.

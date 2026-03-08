@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about livestock welfare advocacy efforts. It is designed to be used in conjunction with other forms and surveys to gather relevant data for decision-making and reporting purposes. Please ensure that the form is being used for its intended purpose and is not duplicated or used for other purposes.
-</thinking>
-
 # Livestock Welfare Advocacy Survey - Help Guide
 ## Purpose
 The Livestock Welfare Advocacy Survey is designed to collect information from individuals or organizations about their experiences and opinions on livestock welfare advocacy efforts.

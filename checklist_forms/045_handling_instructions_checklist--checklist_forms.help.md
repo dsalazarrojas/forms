@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Handling Instructions Checklist - Help Guide
 
 ## Purpose

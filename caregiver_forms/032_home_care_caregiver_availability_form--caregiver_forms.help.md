@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information about a caregiver's availability for home care services. It's meant to be used in a scenario where a caregiver is being assigned to a particular family or individual, and the caregiver needs to provide details about their schedule and qualifications. The form is likely used by care management organizations or agencies that provide home care services to assess and match caregivers with clients who need assistance. To ensure that the form is completed correctly, please review the following instructions carefully.
-
-The form consists of multiple fields, including category, hours available, start date, end date, end time, availability, address, phone, email, availability note, assigned tool, assigned tool name, form ids, assigned tool user id, assigned tool user, category, and description. Some fields are labeled with unclear labels, which we'll try to decipher the purpose of based on their type and position in the form.
-
-Please note that the form is not strictly required to be filled out in a specific order, but it's recommended to complete it in a top-to-bottom fashion to ensure that the information is provided correctly. Additionally, some fields might be optional, but it's still important to fill them out if possible to provide a complete picture of the caregiver's availability.
-
-The following sections will guide you through the form fields in detail.
-</thinking>
-
 # Home Care Caregiver Availability Form - Help Guide
 ## Purpose
 The Home Care Caregiver Availability Form is designed to gather information about a caregiver's schedule, qualifications, and other relevant details to match them with clients who need home care services.

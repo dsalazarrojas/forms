@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users confirm in-home cooking appointments. The form will ask a series of questions to determine if an in-home cooking appointment is desired, and if so, will ask for details to be confirmed. This form will only be displayed if a user has previously indicated interest in an in-home cooking appointment, to ensure consistency and relevance in the user's preferences. This form will not be displayed if the user has already confirmed their interest in an in-home cooking appointment.
-</thinking>
-
 # in_home_cooking_appointment_form - Help Guide
 ## Purpose
 The "in_home_cooking_appointment_form" is designed to help users confirm their interest and provide details for an in-home cooking appointment.

@@ -1,19 +1,3 @@
-<thinking>
-This is a help guide for the Mailbox Service Agreement form, which is intended to collect customer information and consent for the Mailbox Service. This form is not meant to be completed by employees of the company, but rather by customers who are using the Mailbox Service. The form should not be reused or duplicated, and each time it is filled out, it should be a unique instance.
-
-The Mailbox Service Agreement form is used to collect information from customers about their service preferences and requirements for using the Mailbox Service. This form is not a contract or a legally binding agreement, but rather a collection of fields that the customer fills out to provide their input and consent for the service.
-
-The form is designed to be completed by the customer in a straightforward and efficient manner, with clear and concise field labels and instructions. Each field is carefully crafted to collect the necessary information for the service, and the customer should be able to complete the form without any technical assistance.
-
-The form has multiple pages, each with its own set of fields. The customer should be able to navigate through the pages and fill out the required fields to complete the form.
-
-The form includes fields for customer details, service preferences, E-Signature, and other relevant information. The customer should be able to understand the purpose of each field and fill it out accordingly.
-
-The customer is not required to fill out all the fields, but should fill out the ones that are relevant to their service needs.
-
-The purpose of the form is to collect customer information and preferences for the Mailbox Service, and this guide will walk the customer through each field to help them complete the form efficiently and accurately.
-</thinking>
-
 # Mailbox Service Agreement - Help Guide
 ## Purpose
 The Mailbox Service Agreement form is used to collect customer information and consent for the Mailbox Service. This form is not a contract or a legally binding agreement, but rather a collection of fields that the customer fills out to provide their input and consent for the service.

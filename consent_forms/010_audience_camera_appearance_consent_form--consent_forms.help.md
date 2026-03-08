@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a larger system that requires users to provide consent and information about their participation in an event, possibly for filming or recording purposes. The form is designed to be filled out by attendees, and it captures personal and event-related information. The form's fields should be clear and understandable to the users, ensuring that they provide accurate and complete information. Before proceeding, double-check that the form is not being duplicated or redundant, and ensure that the event's purpose, rules, and expectations are clear to all participants. 
-</thinking>
-
 # Audience Camera Appearance Consent Form - Help Guide
 ## Purpose
 This form is for audience participation in events where filming or recording is taking place. You will be asked to provide your personal details, event information, and consent to being recorded.

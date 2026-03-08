@@ -1,9 +1,3 @@
-<thinking>
-This form is used for submitting and documenting the monthly facility inspection report. This guide should help ensure that the form is completed accurately and without duplication, by providing clear instructions and explanations for each field. Please review the form carefully before proceeding to understand the purpose and requirements.
-
-The form is for submitting the facility inspection report on a monthly basis, where users should provide information about the facility they are inspecting, including the facility ID, month ID, issue ID, and other relevant details. This guide will walk you through each field of the form to ensure that you complete it accurately and without errors.
-</thinking>
-
 # Monthly Facility Inspection Report - Help Guide
 ## Purpose
 This form is used for submitting and documenting the monthly facility inspection report.

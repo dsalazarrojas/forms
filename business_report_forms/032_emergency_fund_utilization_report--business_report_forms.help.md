@@ -1,17 +1,3 @@
-<thinking>...The form "Emergency Fund Utilization Report" is designed to track and report on the usage of emergency funds within an organization. This form is intended to be completed by team members or administrators to provide an overview of how emergency funds are being utilized across the teams. The report should help in identifying trends, patterns, and potential misuse of emergency funds, allowing for more effective management and allocation of resources.
-
-Before starting to complete this form, ensure that you have the necessary permissions and access to the relevant data. If you are unsure about any aspect of the form, please reach out to your supervisor or support team for clarification.
-
-Please note that some fields may be optional, and you are not required to fill them out if they do not apply to your situation. However, providing as much information as possible will help in getting a more accurate and comprehensive report.
-
-To complete this form, please follow these steps:
-
-1.  Ensure you are in the correct team context or have access to the relevant team data.
-2.  Select the "Emergency Fund Utilization" page.
-3.  Fill out the fields as described below.
-
-</thinking>
-
 # Emergency Fund Utilization Report - Help Guide
 ## Purpose
 This report is used to track and report on the usage of emergency funds within an organization. It helps in identifying trends, patterns, and potential misuse of emergency funds, allowing for more effective management and allocation of resources.

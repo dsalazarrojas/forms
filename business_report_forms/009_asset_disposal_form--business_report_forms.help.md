@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for asset disposal reporting. Users will fill out the form to document asset disposals, including details about the asset's acquisition and current status. This form is likely to be completed by asset managers or department heads in an organization.
-
-Before starting the form, please check that:
-
-1. The asset has been properly disposed of (scrapped, sold, donated, etc.)
-2. All relevant information is available (e.g., asset description, asset category, etc.)
-3. All required fields are filled out to ensure accuracy and completeness.
-
-</thinking>
-
 # Asset Disposal Form - Help Guide
 ## Purpose
 The Asset Disposal Form is a tool to document the disposal of assets within the organization. It helps track the asset's history, including its disposal method, revenue from disposal, and other relevant details.

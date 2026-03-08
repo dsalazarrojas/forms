@@ -1,8 +1,3 @@
-<thinking>
-The Babysitter Application Form is designed to collect information from individuals interested in babysitting positions. This form is intended for individuals who are applying for babysitting roles, and the information collected will be used to evaluate their suitability and qualifications for the position. 
-Before filling out this form, ensure that you are submitting a new application and not a duplicate. A new application is needed for each new babysitting position or family that requires a separate application. 
-</thinking>
-
 # Babysitter Application Form - Help Guide
 ## Purpose
 The Babysitter Application Form is a comprehensive document that helps us evaluate your suitability for a babysitting position. Please provide accurate and truthful information in each field to ensure a smooth and efficient application process.

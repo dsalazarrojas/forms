@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help us understand and address customer complaints. It is intended for customers to describe their complaints in detail, providing us with valuable feedback that we can use to improve our service.
 
 ## Customer Service Complaint Form - Help Guide

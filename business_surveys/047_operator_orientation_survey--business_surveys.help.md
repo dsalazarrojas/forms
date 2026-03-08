@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from operators about their experience and satisfaction with their onboarding process. The form aims to capture feedback that can help improve the onboarding process and overall operator experience.
-</thinking>
-
 # operator_orientation_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from operators about their experience and satisfaction with their onboarding process. This will help us understand what we're doing well and where we can improve.

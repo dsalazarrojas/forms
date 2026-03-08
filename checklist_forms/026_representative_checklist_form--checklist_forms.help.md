@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about representatives and their tasks. It is likely used within an organization for internal tracking and reporting purposes, possibly by HR or project management teams. This form should be used to collect data from multiple representatives, making sure each representative's data is accurate and up-to-date. Please ensure to complete this form for every representative to provide a thorough overview of the situation. Note: This form should only be completed if it's a new representative or a representative's status has changed.
-</thinking>
-
 # Representative Checklist Form - Help Guide
 ## Purpose
 The Representative Checklist Form is used to collect information about representatives and their tasks within an organization. This form is designed to gather data from multiple representatives, ensuring each representative's status is up-to-date and accurate.

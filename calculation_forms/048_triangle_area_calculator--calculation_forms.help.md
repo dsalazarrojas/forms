@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the area of a triangle given its base and height.
-The form is used to provide a simple and efficient way to calculate the area of a triangle. The form is likely to be used by students, professionals, and anyone who needs to calculate the area of a triangle in a variety of scenarios, such as geometry problems, construction projects, or scientific research.
-</thinking>
-
 # Triangle Area Calculator - Help Guide
 ## Purpose
 The Triangle Area Calculator is a simple form used to calculate the area of a triangle given its base and height.

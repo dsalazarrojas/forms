@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to collect registration information from both SMEs (Small and Medium Enterprises) and investors. 
-  The form is intended to gather essential details from both parties to facilitate effective communication and partnership opportunities.
-  It's crucial that the form is filled out accurately to ensure that the provided data is complete and consistent.
-  Please review this form carefully to ensure you understand each field's purpose and how it contributes to the overall registration process.
-  If you're unsure about any field, please refer to the field explanations below.
-</thinking>
-
 # SME Borrowers And Investors Registration - Help Guide
 ## Purpose
 The SME Borrowers And Investors Registration form is designed to collect essential information from both SMEs and investors to facilitate effective communication and partnership opportunities.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Teacher Student Co Authorship Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from both the teacher and student for a publication that they will co-author. The form ensures that both parties have agreed to the terms and conditions of the publication.

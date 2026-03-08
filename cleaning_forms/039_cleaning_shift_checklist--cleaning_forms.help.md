@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form "Cleaning Shift Checklist" is used to collect information and feedback from cleaning staff during their shifts. This form is designed to assess the cleanliness and quality of work completed during the shift, identify any issues or problems encountered, and facilitate communication between staff and supervisors. This form should not be used for any other purpose. If you are not a cleaning staff member, please do not use this form.
-</thinking>
-
 # Cleaning Shift Checklist - Help Guide
 ## Purpose
 The Cleaning Shift Checklist is a form used by cleaning staff to report their activities and feedback during their shifts. It helps ensure that all tasks are completed, and that the facility is maintained to a high standard of cleanliness and quality.

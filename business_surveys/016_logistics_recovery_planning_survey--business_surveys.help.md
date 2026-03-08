@@ -1,5 +1,3 @@
-<thinking>...this form is used to gather information about the current status of logistics recovery planning within an organization. It is designed to be completed by team members or team leaders to provide an update on the progress of recovery efforts. The form is intended to be a quick and easy way to track and report on the status of logistics recovery, and it should not be used to duplicate or overlap with other reporting processes...</thinking>
-
 # Logistics Recovery Planning Survey - Help Guide
 ## Purpose
 This form is used to gather information about the current status of logistics recovery planning within an organization. It is designed to be completed by team members or team leaders to provide an update on the progress of recovery efforts.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for dentists to submit claims for reimbursement. 
-It's a form used for capturing patient and treatment information, treatment costs, payment preferences, claim details, and other relevant data for the claim process. 
-The purpose of this form is to provide a systematic way to gather necessary information and streamline the claims submission process.
-The form is designed to be used by both patients and dentists, and it is intended to be completed in a step-by-step manner.
-</thinking>
-
 # Dentist Claim Form - Help Guide
 ## Purpose
 The **Dentist Claim Form** is a document that allows dentists to submit claims for reimbursement for services rendered to patients. This form is used to capture important information related to patient care, treatment, and claim details.

@@ -1,8 +1,3 @@
-<thinking>
-The form `space_organization_survey` is intended to collect data about an organization's spaces, such as workspaces or offices. The purpose of this form is to help administrators and managers understand the layout and characteristics of these spaces. It may be used for purposes such as tracking space usage, managing real estate, and making informed decisions about office planning and resource allocation.
-To avoid duplication of efforts, make sure to review other forms related to spaces and workspaces before submitting this form.
-</thinking>
-
 # space_organization_survey - Help Guide
 ## Purpose
 

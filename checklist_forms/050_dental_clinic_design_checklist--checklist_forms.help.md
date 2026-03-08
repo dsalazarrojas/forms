@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the design and facilities of a dental clinic. It's intended to ensure that the clinic's layout and infrastructure meet the required standards for patient comfort, safety, and efficiency.
-This form is not meant to be used for real-time assessment, but rather as a tool for clinics to evaluate their own facilities and identify areas for improvement.
-Please note that this form does not replace on-site inspections or official regulatory evaluations.
-</thinking>
 # dental_clinic_design_checklist - Help Guide
 ## Purpose
 The dental clinic design checklist is used to evaluate the facilities and infrastructure of a dental clinic, ensuring that they meet the required standards for patient comfort, safety, and efficiency.

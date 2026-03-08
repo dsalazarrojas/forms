@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sync Settings Survey - Help Guide
 ## Purpose
 This guide is intended to help users provide detailed information about the sync settings they are using in their organization. By completing this survey, you will be able to provide feedback and suggestions for improvement to our development team.

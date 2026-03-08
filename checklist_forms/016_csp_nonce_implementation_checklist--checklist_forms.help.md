@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before diving into the help guide, let's quickly go through the purpose and relevance of this form. 
 
 The form is designed to assist in implementing the Content Security Policy (CSP) Nonce mechanism in a web application. The purpose of the form is to ensure that all necessary steps and checks are performed to properly implement CSP Nonce, which helps protect against cross-site scripting (XSS) attacks. 

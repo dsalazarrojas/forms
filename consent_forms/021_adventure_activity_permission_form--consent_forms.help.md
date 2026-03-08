@@ -1,13 +1,3 @@
-<thinking>
-
-To prevent the over-representation of participants and ensure accurate consent, it's essential to have a clear and concise process for obtaining participant permission. This form is used to gather information from participants and their emergency contacts. It's crucial to have a well-structured format that covers all necessary details.
-
-The form is designed to collect participant and activity-specific information, including participant contact details, medical conditions, and emergency contact information. This data will help organizers and staff assess potential risks and ensure the participant's safety during the activity.
-
-Before proceeding, ensure this form is only used for the intended purpose and that participants are not asked to complete it unnecessarily. It's also vital to review the form with staff involved in the activity planning to guarantee a harmonious and secure experience for all participants.
-
-</thinking>
-
 # Adventure Activity Permission Form - Help Guide
 ## Purpose
 This form is used to gather participant information, medical conditions, and emergency contact details for adventure activities. It helps organizers and staff assess potential risks and ensure participant safety.

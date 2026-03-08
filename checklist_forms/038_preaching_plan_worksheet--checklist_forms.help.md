@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a preaching plan, which is likely a tool used by preachers or church leaders to organize and prepare their sermons. This form appears to be a comprehensive worksheet that guides the user to collect various details about the sermon, including its main theme, key points, reflection, date, time, title, objectives, prayer points, notes, and submission confirmation.
-Before starting the form, please ensure that you have a clear idea of what the sermon will be about and what information you want to collect.
-Please note that this form is designed to be completed once for each sermon, and it seems to be focused on preparing a single sermon. If you are planning a series of sermons, you might need to create multiple instances of this form.
-</thinking>
-
 # Preaching Plan Worksheet - Help Guide
 ## Purpose
 The Preaching Plan Worksheet is a tool used to help preachers and church leaders prepare and organize their sermons.

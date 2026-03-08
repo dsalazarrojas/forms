@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who need to fill out the <string> form, which is used to gather information about research projects. Before starting, please ensure that you have all necessary information and approvals in place. This form should only be filled out once the project has been approved by the relevant authorities. Please note that filling out this form is an essential step in the project management process.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The <string> form is used to collect and manage project information for research projects. It helps project leads and researchers to provide detailed descriptions of their projects, including their goals, objectives, and outcomes.

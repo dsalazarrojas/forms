@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help users identify hazards that may be present in the workplace or in the environment. The goal is to assess and document potential risks that could pose a danger to employees, the public, or the environment. The user will complete the form by selecting the applicable options for each page or field, which are presented as a series of checklists.
-
-The form should not be used as a substitute for a formal hazard analysis or risk assessment, but rather as a quick reference tool to aid in the identification of hazards. The user should review the form carefully and make sure to include all required fields before submitting.
-
-To ensure data consistency and reduce errors, the form has been carefully designed with input validation and constraints in place. For example, the user is required to select a "Yes" or "No" answer for certain fields to ensure that they are providing relevant information.
-
-Please note that this form is a sample and may require adjustments based on your organization's specific needs and regulations.
-
-</thinking>
-
 # Hazard Identification Checklist - Help Guide
 
 ## Purpose

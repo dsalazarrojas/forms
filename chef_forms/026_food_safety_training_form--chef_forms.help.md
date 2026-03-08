@@ -1,7 +1,3 @@
-<thinking>
-Before I start writing the help guide, let me review the form purpose and ensure it's not redundant with other forms. The Food Safety Training Form appears to be a form designed to collect information about trainees' food safety knowledge, training history, and certification dates. It may overlap with other forms that cover similar topics, but its primary focus is on food safety training, making it a valuable tool for tracking and monitoring trainees' progress. To provide the most effective help guide, let's proceed with creating a comprehensive and user-friendly guide.
-</thinking>
-
 # Food Safety Training Form - Help Guide
 
 ## Purpose

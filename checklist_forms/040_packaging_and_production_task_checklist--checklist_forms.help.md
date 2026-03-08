@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "<string>" form in the "checklist_forms" category. The purpose of this form is to collect information about tasks and their associated production and shipping details. It appears to be a template for a multi-page form designed to accommodate multiple tasks, each with its own production and shipping information.
-
-Before proceeding, please ensure you are familiar with the specific requirements of this form and the information it seeks to collect. If you have any concerns or need clarification, it's best to consult with the relevant stakeholders or refer to the relevant documentation.
-
-To avoid duplication of efforts and potential inconsistencies, please complete one form at a time, ensuring each page is submitted before moving on to the next one.
-
-Please carefully review each field and its requirements as you navigate through the form to ensure accurate and comprehensive information gathering.</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The form is designed to collect information about tasks and their associated production and shipping details.

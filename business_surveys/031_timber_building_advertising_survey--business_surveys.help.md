@@ -1,7 +1,3 @@
-<thinking>This guide helps users understand the purpose and usage of the "Timber Building Advertising Survey" form. The form is designed to gather information about the user's advertising needs and preferences, and is primarily used by the Timber Building team to improve their advertising strategies.
-
-Before proceeding, please ensure the form's purpose aligns with your needs. This guide assumes you are filling out the form for your own advertising purposes. If you're unsure, please revisit the form's purpose and ensure it's a good fit.</thinking>
-
 # Timber Building Advertising Survey - Help Guide
 ## Purpose
 The "Timber Building Advertising Survey" form helps us understand your advertising needs and preferences to improve our advertising strategies.

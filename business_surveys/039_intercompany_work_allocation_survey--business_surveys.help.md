@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information regarding intercompany tasks and their allocations. The form likely aims to track and record tasks assigned to different individuals within the company, possibly to monitor progress, allocate tasks efficiently, or facilitate collaboration. It is designed to be completed by individuals or teams, and its fields might vary in relevance for different users. This form is probably part of internal operations or project management, and its specific use and application depend on the company's internal processes and systems.
-
-To ensure consistency, it's essential to complete the form with accurate and relevant information. This guide will help you understand the form's purpose and its fields to facilitate smooth and efficient completion.
-
-Please note that while the form fields might seem extensive, each field is essential for providing a complete picture of intercompany tasks and their allocations. This form does not seem to be a form for collecting personal details or sensitive information, so be assured that your responses are secure.
-
-If you have any questions or concerns, please refer to your supervisor or the designated team leader for guidance.
-</thinking>
-
 # Intercompany Work Allocation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about intercompany tasks and their allocations. It's used for tracking progress, task management, and collaboration within the company.

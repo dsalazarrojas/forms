@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Crime Prevention Forum Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending the Youth Crime Prevention Forum. The purpose of this form is to gather attendee registration details, including name, contact information, and interest in attending the event.

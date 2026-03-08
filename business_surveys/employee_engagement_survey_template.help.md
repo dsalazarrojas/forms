@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees about their experience and satisfaction with their role in the organization. The purpose of this form is to collect data that can help management understand what's working well and what areas need improvement. This form is not meant to be a duplicate of any existing form, but rather an original template created using AI to provide a fresh perspective. By completing this form, employees can provide valuable insights that can lead to positive changes in the workplace.
-
-</thinking>
-
 # employee_engagement_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on their experience and satisfaction with their role in the organization.

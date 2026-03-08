@@ -1,8 +1,3 @@
-<thinking>
-This form is for clients to provide their consent for remote performance therapy services. The form is used to collect information about the client, their emergency contact, and their medical history. It is essential to have this form for legal and confidentiality reasons. Please note that the fields in this form are used to collect sensitive information, and it is the client's responsibility to ensure the accuracy and completeness of the data provided. Before filling out this form, please review it carefully and ask for clarification if you are unsure about any of the fields.
-
-</thinking>
-
 # ROC Performance Therapy Client Consent Form - Help Guide
 ## Purpose
 The ROC Performance Therapy Client Consent Form is used to collect information from clients, including their emergency contact details and medical history, and to obtain their consent for remote therapy services. It is crucial for legal and confidentiality reasons.

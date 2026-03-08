@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the property insurance process from clients. It is a crucial tool for identifying areas of improvement and making data-driven decisions to refine the process. The form is divided into several sections, each focusing on a different stage of the insurance process. This guide will help users complete the form accurately and provide actionable feedback.
-</thinking>
-
 # Property Insurance Process Feedback Survey - Help Guide
 ## Purpose
 

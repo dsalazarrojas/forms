@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of a leader in implementing change within an organization. The survey is meant to gather input from individuals who have observed or interacted with the leader during the change process. The form is intended to be completed by those who have had direct experience with the leader, such as employees, team members, or stakeholders.
-
-This form is not a comprehensive evaluation tool, but rather a starting point for understanding the leader's strengths and areas for improvement. The survey's questions are designed to assess various aspects of leadership, including communication, engagement, resistance handling, resource allocation, role modeling, decision-making, transparency, employee support, accountability, adaptability, and overall effectiveness.
-
-Before completing the survey, please note that the questions are meant to be answered based on your honest assessment of the leader's performance during the change process. The survey is not meant to be a personal attack on the leader, but rather a constructive evaluation to help them grow and improve.
-
-Please answer the questions honestly and provide specific examples or reasons to support your answers where possible.
-
-</thinking>
-
 # Change Leadership Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback on the leadership effectiveness of a leader in your organization during a change process.

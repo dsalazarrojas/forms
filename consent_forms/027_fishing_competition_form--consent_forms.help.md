@@ -1,7 +1,3 @@
-<thinking>
-The "Fishing Competition Form" is intended for gathering information about fishing competitions. It may be used during events or in general to collect user input on various aspects of fishing competitions. To maintain data quality, make sure to fill out this form only when the requested information is known or can be verified, and avoid duplication of data entry.
-</thinking>
-
 # Fishing Competition Form - Help Guide
 ## Purpose
 The Fishing Competition Form is designed to collect information about fishing competitions. It is used to gather user input on various aspects of fishing competitions.

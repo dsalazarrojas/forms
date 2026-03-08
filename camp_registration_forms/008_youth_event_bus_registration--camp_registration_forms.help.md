@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from riders and their guardians for youth events, such as bus registrations. The form asks for basic contact information, consents, and ride details of the riders. 
-
-This form will likely be used by event organizers or administrators to manage registrations for youth events. It is not intended for public use and should not be filled out by riders themselves. 
-Please ensure that you are accessing this form in the correct context and filling it out with the appropriate information. 
-
-The form is quite straightforward, but if you're still unsure, please review the field explanations below. 
-
-</thinking>
-
 # Youth Event Bus Registration - Help Guide
 ## Purpose
 The Youth Event Bus Registration form is designed to collect information from riders and their guardians for youth events. This form will be used by event organizers or administrators to manage registrations for these events.

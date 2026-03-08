@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from nail technicians regarding their skill gaps in the areas of nail art, nail care, nail correction, nail enhancement, and nail repair. The purpose is to identify areas where nail technicians need more training or support to perform their jobs effectively. This will help the organization provide better training and resources for their staff.
-</thinking>
-
 # Nail Technician Skill Gap Survey - Help Guide
 ## Purpose
 The purpose of this form is to help nail technicians identify their skill gaps and provide valuable feedback on areas where they need more training or support. Your input will be used to improve the quality of training and resources provided by our organization.

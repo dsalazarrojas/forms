@@ -1,7 +1,3 @@
-<thinking>Understanding the purpose of this form is crucial to ensure accurate and relevant information is provided. This form appears to be designed to collect data about employees, including their personal details, departmental and managerial relationships, and survey responses. The form's purpose is likely for internal use within the organization, possibly for HR or employee engagement purposes.
-
-Before filling out this form, please ensure that you are providing accurate and honest information. This form is not intended for public consumption and is meant to be a private and confidential document.</thinking>
-
 # Employee Engagement Report Form - Help Guide
 ## Purpose
 The Employee Engagement Report Form is designed to collect information about employees, including their personal details, departmental and managerial relationships, and survey responses. This form will help the organization to better understand employee engagement and improve workplace experience.

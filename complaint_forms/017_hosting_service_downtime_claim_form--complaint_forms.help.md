@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a service downtime incident from the user. It is meant to be filled out by the person experiencing the issue. The purpose of this form is to report a service downtime incident, providing details about the incident, its impact, and any relevant context. To avoid duplication, please ensure that you are using this form to report a new incident and not one that has already been reported. If you have already submitted a report for this incident, please do not submit another report.</thinking>
-
 # Hosting Service Downtime Claim Form - Help Guide
 ## Purpose
 

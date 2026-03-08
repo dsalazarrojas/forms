@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Vision Assessment - Help Guide
 
 ## Purpose

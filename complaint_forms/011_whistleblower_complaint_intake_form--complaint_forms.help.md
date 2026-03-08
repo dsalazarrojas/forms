@@ -1,7 +1,3 @@
-<thinking>
-  The Whistleblower Complaint Intake Form is a tool designed to collect information from individuals who wish to report misconduct or complaints. This form is intended for internal use within the organization to gather details about the complaint, ensuring that the reported incidents are documented and addressed in a fair and timely manner. To avoid duplication and ensure accurate processing, please only submit one form per incident. 
-</thinking>
-
 # Whistleblower Complaint Intake Form - Help Guide
 ## Purpose
 The Whistleblower Complaint Intake Form is a tool for reporting misconduct or complaints. It helps ensure that reported incidents are documented and addressed in a fair and timely manner.

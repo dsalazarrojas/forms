@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 1099 NEC Tax Information Collection Form - Help Guide
 
 ## Purpose

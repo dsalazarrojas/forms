@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to assist in maintaining an accurate stock count of catering supplies and inventory. 
-This form is designed to be completed by staff or management in order to track the quantity of various types of food and non-food supplies. 
-The information collected will be used to identify areas where stock levels are critically low, allowing for efficient ordering and re-stocking. 
-Please ensure that all fields are completed accurately and completely in order to get an up-to-date stock count. 
-This form should not be used for other purposes such as ordering or inventory reporting. 
-Ensure you have reviewed this form and understand its purpose before starting the process.
-
-</thinking>
-
 # Catering Stock Count Form - Help Guide
 ## Purpose
 The purpose of this form is to assist in maintaining an accurate stock count of catering supplies and inventory.

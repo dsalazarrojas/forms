@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from business users regarding their resource allocation needs and priorities. This includes determining their title, department, role, team size, budget, and other relevant factors. The form is likely used for internal resource planning and allocation within an organization.
-</thinking>
-
 # Treasury Resource Allocation Survey - Help Guide
 ## Purpose
 The Treasury Resource Allocation Survey is designed to gather information from business users to help inform resource allocation decisions. This survey is intended to be completed by users in various departments within the organization.

@@ -3,9 +3,6 @@
 
 This form is designed to collect data on facility efficiency, covering various aspects such as energy consumption, space utilization, and maintenance costs. The form aims to provide a comprehensive analysis of facility performance and identify areas for improvement.
 
-<thinking>
-The form is intended to collect data for facility efficiency analysis, which is crucial for identifying opportunities to reduce energy costs, optimize space usage, and improve overall facility maintenance. This form should not be used for other purposes, such as creating a new employee profile. Please ensure that the information provided is accurate and relevant to the facility being analyzed.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

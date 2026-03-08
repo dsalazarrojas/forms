@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about park maintenance tasks, allowing park managers and staff to keep track of tasks that need to be performed on parks. The purpose of this form is to provide a centralized location for park maintenance tasks, making it easier for staff to prioritize and manage tasks. This form is intended for use by park managers and staff within an organization that oversees park maintenance.
-
-</thinking>
-
 # Park Maintenance Checklist Form - Help Guide
 ## Purpose
 The Park Maintenance Checklist Form is used to track and manage park maintenance tasks.

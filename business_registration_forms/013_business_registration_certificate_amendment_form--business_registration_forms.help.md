@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Registration Certificate Amendment Form - Help Guide
 
 ## Purpose

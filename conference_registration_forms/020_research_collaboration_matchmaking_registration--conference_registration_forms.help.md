@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate the research collaboration matchmaking process between researchers. Its purpose is to collect relevant information about a researcher's background, interests, and expertise to match them with potential collaborators. The form is intended to be completed by individual researchers who are interested in collaborating on research projects. It is not a registration form for conference attendees.
-
-The form collects information about the researcher's name, affiliation, research interests, expertise, and experience in a specific research area, as well as details about their current and past research grants. This information will be used to match researchers with similar interests and expertise, and to facilitate communication between potential collaborators.
-
-The form is designed to be completed by individual researchers, and it is not necessary to have a grant to complete the form. However, providing information about current and past grants will help in the matchmaking process.
-</thinking>
-
 # Research Collaboration Matchmaking Registration - Help Guide
 ## Purpose
 The Research Collaboration Matchmaking Registration form is designed to facilitate the research collaboration matchmaking process between researchers. This form helps to match researchers with similar interests and expertise.

@@ -1,5 +1,3 @@
-<thinking>This form is used to register a summer camper. Each field has a specific purpose and is necessary for camp administration and camp safety. Please ensure all required fields are filled and the form is filled in a single session. Duplicate submissions will not be accepted.</thinking>
-
 # Summer Camper Registration Form - Help Guide
 ## Purpose
 This form is designed to register a summer camper for the camp. It is essential to fill out the form completely and accurately to ensure a smooth and safe experience for the camper.

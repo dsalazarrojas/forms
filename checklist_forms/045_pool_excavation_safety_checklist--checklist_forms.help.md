@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help construction site managers and supervisors monitor and ensure safe pool excavation practices. The form helps to gather information about the presence of confined spaces, hazards, and the condition of equipment during the excavation process. It also asks about the use of personal protective equipment, control measures for identified hazards, and whether or not the site has been cleared. This information will help in identifying potential risks and take necessary precautions to prevent accidents.
-
-This form is a checklist and should be completed in a straightforward and objective manner.
-</thinking>
-
 # Pool Excavation Safety Checklist - Help Guide
 ## Purpose
 The Pool Excavation Safety Checklist is a tool used to ensure safe pool excavation practices by monitoring the presence of confined spaces, hazards, and the condition of equipment. It helps in identifying potential risks and take necessary precautions to prevent accidents.

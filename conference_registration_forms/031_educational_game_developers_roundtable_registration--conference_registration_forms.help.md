@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees of the Educational Game Developers Roundtable conference, which aims to bring together game developers, organizers, speakers, and attendees for discussions and networking. This form will help the organizers to understand who is attending, their roles, interests, and preferences, and to assign a suitable tool for communication and collaboration. Please ensure that you are registering only once for the conference and fill in accurate information to help us better prepare for your participation.
-</thinking>
-
 # Educational Game Developers Roundtable Registration - Help Guide
 ## Purpose
 The Educational Game Developers Roundtable Registration form is designed to collect essential information from attendees to facilitate networking, discussions, and communication among them. Please read this guide carefully to ensure you complete the form correctly.

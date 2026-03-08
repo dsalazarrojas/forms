@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and data from users about their planning processes and overall experience. This form is likely part of a larger effort to improve the planning processes and overall satisfaction of the users. To avoid duplication, the survey should only be filled out once.
-
-This information will help stakeholders make informed decisions about how to improve the planning processes and overall user experience.
-
-</thinking>
-
 # Intelligent Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and data from users about their planning processes and overall satisfaction. Your feedback will help stakeholders improve the planning processes and overall user experience.

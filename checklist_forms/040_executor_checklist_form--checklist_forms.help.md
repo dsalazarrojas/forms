@@ -1,8 +1,3 @@
-<thinking> 
-The "Executor Checklist Form" is a comprehensive checkup to assess the progress of an executor in a specific process. It is intended to be used in situations where the completion of certain tasks or confirmations is vital. Please ensure that you are filling out this form accurately as it may be used for auditing and evaluation purposes.
-
-</thinking>
-
 # Executor Checklist Form - Help Guide
 
 ## Purpose

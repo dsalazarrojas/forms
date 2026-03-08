@@ -1,6 +1,3 @@
-<thinking> 
-The form is intended to assess a migrant's level of awareness and understanding of their rights in a particular industry or business. This includes questions about knowledge, employer responsibilities, employee awareness, workplace rights, consequences for non-compliance, and specific information about the business such as name, address, and contact details. This form is likely to be used by organizations or authorities to collect data on migrant's awareness and treatment in various industries.</thinking>
-
 # Migrant Workforce Rights Awareness Survey - Help Guide
 
 ## Purpose

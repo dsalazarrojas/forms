@@ -1,6 +1,3 @@
-<thinking>
-This form is used to confirm website handovers between two parties. It is crucial that the form is completed accurately and thoroughly to ensure seamless transfer of ownership. Please ensure that you have reviewed the relevant documentation and have all necessary information before completing this form. If you have already completed a previous handover confirmation, please do not submit this form as it may lead to duplication of efforts and inconsistencies in our records.</thinking>
-
 # website_handover_confirmation_form - Help Guide
 ## Purpose
 The website handover confirmation form is used to confirm the transfer of ownership of a website between two parties. This form helps to track the progress and status of the handover process.

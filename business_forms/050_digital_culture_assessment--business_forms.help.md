@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Culture Assessment - Help Guide
 
 ## Purpose

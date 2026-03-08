@@ -1,17 +1,3 @@
-<thinking>
-This help guide is meant to provide a clear and concise explanation of the Series Creation Survey form. The form is used to collect information about series creation, including series names, show IDs, concepts, target audiences, and submitter details. It appears to be used in a business context, possibly for tracking and analyzing series development data.
-
-Before proceeding, please ensure that you are filling out the correct form and that your submission is relevant to the series creation process. If you are unsure, please review this guide and contact the relevant authorities for clarification.
-
-The form has been designed to collect both required and optional information, so be sure to review each field carefully and fill out only the necessary fields.
-
-Please note that some fields have specific formats or expectations, such as the submitter name, email, and phone number, which are typically formatted as follows: <name>, <email@example.com>, and <phone number>.
-
-Also, some fields have options that are comma-separated lists, such as the tags and submitter location fields. Please use commas to separate each item in these fields.
-
-Finally, please be mindful of the submitter status and series status fields, which have options to track the progress of a series.
-</thinking>
-
 # Series Creation Survey - Help Guide
 ## Purpose
 The Series Creation Survey form is used to collect information about series creation, including series names, show IDs, concepts, target audiences, and submitter details.

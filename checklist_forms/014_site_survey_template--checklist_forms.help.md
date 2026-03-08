@@ -1,13 +1,3 @@
-<thinking>
-This form is meant to collect information from users about their experience with the site. Specifically, it's used to gather their general contact information, the services they've used at the site, their assessment of the quality and communication of the site's support team, and their overall experience. 
-
-The purpose of this form is to gather qualitative data about the site's performance and user experience, which will help the site's management to improve its services and overall user satisfaction. 
-
-The information gathered through this form will be reviewed and analyzed by site's management to identify areas of improvement and make informed decisions about how to optimize the site's functionality and user experience.
-
-Please fill out this form completely and accurately to help us better understand your experience.
-</thinking>
-
 # Site Survey Template - Help Guide
 ## Purpose
 The Site Survey Template is a form designed to collect information from users about their experience with the site. The purpose of this form is to gather qualitative data about the site's performance and user experience.

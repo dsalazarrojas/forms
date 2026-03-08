@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting feedback from respondents on the innovation climate within the institution. It is designed to gauge the level of support and resources available for innovation, as well as the perceived barriers and challenges faced by respondents. The data collected will help identify areas where the institution can improve its support for innovation and develop targeted interventions to address the needs of its community.
-</thinking>
-
 # Academic Innovation Climate Survey - Help Guide
 ## Purpose
 This survey aims to gather information on the perceived support and resources available for innovation within the institution, as well as the challenges and barriers that respondents face. Your feedback will help us better understand the needs and concerns of our community and inform strategies to improve the innovation climate.

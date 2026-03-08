@@ -1,7 +1,3 @@
-<thinking>
-This guide will help explain the Asset Survey form purpose and functionality, and how to complete it in an efficient and accurate way. The form is designed to collect information about an asset's condition, maintenance needs, and other relevant details. Before starting the survey, ensure you're filling out the form for an asset that is being surveyed. This will save you time and ensure consistency in your responses.
-</thinking>
-
 # Asset Survey - Help Guide
 ## Purpose
 

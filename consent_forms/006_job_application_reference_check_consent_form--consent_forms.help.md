@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect a reference check consent from job applicants. The purpose of this form is to ensure that the applicant is aware of and consents to a background check being performed on them. The form includes a series of yes or no questions related to the reference check and an optional email address and phone number for further contact. The form is typically used by hiring managers or HR personnel to gather the necessary information from the applicant. Before filling out this form, please ensure that you have reviewed our <a href="https://www.example.com/privacy-policy">privacy policy</a> and understand what a reference check involves.</thinking>
-
 # job_application_reference_check_consent_form - Help Guide
 ## Purpose
 This form is designed to collect a reference check consent from job applicants. It is used to gather necessary information and consent for a background check to be performed on the applicant.

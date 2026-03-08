@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form called "KPI Commitment Survey" to help users understand and commit to key performance indicators (KPIs) that are crucial for business operations. This form is designed to gather information about a team or individual's commitment to achieving specific performance targets. Please fill out this form only if you are directly involved in the business operations and are familiar with the performance indicators in question. If you are filling out this form on behalf of someone else, make sure they have reviewed and agreed to the submitted answers.
-
-**Note:** This form is not intended to be filled out multiple times. Each user should fill out the form once, providing their genuine commitment to the performance indicators. If you are unsure about any of the questions or options, please ask your supervisor or the relevant department head for clarification.
-</thinking>
-
 # KPI Commitment Survey - Help Guide
 ## Purpose
 The KPI Commitment Survey is designed to help users understand and commit to key performance indicators that are crucial for business operations.

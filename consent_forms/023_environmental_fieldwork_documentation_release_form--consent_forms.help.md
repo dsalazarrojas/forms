@@ -1,8 +1,3 @@
-<thinking>
-The Environmental Fieldwork Documentation Release Form is a crucial tool for recording and documenting fieldwork activities, ensuring accuracy, completeness, and consistency. This form is intended to capture essential information about team members, fieldwork locations, research objectives, and other pertinent details. Before starting this form, please ensure that you have not completed it for the same fieldwork project. This form is not meant to be a substitute for other documentation forms, so it's essential to understand its unique focus and content.
-
-</thinking>
-
 # Environmental Fieldwork Documentation Release Form - Help Guide
 
 ## Purpose

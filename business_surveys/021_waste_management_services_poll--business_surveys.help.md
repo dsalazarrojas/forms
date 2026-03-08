@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for collecting feedback and ratings from customers about the waste management services provided by the organization. The form is used to gather information about the quality of service, issues encountered, priorities for improvement, and other relevant details. The purpose of this form is to identify areas of improvement and to help the organization provide better services in the future.
-
-To ensure that this form is not duplicated, please note that the form id is unique to this specific form and is not used as a identifier in other forms.
-
-</thinking>
-
 # Waste Management Services Poll - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from customers about the waste management services provided by the organization.

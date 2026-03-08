@@ -1,10 +1,3 @@
-<thinking>
-To ensure the Intellectual Property Rules Acknowledgement Form is completed correctly and accurately, we must consider the following:
-- This form is used for acknowledging and recording the intellectual property rights of individuals or teams within the organization.
-- It's essential to review the form carefully before submission to avoid duplication or missing any critical sections.
-- The form should not be used for any other purpose than the intended acknowledgment of intellectual property rights.
-</thinking>
-
 # Intellectual Property Rules Acknowledgement Form - Help Guide
 ## Purpose
 The purpose of this form is to acknowledge and record intellectual property rights of individuals or teams within the organization. It's a crucial document that helps maintain accurate records and ensures compliance with intellectual property regulations.

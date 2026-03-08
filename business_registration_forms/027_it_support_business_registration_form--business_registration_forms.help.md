@@ -1,5 +1,3 @@
-<thinking>...This form is designed for businesses to register for IT support services. It is intended to gather information about the business, including its name, description, contact details, and service requirements. By completing this form, businesses can request IT support services tailored to their needs. The form fields are designed to be self-explanatory, but if there are any doubts or concerns, please refer to this guide for further clarification... </thinking>
-
 # it_support_business_registration_form - Help Guide
 ## Purpose
 The IT Support Business Registration Form is designed for businesses to register for IT support services. This form helps the IT support team understand your business needs and provide the right support services.

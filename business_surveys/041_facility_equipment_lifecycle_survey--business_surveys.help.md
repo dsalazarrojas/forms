@@ -1,9 +1,3 @@
-<thinking> This help guide is intended to assist end-users in completing the Facility Equipment Lifecycle Survey form. This form is designed to gather information about the lifecycle of facility equipment, including maintenance history, asset condition, replacement needs, and budgeting requirements. The form is used to track and analyze the life cycle of facility equipment, providing a comprehensive overview of equipment maintenance, replacement, and budgeting processes. It is essential to complete this form accurately to ensure that the data collected is reliable and useful for decision-making purposes.
-
-Please note that the form is not a mandatory or legally required document, but rather a tool to help facility management teams track and optimize equipment maintenance and replacement processes.
-
-This guide is based on the provided YAML schema and is intended to be a general resource for end-users. If you have any questions or need further clarification, please consult the form's creator or a relevant facility management expert.</thinking>
-
 # Facility Equipment Lifecycle Survey - Help Guide
 ## Purpose
 The Facility Equipment Lifecycle Survey is a tool used to track and analyze the life cycle of facility equipment, including maintenance history, asset condition, replacement needs, and budgeting requirements.

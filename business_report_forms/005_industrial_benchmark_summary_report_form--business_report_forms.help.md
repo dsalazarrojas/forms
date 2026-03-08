@@ -1,9 +1,3 @@
-<thinking> 
-  The industrial benchmark summary report form is designed for capturing information on industrial benchmarks, which is a critical component of the industrial benchmarking process. This form helps in collecting data on industrial benchmarks, including their values and frequencies, to provide a comprehensive overview of the industrial sector.
-  To ensure relevance and non-duplication, it is essential to understand that industrial benchmarks are used to gauge the performance of industrial operations, and this form is specifically designed to capture the key aspects of these benchmarks.
-  It is crucial to review and understand each field in the form carefully to ensure accurate and consistent data entry.
-</thinking>
-
 # industrial_benchmark_summary_report_form - Help Guide
 ## Purpose
 The industrial benchmark summary report form is used to collect data on industrial benchmarks, providing a comprehensive overview of the industrial sector.

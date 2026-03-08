@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and process information related to International Leave Requests (ILR) applications. This form is used to gather details about the applicant, the type of leave, reason for leave, and supporting documents required for the leave. The form is divided into different sections, each designed to capture specific information related to the ILR process. It is essential to complete the form accurately and thoroughly to ensure that the leave request is processed efficiently and effectively.
-</thinking>
-
 # ILR Application Checklist - Help Guide
 ## Purpose
 The ILR Application Checklist is a form designed to collect and process information related to International Leave Requests (ILR) applications.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Treasury Investment Disclosure Consent Form - Help Guide
 ## Purpose
 This form is used to obtain investment disclosure consent from investors for treasury investments. The form is used to document the investor's understanding and agreement to the terms and conditions of the investment.

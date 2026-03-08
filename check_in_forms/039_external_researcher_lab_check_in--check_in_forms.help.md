@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "External Researcher Lab Check In" form is used correctly, without any duplication. This form should be used when a researcher is visiting a lab, and the information collected will help us keep track of who's visiting, for how long, and with whom. To avoid confusion, we should only create a new entry if the researcher has not visited the lab on the same day. If the researcher has already checked in on a previous visit, we should not create a new entry.
-</thinking>
-
 # External Researcher Lab Check In - Help Guide
 ## Purpose
 This form is used to record the details of a researcher's visit to a lab. It includes information about the researcher, the lab, and the visit.

@@ -1,9 +1,3 @@
-<thinking>
-
-This is a form used to track waffle redemption reports for customers. The form is designed to collect information about the customer's details, waffle redemption status, and other relevant information such as date and time of redemption, and customer contact details. This form should only be used for customers who have redeemed their waffles and have provided the necessary details. The form will help in keeping track of waffle redemptions and provide insights on customer behavior.
-
-</thinking>
-
 # Waffle Redemption Report - Help Guide
 ## Purpose
 This form is used to collect information about customers who have redeemed their waffles and track their redemption status.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to register attendees for the Wayland Conference. The purpose of this form is to collect contact information and details about the attendees' role in the conference. This form is intended for the organizers to gather essential information to manage the attendees' participation and communication.
-
-The form will only ask for minimal information that is absolutely necessary to achieve the conference's goals. The form has 7 fields, each with a specific purpose:
-- Collect contact information
-- Confirm attendance method
-- Capture full name
-- Gather email address
-- Record the date of attendance
-- Note the time of attendance
-- Specify the attendee's role in the conference
-
-The form has 4 required fields: Contact Method, Full Name, Email, and Role. The form does not ask for any sensitive or personal information that could compromise the attendees' privacy.
-
-The form was created to be simple and user-friendly, with clear labels and options for each field. The form's layout is organized in a logical and easy-to-follow manner.
-
-To complete this form, please follow the instructions below:
-</thinking>
-
 # Wayland Conference Registration Form - Andrew Jimenez - Help Guide
 ## Purpose
 

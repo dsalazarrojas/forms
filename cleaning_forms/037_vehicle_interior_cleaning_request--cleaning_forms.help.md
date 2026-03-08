@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers requesting cleaning services for their vehicle interior. The form aims to gather specific details such as the type of service required, date and time of the appointment, location, and any special requests or comments the customer may have. This form is meant to be used for internal purposes, and its responses will be reviewed internally to ensure that the necessary cleaning services are performed accurately and efficiently.
-
-The form does not store personally identifiable information and is not intended to be used for any commercial purposes. By using this form, customers can provide clear and concise information about their vehicle cleaning needs, which will help our organization to better serve them.
-
-Please note that this form is not affiliated with any specific form creation platform and is an original adaptation of a publicly available template. 
-
-</thinking>
-
 # Vehicle Interior Cleaning Request - Help Guide
 
 ## Purpose

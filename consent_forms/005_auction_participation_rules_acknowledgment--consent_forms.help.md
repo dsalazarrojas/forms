@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clearly understood and that the information provided is accurate and consistent. This form is intended to collect essential details from auction participants, including their personal and contact information, auction event details, and acknowledgments related to rules, regulations, and payment terms. It's essential to verify that each participant understands the terms and conditions of the auction, including the binding nature of bids, payment terms, and liability release. This form will help maintain transparency and consistency throughout the auction process.
-</thinking>
-
 # Auction Participation Rules Acknowledgment - Help Guide
 
 ## Purpose

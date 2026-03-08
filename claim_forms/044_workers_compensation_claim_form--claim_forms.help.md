@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workers' Compensation Claim Form - Help Guide
 
 ## Purpose

@@ -1,27 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for funeral planning purposes, including details about the deceased, burial site, funeral service, and contact information. The form is divided into sections, each with its own set of fields that require specific information. This form is designed to ensure that all necessary details are captured for a smooth and respectful funeral planning process.
-
-To complete this form, users will go through each page and fill in the required fields. The form will guide them through each section, providing clear labels and instructions for each field. The fields will be categorized into the following pages: Funeral Planning Checklist, Funeral Service, Burial Site, Obituary, Contact Information, and Funeral Details. 
-
-The fields are designed to be user-friendly, with clear labels and instructions for each section. 
-
-This form will collect the following information:
-
-* A checklist of funeral planning details
-* Type of funeral service
-* Selection of burial site options
-* Information for death certificate and death certificate copy
-* Text field for obituary
-* Selection for obituary publication
-* Options for funeral home
-* Text field for burial site details
-* Date and time of death
-* Date and time of funeral
-* Contact information (email, phone number, address)
-* Obituary wishes
-
-</thinking>
-
 # Funeral Planning Checklist Form - Help Guide
 ## Purpose
 The Funeral Planning Checklist Form is designed to collect information for funeral planning purposes.

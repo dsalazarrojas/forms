@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic agreement form, likely used for clients to provide their information, agree to terms, and sign off on services or transactions. Given that it's a generic form, it's not affiliated with any specific company or organization. The structure suggests it's designed for clients to provide basic details about themselves, agree to payment terms, and sign off on services or agreements.
-</thinking>
-
 # Hair Extension Agreement Form - Help Guide
 
 ## Purpose

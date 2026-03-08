@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful and user-friendly guide for the "Policy Improvement Feedback Survey" form, let's break down the purpose and requirements of the form. This form is designed to collect feedback and suggestions from users on policy improvements, allowing the organization to gauge the effectiveness and relevance of its policies. The form should be completed by users who have experience with the policy and are looking to provide valuable insights. 
-
-The form consists of several pages, each with multiple fields. Before we dive into the field-by-field explanation, let's clarify that the form is divided into sections, but not necessarily in a strict logical order. Some fields might appear on different pages, so please follow the page instructions carefully. 
-
-To complete the form, users will need to select one or multiple options for some fields and fill out text or date fields as required. Please note that some fields might not be required, but providing additional information will help the organization better understand the user's feedback. 
-
-</thinking>
-
 # Policy Improvement Feedback Survey - Help Guide
 ## Purpose
 The Policy Improvement Feedback Survey is designed to collect feedback and suggestions from users on policy improvements. This survey is a crucial tool for the organization to gauge the effectiveness and relevance of its policies. Your input is invaluable in helping us create policies that better serve your needs.

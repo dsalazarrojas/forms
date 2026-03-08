@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users track and document the rollout of policies within their organization. The purpose of this form is to provide a centralized and structured way to collect information about the status of policies, their implementation, and potential issues or concerns. This form is intended to be used by policy owners, administrators, and other stakeholders to ensure that policies are properly rolled out and communicated to relevant parties.
-</thinking>
-
 # policy_rollout_checklist - Help Guide
 ## Purpose
 The policy rollout checklist is a form used to track the implementation and status of policies within an organization. It helps policy owners and administrators to ensure that policies are properly communicated, understood, and implemented.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a brow sculpting session, including their full name, date of birth, contact information, appointment date, type of brow sculpting desired, previous experience with brow sculpting, skin type, any known skin allergies or sensitivities, current medications, skin conditions, pregnancy status, pain sensitivity level, recent procedures, brow goals, acknowledgement of potential risks, and consent to the procedure. The form is designed to be completed by the client and is a requirement for the brow sculpting session to proceed. Please ensure that the form is completed accurately and thoroughly to ensure a smooth and safe experience.
-
-</thinking>
-
 # Brow Sculpting Session Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The return authorization consent form is a legal document that customers need to sign before returning an item. The purpose of this form is to ensure that the customer understands and agrees to the return policy and procedures, which includes the reason for return, the return address, and the expected signature date.
-</thinking>
-
 # Return Authorization Consent Form - Help Guide
 ## Purpose
 This form serves as a legal document to obtain the customer's consent for returning an item. It ensures that the customer understands and agrees to the return policy and procedures, which are essential for a smooth return process.

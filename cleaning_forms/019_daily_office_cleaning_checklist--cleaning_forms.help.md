@@ -1,14 +1,3 @@
-<thinking>
-This form is used to capture information about the office cleaning schedule and tasks. The form is meant to be filled out by the office cleaner or the person in charge of cleaning the office. It is used to track how often the office is cleaned, what tasks are performed, and who is responsible for the cleaning.
-
-The form consists of multiple pages with different types of questions. Page 1 asks how often the office is cleaned, with options for daily, weekly, bi-weekly, and monthly. Page 2 asks what cleaning tasks are performed, such as dusting the floors and disinfecting the bathrooms. Page 3 gathers contact information for the office cleaner, including their name, email, phone number, and department. Page 4 is for additional notes or comments. Pages 5-8 are for optional fields that may be used for tracking purposes.
-
-Before you start, please make sure that you are filling this form for the correct office. If you have filled this form out before, please note that the questions may be different or the options may have changed.
-
-Please note that some fields may not be required, but filling them out will provide more detailed information for the office cleaning schedule and tasks.
-
-</thinking>
-
 # Daily Office Cleaning Checklist - Help Guide
 ## Purpose
 This form is used to track the office cleaning schedule and tasks.

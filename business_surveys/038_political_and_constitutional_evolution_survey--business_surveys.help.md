@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about political attitudes, civic engagement, and constitutional knowledge from participants. The purpose of this form is to gather data on how individuals perceive and interact with political systems, as well as their understanding of constitutional principles. This information will help us better understand the complexities of political and constitutional evolution, which can inform decision-making processes and policy development in various contexts.
-To ensure the accuracy and relevance of the collected data, please note that:
-
-* This form is not intended to be a comprehensive or exhaustive survey of all political and constitutional issues.
-* Responses should reflect your genuine opinions and experiences.
-* Please answer each question based on your actual knowledge and feelings.
-
-Before starting, please ensure that you have not previously submitted this form. If you have any issues or concerns, feel free to contact us for assistance.
-</thinking>
-
 # Political And Constitutional Evolution Survey - Help Guide
 ## Purpose
 

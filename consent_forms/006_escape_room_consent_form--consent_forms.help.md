@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Escape Room Consent Form - Help Guide
 ## Purpose
 The Escape Room Consent Form is used to collect information from students, parents, and teachers for an escape room event. The form ensures that all necessary consents and agreements are in place before the event, promoting a safe and enjoyable experience for everyone involved.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tier And Interval Survey - Help Guide
 
 ## Purpose

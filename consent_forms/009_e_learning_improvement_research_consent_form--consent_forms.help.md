@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # e_learning_improvement_research_consent_form - Help Guide
 ## Purpose
 This form is intended for individuals to provide their consent for participation in E-Learning Improvement Research. The form is designed to collect relevant information in a straightforward and efficient manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # global_drumming_community_survey - Help Guide
 
 ## Purpose

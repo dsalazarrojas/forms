@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who are interested in subscribing to a home cleaning service. The form is designed to gather details about the customer, their contact information, preferred schedule, subscription preferences, and payment information, as well as any additional notes or comments.
-
-When filling out this form, please ensure that you have read and understood the following information:
-
-*   All fields are optional, but please fill out as much information as possible for our records.
-*   Please be honest and accurate when providing your contact details, schedule preferences, and payment information.
-*   If you're unsure about any of the fields, please ask us for clarification before submitting the form.
-
-</thinking>
-
 # Home Cleaning Service Subscription Form - Help Guide
 ## Purpose
 The Home Cleaning Service Subscription Form is a form designed to gather information from customers who are interested in subscribing to a home cleaning service. It is intended to collect contact details, schedule preferences, and payment information to facilitate the process of setting up a subscription.

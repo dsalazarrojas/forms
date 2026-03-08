@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for business messaging and coordination purposes. It should only be used for internal business communication and not for external communication or other purposes. It's essential to ensure that the form is used only for the intended purpose and not duplicated, as it may lead to incorrect or redundant data.
-</thinking>
-
 # messaging_coordination_survey - Help Guide
 ## Purpose
 The "messaging_coordination_survey" form is designed to collect information for internal business messaging and coordination purposes. It helps to understand the effectiveness of current messaging and coordination tools, identify areas for improvement, and provide suggestions for better communication and collaboration.

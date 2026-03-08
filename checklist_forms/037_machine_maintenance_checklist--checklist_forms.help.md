@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on machine maintenance, including equipment used, location, type of maintenance, date of last maintenance, and other relevant details. It is likely used in industrial or manufacturing settings where equipment maintenance is crucial for ensuring optimal performance and extending the lifespan of machinery. The form appears to be a comprehensive checklist for tracking and managing machine maintenance activities. It may be used by supervisors, technicians, or other personnel responsible for monitoring and maintaining equipment.
-</thinking>
-
 # Machine Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to collect and document information on machine maintenance, including the equipment used, location, type of maintenance, and other relevant details.

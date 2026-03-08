@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to grant permission for the use and publication of their video reflections in various academic settings. The form is designed to collect the participant's information, including their contact details, role, and video recording details. The participant can choose which platforms they consent to their video being published on and can also specify any special conditions or restrictions on the use of their video.
-</thinking>
-
 # Academic Reflection Video Publication Consent Form - Help Guide
 ## Purpose
 This form is used to grant permission for the use and publication of your video reflections in academic settings.

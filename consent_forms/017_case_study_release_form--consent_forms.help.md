@@ -1,7 +1,3 @@
-<thinking>
-This form is a Case Study Release Form, which is used to obtain consent and authorization from participants to publish their case study. The form is designed to ensure that participants' rights and privacy are respected and that they are aware of how their case study will be used and distributed. Before completing this form, you should ensure that you have the necessary permissions and understand the terms of publication. Please review the form carefully and answer the questions truthfully. Note that you can always reach out to the organization or institution responsible for publishing the case study if you have any questions or concerns.
-</thinking>
-
 # Case Study Release Form - Help Guide
 ## Purpose
 The Case Study Release Form is used to obtain consent and authorization from participants to publish their case study. It ensures that participants' rights and privacy are respected and that they are aware of how their case study will be used and distributed.

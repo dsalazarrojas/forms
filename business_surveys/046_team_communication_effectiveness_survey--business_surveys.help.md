@@ -1,5 +1,3 @@
-<thinking>As a team communication survey is used to gauge the effectiveness of team communication in an organization. This survey is used to gather opinions and feedback from team members about how well they are able to communicate with each other and with the team leader. It is designed to help identify areas where communication can be improved and provide insights for team development. This form should only be filled out by team members and should not be filled out by team leaders or managers. The purpose of this survey is to gather honest and subjective feedback, so please answer the questions as accurately and truthfully as you can.</thinking>
-
 # team_communication_effectiveness_survey - Help Guide
 ## Purpose
 The Team Communication Effectiveness Survey is designed to assess how well team members communicate with each other and with their team leader. It will help identify areas of improvement and provide insights for team development.

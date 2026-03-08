@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the vendor_fee_review_consent_form form. The form is used to review and consent to vendor fees. It is not intended to be used for other purposes, and filling out the form multiple times will not affect the outcome of the review process. The form is designed to collect specific information from users, and each field is carefully crafted to elicit the correct information. Please review each field carefully to ensure you complete the form correctly.
-</thinking>
-
 # vendor_fee_review_consent_form - Help Guide
 ## Purpose
 The vendor_fee_review_consent_form is used to review and consent to vendor fees. This form is designed to collect information about vendor fees and to ensure that the vendor is aware of the terms and conditions of the review process.

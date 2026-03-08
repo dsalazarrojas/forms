@@ -1,8 +1,3 @@
-<thinking>
-We will assume that the form is used to assess the Return on Investment (ROI) of marketing collateral, which is a crucial process to evaluate the effectiveness and efficiency of marketing materials and their distribution channels. This form should help sales teams, marketing managers, and other stakeholders understand how marketing collateral contributes to the organization's overall goals and revenue generation. We also assume that the form should not be used for assessing other types of collateral or projects.
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and the goals it's intended to achieve. If you're unsure or have questions, refer to your organization's marketing strategy or consult with a team member.
-</thinking>
-
 # Collateral ROI Assessment Form - Help Guide
 ## Purpose
 This form is designed to help you evaluate the effectiveness of marketing collateral in generating revenue and promoting your products or services. By filling out this form, you'll provide valuable insights into the performance of your marketing materials, which can help inform future investments and improve sales strategies.

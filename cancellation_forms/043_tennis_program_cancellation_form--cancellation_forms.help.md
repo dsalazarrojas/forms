@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tennis Program Cancellation Form - Help Guide
 
 ## Purpose

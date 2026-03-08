@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to serve as a checklist for evaluating the success of a tutoring session. It captures key information regarding the objectives achieved, materials used, session goals, session notes, dates and times, and session duration. The form will likely be used by tutors to gather data and feedback for future improvement. Ensure that this form is not used for duplicate or unrelated tasks, and that the objectives are clearly defined and aligned with the session goals.
-
-</thinking>
-
 # Tutoring Session Checklist Form - Help Guide
 ## Purpose
 This form is designed to help tutors evaluate and document the progress and outcomes of a tutoring session. It helps gather information on objectives achieved, materials used, session goals, session notes, dates and times, and session duration.

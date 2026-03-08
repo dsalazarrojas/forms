@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Client Relationship Evaluation Form - Help Guide
  
 ## Purpose

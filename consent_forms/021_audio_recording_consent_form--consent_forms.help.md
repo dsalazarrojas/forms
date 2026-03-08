@@ -1,5 +1,3 @@
-<thinking>...This form is designed to capture participant consent for audio recordings, which may be used for various purposes such as podcasting, interviewing, voice over, music recording, educational content, or research studies. The form asks for participant information like name, email, phone number, and date of birth for age verification. It also includes fields for recording details like project name, recording date, location, and method. The form ensures that participants consent to being recorded and understand how their recording will be used, distributed, and for how long. Additionally, it allows them to choose their preferred anonymity level and whether they will receive compensation. Lastly, it provides a mechanism for participants to withdraw their consent before publication...</thinking>
-
 # Audio Recording Consent Form - Help Guide
 ## Purpose
 This form is designed to capture participant consent for audio recordings, ensuring a clear understanding of the recording's purpose, usage, and distribution.

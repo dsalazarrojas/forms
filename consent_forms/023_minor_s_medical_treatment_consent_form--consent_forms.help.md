@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for minors' medical treatment, which may include medical history, allergies, and emergency contact information. The purpose of this form is to obtain consent from parents or legal guardians for the treatment of their minor child, and to provide necessary details about the treatment process. Please ensure that you are authorized to complete this form before proceeding.
-</thinking>
-
 # Minors Medical Treatment Consent Form - Help Guide
 ## Purpose
 This form is used to collect information for minors' medical treatment, including medical history, allergies, and emergency contact information. It is intended for parents or legal guardians to provide consent for their child's treatment and to provide necessary details about the treatment process.

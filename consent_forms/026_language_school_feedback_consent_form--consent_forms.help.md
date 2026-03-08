@@ -1,7 +1,3 @@
-<thinking>
-This form is used by Language School to collect feedback and consent from students, allowing them to provide their first name, last name, contact information, and feedback. The purpose of this form is to ensure that students are giving their consent for the school to use their feedback, share it with others, and use it to improve the school's services. To avoid duplication of consents, please fill out the form only once you have read and understood the consent terms. Please be aware that the form may be used to contact you via email or phone.
-</thinking>
-
 # Language School Feedback & Consent Form - Help Guide
 ## Purpose
 This form is used to collect feedback and consent from students to improve the Language School's services and ensure that students are aware of and agree to the terms of use.

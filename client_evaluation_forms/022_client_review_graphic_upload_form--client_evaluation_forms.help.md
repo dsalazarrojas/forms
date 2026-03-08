@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from clients regarding the review and feedback they have provided on the designs submitted to them. The purpose of this form is to facilitate the collection of structured feedback and documentation of the design process. 
-
-The form is typically completed by clients after reviewing the designs and providing their feedback. The goal is to ensure that the designer has a clear understanding of the client's expectations and requirements.
-
-This form is a critical part of our design workflow and is used to track the progress and status of the design process. It's essential to complete this form accurately to maintain consistency in our design process.
-
-Before completing this form, please ensure that you have reviewed the designs and provided detailed and specific feedback. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-Please note that some of the fields on this form are optional, and it's not required to fill them out if not applicable. However, providing additional information and feedback can be beneficial for the designer's understanding and future reference.
-
-</thinking>
 # Client Review & Graphic Upload Form - Help Guide
 ## Purpose
 The Client Review & Graphic Upload Form is a critical component of our design process. It captures client feedback, review, and approval status for designs submitted to them. This form helps maintain consistency and ensures that all stakeholders have a clear understanding of the project's progress and status.

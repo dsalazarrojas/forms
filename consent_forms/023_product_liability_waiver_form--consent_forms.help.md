@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Liability Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain product liability waiver from users before they use a product. It is an essential part of the product's usage agreement. Completing this form ensures users understand and acknowledge the risks associated with using the product.

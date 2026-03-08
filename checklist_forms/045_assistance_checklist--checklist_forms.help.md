@@ -89,28 +89,7 @@ To complete this form, follow these steps:
 * **Client Signature** (`client_signature`, text): Type name to acknowledge. Enter your name as the client.
 * **Case Manager Signature** (`case_manager_signature`, text): Type name to sign. Enter your name as the case manager.
 
-# <thinking>
-This form is designed to assist case managers in providing support to their clients. The purpose of this form is to track progress, identify barriers, and outline next steps for the client. The form is used to gather information on the client's needs and status of assistance provided.
-
-The form has been created based on general survey topics in the field of social services and case management. It is not affiliated with or endorsed by any form platform, and is an original adaptation created using only public survey topic metadata.
-
-The form includes a variety of fields to capture different types of information, including dates, statuses, and notes. This includes fields for specific tasks, categories of assistance, and overall progress.
-
-The form is intended to be filled out by case managers and clients together, with the client's signature indicating their acknowledgment of the information provided. The form is designed to be used in a social services setting, where case managers are working to support clients in need.
-
-The overall structure and fields of this form have been designed to be clear and concise, making it easy to understand and complete.
-
-The form includes 38 fields in total, and has been reviewed to ensure that all fields are accurate and up-to-date. The form is intended for use in a variety of settings, including but not limited to social services, case management, and non-profit organizations.
-
-To confirm, this form meets all of the following criteria:
-* The form meets the required fields and structure based on the provided YAML specification.
-* The form includes all necessary fields for tracking progress and providing support to clients.
-* The form is easy to understand and complete, with clear and concise labeling and instructions.
-* The form is original and not copied from any other form creation platform.
-
-Please review and confirm that the form meets all of these criteria before using it in your organization.
-</thinking>
-# Assistance Checklist - Help Guide
+# # Assistance Checklist - Help Guide
 ## Purpose
 This form is designed to help case managers provide assistance and support to their clients. It outlines key tasks, deadlines, and progress tracking to ensure that clients receive the necessary help and resources they need.
 

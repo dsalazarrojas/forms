@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to provide a clear and concise explanation of the "cultural_performance_highlight_consent_form" form, ensuring that users understand its purpose, how to complete it, and what each field means.
 
 # cultural_performance_highlight_consent_form - Help Guide

@@ -1,12 +1,3 @@
-<thinking>
-To ensure this form is completed correctly and efficiently, we should first clarify its purpose and the fields it contains. The form appears to be for collecting website analytics report data and related information. This form is likely used by analysts or business users to gather insights on website performance, report frequency, and other metrics related to website analytics. The fields suggest that the report can be generated with or without data collection, alignment with specific goals, and other parameters such as report frequency and type. Additionally, the form captures user information for contact purposes. It is essential that users understand each field's significance to provide accurate and relevant data.
-
-Before starting, please ensure that the fields are not duplicated or unnecessary. Some fields might be redundant or not applicable to the specific report requirements.
-
-To complete this form, please follow the guidelines below.
-
-</thinking>
-
 # Website Analytics Report Form - Help Guide
 ## Purpose
 This form is for collecting website analytics report data and related information. It is used to gather insights on website performance, report frequency, and other metrics.

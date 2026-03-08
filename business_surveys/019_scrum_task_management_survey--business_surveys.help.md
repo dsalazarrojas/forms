@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for end-users, I will analyze the provided YAML and ensure that each field is explained in a straightforward and practical manner. The purpose of this form is to gather information about the Scrum task management process, specifically regarding the team size, collaboration, task tracking, process satisfaction, communication, continuous improvement, team leadership, and feedback.
-
-The form is designed to be completed by team members or managers to provide insights into their current Scrum process. The goal is to identify areas of improvement and optimize the process for better outcomes.
-
-To ensure that end-users understand the form's purpose and relevance, we will review the form's fields, and I will provide explanations for each field in a concise and practical manner.
-
-</thinking>
-
 # Scrum Task Management Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your team's Scrum task management process. It will help identify areas of improvement and optimize the process for better outcomes.

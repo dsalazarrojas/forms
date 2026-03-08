@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose and goals of the form. The form is designed to gather information about the user's experience with tax document submission, including their process, frequency, and challenges. This information will help the development team identify areas of improvement and optimize the submission process. 
-
-The form appears to be designed for business users who submit tax documents on a regular basis. We should ensure that the guide is clear, concise, and accessible to this specific audience.
-
-</thinking>
-
 # Tax Document Submission Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with tax document submission. Your feedback will help us improve the submission process and provide better support for your needs.

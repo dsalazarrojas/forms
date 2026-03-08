@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the reporting of milestones achieved in investments. It helps investors track and document key progress, outcomes, and associated materials. The form is used to gather information about investment milestones, which can include updates on financial performance, project completion, or any notable events.
-The form is intended for use by investors to report on their investments, allowing them to provide detailed descriptions of milestones achieved, outcomes, and any relevant images, links, or documents.
-Ensure you are completing this form for a valid investment, and that you have the necessary authority to do so.
-</thinking>
-
 # investor_milestone_report_form - Help Guide
 ## Purpose
 The investor_milestone_report_form is a tool used to report milestones achieved in investments, allowing investors to track and document key progress, outcomes, and associated materials.

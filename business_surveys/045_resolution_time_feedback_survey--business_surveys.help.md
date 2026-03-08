@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating a user-facing help guide for a "Resolution Time Feedback Survey" form. This form is designed to gather feedback on how quickly the support team responds and resolves issues, as well as other aspects of their support experience. The purpose of this form is to help the support team understand their performance and identify areas for improvement. It's essential to complete the form honestly and accurately to provide valuable insights for the support team. To ensure the form is filled out correctly, please review each field carefully and answer based on your personal experience.
-
-</thinking>
-
 # Resolution Time Feedback Survey - Help Guide
 ## Purpose
 The Resolution Time Feedback Survey is designed to collect feedback on the speed and quality of support team performance. Your input helps us understand how well we're doing and identify areas for improvement.

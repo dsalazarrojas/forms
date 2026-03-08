@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help patients decline or refuse the deep cleaning services offered by our organization. This decision may be due to various reasons such as scheduling conflicts, financial constraints, or personal preferences. Before filling out this form, please note that the patient's choice is final and will not be taken into account until they confirm it. Also, this form should not be filled out if the patient has previously declined or accepted the deep cleaning services. Please fill out this form to confirm your decision and provide any necessary contact information if you wish to be contacted for further assistance or alternatives.
-</thinking>
-
 # Deep Cleaning Refusal Form - Help Guide
 ## Purpose
 The Deep Cleaning Refusal Form is a document used to record a patient's decision to refuse or decline the deep cleaning services offered by our organization.

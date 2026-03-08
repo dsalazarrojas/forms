@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to collect information about a caregiver's daily activities and observations for a client or patient. It's designed to gather data on various aspects of care, including overall condition, medications, activities, and concerns. The form should only be completed by the caregiver who was directly involved in the care activities, ensuring that the information is accurate and relevant to the specific client or patient being reported on.
-</thinking>
-
 # Caregiver Daily Activity Log - Help Guide
 ## Purpose
 The Caregiver Daily Activity Log is a form designed to record the daily activities, observations, and concerns of a caregiver for a client or patient. This information is crucial for tracking the client's or patient's overall condition, identifying potential issues, and providing quality care.

@@ -1,7 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Property Digital Experience Index Survey" form, which is used to collect user feedback and ratings about properties. This form is essential for businesses to understand how their properties are perceived by their customers, enabling them to identify areas of improvement and make informed decisions about their digital offerings. 
-</thinking>
-
 # Property Digital Experience Index Survey - Help Guide
 ## Purpose
 The Property Digital Experience Index Survey is a form designed to collect user feedback and ratings about properties. This survey helps businesses to understand how their properties are perceived by their customers and identify areas for improvement.

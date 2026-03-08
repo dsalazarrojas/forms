@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Museum Exhibition Volunteer Attendance Form - Help Guide
 
 ## Purpose

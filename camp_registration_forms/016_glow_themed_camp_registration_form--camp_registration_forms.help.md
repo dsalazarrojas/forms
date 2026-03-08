@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for a camp registration process. This form likely serves as the entry point for participants to provide their details and preferences before joining the camp. The purpose of this form may include capturing demographic information, medical history, emergency contact details, and other relevant participant information.
-
-Before using this form, ensure you have not used a duplicate form for the same purpose. Review the form to understand what information is being collected and how it will be used. If you're unsure, double-check the form's purpose and usage with the form owner or administrator.
-
-</thinking>
-
 # Glow Themed Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Glow Themed Camp. It is essential to fill out this form accurately and completely to ensure a smooth registration process.

@@ -1,9 +1,3 @@
-<thinking>As a designer, you've worked on a project with a specific design team, and this form is a survey designed to help us understand your satisfaction with the experience. This survey will ask you questions about your thoughts and experiences with the project, and will help us gather information that can be used to improve our design process.
-
-Before you start, please note that some of these questions are required, so please make sure to fill them out thoroughly. Also, please make sure to answer as honestly as possible, and provide any relevant comments or feedback that you think will help us better understand your situation.
-
-This guide will walk you through each question on the form and help you complete it correctly.</thinking>
-
 # Designer Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and satisfaction from designers who have worked on a project with our design team. Your responses will help us improve our design process and better meet the needs of our clients.

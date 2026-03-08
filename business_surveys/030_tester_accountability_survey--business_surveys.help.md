@@ -1,5 +1,3 @@
-<thinking>...checking for form purpose and relevance...this form seems to be used for gathering information about testing status and blockers from testers. It appears to be part of a testing process to track progress and identify potential issues. I'll create a help guide that's concise and easy to follow... </thinking>
-
 # Tester Accountability Survey - Help Guide
 
 ## Purpose

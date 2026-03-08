@@ -1,11 +1,3 @@
-<thinking>
-
-This form seems to be used for customers to indicate whether they would like to include a tip with their bill. The purpose of this form is to gather information from the customer about whether they want to tip and, if so, by how much. The form likely has some calculations to determine the total amount of the bill including the tip.
-
-The form likely checks for duplication and irrelevant responses. For instance, if the customer selects "Yes" for the "Tip" field, it might not make sense to display the "Calculate Tip" field. The form might also check if the customer has selected "No" for the "Tip" field, then it might not make sense to ask for a "Tip Amount" field. The form is designed to be simple and easy to understand for the customer to fill out.
-
-</thinking>
-
 # Tip Payment Form - Help Guide
 ## Purpose
 The Tip Payment Form is used to collect information from customers about whether they would like to include a tip with their bill.

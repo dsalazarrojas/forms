@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record information related to the access and availability of library resources, allowing for tracking of visitor activity and resource usage. This form is likely used for internal purposes within the university library to manage resource allocation and optimize library operations.
-</thinking>
-
 # university_library_resource_access_check_in - Help Guide
 ## Purpose
 

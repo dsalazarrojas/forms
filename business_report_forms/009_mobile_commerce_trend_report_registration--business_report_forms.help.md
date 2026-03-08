@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration by individuals interested in participating in the Mobile Commerce Trend Report, which aims to track and analyze business trends in the mobile commerce industry. This form serves as an entry point for capturing the necessary information required for report participants. To ensure that each participant is accurately represented in the report, it is essential to complete the form thoroughly and consistently. Please ensure you are not duplicating your entry if you have previously registered for the report.
-</thinking>
-
 # Mobile Commerce Trend Report Registration - Help Guide
 ## Purpose
 The Mobile Commerce Trend Report Registration form is a tool for capturing participant information for the Mobile Commerce Trend Report. The report aims to monitor and analyze business trends in the mobile commerce industry, providing valuable insights for businesses to adapt and innovate.

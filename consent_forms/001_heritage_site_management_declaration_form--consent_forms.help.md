@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a heritage site's management. It's essential to understand that heritage sites are unique locations or structures that hold historical, cultural, or natural significance. This form will help site owners, managers, or relevant authorities gather data about these sites' details, location, description, owner, responsibilities, declaration commitments, status, security, notes, contacts, references, and agreements.
-
-To complete this form, you will need to provide accurate information about the heritage site. Please note that some of the fields are optional, and you can skip them if you don't have the necessary information. Ensure that you have the authority to complete this form.
-
-Before proceeding, please ensure that the information you provide is accurate and up-to-date. This form is designed to be completed by site owners, managers, or relevant authorities, so please ensure that you have the necessary permissions and authority to complete it.
-
-When filling out this form, please note that you can select multiple options for fields that allow for multiple selections.
-
-</thinking>
-
 # Heritage Site Management Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about a heritage site's management, including its details, location, description, owner, responsibilities, declaration commitments, status, security, notes, contacts, references, and agreements.

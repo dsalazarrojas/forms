@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Proposal Feedback Survey - Help Guide
 
 ## Purpose

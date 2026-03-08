@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a calculator used to determine the amount of megabytes (MB) to kilobytes (KB) conversion. This form is likely used within a software development or development environment, given the options for "Category" include "Calculation Forms" and "Software Developer Forms". The form is also designed for users to input descriptions, which may be used for documentation or reporting purposes.
-
-To ensure this form is relevant to the user's needs, it's recommended to review the "Category" field to confirm whether this form is the correct tool for the task at hand. If the user has already determined the correct category, they can proceed with filling out the form.
-
-The form appears to be designed for users who are not yet familiar with the unit conversion, as it includes multiple "Description" fields for users to input additional context and information. However, it's worth noting that all fields are optional, which may suggest that the form is intended for general use cases rather than strict reporting or documentation.
-
-Upon reviewing the form's structure, it seems that the primary focus is on the "Description" fields, which may indicate that the form is used to collect information for internal or technical purposes rather than for end-user documentation.
-
-To avoid duplication of effort, it's also worth noting that the form's title is "mb_to_kb_calculator_form" which may suggest that a more concise version of the form is available or has already been used to collect similar information.
-
-</thinking>
-
 # mb_to_kb_calculator_form - Help Guide
 ## Purpose
 The mb_to_kb_calculator_form is a unit conversion calculator used to determine the amount of megabytes to kilobytes.

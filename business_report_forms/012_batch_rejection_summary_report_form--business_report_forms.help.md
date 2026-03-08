@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Batch Rejection Summary Report Form - Help Guide
 
 ## Purpose

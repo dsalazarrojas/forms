@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the financial system integration process within an organization. The form collects data on system integration assessment, system integration options, finance department, integration method, integration status, data collection method, data collection frequency, data analysis method, form submission results, integration issues, finance team members, IT team members, business unit, integration team members, finance team lead, IT team lead, form submission email, form submission phone, form submission datetime, form submission comments, system integration results, finance and IT teams comment, system integration comment, and financial system integration survey results. This form will likely be used by finance and IT teams to assess and improve their financial system integration processes. It is recommended that users familiarize themselves with the form's sections and questions before starting the survey to ensure they complete it accurately. Please make sure to review and complete the form once for each financial system integration project.
-</thinking>
-
 # Financial System Integration Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the financial system integration process within an organization.

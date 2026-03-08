@@ -1,11 +1,3 @@
-<thinking>
-**Internal Note**: The purpose of this form is to gather insights on the effectiveness and perceived value of the Executive Coaching Program. It is meant for program administrators and coaches to understand the strengths and weaknesses of their coaching approach, identify areas for improvement, and adjust their strategies to better support their clients.
-
-This form is not designed for real-time feedback or critical assessment, but rather as a way to gather general insights and opinions from participants. Please complete this form with an honest and open mind.
-
-Please ensure that you have not previously submitted this form, as your input will be considered duplicate and will not contribute to the overall analysis.
-</thinking>
-
 # Executive Coaching Program Insight Survey - Help Guide
 ## Purpose
 This form is designed to gather information from program participants about their experiences and perceptions of the Executive Coaching Program. Your input will help us understand what worked well and what can be improved in the program.

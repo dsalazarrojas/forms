@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document a participant's risk assessment and liability waiver for a specific activity or project. It's essential to ensure that the participant has understood and acknowledged the risks involved and their liability in case of an accident or incident. This form is a crucial part of the risk management process and helps in maintaining a safe and secure environment for all participants.
-</thinking>
-
 # Risk Assumption And Liability Waiver - Help Guide
 
 ## Purpose

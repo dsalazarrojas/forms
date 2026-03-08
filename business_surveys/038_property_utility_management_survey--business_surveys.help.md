@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that this form is for collecting property utility management survey data and that the fields are correctly filled out before submitting. This form should only be used by authorized personnel to collect data on properties and their respective utility services. Let's ensure that each field is correctly filled out and that all required fields are completed before submission.
-</thinking>
-
 # Property Utility Management Survey - Help Guide
 ## Purpose
 This form is for collecting data on property utility management, including property information, service details, and contact details. It helps authorized personnel to track and manage properties and their utility services effectively.

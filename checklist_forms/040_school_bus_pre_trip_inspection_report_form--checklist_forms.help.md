@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect data for the pre-trip inspection of a school bus. The form is intended for bus drivers or other authorized personnel to assess the condition of the vehicle and its safety features before embarking on a trip. The form is a checklist-style survey with multiple-choice questions that cover various aspects of the vehicle's condition, including its overall state, safety equipment, and operational status. This guide is provided to ensure that users understand the purpose and process of completing this form accurately.
-
-Before starting this form, please ensure that you have conducted a thorough inspection of the school bus and have the necessary permissions or authorizations to complete this form.
-
-Please note that some questions may have varying levels of complexity or subtlety. For instance, questions like "Reflector Condition" and "Stop Sign Condition" are more subjective and may require some judgment on the part of the user. However, for the sake of this form, the answers will be limited to the provided options.
-
-When completing this form, please answer each question accurately and honestly, based on your observations and inspections. If you are unsure about any question, please use your best judgment or consult with a colleague or supervisor if necessary.
-
-It's also worth noting that some fields might be redundant or overlapping. In such cases, please prioritize the most critical information and provide your answers accordingly.
-
-Lastly, please ensure that you have reviewed and understood all questions before proceeding.
-
-</thinking>
-
 # school_bus_pre_trip_inspection_report_form - Help Guide
 ## Purpose
 The purpose of this form is to collect data for the pre-trip inspection of a school bus, ensuring the vehicle is in a safe operational condition before embarking on a trip.

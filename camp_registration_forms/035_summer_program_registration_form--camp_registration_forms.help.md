@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information for the Summer Program. The form will help us understand your preferences, availability, and other essential details. Please ensure that you provide accurate and complete information to ensure a smooth experience for yourself and other participants in the program. Before starting, take a moment to review this guide to ensure you understand what each field is for and how to fill it out correctly.
-</thinking>
-
 # Summer Program Registration Form - Help Guide
 ## Purpose
 This form is used to collect participant information for the Summer Program. It will help us understand your preferences, availability, and other essential details, which will aid in planning and organizing the program.

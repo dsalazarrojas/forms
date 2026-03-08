@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RV Camping Checklist Template - Help Guide
 
 ## Purpose

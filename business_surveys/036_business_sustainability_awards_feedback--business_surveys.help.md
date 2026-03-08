@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants and attendees of business awards events, providing insight into the organization, quality, and relevance of the event. The form aims to assess the attendee's experience, identifying areas of improvement and opportunities for future events.
-
-By using this form, we can gain a better understanding of:
-
-* Event organization and planning
-* Venue quality
-* Award selection process
-* Focus on sustainability issues
-* Content relevance and value
-* Networking opportunities
-* Catering and refreshments quality (if applicable)
-* Program schedule
-* Quality of award recognition
-* Overall satisfaction
-
-Please note that some questions are not required, allowing for optional feedback on additional aspects of the event.
-
-</thinking>
-
 # Business Sustainability Awards Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees and participants of business awards events, helping us improve future events and better serve our attendees.

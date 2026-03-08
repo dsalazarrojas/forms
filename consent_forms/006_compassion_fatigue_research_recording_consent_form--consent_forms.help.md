@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect informed consent from participants in a compassion fatigue research study, ensuring that the researchers have the necessary permissions to collect and store audio and video recordings of participants. This form is designed to be completed by the participants, and it serves as a record of their consent. The form is intended to be filled out only once for each participant, and any duplicate or incomplete submissions will be rejected. This guide will help users understand the purpose and requirements of this form.
-</thinking>
-
 # Compassion Fatigue Research Recording Consent Form - Help Guide
 ## Purpose
 This form is used to collect informed consent from participants in a compassion fatigue research study. It is a required step to ensure that researchers have the necessary permissions to collect and store audio and video recordings of participants.

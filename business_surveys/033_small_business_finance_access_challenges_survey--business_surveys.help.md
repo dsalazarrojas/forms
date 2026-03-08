@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from small business owners about their experience with finance access challenges. It's intended to be used by internal stakeholders to better understand the challenges that small businesses face when accessing finance. Please note that this form will only be used for internal purposes, and responses will be treated confidentially. 
-
-The form consists of multiple pages, each with various fields that ask about different aspects of a business's finance access experience. The form will help us to identify common pain points and areas for improvement in finance access for small businesses.
-
-Please ensure that you complete the form accurately and honestly, as this information will help us to better understand your challenges. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # Small Business Finance Access Challenges Survey - Help Guide
 
 ## Purpose

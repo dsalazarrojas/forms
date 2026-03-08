@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # operational_strategy_survey - Help Guide
 ## Purpose
 The operational strategy survey is a tool used to gather information about a company's current and future operational strategies, objectives, and performance. It is designed to help identify areas of improvement and provide suggestions for future development.

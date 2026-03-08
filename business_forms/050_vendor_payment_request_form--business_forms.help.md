@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a vendor payment request, allowing users to submit their payment requests. It is a straightforward, single-page form that captures necessary details for processing a payment request. Please ensure you have filled out the form completely and correctly to ensure timely and accurate processing. Before filling out the form, make sure you have not already submitted a request for the same payment period to avoid duplicating your request.
-</thinking>
-
 # Vendor Payment Request Form - Help Guide
 ## Purpose
 This form is used to submit a payment request to the system for a vendor's account.

@@ -1,6 +1,3 @@
-<thinking>
-We will assume this form is for powerlifters to register their interest in becoming certified powerlifting coaches. This form will collect basic information about the user, their coach training details, and their relevant experience in powerlifting. The form will not ask for sensitive or financial information. The purpose of this form is to help us gauge interest in the powerlifting coaching program, ensure we have a diverse pool of potential coaches, and facilitate further communication with interested candidates. This form will not be used for any other purpose other than as described above. Please fill this form only if you are genuinely interested in becoming a certified powerlifting coach.</thinking>
-
 # Powerlifting Coach Registration Form - Help Guide
 ## Purpose
 This form is designed to help us gauge interest in the powerlifting coaching program. We need your basic information, coaching experience, and training details to evaluate your qualifications and suitability for the program.

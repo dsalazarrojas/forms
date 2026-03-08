@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psa Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a child's development and care needs, specifically covering various aspects of early childhood care and development, including physical, cognitive, social-emotional, and language development, as well as health, nutrition, sleep, communication, medical conditions, allergies, medical tests, medications, social support, family history, sibling status, birth order, birth weight, family structure, home environment, and educational level. This form is likely intended for use by professionals or caregivers who need to assess a child's development and provide targeted support.
-</thinking>
-
 # Early Childhood Care And Development (ECCD) Checklist - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about a child's development and care needs, covering various aspects of early childhood care and development.

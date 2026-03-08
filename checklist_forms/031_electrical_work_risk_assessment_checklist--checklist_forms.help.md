@@ -1,13 +1,3 @@
-<thinking>
-I am checking the provided YAML fields to make sure the form is correctly configured. The form title is "Electrical Work Risk Assessment Checklist" which suggests that it is used to evaluate the risks associated with electrical work. The form is divided into multiple pages with fields asking about various aspects of the work area, including overhead hazards, debris and tripping hazards, electrical cables and wires, fire alarm systems, risk assessment plans, and the highest risk level for the project. The form also requires a date and time for the assessment.
-
-The fields are properly configured with labels, hints, and types. There are checkboxes for questions that have two options, and select_one fields for questions that have three options. There are also fields for dates and times.
-
-Before proceeding, I would like to confirm that this form is intended to be used by end-users who are likely electricians, maintenance personnel, or others performing electrical work. This form is likely to be used in a work-related or safety context. I am assuming that the form is meant to be completed by someone who is familiar with the risks associated with electrical work, but not necessarily an expert in safety protocols.
-
-I will create a help guide based on the provided YAML fields.
-</thinking>
-
 # Electrical Work Risk Assessment Checklist - Help Guide
 ## Purpose
 This form is used to assess and document the risks associated with electrical work. It helps to ensure that the work area is safe and free from hazards, and that the risk level for the project is accurately determined.

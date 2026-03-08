@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly guide that explains the purpose and process of filling out the "Anti Cellulite Massage Consent Form". The purpose of this form is to gather essential information from clients regarding their medical history, consent for treatment, and acceptance of post-treatment care instructions. This form aims to ensure clients understand the benefits and risks of the anti-cellulite massage therapy, as well as their personal medical status. Before proceeding, please review the form carefully to ensure you understand the questions and their relevance to your personal situation.</thinking>
-
 # Anti Cellulite Massage Consent Form - Help Guide
 ## Purpose
 The Anti Cellulite Massage Consent Form is designed to gather essential information from clients before undergoing anti-cellulite massage therapy. This form helps our team understand your medical history, consent for treatment, and your acceptance of post-treatment care instructions.

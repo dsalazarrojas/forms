@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect market research data for a study on study spaces, likely for understanding user preferences and habits related to study spaces. It appears to be a comprehensive form covering various aspects of study spaces, including demographics, contact information, study space preferences, and submission and feedback sections. The form has a mix of select-one, select-multiple, text, and date fields, indicating that it's a multi-faceted form aimed at gathering detailed information from users.
-
-To avoid duplication and ensure relevance, it's essential to review the form's purpose and content carefully before completion.
-
-</thinking>
-
 # market_research_survey_for_study_spaces - Help Guide
 ## Purpose
 This form is designed to collect market research data for a study on study spaces, gathering information on user demographics, preferences, and habits related to study spaces.

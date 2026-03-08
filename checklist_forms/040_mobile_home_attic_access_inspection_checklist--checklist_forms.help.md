@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help inspectors conduct a thorough inspection of a mobile home's attic. It covers various aspects of the attic, including exterior access, floor plan, attic size, insulation type, insulation condition, insulation thickness, electrical components, electrical condition, venting, roof condition, attic accessibility, and additional notes. The form is divided into different sections for each of these aspects, allowing inspectors to record their findings in a structured and organized manner.
-
-This form is meant to be used for inspection purposes only, and its completion is not intended to be a substitute for professional judgment or expertise. The information collected through this form is for the sole purpose of documenting the inspection process and providing a clear and concise record of the inspected area.
-
-It is essential to complete this form in a thorough and accurate manner to ensure that the inspection process is conducted efficiently and effectively. The form should be used in conjunction with other relevant documentation and protocols to ensure that the inspection meets the required standards and guidelines.
-
-Before completing this form, please ensure that you have a clear understanding of the inspected area and the relevant regulations and standards that apply to the mobile home's attic.
-
-</thinking>
-
 # Mobile Home Attic Access Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to guide inspectors in conducting a thorough inspection of a mobile home's attic, covering essential aspects such as exterior access, floor plan, and insulation condition.

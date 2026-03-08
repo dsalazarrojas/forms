@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers about damaged goods they have purchased from the company. This form is designed to gather details about the type and extent of the damage, allowing the company to address any issues efficiently. The form is not intended to be used for any other purpose, and it is recommended to only fill it out if you have a genuine concern about a damaged item purchased from the company.
-
-To complete this form, please follow the steps outlined below.
-
-</thinking>
-
 # damaged-goods-complaint-form - Help Guide
 ## Purpose
 This form is designed to collect information about damaged goods that you have purchased from our company. Please fill out this form if you have any issues with a product you've bought from us, so we can assist you in resolving the problem.

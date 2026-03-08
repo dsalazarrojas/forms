@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secret Santa Rescheduling Survey - Help Guide
 ## Purpose
 This form is designed to help Secret Santa organizers reschedule events, taking into account multiple factors such as event format, date, time, and availability.

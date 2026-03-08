@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on airtightness quality assurance surveys. The form's purpose is to ensure that the surveyor/inspector is able to provide a comprehensive report on the airtightness of a building or facility, providing detailed information on the surveyor's name, the inspection date, and the project reference number. The surveyor will also report on the testing context, including the type of testing method used, the product being tested, and any primary leakage points identified. The form will also capture the achieved and target air exchange rates, the pass/fail status, and any remediation details if required. Additionally, the surveyor's satisfaction with the sealing work will be noted, as well as any additional technical notes and the requirement for re-inspection. This form ensures that the surveyor/inspector can provide a detailed and comprehensive report on the airtightness of a building or facility.
-
-To avoid duplication, this form should only be completed for new or revised surveys. If an updated survey is required, please make sure to complete this form with new or revised information.</thinking>
-
 # Airtight Quality Assurance Survey - Help Guide
 ## Purpose
 The Airtight Quality Assurance Survey is designed to collect data on the airtightness of a building or facility, ensuring that the surveyor/inspector can provide a comprehensive report on the testing context, methods, and results.

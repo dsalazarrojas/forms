@@ -1,7 +1,3 @@
-<thinking>
-The form "Parental Consent Waiver For Local Trips" is used to obtain consent from parents or guardians for their child to participate in local trips. This form is designed to gather essential information from the parent or guardian, including trip details, student and guardian information, medical conditions, allergies, emergency contact information, and medical attention details. The form's purpose is to ensure that parents or guardians are informed and agree to their child's participation in local trips, which is a crucial step in ensuring the child's safety and well-being.
-</thinking>
-
 # Parental Consent Waiver For Local Trips - Help Guide
 ## Purpose
 The "Parental Consent Waiver For Local Trips" form is used to obtain consent from parents or guardians for their child to participate in local trips. This form is a crucial document that helps ensure the child's safety and well-being.

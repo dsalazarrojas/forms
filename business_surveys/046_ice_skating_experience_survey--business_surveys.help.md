@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by management or HR personnel to collect feedback from customers or employees on their ice skating experience at the company's skating rink or facility. The purpose of this form is to gather quantitative and qualitative feedback on the overall experience, including satisfaction levels, comments, and email addresses. Before filling out this form, ensure that the questions are relevant to your actual skating experience and that you're not duplicating feedback that has already been provided. If you're unsure or have already provided feedback, please contact the responsible department to clarify or confirm your previous feedback.
-</thinking>
-
 # Ice Skating Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers or employees on their ice skating experience at our facility. Your input will help us identify areas of improvement and provide a better experience for all our visitors.

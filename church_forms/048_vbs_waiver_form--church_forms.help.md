@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from a person registering for VBS (Vacation Bible School) programs for themselves or their child(ren). This form will help the church administration team to better understand who's attending and their emergency contact information in case of any issues during the program.
-This form will help you to:
-- Provide emergency contact information for you and your emergency contact.
-- Disclose any medical conditions that the church should know about for the person's safety.
-- Identify the child's relationship to the emergency contact.
-</thinking>
-
 # VBS Waiver Form - Help Guide
 
 ## Purpose

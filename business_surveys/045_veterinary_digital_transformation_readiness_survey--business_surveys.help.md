@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the readiness of veterinary practices for digital transformation. The purpose of this form is to collect information about the business and its operations, such as contact details, address, phone number, email, website, business name, years in practice, number of clinics, number of employees, practice type, and years in business. This information will help identify the gaps and challenges that the practice may face when transitioning to a digital platform.
-Before proceeding, please ensure that you have not completed this form before. This will help us avoid duplication of efforts and prevent incomplete data collection.
-</thinking>
-
 # Veterinary Digital Transformation Readiness Survey - Help Guide
 ## Purpose
 The Veterinary Digital Transformation Readiness Survey is designed to collect information about your veterinary practice, helping us assess its readiness for digital transformation. Please answer the questions as accurately as possible to help us better understand your practice's digital needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Painting Commission Form - Help Guide
 ## Purpose
 The Painting Commission Form is used to gather information about a painting project. This form will ask for your name, contact details, and project description to facilitate communication between the art team and the commissioning party.

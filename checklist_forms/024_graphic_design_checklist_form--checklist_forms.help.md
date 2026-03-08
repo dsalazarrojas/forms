@@ -1,31 +1,3 @@
-<thinking> 
-The Graphic Design Checklist Form is a comprehensive form designed to gather essential information about graphic design projects. This form is meant for internal use within an organization, possibly for project managers, designers, and other stakeholders to review and track project progress. It's crucial to complete this form accurately to ensure consistency and accuracy in project documentation and decision-making.
-
-To ensure clarity, let's review the form fields:
-
-* Project Details (Text): This field allows users to provide a concise description of the project.
-* Designer Information (Select One): Choose whether the project involves the designer or not.
-* Design File (Text): Enter the URL or location of the design file associated with the project.
-* Review Date (Date): Record the date the project was reviewed.
-* Deadline (Time): Enter the deadline for the project.
-* Comments (Text): Enter any additional comments or notes about the project.
-* Project Status (Select Multiple): Indicate the project's status, whether it's Active or Inactive.
-* Assigned Tool (Select One): Choose whether a specific tool is assigned to the project.
-* Assigned User (Select Multiple): Select users who are assigned to the project.
-* Created By (Select Multiple): Indicate who created the project.
-* Updated By (Select Multiple): Indicate who last updated the project.
-* Created At (Date): Record the date the project was created.
-* Updated At (Date): Record the date the project was last updated.
-* Form ID (Number): Enter a unique ID for the form.
-* Output File (Text): Enter the location or URL of the output file associated with the project.
-* Category (Select Multiple): Indicate the project category, whether it's Yes or No.
-* Description (Text): Enter a brief description of the project.
-* Form Title (Text): Enter a title for the form.
-
-Given the form's structure and fields, it's essential to understand each field's purpose and requirements accurately to ensure consistency and accuracy in project documentation and decision-making.
-
-</thinking>
-
 # Graphic Design Checklist Form - Help Guide
 ## Purpose
 The Graphic Design Checklist Form is a comprehensive form designed to gather essential information about graphic design projects. This form is meant for internal use within an organization, possibly for project managers, designers, and other stakeholders to review and track project progress.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for quality inspection of softgel capsules. This form is intended for use by inspectors to record their observations during a shift. The data collected will be used to assess the quality of the capsules and identify areas for improvement. This form should only be used by authorized inspectors.
-</thinking>
-
 # softgel_capsule_quality_inspection_checklist - Help Guide
 ## Purpose
 The softgel capsule quality inspection checklist is a form used by inspectors to collect data on the quality of softgel capsules during a shift.

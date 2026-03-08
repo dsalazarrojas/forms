@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication...
-
-This form appears to be designed for assessing the digital literacy levels, skills, and training needs of healthcare leaders within an organization. The form collects information on various aspects such as digital literacy levels, technology skills, technology barriers, training needs, and plans for technology integration and leadership development. The purpose of this form is likely to identify areas where healthcare leaders require additional support or training to effectively utilize technology and lead their organizations.
-
-The form is designed to be completed by healthcare leaders, and the questions are likely aimed at assessing their current state of digital literacy, their ability to lead in a technology-driven environment, and their needs for training and support.
-
-Please review the form structure and questions to ensure that it meets the intended purpose and does not duplicate any existing surveys or forms within the organization. Ensure that the questions are clear and concise, and that the form is comprehensive enough to gather all necessary information for the intended purpose.
-
-</thinking>
-
 # healthcare_leadership_digital_literacy_survey - Help Guide
 ## Purpose
 This form is designed to assess the digital literacy levels, skills, and training needs of healthcare leaders within an organization.

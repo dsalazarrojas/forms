@@ -1,17 +1,3 @@
-<thinking>
-This form is used to collect information about fire hydrants in a specific area, such as their name, type, status, installation date, and last inspection date. This form is intended to be used by inspectors to document their findings and provide feedback on the condition of each hydrant. The purpose of this form is to ensure that fire hydrants are properly maintained and inspected to ensure public safety. It is essential to fill out this form accurately and thoroughly to provide reliable information.
-
-Before filling out this form, please make sure you have all the necessary information about the fire hydrant in question. This includes its name, type, and installation date. If you are unsure about any of these details, please contact the relevant authorities or the asset owner for clarification.
-
-This form should not be duplicated for the same asset. If a fire hydrant has already been inspected, please do not submit additional forms.
-
-Please ensure that all required fields are completed accurately to avoid any issues or discrepancies in the data.
-
-Please note that some fields are optional, and you can skip them if they are not applicable or relevant to the inspection.
-
-Before submitting the form, please make sure to review all the fields for accuracy and completeness.
-
-</thinking>
 # Fire Hydrant Inspection Form - Help Guide
 ## Purpose
 The Fire Hydrant Inspection Form is used to collect information about fire hydrants in a specific area, such as their name, type, status, installation date, and last inspection date.

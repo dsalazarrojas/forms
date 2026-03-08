@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about an item's inventory. It's meant to be filled out by authorized personnel when inventory items are received or when items are being tracked in the inventory. This form should only be used for items that have been previously approved for inventory tracking. If you're unsure about an item's status, please check with the inventory team or the item's owner before filling out this form.
-</thinking>
-
 # Inventory Checklist Form - Help Guide
 ## Purpose
 This form is used to document and track items in the inventory. It is intended for use by authorized personnel to record information about each item, including its status, quantity, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consultation Client Arrival Check In - Help Guide
 ## Purpose
 The Consultation Client Arrival Check In form is used to record the arrival information of clients at a consultation. It includes details about the client's name, appointment time, arrival time, the service requested, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or guardians to obtain their consent for their child's participation in the Children's Ministry. The form is divided into three main sections: Parent/Guardian Information, Child Information, and Participation Consents. The purpose of this form is to ensure that parents or guardians understand and agree to their child's participation in the ministry's activities, including online sessions and video content contribution. This form helps the ministry to maintain a record of the parent/guardian's consent and to ensure that they are aware of the activities their child will be participating in.
-</thinking>
-
 # Childrens Ministry Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians to obtain their consent for their child's participation in the Children's Ministry.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to help HR and L&D teams assess current skills, identify development interests, and measure satisfaction with growth opportunities across the organization. This form is used to gather information about employee capabilities and preferences related to growth and development. It is essential to ensure that the form is completed by employees who are familiar with the organization's growth opportunities and policies.
-
-Before filling out this form, please review the following sections to understand the purpose and scope of the form:
-
-*   The form is divided into two sections: "Current Skills" and "Growth Opportunities". The "Current Skills" section asks about the employee's current skills and interests. The "Growth Opportunities" section asks about the employee's preferences and experiences with growth opportunities.
-
-*   The form is intended to be completed by employees who are willing to participate in the organization's growth and development initiatives.
-
-*   The form does not collect any sensitive or confidential information. All the questions are designed to be general and neutral.
-
-*   The form is not meant to be a comprehensive survey, but rather a starting point for discussions and further analysis. The results should not be taken as definitive or absolute.
-
-*   The form is intended to be used as a reference point for HR and L&D teams to identify areas of development and create targeted growth opportunities.
-
-Please ensure that you have reviewed and understood the purpose and scope of the form before proceeding.
-
-</thinking>
-
 # Employee Capability Enhancement Survey - Help Guide
 
 ## Purpose

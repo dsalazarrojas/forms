@@ -1,8 +1,4 @@
-### <thinking>
-This form is designed to gather information from individuals interested in pursuing a coaching certification. The goal is to assess their background, motivation, and ability to commit to the program. This form should only be filled out by those who are genuinely interested in the certification and meet the program's requirements. Please do not fill out this form if you are not serious about the certification program.
-</thinking>
-
-# Coaching Certification Admission Form - Help Guide
+### # Coaching Certification Admission Form - Help Guide
 ## Purpose
 The Coaching Certification Admission Form is a mandatory form for individuals interested in pursuing a coaching certification. It helps us understand your background, motivation, and commitment to the program.
 

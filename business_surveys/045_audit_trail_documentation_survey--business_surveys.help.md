@@ -1,8 +1,3 @@
-<thinking>
-We are creating this guide to help users understand the purpose and requirements of the Audit Trail Documentation Survey form. This form is designed to gather information about an event or incident that has occurred within an organization, and the user's role in documenting and reporting on it. The form captures details such as the user's name, email address, department, and job title, as well as specifics about the event, including date, time, and type of event. It also inquires about the severity level and impact assessment of the event, as well as documentation completeness and evidence attachment. Finally, it asks about follow-up actions and related events. This guide will help clarify the purpose and requirements of each field, ensuring that users provide accurate and thorough responses.
-
-</thinking>
-
 # Audit Trail Documentation Survey - Help Guide
 ## Purpose
 

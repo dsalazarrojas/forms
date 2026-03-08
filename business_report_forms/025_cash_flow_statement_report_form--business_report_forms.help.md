@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this form, I'll first analyze the form fields and their corresponding labels to understand the purpose and context of the form. The form seems to be related to cash flow statements, which are financial reports that show the inflows and outflows of cash throughout an organization.
-
-The purpose of this form is likely to collect information about an organization's cash flow, which can be used for financial analysis, reporting, and decision-making. The form appears to be structured into sections for operating activities, investing activities, and financing activities, which are standard categories in a cash flow statement.
-
-Before providing the final help guide, I'll confirm that the form is indeed meant for financial reporting purposes and that it's not duplicating any existing forms or processes. This form seems to be a comprehensive cash flow statement report, and there might be no existing forms that cover the same information.
-
-</thinking>
-
 # Cash Flow Statement Report Form - Help Guide
 ## Purpose
 The Cash Flow Statement Report Form is a financial report that provides an overview of an organization's cash inflows and outflows over a specific period. It helps in tracking the movement of cash within the organization and is used for financial analysis and reporting.

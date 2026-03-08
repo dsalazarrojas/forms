@@ -1,16 +1,3 @@
-<thinking>
-
-To be eligible for this form, a participant must:
-  1. be over 18 years of age
-  2. not have completed a "Yoga Studio Participant Health Check In" before
-  3. have medical clearance (signed waiver)
-  4. have a valid email address
-  5. be a human
-
-This form is designed for individuals who are interested in participating in a yoga class at a studio. The form is used to gather information about the participant's medical conditions, emergency contact information, and signed waiver to ensure a safe and healthy environment for all participants.
-
-</thinking>
-
 # Yoga Studio Participant Health Check In - Help Guide
 ## Purpose
 The "Yoga Studio Participant Health Check In" form is used to gather essential information from participants before they join a yoga class at the studio. This form helps us to ensure that you have a safe and healthy environment for all participants.

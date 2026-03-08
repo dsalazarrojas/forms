@@ -1,7 +1,3 @@
-<thinking>
-The Partner Network Orientation Survey is a crucial tool to ensure new partners receive the right information and resources to succeed within our partner network. Before proceeding, please ensure this survey is not a repeat of any previous orientation process or onboarding exercise. This form serves as an initial check-in with our team to gauge your familiarity with our network, programs, and resources. Please answer the questions honestly, and we'll use your feedback to tailor our support and guidance accordingly.
-</thinking>
-
 # Partner Network Orientation Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your current level of knowledge and engagement within our partner network. Your feedback will be used to provide personalized support and guidance to ensure your success in the network.

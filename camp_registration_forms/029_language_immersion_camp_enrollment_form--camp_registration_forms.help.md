@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form collects information necessary for the enrollment process of language immersion programs at various camps, including first name, last name, contact details, language, grade level, and other relevant information. This form helps the camp administrators to manage and process enrollment requests efficiently. It is intended for parents/guardians to enroll their children in camps, but it may also be used by other types of users. The form's data will be reviewed and verified by the camp staff before finalizing the enrollment. The purpose of this form is to collect accurate and complete information from parents/guardians to ensure a smooth and enjoyable language immersion experience for their children. It's essential that users fill out the form correctly to avoid any inconvenience or rejection of their application. Before proceeding, review the following instructions to ensure you complete the form correctly and accurately.</thinking>
-
 # Language Immersion Camp Enrollment Form - Help Guide
 
 ## Purpose

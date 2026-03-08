@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a hospital's environmental sustainability initiatives, green teams, and ideas for improvement. The form is part of a larger effort to gather data for a hospital's sustainability program. Before starting, please ensure that you have reviewed the form's purpose and instructions and that you are filling it out for the correct hospital.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Environmental Sustainability In Hospitals Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a hospital's environmental sustainability initiatives, green teams, and ideas for improvement.

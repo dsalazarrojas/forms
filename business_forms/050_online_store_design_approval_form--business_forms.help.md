@@ -1,5 +1,3 @@
-<thinking> This form is meant to be used for the approval process of online store design. It collects information from the store owner and designer to streamline the approval process. The form is designed to gather all necessary information in one place, reducing the back-and-forth communication between the parties involved. It's a straightforward and efficient way to ensure that both the store owner and designer are on the same page and that the design meets the required standards. Before starting, make sure to review the form and ensure that it's not a duplicate of an existing submission, as this form is meant to be used for new submissions only. </thinking>
-
 # Online Store Design Approval Form - Help Guide
 ## Purpose
 The Online Store Design Approval Form is used to streamline the online store design approval process between the store owner and designer. It ensures that both parties are on the same page and that the design meets the required standards.

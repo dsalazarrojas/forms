@@ -1,7 +1,3 @@
-<thinking>
-This form template, "Pet Boarding Check In Form Template", has been designed to collect information about pets checking in at a pet boarding facility. The primary goal is to gather essential details about each pet for their safekeeping and care during their stay. To avoid any potential risks, the form is intended for informational purposes only, and any sensitive or confidential information will not be shared without explicit owner consent. Before filling out the form, please note that all fields are optional, except for the fields marked as "Required" which will be used for critical information. 
-</thinking>
-
 # Pet Boarding Check In Form Template - Help Guide
 ## Purpose
 This form is designed for pet owners to provide critical information about their pets while they are at the pet boarding facility. It aims to ensure the safe and healthy care of their pets during their stay.

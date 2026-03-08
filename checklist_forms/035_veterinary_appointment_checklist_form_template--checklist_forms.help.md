@@ -1,7 +1,3 @@
-<thinking>
-This form is for scheduling a veterinary appointment with a pet owner. It is used to collect general information about the pet and its owner, appointment details, payment information, and any medical notes or veterinary notes. This form should only be used for non-urgent appointments. Please note that this form is a template and might need to be adapted to your specific use case.
-</thinking>
-
 # veterinary_appointment_checklist_form_template - Help Guide
 ## Purpose
 This form is used to collect information for non-urgent veterinary appointments.

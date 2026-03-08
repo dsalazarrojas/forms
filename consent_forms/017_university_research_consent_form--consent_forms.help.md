@@ -1,5 +1,3 @@
-<thinking>As we design this form, we want to ensure that we're creating a comprehensive guide for our end-users. Let's review the form's purpose and fields to determine if this form is being used for multiple purposes or if we can merge some fields. For this form, the "University Research Consent Form" seems to be a single-purpose form designed to gather information for research studies. We'll break down each field into a simple, user-friendly guide to help our end-users understand the form's requirements and complete it accurately.</thinking>
-
 # University Research Consent Form - Help Guide
 ## Purpose
 This form is for university research studies. It's designed to gather information from research participants about their involvement in a study.

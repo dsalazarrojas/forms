@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the "Private Chef Service Inquiry" form, a tool used to gather information from clients who require private chef services. This form is intended to be filled out by clients who are looking for a chef to provide their services for a private event or occasion. Before filling out this form, please ensure that you have not already submitted a similar request to avoid duplication. If you have any questions or concerns, please reach out to our support team.
-
-</thinking>
-
 # Private Chef Service Inquiry - Help Guide
 ## Purpose
 This form is used to collect information from clients who are interested in hiring a private chef for a special event or occasion. It is essential to fill out the form accurately and completely to ensure that we can effectively cater to your needs.

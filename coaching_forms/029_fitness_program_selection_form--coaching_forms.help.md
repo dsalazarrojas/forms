@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect fitness program information and selections from clients and trainers. It ensures that trainers can provide a tailored and effective program for each client based on their requirements. To fill out this form, the trainer and client must be selected first, and then the client's details, including phone number and email, need to be completed. The form also captures the program status, dates, and notes for review and reference.
-</thinking>
-
 # Fitness Program Selection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect fitness program information and selections from clients and trainers. It is used to ensure that trainers can provide a tailored and effective program for each client based on their requirements.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information about influential companies in various fields such as retail, financial, and technology. The form aims to collect data on company name, category, location, size of business, employee count, year established, revenue growth, employee satisfaction, leadership style, social media links, and company website. The form is intended to be a comprehensive guide for users to input their company's details accurately and thoroughly. Please ensure that you are filling out the form for a real company and not a fictional or duplicate entry. This form should only be used once per company. If you're unsure about any of the fields, please refer to the field-by-field explanation below.</thinking>
-
 # Influential Companies Survey - Help Guide
 ## Purpose
 The Influential Companies Survey is designed to collect and categorize data on influential companies across various sectors, including retail, financial, and technology.

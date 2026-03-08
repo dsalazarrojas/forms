@@ -1,9 +1,3 @@
-<thinking>
-
-The internal purpose of this form is to collect necessary information regarding a patient's discharge from a fertility clinic. The form is likely used to ensure that all relevant details are recorded and communicated effectively between healthcare providers. This form's purpose may overlap with other forms, but its focus on fertility clinic discharge information makes it unique. It is essential to complete this form accurately to maintain the continuity of care for the patient.
-
-</thinking>
-
 # Fertility Clinic Discharge Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's discharge from a fertility clinic. It is essential to complete this form accurately to ensure that all relevant details are recorded and communicated effectively between healthcare providers.

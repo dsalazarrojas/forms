@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for registering attendees for a retail payment tech event. The purpose of this form is to collect relevant information about the attendees, such as their name, email, contact details, and other relevant event preferences. This form is likely used for internal tracking and organization purposes.
-The form should only be used for registration for attendees who have been properly invited to the event. 
-Please ensure that only invited attendees complete the form.
-</thinking>
-
 # Retail Payment Tech Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for the Retail Payment Tech Event. It is intended for attendees who have been properly invited to the event.

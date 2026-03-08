@@ -1,7 +1,3 @@
-<thinking>
-
-This form is designed to help us understand your business needs and interests in partnering with us for our AI pricing engine. By filling out this form, you'll be able to provide us with relevant information about your company, your current and desired partnership setup, and your expectations for our solution. Please answer the questions honestly and thoroughly to help us understand your requirements. If you're unsure about any of the questions, feel free to ask for clarification or additional information. This form should take you around 15-20 minutes to complete, and once you're finished, you can click the submit button to send it to us. Thank you for considering partnership with us!</thinking>
-
 # AI Pricing Engine Partnership Application Form - Help Guide
 ## Purpose
 The AI Pricing Engine Partnership Application Form is designed to collect information about your company, its needs, and expectations for our AI pricing engine. This form will help us understand how we can best support your business and tailor our solution to meet your requirements.

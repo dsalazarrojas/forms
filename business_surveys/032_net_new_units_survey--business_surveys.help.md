@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about new units that are being added to or removed from the company's inventory. The form is designed to be completed by employees who have been assigned the task of adding new units or removing old ones. The form will be used to track and analyze data on new units, including their type and location.
 
 </thinking>

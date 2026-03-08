@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering standby participants for a conference. Before filling out this form, please ensure you are eligible for standby registration, as it is meant for attendees who can only join the conference if there are available spots. Please do not submit duplicate registration requests for the same Session ID, as this will cause technical issues. To avoid delays, please fill out all required fields as completely and accurately as possible.
-</thinking>
-
 # Standby Participant Registration - Help Guide
 ## Purpose
 The Standby Participant Registration form is used for registering attendees who can potentially join a conference if there are available spots. It is used to gather necessary information for registration and confirmation purposes.

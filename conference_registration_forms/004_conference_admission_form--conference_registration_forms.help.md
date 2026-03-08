@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for conference attendees to register for a conference. It collects personal and professional information, such as name, email, phone number, and job title, as well as preferences for admission tickets and payment methods. The form also includes fields for special requirements, such as dietary needs and accessibility needs. Referral sources and attendee count are also collected to track how attendees heard about the conference and to process group registrations.
-</thinking>
-
 # Conference Admission Form - Help Guide
 ## Purpose
 This form is used to register attendees for a conference. It collects required information to process admission and payment.

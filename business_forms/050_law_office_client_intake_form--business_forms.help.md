@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients visiting a law office, likely for the purpose of consultation or meeting. It is meant to be completed by the client themselves, either online or in-person. This form should not be used for internal employee information gathering or other non-client purposes. The form's title, "law-office-client-intake-form", already hints at its client-facing nature. This form's structure suggests a mix of general contact information (e.g., name, email, phone) and meeting specifics (e.g., date, time).
-</thinking>
-
 # law-office-client-intake-form - Help Guide
 ## Purpose
 This form is intended to gather essential information from clients visiting a law office, allowing the office to prepare and provide personalized services.

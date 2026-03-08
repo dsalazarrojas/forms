@@ -1,7 +1,3 @@
-<thinking>
-The form is for a home remodeling project, and its purpose is to collect essential information about the project, including details, contact information, project dates, budget, and project status. The form is divided into several sections and fields that require specific types of information. Please note that some fields are required, while others are optional.
-</thinking>
-
 # home_remodeling_checklist_form - Help Guide
 ## Purpose
 The home remodeling project form is designed to collect project details, contact information, project dates, budget, and payment terms for home remodeling projects.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be a checklist for feature directory tracking. It is intended to be used for teams to review and track the status of features as they progress through the development process. This form should only be used for features that are part of the feature directory and should not be used for other purposes.
-
-This form is a duplicate of the "feature directory_checklist" form that is already available. However, it has been created to provide an alternate version of the form that is identical in purpose and content, but with a different layout or design. 
-
-This form is a checklist that is used for multiple teams to review and track the status of features, and it is intended for use with the "Feature Directory" application.
-
-To ensure that this form is used correctly, it is recommended that it is only used for features that are part of the "Feature Directory" and not for other purposes.
-
-This form is part of the "checklist_forms" category.
-</thinking>
-
 # feature_directory_checklist - Help Guide
 ## Purpose
 The feature directory checklist is a form used for multiple teams to review and track the status of features in the "Feature Directory".

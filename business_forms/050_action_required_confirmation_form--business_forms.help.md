@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to confirm that a recipient has understood and accepted the instructions and will complete the required action. The purpose of this form is to ensure that the recipient acknowledges their responsibilities and commitments. The form is used to capture important details such as the recipient's name, instruction summary, due date, priority level, acceptance confirmation, and signature. This form is typically used in business settings where clear communication and confirmation of actions are crucial.
-
-</thinking>
-
 # Action Required Confirmation Form - Help Guide
 ## Purpose
 

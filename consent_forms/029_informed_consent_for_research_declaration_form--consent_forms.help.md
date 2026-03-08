@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the informed consent process for research participants. The form is used to capture essential details about the participant's identification, research objectives, and other relevant information such as contact details, declaration, and signatures. It is essential that the participant carefully reviews and understands the form before providing their informed consent. The form has been designed to gather all necessary information in a straightforward and structured manner to avoid any ambiguity or duplication.
-
-</thinking>
-
 # Informed Consent For Research Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from research participants, ensuring that they are aware of their rights and the terms of the research project.

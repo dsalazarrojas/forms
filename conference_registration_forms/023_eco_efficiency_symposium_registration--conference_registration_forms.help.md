@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from users interested in attending the Eco Efficiency Symposium. This form will help us understand their interests and requirements for the event. Please ensure that you only fill out this form if you are interested in attending the symposium.
-The form collects multiple-choice answers for several topics, including session interests and special requirements. It also collects contact information (name and email), a phone number, and notes. Date and time fields are provided but are not required.
-
-</thinking>
-
 # Eco Efficiency Symposium Registration - Help Guide
 ## Purpose
 The Eco Efficiency Symposium Registration form is designed to collect information from users interested in attending the Eco Efficiency Symposium. This form helps us understand their interests and requirements for the event, which enables us to better plan and accommodate their needs.

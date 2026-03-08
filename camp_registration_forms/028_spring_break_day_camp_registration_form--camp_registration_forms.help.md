@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering campers for the spring break day camp. As a camper, you can use this form to sign up for the event, provide your contact information, and upload any necessary documents. Please ensure that you are eligible to register before completing this form.
-</thinking>
-
 # spring_break_day_camp_registration_form - Help Guide
 ## Purpose
 The spring break day camp registration form is used to register campers for the spring break day camp event.

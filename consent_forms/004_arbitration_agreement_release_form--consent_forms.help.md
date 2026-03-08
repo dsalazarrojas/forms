@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Arbitration Agreement Release Form - Help Guide
 
 ## Purpose

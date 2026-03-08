@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to gather information and feedback from conversation designers and developers to better understand their practices, preferences, and challenges in conversation design. It will help us to identify areas of improvement and create guidelines for best practices in conversation design. 
-
-This form is intended for conversation designers and developers who have experience in the field. It is not a survey for people new to conversation design. 
-
-We are looking for honest and detailed responses, and it is expected that the questions will take around 10-15 minutes to complete. 
-
-Please answer the questions based on your current practices and preferences. If you are unsure of any answer, please provide any additional comments or context that may be helpful for us to understand your perspective.
-
-Before starting, please note that some questions are mandatory and others are optional. The optional questions are marked with a "hint" field that will provide more guidance on the type of information we are looking for. 
-
-Please answer the questions in the order they appear, and do not skip any questions. You can go back and change your answers at any time before submitting the form.
-
-If you have any questions or concerns about the form, please let us know and we will be happy to help. Thank you for taking the time to complete this survey, and your input will be greatly appreciated!
-
-</thinking>
-
 # Conversation Flow Design Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information and feedback from conversation designers and developers to better understand their practices, preferences, and challenges in conversation design. 

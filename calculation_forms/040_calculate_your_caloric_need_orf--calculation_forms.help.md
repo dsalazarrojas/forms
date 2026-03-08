@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calculate Your Caloric Need Orf - Help Guide
 
 ## Purpose

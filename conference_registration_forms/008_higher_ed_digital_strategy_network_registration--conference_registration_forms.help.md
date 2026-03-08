@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in joining the Higher Ed Digital Strategy Network. This form helps to gather basic contact details such as name, email, and job title, as well as more specific information like university affiliation and interests. The form's data will be used to facilitate communication and networking among members. Please ensure you only fill out this form if you're genuinely interested in joining the network, and avoid duplicating your registration by checking the existing member list before submitting.
-</thinking>
-
 # Higher Ed Digital Strategy Network Registration - Help Guide
 
 ## Purpose

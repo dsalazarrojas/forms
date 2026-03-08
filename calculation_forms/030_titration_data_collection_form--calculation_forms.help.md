@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from users for calculating the result of a titration experiment. Titration is a method used to determine the concentration of an unknown concentration by reacting it with a known concentration of another substance. The form should only be used for this specific purpose. The fields included are for providing information about the experiment details, reagents used, calculated results, and user information. The form requires some calculated fields to be filled in, but the user can optionally provide additional information and notes. The fields are divided into pages, each with its own specific purpose, such as providing details about the experiment, reagents, and calculated results.
-</thinking>
-
 # Titration Data Collection Form - Help Guide
 ## Purpose
 The Titration Data Collection Form is designed to collect data from users for calculating the result of a titration experiment. This form should only be used for this specific purpose and not for any other type of calculation or analysis.

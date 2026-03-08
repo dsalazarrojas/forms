@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect information for a corporate budget presentation. It's likely used by a company to gather details about attendees and their session preferences for a meeting or event. Before proceeding, ensure you're using this form for its intended purpose and not duplicating efforts. This form is not affiliated with, endorsed by, or derived from any form platform.
-
-If you're using this form for the wrong purpose, please stop and review the purpose stated above. This form is meant to be a tool for corporate budget presentations, not for general or personal use.
-
-Assuming this is the correct use case, please follow the instructions below to complete the form correctly.
-
-Please note that the form is composed of several text fields, each with its own label and hint. Some of these fields might appear to be identical, which can be confusing. The labels are based on public metadata and might not directly correspond to the actual content or intent of each field. Use your best judgment while filling out the form.
-
-If you're unsure about any field, consider the following explanations to clarify their purpose.
-</thinking>
-
 # corporate_budget_presentation_registration - Help Guide
 ## Purpose
 This form is designed to collect information for a corporate budget presentation. It's intended for use by companies or organizations to gather details about attendees and their session preferences for a meeting or event.

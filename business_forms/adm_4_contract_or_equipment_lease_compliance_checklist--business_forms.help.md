@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ADM 4 Contract Or Equipment Lease Compliance Checklist - Help Guide
 
 ## Purpose

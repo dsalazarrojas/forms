@@ -1,10 +1,3 @@
-<thinking> 
-We need to ensure that the Virtual Assistant Contract Template form is used correctly and efficiently. The form is designed to collect essential information from customers and virtual assistants, facilitating the creation of a comprehensive contract that outlines the terms and conditions of their partnership. This guide will walk users through the form's purpose, completion process, and each field's significance.
-
-Before we proceed, let's confirm that this form is meant to be used by customers and virtual assistants to agree on the terms of their contract, including payment terms, assistant availability, and language preferences. This should only be used once per customer-virtual assistant relationship and not for multiple instances.
-
-</thinking>
-
 # Virtual Assistant Contract Template - Help Guide
 ## Purpose
 The Virtual Assistant Contract Template is designed to collect crucial information from customers and virtual assistants to create a clear and comprehensive contract outlining the terms of their partnership.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for screening purposes for visitors and patients in a healthcare setting. It is used to collect information about visitors and patients, including their travel history, symptoms, contact trace, testing, vaccination, travel restrictions, medical clearance, and screening results. This form is intended to be used in conjunction with the healthcare provider's medical professional judgment and discretion. 
-
-Please note that this form is an AI-generated adaptation of a public survey topic and does not contain proprietary content from any form platform. It is released under CC BY 4.0 license and can be freely used, modified, and even sold with proper credit given.
-
-Before proceeding, please ensure that the form is being used in compliance with local laws and regulations regarding data privacy and patient confidentiality.
-
-The purpose of this form is to gather essential information about visitors and patients to ensure their safety and well-being.
-
-The form should not be used to replace medical professionals' judgment and discretion.
-
-</thinking>
-
 # screening_checklist_for_visitors_and_patients - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from visitors and patients to ensure their safety and well-being in a healthcare setting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on cybersecurity risk assessment, threat modeling, risk factors, risk, asset identification, vulnerability assessment, threat risk matrix, risk rating, remediation, and risk summary. The form is intended for end-users who need to provide input on the security risks and vulnerabilities within their organization. To ensure that the form is completed accurately and thoroughly, we need to ensure that the fields are clear and well-understood. A quick review of the form structure reveals that the form consists of multiple pages with various input types, including text, select multiple, date, and number. To complete this form, users will need to navigate through each page and provide relevant information for each field. This guide will walk users through each page and explain the purpose and requirements for each field, providing a clear understanding of how to complete the form accurately and effectively.
-</thinking>
-
 # Cyber Security Risk Assessment Checklist - Help Guide
 ## Purpose
 

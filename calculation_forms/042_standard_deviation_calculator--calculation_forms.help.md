@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # standard_deviation_calculator - Help Guide
 ## Purpose
 The standard deviation calculator is a form used to calculate the standard deviation of a set of numbers. It is designed to provide an estimate of the amount of variation or dispersion of a set of values. The calculator is useful for data analysis and statistical calculations.

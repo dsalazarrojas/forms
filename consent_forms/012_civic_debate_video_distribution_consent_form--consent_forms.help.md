@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding and completing the "Civic Debate Video Distribution Consent Form" in a clear and concise manner. The form is designed to gather consent for the distribution of video recordings of debates or events. To ensure accuracy, please review the form carefully before proceeding. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. 
-
-Before proceeding, please note that this form is a legal document, and any inaccuracies or misunderstandings may impact the validity of the consent provided. If you have any doubts or concerns, please reach out to the relevant authorities for clarification.
-
-The form is divided into several sections: Participant Information, Video Recording Consent, Video Distribution Consent, Distribution Platforms, Geographic Distribution Limitations, Distribution Duration, Withdrawal Rights, Privacy and Attribution, and Final Acknowledgment. Each section is designed to capture relevant information and ensure that the participant understands their rights and obligations.
-
-Please review the form carefully and ensure that you understand each section before completing it. If you have any questions or concerns, please do not hesitate to reach out to the relevant authorities for clarification.
-
-The form's purpose is to ensure that participants are aware of and agree to the conditions under which their video recordings may be distributed. This includes consent to audio and video recording, distribution of the video, acceptable distribution platforms, geographic limitations, and duration of distribution. Additionally, the form ensures that participants understand their right to withdraw consent and their privacy rights.
-
-By completing this form, participants are providing explicit consent to the distribution of their video recordings under the specified terms and conditions. Please ensure that you have reviewed the form carefully and understand each section before signing it.
-
-</thinking>
-
 # Civic Debate Video Distribution Consent Form - Help Guide
 ## Purpose
 

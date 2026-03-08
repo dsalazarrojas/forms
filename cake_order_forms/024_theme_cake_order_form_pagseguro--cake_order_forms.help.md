@@ -1,9 +1,3 @@
-<thinking>
-To create a help guide for the PagSeguro theme cake order form, we need to consider the form's purpose, which is to collect information from customers to create a custom cake order. This form should be clear and easy to understand for end-users who are not technical experts. To ensure the form is not duplicated or confusing, we should avoid any overlapping fields that may cause redundancy or confusion for the user. 
-The form is composed of several fields, including customer information, order summary, cake type, image upload, style, notes, email, phone number, and confirmation of email. Each field has a specific label and type, which we will use as a basis for the explanation.
-
-</thinking>
-
 # Theme Cake Order Form PagSeguro - Help Guide
 ## Purpose
 The theme cake order form is designed to collect customer information and preferences for custom cake orders. This form is used to gather essential details to create a unique cake that meets the customer's expectations.

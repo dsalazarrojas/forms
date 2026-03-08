@@ -1,15 +1,3 @@
-<thinking>
-This guide is intended to help end-users complete the Smart Hospitality Cluster Registration Form. The form is for businesses to register themselves as part of a smart hospitality cluster, providing essential information for the cluster to operate effectively.
-The form's purpose is to gather business information, such as the business type, company details, and contact information, to create a comprehensive database for the cluster. This information will be used for cluster operations, networking, and potential collaborations. It is recommended that businesses registering in the cluster ensure their information is accurate and up-to-date.
-To complete this form, follow the steps below:
-1. Select the appropriate business type (hospitality, tech provider, or tourism organization)
-2. Provide business details, including the name, website, and email
-3. Enter contact information, including phone number
-4. Select interest areas of operation (hospitality, tech provider, or tourism)
-5. Add any additional notes or comments
-6. Choose a date for the registration
-</thinking>
-
 # Smart Hospitality Cluster Registration Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect patient information and schedule appointments for chiropractic care. 
-It's essential to understand what this form is used for and to ensure that users are not duplicating efforts.
-The form is intended to gather relevant details about the patient, including contact information, medical history, and preferences for the appointment. 
-This will help the chiropractor to better understand the patient's needs and provide personalized care.
-The form fields should be filled out accurately and completely.
-</thinking>
-
 # Chiropractor Appointment Form - Help Guide
 
 ## Purpose

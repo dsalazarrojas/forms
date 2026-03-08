@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for clients who wish to inquire about nail art services from a beauty salon. It is crucial to understand the purpose of this form and whether the client has provided the required information before proceeding with the appointment.
-
-Please ensure that this form is not filled out multiple times for the same appointment.
-
-</thinking>
-
 # Nail Art Glitter Application Consent Form - Help Guide
 
 ## Purpose

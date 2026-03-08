@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on the safety measures and protocols in place for timber construction projects. The purpose of this form is to ensure that construction sites adhere to the necessary safety standards and protocols, reducing the risk of accidents and injuries. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. The form collects information on various aspects of timber construction safety, including general construction, fall protection, scaffolding, confined spaces, fire safety, emergency exit routes, first aid, electrical hazard prevention, fall hazard prevention, and ladder safety. 
-</thinking>
-
 # Timber Construction Safety Checklist - Help Guide
 ## Purpose
 This form is designed to ensure that timber construction sites adhere to the necessary safety standards and protocols, reducing the risk of accidents and injuries.

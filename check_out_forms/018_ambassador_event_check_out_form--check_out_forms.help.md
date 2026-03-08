@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Ambassador Event Check Out Form, used to collect information about events hosted by ambassadors. This form is used to gather data on event details, ambassador performance, event outcomes, and feedback. It is crucial that only one ambassador submits one form per event. Please make sure to review the form fields carefully and provide accurate information to ensure correct data collection.
 
 # Ambassador Event Check Out Form - Help Guide

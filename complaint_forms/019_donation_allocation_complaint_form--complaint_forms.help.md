@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Donation Allocation Complaint Form" to ensure that end users understand the form's purpose, how to complete it, and what each field means. The form is designed to collect complaints from donors regarding issues with their donations. The goal is to provide a clear and concise guide for users to fill out the form accurately and effectively.
-</thinking>
-
 # Donation Allocation Complaint Form - Help Guide
 ## Purpose
 The Donation Allocation Complaint Form is used to report issues with donations, such as allocation errors, missing donors, or incorrect allocation. This form helps us identify and address these problems promptly.

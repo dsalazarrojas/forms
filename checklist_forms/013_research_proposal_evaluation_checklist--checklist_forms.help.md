@@ -1,8 +1,3 @@
-<thinking> 
-This form is a checklist for evaluating research proposals, aiming to ensure that each field is filled in a way that allows for a comprehensive and thorough review. Its purpose is to guide reviewers through the critical aspects of a proposal, making it easier to evaluate and assess its quality. This form will help standardize the evaluation process, reducing subjectivity and increasing consistency across evaluations. It is essential to fill in each field accurately and thoroughly to get an accurate assessment of the proposal. 
-
-</thinking>
-
 # research-proposal-evaluation-checklist - Help Guide
 ## Purpose
 The research-proposal-evaluation-checklist is a form designed to evaluate research proposals in a structured and comprehensive manner. It consists of several fields that cover key aspects of a proposal, ensuring that each reviewer has a clear understanding of the proposal's strengths and weaknesses.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect information about team nominations for recognition and awards. To ensure that the form is completed accurately and efficiently, please make sure to fill it out only for valid team nominations and not for duplicate nominations. If you're unsure about the purpose of the form or if you've already nominated the same team, please contact the relevant team lead or admin for clarification. 
-
-</thinking>
-
 # Team Superlative Nominations Survey - Help Guide
 ## Purpose
 The Team Superlative Nominations Survey is used to collect information about team members who deserve recognition and awards for their outstanding work and achievements. This form helps to gather details about the nominated team, including their name, nominee's name, reason for nomination, and other relevant information.

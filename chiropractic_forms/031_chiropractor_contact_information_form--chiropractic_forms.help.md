@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating a Chiropractor Contact Information Form to collect patient data for our chiropractic practice. This form is crucial for our team to gather relevant information about patients before scheduling appointments and communicating with them effectively. Please note that this form is only for patients who have been referred to us or have searched for us online; we will not be collecting sensitive information or selling this data in any way.
 
 ## Purpose

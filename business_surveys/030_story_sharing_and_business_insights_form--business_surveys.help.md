@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from business users on story sharing and its impact on business growth. The goal is to gather data on whether business users believe that story sharing has a positive effect on business growth, through effective data collection and engagement.
-
-To ensure relevance and non-duplication, please only fill out this form if you have a genuine interest in sharing your story and insights on story sharing and its impact on business growth. If you are unsure or have already filled out the form, you can skip it to avoid any potential duplication.
-
-</thinking>
-
 # Story Sharing And Business Insights Form - Help Guide
 ## Purpose
 The Story Sharing And Business Insights Form is designed to collect feedback and insights from business users on story sharing and its impact on business growth.

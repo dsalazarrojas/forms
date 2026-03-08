@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data for emergency fundraising benchmarking survey. The purpose of this form is to gather information about a specific organization's fundraising efforts, including their average and total donation amounts, frequencies, and periods. This data will help in comparing and evaluating the performance of different organizations in the field of emergency fundraising.
-
-To ensure accuracy and avoid duplication of data, please fill out the form only once for each organization.
-
-</thinking>
-
 # Emergency Fundraising Benchmarking Survey - Help Guide
 ## Purpose
 The Emergency Fundraising Benchmarking Survey is a form to collect data on an organization's emergency fundraising efforts.

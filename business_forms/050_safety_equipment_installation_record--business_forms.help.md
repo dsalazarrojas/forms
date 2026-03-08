@@ -1,10 +1,3 @@
-<thinking>
-Is the form being created for a specific business or organization, and does the form have a specific purpose that justifies its existence? I assume it's related to tracking safety equipment installations within a company or organization, and the form is intended to record and document the installation process. I'll aim to keep the explanation clear and concise, avoiding inventing business logic not provided in the YAML.
-
-The form has multiple pages, but I'll focus on the essential fields and their explanations.
-
-</thinking>
-
 # Safety Equipment Installation Record - Help Guide
 ## Purpose
 

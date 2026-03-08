@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from campers and their guardians for the upcoming summer camp. It is essential to fill it out accurately and completely to ensure a smooth and enjoyable experience for everyone. Before starting, please review the form carefully to avoid any errors or omissions. If you have already registered for this summer camp, please do not submit this form again.
-</thinking>
-
 # Sample Summer Camp Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from campers and their guardians for the upcoming summer camp. The information collected will be used to create camper profiles and ensure that each camper has a fun and safe experience at the camp.

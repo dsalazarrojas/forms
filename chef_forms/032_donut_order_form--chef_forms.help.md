@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about donut orders from customers. It's intended to be used by business users to create new orders for donuts. This form likely won't be used by internal stakeholders or other business teams. The fields should align with common donut ordering scenarios. I'm considering the form as a part of a larger donut ordering system, but its functionality is limited to gathering customer data. It seems the form allows customers to order donuts in various flavors, sizes, and quantities. I'll focus on explaining each field in a clear and concise way.
-</thinking>
-
 # Donut Order Form - Help Guide
 ## Purpose
 The Donut Order Form is designed to collect customer information and donut order details for processing orders. Use this form to gather all necessary information for a new donut order.

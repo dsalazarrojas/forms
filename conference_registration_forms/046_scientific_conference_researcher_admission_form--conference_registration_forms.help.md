@@ -1,11 +1,3 @@
-<thinking> This form is designed to gather information from researchers interested in presenting their work at a scientific conference. The purpose of this form is to help conference organizers manage the admission process for presenters and to provide a clear and concise way for researchers to submit their information.
-
-The form is divided into two main sections: General Information and Presenter Information. The General Information section requires the researcher to provide their personal and contact information, while the Presenter Information section is focused on the details of the presentation, such as the paper title, paper ID, and event date.
-
-The form has a total of 30 fields, each with its own label, hint, and required status. The fields are categorized into several groups, including Event Information, Presenter Information, and Paper Submission Information.
-
-The form requires researchers to provide accurate and complete information to ensure that their presentation is properly registered and managed. </thinking>
-
 # Scientific Conference Researcher Admission Form - Help Guide
 ## Purpose
 This form is designed to gather information from researchers interested in presenting their work at a scientific conference.

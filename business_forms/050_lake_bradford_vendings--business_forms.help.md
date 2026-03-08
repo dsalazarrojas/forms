@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended for collecting information from lake vendors who will be participating in the "Lake Bradford Vendings" event. The purpose of this form is to ensure that all lake vendors have a consistent and accurate record of their sales and services provided during the event. This information is used for internal record-keeping and may also be used for communication with the vendors in the event of any issues that may arise during the event. 
-
-To prevent duplicates, only one entry per vendor is allowed. Vendors must ensure that their entry is accurate and up-to-date as the form data will be used for reference during the event.
-
-Please note that if a vendor's entry is incomplete or inaccurate, they may not be able to participate in the event or may experience issues during the event.
-
-</thinking>
-
 # Lake Bradford Vendings - Help Guide
 ## Purpose
 This form is used to collect information from lake vendors participating in the "Lake Bradford Vendings" event.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and preferences from customers about their shopping experience with home improvement products in a retail store. The form aims to gather information about customer satisfaction, purchase frequency, product search methods, and other aspects of their store experience. This form is not intended to be repeated for the same user, as each submission will help the store improve its products and services.
-
-Before filling out this form, please ensure you have not already submitted a similar form. If you have, please do not proceed with this form. Your feedback and preferences will help the store tailor its offerings and improve customer experience.
-</thinking>
-
 # Retail Home Improvement Preferences Survey Form - Help Guide
 ## Purpose
 This form aims to gather your opinions and preferences as a customer, helping the store to better understand your needs and improve its products and services.

@@ -1,5 +1,3 @@
-<thinking>As a business registration form, the "Farm To Retail Innovation Registration Form" is intended for businesses operating in the agricultural sector, particularly those involved in the farm-to-retail innovation. This form collects information about the business, its products, and its innovation, helping to register and showcase innovative practices and products in the farm-to-retail sector. Ensure that the form is completed accurately and thoroughly, and that all required fields are filled out.</thinking>
-
 # Farm To Retail Innovation Registration Form - Help Guide
 ## Purpose
 The "Farm To Retail Innovation Registration Form" is a form used to register and showcase innovative practices and products in the farm-to-retail sector. Complete this form to provide detailed information about your business and its innovation.

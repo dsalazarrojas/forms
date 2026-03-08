@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Event Checklist Form - Help Guide
 ## Purpose
 The Corporate Event Checklist Form is designed to collect information about corporate events. This form helps to gather details, dates, location, and agenda of events, ensuring that all necessary information is captured accurately and efficiently.

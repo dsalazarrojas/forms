@@ -1,7 +1,3 @@
-<thinking>
-The form "webinar_organization_permission_form" is likely used to request permission from an organization to participate in a webinar. The goal is to obtain the organization's consent to access specific resources or services. This form should only be used once per organization, to avoid duplication of permissions. It's essential to fill out the form accurately to ensure proper communication and collaboration between the organization and the webinar hosts.
-</thinking>
-
 # webinar_organization_permission_form - Help Guide
 ## Purpose
 The webinar_organization_permission_form is used to request permission from an organization to participate in a webinar. This form is typically used when an organization wants to access specific resources or services related to the webinar.

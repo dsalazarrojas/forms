@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to document and plan their new year's cleaning tasks. The form is designed to be a simple, straightforward way for users to outline their cleaning schedule and tasks for the upcoming year. It should cover the basics of what needs to be cleaned, how often, and when. The form is meant to be a starting point for users to reflect on their cleaning habits and make informed decisions about their cleaning tasks. There should be no need to fill it out if you don't have any cleaning tasks planned for the new year. Please make sure to fill it out if you have any cleaning tasks planned. This form is only to be used for the new year's cleaning checklist.
-</thinking>
-
 # new_year_cleaning_checklist - Help Guide
 ## Purpose
 The new_year_cleaning_checklist form is a tool to help users document and plan their new year's cleaning tasks.

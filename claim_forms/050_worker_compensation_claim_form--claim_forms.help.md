@@ -1,5 +1,3 @@
-<thinking>...to clarify, this form is for employees to report an incident or injury that may require worker's compensation benefits. It will be reviewed by the relevant department and if approved, the employee will be eligible for said benefits. Please ensure you're filling this out in a timely manner and accurately to avoid delays in the process.</thinking>
-
 # Worker Compensation Claim Form - Help Guide
 ## Purpose
 The purpose of this form is to report an incident or injury that may require worker's compensation benefits.

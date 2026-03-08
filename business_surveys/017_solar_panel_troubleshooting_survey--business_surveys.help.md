@@ -1,10 +1,3 @@
-<thinking> 
-We will create a user-facing help guide for a form called "solar-panel-troubleshooting-survey" which is part of the "business_surveys" category. This form is designed to collect feedback and information from users about issues they are experiencing with their solar panels. The primary goal of this form is to gather data that will help our team troubleshoot and resolve problems with solar panel installations. The form will not be used for sales or marketing purposes.
-
-To ensure that the information we gather is accurate and relevant, we will ask that you only submit one form per issue. If you have multiple issues, please submit a separate form for each one. If you are unsure about the purpose or requirements of the form, please don't hesitate to contact our team for clarification.
-
-We will review each submitted form and follow up with users to gather more information or provide assistance as needed.</thinking>
-
 # solar-panel-troubleshooting-survey - Help Guide
 ## Purpose
 The solar-panel-troubleshooting-survey form is designed to gather information from users about issues they are experiencing with their solar panels. This form will help our team identify and resolve problems, ensuring that your solar panel system runs smoothly and efficiently.

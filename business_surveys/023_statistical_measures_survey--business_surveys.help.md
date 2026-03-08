@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal purpose of this form is to gauge the knowledge, familiarity, and confidence of users in statistical measures, which is a crucial aspect of data-driven decision-making in business settings. This survey aims to collect feedback from stakeholders on the effectiveness of statistical measures in their daily work and identify areas where improvement is needed. It's essential to ensure that the survey is completed by users who have relevant experience with statistical measures, so the feedback provided is accurate and reliable. To prevent duplication of effort, this survey should be completed by users who have not already provided feedback on statistical measures previously.
 
 # Statistical Measures Survey - Help Guide

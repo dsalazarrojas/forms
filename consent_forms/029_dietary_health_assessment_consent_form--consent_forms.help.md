@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a dietary health assessment, likely for a healthcare provider or nutritionist to assess an individual's dietary needs and preferences. The form collects personal and medical information, such as the client's contact details, medical conditions, and allergies. The form also collects information about the client's dietary restrictions and assessment frequency. This form is intended for healthcare professionals to gather necessary information before conducting a dietary assessment. Please ensure that this form is not completed more than once per individual.
-
-</thinking>
-
 # Dietary Health Assessment Consent Form - Help Guide
 
 ## Purpose

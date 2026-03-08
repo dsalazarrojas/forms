@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for analyzing digital campaigns. It is essential to provide accurate and relevant data to ensure the best possible analysis results. Please ensure that you only fill out this form once for each unique campaign. If you need to analyze multiple campaigns, create a separate form for each campaign. This form is not meant for duplicate submissions.
-</thinking>
-
 # Digital Campaign Analysis Request Form - Help Guide
 ## Purpose
 The Digital Campaign Analysis Request Form is a tool used to collect information about digital campaigns for analysis purposes. It helps in identifying the campaign's objectives, target audience, budget, and other relevant details. This form will help our team to better understand your campaign's performance and provide valuable insights to improve future campaigns.

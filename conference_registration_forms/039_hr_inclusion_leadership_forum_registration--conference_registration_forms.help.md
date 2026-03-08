@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hr_inclusion_leadership_forum_registration - Help Guide
 ## Purpose
 The HR Inclusion Leadership Forum Registration Form is designed to collect information from individuals attending the conference. This form aims to gather details on attendees' interests, preferences, and requirements for the sessions and event.

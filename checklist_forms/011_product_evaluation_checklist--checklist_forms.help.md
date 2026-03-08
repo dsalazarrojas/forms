@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for internal product evaluation and feedback purposes within a company, where users evaluate products and provide ratings, pros and cons, and other relevant information. This form might be used by various teams such as product managers, QA teams, and buyers to provide their feedback and ratings on products.
-</thinking>
-
 # Product Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to facilitate product evaluation and feedback collection from various stakeholders. It helps gather information about products, including ratings, pros and cons, and other relevant details. The form is intended to be completed by different teams within the company, such as product managers, QA teams, and buyers.

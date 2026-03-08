@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending the Seminar Registration Form INAFOR. It's a general-purpose form meant to gather basic contact and identification details from participants. 
-
-The form is not intended for any specific event or purpose beyond its general seminar registration, so it doesn't require complex logic or conditional validation. This form will help in maintaining a basic record of attendees for the event organizers. 
-
-Before proceeding, ensure that you're not duplicating your registration, and that you're interested in attending the seminar. Please read the form instructions and fill out the necessary details accurately. 
-
-Please fill out the form completely and truthfully to ensure a smooth registration process.
-</thinking>
-
 # Seminar Registration Form INAFOR - Help Guide
 ## Purpose
 The Seminar Registration Form INAFOR is a general-purpose form used for collecting contact and identification details from individuals interested in attending a seminar.

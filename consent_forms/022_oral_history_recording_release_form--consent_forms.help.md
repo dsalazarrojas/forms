@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # oral_history_recording_release_form - Help Guide
 
 ## Purpose

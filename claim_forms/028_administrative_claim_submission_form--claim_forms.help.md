@@ -1,5 +1,3 @@
-<thinking>Administrative Claim Submission Form: A crucial tool for submitting claims to the relevant department. This form aims to collect essential information about the claimant, claim details, and resolution requests, ensuring accurate and efficient processing. To ensure relevance, please note that you should only fill this form if you are the actual claimant or have the claimant's explicit permission to submit on their behalf. Duplicate submissions of the same claim will be considered as invalid.</thinking>
-
 # Administrative Claim Submission Form - Help Guide
 ## Purpose
 The Administrative Claim Submission Form is designed to gather necessary information from claimants to process their claims efficiently. Please fill this form to submit claims related to any incidents or issues you have experienced with our organization.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by visitors to the Child Support Office to check in for visits, providing necessary information for processing and follow-up. The purpose of this form is to gather relevant details about the visitor, their visit purpose, and their preferred contact method. The form will help staff efficiently process and manage visitor information, ensuring timely and effective communication.
-
-Before starting, ensure that you have not checked in previously, as the form is designed to be used only once per visitor.
-
-Please fill out the form accurately and thoroughly, as it will help us better understand your needs and provide the best possible assistance.
-
-</thinking>
-
 # Child Support Office Check In Form - Help Guide
 
 ## Purpose

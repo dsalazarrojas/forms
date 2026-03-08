@@ -1,8 +1,3 @@
-<thinking>
-The form "Freelancer Growth Bundle Registration" is designed to gather information from freelancers about their growth bundles and program owners. The purpose of this form is to collect data on the experience levels and goals of freelancers, as well as their preferred growth bundles and program owners. This form is meant to be completed by freelancers who are interested in registering for growth bundles and programs offered by different owners. The form will help identify relevant information that will aid in the development and improvement of these growth bundles and programs. It is recommended that the same form is not completed by the same user multiple times, as it may lead to data duplication and inconsistencies.
-
-</thinking>
-
 # Freelancer Growth Bundle Registration - Help Guide
 ## Purpose
 The "Freelancer Growth Bundle Registration" form is designed to collect information from freelancers about their growth bundles and program owners. This form will help identify relevant information to aid in the development and improvement of growth bundles and programs.

@@ -1,10 +1,3 @@
-<thinking>
-We are designing a form to collect data for an Employee Survey Pilot Application Form. This form aims to gather information about employees' experiences, roles, and departments within the company. The form will help us understand the current state of employee engagement and identify areas for improvement. The form will be submitted by individual employees, and its completion should be done on a personal capacity. The data collected will be used to inform future initiatives and decisions regarding employee well-being and engagement.
-
-To ensure the form is used correctly, please review the fields below to understand the intended purpose of each field.
-
-</thinking>
-
 # Employee Survey Pilot Application Form - Help Guide
 
 ## Purpose

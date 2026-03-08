@@ -1,7 +1,3 @@
-<thinking>
-This form is used for capturing the details of an interview, including the liability release details, interviewee and journalist information, and media organization details. The form is designed to ensure that all parties involved in the interview understand their liability and responsibilities. It is intended for internal use only and should not be completed by anyone who has not been previously authorized to do so. Please confirm that you have the necessary permissions and clearance to access and complete this form.
-</thinking>
-
 # Interview Liability Release Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the Solar Savings Calculator form, we will need to follow these steps:
 
 1. Define the form's purpose and context

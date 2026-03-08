@@ -1,13 +1,3 @@
-<thinking>
-
-The "Toys For Tots Application Form" is designed to collect information from individuals or organizations interested in supporting the Toys For Tots program, a charity initiative that provides toys and gifts to underprivileged children during the holiday season. This form aims to streamline the application process, ensuring that the necessary information is gathered to review and process each application in a fair and efficient manner.
-
-The form is intended to capture essential details about the applicant, including contact information, donation preferences, and additional comments. By completing this form, applicants can help the Toys For Tots committee review and approve their application.
-
-Please note that each field is optional, and applicants can submit their forms without providing all the required information. However, providing a complete and accurate application will increase the chances of successful review and approval.
-
-</thinking>
-
 # Toys For Tots Application Form - Help Guide
 ## Purpose
 The "Toys For Tots Application Form" is a tool to gather information from individuals or organizations interested in supporting the Toys For Tots program.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "City Maintenance Complaint Form", we need to understand the form's purpose and the fields it contains. The form is used to report maintenance issues in the city, such as potholes, broken streetlights, and graffiti. The form is designed to be completed by citizens who want to report these issues and help the city's maintenance team to prioritize and address these problems.
-
-Before proceeding, let's confirm that the form is intended for reporting maintenance issues, and that the fields are designed to capture relevant information to help the city's maintenance team to identify and address the issues effectively.
-
-</thinking>
-
 # City Maintenance Complaint Form - Help Guide
 ## Purpose
 The City Maintenance Complaint Form is a tool that allows citizens to report maintenance issues in the city. This form helps the city's maintenance team to identify and address problems such as potholes, broken streetlights, and graffiti, among others.

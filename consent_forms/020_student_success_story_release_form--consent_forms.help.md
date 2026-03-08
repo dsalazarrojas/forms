@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal reasoning and checks for relevance and non-duplication:**
-
-This form is designed to collect student success stories for publication purposes. The form is intended for students who have achieved outstanding academic or personal accomplishments. The goal is to capture relevant details about the students' experiences, such as their student ID, name, school name, and story. The form also includes fields for publication permissions, medium, and date to ensure that the story is released according to the student's preferences. A signature field is included for authentication purposes.
-
-The fields should only be completed if the student has achieved an outstanding academic or personal accomplishment and has given their consent to share their story. If a student has already submitted a success story through this form, they should not be able to resubmit it.
-
-</thinking>
-
 # Student Success Story Release Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a hockey camp, including their personal details, contact information, emergency contact, participant schedule, and payment information. The purpose of this form is to streamline the registration process for the camp organizers and ensure that all necessary details are collected from participants.
-
-To ensure that this form remains useful and relevant, it's essential to review and understand its purpose and fields.
-
-</thinking>
-
 # hockey_camp_registration_form_template - Help Guide
 ## Purpose
 This form collects participant information for the hockey camp registration process.

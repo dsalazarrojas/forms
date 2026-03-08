@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from performing arts professionals about their leadership experiences, skills, and satisfaction levels. This information will be used to create a comprehensive database of performing arts leadership trends and best practices. Please fill out this form accurately and thoroughly to contribute to this database.
-
-To complete this form, start by entering your name, email address, and job-related information such as company, department, and job title. Then, answer questions about your leadership experiences, including the length of time you've spent leading, your job and leadership satisfaction, and the number of people you lead. Finally, provide any additional leadership skills or areas of focus you'd like to mention.
-
-</thinking>
-
 # Performing Arts Leadership Survey - Help Guide
 ## Purpose
 This form is designed to collect information about performing arts leadership experiences, skills, and satisfaction levels. Your input will help create a comprehensive database for the performing arts industry.

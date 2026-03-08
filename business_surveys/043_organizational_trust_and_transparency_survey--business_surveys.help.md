@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees on their perceptions of the organization's level of trust and transparency. This form is meant to be a tool for the organization to understand the level of employee satisfaction and engagement with the company's mission, values, and work environment. The form is designed to be completed by employees who are currently or have previously worked for the organization.
-
-Before completing this form, please ensure that you have answered the questions based on your personal experiences and feelings about your time at this organization. The information provided will be used to help the organization understand your needs and concerns, and to identify areas for improvement. Your responses will be kept confidential and anonymous.
-
-This form consists of three sections, each with multiple questions. Please take your time to read each question carefully and answer accordingly. If you have any doubts or concerns, please don't hesitate to reach out to the organization's management.
-
-</thinking>
-
 # Organizational Trust and Transparency Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your perceptions of trust and transparency within the organization. Your responses will help the organization understand your feelings and experiences, and identify areas for improvement.

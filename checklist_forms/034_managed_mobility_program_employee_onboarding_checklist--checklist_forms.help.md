@@ -1,24 +1,3 @@
-<thinking>
-This help guide is for the "Managed Mobility Program Employee Onboarding Checklist" form. The form is designed to facilitate a structured and efficient process for new employees to on-board into the Managed Mobility Program. It collects necessary information from both the employee and the requestor to ensure a seamless handoff of devices and services. 
-
-The form is divided into various sections, covering employee details, device handoff, services offered, and other relevant information.
-
-To complete this form, follow these steps:
-
-- Start by filling out the "New Hire Details" section with the employee's information.
-- In the "Device Handoff" section, enter the date and time for the device handoff.
-- In the "Services Offered" section, select all the services that will be provided to the employee.
-- In the "Mobility Services" section, select the services that will be offered to the employee.
-- Enter the requestor's information in the "Requestor" section.
-- Add the email and phone number of the requestor and the employee in the "Email" and "Phone" sections respectively.
-- Add any additional notes or comments in the "Notes" section.
-- Enter the approval date in the "Approval Date" section.
-- Select the individuals who have approved the request in the "Approved By" section.
-- Update the "Device Handoff Status" section with the current status of the device handoff.
-- Enter the email and phone number of the employee in the "Email" and "Phone" sections respectively.
-- Add any additional notes or comments in the "Notes" section.
-</thinking>
-
 # Managed Mobility Program Employee Onboarding Checklist - Help Guide
 ## Purpose
 The Managed Mobility Program Employee Onboarding Checklist is a form designed to facilitate a seamless onboarding process for new employees into the Managed Mobility Program. It collects necessary information from both the employee and the requestor to ensure a smooth transition.

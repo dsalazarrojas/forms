@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect consent from participants for virtual meeting recordings. The purpose of this form is to ensure that all parties involved in the meeting are aware of and agree to the recording and sharing of the meeting content. This form is typically used in a business or professional setting where meeting recordings may be shared with colleagues or clients. The form is used to gather information about the meeting, such as the meeting name, date, and location, as well as the participant's consent to be recorded and shared. 
-
-Please note that the form is designed to be simple and straightforward, and the fields are self-explanatory. However, it's always a good practice to review the form carefully before submitting to ensure all required information is provided.
-
-</thinking>
 # virtual_meeting_recording_consent_form - Help Guide
 
 ## Purpose

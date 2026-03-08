@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for registering a new smart store concept, which likely involves creating a concept for a retail store that incorporates smart technology and innovative features. The form's purpose is to collect information from retailers who want to propose and develop a smart store concept. 
-This form will be used to gather essential details about the retailer and their proposed store concept, including contact information, store details, and innovative features. 
-To avoid duplication and ensure that only unique store concepts are registered, we need to ensure that users complete the form carefully and accurately. 
-This form will help us assess and develop the proposed store concepts. 
-</thinking>
-
 # Smart Store Concept Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from retailers who want to register a new smart store concept. It will help our team assess and develop the proposed store concepts.

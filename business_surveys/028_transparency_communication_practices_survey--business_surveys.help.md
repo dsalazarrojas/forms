@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather insights into the transparency communication practices within an organization. The purpose of this form is to understand how often employees communicate with their organization, which communication channels they use, with whom they share information, and what data they share. This form will help identify areas for improvement in the organization's communication practices.
-
-</thinking>
-
 # Transparency Communication Practices Survey - Help Guide
 ## Purpose
 This survey aims to gather information about the transparency communication practices within an organization. It helps us understand how often employees communicate with their organization, which communication channels they use, with whom they share information, and what data they share.

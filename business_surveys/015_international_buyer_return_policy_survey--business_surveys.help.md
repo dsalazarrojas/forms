@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from international buyers on their experiences with the return policy of our company. It is crucial that the information collected is accurate and relevant to ensure that we can understand the buyer's pain points and make improvements to our return policy to enhance their experience.
-The form should only be completed once per international buyer. Duplicate or incomplete submissions will be discarded to ensure data quality. Please provide honest and detailed responses to help us understand your experiences with our return policy.
-</thinking>
-
 # International Buyer Return Policy Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from international buyers on their experiences with our return policy. Your input will help us understand your challenges and improve our return policy to provide a better experience for you and all our international buyers.

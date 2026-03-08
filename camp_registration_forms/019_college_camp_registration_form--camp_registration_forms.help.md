@@ -1,7 +1,3 @@
-<thinking>
-This guide is to ensure that the user understands the purpose and requirements of the College Camp Registration Form. The form is designed to collect information from registrants to process their registration for the college camp. This guide should help users understand the form's purpose, how to complete it, and the meaning of each field. Before proceeding, please confirm that you are registering for the college camp and that you are familiar with the camp's policies and procedures.
-</thinking>
-
 # College Camp Registration Form - Help Guide
 ## Purpose
 The College Camp Registration Form is used to collect essential information from registrants to process their registration for the college camp. This form requires users to provide their personal and academic details, including name, contact information, academic background, and medical history. The form also asks about their expectations from the camp and any accessibility needs they may have.

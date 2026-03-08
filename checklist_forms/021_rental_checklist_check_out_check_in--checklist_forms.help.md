@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the rental process of a piece of equipment, specifically for the check-out and check-in process. The form is meant to gather details such as dates and times for check-out and check-in, as well as the condition of the equipment being rented. This form is likely used by companies or organizations that rent out equipment, such as tools, vehicles, or other items, to their customers or employees. 
-
-The form's purpose is to provide a structured way to collect and document the necessary information for the rental process, making it easier to manage and track rentals.
-
-</thinking>
-
 # rental_checklist_check_out_check_in - Help Guide
 ## Purpose
 This form is designed to collect information for the rental process of a piece of equipment, specifically for the check-out and check-in process.

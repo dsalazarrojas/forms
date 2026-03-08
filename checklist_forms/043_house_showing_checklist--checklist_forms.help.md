@@ -1,7 +1,3 @@
-<thinking>
-This form is a House Showing Checklist, designed to gather information about a property. It is intended for use by real estate agents or property showings. The form is meant to be completed by the person showing the property. The purpose of this form is to gather details about the property and its features, as well as the contact information of the person showing the property.
-</thinking>
-
 # House Showing Checklist - Help Guide
 ## Purpose
 The House Showing Checklist is a form designed to help gather information about a property during a showing. This form collects details about the property's condition, features, and contact information of the person showing the property.

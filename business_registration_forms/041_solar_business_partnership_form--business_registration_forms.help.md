@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect business partnership information from users. The purpose of this form is to gather essential details about a business, including its name, address, phone number, email, system details, and system name. This form likely serves as part of a registration process for businesses to be listed on a platform or directory.
-
-The form appears to be designed for businesses, as it asks for a business name, address, phone number, and email. The system details and system name fields suggest that this form may be for businesses that operate in the solar industry or use solar-related systems.
-
-The form does not seem to have any unique or specific requirements, making it a general form for collecting business partnership information. Therefore, the form's purpose and usage should be clear and straightforward for end-users.
-</thinking>
-
 # Solar Business Partnership Form - Help Guide
 ## Purpose
 The Solar Business Partnership Form is a tool to collect business partnership information from users. It is designed to gather essential details about a business to be listed on a directory or platform.

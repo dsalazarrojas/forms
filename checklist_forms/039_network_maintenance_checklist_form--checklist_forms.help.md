@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # network_maintenance_checklist_form - Help Guide
 ## Purpose
 The network maintenance checklist form is designed to help network administrators and maintenance personnel track and document the status and maintenance history of network devices. This form is used to ensure that all network devices are properly maintained, inspected, and serviced to prevent downtime and ensure the overall health of the network.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lunch And Learn Registration Form - Help Guide
 ## Purpose
 This form is designed for registering employees for the company's Lunch And Learn events. Employees can use this form to provide their name, contact information, and schedule a date and time to attend the event. The form is intended to help event organizers gather necessary information from attendees and ensure a smooth event experience.

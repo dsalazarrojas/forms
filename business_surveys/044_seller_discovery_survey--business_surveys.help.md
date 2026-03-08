@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being written for the Seller Discovery Survey form. The purpose of this form is to collect information about sellers, which will be used to identify and categorize them. The form is designed to be completed by the seller themselves, or by an administrator on their behalf.
-To ensure the accuracy and relevance of the data being collected, it is essential to complete this form correctly. If you are a seller, please provide accurate and honest information to the best of your knowledge. If you are an administrator, please make sure to double-check the information provided before submitting it.
-Before filling out the form, please ensure that you have the necessary permissions and approvals to do so.
-</thinking>
-
 # Seller Discovery Survey - Help Guide
 ## Purpose
 The Seller Discovery Survey is a form used to collect information about sellers. It is designed to be completed by the seller themselves or by an administrator on their behalf. The data collected through this form will be used to identify and categorize sellers.

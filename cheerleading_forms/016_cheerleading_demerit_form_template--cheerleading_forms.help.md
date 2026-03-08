@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record and track demerits or penalties given to cheerleaders in a team. It helps coaches and staff keep accurate records of incidents, assign demerit points, and document actions taken. This form will guide you through the process of completing the form for a cheerleader who has committed a violation. Before you start, please review the cheerleader's previous record to avoid duplication of incidents.
-</thinking>
-
 # Cheerleading Demerit Form Template - Help Guide
 ## Purpose
 

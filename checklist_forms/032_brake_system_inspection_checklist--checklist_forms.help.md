@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be used by mechanics to perform a comprehensive inspection of a vehicle's brake system. The form should only be used for brake system inspections, and not for other types of vehicle inspections. The form is intended to capture detailed information about the vehicle's brake system, including the condition of the brake pads, rotors, and brake hoses. The form should only be completed by trained and qualified mechanics.
-
-</thinking>
-
 # Brake System Inspection Checklist - Help Guide
 ## Purpose
 This is a detailed inspection checklist for the brake system of a vehicle. The form is designed to gather information about the condition of the brake system and identify any potential issues that need to be addressed.

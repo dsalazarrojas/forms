@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Market Interest Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gauge your interest in the tech market. It will ask you to provide information about your company, department/team, preferred technology, industry, budget, time period, and any additional comments. This form will help us understand your needs and interests in the tech market.

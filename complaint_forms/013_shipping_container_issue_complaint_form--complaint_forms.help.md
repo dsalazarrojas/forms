@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about shipping container issues, which can help the company to identify and resolve problems efficiently. This form should only be used to report issues related to shipping containers, and not for other types of complaints. Please ensure that you are using this form for its intended purpose and not duplicating issues that have already been reported.
-</thinking>
-
 # Shipping Container Issue Complaint Form - Help Guide
 ## Purpose
 The Shipping Container Issue Complaint Form is used to report any issues or problems related to shipping containers. This form helps the company to gather information about the issues and take necessary actions to resolve them.

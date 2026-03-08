@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information from customers to verify their identity and determine their eligibility for access to the loyalty portal. This form is a crucial step in our business process to ensure accurate identification and targeted marketing efforts. Please ensure that you fill in all required fields to avoid any delays in processing your request. If you have any questions or concerns, please contact us for assistance.
-</thinking>
-
 # Customer Loyalty Portal Access Form - Help Guide
 ## Purpose
 This form is used to collect information from customers to verify their identity and determine their eligibility for access to the loyalty portal. It helps us to ensure that you receive targeted marketing efforts and personalized offers tailored to your needs.

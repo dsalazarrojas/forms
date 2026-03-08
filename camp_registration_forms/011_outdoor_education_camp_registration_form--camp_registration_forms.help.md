@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals registering for an outdoor education camp program. It gathers personal details, contact information, and medical history to ensure a safe and enjoyable experience for all campers. The form includes fields for emergency contact details, program preferences, and staff information. This form is not intended for campers, but rather for those interested in working at or participating in the camp in a staff capacity. The form's layout is designed to be easy to navigate and understand.
-
-Before proceeding, ensure that you are not a registered camper. If you are unsure, refer to the main camp website or contact the camp administrators.
-
-The form will be reviewed and processed internally. If any discrepancies or concerns arise, the camp administrators will contact you directly.
-
-Please fill in the form accurately and thoroughly to ensure a smooth and successful registration process.
-
-This form is for registration purposes only. Once submitted, the information will be used for camp purposes.
-
-</thinking>
-
 # Outdoor Education Camp Registration Form - Help Guide
 ## Purpose
 The outdoor education camp registration form is designed to collect information from individuals interested in working at or participating in the camp in a staff capacity. This form helps the camp administrators review and process registration requests.

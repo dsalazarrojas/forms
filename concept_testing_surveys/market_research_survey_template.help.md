@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather feedback on new concepts or ideas, allowing stakeholders to gauge the effectiveness and appeal of their proposed market research. By asking users to rate their satisfaction and choose the most appealing aspects of the concept, this form aims to capture a comprehensive understanding of the target audience's thoughts. This form is not affiliated with any specific form creation platform, and its design is based on the metadata of the provided survey topic. It is released under a Creative Commons license, allowing free use, modification, and distribution.
-</thinking>
-
 # market_research_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on new concepts or ideas, allowing stakeholders to understand how well their proposal resonates with the target audience.

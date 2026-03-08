@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a property appraisal, likely for real estate or property assessment purposes. The form is likely used by appraisers or assessors to gather details about a property, its characteristics, and its condition.
-The form is likely used in a business or professional setting, such as real estate, property management, or tax assessment. It's possible that this form is used to gather data for reporting or analysis purposes, or to support decision-making processes.
-Before filling out this form, ensure that you have all the necessary information about the property and the appraiser. This form may be used for multiple properties, so it's essential to review each field carefully to ensure accuracy.
-</thinking>
-
 # Appraisal Parameter Form - Help Guide
 ## Purpose
 The Appraisal Parameter Form is designed to gather detailed information about a property's characteristics and condition.

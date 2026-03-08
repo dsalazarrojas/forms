@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help caregivers or parents track the progress and milestones of a child's toilet training process. It is designed to gather information about a child's name, the date, and start date of their toilet training. This information can be used to monitor the child's development, identify areas for improvement, and provide a clear record of their progress. Please note that this form is not meant to replace professional medical advice or assessment. It is recommended to consult a pediatrician or healthcare professional for personalized guidance on toilet training.
-</thinking>
-
 # Toilet Training Checklist - Help Guide
 ## Purpose
 This form is designed to help track the progress and milestones of a child's toilet training process.

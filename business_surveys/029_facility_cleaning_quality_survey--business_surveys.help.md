@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to complete a form to report on the quality of facility cleaning. The form, titled "facility_cleaning_quality_survey", is used to gather information on various aspects of facility cleaning, including cleanliness, inspector involvement, staff, and equipment. The form is not necessarily tied to a specific project or task, making it a general-purpose tool for facility managers or maintenance teams to assess and improve cleaning quality. It's essential to ensure that the form is completed thoroughly and accurately to provide a comprehensive assessment.
-</thinking>
 # facility_cleaning_quality_survey - Help Guide
 ## Purpose
 This form is used to evaluate the quality of facility cleaning in your workplace. It's a self-assessment tool that helps facility managers and maintenance teams to determine the cleanliness of different areas, identify areas of improvement, and develop strategies to maintain a clean and safe environment.

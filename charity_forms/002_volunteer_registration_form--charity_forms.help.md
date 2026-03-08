@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register volunteers for various projects and events. It captures information about the volunteer's name, contact details, project specifics, and role/responsibilities. This form is designed to be completed by volunteers before attending a project or event, ensuring that we have accurate information about each volunteer. To avoid duplication of records, please ensure that you only submit this form once. If you have previously registered for a project or event, please do not re-register.
-</thinking>
-
 # Volunteer Registration Form - Help Guide
 ## Purpose
 The Volunteer Registration Form is used to collect information about volunteers for projects and events. This form helps us to keep track of volunteer details, ensuring that we can manage volunteer roles, schedules, and responsibilities effectively.

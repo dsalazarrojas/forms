@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mobile Home Inspection Form - Help Guide
 ## Purpose
 The Mobile Home Inspection Form is a tool used for assessing the structural and functional integrity of mobile homes. This form gathers information about the home's address, type, size, layout, and various systems, including electrical, plumbing, and gas.

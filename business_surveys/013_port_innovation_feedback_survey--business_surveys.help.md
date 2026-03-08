@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to collect feedback and suggestions from users on the Port Innovation Feedback Survey. The form has 10 fields, including Email, Phone, Rating, Service Quality, Suggestions, Additional comments, Category, Assigned Tool, and Comments. The form is not required for completion, but it is intended for users to provide their honest feedback and suggestions to the team.
-
-The form will be reviewed and used internally to improve the services and tools offered by the Port team.
-</thinking>
-
 # port_innovation_feedback_survey - Help Guide
 ## Purpose
 The port_innovation_feedback_survey form is designed to collect feedback and suggestions from users on the services and tools offered by the Port team. This information will be used internally to improve and refine our services and tools.

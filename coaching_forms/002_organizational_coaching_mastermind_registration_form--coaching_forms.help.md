@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in the Organizational Coaching Mastermind Registration. The purpose is to gather registration details for a coaching program. The form may be used by both internal and external users, depending on the context. It's essential to ensure the form is completed accurately and consistently to provide the best possible coaching experience. 
-</thinking>
-
 # Organizational Coaching Mastermind Registration Form - Help Guide
 ## Purpose
 The Organizational Coaching Mastermind Registration Form is designed to collect registration details from individuals interested in our coaching program. The form will help us understand the needs and goals of the registrants, ensuring that we can tailor the coaching experience to their specific requirements.

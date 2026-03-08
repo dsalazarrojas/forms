@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Catalog Registration Survey - Help Guide
 ## Purpose
 The E Catalog Registration Survey is a form designed to collect information from business contacts, such as their contact details, interests, and communication preferences. This data is used to create a catalog entry for the business, which will be used for internal reference and communication purposes.

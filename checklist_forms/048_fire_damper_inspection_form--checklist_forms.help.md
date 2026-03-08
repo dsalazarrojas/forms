@@ -1,12 +1,3 @@
-<thinking>
-The Fire Damper Inspection Form is used to collect information during a fire damper inspection, which is a process to check the condition and performance of a fire damper, a critical component of a heating system. This form is intended to be completed by the inspection team to document their findings and any necessary actions for maintenance or repair. 
-
-To ensure accurate and thorough completion, please review the fields below:
-
-The Fire Damper Inspection Form has four sections: General Inspection, System Type, Additional Comments, and Signatures. 
-
-</thinking>
-
 # Fire Damper Inspection Form - Help Guide
 ## Purpose
 The Fire Damper Inspection Form is used to collect information during a fire damper inspection, which is a process to check the condition and performance of a fire damper, a critical component of a heating system.

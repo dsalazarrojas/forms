@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture relevant information from potential sports coaches onboarding to your platform. Before proceeding, ensure that you're not already a coach on this platform, and that you're not completing this form to register for a specific coaching opportunity. This form will guide you through a series of fields to collect your contact and professional information, so you can be considered for future coaching opportunities.
-</thinking>
-
 # sports_coach_onboarding_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential sports coaches onboarding to your platform. It will help us understand your contact and professional details.

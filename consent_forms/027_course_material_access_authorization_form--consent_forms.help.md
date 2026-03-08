@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # course_material_access_authorization_form - Help Guide
 ## Purpose
 The "Course Material Access Authorization Form" is used to request access to course materials for a specific course. This form is typically filled out by users when they need to access restricted course materials, such as exams or assignments, after the course has started. The form must be completed by the user to provide necessary information to grant access.

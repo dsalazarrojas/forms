@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Campus Orientation Footage Consent Form - Help Guide
 
 ## Purpose

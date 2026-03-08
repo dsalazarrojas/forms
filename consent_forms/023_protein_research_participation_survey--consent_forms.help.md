@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm the purpose of this form is to collect information from researchers regarding their background, collaboration interests, and other relevant details for the protein research project. This form is likely used to gauge the availability and willingness of researchers to participate in the project and to gather their contact information for future collaborations. The following guide will walk the user through each field, ensuring they complete the form accurately and with the desired information.
 
 # Protein Research Participation Survey - Help Guide

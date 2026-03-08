@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from vendors on their experience with the vendor reconciliation process. The purpose of this form is to help the company understand the quality of communication, identify areas of improvement, and make necessary adjustments to better serve their vendors. This form is intended to be filled out by vendors who have had a reconciliation meeting with the team. It is not a duplicate of existing feedback forms or surveys.
-</thinking>
-
 # Vendor Reconciliation Experience Survey - Help Guide
 ## Purpose
 The Vendor Reconciliation Experience Survey is designed to gather feedback from vendors on their experience with the vendor reconciliation process. The goal is to understand how well the team is communicating with vendors, identify areas for improvement, and make adjustments to enhance the vendor relationship.

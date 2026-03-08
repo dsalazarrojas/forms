@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being designed to assist users in understanding the "Public Health Records Release Form". The form is used to obtain consent for accessing and sharing public health records, and it typically requires completion by patients. It is essential to ensure that the user understands the form's purpose and the implications of sharing their health records. Before proceeding, please review the form's fields and instructions carefully to avoid any confusion or misinterpretation.
-</thinking>
-
 # Public Health Records Release Form - Help Guide
 ## Purpose
 The Public Health Records Release Form is used to obtain consent for accessing and sharing public health records. This form is essential in situations where a patient needs to share their health records with authorized entities, such as healthcare providers or insurance companies.

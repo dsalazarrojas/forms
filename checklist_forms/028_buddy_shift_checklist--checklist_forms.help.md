@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information about the handoff process between outgoing and incoming employees during shifts. The purpose of this form is to ensure that all necessary information is communicated between employees, including details about supplies, equipment, and security protocols. The form will help employees to identify and address any issues that need to be passed on to the incoming employee, ensuring a seamless transition of responsibilities. To complete this form, please read each section carefully and enter the required information. Note that some fields are optional and can be skipped if not applicable.</thinking>
-
 # Buddy Shift Checklist - Help Guide
 ## Purpose
 The Buddy Shift Checklist is a form used to facilitate the handoff process between outgoing and incoming employees during shifts. It helps to ensure that all necessary information is communicated, including supplies, equipment, and security protocols.

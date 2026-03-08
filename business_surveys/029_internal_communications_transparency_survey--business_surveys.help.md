@@ -1,8 +1,3 @@
-<thinking>...
-This form is intended to gauge the effectiveness and transparency of internal communications within an organization. The purpose of this survey is to gather feedback from employees on the quality, frequency, and style of internal communications. This information will help management assess areas of improvement to enhance employee engagement and satisfaction.
-
-</thinking>
-
 # Internal Communications Transparency Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from employees on the internal communications within the organization, including the quality, frequency, and style of communication. The collected data will help management identify areas of improvement and provide insights to enhance employee engagement and satisfaction.

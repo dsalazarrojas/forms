@@ -1,5 +1,3 @@
-<thinking>...This form is used to guide office staff on the tasks and activities that need to be performed daily, weekly, or at other frequencies to keep the office clean and organized. It is designed to ensure a consistent and efficient cleaning schedule, reducing the likelihood of missed tasks and potential health risks associated with unclean workspaces... </thinking>
-
 # Daily Office Cleaning Checklist - Help Guide
 ## Purpose
 

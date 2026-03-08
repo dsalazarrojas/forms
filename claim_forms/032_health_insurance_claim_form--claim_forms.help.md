@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Claim Form - Help Guide
 ## Purpose
 The Health Insurance Claim Form is a document used to submit claims for reimbursement to your health insurance provider. It is used to provide detailed information about a claim, including the claimant's and patient's contact information, claim details, and claim status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to help users plan their eco-friendly transport route. The purpose of this form is to gather information about the starting and ending locations, type of transport, and any other relevant details to provide users with the most efficient and environmentally friendly route options. 
 
 This form is designed for general use and does not require any specific information from users. However, it is recommended that users fill in all required fields to ensure accurate route planning.

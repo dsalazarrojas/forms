@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from franchise marketing experts on their views and experiences related to marketing strategies and trends in the franchise industry. The form's purpose is to gather insights and opinions on various aspects of franchise marketing, including marketing strategies, marketing trends, and the impact of promotional efforts on franchise growth. It's essential to fill out this form carefully to provide valuable and accurate information.
-</thinking>
-
 # Franchise Marketing Expert Survey - Help Guide
 ## Purpose
 This form is designed to collect information from franchise marketing experts on their views and experiences related to marketing strategies and trends in the franchise industry.

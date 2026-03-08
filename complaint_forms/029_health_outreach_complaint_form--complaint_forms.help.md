@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect complaints from patients, allowing healthcare providers to address and follow up on issues related to their treatment or care. This form will be used to track and manage complaints, ensuring that the provider can efficiently respond to and resolve the issues raised by patients. It's essential to fill out this form accurately to ensure that the provider receives the necessary information to address the complaint effectively. Ensure you have permission to fill out this form if your concern is not directly related to your own care.
-</thinking>
-
 # health_outreach_complaint_form - Help Guide
 ## Purpose
 This form is used to document complaints from patients and track the progress of resolving them. It's essential to fill out the form accurately to ensure the provider receives the necessary information.

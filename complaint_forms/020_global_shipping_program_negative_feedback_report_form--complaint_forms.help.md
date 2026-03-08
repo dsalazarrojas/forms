@@ -1,31 +1,3 @@
-<thinking>
-This form is used to report any negative issues that have occurred during the global shipping program. Please note that this form is for reporting issues that have not been resolved yet. It is used to gather information about the issue, and to ensure that necessary actions are taken to resolve it in an efficient and timely manner.
-
-The form is split into different pages for clarity and ease of completion. The following pages are included:
-
-*   Shipping Issue Form
-*   Customer Information
-*   Shipping Issue
-*   Product Details
-*   Date and Time
-*   Shipping Issue Type
-*   Shipping Issue Description
-*   Product Image
-*   Shipping Issue Attachment
-*   Customer Comments
-*   Customer Expected Resolution
-*   Resolution Action
-*   Resolution Outcome
-*   Resolution Date and Time
-*   Issue Resolution Manager Comments
-*   Follow-up Actions
-*   Follow-up Date
-
-Please make sure to fill out the form completely and accurately, and to only report issues that have not been resolved yet.
-
-Before filling out this form, please note that the fields and pages may change based on business requirements and feedback. It's essential to review the form for any updates before submitting.
-</thinking>
-
 # Global Shipping Program Negative Feedback Report Form - Help Guide
 ## Purpose
 This form is used to report any negative issues that have occurred during the global shipping program.

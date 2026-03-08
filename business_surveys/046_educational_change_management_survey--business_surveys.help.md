@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals involved in educational change management processes within a school or campus environment. The purpose of this form is to gather relevant details about the change management process, including the names of the school and campus, initiative details, description of the change, department and team members involved, roles, contact information, start and end dates, and the use of a change management system. This form is meant to be completed by individuals who have been involved in or are responsible for educational changes within the school or campus. The fields within this form are designed to collect specific information to help track and manage changes efficiently.
-</thinking>
-
 # Educational Change Management Survey - Help Guide
 ## Purpose
 

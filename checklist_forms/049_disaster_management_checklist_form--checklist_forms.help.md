@@ -1,10 +1,3 @@
-<thinking>
-The form "disaster_management_checklist_form" is intended for disaster management purposes, such as assessing a company's readiness and preparedness in case of disaster scenarios. This form collects information from respondents about the company's current status in different categories like disaster plans, equipment, supplies, water source, power source, contact information, vehicles, tools, and medical facilities. This form can be used internally to gauge the effectiveness of current disaster management plans and policies.
-
-To use this form, respondents need to select their answers from the provided options for each category. They can select multiple options in categories like 'Check equipment', 'Check supplies', 'Check tools', 'Check vehicles', and 'Check medical'. The options for categories like 'Check water source' and 'Check power source' are limited to date and time fields respectively. The 'Note' field allows users to provide additional comments or notes related to their answer. Finally, users can provide contact information like phone and email addresses in the 'Contact phone' and 'Contact email' fields respectively. The 'Check address' field allows users to select whether they have a contact address or not.
-
-</thinking>
-
 # disaster_management_checklist_form - Help Guide
 ## Purpose
 The "disaster_management_checklist_form" is a comprehensive form designed to assess a company's readiness and preparedness in case of disaster scenarios.

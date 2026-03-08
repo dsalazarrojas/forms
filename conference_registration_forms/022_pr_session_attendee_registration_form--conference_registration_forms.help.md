@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed correctly and that the registrant is not duplicating their registration. To prevent this, a check should be performed before allowing the registrant to submit the form. This can be done by adding a unique identifier for each registrant, such as a participant ID, or by storing the form responses in a database and checking for duplicates before allowing submissions. Additionally, the form should be designed in such a way that it is easy to understand and fill out, with clear labels and instructions for each field.
-</thinking>
-
 # PR Session Attendee Registration Form - Help Guide
 ## Purpose
 The PR Session Attendee Registration Form is used to collect information about participants attending a PR session. This includes their basic contact information, interests, and details about their workshop and training needs.

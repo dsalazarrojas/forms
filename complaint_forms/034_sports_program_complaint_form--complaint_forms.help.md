@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a sports program complaint form designed for users to report any issues or concerns they have experienced with the sports programs offered by the organization. The form is intended to gather information about the complaint, including the program in question, the name and contact information of the parent/guardian, and the specific details of the complaint. The form also includes fields for selecting specific programs, staff members, and dates to help identify the issue. By filling out this form, users can report their complaints and concerns directly to the organization, allowing them to investigate and resolve the issue promptly.
-
-</thinking>
-
 # sports_program_complaint_form - Help Guide
 ## Purpose
 This form is for reporting complaints or concerns about the sports programs offered by the organization. Please use this form to provide detailed information about your complaint, and we will investigate and address the issue.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback after a customer has checked out from a business or service. The form will help us understand their experience and identify areas for improvement.
-The form is divided into multiple sections, each with a specific set of questions or fields. To complete the form, the customer will be asked to provide their first name, last name, email address, phone number, date and time of visit, time spent, comments, rating, and selection of options for their favorite items.
-The form is designed to be completed by the customer immediately after checking out, while the details are still fresh in their mind.
-</thinking>
-
 # Key Checkout Survey - Help Guide
 ## Purpose
 

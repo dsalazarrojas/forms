@@ -1,7 +1,3 @@
-<thinking>
-We need to determine the form's purpose and ensure it's not duplicating any existing form. This form is for subscription cancellation, which is a common process in various industries. The "Subscription Cancellation Offboarding Form" likely serves to gather information from subscribers who wish to cancel their services or memberships. This form might not be duplicating any existing form as it's focused on a specific context (subscription cancellation). 
-</thinking>
-
 # Subscription Cancellation Offboarding Form - Help Guide
 
 ## Purpose

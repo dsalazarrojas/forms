@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will walk you through the Demolition Safety Checklist, a crucial form for ensuring a safe work environment during demolition projects.
-
-</thinking>
-
 # Demolition Safety Checklist - Help Guide
 ## Purpose
 The Demolition Safety Checklist is a critical form used to assess the safety of a demolition site. It helps site inspectors and supervisors evaluate the presence and control of hazards, site clearance, and other essential safety aspects. The form is designed to promote a safe working environment, prevent accidents, and ensure compliance with safety regulations.

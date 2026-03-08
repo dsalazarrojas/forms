@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help new restaurant employees complete a comprehensive checklist for on-the-job training. This form will guide them through various aspects of restaurant operations, ensuring they are well-prepared to perform their duties effectively and safely. By completing this form, new hires will demonstrate their understanding of key concepts such as food safety, customer relationship, and employee hygiene. This form will help to minimize errors, improve efficiency, and reduce the time-to-productivity ratio for new restaurant employees...</thinking>
-
 # new_hire_restaurant_training_checklist - Help Guide
 
 ## Purpose

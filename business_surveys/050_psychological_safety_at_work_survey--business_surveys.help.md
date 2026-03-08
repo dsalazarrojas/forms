@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to help organizations gauge their team's psychological safety at work, which is the extent to which team members feel safe, supported, and respected in their work environment. The form is part of an initiative to improve work-related well-being. Completing this form will provide valuable insights into your team's psychological safety levels, which can inform strategies for creating a more positive and inclusive work culture. The questions are designed to be simple and easy to understand, and your responses will be kept confidential and anonymous. Please answer the questions honestly and to the best of your ability... </thinking>
-
 # Psychological Safety At Work Survey - Help Guide
 ## Purpose
 This form is designed to help your organization understand the psychological safety levels of your team members. It is part of an initiative to improve work-related well-being.

@@ -1,8 +1,3 @@
-<thinking>
-Is the goal of this form to ensure that students, particularly medical students, are adequately prepared for an ethics exam in a medical setting? The form appears to be focused on assessing a student's understanding of various aspects related to medical ethics, including knowledge areas, ethics exam questions, readiness status, follow-up schedules, study progress, next steps, feedback, and contact information. To confirm, I'll check for any other forms in the category "checklist_forms" that might have a similar purpose or structure. Upon reviewing the category, I see that this form is one of a few forms with a similar structure, but the others appear to have different purposes. Therefore, I'll proceed with creating the help guide for this specific form.
-
-</thinking>
-
 # ethics_exam_preparation_checklist - Help Guide
 ## Purpose
 This form is designed to assess a medical student's preparation for an ethics exam in a medical setting. It covers various aspects related to medical ethics, including knowledge areas, ethics exam questions, readiness status, follow-up schedules, study progress, next steps, feedback, and contact information.

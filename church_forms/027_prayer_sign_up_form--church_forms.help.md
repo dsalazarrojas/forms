@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about prayers requested from a community or organization. The purpose of this form is to gather the details of the prayers, allowing the requesters to provide specific information about their requests and the status of the prayers. The form is intended for internal use within the church or organization and is not designed to be publicly accessible. It is possible that this form may be used to track and manage prayer requests, but it is not intended to be a public-facing form. Therefore, the form should only be used for internal purposes and not for collecting information from external users.
-</thinking>
-
 # Prayer Sign Up Form - Help Guide
 ## Purpose
 The Prayer Sign Up Form is a tool for collecting and managing prayer requests from members of a community or organization. It is designed to gather detailed information about each prayer request, allowing the requesters to provide specific information about their requests and the status of the prayers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a checklist for reviewing a draft, likely for content, design, and other aspects of a project. The form appears to be for a multi-step review process, allowing multiple reviewers to provide input on different aspects of the draft. It is possible that this form is used for internal or external review processes, such as in publishing, product development, or other projects. It's worth noting that while the form fields are quite specific, the form doesn't explicitly define the scope of the "draft" being reviewed.
-</thinking>
-
 # draft_review_checklist - Help Guide
 ## Purpose
 This form is a checklist designed to facilitate multiple reviewers to input their opinions and feedback on various aspects of a draft, including project management, editor review, design, content, language, usability, and accessibility.

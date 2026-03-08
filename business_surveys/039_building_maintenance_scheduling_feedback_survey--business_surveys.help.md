@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from respondents about their experiences with the building maintenance scheduling process. Its primary purpose is to gather insights on how well the current scheduling process is working, identify areas for improvement, and suggest potential changes. This form will help management assess the effectiveness of their maintenance scheduling system, provide valuable input for future development, and increase customer satisfaction. It is a crucial tool for refining the maintenance scheduling process and providing excellent service to building occupants. It should only be filled out by people with experience scheduling maintenance, and it may not be completed by everyone who receives maintenance. The form's content is based on general best practices and industry benchmarks for maintenance scheduling processes.
-</thinking>
 # Building Maintenance Scheduling Feedback Survey - Help Guide
 ## Purpose
 This form was created to help us improve our building maintenance scheduling process. We want to understand how our maintenance scheduling process is working and what can be done better. Your feedback is valuable to us, and your participation will help us create a smoother and more efficient maintenance scheduling experience for you and our building users.

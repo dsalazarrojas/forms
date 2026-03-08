@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees about their concerns and preferences regarding COVID-19 in the workplace, including their feelings on workplace safety measures, remote work preferences, and any suggestions they may have for improving safety. This form aims to help the company understand employee concerns and make informed decisions to address them.
-To ensure that your concerns and opinions are accurately reflected, please fill out this form carefully and thoroughly.
-</thinking>
-
 # COVID 19 Employee Survey - Help Guide
 ## Purpose
 The COVID 19 Employee Survey is designed to gather information from employees about their concerns and preferences regarding COVID-19 in the workplace. Please take a few minutes to answer the questions honestly and thoroughly.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # new_guest_consent_form_salon - Help Guide
 ## Purpose
 This form is used for guests to provide their consent to receive promotional and marketing materials from the salon. The form is designed to be completed by new guests who visit the salon. It is not intended for existing clients.

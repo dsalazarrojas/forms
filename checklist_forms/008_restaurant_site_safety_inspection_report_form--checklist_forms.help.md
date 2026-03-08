@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the safety conditions of a restaurant site. The form is designed to be filled out by restaurant staff or management and will help identify potential hazards and risks that need to be addressed to ensure a safe working environment. 
-This form should be used for the following purposes: 
-- To conduct regular site safety inspections 
-- To identify potential hazards and risks 
-- To document findings and track changes over time 
-- To improve overall site safety and compliance with health and safety regulations. 
-Please note that this form is not intended for use in real-world safety inspections and should not be used to create a substitute for actual safety protocols and procedures in place. 
-Please ensure that actual site safety procedures and protocols are followed in accordance with local and national health and safety regulations. 
-</thinking>
-
 # Restaurant Site Safety Inspection Report Form - Help Guide
 ## Purpose
 The Restaurant Site Safety Inspection Report Form is a tool used to gather information about the safety conditions of a restaurant site, helping to identify potential hazards and risks that need to be addressed to ensure a safe working environment.

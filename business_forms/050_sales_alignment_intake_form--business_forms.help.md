@@ -1,29 +1,3 @@
-<thinking>
-A Sales Alignment Intake Form is designed to capture relevant information about a customer's sales process and alignment with our company's goals. To ensure the form is used correctly, please review this guide carefully.
-
-To complete this form, you will be asked to provide information about the company, contact, and sales process. This form will help us understand how we can best align with your sales team and improve our overall sales performance.
-
-This form is typically used for:
-
-* Sales teams to capture key information about their sales process and challenges
-* Account managers to provide context and feedback on sales alignment
-* Sales leaders to analyze and improve sales performance
-
-Before filling out this form, please have the following information ready:
-
-* Company Name and Contact Information
-* Sales Rep Name (if applicable)
-* Decision Process and Sales Outcomes
-* Sales Pipeline and Next Steps
-* Sales Outcome Notes and Account Manager Notes
-* Decision Made By
-* Alignment Outcomes and Alignment Rationale
-* Additional Comments
-
-Each field in this form is explained below.
-
-</thinking>
-
 # Sales Alignment Intake Form - Help Guide
 ## Purpose
 

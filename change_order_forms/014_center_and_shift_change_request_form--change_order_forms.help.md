@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure relevant submissions, please use this form only when you are requesting a change to your schedule or center assignment. This form is not intended for internal adjustments made by management or other administrative tasks. Your submission will be reviewed and processed according to company policy and business needs. 
-</thinking>
-
 # Center And Shift Change Request Form - Help Guide
 ## Purpose
 This form is designed for employees to submit requests to change their center or shift assignment. Please use this form to request changes to your schedule or center assignment due to valid reasons such as personal or family reasons, medical reasons, transport or commute issues, or education/school related reasons.

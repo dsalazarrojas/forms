@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect client feedback on a building design project, specifically on the quality of the design, functionality, and other aspects. The form is used to gauge the client's overall satisfaction, identify areas of improvement, and provide a basis for future development. This form should be filled out by clients after reviewing the final building design documents. It is recommended to review the form carefully to ensure that the client's feedback is accurate and comprehensive.
-</thinking>
-
 # Building Design Release Client Feedback Form - Help Guide
 ## Purpose
 The Building Design Release Client Feedback Form is designed to collect client feedback on a building design project, providing valuable input on the quality of the design, functionality, and other aspects. This form helps identify areas of improvement and serves as a basis for future development.

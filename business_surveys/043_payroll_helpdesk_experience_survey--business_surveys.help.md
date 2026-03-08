@@ -1,9 +1,3 @@
-<thinking>
-This is a critical control panel for payroll employees to rate their experience with the helpdesk. 
-It is crucial to collect feedback on response time, professionalism, issue resolution, communication, support service, email support, phone support, and issue description so we can improve our performance and make our customer experience better. 
-We do not duplicate this survey, and it is only accessible to authorized employees. 
-</thinking>
-
 # Payroll Helpdesk Experience Survey - Help Guide
 ## Purpose
 The Payroll Helpdesk Experience Survey is designed to collect feedback from payroll employees on their experience with the helpdesk. This survey aims to gather information on the quality of service, response time, and other key aspects of the helpdesk experience.

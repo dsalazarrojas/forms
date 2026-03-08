@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended to obtain consent for sharing photos and videos taken during the Tree Planting Event. 
-It is crucial to ensure that participants understand what the form is for, why it is necessary, and what information is required for proper completion. 
-This form should not be submitted without understanding its purpose, as it involves sharing personal details and potentially sensitive information.
-</thinking>
-
 # Tree Planting Event Photo Release - Help Guide
 ## Purpose
 The Tree Planting Event Photo Release form is a consent form that allows us to share photos and videos taken during the event. By completing this form, you are giving us permission to use your name, photo, and video for promotional purposes.

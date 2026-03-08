@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and fields are carefully crafted to collect essential information about businesses, ensuring a comprehensive view of their structure, operations, and future growth plans. Before diving into the form, it's essential to understand that the provided information will help us better understand your business and provide you with targeted support and resources.
-</thinking>
-
 # Business Survey - Help Guide
 ## Purpose
 The Business Survey form is designed to gather detailed information about your business, including its structure, operations, and future plans. This data will help us provide you with relevant and targeted support, ensuring you get the most out of our services.

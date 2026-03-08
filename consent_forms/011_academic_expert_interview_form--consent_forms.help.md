@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Expert Interview Form - Help Guide
 ## Purpose
 The Academic Expert Interview Form is a tool used to collect information from academic experts to aid in the creation of knowledge and research materials. The form gathers essential details such as the expert's name, affiliation, contact email, and consent to record and publish the interview. This information is crucial for scheduling and conducting the interview and ensuring that all parties involved are aware of and consent to the terms of the recording and publication.

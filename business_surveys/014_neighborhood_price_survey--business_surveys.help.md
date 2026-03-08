@@ -1,7 +1,3 @@
-<thinking>...internal reasoning to understand the form purpose and fields...
-
-This form seems to be a comprehensive questionnaire designed to gather information about neighborhoods, likely for research or market analysis purposes. The form has various fields that cover different aspects, such as selecting options, providing numerical values, and collecting text responses. Each field type is likely designed to collect specific types of data, like select_one and select_multiple for categorical choices, number for numerical values, and text for open-ended responses. The fields seem to be optional, indicating that respondents may choose not to answer or leave fields blank. The date and time fields might be used to collect specific dates or times for reference or analysis. The email field suggests a contact or follow-up purpose. Given the numerous text fields, these may be for free-form comments or notes from the respondent. The form's structure and fields appear to be well-suited for understanding neighborhood price surveys, such as assessing market trends, prices, or services offered. It's essential to ensure that the form's purpose and fields are clearly communicated to respondents, especially for accurate and relevant data collection. The form's design should accommodate respondents' needs and avoid confusion. I'll create the help guide based on this analysis...</thinking>
-
 # Neighborhood Price Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from participants on their consent for event recordings. It is crucial to ensure that participants understand and agree to the recording of their event participation. This form will be used to obtain written confirmation of the participant's consent. Before proceeding, ensure that you have reviewed the event guidelines and policies regarding recording. This form should not be used for events that have already taken place. If you are unsure, please check with the event organizer or review the event's documentation.
-
-</thinking>
-
 # Event Recording Consent Acknowledgement Form - Help Guide
 ## Purpose
 The Event Recording Consent Acknowledgement Form is a required document that participants must complete to confirm their consent for the recording of events. This form ensures that participants understand and agree to the recording of their participation and helps event organizers manage recordings according to the participant's wishes.

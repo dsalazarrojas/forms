@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to help individuals cancel child support. It captures essential information for the cancellation process, such as the reason for cancellation, cancellation date, child details, supporting information, and acknowledgment of the request's status in the court system. To ensure that the form is completed accurately, it's crucial to review the form purpose before proceeding.</thinking>
-
 # Child Support Cancellation Form - Help Guide
 ## Purpose
 This form is used to request the cancellation of child support. Please ensure that you review the purpose of this form and the information it collects before proceeding.

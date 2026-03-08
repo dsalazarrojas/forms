@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback and experience data from clients on the quality of service provided by your organization. Before filling out this form, please note that the fields below are optional and are meant to gather specific information about your interaction with our team. Please only fill out this form if you have had a recent experience with our team.
-
-This form is meant to be filled out for every client interaction, regardless of its success or failure. Your feedback is invaluable in helping us improve our service delivery and ensure that our clients have an exceptional experience with our team.
-
-Please ensure that you are filling out this form for a specific interaction with our team, and not for general feedback or suggestions.
-
-The form will ask you to provide your name and contact number, so that we can get in touch with you to discuss your experience and gather more information if needed.
-
-Please answer every question thoroughly, as it will help us to better understand your experience and improve our services accordingly.
-
-</thinking>
-
 # Legal Client Service Experience Report Form - Help Guide
 
 ## Purpose

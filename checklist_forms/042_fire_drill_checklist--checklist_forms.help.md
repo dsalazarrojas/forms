@@ -1,7 +1,3 @@
-<thinking>
-The fire drill checklist form is used to gather information about the fire drill procedures in place within an organization. This form is likely used by safety officers or facility managers to document and review the effectiveness of fire drill procedures. To ensure that the form is relevant and not duplicated, it's essential to review the current fire drill procedures and ensure that this form is not already covered by another existing form or process.
-</thinking>
-
 # fire_drill_checklist - Help Guide
 ## Purpose
 The fire drill checklist form is used to gather information about the fire drill procedures in place within an organization. This form helps safety officers or facility managers review and document the effectiveness of fire drill procedures.

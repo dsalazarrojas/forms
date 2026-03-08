@@ -1,6 +1,3 @@
-<thinking> 
-Mortgage Calculation Form is intended to help users estimate their monthly mortgage payments for a given loan amount, term, and interest rate. This form is typically used by individuals or organizations to quickly assess the costs associated with borrowing a large sum of money. The form should not be used for actual financial planning or as a substitute for professional advice. Please ensure that you understand the underlying principles of mortgage calculations before using this tool.</thinking>
-
 # Mortgage Calculation Form - Help Guide
 
 ## Purpose

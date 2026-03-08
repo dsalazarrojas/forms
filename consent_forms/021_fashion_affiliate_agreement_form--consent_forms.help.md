@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Affiliate Agreement Form - Help Guide
 
 ## Purpose

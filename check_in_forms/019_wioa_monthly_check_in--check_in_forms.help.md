@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants about their work hours and activities during the month. It is intended to be completed by participants to report their progress and work hours towards their respective programs. This form should only be completed once per participant per month, and not repeated for the same participant in the same month.
-</thinking>
-
 # WIOA Monthly Check In - Help Guide
 ## Purpose
 This form is used to track and record participant progress and work hours for WIOA (Workforce Innovation and Opportunity Act) programs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Collaboration Feedback Form - Help Guide
 ## Purpose
 This form is designed for gathering feedback and suggestions from kitchen users on collaboration aspects of the kitchen. It aims to improve user experience and encourage users to share their thoughts on the project's progress, details, and overall collaboration. This form will help us understand what is working well and what areas need improvement.

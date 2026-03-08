@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the performance and work style of designers and assistants. It captures information about their skills, work habits, and communication with the team. The form is designed to provide actionable feedback that can be used to improve their performance.
-</thinking>
-
 # Designer And Assistant Evaluation Form - Help Guide
 ## Purpose
 The Designer and Assistant Evaluation Form is used to assess the performance of designers and assistants. This form is meant to provide feedback on their skills, work habits, and communication style, which can be used to improve their performance and provide guidance for future projects.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Cabinet Cleaning Checklist" form that explains its purpose, how to complete it, and what each field means. This form is intended to gather information about cleaning tasks performed on cabinets, which is crucial for maintaining a clean and safe environment. It's essential to clearly explain the purpose and requirements of this form to help users understand its significance and use it effectively. The form appears to be designed for staff members to report their cleaning activities, which might be a part of a broader maintenance or quality control process. Before creating the guide, let's review the form fields to ensure we don't duplicate any explanations or information already covered.
-</thinking>
-
 # Cabinet Cleaning Checklist - Help Guide
 ## Purpose
 The Cabinet Cleaning Checklist is a form used by staff members to record the cleaning activities performed on cabinets. This form helps track the cleanliness of cabinets, ensuring they are properly maintained and meet the required standards.

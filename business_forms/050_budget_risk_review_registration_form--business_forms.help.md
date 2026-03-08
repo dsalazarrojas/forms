@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering and reviewing the budget risks associated with a project. It is designed for project managers and their teams to assess and identify potential budget risks, as well as provide a record of historical risk reviews and concerns. Before filling out this form, please ensure you are using it for its intended purpose and are not duplicating information already documented elsewhere in the organization.
-</thinking>
-
 # Budget Risk Review Registration Form - Help Guide
 ## Purpose
 The Budget Risk Review Registration Form is used to identify and document budget-related risks associated with a project. It helps project managers and their teams to assess and mitigate these risks, ensuring the project stays on track and within budget.

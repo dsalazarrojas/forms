@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect data on the governance practices of non-profit boards, which is essential for understanding their effectiveness and areas of improvement. Please ensure that you are filling this form only if you are a representative of a non-profit organization. This form is for the purpose of benchmarking and improving non-profit board governance practices. 
-
-</thinking>
-
 # nonprofit_board_governance_practices_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the governance practices of non-profit boards. Your responses will help us understand how non-profit boards operate and identify areas for improvement.

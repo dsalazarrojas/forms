@@ -1,13 +1,3 @@
-<thinking>
-The Legal Counsel Claim Submission form is designed to collect information from claimants (individuals making a claim) to support their case. This form is used by legal professionals to gather data that can aid in resolving disputes or claims. The form's purpose is not solely for the general public, and users should only complete it if they have a legitimate reason to do so. 
-
-Please ensure that the claimant information is accurate and up-to-date as this data is used for official records. 
-
-If you're looking to submit a claim, please ensure you're doing so on the correct form for your specific case. 
-
-To check if this form is the correct form for your case, please refer to your case's official documentation or contact the relevant authorities.
-</thinking>
-
 # Legal Counsel Claim Submission - Help Guide
 ## Purpose
 The Legal Counsel Claim Submission form is used to collect information from claimants to support their cases.

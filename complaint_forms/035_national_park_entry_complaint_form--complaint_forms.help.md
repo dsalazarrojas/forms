@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # National Park Entry Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about complaints or issues that occurred during a visit to a national park. It is meant to be completed by visitors to report incidents, provide feedback, or express concerns about their experience. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow patrons to report complaints or issues they have experienced while interacting with the library services. The purpose of this form is to gather feedback from patrons and help the library identify areas for improvement. It is recommended that patrons fill out this form to report any issues they have experienced, including but not limited to: difficulties with borrowing or returning materials, problems with library equipment or facilities, or any other issues that they would like to bring to the library's attention. Before filling out this form, patrons should ensure that the issue is not a duplicate and that they are submitting it for the first time. If the issue has already been reported, please do not fill out the form multiple times. If unsure, please contact the library staff for assistance.
-</thinking>
-
 # Library Services Complaint Form - Help Guide
 ## Purpose
 The Library Services Complaint Form is designed to gather feedback from patrons about their experiences with the library services. This form helps the library identify areas for improvement and ensures that issues are addressed efficiently and effectively.

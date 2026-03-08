@@ -1,15 +1,3 @@
-<thinking>
-# Assurance Claim Form: Internal Reasoning and Validation
-
-This form is designed to collect information for an insurance claim, ensuring that all relevant details are captured for the claim assessment process. This form is intended for individuals who have experienced a loss or incident and need to report it to their insurance provider. The goal is to gather accurate and comprehensive information to facilitate the claims process and ensure that the claimant receives the necessary support.
-
-Before starting, please ensure that you have all the necessary information and documentation required to complete the form. If you are unsure about any field, please ask for clarification or support.
-
-This form is intended for use by individuals who have experienced a loss or incident, and it is not meant for general inquiries or other purposes. If you have any prior claims with this insurer, please answer accordingly.
-
-Note: This form is a required step in the claims process. Failure to complete this form accurately and in its entirety may result in delays or denial of your claim.
-</thinking>
-
 # Assurance Claim Form - Help Guide
 ## Purpose
 The Assurance Claim Form is a crucial document for reporting incidents or losses to your insurance provider. Please fill out this form accurately and thoroughly to ensure a smooth claims process.

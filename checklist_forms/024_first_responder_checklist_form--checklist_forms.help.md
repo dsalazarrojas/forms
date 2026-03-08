@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to be a checklist for first responders to assess the situation, gather essential information, and provide immediate help to victims of various injuries. The form's main purpose is to ensure that first responders collect accurate information about the victim's status, medical conditions, and response time, while also providing space for the victim's name and a description of the injury. This form should not be used as a comprehensive medical record or diagnosis tool. 
-
-Before filling this form, please make sure you have the necessary permissions and clearance to access the victim. 
-
-This form is not intended to replace professional medical evaluation and should not be used as a substitute for medical expertise. 
-
-To avoid duplication of effort and ensure accurate data collection, please do not use this form if you have already assessed the situation or collected information about the victim.
-</thinking>
-
 # First Responder Checklist Form - Help Guide
 ## Purpose
 The First Responder Checklist Form is designed to help first responders quickly assess the situation and gather essential information about victims of various injuries. This form is intended for use in emergency situations where first responders need to collect data about the victim's status, medical conditions, and response time.

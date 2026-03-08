@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users enrolling in a webinar. To ensure that this form is filled out correctly, please review the following instructions carefully.
-</thinking>
-
 # Webinar Enrollment Form - Help Guide
 ## Purpose
 The Webinar Enrollment Form is designed to collect necessary information from users enrolling in a webinar. Please fill out this form to provide your details for the webinar.

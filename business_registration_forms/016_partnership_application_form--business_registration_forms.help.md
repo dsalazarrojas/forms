@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a partnership application. This includes details about the partner's name, business name, contact information, and the reason for the application. The form also includes fields to track the status of the partnership and provide additional details such as address, business type, partner duration, and notes. It's designed to be completed by the partner or their representative and will likely be used by the organization or authority handling the application to review and process it.
-
-Before starting to complete the form, please make sure you have all the necessary information and that it's accurate. If you're unsure about any field, you can always reach out to the relevant department or authority for clarification.
-
-</thinking>
-
 # partnership_application_form - Help Guide
 ## Purpose
 The partnership application form is used to collect information about a partnership application. This includes details about the partner's name, business name, contact information, and the reason for the application.

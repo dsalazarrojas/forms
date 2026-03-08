@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to help end users understand the purpose and usage of the local artist engagement form. The form is used for artists to apply to local festivals and events. The form is a multi-page form, with each page having a specific set of questions. This guide will walk the user through each page, explaining the purpose and required fields for each section.</thinking>
-
 # local_artist_engagement_form - Help Guide
 ## Purpose
 The local artist engagement form is used for artists to apply to local festivals and events. The form is designed to gather essential information from artists, including their contact details and performance details, to help festival organizers and staff evaluate their application.

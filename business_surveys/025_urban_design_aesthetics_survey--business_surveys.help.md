@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect feedback on the urban design aesthetics of a particular area or space. It might be used to gather opinions on the overall feel, visual appearance, and design characteristics of a neighborhood or public space. To confirm, the form has a mix of questions related to categorization (e.g., neighborhood), description (open-ended), and more subjective ratings (e.g., aesthetic feel, color scheme score). The purpose of this form might be to inform urban planning decisions or to help designers evaluate the aesthetic quality of existing spaces. Before creating this guide, I'll ensure that the form's purpose and content are well understood.
-</thinking>
-
 # Urban Design Aesthetics Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the urban design aesthetics of a particular area or space. It will help inform urban planning decisions or aid designers in evaluating the aesthetic quality of existing spaces.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users for sustainability data collection purposes. 
-It's intended to be used by researchers, project managers, or other stakeholders to collect feedback and consent from participants. 
-It's essential to complete this form carefully, and ensure that you are not collecting data from individuals or groups that have not given explicit consent. 
-Please make sure to review the "Other (please specify)" options carefully in case you need to collect specific data that is not listed in the standard options.
-</thinking>
-
 # Sustainability Data Collection Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information for sustainability data collection purposes. It is intended to ensure that users have given explicit consent to collect their data.

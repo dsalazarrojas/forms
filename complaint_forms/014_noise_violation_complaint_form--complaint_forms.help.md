@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from residents who are experiencing excessive noise in their living environment. It is intended for use by homeowners, tenants, or property managers to report noise violations. This form is not intended for use in emergency situations, such as life-threatening or immediate threats. If you are reporting an ongoing emergency, please contact local authorities or call emergency services.
-
-To prevent duplication, please only submit one form per noise incident. If you have reported a noise issue and it has not been resolved, you can submit this form again with updated information.
-
-</thinking>
-
 # Noise Violation Complaint Form - Help Guide
 ## Purpose
 The Noise Violation Complaint Form is designed to collect information about noise violations that are affecting residents in a specific location. This form helps us track and address noise issues more efficiently.

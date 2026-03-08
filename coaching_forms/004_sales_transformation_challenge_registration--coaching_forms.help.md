@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Sales Transformation Challenge Registration form. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. I'll make sure to base the explanation on the provided YAML fields and be concrete, concise, and practical.</thinking>
-
 # Sales Transformation Challenge Registration - Help Guide
 ## Purpose
 The Sales Transformation Challenge Registration form is a tool used to gather information about your sales program and goals. It helps us understand your sales team's progress and challenges, allowing us to provide tailored support and guidance to help you achieve your sales targets.

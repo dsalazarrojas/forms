@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from contestants in a Christmas card design contest. The primary purpose of this form is to gather essential details about the contestant, including their personal information, design experience, and design specifics. This form will help the contest organizers to assess and judge the designs submitted for the contest.
-</thinking>
-
 # Christmas Card Design Contest Form - Help Guide
 
 ## Purpose

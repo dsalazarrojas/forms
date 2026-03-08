@@ -1,5 +1,3 @@
-<thinking>... This form is likely used for summer camp registration, where parents or guardians can register their child/ward for the camp. The form may be used to collect essential information such as contact details, emergency contact information, and the child's bus number for transportation purposes. It's essential to ensure that all required fields are filled out accurately, as this information is crucial for the camp's organization and the child's safety. Please review the form carefully and ask if any field is unclear or needs further explanation.</thinking>
-
 # Summer Camp Bus Registration Form - Help Guide
 
 ## Purpose

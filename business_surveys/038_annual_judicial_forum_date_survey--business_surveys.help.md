@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the Annual Judicial Forum Date Survey. This form is designed to collect information from potential attendees about their interest and availability for the Annual Judicial Forum. The survey aims to gather information about the preferred date, format, location, and topics of interest for the forum. The goal is to determine the best possible dates and format for the forum that will accommodate the majority of attendees. The survey will help us better understand the needs and preferences of potential attendees, which will inform the planning and organization of the forum.
-</thinking>
-
 # Annual Judicial Forum Date Survey - Help Guide
 ## Purpose
 The Annual Judicial Forum Date Survey is a form designed to collect information from potential attendees about their interest and availability for the Annual Judicial Forum. The survey will help us better understand the needs and preferences of potential attendees, which will inform the planning and organization of the forum.

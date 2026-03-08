@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure that the end-user understands the purpose and the fields required to fill out the "Prototype Evaluation Permission Form". The form is used to obtain permission to evaluate a prototype, and it captures necessary information for the evaluation process. Before proceeding, confirm that you need to obtain permission to evaluate a prototype and that you have not filled out this form previously.
-</thinking>
-
 # Prototype Evaluation Permission Form - Help Guide
 ## Purpose
 This form is used to obtain permission to evaluate a prototype. It captures information needed for the evaluation process, including contact details, date and time, and the status of the evaluation. Please ensure you have a valid reason for evaluating the prototype before submitting this form.

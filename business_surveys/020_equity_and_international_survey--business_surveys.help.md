@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about participants' backgrounds, experiences, and perceptions in relation to equity and international survey. The purpose of this form is to gather data on participants' international experiences, their perception of equity, and their background information. This data will be used to analyze and better understand participants' perspectives on these topics.
-
-To determine whether this form is relevant to your needs, consider whether you are interested in collecting information about participants' backgrounds, experiences, and perceptions on equity and international topics.
-
-Before proceeding, make sure you have not already collected this information through another means, such as a previous survey or interview.
-
-</thinking>
-
 # equity_and_international_survey - Help Guide
 ## Purpose
 This form is designed to collect information about participants' backgrounds, experiences, and perceptions in relation to equity and international topics.

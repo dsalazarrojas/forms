@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a comprehensive checklist for planning a road trip. It is designed to gather information about the trip, including travel plans, vehicle details, and emergency contact information. The form is divided into various sections, each focusing on a specific aspect of the trip. 
-
-The form's purpose is to ensure that travelers are well-prepared and have all necessary information before embarking on their journey. This form will help reduce the risk of errors and ensure a smooth travel experience.
-
-</thinking>
-
 # road_trip_checklist_form - Help Guide
 ## Purpose
 The road_trip_checklist_form is a comprehensive checklist designed to gather information about your road trip plans. It helps you stay organized and ensures you're prepared for a safe and enjoyable journey.

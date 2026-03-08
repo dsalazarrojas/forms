@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the interest and preferences of users regarding the use of "Nap Pods", a type of facility for relaxation and rejuvenation. This form is designed to collect information on how often users use Nap Pods, their preferred time of day for use, the location where they prefer to use Nap Pods, and their overall satisfaction with the service. It also allows users to provide feedback or suggestions for improvement. The form's data will help administrators understand user behavior and preferences, enabling them to make informed decisions about the development and maintenance of the Nap Pod facility.
-
-To prevent duplication and ensure relevant data collection, please note that the form's responses will be anonymized and used only for internal analysis.
-
-Before starting, please ensure you have read through the entire form and understand the purpose and questions being asked.
-
-</thinking>
-
 # Nap Pod Usage Interest Survey - Help Guide
 ## Purpose
 The Nap Pod Usage Interest Survey is a tool to gather information on users' preferences and behavior related to the use of Nap Pods. The data collected will help us understand how often you use Nap Pods, your preferred time of day to use them, and your overall satisfaction with the service. We will use this information to improve and better serve you and other users.

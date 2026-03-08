@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form, "nepotism_form", is designed to collect information on nepotism, a form of favoritism or bias towards family members in the workplace. The form will help users understand the extent to which family relationships play a role in decision-making processes within an organization. It is intended for use by HR professionals or other authorized personnel. The purpose of this form is not to duplicate any other forms that may be currently being used in your organization. 
-
-Before filling out the form, please make sure to review the organization's current policies and procedures to ensure this form is not redundant. If it is, it may not be necessary to fill out this form, and you should instead focus on updating or removing any existing forms that cover similar topics.
-
-</thinking>
-
 # nepotism_form - Help Guide
 ## Purpose
 The "nepotism_form" is a tool used by HR professionals to collect information on nepotism in the workplace. This form will help you understand the extent to which family relationships influence decision-making processes within your organization.

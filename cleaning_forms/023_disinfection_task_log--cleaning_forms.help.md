@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Disinfection Task Log form is to document and record the details of disinfection tasks performed in a specific location. The form aims to gather information on the date, time, location, type of disinfection task performed, chemicals used, and other relevant details. 
-
-This form is likely used by healthcare professionals or cleaning staff in hospitals, clinics, or other healthcare settings to report and monitor disinfection activities. 
-
-To avoid duplication, this form should not be submitted multiple times for the same date and location. A duplicate submission could be considered a mistake or an error.
-
-Please review the fields and instructions below to understand how to complete the form correctly.
-</thinking>
 # Disinfection Task Log - Help Guide
 ## Purpose
 This form is used to document and record the details of disinfection tasks performed in a specific location. It's used by healthcare professionals or cleaning staff to report and monitor disinfection activities.

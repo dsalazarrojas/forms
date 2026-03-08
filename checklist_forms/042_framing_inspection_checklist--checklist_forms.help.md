@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for framing inspections, used to ensure that all necessary components and details are checked during the framing process. Its purpose is to guide inspectors through a series of checklists that cover various aspects of framing inspections. Before proceeding, ensure that this form is relevant to the specific use case and does not duplicate any existing inspection checklists.
-
-</thinking>
-
 # framing_inspection_checklist - Help Guide
 ## Purpose
 This form is designed to be a comprehensive checklist for framing inspections, used to ensure that all necessary components and details are checked during the framing process.

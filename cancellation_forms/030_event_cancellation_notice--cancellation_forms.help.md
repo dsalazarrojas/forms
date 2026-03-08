@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help event planners, venue managers, school administrators, and organization representatives complete the Event Cancellation Notice form accurately and efficiently. Please ensure that you are using this form for its intended purpose and not for other events or situations. Additionally, ensure that you are not duplicating a cancellation notice already sent to stakeholders.
-
-</thinking>
-
 # Event Cancellation Notice - Help Guide
 ## Purpose
 The Event Cancellation Notice form is used to inform stakeholders about an event cancellation. This form helps event planners, venue managers, school administrators, and organization representatives to notify stakeholders about the cancellation of an event in a timely and professional manner.

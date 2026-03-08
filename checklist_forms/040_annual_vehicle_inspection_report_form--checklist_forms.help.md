@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is designed to help vehicle owners complete the Annual Vehicle Inspection Report Form accurately and effectively. The form is intended to gather information about a vehicle's condition, maintenance needs, and inspection results. By completing this form, vehicle owners will be able to provide a clear and detailed report of their vehicle's status, helping to identify potential issues and schedule necessary repairs.
-
-Before starting the form, please ensure that you have reviewed the vehicle's history and have a clear understanding of its current condition. The form is divided into sections that cover various aspects of the vehicle's inspection, including date of inspection, mechanic's name and certification, inspection results, and recommended maintenance actions.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Annual Vehicle Inspection Report Form - Help Guide
 ## Purpose
 The Annual Vehicle Inspection Report Form is designed to provide a comprehensive report of a vehicle's condition, highlighting any issues or concerns that need attention. By completing this form, vehicle owners can identify potential problems, schedule necessary repairs, and ensure their vehicle's overall health and safety.

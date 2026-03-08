@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive checklist for planning and organizing assignments, likely for educational or academic purposes. It seems to be designed to gather information about student assignments, including details about the student, assignment title, course or class name, instructor name, and various other relevant details such as due dates, planning dates, and required materials. The form also includes fields for learning objectives, priority level, research needs, and collaboration requirements, among others. It's not clear why this form is being created or who it's intended for, so let's assume it's for educational administrators or instructors to create and manage assignments for students. If this is a duplicate or outdated form, please let me know so I can modify the guidance accordingly.
-</thinking>
-
 # Assignment Planning Checklist - Help Guide
 ## Purpose
 This form is designed to help educators plan and organize assignments for their students. It provides a comprehensive checklist to capture key details about each assignment, ensuring that all necessary information is gathered and communicated effectively.

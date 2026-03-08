@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about your business transition plans and readiness for change. It's a crucial step in understanding your organization's current state and identifying areas that need improvement. Please fill out this form carefully and thoroughly, ensuring you're answering all required questions. If you're unsure about any of the questions or have additional concerns, don't hesitate to reach out to us.
-</thinking>
-
 # Business Transition Consulting Survey - Help Guide
 
 ## Purpose

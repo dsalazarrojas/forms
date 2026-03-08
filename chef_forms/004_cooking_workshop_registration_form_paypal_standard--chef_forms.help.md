@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We can create a help guide for the cooking workshop registration form. The purpose of this form is likely to gather information from users who are interested in registering for a cooking workshop. The form collects details about the user, the workshop they are interested in, and payment information.
 
 # Cooking Workshop Registration Form PayPal Standard - Help Guide

@@ -1,5 +1,3 @@
-<thinking>Is this form used for organizations to gauge their progress in sustainable business practices? Are there specific requirements to be completed for certain questions? If so, how do they impact the overall assessment outcome or scoring?</thinking>
-
 # Business Sustainability Checklist - Help Guide
 ## Purpose
 The Business Sustainability Checklist is designed to help organizations assess their progress in sustainable business practices. This form evaluates various aspects of corporate sustainability, including environmental, social, and governance (ESG) factors.

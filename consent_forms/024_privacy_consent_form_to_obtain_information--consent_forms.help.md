@@ -1,12 +1,3 @@
-<thinking>
-To create this form, I've considered the original YAML fields and tried to make it user-friendly.
-
-The purpose of this form is to obtain information for privacy purposes, likely for data collection, research, or other similar activities. This form is a crucial part of the process, as it requires explicit consent from users before collecting their information.
-
-When filling out this form, users should ensure that they provide accurate and truthful information to the best of their abilities. The form collects the following information: First Name, Last Name, Birth Date, and Contact Number. Please take note that the form does not ask for any additional information beyond this.
-
-</thinking>
-
 # Privacy Consent Form To Obtain Information - Help Guide
 ## Purpose
 This form is used to collect information for privacy purposes, such as data collection, research, or other similar activities. It is essential to provide accurate and truthful information to ensure that your data is handled responsibly.

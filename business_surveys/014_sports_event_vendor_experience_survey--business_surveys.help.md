@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from sports event vendors about their experience with a sports event. The purpose of this form is to collect feedback and measure the effectiveness of our communication with vendors. This form is not intended to be filled out by non-vendor individuals, such as general attendees or staff. Ensure that you are a valid vendor before proceeding.
-
-</thinking>
-
 # sports_event_vendor_experience_survey - Help Guide
 ## Purpose
 This form is designed to gather information from sports event vendors about their experience with a sports event.

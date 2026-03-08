@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to gather information from respondents about their building usage and needs. The goal is to understand how often people use the building, what types of spaces they use, and what factors contribute to their satisfaction with the space. This form is not meant to be a comprehensive survey of all possible questions, but rather a focused collection of questions to gather data on specific aspects of building usage. 
-
-Before starting, please review the following points:
-
-* The form is divided into two main sections: "Respondent Information" and "Building and Space Generation".
-* The "Respondent Information" section collects basic information about the respondent, including name, department/ team, role, and email address.
-* The "Building and Space Generation" section focuses on the respondent's building usage, including how often they use the building, which types of spaces they use, and their satisfaction with the space. 
-
-This form is not a mandatory field, but rather a tool to gather feedback and suggestions from respondents. Please answer the questions honestly, and feel free to provide additional suggestions or comments as needed.
-
-If you have any questions or concerns about this form, please reach out to us at [contact email].
-
-</thinking>
-
 # Building And Space Generation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees and users about their building usage and satisfaction with the space.

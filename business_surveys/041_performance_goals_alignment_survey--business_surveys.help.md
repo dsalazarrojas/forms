@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-This form is a tool for employees to rate their level of alignment and satisfaction with their performance goals. The form is used to gather feedback on the clarity and support provided by the organization to employees in regards to their objectives, goals, and review processes. It's essential that employees complete this form only once they have a thorough understanding of their performance goals and are ready to provide honest feedback. This form should not be filled out by employees who have not reviewed their performance goals or have not been provided the necessary support.
-
-</thinking>
-
 # Performance Goals Alignment Survey - Help Guide
 ## Purpose
 The Performance Goals Alignment Survey is a tool to gather feedback on how well your performance goals are understood and supported by the organization. Please take a few minutes to answer the following questions to help us better understand your alignment with the organization's goals.

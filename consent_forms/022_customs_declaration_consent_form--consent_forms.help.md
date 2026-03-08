@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from travelers for customs declaration purposes. The form is used to gather information from travelers about their type of trip, business or personal, category of goods they are traveling with, weight of goods, a brief description of the goods, and the identity of the customs officer who will handle the declaration.
-</thinking>
-
 # Customs Declaration Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from travelers for customs declaration purposes. It collects information about the type of trip, business or personal, category of goods, weight of goods, and a brief description of the goods.

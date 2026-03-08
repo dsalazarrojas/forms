@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track earnings reports for companies. It is intended for companies that release earnings reports on a regular basis, and users will use it to track the status and details of these reports. The form should be used by financial analysts, investors, and other stakeholders who need to monitor earnings reports for companies across various sectors.
-
-To avoid redundancy and ensure accuracy, please do not use this form to track earnings reports for companies that do not regularly release earnings reports or do not require frequent monitoring.</thinking>
-
 # Earnings Report Date Tracker Form - Help Guide
 ## Purpose
 The Earnings Report Date Tracker Form is designed to track earnings reports for companies across various sectors. This form helps users to monitor the status and details of these reports.

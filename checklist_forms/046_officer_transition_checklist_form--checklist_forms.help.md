@@ -1,9 +1,3 @@
-<thinking>
-The Officer Transition Checklist Form is a tool used to facilitate the smooth transition of responsibilities between officers in a team or organization. This form helps ensure that the outgoing officer has completed all necessary tasks and that the incoming officer is fully aware of their new responsibilities. The form is typically used in scenarios where an officer is leaving a position and a new officer is taking over.
-To avoid duplication and ensure that the form is completed correctly, it's essential to review the form carefully and ensure that all required fields are filled out.
-
-</thinking>
-
 # Officer Transition Checklist Form - Help Guide
 ## Purpose
 The Officer Transition Checklist Form is a tool used to facilitate the smooth transition of responsibilities between officers in a team or organization. This form helps ensure that the outgoing officer has completed all necessary tasks and that the incoming officer is fully aware of their new responsibilities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about employee motivation and satisfaction, likely for HR or management purposes. It collects feedback, engagement, and motivation levels, as well as other relevant metrics. This form might be used by HR managers to monitor employee satisfaction and motivation, helping them identify areas for improvement and develop strategies to address them.
-</thinking>
-
 # employee_motivation_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about employee motivation and satisfaction. This includes feedback, engagement, and other relevant metrics.

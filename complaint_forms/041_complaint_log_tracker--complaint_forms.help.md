@@ -1,5 +1,3 @@
-<thinking>...This form was generated using AI, and its purpose is to serve as a complaint log tracker, helping organizations keep track of complaints received and their resolutions. The form is designed to be simple and easy to use, and the fields are chosen to provide the necessary information for efficient complaint handling. To ensure relevance and non-duplication, we've added some basic validation checks and constraints. However, please note that the exact logic and constraints used might not be identical to a traditional form platform, as this form is generated from scratch using only public survey metadata...</thinking>
-
 # Complaint Log Tracker - Help Guide
 ## Purpose
 

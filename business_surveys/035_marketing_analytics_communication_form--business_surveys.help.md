@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather marketing analytics communication information from users, likely for a marketing campaign or analysis purpose. This form likely collects data on marketing campaigns, contact information, and other relevant details for communication and analysis.
-The form seems to be designed for internal use within an organization, possibly for sales or marketing teams. The fields and options provided suggest a structured and specific purpose, rather than a general feedback or survey form.
-The form has multiple fields, but there are no obvious redundant or unnecessary fields. Each field name and label is descriptive and clear, with the option of select_one, select_multiple, and email, which implies a structured and specific data collection purpose.
-</thinking>
-
 # Marketing Analytics Communication Form - Help Guide
 ## Purpose
 The Marketing Analytics Communication Form is a tool used to gather marketing analytics communication information from users. This form is likely used by sales or marketing teams to collect data on marketing campaigns, contacts, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain participant information and consent for a yoga class, including liability and emergency contact details. To prevent duplication, ensure that each participant submits a unique form for each separate yoga class they are participating in.
-</thinking>
-
 # yoga_class_release_form - Help Guide
 ## Purpose
 The yoga_class_release_form is a document designed to collect information from participants in a yoga class. It includes sections for participant details, liability consent, emergency contact, and signatures from both the participant and instructor.

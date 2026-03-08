@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Intent To Withdraw From Academy - Help Guide
 
 ## Purpose

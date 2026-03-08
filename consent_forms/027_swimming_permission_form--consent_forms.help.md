@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or guardians of children who are participating in swimming lessons. The form collects data about the child's swimmer level, ability, frequency, experience, and emergency contact information. It also captures the contact method and instructor details. The form is intended to be completed by parents or guardians and is used to ensure that the child's swimming program is tailored to their needs and abilities. Before completing this form, please ensure that you have not already submitted a similar form for your child. If you have any questions or concerns, please contact [support email/phone number].
-</thinking>
-
 # swimming_permission_form - Help Guide
 ## Purpose
 The swimming permission form is used to collect information from parents or guardians of children participating in swimming lessons. This form helps us to tailor the lessons to each child's needs and abilities.

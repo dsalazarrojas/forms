@@ -1,12 +1,3 @@
-<thinking>
-This form is a non-solicitation agreement declaration form used to document an individual's non-solicitation agreement with a business. The purpose of this form is to gather information about the business, the employee(s) involved in the agreement, and the terms of the agreement. 
-
-The non-solicitation agreement is a legal document that prohibits an employee from soliciting or attempting to solicit, on behalf of or for the benefit of, a competitor of the business, for a specific period after leaving the business. This form is typically used by businesses to protect their trade secrets, confidential information, and other proprietary knowledge from being shared or used by former employees.
-
-To ensure accuracy and non-duplication, please review the form carefully and only use it for the intended purpose. The form should not be used for any other reason.
-
-</thinking>
-
 # non_solicitation_agreement_declaration_form - Help Guide
 ## Purpose
 This form is a non-solicitation agreement declaration form used to document an individual's non-solicitation agreement with a business.

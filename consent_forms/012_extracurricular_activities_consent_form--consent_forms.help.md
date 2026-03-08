@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students and parents to provide consent for extracurricular activities. The form may be used by school administrators to obtain consent for various activities such as field trips, club meetings, and sports events. It is also used to collect information about the student's activities, such as their participation in extracurricular activities and their availability for these activities. Before proceeding, please ensure that this form is relevant to your organization and not a duplicate of an existing form.
-</thinking>
-
 # Extracurricular Activities Consent Form - Help Guide
 ## Purpose
 The Extracurricular Activities Consent Form is used to obtain consent for students to participate in extracurricular activities. It is used to gather information about the student's activities, availability, and parent/guardian consent.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on temperature and fuel usage patterns of residential heating systems. It will help in understanding how different households consume energy and gas for heating, which can be useful for optimizing energy efficiency and reducing carbon footprint.
-Please ensure that you have the authority to fill this form and that your input will be accurate and honest. This form should not be used for any commercial or marketing purposes.
-</thinking>
-
 # Temperature And Fuel Usage Survey - Help Guide
 ## Purpose
 This form is a questionnaire designed to collect information about your residential heating systems, including the types of fuel used, thermostat settings, energy saving habits, and energy consumption patterns. Your input will help in understanding and improving the efficiency of heating systems.

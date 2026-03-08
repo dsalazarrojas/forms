@@ -1,7 +1,3 @@
-<thinking>
-The Customer Retention Post Campaign Report is used to capture the outcomes and learnings from recent customer retention campaigns. This form is used to evaluate the effectiveness of previous campaigns and identify areas for improvement for future campaigns. It is meant for customers who have received campaigns and are willing to share their experiences and feedback with the company. The purpose of this form is to provide valuable insights to the marketing team, helping them refine their strategies for future campaigns.
-</thinking>
-
 # Customer Retention Post Campaign Report - Help Guide
 ## Purpose
 The Customer Retention Post Campaign Report is a tool used to gather valuable information from customers about their experiences with recent campaigns. This information will help the marketing team to improve the effectiveness of future campaigns.

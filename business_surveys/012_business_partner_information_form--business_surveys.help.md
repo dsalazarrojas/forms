@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting information about business partners. It's designed to be completed by the business partner themselves, and it will help us understand their company's details, contact information, and partnership expectations. The form is divided into three sections: Company Information, Contact Information, and Partnership Details. By completing this form, you'll be providing us with essential data to establish a solid foundation for our partnership.
-</thinking>
-
 # Business Partner Information Form - Help Guide
 ## Purpose
 This form is designed to help us understand your business partner's details. It's an essential tool for our partnership collaboration, ensuring we have a clear understanding of your company's profile.

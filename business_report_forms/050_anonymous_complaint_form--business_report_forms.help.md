@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect anonymous complaints from customers, allowing them to provide feedback about their experiences with the company. This form helps identify areas of improvement and ensures that customer concerns are addressed in a timely and efficient manner. The form is anonymous to protect the customer's identity and prevent potential retaliation. To ensure the form is filled out accurately, please read each field carefully and fill in your answers truthfully.
-</thinking>
-
 # Anonymous Complaint Form - Help Guide
 
 ## Purpose

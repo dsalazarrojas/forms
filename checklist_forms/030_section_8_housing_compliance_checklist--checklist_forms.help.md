@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for Section 8 housing compliance. This is not a duplicate of another form, and it is necessary for accurate data collection. The form includes fields for address, location, property type, and other relevant details.
-</thinking>
-
 # Section 8 Housing Compliance Checklist - Help Guide
 ## Purpose
 The Section 8 Housing Compliance Checklist is used to collect information about rental units for Section 8 housing programs. This form helps to ensure that rental units meet all the necessary requirements and regulations for compliance.

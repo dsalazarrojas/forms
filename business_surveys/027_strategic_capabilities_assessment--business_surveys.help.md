@@ -1,10 +1,3 @@
-<thinking> 
-We should first confirm that this form is intended to assess the strategic capabilities of a team or organization. This form appears to be a survey or questionnaire to collect information about the team's or organization's strengths, challenges, priorities, and other relevant factors. The form seems to be designed to be completed by team members or stakeholders.
-
-We should also check that there's no existing help guide or form with similar purpose. If this form is meant for strategic planning or evaluation, it's possible that other forms might be available for more detailed analysis or follow-up. However, based on the current input schema, this form is likely to be the first step in a strategic assessment process.
-
-Before diving into the explanation, let's assume that the form is relevant and we'll move on to create the user-facing help guide.</thinking>
-
 # Strategic Capabilities Assessment - Help Guide
 ## Purpose
 The Strategic Capabilities Assessment form is designed to help teams or organizations evaluate their current strengths, challenges, and priorities. The information collected from this form will be used to gain insights into the team's or organization's strategic positions and areas where they can improve.

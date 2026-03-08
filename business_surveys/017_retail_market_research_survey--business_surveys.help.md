@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for collecting data on customer demographics and shopping habits to inform business decisions. It is likely to be used for market research purposes and should not be used for any other purpose without proper authorization. Please ensure that all required fields are filled in, as they are used to calculate the overall satisfaction score. The form does not collect any sensitive information, and the contact information is kept confidential. If you have any doubts or concerns, please feel free to ask the administrator before completing the form.</thinking>
-
 # Retail Market Research Survey - Help Guide
 ## Purpose
 This form is designed to collect information on your shopping habits and preferences to help us better understand your needs and provide a better shopping experience.

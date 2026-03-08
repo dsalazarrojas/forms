@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report harassment incidents to the organization. It is designed to gather information about the incident, including the type of incident, date, time, location, and description, as well as the details about the reporter and the incident report. This form is typically used by staff members or third-party witnesses to report incidents of harassment, bullying, or other forms of abuse. Please ensure that the information provided is accurate and complete to the best of your ability. Duplicate or incomplete reports may be discarded, so please take the time to fill out this form thoroughly.
-</thinking>
-
 # Harassment Reporting Monitoring Form - Help Guide
 ## Purpose
 This form is used to report incidents of harassment, bullying, or other forms of abuse that have occurred within the organization.

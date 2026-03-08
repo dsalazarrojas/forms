@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose - to collect donations for a charity. Before proceeding, please ensure that you're filling out the form for a legitimate charitable cause. If you're unsure, please contact your charity representative or manager.
-
-The form is designed to collect information from donors in a secure and efficient manner. Please review the field explanations below to ensure you understand what each field requires.
-
-</thinking>
-
 # Online Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations for a charity. Please fill out the form carefully to ensure your donation is processed correctly.

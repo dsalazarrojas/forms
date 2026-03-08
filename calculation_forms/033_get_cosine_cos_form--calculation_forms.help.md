@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the cosine similarity between two vectors. 
-The form is designed to take two input angles and calculate the cosine similarity between them. The calculation is done using the cosine distance formula, which is a measure of similarity between two vectors. This form will output the cosine value for the input angles.
-This form does not require any specific setup or preconditions, other than basic mathematical understanding. The user is expected to be familiar with the concept of vectors and angles.
-Please fill out the form only once, as the results are not intended to be stored or reused.
-</thinking>
-
 # get_cosine_form - Help Guide
 
 ## Purpose

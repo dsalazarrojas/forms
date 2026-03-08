@@ -1,9 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for a form titled "Gingerbread House Contest Voting" that explains its purpose, how to complete it, and what each field means. This form is used for rating gingerbread houses in a contest and will likely be filled out by users who are participants in the contest or judges. The form should be clear and concise, with each field explained in a way that makes sense to the user.
-
-</thinking>
-
 # gingerbread_house_contest_voting - Help Guide
 ## Purpose
 The Gingerbread House Contest Voting form is used to rate the gingerbread houses in a contest. As a participant or judge, you will be rating each of the houses on various criteria such as design, creativity, and overall impression. Your ratings will help determine the winner of the contest.

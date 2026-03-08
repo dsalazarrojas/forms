@@ -1,19 +1,3 @@
-<thinking>
-The "Adventure Activity Waiver And Contract Form" is a crucial document that participants must sign before engaging in adventure activities such as hiking, skiing, or other physically demanding excursions. The form is designed to inform participants about the inherent risks involved in these activities and to obtain their explicit consent to participate. By completing this form, participants acknowledge that they understand the risks and agree to hold the activity provider harmless for any injuries or damages that may occur during the activity.
-
-The form is divided into several sections, including:
-
-1. Participant information: This section collects the participant's personal details such as their full name, date of birth, address, contact phone number, and email address.
-2. Activity details: This section collects information about the activity such as the name, scheduled date, and location of the activity.
-3. Risk acknowledgment: This section requires participants to acknowledge that adventure activities have inherent risks and that they understand that injuries may occur during the activity.
-4. Liability release: This section requires participants to release the activity provider from liability for any injuries or damages that may occur during the activity.
-5. Indemnification agreement: This section requires participants to agree to indemnify the provider against any claims that may arise during the activity.
-6. Photography consent: This section requests participants' consent to being photographed during the activity.
-7. Contract terms agreement: This section requires participants to agree to all terms and conditions of the contract.
-8. Signature date: This section records the date on which the participant signs the waiver and contract.
-
-</thinking>
-
 # Adventure Activity Waiver And Contract Form - Help Guide
 ## Purpose
 This form is designed to inform participants about the inherent risks involved in adventure activities and to obtain their explicit consent to participate.

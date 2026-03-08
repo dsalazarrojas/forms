@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Home Cleaning Appointment Form, ensuring users understand its purpose, how to complete it, and what each field means.
-</thinking>
-
 # Home Cleaning Appointment Form - Help Guide
 ## Purpose
 The Home Cleaning Appointment Form is designed to help schedule and manage home cleaning appointments. Users will input necessary information to book a cleaning session with a service provider, including details about the cleaning type, date, time, and contact information.

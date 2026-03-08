@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from project stakeholders on the success of a transformation project in the context of transformation consulting. The form is used to assess the project's impact, feedback, and overall success factors. It's intended for project managers, team members, and clients to provide their insights and evaluations on various aspects of the project. Before proceeding, ensure that you are familiar with the project and its goals. Please complete the form carefully, providing honest and constructive feedback.
-
-To submit feedback, please review each section carefully and answer the questions based on your experience and perception of the project. If you're unsure about any question, feel free to ask for clarification.
-
-</thinking>
-
 # Transformation Consulting Success Survey - Help Guide
 ## Purpose
 The Transformation Consulting Success Survey is designed to gather feedback on the success of transformation projects. It aims to evaluate project impact, feedback, and overall success factors from project stakeholders.

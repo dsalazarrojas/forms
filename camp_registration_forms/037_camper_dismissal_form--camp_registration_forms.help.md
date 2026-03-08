@@ -1,8 +1,3 @@
-<thinking>
-  The camper dismissal form is used to inform the camp of a camper's departure from the camp. This form must be completed when a camper's stay at the camp needs to be terminated early. The form gathers essential information about the camper's departure, including the reasons for dismissal, the date and time of departure, and the arrangements for pickup. It is required for the parent or guardian to sign the form to confirm the camper's dismissal.
-  To avoid duplication, ensure the form is completed only once per camper.
-</thinking>
-
 # Camper Dismissal Form - Help Guide
 ## Purpose
 The Camper Dismissal Form is used to document a camper's early departure from the camp. This form ensures that all necessary information is collected to facilitate a smooth and safe transition for the camper.

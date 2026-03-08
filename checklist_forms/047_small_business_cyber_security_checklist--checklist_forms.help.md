@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide small business owners in assessing their cybersecurity posture and identifying areas for improvement. The purpose of this form is to help businesses determine their level of compliance with various security controls, policies, and procedures. By completing this form, business owners can get a better understanding of their current security status and identify potential weaknesses that need to be addressed. This form is relevant to small businesses as it provides a structured approach to evaluating their security posture, which is essential for protecting their operations and reputation.
-</thinking>
-
 # Small Business Cyber Security Checklist - Help Guide
 ## Purpose
 This form is designed to guide small business owners in assessing their cybersecurity posture and identifying areas for improvement.

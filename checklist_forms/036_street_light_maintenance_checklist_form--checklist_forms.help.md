@@ -1,5 +1,3 @@
-<thinking>Street Light Maintenance Checklist Form is used for maintenance and inspection of street lights. This form is designed to gather information on the condition and status of street lights, including their power source, maintenance utilities, conditions, and other relevant details. This guide is intended to help users complete the form correctly and efficiently.</thinking>
-
 # Street Light Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used to collect information on the condition and status of street lights, including their power source, maintenance utilities, and other relevant details.

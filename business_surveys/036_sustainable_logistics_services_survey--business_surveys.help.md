@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from companies about their logistics and sustainability practices. The goal is to understand the types of services they need, their environmental concerns, and what motivates them to adopt more sustainable practices. This will help the logistics service provider to tailor their services to the company's specific needs and concerns. This form should only be filled out by companies that have not previously filled out this form. 
-</thinking>
-
 # Sustainable Logistics Services Survey - Help Guide
 ## Purpose
 This form is designed to gather information from companies about their logistics and sustainability practices. We want to understand your needs and concerns to provide you with the best services to improve your supply chain.

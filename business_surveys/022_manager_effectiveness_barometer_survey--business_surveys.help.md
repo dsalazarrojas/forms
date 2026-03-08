@@ -1,8 +1,3 @@
-<thinking>
-# Purpose:
-The Manager Effectiveness Barometer Survey aims to gauge the effectiveness of managers in their roles within an organization. It assesses their performance, skills, and areas for improvement. This survey is used to help managers evaluate their strengths and weaknesses, identify areas for development, and develop strategies for improvement.
-</thinking>
-
 # Manager Effectiveness Barometer Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

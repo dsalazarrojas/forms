@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # transport_operator_procedures_checklist - Help Guide
 
 ## Purpose

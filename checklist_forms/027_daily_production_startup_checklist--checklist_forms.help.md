@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is for the **daily_production_startup_checklist** form, designed to assist users in ensuring that production equipment and procedures are in order before starting the production process. This form aims to standardize the pre-startup checklist for production equipment, highlighting key areas to focus on and promoting a safe and efficient production process.
-
-The form's fields and options are based on common practices and standards in the industry, but it's essential to note that this form is not affiliated with or endorsed by any specific platform or company. It's an AI-generated adaptation for public use, released under the Creative Commons BY 4.0 license.
-
-Before proceeding, please ensure that this form is relevant to your specific use case and doesn't duplicate any existing processes. If you're unsure, you can contact us at **form@gic.mx**.
-
-</thinking>
-
 # Daily Production Startup Checklist - Help Guide
 ## Purpose
 

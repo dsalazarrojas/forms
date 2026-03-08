@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wholesale_business_data_collection_form_in_bengali - Help Guide
 ## Purpose
 This form is designed to collect business-related data from wholesale businesses for internal registration and processing purposes. It is essential to provide accurate and complete information to ensure a smooth business registration process.

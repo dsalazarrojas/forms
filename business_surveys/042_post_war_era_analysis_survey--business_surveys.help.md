@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for end-users to understand how to complete the "post_war_era_analysis_survey" form. I will base my explanation on the provided YAML fields and aim to be concrete and concise in the explanation.
-
-</thinking>
-
 # post_war_era_analysis_survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information and opinions from individuals to analyze the impact of a specific historical event on various demographics during the post-war era. The form is a crucial tool for researchers to gather valuable insights and opinions from a diverse group of people.

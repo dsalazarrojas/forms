@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for reporting incidents involving illegal fireworks. It's meant to be completed by the witness, who provides information about the suspect, their vehicle (if applicable), and their own statement. The form should only be completed if the witness has personal knowledge about the incident. The form will be used by law enforcement to gather information and investigate the incident.
-
-</thinking>
-
 # Illegal Fireworks Reporting Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from witnesses about incidents involving illegal fireworks.

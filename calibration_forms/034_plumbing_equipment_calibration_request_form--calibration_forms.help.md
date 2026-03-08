@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users to request calibration for plumbing equipment. The form is likely used in a maintenance or facilities management context, where users need to submit a request for calibration of specific plumbing equipment. The form might be used by facilities managers, maintenance personnel, or other stakeholders involved in the maintenance of plumbing systems. This form is intended to gather necessary details such as equipment details, preferred date, last calibration date, next calibration due date, additional notes, and service date. To avoid duplication, users should not submit requests for the same equipment or date. To ensure correct completion, users should fill in all required fields, which are not explicitly stated but assumed to be all fields. However, for the sake of clarity, the following fields are required: equipment details, preferred date, and additional notes.
-</thinking>
-
 # Plumbing Equipment Calibration Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to request calibration for plumbing equipment. It ensures that necessary details are submitted to facilitate the calibration process.

@@ -1,7 +1,3 @@
-<thinking>...
-The internal reasoning block: This form is designed to gather essential information from patients, which will be used for medical purposes, such as monitoring and reporting the status of COVID-19 patients. This form is part of the hospital's standard operating procedures and is not meant to be filled out by patients themselves. To avoid duplication, please ensure that you only fill out this form once for each patient. Note that the fields marked as "required" are necessary for the form to be completed, while those marked as "optional" can be filled out if desired but are not essential for the form submission.
-...</thinking>
-
 # Covid 19 Questionnaire And Release Form - Help Guide
 ## Purpose
 The Covid 19 Questionnaire And Release Form is designed to collect information from patients and healthcare professionals regarding the patient's status and medical history. The form is a crucial tool for medical personnel to gather data for monitoring and reporting purposes.

@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is being completed correctly and efficiently by end-users. This form is meant to collect feedback on the utilization of skills within a particular role or position. It's essential that each field is filled out carefully to provide accurate and actionable insights. Please make sure to read this help guide thoroughly to get the most out of this form.
-
-**Internal check:** This form is designed for internal use only and should not be shared externally. If you're unsure about any part of this form, contact the relevant department for clarification.
-</thinking>
-
 # Skill Utilization Feedback Survey - Help Guide
 ## Purpose
 The Skill Utilization Feedback Survey is designed to collect feedback on the skills used in your role. This survey helps us to understand which skills are being utilized effectively and identify areas for improvement.

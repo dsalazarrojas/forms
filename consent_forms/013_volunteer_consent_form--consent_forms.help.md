@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from volunteers, typically for administrative purposes. The form is used to verify or update a volunteer's status, role, and other details. To ensure accurate and complete data collection, please carefully review each field and provide clear answers.</thinking>
-
 # volunteer_consent_form - Help Guide
 ## Purpose
 The volunteer consent form is used to gather and store information about volunteers, including their role details, work schedules, and other relevant details.

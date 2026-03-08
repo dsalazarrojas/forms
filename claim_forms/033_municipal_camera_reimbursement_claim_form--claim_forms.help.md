@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to process municipal camera reimbursement claims. It's for claimants who have incurred expenses related to a city or local government camera and need to request reimbursement. The form is designed to collect necessary information from the claimant, including their name, contact details, and the expense-related information.
-
-When filling out this form, please ensure that you're not duplicating an existing claim. To do so, please check the claim status field to see if a claim with the same status is already in progress. If it is, please do not proceed with submitting the new claim.
-
-Please note that some fields are required, marked as such in the form. These required fields must be filled out to process the claim. If you're unsure about any of the fields, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # municipal-camera-reimbursement-claim-form - Help Guide
 ## Purpose
 This form is designed to process municipal camera reimbursement claims. It's intended for claimants who have incurred expenses related to a city or local government camera and need to request reimbursement.

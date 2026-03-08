@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form is indeed a checklist for phonological awareness skills, which is a crucial aspect of language development in children. I'll review the form structure and provide a help guide that covers its purpose, how to complete it, and a field-by-field explanation of each question.
-</thinking>
-
 # Phonological Awareness Skills Checklist - Help Guide
 ## Purpose
 This Phonological Awareness Skills Checklist is designed to assess the phonological skills of children. Phonological awareness is the ability to identify and manipulate sounds in spoken language, which is essential for language development and reading readiness.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluators to provide feedback on a product's quality, usability, and overall performance. This information will help the product development team to identify areas of improvement and make data-driven decisions. Before starting to fill out this form, ensure that you are providing feedback on a single product at a time, and not duplicating your feedback for multiple products. If you need to provide feedback on multiple products, create a separate form submission for each product.
-</thinking>
-
 # Sellers Product Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on a seller's product from an evaluator. Your input will help the seller to understand the strengths and weaknesses of their product and make informed decisions to improve it.

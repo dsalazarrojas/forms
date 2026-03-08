@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Data Audit Research Consent Form - Help Guide
 
 ## Purpose

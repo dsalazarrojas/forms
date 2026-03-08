@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to perform an inventory audit on a set of items, which are likely to be products or materials in a warehouse or stockroom. The form's primary purpose is to verify the accuracy and completeness of the inventory, ensuring that all items are accounted for and correctly cataloged. It is a critical process to maintain inventory accuracy and prevent loss or misassignment. This form is likely used in a warehouse management context and may be part of a larger inventory management system or manual process.
-
-The form is composed of multiple sections, each addressing a distinct aspect of the inventory audit.
-
-</thinking>
-
 # Inventory Audit Checklist - Help Guide
 ## Purpose
 

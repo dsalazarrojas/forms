@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about machine calibration reports. It's likely used in a manufacturing or industrial setting where machines need to be calibrated regularly to ensure optimal performance and reliability. This form is probably used by maintenance personnel or supervisors to record details about the machine, its condition, and the calibration process. The form should be filled out for each machine calibration event to track and manage calibration records. It's essential to fill out this form accurately and completely to ensure that the calibration data is reliable and useful for future reference.
-</thinking>
-
 # Machine Calibration Report Form - Help Guide
 ## Purpose
 The Machine Calibration Report Form is designed to collect information about machine calibration events. This form helps maintenance personnel or supervisors to record details about the machine, its condition, and the calibration process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining consent from a minor's legal guardian or parent for media captured during a performance or event at a school or theater. The form ensures that the individual and their guardians are aware of and agree to the use of their images or videos. The form is typically used by schools, theater organizations, or event planners to ensure that they are complying with laws and regulations related to minors' privacy and consent.
-</thinking>
-
 # Theater Cast Media Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from the legal guardian or parent of a minor for the use of their images or videos captured during a performance or event at a school or theater.

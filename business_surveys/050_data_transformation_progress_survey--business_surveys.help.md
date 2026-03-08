@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track the progress of data transformation projects, allowing project stakeholders to assess whether the project is meeting its milestones and expectations. This form helps to gauge the adoption level of new data transformation processes, gather feedback from users, and rate the overall effectiveness of the transformation process.
-
-Before starting, please ensure you're filling out the form for the correct project and have all necessary permissions to access the data transformation progress.
-
-</thinking>
 # Data Transformation Progress Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the progress of data transformation projects. It helps project stakeholders to evaluate the project's milestones, adoption level, feedback, and overall effectiveness.

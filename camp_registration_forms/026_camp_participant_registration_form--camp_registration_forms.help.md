@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for the registration of participants in a camp program. The fields are designed to gather relevant information from participants, including name, contact details, medical conditions, and payment preferences. The form checks for non-duplication of names and phone numbers to prevent multiple registrations for the same participant. 
-
-</thinking>
-
 # Camp Participant Registration Form - Help Guide
 ## Purpose
 The Camp Participant Registration Form is used to collect information from participants attending a camp program. This information helps us understand their needs, preferences, and medical conditions to ensure a safe and enjoyable experience.

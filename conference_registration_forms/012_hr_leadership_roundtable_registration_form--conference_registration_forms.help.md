@@ -1,17 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the HR Leadership Roundtable Registration Form, I'll follow the provided YAML structure and explain each field in a clear and concise manner. 
-
-The form is intended to gather information from HR leaders for the HR Leadership Roundtable. The purpose of the form is to collect relevant details about each participant, including their name, job title, email, company, topic of interest, and preferences. This information will help the organizers plan and tailor the event accordingly.
-
-Before proceeding, please note that:
-
-*   This form is designed to be completed by HR leaders.
-*   The required fields are marked as such to ensure that the participant provides essential details.
-*   If a field has a type of `select_one` or `select_multiple`, you will be presented with a list of options to choose from.
-
-</thinking>
-
 # HR Leadership Roundtable Registration Form - Help Guide
 
 ## Purpose

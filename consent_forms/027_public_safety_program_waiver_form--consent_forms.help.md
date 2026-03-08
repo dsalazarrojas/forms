@@ -1,12 +1,3 @@
-<thinking>
-The "Public Safety Program Waiver Form" is used to obtain informed consent and acknowledgment from participants and their guardians for the Public Safety Program. This form is essential for ensuring that participants and guardians understand the terms and conditions of the program, including the risks and benefits associated with it. The form should only be completed by participants and guardians who are eligible to participate in the program. 
-
-The form fields are designed to collect the necessary information for the program administrators to verify the participant's and guardian's consent and acknowledgment. 
-
-Please ensure that you are eligible to participate in the Public Safety Program before completing this form. If you have any questions or concerns, please contact the program administrators.
-
-</thinking>
-
 # Public Safety Program Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent and acknowledgment from participants and their guardians for the Public Safety Program.

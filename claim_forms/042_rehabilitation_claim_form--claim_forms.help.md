@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Rehabilitation Claim Form - Help Guide
 ## Purpose
 The Rehabilitation Claim Form is a document used to submit claims for rehabilitation services to healthcare providers. This form is required for all rehabilitation claims and must be completed accurately and thoroughly to ensure the claim is processed efficiently and correctly.

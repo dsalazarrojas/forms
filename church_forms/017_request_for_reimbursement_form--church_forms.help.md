@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form, let's ensure we're using the correct terminology and following the correct process for creating a request for reimbursement form. This form is designed for users to submit requests for reimbursement related to expenses they've incurred. The form should be used when an employee or user needs to be reimbursed for a specific expense. To prevent duplication, users should only submit one request per expense. If a user has multiple expenses, they should submit separate requests for each one. This form will help ensure that all necessary information is provided for the reimbursement process, making it easier for the manager to review and approve the request.</thinking>
-
 # request_for_reimbursement_form - Help Guide
 ## Purpose
 The request_for_reimbursement_form is a tool used to submit requests for reimbursement for employees or users. This form captures all necessary information for the reimbursement process, including dates, expense details, and user contact information.

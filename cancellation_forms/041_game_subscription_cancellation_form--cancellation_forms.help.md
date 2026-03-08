@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to allow users to cancel their game subscriptions. This form is used to document the reason for cancellation and gather relevant information about the subscription being cancelled. The form is used to track and manage game subscriptions within the system.
-
-To complete this form, follow these steps:
-
-1. Fill in the required fields: Game Name, Reason For Cancellation, Cancellation Date, Subscription Start Date, and Subscription End Date.
-2. Optionally, fill in the other fields as needed: User Name, Email, Phone, Subscription Type, Reason For Cancellation Reason, Notes, Game ID, and Assigned To.
-
-</thinking>
-
 # Game Subscription Cancellation Form - Help Guide
 ## Purpose
 The Game Subscription Cancellation Form is used to document the reason for cancellation and gather relevant information about the subscription being cancelled.

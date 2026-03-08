@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for end-users to fill out and report on their emergency preparedness checklist items. The purpose of this form is to gather information about the items that a user has in their emergency preparedness kit, such as first aid kits, flashlights, fire extinguishers, etc. The form also asks for contact information in case of an emergency. The form is designed to be completed by users who want to report on their emergency preparedness status and potentially connect with emergency services.
-
-The form has 9 fields, and the user needs to fill out all the fields that are required (indicated by "required: true" in the field description).
-
-</thinking>
-
 # Emergency Preparedness Checklist Form - Help Guide
 ## Purpose
 This form is a tool to help you prepare for emergencies by listing the items you have in your emergency kit and providing contact information.

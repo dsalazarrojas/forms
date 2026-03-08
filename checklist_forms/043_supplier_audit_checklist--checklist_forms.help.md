@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers regarding their audit checklist. The form asks for information in several categories, including supplier info, product info, service info, administration info, payment info, delivery info, warranty info, and return policy. To use this form, follow these steps:
-
-1. Review the form to understand what information is required from the supplier.
-2. Ensure all required fields are completed.
-3. Enter the relevant information in each field, taking care to provide accurate and detailed responses.
-4. Double-check your responses before submitting the form.
-</thinking>
-
 # supplier_audit_checklist - Help Guide
 ## Purpose
 The supplier audit checklist is a form used to collect information from suppliers regarding their products, services, and other relevant details.

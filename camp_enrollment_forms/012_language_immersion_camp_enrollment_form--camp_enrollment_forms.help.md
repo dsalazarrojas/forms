@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed for schools to provide information to the Language Immersion Camp program.
-  It gathers details about the school, participant, and program.
-  The purpose of this form is to enroll a participant in the program.
-  To ensure accuracy and avoid duplication, please fill out the form only after receiving an email from the program coordinator with a unique ID number.
-</thinking>
-
 # Language Immersion Camp Enrollment Form - Help Guide
 ## Purpose
 The Language Immersion Camp Enrollment Form is designed to collect information from schools and participants for the Language Immersion Camp program. Please fill out this form only after receiving an email from the program coordinator with a unique ID number.

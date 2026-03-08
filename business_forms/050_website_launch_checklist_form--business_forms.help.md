@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used within an internal business setting to create and manage website launch checklists for different categories and tools. It's a form that guides users in creating, organizing, and tracking the progress of website launches for various categories, including "Business Forms" and potentially other types of forms. The form might be used to assign tools and track output files related to these checklists, ensuring that all necessary steps and information are documented and easily accessible. It's possible that the form is a template or a starting point for creating more detailed, task-specific checklists.
-</thinking>
-
 # website_launch_checklist_form - Help Guide
 ## Purpose
 The website launch checklist form is used to create and manage website launch checklists for different categories and tools.

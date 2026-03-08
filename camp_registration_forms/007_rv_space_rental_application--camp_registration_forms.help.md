@@ -1,5 +1,3 @@
-<thinking>This form is used for the purpose of collecting information for a rental space. It is meant to gather data for a potential rental and help determine the tenant's status. The fields included are a mix of text inputs, select multiple options, and text hints.</thinking>
-
 # rv_space_rental_application - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>Art Exhibition Setup Checklist Form - Help Guide
-
-This form is used to collect information about the setup of an art exhibition. It is used to ensure that all necessary steps are taken to prepare the exhibition space for the event. The form is divided into several sections, including Event Details, Space Preparation Checklist, Artwork Installation, Administrative and Safety, and Additional Setup Observations or Notes.
-
-The form is designed to be filled out by the setup coordinator, and it is expected that the coordinator will provide accurate and truthful information about the status of each task. The form is used for internal purposes only and is not intended for public distribution.
-
-</thinking>
-
 # Art Exhibition Setup Checklist Form - Help Guide
 ## Purpose
 The Art Exhibition Setup Checklist Form is used to ensure that all necessary steps are taken to prepare the exhibition space for the event. It is a checklist to help the setup coordinator keep track of the progress and status of each task.

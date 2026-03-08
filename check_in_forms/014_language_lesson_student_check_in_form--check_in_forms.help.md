@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to record student information, session details, and attendance status during language lessons. The form should be completed by authorized personnel to ensure accurate and efficient tracking of student progress. Please review the following sections carefully to understand the form's purpose and usage. This guide will help you complete the form correctly without duplicating or missing any essential information.
-
-</thinking>
-
 # language_lesson_student_check_in_form - Help Guide
 ## Purpose
 This form is used to record student information, session details, and attendance status for language lessons. It is intended for authorized personnel to track student progress accurately and efficiently.

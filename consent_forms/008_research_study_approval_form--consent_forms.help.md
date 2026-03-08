@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to be completed by researchers who are seeking approval for a new research study. It is used to gather information about the study, such as the research group, study name, description, start and end dates, study type, and more. This form should only be filled out by researchers who have been granted access to it, and it is meant to be reviewed and approved by relevant authorities before the study can begin.
-
-To ensure that researchers have the necessary approvals and that the study is properly registered, the following information should be verified before submitting the form. This form is not intended for general public use, and researchers should only fill it out for their own specific research projects.
-
-Please note that some fields may be optional, but all required fields must be completed before submitting the form.
-
-</thinking>
-
 # Research Study Approval Form - Help Guide
 ## Purpose
 

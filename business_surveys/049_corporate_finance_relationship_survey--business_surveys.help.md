@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the relationships between corporate finance teams and other departments within the company. The form is designed to be completed by various teams, including finance, customer support, and IT, to provide an assessment of their interactions and collaboration with the finance team. This form should only be completed by teams that have had direct interactions or collaborations with the finance team, ensuring that the relationships surveyed are accurate and reliable. It is not designed to be a comprehensive assessment of all corporate departments, but rather a targeted survey of key relationships between finance and other teams.
-</thinking>
-
 # Corporate Finance Relationship Survey - Help Guide
 ## Purpose
 The Corporate Finance Relationship Survey is a form designed to gauge the quality of collaboration and communication between the finance team and other departments within the company. This survey aims to identify areas of improvement and opportunities for enhanced relationships between finance and other teams.

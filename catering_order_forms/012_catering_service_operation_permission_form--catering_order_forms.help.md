@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a catering business's operation details, including the applicant's information, business details, operational details, permits and licenses, compliance and safety, and terms and conditions. This guide is intended to ensure that the user understands what each field is for and how to fill it out correctly. Please review the guide carefully before filling out the form to avoid any potential issues with the submission.</thinking>
-
 # Catering Service Operation Permission Form - Help Guide
 ## Purpose
 This form is used to collect information about a catering business's operation details to ensure compliance with local regulations and safety standards.

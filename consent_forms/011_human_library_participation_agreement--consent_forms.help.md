@@ -1,7 +1,3 @@
-<thinking>
-The Human Library Participation Agreement form is used to collect information from volunteers who participate in Human Library events. The form is designed to gather contact information, event details, and confirmations of participation and data privacy. It is intended for event organizers to use in their planning and execution of Human Library events. This form should only be used for Human Library events and not for other purposes. Please ensure that you only use this form for the intended purpose and do not duplicate efforts by using multiple forms for the same event.
-</thinking>
-
 # Human Library Participation Agreement - Help Guide
 ## Purpose
 This form is used to collect information from volunteers participating in Human Library events. It gathers contact details, event information, and confirmations of participation and data handling.

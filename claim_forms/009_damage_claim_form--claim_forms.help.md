@@ -1,14 +1,3 @@
-<thinking>
-This guide will cover the "Damage Claim Form", which is used to record information related to damages or losses incurred by individuals or vehicles. The form is designed to provide detailed and accurate information about the claim, making it essential for claims management and investigation purposes.
-
-Before proceeding, please note that:
-
-* This form should only be completed for genuine cases where damages have occurred.
-* Please ensure that the form is filled out accurately and completely to avoid delays in processing the claim.
-* If you've already submitted a claim, please do not resubmit. Duplicate submissions will be treated as invalid and will not be processed.
-
-</thinking>
-
 # Damage Claim Form - Help Guide
 
 ## Purpose

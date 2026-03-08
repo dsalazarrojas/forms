@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture contact information and preferences from individuals seeking to cover media events, conferences, or other activities managed by the organization. It helps to ensure that attendees are properly registered and their expectations are clear.
-
-The form checks for redundancy and invalid information to ensure that only relevant and legitimate requests are approved.
-
-</thinking>
-
 # Media Coverage Permission Form - Help Guide
 ## Purpose
 This form is used to register media representatives, such as journalists, photographers, and videographers, for various events, conferences, and activities managed by the organization. The form gathers essential information about the individual, including their name, contact details, role, location, and preferences for event coverage.

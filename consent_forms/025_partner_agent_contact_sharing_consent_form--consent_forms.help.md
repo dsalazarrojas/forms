@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for obtaining the consent of users to share their contact information with partner agents. 
-The form allows users to select the partner agent and the contact information they wish to share, as well as the purpose of sharing. 
-The form should only be used when necessary and for legitimate purposes. 
-The user should be aware that sharing contact information may result in increased spam or unwanted solicitations.
-</thinking>
-
 # Partner Agent Contact Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of users to share their contact information with partner agents. It is essential to understand that sharing contact information may result in increased spam or unwanted solicitations.

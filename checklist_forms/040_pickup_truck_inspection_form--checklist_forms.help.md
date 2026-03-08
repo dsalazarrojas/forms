@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to collect and store information about the condition and status of pickup trucks. It is used for inspection purposes, possibly for safety and maintenance evaluation. It is likely to be filled out by a mechanic or a maintenance personnel. The form is likely to be used by supervisors or managers to track and evaluate the condition of pickup trucks in a fleet.</thinking>
-
 # Pickup Truck Inspection Form - Help Guide
 ## Purpose
 The Pickup Truck Inspection Form is used to collect and store information about the condition and status of pickup trucks. This form helps to evaluate the overall condition, safety, and maintenance needs of the vehicles.

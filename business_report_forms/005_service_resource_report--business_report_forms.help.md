@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a Service Resource Report, which is used to track and report on services and their associated resources. The purpose of this form is to gather information about services, such as their status, availability, and utilization, as well as any comments or additional details.
-
-This form seems to be a standard form with multiple pages, each with its own set of fields. The fields are a mix of single-select, multiple-select, and text fields. Some fields are required, while others are optional. It's possible that this form is used for tracking services and resources over time, perhaps for management or analysis purposes.
-
-Before creating this help guide, I've reviewed the form structure and fields to ensure that I understand their intent and relationships. I will provide a clear and concise explanation for each field in the guide below.
-
-</thinking>
-
 # Service Resource Report - Help Guide
 ## Purpose
 The Service Resource Report is a form used to track and report on services and their associated resources, helping to provide valuable information for management and analysis.

@@ -1,11 +1,3 @@
-<thinking>
-
-The "Sole Member Borrowing Confirmation" form is used to confirm borrowing of a sole member by a company. This form ensures that the sole member's borrowing process is accurately documented and that the member is aware of their borrowing status. This form is typically used to confirm the sole member's borrowing details, including the date and time of borrowing, reason for borrowing, and other relevant information. 
-
-To confirm the sole member's borrowing, the form collects information on the entity type, entity name, borrowing date and time, reason for borrowing, and other status fields. The form helps in maintaining accurate records and ensuring that the sole member is aware of their borrowing status.
-
-</thinking>
-
 # Sole Member Borrowing Confirmation - Help Guide
 ## Purpose
 The Sole Member Borrowing Confirmation form is used to document and confirm the borrowing of a sole member by a company. This form helps in maintaining accurate records and ensures that the sole member is aware of their borrowing status.

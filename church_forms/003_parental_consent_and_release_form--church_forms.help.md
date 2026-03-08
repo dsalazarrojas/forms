@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Consent And Release Form - Help Guide
 ## Purpose
 This form is used to obtain parental consent and release information for a student's participation in various programs. It is essential to fill out this form accurately and thoroughly to ensure the student's safety and well-being.

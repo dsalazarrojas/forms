@@ -1,12 +1,3 @@
-<thinking>
-The Refrigerator Maintenance Checklist form is designed to help users monitor and maintain their refrigerators, ensuring they are clean, well-organized, and functioning properly. This form should only be used for refrigerator maintenance and not for other types of equipment or facilities. Each field represents a critical aspect of refrigerator upkeep, and answering "Yes" or "No" will help identify areas that require attention.
-
-This form does not duplicate any other existing form, and all fields are relevant to the maintenance process.
-
-The fields in this form are carefully crafted to guide users through a comprehensive checklist, covering various aspects of refrigerator maintenance. Each field is labeled clearly, and the options are self-explanatory.
-
-</thinking>
-
 # Refrigerator Maintenance Checklist - Help Guide
 ## Purpose
 The Refrigerator Maintenance Checklist is a tool designed to help you monitor and maintain your refrigerator, ensuring it remains in good condition. This form will guide you through a series of questions to help you identify areas that require attention.

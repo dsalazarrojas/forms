@@ -1,21 +1,3 @@
-<thinking>
-The International Sales Action Checklist is a form designed to aid sales teams in reviewing and ensuring that all necessary actions are taken for a sale, from review and compliance checks to logistics and customer confirmation. By using this form, sales teams can streamline their workflow and reduce errors. The form has been created to be flexible and adaptable to different sales scenarios, allowing teams to tailor their process to their specific needs.
-
-The form consists of several sections, each addressing a distinct aspect of the sales process:
-- Step 1: Sales Team Review: This section involves the sales team reviewing and confirming the sale details.
-- Sales Manager Review: Here, the sales manager reviews the sale to ensure everything is in order.
-- Export Documentation: This section allows for the selection of the export documentation type, which can be Export 1, 2, or 3.
-- Compliance Check: In this part, the sales team conducts a compliance check to ensure all necessary steps have been taken.
-- Logistics Steps: The logistics steps involve selecting multiple options for the logistics process.
-- Customer Confirmation: This section gets the customer's confirmation on the sale, which can be 'Yes' or 'No'.
-- Date: The date of the sale is recorded here.
-- Time: The time of the sale is recorded here.
-- Email: This is the email associated with the sale.
-
-This form is designed to be filled out by sales teams to ensure that all necessary steps are taken for a sale to proceed smoothly and without errors. By filling out this form, teams can keep track of their progress and make informed decisions.
-
-Please note that this form is meant to be flexible and adaptable to the specific needs of the sales team, and the sections and options are tailored to address different aspects of the sales process.</thinking>
-
 # International Sales Action Checklist - Help Guide
 ## Purpose
 This form is designed to help sales teams streamline their workflow and ensure that all necessary actions are taken for a sale to proceed smoothly. It guides teams through key steps, from review and compliance checks to logistics and customer confirmation.

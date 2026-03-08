@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow customers to contact us with any issues they may have regarding their order confirmation. This form helps us to efficiently gather the required information to resolve the issue effectively.
 
 ## Purpose

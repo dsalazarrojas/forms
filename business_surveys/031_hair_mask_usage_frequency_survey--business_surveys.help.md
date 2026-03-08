@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information on how often people use hair masks. This form will help us understand the frequency of hair mask usage in a particular demographic or group. To ensure accurate results, please note that this form should not be filled out by individuals who have already completed a similar survey on this topic.
-
-</thinking>
-
 # Hair Mask Usage Frequency Survey - Help Guide
 
 ## Purpose

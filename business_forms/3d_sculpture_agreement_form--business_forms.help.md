@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate a contract between a client and an artist for the creation of a 3D sculpture. It covers essential details such as client and artist information, project specifics, and payment terms. The form aims to standardize the agreement process for both parties involved.
-
-Before proceeding, please ensure that you are not duplicating this form for an existing agreement or project. This form is a template for new contracts.
-</thinking>
-
 # 3D Sculpture Agreement Form - Help Guide
 ## Purpose
 The 3D Sculpture Agreement Form is a template for clients and artists to document the terms and conditions of a 3D sculpture commission project. It ensures both parties are on the same page regarding scope, payment, and responsibilities.

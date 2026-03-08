@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from drivers applying for a driving license. 
-The form is intended to collect general details about the driver and their vehicle. However, some fields may seem redundant or irrelevant to certain users. Please ensure that you complete this form accurately and truthfully.
-</thinking>
-
 # Driving License Application Form - Help Guide
 ## Purpose
 The driving license application form is designed to collect necessary information from drivers applying for a driving license.

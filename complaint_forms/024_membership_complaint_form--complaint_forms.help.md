@@ -1,13 +1,3 @@
-<thinking>
-This help guide will provide users with the necessary information on how to complete the Membership Complaint Form and what each field entails. The purpose of this form is to gather feedback from members on their experiences with the membership program, helping the organization to identify areas for improvement.
-
-To ensure consistency in responses, we will follow these steps:
-
-* The form will only be displayed after a member has completed a certain number of interactions (e.g., purchased a membership).
-* We will not display the form if the member has already submitted a complaint.
-
-</thinking>
-
 # Membership Complaint Form - Help Guide
 ## Purpose
 The Membership Complaint Form is designed to gather feedback from members on their experiences with the membership program. This form will help the organization understand the areas of improvement needed to better serve its members.

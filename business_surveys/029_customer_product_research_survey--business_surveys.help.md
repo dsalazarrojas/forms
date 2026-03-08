@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather customer feedback on their experience with a specific product, likely to inform product development and customer service improvements. This form is likely used to collect data on customer satisfaction, product usage frequency, and willingness to recommend the product. To ensure accurate and relevant feedback, it's essential to complete the form with genuine and honest responses.
-
-Before starting the survey, please check that you're not duplicating feedback already provided, and ensure the information you provide is accurate and reflects your genuine experience with the product.
-
-To complete the form, start by selecting the appropriate options for each field. You will need to select one or more options for "Customer Information" and "Product Information" fields, as they are "select_multiple" type fields. For "How often do you use this product?" and "How satisfied are you with this product?" select one option from the provided list. For "Would you recommend this product?" select "Yes" or "No" accordingly. The "Additional Comments" field is an open-ended field where you can provide any additional information you'd like to share with us. In the "Email", "Phone" and "Contact Information" fields, please ensure the format is correct, as they are specific types of text fields. Lastly, for "Date" and "Time" fields, select the correct date and time format. 
-
-</thinking>
-
 # Customer Product Research Survey - Help Guide
 ## Purpose
 The Customer Product Research Survey is designed to gather feedback on your experience with our product. Your input will help us understand how to improve and better serve you.

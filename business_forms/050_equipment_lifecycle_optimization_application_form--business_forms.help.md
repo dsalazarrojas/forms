@@ -1,13 +1,3 @@
-<thinking>
-The Equipment Lifecycle Optimization Application Form is used to collect information and data about equipment being used in a business, allowing businesses to track, monitor, and optimize the lifecycle of their equipment. It gathers details about equipment type, status, and condition, as well as contact and business information. This form is essential in ensuring accurate and up-to-date data about equipment to facilitate informed decision-making and strategic planning for business operations.
-
-Before filling out the form, please ensure that you have all the necessary details and data required for the form. To avoid data duplication, please ensure that you are not submitting data for the same equipment twice.
-
-Please note that fields with the label "required" are mandatory, and you should provide accurate and relevant information for those fields. If a field is not required, you can skip it if it's not applicable to the specific equipment being submitted.
-
-Also, please be precise and accurate when filling out the form, as it will be used to make critical decisions about the equipment's lifecycle. If you have any doubts or questions, please consult with the business operations team or the equipment owner before submitting the form.
-</thinking>
-
 # Equipment Lifecycle Optimization Application Form - Help Guide
 ## Purpose
 

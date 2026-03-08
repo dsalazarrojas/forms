@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to be used for holiday village setup checks, ensuring that the display is properly set up and ready for the holiday season. This form guides the user through a series of questions to verify that all necessary checks have been completed, including safety, maintenance, and installation details. It is essential to complete this form carefully to avoid any potential issues or errors during the holiday season.
-
-This form is divided into several sections, including:
-* Checking if the safety check list is available
-* Verifying the safety check result
-* Confirming the display type
-* Checking the installation location
-* Verifying the maintenance check list
-* Reviewing display details
-* Reviewing safety checks
-* Confirming display type
-* Confirming display location
-* Confirming holiday village name
-* Verifying safety check result
-* Confirming installation date
-* Confirming installation location
-* Reviewing maintenance checks
-* Reviewing display details
-
-This form is meant to be used by individuals responsible for setting up and maintaining holiday village displays to ensure that all necessary checks are completed and the display is ready for the holiday season.</thinking>
-
 # HOLIDAY VILLAGE DISPLAY SETUP CHECKLIST - Help Guide
 ## Purpose
 This guide explains the purpose and process of using the HOLIDAY VILLAGE DISPLAY SETUP CHECKLIST form.

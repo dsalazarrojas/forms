@@ -1,14 +1,3 @@
-<thinking>
-This is a checklist form designed to inspect electrical installations for residential properties. The purpose of this form is to ensure that the electrical installation meets safety standards and regulations. The form is used to collect information on various electrical systems and components, including general information, electrical systems, electrical connections, and more.
-
-It's essential to fill out this form accurately and thoroughly to identify any potential electrical issues or hazards. The form's fields are designed to collect specific information about the electrical installation, and users need to complete each field to ensure a comprehensive review.
-
-The fields in this form are categorized into general information and specific electrical system sections. The general information section collects basic details about the property, while the electrical system sections provide more detailed information about each system and component. Users must provide clear and specific answers to each field to enable accurate assessment and review.
-
-This form is intended to be used by individuals responsible for inspecting and ensuring electrical installations meet safety standards. It's crucial to complete this form attentively and accurately to prevent potential hazards and ensure public safety.
-
-</thinking>
-
 # Electrical Rough In Inspection Checklist - Help Guide
 ## Purpose
 The Electrical Rough In Inspection Checklist is a form designed to inspect electrical installations for residential properties and ensure they meet safety standards and regulations.

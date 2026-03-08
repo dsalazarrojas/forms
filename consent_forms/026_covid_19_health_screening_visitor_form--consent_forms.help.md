@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for healthcare settings to screen visitors for potential COVID-19 exposure risks. It is intended to be completed by visitors before entering the healthcare setting. The form asks for personal contact information, health status, travel history, and other relevant details to assess potential risks. Please ensure you have completed the form thoroughly and accurately to help us better understand your situation.</thinking>
-
 # Covid 19 Health Screening Visitor Form - Help Guide
 ## Purpose
 This form is to be completed by visitors before entering a healthcare setting to assess potential risks of COVID-19 exposure.

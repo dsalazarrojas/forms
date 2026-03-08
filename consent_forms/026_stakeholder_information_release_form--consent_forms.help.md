@@ -1,6 +1,3 @@
-<thinking>
-The "Stakeholder Information Release Form" is an internal documentation tool used to collect information about stakeholders and their involvement in various projects or initiatives. This form helps in creating a centralized repository of stakeholder details, which can be useful for various purposes such as project updates, reporting, and auditing. The form is designed to be completed by project team members, project managers, or other authorized personnel to capture relevant stakeholder data. Before filling out this form, ensure that the information is not already captured in another form or documentation, and that the stakeholder in question has given their consent for their information to be recorded.</thinking>
-
 # Stakeholder Information Release Form - Help Guide
 ## Purpose
 The Stakeholder Information Release Form is a tool for capturing and documenting information about stakeholders involved in projects or initiatives. This form helps to centralize and organize stakeholder data for project updates, reporting, and auditing purposes.

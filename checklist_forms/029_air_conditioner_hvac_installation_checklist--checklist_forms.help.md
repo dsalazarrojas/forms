@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information on the installation of air conditioner (HVAC) units, including details on the client, equipment, and post-installation checks. It is a crucial form for technicians to ensure that the installation is completed accurately and safely. To prevent duplication of effort, this form should only be used for new HVAC installations. The form includes fields for the client name, address, and contact information, as well as details on the equipment model number, serial number, and installation date. It also includes fields for the installation process, such as site survey, electrical checks, and leak tests. The form aims to capture critical information for future reference and to facilitate smooth operations.
-</thinking>
-
 # Air Conditioner (HVAC) Installation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information on the installation of air conditioner (HVAC) units, ensuring a smooth and accurate installation process.

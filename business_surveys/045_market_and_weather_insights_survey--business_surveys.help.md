@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information on market and weather insights from business owners and professionals. The purpose of this form is to gather data on current market trends, weather-related challenges, and potential future impacts on businesses. The form is intended to be a useful tool for businesses to gain a deeper understanding of the relationship between market trends and weather conditions.
-
-Before proceeding, please ensure that you are familiar with the content of this form and that it is relevant to your business needs. If you have already completed a similar form, please review the content carefully to ensure that you are not duplicating efforts.
-
-</thinking>
-
 # Market And Weather Insights Survey - Help Guide
 
 ## Purpose

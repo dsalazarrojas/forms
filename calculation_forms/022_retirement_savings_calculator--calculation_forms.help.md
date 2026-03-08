@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retirement Savings Calculator - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect necessary information from participants who will be testing the AI powered therapy platform, and obtain their consent for the collection of data related to their interactions with the platform. The form's purpose is to ensure that participants are aware of the nature of the platform, the data collection process, and their rights and responsibilities. This information will be used for research and testing purposes only and will not be used for any other purpose. Participants are free to withdraw their consent at any time without penalty.
 
 # AI Powered Therapy Platform Testing Consent Form - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-...The purpose of this form is to create a depreciation schedule for an asset. This form is designed to collect relevant information about an asset, including its name, type, acquisition date, and cost basis. The form is intended to help users track and calculate depreciation for their assets accurately and efficiently. To avoid duplication, this form should only be used for creating new depreciation schedules, and not for editing or viewing existing ones. Please ensure that you have the necessary permissions to access this form.
-
-</thinking>
-
 # Depreciation Schedule Form - Help Guide
 ## Purpose
 This form is used to create a depreciation schedule for an asset, which is a record of its value and the amount of depreciation it has accumulated over time.

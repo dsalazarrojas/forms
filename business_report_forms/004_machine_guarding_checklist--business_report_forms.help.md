@@ -1,20 +1,3 @@
-<thinking>
-This form is a Machine Guarding Checklist used for assessing and recording the safety measures and protocols implemented for machine guarding. The purpose of this form is to ensure that all critical safety features are in place and functioning correctly to protect workers from potential hazards. It is likely used by safety inspectors, maintenance personnel, or supervisors to evaluate the effectiveness of machine guarding systems. This form could be relevant to various industries such as manufacturing, construction, and warehousing where machine guarding is a critical aspect of workplace safety. It is not a form for reporting incidents or accidents, nor is it a form for requesting maintenance or repairs.
-
-Before proceeding, please ensure that you have reviewed your organization's policies and procedures related to machine guarding. This form is not meant to duplicate or replace any existing procedures or checklists.
-
-Please note that this form is designed to be filled out by one person per machine or equipment. If you have multiple machines or equipment to assess, please create a new form for each one.
-
-This form should be used to assess the following aspects of machine guarding:
-- Machine condition and maintenance
-- Guarding device functionality
-- Safety signs and labels
-- Hazard control measures
-- Training and documentation
-
-When filling out this form, please be thorough and accurate in your assessment. If you are unsure about any aspect of machine guarding, please seek guidance from a qualified safety professional.
-</thinking>
-
 # Machine Guarding Checklist - Help Guide
 ## Purpose
 This form is used to assess and record the safety measures and protocols implemented for machine guarding on a specific machine or equipment.

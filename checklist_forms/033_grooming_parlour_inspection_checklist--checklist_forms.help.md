@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to support users in understanding and filling out the Grooming Parlour Inspection Checklist. The form's purpose is to collect information related to a groom parlour's operations, ensuring that they are in compliance with regulations and standards for animal care. This guide will break down the form into sections, each explaining the required fields, their types, and the expected information. Please follow these steps carefully to ensure you complete the form accurately.</thinking>
-
 # Grooming Parlour Inspection Checklist - Help Guide
 ## Purpose
 The Grooming Parlour Inspection Checklist is designed to gather necessary information about a groom parlour's operations, including their address, insurance status, animal handling practices, and contact details. This form helps ensure that the parlour adheres to regulations and standards for animal care.

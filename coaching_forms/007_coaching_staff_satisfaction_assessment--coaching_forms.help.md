@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gauge the satisfaction and experience of coaching staff members with the coaching program they are part of. It is intended to help administrators and decision-makers understand the effectiveness of the coaching program and identify areas for improvement. Please note that this is an assessment tool and not a complaint sheet. If you have concerns or issues with the coaching program, please reach out to your manager or HR department.
-
-</thinking>
-
 # Coaching Staff Satisfaction Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and assessments from coaching staff members on their experience with the coaching program. The data collected will be used to understand the effectiveness and impact of the program and identify areas that need improvement.

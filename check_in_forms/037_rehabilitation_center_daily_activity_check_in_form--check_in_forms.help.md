@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing this form to report their daily activities at the rehabilitation center. The form is designed to be completed on a daily basis, and its purpose is to capture the details of the activities that take place at the center each day. To ensure data accuracy and consistency, it's essential that users complete the form as accurately and thoroughly as possible. 
-</thinking>
 # Rehabilitation Center Daily Activity Check In Form - Help Guide
 ## Purpose
 The Rehabilitation Center Daily Activity Check In Form is used to document the daily activities and observations of the residents at the rehabilitation center. It helps staff members to stay updated on the progress and experiences of the residents and ensure that they are receiving the necessary care and support.

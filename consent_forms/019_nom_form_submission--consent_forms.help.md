@@ -1,5 +1,3 @@
-<thinking>...This form, titled "NOM Form Submission," is designed for users to provide basic contact information and demographic details. It is intended for use in a specific context, and users are encouraged to submit this form only if they meet the specified criteria. Please ensure that you have not already submitted this form in the past to avoid duplication of effort. If you have any questions or concerns, please don't hesitate to reach out to the relevant department for further assistance.</thinking>
-
 # NOM Form Submission - Help Guide
 ## Purpose
 The "NOM Form Submission" form is used to collect basic contact information and demographic details from users. It is a straightforward form designed to gather essential data that can be helpful in specific contexts.

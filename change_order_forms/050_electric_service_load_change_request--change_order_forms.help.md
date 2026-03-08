@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electric Service Load Change Request - Help Guide
 
 ## Purpose

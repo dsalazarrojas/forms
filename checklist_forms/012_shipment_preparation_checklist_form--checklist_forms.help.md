@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a shipment preparation checklist form, designed to collect relevant information for shipment preparation. It has several fields related to shipment details such as package type, weight, size, shipping carrier, and status. However, it's crucial to ensure that the form's purpose and structure make sense and do not duplicate existing processes. Upon closer inspection, I notice that some fields seem redundant or have overlapping information. For instance, "package_location" and "ship_from" fields might be related, and "package_condition" seems to be a subset of "package_status". To provide an accurate help guide, it's essential to refine the form structure and remove any unnecessary fields.
-</thinking>
-
 # Shipment Preparation Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect information for shipment preparation to ensure accurate and efficient shipping processes. It captures essential details such as package type, weight, size, and shipping carrier.

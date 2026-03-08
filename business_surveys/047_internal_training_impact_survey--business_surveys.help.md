@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internal Training Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about their experience with internal training sessions. It aims to assess the usefulness, satisfaction, and overall impact of the training sessions on the participants.

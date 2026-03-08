@@ -1,13 +1,3 @@
-<thinking>
-Ticket Pricing Complaint Form - Form Design Considerations
-=============================================
-
-The purpose of this form is to collect feedback from customers regarding ticket pricing issues. This form will be used to gather specific information about the ticket in question, including the name of the event, the ticket price range, the date of the event, and the name of the attendee submitting the complaint. The form should be completed by the attendee who is experiencing the pricing issue, and all required fields must be filled out to submit the form.
-
-To prevent duplication, a check should be done before submitting the form to ensure that a complaint for the same ticket has not been submitted before.
-
-</thinking>
-
 # ticket_pricing_complaint_form - Help Guide
 ## Purpose
 The ticket_pricing_complaint_form is used to collect feedback from customers regarding ticket pricing issues.

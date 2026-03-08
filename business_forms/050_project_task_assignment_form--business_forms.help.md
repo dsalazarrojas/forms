@@ -1,9 +1,3 @@
-<thinking>...This form is for assigning project tasks to team members. It allows for the collection of relevant project information and attachment upload options. Each field in the form corresponds to a unique aspect of the project, such as project start and end dates, status updates, and comments.
-
-To complete this form, you will need to fill in the required and optional fields as follows:
-
-</thinking>
-
 # Project Task Assignment Form - Help Guide
 ## Purpose
 The Project Task Assignment Form is used to assign project tasks to team members and collect relevant project information.

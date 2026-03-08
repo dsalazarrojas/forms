@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants who are interested in registering for the Brainspotting program. This form will gather essential details such as participant name, email address, phone number, and preferences for sessions, including date and time. Additionally, it will collect information on the participant's racial or ethnic identity, experience with brainspotting, specific areas they want to work on, and any accessibility or health conditions that may impact their participation. This information will help the program staff ensure a safe and inclusive environment for all participants. It's essential to complete this form accurately and honestly to ensure that the program can provide the best possible experience for each individual participant. Please note that some fields are required to complete the registration process, so make sure to fill in all necessary information.
-</thinking>
-
 # BIPOC Brainspotting Registration - Help Guide
 ## Purpose
 The BIPOC Brainspotting Registration form is designed to collect essential information from participants who are interested in registering for the Brainspotting program. This form will help the program staff understand your preferences, needs, and experiences to provide a safe and inclusive environment for all participants.

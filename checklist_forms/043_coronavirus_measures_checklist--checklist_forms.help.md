@@ -1,8 +1,3 @@
-<thinking>
-A user-facing help guide is a crucial document that helps ensure users understand the purpose and usage of the form. Before creating the help guide, it's essential to clarify the form's purpose and relevance. In this case, the form is called "Coronavirus Measures Checklist" and appears to be related to COVID-19 measures and employee status. However, further review of the form fields suggests that it may be a more general health and wellness check, rather than exclusively focused on employee status. It's possible that the form is designed to be used in a work setting or for general health and wellness purposes.
-Upon further examination, the form seems to be checking for various coronavirus-related measures, such as employee status, travel, symptoms, temperature, test results, and travel and symptoms history. The form also asks questions that could be used to identify potential risks and take necessary actions. This guide will aim to provide clear and concrete explanations for each field, while assuming the form is for general health and wellness purposes.
-</thinking>
-
 # Coronavirus Measures Checklist - Help Guide
 ## Purpose
 The Coronavirus Measures Checklist is a form designed to help you track your coronavirus measures and health status. The form will ask you questions about your employee status, travel, symptoms, temperature, test results, travel history, and symptoms history to identify potential risks and guide you towards taking the necessary actions.

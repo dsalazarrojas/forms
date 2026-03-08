@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used by the financial department to collect sensitive information from individuals, such as contact details and affiliation status, for internal purposes. Before proceeding, please ensure that the form is being submitted for a legitimate reason and not as a duplicate or test submission.
-</thinking>
-
 # Financial Department Data Usage Consent Form - Help Guide
 ## Purpose
 This form is used by the financial department to collect sensitive information from individuals for internal purposes. It is essential to understand that this form is for legitimate requests only and should not be submitted as a test or duplicate.

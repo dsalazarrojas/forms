@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the ROV Pre-Launch Checklist form is to ensure that all necessary steps are taken before launching a new product or service. This form helps teams review and verify the status of key tasks and milestones associated with the launch, providing a clear and structured process for identifying potential issues and mitigating risks. The form is designed to be flexible and adaptable to various industries and use cases.
-</thinking>
-
 # ROV Pre-Launch Checklist - Help Guide
 ## Purpose
 The ROV Pre-Launch Checklist is a critical tool to guarantee a successful product or service launch. It ensures that all crucial steps and tasks are completed before going live, helping teams maintain a high level of quality, reliability, and consistency in their offerings.

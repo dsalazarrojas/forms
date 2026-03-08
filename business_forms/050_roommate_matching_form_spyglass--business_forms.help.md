@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their preferences and characteristics to match them with potential roommates. The form collects data on user input, roommates' name, roommates' presence, age range, room size, preferred room size, gender, age, contact email, contact phone, roommate match score, roommates liked, preferred languages, interests, room size liked, preferred roommate type, room size disliked, preferred roommate type disliked, interests disliked, and roommates disliked. The purpose of this form is to gather accurate and relevant information to match users with suitable roommates.
-
-</thinking>
-
 # Roommate Matching Form SpyGlass - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from air cargo companies about their current routes, challenges, and needs. The form asks for demographic information such as company name, job title, and email address, as well as their industry sector, monthly air cargo volume, and primary shipping routes. It also asks about their current route satisfaction, transit time importance, and budget range. The form also includes questions about their challenges, new route demand, desired new routes, flight frequency needs, capacity requirements, special handling requirements, carrier preference, technology needs, and long-term partnership interest. The purpose of this form is to collect data to improve air cargo services.
-
-Note: This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Air Cargo Route Survey - Help Guide
 ## Purpose
 This form is designed to gather information from air cargo companies about their current routes, challenges, and needs to improve air cargo services.

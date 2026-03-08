@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients about their experience with a mobility coaching session. The purpose of this form is to understand the client's satisfaction, session quality, length, mobility experience, sentiment during the session, and the coach's performance. This form will help improve the coaching services by providing valuable insights into what worked well and what areas need improvement.
-</thinking>
 # Mobility Coaching Experience Survey - Help Guide
 ## Purpose
 The Mobility Coaching Experience Survey is a form designed to collect feedback from clients about their experience with a mobility coaching session. It's a short, 6-question survey that will help us understand your satisfaction, session quality, and other aspects of your coaching experience.

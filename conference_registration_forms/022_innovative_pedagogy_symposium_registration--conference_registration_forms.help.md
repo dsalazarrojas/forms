@@ -1,7 +1,3 @@
-<thinking>
-This form is for attendees to provide their details and preferences for the Innovative Pedagogy Symposium. This form will help the organizers gather information about each attendee, their session interests, accessibility needs, and contact details. It's essential to fill out this form accurately and comprehensively to ensure a smooth experience during the conference. Before starting, please note that this form contains multiple sections, and you will need to fill out each section carefully. If you have any questions or concerns, please don't hesitate to reach out to the organizers.
-</thinking>
-
 # Innovative Pedagogy Symposium Registration - Help Guide
 ## Purpose
 This form is designed to gather information from attendees for the Innovative Pedagogy Symposium. It's crucial to fill out the form accurately to ensure a successful and enjoyable experience.

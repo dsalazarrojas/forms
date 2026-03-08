@@ -1,10 +1,3 @@
-<thinking>
-This form is likely part of a larger system for ordering Halloween cookie decorating kits. The purpose of the form is to collect information about the customer's order, specifically their holiday theme preference, the type of cookies they want to order, the quantity, color scheme, decoration type, shipping preferences, and any special instructions. The form likely feeds into a larger system for processing and fulfilling customer orders. This form is likely used by customers who want to place an order for a Halloween cookie decorating kit.
-
-To ensure the form is used correctly, we can check for relevant and non-duplication of logic. For example, if a customer selects "Yes" for Holiday Theme, it would not make sense for them to select "No" for Color Scheme, as a holiday theme would likely include a color scheme.
-
-</thinking>
-
 # Halloween Cookie Decorating Kit Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your Halloween cookie decorating kit order.

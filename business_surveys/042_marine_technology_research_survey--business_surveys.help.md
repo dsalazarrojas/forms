@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect information from individuals or organizations regarding their involvement in marine technology research. This form aims to gather insights on research roles, focus areas, challenges, and suggestions related to marine technology research. The information collected will help us better understand the needs and perspectives of our stakeholders, which will inform our future research directions and initiatives. This form should only be filled out by individuals or organizations that are directly involved in or have an interest in marine technology research.
-</thinking>
-
 # Marine Technology Research Survey - Help Guide
 ## Purpose
 This guide will walk you through the Marine Technology Research Survey form, which is designed to collect feedback from individuals or organizations involved in or interested in marine technology research.

@@ -1,9 +1,3 @@
-<thinking>
-The Semi Truck Inspection Form is used to inspect and record information about a semi truck. It's intended for use by authorized personnel to assess the condition of a semi truck after a specific inspection. This form is not meant for general public use and should only be used by trained personnel who understand the importance of accurately recording inspection data. Please note that some fields may not be relevant to your specific situation, so use your best judgment when completing the form. Also, be aware that some fields might require additional documentation or verification from external sources. 
-
-The form is divided into several sections, each focusing on different aspects of the semi truck. Please ensure you complete each field accurately and thoroughly.
-</thinking>
-
 # Semi Truck Inspection Form - Help Guide
 ## Purpose
 The Semi Truck Inspection Form is used to record and document the inspection of a semi truck's condition, including its mechanical and operational aspects.

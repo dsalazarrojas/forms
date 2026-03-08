@@ -1,8 +1,3 @@
-<thinking>
-To ensure that your form submission is accurate and complete, please review these instructions carefully. This form is not intended to serve as a template for creating new client transfers, nor does it duplicate existing documentation. The purpose of this form is to provide a checklist of essential details for a smooth transition process between fitness instructors. The goal is to collect relevant information from both the outgoing and incoming instructors to facilitate a seamless handover of clients.
-
-</thinking>
-
 # Fitness Instructor Transition Checklist - Help Guide
 ## Purpose
 The Fitness Instructor Transition Checklist is a form designed to aid in the process of transferring clients between fitness instructors. This form collects essential details to ensure a smooth transition and minimize disruptions to the client's fitness journey.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect data for tank inspections, likely for industrial or commercial settings. The form has 9 fields that cater to various aspects of tank inspections, such as category, description, tank number, inspector, date, time, location, and notes. The form's purpose is to gather detailed information about tank inspections, which can be used for record-keeping, reporting, or other related activities. To avoid duplication and ensure accuracy, users should only fill out the form once for each tank inspection.
-</thinking>
-
 # Tank Inspection Form - Help Guide
 ## Purpose
 The Tank Inspection Form is designed to collect comprehensive data for tank inspections, ensuring accurate and efficient record-keeping. This form is essential for industries and organizations that handle large-scale tanks, such as chemical or fuel storage facilities.

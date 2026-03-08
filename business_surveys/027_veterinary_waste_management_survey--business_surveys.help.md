@@ -1,11 +1,3 @@
-<thinking>
-This form is for collecting information about veterinary waste management practices and needs. It is designed to gather data on general information, types of waste, disposal practices, collection challenges, disposal challenges, training needs, and training topics. This form will help us better understand the current state of veterinary waste management and identify areas for improvement. 
-
-Please ensure that you are filling out this form only if you are a relevant stakeholder. If you are filling out this form for someone else, please make sure that you understand their context and are not duplicating existing work. 
-
-The form will be used to generate insights and reports that will help us improve veterinary waste management practices. Your participation is crucial in helping us create better waste management systems.
-</thinking>
-
 # veterinary_waste_management_survey - Help Guide
 ## Purpose
 The veterinary_waste_management_survey form is designed to gather information about veterinary waste management practices and needs. This form will help us better understand the current state of veterinary waste management and identify areas for improvement.

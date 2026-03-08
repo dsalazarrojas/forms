@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lecture Broadcast Consent Form - Help Guide
 
 ## Purpose

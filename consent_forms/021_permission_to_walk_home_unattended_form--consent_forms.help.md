@@ -1,5 +1,3 @@
-<thinking>...This form is used to obtain permission from parents for their child to walk home unattended after an event at school. The form helps to gather necessary information from parents, school staff, and the child, and to ensure that all necessary permissions are given before allowing the child to walk home alone. The form should not be filled out multiple times, and the information should be verified and reviewed by school staff before making any decisions... </thinking>
-
 # Permission To Walk Home Unattended Form - Help Guide
 ## Purpose
 This form is used to obtain permission from parents for their child to walk home unattended after an event at school. It helps to gather necessary information from parents, school staff, and the child, ensuring that all necessary permissions are given before allowing the child to walk home alone.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will create a user-facing help guide for the "Summer Chess Camp Registration Form" based on the provided YAML input schema. I will include a brief internal reasoning block to explain the form purpose and checks for relevance and non-duplication, followed by the actual help guide in Markdown structure.
-</thinking>
-
 # Summer Chess Camp Registration Form - Help Guide
 ## Purpose
 The Summer Chess Camp Registration Form is used to register participants for the summer chess camp program. This form collects essential information about the participant, including their name, contact information, and medical notes. The form also asks about the participant's age and special needs, if any. The purpose of this form is to ensure that all participants have a smooth and enjoyable experience at the camp.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to movie screenings, including contact details, screening details, and submission status. This form likely serves as a way to obtain consent or permissions for a screening event. To ensure accuracy, please review and fill out this form with the necessary information. Before proceeding, check that all required fields are filled, and review the submission status.
-</thinking>
-
 # movie_screening_rights_permission_form - Help Guide
 
 ## Purpose

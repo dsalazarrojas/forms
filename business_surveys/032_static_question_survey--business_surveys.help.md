@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a particular feature or static content. The main purpose of this form is to collect data on the user's satisfaction, usage, and potential recommendations for improvement. It is essential to provide clear and concise answers to each question to help the development team better understand the user's perspective.
-
-Before proceeding, please ensure that you have not already completed this form. If you have previously submitted feedback or answered this form, your responses will not be registered.
-
-To submit feedback, please fill out the following form:
-
-</thinking>
-
 # static_question_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with our feature or content.

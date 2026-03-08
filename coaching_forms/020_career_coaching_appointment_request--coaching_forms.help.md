@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Career Coaching Appointment Request - Help Guide
 ## Purpose
 This form is for requesting a career coaching appointment with our coaching services. We help individuals explore their career goals and aspirations, and provide guidance on career transition, job search strategy, resume and cover letter review, and more. Please ensure you have not previously submitted a request and are not currently under active coaching.

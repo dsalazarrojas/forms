@@ -1,15 +1,3 @@
-<thinking>
-The "gmp_data_integrity_monitoring_checklist" form is designed to assess the current state of data integrity in a facility's quality monitoring process. This form is used by reviewers to conduct a thorough audit of the facility's data management practices, identify areas of improvement, and ensure that corrective actions are taken to address any issues discovered. The form is a critical tool for maintaining data integrity and ensuring that the quality team and manufacturing team are aligned on the status of data management practices.
-
-The form is composed of multiple sections, each addressing a different aspect of data integrity. Reviewers are required to complete each section, providing detailed information about the current state of data management practices, any areas for improvement, and planned corrective actions.
-
-To ensure accurate and consistent completion, reviewers should follow these guidelines:
-
-- Review the form carefully before starting to ensure understanding of each section and field.
-- Complete each field thoroughly and accurately, providing detailed information where necessary.
-- Use the options provided for each field to ensure consistent formatting and data collection.
-</thinking>
-
 # gmp_data_integrity_monitoring_checklist - Help Guide
 ## Purpose
 The gmp_data_integrity_monitoring_checklist is a form used to assess the current state of data integrity in a facility's quality monitoring process.

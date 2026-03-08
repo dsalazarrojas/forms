@@ -1,10 +1,3 @@
-<thinking>
-This form, "gearbox_condition_monitoring_checklist", is designed to help mechanics and technicians inspect and monitor the condition of a gearbox in a vehicle. The form is used to track and record the gearbox's condition, including its cleanliness, oil level, temperature, and other vital parameters. This form ensures that all necessary inspections are performed regularly, helping to prevent potential gearbox failures and ensuring optimal vehicle performance. 
-
-It's essential to fill out this form accurately to maintain accurate records and facilitate timely maintenance. Please ensure that all fields are filled in correctly, and don't forget to sign the form with your name and date after completion. 
-
-</thinking>
-
 # gearbox_condition_monitoring_checklist - Help Guide
 ## Purpose
 This form is designed to track and record the condition of a gearbox in a vehicle. It includes various fields to assess the gearbox's cleanliness, oil level, temperature, and other critical parameters.

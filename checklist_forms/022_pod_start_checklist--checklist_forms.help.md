@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a project's start-up process. It's likely used to track the status and progress of a project, ensuring that all necessary steps are taken before its launch. This form could be part of a larger project management system, used by project managers or team leads to monitor and report on project progress. It's essential to fill out this form accurately and completely to ensure that all project details are recorded correctly. To avoid duplication of effort, ensure that you're filling out this form for a new project launch, and not a previously launched or closed project.
-</thinking>
-
 # Pod Start Checklist - Help Guide
 ## Purpose
 The Pod Start Checklist is a form used to track and report on the progress of a project's start-up process. It ensures that all necessary steps are taken before the project's launch.

@@ -1,13 +1,3 @@
-<thinking>
-
-To determine whether to include a background check as part of the tenant application process, the **tenant_background_check_consent_form** is used to gather the necessary consents and information from the tenant. This form will help to verify if the tenant has given their consent to undergo a background check. 
-
-It's essential to complete this form correctly to avoid any potential issues or misunderstandings during the tenant application process. 
-
-Please ensure you have not completed this form previously; if you need to make changes, please contact your local support team for assistance.
-
-</thinking>
-
 # tenant_background_check_consent_form - Help Guide
 ## Purpose
 The **tenant_background_check_consent_form** is used to gather the necessary consents and information from the tenant to determine whether to include a background check as part of the tenant application process.

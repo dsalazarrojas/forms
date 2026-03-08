@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's work performance and resource usage. The form is used to track an employee's productivity, resource usage, and other relevant details for business reporting purposes. This form is likely used in an internal business setting to monitor and analyze employee performance and resource utilization.
-
-Before proceeding, please ensure you have all necessary information and permissions to complete this form accurately. Duplicate entries are not allowed, so please do not attempt to fill out this form more than once.
-
-Please note that some fields are marked as required, meaning they must be filled out for the form to be submitted. If you're unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # work_performance_and_resource_usage_report - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture information about personnel activity reports for federal grants. The form is used to track and document project-related data, including project name, category, and description. It also captures information about project completion status, output file, and other relevant details. The form is essential for tracking and managing federal grant projects effectively. Please ensure you have read and understood the form's purpose before proceeding.</thinking>
-
 # Personnel Activity Report Form For Federal Grants - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information about personnel activity reports for federal grants. This form is used to track project details such as project name, category, and description.

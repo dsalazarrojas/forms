@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals interested in joining the Rotary Club, a community service organization. It's essential to understand that filling out this form correctly and accurately will help the Rotary Club's membership team assess your application efficiently. Ensure you only submit one application per person, as submitting multiple applications can lead to duplication of effort and unnecessary processing time. Please take a few minutes to fill out this form carefully, and don't hesitate to reach out if you need clarification on any field.
-</thinking>
-
 # Rotary Club Membership Application Form - Help Guide
 ## Purpose
 The Rotary Club Membership Application Form is designed to gather essential information from individuals interested in joining the Rotary Club. This form helps the membership team assess applications and ensures that all necessary details are collected for processing.

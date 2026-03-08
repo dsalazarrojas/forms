@@ -1,5 +1,3 @@
-<thinking>This form is designed to be used for evaluating an E Commerce website. The goal is to assess the overall quality and performance of a website in several key aspects, including its design, user experience, and functionality. This form is intended to be used by website evaluators or users who wish to provide feedback on a website's strengths and weaknesses. Each field is designed to capture specific aspects of a website's performance, such as its website URL, homepage layout, navigation menu, search box, and more. By filling out this form, evaluators or users can provide detailed feedback on a website's e-commerce platform.</thinking>
-
 # E Commerce Website Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to be used for evaluating an E Commerce website. The goal is to assess the overall quality and performance of a website in several key aspects, including its design, user experience, and functionality.

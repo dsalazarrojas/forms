@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect market research information from customers, helping our team better understand their needs and preferences. The purpose of this form is to gather demographic and behavioral data from customers to inform our market research efforts. Please complete this form only if you have been requested to do so by a representative of our company.
-</thinking>
-
 # Market Research Intake Form - Help Guide
 ## Purpose
 This form is designed to gather market research information from customers to help our team better understand their needs and preferences.

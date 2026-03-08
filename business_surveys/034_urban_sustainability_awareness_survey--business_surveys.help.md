@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about urban sustainability awareness and behaviors from users. This form is likely used to gather data for research or analysis purposes. Please ensure that you are filling out this form correctly and that the information is accurate. If you are unsure about any of the fields, please consult with your supervisor or the form's administrator.
-</thinking>
-
 # urban_sustainability_awareness_survey - Help Guide
 ## Purpose
 This form is designed to collect information about urban sustainability awareness and behaviors from users.

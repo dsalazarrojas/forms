@@ -1,9 +1,3 @@
-<thinking>...
-This form is designed to collect performance metrics related to social media engagement and advertising campaigns. It is meant to gather data on social media engagement, campaign performance, content distribution channels, and target audience characteristics. This form is likely used within a business setting to monitor and analyze social media efforts.
-The data collected from this form can be used to track and compare social media engagement metrics, identify areas of improvement for future campaigns, and optimize content distribution channels. It can also help in understanding audience demographics and behavior.
-Ensure that you are filling this form for a valid and relevant purpose. If you have already filled this form previously, please review the changes and updates before resubmitting.
-</thinking>
-
 # social-media-performance-report-form - Help Guide
 ## Purpose
 The purpose of this form is to collect performance metrics related to social media engagement and advertising campaigns. It is designed to gather data on social media engagement, campaign performance, content distribution channels, and target audience characteristics.

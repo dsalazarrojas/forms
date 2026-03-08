@@ -1,5 +1,3 @@
-<thinking>Telecom-field-inspection-checklist form is used for collecting and recording details of a telecom field inspection. This form is likely used for site-specific telecom field inspections, where inspectors or engineers need to capture specific site details, flag any issues, and record the status of the field. The form may be used by telecom teams, engineers, or inspectors for documentation and reporting purposes.</thinking>
-
 # telecom-field-inspection-checklist - Help Guide
 ## Purpose
 The telecom-field-inspection-checklist form is designed to collect and record details of a telecom field inspection, ensuring that all necessary information is captured and documented for site-specific inspections.

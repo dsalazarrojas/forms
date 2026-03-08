@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for staff members to submit a support request on behalf of their department or team, requesting assistance from the facilities team. The goal is to provide a clear and concise way to triage and prioritize support requests based on urgency and support type. This form will help the facilities team quickly understand the nature and priority of the support request.
-</thinking>
-
 # Care Facility Support Request - Help Guide
 ## Purpose
 This form is designed for staff members to submit support requests to the facilities team. It helps the team quickly triage and prioritize requests based on urgency and support type.

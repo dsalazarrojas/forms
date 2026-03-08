@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Property Investor Checklist form, let's consider the following reasoning:
-
-*   The form seems to be designed to gather information from property investors about their investment preferences, goals, and risk tolerances.
-*   The form asks for input on various aspects, including potential investments, risk tolerance, financial status, investment objectives, property market, location, financial capacity, property type, investment strategy, tax implications, financial institution, legal documents, property type, property value, risk management, investment return, exit strategy, investment period, target returns, return on investment, exit payout, and other.
-*   The form appears to be designed for a general audience, likely for individuals who are considering investing in properties or are already property investors.
-
-</thinking>
-
 # Property Investor Checklist - Help Guide
 ## Purpose
 This form is designed to gather information from property investors about their investment preferences, goals, and risk tolerances. It will help you understand your needs and goals, making it easier to find the right investment opportunity.

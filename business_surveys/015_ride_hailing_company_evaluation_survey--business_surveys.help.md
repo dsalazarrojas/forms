@@ -1,12 +1,3 @@
-<thinking>
-## Form Purpose and Validation Check
-
-This form is designed to collect feedback from riders about their experience with a ride-hailing company. This form will be used to gauge customer satisfaction, identify areas for improvement, and help the company understand the effectiveness of its services. Before proceeding, please ensure that you have not already provided a similar review/survey in the past. 
-
-If you've already submitted a review/survey with the same details, it would be redundant and unnecessary. This form is intended for riders who want to share their genuine feedback to contribute to the company's continuous improvement.
-
-</thinking>
-
 # ride-hailing-company-evaluation-survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from riders about their experience with a ride-hailing company.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting data about marketing efforts, likely used to measure and analyze the effectiveness of marketing campaigns. It is not a form for creating new marketing materials or campaigns. To fill out this form, follow the instructions below.
-</thinking>
-
 # Marketing Efforts Survey - Help Guide
 
 ## Purpose

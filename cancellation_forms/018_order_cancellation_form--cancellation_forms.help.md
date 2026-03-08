@@ -1,7 +1,3 @@
-<thinking>
-This form is used to handle order cancellations within a retail or e-commerce system. It ensures that users can enter details related to cancelling an order, including the reason for cancellation, cancellation date, order total, order status, and more. This form is essential for maintaining order records and for providing accurate data for order cancellation procedures.
-</thinking>
-
 # cancellation_forms - Help Guide
 ## Purpose
 The cancellation forms are used to collect information about orders that need to be cancelled. This form is designed to gather specific details about the order, such as the order number, reason for cancellation, and order status.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used by clients and stakeholders to evaluate the value that management consulting projects bring to their business. The primary goal is to assess the project's outcomes, consultant's performance, and overall satisfaction. The form is used to collect feedback that helps to improve the consulting services offered by the management consulting team. 
-
-Before filling out this form, please ensure that you have the necessary information and data about the project. If you have filled out this form recently, you might have duplicate data and it would not be necessary to fill it out again. Please make sure to review the form carefully and fill it out only if you are certain that the information is accurate and up-to-date.
-
-This guide will walk you through each section of the form and explain what each field is used for.
-</thinking>
-
 # Management Consulting Value Survey - Help Guide
 ## Purpose
 This form is designed to gather valuable feedback from clients and stakeholders about the management consulting services provided. It helps to evaluate the project's outcomes, consultant's performance, and overall satisfaction, which will aid in the continuous improvement of the service offered.

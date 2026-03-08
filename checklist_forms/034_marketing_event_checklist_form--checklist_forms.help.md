@@ -1,14 +1,3 @@
-<thinking>
-This form is a checklist for marketing events. It's designed to help users track and manage the various aspects of an event, including details about the event, the team involved, and other related information. Before proceeding, ensure that this form is relevant to your specific use case and not a duplicate of existing forms.
-
-The purpose of this form is to provide a structured and organized way to collect and view information about marketing events. It helps to ensure that all essential details are captured and easily accessible for reference and future planning.
-
-This form is a general-purpose marketing event checklist and might not cover all specific requirements of a particular event. If this form is intended for a specific event type (e.g., product launch, conference, webinar, etc.), additional details might need to be included.
-
-This guide will walk you through how to complete the form for your marketing event.
-
-</thinking>
-
 # Marketing Event Checklist Form - Help Guide
 ## Purpose
 The Marketing Event Checklist Form is designed to capture essential information about marketing events. This form will help you collect and organize data in a structured and organized way to ensure effective event planning and communication.

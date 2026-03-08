@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their investment preferences and goals. It will be used to help users simulate investment scenarios and provide them with personalized results.
-
-Before proceeding, please ensure you have not completed this form before. If you have, your previous submission will be overwritten.
-
-This guide will walk you through the form fields, their labels, and any required information to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Investment Simulation Survey - Help Guide
 ## Purpose
 The Investment Simulation Survey is a form designed to collect information about your investment preferences and goals. It will help you simulate investment scenarios and provide personalized results.

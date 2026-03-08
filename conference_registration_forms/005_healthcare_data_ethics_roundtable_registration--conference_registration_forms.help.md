@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Data Ethics Roundtable Registration - Help Guide
 ## Purpose
 This form is for registering participants for the Healthcare Data Ethics Roundtable. The purpose of this form is to collect information about each participant, including their name, contact details, and preferences for accessibility and dietary requirements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for businesses to declare goods that are being imported into a country. The form is used to provide essential information about the goods, including the business name, goods description, country of origin, customs clearance number, value of goods, date of importation, time of importation, and other relevant details. This form is typically used for official purposes and may be subject to review and approval by relevant authorities.
-</thinking>
-
 # goods_declaration_form - Help Guide
 ## Purpose
 The "Goods Declaration Form" is a document used by businesses to declare goods being imported into a country. It is an essential form for official purposes and helps ensure that all necessary details are provided to relevant authorities.

@@ -1,7 +1,3 @@
-<thinking>
-This form, "public_policy_research_records_release_form", appears to be designed for researchers to obtain consent from individuals involved in research projects, allowing them to share their data. It seems to cover a range of fields that could potentially be relevant for researchers, including contact information, research details, and consent preferences. There doesn't appear to be any duplicate fields, but to ensure consistency and clarity, I'll focus on each field's unique purpose and explanation. Let's start the help guide.
-</thinking>
-
 # public_policy_research_records_release_form - Help Guide
 ## Purpose
 This form is used to obtain consent from researchers for the sharing of their data. It collects contact information and research project details, enabling the sharing of data while respecting individual preferences.

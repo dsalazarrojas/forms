@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for the purpose of documenting and streamlining the handover process between shifts in a work environment. It aims to ensure that critical information is passed on effectively and efficiently, promoting a smooth transition for the next shift employee. The form is a simple and concise checklist that gathers essential details about the current and next shifts, including actions to be taken, start and end times, and any important comments or assigned tools.
-
-This form is likely to be used in industries where shift work is common, such as manufacturing, healthcare, or transportation, where accurate handover information is crucial for continuity and productivity.
-
-To avoid duplication or redundancy, users should ensure that all required fields are completed accurately and thoroughly. This form is designed to be completed by the departing employee, who will be passing on information to the next shift employee.
-
-</thinking>
-
 # Shift Handover Checklist - Help Guide
 ## Purpose
 The Shift Handover Checklist is a simple, user-friendly form designed to ensure a smooth transition between shifts by gathering essential information from the departing employee.

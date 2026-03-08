@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of assessing the fidelity of a Return to Base (RBT) process, which is a systematic approach to reviewing and refining a process or system to ensure it meets predefined standards and requirements. The RBT Fidelity Checklist is a critical component of this process, as it provides a structured framework for identifying areas of strength and weakness, and for making data-driven decisions to improve the process.
-To use this form, simply follow these steps:
-1. Review each field carefully and fill in the relevant information as prompted.
-2. Be sure to answer all required fields, as indicated by the required label.
-3. Use the provided space for comments or notes to elaborate on your answers when necessary.
-</thinking>
-
 # RBT Fidelity Checklist - Help Guide
 ## Purpose
 The RBT Fidelity Checklist is a tool used to assess the fidelity of a Return to Base (RBT) process, a systematic approach to reviewing and refining a process or system to ensure it meets predefined standards and requirements.

@@ -1,13 +1,3 @@
-<thinking>This form is designed to collect 360-degree feedback from participants about their experience with 360 Feedback Orchard Hill Church. This guide will walk you through the steps to complete the form, field by field, to ensure you provide accurate and helpful feedback.
-
-To be eligible to provide feedback, you must be a participant in the 360 Feedback program, which is likely a church or organization-related initiative. This form will help the organization understand your experience and gather insights for improvement.
-
-Please note that some fields are optional, but all required fields are marked as such. If you're unsure about a particular field, please refer to the hints or instructions provided for guidance.
-
-Before proceeding, ensure that you have a clear understanding of your experience with 360 Feedback Orchard Hill Church and be prepared to provide specific feedback and ratings.
-
-</thinking>
-
 # 360 Feedback Orchard Hill Church - Help Guide
 ## Purpose
 This guide will walk you through the 360 Feedback Orchard Hill Church form, which is designed to collect your feedback and experience with the 360 Feedback program.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather member rankings from users, allowing them to select up to three members and assign a ranking number to each selected member. The purpose of this form is to collect user preferences and opinions on which members are of most importance or value to them. This form ensures that users can provide clear and structured feedback on their member selections and rankings.
-
-The form is composed of multiple pages, each containing a select input to choose up to three members, and a ranking input for each selected member. There is also a submit button to confirm the submission and an optional notes field for any additional comments or notes.
-
-The form is designed to be user-friendly, with clear labels and instructions for each field. Please ensure that you have read and understood the purpose and layout of the form before proceeding.
-
-</thinking>
-
 # Member Selection Ranking Survey - Help Guide
 ## Purpose
 The Member Selection Ranking Survey is used to gather user preferences and opinions on which members are of most importance or value to them. Users are asked to select up to three members and assign a ranking number to each selected member.

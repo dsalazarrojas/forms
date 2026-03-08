@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's gifting habits, preferences, and behaviors. The goal is to understand what motivates people to give gifts, what types of gifts they prefer, how often they gift, and their budget for gifting. This data will help the organization create more effective and sustainable gifting solutions that cater to the needs and preferences of their target audience.
-
-**Please note that this form is not intended for gifting frequency questions for specific gift types that are not listed in the options. If you have a different gifting frequency for a gift type not listed here, please select "Rarely" and provide an explanation in the open-ended field.**
-
-</thinking>
-
 # Sustainable Gift Ideas Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your gifting habits, preferences, and behaviors to help us create more effective and sustainable gifting solutions.

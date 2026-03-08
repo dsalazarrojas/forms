@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information about the energy efficiency of residential buildings. It's likely used by auditors or assessors to conduct energy efficiency surveys. However, I'd like to check that the form purpose and design align with the organization's goals and existing systems. Is there anything that's not immediately clear about the form's purpose or design? Are there any redundant or duplicate fields that can be removed? Are there any fields that could be improved for clarity or usability?
-
-Upon reviewing the form, it seems the form is designed to collect information about a user's residential energy usage and the potential for energy efficiency upgrades. The form asks for basic user information, household details, energy usage types, and notes on various aspects of the energy efficiency survey. The energy efficiency rating is also collected to assess the building's energy efficiency level.
-
-Before creating the user-facing help guide, let's confirm that this form purpose and design align with the organization's goals and existing systems.
-
-</thinking>
-
 # Residential Energy Efficiency Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a residential building's energy efficiency. It is used by auditors or assessors to conduct energy efficiency surveys and identify potential areas for improvement.

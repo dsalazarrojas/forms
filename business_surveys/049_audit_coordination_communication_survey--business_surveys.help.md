@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of audit coordination between the audit team and stakeholders. It is meant to be completed by audit coordinators to provide valuable feedback on their experiences and identify areas for improvement. The form is not a formal assessment, but rather a tool to facilitate open communication and collaboration. Before completing this form, consider the following:
-
-* The form is designed to be filled out by one audit coordinator per project.
-* The survey questions are meant to be answered based on your personal experience and perceptions.
-* Be honest and provide detailed answers to help identify areas of improvement.
-
-</thinking>
-
 # Audit Coordination Communication Survey - Help Guide
 ## Purpose
 The Audit Coordination Communication Survey is designed to evaluate the effectiveness of coordination between the audit team and stakeholders. It aims to gather feedback from audit coordinators to identify strengths and weaknesses in the coordination process.

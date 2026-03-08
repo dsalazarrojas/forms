@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the challenges that affect team productivity and performance. The goal is to identify potential obstacles that hinder team success, gather employee feedback, and suggest improvements to overcome these obstacles. This form is not a one-time activity, but rather a recurring assessment that will help us understand the dynamics of our team's performance over time.
-</thinking>
-
 # Team Productivity Barriers Survey - Help Guide
 ## Purpose
 The Team Productivity Barriers Survey is designed to help us understand the challenges that affect team productivity and performance. By completing this survey, you will be contributing to our efforts to identify and address potential obstacles that hinder team success.

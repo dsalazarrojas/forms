@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and feedback from users regarding their receiving management experience. It is intended to help the management team understand the current state of receiving management in the organization. The form consists of 25 questions, each focusing on a different aspect of receiving management, such as performance, process, and communication. Please ensure you answer the questions honestly and thoroughly, as your feedback is valuable to the management team.
-</thinking>
-
 # Receiving Management Survey - Help Guide
 ## Purpose
 The Receiving Management Survey is a tool designed to gather feedback from users about their receiving management experience. This form helps the management team understand strengths and weaknesses of the current receiving management processes.

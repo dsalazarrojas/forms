@@ -1,14 +1,3 @@
-<thinking> 
-We need to create a user-facing help guide for the "Heat Pump Inspection Checklist" form. This form is likely used by HVAC (Heating, Ventilation, and Air Conditioning) technicians or inspectors to document the condition and performance of a heat pump system. The form appears to be used for general information, system performance, safety issues, and other specific components of the heat pump system, such as the compressor, fan, coils, and electrical and mechanical systems. The date and time of the inspection, as well as additional notes, should also be recorded. The user's input and name should be included for reference. 
-
-This form seems to be designed for a one-page or multi-page inspection process, where each page or section is focused on a specific aspect of the heat pump system. The form is likely used to ensure that the inspector or technician has covered all necessary areas and can provide a comprehensive report.
-
-We should verify that the form is not duplicating any other forms used by the organization and that the purpose and scope of the form align with the organization's goals and objectives.
-
-The form fields appear to be well-structured and straightforward, with no obvious issues or areas for improvement. However, further review and testing may be necessary to ensure that the form meets the required standards and is user-friendly. 
-
-</thinking>
-
 # Heat Pump Inspection Checklist - Help Guide
 ## Purpose
 The Heat Pump Inspection Checklist is a form used to document the condition and performance of a heat pump system. It guides the inspector or technician through a comprehensive inspection process, ensuring all necessary areas are covered and providing a clear report of the system's status.

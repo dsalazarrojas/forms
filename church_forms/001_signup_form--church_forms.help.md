@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Signup Form - Help Guide
 ## Purpose
 The Signup Form is designed to collect information from visitors for internal use within the church community. It is not intended for public submission or publication. Please do not submit this form if you are not associated with the church or if you have already submitted information in the past.

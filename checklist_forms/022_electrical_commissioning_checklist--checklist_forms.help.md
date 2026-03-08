@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about electrical commissioning, including checklists, risks, electrical systems, equipment, commissioning team members, commissioning phases, and electrical commissioning. This form is likely used by electrical engineers or commissioning specialists to document and track the progress of electrical commissioning projects.
-</thinking>
-
 # Electrical Commissioning Checklist - Help Guide
 ## Purpose
 The Electrical Commissioning Checklist is a form used to collect and track information about electrical commissioning projects. It is intended to ensure that all necessary steps and checks are completed during the commissioning process.

@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is used to collect wildlife observation data from users, likely for conservation or research purposes. The form is designed to be completed by multiple people, with each page allowing users to input their species, location, behavior, date, time, notes, email, and phone number for up to 3 observations. The form does not have any strict requirements, so users can choose which fields to complete.
-
-</thinking>
-
 # Wildlife Observation Checklist Form - Help Guide
 ## Purpose
 This form is used to collect wildlife observation data for conservation or research purposes.

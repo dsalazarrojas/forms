@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for businesses to register their information and provide details about their structure, industry, and location. The goal is to collect comprehensive data about businesses to help with internal processes, such as tracking and analysis. 
-The form collects information from 20 fields, categorized into 6 main sections: Business Name, Type of Business, Industry, Location, Owner Information, and Additional Details. 
-Please ensure you have all necessary information before proceeding as some fields are required. You can select options for certain fields as per the given choices. 
-This form is meant for businesses of all types and sizes. Please answer accurately and honestly.
-</thinking>
-
 # Business Registration Form - Help Guide
 
 ## Purpose

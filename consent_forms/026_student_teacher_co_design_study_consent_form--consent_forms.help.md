@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather consent from students for a co-design study. The form is designed to collect general information, parental consent, research consent, student consent, emergency contact information, contact method, and any additional comments from the students. The form is meant to be completed by students, and the information collected will be used for the purpose of the co-design study.
-
-The form is divided into multiple pages, each with its own set of questions. The questions are designed to be simple and easy to understand, with clear labels and hints to guide the user through the process.
-
-The form has been generated using AI, but it is an original adaptation of public survey topic metadata, and it does not copy or use proprietary content from any form creation or survey platform.
-
-The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.</thinking>
-
 # student-teacher-co-design-study-consent-form - Help Guide
 ## Purpose
 This form is intended to gather consent from students for a co-design study. It is designed to collect information necessary for the study, including parental consent, research consent, student consent, emergency contact information, and contact method.

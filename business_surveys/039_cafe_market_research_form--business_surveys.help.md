@@ -1,7 +1,3 @@
-<thinking>
-The form "Cafe Market Research Form" is designed to gather information from respondents about their experience with a cafe. It aims to understand their demographics, behavior, and preferences to improve the cafe's services. This form is intended for customers who have visited or are planning to visit the cafe. The form's structure includes questions about the respondent's age group, visit frequency, main purchase type, average spending per visit, preferred cafe features, how they heard about the cafe, likelihood to recommend, and additional feedback. Please ensure you complete the form accurately and honestly to provide valuable insights.
-</thinking>
-
 # Cafe Market Research Form - Help Guide
 
 ## Purpose

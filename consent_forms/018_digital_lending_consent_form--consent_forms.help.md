@@ -1,16 +1,3 @@
-<thinking>
-The digital lending consent form is a critical document used for borrowers or applicants to provide consent to lenders or creditors for digital lending services. This form is crucial in ensuring that all parties involved in the lending process are aware of their rights, responsibilities, and obligations, particularly regarding data privacy and security.
-
-When designing the form, we considered the following aspects:
-
-1.  **Data Privacy**: The form should protect sensitive information about the applicant.
-2.  **Security**: It should ensure that all communication between the lender and applicant is secure and encrypted.
-3.  **Regulatory Compliance**: The form should abide by all relevant laws and regulations in the industry.
-
-To ensure that all these aspects are covered, the form should be designed to clearly convey all required information and minimize the risk of errors.
-
-</thinking>
-
 # Digital Lending Consent Form - Help Guide
 ## Purpose
 The Digital Lending Consent Form is a document that requires borrowers or applicants to provide consent for digital lending services. This form is essential for lenders to understand the applicant's agreement, terms, and conditions of the loan.

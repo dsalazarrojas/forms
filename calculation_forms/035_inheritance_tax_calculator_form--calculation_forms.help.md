@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Inheritance Tax Calculator Form is to calculate the tax rate and other relevant information related to inheritance tax. This form is used for collecting and processing information about estates, beneficiaries, tax rates, and other relevant details.
-This form appears to be designed to guide users through a process that involves calculating tax rates and possibly providing information on tax calculations and incentives. It seems to be related to estate planning, probate, or taxation. To ensure the information in this guide is accurate and complete, let me verify the relevance and non-duplication of information with the provided YAML fields.
-</thinking>
 # Inheritance Tax Calculator Form - Help Guide
 ## Purpose
 The Inheritance Tax Calculator Form is used to calculate tax rates and collect information about estates, beneficiaries, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rescue Operation Checklist Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about a building's technology upgrade priorities, current infrastructure, and needs for potential upgrades. It is intended for building management and facility teams to provide insight into their current systems and what upgrades would be most beneficial to them. This form is not meant to be used for marketing or sales purposes and should only be filled out by authorized personnel. Please ensure that you are filling out this form in an appropriate context and have the necessary permissions to do so. This form should not be filled out multiple times by the same person, as this could lead to duplicate data and skew the results.</thinking>
-
 # Building Technology Upgrade Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the current state of your building's technology infrastructure and identify potential upgrade priorities.

@@ -1,11 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Online Training Enquiry Form", let's consider the following points:
-- The form's primary purpose is to gather information from users who wish to inquire about online training opportunities. 
-- It is unlikely that the same user will fill out the form multiple times, so there's no need for extensive duplication checks.
-- The form requires minimal demographic information such as name, contact details and relationship between the emergency contact and the user.
-- Each field should provide clear and concise explanations to ensure users can easily understand the form's purpose and fill it out correctly.
-</thinking>
-
 # Online Training Enquiry Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The "vehicle_maintenance_checklist_form" form is used to track and record the maintenance status of company vehicles. This form is intended to be filled out by users who are responsible for maintaining the company fleet. The form should only be filled out for vehicles that are currently active or being maintained. Users should not fill out this form for vehicles that are inactive.
-</thinking>
-
 # vehicle_maintenance_checklist_form - Help Guide
 ## Purpose
 The vehicle_maintenance_checklist_form is used to track and record the maintenance status of company vehicles.

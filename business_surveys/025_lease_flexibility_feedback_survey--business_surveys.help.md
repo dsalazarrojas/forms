@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a feedback survey designed to collect information on lease flexibility, which likely refers to the flexibility in leasing agreements or the level of adaptability in leasing terms. This survey aims to gather opinions from tenants on their experience with their current lease, specifically their satisfaction with the lease agreement, lease term, and any suggestions for improvement. It's essential to ensure this form is not duplicated, and the survey topic is relevant to the target audience. If the form is being used in a business setting, it's crucial to verify that the questions and fields are aligned with the organization's goals and objectives. The survey seems to be designed to gather qualitative and quantitative feedback, as it includes a mix of multiple-choice and text-based questions.
-</thinking>
-
 # Lease Flexibility Feedback Survey - Help Guide
 ## Purpose
 This form is a feedback survey designed to collect information on lease flexibility from tenants. The survey aims to gather opinions on lease agreements, lease terms, and suggestions for improvement.

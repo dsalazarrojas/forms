@@ -1,7 +1,3 @@
-<thinking> 
-The form is designed to capture information relevant to website development projects, including lead capture, project details, project goals, budget, timeline, description, contact information, and project status. This survey aims to help project managers and team members understand project requirements and assign tasks accordingly. The form is intended for internal use within the organization, ensuring that each project is properly screened and assessed for feasibility and priority.
-</thinking>
-
 # Website Development Pre Screening Survey - Help Guide
 ## Purpose
 This form is designed to help project managers and team members quickly screen and assess website development projects. It captures essential information about project goals, budget, timeline, and other key details.

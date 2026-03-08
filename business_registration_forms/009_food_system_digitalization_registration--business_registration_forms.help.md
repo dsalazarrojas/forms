@@ -1,10 +1,3 @@
-<thinking>
-This is a form designed to collect information for food system digitalization registration. The form is intended for businesses and organizations to register their programs, participants, and other relevant details. It appears that this form is a crucial part of a larger process, possibly for tracking and managing food system digitalization efforts.
-
-To avoid duplication and ensure accurate registration, please review the form carefully before submitting it. If you have already registered a similar program, you may not need to complete this form again.
-
-</thinking>
-
 # Food System Digitalization Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information for registering your food system digitalization program. This includes details about the program name, type, location, participants, interests, and other relevant information. The form is designed to help us understand your program and provide you with the best possible support.

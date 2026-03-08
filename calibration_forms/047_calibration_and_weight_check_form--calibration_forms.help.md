@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about equipment calibrations, specifically for measuring devices such as scales, balances, and other measuring instruments. The form is designed to record the calibration date, time, location, and type of equipment being calibrated, as well as the calibration standard used, test weights, and results of various tests (zero, span, and linearity tests). It also includes fields for documenting any adjustments made, the next calibration due date, and the overall condition of the equipment. The form is meant to be completed by a technician performing the calibration, and it includes fields for their signature and any additional notes.
-</thinking>
-
 # Calibration And Weight Check Form - Help Guide
 
 ## Purpose

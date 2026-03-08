@@ -1,6 +1,3 @@
-<thinking>
-The form "educational_guardianship_form" is used to collect information about the relationship between an individual and their guardian or parent. The form helps to determine the level of consent and consent for different areas such as education, health, and medical. It also captures the contact information of the guardian. This form is intended to be completed by the guardian or parent, and it is an important part of the educational guardian's responsibilities. The form should only be filled out by the individual's actual guardian or parent. Please check that you are the correct guardian/parent before completing this form.</thinking>
-
 # educational_guardianship_form - Help Guide
 ## Purpose
 The "educational_guardianship_form" is used to collect information about the relationship between an individual and their guardian or parent. 

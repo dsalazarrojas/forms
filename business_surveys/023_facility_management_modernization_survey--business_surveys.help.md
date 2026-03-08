@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Management Modernization Survey - Help Guide
 
 ## Purpose

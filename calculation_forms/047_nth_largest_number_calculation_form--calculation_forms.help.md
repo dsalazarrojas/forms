@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nth Largest Number Calculation Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information from patients about their medication use. The purpose of this form is to collect data about the patient's name, medication name, treatment details, dosage, and consent to receive treatment. This form will help healthcare professionals and researchers gather accurate and consistent data about patient medication use. 
-
-Please ensure that this form is not used for any other purpose than what it is intended, and that it is reviewed carefully before using it.
-
-This form was created using AI-generated metadata and has not been reviewed or validated by a medical professional. Use at your own discretion.
-
-This form is released under CC BY 4.0, meaning you are free to use, modify, and share it, but please give credit to the original creator.
-
-You can contact form@gic.mx for any questions or concerns.
-
-</thinking>
-
 # Medication Consent Form - Help Guide
 ## Purpose
 The Medication Consent Form is used by healthcare professionals to gather information from patients about their medication use. It helps collect data about patient name, medication name, treatment details, dosage, and consent to receive treatment.

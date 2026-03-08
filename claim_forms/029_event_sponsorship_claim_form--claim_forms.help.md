@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is for event attendees to claim their sponsored events. It is intended to be submitted by people who have attended events sponsored by the organization, and it helps the organization keep track of sponsored events and attendees. To ensure accuracy and completeness, please review the form before submitting it and only submit it once per event.
 
 # Event Sponsorship Claim Form - Help Guide

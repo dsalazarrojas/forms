@@ -1,7 +1,3 @@
-<thinking>
-The Summit Registration Form is a form designed to collect information from attendees, managers, and delegates for the summit. This form will serve as the primary means of registration for summit participants, ensuring that all necessary contact and affiliation information is gathered correctly. It is essential to fill in this form accurately and completely to facilitate proper communication and organization during the summit. Please ensure that you are not duplicating an existing registration. If you are unsure whether you have already registered or need help with any field, feel free to contact our support team for assistance.
-</thinking>
-
 # Summit Registration Form - Help Guide
 ## Purpose
 The Summit Registration Form is a crucial tool for gathering essential information from attendees, managers, and delegates for the summit. This form is designed to ensure that all necessary contact and affiliation information is collected correctly, facilitating proper communication and organization during the summit.

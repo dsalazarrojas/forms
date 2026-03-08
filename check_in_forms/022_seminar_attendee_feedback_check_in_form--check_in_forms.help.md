@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture feedback from attendees of a seminar, workshop, or training session. The purpose of this form is to understand the participant's experience and provide an opportunity to gather their opinions and suggestions. This form should not be filled in by anyone who has not attended the session.
-
-It is essential to fill out this form honestly and accurately, and not to fill it out on behalf of others. Each attendee should only submit their own feedback.
-
-Please make sure to fill out the form completely and accurately, and do not leave any fields blank. If a field is not applicable to you, please select "Not Applicable" or "Not Relevant" in the respective field.
-
-Before filling out this form, make sure you have all the necessary information ready.
-
-</thinking>
-
 # Seminar Attendee Feedback Check In Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of a seminar, workshop, or training session.

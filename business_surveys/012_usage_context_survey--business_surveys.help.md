@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # usage_context_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your usage context of our product. The goal is to understand how often you use our product, where you typically use it, and what motivates you to use it. This data will help us improve and tailor our product to better meet your needs.

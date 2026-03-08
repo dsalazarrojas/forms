@@ -1,7 +1,3 @@
-<thinking>
-This form is used by accounting or financial professionals to confirm the completion of monthly bookkeeping tasks. This form is likely used by a manager or supervisor to review the status of these tasks and ensure they have been completed accurately. Before filling out this form, the user should check the current status of monthly bookkeeping tasks to ensure they are up to date and accurate. If this form is already complete or has been filled out for the same month, it is likely not necessary to fill it out again.
-</thinking>
-
 # Monthly Bookkeeping Confirmation Form - Help Guide
 ## Purpose
 The Monthly Bookkeeping Confirmation Form is used to confirm the completion of monthly bookkeeping tasks.

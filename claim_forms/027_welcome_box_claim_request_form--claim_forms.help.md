@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to capture the necessary information to request a welcome box for someone else. Before starting, please ensure that you're using this form for a legitimate purpose and not duplicating an existing request. The form is intended to be used by authorized personnel to initiate a welcome box claim process. Please review the fields below to complete the form accurately.
-</thinking>
-
 # welcome_box_claim_request_form - Help Guide
 ## Purpose
 The welcome_box_claim_request_form is used to request a welcome box for someone else. This form requires specific details to ensure accurate and efficient delivery of the welcome box.

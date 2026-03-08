@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback and ratings from patients regarding their experience with a chiropractic practice. The purpose of this form is to gather information about the patient's satisfaction with the treatment they received, their perception of the practice's facilities, staff, and overall experience. This data will help the practice improve its services and provide better care to its patients. It is essential to complete this form honestly, as the information will help us understand what we are doing well and where we can improve.
-</thinking>
-
 # Chiropractic Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form, "New Resident Checklist," is designed to collect essential information from new residents upon their move-in date. It is used to ensure that all necessary details are gathered for the residents' records and to provide a smooth transition into their new home. This guide explains each field's purpose and requirements to help complete the form accurately and efficiently.
 
 # New Resident Checklist - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report overbooking issues, such as when a customer is booked for a service or product that is not available or has been double-booked. The form is used by submitter to document the issue and provide relevant information to customer service.
-</thinking>
-
 # Overbooking Complaint Form - Help Guide
 ## Purpose
 The Overbooking Complaint Form is used to report issues with overbooked services or products. It is an essential tool for customer service to resolve these issues efficiently.

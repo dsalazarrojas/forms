@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from sports coaches who may be considered as potential candidates for a job opening or volunteer position. This form is intended to be used internally by HR or management personnel to gather relevant details about the candidate's background, qualifications, experience, and availability. This is a general-purpose form and not specific to a particular job or role, so the information collected may be used for multiple purposes. Please ensure that this form is not duplicated or used for any other unrelated purpose.
-</thinking>
-
 # Sports Coach Interview Form - Help Guide
 ## Purpose
 The Sports Coach Interview Form is used to collect information from sports coaches who may be considered as potential candidates for a job opening or volunteer position.

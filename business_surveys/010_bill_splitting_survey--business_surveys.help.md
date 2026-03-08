@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information about individuals' habits and preferences when it comes to bill splitting, particularly in social situations. The survey aims to collect data on how often people dine out with groups, their preferred method of splitting bills, and other related habits such as handling shared items and tips. This information can be used to inform the development of tools and features for bill-splitting apps, as well as to better understand social dynamics and preferences related to financial interactions. This form is intended for anonymous respondents, and their answers will be kept confidential for research purposes. Please note that this is a survey, and all answers will be kept anonymous and used only for research purposes. If you have any questions or concerns, please do not hesitate to reach out.</thinking> 
-
 # Bill Splitting Survey - Help Guide
 
 ## Purpose

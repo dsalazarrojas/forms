@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide that explains the purpose and process of filling out the "Technology Implementation Experience Survey" form.
-The form's primary goal is to gather information about a respondent's experiences with implementing new technologies in their organization. By filling out this form, respondents can provide valuable insights into their experiences with different technologies, challenges faced during implementation, and benefits gained from using these technologies.
-To ensure that the form is filled out accurately and comprehensively, we will guide users through each section, explaining what each field is for and how to complete it.
-We will also highlight any relevant tips or notes that can help users fill out the form more effectively.
-</thinking>
-
 # Technology Implementation Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences with implementing new technologies in your organization. Your feedback will help us understand the impact of these technologies and identify areas for improvement.

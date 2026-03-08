@@ -1,12 +1,3 @@
-<thinking>
-The form is used for assessing fuels and emissions in the context of a business survey.
-The purpose of this form is to collect information about a company's fuels and emissions data to better understand their environmental impact and identify areas for improvement.
-The form will collect data on various aspects of a company's fuels and emissions, such as type of fuel, fuel consumption, emissions rating, vehicle type, and more.
-The form will help in identifying companies that are not compliant with environmental regulations.
-The form will also help in identifying areas where companies can improve their fuels and emissions performance.
-This form should only be filled out by companies that have a vehicle or are involved in the transportation industry.
-</thinking>
-
 # Fuels And Emissions Assessment - Help Guide
 ## Purpose
 This form is used to assess a company's fuels and emissions performance in the context of the business survey.

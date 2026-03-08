@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the form purpose and required fields, let's analyze the form YAML. The form is for an Art Exhibition Permission Form, which suggests that it's used to collect information from artists participating in an exhibition. The form has 22 fields, most of which are required, indicating that this form is crucial for the exhibition organizers to gather necessary information from artists. The required fields include artist details (name, email, phone number), artwork information (title, medium, dimensions, year of creation, insurance value), permissions and rights (display, photography, marketing reproduction, sales), and declaration and signature (artist declaration, signature date, digital signature). The form is likely used to ensure that the artists grant permission for their artworks to be displayed, photographed, and sold, and to verify their declaration and signature.
-
-</thinking>
-
 # Art Exhibition Permission Form - Help Guide
 ## Purpose
 This form is used by artists to provide necessary information and grant permission for their artworks to be displayed, photographed, and potentially sold during an exhibition.

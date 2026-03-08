@@ -1,13 +1,3 @@
-<thinking>
-**Purpose:**
-The Embroidery Upload Form is used to provide information about an embroidery upload process for a business. This form is intended to collect relevant details about the customer and upload process to ensure seamless and efficient processing.
-To determine if the form is relevant and necessary for the end-user, consider the following questions:
-- Are you a business owner or representative looking to upload embroidery details for processing?
-- Do you have all necessary customer and upload information?
-- Are you aware of what information is required to complete the form?
-If no, please refrain from using this form.
-</thinking>
-
 # Embroidery Upload Form - Help Guide
 ## Purpose
 The Embroidery Upload Form is used to provide information about an embroidery upload process for a business.

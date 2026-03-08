@@ -1,7 +1,3 @@
-<thinking>
-To create the help guide for the Internal Leadership Forum Registration form, I will first analyze the provided YAML fields and provide a brief internal reasoning block to explain the form purpose and checks for relevance and non-duplication.
-</thinking>
-
 # Internal Leadership Forum Registration - Help Guide
 ## Purpose
 This form is designed for internal leadership team members to register for the Internal Leadership Forum, a meeting where they can discuss and plan strategies for internal initiatives. The purpose of this form is to collect necessary information for event planning and logistics.

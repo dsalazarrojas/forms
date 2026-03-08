@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to request revisions to a vendor's booth layout at a conference or event. The purpose of this form is to collect information from event organizers about the current state of the vendor's booth, what changes they would like to make, and when they would like to implement these changes. The form is intended for event organizers who need to coordinate and schedule booth revisions with vendors. 
-
-The form is divided into several sections to guide the user through the process of providing the required information. 
-
-Please ensure that you are completing this form for the correct purpose and that the information you provide is accurate and up-to-date. If you have already submitted a similar request, please do not resubmit. 
-
-This form is an internal tool and its data will be used by event organizers to coordinate and schedule booth revisions. The information you provide will not be shared with anyone outside of the event organizers team.
-
-</thinking>
-
 # Vendor Booth Layout Revision Request Form - Help Guide
 ## Purpose
 This form is used to request revisions to a vendor's booth layout at a conference or event. It is intended for event organizers to collect information about the current state of the booth and to coordinate and schedule revisions with the vendor.

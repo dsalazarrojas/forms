@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients who seek intuitive energy healing services. The form is designed to be completed by the client prior to the session, and its purpose is to gather essential details about the client, their medical conditions, goals, and preferences. It also includes a disclaimer agreement and a selection of healing services the client is interested in. The form is meant to be a comprehensive and efficient way to gather all necessary information, ensuring that the client and the energy healer are on the same page before the session commences.
-</thinking>
-
 # Intuitive Energy Healing Client Intake And Disclaimer Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients seeking intuitive energy healing services, ensuring that both the client and the energy healer understand each other's expectations and needs.

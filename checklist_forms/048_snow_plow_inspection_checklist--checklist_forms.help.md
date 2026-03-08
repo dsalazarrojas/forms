@@ -1,5 +1,3 @@
-<thinking>As this form is intended to gather information for a snow plow inspection, it's crucial to verify that the fields are correctly filled out to ensure accuracy and relevance in the inspection process. This guide will walk you through each section and field to help you complete the form effectively and correctly.</thinking>
-
 # Snow Plow Inspection Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users determine which day of the week a specific date falls on. It is intended to be used in a variety of contexts where date-to-day-of-the-week conversion is necessary, such as scheduling appointments or events. Please note that this form does not store or process any personal data, so it is safe to use. This form does not duplicate any existing forms in the industry, and it was created using AI-generated metadata.
-</thinking>
-
 # Show Day Of The Week Form - Help Guide
 ## Purpose
 This form is designed to help users convert a given date into its corresponding day of the week.

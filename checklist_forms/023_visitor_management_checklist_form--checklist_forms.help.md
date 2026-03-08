@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect visitor management information, likely for security or access control purposes. It is intended to be completed by individuals who need to interact with visitors in a secure environment, such as a government building or a private enterprise. The form should only be used for its intended purpose and not for general visitor inquiries or other non-essential activities.
-
-It's possible that this form is part of a broader access control system, ensuring that visitors can be properly screened and monitored before being granted access to a secure area. The form's fields likely aim to gather information such as contact details, visitor type, and other essential information to facilitate efficient and secure visitor management.
-
-When filling out this form, please ensure that you provide accurate and truthful information, as it is essential for the security and safety of all parties involved. Completing this form does not imply approval or clearance to access the area; further checks and verification may be required.
-
-Before starting, make sure you have a clear understanding of the form's purpose and what each field requires. If you have any doubts, it's best to clarify with the relevant authority.
-
-Please note that some fields may have specific requirements or restrictions, so please refer to the instructions or guidelines provided by the form administrators for more information.
-
-This guide is designed to provide a clear understanding of the form's requirements and what to expect when completing it. If you have further questions or concerns, do not hesitate to reach out to the form administrators or support team.
-</thinking>
-
 # visitor_management_checklist_form - Help Guide
 ## Purpose
 The visitor management checklist form is designed to collect essential information from visitors to ensure secure and efficient visitor management.

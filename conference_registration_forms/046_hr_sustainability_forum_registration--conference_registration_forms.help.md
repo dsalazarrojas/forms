@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for conference registration. It is intended to collect information about attendees who wish to participate in HR Sustainability Forum. This form will likely be used internally within the organization to gather contact and demographic information about attendees. 
-
-Please ensure you have the necessary permission to register for the forum if your registration is on behalf of someone else. 
-
-Duplicate registrations may lead to unnecessary processing and potential duplicate attendees at the event.
-
-</thinking>
-
 # HR Sustainability Forum Registration - Help Guide
 ## Purpose
 This form is used to register attendees for the HR Sustainability Forum. It will help us gather information about attendees and ensure that the necessary contact and demographic information is collected.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for dimensional healing sessions. Dimensional healing is a form of alternative healing that aims to release emotional, mental, and spiritual blockages by realigning the client's energy fields. The form is intended to gather details about the client's preferences and consent for the sessions.
-
-To ensure that the form is relevant to your needs, please verify that you are interested in alternative healing methods and specifically in dimensional healing sessions.
-
-Please note that if you have already registered for a session in the past, your submission will be considered a duplicate and will not be recorded.
-
-</thinking>
-
 # Dimensional Healing Session Registration - Help Guide
 ## Purpose
 The Dimensional Healing Session Registration form is designed to collect information from clients interested in receiving dimensional healing sessions. This form will be used to gather details about the client's preferences and consent for the sessions.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback and input from employees on the company's digital talent strategy. This form will help the management team to better understand the employees' perspectives and opinions on how the digital talent strategy can be improved. The purpose of this form is to gather information on how the employees feel about the current digital talent strategy and their expectations from the company in terms of digital transformation. 
-
-Before proceeding, ensure that you have not already filled out this form previously to avoid duplication of effort. If you have previously provided feedback, you can refer to it and update or modify it as necessary. 
-
-Please read this help guide carefully to ensure you complete the form accurately and efficiently. 
-
-</thinking>
-
 # Digital Talent Strategy Feedback Survey - Help Guide
 ## Purpose
 This form aims to collect your feedback and input on the company's digital talent strategy. Your responses will help the management team understand your perspectives and opinions on how to improve the strategy.

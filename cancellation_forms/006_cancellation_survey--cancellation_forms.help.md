@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who have cancelled their service, allowing the company to understand the reasons behind the cancellation and identify areas for improvement. It appears to be a comprehensive form that covers various aspects of the customer's experience, including their contact information, cancellation details, satisfaction with the service, and potential improvements. The purpose of this form is to collect data that can inform future product development and customer support strategies. Before completing this form, please ensure that you are not duplicating a previous response, as this form is intended for customers who have not already provided feedback. If you have already submitted feedback, your response will be flagged as a duplicate, and your input will not be recorded.</thinking>
-
 # Cancellation Survey - Help Guide
 ## Purpose
 This form is designed to gather information from customers who have cancelled their service, allowing us to understand the reasons behind the cancellation and identify areas for improvement.

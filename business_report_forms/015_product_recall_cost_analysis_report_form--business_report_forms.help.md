@@ -1,9 +1,3 @@
-<thinking>
-This form is used for collecting information and tracking the costs associated with product recalls. 
-The form is designed to gather specific details about recalls, including the date and time they occurred, the product involved, and the costs incurred. 
-This form helps in keeping track of submission status, cost type, and category, which will aid in efficient management and analysis of product recalls and their financial impacts.
-</thinking>
-
 # Product Recall Cost Analysis Report Form - Help Guide
 ## Purpose
 This form is designed to collect and track information related to product recalls, including the costs involved. It helps in managing and analyzing the financial impacts of product recalls.

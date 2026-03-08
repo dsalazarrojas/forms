@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wholesale_business_data_collection_form_in_bengali - Help Guide
 ## Purpose
 The wholesale_business_data_collection_form_in_bengali is a form designed to collect business data from wholesale businesses. This form aims to gather information about the business details, product information, transaction details, and other relevant data from wholesale companies for analysis and decision-making purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and completion of the "Craft Workshop Waiver Form". The form is designed to collect information about participants in a workshop, including their personal details, emergency contact information, and waiver of liability. 
-This form is typically used in a workshop setting where participants may be required to provide their consent to participate. 
-
-Before starting the form, ensure you have all the necessary information and documents ready. It is crucial to fill out this form accurately and carefully to avoid any misunderstandings.
-
-</thinking>
-
 # Craft Workshop Waiver Form - Help Guide
 ## Purpose
 The "Craft Workshop Waiver Form" is designed to collect necessary information about participants in a workshop and to gather their consent to participate. 

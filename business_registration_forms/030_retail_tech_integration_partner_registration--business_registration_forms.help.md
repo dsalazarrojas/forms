@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from retail technology integration partners, such as their interests, integration process, and contact details. It seems to be a comprehensive form, covering various aspects of the partner's integration capabilities and preferences. Upon reviewing the fields, I noticed that most of them are optional, but it's still important to provide clear instructions to guide the user through the form.
-
-Before filling out the form, please ensure that you are submitting it for a legitimate purpose and not duplicating existing registration. This form is meant to help the company understand more about their integration partners and tailor services for them.</thinking>
-
 # retail_tech_integration_partner_registration - Help Guide
 ## Purpose
 This form is designed to collect information from retail technology integration partners. The collected data will help us understand their integration capabilities, interests, and preferences.

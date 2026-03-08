@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the Youth Resilience Program Application Form. Before proceeding, please note that this form is designed to gather information for the Youth Resilience Program, and it is recommended that users only complete the form if they have been referred or recommended by a healthcare professional or if they have a genuine interest in participating in the program. If you're unsure, please contact the program administrators to confirm eligibility.
-
-Also, please be aware that this form does not duplicate or copy content from any other platform, and it is an original adaptation based on publicly available information.
-
-</thinking>
-
 # Youth Resilience Program Application Form - Help Guide
 ## Purpose
 The Youth Resilience Program Application Form is designed to collect information from individuals who wish to participate in the Youth Resilience Program. The form aims to gather general information, contact details, and medical history to ensure that participants are eligible and prepared for the program.

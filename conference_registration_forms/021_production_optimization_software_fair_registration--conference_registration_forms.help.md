@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for attendees to register for the Production Optimization Software Fair. 
-The purpose of this form is to gather information about the attendees, their organizations, and their interests for the event. 
-The form will help the organizers to track the attendees' details and provide them with the necessary information about the event. 
-Before I start writing the help guide, I need to understand that this form is not affiliated with, endorsed by, or derived from any form platform, but it's an original adaptation using public survey topic metadata (title + industry/category). 
-This form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it. 
-Please note that the form is intended for registration purposes only and is not meant to copy, extract, or use proprietary content from any form creation, data collection, or survey platform. 
-</thinking>
-
 # Production Optimization Software Fair Registration - Help Guide
 ## Purpose
 This form is designed for attendees to register for the Production Optimization Software Fair. It is intended to gather information about the attendees, their organizations, and their interests for the event.

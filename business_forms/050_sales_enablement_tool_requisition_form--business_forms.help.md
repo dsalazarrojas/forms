@@ -1,7 +1,3 @@
-<thinking>
-The "Sales Enablement Tool Requisition Form" is designed to gather information about sales tools required by sales teams for their work. This form is meant to be completed by sales team members to provide a clear and concise request for the necessary tools and resources. The form ensures that the requested tools are properly categorized, assigned, and tracked, helping to improve sales team productivity and efficiency. Before filling out this form, please ensure that you are requesting a tool that is not already available or pending approval. This form should only be filled out when a new tool is required.
-</thinking>
-
 # Sales Enablement Tool Requisition Form - Help Guide
 ## Purpose
 The Sales Enablement Tool Requisition Form is used to request sales tools and resources required by sales team members. This form helps to streamline the process of requesting and managing sales tools, ensuring that team members can focus on their sales activities without distractions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lookbook Release Form - Help Guide
 ## Purpose
 The purpose of the Lookbook Release Form is to obtain permission from contributors to release their creative assets (e.g., images, videos, or other copyrighted materials) for use in a lookbook. A lookbook is a collection of creative assets used to showcase a brand's style and aesthetic.

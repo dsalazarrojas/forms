@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to be used for the cancellation process, where an employee can provide information about their reason for cancelling an event or appointment. This form should be used when the purpose is to collect details about the cancellation from the employee, and ensure that the cancellation is processed smoothly. 
-To use this form, you should only complete it if you are a registered employee of the organization and have a valid reason for cancellation. 
-
-Before proceeding, make sure you have a valid reason for cancellation and are not duplicating the cancellation request. 
-
-Please note that the form fields are for information purposes only and will be used to process your cancellation request.
-
-</thinking>
-
 # leave_cancellation_form - Help Guide
 ## Purpose
 The purpose of this form is to allow employees to provide information about their reason for cancellation of an event or appointment.

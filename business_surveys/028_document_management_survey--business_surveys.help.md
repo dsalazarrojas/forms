@@ -1,13 +1,3 @@
-<thinking>
-
-This form, titled "Document Management Survey," is designed to collect information from users about their document management habits, preferences, and challenges. It is intended to help identify areas of improvement for the document management system and ensure it meets the needs of its users.
-
-To be eligible to participate in this survey, you should be familiar with the current document management system and have experience handling documents in your work.
-
-Please note that the survey is designed to be self-explanatory, but if you have any questions or concerns, feel free to reach out to us for clarification.
-
-Before starting the survey, please ensure that you have not already completed it, as your responses will be considered invalid if you do so.</thinking>
-
 # Document Management Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your document management habits, preferences, and challenges. Your feedback will help us improve the document management system to better meet your needs.

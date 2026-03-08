@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information from applicants for the coaching program. It should be used to ensure that the applicant has a clear understanding of what to expect from the program and what the program entails. The form should not be used to gather unnecessary information or to duplicate existing data.
-</thinking>
-
 # Coaching Program Application Form - Help Guide
 
 ## Purpose

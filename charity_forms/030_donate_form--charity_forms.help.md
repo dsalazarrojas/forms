@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # donate-form-title - Help Guide
 ## Purpose
 The <b>donate-form-title</b> form is designed to collect donations for a charity. This guide will walk you through the process of completing the form, which helps us better understand the donor's details and preferences for their contribution.

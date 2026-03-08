@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Agreement Form - Help Guide
 
 ## Purpose

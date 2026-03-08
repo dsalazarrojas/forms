@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The purpose of this form is to gather information from workshop participants to obtain their consent for various forms of media and usage of their images, videos, and names. This form ensures that participants understand how their content will be used and shared, and it helps the organization to obtain necessary permissions for promotional, educational, and commercial purposes.
+> The purpose of this form is to gather information from workshop participants to obtain their consent for various forms of media and usage of their images, videos, and names. This form ensures that participants understand how their content will be used and shared, and it helps the organization to obtain necessary permissions for promotional, educational, and commercial purposes.
 
 The form will be reviewed for relevance and to prevent duplication of information.
 

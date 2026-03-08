@@ -1,6 +1,3 @@
-<thinking>
-The Field Fire Interest Survey is designed to gauge the interest and skills of users in the field fire domain. It aims to collect information on their previous experience, level of interest, and preferred tools or categories. The survey will help us understand the current state of the field fire community and identify areas where we can provide more support and resources. To ensure the survey is completed accurately, please only fill out the form if you have actual experience or interest in field fire projects. Please do not complete this survey for someone else or if you have no relation to the field fire domain. This survey is not intended to be a comprehensive or scientifically valid evaluation of your experience or interest. Its purpose is for internal usage to help us better understand our community.</thinking>
-
 # Field Fire Interest Survey - Help Guide
 ## Purpose
 The Field Fire Interest Survey is a tool to gauge your interest and skills in the field fire domain. It will help us understand the current state of our community and identify areas where we can provide more support and resources.

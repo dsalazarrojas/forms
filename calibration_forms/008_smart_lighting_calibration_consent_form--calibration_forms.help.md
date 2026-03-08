@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Lighting Calibration Consent Form - Help Guide
 ## Purpose
 This form is designed for users to provide their personal details for smart lighting calibration services. It is intended to be completed by individuals requesting calibration services for their smart lighting systems.

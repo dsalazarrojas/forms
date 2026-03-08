@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chiropractic Treatment Intake Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The Family Reunion Checklist Form is designed to gather essential information from family members to ensure a smooth and enjoyable experience for everyone involved in the family reunion. This form should only be filled out by family members who are planning to attend the reunion. If you're not sure if you're attending, please don't fill out the form until you've confirmed your attendance.
-
-When filling out this form, please make sure to complete all required fields. The fields are categorized into sections for ease of understanding. 
-
-</thinking>
-
 # Family Reunion Checklist Form - Help Guide
 ## Purpose
 The Family Reunion Checklist Form is a comprehensive tool to collect information from family members to plan and organize a family reunion effectively.

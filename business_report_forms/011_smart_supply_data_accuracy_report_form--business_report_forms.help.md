@@ -1,7 +1,3 @@
-<thinking>
-The form is used for reporting supply data accuracy issues. The purpose is to identify and document discrepancies or errors in the supply data. The form will be used by procurement teams to report any data issues they encounter during the supply chain process. This form is meant to be used for internal reporting purposes only.
-</thinking>
-
 # Smart Supply Data Accuracy Report Form - Help Guide
 ## Purpose
 This form is designed for procurement teams to report any data issues they encounter during the supply chain process. The goal is to ensure that the data accuracy is maintained and any discrepancies are addressed promptly.

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form's purpose and ensure it's not a duplicate. After checking, I understand that the form is for monitoring and tracking hardware usage across an organization, likely for maintenance, inventory, and asset management. Its purpose is to gather information on the current state of company assets, including usage history, issues, next user, and equipment status. This form is likely used by administrators, users, or managers to update asset information and track usage. Given its purpose, I'll create a comprehensive help guide for end-users to understand how to complete the form correctly.</thinking>
-
 # Hardware Usage Monitoring Checklist Form - Help Guide
 
 ## Purpose

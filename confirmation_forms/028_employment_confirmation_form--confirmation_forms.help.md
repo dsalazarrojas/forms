@@ -1,6 +1,3 @@
-<thinking>
-To confirm employment status, we must verify an individual's employment details. We don't want to duplicate this form for people already employed with the same employer and job title. If you're unsure, please consult with your supervisor or HR department.</thinking>
-
 # Employment Confirmation Form - Help Guide
 ## Purpose
 The purpose of this form is to confirm an individual's employment status, including their employment type, start and end dates, eligibility status, employer details, and job title.

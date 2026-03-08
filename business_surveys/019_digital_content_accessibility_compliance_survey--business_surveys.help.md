@@ -1,13 +1,3 @@
-<thinking> This form is used to collect information about the submission of digital content to the accessibility compliance team, ensuring that the content meets the necessary accessibility standards for users with disabilities. This form helps the team evaluate the accessibility of digital content and track its status.
-
-This form is designed for internal use and is not intended for public submission. The purpose of this form is to facilitate internal review and evaluation of digital content, and the fields are structured to guide the submitter in providing necessary information for the assessment.
-
-Before proceeding, please note that this form is not a public-facing form, and the information submitted will be reviewed internally.
-
-Please ensure that you have all the necessary information and approvals before submitting this form. If you are unsure about any aspect of the form, please reach out to the accessibility team for guidance.
-
-To fill out this form, follow the instructions below.</thinking>
-
 # Digital Content Accessibility Compliance Survey - Help Guide
 ## Purpose
 The Digital Content Accessibility Compliance Survey is a form used to evaluate and track the accessibility of digital content submitted to the accessibility compliance team.

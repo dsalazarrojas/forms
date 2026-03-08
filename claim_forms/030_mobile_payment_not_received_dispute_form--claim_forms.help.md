@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a comprehensive help guide for the "Mobile Payment Not Received Dispute Form", let's consider the following internal reasoning block:
 
 *   This form is designed to facilitate the resolution of disputes related to mobile payments that have not been received by the customer. The form should only be used when the customer has not received the payment from the merchant, and the dispute is still pending.

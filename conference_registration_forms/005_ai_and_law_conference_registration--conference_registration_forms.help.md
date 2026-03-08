@@ -1,7 +1,3 @@
-<thinking>
-This form is for attendees to register for the AI And Law Conference. It gathers information about attendees to provide personalized badges and facilitate their experience at the event. Ensure you complete it with accuracy and attention to detail. Please ensure that you're registering as the correct attendee and not duplicate a registration.
-</thinking>
-
 # AI And Law Conference Registration - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Entry Notification Form - Help Guide
 
 ## Purpose

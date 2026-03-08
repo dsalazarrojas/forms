@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, let's first understand its purpose and relevance. This form is designed to document the weekly findings and progress of experiments conducted by various teams, allowing team members to report their experiences and insights after each week. The form's purpose is to gather information about the experiment outcome, analysis, and progress, as well as any additional notes or comments. The form is not intended for daily or monthly reporting, but rather for summarizing the results of weekly experiments.
-
-Before proceeding with the actual help guide, we need to verify if this form is relevant to the intended audience. The form's content seems to be focused on experiment findings, which should be of interest to team members or researchers involved in experiments.
-
-The form does not appear to be a duplication of another form, but rather a unique tool for reporting experiment results. 
-
-</thinking>
-
 # Weekly Experiment Findings Report Form - Help Guide
 
 ## Purpose

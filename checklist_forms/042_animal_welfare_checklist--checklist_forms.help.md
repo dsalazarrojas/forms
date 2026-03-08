@@ -1,7 +1,3 @@
-<thinking>
-To determine if the Animal Welfare Checklist is relevant and not duplicating effort, we should first consider its purpose and scope. The form is designed to assess the living conditions, health, and overall well-being of animals in various facilities, such as animal shelters, rescue organizations, and farms. By evaluating factors like housing, nutrition, and behavioral care, the form aims to ensure that animals are being properly cared for and that facilities are meeting regulatory standards.
-</thinking>
-
 # Animal Welfare Checklist - Help Guide
 ## Purpose
 The Animal Welfare Checklist is a comprehensive tool used to evaluate the living conditions, health, and overall well-being of animals in various facilities. It helps to identify areas for improvement and ensures that facilities are meeting regulatory standards and providing adequate care for the animals.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding and completing the Driver Income Survey form. The purpose of the form is to collect information about a driver's income and work-related experiences. The form is designed to gather data on the driver's job type, annual income, weekly hours worked, weekly wages, job frequency, income source, income frequency, income range, financial stress, financial influence, job insecurity, financial safety, and income urgency.
-
-It is essential to complete this form accurately to ensure the data collected is reliable and useful for analysis. Please ensure that you have all the necessary information before completing this form.
-</thinking>
-
 # Driver Income Survey - Help Guide
 ## Purpose
 The Driver Income Survey is a tool designed to collect information about a driver's income and work-related experiences. This form will help gather data on various aspects of a driver's income and job, which will aid in providing insights and support to drivers.

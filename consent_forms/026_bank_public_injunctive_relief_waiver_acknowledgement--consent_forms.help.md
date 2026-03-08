@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to obtain a waiver from customers to prevent them from seeking public injunctive relief, which means they will not seek legal remedies that have the primary purpose of preventing harm to the general public. This waiver is likely used in banking or financial contexts where such relief is not allowed. The form appears to be used to ensure customers understand and agree to this waiver, which is a legal requirement. Please review the form carefully to ensure you understand its purpose and the implications of signing it.</thinking>
-
 # Bank Public Injunctive Relief Waiver Acknowledgement - Help Guide
 ## Purpose
 The Bank Public Injunctive Relief Waiver Acknowledgement form is used to obtain a waiver from customers to prevent them from seeking legal remedies that have the primary purpose of preventing harm to the general public. This waiver is typically used in banking or financial contexts where such relief is not allowed.

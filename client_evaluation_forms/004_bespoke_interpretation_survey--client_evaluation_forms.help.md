@@ -1,8 +1,3 @@
-<thinking>
-We are providing this survey form as a tool to gather feedback from clients on their experience with our interpretation services. This form is designed to collect ratings and comments on various aspects of our service, such as the interpreter's performance, accuracy, professionalism, and overall satisfaction. Please provide accurate and honest feedback, and do not feel obligated to complete all fields if not applicable. This survey is for internal evaluation purposes only and will help us improve our services for future clients.
-
-</thinking>
-
 # Bespoke Interpretation Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from clients on their experience with our interpretation services, including ratings and comments on various aspects of our service.

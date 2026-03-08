@@ -1,18 +1,3 @@
-<thinking>
-The digitalHealthPolicyResearchInterviewConsent form is designed to gather information about a participant's consent to participate in a research interview. The form is used to collect data on the participant's preferences and agreements, ensuring that the participant is aware of and consents to the research being conducted. This form is essential for obtaining informed consent from participants before starting the research interview.
-
-To complete this form, you will need to provide the following information:
-
-1. Participant Information: This section asks for basic information about the participant, which is mandatory.
-2. Research Team: You must select the research team conducting the interview.
-3. Consent: You will be asked to agree or disagree to participate in the research interview. This is also a mandatory section.
-4. Consent Date: While not mandatory, this field records the date of your consent.
-5. Recording Preference: You will be asked to choose whether you want to be recorded during the interview.
-6. Participant Consent: You need to provide a text-based consent for participating in the research.
-7. Participant Agreement: You will be asked to agree or disagree to participate in the research.
-
-</thinking>
-
 # digitalHealthPolicyResearchInterviewConsent - Help Guide
 ## Purpose
 This form is used to gather participant information and consent for a research interview.

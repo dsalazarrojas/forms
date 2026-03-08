@@ -1,14 +1,3 @@
-<thinking>
-This form is used for clubs to submit a final report on their grant, detailing their project's performance and outcomes. The form ensures that clubs provide necessary information about their grant activities, expenses, and achievements. It is essential for the grant committee to evaluate the clubs' projects and make informed decisions for future funding allocations.
-
-To ensure the form is filled out correctly and consistently, please note that:
-
-* The form is designed to be completed by club members or their designated representatives.
-* The form should be filled out in conjunction with the club's grant agreement and project timeline.
-* The club should keep in mind that the submitted report will be reviewed by the grant committee.
-
-</thinking>
-
 # Club Grant Final Report - Help Guide
 ## Purpose
 The Club Grant Final Report is a form used by clubs to submit their final report on their grant project. This report is essential for the grant committee to evaluate the project's performance and make informed decisions for future funding allocations.

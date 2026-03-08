@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist employees in completing the "Employee Decision Involvement Survey" form, which is used to gather feedback and opinions on their experiences with decision-making processes within the company. This survey aims to understand the level of involvement and satisfaction employees have with decision-making processes and provide insight into areas for improvement. It is essential to complete this form honestly, as the feedback will help managers and employees better understand the current state of decision-making processes and make data-driven decisions for future improvements.
-</thinking>
-
 # Employee Decision Involvement Survey - Help Guide
 ## Purpose
 The Employee Decision Involvement Survey is designed to collect feedback from employees on their experiences with decision-making processes within the company. This survey aims to gauge the level of involvement and satisfaction employees have with these processes, which will help managers and employees identify areas of improvement.

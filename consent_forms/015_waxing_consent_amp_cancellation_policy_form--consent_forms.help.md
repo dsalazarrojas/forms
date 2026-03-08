@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waxing Consent & Cancellation Policy Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from customers regarding the waxing policy and cancellation process of a business or service provider. This form ensures that customers are aware of the terms and conditions of cancellation, including any fees associated with it. By filling out this form, customers provide consent to the policy and acknowledge their understanding of the cancellation process.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect participant information and medical details for a guided snowmobile tour. The purpose of this form is to ensure that the participant has provided all necessary information for their safety during the tour. 
-
-To ensure accurate and safe operations, it's essential that we collect accurate participant information and emergency contact details. We also need to ensure that the participant's medical condition and treatment are properly documented.
-
-Before proceeding, please verify that you've reviewed the form carefully and answered all questions correctly. This form is not a duplicate of any existing form, and the information collected will only be used for the intended snowmobile tour.
-
-Please note that all required fields are marked as such in the form below.
-
-</thinking>
-
 # Snowmobile Tour Check In - Help Guide
 ## Purpose
 The Snowmobile Tour Check In form is designed to collect participant information and medical details for a guided snowmobile tour.

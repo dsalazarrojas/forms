@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Hanging Scale Recalibration Checklist form. The form is designed to track and manage the recalibration of hanging scales, ensuring that they are properly calibrated and certified. This guide will walk users through the purpose and completion of the form, highlighting each field's importance and required information. 
-</thinking>
-
 # Hanging Scale Recalibration Checklist - Help Guide
 ## Purpose
 The Hanging Scale Recalibration Checklist is used to collect and record essential information regarding the recalibration of hanging scales within the organization. This form helps maintain accurate records, ensuring that scales are recalibrated according to the set intervals and standards. Completing this form helps ensure that the scales are accurately calibrated and certified, ensuring accurate weighing and measurement results.

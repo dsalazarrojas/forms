@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block is here to help clarify the purpose and requirements of the form. This form is designed to gather information about cleaning services provided to clients. To prevent duplication of data and ensure consistency, it is recommended that each client has only one entry in the database. This form is meant for documenting the details of each cleaning service, including the date it was provided, the service address, client name, crew leader, and a comprehensive checklist of tasks completed during the service. The checklist covers vacuuming, mopping, dusting, bathroom cleaning, kitchen cleaning, window cleaning, mirror cleaning, trash removal, bedroom cleaning, living area cleaning, restocking of supplies, and any special tasks requested by the client. The final section is for client feedback and quality assurance.
-</thinking>
-
 # Cleaning Service Checklist - Help Guide
 
 ## Purpose

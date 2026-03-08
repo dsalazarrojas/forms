@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on consumer behavior and preferences related to golf shorts. The goal is to understand how women shop for golf shorts, what factors influence their purchase decisions, and what they consider when making purchases. This information will help our team better understand the market and improve our products and marketing strategies. Please make sure to complete the form accurately and honestly, as this will provide the most valuable insights.
-
-</thinking>
-
 # Women Golf Shorts Shopping Survey - Help Guide
 ## Purpose
 

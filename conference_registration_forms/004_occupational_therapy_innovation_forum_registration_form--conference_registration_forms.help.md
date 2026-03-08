@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registration purposes for the Occupational Therapy Innovation Forum. Its purpose is to collect information from potential attendees to manage their attendance and participation in the event. Please ensure you are attending the correct event before completing this form. If you're unsure, please contact the organizers for clarification.
-</thinking>
-
 # Occupational Therapy Innovation Forum Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from potential attendees for the Occupational Therapy Innovation Forum event.

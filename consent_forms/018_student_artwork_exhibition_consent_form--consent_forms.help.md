@@ -1,9 +1,3 @@
-<thinking>
-
-This form's purpose is to obtain consent from students to display their artwork in an exhibition. The form is likely used for educational purposes, such as showcasing student artwork in school exhibitions or art competitions. To complete this form, the student or their parent/guardian will likely need to provide contact information, artwork permission, submission details, and other relevant information. This form is not intended for general public submission; rather, it's for internal use within a school or educational institution.
-
-</thinking>
-
 # Student Artwork Exhibition Consent Form - Help Guide
 
 ## Purpose

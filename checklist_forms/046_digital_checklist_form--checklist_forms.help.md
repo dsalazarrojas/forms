@@ -1,10 +1,3 @@
-<thinking>
-The "Digital Checklist Form" is a comprehensive form designed to gather information from users about various aspects of a specific operation. This form is used to ensure that all necessary details are captured and documented for future reference and to facilitate efficient decision-making. To create this form, I will analyze the provided YAML structure and extract relevant information for the user to understand its purpose and usage.
-
-The form is composed of multiple pages, each focusing on a different aspect of operations (Operation, Operations Date, Start Time, Operation Location, Facilities, Facilities Date, Start Time, Facility Location, Teams, Teams Date, Start Time, Team Location, Note, and Note Field). This structure allows users to provide detailed information about their operations, facilities, and teams in a structured and organized manner.
-
-Each page is designed to be completed with specific fields such as select_one, select_multiple, date, time, text, and note types. The required and optional nature of each field will be clearly explained in the Field-by-Field Explanation section of this help guide.</thinking>
-
 # Digital Checklist Form - Help Guide
 
 ## Purpose

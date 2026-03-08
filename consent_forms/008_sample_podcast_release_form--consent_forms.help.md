@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sample Podcast Release Form - Help Guide
 ## Purpose
 This form is a consent form for podcast creators to obtain permission from their guests to release the recording of their episode. It is an original form created using AI and is not affiliated with any form platforms.

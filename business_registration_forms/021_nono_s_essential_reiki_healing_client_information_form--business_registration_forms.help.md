@@ -1,14 +1,3 @@
-<thinking>
-Internal reasoning block: This form is a client registration form for a Reiki healing business. The form collects essential information from clients, including their name, contact email, phone number, and address. The form is designed to be completed by clients when they first register with the business. 
-
-Form purpose: The form is meant to be used to collect and store client information in a centralized database. This allows the business to communicate with clients effectively and provide them with relevant services.
-
-Relevance: The form is relevant to the business's day-to-day operations, as it helps the business understand its client base and provide them with personalized services. 
-
-Non-duplication: This form does not duplicate any other form that already exists in the business's system. 
-
-</thinking>
-
 # Nonos_Essential_Reiki_Healing_Client_Information_Form - Help Guide
 
 ## Purpose

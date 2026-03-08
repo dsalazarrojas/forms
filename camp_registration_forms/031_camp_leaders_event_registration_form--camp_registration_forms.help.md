@@ -1,16 +1,3 @@
-<thinking>
-This help guide will guide users through the process of completing the Camp Leaders Event Registration Form. It's essential to ensure that each form is filled accurately and efficiently. Before proceeding, it's worth considering that this form is designed to capture specific information about camp leaders attending events, and its fields should be filled accordingly. If you're familiar with the form's purpose and its intended use, feel free to skip this section.
-
-The form is meant for registering camp leaders for events such as Leadership Summits, workshops, and conferences. It's a crucial tool for event organizers to gather necessary information for logistics, accommodations, and participant engagement. Each field should be filled as it relates to the specific event type and requirements. If you're unsure about any field, consider the event description and the context provided.
-
-This guide will walk you through each field, ensuring you complete the form correctly and efficiently. 
-
-Please note that some fields are optional, and you should only fill them if applicable. If you're unsure, it's always better to err on the side of caution and leave it blank.
-
-The following guide covers each field of the form in a step-by-step manner.
-
-</thinking>
-
 # Camp Leaders Event Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the process of filling the Camp Leaders Event Registration Form, covering each field's explanation and requirements.

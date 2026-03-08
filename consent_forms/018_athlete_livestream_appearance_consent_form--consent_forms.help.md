@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athlete Livestream Appearance Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theme Cake Order Form - Help Guide
 
 ## Purpose

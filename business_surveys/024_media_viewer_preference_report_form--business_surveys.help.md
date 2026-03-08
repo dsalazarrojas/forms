@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on media viewer preferences and viewing habits from teams. The goal is to provide insights for data-driven decision making and improve media viewer experience. This form is part of a larger suite of tools used to collect and analyze data on audience engagement and preferences. To ensure that this form is filled out accurately and efficiently, review the fields carefully before starting.
-</thinking>
-
 # media_viewer_preference_report_form - Help Guide
 ## Purpose
 The Media Viewer Preference Report Form is used by teams to collect data on media viewer preferences and viewing habits, providing valuable insights for data-driven decision making and improving media viewer experience.

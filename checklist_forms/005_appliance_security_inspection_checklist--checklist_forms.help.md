@@ -1,9 +1,3 @@
-<thinking>Before we dive into the help guide for the Appliance Security Inspection Checklist form, let's quickly review the purpose and context of this form. This form is likely used to assess the safety and security of appliances, such as refrigerators, ovens, and washing machines, in a workplace or facility. The purpose of the form is to ensure that these appliances are properly checked and maintained to prevent accidents and ensure overall safety. The form likely serves as a guide for inspectors to follow during their inspections, providing them with a structured format to document their findings and recommend any necessary repairs or maintenance.
-
-This form appears to be a comprehensive checklist that covers various aspects of appliance safety and security, including electrical cord and plug condition, grounding, clearance from combustibles, ventilation status, control knobs and buttons functionality, and leak inspections. The form also includes sections for documenting overall safety ratings and any repairs or maintenance required.
-
-With this understanding, let's create the help guide for the Appliance Security Inspection Checklist form.</thinking>
-
 # Appliance Security Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to guide inspectors through a structured process to assess the safety and security of various appliances in a workplace or facility. This form ensures that all critical aspects of appliance safety are evaluated and documented, helping to prevent accidents and maintain overall safety.

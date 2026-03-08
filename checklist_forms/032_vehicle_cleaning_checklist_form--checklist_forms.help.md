@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the vehicle's cleaning status. It is intended to be filled out by the maintenance team after they have completed cleaning tasks on a vehicle. The form is divided into several sections that cover different aspects of the vehicle's condition. The form asks for information such as the number of days the vehicle was cleaned, the areas of the vehicle that were cleaned, and any additional comments or observations. The purpose of this form is to provide a clear and concise record of the vehicle's cleaning history, making it easier for the maintenance team to track progress and ensure that cleaning tasks are being completed consistently and thoroughly.
-</thinking>
-
 # Vehicle Cleaning Checklist Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the vehicle's cleaning status after cleaning tasks have been completed.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about the effectiveness of strategic decisions made within a business context. It is likely used to evaluate and improve decision-making processes and identify areas for improvement. The form should not be used to collect sensitive or personal data and should be completed by authorized personnel only. 
-</thinking>
-
 # Strategic Decision Effectiveness Survey - Help Guide
 ## Purpose
 The Strategic Decision Effectiveness Survey is a tool used to evaluate the effectiveness of strategic decisions made within a business context. It collects information on various aspects of decision-making processes, such as the level of difficulty in making a decision, the perceived effectiveness of the decision, and the communication and execution of the decision.

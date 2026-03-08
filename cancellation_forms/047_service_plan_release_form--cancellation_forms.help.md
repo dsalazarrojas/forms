@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Plan Release Form - Help Guide
 
 ## Purpose

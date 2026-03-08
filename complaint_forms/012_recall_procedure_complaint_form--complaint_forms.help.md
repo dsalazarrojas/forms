@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recall procedure complaint form - Help Guide
 ## Purpose
 This form is designed to collect information about the recall procedure complaints. It's a tool for users to provide feedback and report issues related to a product or procedure. The goal is to help the relevant teams identify and address problems, ensuring the highest quality standards are maintained.

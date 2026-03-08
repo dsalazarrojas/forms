@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be designed for obtaining consent from clients for lash extension procedures in a salon setting. It appears to be a form that collects information and signature from both the client and the technician involved in the procedure.
-
-To confirm, the form is meant to be completed by the client, and it contains sections for customer information, procedure details, risks, benefits, client consent, technician information, salon information, client signature, and other relevant details. The form seems to be primarily used for administrative purposes and to ensure that the client is aware of the risks and benefits of the procedure.
-
-Let me know if this is correct!</thinking>
-
 # Eyelash Extension Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from clients for lash extension procedures. It is meant to ensure that clients are aware of the risks and benefits associated with the procedure and to provide a record of the client's consent.

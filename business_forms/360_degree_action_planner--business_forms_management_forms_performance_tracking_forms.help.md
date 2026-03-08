@@ -1,5 +1,3 @@
-<thinking>As a 360 Degree Action Planner, it's essential to understand the context and purpose of this form. This form is designed to gather information about your personal and professional goals, as well as your experience with the 360 Degree Action Planner tool. Please note that all fields are required unless specified otherwise. The form is divided into two main sections: "Personal and Plan Details" and "Feedback on Planner Tool". Your input will help us better understand your needs and improve the tool for future users.</thinking>
-
 # 360 Degree Action Planner - Help Guide
 ## Purpose
 The 360 Degree Action Planner is a tool designed to help you plan and track your goals and objectives. This form is used to gather information about your personal and professional details, as well as your experience with the tool.

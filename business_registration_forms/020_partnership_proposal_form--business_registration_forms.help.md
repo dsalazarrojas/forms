@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from business entities interested in partnering with our company. The form will be used to store and evaluate partnership proposals. It is intended for business use only and will not be shared with external parties. Please ensure that all required fields are filled out accurately and completely. This form is meant to be a standard template, do not modify the field labels or descriptions.
-
-</thinking>
-
 # Partnership Proposal Form - Help Guide
 ## Purpose
 The Partnership Proposal Form is used to collect partnership information from businesses interested in collaborating with our company. It helps us understand the business and partner's details, terms, and conditions.

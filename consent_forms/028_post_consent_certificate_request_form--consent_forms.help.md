@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to complete a form to request a post-consent certificate. The guide will cover the purpose of the form, how to fill out the form, and an explanation of each field.
-</thinking>
-
 # Post Consent Certificate Request Form - Help Guide
 ## Purpose
 This form is used to request a post-consent certificate from the project administrators. A post-consent certificate is typically used to confirm that a participant has given their consent to participate in a project or program. This form is used by project administrators to ensure that all necessary consents have been obtained before proceeding with the project.

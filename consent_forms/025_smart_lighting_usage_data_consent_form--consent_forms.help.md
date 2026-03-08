@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect user consent for the usage data of smart lighting systems. This data will be used to improve the performance and functionality of the smart lighting systems.
-Before filling out this form, please ensure that the data you provide is accurate and up-to-date. 
-The form will be used for legitimate purposes and the data will not be shared with any third party. 
-Please fill out this form carefully and thoroughly to avoid any mistakes.
-The form will be stored in our secure database and access will be limited to authorized personnel.
-</thinking>
-
 # Smart Lighting Usage Data Consent Form - Help Guide
 ## Purpose
 The Smart Lighting Usage Data Consent Form is used to collect user consent for the usage data of smart lighting systems. This data will be used to improve the performance and functionality of the smart lighting systems. The form is designed to be filled out by users to provide their contact information and consent for the data collection.

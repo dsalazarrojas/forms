@@ -1,11 +1,3 @@
-<thinking>
-This form is used to process changes and updates to an account's automotive enrollment. It is meant to be used by customers to initiate a change to their existing enrollment, such as updating vehicle information or adding/removing coverage. This form is not meant to be used for routine inquiries or general information requests.
-Before submitting this form, please ensure that:
-* You are submitting a valid and legitimate request, as indicated by the "Request Type" field.
-* You have attached any relevant supporting documents as indicated by the "Supporting Documents Attached" field.
-* You have authorized the changes made by selecting "Yes, I authorize" for the "I authorize these changes to my account" field.
-</thinking>
-
 # Automotive Enrollment And Change Form - Help Guide
 ## Purpose
 This form is used to process changes and updates to an account's automotive enrollment.

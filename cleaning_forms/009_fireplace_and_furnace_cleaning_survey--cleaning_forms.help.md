@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a customer's experience with a fireplace and furnace cleaning service. The form is designed to gather feedback and opinions from customers about the service they received. The purpose of this form is to help improve the service quality and identify areas for improvement. Before proceeding, please ensure that you have not already completed this form for the same service date as it would be considered a duplicate submission. If you are unsure about any of the fields or their purpose, please do not hesitate to ask for clarification or assistance.
-</thinking>
-
 # Fireplace And Furnace Cleaning Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from customers about their experience with a fireplace and furnace cleaning service. Your input will help us identify areas for improvement and ensure that we provide the best possible service to our customers.

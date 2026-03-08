@@ -1,11 +1,3 @@
-<thinking>
-The Wheelchair Repair Form is used to document the repair process and details of a wheelchair. It is meant to be completed by the wheelchair's user or repair technician to provide a record of the work done. The form should only be used for wheelchairs that are being repaired, and not for other types of equipment or services. 
-
-This form can be used for multiple purposes, but it is most useful when there are multiple repairs needed for the same wheelchair. In that case, each repair will have its own entry in the form. If a wheelchair has never been repaired before, a new form will be created with the initial details. 
-
-Before starting the form, check if a similar form already exists. If a form already exists for this wheelchair, do not create a new one. 
-</thinking>
-
 # Wheelchair Repair Form - Help Guide
 ## Purpose
 The Wheelchair Repair Form is used to document the repair process and details of a wheelchair.

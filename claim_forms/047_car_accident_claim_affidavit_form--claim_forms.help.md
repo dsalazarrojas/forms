@@ -1,5 +1,3 @@
-<thinking>... This form is for claiming damages or losses related to a car accident. This form is required to be filled out accurately and completely to ensure that all necessary information is provided. Please ensure that you have all necessary documents, records, or evidence available before completing this form. If you need help with any part of this form, please seek assistance from a trusted advisor or authority. ...</thinking>
-
 # Car Accident Claim Affidavit Form - Help Guide
 ## Purpose
 This form is for claiming damages or losses related to a car accident. It is required to be filled out accurately and completely to ensure that all necessary information is provided.

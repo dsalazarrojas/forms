@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for dealer registration, which is a crucial process for dealers to become registered with a company or organization. This process helps ensure that dealers can access various benefits, discounts, or services offered by the company. 
-
-It's essential to complete this form accurately and carefully to avoid any errors or discrepancies. The form includes various fields that require specific information about the dealer. This guide will help you understand each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Dealer Registration Form - Help Guide
 ## Purpose
 The Dealer Registration Form is a required form to register a dealer with our company. It helps us to verify your identity and ensure that you have the necessary information to become a registered dealer.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the roles and responsibilities within the Treasury department. The purpose is to clarify and understand the different aspects of treasury roles, including reporting, financial planning, and risk management. This form is likely used for internal purposes, such as creating a comprehensive view of the department's capabilities and areas of improvement. Before filling out this form, please ensure that you are familiar with the questions and that your responses are accurate and relevant to your role in the Treasury department.
-</thinking>
-
 # Treasury Role Clarity Survey - Help Guide
 ## Purpose
 This survey aims to gather information about the roles and responsibilities within the Treasury department, helping to create a clear understanding of the department's capabilities and areas for improvement.

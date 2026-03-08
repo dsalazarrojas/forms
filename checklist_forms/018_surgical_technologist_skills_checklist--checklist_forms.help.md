@@ -1,16 +1,3 @@
-<thinking>
-
-This form is intended to assess the skills and competencies of surgical technologists in various aspects of their work. It appears to be a comprehensive checklist for evaluating their abilities in medical settings. The form consists of multiple fields covering areas such as medical skills like medical facial plexus, medical finger, and medical hand, to teamwork and leadership skills. Each field is categorized under select_one or select_multiple options, indicating that users need to choose one or multiple options for each field, respectively.
-
-The form likely has a dual purpose:
-
-1.  **Assessment and Evaluation**: The form is designed to help evaluate the skills and knowledge of surgical technologists, possibly for certification, promotion, or performance reviews.
-2.  **Documentation and Record-Keeping**: It might also be used for documenting and tracking the skills and competencies of surgical technologists, providing a record of their progress and development.
-
-To ensure the form is completed accurately and effectively, it's crucial to understand each field's intent and purpose.
-
-</thinking>
-
 # Surgical Technologist Skills Checklist - Help Guide
 ## Purpose
 

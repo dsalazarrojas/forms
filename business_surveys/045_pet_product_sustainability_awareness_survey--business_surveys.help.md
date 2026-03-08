@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will carefully review the provided YAML fields to understand the purpose of the form and create a user-facing help guide. The form "Pet Product Sustainability Awareness Survey" likely aims to collect data on pet owners' habits and awareness regarding eco-friendly products and sustainability. This guide will explain the form's purpose, how to complete it, and what each field means, making it easy for end-users to understand and fill out the form accurately.</thinking>
-
 # Pet Product Sustainability Awareness Survey - Help Guide
 
 ## Purpose

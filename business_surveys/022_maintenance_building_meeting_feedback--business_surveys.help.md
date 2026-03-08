@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for collecting feedback from participants after a meeting, specifically from a maintenance building meeting. It is intended to gauge the effectiveness of the meeting, gather information about attendance and engagement, and track action items and follow-up tasks. This form should help you understand the purpose of the meeting, whether participants were present, the topics discussed, and any actions that need to be taken. It also allows you to record the status of these actions and follow up with participants.
-</thinking>
-
 # Maintenance Building Meeting Feedback - Help Guide
 ## Purpose
 This form helps you collect feedback from participants after a maintenance building meeting. It's essential to provide accurate and relevant information about the meeting, including attendance, discussion topics, and action items. By filling out this form, you'll help improve future meetings and ensure that tasks are followed up on.

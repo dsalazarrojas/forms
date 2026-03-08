@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by educational institutions to partner with our organization. It is a required form for all new partnerships. The form is designed to collect relevant information about the partner institution, including their contact information and a signature page to confirm their consent to the partnership terms.
-
-To avoid duplication, please ensure that you have not already submitted this form for the same institution.
-
-When completing this form, please ensure that all required fields are filled in accurately and thoroughly. This includes the user's name, email, role, institution name, contact number, and signature on the last page.
-</thinking>
-
 # Educational Institution Partnership Consent Form - Help Guide
 ## Purpose
 This form is a partnership consent form for educational institutions to partner with our organization. It collects essential information about the partner institution, including contact details and a signature page confirming their consent to the partnership terms.

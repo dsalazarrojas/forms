@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure the catering services inquiry form is used correctly and efficiently, it's essential to understand its purpose and the information required from users. This form is designed to gather details about an event or occasion that requires catering services, allowing us to provide the best possible experience and services for the client. The form aims to collect contact information, event details, dietary needs, and other preferences to tailor our services according to their needs. By filling out this form, clients will be able to get a clear quote and plan for their event.
-
-</thinking>
-
 # Catering Services Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information about an event or occasion that requires catering services. It helps us understand your needs and preferences to provide the best possible experience and services for you.

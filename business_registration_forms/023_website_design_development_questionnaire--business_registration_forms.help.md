@@ -1,16 +1,3 @@
-<thinking>
-The form "Website Design & Development Questionnaire" is used by businesses to provide information about their business, including name, category, description, contact details, social media profiles, and other relevant details. 
-
-The purpose of this form is to gather information necessary for website design and development services, such as determining the scope of the project, understanding the business' online presence, and establishing communication channels.
-
-This guide helps ensure that the required information is gathered accurately and consistently, reducing the need for clarification and follow-up questions. 
-
-Before proceeding, please review the fields below carefully and ensure you're providing accurate and complete information. 
-
-This guide will walk you through each field, explaining its purpose and any required information. 
-
-</thinking>
-
 # Website Design & Development Questionnaire - Help Guide
 ## Purpose
 

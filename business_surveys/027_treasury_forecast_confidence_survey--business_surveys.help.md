@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # treasury_forecast_confidence_survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their confidence in their business forecast. The purpose of this form is to understand the current state of user's confidence in their forecast and identify areas that need improvement.

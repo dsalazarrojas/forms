@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect client information and consent for tattoos. It is designed to gather relevant details about the client, including their contact preferences and medical history. This form is intended to be completed by the client prior to tattooing.
-</thinking>
-
 # Tattoo Consent Form - Help Guide
 ## Purpose
 This form is used to collect necessary information from clients before they receive a tattoo. It helps the artist understand the client's medical history, contact preferences, and tattoo placement to ensure a safe and successful tattooing experience.

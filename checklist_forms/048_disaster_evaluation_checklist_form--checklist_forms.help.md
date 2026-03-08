@@ -1,5 +1,3 @@
-<thinking>
-**Is this form for evaluating a disaster or emergency scenario? Is it meant to be used in a disaster or emergency context? Are there any specific requirements or restrictions for completing this form? Is the form for general use or specialized use? Are there any specific fields that have unique requirements or restrictions?</thinking>
 # disaster_evaluation_checklist_form - Help Guide
 ## Purpose
 This form is designed for evaluating a disaster or emergency scenario. It is intended to gather information from individuals or organizations that have been affected by a disaster or emergency situation.

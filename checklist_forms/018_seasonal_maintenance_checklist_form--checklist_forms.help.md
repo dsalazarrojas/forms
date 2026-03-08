@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a seasonal maintenance checklist. The purpose of this form is to help property managers, owners, or caretakers track and record important maintenance tasks for a specific property during different seasons. This form should be used to gather information on the tasks to be performed, when they were last updated, and other relevant details for a property. It's a critical tool for property maintenance and upkeep. 
-
-Before we dive into the form's details, let's verify that the form's name is "Seasonal Maintenance Checklist Form". We also confirm that the form has multiple pages but only one page is visible on the current instance.
-</thinking>
-
 # Seasonal Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect and record seasonal maintenance tasks for properties. It helps property managers, owners, or caretakers to track and manage tasks effectively.

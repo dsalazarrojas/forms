@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from customers for healthy and affordable food product orders. Its purpose is to enable customers to select their preferred items and provide any special requests they may have. The form also collects contact information and delivery date to facilitate the order process.
 
 # healthy-and-affordable-food-product-order-form - Help Guide

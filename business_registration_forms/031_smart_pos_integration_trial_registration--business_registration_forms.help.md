@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assist businesses in registering for a smart POS (Point of Sale) integration trial. The form collects information about the business and its POS system, aiming to gather essential details for the trial process.
 
 Before proceeding, please ensure you're eligible to complete this form. This includes:

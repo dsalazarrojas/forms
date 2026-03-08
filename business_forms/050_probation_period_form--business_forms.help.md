@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about an employee's probation period, which is a temporary period of observation or trial period given to new employees to assess their performance and potential fit within the organization. This form is typically used by HR or management teams to track and record relevant details about the employee's progress during this time.
 
 </thinking>

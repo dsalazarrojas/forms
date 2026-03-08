@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for employees to participate in a company-wide Diversity Program Awareness Survey. The purpose of this survey is to gauge employees' levels of awareness, participation, and suggestions regarding the company's diversity and inclusion programs.
-To avoid duplicate surveys, please only submit the form once per employee.
-</thinking>
-
 # Diversity Program Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your perceptions and experiences with our company's diversity and inclusion programs.

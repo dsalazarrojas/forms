@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is used to track and record manufacturing training progress and feedback. It captures essential information such as training completion status, date, and hours spent, as well as comments and feedback from supervisors and safety teams. This form should be used by operators, trainers, and supervisors to keep up-to-date records of training activities. 
-Please ensure that the form is not used for multiple purposes or duplicated, as it is designed to maintain accurate and consistent records.
-</thinking>
-
 # Manufacturing Training Checklist - Help Guide
 ## Purpose
 This form is designed to track and record manufacturing training progress and feedback.

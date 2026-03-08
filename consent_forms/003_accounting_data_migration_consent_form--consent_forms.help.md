@@ -1,26 +1,3 @@
-<thinking>
-
-Before creating this form, I need to ensure the purpose and relevance of the "Accounting Data Migration Consent Form". This form is used to obtain consent from clients for the migration of their accounting data to a new system. It seems to be a critical process that involves transferring sensitive financial information, and therefore, it's essential to have a clear understanding of the client's authorization and agreement on the process.
-
-Let me review the form fields again to provide a comprehensive help guide:
-
-The form consists of the following fields:
-
-*   Client Name: The client's full name or company name.
-*   Current System Name: The current accounting system being used, e.g., QuickBooks Desktop.
-*   New System Name: The new system the data is being migrated to, e.g., Xero Cloud.
-*   Data Types to Migrate: A selection of categories of data to be transferred, such as General Ledger, Accounts Payable, etc.
-*   Migration Start Date: The proposed date to begin the data transfer.
-*   Authorization and Risks --: A note field to acknowledge the risks associated with data migration.
-*   Data Integrity Acknowledgment: A selection to agree or decline the data migration process.
-*   Emergency Contact During Migration: A field to specify a person to contact in case of issues.
-*   Emergency Phone: A field to provide a direct line for emergency contact.
-*   Notification Email: A field for status updates to be sent.
-*   Authorization Date: The date of authorization.
-*   Authorized Signature: A field to type the name to authorize the migration.
-
-</thinking>
-
 # Accounting Data Migration Consent Form - Help Guide
 ## Purpose
 

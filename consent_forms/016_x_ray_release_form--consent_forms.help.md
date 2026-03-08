@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be intended for medical professionals or healthcare staff to document patient information and X-ray details, authorization, and dates related to X-ray procedures. It's likely used for internal documentation and record-keeping purposes within a medical facility. To avoid duplication and ensure accuracy, fill out this form with attention to detail, ensuring all required fields are filled correctly. This form should only be completed by authorized personnel.
-</thinking>
-
 # X RAY Release Form - Help Guide
 ## Purpose
 The X RAY Release Form is used to document patient information, X-ray details, authorization, and dates related to X-ray procedures.

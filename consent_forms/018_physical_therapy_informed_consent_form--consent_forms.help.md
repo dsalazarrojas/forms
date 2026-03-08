@@ -1,11 +1,3 @@
-<thinking> 
-
-This help guide is for the Physical Therapy Informed Consent Form, which is a crucial document that patients need to fill out before starting physical therapy sessions. The purpose of this form is to gather essential information about the patient, ensure they understand the treatment plan, and obtain their consent for the therapy process.
-
-Before proceeding, please ensure you have not filled out this form in the past 24 hours. If you have, you can simply reuse the existing answers instead of filling out the form again.
-
-</thinking>
-
 # Physical Therapy Informed Consent Form - Help Guide
 ## Purpose
 The Physical Therapy Informed Consent Form is a document that patients need to fill out before starting physical therapy sessions. It is designed to ensure that you understand the treatment plan, the risks and benefits, and your rights as a patient.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to conduct quality assurance checks on various aspects of a business or organization, including customer service, employee procedures, and standard operating procedures. The purpose of this form is to verify that the quality assurance checks are being performed regularly to ensure that the organization is meeting its quality standards.
-
-To prevent the form from being duplicated or used in place of other similar forms, it is recommended to only use this form for its intended purpose.
-
-It would be helpful to review the current state of the quality assurance checks and update this form to reflect any changes or additions to the checks being performed.
-
-</thinking>
-
 # Quality Assurance Check Form - Help Guide
 
 ## Purpose

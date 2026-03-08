@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Podcast Production Survey" form. This form is designed to collect information about podcast shows, specifically targeting producers. The form is meant to gather details such as show title, producer contact information, show category, episode frequency, and other relevant production details. This form will likely be used by producers to submit their show information for review, review, and planning purposes within the company. This guide will ensure that end-users understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # Podcast Production Survey - Help Guide
 ## Purpose
 This form is used by producers to submit their podcast show information for review and planning purposes within the company. It will help our team understand your show's title, producer contact details, production requirements, and target audience details.

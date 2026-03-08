@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to ensure that all necessary safety measures are in place in a lab environment to maintain a safe working environment for researchers and scientists. To use this form effectively, please make sure to fill it out completely and accurately. This form should not be used for duplicate or unnecessary submissions.
-</thinking>
-
 # Lab Safety Checklist Form - Help Guide
 ## Purpose
 The Lab Safety Checklist Form is a comprehensive tool used to evaluate the safety conditions in a laboratory setting. It helps to identify and document any safety hazards or issues that need to be addressed.

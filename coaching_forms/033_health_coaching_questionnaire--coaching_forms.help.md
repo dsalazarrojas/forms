@@ -1,7 +1,3 @@
-<thinking>
-This form is a health coaching questionnaire aimed at understanding the user's current health concerns, goals, and habits. It is not intended to be a comprehensive medical assessment, but rather a tool to help health coaches or professionals gauge the user's health status and provide guidance and support. Please note that this form is not meant to diagnose or treat any medical conditions. Users should consult their healthcare provider for personalized medical advice. This form is meant to be a starting point for coaching or guidance, not a substitute for medical care.
-</thinking>
-
 # health_coaching_questionnaire - Help Guide
 
 ## Purpose

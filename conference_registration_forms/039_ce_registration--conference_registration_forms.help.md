@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for the Continuing Education (CE) Event Registration. It is essential to ensure that you provide accurate and complete information to secure your spot for the event and receive your certificate. Please review each field carefully and provide the required information to complete the form correctly. If you have any questions or concerns, please contact the event organizers directly. This guide will walk you through each field's purpose and required information to help you complete the form successfully.
-
-</thinking>
-
 # Continuing Education (CE) Event Registration - Help Guide
 
 ## Purpose

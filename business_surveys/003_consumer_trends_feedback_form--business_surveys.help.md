@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from consumers on their shopping habits and preferences. It gathers information on demographics, shopping behavior, product categories, factors influencing brand choice, and more. This form aims to understand how consumers make purchasing decisions and what factors influence their behavior. The goal is to gather insights that can help businesses and organizations understand consumer trends and preferences. Before starting, please check that you are not already participating in this survey and do not have any conflicts of interest.
-</thinking>
-
 # Consumer Trends Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from consumers on their shopping habits and preferences, providing insights to businesses and organizations on how to improve their products and services.

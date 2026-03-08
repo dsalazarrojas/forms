@@ -1,10 +1,3 @@
-<thinking>
-The AI-generated Student Device Check In Form is designed to gather essential information about student devices during check-in and check-out procedures. This form aims to streamline the process of tracking device usage, ensuring accurate records are kept, and promoting efficient asset management. The form collects data on device types, configurations, student IDs, names, and other relevant details. It also allows for optional notes and check-in/check-out status updates. The purpose of this form is to standardize and simplify the device management process, reducing administrative tasks and promoting a seamless experience for students and administrators.
-
-This guide will walk you through the form's fields, providing a detailed explanation for each section to help users understand its intended use and how to fill it out correctly.
-
-</thinking>
-
 # Student Device Check In Form - Help Guide
 ## Purpose
 The Student Device Check In Form is designed to collect essential information about student devices during check-in and check-out procedures.

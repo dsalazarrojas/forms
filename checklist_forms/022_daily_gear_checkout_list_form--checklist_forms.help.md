@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track the daily gear checkout list for employees or users within an organization. It is likely intended for use by administrators or departmental heads to keep track of borrowed gear and its condition, status, and usage history. Before using this form, ensure that the data it collects aligns with your organization's policies on gear usage and inventory management.
-
-To confirm that this form will be used to track gear checkouts, it may be a good idea to review your organization's procedures and policies regarding equipment usage and tracking.
-</thinking>
-
 # Daily Gear Checkout List Form - Help Guide
 ## Purpose
 This form helps track the daily gear checkout list for employees or users within an organization.

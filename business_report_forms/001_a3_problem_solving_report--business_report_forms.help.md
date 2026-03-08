@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's ensure that the form is well-understood by the end-user. This form, "A3 Problem Solving Report," is designed to help teams address and resolve issues efficiently. The form's primary goal is to collect information about problems that need to be addressed, identify their root causes, and propose countermeasures to resolve them. It appears to be a tool for teams to document, analyze, and track progress on problems that affect business operations. Let's review its fields to ensure each one makes sense in this context:</thinking>
-
 # A3 Problem Solving Report - Help Guide
 ## Purpose
 The A3 Problem Solving Report is a tool for teams to document and analyze issues affecting their operations. It guides the process of problem identification, analysis, and resolution.

@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that effectively explains the purpose and usage of the Character Statistics Tracker form. I will carefully review the provided YAML fields to ensure a clear and concise explanation of each field's purpose and expected input.
-
-To start, I need to understand that the form is meant to track character statistics, primarily for role-playing games or similar activities. Each field is carefully crafted to collect specific information that reflects the character's progress and experiences during a session. The form is likely used by game masters or administrators to keep track of player statistics across multiple sessions.
-
-Now, I will create the help guide according to the provided YAML structure and requirements.</thinking>
-
 # Character Statistics Tracker - Help Guide
 ## Purpose
 This form is designed to track character progress and statistics across multiple sessions in role-playing games or similar activities. The purpose of this form is to provide an easy and organized way to keep track of character data, including levels, experience points, health, and other relevant information.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about public service requests, allowing users to provide detailed descriptions of their requests, including details about the service requested, service details, and supporting information such as dates, times, and contact details. 
-This form is not intended for any specific business use-case, but rather as a general guide for end-users. 
-Each field should be filled in according to the user's actual need to provide a clear and comprehensive public service request.
-</thinking>
-
 # public_service_request_information_form - Help Guide
 ## Purpose
 This form is used to collect information about public service requests, including details about the service requested, supporting information, and contact details.

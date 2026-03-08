@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # elevator_inspection_form - Help Guide
 ## Purpose
 The elevator inspection form is designed to help users track and record elevator inspections. It captures essential information about the inspection, including date, elevator type, and status, as well as maintenance and safety-related data.

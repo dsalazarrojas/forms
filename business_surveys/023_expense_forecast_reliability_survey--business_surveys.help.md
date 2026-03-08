@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect demographic and forecasting data from users. The purpose of this form is to gather information about the user's personal characteristics, such as age, income range, job type, and job industry, to better understand their forecasting accuracy and submission frequency. This data will help us to improve our expense forecasting process. 
-
-This guide will walk you through each section of the form, explaining what each field means and how to complete it.
-
-</thinking>
-
 # Expense Forecast Reliability Survey - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form appears to be a comprehensive checklist for verifying information about an individual or entity, likely for employment or financial purposes. The form includes sections on background checks, contact details, employment history, social media, addresses, education, and more. The purpose of this form is to gather information from the individual or entity being verified, to confirm their background, employment history, and other relevant details. This form may be used by organizations or companies to conduct thorough background checks or verify employment history for potential employees or clients.
-
-</thinking>
-
 # Source Verification Checklist - Help Guide
 
 ## Purpose

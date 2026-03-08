@@ -1,8 +1,3 @@
-<thinking> 
-The Equipment Transfer Form is used to record the transfer of equipment within an organization. This form helps to track the movement of equipment from one department to another, ensuring accurate record-keeping and facilitating efficient inventory management. Before proceeding, check if you have already completed a similar form for this equipment. If so, please refer to that form for more recent information. If not, continue with the current form.
-
-</thinking>
-
 # Equipment Transfer Form - Help Guide
 
 ## Purpose

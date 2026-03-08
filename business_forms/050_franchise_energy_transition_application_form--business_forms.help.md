@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a comprehensive document that captures information about a franchisee's energy transition application. It seems to be used for managing and tracking the application process for franchises seeking energy transition. However, I do not have information on the specific business logic or requirements behind this form. I will assume that each field is relevant and necessary for the application process based on its label and type. I will provide a help guide that explains the purpose and usage of each field.
-</thinking>
 # Franchise Energy Transition Application Form - Help Guide
 ## Purpose
 The Franchise Energy Transition Application Form is a document used to collect information from franchisees who are seeking to transition to a new energy source. The form is used to gather relevant data on the franchisee's energy needs, application details, and contact information.

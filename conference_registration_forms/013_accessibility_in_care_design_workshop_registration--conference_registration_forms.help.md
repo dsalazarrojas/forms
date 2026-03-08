@@ -1,14 +1,3 @@
-<thinking>
-Please consider the following:
-
-The form "Accessibility In Care Design Workshop Registration" is a registration form for participants interested in attending the workshop on accessibility in care design. This form helps to gather essential information from each participant to ensure that they have a smooth and inclusive experience during the workshop.
-
-This form is designed to capture detailed information about each participant, including their professional background, years of experience, workshop session choice, accessibility needs, and primary objectives for attending the workshop. Additionally, the form requests consent to be recorded if the workshop is filmed for educational purposes.
-
-The form should be filled out carefully to ensure that the participant's preferences are met, and their needs are considered.
-
-</thinking>
-
 # Accessibility In Care Design Workshop Registration - Help Guide
 
 ## Purpose

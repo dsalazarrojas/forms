@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about the pharmaceutical technology industry, specifically about company size, type, and technology interests. It seems to be a survey aimed at understanding the adoption and implementation challenges of various technologies in the pharmaceutical industry. The form is composed of multiple sections, each targeting different aspects of the industry, such as company details, technology adoption, implementation challenges, and contact information. This form is likely used to gather data for research or market analysis purposes, to gain insights on the industry's needs and trends.</thinking>
-
 # Pharmaceutical Technology Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about the pharmaceutical technology industry, specifically about company size, type, and technology interests.

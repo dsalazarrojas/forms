@@ -1,19 +1,3 @@
-<thinking>
-
-This form is used to collect information about projects that are offboarding, or being removed from, the project portfolio. It's essential to have a thorough checklist to ensure that all necessary information is gathered and that the project's offboarding process is completed correctly.
-
-The form is divided into three sections:
-
-1. Project Goals
-2. Project Team
-3. Project Offboarding Checklist
-
-Each section contains a series of questions or fields that ask for specific information about the project. The form is designed to be flexible and adaptable, allowing users to add or remove sections and fields as needed.
-
-Before starting the form, ensure that you have all the necessary information and answers to the questions. This will save time and reduce errors during the offboarding process.
-
-</thinking>
-
 # project_offboarding_checklist - Help Guide
 ## Purpose
 The project offboarding checklist is used to collect and document information about projects that are being removed from the project portfolio.

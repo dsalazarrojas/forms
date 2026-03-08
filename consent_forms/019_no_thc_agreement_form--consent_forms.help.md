@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to collect data from employees or participants regarding their consent to work with THC (tetrahydrocannabinol, a compound found in cannabis) in a professional setting. The form should be completed by employees or participants, and their supervisor or manager to acknowledge and document their agreement status.
-
-</thinking>
-
 # No THC Agreement Form - Help Guide
 ## Purpose
 The No THC Agreement Form is a document that aims to record and confirm whether employees or participants are aware of and agree to the use of THC in their work or participation.

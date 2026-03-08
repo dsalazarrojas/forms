@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing the DSWD Form Template. The form is a comprehensive template designed to gather information about a client's service history. The main goals of this form are to collect data on the client's service goal, type, and details, as well as gather demographic information such as client name, age, and address. Additionally, this form will collect information on the service provider, service start and end dates, and follow-up details.
-This form is meant to be completed by a Case Worker, and is not intended for clients to complete. The form is designed to be completed in multiple pages, with each page containing a specific set of fields.
-</thinking>
-
 # DSWD Form Template - Help Guide
 ## Purpose
 The DSWD Form Template is a comprehensive template designed to gather information about a client's service history.

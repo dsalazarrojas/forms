@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chef Visit Frequency Survey - Help Guide
 
 ## Purpose

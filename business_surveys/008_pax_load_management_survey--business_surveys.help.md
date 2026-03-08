@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pax_load_management_survey - Help Guide
 
 ## Purpose

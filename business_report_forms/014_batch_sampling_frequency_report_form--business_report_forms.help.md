@@ -1,7 +1,3 @@
-<thinking> 
-This form is used for generating reports on batch sampling frequencies, which is crucial for quality control and process monitoring in industrial settings. The form aims to collect data on the sampling process, including who performed the sampling, how often, and under what conditions. The form is likely to be filled out by quality control personnel or sampling technicians. The purpose of this form is to ensure consistency and accuracy in the sampling process. Before filling out this form, it is essential to review the sampling protocol and ensure that all fields are completed accurately and consistently.
-</thinking>
-
 # Batch Sampling Frequency Report Form - Help Guide
 ## Purpose
 The Batch Sampling Frequency Report Form is used to collect data on the sampling process for quality control and process monitoring. This form is used to track the sampling frequency, sampling technician, and other relevant details.

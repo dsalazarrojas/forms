@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information related to workers' compensation audits. The purpose of this form is to gather details about an incident or claim involving a worker, including business information, audit details, supporting documents, and other relevant details such as date, time, location, and employee information. This form will help auditors and administrators gather accurate and comprehensive data for auditing purposes. It is essential to fill out the form accurately and completely to ensure that all relevant information is collected.
-
-It is crucial to note that this form is not for general use but rather for specific purposes related to workers' compensation audits. If you are unsure about the purpose or requirements of this form, please consult the relevant authorities or experts.
-
-This form should not be used for other purposes as it may lead to incorrect or incomplete data collection.
-
-</thinking>
-
 # workers_compensation_audit_information_checklist - Help Guide
 ## Purpose
 The **Workers' Compensation Audit Information Checklist** is a collection of fields that help auditors and administrators gather relevant information about an incident or claim involving a worker. This form is designed to ensure that all necessary details are collected and accurately recorded for auditing purposes.

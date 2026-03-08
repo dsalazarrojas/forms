@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this SaaS Onboarding Survey form is to collect information about a new SaaS (Software as a Service) subscription. This form is used to gather essential details about the SaaS subscription, including its name, license, description, contact information, and status. 
-
-To ensure that you complete this form correctly, check that you have all the necessary information before starting to fill it out. 
-
-This form is not intended for general public use; it's primarily designed for internal use within the organization. 
-
-Make sure to review each field carefully and provide accurate information to the best of your ability. 
-
-This form should take you around 5-7 minutes to complete, and it's divided into several sections with distinct fields.
-
-</thinking>
-
 # SaaS Onboarding Survey - Help Guide
 ## Purpose
 The SaaS Onboarding Survey form is designed to collect essential information about a new SaaS subscription, including its name, license, description, contact information, and status.

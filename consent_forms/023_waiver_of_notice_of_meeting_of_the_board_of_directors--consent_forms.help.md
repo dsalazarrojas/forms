@@ -1,8 +1,3 @@
-<thinking>
-This guide will walk you through the Waiver Of Notice Of Meeting Of The Board Of Directors form. This form is intended for individuals who are unable to attend a meeting of the board of directors, or who are providing information to confirm their attendance. It's crucial to fill out this form accurately and completely to ensure that your absence or presence is recorded correctly. Please review the form fields carefully to avoid any errors.
-
-</thinking>
-
 # Waiver Of Notice Of Meeting Of The Board Of Directors - Help Guide
 ## Purpose
 This form is used to notify the board of directors about your absence or confirmation of attendance at a meeting, and to provide additional information as required.

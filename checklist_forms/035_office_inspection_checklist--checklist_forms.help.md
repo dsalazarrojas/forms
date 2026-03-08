@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Inspection Checklist - Help Guide
 
 ## Purpose

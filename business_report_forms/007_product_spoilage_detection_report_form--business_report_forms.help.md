@@ -1,16 +1,3 @@
-<thinking>
-This form is used to report and track product spoilage incidents. It is a crucial tool for quality control teams to monitor and address potential issues with products that may be spoiled or defective. This form ensures that all relevant information about the incident, including product details, spoilage type, and incident status, is documented. It also allows for follow-up actions to be assigned and tracked. The form is designed to be completed by the person who submitted it, typically an employee or team member responsible for product quality control.
-
-Before completing this form, please ensure that you have reviewed and understood the product's condition and the circumstances surrounding the spoilage incident. This form should only be used for reporting genuine product spoilage incidents and not for other purposes.
-
-When completing this form, please answer the questions truthfully and thoroughly, providing as much detail as possible. This will help quality control teams to quickly and effectively address the issue.
-
-Please note that the form is not intended to be used for reporting non-essential incidents. If you are unsure whether an incident is spoilage-related, please consult with your team leader or supervisor before submitting this form.
-
-Also, please make sure to update this form regularly to reflect any changes in the incident status or follow-up actions.
-
-</thinking>
-
 # Product Spoilage Detection Report Form - Help Guide
 ## Purpose
 This form is used to report and track product spoilage incidents.

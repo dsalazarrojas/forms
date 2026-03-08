@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from claimants for mental health services claims. It's meant to be used by individuals or organizations that provide these services to gather necessary details for processing and resolving these claims. To ensure accurate and efficient processing, it's essential to fill out the form with relevant and complete information. This form may be part of a larger system for managing claims, and its completion should reflect the current state of the claimant's mental health services request.
-
-Before starting, ensure that you're using this form for the correct purpose and that you've gathered all necessary details. If you're unsure about any field or its relevance, please refer back to this guide for clarification.
-
-Please note that while this form is designed to be user-friendly, it requires accurate and honest input to facilitate smooth claim processing. If you're filling this out for someone else, please ensure you're acting with their best interest in mind.
-
-Also, this form is not designed for emergency or critical situations. If you need immediate assistance, please contact your local mental health resources or emergency services.
-
-Lastly, be aware that this form may be subject to review and verification processes. Ensure that you're filling it out with the intention of providing accurate and legitimate information.
-
-</thinking>
-
 # mental_health_service_claim_form - Help Guide
 ## Purpose
 This form is designed to collect information from claimants for mental health services claims. It's meant to be used by individuals or organizations providing these services to gather necessary details for processing and resolving these claims.

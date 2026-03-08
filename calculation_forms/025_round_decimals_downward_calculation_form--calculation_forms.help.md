@@ -1,12 +1,3 @@
-<thinking>
-This form is used for rounding decimals downward for precise calculations. It is used in various contexts, such as financial and accounting tasks. The form is designed to be flexible and easy to use, allowing users to select the number of decimal places to round down to. 
-
-Before starting, ensure that this form is not being used for any other purpose other than decimal rounding, to avoid confusion and incorrect results.
-
-The fields in this form are designed to be self-explanatory, but if you have any doubts, read on for a detailed explanation of each field.
-
-</thinking>
-
 # Round Decimals Downward Calculation Form - Help Guide
 ## Purpose
 This form is used for rounding decimals downward for precise calculations. It is typically used in financial and accounting tasks.

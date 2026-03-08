@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Militarism And Conflict Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and opinions on militarism and conflict. It is intended to help researchers understand the nature of conflict in your community and how to effectively resolve it. Please answer the questions honestly and thoroughly, and feel free to skip questions that do not apply to you.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on a specific component within a project, allowing users to evaluate its performance, reliability, cost-effectiveness, ease of integration, maintenance requirements, scalability, compatibility, and overall satisfaction. The form is used to provide detailed feedback on a component, which can help in making informed decisions about its usage and potential replacements. This form is intended for project managers, team members, or stakeholders who need to assess the components within their project. Please fill out this form carefully, as the information collected will contribute to a comprehensive understanding of the project's component performance.
-</thinking>
-
 # Component Breakdown Survey - Help Guide
 ## Purpose
 This form is designed to collect detailed feedback on a specific component within a project. It helps in assessing its performance, reliability, cost-effectiveness, ease of integration, maintenance requirements, scalability, compatibility, and overall satisfaction.

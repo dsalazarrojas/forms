@@ -1,8 +1,3 @@
-<thinking>
-The Telecommunications Complaint Status Tracker is designed to monitor and track the status of customer complaints related to telecommunication services. This form is used to collect and update information about customer issues, including name, email, phone number, issue description, complaint date and time, contact information, and status updates. The form ensures that all required fields are filled, which includes the customer's name, email, phone number, issue description, complaint date and time, status, and reason for update. The form is divided into two main parts: customer information and complaint status. Each section is designed to be clear and concise, allowing users to easily understand and fill out the form.
-
-</thinking>
-
 # Telecommunications Complaint Status Tracker - Help Guide
 ## Purpose
 The Telecommunications Complaint Status Tracker is a form used to track and manage customer complaints related to telecommunication services.

@@ -1,12 +1,3 @@
-<thinking>
-The Disability Friendly Community Survey form is designed to gather feedback from community members about their experiences and concerns regarding accessibility in their facilities. This form aims to identify areas of improvement to make the community more inclusive and welcoming to all members, regardless of their abilities. 
-
-Please note that this form is a one-time opportunity to provide input and suggestions. It will help us understand what works well and what can be improved in our community. 
-
-Before you start, check if you have filled this form recently to avoid duplication. If you need help or have questions, feel free to reach out to us.
-
-</thinking>
-
 # Disability Friendly Community Survey - Help Guide
 ## Purpose
 The Disability Friendly Community Survey is a one-time opportunity for community members to share their experiences and suggestions about accessibility in our facilities. Your feedback will help us identify areas of improvement to make our community more inclusive and welcoming to all members.

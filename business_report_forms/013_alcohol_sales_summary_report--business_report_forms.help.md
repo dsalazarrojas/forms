@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect business data for an Alcohol Sales Summary Report. It's used to gather information on the business's alcohol sales, inventory discrepancies, incidents, compliance, and other relevant details. The report covers a specific period, and the data collected will help businesses track their alcohol sales, identify potential issues, and ensure compliance with regulations. To avoid duplication, this form should only be completed when a new reporting period begins.
-
-</thinking>
-
 # Alcohol Sales Summary Report - Help Guide
 ## Purpose
 The Alcohol Sales Summary Report is a tool used to track and report on a business's alcohol sales, incidents, and compliance status during a specific reporting period. This report helps businesses to identify areas of improvement and ensure compliance with regulations.

@@ -1,12 +1,4 @@
-### <thinking>
-
-This form is designed to collect feedback from customers about their business notepad experience. The purpose of this form is to gather information on customer satisfaction, product quality, and areas for improvement. It's essential to fill this form out thoroughly to provide valuable insights for the product development team.
-
-Please make sure to fill out this form only once, and if you have already submitted feedback, do not duplicate your submission. Your responses will help shape the development of future products.
-
-</thinking>
-
-# Business Notepad Feedback Form - Help Guide
+### # Business Notepad Feedback Form - Help Guide
 ## Purpose
 
 The Business Notepad Feedback Form is designed to collect information about your experience with our business notepads. Your feedback will help us understand how we can improve our products and services to better meet your needs.

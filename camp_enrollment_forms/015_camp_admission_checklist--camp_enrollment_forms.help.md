@@ -1,14 +1,3 @@
-<thinking>...thinking>
-
-The internal reasoning block for this task is as follows:
-
-*   This form is designed to collect essential information from parents or guardians of campers who are seeking admission to a camp or program. 
-*   The form is divided into several sections, each containing a specific set of questions that cover different aspects of the camper's profile, medical history, and logistical arrangements. 
-*   The form is intended to be completed by the parent or guardian, and its purpose is to ensure that the camper's needs are accurately represented and that the relevant parties are informed. 
-*   The fields are designed to be self-explanatory, but some clarification is necessary to ensure that the user understands the requirements and implications of each field.
-
-</thinking>
-
 # Camp Admission Checklist - Help Guide
 ## Purpose
 The Camp Admission Checklist is a form designed to collect essential information from parents or guardians of campers to ensure a smooth and safe experience for each camper during the camp or program.

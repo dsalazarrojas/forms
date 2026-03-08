@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help you complete the "Organizational Evolution Feedback Survey" form in a way that provides valuable feedback for the organization.
 
 **Organizational Evolution Feedback Survey - Help Guide**

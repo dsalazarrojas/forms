@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the readiness of a business or organization to rent a booth at a event or trade show. The form aims to assess the respondent's level of preparedness in various aspects such as setup, marketing, and budget. This information will help event organizers or coordinators understand the respondent's status and provide guidance on areas that need improvement.
-
-It is essential to fill out this form only once. If you have already filled out this form, please do not submit it again.
-
-Please make sure you have the authority to fill out this form on behalf of your organization.
-
-</thinking>
-
 # Booth Rental Readiness Survey - Help Guide
 ## Purpose
 

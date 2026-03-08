@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainable Cleaning Practice Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about sustainable cleaning practices from users. It is intended for businesses and organizations that want to showcase their commitment to eco-friendly cleaning methods. The form is used to gather relevant details about the registered sustainable cleaning practices, which will be stored for reference and potential use in further analysis or reporting.

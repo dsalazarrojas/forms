@@ -1,14 +1,3 @@
-<thinking>
-This help guide is to be used to explain the purpose and process of the AD Customer Satisfaction Survey form, as well as each field's meaning and expected input.
-
-The form is used to gather customer feedback and satisfaction data from users of the AD product or service. This data will help us understand how our product meets your needs and where we can improve. By providing honest and accurate input, you'll help us create a better experience for you and other customers.
-
-Please note that this form is designed to be completed by customers who have interacted with our product or service in some way. If you're not sure which category you fit into, select the one that best describes your interaction.
-
-When filling out this form, please answer all required questions and provide as much detail as possible in the open-ended fields. If you have any questions or concerns, please don't hesitate to reach out.
-
-</thinking>
-
 # AD Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is used to gather your feedback and satisfaction with our product or service. Your input helps us understand how we're doing and where we can improve.

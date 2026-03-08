@@ -1,22 +1,3 @@
-<thinking>
-Internal reasoning block to ensure form purpose and relevance:
-
-We need to check if the form purpose and fields are aligned with business goals.
-
-The form is designed for gold price estimation, so it should be used to collect data for a price calculation. 
-
-The form fields seem to cover all relevant aspects, including carat weight, gold type, purity, weight unit, recar weight, price, customer name, email, phone, and date/time.
-
-However, the fields "Price Influence", "Weight Unit", and "Re-Carat Weight" may not be directly used in the price estimation process as their purpose is unclear or not directly related to it. 
-
-These fields might be used for internal tracking or other purposes not directly linked to the form's primary function. We should ensure that these fields are not misused or that users understand their purpose properly.
-
-We also need to check for any missing required fields that could prevent the form from being completed successfully. 
-
-The form seems to be missing a "submit" or "calculate" button to actually perform the price estimation. This is a crucial field that needs to be added or clarified in the form description or instructions.
-
-</thinking>
-
 # Gold Price Estimation Form - Help Guide
 ## Purpose
 The Gold Price Estimation Form is designed to collect data required to estimate the price of gold. Please fill out this form to provide accurate information about your gold item to get an estimated price.

@@ -1,8 +1,3 @@
-<thinking>
-We will first check if the form is already filled by a known partner. If so, we will skip it to avoid duplication. 
-The form is used for registration of new partners in the distribution channel.
-</thinking>
-
 # Fresh Distribution Channel Registration Form - Help Guide
 ## Purpose
 This form is for partners to register themselves in our distribution channel. It's a one-time registration process that helps us to get in touch with you and keep you updated about our products and services.

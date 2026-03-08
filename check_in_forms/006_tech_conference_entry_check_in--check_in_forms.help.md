@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from attendees who are checking in for a tech conference. The purpose of this form is to gather essential details about each attendee, including their name, contact information, and event-specific details. This form should only be used for conference attendees who are checking in, and repeated submissions should be avoided.
-</thinking>
-
 # tech_conference_entry_check_in - Help Guide
 ## Purpose
 This form is designed to collect information from attendees who are checking in for a tech conference. Please provide accurate and complete information for a seamless check-in process.

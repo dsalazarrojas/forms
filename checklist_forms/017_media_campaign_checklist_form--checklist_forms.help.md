@@ -1,14 +1,3 @@
-<thinking>
-The goal of this form is to collect information about a media campaign. It seems that the form is used to create or review a media campaign, and it might be used for internal purposes only, as the form fields suggest a focus on organizational and scheduling aspects of a campaign. This form might not be intended for external use, such as public-facing websites or customer-facing applications.
-
-The form asks for a range of information, including the campaign's name, start and end dates, budget, tasks, deadlines, and responsibilities. Marketing and media management roles are also included, with options for selecting multiple media managers and a single marketing manager. Review date is also an interesting field, suggesting that this form might be used for tracking progress or review of a campaign's status.
-
-Upon further analysis, it appears that this form is likely used within an organization to gather and organize information about a media campaign, such as planning, execution, and review. It might be used by marketing or media teams to track and manage campaign details. The form seems to be a straightforward tool for collecting and storing necessary information.
-
-However, it would be beneficial to review the form's purpose and scope with the relevant stakeholders to ensure accuracy and completeness of this explanation.
-
-</thinking>
-
 # Media Campaign Checklist Form - Help Guide
 ## Purpose
 The Media Campaign Checklist Form is used to gather and organize information about a media campaign. It's a tool for marketing or media teams to track and manage campaign details, such as name, dates, budget, tasks, and responsibilities.

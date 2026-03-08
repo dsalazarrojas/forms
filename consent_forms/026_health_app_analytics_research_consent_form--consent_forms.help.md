@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect participant information for research studies. The form is used to gather data on participant details, consent details, study institution, research goals, participant info, email, date of participation, study start date, research coordinator, contact person, study duration, study completion date, participant informed consent, research aims, and study instrument. This form is likely used for tracking and recording participant data in a research study. To avoid duplication, please ensure that you have not previously submitted this form for the same study. If you are unsure about any aspect of this form, please contact your research coordinator.
-</thinking>
-
 # health_app_analytics_research_consent_form - Help Guide
 ## Purpose
 This form is used to collect participant information for research studies.

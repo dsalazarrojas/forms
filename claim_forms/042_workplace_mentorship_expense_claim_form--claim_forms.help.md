@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of the Workplace Mentorship Expense Claim Form is to gather information from individuals who have participated in mentorship programs within the organization and want to claim reimbursement for expenses related to these programs. This form will help the organization track and reimburse expenses efficiently. 
-
-Before proceeding with the help guide, ensure that this form is being used in a context where it is relevant and necessary, and that the information being sought is not duplicated or redundant. This form is designed to be a single instance of claiming expense for a specific mentorship program.
-
-</thinking>
-
 # Workplace Mentorship Expense Claim Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who have participated in mentorship programs and need to claim expenses related to these programs for reimbursement.

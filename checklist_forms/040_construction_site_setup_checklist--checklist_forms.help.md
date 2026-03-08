@@ -1,8 +1,3 @@
-<thinking>
-This guide provides an overview of the Construction Site Setup Checklist, a form designed to assess the readiness of a construction site for work. This form is essential for ensuring that all necessary measures are in place before commencing construction activities. It helps identify areas that require attention to ensure a safe and productive working environment. The form is divided into multiple pages, and each page focuses on a specific aspect of site setup. Please review the following pages to understand the specific requirements for each section.
-
-</thinking>
-
 # Construction Site Setup Checklist - Help Guide
 ## Purpose
 The Construction Site Setup Checklist is a comprehensive form used to evaluate the readiness of a construction site for work. It ensures that all necessary safety measures, utilities, and facilities are in place before construction activities begin.

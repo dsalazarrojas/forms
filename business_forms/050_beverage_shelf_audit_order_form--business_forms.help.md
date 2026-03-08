@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from the user about a beverage shelf audit order. This form is likely used by a store or business to request an audit of their beverage shelves, perhaps for quality control or inventory management reasons. The form collects information about the user's identity, the store's details, and the specifics of the audit request, including the type of audit, category of beverages, preferred date and time, and any additional requirements or budget constraints.
-
-This form may be used for a specific business process, and it's essential to ensure that it's completed accurately to ensure that the audit is performed correctly and efficiently. 
-
-Before proceeding, ensure this form is not being used for a different purpose than intended, as the questions are specific to an audit of a store's beverage shelves.
-
-</thinking>
-
 # Beverage Shelf Audit Order Form - Help Guide
 ## Purpose
 The Beverage Shelf Audit Order Form is a crucial tool for stores to request an audit of their beverage shelves. It helps to gather essential information from the user, including their identity, the store's details, and the specifics of the audit request. By filling out this form accurately, users can ensure that the audit is performed efficiently and effectively.

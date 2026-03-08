@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form that captures the necessary information from potential participants in a field research study. This form aims to gather contact details and consent for participation. It's crucial to ensure that the form is filled out correctly to avoid any potential issues or misinterpretation of data. We'll break down the form into sections and explain each field clearly to facilitate a smooth and accurate completion process.
-</thinking>
-
 # Field Research Participation Consent Form - Help Guide
 ## Purpose
 The Field Research Participation Consent Form is a mandatory document that captures the necessary information from potential participants to ensure their involvement and consent in field research studies. It's essential to provide accurate and up-to-date information to facilitate smooth data collection and analysis.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients or users who have interacted with an agreement specialist. The purpose of this form is to gather information about the client's experience, satisfaction, and perceptions of the specialist's performance, as well as any areas for improvement. This will help the agreement specialist to continuously improve their services and better serve their clients in the future. This form should be filled out by clients who have had an interaction with an agreement specialist in the past.
-
-Before filling out this form, please ensure that you have not already filled it out. If you have any questions or concerns, you can contact us at form@gic.mx.
-
-</thinking>
-
 # Agreement Specialist Survey - Help Guide
 
 ## Purpose

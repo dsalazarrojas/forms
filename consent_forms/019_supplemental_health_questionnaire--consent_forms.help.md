@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Supplemental Health Questionnaire" form is to gather information from patients to help medical professionals better understand their overall health status. This form is meant to be filled out by patients before or after a medical appointment to ensure that the medical team has a comprehensive understanding of the patient's medical history, current conditions, and potential risks or allergies. By providing this information, patients can help medical professionals make more informed decisions about their care.
-
-Before filling out this form, please make sure you have not already submitted similar information to us in the past. To avoid duplicate submissions, please only fill out the form once per visit.
-
-</thinking>
-
 # Supplemental Health Questionnaire - Help Guide
 ## Purpose
 The Supplemental Health Questionnaire is a form designed to gather information about a patient's medical history, current conditions, and potential risks or allergies to help medical professionals provide better care.

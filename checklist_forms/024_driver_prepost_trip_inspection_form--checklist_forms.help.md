@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for the pre and post trip inspection of a vehicle, typically used for commercial or industrial purposes such as delivery or construction jobs. This form is meant to ensure that the vehicle is in good condition before and after a trip to prevent any potential issues that may arise during transportation. This form may be filled out by a driver or other authorized personnel before a trip to record the current state of the vehicle, and after a trip to report any issues that may have occurred. This form helps to reduce the likelihood of accidents and ensures that necessary maintenance is performed before a trip to prevent any vehicle malfunctions that may cause delays or accidents.
-</thinking>
-
 # driver_prepost_trip_inspection_form - Help Guide
 ## Purpose
 This form is used to collect data for the pre and post trip inspection of a vehicle. It helps to ensure that the vehicle is in good condition before and after a trip, and to record any issues that may have occurred during transportation.

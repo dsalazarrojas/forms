@@ -1,5 +1,3 @@
-<thinking> This form, titled "Client Suitability Form," serves as an essential tool for financial advisors to gauge a client's eligibility for specific financial products or services. Its purpose is to collect vital information about the client's demographic details, financial situation, and investment history. By providing a comprehensive picture of the client's suitability, financial advisors can ensure that they are recommending products that align with the client's needs and goals, thereby reducing the risk of mis-selling and fostering long-term client satisfaction. Before starting the form, please ensure that you have not completed it in the past to avoid duplication of effort and data.</thinking>
-
 # Client Suitability Form - Help Guide
 
 ## Purpose

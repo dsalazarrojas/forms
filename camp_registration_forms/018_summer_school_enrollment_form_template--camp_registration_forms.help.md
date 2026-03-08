@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # summer-school-enrollment-form-template - Help Guide
 ## Purpose
 This form is used for Summer School Enrollment, which allows parents to register their student for Summer School programs. The purpose of this form is to collect necessary information from parents to facilitate a smooth enrollment process.

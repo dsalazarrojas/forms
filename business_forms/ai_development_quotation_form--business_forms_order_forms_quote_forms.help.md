@@ -1,7 +1,3 @@
-<thinking>
-We'll start by explaining the form purpose internally. This form is designed to collect information from clients interested in requesting quotations for AI development projects. The purpose of the form is to gather essential details about the client, their project requirements, and their expectations, which will help us prepare an accurate quote for the project.
-</thinking>
-
 # AI Development Quotation Form - Help Guide
 ## Purpose
 This form is a comprehensive guide to provide us with all the necessary information for a successful AI project quotation. It's crucial that you complete this form accurately and thoroughly to receive a precise quote for your project.

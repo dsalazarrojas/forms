@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users provide accurate and detailed information about their financial situation, goals, and challenges. The purpose of this form is to gather relevant data for financial coaching purposes, which may include assessing a user's financial health, identifying areas for improvement, and offering personalized guidance and recommendations.
-
-To avoid duplication and ensure accuracy, please only fill out this form once. Your responses will be kept confidential and will not affect your credit score.
-
-</thinking>
-
 # Financial Coaching Application Form - Help Guide
 ## Purpose
 The Financial Coaching Application Form is a tool designed to gather detailed information about your financial situation, goals, and challenges. This information will help our financial coaches understand your specific needs and provide personalized guidance and recommendations.

@@ -1,7 +1,3 @@
-<thinking>
-This form, "forklift_daily_inspection_checklist_form", is designed to support forklift inspections by allowing operators to report on the equipment's condition and any issues or defects found during the inspection. This form is typically used to ensure consistency and thoroughness in inspections, making it easier to identify potential problems before they become major issues. It's essential to use this form to record the inspection date, equipment ID, shift number, location, operator's name, and the items inspected. Additionally, this form includes fields for reporting completed and additional comments, which can be helpful for providing context or noting any issues that were not included in the checklist.
-</thinking>
-
 # Forklift Daily Inspection Checklist Form - Help Guide
 ## Purpose
 This form is designed to support forklift inspections and ensure consistency and thoroughness in reporting.

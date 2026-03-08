@@ -1,8 +1,3 @@
-<thinking> 
-This form, "operations_learning_checklist", is designed to help employees track their progress, leadership skills, confidence levels, and feedback from supervisors, as well as the date and time completed. It seems to be a form for assessing employee learning and development, likely for performance evaluations or training programs. This form is composed of six fields: "Checklist Progress", "Team Leadership", "Confidence Level", "Supervisor Feedback", "Date Completed", and "Time Completed". Each field is a different type, including select_one, select_multiple, number, text, and date/time. All fields are not required, but "Confidence Level" is. The form appears to be used for individual employees, and it may be used to track progress and performance over time.
-
-</thinking>
-
 # operations_learning_checklist - Help Guide
 ## Purpose
 This form is used to assess employee learning and development progress, leadership skills, and confidence levels, as well as gather feedback from supervisors and track completion dates and times.

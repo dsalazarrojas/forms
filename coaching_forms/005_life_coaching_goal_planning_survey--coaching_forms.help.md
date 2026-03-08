@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to gather information from life coaching clients to help the coach understand their goals, challenges, motivations, and expectations for the coaching engagement. This form is designed to be completed by the client before starting the coaching program, providing the coach with a clear understanding of the client's needs and preferences.
-
-This form should not be completed if the client is not ready to start the coaching engagement or if the coach has already collected this information from the client through other means.
-
-Please review this guide carefully and answer the questions honestly to ensure that the coach has the necessary information to tailor the coaching sessions to your specific needs.
-
-</thinking>
-
 # life coaching goal planning survey - Help Guide
 ## Purpose
 This form is a life coaching goal planning survey designed to help the coach understand your goals, challenges, and expectations for the coaching engagement. It's essential to complete this form to ensure that the coach is well-prepared to support you throughout the coaching process.

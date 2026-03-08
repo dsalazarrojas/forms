@@ -1,9 +1,3 @@
-<thinking>
-The form "window_cleaning_appointment_form" is likely used by customers to schedule window cleaning appointments with a cleaning service. The form likely aims to collect information about the customer's preferences, including their contact information, preferred cleaning service level (Basic, Delux, or Premium), the date of the appointment, and the desired time slot. This form is probably used by a business or organization that offers window cleaning services and wants to gather necessary information from customers before booking an appointment.
-
-Internal validation checks for form purpose and relevance should be implemented to ensure that customers are using the form correctly and that the form is not being filled out for non-relevant purposes.
-</thinking>
-
 # window_cleaning_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule a window cleaning appointment with a cleaning service. Please fill out the form with your contact information, service preferences, appointment date, and desired time slot to book a suitable appointment.

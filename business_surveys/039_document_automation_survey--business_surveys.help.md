@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information for automating documents. The purpose of this form is to collect data from users for document automation purposes. This form is likely used by internal teams or departments within a company to collect data from users to help automate tasks related to document creation, such as generating contracts, reports, or other document types.
-
-To ensure this form is not being filled out for purposes other than document automation, we should consider implementing validation checks or access controls to prevent non-relevant submissions.
-
-</thinking>
-
 # Document Automation Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from users for document automation purposes.

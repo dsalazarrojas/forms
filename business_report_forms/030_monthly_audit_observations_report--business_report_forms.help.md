@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect observations and comments from auditors during a monthly audit process. It is intended to be completed by auditors to provide feedback and suggestions for improvement. 
-
-The form has six sections: 
-- A title section to input the title of the report.
-- A department section to select the department being audited.
-- A date section to input the date of the audit.
-- A time section to input the time of the audit.
-- A findings section to select the type of findings made during the audit (critical, non-critical, or not applicable).
-- A notes section to input any additional comments or observations.
-
-The form is not required to be completed in a specific order, and the user can input information in any order they prefer. All sections are optional, but it is recommended that auditors complete all sections to provide a comprehensive report.
-</thinking>
-
 # Monthly Audit Observations Report - Help Guide
 ## Purpose
 This form is designed to collect observations and comments from auditors during a monthly audit process. It is intended to be completed by auditors to provide feedback and suggestions for improvement.

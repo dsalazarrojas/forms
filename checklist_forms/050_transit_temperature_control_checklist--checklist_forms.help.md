@@ -1,5 +1,3 @@
-<thinking>Forms are a crucial tool for collecting and tracking data. This form, in particular, is designed to gather information about temperature control during the transit of goods or units. The form helps ensure that relevant checks and inspections are performed, corrective actions are taken when necessary, and important details about the unit are recorded. It's a critical aspect of maintaining quality control and ensuring that goods are handled safely and properly. Before using this form, please review the sections below to understand its purpose and how to complete it correctly.</thinking>
-
 # Transit Temperature Control Checklist - Help Guide
 ## Purpose
 The Transit Temperature Control Checklist is a form used to collect and track information about temperature control during the transit of goods or units. Its primary purpose is to ensure that checks and inspections are performed correctly, corrective actions are taken when necessary, and essential details about the unit are recorded.

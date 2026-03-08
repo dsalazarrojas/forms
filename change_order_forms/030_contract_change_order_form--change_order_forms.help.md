@@ -1,8 +1,3 @@
-<thinking>
-This is a form used to create change orders for contracts, allowing project managers and contractors to document and track modifications to the original contract terms. The form is intended to ensure that all necessary information is collected and recorded in an accurate and efficient manner, helping to prevent misunderstandings and disputes that can arise from unrecorded changes.
-To prevent duplication of effort, please ensure that this form is only completed after the original contract terms have been modified, and that all relevant parties involved have been notified.
-</thinking>
-
 # Contract Change Order Form - Help Guide
 ## Purpose
 This form is used to document and track modifications to the original contract terms, ensuring that all changes are properly recorded and agreed upon by all parties involved.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the Pivot Data Collection Form. To ensure relevance and prevent duplication, we must understand that this form is likely used to collect various types of data related to pivot tables, which are used to summarize and analyze data by combining two or more field values. This form appears to be designed to collect information about data sources, row fields, column fields, and aggregation details for multiple pivot tables. The purpose of this form is to gather all the necessary information to construct a pivot table, including the data sources, the fields to be included in each row and column, and the aggregation details required for the table. This form seems to be a general-purpose data collection form for pivot tables, and the sections might be duplicated to accommodate different tables or data sources. Our goal is to create a clear and concise help guide that guides the user through the form's purpose and completion.
-</thinking>
-
 # Pivot Data Collection Form - Help Guide
 
 ## Purpose

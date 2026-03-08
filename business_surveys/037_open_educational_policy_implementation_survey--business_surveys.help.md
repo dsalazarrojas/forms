@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to gauge the current state of Open Educational Policy (OEP) implementation in educational institutions. This is likely a follow-up to an initial assessment or part of an ongoing monitoring process. The goal is to collect data on various aspects of OEP, such as awareness, effectiveness, challenges, key stakeholders, and their relationships. This data will be used to inform future policy improvements or adjustments.
-
-I'm not aware of any internal checks to prevent non-duplication, so I assume this form is intended for multiple users to complete independently.
-
-</thinking>
-
 # Open Educational Policy Implementation Survey - Help Guide
 ## Purpose
 The Open Educational Policy Implementation Survey is designed to assess the current status of Open Educational Policy (OEP) implementation in educational institutions. This survey helps us understand the awareness, effectiveness, challenges, and relationships between key stakeholders in the OEP process.

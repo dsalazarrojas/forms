@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is part of the Emergency Response System and is designed to collect information from participants in emergency situations. It's essential to complete this form accurately and truthfully to help the emergency response team provide the best possible assistance.
 
 Before proceeding, please ensure that you are filling out this form for the correct situation and that you have not already submitted a form for the same incident. If you are unsure, please contact the emergency response team for guidance.

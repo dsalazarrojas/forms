@@ -1,7 +1,3 @@
-<thinking>
-The HR Complaint Intake Form is used to collect information about a complaint made by an employee or a third-party individual. This form helps to ensure that all necessary details are captured and reviewed by the HR department before further action is taken. To ensure that this form is completed accurately and efficiently, please make sure to review the form purpose and instructions carefully.
-</thinking>
-
 # HR Complaint Intake Form - Help Guide
 ## Purpose
 The HR Complaint Intake Form is used to collect information about a complaint made by an employee or a third-party individual. This form ensures that all necessary details are captured and reviewed by the HR department before further action is taken.

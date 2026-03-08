@@ -1,19 +1,3 @@
-<thinking>
-
-To determine the form's purpose, let's review the form's title and fields:
-
-The 401(k) Hardship Withdrawal Request form is used to request a hardship withdrawal from a 401(k) plan. The form is likely used by employees or plan administrators to submit a request for a withdrawal due to a qualifying event, such as medical expenses or funeral costs. The form is designed to gather necessary information from the participant, including their personal details, reason for withdrawal, and supporting documents.
-
-To avoid duplication of effort, let's consider the following:
-
-* Is the form used for initial requests or follow-up submissions?
-* Are there any specific requirements or restrictions for submitting this form, such as time limits or additional documentation?
-* Are there any specific guidelines or rules that need to be followed when completing this form?
-
-Assuming this form is used for initial requests, and there are no specific requirements or restrictions mentioned in the provided YAML. We will assume that the form is a standard hardship withdrawal request form.
-
-</thinking>
-
 # 401(k) Hardship Withdrawal Request - Help Guide
 ## Purpose
 This form is used to request a hardship withdrawal from a 401(k) plan due to a qualifying event, such as medical expenses or funeral costs.

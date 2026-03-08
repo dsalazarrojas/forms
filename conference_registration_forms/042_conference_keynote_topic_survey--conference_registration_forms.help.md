@@ -1,5 +1,3 @@
-<thinking>As the AI-generated form is not affiliated with, endorsed by, or derived from any form platform, it's essential to verify its accuracy and relevance with the intended users. This form is designed to collect feedback from attendees on their preferences for keynote topics at conferences. By filling out this form, attendees can express their interests, provide topic suggestions, and share their expectations for keynote presentations. To ensure that the form is used correctly, please review the fields carefully, especially if you're not familiar with the industry categories listed in the form.</thinking>
-
 # Conference Keynote Topic Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees on their preferences for keynote topics at conferences. By filling out this form, you can help us select engaging keynote topics that cater to your interests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the analytical chemistry techniques and practices employed by professionals in the field. The goal is to gather insights on the usage of various analytical techniques, the frequency of instrument calibration, and the challenges faced in handling different analytical matrices. This information will be used to better understand the needs and pain points of analytical chemists and to improve the overall efficiency of laboratory operations. The form is divided into sections that cover professional title, laboratory affiliation, contact information, technique usage, instrument calibration, challenging matrices, laboratory management, equipment satisfaction, and desired areas for further training. By completing this form, respondents will provide valuable feedback that will help in enhancing the quality of services offered by laboratories.
-</thinking>
-
 # Analytical Chemistry Techniques Survey - Help Guide
 ## Purpose
 This survey aims to collect information about the analytical techniques and practices employed by professionals in the field of analytical chemistry. Your participation is invaluable in helping us understand your needs and challenges.

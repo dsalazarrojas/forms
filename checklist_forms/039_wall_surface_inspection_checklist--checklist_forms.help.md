@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to inspect a wall surface for potential defects, damage, or other issues that may affect its integrity. The form is composed of multiple sections and questions that cover various aspects of the wall's condition. Each section and question is meant to gather specific information to assess the wall's condition and identify any areas that require attention.
-
-When designing this form, the goal is to make the process as straightforward and organized as possible, ensuring that users can easily complete it without unnecessary complexity. The form's structure and questions are based on common practices and guidelines in the building and construction industries, which may vary depending on local regulations and best practices.
-
-Please note that while this form was created using AI, it is not a replacement for professional expertise or local regulations. Users should consult relevant authorities and experts for specific guidance on wall surface inspections.
-
-</thinking>
-
 # Wall Surface Inspection Checklist - Help Guide
 ## Purpose
 The Wall Surface Inspection Checklist is a tool to help assess the condition of a wall surface, identify potential issues, and prioritize repairs or maintenance. It is designed to be completed by facility managers, property owners, or other authorized personnel.

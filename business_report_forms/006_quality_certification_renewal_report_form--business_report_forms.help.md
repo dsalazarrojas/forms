@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from organizations for quality certification renewal reports. This form likely serves to gather details about the organization, their certification status, and any supporting documents required for the renewal process.
-
-Before proceeding, ensure that this form is not a duplicate of any other form used for the same purpose within your organization, and that its purpose is understood by all stakeholders.
-
-</thinking>
-
 # quality_certification_renewal_report_form - Help Guide
 ## Purpose
 The quality certification renewal report form is designed to collect necessary information from organizations to facilitate the quality certification renewal process.

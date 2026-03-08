@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about glaciers, specifically the glacier location, date of observation, size, presence of prophets, condition, coloration, observation method, and altitude. It is not intended to be filled out for every glacier, and some fields may be optional. The form will likely be used by field researchers or scientists to gather data on glaciers in specific locations or under specific conditions.
-</thinking>
-
 # glacier_information_survey - Help Guide
 ## Purpose
 The glacier information survey is a form used to collect data on glaciers, their locations, sizes, conditions, and other relevant information.

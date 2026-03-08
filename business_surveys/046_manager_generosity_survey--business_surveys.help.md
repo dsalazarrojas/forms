@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal survey for managers to collect feedback about their managers, which will help us better understand how well our managers are performing in terms of support, helpfulness, friendliness, and willingness to help. This survey is designed to be completed by employees, and their responses will be kept anonymous. It's essential that each employee completes the survey only once per manager, and not duplicate their responses. This survey is meant to be a helpful tool for both employees and managers to gain insights and improve the work environment.
 
 # Manager Generosity Survey - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-The Design Influence Assessment form is used to evaluate the degree to which various design elements influence an individual's or a company's work. This form helps to identify the level of influence of different design aspects on decision-making, communication, and overall importance. It is intended for use by business stakeholders, product designers, and other stakeholders who want to gain insights into how design elements affect their work. It is recommended to complete this form by those who are directly involved in the design process or decision-making.
-To avoid duplication or misinterpretation, please fill out the form honestly and thoroughly, considering each question carefully. This form should not be used to justify or promote specific design elements but rather to gather information for informed decision-making.
-</thinking>
-
 # Design Influence Assessment - Help Guide
 ## Purpose
 The Design Influence Assessment form is designed to help you evaluate the influence of different design elements on your work, decision-making, and overall importance. This form provides a comprehensive evaluation framework to identify which design elements matter most to you and why.

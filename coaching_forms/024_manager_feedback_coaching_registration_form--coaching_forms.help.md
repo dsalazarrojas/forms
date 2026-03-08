@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for managers to provide feedback and coaching to their team members. The purpose of this form is to collect information from managers on their coaching preferences, which will help the coaching team understand their needs and provide better support. Please make sure you only fill out this form once for each coaching session. If you have already filled out this form, please do not submit again.
-</thinking>
-
 # Manager Feedback Coaching Registration Form - Help Guide
 ## Purpose
 The Manager Feedback Coaching Registration Form is used to collect information from managers on their coaching preferences.

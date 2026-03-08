@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users for self-service purposes, allowing them to provide their feedback, acknowledge their identity, and potentially provide additional information such as email and phone numbers. The form is likely used to gather data for internal use, possibly for analysis or reporting. 
 
 </thinking>

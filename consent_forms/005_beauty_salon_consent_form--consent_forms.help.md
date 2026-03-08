@@ -1,13 +1,3 @@
-<thinking>
-Beauty salons require clients to fill out consent forms before receiving any services. This form is to ensure clients understand the potential risks and benefits associated with the treatments they request, as well as the salon's policies regarding consent, photo releases, and service expectations. 
-
-The purpose of this form is to gather necessary information from clients about their preferences, medical history, and consent for services. It is a crucial step in the process of ensuring a positive experience for both the client and the salon.
-
-Before you begin, take a moment to review the following information. This will help you understand the importance of filling out the form accurately and completely.
-
-Please fill out this form with the information requested, and a salon staff member will review it with you before beginning services.
-</thinking>
-
 # Beauty Salon Consent Form - Help Guide
 ## Purpose
 The Beauty Salon Consent Form is used to gather information about your preferences, medical history, and consent for services. It's essential to fill out this form accurately and completely to ensure a positive experience for both you and the salon.

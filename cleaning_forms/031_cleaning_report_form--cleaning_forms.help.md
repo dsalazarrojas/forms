@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a cleaning service provided to a client. It is meant for cleaners to report their experience and details of the service, including client interactions, tasks completed, supplies used, and any issues that arose during the process. This form should only be used by authorized personnel to report on cleaning services provided.
-
-This form is likely to be used internally by cleaning service providers to monitor client satisfaction, track supplies and equipment usage, and improve future cleaning services. It is not intended for public use or client submission. 
-
-Please ensure that you have the necessary permissions to use this form before proceeding.
-
-</thinking>
-
 # Cleaning Report Form - Help Guide
 
 ## Purpose

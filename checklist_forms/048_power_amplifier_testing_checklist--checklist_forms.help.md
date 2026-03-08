@@ -1,7 +1,3 @@
-<thinking>
-This form is used for testing power amplifiers to ensure they are functioning correctly and safely. The form is divided into several sections, which include selecting the type of amplifier being tested, conducting tests, recording results, and noting any relevant information or approvals. This form should be used by authorized personnel to document the testing process and results to maintain records and ensure compliance.
-</thinking>
-
 # Power Amplifier Testing Checklist - Help Guide
 ## Purpose
 This form is used to document the testing process of power amplifiers to ensure they are functioning correctly and safely.

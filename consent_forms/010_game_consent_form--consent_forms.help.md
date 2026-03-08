@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent for a game-related activity. It's intended for end-users who need to provide their information, consent, or feedback for a game-related project. Please ensure that this form is not used for any other purpose than its intended use, and that you have reviewed and updated the form's content regularly to avoid duplication of effort.
-</thinking>
-
 # Game Consent Form - Help Guide
 ## Purpose
 The Game Consent Form is designed to collect necessary information and consent for game-related activities. This form is used to gather relevant details and preferences from users, helping us better understand their needs and provide an enjoyable experience.

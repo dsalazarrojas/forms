@@ -1,8 +1,3 @@
-<thinking>
-This form is used for caregivers to provide information about a child's withdrawal from a care service. The form is designed to collect details about the child's last day of attendance, reason for withdrawal, and feedback about the service. This information will help us improve our service and provide better support for future children.
-
-</thinking>
-
 # Child Care Withdrawal Form - Help Guide
 
 ## Purpose

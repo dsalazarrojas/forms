@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather important information from individuals who want to participate in a fitness program. The purpose of this form is to obtain consent from participants, ensure they understand the program's terms and conditions, and collect any necessary medical information. The form is used to identify potential health risks and ensure participant safety. By completing this form, participants are providing their consent to participate in the fitness program and acknowledging the potential risks associated with it.
-
-</thinking>
-
 # Fitness Program Participation Consent Form - Help Guide
 ## Purpose
 

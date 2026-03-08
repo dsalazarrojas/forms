@@ -1,6 +1,4 @@
-> **<thinking>**
-We will create a user-facing help guide for the High School Camp Registration Form. This guide will explain the purpose of the form, how to complete it, and provide field-by-field explanations.
-**</thinking>**
+> ****
 
 
 # High School Camp Registration Form - Help Guide

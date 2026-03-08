@@ -1,5 +1,3 @@
-<thinking>...this form is likely used for academic institutions to collect information about student behavior, such as incidents of academic dishonesty, and have students acknowledge and sign off on the institution's academic honesty policy...</thinking>
-
 # Academic Honesty Form - Help Guide
 ## Purpose
 This form is designed for academic institutions to collect information about student behavior, including incidents of academic dishonesty, and have students acknowledge and sign off on the institution's academic honesty policy.

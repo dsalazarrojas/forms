@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help employees perceive and express their opinions on the compensation fairness within the company. It's meant to gauge employees' feelings on pay fairness, equity, and transparency. The form's purpose is to collect data on how employees perceive pay fairness and identify areas that need improvement. This information can be used to adjust compensation practices and policies to better reflect employee needs and expectations. 
-
-</thinking>
-
 # Compensation Fairness Perception Survey - Help Guide
 ## Purpose
 The Compensation Fairness Perception Survey is designed to collect employee feedback on pay fairness, equity, and transparency within the company. The survey is anonymous and aims to help us understand employee perceptions on compensation practices. Please take a few minutes to answer the questions below to help us improve our compensation policies.

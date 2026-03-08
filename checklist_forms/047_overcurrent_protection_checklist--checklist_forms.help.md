@@ -1,5 +1,3 @@
-<thinking>... The Overcurrent Protection Checklist is a form designed to assess the safety and reliability of electrical systems in a facility. It checks the inspection of facilities, the status of devices, and the functionality of circuit breakers. This form can be completed by maintenance personnel, electricians, or facility managers to identify potential electrical risks and take corrective actions. Before filling out this form, please ensure that you have access to the necessary information and resources, such as the facility's electrical system documentation and a list of devices and circuit breakers to check.</thinking>
-
 # Overcurrent Protection Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about nursing certifications, including the current status, type, date issued, and other relevant details. This form helps to ensure that certifications are up-to-date and accurate, which is crucial for patient care and safety. It also allows auditors to track and manage certifications, ensuring that certifications are verified, updated, or canceled as needed. This form is intended to be completed by nurses or other medical professionals who have been issued a nursing certification.
-</thinking>
-
 # nursing certification audit checklist - Help Guide
 ## Purpose
 The nursing certification audit checklist is a tool used to collect information about nursing certifications, ensuring they are up-to-date and accurate. This form helps to verify, update, or cancel certifications, which is essential for patient care and safety.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from arts organizations and institutions about their experiences with public relations (PR) campaigns. The form is designed to collect data on various aspects of PR, including awareness, messaging clarity, media coverage, social media effectiveness, and areas for improvement. This form will help identify trends and insights that can inform future PR strategies and initiatives.
-This form is intended for arts organizations and institutions, and it is not affiliated with or endorsed by any particular form platform. It is an original adaptation created by AI using public survey topic metadata.
-To ensure relevance and non-duplication, please note that this form has been created for arts organizations and institutions only.
-</thinking>
-
 # Arts Public Relations Survey - Help Guide
 ## Purpose
 The Arts Public Relations Survey is a tool designed to gather information from arts organizations and institutions about their experiences with public relations (PR) campaigns. This form aims to identify trends and insights that can inform future PR strategies and initiatives.

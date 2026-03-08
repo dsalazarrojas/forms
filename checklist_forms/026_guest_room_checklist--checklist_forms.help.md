@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating the guest room's features and condition. The purpose of this form is to provide a comprehensive assessment of the room's quality and amenities. It is used by hotel staff to inspect and review the room's condition before it is assigned to guests. This form should only be filled out by authorized personnel and not by guests. The form is not intended to be a comprehensive survey, but rather a quick and efficient way to gather information about the room's condition.
-</thinking>
-
 # Guest Room CheckList - Help Guide
 ## Purpose
 The Guest Room CheckList is a form used to assess the condition and features of a hotel room. This form helps hotel staff evaluate the room's quality and identify any areas that require attention.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Labor Law Learning Tools Survey. The purpose of this form is to gauge the effectiveness of the current labor law learning tools available to users. This form will help us understand whether the tools are meeting the needs of the users and identify areas for improvement. 
 
 Please ensure you have read and understood the purpose of this form before continuing, and be aware that completing this form will take approximately 5-10 minutes.

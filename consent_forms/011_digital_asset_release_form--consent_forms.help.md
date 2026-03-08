@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain digital asset releases from creators, which are individuals or entities that contribute to the development of digital assets, such as images, videos, or audio files. This form helps to clarify the terms of use for these assets, ensuring that creators understand how their contributions will be used by the organization. It's essential to fill out this form carefully to avoid any potential issues or miscommunication with the creators. Please review the following guide to understand how to complete this form correctly and ensure that all required fields are filled out accurately.
-</thinking>
-
 # Digital Asset Release Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used for obtaining participant consent for evaluations. It is intended for situations where evaluations or assessments are being conducted, such as for research, quality control, or other types of evaluations. This form should not be used for other purposes such as surveys or other types of assessments that do not require participant consent.
-
-Before filling out this form, ensure that you are not duplicating an existing evaluation or assessment. This form is meant for new, unique evaluations and assessments, and using it for something that already exists may cause confusion or create unnecessary work.
-
-</thinking>
-
 # Evaluation Consent Form Template - Help Guide
 
 ## Purpose

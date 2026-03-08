@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Wellbeing Index Survey - Help Guide
 ## Purpose
 This form is designed to assess the wellbeing of caregivers, providing a comprehensive evaluation of their physical and emotional health, stress levels, and support systems. The survey aims to help caregivers identify areas of strength and weakness, and provide insights for support and self-care recommendations.

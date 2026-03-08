@@ -1,10 +1,3 @@
-<thinking>
-We are creating a form for OEM (Original Equipment Manufacturer) production scaling feedback. This form is designed to gather information from OEMs about their experiences with our production scaling processes. We want to understand their challenges, needs, and feedback to improve our processes and better serve them in the future. This form will be used to collect data that will help us identify areas for improvement and make informed decisions to scale our production effectively.
-
-Before proceeding, please note that this form is for internal use only and will not be publicly available. Also, please ensure that you have not filled out this form previously, as we want to avoid duplicate feedback. If you have already provided feedback, you can skip this form and let us know so we can update your information accordingly.
-
-</thinking>
-
 # oem_production_scaling_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from OEMs on their experiences with our production scaling processes. Your input will help us identify areas for improvement and make informed decisions to scale our production effectively.

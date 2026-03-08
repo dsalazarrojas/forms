@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Check In Form - Help Guide
 
 ## Purpose

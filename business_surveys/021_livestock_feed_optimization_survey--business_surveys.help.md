@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about livestock feed optimization on farms. It is intended for farmers and livestock producers to provide details about their feed sources, nutrient balances, and feeding frequencies. The form is used to gather data for internal analysis and decision-making within the organization.
-</thinking>
-
 # Livestock Feed Optimization Survey - Help Guide
 ## Purpose
 This form is designed to collect information about livestock feed optimization on farms. It is intended for farmers and livestock producers to provide details about their feed sources, nutrient balances, and feeding frequencies.

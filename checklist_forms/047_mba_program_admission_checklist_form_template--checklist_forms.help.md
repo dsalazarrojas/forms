@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form will help guide users through the admission checklist for an MBA program. This form appears to be a comprehensive checklist for the admissions process. I'll make sure to explain each field clearly and concisely in the user-facing help guide.
-
-</thinking>
-
 # mba_program_admission_checklist_form_template - Help Guide
 ## Purpose
 This form is designed to help admissions staff track and document the status of MBA program applications. It provides a checklist for evaluating and updating the status of each application.

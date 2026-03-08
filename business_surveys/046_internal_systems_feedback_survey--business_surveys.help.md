@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal systems feedback survey is designed to gather opinions and thoughts from employees about the internal systems used in the organization. The purpose of this survey is to understand the overall satisfaction and effectiveness of the systems, which will help the management team to identify areas for improvement and make data-driven decisions. Before completing the survey, please ensure that you have not already provided feedback on these systems, as duplicate responses will not be counted in the analysis.
 
 </thinking>

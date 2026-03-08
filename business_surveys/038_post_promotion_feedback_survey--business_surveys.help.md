@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from customers after a post-promotion event. This form helps us understand the effectiveness of our promotional efforts and identify areas for improvement. It's essential to ensure that the form is completed accurately and thoroughly to gather valuable insights. Please review the form carefully and fill it out with as much detail as possible.
-
-</thinking>
-
 # post_promotion_feedback_survey - Help Guide
 ## Purpose
 The post-promotion feedback survey is designed to collect valuable information about our promotional activities. This feedback will help us refine our strategies and improve future promotions.

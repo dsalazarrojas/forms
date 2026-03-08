@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect participant information and consent for league branding activities. The goal is to capture data that will help us understand and respect the individual's boundaries and preferences when using their name, image, or likeness for branding purposes. This form is essential for ensuring that we maintain a positive and respectful relationship with our participants and their guardians.
-
-</thinking>
-
 # League Branding Participation Consent Form - Help Guide
 ## Purpose
 This form is used to gather information about the participant's name, image, and likeness and their guardian's details. It is a critical step in ensuring that we respect their rights and boundaries when using their name, image, or likeness for branding purposes.

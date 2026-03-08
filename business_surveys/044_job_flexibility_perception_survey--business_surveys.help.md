@@ -1,7 +1,3 @@
-<thinking> 
-  This form is designed to gather information about an individual's perception of job flexibility within their work environment. It assesses how often team leads support flexible work policies, how team members communicate about work policies, and individual satisfaction with their work-life balance. To ensure accurate completion, please review the form carefully and answer based on your honest assessment. This form is for research purposes only and is intended to be completed once per individual. Please do not repeat this form for the same individual. 
-</thinking>
-
 # Job Flexibility Perception Survey - Help Guide
 ## Purpose
 The Job Flexibility Perception Survey is designed to gather information about an individual's perception of job flexibility within their work environment.

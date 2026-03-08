@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and correct usage of this form, we need to consider the fields provided in the YAML configuration. The form is titled "ICO And Presale Overview Survey" and appears to be related to an ICO (Initial Coin Offering) and presale context. The form seems to be designed for collecting information related to business surveys, which might include details about the ICO, its category, description, output file, assigned tool, form ID, category ID, and description ID.
-</thinking>
-
 # ICO And Presale Overview Survey - Help Guide
 ## Purpose
 The "ICO And Presale Overview Survey" form is designed to collect relevant information related to Initial Coin Offerings (ICOs) and presales. This form appears to be part of a business survey, which might be used for analysis, reporting, or other business purposes.

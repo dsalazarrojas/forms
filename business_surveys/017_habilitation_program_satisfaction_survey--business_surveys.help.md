@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from participants in the habilitation program. It aims to understand their overall experience, satisfaction, and perception of various aspects of the program. This form is meant to be completed by program participants, and the feedback will be used to improve the program. Please make sure to complete the form honestly and thoroughly, as your feedback is essential for the program's development.
-</thinking>
-
 # Habilitation Program Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from participants in the habilitation program. Your input will help us understand your overall experience and suggestions for improvement.

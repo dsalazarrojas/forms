@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking the status of morning cleaning tasks. It's designed to be completed by staff members or custodians who are responsible for ensuring that the floors and rooms are cleaned and ready for the day ahead. The form is intended to be filled out once a day, with the due date reflecting the day's date and the start and end times indicating when the cleaning was completed. Each field in the form has a specific purpose, and this guide will walk you through what each field is for and how to complete it.
-</thinking>
-
 # morning_cleaning_checklist - Help Guide
 ## Purpose
 The morning cleaning checklist is used to track the status of morning cleaning tasks. It's a daily form used by staff members or custodians to report on the cleaning status of floors and rooms.

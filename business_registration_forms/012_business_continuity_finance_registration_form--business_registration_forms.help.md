@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from businesses for financial continuity purposes. The form is used to collect data on a business's organization, financials, and risk assessment to aid in making informed decisions regarding continuity funding. This form helps to verify the business's identity, financial status, and ability to repay. It's essential to fill out the form accurately, as it will be used to assess the business's creditworthiness and risk profile.</thinking>
-
 # Business Continuity Finance Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from businesses to aid in making informed decisions regarding continuity funding.

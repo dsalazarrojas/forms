@@ -1,7 +1,3 @@
-<thinking>
-Access Control System Checklist Form is used to evaluate and record the status of physical and electronic security systems, including locks, doors, surveillance cameras, alarm systems, and other safety features. This form helps inspectors assess the overall security posture of a facility and identify areas that require improvement or maintenance. It is a crucial tool for ensuring that facilities meet or exceed regulatory requirements and industry standards.
-</thinking>
-
 # Access Control System Checklist Form - Help Guide
 ## Purpose
 The Access Control System Checklist Form is designed to help inspectors evaluate and record the status of physical and electronic security systems, including locks, doors, surveillance cameras, alarm systems, and other safety features. This form ensures that facilities meet or exceed regulatory requirements and industry standards.

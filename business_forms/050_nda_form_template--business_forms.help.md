@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nda Form Template - Help Guide
 
 ## Purpose

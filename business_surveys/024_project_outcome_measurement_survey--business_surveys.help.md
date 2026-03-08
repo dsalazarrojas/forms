@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback from project team members and stakeholders about the outcome of a project, including its primary goal, outcome, and impact. It's essential to provide clear and concise answers to help the project team understand what worked well and what didn't. The form will help us identify areas of improvement for future projects. Please ensure that you've reviewed the form carefully and only answer questions that apply to your experience with the project.
-</thinking>
-
 # Project Outcome Measurement Survey - Help Guide
 
 ## Purpose

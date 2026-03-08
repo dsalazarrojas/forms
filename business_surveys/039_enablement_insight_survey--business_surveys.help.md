@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of completing the Enablement Insight Survey form. This form is used to gather information on various aspects of enablement programs, including programs, categories, status, and outcomes. It's essential to review all fields carefully to provide accurate and detailed information. 
-
-This form is used to collect insights into enablement programs, which are crucial for making informed decisions. Please ensure that you answer all questions truthfully and thoroughly.
-
-To confirm that this is the correct form, please verify that the form title is "Enablement Insight Survey".
-
-Before starting, please confirm that you have all necessary information and resources ready.
-</thinking>
-
 # Enablement Insight Survey - Help Guide
 ## Purpose
 The Enablement Insight Survey form is designed to gather information on various aspects of enablement programs, helping to inform business decisions.

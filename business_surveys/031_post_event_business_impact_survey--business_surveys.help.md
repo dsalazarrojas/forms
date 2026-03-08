@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and completion of the "post event business impact survey" form. The form is designed to capture information about an event that has occurred and its impact on the business. 
-
-This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field. 
-
-Before starting, ensure that you have all the necessary information ready. The form is divided into several sections, and each section is designed to capture specific information about the event. 
-
-This guide will help you navigate through each field and ensure that you complete the form accurately. 
-
-If you have any questions or concerns, please don't hesitate to reach out to the support team. 
-
-Please note that this form is not a substitute for official reporting or documentation. It is intended to provide additional insights and feedback about the event. 
-
-</thinking>
-
 # post event business impact survey - Help Guide
 ## Purpose
 The "post event business impact survey" form is designed to capture information about an event that has occurred. The form helps to identify the purpose and impact of the event on the business. It provides a platform for gathering feedback and insights that can be used to improve future events.

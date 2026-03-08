@@ -1,7 +1,3 @@
-<thinking>
-This form is a maintenance checklist for a church facility, designed to help inspectors assess and report on the condition of various areas of the building. The form is divided into three main sections: Interior, Exterior and Grounds, and Maintenance Summary. The purpose of this form is to ensure that regular checks are performed to maintain the facility's safety and cleanliness, and to identify any issues that need immediate attention. This form is for the use of facility inspectors and staff to aid in their inspections and reporting process.
-
-</thinking>
 # Church Facility Maintenance Checklist - Help Guide
 ## Purpose
 This form is a maintenance checklist for a church facility, designed to help inspectors assess and report on the condition of various areas of the building. The form is divided into three main sections: Interior, Exterior and Grounds, and Maintenance Summary.

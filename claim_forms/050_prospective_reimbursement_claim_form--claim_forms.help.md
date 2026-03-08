@@ -1,18 +1,3 @@
-<thinking>
-The form is used to collect information from claimants who are requesting reimbursement for expenses incurred in connection with a claim. This form will help you to gather the necessary details from the claimant, including their contact information, receipt upload, and reimbursement request details.
-
-We need to ensure that the form is filled out accurately and completely to avoid any errors or delays in the reimbursement process.
-
-Please note that this form is for prospective reimbursement claims, meaning it is intended for claims that are being submitted before the expenses have been incurred or have not yet been fully reimbursed.
-
-Before filling out this form, ensure that you have all the necessary information and documents ready.
-
-Also, please review the terms and conditions of the claim carefully before submitting the form.
-
-The following sections of the form are mandatory: Claimant Name, Claimant E-mail, Claimant Phone, Date, Claimant Company, Claimant Job Title, Claimant Department, Receipt Upload, Claimant Reimbursement Request, Claimant Request, Claimant Request Details, Claimant Agreed Terms, Reviewer Name, Reviewer E-mail, Reviewer Phone.
-
-</thinking>
-
 # Prospective Reimbursement Claim Form - Help Guide
 ## Purpose
 The Prospective Reimbursement Claim Form is used to collect information from claimants who are requesting reimbursement for expenses incurred in connection with a claim.

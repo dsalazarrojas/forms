@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renewable Energy Utilization Report Form - Help Guide
 ## Purpose
 The Renewable Energy Utilization Report Form is used to collect data on the utilization of renewable energy sources within a company. This form helps to gather information on the type and amount of energy used, as well as other relevant details such as the company name and email. The form is designed to be completed by a company representative and is used to generate a report that can be used for further analysis and decision-making.

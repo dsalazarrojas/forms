@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is used for account holders to request deactivation of call forwarding on their account. Before submitting this form, please ensure that you are authorized to access this account and that you have a valid reason for deactivating call forwarding. This form should only be submitted once and not duplicated for the same reason. If you are requesting deactivation for multiple numbers or reasons, please create a separate form for each request. 
-
-</thinking>
-
 # Call Forwarding Deactivation Request Form - Help Guide
 
 ## Purpose

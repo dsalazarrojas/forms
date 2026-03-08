@@ -1,9 +1,3 @@
-<thinking>
-
-As a business survey form, the purpose of this "Best Practices Survey" is to collect feedback and opinions from employees on various aspects of the organization's practices. This form is designed to be completed by individual employees and is meant to be a quick and easy way for them to provide their thoughts on the best practices within the organization. Before starting, please ensure that you have not completed this survey previously, as this form is meant to be completed only once.
-
-</thinking>
-
 # Best Practices Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback and opinions from employees on various aspects of the organization's practices. It is designed to be a quick and easy way for employees to provide their thoughts on the best practices within the organization.

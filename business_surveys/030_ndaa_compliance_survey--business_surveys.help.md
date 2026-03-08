@@ -1,5 +1,3 @@
-<thinking>What this form is meant to measure? Is it a one-time assessment, or an ongoing monitoring tool? Is it meant for employees, partners, or customers? What is the purpose of the NDAA (I'm assuming it's National Defense Authorization Act) compliance, and why is it important to monitor compliance with this act?</thinking>
-
 # NDAA Compliance Survey - Help Guide
 ## Purpose
 This form is designed to ensure that all stakeholders within the organization are in compliance with the National Defense Authorization Act (NDAA). Regularly completing this form will help identify and report potential issues or risks associated with NDAA compliance.

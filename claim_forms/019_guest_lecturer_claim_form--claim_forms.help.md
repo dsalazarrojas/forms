@@ -1,7 +1,3 @@
-<thinking>
-This form is used for Guest Lecturers to claim reimbursement for expenses related to their work. The form is designed to collect specific information about the claim, including the lecturer's personal information, claim details, and any additional information necessary to process the claim. It's essential to ensure you are eligible to complete this form. Please review the form carefully before submitting it to avoid any discrepancies or omissions.
-</thinking>
-
 # Guest Lecturer Claim Form - Help Guide
 ## Purpose
 This form is for Guest Lecturers to claim reimbursement for expenses related to their work. Please use this form to provide accurate information about your claim.

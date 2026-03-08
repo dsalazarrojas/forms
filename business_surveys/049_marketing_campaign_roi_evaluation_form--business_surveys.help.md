@@ -1,14 +1,3 @@
-<thinking>
-We're considering creating a form to evaluate the return on investment (ROI) of marketing campaigns. The form should gather information about the campaign's performance, goals, target audience, budget allocation, and more. This will help us determine whether the campaign has been profitable or not.
-
-Before filling out this form, please make sure you have a clear understanding of the campaign's objectives, target audience, and budget allocation.
-
-Please answer the questions honestly and to the best of your abilities. If you're unsure about any field, feel free to ask your supervisor or team lead for guidance.
-
-This form should not be completed for duplicate or similar campaigns. Each campaign should have its own unique form submission.
-
-</thinking>
-
 # Marketing Campaign ROI Evaluation Form - Help Guide
 ## Purpose
 The Marketing Campaign ROI Evaluation Form is designed to help evaluate the return on investment (ROI) of marketing campaigns. It gathers information about campaign performance, goals, target audience, budget allocation, and more to determine whether a campaign has been profitable or not.

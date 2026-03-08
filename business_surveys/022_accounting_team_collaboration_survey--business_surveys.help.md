@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather feedback from accounting team members to assess their collaboration experience. This feedback can help identify areas for improvement, such as communication effectiveness, task distribution, and collaboration tools usage. To avoid duplication, ensure you haven't already completed this survey recently. If you're unsure or have questions, please reach out to your supervisor.
-</thinking>
-
 # Accounting Team Collaboration Survey - Help Guide
 ## Purpose
 The Accounting Team Collaboration Survey is designed to gather feedback from team members on their experiences with collaboration within the team. Your input will help identify areas for improvement and contribute to creating a more effective team environment.

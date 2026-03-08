@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting feedback or data on manifestation techniques from users, perhaps for internal research or analysis. The form may not be relevant to everyone, and it's possible that some users may have already filled out a similar form in the past. Please ensure you only fill out this form if it's genuinely applicable to your experience and hasn't been completed recently.
-</thinking>
-
 # Manifestation Techniques Survey - Help Guide
 ## Purpose
 The Manifestation Techniques Survey is a form designed to gather information about your experiences with various manifestation techniques. This data will be used to better understand how users engage with these techniques and identify areas for improvement.

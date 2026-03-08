@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from clients about their health and medical history, emergency contacts, and insurance details. This form is intended to be completed by the client themselves, and the information collected will be used by the health coach to better understand their client's needs and provide personalized guidance. 
-
-To avoid duplication of effort, it's essential to ensure that the coach has access to all necessary information in the client's file before starting sessions.
-
-Please ensure you are familiar with your client's medical history, allergies, and current conditions before starting the coaching process. The data collected here will serve as the foundation for the coach's understanding of their client.
-
-</thinking>
-
 # Health Coach Client Intake Form - Help Guide
 ## Purpose
 The Health Coach Client Intake Form is designed to gather essential information from clients, ensuring that the health coach has a comprehensive understanding of the client's needs and medical history.

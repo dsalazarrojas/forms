@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gather information about a user's PC game library. This form will help us understand the user's gaming preferences, habits, and collection. We need to verify the form's purpose and ensure it's not being used for other purposes to maintain data quality and user trust.
-</thinking>
-
 # PC Game Library Checklist - Help Guide
 ## Purpose
 The PC Game Library Checklist form is designed to collect information about a user's collection of PC games. This form helps us understand the user's gaming preferences, habits, and collection.

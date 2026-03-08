@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect data from attendees interested in attending the "Data Ethics In Education Roundtable" conference. The form is intended to gather basic contact information and details about the attendees' interests and roles within the field of data ethics in education. The purpose of the form is to allow organizers to better understand who will be attending the conference and to tailor the event schedule and materials accordingly.
-
-By completing this form, you will be able to:
-* Provide your name, email, and affiliation (if applicable)
-* Specify your role within the conference (Chair, Member, or Guest)
-* Indicate your interests in different data ethics topics
-* Provide any additional comments or notes about your attendance
-
-This form is required for all attendees. Please note that by registering, you agree to share your information with the organizers of the "Data Ethics In Education Roundtable" conference.
-</thinking>
-
 # Data Ethics In Education Roundtable Registration - Help Guide
 ## Purpose
 This form is designed to collect data from attendees of the "Data Ethics In Education Roundtable" conference.

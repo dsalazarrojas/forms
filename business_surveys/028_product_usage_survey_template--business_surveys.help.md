@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's experience with a product. It's crucial to understand how users interact with the product, how often they use it, and what they think about it. This data will help the product team gather valuable insights to improve and refine the product. Make sure to fill out this form only once per product, and please do not fill it out for the same product more than once. If you have already filled out this form for a product, do not fill it out again.
-</thinking>
-
 # Product Usage Survey Template - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's experience with a product. It's crucial to understand how users interact with the product, how often they use it, and what they think about it. This data will help the product team gather valuable insights to improve and refine the product.

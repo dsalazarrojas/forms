@@ -1,7 +1,3 @@
-<thinking>
-This form is used to determine the eligibility of a military personnel for a medical discharge pension. It is used to gather information about the military service history, medical discharge status, and pension eligibility of the claimant. This form should only be used by military personnel who are seeking a medical discharge pension, and it is not intended for general public use. Please ensure that you have the necessary authorization and permissions to access and complete this form.
-</thinking>
-
 # Military Medical Discharge Pension Eligibility Questionnaire - Help Guide
 ## Purpose
 The Military Medical Discharge Pension Eligibility Questionnaire is used to determine the eligibility of military personnel for a medical discharge pension. This form helps gather information about the military service history, medical discharge status, and pension eligibility of the claimant.

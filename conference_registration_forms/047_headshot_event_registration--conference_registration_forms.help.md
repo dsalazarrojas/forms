@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for the Headshot event. The form is meant to collect relevant information from attendees about their event attendance and preferences. It is recommended that you only register once for each attendee. If you need to register multiple attendees, please create a new form for each individual. The form will be reviewed and approved internally. Please ensure that you understand the purpose and content before submitting the form.
-</thinking>
-
 # Headshot Event Registration - Help Guide
 ## Purpose
 The Headshot Event Registration form is used to collect information from attendees about their event attendance and preferences. This form is required for all attendees.

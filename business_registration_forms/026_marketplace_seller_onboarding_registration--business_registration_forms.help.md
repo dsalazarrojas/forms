@@ -1,7 +1,3 @@
-<thinking>
-We're providing a Marketplace Seller Onboarding Registration form to enable new sellers to register and get started with our platform. This form collects essential information for seller verification and ensures a smooth onboarding experience. Please ensure you fill out this form accurately and completely, as incomplete or incorrect submissions may lead to delayed or denied registrations. We also encourage you to read and understand the provided explanations to get the most out of this form.
-</thinking>
-
 # Marketplace Seller Onboarding Registration - Help Guide
 ## Purpose
 This form is designed to collect necessary information from sellers to complete the onboarding process. It helps us verify seller identities and categorize their products effectively.

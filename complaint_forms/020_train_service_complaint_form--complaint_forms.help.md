@@ -1,5 +1,3 @@
-<thinking>...the form was designed to collect user complaints and issues related to train services, allowing users to report problems they have encountered while using train services. The form aims to gather information about the incident, including details about the passenger, the train number, a brief description of the issue, the date and time it occurred, the train station involved, the type of train, and the mode of transportation. By providing this information, users can help identify potential issues and improve the train service quality. To avoid duplication, users are not allowed to submit a complaint for the same train number on the same day. This form is intended for passengers to report incidents that occurred on train services, including issues with train delays, cancellations, staff behavior, or other train-related problems... </thinking>
-
 # Train Service Complaint Form - Help Guide
 
 ## Purpose

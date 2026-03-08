@@ -1,11 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a user-facing help guide for the "Class Relinquishment Claim Form". To ensure the form's purpose is clear, I will briefly explain the form's purpose and context inside this thought block. The form is designed to be used by students who wish to relinquish a class, and it requires students to provide necessary information to facilitate this process. This form is typically used in an educational institution, and the data collected will help administrators and academic advisors understand the reasons for the student's request.
-
-To determine if the form is being used for a valid reason, the form will have certain fields that require information about the student's circumstances. This helps to identify if the request is legitimate, and the student is not trying to avoid academic responsibilities.
-
-The form is divided into sections to make it easier for students to navigate and provide all the necessary information. Each section has a clear label and description to help students understand what is expected of them.
-
-The form requires students to provide their personal information, class information, and details about their circumstances. This includes their full name, student ID number, email address, phone number, course name, course code, course section, instructor's name, semester, reason for relinquishing the class, detailed explanation, date of relinquishment request, date of last class attendance, current grade status, progress description, impact on degree completion, and supporting documentation. Students must also acknowledge understanding the consequences of relinquishing the class and confirm their request for relinquishment.</thinking>
-
 # Class Relinquishment Claim Form - Help Guide
 
 ## Purpose

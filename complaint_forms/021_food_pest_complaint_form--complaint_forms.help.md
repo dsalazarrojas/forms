@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who have experienced issues with food establishments. The purpose of this form is to collect details about the incident, including the customer's information, the date of the incident, the food establishment's name, the incident's location, and a description of what happened. This form will help food establishments identify potential issues and take corrective action to improve customer satisfaction. 
-
-Please note that this form is intended for customers who have experienced issues with food establishments, not for general customer feedback or comments. If you are not experiencing issues with a food establishment, please do not fill out this form.
-
-Also, please ensure that you are filling out this form in good faith and providing accurate information. Your feedback is valuable to us and will help us improve our services.
-
-</thinking>
-
 # Food Pest Complaint Form - Help Guide
 ## Purpose
 The Food Pest Complaint Form is designed to gather information from customers who have experienced issues with food establishments. This form will help us identify potential issues and take corrective action to improve customer satisfaction.

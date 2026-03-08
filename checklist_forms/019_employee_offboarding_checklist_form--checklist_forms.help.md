@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's quickly review the form purpose and fields. This form seems to be a comprehensive checklist for an employee's offboarding process. It covers various aspects, such as onboarding procedures, exit interviews, return of company property, change of address, return of company equipment, onboarding checklist completion, return of company vehicles, return of keycards, and return of ID cards. The form is likely used to ensure a systematic and thorough approach to offboarding employees, making sure all necessary steps are taken to complete the process.</thinking>
-
 # Employee Offboarding Checklist Form - Help Guide
 ## Purpose
 The Employee Offboarding Checklist Form is a systematic guide to help you complete the offboarding process for departing employees. It ensures all necessary steps are taken to return company property, equipment, and documents, and complete any outstanding onboarding procedures.

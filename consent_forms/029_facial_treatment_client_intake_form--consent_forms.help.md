@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facial Treatment Client Intake Form - Help Guide
 ## Purpose
 The Facial Treatment Client Intake Form is used to gather information from clients who are interested in pursuing facial treatments at your establishment. This form helps the client provide details about their skin needs, medical history, and treatment preferences, ensuring that the treatment plan is tailored to their individual needs. Please fill out this form before scheduling a facial treatment appointment.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about sports viewing habits of individuals. The goal is to understand how people consume sports content, including the types of sports they watch, devices they use to watch sports, and the duration they spend watching sports. This form is used to inform the development of sports-related products and services.
-This form is part of a larger series of surveys designed to gather insights on various aspects of entertainment and media consumption. To ensure consistency and accuracy in the data collected, please note that this form does not allow for duplicate entries. If you have already completed this survey, you will not be able to submit your responses again.
-</thinking>
-
 # Sports Viewing Habits Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your sports viewing habits, including the types of sports you watch, devices you use, and the duration you spend watching sports.

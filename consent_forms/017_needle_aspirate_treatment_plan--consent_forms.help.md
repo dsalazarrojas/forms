@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the needle aspirate treatment plan, specifically focusing on consent forms. It is crucial to understand that this form is part of a treatment process and should only be filled out after the initial procedure has been completed. The purpose of this form is to ensure that all necessary information is recorded and communicated effectively between the doctor and the patient. This form should only be used for patients who have undergone or are about to undergo a needle aspirate procedure and requires input from medical professionals. The information collected in this form will be used to track the patient's follow-up appointments, procedures, and statuses. 
-
-This guide will walk you through the steps to complete this form, explaining each field in detail to ensure the correct and accurate information is captured.
-
-</thinking>
-
 # needle_aspirate_treatment_plan--consent_forms - Help Guide
 
 ## Purpose

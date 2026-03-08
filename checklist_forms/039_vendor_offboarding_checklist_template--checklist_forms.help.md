@@ -1,9 +1,3 @@
-<thinking>
-
-The Vendor Offboarding Checklist Template is designed to be used for the offboarding process of vendors who no longer require further support or collaboration. The form helps to collect and document the necessary information for offboarding a vendor in a systematic and efficient manner. This form ensures that all relevant details are captured and stored in one place, making it easier to manage the offboarding process and reduce errors.
-
-</thinking>
-
 # Vendor Offboarding Checklist Template - Help Guide
 ## Purpose
 This form is used to document the details of a vendor who is being offboarded. It captures essential information that helps in the offboarding process and ensures that all necessary steps are taken.

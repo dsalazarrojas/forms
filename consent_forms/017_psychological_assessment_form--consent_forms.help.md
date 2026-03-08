@@ -1,12 +1,3 @@
-<thinking>
-The Psychological Assessment Form is used to collect information about a client's psychological health and assessment details. This form is intended for clients of mental health professionals, such as psychiatrists, therapists, and counselors. It is designed to capture relevant details about the client's psychological health, assessment schedule, and other relevant information. 
-
-This form will be used to help mental health professionals assess and track client progress. It is not intended for general public use. Only clients who have been assigned a mental health professional will be able to access and submit this form.
-
-Please ensure that you are accessing this form as a legitimate client of a mental health professional before proceeding. If you are not a client, please do not complete this form.
-
-</thinking>
-
 # Psychological Assessment Form - Help Guide
 ## Purpose
 The Psychological Assessment Form is used to collect information about a client's psychological health and assessment details from mental health professionals.

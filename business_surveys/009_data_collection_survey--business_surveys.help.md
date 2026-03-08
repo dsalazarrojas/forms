@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used for collecting demographic and personal data from individuals or businesses. The purpose of this form is to gather information about the respondent, including their name, contact details, preferences, and interests. This form may be used for marketing, sales, or customer feedback purposes. To ensure accuracy, please note that some fields are required while others are optional.
-</thinking>
-
 # Data Collection Survey - Help Guide
 ## Purpose
 The Data Collection Survey is designed to collect demographic and personal data from individuals or businesses. This form is meant to gather information about the respondent, including their name, contact details, preferences, and interests.

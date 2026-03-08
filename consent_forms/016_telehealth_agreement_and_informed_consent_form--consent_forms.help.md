@@ -1,7 +1,3 @@
-<thinking>
-The "telehealth_agreement_and_informed_consent_form" form is designed for patients to provide their information, agree to telehealth services, and sign electronically. It includes fields for patient details, contact information, and service specifics. The form aims to ensure patients understand and agree to the terms of telehealth services. To prevent duplication, ensure this form is only filled out once, and the patient has not previously consented to telehealth services with the same telehealth provider.
-</thinking>
-
 # telehealth_agreement_and_informed_consent_form - Help Guide
 ## Purpose
 The telehealth agreement and informed consent form is a patient-facing form designed to collect patient information, agreement, and signature for telehealth services. It is essential for patients to understand and agree to the terms of telehealth services.

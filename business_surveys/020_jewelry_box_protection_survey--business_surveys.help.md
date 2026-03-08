@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers about the protection features and overall satisfaction with a jewelry box product. The purpose of this form is to gauge customer satisfaction and gather insights on how customers store and protect their jewelry boxes. It's essential to complete this form thoroughly and accurately to provide valuable information for product development and improvement. Before starting, ensure you have not already submitted this form, as it will help us in maintaining the quality and consistency of our responses.
-
-</thinking>
-
 # Jewelry Box Protection Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with jewelry box protection and overall satisfaction with the product.

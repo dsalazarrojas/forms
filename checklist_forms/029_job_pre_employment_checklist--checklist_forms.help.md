@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Pre Employment Checklist - Help Guide
 ## Purpose
 

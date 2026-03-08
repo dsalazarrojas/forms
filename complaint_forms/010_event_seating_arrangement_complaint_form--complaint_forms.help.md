@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help event organizers and participants report any issues or complaints regarding seating arrangements at events. The form is used to gather information about the event name, date, time, location, and any issues that occurred related to seating. This form will help us identify common themes and areas of improvement for future events.
 
 # Event Seating Arrangement Complaint Form - Help Guide

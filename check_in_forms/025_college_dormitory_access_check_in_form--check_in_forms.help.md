@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # College Dormitory Access Check In Form - Help Guide
 
 ## Purpose

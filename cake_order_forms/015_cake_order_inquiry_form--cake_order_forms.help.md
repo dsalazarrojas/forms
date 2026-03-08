@@ -1,19 +1,3 @@
-<thinking>
-
-To ensure the form is completed accurately and consistently, let's review the form purpose and potential pitfalls.
-
-**Purpose**: This form is designed to collect information from customers about their cake order, including their contact details, event type, and preferences. It's essential to fill out the form accurately to ensure that the cake designer can create the perfect cake for the event.
-
-**Potential Pitfalls**: To avoid any miscommunication, please double-check the following:
-
-* Make sure to select the correct event type, as it will influence the design and flavor choices.
-* Be specific about the preferred cake flavors and frosting, as it will impact the overall taste and appearance of the cake.
-* If you have dietary restrictions, please select all that apply to ensure the designer can accommodate your needs.
-* Be realistic about your budget range, as it will influence the cake design and decoration options.
-* If you have any special requests or comments, please describe them in the detailed text field, so the designer can take them into account.
-
-</thinking>
-
 # Cake Order Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information about your cake order, including your contact details, event type, preferences, and any special requests or comments.

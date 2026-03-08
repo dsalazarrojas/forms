@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from clients before undergoing facial treatments. It's designed to be completed by the client, and its purpose is to ensure informed consent and proper treatment planning. Before filling out this form, please ensure that the client has not already completed it, and if you're unsure, you can always check with the client or review previous forms to avoid duplication.
-</thinking>
-
 # Client Facial Consent Form - Help Guide
 ## Purpose
 The Client Facial Consent Form is a crucial document that helps us provide personalized and safe treatment for each client. It's essential for us to understand your medical history, preferences, and any sensitivities you may have. By filling out this form, you'll be able to give us the necessary information to tailor our services to your needs.

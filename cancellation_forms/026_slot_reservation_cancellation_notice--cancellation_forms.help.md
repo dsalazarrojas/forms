@@ -1,7 +1,3 @@
-<thinking> 
-- This form is used to notify the management team about a slot cancellation. The purpose of this form is to provide a clear and concise way to inform the team about the reason for the cancellation. It is essential to fill out this form accurately and thoroughly to ensure that the management team has all the necessary information to make informed decisions. Please note that this form is not intended for duplicate submissions, so please only submit this form once. If you need to cancel multiple slots, please fill out this form multiple times, but make sure to provide the correct details for each cancellation. 
-</thinking>
-
 # Slot Reservation Cancellation Notice - Help Guide
 ## Purpose
 This form is used to inform the management team about a slot cancellation.

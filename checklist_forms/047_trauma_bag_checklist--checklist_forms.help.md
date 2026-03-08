@@ -1,5 +1,3 @@
-<thinking>This form is intended for users to document and track their trauma bags, which are crucial in emergency medical response situations. The purpose of this form is to collect information about the trauma bags' condition, contents, and certification status to ensure compliance with regulatory requirements. To ensure accurate and efficient data collection, the form is designed to guide users through the process of checking and reporting on the status of each trauma bag.</thinking>
-
 # Trauma Bag Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect and track information about trauma bags, which are essential in emergency medical responses. This form helps users document the condition, contents, and certification status of each trauma bag to ensure compliance with regulatory requirements.

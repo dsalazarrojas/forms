@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: "The Line Length Input Form is designed to collect input from users regarding project lengths, with a focus on verification and documentation processes. The form aims to gather numerical data for project length, verification notes, supporting documentation, verification dates, and verification times. Given this purpose, I will structure the help guide to cover the form's purpose, how to complete it, and a field-by-field explanation to ensure users understand each section's requirements and implications.</thinking>
-
 # Line Length Input Form - Help Guide
 
 ## Purpose

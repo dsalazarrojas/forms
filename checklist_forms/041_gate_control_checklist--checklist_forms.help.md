@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gate Control Checklist - Help Guide
 ## Purpose
 This form is designed to help you assess and manage gate control measures for a given site or area. It is used to identify potential risks and control measures for gates that require attention. The form can be used by site managers, safety officers, or other authorized personnel to ensure that gate controls are properly set up and functioning correctly.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information on fire extinguishers in a location, including their location, type, status, tag, last inspected date, and assigned person. This form should only be completed by authorized personnel or individuals with access to the relevant fire safety information. It is essential to ensure that the form is filled out accurately and thoroughly to maintain up-to-date records. Please check the form fields carefully to ensure that all required and optional fields are completed correctly. This form does not require any specific prior knowledge or experience, but it is recommended that the user is familiar with fire safety regulations and procedures to fill it out accurately.</thinking>
-
 # Fire Extinguisher Checklist - Help Guide
 ## Purpose
 This form is used to collect information on fire extinguishers in a location, including their location, type, status, tag, last inspected date, and assigned person. This helps to maintain up-to-date records and ensures that fire safety information is accurate and accessible.

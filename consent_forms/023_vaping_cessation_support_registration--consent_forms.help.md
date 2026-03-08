@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in quitting or have quit vaping. It is intended for people who want to receive support in their vaping cessation journey. The form helps in creating a profile of the individual, gathering contact information, medical history, and other relevant details. This information will be used by the support staff to provide personalized support and follow-up.
-
-Before proceeding, please ensure that you haven't already registered or submitted a similar form. Duplicate forms will not be processed.
-
-Please note that the answers provided will be used to tailor the support program to your specific needs.
-
-</thinking>
-
 # Vaping Cessation Support Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are interested in quitting or have quit vaping. It will be used by support staff to provide personalized support and follow-up services.

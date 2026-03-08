@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to update information about firewood, including its type, quantity, status, photos, and facility manager. To ensure that the data is accurate and up-to-date, please verify that the information is correct before submitting.
-Before starting, please check that you have permission to submit updates and that the submission is not a duplicate.
-</thinking>
-
 # Firewood Update Submission - Help Guide
 ## Purpose
 The Firewood Update Submission form is used to update information about firewood, including its type, quantity, status, photos, and facility manager.

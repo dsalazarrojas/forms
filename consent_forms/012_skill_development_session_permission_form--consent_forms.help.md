@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to obtain permission for a participant to attend a skill development session. This form likely serves as part of an evaluation or assessment process, ensuring that participants have the necessary permissions and qualifications to engage in specific sessions. Before proceeding, ensure that you are completing this form for a valid reason and not duplicating a previously completed form.
-
-</thinking>
-
 # Skill Development Session Permission Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for a participant to attend a skill development session. It ensures that participants have the required permissions and details necessary for a successful session.

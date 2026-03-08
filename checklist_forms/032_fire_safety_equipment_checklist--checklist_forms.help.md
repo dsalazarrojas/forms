@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Fire Safety Equipment Checklist form, which is used to ensure that fire safety equipment, such as fire extinguishers and fire hydrants, are properly installed, inspected, and maintained in your building or facility.
 
 Before proceeding, please ensure that you have access to the necessary information and that your answers are accurate. This form should not be duplicated or used in conjunction with other forms for the same purpose.

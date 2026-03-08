@@ -1,14 +1,3 @@
-<thinking>
-This form is a Massage Therapy Waiver Form, which is used to gather essential information from clients before providing massage therapy services. To ensure the form is filled out correctly and accurately, the following steps and explanations are provided. 
-
-This form aims to collect client and therapist information, identify potential risks involved in massage therapy, gather emergency contact details, and obtain consent and signatures for the treatment. The form must be completed carefully to avoid any misunderstandings or miscommunications that may affect the treatment process and client-therapist relationship. Before starting the massage therapy session, the client must fill out this form to provide the necessary information for the therapist to understand their requirements and limitations. 
-
-Please note that some of the fields in this form are not necessarily mandatory but rather recommended for the smooth operation of the massage therapy service.
-
-To confirm that the form is filled out correctly and to avoid any confusion, please review it thoroughly before submission.
-
-</thinking>
-
 # Massage Therapy Waiver Form - Help Guide
 ## Purpose
 The Massage Therapy Waiver Form is used to collect essential information from clients before providing massage therapy services.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to facilitate the reimbursement process for employee business travel expenses. The form will gather information about the travel details, including dates, purpose, location, and method of reimbursement. It will also ask for the employee's name, department, and job title. The form's purpose is to ensure that the reimbursement process is transparent and accurate. It's essential to fill out the form correctly and accurately to avoid any confusion or delays in the reimbursement process.
-</thinking>
-
 # Travel Reimbursement Payment Form - Help Guide
 ## Purpose
 This form is used to request reimbursement for business travel expenses incurred by employees. Please fill out the form accurately and completely to ensure a smooth reimbursement process.

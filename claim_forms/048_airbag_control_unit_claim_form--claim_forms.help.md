@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an Airbag Control Unit claim, which is likely related to an incident involving an airbag deployment in a vehicle. The form aims to gather details about the claimant, vehicle, and incident. To prevent duplication, ensure that you have not submitted a claim for the same incident before filling out this form. If you are unsure whether you should submit a claim, please consult with the relevant authorities or departments. 
-</thinking>
-
 # Airbag Control Unit Claim Form - Help Guide
 ## Purpose
 The Airbag Control Unit Claim Form is designed to collect information related to an incident involving an airbag deployment in a vehicle.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # treasury_workforce_summit_registration - Help Guide
 ## Purpose
 This form is intended to register attendees for the Treasury Workforce Summit, a virtual event for employees to learn about new technologies and trends in the field of treasury management. The form ensures that attendees provide necessary information for the summit organizers and helps them prepare for the event.

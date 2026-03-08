@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect survey responses from individuals about their avocado consumption habits, including personal information, eating habits, purchasing habits, and health perceptions. The goal of this form is to gather data for market research to better understand consumer behavior and preferences related to avocados. Please ensure that the form's purpose is relevant to the target audience and that data collected is not duplicated.
-
-</thinking>
-
 # Avocado Consumption Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your avocado consumption habits, preferences, and purchasing behaviors. Your anonymous data will help us understand consumer insights for market research.

@@ -1,5 +1,3 @@
-<thinking>Is the purpose of this form to understand the resource allocation and capacity status of animal shelters across the nation? It appears that the form aims to collect data on various aspects of shelter operations such as their name, contact information, population, funding, resource needs, and partnership opportunities. This form should help identify shelters that require immediate support and prioritize resource allocation accordingly.</thinking>
-
 # Animal Shelter Resource Allocation Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on animal shelter operations, enabling the organization to better understand their resource allocation and capacity status.

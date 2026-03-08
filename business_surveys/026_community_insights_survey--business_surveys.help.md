@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from the community to improve local services and initiatives. It is essential to complete this form to provide valuable insights that will help shape the future of the community. Please ensure that you are responding honestly and accurately, and that your responses are relevant to your role within the community. This form should not be completed by individuals who are not members of the community or business owners. 
-</thinking>
-
 # Community Insights Survey - Help Guide
 ## Purpose
 The Community Insights Survey is designed to gather feedback from community members, business owners, and other stakeholders to improve local services and initiatives. Your participation is crucial in helping us understand the community's needs and preferences.

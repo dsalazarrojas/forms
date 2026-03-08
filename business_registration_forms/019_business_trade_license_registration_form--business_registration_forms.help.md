@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to help businesses register for trade licenses, which are essential for operating in various industries. The Business Trade License Registration Form is used to collect information about the business, including its name, type, and activities. This form is intended to be completed by business owners or representatives.
-The following fields are used to collect information about the business: 
-* Business Name: This is the official name of the business.
-* Trade Name or DBA (Doing Business As): This is an alternative name used by the business, if different from the official name.
-* Type of License Needed: This determines the type of trade license the business requires.
-* Primary Business Activity: This describes the main type of business or trade the business engages in.
-* Business Description: A detailed description of what the business does.
-* Owner's First Name and Last Name: Information about the primary owner of the business.
-* Social Security Number: The Social Security number of the primary owner for identification purposes.
-* Date of Birth: The date of birth of the primary owner.
-* Citizenship or Nationality Status: This determines the citizenship status of the primary owner.
-* Business Street Address, City, State, and Postal Code: The physical location of the business.
-* Business Phone Number: The contact phone number of the business.
-* Business Email Address: The contact email of the business.
-* Expected Number of Employees: An estimate of the number of employees the business expects to have.
-* Business Start Date: The date the business will start operating.
-* Business Legal Structure: This determines the legal structure of the business.
-* Insurance Information: Whether the business has business liability insurance or plans to obtain it.
-</thinking>
-
 # Business Trade License Registration Form - Help Guide
 ## Purpose
 The Business Trade License Registration Form is a mandatory document for businesses to register for trade licenses. This form is used to collect information about the business, including its name, type, and activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to create a check-in record for a virtual event. A check-in record is an important part of the attendee management process, allowing you to track who has attended an event and when. This form is intended for use in a variety of scenarios, such as post-event follow-up, survey distribution, or data collection for reporting purposes. Before proceeding, please make sure you have the necessary permissions to access this form and that the event you are checking in for is relevant to the data you are collecting.
 
 </thinking>

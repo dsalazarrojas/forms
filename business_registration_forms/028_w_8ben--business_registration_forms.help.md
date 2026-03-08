@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information for business registrations. The form will likely be used for internal or external purposes such as business registration, tax filing, or other official documentation.
-To avoid duplication of effort and incorrect submissions, please ensure that the form is filled out accurately and completely. Double-check the provided information for errors before submission.
-This form is intended for businesses and does not require sensitive or confidential information. Please be mindful of this when completing the form.
-Ensure that the form is properly filled out and submitted as it will be reviewed for accuracy and completeness before further action.
-</thinking>
-
 # W 8Ben - Help Guide
 ## Purpose
 This form is used for business registrations and is intended to collect accurate and complete information. The form collects information about the business, including name, address, and other relevant details.

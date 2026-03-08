@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to ensure that end-users understand the purpose and requirements of the Safety Harness Inspection Checklist form. Upon reviewing the YAML fields, the form appears to be designed for inspecting safety harnesses, which are essential equipment in various industries, particularly in construction, manufacturing, and other workplaces where workers may be at risk of falls or other hazards. The form is likely used to assess the condition and inspection status of safety harnesses, including their type, condition, and whether they have been inspected. This guide will help end-users complete the form accurately and effectively.
-</thinking>
-
 # Safety Harness Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to inspect safety harnesses in the workplace to ensure they are in good condition and have been properly inspected. It includes questions about the harness type, condition, inspection status, and other relevant details.

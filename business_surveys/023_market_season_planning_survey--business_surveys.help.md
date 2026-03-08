@@ -1,26 +1,3 @@
-<thinking>
-We need to ensure that the "Market Season Planning Survey" is used correctly by all end-users to provide accurate and relevant information. This form is intended to gather insights into market season planning, which is crucial for businesses to anticipate and prepare for upcoming seasons. To use this form effectively, users should carefully consider each field and provide thoughtful answers. 
-
-The "planning_season_interest" field is a multiple-choice question that asks users to select the seasons they are interested in planning for. This field helps us understand which seasons are most relevant to the business. 
-
-The "season_dates" field is a numerical input field that asks users to provide specific dates. This field is likely meant to gather more precise information about the dates related to the planning process. 
-
-The "product_focus" field is a selection field that asks users to choose the product they want to focus on. This field helps us understand the specific products that are relevant to the season planning. 
-
-The "improvements" field is a text input field that allows users to provide any suggestions or ideas they have for improvements. This field is meant to gather any ideas that users think can enhance the season planning process. 
-
-The "feedback" field is a text input field that allows users to provide any additional feedback or comments they have. This field is meant to gather any other comments or suggestions users may have. 
-
-The "email" field is an email input field that asks for a valid email address. This field is likely meant to gather contact information for follow-up communication. 
-
-The "phone" field is a text input field that asks for a phone number. This field is likely meant to gather contact information for follow-up communication. 
-
-The "note" field is a note input field that allows users to add any additional notes or comments. This field is meant to gather any other information that may be relevant to the season planning process. 
-
-The "dates_1", "dates_2", "dates_3", "dates_4", "dates_5", "dates_6", "dates_7", "dates_8" fields are date input fields, likely meant to gather specific dates related to the planning process. However, it seems there is a duplication of effort with multiple date fields. 
-
-</thinking>
-
 # Market Season Planning Survey - Help Guide
 
 ## Purpose

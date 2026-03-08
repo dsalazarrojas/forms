@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note:** This form is intended to collect patient information and consent for medical treatment. The form has fields for patient details, treatment information, and medical history. It is used to ensure that the patient has provided consent for treatment and has accurate information about their medical history. It is crucial to complete this form carefully and accurately for the patient's safety and well-being.
-
-</thinking>
-
 # prp_consent_form - Help Guide
 ## Purpose
 The **prp_consent_form** is designed to collect patient consent and medical information for treatment purposes. This form is used to ensure that patients have provided informed consent for treatment and have accurate medical history.

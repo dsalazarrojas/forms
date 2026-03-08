@@ -1,5 +1,3 @@
-<thinking>...I understand the form is for the "Children Ministry Volunteer Application" and is part of the "church_forms" category. It seems the form collects general information about the applicant's availability, experience, and interests for the children's ministry. I will create a clear and concise help guide for the end-users...</thinking>
-
 # Children Ministry Volunteer Application - Help Guide
 ## Purpose
 This form is designed to help us gather essential information from volunteers who are interested in joining our children's ministry team. The data collected will be used to determine their suitability and availability for various roles within the ministry.

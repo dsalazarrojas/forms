@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback and input on the seasonal cleaning form, including whether tasks are completed, providing feedback, selecting a date and time for spring deep cleaning, and selecting a status and completion status. This form should not be used for general comments or open-ended text, as it has limited fields for that purpose. The form's design is focused on providing a structured and concise way of gathering information. Please ensure that the form is being used as intended and not for general comments or open-ended text.
-</thinking>
-
 # Spring Deep Cleaning Checklist - Help Guide
 ## Purpose
 The Spring Deep Cleaning Checklist is a form designed to gather information on the status of seasonal cleaning tasks. It is intended to be used for users to input their feedback and input on the seasonal cleaning form.

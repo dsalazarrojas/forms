@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for registering for the "Sustainable Supply Chain Webinar" event. It is used to collect information from attendees such as their name, job title, company, email, phone number, topic interests, consent to participate, event details, additional comments, confirm email address, confirm phone number, and agreement to the terms and conditions. 
-
-The form is designed to be completed by attendees who want to participate in the webinar and understand what they are agreeing to. The form data will likely be used for internal purposes such as event management, follow-up communication, and to ensure attendees are aware of the terms and conditions.
-
-It is recommended to review the form carefully before submission to ensure that all required fields are filled out accurately and that the attendee has read and agreed to the terms and conditions.
-
-</thinking>
-
 # Sustainable Supply Chain Webinar Registration - Help Guide
 ## Purpose
 This form is for registering for the "Sustainable Supply Chain Webinar" event.

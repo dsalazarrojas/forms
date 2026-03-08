@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for assessing the skills and evaluation of kitchen staff members. It appears to be a form used for evaluating tasks and staff performance in a kitchen environment. To verify, I will review the provided form fields and make sure there is no redundancy or unnecessary fields.
-</thinking>
-
 # kitchen_task_assessment_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect relevant personal information and waiver/consent from students, parents, or guardians before allowing them to participate in dance studio activities. This form is typically used to ensure that individuals understand the risks associated with COVID-19 and take necessary precautions to minimize the risk of infection. By having users complete this form, the dance studio can ensure that they are aware of the risks and take responsibility for their own safety and the safety of others. This will help the dance studio to provide a safe environment for everyone involved.
-</thinking>
-
 # Dance Studio COVID 19 Release Form - Help Guide
 ## Purpose
 The Dance Studio COVID 19 Release Form is a document that collects personal information and waiver/consent from students, parents, or guardians before participating in dance studio activities. It's designed to ensure that individuals understand the risks associated with COVID-19 and take necessary precautions to minimize the risk of infection.

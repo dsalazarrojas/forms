@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used for its intended purpose and not used as a template for other form builders. This form is designed for businesses to assess their followers' demographics, engagement levels, and contact preferences. It should only be used by businesses that are looking to improve their communication and relationship with their followers. Please do not use this form if you are looking to create a similar form for personal use or if you're unsure about its purpose.
-</thinking>
-
 # Follower Management Survey - Help Guide
 ## Purpose
 This guide is intended for businesses who want to collect information about their followers. It will help you understand their demographics, engagement levels, and contact preferences.

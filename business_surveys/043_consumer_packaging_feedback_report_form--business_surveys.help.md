@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consumer Packaging Feedback Report Form - Help Guide
 ## Purpose
 The Consumer Packaging Feedback Report Form is designed to gather detailed feedback from customers on specific packaging attributes of a particular product. The form will help to identify areas of improvement and measure consumer satisfaction with product packaging.

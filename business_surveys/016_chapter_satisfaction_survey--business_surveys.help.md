@@ -1,8 +1,3 @@
-<thinking>
-  To ensure that the Chapter Satisfaction Survey is completed accurately and honestly, please note that this survey is intended to gather your feedback and suggestions to improve the chapter's services and activities. The data collected will be used to identify areas of improvement and help the chapter better serve its members.
-  To avoid duplication of efforts, please ensure that you have not already provided feedback on the same topics before. Your input is invaluable and will help the chapter make informed decisions to benefit its members.
-</thinking>
-
 # Chapter Satisfaction Survey - Help Guide
 ## Purpose
 The Chapter Satisfaction Survey is designed to collect your feedback and suggestions to improve the chapter's services and activities. Your input will help the chapter understand your needs and preferences, allowing us to make informed decisions to benefit our members.

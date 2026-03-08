@@ -1,10 +1,3 @@
-<thinking>
-A checklist for dog kennel cleaning tasks is a vital part of ensuring a clean and safe environment for animals. This form will help track and organize cleaning tasks, including checking the dog kennel, cleaning runs, disinfecting all surfaces, scheduling cleaning activities, and managing follow-up tasks. To avoid duplicate work, ensure that the form is filled out correctly and thoroughly. Please ensure that the form is completed for each task individually and not for general or overall tasks that have not been specified.
-
-Please note that some fields may have specific requirements for completion, denoted by the "required" flag in the field description. These fields are essential for proper tracking and management.
-
-</thinking>
-
 # dog_kennel_cleaning_checklist - Help Guide
 ## Purpose
 This form is used to track and manage cleaning tasks for the dog kennel. It helps organize and keep track of various cleaning activities, including checks, cleaning, disinfection, and follow-up tasks.

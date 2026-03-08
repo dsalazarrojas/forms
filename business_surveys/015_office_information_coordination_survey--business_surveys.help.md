@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather office information from employees to improve internal coordination and communication within the company. The goal is to collect data on current communication challenges, tools used, and potential improvement ideas, as well as demographic information such as department and team size. This form should only be filled out once per employee, and any previously completed forms will be discarded. Please ensure that you only fill out this form once to avoid duplication of effort.
-</thinking>
-
 # office_information_coordination_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your office's current communication and coordination processes. It will help us understand how you currently work with your team and identify areas for improvement.

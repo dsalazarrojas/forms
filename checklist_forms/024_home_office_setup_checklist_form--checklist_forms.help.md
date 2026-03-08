@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose:**
-The Home Office Setup Checklist Form is used to help users ensure that their home office or work area is properly set up and equipped to facilitate productivity and comfort. This form guides users in evaluating their current office setup, identifying areas that need improvement, and tracking their progress in completing the setup process.
-**Relevance:**
-This form is designed for employees who are setting up or maintaining their home office or work area. It is intended to be a self-assessment tool to help users create a functional and comfortable work environment.
-**Non-Duplication:**
-This form should not be used to duplicate tasks already completed during other forms or processes.
-</thinking>
-
 # Home Office Setup Checklist Form - Help Guide
 ## Purpose
 The Home Office Setup Checklist Form is used to ensure that your home office or work area is properly set up and equipped to facilitate productivity and comfort.

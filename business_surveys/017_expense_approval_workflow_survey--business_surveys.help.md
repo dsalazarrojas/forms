@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information and feedback from employees on the current expense approval workflow in the organization. It is likely being used by management to understand how employees perceive the current workflow, identify areas of improvement, and make informed decisions about its future development. To ensure this form is completed correctly, please make sure it is not being filled out multiple times by the same person. This guide will walk you through how to complete each page of the form.
-</thinking>
-
 # Expense Approval Workflow Survey - Help Guide
 ## Purpose
 The Expense Approval Workflow Survey is designed to gather information and feedback from employees on the current expense approval workflow in the organization.

@@ -1,6 +1,3 @@
-<thinking>
-This form is for clients to provide their contact and consent information for financial data processing. It's essential to ensure that the data provided is accurate and up-to-date. This form will help identify potential discrepancies and confirm the accuracy of the data. Before completing this form, please review the following instructions carefully to avoid any errors or misunderstandings. Please note that this form is not intended to duplicate existing information, so ensure you only fill out this form once with the most recent and accurate data.</thinking>
-
 # Accounting Data Accuracy Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect accurate and up-to-date contact and consent information from clients, ensuring that financial data is processed correctly and reliably.

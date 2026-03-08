@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from drivers for receiving checklists. The purpose of this form is to gather data on the vehicle's condition and status at delivery. The form will help in ensuring that the checklists are accurate and complete, reducing errors and increasing efficiency. Please note that some fields may appear to be duplicated, but this is intended for consistency and ease of use. Each field is designed to capture specific information about the vehicle's condition and status.
-
-</thinking>
-
 # Receiving CheckList - Help Guide
 ## Purpose
 

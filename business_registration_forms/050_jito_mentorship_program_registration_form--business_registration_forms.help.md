@@ -1,12 +1,3 @@
-<thinking>
-This form is used to register a business or program with Jito's mentorship program. The purpose of this form is to provide information about the program, including its type, name, and status. This form is designed to be filled out by businesses or teams who want to participate in Jito's mentorship program. 
-
-The form has several fields that need to be filled out, each with a specific purpose. The form should not be filled out by anyone who is not a business or team participating in the program. 
-
-To check if you are eligible to fill out this form, you should check with your team lead or account manager to see if your business or team has already registered. If you are not sure, you can reach out to us and we will verify your registration status.
-
-</thinking>
-
 # Jito Mentorship Program Registration Form - Help Guide
 
 ## Purpose

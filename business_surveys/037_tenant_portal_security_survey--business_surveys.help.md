@@ -1,9 +1,3 @@
-<thinking>
-**Internal Note:**
-This form is designed to gather information about security incidents reported by tenants in a building or property managed by the landlord. The purpose of this form is to help the landlord identify potential security concerns and implement measures to ensure tenant safety. Before completing this form, please ensure you have not already reported this security incident in a previous survey or submitted it through a different channel. Reporting duplicate incidents may lead to confusion and slow down resolution processes.
-
-</thinking>
-
 # Tenant Portal Security Survey - Help Guide
 ## Purpose
 This form is designed to gather information about security incidents reported by tenants in a building or property managed by the landlord. It helps the landlord identify potential security concerns and implement measures to ensure tenant safety.

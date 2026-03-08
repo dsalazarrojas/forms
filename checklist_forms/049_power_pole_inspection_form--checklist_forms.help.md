@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive inspection form for power poles, used to record the condition and inspection data of power poles. It should only be used for inspecting power poles that are not in an emergency situation. The purpose of this form is to gather data on the pole's condition, including the weather protection, grounding, conduit, and insulation. This form should not be used for other types of inspection or for poles in emergency situations.
-</thinking>
-
 # Power Pole Inspection Form - Help Guide
 ## Purpose
 The Power Pole Inspection Form is a comprehensive form used to record the condition and inspection data of power poles. It is intended for routine inspections of power poles that are not in an emergency situation.

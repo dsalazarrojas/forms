@@ -1,5 +1,3 @@
-<thinking>... This form will help you gather information about cartographic production requirements. It is intended for internal use within the organization, and it is not for external sharing or publication. It's recommended that you only submit this form if you are authorized to do so. Before proceeding, please make sure you have reviewed and are comfortable with the information provided, and that it matches your organization's policies and guidelines... </thinking>
-
 # Cartographic Production Requirements Survey - Help Guide
 ## Purpose
 The Cartographic Production Requirements Survey is designed to gather essential information needed to produce a map. Please fill out this form to provide details about your project, such as its title, purpose, and required features.

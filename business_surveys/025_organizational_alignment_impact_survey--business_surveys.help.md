@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for the "Organizational Alignment Impact Survey" form, which is used to assess an organization's alignment with its strategy. This form is designed to help employees understand how their daily work contributes to the organization's overall goals and objectives.
-
-Before filling out this form, please ensure you have reviewed the organization's current strategy and are familiar with its key priorities. This survey is not meant to be a comprehensive evaluation of the organization's strategy, but rather a snapshot of your awareness and understanding of how your work impacts it.
-
-It's also essential to answer these questions based on your honest perception of your work's alignment with the organization's strategy. If you're unsure about any of the questions, please don't hesitate to reach out to your manager or HR representative for clarification.
-
-When you're ready, proceed to the next section for a step-by-step guide on how to complete this form.
-</thinking>
-
 # Organizational Alignment Impact Survey - Help Guide
 ## Purpose
 The "Organizational Alignment Impact Survey" is designed to measure your understanding and alignment with the organization's current strategy. The survey consists of a series of questions that assess how your daily work contributes to achieving the organization's goals and objectives.

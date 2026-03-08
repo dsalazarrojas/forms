@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the document background configuration settings for a survey. The purpose of this form is to collect answers to various questions related to document background configuration, such as layout, font style, size, and margin settings. This form is likely used for configuring the appearance of documents in a specific application or platform.
-To ensure that you are providing accurate and relevant information, please make sure that you are answering these questions based on your actual knowledge and experience with document background configuration.
-Before filling out this form, ensure that you have a clear understanding of the questions and settings being asked, and that you are not duplicating previous work or responses.
-</thinking>
-
 # Document Background Configuration Survey - Help Guide
 ## Purpose
 This form is used to gather information about the document background configuration settings for a survey.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process a customer's request for cancelling their subscription to the digital health app. It is essential to ensure the customer's information is accurate and up-to-date to process the cancellation request correctly. Please review the form fields carefully to avoid duplication or missing any critical information.
-</thinking>
-
 # Digital Health App Subscription Cancellation - Help Guide
 ## Purpose
 The Digital Health App Subscription Cancellation form is used to process customer requests for cancelling their subscription to the digital health app. This form gathers necessary information for the cancellation process, including the customer's details, reason for cancellation, and confirmation of the cancellation request.

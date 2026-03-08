@@ -1,12 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Animal Transport Safety Standards Survey" form. This form is designed to gather information about animal transporters' experiences, challenges, and perceptions of safety standards and regulations. The purpose of this form is to gather data that will help us understand the current state of animal transport safety and identify areas for improvement.
-
-We are aiming to collect data from transporters with varying levels of experience, from those with a few years of experience to those with extensive experience. The form is designed to be comprehensive, covering topics such as species transported, awareness of safety regulations, vehicle safety checks, and emergency preparedness.
-
-Before proceeding, please ensure that you have not already completed this form. Your feedback is valuable, and we appreciate your participation in helping us improve animal transport safety standards.
-
-</thinking>
-
 # Animal Transport Safety Standards Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and perceptions of animal transport safety standards. Your input will help us identify areas for improvement and contribute to the development of safer animal transport practices.

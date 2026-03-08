@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Application Architect Survey" form, we need to consider the purpose of the form, how to complete it, and a detailed explanation of each field. This form is designed to collect information from application architects about their experiences, challenges, and preferences. It is likely used for research or knowledge-sharing purposes within an organization or industry.
-
-This form should not be completed by people without knowledge of application architecture, as it is a survey for experts in the field.
-
-Before proceeding, ensure you have a good understanding of your own role and experience as an application architect.
-
-</thinking>
-
 # Application Architect Survey - Help Guide
 ## Purpose
 This form is designed to gather information from application architects about their experiences, challenges, and preferences. It is intended to help organizations or communities better understand the current state and needs of their architecture community.

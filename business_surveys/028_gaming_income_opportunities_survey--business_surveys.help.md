@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about gaming income opportunities, likely for business or market research purposes. The form collects data on various aspects of the gamer's relationship with gaming, such as income level, income justification, time spent playing, gaming frequency, and involvement in gaming communities and streaming. It's likely that the results will be used to better understand the gaming industry's potential for monetization.
-The form likely duplicates or overlaps with other forms in the company that collect similar data, but it is not explicitly stated what these forms are.
-</thinking>
-
 # Gaming Income Opportunities Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your gaming habits and income opportunities. Your input will help us better understand the gaming industry's potential for monetization.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assist in the assessment and calculation of risk levels for potential investment opportunities. 
-The purpose of this form is to guide users in gathering relevant information about an investment's potential risks. 
-This guide will help you understand what each field is for and how to complete it accurately.
-</thinking>
-
 # Risk Calculator Form - Help Guide
 
 ## Purpose

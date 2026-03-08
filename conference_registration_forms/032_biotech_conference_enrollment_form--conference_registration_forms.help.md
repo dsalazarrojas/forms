@@ -1,7 +1,3 @@
-<thinking>
-To ensure relevance and avoid duplication, let's verify that this form is for registering attendees for a biotech conference. The form is used to collect information about the attendees, including their personal details, professional background, and conference preferences. This form should only be used by individuals who are interested in attending the conference and have not already registered or are not eligible for registration. 
-</thinking>
-
 # Biotech Conference Enrollment Form - Help Guide
 
 ## Purpose

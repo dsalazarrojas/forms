@@ -1,5 +1,3 @@
-<thinking>As the form designer, I have reviewed the YAML file and understand that the Hajj Preparation Checklist form is used for pilgrims to prepare for their Hajj (Pilgrimage to Mecca) journey. The form collects various information related to the pilgrims' preparations, including their arrival date, time, accommodation, transportation, and other essential details. The fields are designed to help the pilgrims provide necessary information to ensure a smooth and hassle-free journey. After reviewing the form, I have identified the following help guide to assist end-users in completing the form efficiently.</thinking>
-
 # Hajj Preparation Checklist - Help Guide
 ## Purpose
 The Hajj Preparation Checklist form is designed to collect information from pilgrims to help them prepare for their Hajj journey. This form is essential to ensure that pilgrims have all the necessary details in place before embarking on their journey.

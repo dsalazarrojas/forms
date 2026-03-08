@@ -1,7 +1,3 @@
-<thinking>
-The form "event_vendor_check_out_form" is designed to be used by event vendors to check out their events and manage their associated data. This form is likely used in an internal business context where event vendors are managing their events, payments, and communications with customers or internal teams. The form is structured to collect various fields, including event name, email, start and end dates, payment method, address, phone number, and notes. This form may be used in a business setting where event vendors need to track and manage their events, payments, and communication history with customers or internal teams.
-</thinking>
-
 # event_vendor_check_out_form - Help Guide
 ## Purpose
 This form is used by event vendors to check out their events and manage their associated data.

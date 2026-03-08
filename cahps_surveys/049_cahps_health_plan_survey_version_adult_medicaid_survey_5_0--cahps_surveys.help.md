@@ -1,16 +1,3 @@
-<thinking>
-To create this user-facing help guide for the "CAHPS Health Plan Survey Version Adult Medicaid Survey 5.0", we need to consider the purpose of the form, how to complete it, and what each field means. This guide will serve as a reference point for non-technical users and ensure they understand each question correctly.
-
-The purpose of this survey is to assess the quality of care and services provided by a health plan. The survey asks questions about various aspects of the plan, including overall health status, enrollment duration, plan rating, access to primary and specialty care, care coordination, medication coverage, claims handling, customer service, preventive care coverage, emergency care access, plan affordability, value for cost, recommendation, overall satisfaction, and potential areas of improvement.
-
-The survey is meant to gather feedback from adult Medicaid members on their experiences with their health plan, aiming to provide valuable insights to plan administrators for improvement.
-
-Before proceeding, please ensure that you have not filled out this survey before, as duplicate responses can skew the data and affect the results.
-
-To ensure accurate and reliable data, please answer the questions honestly, and avoid guessing or leaving questions unanswered.
-
-</thinking>
-
 # CAHPS Health Plan Survey Version Adult Medicaid Survey 5.0 - Help Guide
 ## Purpose
 

@@ -1,16 +1,3 @@
-<thinking>
-The Business Studies Assessment form is a tool used to evaluate students' understanding and performance in the Business Studies course. This form helps instructors assess the students' knowledge and skills in various areas, including business fundamentals, entrepreneurship, financial analysis, marketing concepts, management principles, critical thinking, communication skills, research skills, teamwork and collaboration, class participation, and overall performance.
-
-The form is designed to gather specific information from the students, including their name, course name, instructor name, assessment date, and type of assessment. The form also requires students to rate their understanding of various business concepts, such as business fundamentals, entrepreneurship skills, financial analysis, and marketing concepts. Additionally, students are asked to evaluate their skills in areas like critical thinking, communication, research, and teamwork.
-
-The form's purpose is to provide a comprehensive evaluation of students' performance, allowing instructors to provide detailed feedback and recommendations for improvement.
-
-When completing this form, please ensure that you have reviewed the course curriculum and the assessment criteria. Fill in the required fields accurately and thoroughly, as they are essential for a fair and comprehensive evaluation.
-
-Before filling out the form, take a moment to review each field's description and ensure you understand its purpose.
-
-</thinking>
-
 # Business Studies Assessment - Help Guide
 
 ## Purpose

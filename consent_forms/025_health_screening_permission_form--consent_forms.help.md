@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive health screening permission form used for medical groups to obtain consent from patients. It is likely a part of a medical facility's or organization's routine or for specific screenings. The form may be used to obtain consent for routine, special, or emergency screenings, and it includes fields for patient identification, consent status, and other relevant information.
-
-</thinking>
-
 # Health Screening Permission Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assist in ensuring the safety and well-being of children by gathering necessary information from parents or guardians before a babysitter takes care of them. This includes the parent's name, child's name, check-in time, expected pickup time, allergies, medications, emergency contact, special instructions, authorized pickup people, and a signature to authorize the check-in. 
-
-This form is meant to be filled out by parents or guardians before handing over their child to the babysitter, and should be used for each check-in instance.
-
-</thinking>
-
 # Babysitting Check In Form - Help Guide
 ## Purpose
 This form is used by babysitters to record essential information from parents or guardians about the child, ensuring a safe and healthy experience for both the child and the sitter.

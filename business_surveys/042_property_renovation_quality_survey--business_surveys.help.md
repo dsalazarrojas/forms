@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for the "Property Renovation Quality Survey" form, designed to collect feedback on the quality of property renovation projects. The form is intended to help property owners, managers, or occupants evaluate the performance of contractors, assess the quality of work, and provide valuable insights for future improvements. This survey should only be filled out once per project, to ensure that each project receives a fair and comprehensive evaluation. 
-
-</thinking>
-
 # Property Renovation Quality Survey - Help Guide
 ## Purpose
 The Property Renovation Quality Survey is designed to collect feedback on the quality of property renovation projects. This survey helps property owners, managers, or occupants evaluate the performance of contractors, assess the quality of work, and provide valuable insights for future improvements.

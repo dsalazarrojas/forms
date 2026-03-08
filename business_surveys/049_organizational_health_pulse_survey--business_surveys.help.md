@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from employees about the overall health and well-being of their organization. It's meant to be filled out by employees to provide a snapshot of the organizational culture and work environment. This form should not be filled out by non-employees, such as external contractors or clients. 
-</thinking>
-
 # Organizational Health Pulse Survey - Help Guide
 ## Purpose
 The Organizational Health Pulse Survey is a tool to help employees provide feedback on the overall health and well-being of their organization. This survey is designed to be completed by employees to provide insights on the culture and work environment.

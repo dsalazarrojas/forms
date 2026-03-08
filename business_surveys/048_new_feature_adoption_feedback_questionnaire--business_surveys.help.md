@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Feature Adoption Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a new feature. It helps us understand how users learned about the feature, their overall experience with it, and what they would like to see added or changed in the future. By providing accurate feedback, you will help us improve our product and services.

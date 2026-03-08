@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information for the truthfulness consent process. It is essential to ensure that the user understands and agrees to the terms of the truthfulness process. Before proceeding, please take a moment to review the form carefully and ensure that the information provided is accurate and complete.
-The form is intended for general use and does not have any specific business logic or conditional dependencies that would affect its completion. Please be aware that the form may need to be reviewed or updated in the future as part of the regular maintenance process.
-</thinking>
-
 # truthfulness_consent_form - Help Guide
 ## Purpose
 This form is used to collect information for the truthfulness consent process.

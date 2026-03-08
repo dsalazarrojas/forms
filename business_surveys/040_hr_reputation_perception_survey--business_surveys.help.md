@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Reputatioin Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback about the HR department's performance and service. It is intended to understand employee perceptions and opinions about HR's values, interactions, responsiveness, feedback, and overall performance. The survey aims to identify areas of improvement and help the HR department better serve the employees and the organization as a whole.

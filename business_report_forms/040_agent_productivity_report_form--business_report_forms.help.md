@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an agent's productivity over a specific reporting period. This form is used by agents to report their progress, goals, and challenges to their managers. It helps in tracking and evaluating agent performance, identifying areas of improvement, and providing a framework for setting future goals and objectives.
-
-When filling out this form, please ensure that you have all the necessary information and details ready to provide accurate and comprehensive answers. Please note that some fields are required, while others are optional. It is essential to provide thorough and honest responses to get the most out of this form.
-
-The following guide will walk you through the form fields and their corresponding explanations.
-
-</thinking>
-
 # Agent Productivity Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about an agent's productivity over a specific reporting period. It helps in tracking progress, identifying challenges, and setting future goals and objectives.

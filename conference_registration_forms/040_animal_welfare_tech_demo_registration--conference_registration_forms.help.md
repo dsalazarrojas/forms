@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from attendees for a tech demo session focused on animal welfare technology. The purpose of the form is to collect essential details from attendees, such as their full name, organization or employer, job title, contact email address, and phone number, to facilitate communication and ensure smooth coordination for the event. The tech category of interest, demo session preference, number of additional team members attending, and special accessibility requirements will also be collected to tailor the event experience accordingly. Additionally, the form will help determine how attendees heard about the demo through various channels and allow for any special notes or confirmation messages to be displayed.
-</thinking>
-
 # Animal Welfare Tech Demo Registration - Help Guide
 ## Purpose
 This form is for registering attendees for the Animal Welfare Tech Demo session. It will help us tailor the event experience according to your needs and preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Babysitter Medical Release Form - Help Guide
 ## Purpose
 The Babysitter Medical Release Form is a document that authorizes the babysitter to seek medical care for your child in your absence. This form is essential for ensuring that your child receives proper medical attention if any health issues arise during their care.

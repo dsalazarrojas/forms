@@ -1,7 +1,3 @@
-<thinking>
-The Feature Recipe Release Form is used to collect information from users to release a new feature in a recipe-related project. This form is likely used by project managers, product owners, or other stakeholders to review and approve the release of new features. The form asks for various details about the feature, including the recipe's information, publishing permission, and other supporting media like images, videos, or audio files. It also collects contact information like email, phone numbers, and website URLs. The user is free to complete all or some of the form fields, depending on the information they want to provide.
-</thinking>
-
 # Feature Recipe Release Form - Help Guide
 ## Purpose
 The Feature Recipe Release Form is used to collect information from users to release a new feature in a recipe-related project.

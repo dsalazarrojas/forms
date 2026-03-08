@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from the sugar industry on their pain points and priorities. This form is designed to gather information on the specific challenges faced by companies, research, or other roles in the sugar industry. To ensure that the data collected is accurate and relevant, please review the form carefully before proceeding. This form may be used to track progress and identify areas for improvement over time, but be aware that duplicate entries or submissions from the same person may be removed.
-
-Please note that this form is part of a broader collection of surveys and data collection process. If you've already completed this or a similar form, please avoid resubmitting data to prevent duplication.
-</thinking>
-
 # sugar_industry_challenges_survey - Help Guide
 ## Purpose
 This form is designed to collect data from the sugar industry on their pain points and priorities.

@@ -1,21 +1,3 @@
-<thinking>
-This form is intended for businesses to apply for membership to a professional association or organization. It gathers information about the business's name, registration details, contact information, industry category, and membership preferences. The form also inquires about the business's size, revenue, and the desired membership tier and benefits. The form is designed to be completed by the primary contact person of the business. 
-
-This form will help the association understand the business's characteristics and determine the most suitable membership package for it.
-
-It is essential that each business has a unique registration number or license number, which is a unique identifier assigned by the relevant authorities. If the business does not have a registration number or license number, it may not be able to provide it. This information is optional but highly recommended.
-
-The business structure and registration date are also crucial as they determine the type of support and services the association can offer.
-
-The industry category, number of employees, and annual revenue will help the association understand the business's size and scope, which influences the type of membership benefits and support offered.
-
-The membership tier and benefits chosen will determine the level of access to resources, discounts, and services offered by the association.
-
-The referral source will help the association understand how the business was introduced to the association.
-
-The additional notes field is optional but can be used to provide further information that is not covered by the other fields.
-</thinking>
-
 # Business Membership Application Form - Help Guide
 ## Purpose
 

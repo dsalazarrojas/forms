@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form "jv_harmless" is designed to collect information from patients for non-clinical purposes, and the purpose of this form is to gather basic personal details and service-related information from patients. This information will be used for administrative purposes only. Please ensure that you are filling this form for the correct purpose and are not duplicating efforts.
-</thinking>
-
 # jv_harmless - Help Guide
 ## Purpose
 The "jv_harmless" form is designed to collect basic patient information for non-clinical purposes. Please fill out this form if you are a patient seeking medical services.

@@ -1,12 +1,3 @@
-<thinking>
-This form is part of a larger survey used to gather feedback and insights on the Salesforce integration experience. The purpose of this form is to help gather feedback from users about their experiences and opinions on the Salesforce integration process. It is crucial to understand this purpose to ensure that the information gathered is relevant and accurate. This form is not intended to be a comprehensive evaluation of the entire Salesforce system, but rather a specific subset of questions designed to gather actionable feedback for improvement.
-
-Before filling out this form, please ensure that you have a clear understanding of the questions being asked and the options provided. This will help you provide the most accurate and relevant information, which will aid in the improvement of the Salesforce integration process.
-
-Please note that all fields are optional, and you can skip any fields that do not apply to your experience.
-
-</thinking>
-
 # Salesforce Integration Feedback Form - Help Guide
 ## Purpose
 The Salesforce Integration Feedback Form is a tool used to gather feedback and insights on the Salesforce integration experience. This form helps us understand your thoughts, opinions, and experiences with the integration process.

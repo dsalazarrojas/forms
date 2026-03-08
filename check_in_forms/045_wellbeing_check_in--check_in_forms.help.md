@@ -1,11 +1,3 @@
-<thinking>
-A wellbeing check-in form is used to capture personal information about a person's wellbeing. This form is intended for individuals to report their current state of wellbeing, which can be used to track changes over time or as a reference point for future interactions. The information collected through this form should not be used to identify or contact the individual unless explicitly stated otherwise.
-
-The form is designed to be simple and easy to understand, ensuring that the user can quickly and accurately capture their wellbeing information. This form should be used in conjunction with other tools and systems to provide a comprehensive view of an individual's wellbeing.
-
-Before filling out this form, please ensure you have the necessary permissions and are aware of any data privacy and security requirements.
-</thinking>
-
 # wellbeing_check_in - Help Guide
 ## Purpose
 The wellbeing check-in form collects information about an individual's wellbeing. This form should be used to report on a person's current wellbeing state, which can be used for tracking changes or as a reference point for future interactions.

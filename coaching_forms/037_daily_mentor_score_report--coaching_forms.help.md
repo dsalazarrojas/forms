@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from mentors on a daily basis regarding their mentees' progress, session quality, satisfaction, support received, session length, and progress notes. This form aims to provide a concise and structured way for mentors to report on their daily experiences with their mentees, allowing for more informed decision-making and support.
-
-To ensure accuracy and relevance, please ensure that you are completing this form daily for each mentee, and only report on your interactions with that mentee. Please do not report on multiple mentees or unrelated information in a single form.
-
-</thinking>
-
 # Daily Mentor Score Report - Help Guide
 ## Purpose
 This form is designed to gather daily feedback from mentors regarding their mentees' progress, session quality, and other relevant aspects of their interactions. 

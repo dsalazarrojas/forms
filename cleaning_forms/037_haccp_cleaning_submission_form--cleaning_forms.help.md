@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to cleaning submissions. It is intended for use in situations where cleaning activities are being performed, and details about the cleaning process, such as the date, frequency, and personnel involved, need to be documented. The form should be used when a cleaning has occurred or is scheduled to occur, and requires verification from a supervisor. This form does not duplicate or replace any existing cleaning schedules, work orders, or inventory control systems. It is for supplementary documentation purposes only.
-</thinking>
-
 # haccp_cleaning_submission_form - Help Guide
 
 ## Purpose

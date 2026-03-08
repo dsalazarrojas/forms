@@ -1,7 +1,3 @@
-<thinking>
-This form was generated to collect information related to pump prestart checklists, which are crucial for ensuring that industrial or mechanical pumps are properly prepared and safe to start. This form likely pertains to the energy or power sector, perhaps for utility companies or manufacturing facilities that utilize pumps as part of their operations. The checklist likely aims to verify that the pump is in the right state before starting it, which is essential for avoiding accidents, reducing downtime, and ensuring the overall efficiency of the system. The questions and fields are designed to be concise and clear, making it easy to understand what information is needed for the prestart procedure.
-</thinking>
-
 # Pump Prestart Checklist - Help Guide
 ## Purpose
 The Pump Prestart Checklist is a form designed to collect information about the state of a pump before starting it. This form helps ensure that the pump is properly prepared and safe to start, reducing the risk of accidents and downtime.

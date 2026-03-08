@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's productivity needs, goals, and preferences for coaching. It's meant to be used by coaching services to provide personalized guidance and support to their clients. This form should not be filled out if the client has already undergone coaching services with the same or similar services in the past 3 months.
-
-The form collects client information, including name, email, phone number, and preferred communication method. The client is also asked about their availability, work hours, and specific goals they want to achieve through coaching. They are asked to provide their start and end times for coaching sessions, and to share any additional notes or comments.
-
-Note: Please ensure that clients understand that filling out this form will not guarantee a coaching relationship with the service.
-
-</thinking>
-
 # Productivity Coaching Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's productivity needs, goals, and preferences for coaching.

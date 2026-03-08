@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antenna Maintenance Checklist - Help Guide
 ## Purpose
 The Antenna Maintenance Checklist is a form used to assess the condition of antenna systems, providing a systematic approach to identifying potential issues and scheduling maintenance. This document serves as a guide for completing the form accurately and effectively.

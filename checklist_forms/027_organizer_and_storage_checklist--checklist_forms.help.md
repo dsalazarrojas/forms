@@ -1,9 +1,3 @@
-<thinking>This form is intended to help users assess the status and condition of storage areas in an organizational setting. It collects information on storage areas, including their capacity, status, and issues. This data can be used to inform decisions on storage management and optimization. 
-
-This form is designed to be a comprehensive checklist, allowing users to easily identify areas that need attention. It also includes space for notes and descriptions to provide additional context. The form's design allows for flexibility in data collection, making it suitable for various use cases and applications. 
-
-Before proceeding, ensure that the form is relevant to your specific use case. If you need to collect different data or have unique requirements, you may need to modify the form accordingly.</thinking>
-
 # organizer_and_storage_checklist - Help Guide
 ## Purpose
 The Organizer and Storage Checklist is a form used to assess the status and condition of storage areas in an organizational setting. It gathers information on storage areas, including their capacity, status, and issues, to inform decisions on storage management and optimization.

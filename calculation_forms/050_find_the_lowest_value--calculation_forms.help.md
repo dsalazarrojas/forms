@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple comparison tool that takes a list of numbers and a selection criteria (lowest or highest), and displays the result as a date indicating the time it found the minimum or maximum value.
-</thinking>
-
 # Find The Lowest Value - Help Guide
 ## Purpose
 This form is designed to find the lowest value from a list of numbers. You will be prompted to enter a list of numbers and select whether you want to find the lowest or highest value. The form will then display the result as a date in the format `YYYY-MM-DD HH:MM:SS`.

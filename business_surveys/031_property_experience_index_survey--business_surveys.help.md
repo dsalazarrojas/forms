@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the visitor's experience with a property, including their ID, type, address, manager, and overall satisfaction. This information can be used to gauge the visitor's satisfaction and identify areas for improvement.
-</thinking>
-
 # Property Experience Index Survey - Help Guide
 
 ## Purpose

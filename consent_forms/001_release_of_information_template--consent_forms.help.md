@@ -1,5 +1,3 @@
-<thinking>...This form is used for collecting information from non-profit organizations, specifically for release of information purposes. The form is designed to gather contact information and other relevant details from non-profits to facilitate communication and record-keeping. Before filling out this form, ensure that the information being collected is accurate and relevant to the purpose of the release of information. This form should not be used for any other purpose than its intended use, to avoid duplication or misrepresentation of information...</thinking>
-
 # Release Of Information Template - Help Guide
 ## Purpose
 This form is used for collecting information from non-profit organizations for release of information purposes.

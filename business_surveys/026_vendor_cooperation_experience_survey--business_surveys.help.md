@@ -1,5 +1,3 @@
-<thinking>As this form is a business survey, it's likely to collect feedback from vendors or suppliers about their experience in partnering with your business. The goal is to gauge their satisfaction, identify areas for improvement, and foster a stronger relationship. This form should be used by business stakeholders or team members responsible for managing vendor relationships, such as procurement, sales, or customer service teams. Please ensure that the form is not duplicated or filled out unnecessarily, as it's intended for specific feedback from vendors.</thinking>
-
 # Vendor Cooperation Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from vendors about their experience in partnering with your business. It helps to gauge their satisfaction, identify areas for improvement, and foster a stronger relationship.

@@ -1,13 +1,3 @@
-<thinking>
-The provided YAML defines a comprehensive form for a 2020 Personal Income Tax Return Checklist. The form appears to be designed for collecting essential information from taxpayers, including personal details, income sources, tax withholdings, and supporting documents. The form also includes sections for the taxpayer's declaration of accuracy, preparer notes, and follow-up dates for outstanding items. This form likely serves as a guide for tax preparation and submission.
-
-Upon reviewing the form's structure and fields, it seems that the primary objectives are:
-
-* Gathering accurate and complete information about the taxpayer's personal details, income sources, and tax withholdings.
-* Ensuring that the taxpayer has provided all necessary supporting documents.
-* Validating the accuracy of the submitted information through the taxpayer's declaration.
-</thinking>
-
 # 2020 Personal Income Tax Return Checklist - Help Guide
 ## Purpose
 The 2020 Personal Income Tax Return Checklist is a form designed to collect essential information from taxpayers for the purpose of tax preparation and submission. This guide will walk you through the form's sections and fields to help you understand what information is required and how to complete it accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect consent from participants to use their media for a veterinary technology exhibition. The form should only be filled out by participants who have been invited to the exhibition. Please ensure that this form is completed accurately and thoroughly to avoid any miscommunication.
-</thinking>
-
 # Veterinary Technology Exhibition Media Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from participants to use their media (photos, videos, audio recordings) for the veterinary technology exhibition. It ensures that participants understand how their media will be used and are comfortable with it.

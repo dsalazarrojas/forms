@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to aid in organizing and tracking roofing repair tasks in a systematic and efficient manner. The purpose of the form is to provide a checklist for roof inspections, identify necessary repairs, and record the progress of the work. By using this form, users can ensure that all required information is captured, including cost estimates, priority levels, and contact details.
-
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and content. If you have any doubts or concerns, consult with the relevant stakeholders to avoid potential errors or discrepancies.
-
-This guide will walk you through the completion of the form, field by field, to ensure you understand the intended use and functionality of each section.
-</thinking>
-
 # roofing_repair_checklist_form - Help Guide
 ## Purpose
 The roofing repair checklist form is used to organize and track roofing repair tasks, including inspections, necessary repairs, cost estimates, and progress tracking.

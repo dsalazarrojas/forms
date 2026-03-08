@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a retail loss prevention incident, which is typically a suspicious or unauthorized transaction that occurs in a store. This form is used by store employees to report and document such incidents in a standardized way, making it easier to review and investigate them.
-</thinking>
-
 # retail_loss_prevention_incident_form - Help Guide
 ## Purpose
 This form is designed to collect information about retail loss prevention incidents, which can help identify and prevent future losses.

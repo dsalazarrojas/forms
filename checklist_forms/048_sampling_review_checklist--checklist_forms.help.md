@@ -1,8 +1,3 @@
-<thinking>
-The Sampling Review Checklist form is used to collect information about a sample from a reviewer. This form likely exists to ensure that the reviewer reviews and provides feedback on the sample according to a set of pre-defined standards or criteria. It's possible that this form is used in scientific, medical, or academic settings where samples need to be reviewed for quality and consistency. I'm not aware of any specific business logic or context, so I'm assuming this form is part of a larger process or system for managing samples.
-Before creating this help guide, I'd like to ensure that it doesn't overlap with any other forms or documents that might already cover similar information or processes. I'm assuming that the form is meant to be completed by a reviewer, and the purpose is to gather information about their review process.
-</thinking>
-
 # Sampling Review Checklist - Help Guide
 
 ## Purpose

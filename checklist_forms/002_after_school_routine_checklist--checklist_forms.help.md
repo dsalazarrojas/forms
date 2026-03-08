@@ -1,15 +1,3 @@
-<thinking>As a parent or guardian, it's essential to track a child's daily progress after school. This form is designed to help you monitor and record the activities your child engages in during their free time, ensuring they stay on track with their homework, maintain healthy habits, and develop positive behaviors. The After School Routine Checklist provides a structured format for you to collect information on your child's daily routine, making it easier to identify patterns, address potential issues, and encourage a sense of accomplishment and responsibility.
-
-By completing this form, you'll be able to:
-
-* Record the student's name and the date of each submission
-* Monitor their homework completion status and note any challenges or difficulties
-* Track their leisure time activity and snack/meal times
-* Log any notable achievements or areas for improvement
-* Identify any materials needed for the next day
-
-This form aims to promote consistency and accountability in your child's daily routine, helping them develop healthy habits and a sense of responsibility.</thinking>
-
 # After School Routine Checklist - Help Guide
 ## Purpose
 The After School Routine Checklist is a tool for parents and guardians to track their child's daily progress after school. It helps monitor homework completion, healthy habits, and positive behaviors, ensuring your child stays on track and develops a sense of accountability.

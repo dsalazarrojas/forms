@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who wish to cross a dinosaur in a designated area. The form is divided into multiple pages and requires no fields to be filled out, as it is a placeholder for a real-world scenario.
-</thinking>
-
 # Dinosaur Crossing Registration Form - Help Guide
 ## Purpose
 This form is intended for users who want to register their consent for crossing a dinosaur in a designated area.

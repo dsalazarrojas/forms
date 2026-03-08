@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture information for packages being dropped off for shipping services. It will help you to efficiently check in packages for services such as FedEx, UPS, or USPS. The form is intended for use by package senders to provide necessary details about their packages, including package ID, service name, service provider, date, time, weight, length, width, height, status, and contact information. 
-
-The form does not require any specific fields to be filled in, but it is recommended to fill in all required and optional fields to ensure accurate and efficient processing.
-
-</thinking>
-
 # Shipping Service Drop Off Check In Form - Help Guide
 ## Purpose
 The Shipping Service Drop Off Check In Form is a tool used by package senders to provide necessary information about their packages when dropping them off for shipping services.

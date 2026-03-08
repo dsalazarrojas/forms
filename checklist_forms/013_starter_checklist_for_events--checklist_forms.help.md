@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide is intended for users who need to complete the "Starter Checklist For Events" form. The form is designed to gather information for upcoming events, and it's essential to understand what each field represents to ensure accurate and efficient completion.
 The form is divided into several fields, each with a specific purpose. Here's a step-by-step guide to help you complete the form:
 

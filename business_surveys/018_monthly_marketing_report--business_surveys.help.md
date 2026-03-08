@@ -1,7 +1,3 @@
-<thinking>
-This form is a monthly marketing report template designed to collect data on various aspects of a company's marketing and sales performance. It is intended to help marketing managers track and analyze their team's progress and identify areas for improvement. The fields in this form are meant to capture relevant metrics and insights, such as marketing channels used, budget spent, revenue generated, customer satisfaction, and sales channels awareness. By filling out this form, marketing managers can get a clear picture of their team's performance and make data-driven decisions to optimize their marketing strategies.
-</thinking>
-
 # monthly_marketing_report - Help Guide
 ## Purpose
 This form is designed to collect data on a company's marketing and sales performance for a specific month. It helps marketing managers track and analyze their team's progress, identify areas for improvement, and make data-driven decisions to optimize their marketing strategies.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Purchase Requisition Form - Help Guide
 
 ## Purpose

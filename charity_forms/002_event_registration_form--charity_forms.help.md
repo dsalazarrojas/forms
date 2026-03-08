@@ -1,9 +1,3 @@
-<thinking>
-
-The Event Registration Form is a form used to collect information about events. It's intended for users to register events with specific details such as start and end dates, event organizers, locations, descriptions, and other relevant information. Before starting to fill out the form, please ensure that the event you're registering is not a duplicate and that you have the necessary permissions to register it. If you're unsure, please contact your supervisor for guidance.
-
-</thinking>
-
 # Event Registration Form - Help Guide
 ## Purpose
 The Event Registration Form is used to collect and store information about events for the organization. This form helps to ensure that all events are properly registered and documented, making it easier to track and manage events.

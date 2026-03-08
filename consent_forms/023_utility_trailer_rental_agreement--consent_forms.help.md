@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Trailer Rental Agreement - Help Guide
 ## Purpose
 This form is designed to collect information from renters regarding the rental of utility trailers. The form is not intended to be used for other types of rentals.

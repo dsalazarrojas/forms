@@ -1,11 +1,3 @@
-<thinking>
-To avoid duplication and ensure the accuracy of the provided form, I will review the form schema and create a clear and concise help guide for end-users.
-
-Upon reviewing the schema, I noticed that the form has multiple sections for reporting and reviewing incidents. The form is designed to collect data on incidents, including their types, affected areas, and the actions taken to resolve them. The review section includes fields for the reviewer, their comments, and the status of the review.
-
-To ensure that end-users understand the form and its purpose, I will create a help guide that breaks down each field and explains its relevance and requiredness.
-</thinking>
-
 # Data Integrity Compliance Report Form - Help Guide
 ## Purpose
 The Data Integrity Compliance Report Form is designed to collect data on incidents and track their resolution progress. It is used to ensure that incidents are properly reported, reviewed, and resolved within the organization.

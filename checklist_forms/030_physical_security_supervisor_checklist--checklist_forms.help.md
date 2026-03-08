@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Security Supervisor Checklist - Help Guide
 ## Purpose
 

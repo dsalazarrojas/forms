@@ -1,17 +1,3 @@
-<thinking>
-This form is meant to be used by the ecommerce team to ensure the store is properly set up and prepared for the Black Friday sales event. The form should be completed by the team members who are responsible for the store's setup and preparation. It is crucial to fill out this form as it will help to identify and address any potential issues that may arise during the sales event.
-
-The form will be used to collect information about the store's setup, including the store name, platform, inventory synchronization, payment gateway testing, site speed, shipping cutoff date, customer support staffing levels, promotional assets readiness, and contingency notes.
-
-The form should not be filled out by non-team members, as the information collected is specific to the team's internal processes and setup.
-
-The team members should ensure that they answer all the required fields and provide accurate information to avoid potential delays or issues during the sales event.
-
-The form should be completed before the sales event to allow the team to take necessary steps to address any issues that may arise.
-
-The form should be reviewed and updated regularly to ensure that it remains relevant and accurate.
-</thinking>
-
 # Black Friday Ecommerce Checklist - Help Guide
 ## Purpose
 This form is used to ensure that the ecommerce store is properly set up and prepared for the Black Friday sales event.

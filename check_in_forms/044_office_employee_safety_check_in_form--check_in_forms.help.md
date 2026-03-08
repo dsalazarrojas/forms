@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from office employees regarding their daily safety check-in status, which is an important aspect of maintaining a safe and healthy work environment. The form aims to gather essential details such as the employee's current status, location, and any onsite status or location, if applicable. This information is crucial for management to track attendance, respond to emergencies, and ensure the well-being of employees. The purpose of this form is to encourage employees to check-in regularly and provide accurate information about their safety and whereabouts.
-
-</thinking>
-
 # Office Employee Safety Check-in Form - Help Guide
 ## Purpose
 This form is designed to help office employees check in daily, providing essential information about their status and whereabouts for the benefit of the workplace safety and well-being.

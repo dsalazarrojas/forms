@@ -1,11 +1,3 @@
-<thinking>
-
-To understand the purpose of this form, let's break down the required fields and the options provided. The form is titled "Creative Writing Reading Recording Consent Form" and it appears to be related to consent for recording creative writing projects. The required fields are `first_name`, `last_name`, `phone`, `school_name`, and `event_id`. These fields likely aim to capture basic contact information and project details. The optional fields include `email`, `usage`, `storage_permission`, `usage_description`, `storage_description`, `recording_method`, `consent_date`, `recording_location`, `recording_time`, `writer_info`, `recording_agency`, `recording_agency_agreement`, `recording_agency_agreement_date`, `recording_agency_other_info`. These fields likely aim to capture additional context and permissions related to the recording and usage of the creative work.
-
-Before filling out this form, please ensure you have not already provided the same information in a previous instance. If you have any concerns or questions about the form, please reach out to the relevant team or department.
-
-</thinking>
-
 # Creative Writing Reading Recording Consent Form - Help Guide
 ## Purpose
 The "Creative Writing Reading Recording Consent Form" is designed to capture consent and information from individuals involved in creative writing projects. This form ensures that all parties involved are aware of and agree to the terms of recording and usage of the creative work.

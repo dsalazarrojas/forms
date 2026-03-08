@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's review the purpose and relevance of this form. This form is for collecting information from students who are applying to or enrolled in special education programs. The fields in this form will guide the administrators in understanding the student's basic information, educational history, medical history, special education needs, and placement status. This form is designed to be used by schools or institutions to ensure that they have all necessary information to provide the best possible support to the student. It's essential to fill this form accurately and thoroughly to avoid any potential issues or misunderstandings during the admission process.</thinking>
-
 # special_education_admission_checklist_form_template - Help Guide
 
 ## Purpose

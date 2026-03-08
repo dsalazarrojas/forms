@@ -1,12 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information for AI ethics research in education. This form is intended for researchers who want to apply for permission to conduct studies that involve the use of AI in educational settings. The form aims to ensure that researchers address various ethical considerations and follow best practices in AI development and deployment.
-
-To ensure that your application is complete and relevant, please carefully review the fields below and provide accurate information.
-
-Also, please note that this form was created using public survey topic metadata and is not affiliated with any proprietary form platforms. You are free to use, modify, and distribute this form, while giving proper credit.
-
-</thinking>
-
 # AI Ethics In Education Research Application Form - Help Guide
 ## Purpose
 This form is designed to help researchers apply for permission to conduct studies that involve the use of AI in educational settings. The form aims to ensure that researchers address various ethical considerations and follow best practices in AI development and deployment.

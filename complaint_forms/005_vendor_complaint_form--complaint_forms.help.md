@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Vendor Complaint Form is used only for its intended purpose and to avoid duplication of work. This form should be used when a vendor has a complaint or concern regarding their interaction with our company or services. The form should only be filled out by a vendor representative, and any other type of user (e.g., customer or internal staff) should not submit a complaint through this form. 
-</thinking>
-
 # Vendor Complaint Form - Help Guide
 ## Purpose
 The Vendor Complaint Form is a tool for vendors to submit complaints or concerns they have while interacting with our company or services. This guide will walk you through how to complete the form accurately and effectively.

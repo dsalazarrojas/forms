@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the impact of consulting services provided to clients. It is meant to be completed by clients who have received consulting services from the firm. The purpose of this form is to gather feedback on the quality of service, the effectiveness of the consultant, and potential areas for improvement. Please ensure that you have completed the form for the correct engagement period. If you are unsure which engagement period this form corresponds to, please contact the project manager.
-</thinking>
-
 # Consulting Impact Measurement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients on the impact of consulting services provided to them. It is used to measure the effectiveness of the consultants and identify areas for improvement.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about the current state of digital consulting adoption within an organization. The form will likely be used by management or IT teams to assess the current level of digital consulting adoption, identify areas of improvement, and provide recommendations for future development.
-
-Please note that this form is not a formal audit, and the data collected will be used for internal decision-making purposes only. If you are not part of the organization's management or IT team, you may not need to fill out this form. If you have already filled out this form in the past, your responses will not be affected by any changes to the form.
-
-This form is designed to be completed by individuals who have hands-on experience with digital tools and technologies within the organization.
-
-To avoid duplication of effort, please do not fill out this form if you have already completed a similar form in the past.
-</thinking>
-
 # Digital Consulting Adoption Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your organization's current state of digital consulting adoption. Your input will help us understand your experiences with digital tools and technologies, and provide us with insights to improve our services.

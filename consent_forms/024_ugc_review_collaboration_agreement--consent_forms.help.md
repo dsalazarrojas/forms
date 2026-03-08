@@ -1,7 +1,3 @@
-<thinking>
-This form is for the User-Generated Content (UGC) Review Collaboration Agreement. It's intended for users to collaborate with our team in reviewing user-generated content, and it's crucial for ensuring that our internal processes are followed correctly. The form should be completed by users who are part of the review collaboration process. We don't want users to fill out this form without being part of the process or without understanding its purpose. We also want to ensure that users don't fill out this form multiple times. This form is used to gather specific information from our users, and its purpose is to ensure that our collaboration process is followed correctly. We will not accept form submissions without the required fields completed.
-</thinking>
-
 # UGC Review Collaboration Agreement - Help Guide
 ## Purpose
 The UGC Review Collaboration Agreement form is a tool used to collect information from our users who are part of the review collaboration process. The form is essential for ensuring that our internal processes are followed correctly and for us to effectively collaborate with our users.

@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to track the course load and enrollment status of university students. It's essential to ensure that students are accurately enrolled in courses and have the necessary support to succeed in their programs. Before completing this form, please confirm that you have a valid Student ID and are submitting the information for the correct semester. Please note that this form is intended for students currently enrolled or seeking enrollment. If a student is not listed in the system, please contact the registrar's office for assistance.</thinking>
-
 # university_student_course_load_check_in - Help Guide
 ## Purpose
 The University Student Course Load Check-in form is designed to help track the course load and enrollment status of university students. It's a crucial tool for ensuring students' accurate enrollment and providing necessary support.

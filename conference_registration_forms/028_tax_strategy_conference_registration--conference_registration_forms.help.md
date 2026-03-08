@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect registration information and details from attendees for a tax strategy conference. It will ask for various personal and professional details such as name, email, phone number, and job title. The form also inquires about session preferences, tax requirements, and payment methods. This information will help in preparing the conference schedule and organizing attendees' sessions.
-</thinking>
-
 # Tax Strategy Conference Registration - Help Guide
 ## Purpose
 The Tax Strategy Conference Registration form is used to collect registration information and details from attendees for the conference.

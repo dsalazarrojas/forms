@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from beverage companies interested in participating in the Beverage Export Program. The form aims to gather data on the company's export experience, target markets, production capacity, product categories, and other relevant details. By filling out this form, the company will be able to:
-
-* Provide detailed information about their company and export goals
-* Get assistance with market research, regulatory compliance, distribution, marketing, logistics, and other export-related matters
-* Receive guidance on export challenges and areas where they need support
-
-Please ensure that you are filling out this form for a specific company and not duplicating efforts. If you are unsure about any field, please refer to the field-by-field explanations below.
-
-Note that some fields are optional, and you can provide additional comments if necessary.
-</thinking>
-
 # Beverage Export Program Registration - Help Guide
 ## Purpose
 This form is designed to gather information from beverage companies interested in participating in the Beverage Export Program. Its primary goal is to help you get started with your export journey and receive support from the program.

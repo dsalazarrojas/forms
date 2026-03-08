@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Acord Cancellation Form - Help Guide
 ## Purpose
 This form is designed to assist policyholders in requesting the cancellation of their policy with a specific insurance provider. It is intended to capture relevant information for the cancellation process, ensuring that the policyholder's needs are accurately represented and their request is processed efficiently.

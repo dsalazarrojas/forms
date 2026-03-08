@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and track employee complaints, providing a structured way to report incidents, issues, or grievances within the organization. This form is designed to capture relevant details, such as the employee's name, description of the complaint, contact information, and other relevant metadata like assigned user and due date. It's essential to fill out this form accurately and completely to ensure that the complaint is properly documented and addressed.
-</thinking>
-
 # hr_complaint_form - Help Guide
 ## Purpose
 This form is used to document and track employee complaints, providing a structured way to report incidents, issues, or grievances within the organization.

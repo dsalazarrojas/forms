@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Survey Communication Form" within the business_surveys category. The form's internal reasoning should explain its purpose, and its YAML definition will guide the creation of the help guide.
-</thinking>
-
 # Survey Communication Form - Help Guide
 ## Purpose
 The Survey Communication Form is a document designed to collect information and feedback from clients, customers, or employees through a series of text-based questions. This form is a useful tool for businesses to gather insights, opinions, or data from their audience, helping them to make informed decisions or improve their services. 

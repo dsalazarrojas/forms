@@ -1,13 +1,3 @@
-<thinking>
-A Health Reimbursement Account Claim Form is used to record and track claims submitted by individuals for reimbursement. This form gathers information about the claimant, including their details, job title, department, and contact information. It also includes sections for claiming dates, amounts, and reasons, as well as the status and notes of the claim. The form is meant to be completed by the claimant or their representative, and is likely to be used for internal purposes by HR or accounting teams to process and manage claims.
-
-Before proceeding, ensure that the form is relevant to your situation and not a duplicate. If you have already submitted a claim, please do not submit another. 
-
-This form is meant for new claims only. If you need to update an existing claim, please contact the relevant department or representative for assistance. 
-
-Please note that the fields on this form are designed to guide you through the process, and some fields may have specific instructions or requirements. Follow the instructions carefully to ensure accurate and complete submission. 
-</thinking>
-
 # Health Reimbursement Account Claim Form - Help Guide
 ## Purpose
 This form is used for claiming reimbursement for expenses related to health-related activities, such as medical treatments, procedures, or other health-related services. 

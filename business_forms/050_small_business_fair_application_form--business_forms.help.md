@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a comprehensive application form for small business owners to apply to participate in a fair or event. It seems to be used to collect various information from the business owners, including their business details, contact information, product or service offerings, insurance, and other relevant data. Upon reviewing the form structure and field types, it appears that the form is primarily focused on collecting data that will be used to assess the applicant's qualification and suitability for participating in the fair or event.
-The form includes fields for the business name, applicant name, email, phone number, vendor type, product description, electronic signature, vendor address, website, license number, license expiration date, event start and end dates, setup fee, services offered, requirements, payment terms, insurance status, insurance provider information, and event notes. Some fields, such as vendor type, services offered, and insurance status, have specific options or selections that the applicants must choose from.
-Before proceeding, please ensure that this form aligns with your organization's specific requirements and that you have reviewed the form fields and options carefully to understand their intended use.
-</thinking>
-
 # Small Business Fair Application Form - Help Guide
 ## Purpose
 The Small Business Fair Application Form is designed to gather essential information from small business owners who wish to participate in the fair or event. The form helps to assess their suitability and qualification for participating in the fair or event.

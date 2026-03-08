@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COTH Outdoor Fellowship and Family Fun Day - Help Guide
 ## Purpose
 The COTH Outdoor Fellowship and Family Fun Day form is used for registering attendees for the event. It captures essential information about each participant, including contact details, event preferences, and special requirements. This form will help us prepare for the event and ensure that we have the necessary information to provide a safe and enjoyable experience for all.

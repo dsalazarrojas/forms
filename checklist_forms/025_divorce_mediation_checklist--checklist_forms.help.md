@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients regarding their divorce mediation process. The purpose of the form is to gather essential details about the client's situation, goals, and expectations, as well as their level of readiness and communication style. This information will help the mediator understand the client's needs and provide effective mediation services. This form is part of the divorce mediation process, and the information collected will be used to guide the mediation sessions and help reach a fair and satisfactory resolution for all parties involved. It's essential to fill out this form accurately and thoroughly to ensure that the mediator has a clear understanding of the client's situation and can provide the best possible mediation services.
-</thinking>
-
 # Divorce Mediation Checklist - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients regarding their divorce mediation process. The information collected will be used to guide the mediation sessions and help reach a fair and satisfactory resolution for all parties involved.

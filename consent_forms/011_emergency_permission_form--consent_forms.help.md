@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals in case of an emergency, providing a list of emergency contact persons and permission details. This form is designed to be completed by an individual to ensure that in case of an emergency, the necessary contacts and permissions are readily available.
-</thinking>
-
 # Emergency Permission Form - Help Guide
 ## Purpose
 This form is designed to gather critical information from you in case of an emergency. It will help us quickly find and contact someone in case of an emergency.

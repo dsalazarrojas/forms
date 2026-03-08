@@ -1,7 +1,3 @@
-<thinking>
-This form is for patients to report any complaints or concerns they may have about their care. This form will help us better understand their needs and improve our services. Please make sure this is not a duplicate complaint, we will review each complaint individually.
-</thinking>
-
 # patient_care_complaint_form - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their complaints or concerns regarding their care. It will help our team understand their needs and improve our services.

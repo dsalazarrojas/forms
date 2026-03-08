@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Hospital Digital Innovation Readiness Survey" form, which is designed to assess a hospital's readiness for digital innovation. This form is likely used by hospital administrators or IT professionals to gauge the hospital's current state and potential for digital transformation.
-</thinking>
-
 # Hospital Digital Innovation Readiness Survey - Help Guide
 ## Purpose
 This form is designed to evaluate a hospital's readiness for digital innovation, covering various aspects of the organization, including IT infrastructure, collaboration, training, digital transformation, innovation maturity, innovation roadmap, technology adoption, digital innovation, leadership, culture, finance, human resources, operations, security, environment, IT, innovation, digital innovation plan, budget, and sustainability.

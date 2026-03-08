@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a Marine Biology Workshop. The form asks for basic contact information, course preferences, and agreement to certain terms. The purpose is to allow workshop organizers to efficiently collect and process applications. The form should be filled out by individuals only once. Please ensure you have not already submitted this form before attempting to do so again.
-</thinking>
-
 # Marine Biology Workshop Admission Form - Help Guide
 ## Purpose
 The Marine Biology Workshop Admission Form is designed to collect information from individuals interested in participating in a Marine Biology Workshop. This form is used to efficiently collect and process applications for the workshop.

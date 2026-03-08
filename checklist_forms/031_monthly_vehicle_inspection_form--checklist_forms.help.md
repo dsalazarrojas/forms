@@ -1,14 +1,3 @@
-<thinking>
-This help guide will provide a detailed explanation of the "monthly_vehicle_inspection_form" form, its purpose, and how to complete it. The form is designed to capture key information about a vehicle, including its status, owner details, and inspection data.
-
-The purpose of this form is to collect data for vehicle inspections, ensuring that all required fields are accurately filled out by the vehicle's owner or inspector to maintain a record of the vehicle's status and history. This form will help users quickly and efficiently gather the necessary information for vehicle inspections.
-
-This form appears to be part of a more comprehensive system, potentially used in industries such as transportation, law enforcement, or vehicle maintenance.
-
-To avoid duplication, users should only use this form for the intended purpose and not for other tasks. The fields provided are specifically designed to capture the necessary information required for vehicle inspections.
-
-</thinking>
-
 # monthly_vehicle_inspection_form - Help Guide
 ## Purpose
 The "monthly_vehicle_inspection_form" is designed to capture data for vehicle inspections, ensuring that all required fields are accurately filled out by the vehicle's owner or inspector to maintain a record of the vehicle's status and history.

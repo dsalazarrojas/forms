@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a consent form for LED light therapy, which is a medical treatment that uses light to stimulate cellular processes and promote healing. The form is designed to gather information about the patient's medical history, allergies, and contact information for treatment purposes. It also includes fields for treatment type, consent, and signature.
-Given the provided YAML, it seems that this form is meant for patients to provide their consent for LED light therapy, and it's likely used in a clinical setting.
-</thinking>
-
 # LED Light Therapy Consent Form - Help Guide
 ## Purpose
 This is a consent form for LED light therapy, a medical treatment that uses light to stimulate cellular processes and promote healing. The form is designed to gather information necessary for safe and effective treatment.

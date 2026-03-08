@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about rural-urban migration, which is the movement of people from rural areas to urban areas in search of better opportunities, amenities, or living conditions. The form is likely used in research or analysis to understand the reasons, challenges, and experiences of individuals or families who have migrated from rural to urban areas. The form is designed to be completed by individuals or families who have undergone or are planning to undergo rural-urban migration. 
-
-This form is not intended for use in real-time decision-making or emergency situations. It is a data collection tool for research or analysis purposes only. 
-
-Please make sure that you are eligible and authorized to complete this form before proceeding.
-</thinking>
-
 # rural_urban_migration_survey - Help Guide
 ## Purpose
 The rural-urban migration survey is designed to collect information about your reasons for migrating from a rural to an urban area, the challenges you faced during the migration process, and your plans and experiences after settlement. This survey will help us understand your story and improve the lives of others who may be undergoing similar experiences.

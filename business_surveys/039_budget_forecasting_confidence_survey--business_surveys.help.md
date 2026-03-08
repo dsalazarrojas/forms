@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm assuming that the purpose of this form is to collect feedback and insights from respondents about their confidence in the current forecasting process. This form aims to understand how respondents feel about the accuracy of their forecasts, challenges they face, and areas where they need improvement. The form's structure suggests that it's primarily used for qualitative analysis, gathering perceptions and attitudes, and might be used in a business setting to improve forecasting practices.</thinking>
-
 # Budget Forecasting Confidence Survey - Help Guide
 ## Purpose
 The Budget Forecasting Confidence Survey is designed to gather information from respondents about their confidence in the current forecasting practices and procedures in their organization. This survey aims to help improve the accuracy and effectiveness of forecasts by identifying areas for improvement and potential challenges faced by respondents.

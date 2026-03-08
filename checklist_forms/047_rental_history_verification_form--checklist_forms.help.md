@@ -1,8 +1,3 @@
-<thinking>
-This form is used to verify rental history of an applicant. The purpose of this form is to gather information about the applicant's rental experiences, such as the length of stay, rent amount, utilities, and lease term. The form is designed to be completed by the applicant, but may also be used by landlords or property managers to collect information about potential tenants. To prevent duplication of work, please ensure that the necessary questions are asked and answered by the applicant before using this form.
-
-</thinking>
-
 # Rental History Verification Form - Help Guide
 ## Purpose
 The Rental History Verification Form is used to gather information about the applicant's rental experiences. This information will be used to verify the applicant's rental history and help us get a better understanding of the applicant's needs and expectations.

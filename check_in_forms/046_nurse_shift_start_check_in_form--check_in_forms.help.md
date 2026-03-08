@@ -1,5 +1,3 @@
-<thinking>...to ensure the form's purpose and field requirements are clear and concise...</thinking>
-
 # Nurse Shift Start Check In Form - Help Guide
 ## Purpose
 The Nurse Shift Start Check In Form is used to confirm or deny the start of a nurse's shift. This form is essential for tracking and recording the shift start times and other relevant information.

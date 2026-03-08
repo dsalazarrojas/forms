@@ -1,18 +1,3 @@
-<thinking> 
-This form is a critical tool for drone pilots to conduct preflight checks to ensure their drone is ready for safe and successful flights. The form is designed to be completed before each flight to verify that all critical systems are functioning properly. It should not be used as a standalone reference document but rather as a dynamic checklist that pilots can update and review in real-time. The form is not a substitute for regular maintenance and inspection, but rather a tool to supplement these procedures.
-
-This form may need to be reviewed and updated based on changing operational environments and new safety regulations.
-
-The following sections may require updates based on new technology and regulations:
-
-* Propeller size and pitch: This section may need to be updated based on new propeller designs and sizes.
-
-* Flight planner version: This section may need to be updated based on new flight planner software releases.
-
-* Drone and propeller type: This section may need to be updated based on changes in drone and propeller designs.
-
-</thinking>
-
 # Drone Preflight Checklist - Help Guide
 ## Purpose
 The drone preflight checklist is a critical tool for drone pilots to verify that their drone is ready for safe and successful flights.

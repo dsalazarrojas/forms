@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's briefly discuss the internal reasoning behind this form. The Storage Location Assignment Survey form appears to be designed for assigning specific access levels and storage areas to certain teams or personnel. It likely serves a purpose such as managing permissions or access control within an organization. It's possible that the form is used for both new and existing users, as some fields are labeled as "required" while others are not. Let's review the form structure to ensure the provided help guide meets our needs.</thinking>
-
 # Storage Location Assignment Survey - Help Guide
 ## Purpose
 This form is designed to assign storage areas and access levels to teams or personnel within an organization.

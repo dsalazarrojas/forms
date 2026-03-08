@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users track and manage office cleaning tasks and schedules. The form is used to input information about the office cleaning frequency, items to be cleaned, office hours, assigned user, and other relevant details. The form is likely used by facilities or maintenance staff to plan and execute office cleaning tasks efficiently. This form should only be used for tracking and managing office cleaning tasks, and not for other purposes. Please ensure that all required fields are filled in correctly to avoid incomplete or inaccurate records.</thinking>
-
 # Daily Office Cleaning Checklist - Help Guide
 ## Purpose
 The Daily Office Cleaning Checklist is a form used to track and manage office cleaning tasks and schedules.

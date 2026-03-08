@@ -1,5 +1,3 @@
-<thinking>...I will create a help guide for the Fundraiser Attendee Check In Form based on the provided YAML input schema. This form is used for checking in attendees to a fundraiser event. I will ensure the explanation is clear and concise, and I will cover all required information to help end-users complete the form accurately...</thinking>
-
 # Fundraiser Attendee Check In Form - Help Guide
 ## Purpose
 This form is designed to collect check-in information from fundraiser attendees. It helps event organizers track and manage attendees in a efficient and organized manner.

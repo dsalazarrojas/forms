@@ -1,5 +1,3 @@
-<thinking>
-This form is used to generate a profit and loss report. The profit and loss report form is typically used to record and report financial performance metrics, such as income and expenses. This form should not be used to report other types of information, like non-financial data. To avoid duplication, please use the "Other" option only when you need to report a financial metric that does not fit in the "Yes" or "No" categories.</thinking>
 # Profit And Loss Report Form - Help Guide
 
 ## Purpose

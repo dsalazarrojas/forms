@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed to collect information about occupational safety and health standards, specifically in relation to OSHA (Occupational Safety and Health Administration) regulations. The form is likely used by personnel or management to document and track compliance with various aspects of OSHA standards, including hazard communication, training, emergency procedures, and record-keeping.
-
-The form includes a range of fields, such as text fields for training plans and accident reporting frequency, select_one and select_multiple fields for categorizing the use of personal protective equipment (PPE) and the existence of emergency action procedures, note fields for questions and comments, and text fields for collecting additional information about hazard communications and accident reporting.
-
-This form may be used by personnel to report compliance with OSHA standards, or by auditors or inspectors to assess compliance. The form likely serves as a checklist for verifying that certain standards have been met, and for tracking progress and areas for improvement.
-
-Before completing this form, ensure that you have reviewed the relevant OSHA standards and regulations that apply to your work environment.
-
-</thinking>
-
 # osha-standards - Help Guide
 ## Purpose
 This form is used to document and track compliance with various aspects of OSHA (Occupational Safety and Health Administration) regulations, including hazard communication, training, emergency procedures, and record-keeping.

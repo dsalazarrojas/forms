@@ -1,16 +1,3 @@
-<thinking>
-To create a help guide for this form, let's break down the purpose and fields:
-
-The form is used to collect information on how a user behaves when it comes to purchasing skincare products. This includes their preferences, habits, and influencing factors when making purchase decisions. 
-
-This form seems to be a survey, and the goal is likely to gather insights on how customers make decisions when buying skincare products. The form has several fields that ask about user demographics, product preferences, frequency of use, and purchase habits. 
-
-There's no duplication in the form fields, and the options for most questions are clear and concise. I won't assume any business logic, and I'll focus on providing concrete explanations for each field. 
-
-With this understanding, I can now create the help guide.
-
-</thinking>
-
 # Skincare Product Comparison Behavior Survey - Help Guide
 ## Purpose
 This survey is designed to gather insights on how customers make decisions when purchasing skincare products. Your participation will help us better understand your habits and preferences.

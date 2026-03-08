@@ -1,26 +1,3 @@
-<thinking>
-
-This form will be used to track and assess an individual's weight control habits, including their daily habits, exercise frequency and intensity, sleep patterns, stress levels, and nutritional plans.
-
-The form will guide users to provide information about their current state, such as:
-
-* Morning habits
-* Exercise frequency and intensity
-* Sleep hours and quality
-* Water intake
-* Stress levels
-* Emotional state
-* Weight progress
-* Exercise duration and type
-* Exercise frequency and schedule
-* Sleep schedule
-
-This form will help users to assess their current weight control habits and provide a baseline for monitoring their progress. It will help users to identify areas that need improvement and suggest possible changes to help them achieve their weight goals.
-
-It is crucial that the user answers the questions truthfully and provides accurate information to ensure the form's effectiveness in tracking their progress.
-
-</thinking>
-
 # Weight Control Checklist - Help Guide
 ## Purpose
 

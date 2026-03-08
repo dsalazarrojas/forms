@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the attendance of retail employees. It is designed to collect information about the employee's shift, including start and end times, store details, and employee information. The form is likely used for attendance tracking, scheduling, and reporting purposes. To ensure accurate and efficient completion of the form, it is essential to ensure that the employee's store ID, shift start time, and employee ID are correctly filled in. Additionally, the form should not be duplicated or submitted multiple times for the same shift. 
-</thinking>
-
 # retail_employee_daily_check_in_form - Help Guide
 ## Purpose
 This form is used to record the attendance of retail employees.

@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to collect registration information for the Financial Forecasting Seminar. The purpose of this form is to gather essential details about attendees, their session preferences, and other relevant information. This form is a critical part of the registration process for the seminar and ensures that all attendees are accounted for and their preferences are documented.
-The form has multiple pages with different fields for various pieces of information. Some fields are required while others are optional, providing users with the flexibility to fill in as much or as little information as needed. Each field has a specific label, type, and optional hints to guide users in providing the correct information.
-The following sections in the help guide are essential in ensuring users can effectively and efficiently fill out the form:
-- "Purpose" to provide context and a clear understanding of the form's goals.
-- "How to Complete This Form" with general instructions on filling out the form.
-- "Field-by-Field Explanation" to break down each field and provide clear explanations for users.
-- "Tips" for any additional advice or guidance that users may need to fill out the form correctly.
-
-</thinking>
-
 # Financial Forecasting Seminar Registration - Help Guide
 ## Purpose
 The Financial Forecasting Seminar Registration form is designed to collect necessary information from attendees to ensure a smooth and productive experience for all participants. This form gathers details about attendees, their session preferences, and financial information.

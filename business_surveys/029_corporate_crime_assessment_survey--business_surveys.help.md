@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate.report - Help Guide
 ## Purpose
 This form is designed to collect information from employees about corporate crime awareness in various departments, including finance, human resources, information technology, and environmental services. It aims to gauge employees' levels of awareness about these critical areas.

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the TM Registration Form, we should first understand the form's purpose and the expected user interaction. 
-
-This form is for registering trademarks, allowing companies to provide their trademark information. It appears to be a basic form with fields for company details, trademark specifics, and image upload. The fields are mostly text input with some specific requirements and hints provided for the users' guidance. 
-
-We should check if there are any existing guides or forms with similar purposes or any other relevant information that might help us in the guide writing process. 
-
-</thinking>
-
 # TM Registration Form - Help Guide
 ## Purpose
 This form is intended for companies to register their trademarks. To fill out the form, please follow the steps below.

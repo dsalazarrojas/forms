@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Insurance Claim Investigation Consent Form - Help Guide
 
 **Purpose**

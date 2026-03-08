@@ -1,11 +1,3 @@
-<thinking>
-Form Purpose: This form is for users to submit a discrimination complaint claim. It's used to document and track discrimination complaints within the organization. The form should only be completed by individuals who have experienced or witnessed discrimination.
-
-Relevance and Duplication Checks: 
-Before completing this form, please ensure you have not already submitted a complaint for the same incident. If you're unsure, please check with the Human Resources department. This form will help you document your complaint in a clear and concise manner, ensuring your concerns are addressed and resolved.
-
-</thinking>
-
 # discrimination_complaint_claim_form - Help Guide
 ## Purpose
 This form is for users to submit a discrimination complaint claim. It's used to document and track discrimination complaints within the organization.

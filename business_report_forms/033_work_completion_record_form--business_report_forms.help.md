@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Completion Record Form - Help Guide
 ## Purpose
 This form is designed to record and track the completion status of individual work items. It helps to monitor progress, update status, and keep a record of ongoing and completed tasks. The form is intended for internal use within organizations to facilitate communication and coordination among team members and stakeholders.

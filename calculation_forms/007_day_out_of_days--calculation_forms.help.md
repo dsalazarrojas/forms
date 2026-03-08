@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a calculation form designed to calculate the difference in days between two dates, allowing users to select a unit for the result, and provide a label for the result. The form seems to be used for internal purposes, possibly for tracking or reporting.
-
-To ensure the form is used correctly, we should clarify the purpose and usage guidelines for end-users.
-
-</thinking>
-
 # Day Out Of Days - Help Guide
 
 ## Purpose

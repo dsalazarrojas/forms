@@ -1,13 +1,3 @@
-<thinking>
-We should ensure the user understands the purpose and relevance of this form, as well as what information is required and what each field means.
-To start, let's assume the form is meant to measure the level of engagement, satisfaction, and value that clients have with your services, and to identify potential risks and opportunities for growth. This form aims to gather information that will help you understand the health and progression of your clients' businesses and tailor your services and support to their needs.
-
-Before filling out the form, please note that it consists of several sections, each focusing on a different aspect of client success measurement. The form is divided into several sections: Client Information, Client Engagement and Health, Satisfaction and Value, Business Goals and Progress, Churn Risk and Retention, Overall Health Score, Customer Advocacy, and Next Steps and Action Items.
-
-The form is required for you to fill out, and it's essential to be as accurate and thorough as possible. Please ensure you have all necessary information before completing it.
-
-</thinking>
-
 # Client Success Measurement Survey - Help Guide
 ## Purpose
 This form is designed to help measure the level of engagement, satisfaction, and value that clients have with your services. It aims to identify potential risks and opportunities for growth and tailor your services and support to their needs.

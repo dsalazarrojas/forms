@@ -1,8 +1,3 @@
-<thinking>
-The "Single Member Operating Agreement" is a form used for a business entity that is being formed as a single-member LLC or S corporation, where all ownership and control rest with one person. This type of agreement is essential for establishing a clear understanding between the business owner and the state or other regulatory bodies. It outlines the operating agreement, which is a document that governs how the business will be run, including the roles and responsibilities of the owner, financial matters, and other key aspects.
-The "Single Member Operating Agreement" form is a straightforward and simple form designed to help the business owner quickly and easily create a comprehensive operating agreement. This guide will walk you through each section of the form and help you understand how to complete it accurately and efficiently.
-</thinking>
-
 # Single Member Operating Agreement - Help Guide
 ## Purpose
 The Single Member Operating Agreement form is designed for businesses that are being formed as a single-member LLC or S corporation. It helps establish a clear understanding between the business owner and the state or other regulatory bodies by outlining the operating agreement, which governs how the business will be run.

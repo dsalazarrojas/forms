@@ -1,18 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Ultimate Beneficial Owner Registration Form", we need to consider the following:
-
-* The form is designed to collect information about the beneficial owner of a business or organization.
-* The beneficial owner is an individual or entity that has a significant interest or control in the business or organization.
-* The form is likely used for regulatory compliance or due diligence purposes.
-
-The form collects various information about the beneficial owner, including their personal details, address, nationality, and type of beneficial owner (individual or organization). The form also asks for the owner's status (active, dormant, or inactive) and the type of beneficial owner (e.g., individual or organization).
-
-The purpose of the form is to ensure that the beneficial owner's information is accurately and thoroughly registered, which is essential for compliance and risk assessment.
-
-To avoid duplication and non-compliance, this form should only be used by authorized individuals and not for speculative or testing purposes.
-
-</thinking>
-
 # Ultimate Beneficial Owner Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about the beneficial owner of a business or organization for regulatory compliance and due diligence purposes.

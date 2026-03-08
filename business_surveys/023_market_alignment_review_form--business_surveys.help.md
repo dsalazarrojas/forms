@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the Market Alignment Review Form. It's intended for use in the business_surveys category to evaluate a product's market alignment. This form helps identify the best course of action by reviewing a product's market fit, strategy, and competitors. Before proceeding, please ensure you have the necessary information and permissions to complete this form. Duplicate submissions will not be accepted. Please review the guidelines provided below to ensure a successful submission.
-</thinking>
-
 # Market Alignment Review Form - Help Guide
 ## Purpose
 

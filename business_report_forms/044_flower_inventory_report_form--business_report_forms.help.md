@@ -1,7 +1,3 @@
-<thinking>
-This is a form for gathering information about the current state of a flower inventory. The form is used to report on the levels of flowers in stock, their condition, and other relevant details such as the last date of replenishment, quantity replenished, total value, needs for replenishment, and type of flowers. To ensure the form is being used correctly, please ensure you are using the most up-to-date version of the form and that you are familiar with the flower inventory management process in your organization. If you are unsure, please reach out to your team or supervisor for clarification. Please do not duplicate this form, as it is intended for a specific use case and may not be suitable for other purposes. 
-</thinking>
-
 # Flower Inventory Report Form - Help Guide
 ## Purpose
 This form is used to gather information about the current state of a flower inventory. It helps the user to report on the levels of flowers in stock, their condition, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the "Athlete Bio Publication Consent Form". This form is used to collect information about an athlete's personal and professional background, as well as their consent for the publication of their bio on various platforms. To ensure that the form is completed accurately, it is essential to understand its purpose and each field's significance. Before we dive into the guide, I will check for relevance and non-duplication of information.</thinking>
-
 # Athlete Bio Publication Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about an athlete's background, achievements, and consent for the publication of their bio on various platforms. The collected data will be used for promotional materials and other official purposes.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect customer and event information for business purposes. It is used to gather details about customers, attorneys, and events. The form is not required, but it is recommended to fill it out to ensure accurate and complete information is captured.
-
-This form is used to create a new customer and event record. It is not a replacement for other business forms such as customer invoices or payment receipts.
-
-This form is not intended to be filled out multiple times. If you need to update or change information, please use the edit function or reach out to the relevant department for assistance.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect customer and event information for business purposes. It is used to gather details about customers, attorneys, and events.

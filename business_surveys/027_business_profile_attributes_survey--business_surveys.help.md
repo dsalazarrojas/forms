@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect business profile attributes from respondents, helping us understand their company's characteristics and interests. It's intended to be completed by clients or business owners who are interested in our services.
-
-To ensure accurate and complete responses, please note that the form is divided into sections, and each section corresponds to a specific part of the business profile. The form asks for information about the client's identity, business profile, interests, and preferences.
-
-When completing the form, please make sure to answer each field carefully, as the information provided will help us tailor our services to your specific needs.
-
-</thinking>
-
 # Business Profile Attributes Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # van_inspection_form - Help Guide
 
 ## Purpose

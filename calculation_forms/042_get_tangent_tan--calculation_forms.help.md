@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide that is clear and concise for end-users, I'll need to understand the purpose and requirements of the "Get Tangent (tan)" form. Based on the provided YAML fields, I will deduce that the form is intended for calculating the tangent of a given angle. The title suggests that the form is focused on trigonometric calculations.
-</thinking>
-
 # Get Tangent (tan) - Help Guide
 ## Purpose
 This form is used to calculate the tangent of a given angle. The tangent is a trigonometric function that represents the ratio of the opposite side to the adjacent side in a right-angled triangle.

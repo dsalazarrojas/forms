@@ -1,16 +1,3 @@
-<thinking>
-To ensure that the Project Success Feedback Survey Form is used correctly, we need to understand its purpose and how it should be completed. This form is designed to gather feedback on the success of a project, and it should only be filled out by authorized personnel who have access to the project's information.
-
-When filling out this form, please note that some fields are optional, but all required fields should be completed to ensure that the feedback is thorough and accurate. The form should only be filled out for projects that are currently active or inactive, as indicated by the project status selection.
-
-Before starting the form, it is essential to review the project information, including the title, description, and current status, to ensure that the feedback is relevant and aligned with the project's goals. This form should not be used to provide feedback for projects that have already been completed or are not currently active.
-
-This form should only be filled out by authorized personnel who have been assigned to provide feedback on the project. If you are unsure about the project or your role in providing feedback, please contact the project manager or team lead for clarification.
-
-Please fill out this form thoroughly and accurately, providing as much detail as possible for each field. If you need more information or clarification on any of the fields, please don't hesitate to ask.
-
-</thinking>
-
 # Project Success Feedback Survey Form - Help Guide
 ## Purpose
 The Project Success Feedback Survey Form is designed to gather feedback on the success of a project. It should only be filled out by authorized personnel who have access to the project's information.

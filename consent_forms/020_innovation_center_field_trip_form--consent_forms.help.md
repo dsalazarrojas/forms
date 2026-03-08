@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Innovation Center Field Trip Form - Help Guide
 ## Purpose
 The Innovation Center Field Trip Form is a collection of information about students and their accompanying emergency contact information. It is intended to provide necessary details for planning and executing field trips to the Innovation Center.

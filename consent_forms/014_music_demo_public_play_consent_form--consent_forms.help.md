@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help end-users understand the purpose of the Music Demo Public Play Consent Form, which aims to gather essential information from artists and their representatives to ensure public plays of their music are done correctly and lawfully. This form will be used by administrators to verify the artist's permission for public play, which is a required process for various music industry practices. To ensure the integrity of this process, please review the following guide carefully before filling out the form.
-</thinking>
-
 # Music Demo Public Play Consent Form - Help Guide
 
 ## Purpose

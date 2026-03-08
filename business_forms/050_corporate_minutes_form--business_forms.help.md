@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Minutes Form - Help Guide
 
 ## Purpose

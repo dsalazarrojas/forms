@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "internal-environment-analysis-quiz" form, we must understand its purpose and how each field is used within the form. This will help us explain the form's purpose and how to complete it in a clear and concise manner.
 
 The form, as specified in the YAML, appears to be a set of quizzes that assess an individual's self-assessment of their strengths and weaknesses in various areas such as leadership, team communication, and resources. Each section seems to be a multiple-choice or single-choice question with options like "Yes" and "No" for most, while others are text-based. This suggests that the form is used to gather data on the individual's self-awareness and perception of their abilities in a work environment.

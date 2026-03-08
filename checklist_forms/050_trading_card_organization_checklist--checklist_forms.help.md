@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a checklist for organizing and assessing the condition, storage, and grading of trading cards. To verify, I will base my explanation on the provided YAML fields. The form likely aims to gather information about the condition, storage, and organizational aspects of trading cards. Each field is likely used to provide details about a specific aspect of trading card organization and assessment.
-
-</thinking>
-
 # Trading Card Organization Checklist - Help Guide
 ## Purpose
 The Trading Card Organization Checklist is designed to help users track and assess the condition, storage, and grading of their trading cards. This form provides a comprehensive evaluation of the cards' front and back sides, their condition, storage, and organization.

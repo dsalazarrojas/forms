@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the provided YAML data. The form is titled "Risk Mitigation Monitoring And Management Plan Checklist". This suggests that the form is related to identifying, monitoring, and managing risks within a project or organization. 
-
-The form consists of 25 fields, with various types such as text, date, time, select_one, select_multiple, email, note, and number. This variety of field types suggests that the form is used to collect detailed information about risks, their mitigation plans, and their management.
-
-Before creating the help guide, we need to identify potential duplicates or unnecessary fields. Upon reviewing the fields, we can see that some fields seem to be similar in purpose (e.g., "risk_mitigation_monitoring_and_management_plan_checklist_form_0" and "risk_mitigation_monitoring_and_management_plan_checklist_form_1"). These fields might be redundant and can be removed for clarity and simplicity.
-
-After reviewing the fields, the primary purpose of this form is to identify and manage risks. The form is likely used in a business or project management context to ensure that risks are identified, monitored, and managed appropriately.
-
-</thinking>
-
 # Risk Mitigation Monitoring And Management Plan Checklist - Help Guide
 ## Purpose
 

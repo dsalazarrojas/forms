@@ -1,7 +1,3 @@
-<thinking>
-This form was created to aid in the process of admitting students with special needs into educational institutions. The form is designed to be a checklist for staff members to use when assessing and processing applications.
-</thinking>
-
 # special_education_admission_checklist_form_template - Help Guide
 ## Purpose
 The purpose of this form is to guide staff members in assessing and processing applications for students with special needs. This checklist helps to gather important information and streamline the admission process.

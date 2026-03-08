@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for rug drop off registration. It is intended to be used by customers who need to drop off their rugs at a specific location. The form will help in identifying the customer's preferences and specifications regarding the drop off, which will be used for efficient processing and handling of the rugs. It is not intended for customers to submit a new rug for drop off, but rather for existing customers to schedule a drop off for their rug. Therefore, ensure that the form is only filled out by customers who have a rug to be dropped off and not for new customers who need to submit a rug for processing.
-</thinking>
-
 # Rug Drop Off Registration - Help Guide
 
 ## Purpose

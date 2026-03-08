@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have experienced a personal accident and wish to submit a claim. The form is intended for use by claimants to provide details about their accident, including their personal details, accident circumstances, medical information, and any supporting documents.
-
-To avoid duplication of effort and ensure accurate completion, please review the following guidance before filling out the form:
-
-* Review the provided instructions carefully before filling out the form.
-* Ensure that all required fields are completed accurately and truthfully.
-* If you are unsure about any part of the form, please seek guidance from a designated representative or supervisor.
-</thinking>
-
 # Personal Accident Claim Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who have experienced a personal accident and wish to submit a claim.

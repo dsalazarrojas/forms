@@ -1,7 +1,3 @@
-<thinking>
-This form is for patients to provide informed consent for the COVID-19 vaccine. It includes sections for the patient's name, date of birth, email, healthcare provider or facility name, and administering physician or nurse name, as well as sections for understanding vaccine information, risks, and benefits. The form also asks patients about their medical history, including chronic conditions, medications, and allergies, and requests their emergency contact information. Additionally, it includes a section for the patient to acknowledge their understanding of the consent statement, risks, and benefits of the vaccine, and to authorize the healthcare provider to administer the vaccine. The form ensures that the patient has received and understood the vaccine information sheet, and that they have been informed of the potential risks. It also includes a section for the patient to sign digitally, indicating their consent to receive the vaccine. The form is a critical step in ensuring that patients are well-informed and willing participants in the vaccination process.
-</thinking>
-
 # COVID 19 Vaccine Consent Form - Help Guide
 ## Purpose
 The COVID-19 Vaccine Consent Form is a critical document that ensures patients are well-informed and willing participants in the vaccination process. It outlines the necessary information and risks associated with the vaccine, as well as the patient's understanding and consent for administration.

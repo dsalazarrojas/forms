@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secret Santa Gift Exchange Form - Help Guide
 ## Purpose
 This form is designed for participants in a Secret Santa gift exchange to submit their gift ideas and preferences. It collects information about the recipient's name, a suggested gift, and gift exchange date and budget details.

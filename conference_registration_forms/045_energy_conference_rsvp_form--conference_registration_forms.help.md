@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to collect RSVP information for the Energy Conference. The purpose of this form is to gather basic attendee details such as name, contact information, and preferences for the conference. This helps the organizers ensure that attendees have accurate information and can plan for their needs accordingly. Please note that this form is not intended to collect any sensitive or personal financial information. The form is not meant to be used for any other purpose other than conference registration.
-</thinking>
-
 # Energy Conference RSVP Form - Help Guide
 ## Purpose
 The Energy Conference RSVP Form is used to collect attendee details for the conference, allowing organizers to plan and prepare for the event.

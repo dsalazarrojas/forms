@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Morning Arrival Check In" form is to collect information from employees or team members about their morning arrival status, employee status, health status, morning arrival notes, attendance status, special requests, contact number, and email. This form likely aims to gather essential details for morning attendance, employee tracking, and communication. The goal is to provide a simple and efficient way for employees to report their morning status and any specific needs or requests.
-The form is not mandatory, but it's likely used for monitoring attendance, gathering feedback, or providing additional information about the morning shift.
-
-Before starting to fill out this form, please make sure:
-- You have the necessary permissions to access the form.
-- You understand the purpose of the form and the information it's collecting.
-- You have access to the required fields or options.
-</thinking>
 # Morning Arrival Check In - Help Guide
 ## Purpose
 The Morning Arrival Check In form is used to report your morning arrival status and any specific needs or requests.

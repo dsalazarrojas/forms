@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "e-learning-activity-checklist" form, which is a tool used to assess and track student progress in educational activities. The form is intended to help educators monitor student participation and submission status. The checklist is not meant to be used for other purposes such as course evaluation or student assessment.
-
-The form is divided into six fields, each with a specific type and purpose. The form is designed to be used by educators to track student progress and submission status. It is not intended for other types of submissions or evaluations.
-
-To ensure accuracy and consistency, please make sure to fill out each field correctly and thoroughly.
-
-</thinking>
-
 # e-learning-activity-checklist - Help Guide
 ## Purpose
 The purpose of this form is to monitor student progress and submission status in educational activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of checking in equipment for calibration purposes. The form should only be used for equipment that requires calibration. Before filling out this form, ensure that the equipment is indeed in need of calibration. This form should not be used for duplicate entries.
-</thinking>
-
 # equipment_calibration_check_in_form - Help Guide
 ## Purpose
 The equipment_calibration_check_in_form is used to record the status of equipment that needs calibration. This form is used to ensure that all equipment is properly maintained and calibrated to prevent errors and ensure optimal performance.

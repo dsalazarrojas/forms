@@ -1,10 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for a Procedures Review Feedback Survey form. This form is used to collect feedback from users on procedures within a business process. It's a form that helps identify areas where procedures need improvement or are effective. The form collects data on the procedure name, staff feedback, stakeholders involved, ratings, comments, dates, times, emails, phones, categories, subcategories, priority, status, and other relevant details. It's used by business professionals to ensure that procedures are running smoothly and effectively.
-
-We need to ensure that the form is not duplicated for users, as it's already in use within the business process.
-
-</thinking>
-
 # Procedures Review Feedback Survey - Help Guide
 ## Purpose
 The Procedures Review Feedback Survey is a form used to collect feedback on procedures within a business process. It helps identify areas where procedures need improvement or are effective.

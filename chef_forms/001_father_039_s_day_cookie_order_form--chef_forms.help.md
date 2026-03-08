@@ -1,10 +1,3 @@
-<thinking>
-This guide is for users who want to place an order for Father's Day cookies. The form is used to collect information for a cookie order, which will be used to create a special gift for a father or father figure on Father's Day. The form collects details such as cookie shape, size, name, order date and time, and a personalized message. It is a general-purpose form and is not specific to a certain company or product line.
-
-Before you start filling out the form, make sure to check if you have already created a similar order before. This will save you time and effort in the long run.
-
-</thinking>
-
 # Father's Day Cookie Order Form - Help Guide
 ## Purpose
 This form is used to place an order for Father's Day cookies. The order details collected will be used to create a special gift for a father or father figure on Father's Day.

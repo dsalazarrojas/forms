@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wellness_coach_interview_form - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their health and wellness history, medical history, and goals and objectives. It is intended to be used by a wellness coach to understand the client's needs and provide personalized guidance and support.

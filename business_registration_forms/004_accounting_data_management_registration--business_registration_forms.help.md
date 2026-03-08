@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about businesses that need to be registered for accounting data management services. It's essential to fill out the form accurately to ensure that we have a clear understanding of the business's needs and preferences. This form will help us to assess the level of support required for the onboarding process, which may involve data migration from other systems, and tailor our services to meet the customer's needs.
-
-Please ensure that you complete the form with accurate and up-to-date information. If you have any existing relationships or previous experiences with us, please provide the relevant details. This will help us to avoid any potential conflicts or issues during the onboarding process.
-
-Before starting, please check that you haven't already completed the form to avoid duplication of effort. If you have any questions or concerns, feel free to ask.
-
-</thinking>
-
 # Accounting Data Management Registration - Help Guide
 ## Purpose
 The Accounting Data Management Registration form is designed to collect information about your business to ensure that we can provide the best possible support and services for your accounting data management needs.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to support a daily safety inspection process, likely in a construction site or workplace setting, to ensure that all necessary safety measures are in place to prevent injuries and ensure a safe working environment. It may be used by site supervisors or safety officers to document and track the completion of safety checks, report any incidents or near misses, and provide a record of their findings. This form is not intended to be a comprehensive risk assessment or a detailed incident report form, but rather a quick and easy way to verify that routine safety procedures are being followed.
-
-The following fields should be filled out by the person conducting the inspection or reporting an incident. Please note that some fields may be optional and are intended to provide additional context for the report.
-
-The form has been designed to gather specific information about the construction project, location, safety measures in place, and any incidents or near misses that occur. It is not intended to be used for non-safety related purposes, such as project progress reporting or quality control checks.
-
-Please fill out the form carefully and accurately to ensure that the safety inspection process is thorough and reliable.
-
-</thinking>
-
 # Daily Safety Inspection - Help Guide
 
 ## Purpose

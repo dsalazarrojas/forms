@@ -1,9 +1,3 @@
-<thinking>Photography session contract forms are used to formalize agreements between photographers and clients. These forms ensure that both parties understand the terms of the agreement and have a clear understanding of what is expected from each party. The photography session contract form is often used for various types of photography sessions, such as weddings, portraits, and commercial shoots. It is essential to fill out the form accurately and thoroughly to avoid any misunderstandings or disputes during or after the session.
-
-Before filling out the form, it is crucial to review each field carefully and ensure that you understand what information is required. Each field has a specific purpose, and missing or incorrect information can lead to issues with the contract.
-
-</thinking>
-
 # photography_session_contract_form - Help Guide
 ## Purpose
 This guide will walk you through the fields of the photography session contract form to help you complete it accurately and efficiently.

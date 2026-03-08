@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Housekeeping Checklist - Help Guide
 ## Purpose
 The Workplace Housekeeping Checklist is a form used for maintaining and updating information about employee workplace housekeeping details. The purpose of this form is to collect relevant data in a structured and organized manner, making it easier for users to track and analyze employee information. This form is intended for use in a work environment and should only be used to collect data from employees in the relevant departments.

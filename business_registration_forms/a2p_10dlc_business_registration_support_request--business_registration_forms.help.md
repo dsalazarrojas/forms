@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "A2P 10DLC Business Registration Support Request" form, we should ensure that the form's purpose, completion process, and field explanations are clear and straightforward. The form is meant to collect information from businesses seeking support for A2P 10DLC (Application to Person 10-Digit Long Code) registration. The main goal of the form is to gather the necessary details to support the registration process. The form should not be duplicative, and each field should be explained clearly, without introducing any unnecessary complexity or confusion. The form's fields should be filled out in a way that allows the support team to efficiently process the registration support request. To avoid confusion, the form should use a standard format and avoid ambiguity in the field labels and explanations.</thinking>
-
 # A2P 10DLC Business Registration Support Request - Help Guide
 ## Purpose
 This form is used to request support for A2P 10DLC business registration. Please fill it out to provide the required information for the support team to process your registration efficiently.

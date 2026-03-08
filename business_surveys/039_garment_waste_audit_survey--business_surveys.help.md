@@ -1,7 +1,3 @@
-<thinking>
-This form is used for auditing garment waste in facilities. It's essential to gather information about the facility's waste quantities, production process, and disposal methods. The goal is to identify common challenges and improvement ideas to reduce waste. This form is required for all facilities. Please make sure to fill it out accurately and thoroughly.
-</thinking>
-
 # Garment Waste Audit Survey - Help Guide
 ## Purpose
 This form is used to gather information about garment waste in facilities. It aims to identify common challenges and improvement ideas to reduce waste and enhance sustainability.

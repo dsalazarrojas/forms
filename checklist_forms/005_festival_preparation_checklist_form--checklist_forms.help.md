@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Festival Preparation Checklist Form - Help Guide
 
 ## Purpose

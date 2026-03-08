@@ -1,5 +1,3 @@
-<thinking>What if I had a user interface for cosine calculations?</thinking>
-
 # Cosine Calculator - Help Guide
 ## Purpose
 This form is for users to input the adjacent angle and the hypotenuse of a right-angled triangle, then calculate its cosine using the Cosine formula. It is designed to provide a quick and convenient way to perform these calculations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Shelter Emergency Preparedness Survey - Help Guide
 
 ## Purpose

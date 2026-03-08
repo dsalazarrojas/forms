@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the Wildlife Photography Impact Study Survey, let's consider the following internal reasoning and logic:
-- The form is used to collect data on wildlife photography, which is a specific domain.
-- The form has various fields to collect different types of information, such as survey title, description, category, tags, and more.
-- Some fields are required, while others are optional.
-- The form also includes fields for metadata, such as language and status.
-- The form is designed to be filled out by users who are likely experts or enthusiasts in the field of wildlife photography.
-</thinking>
-
 # Wildlife Photography Impact Study Survey - Help Guide
 
 ## Purpose

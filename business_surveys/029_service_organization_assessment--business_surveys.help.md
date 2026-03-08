@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients or customers about the service organization, specifically on the quality of service delivery, customer satisfaction, and areas of improvement. The purpose of this form is to ensure that the service organization can continuously improve its service delivery based on the feedback received. To ensure relevance, it's likely that this form will be filled out by clients or customers who have recently received services from the organization.
-
-The form is divided into six sections:
-
-1. Service Delivery: This section allows the client or customer to rate their satisfaction with the service they received.
-
-2. Customer Satisfaction: This section is a numeric input where the client or customer can enter their level of satisfaction on a scale of 1-5.
-
-3. Customer Satisfaction Rating: This section is a dropdown select multiple input where the client or customer can select one or more ratings from 1-5 that match their level of satisfaction with the service received.
-
-4. Areas for Improvement: This section is a text input where the client or customer can provide detailed feedback on areas where they think the service organization can improve.
-
-5. Comments and Suggestions: This section is a text input where the client or customer can provide any additional comments or suggestions they might have.
-
-6. Contact Details: This section is an email input where the client or customer can provide their contact information so that the service organization can get back to them.
-
-</thinking>
-
 # Service Organization Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients or customers about the service organization, allowing it to continuously improve its service delivery based on the feedback received.

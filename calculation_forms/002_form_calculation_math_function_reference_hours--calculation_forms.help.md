@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will now create a user-facing help guide for the form "form_calculation_math_function_reference_hours" based on the provided YAML fields.
 
 # form_calculation_math_function_reference_hours - Help Guide

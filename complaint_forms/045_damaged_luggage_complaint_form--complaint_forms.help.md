@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Damaged Luggage Complaint Form - Help Guide
 
 ## Purpose

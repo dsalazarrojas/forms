@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, named "r2ise_peer_check_in_report", serves as a reporting mechanism for peer check-ins. It allows users to sign in, select the type of check-in they're performing, choose a location (if applicable), and record their check-in status, date, and time. This form is used to gather information from users for internal reporting and analysis purposes, ensuring accurate tracking of peer check-ins. Before filling out this form, please ensure you're only submitting relevant information once to avoid duplication.
 
 # r2ise_peer_check_in_report - Help Guide

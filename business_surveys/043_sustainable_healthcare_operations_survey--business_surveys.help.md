@@ -1,7 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for a form called "Sustainable Healthcare Operations Survey". The form is part of a larger category of "business_surveys" and is designed to gather information from users about their perceptions of sustainable healthcare operations. The form has 12 pages, each with a specific type of question (such as text input, multiple-choice select, or date picker). This guide will walk users through the purpose of the form, how to complete it, and explain each field in detail.
-</thinking>
-
 # Sustainable Healthcare Operations Survey - Help Guide
 ## Purpose
 The Sustainable Healthcare Operations Survey is a tool designed to collect data about your perceptions of sustainable healthcare operations. This information will help us understand your thoughts on how we can improve our services and operations to better support you and the healthcare community.

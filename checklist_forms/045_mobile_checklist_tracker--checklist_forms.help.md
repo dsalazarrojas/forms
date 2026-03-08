@@ -1,30 +1,3 @@
-<thinking>
-The Mobile Checklist Tracker form is designed to record and track inspection data for facilities and assets. It captures information about facility IDs, asset IDs, inspection dates, and results, as well as other relevant details such as inspector names, comments, and notes. The form allows users to categorize asset conditions, statuses, and priorities, providing a structured and organized way to monitor and report on inspection activities.
-
-To ensure that you are completing the form correctly, it is essential to follow these steps:
-
-1. Enter the Facility ID (Field 1).
-2. Enter the Asset ID (Field 2).
-3. Select the inspection Date (Field 3) using the calendar feature.
-4. Enter the time of the inspection (Field 4).
-5. Enter the name and title of the Inspector (Field 5).
-6. Record any comments or remarks (Field 6).
-7. Select the Inspection Result (Field 7) using the dropdown menu.
-8. Add any additional Notes (Field 8).
-9. Enter the Email (Field 9) and Phone (Field 10) of the facility or asset manager.
-10. Categorize the Asset Status (Field 11) and Asset Condition (Field 12) using the dropdown menus.
-11. Select the Asset Priority (Field 13) using the dropdown menu.
-12. Enter the Facility Location (Field 14) and the name of the Facility Manager (Field 15).
-13. Enter the Asset Manager (Field 16) and the Asset Type (Field 17).
-14. Enter the Asset Make and Model details (Fields 18 and 19).
-15. Enter the Asset Serial Number and Sno (Fields 20 and 21).
-16. Select the inspection Frequency (Field 22), which is a one-time, weekly, or monthly schedule.
-17. Select the interval of the inspection schedule (Field 23).
-18. Select the frequency of the last inspection (Field 24).
-19. Select the frequency of the next inspection (Field 25).
-
-</thinking>
-
 # Mobile Checklist Tracker - Help Guide
 ## Purpose
 

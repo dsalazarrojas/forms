@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Art For Social Change Impact Survey" form, I'll first provide an internal reasoning block to understand the form's purpose and context.
-
-The purpose of this form is to collect information about the impact of arts programs on social change initiatives. It appears to be designed for organizations or individuals who have implemented art projects with social impact goals, and the form aims to gather data on their outcomes, challenges, and plans for the future. The form asks for basic contact information (name, email, and organization/group name), demographic details about the project (title, duration, and primary audience reached), and specific metrics on social impact (areas of impact, participants reached, funding sources, and overall impact rating). 
-
-The form's goal is likely to help the organizers of the Art For Social Change program track and measure the success of their grantees, allowing for better assessment and comparison of project effectiveness. This data will help inform future funding decisions and provide valuable insights for program development.
-
-This form's purpose and scope should resonate with the target audience of arts organizations working towards social change. However, to ensure the information is relevant and up-to-date, it's essential to review and refine the form regularly to reflect the needs of the program and its stakeholders.
-
-</thinking>
-
 # Art For Social Change Impact Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide that explains the purpose of the remote_work_feedback_pulse_survey form, how to complete it, and what each field means, based on the provided YAML fields.
-</thinking>
-
 # remote_work_feedback_pulse_survey - Help Guide
 ## Purpose
 The remote_work_feedback_pulse_survey form is a collection of questions designed to gather feedback from employees who work remotely. It aims to understand their experiences, satisfaction, and challenges related to remote work, as well as their preferences and needs for remote work arrangements.

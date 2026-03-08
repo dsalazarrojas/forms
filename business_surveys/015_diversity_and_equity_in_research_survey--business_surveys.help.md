@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information and suggestions from individuals on the topic of diversity and equity in research. This form is designed to ensure that all researchers and contributors are aware of and committed to promoting diversity and equity in their research endeavors. The form will help us gather feedback and insights from a variety of stakeholders, including individuals from diverse backgrounds, which will inform our internal diversity and equity policies and procedures.
-Please note that this form will only be shared with authorized personnel and will not collect any sensitive or personally identifiable information. We value individual contributions and respect your privacy.
-Before completing this form, please review the instructions carefully to ensure that you are providing all required information. The form has been designed to be user-friendly and intuitive, but if you have any questions or concerns, please don't hesitate to ask.
-</thinking>
-
 # Diversity And Equity In Research Survey - Help Guide
 ## Purpose
 

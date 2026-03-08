@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a fitness calculator that collects various user information and calculates their fitness-related metrics. The fields are categorized into several pages, and the form is designed to be completed in a sequence. The purpose of the form is to collect user data for fitness assessments or recommendations, likely for health or wellness professionals.
-
-There are several fields that require user input, and some of them are optional. The form collects information about the user's height, weight, age, exercise level, workout duration, max heart rate, and other physical activities such as push-ups, sit-ups, and pull-ups. Some fields are numerical (e.g., height, weight, age), while others are textual (e.g., exercise level). The form also calculates calories burnt and distance, which suggests that it may be used for calculating energy expenditure during physical activities.
-
-Before proceeding, please review the form carefully to ensure you have all the required information and that it aligns with your needs.
-
-</thinking>
-
 # Fitness Calculator - Help Guide
 
 ## Purpose

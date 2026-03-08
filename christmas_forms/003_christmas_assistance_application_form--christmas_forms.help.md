@@ -1,9 +1,3 @@
-<thinking>
-To start with, let's review the form's purpose. The "Christmas Assistance Application Form" is designed to collect information from individuals or families who require assistance during the Christmas season. The form aims to understand their household's financial situation, demographic details, and specific needs to provide targeted support. It's essential to fill it out accurately to ensure that assistance is allocated effectively. 
-This form is intended for individuals or families who need help during Christmas, and it's recommended to be filled out only once a year. It's not meant for repeated submissions or other purposes. 
-
-</thinking>
-
 # Christmas Assistance Application Form - Help Guide
 ## Purpose
 The "Christmas Assistance Application Form" is a tool to collect information from individuals or families in need of assistance during the Christmas season. This information helps us understand their requirements and allocate resources effectively.

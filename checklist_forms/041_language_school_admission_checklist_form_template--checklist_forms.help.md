@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students seeking admission to a language school, including details about their language school type, student demographics, contact information, and emergency contacts. This form will help the language school staff to efficiently gather the required information in a structured and organized manner, making it easier to assess and manage student applications.
-</thinking>
-
 # Language School Admission Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential information from students seeking admission to a language school, including language school type, student demographics, contact information, and emergency contacts.

@@ -1,11 +1,3 @@
-<thinking>
-Are we sure this form won't be redundant or out of scope with our current internal processes? Is there a specific use case that this form is designed to address? Are there any other forms or surveys that we're using that might be relevant to this form's purpose? 
-Does the form's purpose align with our company's core values and goals? Does this form have any direct impact on employee engagement, retention, or productivity? Are there any specific metrics or KPIs that we're tracking with this form?
-
-After double-checking, it seems that this form is intended to measure the effectiveness of leadership communication, providing insights on how often, how effectively, and how consistently leaders communicate with team members. This will help us identify areas for improvement and create more positive work experiences.
-Let's assume this form is designed for team leaders, and team members need to provide input on the frequency and quality of leader's communication.
-</thinking>
-
 # Leadership Communication Consistency Survey - Help Guide
 
 ## Purpose

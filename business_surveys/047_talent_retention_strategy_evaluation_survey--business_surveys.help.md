@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Talent Retention Strategy Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of your talent retention strategies within your organization. It aims to gather information on various aspects of job satisfaction, company climate, leadership support, communication, career development opportunities, work-life balance, employee feedback, and retention strategies. This will help you identify areas where your organization can improve talent retention.

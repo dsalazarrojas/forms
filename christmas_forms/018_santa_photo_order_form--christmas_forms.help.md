@@ -1,36 +1,3 @@
-<thinking>
-This form seems to be a part of a Christmas-themed photo printing service, where customers can order photos from the North Pole's finest photographers. The form is likely used to capture customer preferences for customizing and delivering photo prints. The fields suggest that customers can choose from various options such as photo size, orientation, print type, and gift wrapping. There may also be options for special requests, such as adding a note or gift message. The form appears to be designed for both personal and business use cases.
-
-To confirm, let's break down the form's fields and their corresponding options:
-
-*   holiday_event: This field likely pertains to whether the customer is ordering photos for a holiday event or not.
-*   name_and_date_of_event: This field is a text input for the customer to provide the name and date of the event.
-*   name_of_child: This field is for the customer to input the name of the child(ren) whose photo will be taken.
-*   name_of_parent: This field is for the customer to input the name of the parent(s) whose photo will be taken.
-*   photo_session: This field likely asks if the customer is ordering a photo session.
-*   session_time: This field likely asks if the customer wants to schedule a photo session at a specific time.
-*   special_request: This field is for the customer to provide any special requests.
-*   photo_package: This field allows customers to choose from various photo packages.
-*   delivery_method: This field likely pertains to how the customer wants to receive their photos.
-*   special_requests: This field allows customers to add additional special requests.
-*   holiday_event_type: This field likely categorizes the type of holiday event.
-*   event_type: This field likely categorizes the type of event or occasion.
-*   date_of_photo_session: This field is for the customer to input the date of the photo session.
-*   time_of_photo_session: This field is for the customer to input the time of the photo session.
-*   photo_size: This field allows customers to choose the size of the photo print.
-*   number_of_prints: This field is for the customer to choose the quantity of prints to be ordered.
-*   photo_type: This field likely pertains to the type of photo being taken.
-*   photo_orientation: This field allows customers to choose the orientation of the photo print.
-*   print_type: This field likely pertains to the type of print or finish.
-*   quantity_printed: This field likely indicates if the customer wants a specific quantity of the print.
-*   print_orientation: This field is for the customer to choose the orientation of the print.
-*   gift_wrap: This field likely indicates if the customer wants the print gift-wrapped.
-*   gift_wrap_type: This field likely provides options for the type of gift wrapping.
-*   gift_note: This field is for the customer to provide a gift note or message.
-*   special_instructions: This field is for the customer to add any special instructions.
-
-</thinking>
-
 # Santa Photo Order Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the Santa Photo Order Form for your holiday event or occasion.

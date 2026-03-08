@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Innovation Showcase Registration Form - Help Guide
 ## Purpose
 This form is used by event planners and attendees to provide information about the events they are interested in, their contact details, and any other relevant details. This form is essential for the smooth organization and coordination of the event, ensuring that all necessary information is gathered for a successful and engaging event experience.

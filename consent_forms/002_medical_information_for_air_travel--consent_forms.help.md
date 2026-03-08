@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Information For Air Travel - Help Guide
 ## Purpose
 This form is designed to collect medical information from passengers traveling by air. The purpose of this form is to ensure that passengers disclose any medical conditions or special needs that may impact their air travel experience. This information helps airlines to better serve passengers with medical requirements or concerns.

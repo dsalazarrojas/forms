@@ -1,7 +1,3 @@
-<thinking>
-The form "Exhibition Booth Complaint Form" is used to report any issues or concerns related to an exhibition or event. This form should only be used for reporting genuine complaints and not for duplicate or frivolous matters. Before filling out this form, please ensure that you have not already reported the same issue or concern. If you are unsure, feel free to contact the exhibition staff or management for clarity.
-</thinking>
-
 # Exhibition Booth Complaint Form - Help Guide
 ## Purpose
 The Exhibition Booth Complaint Form is designed to allow attendees, exhibitors, or staff to report any issues or concerns related to the exhibition or event. This form serves as a channel for reporting incidents, defects, or problems that need attention.

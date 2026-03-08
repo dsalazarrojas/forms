@@ -1,11 +1,3 @@
-<thinking>
-To confirm that the user is aware of the purpose and scope of this form.
-
-This form is used to obtain a client's consent for training purposes. It is an essential document that ensures the client acknowledges and understands their responsibilities and risks associated with training sessions. By filling out this form, the client confirms that they have been informed about the training type, location, date, and any potential risks involved. They also declare their emergency contact information and medical status. This form is a legal requirement for many training programs and helps establish a clear understanding between the client and the training provider.
-
-Please ensure that you are completing this form with the correct information and understanding. If you have any questions or concerns, do not hesitate to ask your training provider.
-</thinking>
-
 # Training Client Waiver And Consent Form - Help Guide
 ## Purpose
 This form is used to obtain a client's consent for training purposes. It ensures the client acknowledges and understands their responsibilities and risks associated with training sessions.

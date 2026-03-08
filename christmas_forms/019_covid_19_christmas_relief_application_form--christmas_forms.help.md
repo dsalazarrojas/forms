@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is used to collect information for COVID-19 Christmas relief efforts. It is not a duplicate of the regular application process. This form is designed to gather specific information for targeted assistance. Please ensure you are eligible for this support and do not attempt to use this form for general applications. Ensure you have all necessary information and permissions before completing this form.
-</thinking>
-
 # Covid 19 Christmas Relief Application Form - Help Guide
 
 ## Purpose

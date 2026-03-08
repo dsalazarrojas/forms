@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about a vehicle's condition and history. It appears to be used for inspections or evaluations. The fields cover various aspects of the vehicle, including general information, vehicle make and model, mileage, engine and brake conditions, tire condition, battery status, and inspection date. The form does not require any fields to be filled out, which may indicate that it's a template for a more in-depth analysis or evaluation process. 
-- It's possible that the form is used for regular vehicle inspections or evaluations for a business or organization.
-- It might be used for insurance purposes, such as damage assessments.
-- The form might be part of a larger workflow or process, and the data collected here will be used for further analysis or reporting.
-</thinking>
-
 # Dot Inspection Form - Help Guide
 ## Purpose
 The Dot Inspection Form is a template used for collecting information about a vehicle's condition and history. It's designed to gather data for regular inspections or evaluations, which can be used for various purposes such as damage assessments, insurance, or workflow analysis.

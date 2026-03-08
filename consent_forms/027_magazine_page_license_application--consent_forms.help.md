@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assist individuals or companies requesting permission to reuse content from magazine pages. The purpose of this form is to provide a standardized way to collect information about the intended reuse, ensuring that the content owners or publishers are informed about how their content will be used. By filling out this form, users can help us better understand their needs and provide them with the necessary information to facilitate the reuse process.
-</thinking>
 # Magazine Page License Application - Help Guide
 ## Purpose
 This form is intended for individuals or companies who want to request permission to reuse content from magazine pages. The form helps content owners or publishers understand how the content will be used, ensuring that the reuse is done in accordance with their policies and guidelines.

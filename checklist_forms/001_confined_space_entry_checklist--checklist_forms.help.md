@@ -1,10 +1,3 @@
-<thinking>
-We should ensure that the help guide is concise and easy to understand, while clearly explaining each field's purpose and requirements. This form is crucial in ensuring a safe confined space entry, and users must be aware of the importance of accuracy and attention to detail. The form's layout and language should be clear and simple, avoiding any confusion or misinterpretation. Each field should be explained in a way that is easy to understand, with examples or explanations that make sense in the context of the field's purpose.
-
-Before finalizing the help guide, we should review and revise it to ensure that it is accurate and comprehensive, covering all the necessary aspects of the confined space entry process.
-
-</thinking>
-
 # Confined Space Entry Checklist - Help Guide
 
 ## Purpose

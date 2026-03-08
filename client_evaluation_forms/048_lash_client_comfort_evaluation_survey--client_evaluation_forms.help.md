@@ -1,12 +1,3 @@
-<thinking>
-This form will serve as a tool to evaluate the client's comfort level during a session, gathering information on their experiences, suggestions for improvement, and other relevant details. It is likely used in a medical or aesthetic setting, such as a laser hair removal clinic. 
-
-The following fields are likely to be completed by a client after a session. 
-
-Before proceeding, make sure to check if the form is already filled out for this client in your internal system. This can help reduce duplication of effort and ensure accurate reporting.
-
-</thinking>
-
 # Lash Client Comfort Evaluation Survey - Help Guide
 ## Purpose
 The Lash Client Comfort Evaluation Survey is designed to gather feedback from clients about their experiences and comfort level during a session at a laser hair removal clinic.

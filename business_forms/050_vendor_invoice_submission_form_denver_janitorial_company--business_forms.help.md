@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by vendors for submitting invoices for payment. It is intended to collect necessary information for processing and approving invoices. To ensure that this form is used correctly, please verify that the form is up-to-date and not a duplicate of an existing form. If you are unsure about any field, please refer to this guide for clarification.
-</thinking>
-
 # vendor_invoice_submission_form_denver_janitorial_company - Help Guide
 ## Purpose
 The vendor_invoice_submission_form_denver_janitorial_company is a form used by vendors to submit invoices for payment. It gathers essential information for processing and approving invoices.

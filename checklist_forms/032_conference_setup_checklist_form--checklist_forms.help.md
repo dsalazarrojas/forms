@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assist event planners and coordinators in verifying the readiness of a conference setup. It provides a comprehensive checklist of tasks and activities to ensure that all essential elements are in place before the event. The form is a valuable tool for streamlining the coordination process, reducing the risk of last-minute surprises, and guaranteeing a successful event experience for attendees.
-
-To avoid duplication of efforts, we recommend using this form as a central repository for tracking progress and verifying completion of tasks.
-
-The purpose of this form is to gather information about the readiness status of a conference setup, allowing event planners to identify areas that require attention and focus resources accordingly.
-
-This form is not intended to be used for general event planning purposes, but rather as a specific tool for verifying the readiness of a conference setup.
-
-Please note that some fields may require additional supporting information or documentation to be uploaded or attached, but it will be clearly indicated in the field label or hint.
-
-</thinking>
-
 # Conference Setup Checklist Form - Help Guide
 ## Purpose
 This form helps conference planners and coordinators verify the readiness of a conference setup by tracking progress and completion of various tasks and activities.

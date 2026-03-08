@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to guide users through the action steps of a project, providing a structured approach to ensure that all necessary tasks are completed. This form is likely used in a business or project management setting to document and track progress on a project. It is not directly affiliated with, endorsed by, or derived from any specific form platform.
-</thinking>
 # Action Steps Checklist - Help Guide
 ## Purpose
 This form is a checklist designed to help individuals or teams track and manage project progress through a series of structured steps. By completing this form, users can ensure that all necessary actions are taken and document lessons learned.

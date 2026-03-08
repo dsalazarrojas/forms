@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather essential information from clients before undergoing hydrodermabrasion treatment. The purpose of this form is to ensure the client's safety and understanding of the treatment, as well as gather necessary medical and personal information. This form must be completed by the client prior to the treatment.
-This form is a critical document and should only be used once per client. Completing this form for the same client multiple times may result in duplicate medical records and unnecessary administrative burden.
-</thinking>
-
 # Hydrodermabrasion Facial Consent Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The "Pet Service Innovation Study Survey" form is designed to collect feedback from customers on their satisfaction with the current pet services offered by the company and to gather new ideas for service improvements. This form is intended to be completed by customers who have interacted with the company's pet services. The form is not intended for internal use, and the collected data will be used to inform business decisions and improve the company's pet services. Please note that some fields in this form are optional, and you are not required to fill them out if you do not have the necessary information.
-
-</thinking>
-
 # Pet Service Innovation Study Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and ideas from customers on the company's pet services.

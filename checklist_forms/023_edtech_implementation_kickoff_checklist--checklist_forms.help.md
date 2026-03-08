@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "EdTech Implementation Kickoff Checklist" form. This form is used to gather critical information about the implementation of EdTech projects. To ensure the form's purpose and relevance are clear, I'll provide an internal reasoning block that explains the form's intention and checks for any potential duplication or redundancy in the form's fields. This form's purpose is to collect essential details from stakeholders and project managers about the EdTech project, allowing for a streamlined and organized approach to project kickoff meetings and project management. The form aims to identify potential roadblocks and provide a clear picture of project timelines, resource allocation, and stakeholder engagement.</thinking>
-
 # EdTech Implementation Kickoff Checklist - Help Guide
 ## Purpose
 The EdTech Implementation Kickoff Checklist is a form designed to gather critical information about EdTech projects. This information helps project managers and stakeholders to plan and track the project's progress.

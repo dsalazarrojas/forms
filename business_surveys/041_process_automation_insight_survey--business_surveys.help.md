@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and requirements of the "Process Automation Insight Survey" form. This form aims to gather information about the workflows and automation tools used by business users, as well as their experiences and preferences regarding survey participation. It is essential to complete this form accurately and thoroughly, as the data collected will help inform future development and improvement of process automation capabilities. Please ensure that you have the necessary permissions and authority to complete this survey on behalf of your organization. Additionally, be cautious not to duplicate responses, as this may lead to inconsistent data.</thinking>
-
 # Process Automation Insight Survey - Help Guide
 ## Purpose
 The "Process Automation Insight Survey" is designed to gather information about your workflows, automation tools, and survey participation preferences. Your responses will help us better understand your needs and improve our process automation capabilities.

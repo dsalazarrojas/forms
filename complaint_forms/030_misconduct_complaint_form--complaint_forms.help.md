@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about misconduct complaints, allowing individuals to report incidents of bullying, coercion, or other types of misconduct. This form is intended for use in workplaces or educational institutions to provide a formal channel for reporting and tracking misconduct complaints. The form requires users to provide details about the complaint, including the date and location of the incident, the type of misconduct, and the status of the complaint.
-
-</thinking>
-
 # Misconduct Complaint Form - Help Guide
 ## Purpose
 The Misconduct Complaint Form is a tool for reporting and tracking incidents of bullying, coercion, or other types of misconduct. It is designed to be used in workplaces or educational institutions to provide a formal and confidential channel for reporting and addressing these issues.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Standard Test Log Sheet - Help Guide
 
 ## Purpose

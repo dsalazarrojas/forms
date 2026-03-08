@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from refugees regarding their employment status and language skills, as well as their support needs. It is intended for organizations working with refugees to better understand their integration into the workforce and identify areas where they may require assistance. Each field in this form is optional and allows respondents to provide as much or as little information as they feel comfortable with. The form is meant to be a quick and user-friendly way to gather data on refugee employment integration.
-
-</thinking>
-
 # Refugee Employment Integration Survey - Help Guide
 ## Purpose
 This form is used to collect information on refugee employment status, language skills, and support needs. It is designed to help organizations working with refugees to better understand their integration into the workforce and identify areas where they may require assistance.

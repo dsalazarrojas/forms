@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Lifting Sling Inspection Checklist form in a clear and concise manner. This form is used to record and track the inspection and maintenance of lifting slings, which are critical components in various industries such as construction, manufacturing, and warehousing. The checklist is designed to ensure that slings are inspected regularly and maintained properly to prevent accidents and ensure compliance with safety regulations. Before proceeding, please ensure that you have the necessary knowledge and authority to complete this form accurately and that you are not duplicating an inspection that has already been performed.
-</thinking>
-
 # Lifting Sling Inspection Checklist - Help Guide
 ## Purpose
 The Lifting Sling Inspection Checklist is used to record the inspection and maintenance of lifting slings. This form helps to identify any issues or defects in the sling and ensure that it is safe to use.

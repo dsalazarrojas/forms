@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by program administrators or managers to request the cancellation of a program. The purpose of this form is to gather information about the program to be cancelled, including its name, date, and reason for cancellation. The form also allows the participant to provide their name and any additional message they may want to share with the manager. The manager will be asked to approve or decline the cancellation request.
-
-When a request is submitted, the system will likely store and review the data to ensure that it is valid and complete. The form is designed to be user-friendly and easy to understand, with fields that are clear and concise.
-
-Please note that while the form is AI-generated, it is not affiliated with, endorsed by, or derived from any form platform, and is intended for use by program administrators or managers to request program cancellations.
-
-</thinking>
-
 # Program Cancellation Request Form - Help Guide
 ## Purpose
 The Program Cancellation Request Form is used by program administrators or managers to request the cancellation of a program. This form helps to gather necessary information to process the cancellation request efficiently.

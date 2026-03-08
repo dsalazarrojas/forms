@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wallpaper Change Interval Survey - Help Guide
 
 ## Purpose

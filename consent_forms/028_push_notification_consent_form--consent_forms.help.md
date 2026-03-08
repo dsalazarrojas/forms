@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Push Notification Consent Form" is to obtain users' consent for receiving push notifications from a website or application. This form is designed to inform users about the purpose and frequency of push notifications, as well as to collect their consent preferences and reasons for changing their consent.
-
-Before proceeding, please ensure that you are not duplicating this form for another purpose or category. The form is designed to be a one-time collection of user consent for push notifications and should not be used for other purposes.
-
-</thinking>
-
 # Push Notification Consent Form - Help Guide
 ## Purpose
 The "Push Notification Consent Form" is used to collect users' consent for receiving push notifications from a website or application. The form provides information about push notifications, including what they are, when they will be sent, and how they can be configured.

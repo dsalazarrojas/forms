@@ -1,5 +1,3 @@
-<thinking>Team Player Medical Screening Form is used to collect medical history and emergency contact information from team players. It is not required, but it's recommended that team players complete this form for the team's internal medical record. This form should only be filled out once and saved for each team player. It is not meant to be completed for every team player each time they participate in a team event or activity.</thinking>
-
 # Team Player Medical Screening Form - Help Guide
 ## Purpose
 

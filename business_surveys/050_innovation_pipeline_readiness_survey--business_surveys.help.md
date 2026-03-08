@@ -1,10 +1,3 @@
-<thinking>
-The Innovation Pipeline Readiness Survey is designed to assess the maturity and effectiveness of an organization's innovation pipeline. The survey consists of multiple questions that gauge the organization's understanding, usage, and perceived benefits of the innovation pipeline. This survey is meant to help organizations identify areas of strength and weakness in their innovation pipeline, and inform decision-making on how to develop and improve it.
-
-The survey's purpose is to provide a comprehensive view of the organization's innovation pipeline readiness, including its stages, performance, and challenges. By completing this survey, organizations can gain a better understanding of their innovation pipeline and make data-driven decisions to improve its effectiveness.
-
-</thinking>
-
 # Innovation Pipeline Readiness Survey - Help Guide
 
 ## Purpose

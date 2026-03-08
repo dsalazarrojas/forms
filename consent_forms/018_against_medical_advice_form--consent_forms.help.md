@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Against Medical Advice Form - Help Guide**
 =====================================
 

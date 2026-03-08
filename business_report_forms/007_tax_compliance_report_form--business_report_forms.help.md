@@ -1,14 +1,3 @@
-<thinking>
-To create this form, we'll be following the provided YAML specification. Our goal is to create a user-facing help guide for the "Tax Compliance Report Form". The form appears to be designed to collect various types of information related to tax compliance. We'll be examining each field to ensure the explanations are clear and concise.
-
-Based on the specification, the form has multiple pages with text fields that require user input. Each page seems to focus on a different aspect of tax compliance, such as taxpayer information, tax return status, and signed tax return. However, there are no clear indications of how these fields are interconnected or what specific information should be entered into each field.
-
-To provide the most accurate and helpful guidance, we'll be focusing on explaining each field in a simple and concrete manner, without making assumptions about the specific business logic behind the form. We'll use the provided label, hint, and type information to create clear and concise explanations for each field.
-
-The form appears to be designed for users to input information related to tax compliance, but without more specific details, we'll aim to create a general-purpose guide that covers the form's structure and usage. We'll also include general tips for users to help them complete the form efficiently and effectively.
-
-</thinking>
-
 # Tax Compliance Report Form - Help Guide
 ## Purpose
 The Tax Compliance Report Form is designed to collect information related to tax compliance.

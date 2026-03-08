@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Smallware Inventory Checklist - Help Guide
 
 ## Purpose

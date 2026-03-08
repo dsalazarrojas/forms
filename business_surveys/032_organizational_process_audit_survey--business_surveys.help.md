@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Process Audit Survey - Help Guide
 
 ## Purpose

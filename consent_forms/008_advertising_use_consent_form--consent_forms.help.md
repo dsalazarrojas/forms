@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for advertising purposes, collecting information from users on their personal details, advertising usage scope, and consent terms. The form aims to ensure users are aware of how their data will be used and what they are consenting to. 
-
-The form is part of a larger process to manage user data and consent, and its completion is necessary for users to opt-in to advertising usage. 
-
-Before filling this form, users should review the form carefully and ensure they understand the implications of their consent. 
-</thinking>
-
 # Advertising Use Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from users on their personal details and consent for advertising usage. It is essential to read the form carefully and understand the implications of their consent before proceeding.

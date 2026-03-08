@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a registration form for the Landscaping Trade Show. It's used to collect information from exhibitors, attendees, and other stakeholders related to their participation in the trade show. The form is designed to capture details such as exhibitor contact information, attendee information, booth details, and other relevant data. This form is likely to be used by trade show organizers or administrators to manage exhibitor and attendee registrations.
-
-Before creating this help guide, let me confirm that this form is not intended for other purposes such as general contact forms or other types of registration forms. This is a specific purpose-built form for the Landscaping Trade Show.
-
-</thinking>
-
 # Landscaping Trade Show Registration - Help Guide
 ## Purpose
 This form is used to register exhibitors and attendees for the Landscaping Trade Show. It captures essential information required for event management.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Catering Menu Order Form Template - Help Guide
 
 ## Purpose

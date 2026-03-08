@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants attending a Nerf event. The form is designed to gather details about the event, participants, and any necessary waiver releases. It is crucial that the information is accurate and up-to-date. Please ensure that you are filling out the correct form and that your information is correct, and that you do not duplicate your submission. This is an essential step in ensuring the smooth execution of the event.
-</thinking>
-
 # Nerf Event Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Nerf Event Registration Form. The form is divided into different sections, each with its own specific instructions and requirements.

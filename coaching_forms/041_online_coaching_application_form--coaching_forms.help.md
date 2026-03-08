@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be a general online coating application form, where users can input their information in various sections. However, before diving into the explanation, we should first confirm that the form is actually meant to be used for coaching, and not some other purpose that might be related but distinct from the provided fields. Let's take a closer look at the form schema and fields. Most of the fields seem to be related to medical information and contact details, which might suggest that the form is actually for a medical coaching or consultation application. To confirm this, let's see if there are any hints or labels that suggest a different purpose.
-</thinking>
-
 # Online Coating Application Form - Help Guide
 ## Purpose
 This form is used to collect medical coaching application information from users. It contains multiple sections to gather necessary details such as applicant information, application form, exercise form, contact form, and medical information.

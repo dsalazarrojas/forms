@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction of users who have reviewed financial statements. The purpose of this form is to collect feedback and insights on the review process, which can be used to improve the financial statement review process and overall user experience. This form is not affiliated with any particular form platform and is an original adaptation using public metadata. The form's metadata and functionality are subject to change as per the original metadata and form generation process. This form is released under a Creative Commons Attribution 4.0 license, allowing users to use, modify, and even sell derivative forms while giving credit to the original creators.
-</thinking>
-
 # financial_statement_review_satisfaction_survey - Help Guide
 ## Purpose
 The financial statement review satisfaction survey is a tool used to gauge the satisfaction of users who have reviewed financial statements. The collected feedback and insights will be used to improve the financial statement review process and overall user experience.

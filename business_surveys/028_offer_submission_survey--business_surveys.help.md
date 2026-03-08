@@ -1,12 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Offer Submission Survey" form, ensuring that end-users understand its purpose, how to complete it, and what each field means. This guide will be concrete, concise, and practical, based on the provided YAML fields and without introducing unsupported business logic. We'll use the YAML fields to identify the form's purpose, structure, and requirements.
-
-The form appears to be designed for evaluating and tracking offer submissions, likely for business purposes. We'll assume that the form is part of a business process, and the fields are intended to capture relevant information about offer submissions.
-
-The form seems to be divided into multiple pages or sections, with fields for various types of data. We'll break down the guide into sections that cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Offer Submission Survey - Help Guide
 ## Purpose
 The "Offer Submission Survey" form is designed to collect information about offer submissions for business purposes. It may be used to evaluate and track offer submissions, ensuring that relevant data is captured for future reference and analysis.

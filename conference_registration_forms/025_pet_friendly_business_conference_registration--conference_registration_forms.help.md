@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Pet Friendly Business Conference Registration" aims to collect information from conference attendees who bring their pets along. The form is designed to be completed by both pet owners and their companions. This form should be used to register attendees and their pets for the conference. It should only be used for pet-related registrations, so if you are not bringing a pet, please do not fill out this form.
-
-We check for duplication of pet registrations to prevent multiple pets per user. If you have already registered your pet, you can only re-register it if you have made changes to the information provided.
-
-</thinking>
-
 # Pet Friendly Business Conference Registration - Help Guide
 ## Purpose
 This form is designed to register pets and their owners for the conference. To register your pet, please fill out this form completely and accurately. If you have already registered your pet, you will be prompted to review and update the information if any changes have been made.

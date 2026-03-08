@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document and track non-disclosure agreements made with clients, contractors, or vendors. Non-disclosure agreements are contracts that prevent the sharing of confidential information with unauthorized parties. This form is used to capture the details of these agreements, including the terms and conditions of the agreement, the period of non-disclosure, and the signature of the signatory. The purpose of this form is to ensure that all parties are aware of their obligations and responsibilities regarding confidentiality.
-
-</thinking>
-
 # International Non Disclosure Agreement (NDA) Form - Help Guide
 ## Purpose
 The International Non Disclosure Agreement (NDA) Form is used to document and track non-disclosure agreements made with clients, contractors, or vendors.

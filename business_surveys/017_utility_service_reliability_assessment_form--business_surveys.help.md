@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the reliability and quality of utility services provided to customers. The form is intended to gather feedback from customers on their experience with utility services, including the frequency, duration, and causes of outages, as well as their perception of the reliability of services, customer service, communication, and overall satisfaction. 
-
-The form will be used to identify areas for improvement and to inform the development of more effective strategies to address service reliability and customer satisfaction issues.
-
-The form does not collect personal identifiable information and does not duplicate any proprietary content or logic from existing forms or platforms.
-
-</thinking>
-
 # Utility Service Reliability Assessment Form - Help Guide
 ## Purpose
 The Utility Service Reliability Assessment Form is designed to gather feedback from customers on the reliability and quality of utility services provided to them.

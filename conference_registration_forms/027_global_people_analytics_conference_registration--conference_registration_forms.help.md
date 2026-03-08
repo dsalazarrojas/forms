@@ -1,17 +1,3 @@
-<thinking>
-This form is for registering attendees to the Global People Analytics Conference. The fields are designed to collect relevant information about the attendees, their job titles, and contact details. This form is likely to be used by event organizers or registration managers to collect data for conference planning and logistics purposes. Before completing this form, please ensure that you have the necessary information and consent from the attendee to collect and store their data. 
-
-This form should not be used to collect sensitive or confidential information without proper authorization. Please review the fields carefully and ensure that you are collecting only the necessary information for the intended purpose.
-
-Please note that some fields may be required or optional, depending on the conference requirements. 
-
-The form is designed to be completed by the attendee themselves, but it's possible that some fields may need to be filled in by the registration manager or event organizer on behalf of the attendee.
-
-Please use this form as a guide to understand what information is required and how to complete it. 
-
-This form is intended to be used for the Global People Analytics Conference only.
-</thinking>
-
 # Global People Analytics Conference Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information about attendees to the Global People Analytics Conference.

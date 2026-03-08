@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and fields to ensure we're on the right track.</thinking>
-
 # Truck Packout Checklist - Help Guide
 ## Purpose
 The Truck Packout Checklist is a comprehensive form designed to assess the status and condition of a truck before it's packed out or shipped. This form ensures that all critical areas are checked, reducing the risk of damage or issues during transportation.

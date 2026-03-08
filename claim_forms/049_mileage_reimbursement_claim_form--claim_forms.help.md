@@ -1,7 +1,3 @@
-<thinking>
-The Mileage Reimbursement Claim Form is used by employees to claim reimbursement for business-related mileage expenses. This form is typically filled out by employees who have used their personal vehicle for business purposes and are seeking compensation for the mileage-related costs incurred during the trip. It is essential to fill out this form accurately to ensure that you receive the correct reimbursement amount. Please note that this form is intended for employees who have already been authorized to use their personal vehicles for business purposes. If you are unsure about the purpose of this form or have any questions, please consult your supervisor or human resources department.
-</thinking>
-
 # Mileage Reimbursement Claim Form - Help Guide
 ## Purpose
 The Mileage Reimbursement Claim Form is used to claim reimbursement for business-related mileage expenses. Fill out this form accurately to ensure you receive the correct reimbursement amount.

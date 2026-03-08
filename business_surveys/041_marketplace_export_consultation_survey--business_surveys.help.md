@@ -1,8 +1,3 @@
-<thinking>
-We are checking if this form is a new addition to the platform or a revised version of an existing one. The form "marketplace_export_consultation_survey" seems to be designed for business owners to assess their readiness for exporting products or services. We are going to assume this form is intended for a specific group of users, possibly those with existing businesses looking to expand their international presence. This form's purpose appears to gauge the respondents' self-assessment of their export readiness, product offerings, and challenges faced. We are also checking if the form's fields are consistent with the provided YAML definition. If any field has a weak or unclear label, we will attempt to infer the correct interpretation based on the provided options.
-
-</thinking>
-
 # marketplace_export_consultation_survey - Help Guide
 ## Purpose
 This form is designed to gather information from business owners about their exporting readiness, products or services offered, and challenges faced when exporting. It is intended for those with existing businesses looking to expand their international presence.

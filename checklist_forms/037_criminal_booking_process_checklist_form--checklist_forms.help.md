@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the criminal booking process and is used to track the progress of a case. It is not a mandatory form, but it can provide valuable information to assist with the case management. Before filling out this form, please make sure it's not already completed by another form with a similar purpose. The form contains a text field that allows you to input any comments about the case. The fields in this form should be filled out as accurately as possible to ensure that the case is properly managed.
-</thinking>
-
 # Criminal Booking Process Checklist Form - Help Guide
 ## Purpose
 This form is used to track the progress of a case through the criminal booking process.

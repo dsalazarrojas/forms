@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely being used by policyholders or agents to release insurance policies from an insurance provider. The purpose of this form is to gather information necessary for the release of an insurance policy, including policyholder details, policy specifics, and other relevant data.
-
-The form is structured to guide the user through a series of questions and fields to ensure that all necessary information is collected. Each section of the form is designed to collect specific information that will aid in the processing and release of the policy. To avoid duplication and ensure accuracy, it's essential to follow the instructions carefully and fill out the form in its entirety.
-
-Before proceeding, please review each field and ensure you have all the necessary information.
-
-</thinking>
-
 # insurance-policy-release-form - Help Guide
 ## Purpose
 This form is used for releasing an insurance policy. Please fill it out thoroughly and accurately to ensure a smooth process.

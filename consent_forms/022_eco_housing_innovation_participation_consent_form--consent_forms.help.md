@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from participants in an eco-housing innovation project. The form will be used to collect demographic and contact information from participants, as well as their expertise and consent related to the project. This form is designed to be completed by participants themselves, and the information collected will be used for project administration and communication purposes.
-
-To ensure that we are not duplicating efforts and that the participant information is accurate, please double-check that this form has not been completed before for this participant. If you are unsure, please contact the project lead or administrator.
-
-The form fields are designed to be self-explanatory, but if you have any questions or concerns, please do not hesitate to reach out to us.
-
-</thinking>
-
 # eco_housing_innovation_participation_consent_form - Help Guide
 ## Purpose
 This form is used to collect demographic and contact information from participants in the eco-housing innovation project, as well as their expertise and consent related to the project.

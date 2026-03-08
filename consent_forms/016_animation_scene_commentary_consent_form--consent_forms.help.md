@@ -1,12 +1,3 @@
-<thinking>
-The Animation Scene Commentary Consent Form is a crucial tool for obtaining consent from participants before recording their commentary for an animation project. This form ensures that participants understand and agree to the terms of use, distribution, and modification of their recorded commentary. It's essential to complete this form carefully and thoroughly to avoid any miscommunication or confusion.
-
-When filling out this form, please ensure that you provide accurate and truthful information about your participation in the project. The form requires you to provide your name, email address, phone number, and date of birth if you are under 18. You will also be asked about your consent to audio and video recording, as well as your name being credited in the footage.
-
-Please note that some fields are marked as optional, but it's still crucial to provide accurate and complete information to avoid any issues with your participation in the project.
-
-</thinking>
-
 # Animation Scene Commentary Consent Form - Help Guide
 ## Purpose
 The Animation Scene Commentary Consent Form is a document that obtains your consent for the recording and use of your commentary for an animation project. It's essential to understand that your participation in this project involves the recording of your voice and potentially your appearance on camera.

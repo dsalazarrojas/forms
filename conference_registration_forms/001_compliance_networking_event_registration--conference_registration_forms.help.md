@@ -1,7 +1,3 @@
-<thinking>
-This form is used for attendees to register for the Compliance Networking Event, which brings together professionals from various industries to network and learn about regulatory compliance and risk management. The form helps gather information about each attendee, including their contact details, industry sector, and preferences for specific sessions and activities. By providing accurate and complete information, attendees can connect with others who share similar interests and goals. This form also serves as a way to help organizers understand their audience and tailor the event content to their needs. To ensure that the form serves its purpose, it's essential to provide complete and accurate information, and not to register multiple times.
-</thinking>
-
 # Compliance Networking Event Registration - Help Guide
 ## Purpose
 The Compliance Networking Event Registration form is used to gather information from attendees for a networking event focused on regulatory compliance and risk management. This guide will walk you through the form sections and fields to help you complete it accurately.

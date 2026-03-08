@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Road Trip Vehicle Checklist Form - Help Guide
 ## Purpose
 This form is intended to help vehicle owners conduct a thorough check on their vehicle before embarking on a road trip. It covers various aspects of the vehicle's condition and safety features, ensuring a safe and enjoyable journey.

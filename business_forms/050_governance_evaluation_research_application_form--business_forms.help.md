@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form, "Governance Evaluation Research Application Form", is likely to collect and evaluate research applications for governance-related projects. This form is used to gather information from applicants about their research projects, including the project's institution, contact details, research focus, duration, submission date, and the applicant themselves. This form probably helps the evaluators to assess the suitability of each project and make informed decisions. To avoid duplication or unnecessary applications, this form might be designed to only allow one submission per applicant. However, without further context, this is purely an assumption, and the actual purpose and rules of this form should be clarified through additional information or documentation.</thinking>
-
 # Governance Evaluation Research Application Form - Help Guide
 ## Purpose
 The "Governance Evaluation Research Application Form" is used to collect and evaluate research applications for governance-related projects.

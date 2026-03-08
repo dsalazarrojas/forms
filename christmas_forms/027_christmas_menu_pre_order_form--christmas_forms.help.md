@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help clients place orders for Christmas menu pre-ordering. The form will guide users through a series of questions to gather essential information for their order, including customer and party details, menu selection, and special requests.
-
-The form is divided into several sections, each addressing a specific aspect of the order. This helps to streamline the process and reduce errors.
-
-Before starting the form, please ensure that you have all the necessary information ready, and you are aware of any dietary restrictions or allergies that you or your guests may have.
-
-Please note that you can save your progress as you fill out the form, and you can always go back to review and edit your answers.
-
-</thinking>
-
 # Christmas Menu Pre Order Form - Help Guide
 ## Purpose
 The Christmas Menu Pre-Order Form is designed to guide you through the process of placing an order for Christmas menu items.

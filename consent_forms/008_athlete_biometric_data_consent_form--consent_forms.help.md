@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather biometric data from athletes, which will be used for performance optimization, injury prevention, and health monitoring. The biometric data includes various categories such as heart rate, sleep patterns, GPS tracking, body composition, blood markers, and biomechanical mechanics. The form is divided into two main sections: Athlete Information and Biometric Data Collection.
-
-</thinking>
-
 # Athlete Biometric Data Consent Form - Help Guide
 ## Purpose
 The Athlete Biometric Data Consent Form is used to gather biometric data from athletes, which will be used for performance optimization, injury prevention, and health monitoring. This form is a crucial document that ensures athletes understand how their data will be collected, stored, and used.

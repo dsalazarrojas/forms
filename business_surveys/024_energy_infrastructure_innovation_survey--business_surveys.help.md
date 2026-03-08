@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from organizations about their views on energy infrastructure innovation. This form will help identify the challenges, interests, and barriers faced by organizations in this field. Please ensure that you are responding to this survey based on your organization's actual situation and experiences. This form has been generated using a machine learning model and its structure may not follow the exact layout of any proprietary form platform. The form's content and purpose are based on the provided title and category, which are "Energy Infrastructure Innovation Survey" and "Business Surveys", respectively.
-</thinking>
-
 # Energy Infrastructure Innovation Survey - Help Guide
 ## Purpose
 This form is designed to gather information from organizations about their views on energy infrastructure innovation.

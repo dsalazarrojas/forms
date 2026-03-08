@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a hockey game, including player and game details. The purpose of this form is to ensure that all necessary player and game information is gathered accurately and efficiently. 
-
-This form is likely to be used by coaches, administrators, or referees to track player and game data during or after a hockey game. 
-
-Before filling out this form, please ensure that you have all the necessary information required. This form should not be used to duplicate or create new player records; instead, it's meant to update or add new game data to an existing player's record.
-
-</thinking>
-
 # hockey_equipment_checklist - Help Guide
 ## Purpose
 The hockey_equipment_checklist form is a tool for collecting and tracking player and game information. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide explains how to fill out the trade show booth checklist form.
 
 ## trade_show_booth_checklist_form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>This form's purpose is to collect information on process control and its status in an organization. It gathers data on process control level, audit scope, observations, and recommendations. The form also captures information on next steps, review status, and audit status. It appears to be used for internal auditing and process improvement within a business organization. It's likely used by auditors or process owners to track and manage the process control process. The form does not seem to be related to any specific product or service, suggesting it's a general-purpose form for auditing processes.</thinking>
-
 # Process Control Audit Survey - Help Guide
 ## Purpose
 The Process Control Audit Survey form is designed for collecting information on the status and effectiveness of internal process controls within an organization.

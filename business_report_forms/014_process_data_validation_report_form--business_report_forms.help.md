@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose and completion of the "Process Data Validation Report Form". The form is used to report on validation activities and findings, actions taken, comments, and other relevant details related to data validation processes. The form will help users track and document the progress of validation activities, including the status of validation activities, the team involved, and any comments or notes related to the process.
-
-This form is likely to be used in a business setting, possibly in a quality assurance or data validation department, where users need to report on validation activities and findings to track progress and ensure data accuracy. The form is designed to be comprehensive, allowing users to input relevant details such as validation status, assigned team members, and comments.
-
-Before filling out this form, please ensure you have all the necessary information and permissions to complete it accurately. If you're unsure about any field, refer to this guide for clarification.
-
-</thinking>
-
 # Process Data Validation Report Form - Help Guide
 
 ## Purpose

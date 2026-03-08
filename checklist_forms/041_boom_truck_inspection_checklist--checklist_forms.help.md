@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and record the results of a boom truck inspection. The boom truck is a large vehicle used for lifting and moving heavy loads, and this inspection is critical to ensure its safe operation. The fields in this form are designed to gather information on various aspects of the vehicle's condition, including its physical state, mechanical functioning, and any defects or issues found during the inspection. The inspector will record the date and time of the inspection, the vehicle's identification, and their own name. They will then assess the condition of the boom arm, extension mechanism, hydraulic system, emergency stop button, safety restraints, light system, tires, and brake system. The inspector will also note any defects or issues found during the inspection and record the overall inspection result.
-</thinking>
-
 # Boom Truck Inspection Checklist - Help Guide
 ## Purpose
 This form is used to record the results of a boom truck inspection. The inspection checks various aspects of the vehicle's condition, including physical state, mechanical functioning, and any defects or issues found.

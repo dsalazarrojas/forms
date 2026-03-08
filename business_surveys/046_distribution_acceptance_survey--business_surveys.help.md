@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form that's designed to collect information from various roles within a company about their distribution performance. This form should help us understand how different departments and locations perceive their distribution capabilities, allowing us to improve our services and meet customer expectations. 
-Please note that this form is for general feedback, and responses are not necessarily tied to specific business logic or decision-making processes. We're looking for honest and objective feedback from our customers and internal teams alike.
-</thinking>
-
 # Distribution Acceptance Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from various roles within a company about their distribution performance. Your input will help us better understand your needs and improve our services.

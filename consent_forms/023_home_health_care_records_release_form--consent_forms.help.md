@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and efficiently by end users. This form, "Home Health Care Records Release Form", is used to collect information about a patient's health care records and their release preferences. It's crucial that users understand its purpose and how to fill it out correctly to avoid duplication of effort or incorrect submission. 
-</thinking>
-
 # Home Health Care Records Release Form - Help Guide
 ## Purpose
 The "Home Health Care Records Release Form" is used to collect information about a patient's health care records and their release preferences. This form helps healthcare providers and administrators to manage patient data and ensure that patients are aware of who has access to their records and for what purpose.

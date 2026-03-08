@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and perceptions about the digitalization of processes in a business environment. It is likely used for research or analysis within the organization to improve digital transformation and process efficiency. Before completing this form, please ensure you are not duplicating the submission, as your responses will be used to inform internal decisions.
-</thinking>
-
 # Lease Digitalization Perception Survey - Help Guide
 ## Purpose
 The form aims to collect feedback and perceptions about the digitalization of processes in a business environment.

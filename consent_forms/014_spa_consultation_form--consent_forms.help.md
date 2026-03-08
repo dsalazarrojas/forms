@@ -1,8 +1,3 @@
-<thinking>
-We're creating a help guide for a form designed to collect information from clients for a spa consultation. This form is intended to gather essential details about the client, including their contact information, preferences, and availability. The form is divided into several sections, each catering to specific aspects of the client's experience. We'll walk you through each section to ensure you understand how to complete it accurately and efficiently.
-
-</thinking>
-
 # Spa Consultation Form - Help Guide
 ## Purpose
 The Spa Consultation Form is designed to collect necessary information from clients before their spa visit. It helps us understand their preferences, contact details, and schedule. Please fill out this form to ensure a smooth and personalized experience.

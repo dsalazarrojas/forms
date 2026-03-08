@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from internal project managers on the quality of services provided by external agencies. This form is used to evaluate the performance and partnership quality of the agency, and to identify areas for improvement. It's essential to fill out this form only once you've completed a project with an external agency.
-</thinking>
-
 # Agency Collaboration Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from internal project managers on the performance and partnership quality of external agencies. This information will help to identify strengths and areas for improvement for future collaborations.

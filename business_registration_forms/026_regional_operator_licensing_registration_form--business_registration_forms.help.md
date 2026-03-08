@@ -1,10 +1,3 @@
-<thinking>
-This form is used for regional operators to register their business and obtain a license to operate. 
-The form requires the operator to provide essential information about their business, such as their name, address, and contact details. 
-Before starting the registration process, ensure that you have all necessary documents and information ready. 
-This form does not allow for duplicate registrations for the same operator.
-</thinking>
-
 # Regional Operator Licensing Registration Form - Help Guide
 ## Purpose
 The Regional Operator Licensing Registration Form is a mandatory form for regional operators to register their businesses and obtain a license to operate. The form collects essential information about the operator, their business, and contact details. 

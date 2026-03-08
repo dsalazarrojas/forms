@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback and data about the vendor onboarding experience to identify areas of improvement and to understand the overall satisfaction and experience of our vendors. To ensure that the collected data is useful and accurate, please only complete this form if you are a vendor who has gone through the onboarding process.
-
-We will review the collected data internally to identify areas where we can improve the onboarding process and make data-driven decisions to enhance the experience for all our vendors.
-
-</thinking>
-
 # Vendor Onboarding Experience Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from vendors about their onboarding experience with our company. Your input will help us identify areas of improvement and make data-driven decisions to enhance the onboarding process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mesothelioma Claim Form - Help Guide
 ## Purpose
 This form is used to gather information from claimants who are seeking compensation for mesothelioma. Mesothelioma is a type of cancer caused by asbestos exposure, often leading to respiratory problems and various health issues. This form helps us understand the claimant's situation, allowing us to provide accurate and timely assistance.

@@ -1,8 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "iam_integration_checklist" form that will guide end-users through its purpose, completion process, and field-by-field explanation. 
-The form is designed to gather information for integration project management, specifically for projects that involve integration with various services or systems. It's crucial to ensure that each field is filled out correctly to provide accurate project status, security requirements, and integration steps. Before proceeding, please review the following help guide to familiarize yourself with the form's functionality and requirements.
-</thinking>
-
 # iam_integration_checklist - Help Guide
 ## Purpose
 The "iam_integration_checklist" form is a project management tool designed to collect essential information for integration projects. It helps project managers and team members track project details, security requirements, and integration steps, ensuring that projects are accurately assessed and managed. By filling out this form, you'll be able to:

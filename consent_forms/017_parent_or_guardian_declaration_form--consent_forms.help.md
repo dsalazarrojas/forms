@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Or Guardian Declaration Form - Help Guide
 
 ## Purpose

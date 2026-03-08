@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the current state and effectiveness of the expense management process within an organization. The purpose of this form is to gather feedback on various aspects of the expense management process, including the workflow, reporting frequency, reporting method, submission status, reporting deadline, reporting time, training needs, tool performance, and comments. It is crucial that this form is completed accurately and honestly to provide valuable insights that can help improve the efficiency and effectiveness of the expense management process.
-</thinking>
-
 # Expense Management Process Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the current expense management process within your organization.

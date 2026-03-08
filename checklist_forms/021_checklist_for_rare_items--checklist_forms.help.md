@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and document information about rare items, including their identification, provenance, and condition. The form is intended to be used by curators, conservators, and other experts to create and manage records for rare items in their collection. This guide will walk you through the purpose, instructions, and explanations for each field in the form.
-
-</thinking>
-
 # Checklist For Rare Items - Help Guide
 ## Purpose
 The purpose of this form is to create and manage records for rare items in your collection. This includes documenting item identification, provenance, and condition information to help ensure accurate and consistent cataloging and management.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from individuals for food and beverage consumption outside of the organization. The form is intended to be used when an employee or visitor is going to consume food and beverage outside of the premises, such as at a restaurant or café. The form is required to be completed by the individual to indicate their consent for the consumption of food and beverage.
-</thinking>
-
 # Outside Food And Beverage Waiver Form - Help Guide
 
 ## Purpose

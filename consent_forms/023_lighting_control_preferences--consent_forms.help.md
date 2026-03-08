@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm thinking about how to help users understand the purpose and use of the "Lighting Control Preferences" form. The form is intended to gather information about the lighting control preferences of facilities, which will be used to inform decisions related to lighting control systems and automation. This form is likely to be used by project leads or facility managers to provide input on their lighting control needs and preferences for a project or facility. The form's purpose is to ensure that the lighting control system is designed and implemented according to the specific needs of the facility, taking into account its unique location and requirements.</thinking>
-
 # Lighting Control Preferences - Help Guide
 ## Purpose
 This form is used to capture lighting control preferences for a facility. Project leads and facility managers will fill out this form to provide input on their lighting control needs and automation requirements.

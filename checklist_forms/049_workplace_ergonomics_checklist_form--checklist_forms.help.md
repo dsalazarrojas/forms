@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the ergonomic factors of a workspace, ensuring that the environment supports the physical and mental well-being of its users. The form aims to evaluate various aspects of a workstation, including workstations' evaluation, work surface, work height, chair adjustability, chair type, monitor height, keyboard position, mouse position, and ergonomic posture.
-</thinking>
-
 # Workplace Ergonomics Checklist Form - Help Guide
 ## Purpose
 This form is designed to assess the ergonomic factors of a workspace and provide insights to improve employee comfort and productivity.

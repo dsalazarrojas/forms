@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to explore the drivers and satisfaction of employees and managers within an organization. The goal is to gather insights on employee engagement and job satisfaction, as well as the factors that contribute to these feelings. This form will be used to inform organizational development and decision-making.
-
-To complete this form, follow these steps:
-
-1. Enter the employee's name in the first field, "Enter Employee Name."
-2. Provide the department the employee works in in the "Enter Department" field.
-3. Enter the employee's job title in the "Enter Employee Job Title" field.
-4. Enter the employee's email in the "Enter Manager Email" field.
-5. Enter the employee's phone number in the "Enter Manager Phone" field.
-6. Enter the manager's name in the "Enter Manager Name" field.
-7. Enter the manager's job title in the "Enter Manager Job Title" field.
-8. Enter the manager's department in the "Enter Manager Department" field.
-9. Enter the manager's location in the "Enter Manager Location" field.
-10. Select the factors that drive employee engagement, such as job security, communication, and recognition, in the "Enter Employee Engagement Drivers" field.
-11. Select the factors that drive manager engagement, such as job security, communication, and development, in the "Enter Manager Engagement Drivers" field.
-12. Choose how satisfied the employee is with their job, such as "Very Satisfied" or "Somewhat Satisfied," in the "Enter Employee Job Satisfaction" field.
-13. Choose how satisfied the manager is with their job, such as "Very Satisfied" or "Somewhat Satisfied," in the "Enter Manager Job Satisfaction" field.
-14. Choose how secure the manager's job is, such as "Highly Secure" or "Not at All Secure," in the "Enter Manager Job Security" field.
-
-</thinking>
-
 # Engagement Drivers Exploration Survey - Help Guide
 ## Purpose
 This form is designed to explore the drivers and satisfaction of employees and managers within an organization.

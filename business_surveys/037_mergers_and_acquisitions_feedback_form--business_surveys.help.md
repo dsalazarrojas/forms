@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll help create a user-facing help guide for the Mergers And Acquisitions Feedback Form. This form is designed to gather feedback on M&A deals and integration processes. To ensure relevance, let's assume that this form is intended for use by employees within an organization who are involved in mergers and acquisitions, such as those in HR, finance, or operations departments.</thinking>
-
 # Mergers And Acquisitions Feedback Form - Help Guide
 ## Purpose
 The Mergers And Acquisitions Feedback Form is designed to gather feedback and comments from employees on the M&A deal and integration process. This form will help the organization identify areas of improvement and ensure a smooth integration process.

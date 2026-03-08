@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Auction Item Registration Form - Help Guide
 ## Purpose
 The Auction Item Registration Form is a tool for consignors to provide necessary information about their donated items. This form helps in ensuring that all required details are captured accurately and promptly, facilitating the auction process. It is essential to fill out this form accurately and completely to ensure smooth coordination with the pickup and sale of the item.

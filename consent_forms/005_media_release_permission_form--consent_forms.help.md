@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain media release permission from participants, which is essential for various media-related activities such as recording, filming, or photographing participants. This form ensures that participants understand and agree to the terms of the media release, including the purpose of the activity, location, and any other relevant details.
-</thinking>
-
 # media_release_permission_form - Help Guide
 ## Purpose
 The Media Release Permission Form is a crucial document that helps establish a legal basis for media-related activities involving participants. It outlines the terms under which participants grant permission for the use of their image, voice, or likeness in media content. By completing this form, participants acknowledge and agree to the conditions set forth, which includes the purpose of the activity, the media to be used, and the rights granted to the media owner.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for airline customers to report their experiences and feedback after flights. The purpose of this form is to collect detailed information about the customer's travel experience, including their personal contact details, flight information, and the type of issue they encountered. This form helps the airline to identify areas for improvement and provide better services to its customers in the future. To ensure that you submit the correct information, please carefully review each field to understand what is required.
-
-</thinking>
-
 # Airline Customer Service Report Form - Help Guide
 
 ## Purpose

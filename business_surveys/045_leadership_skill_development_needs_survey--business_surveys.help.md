@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from leaders within the organization about their current skills and development needs, as well as their preferences for training and development opportunities. The form is intended to help identify areas of strength and weakness in leadership skills, and to inform the development of training and development programs that meet the needs of leaders within the organization.
-
-Before filling out this form, please note that it is not a survey of every single leader within the organization, but rather a sample of leaders who have been invited to participate. The form should only be completed by the invited leaders.
-
-Please review each section carefully and answer the questions based on your current leadership role and responsibilities. If you have any additional comments or feedback, please feel free to add them at the end of the form.
-</thinking>
-
 # Leadership Skill Development Needs Survey - Help Guide
 ## Purpose
 

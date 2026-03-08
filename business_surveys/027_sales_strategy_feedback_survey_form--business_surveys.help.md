@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect feedback and insights from sales teams about their current sales strategies. It's intended to help management identify areas of strength and weakness, and inform future decision-making regarding sales tools, channels, and processes. This form should only be completed by sales teams, and not duplicated or filled out for the sake of completeness. It's a one-time feedback opportunity...</thinking>
-
 # Sales Strategy Feedback Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and insights from sales teams about their current sales strategies, which will help management identify areas of strength and weakness and inform future decision-making.

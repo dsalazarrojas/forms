@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users to create a service estimate. The service estimate form is likely used in an e-commerce or business-to-business context where users need to provide details about a service they are requesting estimates for. The form is likely used by administrators or account managers to process and review service requests. Given the form's structure, it is reasonable to assume that the form is used to capture both free-formatted text and numerical data. This assumption is based on the presence of a text field (`service_estimate_form_service_estimate_form_1`) and a numerical field (`service_estimate_form_service_estimate_form_2`).
-</thinking>
-
 # Service Estimate Form - Help Guide
 ## Purpose
 The Service Estimate Form is used to collect information from users to create a service estimate.

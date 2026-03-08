@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication of fields ...
-
-The form purpose is to collect information about a funds request. The goal is to gather all necessary details to make an informed decision on the request. The fields on this form are designed to collect user information, contact information, request details, and submission details. Please ensure that all required fields are filled out to prevent errors in the submission process.
-
-</thinking>
-
 # Funds Request Form - Help Guide
 
 ## Purpose

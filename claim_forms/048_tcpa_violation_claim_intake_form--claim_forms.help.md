@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from claimants who have experienced potential TCPA (Telephone Consumer Protection Act) violations, such as unwanted or robocalls. To ensure that their claims are properly processed, it's essential to fill out this form accurately and completely. Please note that this form is designed to collect sensitive information, and the data collected will be used to investigate and resolve the claims.
-</thinking>
-
 # TCPA Violation Claim Intake Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll briefly review the provided YAML fields to ensure the form purpose and each field's relevance and potential overlap are considered. The form, titled "Property Management Checklist Form," appears to be a comprehensive checklist for managing properties, covering various aspects such as maintenance tasks, inspections, tenant comments, property status, maintenance requests, contact information, and more. To prevent duplication of effort, I'll focus on highlighting the key sections and fields that require explanation, while omitting repetitive or redundant information.</thinking>
-
 # Property Management Checklist Form - Help Guide
 ## Purpose
 The Property Management Checklist Form is a comprehensive tool for property managers to track and manage various aspects of property maintenance, inspections, and communication with tenants. This form helps ensure that all necessary tasks are completed, inspections are performed regularly, and important information is recorded and shared.

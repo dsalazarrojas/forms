@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nanny Background Check Form - Help Guide
 ## Purpose
 The Nanny Background Check Form is a crucial document used by childcare agencies and families to collect and verify essential information about potential nannies or caregivers. This form is essential in ensuring that nannies or caregivers are thoroughly screened and vetted before being considered for positions.

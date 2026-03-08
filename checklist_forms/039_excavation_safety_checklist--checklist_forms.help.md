@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on excavation safety protocols and concerns. The fields are intended to help the user assess the current safety measures in place for an excavation site. The form is meant to be a simple and straightforward tool for evaluating the safety standards and protocols being followed. This form is not designed to replace a comprehensive risk assessment or a detailed safety audit, but rather to serve as a starting point for ensuring the site has a basic level of safety precautions in place.
-</thinking>
-
 # Excavation safety checklist - Help Guide
 ## Purpose
 The Excavation Safety Checklist is a form used to evaluate the safety standards and protocols in place on an excavation site. It is designed to assess the presence of basic safety measures and identify areas of concern.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from construction professionals on their current waste management practices and priorities. It aims to understand how they manage and reduce waste on their construction sites, what methods and strategies they use, and their attitudes towards waste reduction. The goal is to identify areas for improvement and potential solutions to address construction waste, which will help the industry reduce its environmental impact and improve site efficiency. This form is not meant to be comprehensive, as it will not cover all possible questions or topics, but rather provide a starting point for discussion and improvement. To ensure accurate and relevant data is collected, please only complete this form once for your company. If you have already completed a survey on this topic, do not fill this out again. Your feedback and input are crucial in helping us better understand the current state of waste management in the construction industry.
-</thinking>
-
 # Construction Waste Reduction Feedback Survey - Help Guide
 ## Purpose
 

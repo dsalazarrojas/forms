@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information about an individual's personal hygiene practices, including face washing, hair care, body washing, hand hygiene, nail hygiene, foot hygiene, mouth hygiene, personal care product use, and body fatigue. This form is likely used in a health-related context, such as a medical facility or a wellness center, to assess an individual's adherence to good personal hygiene habits. It is not explicitly mentioned if the form is meant for general public use or if it's for internal use within the organization.
-
-It appears that the form is designed to be completed by one person at a time, and it is not indicated that the form is used for multiple people at once.
-
-To ensure consistency, I will make sure to stick to the provided fields in the form's description.
-
-</thinking>
-
 # personalHygieneChecklistForm - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your personal hygiene habits and frequencies. It is designed to help users understand their personal hygiene practices and identify areas for improvement.

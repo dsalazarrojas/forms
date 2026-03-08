@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to confirm the details of an order, ensuring that all necessary information is accurate and up-to-date. This form serves as a checkpoint to ensure that the order is properly processed and fulfilled. Before filling out this form, please review the order details carefully and ensure that all required fields are completed.
-</thinking>
-
 # Order Confirmation Checklist - Help Guide
 ## Purpose
 This form is used to confirm the details of an order, ensuring that all necessary information is accurate and up-to-date.

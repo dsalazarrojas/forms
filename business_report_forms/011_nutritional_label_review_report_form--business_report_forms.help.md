@@ -1,7 +1,3 @@
-<thinking>
-The Nutritional Label Review Report Form is a crucial tool for ensuring compliance with regulations and standards for food labeling. This form is designed to help reviewers evaluate the accuracy and completeness of a product's nutritional label. Reviewers will use this form to document their findings, provide feedback, and track progress on label reviews. The form's fields cover key aspects of label review, including product information, compliance status, and review details.
-</thinking>
-
 # Nutritional Label Review Report Form - Help Guide
 ## Purpose
 The Nutritional Label Review Report Form is a tool used to document the review of a product's nutritional label, ensuring compliance with relevant regulations and standards.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from a customer who has received damaged goods. The form should only be filled out by customers who have actually received damaged goods and not by customers who are trying to make a false claim. To prevent duplication, please check the "Damaged Goods Claim History" in our system before filling out this form.
-</thinking>
-
 # Damaged Goods Claim Form - Help Guide
 ## Purpose
 This form is used to report damaged goods received from our company. Please fill out this form with as much detail as possible so we can process your claim as quickly and efficiently as possible.

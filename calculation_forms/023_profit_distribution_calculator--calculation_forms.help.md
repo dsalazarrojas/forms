@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users calculate the profit distribution among business partners. It is intended for businesses with multiple partners. Users will input information on the total profit, business partnership, and other related factors to determine the percentage allocation of profit among partners.
-
-Before proceeding, please ensure that you are using this calculator for its intended purpose and not duplicating effort.
-
-</thinking>
-
 # Profit Distribution Calculator - Help Guide
 ## Purpose
 

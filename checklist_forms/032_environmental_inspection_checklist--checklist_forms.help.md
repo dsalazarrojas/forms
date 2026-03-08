@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for an environmental inspection checklist. The purpose of this form is to gather data on the general information, building address, inspection date, inspector name, environmental hazards, safety hazards, and other relevant details about the facility being inspected. This form is likely used by facility managers, safety officers, or environmental inspectors to conduct regular inspections and ensure compliance with safety and environmental regulations.
-
-Before filling out this form, please ensure that you have the necessary permissions and access to complete the required information. This form may be part of a larger inspection process that requires coordination with multiple stakeholders.
-
-When filling out this form, please be thorough and accurate in providing the requested information. If you are unsure about any of the questions or options, please consult the relevant regulations or seek guidance from a qualified inspector.
-
-Please note that some fields are marked as "Required", which means you must provide an answer for these fields. Other fields are "Optional", which means you can provide additional information, but it is not mandatory.
-
-</thinking>
-
 # Environmental Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to collect information for an environmental inspection checklist, which is used to ensure compliance with safety and environmental regulations.

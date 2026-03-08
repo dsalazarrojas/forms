@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect data about the acceptance level of different products in a business setting. It is primarily meant for internal use, and the data collected will help the assigned user in understanding the acceptance level of various products. 
-
-Before filling out this form, ensure that you have a clear understanding of the product's brand name, its ID, product type, and name. If the product has an acceptance level, it is recommended to fill it out accurately. If not, you can choose an "Acceptance Level Other" to provide a custom description. 
-
-This form does not aim to collect redundant or duplicate data. Ensure that you have not filled out similar surveys for this product before, or if you have, please be concise and provide updated information when necessary. 
-
-Please be specific when filling out this form, and provide as much detail as possible, especially for the "Influencing Factors" and "Feedback" sections. The "Notes" section is meant to be a short note about your feedback, not a detailed report.
-</thinking>
-
 # liquid_acceptance_survey - Help Guide
 ## Purpose
 This form is designed to collect data about the acceptance level of different products in a business setting.

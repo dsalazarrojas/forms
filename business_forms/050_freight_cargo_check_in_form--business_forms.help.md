@@ -1,5 +1,3 @@
-<thinking>...checking the form purpose and checking for relevance and non-duplication...</thinking>
-
 # Freight Cargo Check In Form - Help Guide
 ## Purpose
 The Freight Cargo Check In Form is used to record details of freight cargo being checked into your facility. This includes cargo type, origin location, delivery date, weight, description, cargo status, cargo details, contact person, and contact number. The form is designed to ensure accurate and efficient processing of cargo transactions.

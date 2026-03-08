@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to aid in the telecommunicaions expense audit process by gathering relevant information from the end user. This form should only be used for audits related to telecommunicaions expenses and should not be used for other types of audits. 
-</thinking>
-
 # Telecommunications Expense Audit Checklist - Help Guide
 ## Purpose
 This form is designed to assist in the audit of telecommunicaions expenses to ensure that all relevant information is collected and documented. 

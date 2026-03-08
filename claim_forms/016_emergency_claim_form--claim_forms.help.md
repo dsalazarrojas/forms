@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the purpose of the form is to collect information related to emergency claims, possibly for insurance or other purposes. The form might be used by individuals or companies to report accidents, incidents, or other events that require claims to be filed.
-</thinking>
-
 # Emergency Claim Form - Help Guide
 ## Purpose
 The Emergency Claim Form is a document used to gather information about an emergency incident, accident, or situation that requires reporting and filing. This form helps to collect relevant details, contact information, and supporting documentation to assist in the claims process.

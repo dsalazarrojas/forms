@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that facilities and zones within the facility are complying with the necessary regulations and standards. This form will guide inspectors and auditors in verifying compliance with specific zone-specific requirements. The goal is to collect and document information about facilities' compliance status, identify corrective actions, and maintain contact information for further follow-up. To ensure accurate and efficient data collection, please review this help guide carefully before starting to fill in the form.
-</thinking>
-
 # Zone Compliance Checklist - Help Guide
 ## Purpose
 This form is designed to assist inspectors and auditors in monitoring and documenting facilities' and zones' compliance status within the facility. It captures key information regarding the zone's compliance status, corrective actions, contact persons, and other relevant details.

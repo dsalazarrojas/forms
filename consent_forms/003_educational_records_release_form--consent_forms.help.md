@@ -1,9 +1,3 @@
-<thinking>
-The educational_records_release_form is used to collect information from students who are releasing their educational records for various purposes. This form is used to verify the release of educational records and ensure that the necessary information is collected for future reference.
-The form is used to collect personal information such as first name, last name, birth date, and email address. Additionally, it collects information about the institution where the student attended, such as department and date of graduation. The form also requires signatures from both the student and the institution to confirm the release of records.
-When filling out this form, please ensure that all fields are filled out accurately and completely. The first name, last name, birth date, and email address are all required fields. The institution name and department are also required. The date of graduation and release date are optional but recommended.
-</thinking>
-
 # Educational Records Release Form - Help Guide
 ## Purpose
 The educational records release form is used to collect information from students who are releasing their educational records.

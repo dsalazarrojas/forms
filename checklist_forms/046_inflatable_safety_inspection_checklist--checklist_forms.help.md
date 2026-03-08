@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for collecting information about inflatable safety inspections. This form likely belongs to a company that handles inflatables for a specific industry (e.g. event management, pool operations, etc.) and is used to track and document the safety of their inflatables. The form might be used for regulatory compliance, internal quality control, or auditing purposes.
-
-Before creating this document, I'll verify that this form is not already covered in the existing documentation and that it's not a duplicate of another form.
-
-</thinking>
-
 # Inflatable Safety Inspection Checklist - Help Guide
 
 ## Purpose

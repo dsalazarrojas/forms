@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent from participants and operators involved in the Safari Tour. The form ensures that all participants have provided their informed consent and that operators have acknowledged the participant's safety guidelines. This form is used to document the participant's and operator's details, dates of the tour, and emergency contact information. This form is an essential part of the Safari Tour process, and its completion is required for the tour to proceed.
-</thinking>
-
 # Safari Tour Consent Form - Help Guide
 
 ## Purpose

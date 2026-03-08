@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used during routine tractor inspections to assess the overall condition of a tractor. The goal is to help the user identify any issues with the tractor's various components, such as the engine, tires, hydraulics, transmission, brakes, steering, and frame. This assessment is crucial for maintenance and repair purposes to ensure the tractor's performance and safety. Please ensure you complete this form carefully and accurately to provide a thorough evaluation of the tractor's condition.
-</thinking>
-
 # Tractor Inspection Form - Help Guide
 ## Purpose
 This form is used to evaluate the condition of a tractor's engine, tires, hydraulics, transmission, brakes, steering, and frame. The assessment helps identify any potential issues that may affect the tractor's performance and safety.

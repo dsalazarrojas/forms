@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the effectiveness of food defense measures in place to ensure the safety of food products. To ensure accurate and reliable data, please complete this form only once per recall event. If you have completed this form previously, please update your previous answers as necessary to reflect the current state of your food defense measures.
-
-Before completing this form, please review your company's food safety policies and procedures to ensure that the information you provide is accurate and up-to-date.
-
-Please answer all fields honestly, and if you're unsure about any question, feel free to contact your supervisor or food safety team for guidance.
-
-</thinking>
-
 # Food Defense Assessment Template - Help Guide
 ## Purpose
 The Food Defense Assessment Template is designed to help food establishments assess their current food defense measures and identify areas for improvement to ensure the safety of food products.

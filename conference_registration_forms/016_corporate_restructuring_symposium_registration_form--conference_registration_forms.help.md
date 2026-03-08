@@ -1,11 +1,3 @@
-<thinking>
-
-The Corporate Restructuring Symposium Registration Form is an online form designed for attendees to register for the symposium. This form is intended for individuals who wish to attend the symposium, which likely focuses on corporate restructuring strategies and practices. To use this form, you should only be registering for the symposium if you are affiliated with a company or organization and have a genuine interest in the topic.
-
-Before filling out the form, please ensure you have all necessary information readily available to prevent errors and incomplete submissions.
-
-</thinking>
-
 # Corporate Restructuring Symposium Registration Form - Help Guide
 ## Purpose
 The Corporate Restructuring Symposium Registration Form is an online registration form designed for attendees to register for the symposium. This form is intended for individuals affiliated with a company or organization interested in corporate restructuring strategies and practices.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from companies producing beard oil products to better understand their production practices, quality control measures, and other relevant aspects of their business. The form will provide valuable insights to help improve the overall quality and standardization of beard oils in the market. 
-
-To ensure the form's data collection process runs smoothly and efficiently, please check if your company is producing beard oil products and has not already completed this form. 
-
-</thinking>
-
 # Beard Oil Production Survey - Help Guide
 ## Purpose
 This form is designed to gather information from companies producing beard oil products to improve the overall quality and standardization of these products in the market.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect and present data for a Factory Energy Usage Overview Report. The purpose of this report is to provide a concise and structured way to collect information about the energy usage of a factory over a specific period. The report includes key fields that help identify the energy source, type, and usage of a plant, as well as any efficiency measures taken.
-
-This form should only be used for factories that have a specific energy usage reporting requirement. If a factory does not have such requirements, this form is not applicable.
-
-This form collects data on the following fields:
-- Form Data (1): A brief description of the factory's energy usage.
-- Plant ID (2): An identifier for the plant, which can be set to "Yes" or "No".
-- Plant Name (3): The name of the plant.
-- Date From (4): The start date of the period being reported.
-- Date To (5): The end date of the period being reported.
-- Energy Source (6): Whether the energy source is available or not.
-- Energy Type (7): The type of energy being used.
-- Energy Usage (8): The usage of energy measured in a numerical value.
-- Efficiency Measures (9): Additional comments or notes about efficiency measures taken.
-- Comments (10): Any additional comments or feedback.
-
-</thinking>
-
 # Factory Energy Usage Overview Report - Help Guide
 
 ## Purpose

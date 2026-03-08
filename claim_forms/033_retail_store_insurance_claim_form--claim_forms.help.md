@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a retail store insurance claim. This form is used to provide details about a incident that occurred in a retail store, including the date, time, and description of the incident, as well as the store's insurance information and contact details. To complete this form, you will need to provide information about the incident, including the date and time it occurred, a description of what happened, and any supporting documents that are relevant to the claim. You will also need to provide information about the store's insurance company, policy number, and contact details. Please ensure that you have all necessary information before completing this form, as it will be used to support your insurance claim.
-</thinking>
-
 # Retail Store Insurance Claim Form - Help Guide
 ## Purpose
 This form is designed to gather information for a retail store insurance claim. It will help you provide a detailed account of the incident, including the date, time, and description of what happened, as well as any supporting documents and store insurance information.

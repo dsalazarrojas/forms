@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect weekly check-in information from fitness members. It is intended for coaches to monitor and provide feedback on member progress. This form does not collect sensitive or personally identifiable information, and the responses will be used solely for the purpose of coaching and guidance. Please ensure that you have the necessary permissions to collect and use this data before proceeding. If you are unsure, please contact the form author at form@gic.mx.
-</thinking>
-
 # Fitness Weekly Check In Form - Help Guide
 ## Purpose
 The Fitness Weekly Check In Form is designed to gather information from fitness members to help coaches monitor and provide feedback on their progress. This form is intended to be filled out on a weekly basis.

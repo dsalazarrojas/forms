@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Online Learning Parental Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from the parent or guardian of a student before enrolling or continuing their online learning activities. This is an important step to ensure that the student is properly registered and accounted for in our system.

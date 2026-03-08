@@ -1,9 +1,3 @@
-<thinking>
-
-To create a useful and accessible user guide, we must first consider that this form is designed to help users prepare for a hurricane by collecting information on emergency plans, supplies, contact information, and other critical details. This form is not intended for any specific business or organization, making it a general purpose form for individuals or families to ensure they are prepared for natural disasters like hurricanes.
-
-</thinking>
-
 # hurricane_preparedness_checklist_form - Help Guide
 ## Purpose
 This form is designed to help individuals and families prepare for a hurricane by collecting essential information on emergency plans, supplies, and other critical details. Completing this form will help you create a comprehensive emergency plan and ensure you are ready for any hurricane-related disaster.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # production_intelligence_certification_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect application details, certification level, motivation, contact details, submission details, submission status, assigned user, and submission comments from users for certification registration. This form is used by production intelligence team to verify the submitted applications and provide certification status.

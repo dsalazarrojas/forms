@@ -1,10 +1,3 @@
-<thinking>
-Please note that the form is designed to collect information from event organizers for catering equipment orders. The purpose of this form is to gather details about the equipment needed for an event, including the type of equipment, quantity, and other relevant information.
-
-Before filling out this form, please make sure you have all the required information ready. You can save your progress and return to the form later if needed.
-
-Please fill out the form carefully and accurately to ensure that your equipment needs are met.</thinking>
-
 # Event Catering Equipment Order Form - Help Guide
 ## Purpose
 The Event Catering Equipment Order Form is designed to collect information from event organizers for catering equipment orders. This form helps us gather details about the equipment needed for an event, including the type, quantity, and other relevant information.

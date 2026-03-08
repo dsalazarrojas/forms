@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information from team members to improve the performance and process of their team. By providing input on process steps, pain points, and improvement ideas, team members can contribute to the development of strategies that address their department's challenges. This form is optional and anonymous, ensuring that responses are honest and uninfluenced. Please note that this form is intended for internal team use only. If you are taking this survey for the first time, it's best to review the entire form before providing your answers.
-
-Before starting to fill out the form, please consider what you are willing to share with the team and your department head. You are free to provide any level of detail you feel comfortable with.
-
-To fill out the form, start by selecting the "introduction" page, where you'll find a brief welcome message explaining the purpose of this form.
-
-</thinking>
-
 # Team Process Mapping Survey - Help Guide
 ## Purpose
 The Team Process Mapping Survey is designed to gather information about your team's performance and identify areas where improvement is needed. By answering the questions, you'll help your department to refine and optimize its processes, making it more efficient and effective.

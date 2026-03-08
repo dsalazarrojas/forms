@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect business identification information from businesses, which is crucial for various legal and regulatory requirements. This form ensures that businesses can provide their official details accurately, reducing the risk of misrepresentation and potential fines or penalties. To avoid duplication, please only submit each business once.
-
-Before filling out this form, ensure you have the necessary information about your business. The form collects information such as the legal business name, business identification number, country of registration, business structure, primary contact name, contact email, and additional notes. Please be accurate and thorough in your responses.
-
-Please note that some fields are required, marked as 'true' in the form configuration. These fields are essential for the purpose of this form.
-
-</thinking>
-
 # Business Identification Number Survey - Help Guide
 ## Purpose
 The Business Identification Number Survey collects information about your business to help us understand your company's details for legal and regulatory requirements.

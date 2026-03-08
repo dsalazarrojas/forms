@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess an organization's agility, which is its ability to respond quickly and effectively to change. The form has sections that cover various aspects of organizational agility, including sections on leadership, collaboration, and adaptability.
-This form is intended to gather information on the following:
-- Leadership: This section will evaluate the ability of the organization's leaders to make decisions and take charge.
-- Collaboration: This section will assess how well the organization works together as a team.
-- Adaptability: This section will measure how quickly the organization can adapt to changes and new ideas.
-- Communication: This section will evaluate how effectively the organization communicates with its team members and stakeholders.
-Before completing this form, please ensure that you are in a position to answer truthfully and provide as much detail as possible.
-
-</thinking>
-
 # organizational_agility_evaluation_survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the organizational agility of the organization by assessing its ability to adapt, respond, and evolve.

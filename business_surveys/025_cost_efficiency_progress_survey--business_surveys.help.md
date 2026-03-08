@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to monitor and record the progress of cost efficiency initiatives within a company. It is meant to be filled out by employees and stakeholders to track how well the company is doing in terms of cost reduction and progress towards goals. This form will help to identify areas where the company is doing well and areas where it needs improvement. The goal is to provide a snapshot of the current state of cost efficiency progress at regular intervals, typically weekly or bi-weekly.
-
-This form will be used to collect data on progress, cost efficiency, and other relevant metrics. It should only be filled out by authorized personnel, and any unauthorized access to this form may compromise the integrity of the data.
-
-</thinking>
-
 # Cost Efficiency Progress Survey - Help Guide
 ## Purpose
 The Cost Efficiency Progress Survey is a form used to track and record the progress of cost efficiency initiatives within a company. It helps to identify areas where the company is doing well and areas where it needs improvement.

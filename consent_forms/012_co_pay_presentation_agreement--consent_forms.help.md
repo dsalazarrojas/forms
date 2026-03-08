@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a presentation or program. It's essential to ensure that each participant understands their commitment and responsibilities, particularly regarding payment obligations. This guide is intended to help participants fill out the form correctly and avoid any misunderstandings. Please review this guide carefully before proceeding to ensure you understand the requirements.
-</thinking>
-
 # Co Pay Presentation Agreement - Help Guide
 ## Purpose
 This form is a Co-Pay Presentation Agreement, used to collect information from participants for a presentation or program. It's crucial to provide accurate and complete information to ensure a smooth experience.

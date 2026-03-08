@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a Commercial Leasing Renewal System Registration Form to gather information from business tenants about their current lease and renewal intentions. This form is designed to help us understand their needs and preferences for the renewal process. Please ensure that you only fill out this form if you are a tenant looking to renew your current lease. If you are a landlord or property manager, please do not fill out this form.
-</thinking>
-
 # Commercial Leasing Renewal System Registration Form - Help Guide
 ## Purpose
 The Commercial Leasing Renewal System Registration Form is designed to gather information from business tenants about their current lease and renewal intentions. This form will help us understand your needs and preferences for the renewal process, allowing us to provide you with tailored services and support.

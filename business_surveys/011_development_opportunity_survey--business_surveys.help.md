@@ -1,5 +1,3 @@
-<thinking>Development Opportunity Survey is a form designed to collect information about ongoing and upcoming projects within an organization. It is intended to provide a comprehensive overview of project status, priority, and owners. This form is not meant to be a comprehensive project management tool, but rather a tool for identifying opportunities and areas for improvement. Before proceeding, please ensure that you have not already completed this form for the same project or project iteration. If you're unsure, please reach out to your supervisor or project manager for clarification. Please note that all responses will be kept confidential and will not be shared outside the organization.</thinking>
-
 # Development Opportunity Survey - Help Guide
 ## Purpose
 The Development Opportunity Survey is a tool used to collect information about ongoing and upcoming projects within the organization. It helps to identify areas for improvement and opportunities for growth.

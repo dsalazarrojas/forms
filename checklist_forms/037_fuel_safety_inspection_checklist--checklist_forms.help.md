@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fuel Safety Inspection Checklist - Help Guide
 
 ## Purpose

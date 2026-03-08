@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on the value of sustainability certifications to business stakeholders. The form will help us collect data on which categories are most important to stakeholders, what form titles and descriptions are most valuable, and what types of data collection methods are preferred. This information will be used to improve our understanding of stakeholder needs and preferences, and to make more informed decisions about our sustainability certifications.
-</thinking>
-
 # Sustainability Certification Value Survey - Help Guide
 ## Purpose
 The Sustainability Certification Value Survey is a form designed to gather data on the value of sustainability certifications to business stakeholders. The survey aims to understand the categories that are most important to stakeholders, the preferred form titles and descriptions, and the data collection methods used in forms.

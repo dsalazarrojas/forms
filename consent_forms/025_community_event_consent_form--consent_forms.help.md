@@ -1,5 +1,3 @@
-<thinking>Internal Note: Before filling out this form, please ensure you have permission from all relevant parties to provide personal information. If you are a parent or guardian, you are required to sign on behalf of the participant. Ensure you understand the risks involved in the community event and have read the provided liability waiver. If you have any medical conditions or allergies, please list them in the medical conditions field. The form is divided into two main sections: participant information and emergency contact information. The participant's signature is not required if they are a minor. The participant's emergency contact will be informed in case of an incident. If you have questions or need help, don't hesitate to contact the event organizers.</thinking>
-
 # Community Event Consent Form - Help Guide
 ## Purpose
 This form is for participants to provide consent for attending a community event. It gathers important personal and emergency contact information for the event organizers. It also requires a waiver of liability in case of an incident.

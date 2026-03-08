@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from property owners or managers about their experience with the property contract renewal process. The purpose of the form is to gather feedback and insights to improve the process. It is likely that the form will be used by the property management team or department to evaluate the efficiency and effectiveness of the property contract renewal process.
-
-Before filling out this form, please ensure that you have a clear understanding of what the questions are asking. Review the form carefully before submitting your answers.
-
-It's possible that some users may be familiar with the property contract renewal process and can complete the form quickly. However, it's also possible that some users may need more time and guidance. If you're unsure about any of the questions or fields, feel free to ask for assistance or clarification.
-
-This form is a collection of 6 fields, each serving a specific purpose. Please complete the form according to your understanding of the questions and the information you're being asked to provide.</thinking>
-
 # property_contract_renewal_process_survey - Help Guide
 ## Purpose
 This form is designed to collect information and feedback from property owners or managers about their experience with the property contract renewal process. Your responses will help us improve the process and provide better services.

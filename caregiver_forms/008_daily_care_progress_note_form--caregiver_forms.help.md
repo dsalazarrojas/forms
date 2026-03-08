@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for this form to ensure end-users understand its purpose, how to complete it, and what each field means. After reviewing the provided YAML, I see that the form is called "Daily Care Progress Note Form" in the category of "caregiver_forms". This form appears to be designed for care providers to document daily progress notes for their clients, which is a crucial aspect of patient care and communication. The form is quite simple, with fields for visit details, client status, client comments, care team comments, medications, medical history, and next steps. I will create a help guide that is concrete, concise, and practical, using the provided YAML fields as inspiration.</thinking>
-
 # Daily Care Progress Note Form - Help Guide
 ## Purpose
 The Daily Care Progress Note Form is designed for care providers to document the daily progress of their clients, ensuring accurate and timely communication between care teams. Complete this form to record essential information about each visit, client status, and any relevant comments or updates.

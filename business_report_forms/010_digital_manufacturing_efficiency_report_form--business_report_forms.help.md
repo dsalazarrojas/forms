@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on a specific production shift in a manufacturing process. The form is meant to capture information related to production efficiency, including machine type, duration, quantity, hours worked, start and end times, and any additional notes. This form will likely be used to track and analyze production data for reporting and performance measurement purposes. Before proceeding, ensure that you are authorized to access and submit this form, and that the data you provide is accurate and relevant to the production shift being reported on.
-
-</thinking>
-
 # Digital Manufacturing Efficiency Report Form - Help Guide
 ## Purpose
 

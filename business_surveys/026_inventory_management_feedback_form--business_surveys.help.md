@@ -1,11 +1,3 @@
-<thinking>
-
-The "inventory_management_feedback_form" form is intended to collect feedback on the performance of our business's inventory management systems. This form is designed to allow users to provide suggestions and comments on areas for improvement within our inventory management processes. The information collected through this form will help us refine and update our inventory management practices, enhancing overall performance and customer satisfaction.
-
-The form is divided into multiple pages, each with fields for different aspects of the inventory management system. We are checking for duplicate forms submitted by the same user and within the same day to ensure data accuracy and prevent spam.
-
-</thinking>
-
 # inventory_management_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the performance of our business's inventory management systems, helping us identify areas for improvement and make necessary updates.

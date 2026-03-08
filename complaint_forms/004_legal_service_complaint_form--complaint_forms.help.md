@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to submit a complaint to the legal service team. The form's purpose is to gather details about the complaint, such as the name and contact information of the complainant, description of the issue, and any additional details. The form also includes options for the user to select a complaint category and whether they agree to the terms and conditions.
-
-To ensure that the form is being used correctly, please note that:
-
-* The form has a "Submit" button that will save the form data and send it to the relevant department for review.
-* All fields marked as "required" must be completed before submitting the form.
-* The "Select Complaint Category" field is a dropdown menu with options for the user to select from.
-* The "Review" field is a dropdown menu that asks users to confirm whether they have reviewed the complaint form.
-* The "Agree to Terms and Conditions" field is a dropdown menu that asks users to confirm whether they agree to the terms and conditions.
-
-Please ensure that the form is filled out correctly and completely before submitting it. If you have any questions or concerns, please contact the relevant department for assistance.
-
-</thinking>
-
 # legal_service_complaint_form - Help Guide
 ## Purpose
 The legal service complaint form is designed to collect information from users who wish to submit a complaint to the legal service team. This form helps to gather details about the complaint, which will be reviewed and addressed by the relevant department.

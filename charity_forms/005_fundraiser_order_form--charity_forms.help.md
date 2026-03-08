@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information and details for a fundraiser, allowing donors to input their order details, donation amount, payment method, and other relevant information. This form is intended for use by donors who are making a donation to the organization, and it helps the organization to track the fundraiser's progress and manage the donations effectively. 
-
-Please ensure that each field is filled out correctly and according to the required information for accurate processing of the donor's order. The form is divided into two pages for easy completion. 
-
-Please review each field carefully and fill it out accordingly. If you have any doubts, refer to this help guide for clarity. 
-</thinking>
-
 # Fundraiser Order Form - Help Guide
 ## Purpose
 The Fundraiser Order Form is designed to collect information and details for a fundraiser, allowing donors to input their order details, donation amount, payment method, and other relevant information.

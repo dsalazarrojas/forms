@@ -1,8 +1,3 @@
-<thinking>
-The "metals quality assessment survey" form is designed to collect data on the quality of metal samples. The purpose of this form is to gather information about the metal samples received from customers, including their weight, type, and quality. This form is intended for use by customers to provide feedback on the quality of metal samples they have received.
-Before filling out this form, please ensure that you have not already completed it for the same sample. If you have previously submitted feedback on this sample, your existing feedback will be overwritten. Please take your time to fill out the form accurately, and double-check the information provided to ensure it is correct.
-</thinking>
-
 # metals quality assessment survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the quality of metal samples received from customers.

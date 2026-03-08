@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information related to warranty complaints from customers. The form is meant to be used by customers to report any issues they are experiencing with a product they have purchased from us. The purpose of this form is to provide a standardized way for customers to submit their complaints, which will then be reviewed and addressed by our team.
-
-Before filling out this form, please ensure that you have not already submitted a complaint for the same issue. If you are unsure or have already submitted a complaint, please contact our support team to verify.
-
-This form should take approximately 5-10 minutes to complete.
-
-</thinking>
-
 # Warranty Complaint Form - Help Guide
 ## Purpose
 This form is used to report any issues or defects you have encountered with a product you have purchased from us.

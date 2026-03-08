@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about hiker's experiences and feedback about a specific trail, including trail conditions, difficulty, and other relevant details. The goal is to gather data that can be used for quality control and maintenance of the trails.
-
-Before creating content, please ensure that this form is not a duplicated effort. You should check if a similar form exists within the company, or if there are any existing resources or procedures that address the same purpose.
-
-</thinking>
-
 # Hiking Trip Check Out Form - Help Guide
 ## Purpose
 The Hiking Trip Check Out Form is designed to collect information about hiker's experiences and feedback about a specific trail. This form helps us gather valuable data to improve and maintain our trails for future users.

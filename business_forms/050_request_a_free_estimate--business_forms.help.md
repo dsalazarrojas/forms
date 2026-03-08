@@ -1,5 +1,3 @@
-<thinking>Our team uses this form to gather information about the services you need from us so we can provide you with a free, no-obligation estimate of the cost and time required for your project. This form is meant to help us understand what services you're looking for and ensure that we have all the necessary information to get back to you with an accurate estimate. Please complete this form only if you are a real potential client or customer looking for our services. If you've already spoken with us previously, you may not need to complete this form.</thinking>
-
 # Request A Free Estimate - Help Guide
 ## Purpose
 This form is for customers or potential customers to request a free estimate for our services. Our team will review the information you provide and get back to you with a detailed estimate of the cost and time required for your project.

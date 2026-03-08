@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will walk you through the Machine Commissioning Checklist form, which is a crucial tool for ensuring that machines are properly set up, commissioned, and maintained. 
 
 The form is intended for completion by individuals responsible for commissioning machines in the field. It's essential to fill out this form accurately to guarantee that the machine is in good working condition and that all safety precautions are taken into account.

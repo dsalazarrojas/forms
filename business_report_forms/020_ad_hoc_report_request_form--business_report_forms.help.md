@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture requests for ad-hoc reports from business users. Ad-hoc reports are one-time requests for data or information that are needed for specific business purposes. The form is intended to streamline the process of submitting and managing these requests, ensuring that all necessary information is collected and communicated to the relevant stakeholders. 
-
-The purpose of this form is to reduce duplication of effort and improve the accuracy of report requests by providing a structured and standardized way of capturing requirements. By filling out this form, business users will be able to clearly and concisely communicate their needs to the data team, allowing for faster and more efficient processing and delivery of reports.
-
-This form is not intended to be a replacement for regular or scheduled reporting. If you are looking for reports that will be delivered on a regular basis, please submit your request through the regular reporting channels.
-
-</thinking>
-
 # Ad Hoc Report Request Form - Help Guide
 ## Purpose
 

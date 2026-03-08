@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Transformative Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers on their overall experience with our company. The goal is to understand areas where we excel and areas where we need improvement. Your input will help us refine our services to better meet your needs.

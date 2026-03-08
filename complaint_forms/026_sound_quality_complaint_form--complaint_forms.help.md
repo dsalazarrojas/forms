@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sound Quality Complaint Form - Help Guide
 ## Purpose
 The Sound Quality Complaint Form is used to document and track complaints related to sound quality issues within the organization. This form helps gather information about the complaint, including category, description, and details of the issue. It also captures information about the reporter, location, and status of the complaint.

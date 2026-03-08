@@ -1,7 +1,3 @@
-<thinking>
-This form is used by event planners to request substitution of a catering vendor if the current one cannot fulfill their duties. The request is submitted on behalf of the event, providing details about the event, the reason for the substitution request, and information about the proposed new vendor. This form is designed to gather necessary information for evaluation and decision-making process. Please ensure this form is used for its intended purpose and does not duplicate an existing request. Before submitting this form, please verify that there are no other pending requests for this event or vendor.
-</thinking>
-
 # Catering Vendor Substitution Request Form - Help Guide
 
 ## Purpose

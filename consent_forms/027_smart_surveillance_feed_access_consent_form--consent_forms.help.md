@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Surveillance Feed Access Consent Form - Help Guide
 ## Purpose
 The Smart Surveillance Feed Access Consent Form is used to obtain consent from users for accessing various surveillance feeds. This form is typically used in situations where users need to access surveillance feeds for security, monitoring, or other purposes. 

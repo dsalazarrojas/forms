@@ -1,8 +1,3 @@
-<thinking>
-The form "E Commerce Risk Management Application Form" is used by merchants to submit their applications for risk management. The purpose of this form is to collect information from merchants about their business type, risk level, merchant category, and other relevant details to assess their risk profile. This form is designed for merchants who want to ensure they meet the necessary criteria for operating a business and manage risks associated with e-commerce operations. To avoid duplication of effort, it's best to fill out this form only if you're applying for risk management.
-
-</thinking>
-
 # E Commerce Risk Management Application Form - Help Guide
 
 ## Purpose

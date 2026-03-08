@@ -1,5 +1,3 @@
-<thinking>As a business survey form, this form is used to collect information from various departments within an organization to gauge their focus areas and priorities. Before proceeding, ensure that you are completing this form for a valid reason and that the information you provide is accurate and up-to-date. Please note that this form is not intended for general feedback or comments; focus on providing specific and actionable insights.</thinking>
-
 # Focus Areas Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the focus areas and priorities of various departments within an organization.

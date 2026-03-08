@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed for applicants who wish to join the Christmas choir. The form requires basic contact information, such as name and email. It also asks about the applicant's age group, musical background, and singing experience. Applicants must declare their singing experience level, vocal range, and preferred choir section. Furthermore, they are asked about their previous choir experience, music genres, availability for rehearsals and performances, and transportation needs. Finally, they must provide a motivation for why they want to join the choir.
-
-</thinking>
-
 # Christmas Choir Application Form - Help Guide
 ## Purpose
 The Christmas Choir Application Form is designed for individuals who wish to join the Christmas choir. The form collects information about the applicant's personal details, musical background, and preferences for participation in the choir.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to measure the impact of social exposure on business surveys. It's used to collect data on the reach and influence of social media channels, as well as the awareness and engagement of participants. This form is likely used in marketing or campaign analysis contexts to gauge the effectiveness of social media campaigns. To complete this form, you need to answer the questions in the following steps: 1) Select one or multiple options from the social media channels dropdown menu, 2) Provide brief comments about the selected options, 3) Select a rating for the overall survey, 4) Add any additional notes about the survey, 5) Select one option for the social channels comments, 6) Select one option for the survey awareness, 7) Select multiple or one option for the social channels influence, 8) Select one option for the social media channels awareness, 9) Select multiple or one option for the social media channels influence, 10) Confirm if participants were affected by social media, 11) Add the name of the campaign, 12) Add any additional notes about the campaign, 13) Select one option for the survey participants awareness, 14) Select one option for the survey participants influence, 15) Select multiple or one option for the survey participants influence. Please note that some fields are not required, and you can skip them if they don't apply to your use case. 
-
-</thinking>
-
 # Social Exposure Impact Survey - Help Guide
 ## Purpose
 The Social Exposure Impact Survey is designed to measure the effectiveness of social media campaigns in terms of reach, awareness, and influence on the target audience.

@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to collect information from individuals interested in the 12 Minute Affiliate System Marketing System. The form is used to gather personal and contact information, as well as technical preferences and agreements for the system. The fields are divided into sections to make it easier for users to navigate and provide clear labels and hints for each section. This form is designed to be completed by people interested in online marketing and affiliate systems, and it should not be used for any other purpose. 
-
-It's worth noting that some fields, such as the "date of birth" field, will be auto-calculated based on the "date of birth" input. The form should be completed in a logical order, starting with personal information, followed by contact information, and so on. 
-
-</thinking>
-
 # 12 Minute Affiliate System Marketing System - Help Guide
 ## Purpose
 The 12 Minute Affiliate System Marketing System is a platform designed to help individuals interested in online marketing and affiliate systems. This guide will walk you through the form to help you complete it accurately and efficiently.

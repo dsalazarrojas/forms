@@ -1,13 +1,3 @@
-<thinking>
-The form is designed to be a comprehensive application form for the Enablement Consulting Cohort program. It's intended for individuals interested in joining a cohort, which is a group of people going through a structured learning process together. 
-
-To use this form, you'll need to confirm you're applying to a cohort. If you're not, you can exit this application process now. If you're already a part of a cohort, please confirm your application status first, to avoid duplicates. The form has several fields asking for various information about yourself and your interest in the cohort. 
-
-Please note that some fields are required, indicated by an asterisk (*). Ensure you fill out all required fields accurately. 
-
-This guide will walk you through each field in the form and what's required of you.
-</thinking>
-
 # enablement_consulting_cohort_application_form - Help Guide
 ## Purpose
 

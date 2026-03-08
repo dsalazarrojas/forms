@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Maintenance Frequency Survey - Help Guide
 ## Purpose
 The Building Maintenance Frequency Survey aims to collect information about your building's maintenance schedule. This survey will help identify areas that need improvement and provide valuable insights for maintaining a safe and healthy environment. Please answer the questions honestly, and provide as much detail as possible.

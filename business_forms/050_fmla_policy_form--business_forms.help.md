@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a template for a Family Medical Leave Act (FMLA) policy form. The purpose of this form is to collect information about an employee's leave of absence, likely for a medical reason. The form will be used to record and process employee requests for leave, ensuring that all necessary details are captured for compliance and administrative purposes. This form should only be used for legitimate FMLA-related purposes, and users should not attempt to use it for other purposes, such as vacation or vacation leave. If you are unsure whether this form is suitable for your specific use case, please consult with your HR department or manager before proceeding.
-
-Please note that this form was generated based on public metadata and is an original adaptation, not an exact replica of any existing form platform. As such, it is free for use, modification, and distribution under the terms of the CC BY 4.0 license.
-
-</thinking>
-
 # fmla_policy_form - Help Guide
 ## Purpose
 The FMLA policy form is a tool to help employees request and record leave for family and medical reasons. It captures necessary information to ensure compliance with the Family Medical Leave Act.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a crucial tool for attendees to provide essential information for our Peer To Peer events. The form will help event organizers collect vital details from attendees, including their role preferences and contact information. To ensure a smooth event experience, it's essential to fill out the form accurately and completely. This guide will walk you through each field to help you complete it correctly.
-
-</thinking>
-
 # Peer To Peer Event Registration - Help Guide
 ## Purpose
 The Peer To Peer Event Registration form is designed to collect information from attendees for our Peer To Peer events. This form will help event organizers prepare for the event, ensuring that attendees have a fantastic experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with cancer care surgery. It's crucial to understand that this form is a template and should be reviewed by medical professionals for accuracy and relevance before being used in actual clinical settings. Please ensure that the form's content is tailored to your institution's specific needs and that the questions align with your organization's goals and objectives. It's also essential to note that this form might not cover every possible scenario or question that may be relevant, and users should use their discretion when using it in their practice.
-</thinking>
-
 # CAHPS Cancer Care Surgery Survey - Help Guide
 
 ## Purpose

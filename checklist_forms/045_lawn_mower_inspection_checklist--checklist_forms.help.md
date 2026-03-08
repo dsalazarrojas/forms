@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist for inspecting a lawn mower, designed to help users ensure that the mower is in good working condition. The form is used to collect information about the mower's model number, location, oil level, air filter condition, and other critical areas. By completing this form, users can identify any issues that need to be addressed to maintain the mower's performance and longevity. This form is not intended for users who are unsure about lawn mower inspection procedures or are new to this type of inspection. Please ensure you are familiar with lawn mower maintenance and repair before attempting to use this form. 
-</thinking>
-
 # lawn_mower_inspection_checklist_checklist_forms - Help Guide
 ## Purpose
 

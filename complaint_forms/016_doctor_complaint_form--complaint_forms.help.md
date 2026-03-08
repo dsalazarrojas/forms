@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for a "Doctor Complaint Form" that is easy to follow and understand for end-users. This form is designed to collect feedback from patients regarding their experience with a doctor. The form is composed of multiple fields that cater to different aspects of the doctor's performance, such as medical services, service quality, doctor's name, and patient satisfaction.
-</thinking>
-
 # Doctor Complaint Form - Help Guide
 ## Purpose
 This form is intended to help patients express their concerns or complaints about their experience with a doctor. It provides a platform for patients to provide feedback on the doctor's performance, medical services, and overall care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from the end-users on production and marketing aspects of a business. The purpose of this form is to collect information about the production and marketing activities. Non-duplication checks should be performed to avoid unnecessary data entry.
-</thinking>
-
 # Production And Marketing Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from end-users on production and marketing aspects of the business. This survey aims to collect information about whether a particular activity is being used for production purposes or for marketing activities, and to gather feedback from customers and products used in the production process.

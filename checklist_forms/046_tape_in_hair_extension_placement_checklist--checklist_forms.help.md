@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-  
 # tape_in_hair_extension_placement_checklist - Help Guide
 ## Purpose
 The Tape In Hair Extension Placement Checklist is a tool used by professionals in the hair industry to ensure accurate and consistent placement of tape-in hair extensions. This form helps in identifying the type of hair, length, and other relevant details of the client's hair, enabling a more precise and personalized hair extension placement process.

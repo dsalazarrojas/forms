@@ -1,7 +1,3 @@
-<thinking>
-This guide will outline the purpose of the Psychiatric Treatment Permission Form, how to complete it, and a field-by-field explanation of each section. This form is intended for patients and their legal representatives to provide informed consent for psychiatric treatment. Before filling out this form, ensure you have reviewed the information with the patient and their family members or legal representatives if necessary, and that the form has not been previously completed.
-</thinking>
-
 # Psychiatric Treatment Permission Form - Help Guide
 
 ## Purpose

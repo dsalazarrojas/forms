@@ -1,8 +1,3 @@
-<thinking>
-To check for relevance, we need to determine the purpose of this form. Based on the provided YAML, the form seems to be designed to request specific details for a digital ad performance report. The form includes fields for campaign details, metrics, ad type, ad channel, ad placement, ad size, ad budget, report frequency, report type, date range format, report format, additional details, and other relevant information. It appears to be intended for users who want to customize their digital ad performance reports to suit their needs.
-To check for non-duplication, we will review each field to ensure that there are no unnecessary or redundant fields. After reviewing the form, it seems that most fields have a specific purpose and are not redundant. However, there are some fields that could be combined or simplified, such as "report_frequency" and "report_frequency_2", which seem to serve similar purposes. Additionally, "report_format" and "date_range_format" also seem to be related.
-</thinking>
-
 # Digital Ad Performance Report Request Form - Help Guide
 ## Purpose
 This form is used to request a digital ad performance report. Please provide the required information to customize your report according to your needs.

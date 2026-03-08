@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for corporate event pass reservations. It is intended for employees of a company to reserve passes for their company's events. To ensure that you are viewing the correct guide, please confirm that you are an employee of the company and that you are attempting to reserve passes for an upcoming corporate event.
-
-The form is divided into sections for company information and attendee details. 
-
-The form will be used in conjunction with other tools, so ensure that your data is accurate and up-to-date.
-</thinking>
-
 # Corporate Event Pass Reservation - Help Guide
 
 ## Purpose

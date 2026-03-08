@@ -1,6 +1,3 @@
-<thinking> 
-This form is for in-door air sensor activation consent. It requires user consent for indoor air sensor activation. Each field is a required input unless otherwise specified. This form is for users who need to provide their personal information and consent for indoor air sensor activation. It seems there should be no duplicate forms for this purpose in the organization.</thinking>
-
 # indoor_air_sensor_activation_consent_form - Help Guide
 ## Purpose
 The indoor air sensor activation consent form is used to obtain consent from users for the activation of indoor air sensors. This form is necessary to ensure that users understand and agree to the activation of these sensors, which may collect personal data.

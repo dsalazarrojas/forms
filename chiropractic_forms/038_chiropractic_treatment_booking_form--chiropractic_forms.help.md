@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from patients for chiropractic treatment booking purposes. It includes patient demographics, medical history, and appointment preferences. The form is divided into several sections: Patient Information, Appointment Preferences, and Insurance and Medical Information. The fields are designed to be clear and concise, with hints and explanations provided to help patients understand what information is required. The form is intended to be completed by patients prior to their initial consultation or appointment with a chiropractor... </thinking>
-
 # Chiropractic Treatment Booking Form - Help Guide
 ## Purpose
 The Chiropractic Treatment Booking Form is designed to collect necessary information from patients for their initial consultation or appointment with a chiropractor. This form helps us to better understand your medical history and preferences to provide effective treatment.

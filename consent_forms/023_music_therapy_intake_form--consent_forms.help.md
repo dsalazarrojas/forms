@@ -1,7 +1,3 @@
-<thinking>
-The music therapy intake form is designed to gather essential information from patients to help therapists provide effective and personalized music therapy services. This form should be used by patients or their representatives to complete their medical history, contact information, and other relevant details. Please ensure that all required fields are completed before submitting the form. This form is intended for use in a clinical or medical setting where music therapy is offered as a treatment or complementary therapy. Please note that this form is designed to collect sensitive information, so ensure that it's filled out honestly and accurately.
-</thinking>
-
 # music_therapy_intake_form - Help Guide
 ## Purpose
 The music therapy intake form is designed to collect essential information from patients to help therapists provide effective and personalized music therapy services.

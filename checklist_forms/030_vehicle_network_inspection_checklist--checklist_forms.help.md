@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vehicle_network_inspection_checklist - Help Guide
 ## Purpose
 The Vehicle Network Inspection Checklist is a form designed to facilitate the inspection of vehicles in a network setting. It helps to ensure that all essential systems and components are checked and documented during the inspection process. This form is a comprehensive tool for network inspectors to gather and document critical information about the vehicle's condition, systems, and components.

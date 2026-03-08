@@ -1,9 +1,3 @@
-<thinking> 
-This form template is designed to collect information from clients for a salon evaluation purpose. It's intended for use by staff members of Thrivers Society, who will be evaluating the client's salons. The form is meant to be used for internal purposes only, and the information collected will not be shared with the client. 
-
-Please note that this form should only be used by authorized staff members of Thrivers Society. If you're not a staff member, please do not use this form. 
-</thinking>
-
 # thrivers_society_digital_consultation_template - Help Guide
 ## Purpose
 The **Thrivers Society Digital Consultation Template** is a form designed to collect information from clients for evaluation purposes. This form is intended for internal use by Thrivers Society staff members only.

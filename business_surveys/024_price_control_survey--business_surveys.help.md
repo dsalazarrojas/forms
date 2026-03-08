@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and fields are likely related to assessing customers' perceptions about price control and their price-related preferences or expectations.
-</thinking>
-
 # Price Control Survey - Help Guide
 ## Purpose
 This form is designed to gather information about customers' perceptions and expectations related to price control, allowing you to understand their price-related needs and preferences.

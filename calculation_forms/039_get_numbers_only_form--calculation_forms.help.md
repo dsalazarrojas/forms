@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: To collect user demographic data, specifically names and contact information.
-This form is designed to gather first and last names and email addresses from users.
-The form will likely be used for marketing, sales, or user engagement purposes.
-This form was not created using any proprietary form platform, but rather generated based on public metadata.
-</thinking>
-
 # get_numbers_only_form - Help Guide
 ## Purpose
 The get_numbers_only_form is designed to collect user demographic data, specifically names and contact information.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for onboarding financing agreements between a company and a customer. It captures information such as customer ID, financing requested amount, financing term, and other relevant details. The form is likely used for internal record-keeping and to establish a contract between the company and the customer. It is crucial to fill out this form accurately to avoid any confusion or disputes in the future. It is also essential to ensure that the correct version of the agreement is signed, and the form is filled out correctly to avoid any errors. Please note that this form has several fields that require specific information, such as customer ID, financing requested amount, and date, time, and other details. It is recommended to fill out the form carefully and accurately to avoid any issues.
-
-</thinking>
-
 # Onboarding Financing Agreement - Help Guide
 ## Purpose
 The Onboarding Financing Agreement form is used to document the terms of a financing agreement between a company and a customer. It ensures that both parties have a clear understanding of the agreement's terms and conditions.

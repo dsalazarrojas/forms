@@ -1,9 +1,3 @@
-<thinking>
-This form is used for collecting feedback and data on the eSIM Profile Management system from various stakeholders. The form is designed to gather information on the current state of the eSIM Profile Management, including feedback, concerns, and ideas for improvement. The form has multiple sections for collecting data from different groups, including telecom teams, product managers, UX researchers, and others. Each section is designed to gather specific information from each group, allowing for a comprehensive understanding of the system's strengths and weaknesses. This form is essential for the development and improvement of the eSIM Profile Management system.
-
-Before starting the form, please make sure you have reviewed the form carefully and understand the questions and sections. If you have already completed this form, please do not repeat your responses. Thank you for your time and input!
-
-</thinking>
 # ESIM Profile Management Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and data on the eSIM Profile Management system from various stakeholders, including telecom teams, product managers, UX researchers, and others.

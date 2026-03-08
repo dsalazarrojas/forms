@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Learning Agreement Form - Help Guide
 ## Purpose
 This online learning agreement form is designed to capture essential information and agreements from users, particularly relevant to online courses or training programs. It's meant to be a standard template for various types of online learning programs, such as courses, workshops, or conferences.

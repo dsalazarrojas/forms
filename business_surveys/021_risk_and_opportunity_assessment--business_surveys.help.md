@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to assess and document risks and opportunities within a business. It helps identify potential threats and chances for growth or improvement, and is likely used for risk management and business development activities. To ensure this form is completed effectively, make sure to:
-  - Only submit this form for risks and opportunities within the organization, and avoid duplicating efforts by reusing previously assessed items.
-  - Complete all required fields, marked with a "required" label.
-  - Select relevant options and provide detailed descriptions where applicable.
-  - Review your submission carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Risk And Opportunity Assessment - Help Guide
 ## Purpose
 The Risk And Opportunity Assessment form is used to identify and document potential risks and opportunities within the organization. This form helps assess the impact, likelihood, and actions needed to address threats, as well as the owner and their contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is for the Tournament Spectator Facilities Survey, a form used to gather information from event organizers and attendees about the spectator facilities of a tournament event. This survey is used to evaluate the spectator facilities of a tournament event. Please answer the questions honestly to provide accurate information. 
 
 Please note that you will need to complete this form if you have experience with the spectator facilities of a tournament event.

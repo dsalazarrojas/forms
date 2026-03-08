@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning behind the form purpose and non-duplication checks:
 
 The purpose of this form is to collect pledges and donations from church members and visitors. The form is designed to be simple and easy to fill out, with fields for different types of pledges and donations, such as campaign pledges, tithe pledges, offering pledges, and building fund pledges. The form also allows for recurring and one-time pledges, and includes fields for donor details and contact information. 

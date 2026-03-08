@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture a participant's or guardian's consent for the filming and recording of their image, voice, and actions for educational and promotional purposes. The form is used for the Community Health Initiative, a program that aims to document and analyze health trends in a specific community. The form must be filled out by participants or their guardians if they are under 18 years old.
-
-</thinking>
-
 # Community Health Initiative Filming Consent Form - Help Guide
 
 ## Purpose

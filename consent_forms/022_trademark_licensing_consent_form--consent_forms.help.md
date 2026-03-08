@@ -1,28 +1,3 @@
-<thinking>
-This form is designed to be used by end-users to provide consent for trademark licensing. The form should only be used when a user needs to grant permission for another party to use their trademark. This form is not for obtaining a trademark but rather for granting permission to use one that already exists. The fields on this form require the user to select the type of trademark licensing consent they are providing, the trademark owner or agent, the date the consent was issued, the date it is effective until, a description of the trademark, and any images associated with the trademark. 
-
-This form is designed to be completed once and only by the trademark owner or agent. 
-
-This form does not replace the existing trademark application process. 
-
-The user is not required to provide any information for this form unless it is marked as "required" in the field. 
-
-This form will not be used for any other purpose other than trademark licensing consent. 
-
-This form will not be used to collect any information that would identify any protected personal data. 
-
-This form will not be shared with any third party unless specifically required for trademark licensing consent. 
-
-The user will only be able to access and complete this form if they have access to the relevant system or application where the form is hosted. 
-
-This form will only be used to store information that is necessary for trademark licensing consent. 
-
-This form will not be used to store any information that is not necessary for trademark licensing consent. 
-
-This form will only be completed once per trademark licensing consent.
-
-</thinking>
-
 # Trademark Licensing Consent Form - Help Guide
 ## Purpose
 This form is used to provide consent for trademark licensing, allowing another party to use a trademark that already exists.

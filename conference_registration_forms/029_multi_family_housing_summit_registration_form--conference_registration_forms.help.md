@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Multi Family Housing Summit Registration Form. The form is used to collect information from attendees to the summit, which will be used to plan and accommodate their needs. The form is not intended to collect sensitive or personal information and is designed to be completed by individuals who have already decided to attend the summit. 
-
-The form is not designed to collect redundant or non-essential information and every field is there for a reason, even if the required flag is set to false. Each field's label will be explained in detail below, so readers can fill out the form with confidence. 
-
-Please note that some of the fields may seem redundant or non-essential, but they are actually important for planning purposes and attendee experiences.
-</thinking>
-
 # Multi Family Housing Summit Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees to the Multi Family Housing Summit. Please fill out this form to let us know your preferences and needs for the event.

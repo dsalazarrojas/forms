@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect data and information from artists and art students seeking guidance on improving their wildlife art skills. The form should be completed by artists and art students who are currently taking or have taken art classes or workshops, or by coaches who are offering guidance and feedback on their art. Please ensure that you have the necessary permissions to collect and use the data from this form and that you are not duplicating any existing forms used in your organization. </thinking>
-
 # Wildlife Art Coaching Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from artists and art students seeking guidance on improving their wildlife art skills. It helps coaches provide personalized feedback and guidance to help artists and art students achieve their artistic goals.

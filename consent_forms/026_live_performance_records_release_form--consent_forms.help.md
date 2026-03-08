@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to obtain the consent of a live performance artist to release their live performance records. The purpose of this form is to ensure that the artist is aware of and consents to the release of their live performance records, which may include video, audio, and photographs. This form is typically used by event organizers or managers to gather the necessary information and consent from the artist before releasing the records to the public or for promotional purposes. The form may be used for events such as concerts, festivals, or other performances where the artist's live recordings are captured and potentially shared with the public.
-
-To ensure that the form is filled out correctly, please review the following instructions and explanations for each field:
-
-</thinking>
-
 # Live Performance Records Release Form - Help Guide
 ## Purpose
 The Live Performance Records Release Form is used to obtain the consent of a live performance artist to release their recorded performance. This form helps ensure that the artist is aware of and consents to the release of their records.

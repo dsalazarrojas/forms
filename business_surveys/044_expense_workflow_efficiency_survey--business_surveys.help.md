@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you complete the Expense Workflow Efficiency Survey, which aims to gather feedback on the efficiency of your expense processing workflow within the company. Please ensure you are filling out this form in relation to your own role and experience within the company. If you have filled out this survey before, please note that your responses will be anonymous and will not affect your individual work or performance evaluation. This form is designed to be completed by all employees, regardless of their role or department, to provide a comprehensive understanding of the current state of the expense workflow.
-</thinking>
-
 # Expense Workflow Efficiency Survey - Help Guide
 ## Purpose
 The Expense Workflow Efficiency Survey is a tool used to gather feedback on the efficiency of your expense processing workflow. This survey aims to identify areas of improvement and provide insights to enhance the overall experience of submitting and processing expenses within the company.

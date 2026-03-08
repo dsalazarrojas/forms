@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect information from parents or guardians of a child about the child's health and medical history. The purpose of this form is to provide a pediatrician with a comprehensive overview of the child's condition, allowing them to make an informed diagnosis and treatment plan. This information will be used to assess the child's symptoms and medical history, and to guide the pediatrician in their evaluation and treatment of the child.
-
-</thinking>
-
 # Pediatric Symptom Checklist - Help Guide
 
 ## Purpose

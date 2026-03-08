@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to guide users in assessing and monitoring security risks and compliance requirements for their organization. The purpose of this form is to help users identify and document potential risks and areas of non-compliance. By completing this form, users can ensure they are meeting their organization's security and compliance requirements and identify areas for improvement.
-
-The form consists of multiple pages, each with a specific set of questions or prompts to help users assess different aspects of security and compliance.
-
-This form is intended to be used by security and compliance officers, risk managers, and other personnel responsible for ensuring the security and compliance of their organization.
-
-Before starting the form, users should have some knowledge of their organization's security and compliance policies and procedures.
-
-After completing this form, users should review their answers carefully and take note of any areas that require further action or attention.
-
-</thinking>
-
 # Security Risk And Compliance Monitoring Checklist - Help Guide
 
 ## Purpose

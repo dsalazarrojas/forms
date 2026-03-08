@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide explains how to complete the "New Vendor Setup Form" in a clear and concise manner. 
-
-This form is designed to collect information from new vendors to set up their account and facilitate their integration with our platform. It is crucial that vendors provide accurate and complete information to ensure a smooth onboarding process. Please note that this form is not a replacement for the actual vendor agreement or other contractual documents. It is only a supporting form to help us better understand your requirements and needs. 
-
-To avoid any confusion or duplication, please make sure to fill in all the required fields and only those that are marked as required. 
-
-</thinking>
-
 # New Vendor Setup Form - Help Guide
 ## Purpose
 This form is used to set up a new vendor account with our platform, ensuring that we have the necessary information to provide a smooth and efficient service.

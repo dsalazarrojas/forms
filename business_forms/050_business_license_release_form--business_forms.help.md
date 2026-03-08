@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for an organization to release a business license. The purpose of this form is to gather information for the formal release of a business license. This form is not intended for the issuance of a new license, but rather for the relinquishment of an existing one. Before proceeding, ensure that the license is up to date and there are no outstanding fees or issues that need to be addressed.
-
-This guide will walk you through the process of completing the Business License Release Form.
-
-</thinking>
-
 # Business License Release Form - Help Guide
 ## Purpose
 The Business License Release Form is used to formally release a business license. This form is used to provide all necessary information for the release of an existing business license. It is essential to ensure that the license is up to date and there are no outstanding fees or issues before proceeding with the release.

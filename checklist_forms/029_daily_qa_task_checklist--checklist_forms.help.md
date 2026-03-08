@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I will briefly explain the internal reasoning behind the form's purpose and potential issues with duplication or non-relevance. The "Daily QA Task Checklist" form appears to be a simple, generic checklist for Quality Assurance (QA) tasks. However, without more specific context or information about the target audience or the exact business process, it's hard to determine the form's intended use case and potential areas for improvement. Assuming it's a basic tool for QA team members to log and track tasks and issues, I will create a help guide based on the provided YAML fields, focusing on clarity and conciseness.</thinking>
-
 # Daily QA Task Checklist - Help Guide
 ## Purpose
 The "Daily QA Task Checklist" form is designed to help QA team members document and track their daily tasks and issues. This form serves as a simple, easy-to-use template for recording information about tasks, departments, and issues encountered during testing and quality assurance processes.

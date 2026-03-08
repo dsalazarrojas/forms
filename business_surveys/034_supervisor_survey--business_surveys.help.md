@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from supervisors about upcoming events or meetings. This form is likely used to schedule and organize events, track attendance, and communicate with managers and attendees. Before proceeding, make sure you have reviewed the event schedule and have necessary information ready to input into the form. Also, ensure that you are not duplicating effort by checking if a similar survey has already been created for the same event.
-</thinking>
-
 # Supervisor Survey - Help Guide
 ## Purpose
 The Supervisor Survey is a form used to collect information from supervisors about upcoming events or meetings.

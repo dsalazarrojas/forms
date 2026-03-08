@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form is used correctly, please confirm that the form's purpose and content align with the company's policies and procedures on harassment reporting. Additionally, please check that no similar forms are in use or have been previously filled out. This form is intended for reporting incidents of harassment. It should not be used for other types of reporting, such as complaints or suggestions. Each page and field should be filled out carefully to provide a complete and accurate account of the incident.
-
-</thinking>
-
 # Harassment Report Form - Help Guide
 ## Purpose
 The Harassment Report Form is used to report incidents of harassment that have occurred within the company or organization. The form is designed to gather information about the incident and provide a clear and concise way to report such incidents.

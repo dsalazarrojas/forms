@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to understand the form's purpose and provide clear instructions on how to complete it. This form is designed to collect information on the Global Human Rights Awareness Survey, which aims to assess individuals' awareness and attitudes towards human rights in various aspects of their lives. The form is composed of multiple questions that cover different aspects of human rights, including knowledge, attitudes, experiences, and beliefs. 
-
-To ensure that the form is completed correctly and accurately, it is essential to provide clear guidance on each field's purpose and requirements. The form is divided into several pages, each with its own set of questions. 
-
-Before starting the survey, it is crucial to understand that some questions may have specific options that are not straightforward, such as "Undecided" or "Depends." These options should be carefully explained to ensure that users understand their meaning and usage. For example, "Undecided" might mean that the respondent is unsure or has no clear opinion, while "Depends" could imply that the answer depends on the context or specific circumstances.
-
-</thinking>
-
 # Global Human Rights Awareness Survey - Help Guide
 ## Purpose
 

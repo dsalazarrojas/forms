@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering attendees for the EXPORTERS BUSINESS SEMINAR on March 17, 2020. It is intended for individuals who want to attend the seminar and provide necessary information to facilitate their registration. This form should only be completed by individuals who are actually planning to attend the seminar and not by people who are simply testing the form or providing information for someone else.
-
-</thinking>
-
 # EXPORTERS BUSINESS SEMINAR (17 Mar 2020) - Help Guide
 ## Purpose
 This form collects information from attendees to register for the EXPORTERS BUSINESS SEMINAR on March 17, 2020.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to help organizations gather data about employee retention rates and strategies, as well as common challenges faced by employees, types of feedback given to employees, and participation in retention programs. This form is designed to be completed by employees to provide their perspective on these topics, which will help managers and HR departments understand the state of employee retention in the organization. Please note that this form is optional and should only be completed if the information is relevant and not duplicated.
-
-</thinking>
-
 # Employee Retention Benchmark Survey - Help Guide
 ## Purpose
 

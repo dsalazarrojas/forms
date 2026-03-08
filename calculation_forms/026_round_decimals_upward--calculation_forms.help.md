@@ -1,7 +1,3 @@
-<thinking>
-This form is used to round up decimal numbers. This form is only relevant for users who need to round up decimal numbers for calculations. This form is not intended for users who need to round down or perform other mathematical operations. It's essential to fill in the form correctly to get the expected results. This form has only three fields, all of which are required. The first field is "first input", which is the initial decimal number. The second field is "number to round", which is the number of decimal places to round up to. The third field is "output", which is the result of the rounding operation.
-</thinking>
-
 # Round Decimals Upward - Help Guide
 ## Purpose
 This form is used to round up decimal numbers for calculations.

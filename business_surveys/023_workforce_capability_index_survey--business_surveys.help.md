@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting employee performance data from their managers, specifically assessing the workforce's capability in various areas such as skills, assessment type, and comments. It appears to be part of a larger HR or performance management system. However, I'd like to clarify that I'll base my response on the provided YAML structure without making any assumptions about the business context or logic behind it. I'll focus on explaining the form purpose, fields, and how to complete it in a user-friendly and concise manner.
-</thinking>
-
 # Workforce Capability Index Survey - Help Guide
 ## Purpose
 The Workforce Capability Index Survey is designed to collect information from employees about their manager's feedback and assessment of their skills, performance, and areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Form Calculation: Math Function Reference Months() - Help Guide
 ## Purpose
 This form is designed to allow users to reference months for use in mathematical calculations.

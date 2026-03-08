@@ -1,14 +1,3 @@
-<thinking>
-This form is used to help users set up and configure their e-commerce store settings for a specific store. The form is meant to be filled out by users who want to customize their store settings in order to get started with selling products online. To ensure that users understand the form's purpose and what each field represents, it is essential to follow these guidelines for filling out the form correctly.
-
-Firstly, please note that this form is not to be used for general store settings configuration but for a specific store setup, which may involve checking or unchecking items to indicate the status of various store features and services.
-
-Please make sure to fill out this form only when it is relevant to your store setup. If you fill out this form for multiple stores, please create a new instance of the form for each store to avoid confusion and potential data misinterpretation.
-
-Now, let us break down each field and its purpose:
-
-</thinking>
-
 # e_commerce_store_checklist_form - Help Guide
 
 ## Purpose

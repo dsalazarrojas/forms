@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form "home_finish_selections_checklist" is completed accurately, please confirm the form purpose and check for duplicate entries. This form is intended for users to select various finish selections related to their project, including flooring, paint, cabinetry, and other selections. Each field in this form is designed to collect specific information about these selections. Please review each field carefully to ensure accurate completion.
-</thinking>
-
 # home_finish_selections_checklist - Help Guide
 ## Purpose
 This form is designed to collect information about finish selections for a project. It includes fields for flooring, paint, cabinetry, and other selections.

@@ -1,5 +1,3 @@
-<thinking>...To determine if a Santa Helper is suitable for a particular task, we must consider their availability and skillset. This form is used to gather information about potential Santa Helpers, ensuring that we can match them with the right tasks and deployment schedule. To avoid duplication, we only require one submission per individual. Please ensure that your submission is accurate and thorough.</thinking>
-
 # Santa Helper Application Form - Help Guide
 ## Purpose
 The Santa Helper Application Form is used to gather information about potential Santa Helpers. This form is designed to match helpers with suitable tasks and deployment schedules.

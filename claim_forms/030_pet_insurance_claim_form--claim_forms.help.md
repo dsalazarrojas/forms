@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a pet's insurance claim, allowing policyholders to file a claim for medical expenses or other covered services related to their pet's care. 
-</thinking>
-
 # Pet Insurance Claim Form - Help Guide
 ## Purpose
 This form is used to submit a claim for your pet's insurance coverage. Please fill out the form accurately and completely to ensure that your claim is processed efficiently.

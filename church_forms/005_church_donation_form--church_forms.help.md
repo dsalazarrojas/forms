@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to provide their donations to the church. The purpose of this form is to gather donor information, including their name, contact details, donation preferences, and payment method. This form helps the church track and acknowledge donations, and also sends receipts to donors via email or mail. It includes various fields to collect information about the donation, such as the amount, frequency, and method of payment.
-
-Before proceeding, please ensure that you are not duplicating your donation to the same fund, and that your donation is in line with your personal or employer's gift policies. If you have any questions or concerns, please contact us directly.
-
-The form is structured in a way that guides the user through each step of the donation process.
-
-This form has several fields, and we will walk through each one below.</thinking>
-
 # Church Donation Form - Help Guide
 
 ## Purpose

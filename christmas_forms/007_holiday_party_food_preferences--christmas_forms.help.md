@@ -1,16 +1,3 @@
-<thinking>
-The form "holiday_party_food_preferences" is intended to gather information from guests about their preferences and needs for an upcoming holiday party. This includes their dietary restrictions, allergies, and favorite foods, as well as details about their attendance, such as the number of guests and their guest names. The form also asks about the dress code and party theme, allowing the party host to tailor the event to their guests' preferences. This form is likely to be used by event planners or hosts to collect necessary information from guests before the party.
-
-The form will help the host in several ways:
-- It provides a clear and efficient way to collect guest information.
-- It allows the host to tailor the party to the guests' needs and preferences.
-- It helps the host plan the event's menu and arrangements based on guests' dietary restrictions and allergies.
-- It ensures a smooth and enjoyable experience for the guests and the host.
-
-This guide will cover the purpose and usage of each field in the form to help users complete it effectively.
-
-</thinking>
-
 # holiday_party_food_preferences - Help Guide
 ## Purpose
 This form is designed to gather information from guests about their preferences and needs for an upcoming holiday party.

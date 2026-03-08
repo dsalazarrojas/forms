@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a business report submission form. It collects information related to an organization's report, including its name, report year, type, and submission details. The form seems to be designed for internal business purposes, possibly for tracking and managing reports from various organizations.
-The form has multiple fields, including some that are required and others that are optional. Some fields are text inputs, while others are select options or date/time inputs. The "Organization Type" field is a select option with two possible values, "Yes" or "No".
-Before proceeding, ensure that the "Report Year" field is correctly filled out, as it is a required field. Also, verify that you have selected a valid "Report Type" and "Organization Type". Note that the "Report URL" field is optional but can be used to attach supporting documents.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide provides a walkthrough on how to complete the Business Report Form for submitting reports.

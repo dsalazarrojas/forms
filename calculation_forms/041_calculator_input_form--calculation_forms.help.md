@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect inputs from users to perform mathematical calculations. The form includes fields for user identification, calculation settings, and result display. It also asks for the purpose of the calculation and whether the user wants to save or send the results. The form is likely used in business, education, or research settings where calculations are required, but I'm not sure what specific business logic this form is trying to support. The form fields and their descriptions are well-defined, but some may be subject to change based on the specific business logic or intended use case.
-</thinking>
-
 # Calculator Input Form - Help Guide
 ## Purpose
 The purpose of this form is to collect user inputs for mathematical calculations. This form is intended for various use cases, including business, education, and research purposes.

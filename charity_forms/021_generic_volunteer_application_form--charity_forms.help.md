@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Generic Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering with our organization. The data collected will be used to determine suitability and assign volunteers to available opportunities.

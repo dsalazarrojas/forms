@@ -1,17 +1,3 @@
-<thinking>
-The Shift Note Compliance Survey form is designed to collect information from team leads and shift leads regarding their compliance with certain guidelines. The form should be completed by team leads and shift leads to indicate their responses to questions about their compliance. This information will be used to monitor and ensure compliance with company policies. It is recommended that team leads and shift leads complete this form on a regular basis to maintain accurate records and ensure they are aware of any issues that need to be addressed.
-
-To complete this form, team leads and shift leads should select their responses to the questions about their compliance, enter any additional notes, and provide their contact information.
-
-The form is divided into two main sections: Team Shift Compliance and Additional Information. In the Team Shift Compliance section, team leads and shift leads will answer questions about their compliance with certain guidelines. In the Additional Information section, they can enter any additional notes and provide their contact information.
-
-The form is not meant to be completed for every shift, only for those that require additional scrutiny. It is recommended that team leads and shift leads complete this form on a regular basis to maintain accurate records and ensure they are aware of any issues that need to be addressed.
-
-Before completing this form, team leads and shift leads should ensure that they are aware of the guidelines and policies that the form is asking about. If they are unsure of their responses, it is recommended that they review the guidelines and policies prior to completing the form.
-
-The form should be completed by team leads and shift leads in their own work hours, and not during their regular work hours. They should also ensure that they are not duplicating their responses, as the form is designed to collect unique information for each team lead and shift lead.
-</thinking>
-
 # Shift Note Compliance Survey - Help Guide
 ## Purpose
 The Shift Note Compliance Survey form is designed to collect information from team leads and shift leads regarding their compliance with company policies. The form is meant to be completed on a regular basis to maintain accurate records and ensure that team leads and shift leads are aware of any issues that need to be addressed.

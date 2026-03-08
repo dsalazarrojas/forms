@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help library staff track student visits to the library, ensuring accurate records of student activity. It collects information on the date of visit, student name, grade level, subjects visited, and student ID number. This form aims to reduce duplication and improve overall efficiency in managing student records. The form should not be used for students who have already checked in for the same day. Please ensure that you have all necessary information before filling out this form.
-</thinking>
-
 # Library Student Entry Check In Form - Help Guide
 ## Purpose
 The Library Student Entry Check In Form is a tool used to track student visits to the library, ensuring accurate and efficient record keeping.

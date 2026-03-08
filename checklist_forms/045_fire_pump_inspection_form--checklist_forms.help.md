@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created to assist users in completing the "fire_pump_inspection_form" form. The form is designed to gather information about the inspection of fire pumps. It appears that the form is used to track the status, location, and other relevant details of fire pumps. The purpose of this form is not entirely clear, so it is being assumed that it is used for routine maintenance and inspection of fire pumps. The form does not appear to have any specific requirements for completion, so users are not obligated to fill out all the fields. However, filling out the form completely will provide more comprehensive information about the fire pumps. The form has multiple pages, but this guide will cover the entire form in a single document.
-
-</thinking>
-
 # fire_pump_inspection_form - Help Guide
 ## Purpose
 This guide is intended to assist users in completing the "fire_pump_inspection_form" form. The form is designed to track the status, location, and other details of fire pumps for routine maintenance and inspection purposes.

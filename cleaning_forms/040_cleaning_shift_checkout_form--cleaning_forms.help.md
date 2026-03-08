@@ -1,25 +1,3 @@
-<thinking>...
-
-To create an accurate and user-friendly help guide for the "Cleaning Shift Checkout Form", I will first analyze the form's purpose and fields.
-
-The form is used for cleaning shift checkout, likely for facilities management or cleaning services. It captures various information about the shift, staff, facility, and completion status.
-
-Upon reviewing the form's fields, I see that it's divided into several sections: Shift Information, Staff Information, Facility Information, Task Completion Summary, Equipment and Supplies, Facility Status, Incidents and Observations, Next Shift Handoff, and Supervisor Sign-Off.
-
-Each section is designed to collect specific data, such as shift timing, staff names, facility details, and completion status. Some fields are required, while others are optional or have specific options to choose from.
-
-The form seems to focus on the following key aspects:
-
-*   Shift checkout information (date, time, and shift period)
-*   Staff involvement (name, ID, and supervisor's name)
-*   Facility status (cleanliness, equipment, and supplies)
-*   Completion summary (tasks, equipment, and incidents)
-*   Handoff notes and supervisor approval
-
-With this understanding, I can now create a help guide for the form.
-
-</thinking>
-
 # Cleaning Shift Checkout Form - Help Guide
 ## Purpose
 The Cleaning Shift Checkout Form is used to capture information about the cleaning shift, including the shift timing, staff involved, facility status, and completion summary. This form helps ensure that all necessary details are documented and communicated to the next shift, and for supervisor approval.

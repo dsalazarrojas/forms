@@ -1,7 +1,3 @@
-<thinking> 
-  This form is used for tracking and reporting the progress of an HCV (Hepatitis C Virus) elimination plan. It is intended to gather information on various aspects of the plan, including project sites, regions, districts, team size, and testing statistics. The form should only be completed if you are a member of the team working on this specific project. Please ensure that you have the necessary permissions and access to submit this form. 
-</thinking>
-
 # HCV Elimination Plan Check In - Help Guide
 ## Purpose
 The HCV Elimination Plan Check In form is used to track and report progress on HCV elimination efforts. This form collects information on project sites, regions, districts, team size, and testing statistics to help monitor and evaluate the success of the project.

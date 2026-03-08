@@ -1,12 +1,3 @@
-<thinking>
-This guide will help you complete the Cyber Security Audit Checklist form, which is designed to help organizations assess their current state of cyber security practices and identify areas for improvement. The form is not intended to be a comprehensive, in-depth assessment, but rather a high-level overview to ensure that the most critical security practices are being followed.
-
-Before you begin, please review the form's fields and options to ensure that you are not duplicating efforts or missing critical areas of focus. The checklist is divided into several sections, each addressing a key area of cyber security.
-
-To complete the form, select the correct options for each field, taking into account your organization's current policies and practices. If a field is not applicable to your organization, simply select "N/A" or "Not Applicable."
-
-</thinking>
-
 # Cyber Security Audit Checklist - Help Guide
 ## Purpose
 The Cyber Security Audit Checklist is a tool to help organizations assess their current state of cyber security practices and identify areas for improvement.

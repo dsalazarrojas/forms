@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help exam candidates prepare for exams by assessing their readiness. The form is not intended to replace actual exam preparation, but rather to provide a systematic way to evaluate one's progress. This form should not be used as a substitute for professional exam preparation resources or advice. It is recommended to use this form in conjunction with other preparation resources.
-</thinking>
-
 # Exam Preparation Checklist - Help Guide
 ## Purpose
 This form helps examinees assess their progress in preparing for an exam, providing an opportunity to identify areas of improvement and potential knowledge gaps.

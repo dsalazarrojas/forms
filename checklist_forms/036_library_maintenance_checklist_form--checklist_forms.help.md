@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help librarians and library staff track and manage various aspects of library maintenance, including document maintenance tasks, tracking repairs, ensuring optimal library conditions, listing library equipment that requires maintenance, frequency and cost of repairs, and scheduling next maintenance. It's essential for librarians and library staff to have a clear record of these activities to ensure the smooth operation and optimal condition of the library. This guide will walk you through the completion of this form in a step-by-step manner.
-
-
-</thinking>
-
 # Library Maintenance Checklist Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture data for summer intern timesheets, used by project managers to track and record the work activities and time spent by interns during their projects. This form is likely to be used for administrative and tracking purposes within an organization. It's possible that this form is not meant for public use, so be careful about filling it out if you're not authorized to do so. The form likely serves as a template for project managers to collect information from interns, so it might be used internally within a company.
-</thinking>
-
 # Summer Intern Timesheet - Help Guide
 ## Purpose
 The Summer Intern Timesheet form is used by project managers to track and record the work activities and time spent by interns during their projects.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be a liability waiver for participants in a project that involves some level of risk of infection or exposure to infectious diseases. It's likely being used in a medical or research setting where participants are being asked to acknowledge that they are aware of the risks and voluntarily agree to participate. 
-
-The purpose of this guide is to assist users in understanding the structure and content of the form, which is likely to be used for informed consent from participants. The guide will outline each section of the form and provide explanations for what each field is intended to capture.
-
-</thinking>
-
 # Infectious Disease Liability Waiver - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-**Curriculum Relevance For Future Skills Survey Purpose**
-
-This form is designed to assess the relevance and alignment of our training and development programs with the future skills needs of our employees. By providing feedback on the importance and accessibility of our training programs, we aim to identify areas where we can improve to better support our employees' career growth and skill development.
-
-To prevent duplication of effort, we request that you only respond to this survey once. If you have previously completed this survey, your response will not be recorded.
-
-</thinking>
-
 # Curriculum Relevance For Future Skills Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the relevance and alignment of our training and development programs with your future skills needs.

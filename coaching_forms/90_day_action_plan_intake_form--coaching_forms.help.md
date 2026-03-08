@@ -1,7 +1,3 @@
-<thinking>
-The 90-Day Action Plan Intake Form is designed to help clients or participants create a customized 90-day action plan for achieving their goals. This form gathers essential information from the client, such as their name, primary goal, priority level, and the specific objectives they want to accomplish within the 90-day timeframe. The form also helps identify potential obstacles, support needs, and desired accountability and communication cadences. By providing clear instructions and explanations for each field, this guide will walk you through the form's purpose, how to complete it, and an in-depth explanation of each field's significance.
-</thinking>
-
 # 90 Day Action Plan Intake Form - Help Guide
 
 ## Purpose

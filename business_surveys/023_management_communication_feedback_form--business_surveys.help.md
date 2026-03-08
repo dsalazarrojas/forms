@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for employees to provide feedback on the management communication within the organization. It should only be completed by those with direct experience in management communication, and not by people who have not interacted with management. This guide is meant to ensure the form is filled out correctly and that the required fields are not left blank. This guide will cover each field and its purpose to prevent confusion and non-duplication of answers.</thinking>
-
 # management_communication_feedback_form - Help Guide
 ## Purpose
 The "Management Communication Feedback Form" is a tool for employees to provide feedback on the effectiveness and quality of management communication within the organization. This form will help the management team better understand the strengths and weaknesses of their communication and make informed decisions to improve it.

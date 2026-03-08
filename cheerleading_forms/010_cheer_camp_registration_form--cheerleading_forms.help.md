@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect camper registration information for the cheer camp program. The main purpose of this form is to gather essential details about the camper, including their personal information, medical conditions, and preferences. The form is divided into multiple sections, each with specific fields that require completion. It's essential to fill out the form accurately to ensure a smooth and enjoyable experience for the camper.
-
-To ensure data accuracy, please review each field carefully and ask for help if needed. This form is not designed to handle duplicate or incomplete submissions. Ensure that you fill out the form only once for each camper.
-
-The following sections of the form are crucial to ensure that we can provide the best experience for your child:
-
-*   Camper Information: This section includes the camper's personal details such as name, date of birth, age, school name, and grade level.
-*   Medical and Health Information: This section is for listing any medical conditions or allergies, medications, and other health-related information.
-*   Contact and Emergency Information: This section includes contact details for parents or guardians and emergency contact information.
-*   Payment and Session Information: This section includes payment method and camp session preferences.
-*   Special Needs and Additional Information: This section is for providing any special needs or accommodations that the camper might require.
-
-Please take the time to fill out the form carefully and accurately. If you have any questions or concerns, don't hesitate to reach out for assistance.
-
-</thinking>
-
 # Cheer Camp Registration Form - Help Guide
 ## Purpose
 

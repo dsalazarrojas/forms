@@ -1,8 +1,3 @@
-<thinking>
-The University Complaint Form is designed to collect information and feedback from students about their experiences and issues within the university. This form is intended to help the university administration understand the concerns and problems faced by students, allowing them to make informed decisions to improve university services and facilities. Before filling out this form, please ensure that you have not already submitted a complaint about the same issue, as duplicate complaints can be confusing and may not be reviewed.
-
-</thinking>
-
 # University Complaint Form - Help Guide
 ## Purpose
 The University Complaint Form is designed to help the university administration collect information and feedback from students about their experiences and issues within the university. This form allows students to share their concerns and problems with the administration, enabling them to make informed decisions to improve university services and facilities.

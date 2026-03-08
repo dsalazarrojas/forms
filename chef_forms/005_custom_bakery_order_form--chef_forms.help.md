@@ -1,7 +1,3 @@
-<thinking>
-The form is a "Custom Bakery Order Form" that likely exists for customers or users to place custom orders for baked goods at a bakery. The form allows for input of various details to complete a custom order. It appears to be designed for users to submit multiple items they want to order, along with quantities and special instructions. The form likely has a purpose of streamlining the ordering process for the bakery and improving customer service by allowing users to enter their custom orders in a structured and organized manner. This explanation assumes the form is not intended for a specific niche or industry within the bakery, such as a catering form for a corporate event.
-</thinking>
-
 # Custom Bakery Order Form - Help Guide
 ## Purpose
 This guide will walk you through the Custom Bakery Order Form. The form is designed to help customers place custom orders for baked goods at a bakery.

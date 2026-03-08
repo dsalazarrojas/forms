@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be for local businesses to apply for a grant to support their manufacturing-related projects. The purpose of this form is to collect necessary information from applicants to assess their eligibility and suitability for the grant.
 
 Before filling out this form, please ensure that your project meets the requirements and you have all the necessary information and documents ready.

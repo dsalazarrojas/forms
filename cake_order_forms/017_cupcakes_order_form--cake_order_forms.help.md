@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for cupcake orders. The purpose of the form is to gather contact details, delivery date and time, and order specifics, such as intended amount, flavor, and any additional comments or notes. This form will be used by the cupcake company to fulfill orders efficiently and effectively.
-</thinking>
-
 # Cupcakes Order Form - Help Guide
 ## Purpose
 The Cupcakes Order Form is designed to collect user information for cupcake orders. This form will help the cupcake company to gather all necessary details required to fulfill the order efficiently and effectively.

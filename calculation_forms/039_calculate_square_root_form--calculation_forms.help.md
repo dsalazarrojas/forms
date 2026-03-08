@@ -1,12 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-The "Calculate Square Root Form" is designed to help users calculate the square root of a given number, providing a user-friendly interface to gather relevant information from the user before performing the calculation. This form aims to collect data for educational purposes, such as homework help or test preparation. It is not intended for commercial or high-stakes calculations.
-
-**Form fields are designed to be simple and minimal, yet comprehensive in collecting essential details for the calculation and context of the user.**
-
-</thinking>
-
 # Calculate Square Root Form - Help Guide
 
 ## Purpose

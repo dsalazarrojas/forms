@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of a restaurant cook. The purpose of this form is to gather feedback from customers or diners on various aspects of the cook's performance, such as cook performance, restaurant performance, food quality, cleanliness, food temperature, service attitude, and overall satisfaction. The form is meant to be completed by a customer or diner after a dining experience at the restaurant.
-
-The form is not intended to be a comprehensive review, but rather a brief and concise assessment of the cook's skills. It's likely that this form will be used by the restaurant staff or management to identify areas of improvement and make necessary adjustments to ensure a better dining experience for customers.
-
-Please note that this form has multiple pages, but only one page is visible by default. The form is not meant to be lengthy or overwhelming, making it easy to complete and navigate.
-</thinking>
-
 # Restaurant Cook Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of a restaurant cook based on various criteria.

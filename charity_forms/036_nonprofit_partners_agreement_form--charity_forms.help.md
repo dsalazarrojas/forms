@@ -1,7 +1,3 @@
-<thinking>
-This form is for establishing a partnership agreement between a nonprofit organization and another entity (partner). The purpose of this form is to gather necessary information about the partner and outline the terms of the partnership agreement. This form will help both parties understand each other's expectations and responsibilities, ensuring a clear and effective partnership. Please ensure you are completing this form for a legitimate partnership agreement purpose and not for any other reason. If you are unsure about the relevance of this form, please review the form's title and description to confirm.
-</thinking>
-
 # Nonprofit Partners Agreement Form - Help Guide
 ## Purpose
 The Nonprofit Partners Agreement Form is a document that outlines the terms and conditions of a partnership between a nonprofit organization and another entity. It ensures that both parties have a clear understanding of their roles, responsibilities, and expectations.

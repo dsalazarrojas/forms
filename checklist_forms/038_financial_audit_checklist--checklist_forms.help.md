@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the financial audit process by gathering key information from the auditor on their procedures, findings, and review dates. The purpose of this form is to ensure consistency and accuracy in the audit process. The form should only be filled out after a thorough review of the financial statements has been completed. It is intended to be filled out by the auditor or auditor team. 
-
-This form will be used to store the findings of the financial audit and will be used by management and other stakeholders to inform their decision-making processes.
-</thinking>
-
 # Financial Audit Checklist - Help Guide
 ## Purpose
 The Financial Audit Checklist is a document used to record the procedures and findings of the financial audit process. It is a crucial part of maintaining accurate financial records and identifying any discrepancies or areas that require attention.

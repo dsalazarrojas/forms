@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for tracking and reporting industrial maintenance and troubleshooting activities. It helps in documenting the general information, equipment details, and maintenance work completed. This form is likely used for internal purposes within an organization, such as in a factory or workshop setting. It is not intended for public use.
-</thinking>
-
 # industrial_maintenance_and_troubleshooting_checklist - Help Guide
 ## Purpose
 This form is used for tracking and reporting industrial maintenance and troubleshooting activities to ensure that equipment is properly maintained and issues are quickly identified and resolved.

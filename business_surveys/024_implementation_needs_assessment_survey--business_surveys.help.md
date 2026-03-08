@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about an existing project to aid in identifying potential implementation needs. Please ensure that a single entry is made for each project, and only one entry per project is created. This form's purpose is to gather project details, identify potential issues, and collect data for resource allocation and timeline estimation. This form should be filled out for each project separately.
-</thinking>
-
 # Implementation Needs Assessment Survey - Help Guide
 ## Purpose
 This form is used to gather project details, identify potential issues, and collect data for resource allocation and timeline estimation.

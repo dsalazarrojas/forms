@@ -1,7 +1,3 @@
-<thinking>
-This form is used for remote housing providers to register themselves with the organization. The purpose of this form is to collect necessary information from the provider to process their registration. Please ensure that you have all necessary documents and information before proceeding with this form.
-</thinking>
-
 # Remote Housing Provider Registration - Help Guide
 ## Purpose
 This form is intended for remote housing providers to register themselves with the organization. It is necessary to provide accurate and truthful information for all fields to process your registration.

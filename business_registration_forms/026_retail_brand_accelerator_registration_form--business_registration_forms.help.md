@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal reasoning:** This form is intended to register retail brands for participation in a business accelerator program, which offers resources and support to retail-focused startups. The purpose of this form is to collect key information about each retail brand, including their name, stage, details, goals, and other relevant data. By understanding each brand's profile, the program can provide targeted support and resources to help them grow and succeed. 
-
-To avoid duplication, please ensure that you have not previously submitted this form for the same retail brand. If you are unsure or have any questions, please contact the program administrators.
-
-</thinking>
-
 # retail_brand_accelerator_registration_form - Help Guide
 ## Purpose
 This form is designed to register retail brands for participation in a business accelerator program. It collects essential information about each brand, allowing the program to provide tailored support and resources to help them grow and succeed.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on the performance of a product or service offered by a business. This form is designed to gauge the customer's experience and gather information on areas that need improvement. The form should only be used for customers who have had a recent interaction with the business's product or service.
-</thinking>
-
 # Product Improvement Performance Report Form - Help Guide
 ## Purpose
 The Product Improvement Performance Report Form is used to collect feedback from customers on the performance of a product or service offered by the business. This form will help the business to identify areas that need improvement and make data-driven decisions to enhance its products and services.

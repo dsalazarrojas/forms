@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about an event and the client's preferences for catering services. This form is designed to be completed by clients who are requesting a quote for catering services for their event. The form should only be used for events that are not already confirmed, as it is intended to initiate the quote and planning process.
 
 Before filling out this form, please ensure that you have not already received a quote for the same event, as this form is designed to be used for new requests.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather client feedback on a project, assessing their satisfaction with the project's outcome, quality of work, and overall experience. This form is intended to be used by clients to provide their honest feedback on a project, which will help improve future projects and services provided by the firm. Please ensure that you only fill out this form if you are a client who has completed a project with our firm. If you are not a client, please do not fill out this form.
-</thinking>
-
 # Client Project Satisfaction Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather client feedback on a project, assessing their satisfaction with the project's outcome, quality of work, and overall experience.

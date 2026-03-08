@@ -1,13 +1,3 @@
-<thinking> 
-This form is for attendees to register for the Health Behavior Science Symposium. It is not required but highly recommended to fill out this form before the symposium. The form is a single page and is divided into sections. This help guide will cover each field in detail. 
-
-This form is intended for attendees who want to provide their details and interests for the symposium. The form is not intended for speakers or organizers. If you are a speaker or organizer, please contact the symposium administration for further instructions.
-
-The form is not intended to be filled out by someone else on behalf of another person. Each attendee should fill out their own form.
-
-The form will be reviewed by the symposium administration before the symposium. 
-
-</thinking>
 # Health Behavior Science Symposium Registration - Help Guide
 ## Purpose
 The Health Behavior Science Symposium Registration form is designed to help attendees provide their details and interests for the symposium. It is not required but highly recommended to complete this form before the symposium.

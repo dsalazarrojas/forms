@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to submit complaints about various issues they are facing on campus. The purpose of this form is to provide a clear and concise way for students to report incidents that require attention from the university administration. The form should not be used to submit non-complaint-related issues or to report incidents that have already been resolved. It is recommended that students carefully review the fields below to ensure they provide accurate and relevant information.
-</thinking>
-
 # Student Complaint Form - Help Guide
 ## Purpose
 The Student Complaint Form is a tool used by students to report issues or complaints they are facing on campus. This form is designed to be a clear and efficient way for students to communicate their concerns to the university administration.

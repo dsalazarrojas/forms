@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by the sports organization for users to submit complaints or concerns regarding any issues or incidents they have encountered within the sports organization. This form is meant to gather information from the user to better understand the nature of the complaint and to facilitate a resolution. It is expected that the user will provide honest and accurate information, and that the organization will use this information to take appropriate actions. Before filling out this form, please ensure that you have not already submitted a similar complaint. Duplicate submissions may cause confusion and delay the resolution process.
-</thinking>
-
 # sports_organization_legal_complaint_intake_form - Help Guide
 ## Purpose
 This form is used for users to submit complaints or concerns regarding the sports organization.

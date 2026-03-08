@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Hydro Operations Assessment Survey is used to gather information on the hydroelectric operations and maintenance activities performed at the hydroelectric power plants. This includes assessing the performance of the hydroelectric turbine, maintenance schedules, and overall operations performance. The survey is intended to be completed by the responsible personnel of the hydroelectric operations team, providing a quick and easy way to collect data on the current state of the operations.
 
 ## Hydro Operations Assessment Survey - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather information from artists about their fees and preferences for weddings. This data will help wedding planners and coordinators understand the costs and time commitments involved in hiring an artist for an event. The form is not intended to be a formal contract or agreement, but rather a way to gather information to facilitate communication and planning. It should not be submitted multiple times for the same event; instead, the artist can update their profile with new information as their needs and preferences change...</thinking>
-
 # Wedding Artist Fee Survey - Help Guide
 ## Purpose
 The Wedding Artist Fee Survey is designed to gather information from artists about their fees and preferences for weddings. This data helps wedding planners and coordinators understand the costs and time commitments involved in hiring an artist for an event.

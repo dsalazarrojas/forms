@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the reimbursement process for medical travel expenses incurred by employees of your organization. This form is intended to gather necessary information about the medical travel expense, including the type of expense, date of travel, medical provider, and expense items. The form is designed to be completed by the employee who incurred the expense and submitted for reimbursement.
-
-Before proceeding, ensure that the expense is legitimate and not duplicated. If the expense is not valid or has already been reimbursed, do not complete this form.
-
-Please note that this form is for internal use only and all information provided will be reviewed and validated before reimbursement is processed.
-
-</thinking>
-
 # Medical Travel Expense Reimbursement Form - Help Guide
 ## Purpose
 

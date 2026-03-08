@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Corporate Retreat Waiver Form, ensuring they can complete it efficiently and accurately. It's essential to note that this form is for internal use within an organization, likely for events or workshops where participants sign off on certain risks or conditions. It's also possible that this form is part of a series of forms for different types of events or purposes, but the focus here is on corporate retreats.
-
-Before proceeding, review the form carefully and ensure you're not duplicating any other form or waiver that may already exist within the organization. This guide aims to cover each field in a straightforward and practical manner, helping users understand its purpose and how to fill it out correctly.
-
-This form is composed of several sections, including participant information, risk acknowledgment, emergency contact, and signature. Each section has its own specific fields that require attention. Please refer to the following guide for a detailed explanation of each field and how to complete it accurately.
-
-</thinking>
-
 # Corporate Retreat Waiver Form - Help Guide
 ## Purpose
 The Corporate Retreat Waiver Form is a document that participants must sign before attending any corporate events or workshops. It serves as an agreement between the participant and the organizing entity, clarifying the risks and conditions of the event. By signing this form, participants acknowledge the risks involved and release the organizers from liability.

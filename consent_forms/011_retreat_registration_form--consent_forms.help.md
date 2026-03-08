@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a crucial component of our company's registration process, designed to collect vital information from participants. The primary objective is to gather accurate and complete participant data, ensuring a smooth and secure experience for everyone involved. This form is a critical step in preparing for retreat, an event where participants will engage in physical activities.
 
 </thinking>

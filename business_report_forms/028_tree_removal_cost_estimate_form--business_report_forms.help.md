@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a tree removal request from customers. It will be used to estimate the cost of tree removal and provide a contact information to discuss further details. This form is part of a larger business process and will be used to gather relevant information to make an informed decision.
-
-To avoid duplication, it is recommended to check if a similar form already exists within the business before creating a new one.
-
-</thinking>
-
 # Tree Removal Cost Estimate Form - Help Guide
 ## Purpose
 The Tree Removal Cost Estimate Form is a tool used to collect information about a tree removal request from customers. This form will help estimate the cost of tree removal and provide a contact information to discuss further details.

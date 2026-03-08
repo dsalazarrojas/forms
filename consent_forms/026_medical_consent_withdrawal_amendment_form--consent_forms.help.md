@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used in a medical setting, likely by a healthcare provider, to collect information related to a patient's medical consent withdrawal. The purpose of this form is to gather essential details about the patient, such as their contact preference, medical history, medical conditions, and medication list, as well as the reason for withdrawal and any comments from the healthcare provider. This form is likely used to update or change a patient's medical consent status.
-The form is divided into several sections, each focusing on a specific aspect of the patient's information. Before filling out the form, ensure that you have the necessary information and permissions to do so. Some fields may be marked as optional, but providing accurate and complete information will help ensure the form is filled out correctly.
-</thinking>
-
 # medical_consent_withdrawal_amendment_form - Help Guide
 ## Purpose
 This form is used to collect information related to a patient's medical consent withdrawal.

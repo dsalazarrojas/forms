@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to support the adjudication process for fraud claims. Adjudication involves reviewing and evaluating the evidence presented and rendering a decision on the claim. This process is typically performed by an adjudicator, and the form should only be completed by authorized personnel. To ensure efficient and accurate adjudication, please verify that this form is not being used for any other purpose and that the claim number and adjudicator's name are correctly filled in.
-</thinking>
-
 # Fraud Claim Adjudication Form - Help Guide
 ## Purpose
 This form is used for fraud claim adjudication, which involves evaluating evidence and rendering a decision on a claim.

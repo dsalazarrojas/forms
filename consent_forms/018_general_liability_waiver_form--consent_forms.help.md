@@ -1,11 +1,3 @@
-<thinking>
-This form is meant to gather information about a participant's liability for general liability purposes. This form is likely to be used in a business or professional setting, such as a fitness center, medical facility, or other similar environment. It's essential to understand the participant's liability before proceeding with certain activities or services. This form will help ensure that the participant is aware of and accepts the risks associated with participating in these activities. Please review the form carefully and ensure that you are providing accurate information.
-
-Before filling out this form, please note that the participant's signature and date are critical parts of the form, as they indicate their acknowledgment and acceptance of the waiver and release of liability. The participant's signature on the document and screen are both acceptable. Ensure that you complete this form accurately and honestly.
-
-Also, please make sure you understand the difference between the participant's information and the business information. The participant's information is about the person participating in the activities, while the business information is about the company or organization providing the services.
-</thinking>
-
 # General Liability Waiver Form - Help Guide
 ## Purpose
 This form is designed to gather information about a participant's liability for general liability purposes. It is intended to be used in a business or professional setting to ensure that the participant is aware of and accepts the risks associated with participating in certain activities or services.

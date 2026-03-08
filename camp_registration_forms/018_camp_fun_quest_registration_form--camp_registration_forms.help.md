@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for campers to register for a fun and exciting experience. The purpose of this form is to collect necessary information from campers, such as their full name, date of birth, contact details, and preferences for the camp session. This information will be used for camp communication, emergency contact, and to ensure the camper's safety and well-being during the camp.
-
-Before proceeding, please make sure you have not registered the same camper previously. If you have already registered a camper, please do not register again.
-
-This guide will walk you through each field of the form to help you complete it successfully.
-
-</thinking>
-
 # Camp Fun Quest Registration Form - Help Guide
 ## Purpose
 The Camp Fun Quest Registration Form is designed to collect necessary information from campers for a fun and exciting experience.

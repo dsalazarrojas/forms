@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to check in with the Virtual Preschool Academy during the month of November. It's crucial that this form is filled out accurately to ensure that we can track student progress and provide relevant feedback. Please note that this form is not a replacement for our standard enrollment process, but rather a tool to gauge user experience and suggestions for improvement.
-</thinking>
-
 # Virtual Preschool Academy Form November Check In - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from students in the Virtual Preschool Academy for the month of November. It aims to understand their satisfaction levels with our virtual program and identify areas where we can improve.

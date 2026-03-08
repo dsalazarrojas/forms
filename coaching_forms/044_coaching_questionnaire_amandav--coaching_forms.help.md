@@ -1,5 +1,3 @@
-<thinking>Internal note to the design team: This coaching questionnaire, titled "Coaching Questionnaire AmandaV", appears to be a comprehensive tool for assessing individuals' coaching needs and preferences. It covers various aspects such as demographics, coaching interests, motivations, stress levels, and expectations from coaching. Upon reviewing the form, I noticed that most fields are required, indicating that they are crucial for providing a thorough understanding of the client's situation. The form also includes a mix of open-ended text fields for more in-depth information and select_one options for more structured responses. Before proceeding, it is essential to review the form's purpose and ensure it is not duplicating any existing forms in the system. It would be beneficial to conduct user research to validate the form's design and content to guarantee that it aligns with the intended outcome.</thinking>
-
 # Coaching Questionnaire AmandaV - Help Guide
 
 ## Purpose

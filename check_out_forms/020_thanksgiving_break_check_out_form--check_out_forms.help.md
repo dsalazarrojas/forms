@@ -1,7 +1,3 @@
-<thinking>
-This is the form "Thanksgiving Break Check Out Form". The purpose of this form is to document a student's check-out process during the Thanksgiving break. This form will likely be used by students to provide their information and details for check-out and check-in purposes.
-</thinking>
-
 # Thanksgiving Break Check Out Form - Help Guide
 ## Purpose
 The purpose of this form is to document a student's check-out process during the Thanksgiving break. This form will be used to gather information from students and staff members for check-out and check-in purposes.

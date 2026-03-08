@@ -1,13 +1,3 @@
-<thinking>
-The form is used to collect registration information for students attending the conference. It is likely used by conference organizers or administrators to gather essential details from students before the event. To ensure accurate and complete registrations, it's essential to understand the form's purpose and requirements. Please note that this form might not be suitable for all conferences or events, so please verify its relevance to your specific use case before proceeding.
-
-This form appears to be designed for students to register for a conference, providing their name, email, phone number (optional), and other specific details. The form might be part of a broader registration process, and its completion should be reviewed for accuracy before submission.
-
-Please ensure that the form is filled out completely and correctly to avoid any issues during the conference. Double-check that your selections for the conference programs, program, conference type, and other relevant fields are accurate and up-to-date.
-
-The form might be used in conjunction with other forms or systems to manage conference attendees, so please be aware of any potential integrations or consequences of form completion.
-
-</thinking>
 # Student Conference Registration Form - Help Guide
 ## Purpose
 This form is designed for students to register their participation in a conference. It collects information about the student, their preferences, and other relevant details.

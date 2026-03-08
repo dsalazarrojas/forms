@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect RSVPs from guests for a non-profit dinner event. It is crucial to ensure that each guest has a unique entry in the form to maintain an accurate headcount for the event. To prevent duplicate entries, we recommend that guests complete the form individually. If a guest is attending with someone else, please ensure that the "Attending with" field is filled in correctly to reflect the actual attendee. This form will be used to determine headcount and plan for the event accordingly.
-</thinking>
-
 # Non Profit Dinner RSVP Form - Help Guide
 ## Purpose
 The Non Profit Dinner RSVP Form is designed to collect RSVPs from guests attending a non-profit dinner event. It allows you to provide essential details such as name, contact information, and attendance details.

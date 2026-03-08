@@ -1,16 +1,3 @@
-<thinking>
-This form is used to record and address food quality complaints from customers. It's essential for staff to follow this guide to ensure that customers have a clear understanding of what's expected from them, and for the team to efficiently process and address customer complaints.
-
-This form should not be used to:
-
-* Duplicate an existing complaint. Please check the complaint database before submitting a new form.
-* Submit fake or malicious complaints. This form is for genuine customer feedback.
-* Complain about non-food-related issues. This form is specifically for food quality complaints.
-
-Please note that each field is carefully designed to help the team process the complaint efficiently. The team may contact the customer via phone or email to gather more information or follow up on the complaint.
-
-</thinking>
-
 # Food Quality Complaint Form - Help Guide
 ## Purpose
 This form is used to record and address food quality complaints from customers. It's essential to follow this guide to ensure that customers have a clear understanding of what's expected from them, and for the team to efficiently process and address customer complaints.

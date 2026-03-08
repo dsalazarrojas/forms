@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to create a new movement record in the inventory management system. A movement is a record of an item being transferred from one location to another. This form should only be completed for legitimate business purposes and not for testing or demonstration purposes. Ensure that you have the necessary permissions and approvals before submitting this form.
-The form is designed to capture information about the item, such as its ID, status, and transfer date. The "item_status" field is a multi-select field that allows you to choose multiple statuses for the item. The "movement_type" field is a select-one field that determines the type of movement (e.g. inventory in, inventory out, transfer in, etc.). The "user" field is a select-one field that determines who is responsible for the movement. The "email" and "phone" fields are optional fields for additional contact information.
-</thinking>
-
 # Movement Addition Form - Help Guide
 ## Purpose
 The Movement Addition Form is used to create a new movement record in the inventory management system.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yoga Studio Client Check In Form - Help Guide
 
 ## Purpose

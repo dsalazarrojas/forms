@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is being used for its intended purpose, let's analyze the form's fields and their properties. The form is called "Volunteer Release And Waiver Of Liability Form", suggesting that it's used for volunteer work. Upon closer inspection of the fields, we can see that it collects general information about a volunteer, including their name, contact number, address, emergency contact, and other details. However, there are no fields related to project or event management, which might be expected in a volunteer management form. Therefore, it's likely that this form is used for administrative purposes, such as onboarding new volunteers or handling volunteer logistics. To confirm, I would need more information about the use case and business processes surrounding this form. However, assuming it's used for onboarding, here is the help guide for the user-facing form.
-</thinking>
-
 # Volunteer Release And Waiver Of Liability Form - Help Guide
 ## Purpose
 This form is used to collect information from new volunteers for onboarding purposes. It helps to gather essential details about the volunteer, including their name, contact information, and emergency contact.

@@ -1,27 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I first need to understand the form's purpose and fields. The form is titled "Factory Data Analytics Conference Registration", which suggests it's for registering attendees for a conference related to factory data analytics. 
-
-The form has 8 fields: Attendee Details, Event Details, Consent, Preferences, Notes, Email, Output File, and Assigned Tool. 
-
-Attendee Details is an optional text field that likely asks for the attendee's personal information. Event Details is also an optional text field that probably collects information about the event itself. 
-
-The Consent field is a required select_multiple field with three options. This suggests that the attendee needs to agree to certain terms or conditions, possibly related to data handling or sharing. 
-
-Preferences is an optional text field that might collect the attendee's preferred settings or configurations. 
-
-Notes is an optional text field for any additional comments or remarks. 
-
-Email is a required field that asks for the attendee's email address. 
-
-Output File is an optional text field that might collect a file or report from the attendee. 
-
-Assigned Tool is an optional text field for any tools or equipment assigned to the attendee. 
-
-Given the fields, this form might be used for registering attendees for a factory data analytics conference, such as providing demographic information, event-specific details, and agreeing to certain terms.
-
-</thinking>
-
 # Factory Data Analytics Conference Registration - Help Guide
 ## Purpose
 

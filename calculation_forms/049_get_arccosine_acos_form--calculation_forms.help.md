@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block explaining the form purpose and checks for relevance and non-duplication ...
-
-The "Get Arccosine (acos) Form" is designed to calculate the inverse cosine (arccos) function for a given input angle. The form is used in mathematics and physics to compute the arccos function for a specific angle, which is defined as the angle whose cosine is a known value. The form is not designed to perform any other calculations or conversions. To ensure accurate results, the input angle should be in radians.
-
-This form should not be used for duplicate calculations. If you need to recalculate arccos for the same input angle, please wait for at least 30 seconds between submissions to allow for proper calculation processing time.
-
-</thinking>
-
 # Get Arccosine (acos) Form - Help Guide
 
 ## Purpose

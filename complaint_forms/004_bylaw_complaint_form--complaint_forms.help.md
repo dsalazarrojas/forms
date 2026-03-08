@@ -1,8 +1,3 @@
-<thinking>
-The Bylaw Complaint Form is used to report issues related to bylaws in the community, such as noise disturbances, property maintenance concerns, or zoning irregularities. This form allows the reporter to provide a detailed description of the issue, including dates and times, and to attach any relevant photographic evidence. The form also asks for permission to contact the reporter for follow-up purposes.
-By providing a clear and concise explanation of each field, this guide aims to assist users in understanding the form's purpose and usage.
-</thinking>
-
 # Bylaw Complaint Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-We will design a help guide for the "Spill Management Checklist" form to aid end users in understanding its purpose and completing it accurately. The form's purpose is to collect information about incidents or spills that occur within the organization, including details such as the incident ID, date, time, and location. This information can be used to track and respond to spills in an efficient and effective manner. It is essential to fill out this form accurately to ensure that the incident is documented correctly and that the necessary steps are taken to prevent future occurrences.
-
-</thinking>
-
 # Spill Management Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about incidents or spills that occur within the organization, ensuring accurate documentation and prompt response.

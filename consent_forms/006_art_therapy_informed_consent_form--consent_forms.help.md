@@ -1,12 +1,3 @@
-<thinking>
-This form is a crucial document that ensures clients provide their informed consent for the treatment and procedures during their art therapy sessions. The Art Therapy Informed Consent Form is a legal and ethical requirement that protects both the client and the therapist. It's essential to have a clear understanding of the form's purpose and the information it captures before completing it.
-
-By using this form, clients confirm their agreement to participate in art therapy sessions, acknowledge the confidentiality agreement, and provide consent for the storage and photography of their artwork. This form also allows clients to provide contact information for emergency situations and sign off on the completion of the form.
-
-Please ensure that you're not duplicating any other forms or agreements that have already been completed with the client. Verify that you've reviewed and updated your internal documentation as necessary.
-
-</thinking>
-
 # Art Therapy Informed Consent Form - Help Guide
 ## Purpose
 The Art Therapy Informed Consent Form is a document that ensures clients provide their informed consent for the treatment and procedures during their art therapy sessions. It's a legal and ethical requirement that protects both the client and the therapist.

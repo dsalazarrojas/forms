@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the resource utilization during an audit project. It is intended to gather data on various aspects of resource utilization, including planned and actual hours spent, budget variance, staff allocation, technology resources, tool utilization, external resources needed, overtime required, resource constraints, resource efficiency, utilization rate, improvement areas, and overall resource satisfaction. This form is not for anonymous respondents, as their name and email address are required fields for follow-up purposes. The form is divided into 12 sections, each focusing on a different aspect of resource utilization. The data collected through this form will help in identifying areas of improvement and providing recommendations for better resource utilization in future audit projects.
-
-</thinking>
-
 # Audit Resource Utilization Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the resource utilization during an audit project. It is intended to gather data on various aspects of resource utilization, including planned and actual hours spent, budget variance, staff allocation, technology resources, tool utilization, external resources needed, overtime required, resource constraints, resource efficiency, utilization rate, improvement areas, and overall resource satisfaction.

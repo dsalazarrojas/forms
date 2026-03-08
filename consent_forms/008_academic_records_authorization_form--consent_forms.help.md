@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for authorizing the release of academic records for students. The purpose of this form is to ensure that students are able to control who has access to their personal and educational information. By completing this form, students can specify which records they are willing to release and to whom. The form should only be used by authorized personnel within the institution, and students are not required to fill it out unless they are explicitly instructed to do so. It is essential to ensure that all required fields are filled correctly to avoid any issues with the records release process. The form may not be duplicated or used for any other purpose other than the one described here.
-
-</thinking>
-
 # Academic Records Authorization Form - Help Guide
 ## Purpose
 The Academic Records Authorization Form is used to authorize the release of academic records to a specific person or organization. This form ensures that students have control over who has access to their personal and educational information.

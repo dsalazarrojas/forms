@@ -1,8 +1,3 @@
-<thinking>
-The Reservation Wait Time Calculator form is designed to calculate the expected wait time for guests at a table in a restaurant, given their arrival time, the number of seats available, and the arrival rate of guests. This form is intended for use by restaurant managers or staff to estimate wait times for guests based on these factors. This form will be used to provide an estimate of the wait time for guests, allowing them to plan their dining experience more effectively.
-
-</thinking>
-
 # Reservation Wait Time Calculator - Help Guide
 ## Purpose
 The Reservation Wait Time Calculator is a tool used to estimate the wait time for guests at a restaurant based on their arrival time, the number of seats available, and the arrival rate of guests.

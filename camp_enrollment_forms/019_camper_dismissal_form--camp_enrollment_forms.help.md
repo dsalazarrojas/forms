@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to document the dismissal of a camper from a camp session. It is intended for camp administrators to gather information about the reason for dismissal, details surrounding the dismissal, and confirmation of certain procedures. The form should only be used for campers who are being dismissed from a session, whether due to a medical emergency, disciplinary action, or other reason.
-
-To ensure accuracy, this form should only be filled out for campers who have been officially dismissed from a session. If a camper is being sent home early due to a family emergency, for example, this form should still be filled out to document the reason and details of the situation.
-
-Please note that all fields marked as "required" are necessary for proper processing and should be filled out accordingly.
-
-</thinking>
-
 # Camper Dismissal Form - Help Guide
 ## Purpose
 The Camper Dismissal Form is used to document a camper's dismissal from a session. It gathers information about the reason for dismissal, details surrounding the dismissal, and confirmation of certain procedures.

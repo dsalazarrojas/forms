@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bar Cleaning Checklist - Help Guide
 ## Purpose
 This form is used to conduct a comprehensive bar cleaning and sanitation check, ensuring that the bar meets cleanliness and safety standards. It covers various aspects of the bar, including the counter, sink, glasses, mixers, and equipment, as well as restrooms and overall cleanliness.

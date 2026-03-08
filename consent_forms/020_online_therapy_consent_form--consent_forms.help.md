@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "online-therapy-consent-form" form is used to obtain consent from patients for online therapy sessions. It is a critical document that ensures patients understand and agree to the terms and conditions of their online therapy sessions.
 
 To complete this form, follow these steps:

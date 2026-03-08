@@ -1,11 +1,4 @@
-> <thinking>
-  This form is designed to collect information about policy-related complaints or issues that customers or policyholders want to report.
-  It is meant to be used by customers/policyholders to report their concerns or problems with their insurance policy, and to help us understand and address their issues efficiently.
-  Before filling out this form, ensure that you are reporting a complaint that you have not already reported, and that you have tried to resolve the issue with your policy provider or through other internal channels first.
-  Please provide as much detail as possible to help us process your complaint.
-</thinking>
-
-# insurance_policy_complaint_form - Help Guide
+> # insurance_policy_complaint_form - Help Guide
 ## Purpose
 The insurance policy complaint form is used to report policy-related complaints or issues to us. Please fill out this form to submit your concerns and help us understand and address them.
 

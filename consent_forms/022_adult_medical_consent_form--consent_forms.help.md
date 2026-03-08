@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult Medical Consent Form - Help Guide
 
 ## Purpose

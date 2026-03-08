@@ -1,13 +1,3 @@
-<thinking>
-This is a help guide for the "Inheritance Claim Form". This form is intended to be used for individuals to claim inheritance or other types of claims. The form is designed to collect relevant information from the claimant and other relevant parties. Please note that the form is not a legal document and should not be used as such. 
-
-Before proceeding, please ensure that you have a valid reason for claiming inheritance. If you are unsure, you may want to review the relevant laws and regulations or consult with a legal professional. 
-
-This form is divided into several sections, each with its own set of questions. You will be required to provide information about yourself and others involved in the claim. Please answer all questions honestly and accurately. 
-
-To avoid duplication, please do not submit multiple claims for the same inheritance.
-</thinking>
-
 # Inheritance Claim Form - Help Guide
 ## Purpose
 The Inheritance Claim Form is used to submit claims for inheritance or other types of claims. This form is a guide to help you complete the form accurately and ensure you have all the necessary information.

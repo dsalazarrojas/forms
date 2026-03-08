@@ -1,10 +1,3 @@
-<thinking>
-The Social Media Coaching Application form is designed to collect information from users about themselves and their goals, as well as their social media presence and preferences. This data will be used to provide personalized coaching services that meet their specific needs.
-
-Before proceeding, please ensure that you have not completed this form before. Completing this form multiple times may lead to duplicate or inaccurate data.
-
-</thinking>
-
 # Social Media Coaching Application - Help Guide
 ## Purpose
 This form is designed to collect personal and social media information from users to provide tailored coaching services.

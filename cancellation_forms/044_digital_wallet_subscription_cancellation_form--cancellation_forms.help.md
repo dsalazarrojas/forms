@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to cancel their subscription to a digital wallet service. The form has multiple pages, each with its own purpose. Page 1 is a general submission form where users can enter their information, page 2 collects subscription information, and pages 3 and 4 are related to the cancellation reason, with page 3 being a select multiple type and page 4 being a select one type. The form requires users to provide a valid reason for cancellation in at least one of the cancellation reason fields.
-</thinking>
-
 # Digital Wallet Subscription Cancellation Form - Help Guide
 ## Purpose
 The Digital Wallet Subscription Cancellation Form is designed to help users cancel their digital wallet subscription. This form collects necessary information from users to facilitate a smooth cancellation process.

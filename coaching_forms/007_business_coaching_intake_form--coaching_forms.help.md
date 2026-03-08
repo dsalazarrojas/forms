@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for clients to provide information about themselves and their business goals and challenges. The form helps identify coaching needs and goals, ensuring that the coach understands what the client is looking for in a coaching program and what their expectations are. Please complete the form carefully and honestly to ensure that the coach gets a complete understanding of your business situation and needs.
-
-Before proceeding, please make sure you have not already completed this form. This will help us avoid duplicate efforts and ensure that your coaching journey is personalized and relevant to your business situation.
-</thinking>
-
 # Business Coaching Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information about your business and your coaching goals and expectations. It will help your coach understand your business situation and needs, ensuring that your coaching journey is personalized and effective.

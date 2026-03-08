@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about renewable energy policies, likely for research, analysis, or decision-making purposes. The purpose of this form is to gather data from various categories and assigned tools to create output files for further use. The form is intended for business surveys, but it's not exclusive to this category. The form ID and form ID 2 fields likely relate to the unique identifier or reference number for the form or the specific instance of the policy.
-</thinking>
-
 # Renewable Energy Policy Survey - Help Guide
 ## Purpose
 This form is designed to collect information about renewable energy policies for research, analysis, or decision-making purposes.

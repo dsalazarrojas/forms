@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Show Booth Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees or visitors who plan to visit trade show booths at a trade show event. It's intended to capture personal details, such as name, address, and contact information, as well as event-specific information like booth number and show dates. The form also includes waivers, event schedules, and staffing details.

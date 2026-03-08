@@ -1,24 +1,3 @@
-<thinking>
-To determine the purpose of this form and ensure it is not a duplicate effort, let's analyze the form's YAML structure and content.
-
-The form is called "Focus Group Authorization Form" and appears to be related to research or study-related activities. The form has 10 fields, which can be grouped into several categories:
-
-1. Consent and Agreement sections:
-	* Participant Consent: This section likely deals with obtaining participants' consent for the study or research activity.
-	* Participant Agreement: This section might ask participants to confirm they understand the terms of the activity.
-2. Participant Information:
-	* Participant Information: This section likely collects demographic information about the participants.
-3. Study Details:
-	* Study Information: This section probably provides context about the study or research activity.
-4. Roles and Responsibilities:
-	* Study Lead: This section determines who is responsible for leading the study or research activity.
-
-Considering this structure, it is possible that the form is used to onboard new participants or members to a research study or project. The purpose might be to ensure that all participants are aware of and agree to the terms of the activity.
-
-Given the structure and content, it's unlikely this form is a duplicate effort, as the fields seem to cover different aspects of the participant's experience, such as consent, information, and agreement.
-
-</thinking>
-
 # Focus Group Authorization Form - Help Guide
 ## Purpose
 The "Focus Group Authorization Form" is used to onboard new participants or members to a research study or project, ensuring they are aware of and agree to its terms.

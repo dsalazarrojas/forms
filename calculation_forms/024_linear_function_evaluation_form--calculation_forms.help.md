@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate students' understanding of linear functions. The form is intended to be filled out by teachers or evaluators who will be assessing students' knowledge and providing feedback. The form should only be used for students who are currently enrolled or have been enrolled in the course. It should not be used for external evaluations or non-standard assessments.
-
-The form is intended to be used for one student at a time. If you are evaluating multiple students, please create a new form for each student. 
-
-</thinking>
-
 # Linear Function Evaluation Form - Help Guide
 ## Purpose
 The Linear Function Evaluation Form is designed to assess students' understanding of linear functions. This form is intended for teachers or evaluators to evaluate students' knowledge and provide feedback.

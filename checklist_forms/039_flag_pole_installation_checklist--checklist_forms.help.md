@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about flag pole installations, which is a crucial process in various settings, such as construction sites, public spaces, or private properties. The form gathers details about the site, flag pole itself, safety measures, inspection results, and other relevant information. The form is intended to ensure that all necessary documentation is completed accurately and efficiently. Before starting, ensure that you are authorized to complete this form and that the information is relevant to the specific installation site.
-
-The form consists of multiple sections, each with a unique set of fields that need to be filled in. Please review each section carefully to ensure you provide accurate and complete information. Note that some fields have specific requirements or constraints.
-</thinking>
-
 # Flag Pole Installation Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about flag pole installations, ensuring accurate and efficient documentation.

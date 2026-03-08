@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect client feedback after a case resolution has been achieved. It's essential to fill out this form thoroughly to provide valuable insights to our team about the outcome and any areas for improvement. Please ensure that you haven't already provided feedback on this case before as it may be considered as redundant feedback. This will help us to refine our processes and provide better service in the future.
-</thinking>
-
 # post_case_resolution_client_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect client feedback after a case resolution has been achieved, helping our team to refine our processes and provide better service in the future.

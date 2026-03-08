@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctor's Notes Release Form - Help Guide
 
 ## Purpose

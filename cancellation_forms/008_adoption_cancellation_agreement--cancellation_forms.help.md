@@ -1,8 +1,3 @@
-<thinking>
-This form is used for the adopter to cancel the adoption of a pet. It is essential to follow these steps to ensure a successful cancellation process. The form should only be filled out by the original adopter who is cancelling the adoption. The adopter will be required to provide accurate and detailed information regarding the cancellation. If the pet is not returned to the organization, the form will be used to document the reason for the cancellation. The form is part of the 30-day refund policy, so it is crucial to be completed correctly. The adopter will be required to sign the form electronically to confirm their identity and authenticate the cancellation. The organization will use this form as a reference for future reference and to ensure that all adoption contracts are properly handled.
-
-</thinking>
-
 # Adoption Cancellation Agreement - Help Guide
 ## Purpose
 The Adoption Cancellation Agreement form is used for the adopter to cancel the adoption of a pet. This form is essential to document the reason for the cancellation and ensure a smooth transfer of ownership.

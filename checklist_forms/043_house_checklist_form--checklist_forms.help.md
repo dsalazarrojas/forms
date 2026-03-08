@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding the purpose and usage of the "House Checklist Form" and its various fields. 
 
 The form's purpose is to collect information regarding the status and condition of a house, including its workability, systems, engine status, service requirements, exterior information, security, and any additional comments. This form is designed to be completed by users who need to assess the current state of a house and make informed decisions based on the collected data.

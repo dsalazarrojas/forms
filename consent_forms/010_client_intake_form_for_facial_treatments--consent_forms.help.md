@@ -1,10 +1,3 @@
-<thinking>
-We'll create a comprehensive help guide for the "Client Intake Form For Facial Treatments" form. This form is used to collect information from clients regarding their skin health, medical history, and treatment consent. The fields are designed to gather essential details to provide personalized treatments and ensure the client's comfort and safety during the procedure.
-
-Before proceeding, please ensure that this form is relevant to your specific use case and not duplicated. If you're unsure, review the form fields and instructions to confirm the correct usage.
-
-</thinking>
-
 # Client Intake Form For Facial Treatments - Help Guide
 ## Purpose
 This form is designed to collect information from clients prior to facial treatments. It helps our team understand your skin health, medical history, and preferences, allowing us to provide you with the best possible experience and treatment outcomes.

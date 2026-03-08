@@ -1,12 +1,3 @@
-<thinking>
-To verify that this form is being used correctly, we first need to check that it is not a duplicate entry and that it is relevant for the purpose of the form. The form is intended to gather information from a website owner or user to obtain their consent to publish their website's information on our platform. This form should not be used for other purposes or filled out by anyone who does not have a legitimate reason to publish their website's information.
-
-For this form, we expect the website owner or user to provide their details including their name, email address, and website's URL. They will also be required to confirm their consent to publish this information. In addition, they have the option to provide extra contact information such as email address and phone number.
-
-Before filling out this form, please ensure that you are the website owner or user and that you have a legitimate reason to publish your website's information. This form should be completed with accurate and up-to-date information to ensure that the publishing process can proceed smoothly.
-
-</thinking>
-
 # Website Publishing Permission Form - Help Guide
 ## Purpose
 The Website Publishing Permission Form is designed to obtain consent from website owners or users to publish their website's information on our platform.

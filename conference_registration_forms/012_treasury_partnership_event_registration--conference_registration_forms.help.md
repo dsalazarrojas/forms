@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for a Treasury Partnership Event, where users can provide details about the event, including session choices, attendee details, and contact information. This form is used by event organizers to collect information from attendees and stakeholders.
-</thinking>
-
 # Treasury Partnership Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from attendees and stakeholders for a Treasury Partnership Event. It is used to gather session choices, attendee details, and contact information.

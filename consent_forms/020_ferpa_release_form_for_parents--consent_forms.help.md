@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: The "FERPA Release Form for Parents" is designed to obtain the necessary parental consent and information for the release of a student's educational records and information. This form is typically used in educational institutions to ensure that parents or guardians are aware of and agree to the release of their child's records, which may include grades, transcripts, and other sensitive information.
-Form purpose checks: This form is used for educational institutions to obtain parental consent, not for other purposes such as marketing or sales.
-Form purpose non-duplication: This form is designed to be a one-time submission form, not a recurring or subscription-based form.
-</thinking>
-
 # ferpa_release_form_for_parents - Help Guide
 ## Purpose
 The "FERPA Release Form for Parents" is a form used to obtain parental consent and information for the release of a student's educational records and information.

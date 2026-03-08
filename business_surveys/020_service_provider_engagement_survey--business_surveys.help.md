@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from customers about their interactions with service providers, specifically regarding their service engagement. The form will help us understand how well the service providers meet our customers' expectations, identify areas for improvement, and gather recommendations for future services. 
-
-This form should only be filled out by customers who have had an interaction with a service provider. 
-
-</thinking>
-
 # service_provider_engagement_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their interactions with service providers.

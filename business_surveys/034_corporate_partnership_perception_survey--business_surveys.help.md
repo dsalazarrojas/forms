@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from business partners about their perception of the corporate partnership. This survey is to be filled out by the partners who are currently partnered with the company. The goal is to understand the strengths and weaknesses of the partnership from the partner's perspective. This will help the company to make informed decisions about the partnership in the future.
-
-To make sure this survey is completed accurately, the following questions are to be filled out by the partner who has the most involvement in the partnership. If there are multiple partners, each one should fill out the survey. To prevent duplication of information, please do not fill out this survey if you have already done so in the past.
-</thinking>
-
 # Corporate Partnership Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from business partners about their perception of the corporate partnership.

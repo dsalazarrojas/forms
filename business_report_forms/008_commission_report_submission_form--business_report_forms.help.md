@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information about sales commission reports from agents. It is intended to gather detailed insights into the sales performance of agents, including information about their sales volume, commission earnings, and challenges faced. The form is typically used by sales agents to submit their commission reports on a regular basis.
-
-To avoid duplication, this form should only be submitted once per reporting period. Agents should ensure that they have all necessary information and documentation before completing the form.
-
-The form consists of various sections that cover different aspects of sales performance, including report information, agent details, sales summary, commission breakdown, and supporting documentation. Each section is critical in providing a comprehensive view of the sales performance.
-
-</thinking>
-
 # Commission Report Submission Form - Help Guide
 ## Purpose
 The Commission Report Submission Form is used to collect sales commission data from agents on a regular basis.

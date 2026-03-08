@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Fun Group Dynamics Survey - Help Guide
 ## Purpose
 The Fun Group Dynamics Survey is designed to gather information about the dynamics within teams. It helps teams reflect on their communication styles, collaboration, and conflict resolution strategies. This survey is meant to be a tool for teams to self-assess and identify areas for improvement.

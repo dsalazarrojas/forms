@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a claim made by a claimant. The form is designed to gather details about the claimant, such as their contact information, claim type, and supporting documents. It also includes fields for the post office staff and reviewer, including their contact information and signatures.
-This form may be used for various purposes, such as:
-- Processing claims for lost or damaged parcels
-- Gathering information for dispute resolution
-- Creating a record of claims received
-</thinking>
-
 # post_office_claim_form - Help Guide
 ## Purpose
 This form is used to collect information from claimants about lost or damaged parcels.

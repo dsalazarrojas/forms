@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to first understand the purpose and requirements of the form. The Vacation Rental Release Form likely aims to gather information from guests or renters about their rental experience, agreement, and contact details. However, the form seems to be missing critical information like dates, rental period, or payment details which is common in a rental agreement form. We will make best-effort to provide a clear explanation of each field.
-</thinking>
-
 # Vacation Rental Release Form - Help Guide
 ## Purpose
 This form is a general information gathering form for guests or renters providing their contact and emergency contact information, and agreement to the rental terms.

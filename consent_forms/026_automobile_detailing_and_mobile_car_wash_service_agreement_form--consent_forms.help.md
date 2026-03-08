@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to provide their information and preferences for an automobile detailing and mobile car wash service. The form is likely used to collect contact information, vehicle details, service preferences, and payment agreements. This form should not be used if the business already has the client's information and vehicle details on file. 
-</thinking>
-
 # Automobile Detailing And Mobile Car Wash Service Agreement Form - Help Guide
 ## Purpose
 The Automobile Detailing And Mobile Car Wash Service Agreement Form is designed to collect information from clients for an automobile detailing and mobile car wash service. This form is used to ensure that the client's vehicle is properly prepared and serviced according to their preferences.

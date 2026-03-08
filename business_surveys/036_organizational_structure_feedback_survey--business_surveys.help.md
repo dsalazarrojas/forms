@@ -1,6 +1,3 @@
-<thinking>What the form "Organizational Structure Feedback Survey" aims to achieve. It's a tool that helps organizations gather feedback from employees or stakeholders about their internal structure. The form is likely used by HR or organizational development teams to collect insights on how the company is organized, its reporting lines, and areas for improvement. This form will help identify potential issues within the organization and provide a basis for constructive change.
-</thinking>
-
 # Organizational Structure Feedback Survey - Help Guide
 
 ## Purpose

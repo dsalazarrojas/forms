@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the usage of real estate market data from users. The form is intended to gather demographic information, job function, job classification, data providers, data types, data frequency, data licensing, data satisfactory, data quality, and additional comments from users. This information will help us understand how real estate market data is being used and provide insights to improve our services. Please ensure that you are answering the questions truthfully and completely, as this information will help us tailor our services to meet your needs better.
-</thinking>
-
 # real_estate_market_data_usage_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the usage of real estate market data from users.

@@ -1,5 +1,3 @@
-<thinking>... this form appears to be for official statements submission, used for collecting and documenting complaints, incidents, or internal matters. It is possible that the form is used within an organization to gather information about an issue or problem that occurred, and to track its status. The form does not require any specific fields to be filled out, suggesting that it is a free-form input. However, certain fields like "submission_status" and "submission_category" are provided, indicating that they might be used to categorize and track the progress of the issue. The form also includes fields for reviewer information, which might be used for internal review and evaluation processes...</thinking>
-
 # official_statement_submission_form - Help Guide
 ## Purpose
 This form is designed to collect and document official statements, such as complaints, incidents, or internal matters, to help track their status and progress within the organization.

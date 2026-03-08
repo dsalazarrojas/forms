@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gauge the efficiency of collaboration between veterinarians, researchers, and other healthcare professionals. It will gather information on the methods used for collaboration, communication, and challenges faced in these settings.
-We have multiple fields of the same type "Hospital X", but they appear to be intended for different hospitals, likely due to a potential limitation in the form design. The "challenges" field is a select_one field, indicating it may be used to identify a single major challenge, whereas the other fields with the "Hospital" label are number fields, which could be intended for numerical input, such as ratings or scores.
-</thinking>
-
 # Veterinary Collaboration Efficiency Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information on the methods used for collaboration between veterinarians, researchers, and other healthcare professionals, as well as any challenges faced in these settings.

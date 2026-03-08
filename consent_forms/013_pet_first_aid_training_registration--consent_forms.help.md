@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information for Pet First Aid Training Registration. It is intended for pet owners, animal care professionals, or anyone interested in learning first aid techniques for pets. This guide will help you understand the purpose and usage of each field in the form. Please note that some fields are required for proper registration, while others are optional for additional information. Before proceeding, ensure that you have completed the form correctly and not previously registered for the same training session. If you're unsure about any field, please refer to this guide for clarification. </thinking>
-
 # Pet First Aid Training Registration - Help Guide
 ## Purpose
 The Pet First Aid Training Registration form is designed to gather information for pet owners and animal care professionals to register for first aid training sessions. This form collects essential details to ensure a smooth registration process.

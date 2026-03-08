@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain the necessary permissions and approvals from educators or educational institutions to release and share curriculum content. This form is used to gather information about the curriculum content, contact details of the person providing the content, and the permissions and approvals required for use and sharing of the content. The form is typically used in the context of sharing or releasing curriculum content, such as textbooks, resources, or materials, to ensure that all parties are aware of and agree to the terms of use and sharing.
-
-</thinking>
-
 # Curriculum Content Release Form - Help Guide
 ## Purpose
 

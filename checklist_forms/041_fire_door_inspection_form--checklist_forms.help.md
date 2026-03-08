@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to facilitate fire door inspection, where users are asked to evaluate the condition of various components of a fire door, such as the condition of the door, hinges, screws, locks, gasket, weatherstripping, and hinges condition. The form is not meant to be exhaustive, as it does not cover all aspects of a fire door inspection. The user is free to add any additional comments they feel are relevant.
-
-To avoid duplication of effort, users are encouraged to review previous inspection reports or forms before completing this form, if they are aware of any previous inspections or repairs made.
-
-This form is primarily intended for use by authorized personnel, such as firefighters or facilities maintenance personnel.
-
-</thinking>
-
 # Fire Door Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to help users conduct a fire door inspection by evaluating the condition of various components of the fire door.

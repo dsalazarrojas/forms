@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information for the mental health workshop, including details about the workshop, participant information, contact details, and emergency contacts. The form is split into various sections, each with specific fields for gathering relevant data. This form does not require any sensitive or confidential information, and all answers will be kept confidential. This form will be used for workshop planning and logistics purposes only. Please ensure you are completing this form carefully and accurately.</thinking>
-
 # Mental Health Workshop Consent Form - Help Guide
 ## Purpose
 The Mental Health Workshop Consent Form is used to gather information from participants for the mental health workshop. This includes details about the workshop, participant information, contact details, and emergency contacts.

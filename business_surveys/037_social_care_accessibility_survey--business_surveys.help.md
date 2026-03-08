@@ -1,17 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-The purpose of this form, "Social Care Accessibility Survey", is to collect information from end-users about their experiences with social care services. The form is designed to gather feedback on awareness and accessibility of these services. 
-
-This form should not be used for other purposes such as:
-* Requesting new services
-* Reporting service complaints
-* Providing personal details for service delivery
-
-Please ensure each page is completed accurately and thoroughly. Some fields have optional or required answers, please follow the instructions for each field carefully. 
-
-</thinking>
-
 # Social Care Accessibility Survey - Help Guide
 
 ## Purpose

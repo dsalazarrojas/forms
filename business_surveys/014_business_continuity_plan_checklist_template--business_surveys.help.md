@@ -1,7 +1,3 @@
-<thinking>As I analyze the provided YAML, I notice that this form is designed to help organizations assess and document their business continuity plans. The form seems to cover various aspects of business continuity, including organization information, governance, recovery capabilities, communication and training, documentation, and testing and maintenance. This form appears to be a comprehensive checklist for organizations to ensure they have a solid business continuity plan in place.
-
-Before diving into the help guide, I'll make sure this form is not duplicating any existing forms. A quick search suggests that this form is unique and doesn't have a similar counterpart in the provided category. This form's structure and fields seem to align with the needs of organizations to assess and document their business continuity plans.</thinking>
-
 # Business Continuity Plan Checklist Template - Help Guide
 ## Purpose
 This template is designed to help organizations assess and document their business continuity plans, ensuring they have a comprehensive plan in place to ensure continuity and minimize disruptions.

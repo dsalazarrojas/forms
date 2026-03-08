@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to gauge employee perceptions and feelings about their workplace experiences, focusing on trust and loyalty aspects. It is meant to collect qualitative data on various aspects of employee well-being and job satisfaction. This form is intended for internal use within the company, and the responses will help the management understand their employees' sentiments, allowing for potential improvements in policies and practices.
-
-</thinking>
-
 # Employee Trust And Loyalty Survey - Help Guide
 ## Purpose
 

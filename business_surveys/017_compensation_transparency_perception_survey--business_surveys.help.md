@@ -1,11 +1,3 @@
-<thinking>
-
-We need to determine the purpose of this form. Based on the provided YAML, the form appears to be a survey designed to gauge employees' perceptions of pay transparency within their organization. The form asks questions about their comfort level with discussing pay with colleagues, awareness of their own and others' pay ranges, understanding of pay decision criteria, and overall perception of transparency in the company. This information will likely be used to identify areas for improvement and develop strategies to enhance pay transparency within the organization.
-
-We also need to check for non-duplication. Upon reviewing the form, we can see that there are multiple questions related to transparency, such as "I am comfortable discussing pay with colleagues", "Current level of transparency", and "Desired level of transparency". This suggests that the form is focused on assessing employees' perceptions and attitudes towards pay transparency, rather than duplicating existing information.
-
-</thinking>
-
 # Compensation Transparency Perception Survey - Help Guide
 ## Purpose
 The Compensation Transparency Perception Survey is designed to gather information about employees' perceptions of pay transparency within the organization. This survey aims to understand employees' comfort levels with discussing pay with colleagues, their understanding of pay ranges and decision criteria, and their overall perception of transparency.

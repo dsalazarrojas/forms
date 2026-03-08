@@ -1,6 +1,3 @@
-<thinking>
-The Service Confirmation Form is a digital template used to record and track service-related information, ensuring accuracy and efficiency in service delivery confirmation processes. This form should only be used for services that have been provided, not for services that are pending or cancelled. Please ensure you're not duplicating a service confirmation for the same service instance before submitting this form. The form is designed to gather essential details about the service performed, including employee involvement, status, date and time of service, and any notable comments or additional contact information.</thinking>
-
 # Service Confirmation Form - Help Guide
 ## Purpose
 The Service Confirmation Form is a digital template used to record and track service-related information, ensuring accuracy and efficiency in service delivery confirmation processes.

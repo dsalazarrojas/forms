@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about presentation proposals for a conference. This form is used to gather details about the presentation, such as the title, speaker, and presentation format. The fields on this form will help the conference organizers to assess and review the proposals.
-Before filling out this form, please make sure that the presentation proposal is not a duplicate of another proposal. This form should be used for new and original proposals only.
-</thinking>
-
 # Presentation Proposal Form - Help Guide
 ## Purpose
 This form is used to submit a presentation proposal for the conference. It gathers information about the presentation, speaker, and other relevant details.

@@ -1,8 +1,4 @@
-> <thinking>
-This form is a custom-made adaptation for the "Rise Youth Convention 2019" event, created using AI-generated form design, not affiliated with any specific form platform. It collects information for registration purposes, and its fields can be modified or used for personal and commercial purposes under CC BY 4.0 licensing. This guide is intended to help end-users understand the form's purpose and how to fill it out correctly.
-</thinking>
-
-# rise_youth_convention_2019 - Help Guide
+> # rise_youth_convention_2019 - Help Guide
 ## Purpose
 The "Rise Youth Convention 2019" registration form is designed to collect general information, registration type, and other details from attendees. This form is a helpful tool for organizers to gather relevant information and manage the event smoothly.
 

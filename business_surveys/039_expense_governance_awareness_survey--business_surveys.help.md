@@ -1,5 +1,3 @@
-<thinking>By analyzing the form YAML, I understand that this form is designed to gather information about employee awareness and understanding of expense governance policies within an organization. The form aims to assess how well employees are informed and compliant with these policies. It's likely used by the organization to evaluate and improve their expense governance processes. This form is likely to be used by employees who are responsible for expense management, such as accounting or finance teams.</thinking>
-
 # Expense Governance Awareness Survey - Help Guide
 
 ## Purpose

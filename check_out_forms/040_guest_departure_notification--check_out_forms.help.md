@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Departure Notification - Help Guide
 
 ## Purpose

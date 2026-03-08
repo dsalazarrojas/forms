@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for the Client Relationship Management Assessment Form, which is a tool for evaluating the overall health and performance of client relationships. The purpose of this form is to gather information about a client's account, such as their assessment date, account name, and overall relationship health. This information is used to inform business decisions and identify areas for improvement in the client relationship.
-
-To avoid duplication and ensure accurate data collection, it is essential to review the form's fields to determine if the information is already available in the system or if it is relevant to the current situation.
-
-The form is designed to be completed by the account managers or relevant personnel, and it should be used as a guide to ensure that all necessary information is collected.
-
-</thinking>
-
 # Client Relationship Management Assessment Form - Help Guide
 
 ## Purpose

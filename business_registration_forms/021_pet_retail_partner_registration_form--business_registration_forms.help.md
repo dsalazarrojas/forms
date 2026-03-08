@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential pet retail partners, allowing them to register their business and become partners with the company. This form is used by the company to gather data on the partners' identity, products, and locations, which will be used to facilitate communication, order fulfillment, and other business operations. This form should only be completed once per business, to avoid creating duplicate entries.
-</thinking>
-
 # Pet Retail Partner Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential pet retail partners for business operations and communication purposes.

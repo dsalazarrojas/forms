@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a replacement for a customer reward, which is likely a promotional item given to customers for their loyalty or purchases. The purpose of the form is to gather information from the customer to assess the request and process it accordingly. Before filling out this form, please ensure you have not already submitted a request for replacement and are not using this form for commercial purposes.
-</thinking>
-
 # customer_reward_replacement_request_form - Help Guide
 ## Purpose
 This form is used to request a replacement for a customer reward, which is a promotional item given to customers for their loyalty or purchases.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Weekly Expense Calculation Form is to collect information on individual expenses and categorize them for further analysis. It is essential to ensure that the form is filled out for the correct week of the month to accurately track expenses. Please confirm the start date of the week before proceeding.
-</thinking>
-
 # Weekly Expense Calculation Form - Help Guide
 ## Purpose
 The Weekly Expense Calculation Form is used to collect and categorize individual expenses for further analysis and tracking.

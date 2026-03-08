@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help businesses reconstruct their income for a given reporting period. The purpose of the form is to collect information about a business' revenue and expenses, which will be used to understand their financial performance during a specific time frame. The form is likely to be used by financial auditors or accountants to verify the accuracy of a company's reported income. It's essential to fill this form out accurately to ensure that the reconstructed income reflects the actual business performance.
-
-</thinking>
-
 # Business Income Reconstruction Survey - Help Guide
 ## Purpose
 The Business Income Reconstruction Survey is a form designed to collect detailed information about a business' income and expenses for a given reporting period. This information will be used to reconstruct the business' income, which is essential for financial audits, tax purposes, or other accounting tasks.

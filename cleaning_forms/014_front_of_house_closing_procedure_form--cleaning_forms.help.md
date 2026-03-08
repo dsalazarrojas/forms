@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to document the cleaning procedures for a front of house area, which is the public-facing section of a building or office space. This form aims to gather information about the areas that need to be cleaned, the types of equipment that require special attention, and the specifics of each wet and dry area. The form will be used by maintenance staff to ensure that all areas are properly cleaned and maintained to maintain a safe and healthy environment for customers and employees.
-
-This form should only be used for front of house areas, and not for other types of cleaning tasks or areas.
-
-The form is designed to be completed by maintenance staff, who will use the information gathered to plan and execute the cleaning procedures.
-
-The following is a help guide to assist maintenance staff in completing this form accurately and efficiently.
-
-</thinking>
-
 # Front Of House Closing Procedure Form - Help Guide
 ## Purpose
 This form is designed to document the cleaning procedures for front of house areas, which are essential for maintaining a safe and healthy environment for customers and employees.

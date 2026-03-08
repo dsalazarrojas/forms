@@ -1,5 +1,3 @@
-<thinking>...This form is intended to be used by quality control teams to inspect and evaluate different aspects of a product or process. The form will help teams ensure that all required checks are completed and provide a comprehensive evaluation of the product's quality. It is not to be used for duplicate evaluations, so users should be familiar with the product before submitting this form. Please review this form carefully to ensure you are providing accurate and complete information for evaluation. This form may include sensitive information and personal data, so please respect confidentiality and data protection guidelines when completing the form...</thinking>
-
 # Quality Control Inspection Form - Help Guide
 ## Purpose
 The Quality Control Inspection Form is used by quality control teams to inspect and evaluate different aspects of a product or process. This form helps ensure that all required checks are completed and provides a comprehensive evaluation of the product's quality.

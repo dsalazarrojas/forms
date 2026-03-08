@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for suppliers to register their information and provide details about their business, including their contact information, payment terms, and shipping details. The form is meant to be completed by suppliers who are interested in doing business with the company. It is not a comprehensive form and is intended to be used for informational purposes only. Please note that this form does not imply an official partnership or agreement between the supplier and the company.
-
-</thinking>
-
 # Supplier Registration Form - Help Guide
 ## Purpose
 This form is for suppliers to register their information and provide details about their business.

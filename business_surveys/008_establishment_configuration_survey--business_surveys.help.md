@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect establishment configuration details from users, such as the type of establishment, location, operating hours, and contact information. The purpose of this form is to gather data that will be used to configure and manage establishments within the system. It's crucial to fill out the form accurately to ensure that the establishment's settings are correctly reflected in the system. Please note that some fields may be optional, and you only need to fill out what is relevant to your establishment.
-
-Before proceeding, please ensure you have not already completed this form for your establishment. This will save you time and prevent duplicate entries.
-
-</thinking>
-
 # Establishment Configuration Survey - Help Guide
 ## Purpose
 This form is designed to collect essential configuration details about an establishment, allowing our system to accurately manage and configure its settings.

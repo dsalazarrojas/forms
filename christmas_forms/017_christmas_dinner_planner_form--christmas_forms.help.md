@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Dinner Planner Form - Help Guide
 ## Purpose
 This form is designed to help users plan a Christmas dinner, gathering, or event. It guides the user through the essential details of the event, including event information, guest planning, menu planning, and entertainment. The form is used to capture the necessary information to create a comprehensive plan for a successful and enjoyable Christmas celebration.

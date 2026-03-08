@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_academy_admission_checklist_form_template - Help Guide
 ## Purpose
 This form template is designed to assist sports academies in the process of gathering necessary information from students and their parents before admission. It helps to ensure that all relevant details are collected in a structured and organized manner, reducing the likelihood of missing important information.

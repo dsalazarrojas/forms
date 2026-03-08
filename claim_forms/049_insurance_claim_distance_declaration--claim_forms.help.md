@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information related to an insurance claim for distance traveled. The purpose of this form is to capture the necessary details for processing and verifying an insurance claim related to travel distance. This form should only be completed by authorized parties, and the data collected here should not be duplicated in other forms. Please ensure that you are filling out the correct form and providing accurate information to avoid delays or errors in the claim process.
-
-</thinking>
-
 # Insurance Claim Distance Declaration - Help Guide
 
 ## Purpose

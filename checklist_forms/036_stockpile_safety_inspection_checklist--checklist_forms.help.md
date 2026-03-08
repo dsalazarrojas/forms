@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended to be used for stockpile safety inspections. It is crucial for stockpilers to complete this form accurately to maintain a safe and organized stockpile. Please ensure you complete this form with attention to detail.
-</thinking>
-
 # Stockpile Safety Inspection Checklist - Help Guide
 ## Purpose
 The Stockpile Safety Inspection Checklist is a form used to inspect stockpiles for safety and compliance. It helps stockpilers to systematically evaluate and address potential hazards, ensure compliance with regulations, and maintain accurate records.

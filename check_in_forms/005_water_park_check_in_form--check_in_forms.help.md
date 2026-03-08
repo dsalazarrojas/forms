@@ -1,5 +1,3 @@
-<thinking>Check if the form is indeed for checking in guests at a "Water Park", and if not, please reconfigure. Assuming it's for a water park check-in form...</thinking>
-
 # Water Park Check In Form - Help Guide
 ## Purpose
 This form is used for checking in guests at the water park. Please use this form to provide your details so that we can ensure a safe and enjoyable visit for you and your group.

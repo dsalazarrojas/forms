@@ -1,11 +1,3 @@
-<thinking>
-This form is a Webinar Content Release Form, a critical document used for obtaining permissions from event organizers, speakers, and other stakeholders for the content creation, distribution, and archival processes of webinars. This form ensures that all parties involved in the webinar's content creation and sharing are aware of and agree to the terms of content usage and distribution.
-
-Before filling this form, please ensure that you are authorized to represent the event organizer or speaker. This form is a one-time request and must be filled out for each webinar. 
-
-This guide will walk you through the form step-by-step.
-</thinking>
-
 # Webinar Content Release Form - Help Guide
 ## Purpose
 The Webinar Content Release Form is a document used to obtain permissions for the content creation, distribution, and archival processes of webinars. This form ensures that all parties involved in the webinar's content creation and sharing are aware of and agree to the terms of content usage and distribution.

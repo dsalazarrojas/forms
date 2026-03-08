@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Values Alignment Reflection - Help Guide
 
 ## Purpose

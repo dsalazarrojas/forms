@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients about their experience with our clocking system. The form is divided into several sections, including an introduction, system usability, features, and overall value of the system. This feedback is crucial to help us identify areas of improvement and provide better services to our clients.
-
-To avoid duplication, we encourage clients who have already submitted their feedback to not do so again. This form will help us gather information from clients who have not previously shared their thoughts about our system.
-
-To ensure the data collected is accurate and reliable, please fill out the form completely and honestly. We appreciate your time and feedback.
-
-Before filling out the form, please make sure you are logged in or provide your email address if you are not logged in, so we can follow up with you on your feedback.
-
-</thinking>
-
 # Client Clocking System Survey - Help Guide
 ## Purpose
 

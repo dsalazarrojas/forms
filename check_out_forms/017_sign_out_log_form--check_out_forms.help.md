@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to log the details of a sign out event for an employee. The purpose of this form is to provide a standardized way of collecting relevant information about the sign out event, which can be useful for tracking and analysis. This form is intended for internal use within the organization and is not intended for external use. To avoid duplication, please fill out this form only once for each sign out event.
-
-</thinking>
-
 # sign_out_log_form - Help Guide
 ## Purpose
 This form is used to log the details of a sign out event for an employee.

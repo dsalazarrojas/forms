@@ -1,7 +1,3 @@
-<thinking>
-This form is used for potential adopters to apply for dog adoption, providing necessary information about their household, contact details, family composition, veterinary references, pet experience, and understanding of adoption terms.
-</thinking>
-
 # Dog Adoption Application - Help Guide
 ## Purpose
 This form is designed to gather information from potential adopters to determine their suitability for adopting a dog. Please fill out the form carefully to ensure that we have all necessary details to consider your application.

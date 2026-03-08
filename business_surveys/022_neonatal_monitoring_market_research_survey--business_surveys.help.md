@@ -1,7 +1,3 @@
-<thinking>
-This form is used for market research on neonatal monitoring devices. It's essential to understand the user's experience and perceptions on these devices to gather valuable insights for product development and improvement. Before proceeding, please ensure that you haven't filled out this form recently to avoid duplicating your response. This form is designed to gather data on user preferences, experiences, and challenges related to neonatal monitoring devices.
-</thinking>
-
 # neonatal_monitoring_market_research_survey - Help Guide
 ## Purpose
 This survey aims to gather information on your experiences and perceptions regarding neonatal monitoring devices. Your input will help us understand your needs and preferences, which will contribute to the development and improvement of these devices.

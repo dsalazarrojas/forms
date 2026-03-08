@@ -1,7 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "Bathroom Cleaning Checklist" form, which is used to document the cleaning tasks and status for bathroom areas. This form is likely used in a maintenance or cleaning context, where the user needs to track and report the completion of various cleaning tasks. To complete this form, the user will need to provide location and staff information, select the status of various cleaning tasks, and record the completion time. This guide will help the user understand the purpose and use of each field in the form.
-</thinking>
-
 # Bathroom Cleaning Checklist - Help Guide
 ## Purpose
 The Bathroom Cleaning Checklist form is used to document the cleaning tasks and status for bathroom areas. This form helps to ensure that cleaning tasks are completed and reported accurately, and it's used in a maintenance or cleaning context.

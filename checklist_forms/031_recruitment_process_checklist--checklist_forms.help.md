@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to guide hiring managers and recruiters through the recruitment process for a job opening. It helps to track and document the steps taken during the process, from applicant submission to hiring decision and onboarding. This form is meant to ensure that all necessary steps are taken and that the process is completed efficiently and effectively. It is essential to fill out this form accurately and comprehensively to maintain accurate records and improve future recruitment processes.
-
-Please review the form carefully and ensure that you have not used a similar form in the past for the same purpose to avoid unnecessary duplication of effort. Also, if the form fields or their labels are unclear, it is your responsibility to seek clarification from the relevant stakeholders before proceeding.
-</thinking>
-
 # Recruitment Process Checklist - Help Guide
 ## Purpose
 The Recruitment Process Checklist is a form designed to guide hiring managers and recruiters through the various steps involved in the recruitment process. It ensures that all necessary steps are taken and that the process is completed efficiently and effectively.

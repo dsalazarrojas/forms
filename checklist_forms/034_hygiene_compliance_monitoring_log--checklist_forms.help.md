@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to track and report on the status of hygiene compliance in a facility. This form is meant to be completed by supervisors or inspectors after visiting a specific area of the facility. The purpose of this form is to ensure that all areas of the facility are being maintained in a clean and safe state, and to track any issues that have been found and the actions taken to address them.
 
 To complete this form, follow these steps:

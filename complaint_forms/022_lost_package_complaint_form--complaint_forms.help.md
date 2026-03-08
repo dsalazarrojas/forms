@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lost Package Complaint Form - Help Guide
 ## Purpose
 The Lost Package Complaint Form is used to report packages that have not been received by the customer. It is intended to help resolve issues related to missing shipments and provide a clear record of the customer's complaint.

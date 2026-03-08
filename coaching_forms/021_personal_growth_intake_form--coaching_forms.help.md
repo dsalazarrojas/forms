@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients seeking personal growth coaching. The form is intended to provide a comprehensive overview of the client's goals, challenges, and preferences for coaching. This form will help coaches understand the client's needs and tailor their approach to meet those needs.
-
-To ensure that clients who are already in coaching programs or have previously taken a similar form do not fill out this form again, please check with your coach before filling out this form.
-
-This form is meant to be a living document, and the information collected will be used to guide the coaching process. Please answer the questions honestly and thoroughly to ensure that your coach has a clear understanding of your goals and challenges.
-
-</thinking>
-
 # Personal Growth Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients seeking personal growth coaching.

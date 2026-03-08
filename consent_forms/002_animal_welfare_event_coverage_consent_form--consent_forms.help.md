@@ -1,9 +1,3 @@
-<thinking>
-To ensure the Animal Welfare Event Coverage Consent Form accurately captures the required information and maintains the trust of attendees, it's essential to confirm that the form is not only necessary but also non-duplicative. This form serves as a comprehensive consent mechanism for individuals who participate in animal welfare events, covering various aspects of media permissions, parental consent (if applicable), and personal details.
-
-This guide aims to provide a clear and concise overview of the form's purpose and each field's significance to facilitate smooth and accurate completion.
-</thinking>
-
 # Animal Welfare Event Coverage Consent Form - Help Guide
 ## Purpose
 The Animal Welfare Event Coverage Consent Form is designed to gather essential information and consent from individuals participating in animal welfare events. It ensures that their media permissions, parental consent (if applicable), and personal details are accurately recorded, providing a comprehensive understanding of their willingness to be photographed, filmed, or interviewed during the event.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from exhibitors at a farm show, ensuring they understand and agree to the event rules, animal welfare standards, and conduct expectations. This guide will help users understand the purpose and requirements of this form.
-
-This form should only be completed by individuals who are authorized to represent the exhibitor. Please ensure that you are completing this form on behalf of the correct entity.
-
-Before proceeding, please ensure you are not duplicating your efforts and that the same information has not been already submitted.
-
-</thinking>
-
 # Farm Show Ethics Agreement - Help Guide
 ## Purpose
 The Farm Show Ethics Agreement is a form that collects information from exhibitors about their agreement to follow event rules, uphold animal welfare standards, and adhere to conduct expectations. This form helps the event organizers ensure that all exhibitors are aware of and agree to the rules and standards that govern their participation in the event.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to assess the defectiveness of a product, gathering information about the product's name, type, description, location, and date of defect, as well as the customer's contact details and defect severity and status. This form is intended to be filled out by customers or product owners to report any defects or issues they have experienced with a product. 
-
-To avoid duplication, please ensure that this form is filled out only once per defect. If a customer has already reported a defect, please do not fill out this form again.
-
-</thinking>
-
 # Product Defectiveness Assessment Questionnaire - Help Guide
 
 ## Purpose

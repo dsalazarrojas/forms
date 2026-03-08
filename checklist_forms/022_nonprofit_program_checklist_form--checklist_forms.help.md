@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Nonprofit Program Checklist Form, I need to understand the intended purpose and the structure of the form. Based on the provided YAML, it appears that the form is designed to collect general information, program details, target population, program goals, services, target outcomes, evaluation criteria, evaluation frequency, evaluation methodology, program staff, and program budget related to a nonprofit program. However, without additional context, it's unclear which fields are required and which are not, and how the collected data will be used. It's also important to note that the form seems to be designed for both internal and external use, as it does not specify which fields are only accessible to internal stakeholders. 
-</thinking>
-
 # Nonprofit Program Checklist Form - Help Guide
 ## Purpose
 The Nonprofit Program Checklist Form is designed to collect essential information about nonprofit programs. This form helps ensure that all necessary details are captured, enabling efficient and accurate assessment and evaluation of programs. 

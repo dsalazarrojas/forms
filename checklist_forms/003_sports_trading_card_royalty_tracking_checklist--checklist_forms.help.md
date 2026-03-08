@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking royalty payments for sports trading cards. It's used to record the status of licensing periods, reporting progress, royalty payment status, and other relevant details for royalty payments. The form is likely used by someone responsible for managing royalty payments for sports trading cards.
-</thinking>
-
 # sports_trading_card_royalty_tracking_checklist - Help Guide
 ## Purpose
 This form is designed to track royalty payments for sports trading cards. It's intended to help users record and manage various aspects of royalty payment processes, including licensing periods, reporting progress, royalty payment status, and other related information.

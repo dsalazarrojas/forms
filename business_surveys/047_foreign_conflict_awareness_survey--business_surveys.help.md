@@ -1,9 +1,3 @@
-<thinking>
-
-The Foreign Conflict Awareness Survey form is designed to collect feedback from users about their perceptions and experiences with forms, data, and information sources. This form aims to gather insights into the ease of use, customization options, and effectiveness of forms in real-world scenarios. The form will help us understand how users interact with forms, what features they find useful, and where they struggle with form-related tasks. This information will inform the development of more user-friendly and effective forms.
-
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 The Foreign Conflict Awareness Survey is a form designed to collect feedback from users about their experiences and perceptions with forms, data, and information sources. Your responses will help us understand how users interact with forms and identify areas for improvement.

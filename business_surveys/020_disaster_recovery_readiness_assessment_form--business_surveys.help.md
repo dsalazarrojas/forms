@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disaster Recovery Readiness Assessment Form - Help Guide
 
 ## Purpose

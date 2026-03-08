@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # urban_planning_community_needs_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from community members about their needs and concerns regarding urban planning and development in their neighborhood. It aims to identify areas for improvement and facilitate community engagement and participation in the planning process.

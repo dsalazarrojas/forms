@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a checklist for a social worker to conduct home visits and assess various factors related to a client's well-being. The purpose of this form is to gather information about the client's home environment, safety, and resources. This form likely aims to help social workers make informed decisions about the client's care and support needs.
-</thinking>
-
 # Social Worker Home Visit Checklist - Help Guide
 ## Purpose
 The Social Worker Home Visit Checklist is a tool to help social workers gather information about a client's home environment, safety, and resources during a home visit. This form aims to assist social workers in identifying areas of concern and providing targeted support to the client.

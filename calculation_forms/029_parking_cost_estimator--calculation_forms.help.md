@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # parking cost estimator - Help Guide
 ## Purpose
 The parking cost estimator form is designed to calculate the total parking fee based on the user's input of parking duration and rates. It is intended for users to input their parking duration and choose whether they want to pay a daily or hourly rate to estimate their parking fee.

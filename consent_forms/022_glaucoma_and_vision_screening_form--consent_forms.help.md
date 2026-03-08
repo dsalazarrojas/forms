@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Glaucoma And Vision Screening Form - Help Guide
 ## Purpose
 This form is designed to screen for glaucoma and vision issues. It collects information about your eye health and vision problems, helping healthcare professionals assess your condition accurately.

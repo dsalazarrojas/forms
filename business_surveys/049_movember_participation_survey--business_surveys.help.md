@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participation information from Movember participants, which can be used to analyze and track engagement with the Movember initiative. The form will be used to collect information such as participant names, emails, and phone numbers, as well as their motivations and future interests. This information will be used to create a database of participants and track their progress. The form is divided into several sections, each with a specific purpose. We will not be duplicating any data that is already available in other systems, so please do not fill out this form if you have already participated in a similar form or survey in the past.
-</thinking>
-
 # Movember Participation Survey - Help Guide
 ## Purpose
 This form is used to collect participation information from Movember participants. It is essential to fill out this form to help us track and analyze engagement with the Movember initiative.

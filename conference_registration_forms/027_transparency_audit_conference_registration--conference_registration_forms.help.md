@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for conference attendees to provide details about themselves and their preferences for attending a transparency audit conference. The form will help attendees register and express their preferences for different sessions, allowing conference organizers to better prepare for the event. This form has not been duplicated, as it is a unique instance of a transparency audit conference registration form.
-</thinking>
 # Transparency Audit Conference Registration - Help Guide
 ## Purpose
 The "Transparency Audit Conference Registration" form is a self-service tool for attendees to provide their details and preferences for the conference. It helps the conference organizers to collect relevant information about the attendees and their expectations for the event.

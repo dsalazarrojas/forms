@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and inquiries from customers. It is intended for customers to provide their input, thoughts, and ratings on their experience with our organization. This form is not meant to be completed multiple times, so please only fill it out once per interaction with our organization.
-</thinking>
-
 # customer_survey_inquiry_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and inquiries from customers to help us understand their experience and improve our services.

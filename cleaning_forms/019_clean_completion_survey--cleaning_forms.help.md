@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide feedback on the quality of our cleaning services after the job is completed. We ask questions about their satisfaction with the service, the areas of the house that were cleaned, and any issues that arose during the process. We also collect feedback on the professionalism and timeliness of our crew and any areas for improvement. This form should only be filled out by customers who have received our cleaning services and should not be filled out by staff members.
-</thinking>
-
 # Clean Completion Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback from customers about their experience with our cleaning services. It helps us identify areas where we excel and areas where we need to improve.

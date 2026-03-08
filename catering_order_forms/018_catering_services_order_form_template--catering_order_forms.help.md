@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for catering services orders. It is intended for use by customers to provide their details and order information, as well as for staff to use for billing and payment purposes. This guide will help users understand how to complete the form correctly and efficiently. Please review this guide before proceeding to ensure you understand the form's purpose and requirements. If you have any questions or concerns, please refer to this guide for clarification.
-</thinking>
-
 # Catering Services Order Form Template - Help Guide
 ## Purpose
 This form is used for clients to provide their information and order details for catering services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help machine validation program administrators register their machine validation programs with the organization. The form will be used to collect contact information, machine details, and validation date. This information will help the organization keep track of all machine validation programs and ensure that they are running properly and within the specified validation dates. Before proceeding, make sure that you have not already registered this machine validation program with the organization. If you are unsure, please check with the program administrator.
-</thinking>
-
 # Machine Validation Program Registration Form - Help Guide
 ## Purpose
 This form is used to register a machine validation program with the organization. It collects contact information, machine details, and validation date, and allows the user to submit the form at the current or a later time.

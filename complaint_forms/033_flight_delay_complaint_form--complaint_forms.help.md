@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user complaints about flight delays. The user should report issues they faced due to flight delays, providing details such as the flight delay type, delay reason, flight number, passenger information, and date and time of the flight. It is essential that users do not submit duplicate complaints or complaints that do not meet the minimum required fields. Please ensure you have read this guide carefully before filling out the form. 
-</thinking>
-
 # Flight Delay Complaint Form - Help Guide
 ## Purpose
 The Flight Delay Complaint Form is designed to collect information about flight delays, allowing us to better understand and address these issues.

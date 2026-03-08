@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to analyze lead time metrics for suppliers, providing insights into their performance and delays. The form is used to gather data on supplier lead times, document delays, delivery performance, total lead time, supplier rating, lead time analysis, and document status. This form is crucial for businesses to evaluate and improve their supplier relationships. 
-
-To fill out this form, follow these general steps: 
-
-1. Enter the supplier lead times for each of the specified time periods. 
-2. Report any document delays experienced by the supplier, if applicable. 
-3. Assess the delivery performance of the supplier, using a numeric scale. 
-4. Calculate the total lead time by adding the supplier lead times and document delays. 
-5. Assign a supplier rating based on their performance. 
-6. Choose the relevant lead time analysis category from the options provided. 
-7. Select the current status of the documents received from the supplier.
-
-</thinking>
-
 # Supply Lead Time Analysis Report - Help Guide
 ## Purpose
 The Supply Lead Time Analysis Report is used to analyze and evaluate supplier performance and lead times. This report helps businesses to identify areas of improvement and optimize their supplier relationships.

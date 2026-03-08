@@ -1,10 +1,3 @@
-<thinking>
-We're assuming that the form is intended for event organizers and attendees to register for event coverage, which may involve taking photographs, videos, or interviews. The purpose of the form is to help event organizers manage who should be allowed to cover events and ensure that event teams and attendees are informed about coverage arrangements. Before filling out this form, please ensure that you or your event team is not already registered for coverage.
-
-This form has 5 pages, but since pages are not actually fields, we'll focus on describing each field individually. Please review each field carefully, as they all contribute to the overall purpose of this form. This form is not required to be completed in one session, and you can save your progress and come back later.
-
-</thinking>
-
 # Event Coverage Registration - Help Guide
 ## Purpose
 The Event Coverage Registration form is designed for event organizers and attendees to declare their interest in covering events. It's a crucial tool for event teams to track who's covering events, so they can plan accordingly.

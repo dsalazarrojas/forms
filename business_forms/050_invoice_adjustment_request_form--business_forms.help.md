@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the "invoice_adjustment_request_form" form, we need to first understand its purpose and the context in which it will be used. This form appears to be designed for requesting adjustments to invoices, which can include overcharges, undercharges, or incorrect billing. The form collects customer information, details about the issue with the invoice, and other relevant data that will help the approver understand the request and make an informed decision.
-
-Before starting to fill out the form, it's essential to ensure that you are the correct person to fill it out. This form is meant for customers or representatives who need to request adjustments to their invoices. If you are not the authorized person, you should not fill out this form.
-
-Also, ensure that you are not duplicating an existing request. Check if a similar request has already been made, and if so, please do not create a new one. This will help us process the requests efficiently and avoid confusion.
-
-</thinking>
-
 # invoice_adjustment_request_form - Help Guide
 ## Purpose
 The "invoice_adjustment_request_form" is a form designed to request adjustments to invoices. This form is used to provide details about the issue with the invoice, and the customer or representative who is requesting the adjustment.

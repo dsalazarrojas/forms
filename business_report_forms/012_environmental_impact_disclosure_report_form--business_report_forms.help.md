@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that the form is used correctly and efficiently, please verify that this form is relevant to your specific project needs and that you have not already completed the Environmental Impact Disclosure Report Form for this project. If you have any questions or concerns, please reach out to your project manager or the Environmental Impact Review Team.
-
-</thinking>
-
 # Environmental Impact Disclosure Report Form - Help Guide
 ## Purpose
 The Environmental Impact Disclosure Report Form is designed to collect information about the potential environmental impacts of a project, including project details, site information, project contacts, site contacts, and supporting documents. This form helps the Environmental Impact Review Team assess the project's environmental implications and make informed decisions.

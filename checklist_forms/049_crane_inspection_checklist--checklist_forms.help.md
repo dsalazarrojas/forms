@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, the "Crane Inspection Checklist", is to aid users in ensuring the safe operation and maintenance of crane equipment. This form will help identify potential issues before they become safety hazards or cause damage to the equipment or surrounding structures. By completing this form, users can systematically go through the checklist and ensure that all necessary checks are performed, reducing the risk of accidents or equipment failure. This form should only be used for cranes that are in operation or have been recently serviced. It's essential to fill out this form thoroughly and accurately to ensure the effectiveness of the crane inspection process.
-</thinking>
-
 # Crane Inspection Checklist - Help Guide
 ## Purpose
 The Crane Inspection Checklist is a tool used to identify potential issues with crane equipment before they become safety hazards or cause damage to the equipment or surrounding structures. This form ensures a systematic approach to inspecting cranes and reduces the risk of accidents or equipment failure.

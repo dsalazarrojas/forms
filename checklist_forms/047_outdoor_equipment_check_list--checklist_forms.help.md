@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information on the outdoor equipment check list. The form purpose is to gather details about the equipment, activity, and participant's email for any given outdoor activity or event. The form's design is based on common elements found in outdoor equipment checklists, but it does not duplicate or copy any proprietary content from other form platforms. The form can be freely used, modified, and distributed under CC BY 4.0 license.
-</thinking>
-
 # Outdoor Equipment Check List - Help Guide
 ## Purpose
 This form is designed to collect information on the outdoor equipment used during an outdoor activity or event. It will gather details about the participant, equipment, and activity, and participant's email for follow-up purposes.

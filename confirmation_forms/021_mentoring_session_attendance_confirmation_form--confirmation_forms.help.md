@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for confirming the attendance of mentors and mentees to mentoring sessions. The purpose of this form is to ensure that both the mentor and mentee are present and aware of the terms and conditions of the mentoring session. The form collects essential details such as session ID, mentee details, mentor and mentee attendance, agreement, and session dates and times. This information is crucial for tracking and recording the progress of the mentoring sessions.
-</thinking>
-
 # Mentoring Session Attendance Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm the attendance of mentors and mentees to mentoring sessions, ensuring both parties are present and aware of the terms and conditions.

@@ -1,11 +1,3 @@
-<thinking>
-This form aims to gather information on real estate technology adoption from businesses. The purpose of this form is to collect data on the current state of real estate technology adoption, including its usage and future plans. This information will help us better understand the industry's trends and challenges. Please ensure that you're filling out this form as part of the "business_surveys" category and not duplicating the data already collected in other forms.
-
-The form is designed to be completed by business users and is intended to collect data on their real estate technology adoption. This guide will walk you through each field to ensure you complete it accurately and effectively.
-
-To complete this form, please follow the instructions below:
-</thinking>
-
 # Real Estate Technology Adoption Survey - Help Guide
 ## Purpose
 This form is designed to collect data on real estate technology adoption from businesses. The information collected will help us understand the current state and future trends in the industry.

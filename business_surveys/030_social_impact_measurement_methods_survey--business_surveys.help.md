@@ -1,10 +1,3 @@
-<thinking>
-This form is an AI-generated, non-commercial form designed to collect insights and feedback from users on social impact measurement methods. The purpose of this form is to understand the challenges and limitations faced by organizations in measuring social impact and to identify potential areas of improvement. This form is not affiliated with or endorsed by any specific form platforms and is released under CC BY 4.0. 
-
-Before proceeding, I'd like to check if this form has been previously created or if it's similar to any other existing form. If you have any feedback or suggestions, please let me know, so we can improve this form further.
-
-</thinking>
-
 # Social Impact Measurement Methods Survey - Help Guide
 ## Purpose
 This form is designed to gather insights on social impact measurement methods, challenges, and best practices. It's intended for organizations looking to improve their evaluation methods and identify areas for growth.

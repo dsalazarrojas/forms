@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to help veterinary staff understand their reasons for staying or leaving the practice, and gain insights into suggestions for improvement to increase staff retention. This form is intended to be filled out anonymously, to ensure that staff feel comfortable providing honest feedback. It will help us understand their perceptions of staff satisfaction, reasons for staying or leaving, and potential areas for improvement to create a better work environment.
-</thinking>
-
 # Veterinary Staff Retention Insight Survey - Help Guide
 ## Purpose
 This form is designed to help veterinary staff provide honest feedback on their reasons for staying or leaving the practice, and suggestions for improvement to increase staff retention.

@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I'd like to clarify the purpose and usage of this form: "Hospitality Housekeeping Quality Assessment". This form is designed to evaluate the cleanliness and condition of a specific area or room within a hospitality establishment, such as a hotel or resort. The form helps housekeeping staff assess the area's cleanliness level, identify areas for improvement, and track the status and completion of the assessment.
-
-To ensure accurate and consistent results, it's essential to complete this form carefully and accurately. Please note that some fields are marked as required, meaning they must be filled out for the form to be submitted successfully.
-
-</thinking>
-
 # Hospitality Housekeeping Quality Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the cleanliness and condition of a specific area or room within a hospitality establishment, such as a hotel or resort. This form helps housekeeping staff evaluate the area's cleanliness level, identify areas for improvement, and track the status and completion of the assessment.

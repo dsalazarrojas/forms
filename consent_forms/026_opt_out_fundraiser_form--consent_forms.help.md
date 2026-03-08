@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about individuals who wish to opt-out of fundraising efforts, including their name, address, phone number, reason for opting out, any additional notes, email address, and donation details, if applicable. The form is used to gather information in a private and secure manner. Please note that while the form is designed to be private, the information submitted may be shared with relevant parties for the purpose of respecting the donor's wish to opt-out. Please review the form carefully before submission to ensure all required fields are filled in accurately. 
-</thinking>
-
 # Opt Out Fundraiser Form - Help Guide
 
 ## Purpose

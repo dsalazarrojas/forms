@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from cheerleaders about their experience with their team. It is intended to be completed by current or past team members. The form asks about their name, team details, and their opinions on various aspects of the team's performance, including communication, practices, music selection, uniform quality, and overall satisfaction. This form is not affiliated with any specific form platform and is released under CC BY 4.0. It is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Cheerleader Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from cheerleaders about their experience with their team. It aims to gather information on their opinions and suggestions for improvement.

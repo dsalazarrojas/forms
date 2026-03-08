@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain permissions for field visits, allowing school administrators to manage and monitor student activities. To prevent duplication, only one submission per field visit is allowed. This form serves as a crucial tool for ensuring student safety and accountability during field trips.
-</thinking>
-
 # Field Visit Permission Form - Help Guide
 
 ## Purpose

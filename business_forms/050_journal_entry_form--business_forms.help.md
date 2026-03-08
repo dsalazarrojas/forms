@@ -1,12 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect journal entry information from healthcare providers. 
-The form is designed to capture various aspects of patient care, including medical practices, patient details, and billing status. 
-The form is meant to be completed by healthcare providers to document and maintain accurate patient records. 
-There should be no duplicates or incorrect entries, as it's essential to maintain data consistency and accuracy.
-
-</thinking>
-
 # Journal Entry Form - Help Guide
 ## Purpose
 The Journal Entry Form is designed to collect and document patient care information from healthcare providers. It captures essential details about patient visits, including medical practices, billing status, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Future Readiness Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your organization's future-readiness, which is the ability to adapt and thrive in a rapidly changing business landscape. The survey will help us gather insights on various aspects of your organization's capabilities, such as digital transformation, agility, innovation culture, and future challenges. Your input will aid us in providing guidance and support to help your organization stay ahead in the ever-evolving business world.

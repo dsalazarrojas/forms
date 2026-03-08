@@ -1,7 +1,3 @@
-<thinking>
-The Payroll Statement Delivery Consent Form is a crucial document that helps employees provide their consent for the delivery of payroll statements. This form ensures that employees are aware of how their payroll data will be used and shared with them. It's essential to have this form reviewed by the HR department to prevent any duplication or misuse of this form. This form should not be used as a template for any other purpose, and the information collected will only be used for the specified purpose of payroll statement delivery. Please ensure that all employees fill out this form accurately and truthfully.
-</thinking>
-
 # Payroll Statement Delivery Consent Form - Help Guide
 ## Purpose
 The Payroll Statement Delivery Consent Form is a document that ensures employees provide their consent for the delivery of payroll statements. This form is used to collect information about how employees want to receive their payroll statements, including the type of statements and the method of delivery.

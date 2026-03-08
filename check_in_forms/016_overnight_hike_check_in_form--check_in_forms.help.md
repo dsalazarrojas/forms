@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for checking in participants for overnight hikes. The form collects information from participants, event organizers, and leaders, ensuring everyone is accounted for and aware of any important details or concerns. This form is likely used for outdoor adventure groups or guided tours where participants need to provide information about themselves and their activities.
-</thinking>
-
 # overnight-hike-check-in-form - Help Guide
 ## Purpose
 This form is used to check in participants for overnight hikes, ensuring a smooth and safe experience for all attendees.

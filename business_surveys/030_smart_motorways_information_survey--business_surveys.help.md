@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's clarify the purpose of the form. The "Smart Motorways Information Survey" form is designed to gather feedback and information from users about their experience with smart motorways. This form is meant to collect data that will help improve the design and functionality of the motorways, ensuring a more efficient and convenient driving experience for users. This form is not designed to be a comprehensive survey, but rather a specific set of questions tailored to gather specific information about awareness, frequency of use, overall satisfaction, and other relevant details. It's essential to complete this form accurately and honestly to provide valuable insights for improvement.</thinking>
-
 # Smart Motorways Information Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and information from users about their experience with smart motorways. This data will help improve the design and functionality of the motorways to provide a more efficient and convenient driving experience.

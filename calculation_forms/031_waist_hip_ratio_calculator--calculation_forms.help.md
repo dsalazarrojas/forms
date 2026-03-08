@@ -1,12 +1,3 @@
-<thinking>
-This form is for calculating the waist-hip ratio, a measure of body fat distribution. The purpose of this form is to provide a simple and easy-to-use tool for individuals to determine their health risk based on their waist and hip circumferences. This is a straightforward calculation form with no advanced features or dependencies. The form is designed to be completed in a few simple steps. The goal of this guide is to walk the user through each step of the form and explain what each field represents. Before proceeding, ensure that you are aware of the form's purpose and are ready to input your measurements accurately.
-
-The form is a one-page input form with six fields. The fields include two input fields for waist and hip circumferences, a "Calculate" button, a field for determining health risk, and two more "Calculate Again" buttons. The form does not store any data or perform any calculations until the "Calculate" button is pressed, and even then, the data is discarded after use. The user will need to input their measurements, calculate their risk, and then optionally calculate again if needed.
-
-This guide will assume that the user is familiar with basic measurement units. The measurements are expected to be in inches or cm.
-
-</thinking>
-
 # Waist Hip Ratio Calculator - Help Guide
 ## Purpose
 This form is for calculating the waist-hip ratio, a measure of body fat distribution. It determines health risks based on your waist and hip circumferences.

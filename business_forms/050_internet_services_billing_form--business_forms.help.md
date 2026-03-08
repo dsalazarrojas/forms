@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect billing information from customers for internet services. It's likely used by a business to process payments and keep track of customer details. It appears to be a form with a mix of basic customer information fields (name, address, phone) and payment-related fields (payment method, due date). The form seems to be designed for both single-use and confirmations of customer information.
-</thinking>
-
 # Internet Services Billing Form - Help Guide
 ## Purpose
 This form is used to collect and confirm billing information from customers for internet services.

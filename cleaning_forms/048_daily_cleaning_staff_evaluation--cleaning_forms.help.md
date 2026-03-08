@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a daily evaluation tool for cleaning staff, allowing supervisors to assess their performance, cleanliness, teamwork, communication, attitude, work ethics, and other relevant aspects. The form aims to provide valuable feedback and recommendations for improvement. Before proceeding, ensure you are familiar with the evaluation criteria and have access to necessary information.
-</thinking>
-
 # Daily Cleaning Staff Evaluation - Help Guide
 ## Purpose
 The Daily Cleaning Staff Evaluation form is designed to help supervisors assess and evaluate the performance of cleaning staff members on a daily basis.

@@ -1,13 +1,3 @@
-<thinking>
-
-This guide will explain the purpose and usage of the System Configuration Feedback Form, ensuring that end-users understand its importance and how to complete it efficiently.
-
-The System Configuration Feedback Form is designed to gather valuable feedback from end-users, allowing us to fine-tune our system's configuration and better meet their needs. This form is intended to be completed after the system has been set up, to help identify areas that require improvement and ensure that it is meeting the expected standards of performance and usability. By providing feedback, users can help us make data-driven decisions to optimize the system, leading to a more positive experience for all users.
-
-To avoid duplication of efforts, please complete the form only once after the system has been fully set up and tested.
-
-</thinking>
-
 # System Configuration Feedback Form - Help Guide
 ## Purpose
 The System Configuration Feedback Form is designed to gather feedback from end-users on the system's configuration, ensuring that it meets their needs and expectations.

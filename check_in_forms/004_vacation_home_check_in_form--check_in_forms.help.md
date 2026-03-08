@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Vacation Home Check In Form" is to collect information from guests checking into a vacation home, such as their name, contact details, arrival and departure information, and any special requests or requirements. This form helps the homeowner or property manager to efficiently manage guest arrivals, respond to any questions or concerns, and ensure a smooth check-in experience. It is essential to complete this form accurately and thoroughly to ensure that the guest's needs are met and that they have a pleasant stay.
-</thinking>
-
 # Vacation Home Check In Form - Help Guide
 
 ## Purpose

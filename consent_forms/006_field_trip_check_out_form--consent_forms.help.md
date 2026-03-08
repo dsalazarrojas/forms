@@ -1,7 +1,3 @@
-<thinking>
-This form is used for field trip check-out purposes, allowing students, guardians, and school administrators to input information related to field trips. The form is likely used by schools to organize and manage field trips, ensuring all necessary information is collected and verified. It's possible that this form is used internally within the school system or shared with external partners. Given the variety of fields, this form may be used for both day trips and long-term excursions. It's worth noting that several fields are optional, which may indicate that this form is designed to be completed based on the specific needs of each field trip. It would be beneficial for users to review each field carefully to ensure the information provided is accurate and complete.
-</thinking>
-
 # field_trip_check_out_form - Help Guide
 ## Purpose
 The field_trip_check_out_form is a tool for collecting and verifying information related to field trips. This form aims to ensure that all necessary data is gathered for the success and safety of the field trip.

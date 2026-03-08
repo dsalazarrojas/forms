@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and ensure it's not duplicating any existing form. This Device Control Survey form is designed to gather feedback and suggestions from users about devices, specifically their functionality, user experience, management practices, and any potential recommendations. The form is not intended to be a mandatory or critical evaluation tool, as indicated by the "optional" status of most fields. This form is meant to be a useful resource for device improvement and development, and its output will likely be used by the development team to inform product decisions.</thinking>
-
 # Device Control Survey - Help Guide
 ## Purpose
 The Device Control Survey is a form designed to gather user feedback and suggestions about devices. This information will help the development team understand how users interact with and manage devices, identifying areas for improvement.

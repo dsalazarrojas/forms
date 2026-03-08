@@ -1,9 +1,3 @@
-<thinking>
-We are designing a form for a Residential Community Rules Acknowledgment, which is intended to be a document that verifies a resident's understanding of the community's rules. The form aims to gather information about the resident, their contact details, and their confirmation of having read and understood the community rules. This form will help ensure that residents are aware of their responsibilities and the community's expectations.
-We will check for relevance and non-duplication to avoid creating unnecessary fields and ensure that the required information is accurate and consistent across all residents.
-This form will be used in various residential communities to obtain acknowledgment from residents about their understanding of the community's rules and regulations.
-</thinking>
-
 # Residential Community Rules Acknowledgment - Help Guide
 ## Purpose
 This form is a crucial document that verifies a resident's understanding of the community's rules, ensuring they are aware of their responsibilities and the community's expectations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about medical research projects. The purpose of this form is to provide a standardized way to gather necessary details about medical research projects, including the project name, lead, location, team members, start and end dates, participant informed consent, and declaration of the research. It is essential to fill out this form accurately to ensure that all necessary information is captured and to avoid duplication of work.
-</thinking>
-
 # Medical Research Data Declaration Form - Help Guide
 ## Purpose
 The Medical Research Data Declaration Form is used to collect and document information about medical research projects. This includes the project's name, location, team members, start and end dates, participant informed consent, and declaration. Completing this form helps ensure that all required information is accurately captured and avoids duplication of work.

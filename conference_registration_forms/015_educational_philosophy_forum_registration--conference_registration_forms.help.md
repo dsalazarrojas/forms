@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participant information for an Educational Philosophy Forum. The form should only be used for participants who have not registered before, to avoid duplication of effort. The form can be completed online or offline, and the data collected will be used to manage participant registration and communication within the forum.
-</thinking>
-
 # Educational Philosophy Forum Registration - Help Guide
 ## Purpose
 This form is designed to register participants for the Educational Philosophy Forum. It collects essential information to manage participant registration, communication, and to ensure a smooth forum experience.

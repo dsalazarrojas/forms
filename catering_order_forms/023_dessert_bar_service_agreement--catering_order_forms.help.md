@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "dessert_bar_service_agreement" form is being used correctly and consistently across the organization. This form is used to collect information for event catering services, and each field is carefully selected to gather the necessary details for efficient service provision. To avoid duplication of effort, please review the following help guide to understand the form's purpose and requirements.
-</thinking>
-
 # dessert_bar_service_agreement - Help Guide
 ## Purpose
 The "dessert_bar_service_agreement" form is used to collect information for event catering services. It helps the service team to gather the necessary details for efficient service provision, ensuring a smooth and enjoyable experience for clients.

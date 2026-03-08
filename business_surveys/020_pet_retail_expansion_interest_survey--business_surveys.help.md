@@ -1,6 +1,3 @@
-<thinking>
-This form is used by the business development team to gauge interest from pet retailers in expanding their business. The purpose is to understand which regions and types of pet stores they are interested in. This form should not be completed by the same user more than once, and it is recommended to only complete the form if you are a genuine pet retailer interested in exploring new opportunities.</thinking>
-
 # Pet Retail Expansion Interest Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your interest in expanding your pet retail business. We want to know about your preferences regarding regions, pet types, and other relevant information that will aid us in providing better services.

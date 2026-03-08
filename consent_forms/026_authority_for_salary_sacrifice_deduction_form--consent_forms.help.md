@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Authority For Salary Sacrifice Deduction Form - Help Guide
 
 ## Purpose

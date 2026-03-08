@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to order a square cake. The form is part of a larger system used to manage bakery orders, and it's used to gather necessary details for production and fulfillment. The form fields are designed to be clear and concise, ensuring that customers can easily provide the required information. When creating this guide, I'll be assuming that users are familiar with the basic concept of ordering a square cake but may be new to this specific form.
-</thinking>
-
 # Square Cake Order Form - Help Guide
 
 ## Purpose

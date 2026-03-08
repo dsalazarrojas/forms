@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Find Sine - Help Guide
 ## Purpose
 This form is designed to calculate the sine of an angle given its opposite and hypotenuse values. It helps users quickly and easily find the sine of an angle using the fundamental principles of trigonometry.

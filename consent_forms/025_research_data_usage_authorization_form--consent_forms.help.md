@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants on the usage of their research data. The form aims to understand how participants wish to use their data, for how long, and with which frequency. It also gathers information on participant preferences regarding communication, data anonymization, and project details. The form's purpose is to ensure participants are aware of and agree to the usage of their data, which is essential for the integrity and credibility of research studies.
-
-</thinking>
-
 # Research Data Usage Authorization Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is a customer feedback survey designed to gather information about a customer's experience with Amazon. The purpose of this survey is to collect data on various aspects of Amazon's services, including website ease of use, product selection, product quality, customer service, returns, and overall satisfaction. This data will be used by Amazon to identify areas for improvement and make data-driven decisions to enhance customer experience.
-To avoid duplication, customers who have already provided feedback on this survey will not be allowed to take it again.
-</thinking>
-
 # Amazon Experience Feedback Survey - Help Guide
 ## Purpose
 This form is a customer feedback survey designed to gather information about your experience with Amazon. The data collected will be used to improve Amazon's services and enhance your overall satisfaction.

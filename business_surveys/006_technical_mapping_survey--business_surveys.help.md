@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technical Mapping Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clergy Candidate Document Checklist - Help Guide
 ## Purpose
 

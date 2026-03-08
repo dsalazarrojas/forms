@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture billing information and payment status for a camp registration. It's intended to be used by camps or organizations to issue invoices to parents or customers who have registered their children for a camp program. The form should only be used for a specific camp registration and not for other purposes. It's crucial to fill out this form accurately and completely to ensure that the billing information and payment status are correct.
-</thinking>
-
 # Camp Registration Invoice - Help Guide
 ## Purpose
 This form is used to issue an invoice for a camp registration, capturing billing details and payment status for the parents or customers.

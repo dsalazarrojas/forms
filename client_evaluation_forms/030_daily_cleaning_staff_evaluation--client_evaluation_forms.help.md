@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Cleaning Staff Evaluation - Help Guide
 ## Purpose
 The Daily Cleaning Staff Evaluation form is designed to assess the performance of cleaning staff on a daily basis. This form helps to identify areas of improvement, recognize good work, and provide feedback to staff members. It's an essential tool for maintaining high-quality cleaning services and promoting a positive work environment.

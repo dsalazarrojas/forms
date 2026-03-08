@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unemployment Tax Registration Form - Help Guide
 ## Purpose
 The Unemployment Tax Registration Form is used by businesses to register for unemployment tax purposes with the government. This form is required for all businesses to comply with tax laws and regulations.

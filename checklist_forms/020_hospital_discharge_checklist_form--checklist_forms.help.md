@@ -1,11 +1,3 @@
-<thinking>
-
-The Hospital Discharge Checklist Form is designed to be completed by healthcare professionals to ensure that patients receive comprehensive care and follow-up instructions upon discharge from the hospital. This form serves as a checklist to gather essential information about the patient's medication list, medical history, allergies, vital signs, and discharge plan and instructions. By using this form, healthcare providers can ensure that patients understand their treatment plan, manage their care, and receive proper follow-up care upon discharge.
-
-Before filling out this form, please ensure that you are authorized to complete it. If you are unsure, please consult your medical supervisor or hospital guidelines.
-
-</thinking>
-
 # Hospital Discharge Checklist Form - Help Guide
 ## Purpose
 The Hospital Discharge Checklist Form is designed to be completed by healthcare professionals to gather essential information about a patient's medical status and discharge instructions.

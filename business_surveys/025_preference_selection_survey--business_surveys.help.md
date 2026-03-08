@@ -1,7 +1,3 @@
-<thinking>
-The "Preference Selection Survey" is designed to collect data on users' preferences for different categories, products, languages, and other attributes. The form is optional, and users can complete it at their discretion.
-</thinking>
-
 # Preference Selection Survey - Help Guide
 ## Purpose
 The Preference Selection Survey is used to collect information about users' preferences, such as language, product, and category selections. This information will help us better understand your needs and preferences.

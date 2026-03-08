@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inventory_management_survey - Help Guide
 
 ## Purpose

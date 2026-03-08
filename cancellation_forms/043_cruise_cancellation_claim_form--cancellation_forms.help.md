@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: 
-The purpose of this form is for passengers to report a cancellation of their cruise and request a refund. The form will help to gather all relevant information about the cancellation, such as the cancellation date, reason, and amount claimed.
-This form will likely be used by passengers who experienced issues on their cruise, and need to report and claim for a refund.
-To avoid duplication, this form should not be used for new bookings.
-</thinking>
-
 # cruise_cancellation_claim_form - Help Guide
 ## Purpose
 

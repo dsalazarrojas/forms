@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a competition, including competition details, participant information, medical emergency contact details, and consent for medical treatment, photography, and other sensitive topics. This form ensures that participants are aware of and agree to the rules, regulations, and code of conduct related to the competition. The form is required for the participant to provide their consent and signature, and it is essential for the organizers to have a complete understanding of the participant's circumstances, medical conditions, and emergency contact details. Before proceeding, please ensure that you have reviewed the form carefully and that it is relevant to your specific competition context. If you have any doubts or concerns, please clarify them before completing the form.
-
-</thinking>
-
 # Competition Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants in a competition, including competition details, participant information, and sensitive topics such as medical conditions, emergency contact details, and consent for medical treatment, photography, and data processing.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather relevant information about the client, including personal details, medical history, and emergency contacts. It is essential to complete this form accurately and thoroughly to ensure that the coach can provide the best possible support. Please review the form carefully to ensure that it is completed accurately and completely. If you have completed this form before, you can proceed to the next page; otherwise, you will be prompted to complete it in its entirety.
-</thinking>
-
 # Wellness Coaching Questionnaire - Help Guide
 
 ## Purpose

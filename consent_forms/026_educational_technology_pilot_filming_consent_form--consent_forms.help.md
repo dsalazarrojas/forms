@@ -1,7 +1,3 @@
-<thinking>
-This form is used for educational institutions to provide consent for filming on their premises. It's essential to fill out this form correctly to ensure that filming can proceed smoothly and safely. Please make sure to fill out this form only once per filming event or project. If you've already submitted a filming request for the same location, you do not need to fill out this form again.
-</thinking>
-
 # Educational Technology Pilot Filming Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from the school administration for filming activities on their premises.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # risk-monitoring-effectiveness-survey - Help Guide
 
 ## Purpose

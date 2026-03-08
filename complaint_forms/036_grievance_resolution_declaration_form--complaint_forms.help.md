@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that users understand the form's purpose and accurately complete it to provide valuable feedback. To prevent confusion and duplication, this form should only be used for genuine grievances and not for personal complaints or non-complaint-related issues.
-</thinking>
-
 # grievance_resolution_declaration_form - Help Guide
 ## Purpose
 This form is used for the resolution of grievances. It allows users to record details about a complaint, provide evidence attachments, and track the resolution process.

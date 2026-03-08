@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # meeting_confirmation_form - Help Guide
 ## Purpose
 The meeting confirmation form is used to confirm the details of a meeting, including the date, start and end times, location, and participant information.

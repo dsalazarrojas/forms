@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_checklist_form - Help Guide
 ## Purpose
 This form is designed to collect patient health information for various aspects of their health, including medical history, symptoms, allergies, and test results. It's intended to be a comprehensive tool for healthcare providers to assess a patient's health status and identify potential areas of concern.

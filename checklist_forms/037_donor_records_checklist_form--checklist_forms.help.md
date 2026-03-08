@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals who are completing the Donor Records Checklist Form. This form is used to collect information from donors, including their donation history, contact information, and any notes related to their gifts. This form is used to ensure accurate and consistent data collection, reducing errors and improving data quality. It's essential to complete this form thoroughly and accurately to help the organization manage donations effectively.
-</thinking>
-
 # Donor Records Checklist Form - Help Guide
 ## Purpose
 The Donor Records Checklist Form is used to collect and verify donor information, including donation frequency, amount, and date, as well as contact details such as name, phone number, email, and address.

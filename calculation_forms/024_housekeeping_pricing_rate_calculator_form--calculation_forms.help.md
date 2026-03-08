@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to calculate the pricing rate for housekeeping services. It is a calculation form used to determine the cost of housekeeping services based on various options and criteria. The form is divided into several sections, each with its own set of fields and options. The fields are organized to guide the user through a series of questions and calculations to arrive at a final calculation result.
-
-To confirm, this form will be used to:
-
-* Determine the pricing rate based on property details
-* Calculate the cost based on service duration
-* Provide various calculation results
-
-Please verify that this form is the correct one to use for your specific purpose. If you are unsure, please refer to the form's title or contact your administrator.
-
-</thinking>
-
 # housekeeping_pricing_rate_calculator_form - Help Guide
 ## Purpose
 This form is designed to calculate the pricing rate for housekeeping services. It will guide you through a series of questions and calculations to arrive at a final calculation result.

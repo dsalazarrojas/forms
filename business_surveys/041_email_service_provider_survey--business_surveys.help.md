@@ -1,18 +1,3 @@
-<thinking>
-Please note that this form is designed to collect feedback and data from email service providers. The purpose of this form is to gather insights and information about your email service experience. By filling out this form, you will be providing valuable input that will help us improve our services.
-
-Before proceeding, please ensure that you have a clear understanding of the questions asked and the services you are currently using. This will enable you to provide accurate and relevant information.
-
-Please be aware that your responses will be kept confidential and will not be used for any commercial purposes.
-
-Please select the relevant option that best describes your current service provider from the dropdown menu.
-
-If you have any additional comments or suggestions, please include them below.
-
-If you're unsure about any of the questions or need further clarification, please don't hesitate to contact us.
-
-</thinking>
-
 # Email Service Provider Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and information about your email service provider experience. Your input will help us improve our services and better understand your needs.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be a self-assessment tool for employees to rate their level of happiness and satisfaction in the workplace. To ensure the accuracy and effectiveness of the survey, the following guidelines should be followed:
-
-- Each survey question should be answered truthfully and honestly.
-- Employees should take their time to consider each question carefully, as their responses will provide valuable insights for management to improve the workplace.
-- The survey results should be kept confidential and anonymous, as this ensures employees feel safe to express their genuine opinions.
-
-It is crucial that employees do not answer the survey if they are unsure about their answers or do not want to provide feedback. This survey is not a test, but rather an opportunity for employees to share their thoughts, feelings, and suggestions for improvement.
-
-To avoid duplicate submissions, employees should only submit the survey once. If an employee needs to re-take the survey, it is recommended that they contact their HR representative for guidance.
-
-</thinking>
-
 # Employee Happiness Survey - Help Guide
 ## Purpose
 This survey is designed to help employees rate their happiness and satisfaction levels in the workplace. It will provide valuable insights to management to identify areas for improvement and make informed decisions to enhance the work environment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Frozen Meal Order Form - Help Guide
 ## Purpose
 The Frozen Meal Order Form is designed to collect orders from customers for frozen meals. This form helps our kitchen staff prepare and pack the correct meals according to customer preferences.

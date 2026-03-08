@@ -1,7 +1,3 @@
-<thinking>
-This guide provides an overview of the risk_advisory_outcomes_survey form, including its purpose, how to complete it, and explanations for each field. This form is designed to gather information related to risk management and project outcomes. Please note that this guide assumes the form is being used in a business context.
-</thinking>
-
 # Risk Advisory Outcomes Survey - Help Guide
 ## Purpose
 The purpose of the risk_advisory_outcomes_survey form is to collect data on project risk management outcomes, including risk levels, descriptions, mitigation plans, and project status. This form helps to identify areas where further improvement is needed and track project progress over time.

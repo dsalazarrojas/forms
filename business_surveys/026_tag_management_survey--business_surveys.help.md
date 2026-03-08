@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for managing tags, which can be used to categorize and label items in a business context. The purpose of this form is to collect information about tags in a structured and organized manner. This form is likely used by business users to manage and track tags related to their work or tasks. 
-
-The form is not designed for users who do not have a basic understanding of tags and their management. 
-
-Please note that this form is not designed to be filled out multiple times, so you should only fill it out once to provide the necessary information about a tag.
-
-</thinking>
-
 # Tag Management Survey - Help Guide
 ## Purpose
 The Tag Management Survey form is used to collect and manage information about tags in a structured and organized manner.

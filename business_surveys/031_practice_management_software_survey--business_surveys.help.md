@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Practice Management Software Survey - Help Guide
 ## Purpose
 

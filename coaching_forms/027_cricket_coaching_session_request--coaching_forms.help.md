@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for a coaching session. It is intended for coaches to provide details about their coaching experience, qualifications, and the participant's information for a coaching session. 
 
 To ensure accuracy and prevent duplicate entries, this form checks for non-duplication based on participant and coaching session details. 

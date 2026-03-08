@@ -1,16 +1,3 @@
-<thinking>
-To design a user-friendly help guide for the online program purchase survey form, we need to understand its purpose and the fields it contains. This form, titled "Online Program Purchase Survey," likely aims to collect feedback from customers about their experience with an online program purchased from the company. The form's purpose is to gather information about the program title, provider, purchase date and time, purchase channel, buyer's contact information, program rating, value, and any comments or suggestions for improvement.
-
-To ensure the form serves its intended purpose, we must verify that it is not duplicated and that the information it collects is accurate. We can do this by reviewing the form's fields and their labels, ensuring they are clear and concise, and that the required fields are marked as such.
-
-Here's a suggested approach to create the help guide:
-
-1.  Start with a brief introduction to the form's purpose and the importance of providing accurate information.
-2.  Explain each field, using clear and concise language, and providing examples or definitions where necessary.
-3.  Highlight any required fields to ensure users know what to complete.
-
-</thinking>
-
 # Online Program Purchase Survey - Help Guide
 
 ## Purpose

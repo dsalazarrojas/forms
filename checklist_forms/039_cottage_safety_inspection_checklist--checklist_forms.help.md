@@ -1,10 +1,3 @@
-<thinking>
-This is a form for inspecting the safety of a cottage, which should be a relevant topic in settings like resorts, campgrounds, or any other facility with cottages for guests. However, please note that this form does not cover the full spectrum of cottage-related forms, as the scope of "cottage safety" may vary depending on the context. A thorough review of the form and the fields included in it would likely reveal areas that need further expansion or refinement, but this will serve as a starting point. 
-
-For the purpose of this form, a "safety precaution" can be considered as any measure taken to minimize the risk of accidents or injuries in the cottage. It could include things like proper handling of gas and electrical appliances, adequate lighting, etc. An "emergency exit" is an exit that leads outside the cottage but is not an exit that is part of a staircase or an exterior door that leads to the same area as the entrance. 
-
-</thinking>
-
 # Cottage Safety Inspection Checklist - Help Guide
 ## Purpose
 The Cottage Safety Inspection Checklist is a form designed for inspecting the safety of a cottage. It covers various safety aspects of the cottage, including electrical, plumbing, fire, and general safety precautions. This form helps to identify potential hazards and areas that require attention to ensure the comfort and safety of guests.

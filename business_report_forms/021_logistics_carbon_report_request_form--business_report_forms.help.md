@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a logistics carbon report for a specific logistics activity. The purpose of this form is to gather information about the logistics activity, including the company location, start and end dates and times, distance, carbon emissions, mode of transport, and comments. 
-
-The logistics carbon report will provide an assessment of the carbon footprint of the logistics activity, which can be used to identify areas for improvement and reduce carbon emissions. This form is typically used by logistics staff or managers to request a report for a specific activity. 
-
-To avoid duplication, please ensure that this form is only used to request a report for activities that have not already been reported. 
-
-</thinking>
-
 # Logistics Carbon Report Request Form - Help Guide
 ## Purpose
 The Logistics Carbon Report Request Form is used to request a logistics carbon report for a specific logistics activity. The report will provide an assessment of the carbon footprint of the activity, which can be used to identify areas for improvement and reduce carbon emissions.

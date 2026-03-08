@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Year's Safety Checklist Form - Help Guide
 ## Purpose
 This form is designed to ensure that your workplace is safe and secure during the New Year's celebrations. It's essential to complete this form to check that all necessary safety measures and equipment are in place to prevent accidents and injuries. This form covers various aspects of safety, including firework safety, electrical safety, and medical safety.

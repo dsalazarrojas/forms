@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "global_project_needs_assessment" form. The form is part of the "business_surveys" category. The purpose of this form is to gather information about a project's needs assessment, which is a critical component of the project planning process. It helps project stakeholders to understand the project's objectives, challenges, resource requirements, and potential business impact. This form is likely to be completed by project managers, team members, or stakeholders to provide a comprehensive overview of the project's needs, which will guide further planning and decision-making.
-
-To ensure that the form is completed accurately and effectively, we need to ensure that the user understands its purpose and the required information. We also need to make sure that each field is explained clearly, so users know what information to provide and why.
-
-</thinking>
-
 # global_project_needs_assessment - Help Guide
 ## Purpose
 The global_project_needs_assessment form is designed to gather information about a project's objectives, challenges, resource needs, project scope, project scope details, and business impact. This form is essential for project stakeholders to understand the project's needs and plan accordingly.

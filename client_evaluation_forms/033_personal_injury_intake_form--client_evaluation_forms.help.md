@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information related to personal injuries. It is intended for clients or accident victims to report their experiences, including information about the incident, their medical history, vehicle details (if applicable), contact information, and any other relevant facts. The form may be used by insurance companies, law firms, or other organizations to gather data for claims processing or investigation purposes.
-</thinking>
 # personal_injury_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information related to personal injuries.

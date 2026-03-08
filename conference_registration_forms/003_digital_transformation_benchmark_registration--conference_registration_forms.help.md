@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Digital Transformation Benchmark Registration" form, we'll first review the form's purpose and structure. 
-
-This form appears to be designed for organizations to register their interest in participating in a digital transformation benchmark program. The form collects various information from the registrant, including their organizational details, digital maturity stage, goals, contact person, and other relevant information. 
-
-The form has 15 fields, each with a label, type, and options. Some fields are optional, while others are required. We'll review each field below to ensure that users understand what information is being requested and why.
-
-</thinking>
-
 # Digital Transformation Benchmark Registration - Help Guide
 ## Purpose
 This form is designed for organizations to register their interest in participating in the Digital Transformation Benchmark program. Please fill out the form to provide us with information about your organization and its goals for participating in the program.

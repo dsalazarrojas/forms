@@ -1,6 +1,3 @@
-<thinking>
-To avoid confusion and errors, please ensure you are registering as an attendee and not a speaker. This form should not be used to register as a speaker. Please note that some fields are not required, and you can skip them if you don't have the information or if it's not relevant to your registration. The form is intended to be filled out by attendees and organizers of the internal audit conference. If you're registering as a speaker, please use the speaker registration form.</thinking>
-
 # Internal Audit Conference Registration - Help Guide
 ## Purpose
 The internal audit conference registration form is designed to collect essential information from attendees to ensure a smooth and successful event. Please follow this guide to fill out the form correctly.

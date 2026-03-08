@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Minutes To Milliseconds Calculation Form - Help Guide
 ## Purpose
 The Minutes To Milliseconds Calculation Form is designed to convert time units between minutes and milliseconds. This form helps users to quickly and accurately convert time values between these two units.

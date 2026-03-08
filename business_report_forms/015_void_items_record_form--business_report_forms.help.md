@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record information about items that are no longer available or have been removed from stock. The purpose of this form is to track and manage the voided items in a business setting. It's essential to fill out this form accurately to ensure that inventory levels are up-to-date and to prevent discrepancies in financial records. Please make sure to fill out this form carefully and accurately to avoid any potential errors. Before starting, ensure that you're not already filling out this form for the same purpose in another form, and that you're not filling out this form for an incorrect purpose. If you're unsure, please contact the relevant department or team member for clarification.
-</thinking>
-
 # Void Items Record Form - Help Guide
 ## Purpose
 The Void Items Record Form is used to record information about items that are no longer available or have been removed from stock. This form helps to track and manage voided items, ensuring accurate inventory levels and preventing financial discrepancies.

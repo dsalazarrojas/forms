@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for a Limited Liability Company (LLC) agreement. It's crucial to ensure all fields are completed accurately to facilitate the proper setup and operation of the LLC. Before starting, verify that you have all necessary permissions and information required to complete this form.
-
-</thinking>
-
 # limited_liability_company_agreement_form - Help Guide
 ## Purpose
 The Limited Liability Company Agreement Form is designed to collect necessary information for the setup of a Limited Liability Company (LLC). This form will guide you through the process of providing details about your LLC's key attributes, including its name, address, members, management structure, and financial details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sustainability_expo_opening_rsvp - Help Guide
 
 ## Purpose

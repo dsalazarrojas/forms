@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers to report their complaints or issues with the food service provided by a restaurant or food establishment. The form is designed to be simple and easy to fill out, collecting essential information from the customer to help resolve the issue. To avoid duplicate submissions, this form will only be accessible after the customer has already reported the issue or complaint.
-</thinking>
-
 # Food Service Complaint Form - Help Guide
 ## Purpose
 The Food Service Complaint Form is designed for customers to report their complaints or issues with the food service provided by a restaurant or food establishment.

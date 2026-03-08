@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about uniforms usage, satisfaction level, inventory, and other relevant details. The purpose of this survey is to understand how users utilize uniforms, their preferences, and any additional comments or questions they may have. This form will help the management team to get insights into uniforms usage patterns, satisfaction levels, and other important metrics.
-</thinking>
-
 # Uniform Management Survey - Help Guide
 ## Purpose
 The Uniform Management Survey is designed to gather information about uniforms usage, satisfaction level, inventory, and other relevant details to help the management team make informed decisions.

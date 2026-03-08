@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect business intelligence (BI) roadmap requests from organizations. It's essential to fill it out only once for each organization, and not to duplicate requests. This ensures that the business intelligence team can effectively allocate resources and prioritize projects based on the actual needs of each organization.
-</thinking>
-
 # Business Intelligence Roadmap Request Form - Help Guide
 ## Purpose
 The form is designed to gather information from organizations on their current business intelligence capabilities, strategic priorities, and requirements for a roadmap to support their business needs. This information will be used to determine the scope and timeline of the roadmap.

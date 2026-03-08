@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vinegar Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your vinegar usage habits and preferences. It's intended to help us better understand your behavior and needs regarding vinegar purchases. Please answer the questions honestly, and only fill out the form if you have experience with vinegar.

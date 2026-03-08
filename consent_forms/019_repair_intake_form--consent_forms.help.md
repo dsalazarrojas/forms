@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information for repairing and servicing customer equipment. It is intended to be used by authorized personnel in the repair department. Please ensure you have permission to access and fill out this form. Before filling out this form, check if there are any existing records that may already contain the information you're about to submit.</thinking>
-
 # Repair Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information for repairing and servicing customer equipment.

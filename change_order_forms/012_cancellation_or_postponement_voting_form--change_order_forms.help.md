@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from participants regarding the cancellation or postponement of an event. The goal is to understand their preferences and concerns to make an informed decision. 
-
-The form is designed to be filled out by the participants who have registered for the event. 
-
-Before proceeding, please ensure that you have not already submitted a vote or feedback on this event. Your input is crucial in helping us make the right decision for everyone involved.
-
-</thinking>
-
 # Cancellation Or Postponement Voting Form - Help Guide
 ## Purpose
 This form is used to gather feedback from participants regarding the cancellation or postponement of an event. The goal is to understand their preferences and concerns to make an informed decision.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a class cancellation form, designed to gather information about a class that is being cancelled. This form likely serves a specific purpose within a school or educational institution, such as tracking and documenting class cancellations for administrative or logistical reasons. The form's purpose is to collect data from teachers about the cancellations, including the reason for cancellation, details of the cancellation, and other relevant information. This form might be used by school administrators or staff to manage class schedules, inform students, and communicate with teachers.
-
-The form seems to be comprehensive, covering various aspects of class cancellations, such as teacher information, class details, cancellation reasons, and rescheduling information. This comprehensive nature suggests that the form is intended to provide detailed documentation and communication about class cancellations.
-
-To avoid duplication of effort, it's possible that this form is part of a larger system or process for managing class schedules, attendance, and communication. Therefore, it's likely that the form is used to update or modify existing records rather than create new ones from scratch.
-
-Please note that the form's structure and layout are straightforward, with clear labels and options, suggesting that it's designed to be user-friendly and easy to navigate.
-
-</thinking>
-
 # Class Cancellation Form - Help Guide
 ## Purpose
 The Class Cancellation Form is designed to help teachers report and document class cancellations, providing a structured approach to gather relevant information for administrative and logistical purposes.

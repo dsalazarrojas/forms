@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals about the environmental quality of their neighborhood. This form will help us understand the level of satisfaction and concerns related to the environmental issues in your neighborhood. Please make sure to complete the form accurately and truthfully to help us improve the environmental quality of your neighborhood. This form is not intended for commercial use, and the information collected will be kept confidential. Please note that all fields marked as required are mandatory to be filled out to ensure the form is completed correctly. If you are unsure about any field, please refer to this help guide for further clarification.
-</thinking>
-
 # Neighborhood Environmental Quality Survey - Help Guide
 ## Purpose
 The Neighborhood Environmental Quality Survey is a tool designed to gather information about the environmental quality of your neighborhood. This survey aims to understand your level of satisfaction and concerns related to various aspects of your neighborhood.

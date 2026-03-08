@@ -1,7 +1,3 @@
-<thinking>
-We have a form named "Important Reminders Checklist" which is used to collect information about important reminders and their associated details. This form is not meant to replace the actual reminder system, but rather to serve as a supplementary tool for users to review and update important reminders. It's crucial to ensure that the information provided is accurate and up-to-date to maintain the integrity of the reminder system. We must avoid duplicating effort and ensure that the reminders are not already being managed through other channels. 
-</thinking>
-
 # Important Reminders Checklist - Help Guide
 ## Purpose
 The "Important Reminders Checklist" form is used to collect and manage important reminders. It's not a replacement for the actual reminder system but rather a supplemental tool for reviewing and updating reminders.

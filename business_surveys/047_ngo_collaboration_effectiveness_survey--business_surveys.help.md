@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect insights into the effectiveness of NGO collaboration. It's meant to assess how often an NGO collaborates with other partners, what challenges they face in their partnerships, the effectiveness of their collaboration, and the impact it has on their own and other NGOs. The form will help organizations gauge their collaboration level and fulfillment. This guide will walk you through the form's purpose and how to complete it.
-
-</thinking>
-
 # NGO Collaboration Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the effectiveness of NGO collaborations. It will help organizations assess their partnership frequency, the challenges they face, and the impact of their collaboration on their own and other NGOs.

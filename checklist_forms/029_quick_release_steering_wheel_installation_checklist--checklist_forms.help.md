@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assist in the documentation and quality control of steering wheel installation, ensuring that all necessary details are accurately recorded for vehicle maintenance and future reference. This form should only be used for steering wheel installations, and not for other vehicle-related tasks. It is essential to fill out this form accurately and thoroughly to avoid any potential issues or complications during or after the installation process.
-
-This form should not be used in conjunction with other forms that have similar purposes. If you are unsure about what form to use, please contact your supervisor or manager for clarification.
-</thinking>
-
 # quick_release_steering_wheel_installation_checklist - Help Guide
 ## Purpose
 The quick_release_steering_wheel_installation_checklist form is designed to document the details of a steering wheel installation, ensuring that all necessary information is recorded accurately and thoroughly. This form is specifically intended for steering wheel installations and should not be used for other vehicle-related tasks.

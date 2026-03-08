@@ -1,9 +1,3 @@
-<thinking>
-The "Beverage Export Program Registration" form is intended to gather essential information from businesses involved in the export of beverages to support their participation in the export program. The form is designed to collect data on company details, export experience, products, and certifications to help the program administrators understand the applicants' qualifications and needs. This information will be used to assess and manage the applicants' eligibility and integration into the program.
-
-When creating the form, it is important to note that the required fields are indicated by 'true' in the schema. These are the critical data points that must be filled out for the application to be valid. Fields with 'select_multiple' and 'select_all' types allow multiple selections, whereas 'select_one' type fields limit the selection to one option.
-</thinking>
-
 # Beverage Export Program Registration - Help Guide
 ## Purpose
 The "Beverage Export Program Registration" form is designed to gather information from businesses involved in the export of beverages to support their participation in the export program.

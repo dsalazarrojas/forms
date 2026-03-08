@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inspect a patient's lift during transfer, ensuring that it is safe and ready for use. The form should only be completed by authorized personnel after inspecting the lift and its surrounding area. It is crucial to follow this checklist to identify any potential hazards and ensure the patient's safety.
-</thinking>
-
 # Patient Transfer Lift Inspection Checklist - Help Guide
 ## Purpose
 This form is used to inspect a patient's lift during transfer, ensuring that it is safe and ready for use.

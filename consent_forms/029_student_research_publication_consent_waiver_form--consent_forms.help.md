@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect student consents for research publications. 
-The purpose of this form is to ensure that students have provided their consent for research publications. 
-This form is used by the department to verify the consent status of each research publication. 
-Please ensure that you fill in all required fields and provide accurate information. 
-This form will likely be used in conjunction with other data, so it is essential to keep the data up-to-date and consistent. 
-</thinking>
-
 # Student Research Publication Consent Waiver Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and store student consents for research publications. It helps the department to verify the consent status of each research publication.

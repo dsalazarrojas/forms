@@ -1,9 +1,3 @@
-<thinking>
-The Guardian Task Management Form is a critical tool for caregivers and coordinators to manage tasks assigned to caregivers. This form is used to track and update the status of tasks, ensuring that caregivers receive the necessary support and resources to provide high-quality care. The form is designed to be user-friendly and easy to navigate, with clear fields and labels that provide a clear understanding of the required information. Before completing the form, please ensure you have the necessary permissions to access and update task information.
-
-Form fields should only be filled out by authorized personnel. Duplicate entries can lead to confusion and errors in task management. Please ensure that you are filling out the correct information for the assigned tasks.
-</thinking>
-
 # Guardian Task Management Form - Help Guide
 ## Purpose
 The Guardian Task Management Form is a tool used to track and manage tasks assigned to caregivers. It helps caregivers and coordinators to efficiently manage tasks, ensure timely completions, and prioritize support.

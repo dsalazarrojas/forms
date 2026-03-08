@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information and formalize agreements between the intern and the organization hosting the internship. The form is intended to provide a clear understanding of the internship's terms, duties, and responsibilities. It is crucial to ensure both parties are on the same page and understand their obligations during the internship period. This form should not be used for any other purpose other than its intended use as an unpaid internship agreement.
-...</thinking>
-
 # Unpaid Internship Agreement - Help Guide
 ## Purpose
 The purpose of this form is to create an official document that outlines the terms and conditions of an unpaid internship. It will help ensure both the intern and the organization hosting the internship are clear on their responsibilities and expectations.

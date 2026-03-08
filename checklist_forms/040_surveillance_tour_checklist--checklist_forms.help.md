@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect data on a surveillance tour, which is a critical aspect of security and patrol operations. The form is used to gather information about the patrol details, including the patrol ID, date, start and end times, incidents encountered, checkpoints visited, and any notes or contact information collected during the tour. This form should only be filled out by authorized personnel who have conducted a surveillance tour.
-
-Before filling out this form, please ensure you have all the necessary information and that you are completing it for the correct purpose. This form is not intended for general public use, so please do not attempt to access it unless you have a legitimate reason to do so.
-
-This form is part of a larger system for tracking and managing surveillance tours. The data collected on this form will be used to support the operations and decisions of security and patrol teams.
-
-</thinking>
-
 # Surveillance Tour Checklist - Help Guide
 ## Purpose
 This form is used to collect data on a surveillance tour, which is a critical aspect of security and patrol operations.

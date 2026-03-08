@@ -1,18 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze the provided YAML fields. This form appears to be designed for collecting client feedback on project outcomes, likely to assess the effectiveness and quality of services provided by the company or organization. The form covers various aspects, including project details, team performance, and client satisfaction. To ensure that the form is relevant and useful, the following considerations should be kept in mind:
-
-- Ensure that all required fields are accurate and comprehensive, and that the options and labels are clear and easy to understand.
-- Review the options and labels for consistency and fairness, avoiding any potentially leading or biased questions.
-- Validate the form fields to guarantee that they are correctly formatted and easily accessible.
-- Consider adding more fields or adjusting existing ones to better capture specific client feedback, such as project timelines, budget adherence, or communication effectiveness.
-- Double-check that the form's structure and layout are logical and user-friendly.
-- Verify that the form's purpose and relevance to the company's goals and objectives.
-- Check that the form is not duplicating any other existing form or process.
-
-After reviewing the form, it seems that the form's purpose is to gather comprehensive client feedback on project outcomes, including project details, team performance, and client satisfaction. The form's design appears to be well-structured, and the fields cover a wide range of topics.
-
-</thinking>
-
 # Client Feedback On Project Outcomes - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients on project outcomes, including project details, team performance, and client satisfaction. This information will help the company improve its services and deliver better results in the future.

@@ -1,7 +1,3 @@
-<thinking>
-The Raw Material Variance Report Form is used to document and track variances in raw material received and used in the production process. This form aims to gather information on the material received, the material used, the usage variance, root cause analysis, corrective actions taken, and other relevant details to identify and address discrepancies. This form is an essential tool for quality control and production teams to investigate and resolve material variance issues efficiently. 
-</thinking>
-
 # Raw Material Variance Report Form - Help Guide
 ## Purpose
 The Raw Material Variance Report Form is designed to collect information on variances in raw material received and used in the production process. This form helps quality control and production teams to investigate and resolve material variance issues.

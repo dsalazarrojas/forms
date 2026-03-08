@@ -1,8 +1,3 @@
-<thinking>
-The "Fashion Talent Sign Out Sheet" is a form designed to capture information about fashion talents (e.g. models, photographers, designers, etc.) who are checking out of a work or event setup. The form is used to record the details of the talent's time in and time out, their availability for future work, and any production-related information such as agency, production company, and production team.
-Before filling out this form, please ensure you are using it for the intended purpose and not duplicating efforts. This form is meant to be filled out for each fashion talent individually, and not combined with other talents' information.
-</thinking>
-
 # Fashion Talent Sign Out Sheet - Help Guide
 ## Purpose
 This form is designed to record the details of fashion talents who are checking out of a work or event setup.

@@ -1,13 +1,3 @@
-<thinking>
-This form is a tool used by the government for gathering feedback from store managers and customers. The form's purpose is to collect data about store operations, customer behavior, and manager performance. The main goal is to improve store management and customer service.
-
-This form will likely be filled out by store managers, customers, or other stakeholders. To ensure accurate and consistent feedback, it is essential to understand each field's purpose and how it contributes to the form's overall goal.
-
-This form has multiple pages with different fields. Each page and field is designed to collect specific data points, such as store location, manager performance, feedback frequency, and more.
-
-Before filling out the form, please review each field carefully, and make sure you are providing accurate and relevant information.
-
-</thinking>
 # Government Store Management Survey - Help Guide
 ## Purpose
 The Government Store Management Survey is designed to collect feedback from store managers and customers to improve store operations and customer service.

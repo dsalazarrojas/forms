@@ -1,7 +1,3 @@
-<thinking>
-To avoid plagiarism and ensure the form is used for the intended purpose, please note that this form was automatically generated using public survey topic metadata and is not associated with any form platform. The form title and field labels have been adapted to provide a clear understanding of the form's purpose and content.
-</thinking>
-
 # Security Uniform Checklist - Help Guide
 ## Purpose
 This form is designed to facilitate the inspection and assessment of security uniforms. It collects information about the inspection date, facility name, inspectee name, and security personnel involved in the process.

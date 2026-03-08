@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals seeking to participate in the Digital Education Transformation Case program. The form aims to collect demographic information, consent, and other relevant details from applicants. Ensure that you only complete this form if you have not already done so in the past, and that you understand the purpose of the program. If you're unsure, please consult the program administrators.
-</thinking>
-
 # Digital Education Transformation Case Consent Form - Help Guide
 ## Purpose
 The Digital Education Transformation Case Consent Form is a mandatory document that requires you to provide personal details and consent for program participation. Please fill out this form accurately and carefully, as the information collected will be used to support your case.

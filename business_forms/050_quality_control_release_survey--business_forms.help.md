@@ -1,11 +1,3 @@
-<thinking>... (Internal Reasoning)
-
-The purpose of the "Quality Control Release Survey" form is to collect quality control data related to the release of products or batches from a company's quality control process. This form is designed to gather information on the inspection dates, product IDs, batch IDs, results of quality inspections, release decisions, and other relevant details. 
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it accurately. Additionally, be aware that this form may be used to generate reports and metrics for quality control purposes.
-
-</thinking>
-
 # Quality Control Release Survey - Help Guide
 ## Purpose
 The "Quality Control Release Survey" form is used to collect data related to the release of products or batches from a company's quality control process.

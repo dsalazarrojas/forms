@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the industrial data accuracy. It is essential for the company's data management team to ensure that data is accurate and reliable. This form will help to identify discrepancies in the data and facilitate the implementation of corrective actions if needed.
-
-Before submitting this form, please ensure that the data you report is based on factual information and that you have checked for duplicates.
-
-Please do not use this form to report non-relevant issues, and be specific in your report to help the team to quickly address the issues.
-
-</thinking>
-
 # Industrial Data Accuracy Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on data discrepancies in the industrial data. It is meant to be a concise way for users to report potential issues with the data, so the data management team can investigate and implement corrective actions to ensure data accuracy and reliability.

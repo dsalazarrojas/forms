@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on a specific concept from respondents. The purpose of this form is to understand the perceived value, primary benefits, and concerns associated with the concept, as well as the likelihood of its adoption or recommendation. This form is not affiliated with any form platform, and the content is original and released under CC BY 4.0 license. Please review the form to ensure it aligns with your organization's requirements and doesn't contain any sensitive or confidential information. If you have any questions or concerns, contact us at form@gic.mx.
-</thinking>
-
 # Concept Feedback Survey - Help Guide
 ## Purpose
 The Concept Feedback Survey is designed to collect feedback on a specific concept, helping to gauge its perceived value, primary benefits, and potential concerns. This survey aims to gather insights from respondents to improve and refine the concept.

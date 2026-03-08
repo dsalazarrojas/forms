@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for businesses or individuals to register with the FDA (Food and Drug Administration) for importing products. The form is intended to gather information about the importer's details and the product being imported. The form's fields cover various aspects of the importer and the product, including contact information, import details, and shipping information. This form is an original adaptation of a public survey and is not affiliated with any proprietary form platform. The form's fields are designed to be filled out by the importer, and the information provided will be used by the FDA for their purposes.
-
-</thinking>
-
 # fda_importer_registration_form - Help Guide
 ## Purpose
 The FDA Importer Registration Form is a document used by the Food and Drug Administration (FDA) to gather information from importers of regulated products. This form is used to collect data on the importer's name, address, contact details, and product information, including the product's name, description, and import date and time.

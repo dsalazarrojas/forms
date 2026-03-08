@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the IT Certification Exam Study Checklist form. Before proceeding, ensure that you are in the right context and have the necessary permissions to access the form. The form's purpose is to help users create a personalized study plan for an IT certification exam, gathering essential information about their exam preparation, review materials, time management, study schedule, review method, and submission details.
-</thinking>
-
 # IT Certification Exam Study Checklist - Help Guide
 ## Purpose
 This form is designed to help you create a comprehensive study plan for an IT certification exam. It collects information about your preparation, review materials, time management, and submission details.

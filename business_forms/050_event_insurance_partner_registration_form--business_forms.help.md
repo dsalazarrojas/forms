@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential event insurance partners, allowing them to register and be listed as partners for events. To avoid duplication, the system will check if a partner is already registered. Before proceeding, please ensure that you are an authorized representative of the organization you are registering and that you are not already registered as a partner. If you are unsure or have any questions, please contact our support team.
-</thinking>
-
 # Event Insurance Partner Registration Form - Help Guide
 ## Purpose
 The Event Insurance Partner Registration Form is designed to collect information from potential event insurance partners, allowing them to register and be listed as partners for events. This form helps us ensure that all partners are authorized and prevents duplication of registrations.

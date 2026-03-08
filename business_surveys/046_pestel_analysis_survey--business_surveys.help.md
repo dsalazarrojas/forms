@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to conduct a PESTEL analysis, a framework used to identify and analyze the external and internal factors that may impact an organization or business. The PESTEL model consists of five main categories: Political, Economic, Environmental, Technological, and Social. This form helps users assess the presence or absence of these factors for a given organization or business by providing select multiple options for each category. 
-
-When filling out this form, please ensure that the responses are specific to your organization or business. 
-
-The responses will be used to generate a PESTEL analysis report that highlights areas of strength and weakness. 
-</thinking>
-
 # PESTEL Analysis Survey - Help Guide
 ## Purpose
 The PESTEL Analysis Survey is a tool used to evaluate the factors that may impact an organization or business. This guide will walk you through how to complete the form in a step-by-step manner.

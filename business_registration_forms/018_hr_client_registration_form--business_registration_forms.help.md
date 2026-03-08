@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from HR clients regarding their company and job postings. The main goal is to gather essential details about the client's company and the job they are posting, including contact information, business details, job description, and more. This form should only be filled out by authorized HR personnel and should not be used for personal purposes.
-
-Before proceeding, make sure to check with the HR department if the company has already been registered, so as to avoid duplication of effort and unnecessary paperwork.
-
-This form should be filled out by the HR representative of the company posting the job, or someone with the proper authorization to do so.
-
-Please note that some of the fields are not required, but it's essential to fill out as much information as possible to help us better serve you and your company.
-</thinking>
-
 # HR Client Registration Form - Help Guide
 ## Purpose
 

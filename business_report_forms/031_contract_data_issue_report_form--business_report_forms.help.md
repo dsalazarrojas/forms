@@ -1,23 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Contract Data Issue Report Form", let's first break down its purpose and the reasoning behind it. This form is designed to report data issues related to contracts, aiming to help identify and resolve discrepancies in contract data. The form is intended to gather detailed information from the report, making it possible for the technical and business teams to quickly assess the situation and prioritize the fixes.
-
-The form collects various pieces of data, such as:
-- Reporter's contact information
-- Contract details (number, title, and date)
-- Category and description of the data issue
-- Affected fields and systems
-- Priority level and business impact
-- Root cause (if known)
-- Potential workaround, if available
-- Stakeholders notified
-- Suggested resolution
-- Estimated time for resolution
-- Attachments (optional)
-
-The form is a crucial tool for maintaining data quality and ensuring the accuracy of contract information within the organization. By providing detailed information, the reporter enables the technical and business teams to address the issue efficiently, reducing errors and ensuring that contract-related data remains up-to-date and reliable.
-
-</thinking>
-
 # Contract Data Issue Report Form - Help Guide
 ## Purpose
 The Contract Data Issue Report Form is designed to collect information about any data issues or discrepancies found in contract data. This form is used to report problems with contract data, enabling the technical and business teams to address these issues quickly.

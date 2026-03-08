@@ -1,5 +1,3 @@
-<thinking>Internal forms like the "Monthly Business Contribution Report" are used for submitting contributions and data that require approval or review within the business. This guide will walk you through the process of completing the form accurately, ensuring you provide all necessary information for review and submission. The form's structure is designed to be straightforward, and each field's purpose will be explained in detail below.</thinking>
-
 # Monthly Business Contribution Report - Help Guide
 ## Purpose
 The "Monthly Business Contribution Report" is a form used for submitting contributions and data that require approval or review within the business. It is essential to complete this form accurately and thoroughly to ensure that your submission is reviewed and processed efficiently.

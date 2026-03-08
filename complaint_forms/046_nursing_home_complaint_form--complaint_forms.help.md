@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the Nursing Home Complaint Form, which is used to report and document complaints made by or on behalf of residents in nursing homes. This form is crucial in ensuring that the concerns and grievances of residents are recorded and addressed in a timely and satisfactory manner. When creating a complaint, the complainant's information, nursing home details, and the nature of the complaint are all essential components that need to be accurately captured. This guide will walk you through each of these fields, helping you complete the form efficiently and effectively.
-
-</thinking>
-
 # Nursing Home Complaint Form - Help Guide
 ## Purpose
 The Nursing Home Complaint Form is used to report and document complaints made by or on behalf of residents in nursing homes. It helps to ensure that concerns and grievances are recorded and addressed in a timely and satisfactory manner.

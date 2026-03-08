@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about mandatory overtime complaints from employees. The purpose of this form is to ensure that employees can provide feedback and report incidents of excessive or unjustified overtime demands from their managers. This form helps to prevent and address potential issues related to work-life balance, employee burnout, and other related concerns. Before filling out this form, please ensure that you have not already submitted a similar complaint or incident report. Duplicate submissions will not be processed.
-</thinking>
-
 # Mandatory Overtime Complaint Form - Help Guide
 
 ## Purpose

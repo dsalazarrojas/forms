@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monthly Mission Form - Help Guide
 ## Purpose
 The Monthly Mission Form is used to document and track business objectives and goals for each month. It helps management to focus on prioritizing and reviewing progress towards specific, measurable outcomes.

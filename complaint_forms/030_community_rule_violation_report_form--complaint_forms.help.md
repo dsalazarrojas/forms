@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Community Rule Violation Report Form" that's clear, concise, and practical. I'll cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section, based on the provided YAML fields.</thinking>
-
 # Community Rule Violation Report Form - Help Guide
 ## Purpose
 

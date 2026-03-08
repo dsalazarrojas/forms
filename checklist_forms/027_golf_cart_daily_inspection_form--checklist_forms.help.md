@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for regular inspections of golf carts to ensure they are in good working condition. The form is used to assess the mechanical, electrical, and other critical systems of the golf cart. This form helps in identifying any potential issues with the cart's components, such as tires, brakes, steering, and suspension. The purpose of this form is to help maintain the golf cart's performance and safety.
-
-To avoid duplication and ensure relevance, it's essential to only use this form for golf cart inspections, not for other types of forms or purposes.
-
-</thinking>
-
 # Golf Cart Daily Inspection Form - Help Guide
 ## Purpose
 The Golf Cart Daily Inspection Form is used to inspect the mechanical and electrical components of golf carts to identify any potential issues or problems.

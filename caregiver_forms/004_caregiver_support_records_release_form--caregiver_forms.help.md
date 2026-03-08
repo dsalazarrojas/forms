@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to collect information and obtain authorization from the caregiver (a family member or friend) to share the patient's medical records with a healthcare provider/entity. The purpose of this form is to ensure the patient's records are released with the proper authorization, and that the caregiver has the legal authority to request these records.
-
-This form will collect the following information:
-
-* Patient's identifying details, such as name, date of birth, and medical record number (if known)
-* Caregiver's identifying details, such as full name, phone number, and email address
-* Authorization details, such as the healthcare provider/entity receiving the records, types of records to be released, and date range for the records
-* Consent and legal details, such as the purpose of the release, and the caregiver's agreement to sign
-
-The form will be used to obtain authorization from the caregiver to release the patient's medical records, and to ensure that the caregiver has the legal authority to do so.
-
-</thinking>
-
 # Caregiver Support Records Release Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from the caregiver to release the patient's medical records to a healthcare provider/entity.

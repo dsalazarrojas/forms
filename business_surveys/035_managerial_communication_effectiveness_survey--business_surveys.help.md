@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of managerial communication within an organization. It is meant for managers and employees to provide feedback on their communication experiences and preferences. This form should only be filled out once per employee, and responses will be kept anonymous.
-
-To avoid duplication of effort, please only fill out this form once. If you've already completed this survey, do not fill it out again.
-
-This form is designed to gather information on your thoughts and feelings about managerial communication. Your responses will help us understand how communication is working within our organization and identify areas for improvement.
-
-</thinking>
-
 # Managerial Communication Effectiveness Survey - Help Guide
 
 ## Purpose

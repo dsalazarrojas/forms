@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arts And Craft Fair Application Form - Help Guide
 
 ## Purpose

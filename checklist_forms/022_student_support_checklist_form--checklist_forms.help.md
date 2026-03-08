@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to create a Student Support Checklist Form for students to provide detailed descriptions of their support needs, categorize their support requests, and assign the appropriate tool or service to meet those needs. 
-This form is intended to be a comprehensive checklist to help students get the support they require in a clear and organized manner. 
-The form should not be filled out for every student, only for those who have specific support needs. 
-This form can be used by support staff to quickly identify and categorize support requests, making it easier to provide targeted assistance. 
-This form should not be used for general inquiries or feedback.
-</thinking>
-
 # Student Support Checklist Form - Help Guide
 ## Purpose
 The Student Support Checklist Form is a comprehensive checklist designed to help students describe their support needs and provide relevant information for support staff to assist them effectively.

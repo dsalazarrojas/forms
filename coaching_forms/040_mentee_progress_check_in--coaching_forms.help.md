@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "mentee_progress_check_in" form is to track the progress of mentees through their mentoring process. This form serves as a checklist to ensure that both the mentor and mentee are on the same page regarding the mentee's progress. By filling out this form, the mentor can document the mentee's current state, set goals for the next session, and note any progress or areas of improvement. This form is not intended to be completed by the mentee directly, but rather by the mentor to provide a structured and consistent way of tracking progress.
-This form should only be completed after each session, and it is recommended to keep the responses concise and focused on the key points discussed during the session. The fields in this form are designed to be easy to understand and complete, and they should not be duplicated or filled out multiple times. 
-
-Please ensure that you are completing this form for the correct session and mentee, and that the information provided is accurate and up-to-date. If you are unsure about any field or require additional guidance, please reach out to the support team.
-</thinking>
-
 # mentee_progress_check_in - Help Guide
 ## Purpose
 The "mentee_progress_check_in" form is a tool for mentors to document the progress of their mentees after each session. It helps to keep track of the mentee's current state, set goals for the next session, and note any progress or areas of improvement.

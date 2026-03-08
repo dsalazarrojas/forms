@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ZOOM Liabiliy Waiver - Help Guide
 
 ## Purpose

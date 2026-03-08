@@ -1,7 +1,3 @@
-<thinking>
-This form is used to authorize the e-fileing of tax returns and other business forms. The user should fill this form only when they have a legitimate business need to do so, as it involves sensitive information. To avoid duplication, the user must fill the form for a specific purpose, such as a tax audit or a financial review, and not for general purposes like a routine tax filing.
-</thinking>
-
 # Tax Filing E File Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize the e-filing of tax returns and other business forms. It is intended for business purposes only and requires a valid reason for submission. 

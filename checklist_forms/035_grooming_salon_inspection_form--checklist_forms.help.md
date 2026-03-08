@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback and ratings from customers or clients about their experience with a grooming salon. The purpose of this form is to provide insight into the level of service quality, customer service, cleanliness, and overall experience the client had at the salon. 
-This form checks for relevance by ensuring that the user has had an experience with the salon, and non-duplication by only including fields that directly relate to the purpose of the form. 
-Please ensure to only fill out this form if you have had an experience with the salon.
-</thinking>
-
 # Grooming Salon Inspection Form - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from customers or clients about their experience with a grooming salon.

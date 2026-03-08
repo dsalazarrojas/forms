@@ -1,8 +1,3 @@
-<thinking>
-This form is a state rate calculator form used for calculating rates for different states. It is designed to be used by various stakeholders to determine the rates for different states. This form is not meant to be used for any other purpose. Please ensure that this form is not used for any other purpose other than its intended use. 
-This form is not a duplicate of any other form.
-</thinking>
-
 # State Rate Calculator Form - Help Guide
 ## Purpose
 The State Rate Calculator Form is used to calculate rates for different states. This form helps stakeholders to determine the rates for various state-specific calculations.

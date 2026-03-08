@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about individuals' experiences with AI development and application in their professional lives. The form aims to collect data on respondents' demographic information, AI experience, and specific details about their use of AI and its impact. This form is relevant to the AI development and application survey category and should not be submitted by those who have not been invited to participate or do not fit the intended respondent criteria.
-
-</thinking>
-
 # AI Development And Application Survey - Help Guide
 ## Purpose
 This form is designed to collect data on your experiences with AI development and application. Your input will help us better understand the current state of AI adoption in various industries and organizations.

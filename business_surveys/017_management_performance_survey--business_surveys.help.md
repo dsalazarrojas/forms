@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form designed to gauge management performance. This form is likely used to collect feedback from employees or team members about their manager's performance. The form should be easy to understand and fill out. Each field should be clearly explained, and the overall purpose of the form should be concise and to the point. We should ensure that the guide is practical and does not require unnecessary business logic to understand.
-
-Before filling out this form, please note that:
-
-* This form is intended to gather feedback on management performance from employees or team members.
-* The form has multiple sections, each focusing on different aspects of management performance, such as company policies, manager behavior, work environment, and overall satisfaction.
-
-Please fill out this form carefully, as your feedback will help shape management decisions and improve the work environment.
-</thinking>
-
 # Management Performance Survey - Help Guide
 
 ## Purpose

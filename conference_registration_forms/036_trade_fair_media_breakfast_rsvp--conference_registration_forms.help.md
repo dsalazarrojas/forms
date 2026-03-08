@@ -1,7 +1,3 @@
-<thinking>
-The Trade Fair Media Breakfast RSVP form is designed to collect information from attendees, media professionals, and guests interested in the Trade Fair event. This form is intended to facilitate communication and organization for the event. The form collects general information, guest details, and specific preferences such as dietary needs, attendance, and media attendance. It also collects contact information for media and company representatives.
-</thinking>
-
 # Trade Fair Media Breakfast RSVP - Help Guide
 ## Purpose
 The Trade Fair Media Breakfast RSVP form is used to collect information from attendees, media professionals, and guests for the Trade Fair event. This form is used for communication and organization purposes.

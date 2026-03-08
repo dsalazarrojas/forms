@@ -1,11 +1,3 @@
-<thinking>
-We need to check if the form is relevant for your use case.
-If you are a business or organization looking to register for cold distribution services, this form is intended for you.
-Please make sure you have all required information and permissions before proceeding.
-We will use your input to assess your company's capabilities and services in the cold distribution industry.
-If you have any doubts or concerns, please contact us directly.
-</thinking>
-
 # Cold Distribution Network Registration Form - Help Guide
 ## Purpose
 The Cold Distribution Network Registration Form is designed to gather information about your company's services and capabilities in the cold distribution industry. This form helps us understand your organization's strengths and weaknesses, which will be used to assess your suitability for our network.

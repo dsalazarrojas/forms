@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from digital delivery partners for registration purposes. The form is used to gather details about the partner's company, contact person, and delivery information. This form is meant to be completed by digital delivery partners who wish to partner with your company to deliver digital products or services. This form will help your team understand the partner's capabilities and requirements. Please ensure that the form is not duplicated or filled out by unauthorized individuals.
-
-Before proceeding, please make sure you have the necessary permissions and authority to access and fill out this form.
-
-To avoid any potential issues, please be aware of the following:
-
-* Only fill out this form if your company is authorized to partner with our digital delivery network.
-* Do not share your login credentials with anyone.
-* Please be honest and accurate when filling out the form.
-* If you have any questions or need assistance, please contact our support team.
-</thinking>
-
 # Digital Delivery Partner Registration Form - Help Guide
 
 ## Purpose

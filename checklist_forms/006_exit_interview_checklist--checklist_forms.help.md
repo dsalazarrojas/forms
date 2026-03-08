@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information from an employee about their exit interview experience. The purpose of this form is to gather feedback and insights from exiting employees to understand their reasons for leaving the company and their overall satisfaction with the company. This information can be used to identify areas for improvement and make changes to enhance the work environment and employee experience. Please note that this form is not affiliated with any form platform and is an original creation using AI.
-
-</thinking>
-
 # Exit Interview Checklist - Help Guide
 ## Purpose
 This form is intended for exiting employees to provide their thoughts and feedback about their experience with the company. The information gathered will help us understand the reasons behind their decision to leave and identify areas for improvement.

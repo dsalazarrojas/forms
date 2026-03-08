@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about vehicles and their owners in a fleet management system. It's intended for businesses that manage a collection of vehicles, such as rental car companies, ride-sharing services, or government agencies. The form should be completed by the owner of the vehicle or the person responsible for maintaining the vehicle's registration information.
-</thinking>
-
 # fleet_management_form - Help Guide
 ## Purpose
 This form is designed to collect details about vehicles and their owners. It's meant for fleet managers, administrators, or owners to record and track information about their vehicles.

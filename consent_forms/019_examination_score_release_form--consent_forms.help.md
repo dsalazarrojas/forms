@@ -1,8 +1,3 @@
-<thinking>
-This form is used to release examination scores, which means it's used to share or provide access to examination results with authorized individuals or institutions. The purpose of this form is to ensure that scores are only released to those who are authorized to access them. This form is likely used in educational settings, such as schools or universities, where examination scores are shared with students, teachers, or administrators. 
-
-</thinking>
-
 # Examination Score Release Form - Help Guide
 ## Purpose
 This form is used to release examination scores to authorized individuals or institutions. 

@@ -1,8 +1,3 @@
-<thinking>
-The "Green Building Awareness Survey" form is likely designed for organizations or individuals within the construction or architectural industry to assess their current knowledge, practices, and perceptions regarding green building and sustainability. The form might be used to gauge awareness, understanding, and experience with sustainable building principles, practices, and certifications.
-The questions and options provided seem to cover various aspects of green building, including facts, importance, sustainability commitment, expertise, education programs, stakeholders, certifications, incentives, challenges, benefits, further steps, awareness, action plans, commitment, awareness scores, and importance scores. This form is probably used for internal or external knowledge assessments, training, or awareness-raising purposes.
-</thinking>
-
 # Green Building Awareness Survey - Help Guide
 
 ## Purpose

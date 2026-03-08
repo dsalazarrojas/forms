@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I would like to clarify a few things. This form is intended for requesting a customized analysis for a project. The fields are mostly self-explanatory, but I'll make sure to provide clear explanations for each field to ensure end-users understand what's required and what's optional.</thinking>
-
 # Request Customized Analysis - Help Guide
 ## Purpose
 This form is designed to collect information from project submitters to request a customized analysis for their project. The form is used to gather project requirements, submitter details, and other relevant information for the analysis process.

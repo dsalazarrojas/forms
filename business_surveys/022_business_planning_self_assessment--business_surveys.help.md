@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Planning Self Assessment - Help Guide
 ## Purpose
 The Business Planning Self Assessment is a comprehensive form that helps you evaluate your business's current state and plan for its future. This form is designed to assess your business's clarity on objectives, market analysis, financial planning, risk assessment, and access to support and resources.

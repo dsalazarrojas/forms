@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for ensuring that food safety guidelines are followed in a kitchen, food service, or retail environment. This form might be used to document food safety procedures, track food handling and storage, or report any food safety incidents. It's possible that this form is part of a quality control process or part of a compliance checklist for food handlers.
-</thinking>
-
 # Food Safety Checklist - Help Guide
 ## Purpose
 The Food Safety Checklist is a document used to track and record food safety information in a kitchen, food service, or retail environment. This form helps ensure that food safety guidelines are followed and that any incidents or concerns are documented.

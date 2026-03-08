@@ -1,10 +1,3 @@
-<thinking>
-The "uber_inspection_form" is designed to collect information about the condition and status of a vehicle. The form is divided into various sections that gather data on different aspects of the vehicle, such as its make, model, year, license plate, and various systems like engine, transmission, brakes, suspension, etc. The form also includes a section for comments and other notes. This guide will help users understand how to complete the form accurately and effectively.
-
-The form has multiple pages with different sections, each containing fields that require specific information. Here's a brief explanation of each field and page:
-
-</thinking>
-
 # uber_inspection_form - Help Guide
 ## Purpose
 The "uber_inspection_form" is a comprehensive form designed to collect information about the condition and status of a vehicle. It is used to assess the overall condition of a vehicle and provide an evaluation of its pass or fail status.

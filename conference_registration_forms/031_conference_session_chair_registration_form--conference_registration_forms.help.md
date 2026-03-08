@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from session chairs about their personal and professional details, preferences, and availability for chairing conference sessions. This form will help us to efficiently manage the conference organization process and ensure that we have a diverse and suitable selection of session chairs. It is crucial to complete this form accurately and thoroughly, as it will be used to make decisions about session chair assignments and other conference logistics. Please ensure that you have read through the form carefully and provide accurate information before submitting it. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Conference Session Chair Registration Form - Help Guide
 ## Purpose
 The Conference Session Chair Registration Form is designed to collect information from potential session chairs about their personal and professional details, preferences, and availability. This form helps us to manage the conference organization process and ensure a diverse and suitable selection of session chairs.

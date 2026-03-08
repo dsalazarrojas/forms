@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from tenants about their commercial lease experience. It is intended to gather data on various aspects of the lease, including property conditions, landlord responsiveness, rent value, and overall satisfaction. This form is not a replacement for existing feedback mechanisms, but rather a supplementary tool to help landlords and property managers improve their services and tenant satisfaction. Please ensure that you have not already provided feedback on this topic before responding, as this form is meant to be a one-time submission.
-</thinking>
-
 # Commercial Lease Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your commercial lease experience. Your responses will help us improve our services and provide better support to our tenants.

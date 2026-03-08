@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended for hair salons to gather feedback and insights from clients on their experiences with digital loyalty programs. It appears to be a comprehensive form that covers various aspects of the digital program, including rewards, satisfaction, and client interaction. To ensure accuracy, it's essential to review the form carefully and consider the following:
-
-* The form seems to be focused on the digital aspect of the program, suggesting that it's primarily designed for online interactions and services.
-* The form includes a mix of multiple choice and free-form fields, which may cause confusion if not carefully labeled or explained.
-* It's essential to ensure that each field is clearly labeled and explained to avoid any confusion among clients.
-
-</thinking>
-
 # hair_salon_digital_loyalty_program_survey - Help Guide
 ## Purpose
 This form is designed for hair salons to gather feedback and insights from clients on their experiences with digital loyalty programs. It aims to cover various aspects of the program, including rewards, satisfaction, and client interaction.

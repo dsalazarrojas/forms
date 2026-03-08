@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed for Corporate Conference Coordinators to register and provide information about upcoming conferences they're involved with. It's intended to be a concise and straightforward form for easy completion by users. To prevent duplication, please only complete this form if you have not previously registered or do not plan to re-register for the same conference.</thinking>
-
 # Corporate Conference Coordinator Registration - Help Guide
 ## Purpose
 The Corporate Conference Coordinator Registration form is intended for Corporate Conference Coordinators to provide information about the conferences they are involved with. This form is not meant for public use, as it's primarily used for internal purposes.

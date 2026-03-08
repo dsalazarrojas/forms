@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record attendance at meetings, allowing users to input details such as attendee's name, role, meeting duration, subject, and other relevant information. This form is meant to be completed by users who attended or were part of a meeting. Please ensure you only submit this form for meetings you have actually attended. This form will only be used to record attendance for meetings that have taken place in the past, not for future meetings. This form should not be used to record attendance for meetings that have already been completed and recorded elsewhere.
-</thinking>
-
 # Meeting Attendance Record Form - Help Guide
 ## Purpose
 The Meeting Attendance Record Form is designed to record and track attendance at meetings. It collects information about the meeting, including attendee's name, role, meeting duration, subject, and other details.

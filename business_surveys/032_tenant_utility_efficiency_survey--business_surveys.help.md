@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Utility Efficiency Survey - Help Guide
 ## Purpose
 The Tenant Utility Efficiency Survey is designed to gather information about a tenant's utility usage and efficiency. This form helps us understand how efficiently you use utilities such as electricity, gas, and water, and provides valuable insights to optimize your utility usage.

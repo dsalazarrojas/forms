@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers who want to participate in the Santa Claus Parade. The form should only be completed by individuals who are interested in volunteering for the parade. If you are already registered to volunteer for the parade, please do not fill out this form again.
-</thinking>
-
 # Santa Claus Parade Volunteer Registration Form - Help Guide
 ## Purpose
 This form is for those who want to volunteer for the Santa Claus Parade. If you are interested in helping out with the parade, please fill out this form to let us know. We'll use this information to get in touch with you about your availability and role during the event.

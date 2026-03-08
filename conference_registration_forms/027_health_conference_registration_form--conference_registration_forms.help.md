@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I've reviewed the provided YAML schema and understand its intent. This form is intended for registrants to provide their information for a health conference. The registrant information page will likely be used to collect data for registration purposes, such as contact information, area of specialty, and address.
 
 # Health Conference Registration Form - Help Guide

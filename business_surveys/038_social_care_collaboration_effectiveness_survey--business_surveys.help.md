@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback about the effectiveness of team collaboration in the workplace. The form is designed to gather information about the frequency and quality of collaboration, communication, and decision-making processes within teams. This feedback will help management identify areas of improvement and make informed decisions about team development and resources allocation. Please ensure that you are completing this form if you are a team member. If you have already completed a similar form in the past, please do not submit duplicate feedback.
-</thinking>
-
 # social_care_collaboration_effectiveness_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the effectiveness of team collaboration in the workplace.

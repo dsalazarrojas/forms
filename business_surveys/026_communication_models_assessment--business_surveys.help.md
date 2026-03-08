@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's understanding and application of communication models in a business setting. The goal is to evaluate their knowledge and familiarity with various communication models, their preferences and effectiveness, and areas for improvement. The form is intended to be completed by individuals who work in a business environment and are responsible for communication within their organization.
-</thinking>
-
 # Communication Models Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's understanding and application of communication models in a business setting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property, including its ID, location, type, contact information, budget, needs and preferences, match, and a match score. This form is intended to gather relevant details to facilitate a property fit assessment. Please ensure that this form is being used in the context of a property fit assessment and not for other purposes. To avoid duplication, please do not submit this form multiple times for the same property.
-</thinking>
-
 # Property Fit Assessment Survey - Help Guide
 ## Purpose
 

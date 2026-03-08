@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mortgage Complaint Form - Help Guide
 
 ## Purpose

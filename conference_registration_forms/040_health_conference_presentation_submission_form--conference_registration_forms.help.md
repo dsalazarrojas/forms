@@ -1,11 +1,3 @@
-<thinking> 
-This form is used for presenters to submit their presentation information for the health conference. It's a form that is likely to be filled out by speakers who want to showcase their work or research related to health. The form will help us to collect information about the speaker and the session they will present.
-
-To avoid duplicate submissions, we will not be accepting multiple submissions for the same session.
-
-Before proceeding, please make sure you have all the necessary information to fill out this form. It's a one-page form with various fields that will help us to understand your presentation information. 
-
-</thinking>
 # Health Conference Presentation Submission Form - Help Guide
 ## Purpose
 This form is used for presenters to submit their presentation information for the health conference. It allows us to gather essential details about the speaker and the session they will present.

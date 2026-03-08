@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI-generated form metadata, which means it's not affiliated with, endorsed by, or derived from any form platform. The original purpose of this form is to collect information from individuals who want to host or lead breakout sessions during a summit. It's essential to fill out this form accurately and completely to ensure that your session gets included in the summit program. Before starting, please review this guide to understand the fields and how to complete them correctly.
-</thinking>
-
 # Summit Breakout Session Host Registration Form - Help Guide
 
 ## Purpose

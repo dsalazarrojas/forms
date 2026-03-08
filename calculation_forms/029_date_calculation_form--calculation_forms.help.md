@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be for performing date calculations, specifically between two dates. The purpose of the form is to input start and end dates and choose a calculation type (between, add, or subtract) to calculate the number of days between the two dates. This form is likely used for various scenarios such as calculating the duration of a project, a vacation, or a specific period of time.
-</thinking>
 # Date Calculation Form - Help Guide
 ## Purpose
 The Date Calculation Form is used to input start and end dates and choose a calculation type to calculate the number of days between the two dates.

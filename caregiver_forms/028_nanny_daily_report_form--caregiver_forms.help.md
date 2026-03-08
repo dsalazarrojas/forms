@@ -1,20 +1,3 @@
-<thinking>
-The purpose of the nanny_daily_report_form is to collect information from caregivers about the daily activities, feeding schedule, nap schedule, and any relevant medical notes or additional comments for the day. This form is likely used to gather data for administrative or reporting purposes, and the required fields (feeding schedule and nap schedule) ensure that the caregiver provides accurate and complete information.
-
-To complete this form, the caregiver will fill in the fields on each page, which include:
-* Morning activities (text field)
-* Feeding schedule (select_one field with "Yes" and "No" options)
-* Nap schedule (select_multiple field with "Yes" and "No" options)
-* Notes (note field, optional)
-* Contact info (email field, optional)
-* Emergency contact (text field, optional)
-* Medical notes (text field, optional)
-* Additional comments (select_one field with "Yes" and "No" options, optional)
-
-Each field will be explained in more detail below:
-
-</thinking>
-
 # nanny_daily_report_form - Help Guide
 ## Purpose
 

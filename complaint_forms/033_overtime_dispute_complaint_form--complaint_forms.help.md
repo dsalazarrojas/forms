@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report an overtime dispute complaint. It is designed to collect information from employees who claim they have not been paid their owed overtime. This form is only for employees who have not received their pay for work performed beyond their regular working hours. If an employee has already submitted a complaint, please do not submit this form again.
-
-</thinking>
-
 # overtime_dispute_complaint_form - Help Guide
 ## Purpose
 The purpose of this form is to enable employees to report and submit their overtime dispute complaints to the HR department. Please fill out the form accurately and thoroughly to ensure your complaint is handled efficiently.

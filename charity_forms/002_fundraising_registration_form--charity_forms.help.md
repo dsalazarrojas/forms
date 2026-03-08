@@ -1,22 +1,3 @@
-<thinking> 
-This form is designed to be used by charities and fundraising organizers to register for a fundraising event. The purpose of this form is to collect information about the charity and the fundraiser, including the name of the charity, the name of the person or organization running the fundraiser, and the contact information of the fundraiser. The form is designed to be completed by the person or organization raising funds for the charity, and is used to register their event for the charity's records. 
-
-The form is divided into two pages: a first page for general information and a second page for payment information. The form is not intended to be completed by the charity itself, but rather by the person or organization running the fundraiser on behalf of the charity.
-
-The fields in this form are intended for a specific purpose and are designed to be completed according to the following guidelines:
-
-* The "fundraiser's name" field is for the name of the person or organization running the fundraiser.
-* The "organization" field is for the name of the organization or group raising funds for the charity.
-* The "charity" field is for the name of the charity being supported.
-* The "email" field is for the contact email of the fundraiser.
-* The "phone" field is for the contact phone number of the fundraiser.
-* The "payment type" field is for the method of payment (e.g. bank transfer, credit card, etc.).
-* The "option" fields are for additional payment options (e.g. donation amount, payment frequency, etc.). 
-
-This form is intended to be completed by the fundraiser and submitted for review and approval by the charity. 
-
-</thinking>
-
 # Fundraising Registration Form - Help Guide
 
 ## Purpose

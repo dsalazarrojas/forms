@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for capturing information related to distance learning agreements, which are essential for the management and administration of online courses. 
-The Distance Learning Agreement form is used to collect details about students, courses, and instructors involved in distance learning programs. 
-
-This form is likely to be used in academic or educational institutions to manage the process of distance learning, ensuring that all necessary information is captured and recorded correctly.
-</thinking>
-
 # Distance Learning Agreement - Help Guide
 ## Purpose
 

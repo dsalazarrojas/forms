@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback about the accuracy of the numbers reported in a survey on the nth largest number. The purpose of this form is to gauge the user's confidence in their response, which is crucial for improving the survey questions and data quality. It's essential to fill out this form only once for each survey and not to repeat responses.
-
-The following help guide is designed to walk the user through the form's purpose and requirements.
-
-</thinking>
-
 # nth_largest_number_survey - Help Guide
 ## Purpose
 This form is used to report the accuracy of the numbers provided in the survey on the nth largest number. The goal is to collect feedback on the confidence of the user in their response, which will help improve the quality of the survey questions and data.

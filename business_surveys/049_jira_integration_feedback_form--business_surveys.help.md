@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on the integration of Jira with our services. This form will allow them to rate their experience and provide comments, allowing us to understand the effectiveness of the integration and make improvements as needed. To ensure accuracy, users must select either "Jira", "Confluence", or "Other" as the form category. The form will be available for a short period, so please complete it in a timely manner.
-</thinking>
-
 # Jira Integration Feedback Form - Help Guide
 ## Purpose
 The Jira Integration Feedback Form is designed to gather user feedback on the integration of Jira with our services. This form will help us understand how our integration affects your experience and gather valuable insights to make improvements.

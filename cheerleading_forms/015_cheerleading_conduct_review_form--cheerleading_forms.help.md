@@ -1,10 +1,3 @@
-<thinking>**Form Purpose**
-The "Cheerleading Conduct Review Form" is a standardized form used to evaluate the behavior, conduct, and performance of a cheerleader within a team or organization. This form helps identify areas of strength and improvement, ensuring that the cheerleader is meeting expectations and contributing positively to the team.
-
-**Form fields are reviewed regularly to ensure consistency and fairness in evaluations.**
-
-</thinking>
-
 # Cheerleading Conduct Review Form - Help Guide
 ## Purpose
 The "Cheerleading Conduct Review Form" is a tool used to evaluate the behavior, conduct, and performance of a cheerleader within a team or organization.

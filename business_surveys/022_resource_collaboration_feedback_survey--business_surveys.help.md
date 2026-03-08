@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Resource Collaboration Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with the Kandi product. This feedback will help us understand how customers perceive our product and identify areas for improvement. It is essential that only one customer submits feedback per response to prevent duplicate submissions from the same individual. 
-</thinking>
-
 # Kandi Product Feedback Survey - Help Guide
 ## Purpose
 The Kandi Product Feedback Survey is designed to collect honest feedback from customers about their experience with our product. Your input is valuable to us, and we appreciate your time in filling out this survey.

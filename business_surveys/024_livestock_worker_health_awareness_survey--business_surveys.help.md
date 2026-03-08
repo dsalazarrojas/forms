@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from livestock workers to raise awareness on health and safety issues they face. This form should only be filled out once by each respondent. The purpose of this form is to collect data on the health and safety conditions of livestock workers. This data will be used to better understand and address the health and safety issues faced by livestock workers. Please ensure that the information you input is accurate and relevant to your situation.
-</thinking>
-
 # Livestock Worker Health Awareness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information from livestock workers about their health and safety conditions. This will help us better understand and address the health and safety issues faced by livestock workers.

@@ -1,13 +1,3 @@
-<thinking>
-The "rocket_launch_failure_incident_form" is used to report and document the failure incidents during a rocket launch. This form helps to identify and categorize the failures, which can be used for post-launch analysis and improvement of future launches. It's essential to fill out this form accurately to provide relevant information for investigation and improvement.
-
-Before filling out the form, ensure that you have a clear understanding of the incident and the information you want to report.
-
-Please note that the form is divided into several fields, each with its own specific purpose. Make sure to fill out each field carefully and accurately.
-
-Before proceeding, take a moment to review the form again to avoid duplication or missing information.
-
-</thinking>
 # rocket_launch_failure_incident_form - Help Guide
 ## Purpose
 The "rocket_launch_failure_incident_form" is a crucial tool for reporting and documenting failure incidents during rocket launches. It helps identify and categorize failures to improve future launches.

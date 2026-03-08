@@ -1,11 +1,3 @@
-<thinking>...to clarify that the form is designed to gather information from barbers about their motivation and satisfaction with working at the shop, and to help identify areas of improvement for the shop to better meet the needs of its employees. This form is likely to be filled out by the barbers themselves, and the information collected will be used to make informed decisions about the shop's policies and procedures.
-
-Before filling out this form, please make sure you have not already submitted your feedback. Your responses are confidential and will not be shared with anyone outside the shop.
-
-Please note that some fields are required and some are optional. Required fields are indicated by a star (*) in the label. If you have any questions or concerns, please don't hesitate to reach out to the shop management.
-
-</thinking>
-
 # Barber Staff Motivation Survey - Help Guide
 ## Purpose
 This survey is designed to help us make this shop a better place for you to work. Your responses are confidential and will help us identify areas of improvement to better meet your needs.

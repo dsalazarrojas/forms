@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from potential speakers for an association's conference. The form aims to understand the speaker's interest in presenting a session at the conference, and to provide details about the proposed topic, session format, and speaker's background. This will help the conference organizers evaluate and schedule the sessions accordingly. It's essential to complete the form carefully and accurately to ensure that the speaker's proposal is considered for the conference.
-
-When filling out this form, please note that some fields are required to be completed for the form to be submitted. If you have any questions or need clarification, please contact the conference organizers.
-
-Please ensure that you have all the necessary information before completing the form, and that the answers are accurate and truthful.
-
-Before submitting your proposal, review it carefully to avoid any mistakes or errors.
-
-</thinking>
-
 # Association Conference Topic Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential speakers for the association's conference. It helps the conference organizers evaluate and schedule sessions effectively.

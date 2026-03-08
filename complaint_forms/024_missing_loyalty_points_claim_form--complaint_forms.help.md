@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help users claim their missing loyalty points for a specific purchase. The purpose of the form is to gather information about the purchase, such as the date, time, and details of the item purchased, to verify the missing points. The form also collects contact information for the reviewer, including their email and phone number, to allow for communication and assignment of the claim to a reviewer. The form is designed to ensure that the missing points are accurately recorded and assigned to the correct reviewer for further review and resolution.
-
-This form should only be completed if the user has already contacted the loyalty program support team and has not received a resolution to their missing points claim. Duplicate submissions will not be accepted. The form should not be used to report a new issue or submit a new claim.
-
-Please note that this form is only for internal use and should not be shared with external parties.
-</thinking>
-
 # Missing Loyalty Points Claim Form - Help Guide
 
 ## Purpose

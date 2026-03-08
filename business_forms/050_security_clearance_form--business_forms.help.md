@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information for security clearance purposes. The form is required for all employees who need to access sensitive or classified information. The form ensures that employees are properly vetted and cleared before being granted access to such information. This form must be completed accurately and thoroughly to ensure that the clearance process is completed correctly. 
-
-Please note that this form is a critical part of the employee onboarding process and is required for all new hires. 
-
-It's also important to note that the information collected on this form will be used to determine the level and category of security clearance an employee is eligible for.
-
-</thinking>
-
 # Security Clearance Form - Help Guide
 ## Purpose
 The Security Clearance Form is used to collect information required for security clearance purposes. This form ensures that employees are properly vetted and cleared before being granted access to sensitive or classified information.

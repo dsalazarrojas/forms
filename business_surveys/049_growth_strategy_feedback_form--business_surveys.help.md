@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Growth Strategy Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from team members regarding the growth strategy of the business. Fill out this form to provide your thoughts, suggestions, and opinions on how to improve the company's growth strategy.

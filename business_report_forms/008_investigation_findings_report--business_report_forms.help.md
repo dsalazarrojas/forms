@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing the findings and progress of an investigation. 
-</thinking>
-
 # Investigation Findings Report - Help Guide
 ## Purpose
 The Investigation Findings Report form is designed to collect information about the progress and findings of an investigation. This form is used to gather data on the investigation's status, actions taken, and any evidence attached.

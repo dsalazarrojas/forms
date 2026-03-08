@@ -1,18 +1,3 @@
-<thinking>
-**Why create a "Crime Free Lease Addendum"?**
-
-The purpose of a "Crime Free Lease Addendum" is to provide a formal agreement between a landlord or property owner and a tenant to ensure that the rented property is free from any criminal activity. This addendum is usually attached to the main lease agreement and serves as an addendum to the existing terms.
-
-To determine if a "Crime Free Lease Addendum" is necessary, consider the following:
-
-- Is the property located in a high-crime area or with a history of crime?
-- Does the tenant have a history of involvement with law enforcement or any criminal charges?
-- Are there any specific conditions or requirements set by the landlord or property owner related to crime-free status?
-
-If the answer is "yes" to any of these questions, a "Crime Free Lease Addendum" may be necessary to ensure a clear understanding between the landlord/property owner and the tenant.
-
-</thinking>
-
 # Crime Free Lease Addendum - Help Guide
 ## Purpose
 

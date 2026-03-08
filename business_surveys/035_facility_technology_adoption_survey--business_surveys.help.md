@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the Facility Technology Adoption Survey form. This form is used to gather information about the adoption of technology within facilities, providing insight into the current state of technology adoption across various facilities.
-
-The form will help us understand the types of technologies being used in facilities, their adoption rates, and any challenges or benefits experienced by the facility management. This data will be used to inform technology development and implementation decisions within the organization.
-
-Please fill in the form carefully to ensure accurate and complete responses.
-
-</thinking>
-
 # Facility Technology Adoption Survey - Help Guide
 ## Purpose
 This form is used to gather information about the adoption of technology within facilities. Your input will help us understand the types of technologies being used, their adoption rates, and any challenges or benefits experienced by facility management.

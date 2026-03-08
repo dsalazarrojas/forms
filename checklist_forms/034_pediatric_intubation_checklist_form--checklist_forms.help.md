@@ -1,5 +1,3 @@
-<thinking>This form is designed to document the pediatric intubation process, gathering essential information on the medical history, vital signs, patient information, allergies, medications, physical exam, laboratory tests, imaging studies, procedure steps, complications, anesthesia, intubation success, intubation type, respiratory support, ventilation rate, sedation, patient status, patient condition, patient outcome, notes, date, time, location, and staff involved. The form aims to standardize the recording of pediatric intubation data and ensure that all relevant information is collected and documented accurately.</thinking>
-
 # pediatric_intubation_checklist_form - Help Guide
 ## Purpose
 ## How To Complete This Form

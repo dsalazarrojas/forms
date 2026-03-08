@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from valued partners (VIPs) of an organization, gathering insights on their shopping experience, satisfaction, and preferences. The form will likely be shared with the store's management team to identify areas for improvement and better serve VIPs in the future.
-
-To ensure that the form's data is accurate and useful, please answer the questions honestly and thoroughly. If you have any suggestions or comments, please use the "Any suggestions for improvements?" field. 
-
-Please note that this form will not collect any personal or sensitive information and will be kept confidential.
-
-Before you start, please make sure you are familiar with the store's policies and procedures, including its rules and guidelines for feedback and complaint handling.
-</thinking>
-
 # VIP Shopping Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from valued partners (VIPs) to improve their shopping experience at our store.

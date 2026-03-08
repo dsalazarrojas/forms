@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for catering orders. It is a template for restaurant catering orders that captures relevant details about the customer, their order, and preferences. It's likely used for takeout, event catering, or other food delivery services.
-This form is not intended for internal use within the restaurant and is likely used for external customers. The fields provided are sufficient to gather the necessary information for processing the order.
-It's essential to ensure that each field is filled in correctly to avoid errors and ensure accurate processing of the order.
-</thinking>
-
 # Restaurant Catering Order Form Template - Help Guide
 ## Purpose
 The Restaurant Catering Order Form Template is designed to collect information from customers for catering orders. This form helps restaurant staff gather the necessary details about the customer, their preferences, and order requirements.

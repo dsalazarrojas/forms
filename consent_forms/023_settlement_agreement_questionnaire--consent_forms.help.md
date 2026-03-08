@@ -1,28 +1,3 @@
-<thinking>Form purpose and usage context check:
-
-This form appears to be related to settlement agreements, which are legal documents that outline the terms and conditions of a dispute resolution or settlement. The form collects information about the parties involved in the dispute (Party A and Party B), their details, and the resolution status. This suggests that the form is used to record and track progress in dispute resolution processes.
-
-The form includes fields for:
-
-- Party A and Party B details, which might be used to capture information about the individual(s) or organization(s) involved in the dispute.
-- Dispute Details, which could include descriptions of the issue at hand.
-- Resolution status, which might indicate the current stage of the resolution process.
-- Dates and times, which could be used to track the progress of the resolution process.
-
-To confirm the form's purpose, we should also check the available fields for any indication of:
-
-* Whether the form is intended for internal use within an organization, or for external use (e.g. for court filing).
-* Whether there are any references to specific regulatory or legal requirements that must be met.
-* Whether the form has any dependencies on other forms or processes within the organization.
-
-However, from the given YAML, it appears that this form might be used for tracking and recording information for internal use within an organization. 
-
-Please note that the form does not have any clear indication of regulatory or legal requirements that must be met. It could be useful to add some clarifying information to support this use case.
-
-Assuming this form is meant for internal use, here is the help guide:
-
-</thinking>
-
 # Settlement Agreement Questionnaire - Help Guide
 ## Purpose
 This form is used for tracking and recording information related to settlement agreements within our organization. It helps in keeping accurate and up-to-date records of disputes, their resolution status, and relevant details about the parties involved.

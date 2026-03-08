@@ -1,11 +1,3 @@
-<thinking>
-
-To create the help guide for this form, I'll consider that the form "heat_transfer_unit_conversion_calculator" is used to help users convert between different units of measurement related to heat transfer. This is a simple calculator that takes user input for three variables: heat flow rate, temperature difference, and heat transfer coefficient, and then displays the result and result details in text format.
-
-Before proceeding, I've checked the form fields and found that all fields are optional. I'll make sure to provide clear explanations for each field, taking into account their labels and hints.
-
-</thinking>
-
 # heat_transfer_unit_conversion_calculator - Help Guide
 ## Purpose
 This form is used to convert between different units of measurement related to heat transfer. It takes user input for heat flow rate, temperature difference, and heat transfer coefficient, and then displays the result and result details.

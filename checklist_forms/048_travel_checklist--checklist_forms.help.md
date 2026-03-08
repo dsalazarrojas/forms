@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a travel checklist for users to document their travel plans and associated information. The purpose of the form is to ensure that all relevant details are recorded and communicated efficiently. This form is not intended to be used for real-time travel planning or booking, but rather for administrative and record-keeping purposes. Please ensure you only fill out the fields relevant to your specific travel needs. If you are unsure about any field, refer to the field-by-field explanation below.
-</thinking>
-
 # travel_checklist - Help Guide
 
 ## Purpose

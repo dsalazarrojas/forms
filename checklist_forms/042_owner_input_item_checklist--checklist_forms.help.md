@@ -1,13 +1,3 @@
-<thinking>
-
-The Owner Input Item Checklist form is designed to be used by owners to input information about items in their possession. The form is intended to be completed by the owner to provide a clear and concise record of items they have inputted. The form is likely used in an asset management or inventory context.
-
-The form is divided into multiple pages, each representing a different item. Within each page, the owner is asked to input basic information about the item, its condition, and confirm their ownership. The condition section allows the owner to provide additional notes about the item's condition. The confirmation section requires the owner to select an option confirming their ownership of the item.
-
-To complete this form, follow these steps:
-
-</thinking>
-
 # Owner Input Item Checklist - Help Guide
 ## Purpose
 The Owner Input Item Checklist form is designed to help owners input information about items in their possession. This form allows owners to create a clear and concise record of items they have inputted.

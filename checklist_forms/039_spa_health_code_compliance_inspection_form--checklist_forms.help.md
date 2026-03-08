@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for spa owners and inspectors to record and document health code compliance inspections of facilities. It will help ensure that the inspections are thorough and comprehensive, capturing all relevant information that may impact the safety and well-being of clients and staff. To prevent duplication of effort, please ensure that each form is completed only once per inspection and that all required information is provided.
-
-</thinking>
-
 # Spa Health Code Compliance Inspection Form - Help Guide
 ## Purpose
 

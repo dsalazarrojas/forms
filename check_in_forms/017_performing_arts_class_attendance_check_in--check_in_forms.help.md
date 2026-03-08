@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performing Arts Class Attendance Check In - Help Guide
 ## Purpose
 This form is intended to record attendance for the Performing Arts Class. Please use it to check in your students for the class you are teaching or attending.

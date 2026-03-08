@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Electronic Toll Tag Complaint Form, I'll first analyze the form's purpose and the fields provided in the YAML input schema. This form appears to be designed for customers to report incidents or complaints related to electronic toll tags, such as issues with the toll gate, reader, or tag itself. The form may be used by customers who have experienced problems with their electronic toll tags, such as errors or malfunctions, and need to report these incidents to the relevant authorities or customer support team.
-
-The form schema suggests that the form is composed of several sections, including complaint details, incident information, and supporting files. The form requires no input fields to be filled out, except for the incident location, which may imply that users are expected to provide location details of the incident.
-
-However, I would recommend that the form requires at least some mandatory fields to ensure that users provide essential information, and the incident location is likely to be a crucial field that should be required to help authorities locate the incident and respond accordingly.
-
-Before diving into the help guide, I would like to note that the form seems to be well-structured, with clear sections and field labels that follow a logical organization.
-
-</thinking>
-
 # Electronic Toll Tag Complaint Form - Help Guide
 ## Purpose
 The Electronic Toll Tag Complaint Form is designed for customers to report incidents or complaints related to their electronic toll tags. This form collects essential information about the incident, allowing us to assist you in resolving the issue.

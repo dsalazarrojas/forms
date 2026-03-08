@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for individuals who want to become affiliates for a business registration program. The form captures essential information about the applicant, including their personal details, website and promotion methods, and payout setup. The form is crucial for the business as it enables them to verify the identity and credibility of potential affiliates. To ensure accurate and valid registrations, applicants must provide accurate and truthful information.</thinking>
-
 # Affiliate Registration Form - Help Guide
 ## Purpose
 This form is for individuals who want to become affiliates for a business registration program. It captures necessary information about the applicant, including their personal details, website and promotion methods, and payout setup.

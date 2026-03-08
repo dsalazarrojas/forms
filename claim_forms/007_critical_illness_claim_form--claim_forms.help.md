@@ -1,16 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from claimants who are filing a claim for benefits related to a critical illness. This form is designed to be completed by the claimant or their representative. It is essential to ensure that all fields are filled out accurately and completely to expedite the processing of the claim.
-
-To complete this form, please follow the steps below:
-
-1. Carefully read and understand each field's explanation and purpose before proceeding.
-2. Ensure you have all necessary information and documentation before starting the form.
-3. Complete each field according to the instructions provided in the field-by-field explanation section.
-4. Double-check your answers before submitting the form to avoid errors and omissions.
-
-</thinking>
-
 # Critical Illness Claim Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Legal Documentation Checklist Form, ensuring they understand the form's purpose and requirements.
-
-This form is designed to collect legal documentation information. The fields provided are meant to gather specific details about a legal document, including its name, type, and associated dates. The form also asks for location and entity information, as well as any relevant URLs or notes. This guide will walk users through each field, explaining what information to enter and why.
-
-This form is not intended to be used for other purposes; it is specifically crafted for collecting legal documentation details. The fields are designed to be completed by a single user. 
-
-</thinking>
-
 # Legal Documentation Checklist Form - Help Guide
 
 ## Purpose

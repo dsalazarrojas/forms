@@ -1,12 +1,3 @@
-<thinking>
-This form is likely intended for business users to gather feedback and monitor the service provided by the business. This form is probably used to understand how customers use the service and their satisfaction with it. The purpose of this form is not explicitly stated, but based on the options for questions like "Service Type" and "Quality of Service", it is assumed that the form is designed to monitor and improve the service offered by the business.
-
-The form seems to be a simple feedback survey, where users can provide information about their interactions with the service, including the type of service they use, their experience with the service, and any comments they may have. The form also includes questions about their email frequency and service request, suggesting that the business is interested in understanding how customers interact with them via email.
-
-Before starting, please ensure that you are familiar with the purpose of this survey and are answering based on your actual experience with the service.
-
-</thinking>
-
 # hd_monitoring_survey - Help Guide
 ## Purpose
 This form is a survey for customers to provide feedback and information about their experience with the service offered by the business. It aims to monitor and improve the service by understanding customer usage and satisfaction.

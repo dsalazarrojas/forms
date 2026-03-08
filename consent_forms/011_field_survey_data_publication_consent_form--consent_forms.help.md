@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data from participants regarding their consent to publish field survey data. The purpose of this form is to ensure that participants understand and agree to the terms of data publication. This form is a standard template and should only be used for field surveys that require participant consent to publish data. Please review the form carefully and only use it when necessary. If you have any questions or concerns, please contact your supervisor or the data management team.
-</thinking>
-
 # Field Survey Data Publication Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant consent for the publication of field survey data. It is a legal requirement for many field surveys, ensuring that participants understand and agree to the terms of data publication.

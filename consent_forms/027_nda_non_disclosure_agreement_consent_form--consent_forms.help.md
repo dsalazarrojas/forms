@@ -1,11 +1,3 @@
-<thinking>
-This form is an AI-generated NDA (Non Disclosure Agreement) Consent Form.
-The form's purpose is to gather information from end-users who may be required to sign a non-disclosure agreement. 
-This form will likely be used in a professional setting such as business or academia where confidentiality and secrecy are necessary.
-It appears to have a general structure and is not specific to a particular industry.
-The form has a few fields that might be redundant or unnecessary for a typical NDA agreement.
-</thinking>
-
 # NDA (Non Disclosure Agreement) Consent Form - Help Guide
 ## Purpose
 The NDA (Non Disclosure Agreement) Consent Form is a document used to obtain consent from individuals to keep confidential information related to a project, business, or other sensitive topic.

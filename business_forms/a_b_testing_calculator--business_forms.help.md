@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to aid in A/B testing, a statistical technique used to measure the difference between two variants of a product, feature, or experience. The goal is to identify which variant performs better in terms of conversions or other metrics. The form is intended for business users to input data on their experiments and analyze results to inform business decisions. 
-
-It's worth noting that this form does not require any personal information and is a public adaptation of a form created by AI using publicly available survey data.
-
-</thinking>
-
 # A/B Testing Calculator - Help Guide
 ## Purpose
 The A/B Testing Calculator form is a tool to help business users evaluate the performance of two variants of a product, feature, or experience. It allows you to input data on your experiment and analyze results to determine which variant performs better.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to make predictions for the upcoming Formula 1 season. It asks users to select their picks for various aspects of the season, such as drivers and season outcomes. Each page of the form contains a different set of questions, allowing users to progress through the form in a logical and organized manner. The form is meant to be completed by users who are familiar with the Formula 1 season and its competitors. 
-
-To confirm, this form is used for a specific and niche topic and it's likely that users already have knowledge about the topic. Therefore, it's not necessary to provide a detailed introduction or explanations for every field. The goal is to make it easy to understand and fill out the form without requiring extensive guidance.
-
-</thinking>
-
 # F1 Season Predictions Survey - Help Guide
 ## Purpose
 The F1 Season Predictions Survey is designed to gather users' predictions for the upcoming Formula 1 season. Users will be asked to select their picks for various aspects of the season, including drivers and season outcomes.

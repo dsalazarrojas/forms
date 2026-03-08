@@ -1,9 +1,3 @@
-<thinking>
-To provide guidance on creating a user-friendly help document that accurately represents the form's purpose and functionality. Given the form's YAML structure, it appears to be a registration form for events related to the kink and BDSM community. The form likely serves as an administrative tool for event organizers to collect necessary information from participants, including event details, participant details, payment options, agreements, and event organizers.
-
-This guide will focus on providing clear explanations for end-users, ensuring a smooth and informed experience while filling out the form.
-</thinking>
-
 # Kink And BDSM Event Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants in kink and BDSM events. Event organizers use this form to gather relevant details about the event and its attendees, including payment options and agreements.

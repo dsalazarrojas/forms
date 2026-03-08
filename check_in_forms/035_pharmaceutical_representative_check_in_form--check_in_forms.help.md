@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for pharmaceutical representatives to check in with their schedule, company, and status updates. The form is designed to collect relevant information such as the representative's name, company name, check-in date and time, schedule, check-in status, and any additional notes. This information is used to ensure that representatives are properly checked in and accounted for.
-
-</thinking>
-
 # Pharmaceutical Representative Check In Form - Help Guide
 ## Purpose
 This form is used for pharmaceutical representatives to check in with their schedule, company, and status updates.

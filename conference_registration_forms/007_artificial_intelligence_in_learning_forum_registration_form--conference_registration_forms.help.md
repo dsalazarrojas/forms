@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for registering attendees to the Artificial Intelligence In Learning Forum. It is crucial to ensure that all fields are filled out accurately to provide the most effective experience for the attendees. This form will be used to manage attendee information, track their interests, and tailor the event to their needs.
-To prevent errors and ensure the form is filled out correctly, please make sure to review each field carefully before submission. This form is not a duplicate of any other form, and the information gathered will be used specifically for the Artificial Intelligence In Learning Forum.
-</thinking>
-
 # Artificial Intelligence In Learning Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register attendees to the Artificial Intelligence In Learning Forum. It collects information about the attendees, their interests, and their needs, to provide the best experience for the event.

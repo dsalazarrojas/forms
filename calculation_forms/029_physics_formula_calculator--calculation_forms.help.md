@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool to calculate different physical quantities, including force, speed, energy, and more. It is designed to help users quickly and accurately calculate various physics-related calculations. Each field is meant to be filled out in the correct units and according to the specific calculation being performed. Please ensure that all required fields are filled out and that you are familiar with the units and concepts being used.
-
-</thinking>
-
 # physics_formula_calculator - Help Guide
 ## Purpose
 The **physics_formula_calculator** is a tool to calculate various physical quantities such as force, speed, energy, and more.

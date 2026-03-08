@@ -1,10 +1,3 @@
-<thinking>
-The Property Management Software Contact Form is designed to facilitate communication between property management software users and the support team. 
-This form is used to submit inquiries, provide feedback, or request help with specific issues related to the software. 
-Before proceeding, please note that filling this form is not a substitute for creating a new issue or bug in the software's issue tracker. 
-Ensure that your question, feedback, or issue has not been addressed previously, as duplicate submissions may lead to confusion and delay in resolution. 
-If you need to report a bug or create a new issue, please do not use this form, instead, navigate to the issue tracker in the software's dashboard.</thinking>
-
 # Property Management Software Contact Form - Help Guide
 ## Purpose
 The Property Management Software Contact Form is designed to help users get in touch with the support team for assistance, feedback, or to submit inquiries about the software.

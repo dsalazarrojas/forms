@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with the conference schedule. The survey aims to collect information on attendees' satisfaction with the sessions they attended, their convenience of the time slot, and suggestions for improvements. The form is intended for internal use, and the responses will help the conference organizers refine their schedule planning.
-</thinking>
-
 # Conference Schedule Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from conference attendees to help us improve our conference schedule. Your input will help us make informed decisions about future session planning and time slot selection.

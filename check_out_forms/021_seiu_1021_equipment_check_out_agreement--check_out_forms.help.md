@@ -1,7 +1,3 @@
-<thinking>
-This form is related to equipment check out agreements, which are essential for managing equipment usage and ensuring that employees are aware of their responsibilities. It's possible that a similar form exists, so ensure that this form is not duplicating the functionality of any other form.
-</thinking>
-
 # seiu_1021_equipment_check_out_agreement - Help Guide
 
 ## Purpose

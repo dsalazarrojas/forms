@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from users on the treasury workflow, specifically to assess its efficiency, clarity, and identify any issues that need improvement. It will help us understand whether the workflow is meeting the required standards and make necessary adjustments to optimize it. This form should only be filled out by users who have experience with the current workflow. Please ensure that you have filled out this form for each unique workflow that you are evaluating.
-</thinking>
-
 # treasury_workflow_feedback_request_form - Help Guide
 ## Purpose
 The treasury workflow feedback request form is a survey designed to gather feedback from users on the treasury workflow's efficiency, clarity, and areas for improvement. Your input will help us assess the current state of the workflow and make adjustments to optimize it for better performance.

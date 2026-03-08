@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect insights from respondents on their perception of beauty brands. It is intended to help businesses understand their customers' values, preferences, and concerns regarding the industry. This form is not intended to be affiliated with, endorsed by, or derived from any form platform, and is an original creation based on public survey topic metadata.
-</thinking>
-
 # Beauty Brand Trust Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather insights on your perception of beauty brands, specifically on the factors that influence your trust in these brands.

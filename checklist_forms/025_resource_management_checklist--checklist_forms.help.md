@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the management of resources. The purpose of this form is to gather data on resource allocation, utilization, and availability. This form is used to track and analyze resource management data. It should only be used by authorized personnel with access to the necessary information and clearance to manage resources.
-</thinking>
-
 # resource_management_checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the management of resources. It is used to gather data on resource allocation, utilization, and availability.

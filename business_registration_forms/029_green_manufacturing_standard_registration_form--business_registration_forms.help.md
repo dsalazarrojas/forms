@@ -1,5 +1,3 @@
-<thinking>...This form is a business registration form created for organizations in the green manufacturing standard. It's designed to gather general information, organizational details, sustainability information, and confirmations from registrants. This form is intended for internal use within your organization, and its purpose is to facilitate efficient and accurate collection of relevant data. Please ensure that the information provided is up-to-date and accurate to ensure seamless processing. This form has multiple pages with no conditional logic, so you'll go through each page in order. Ensure that all required fields on each page have a completed response before proceeding to the next page... </thinking>
-
 # Green Manufacturing Standard Registration Form - Help Guide
 ## Purpose
 This form is used to collect general information, organizational details, sustainability information, and confirmations from registrants for the Green Manufacturing Standard.

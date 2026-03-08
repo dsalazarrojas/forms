@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's self-confidence and self-efficacy in various areas. It seems to be a crucial tool for coaching purposes, as it aims to identify strengths and weaknesses in confidence levels. However, to ensure the form's effectiveness, it's essential to confirm that it's being used correctly and not duplicated for similar purposes. Please review the form's purpose and content to ensure it aligns with your coaching goals and doesn't overlap with existing forms.
-</thinking>
-
 # virtual_confidence_coaching_survey - Help Guide
 ## Purpose
 This form is designed to assess an individual's self-confidence and self-efficacy in various areas, providing a valuable tool for coaching purposes.

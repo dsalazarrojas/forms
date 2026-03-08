@@ -1,7 +1,3 @@
-<thinking>
-The form is for parents to request a trial class for their toddler to experience Jiu Jitsu. It's essential to ensure that the parent's contact information is accurate to facilitate communication before the trial class. The form is meant for a one-time event, and the preferred date and start/end times are crucial for scheduling. The class type and duration are also important to understand the type of trial experience and its length. 
-</thinking>
-
 # Toddler Jiu Jitsu Trial Class Request - Help Guide
 ## Purpose
 This form is for parents to request a trial class for their toddler to experience Jiu Jitsu at your organization. 

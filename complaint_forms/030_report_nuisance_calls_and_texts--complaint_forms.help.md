@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended to collect information on nuisance calls and texts received by the organization. It is likely used for reporting and tracking purposes, possibly for further analysis or investigation. The form should be filled out when a nuisance call or text is received, and it should not be filled out multiple times for the same incident.
-</thinking>
-
 # Report Nuisance Calls And Texts - Help Guide
 
 ## Purpose

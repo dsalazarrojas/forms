@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a Workforce Performance Consulting Survey, likely used to gather data about an individual's job performance, role, and evaluation details. The purpose of this form seems to be for HR management and performance evaluation purposes, possibly for employee development and performance management. To ensure relevance, it's assumed that the form is used by HR teams or consultants to gather data for employee performance reviews. 
-
-Given the form's structure, it is possible that some questions are redundant or have similar purposes. However, based on the provided YAML fields, it seems that each field is designed to collect specific details about the employee's job performance and evaluation history. Therefore, this guide will cover each field based on the provided YAML.
-
-</thinking>
-
 # Workforce Performance Consulting Survey - Help Guide
 ## Purpose
 This form is designed to collect data about an individual's job performance, role, and evaluation history for HR management and performance evaluation purposes.

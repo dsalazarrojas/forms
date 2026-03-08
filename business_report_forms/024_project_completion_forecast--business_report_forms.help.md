@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand the form is for collecting project completion information, likely for project management or status tracking purposes. This form appears to gather data on project titles, dates, statuses, and other related details. To ensure this form meets its intended use, I will create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means, without duplicating information already provided in the YAML fields.
-
-</thinking>
-
 # Project Completion Forecast - Help Guide
 ## Purpose
 The Project Completion Forecast form is designed to collect critical project status and completion information from project leaders and teams. This data helps project managers track and monitor project progress, ensuring timely completions and smooth delivery.

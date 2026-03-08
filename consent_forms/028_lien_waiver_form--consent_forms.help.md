@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lien Waiver Form - Help Guide
 
 ## Purpose

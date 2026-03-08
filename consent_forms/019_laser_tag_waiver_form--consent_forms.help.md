@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants (adults and minors) who will be engaging in activities involving laser tags. The purpose of this form is to gather essential personal and medical information to ensure the participant's safety and well-being. This information will be used to provide appropriate medical attention and care in case of an emergency. It's essential to fill out this form accurately and thoroughly to ensure the participant's safety. Please note that this form should only be completed by the participant or their authorized representative.
-</thinking>
-
 # Laser Tag Waiver Form - Help Guide
 ## Purpose
 

@@ -1,28 +1,3 @@
-<thinking>
-
-To determine if this form is relevant and not duplicating any other form in the database, I've reviewed the provided YAML file. It appears to be a comprehensive form for collecting information from artists or performers arriving at a venue for an event. The form includes fields for:
-
-* Artist or performer's name
-* Band or group name (if applicable)
-* Check-in time and date
-* Scheduled performance time
-* Venue name
-* Contact person at the venue
-* Artist contact phone number
-* Artist email address
-* Number of team members arriving
-* Type of equipment arriving (e.g., instruments, sound equipment, lighting gear, etc.)
-* Load-in assistance required
-* Technical rider submitted
-* Accommodation or hospitality needed
-* Special requests or notes
-* Parking location and instructions
-* Stage manager or contact assigned
-
-The fields are well-structured and consistent, and there's no duplication of similar forms in the database.
-
-</thinking>
-
 # Artist Arrival Check In Form - Help Guide
 ## Purpose
 The Artist Arrival Check In Form is designed to collect essential information from artists or performers arriving at a venue for an event. This form helps event staff and coordinators to manage arrivals, accommodations, and technical requirements for the artists or performers.

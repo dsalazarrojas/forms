@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help supervisors or personnel responsible for night supervision tasks to document and report on their activities, tasks, and any incidents that may have occurred during the night shift. The purpose of this form is to provide a structured and organized way to gather information on the night supervision tasks, making it easier to review, evaluate, and take corrective actions if necessary.
-</thinking>
-
 # Night Supervision Task Checklist - Help Guide
 ## Purpose
 The Night Supervision Task Checklist is a form used to document and report on night supervision tasks, allowing for better oversight and evaluation of the night shift activities.

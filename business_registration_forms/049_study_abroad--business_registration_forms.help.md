@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a business or entity's registration for the purpose of studying abroad. The form likely aims to gather essential details such as the name of the company, its address, contact person, and license details, which are vital for regulatory compliance and administrative purposes. It is crucial to provide accurate and complete information to avoid errors and ensure seamless processing. Before proceeding, ensure that the form is being filled out by the intended entity, as duplicate or incorrect submissions might cause inconvenience and delay the process.
-
-</thinking>
-
 # Study Abroad - Help Guide
 ## Purpose
 This form is designed to collect information about a business's registration for the purpose of studying abroad.

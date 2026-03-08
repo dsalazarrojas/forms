@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to allow customers to claim their Screen Protector warranty. The form is part of the company's customer support process, designed to collect necessary information from customers to process their warranty claims efficiently. It's crucial that customers fill out the form accurately and completely to avoid any issues with their claims.
-</thinking>
-
 # Screen Protector Warranty Claim Form - Help Guide
 ## Purpose
 This form is used to submit a claim for your Screen Protector warranty. Please fill out the form with the required information to help us process your claim.

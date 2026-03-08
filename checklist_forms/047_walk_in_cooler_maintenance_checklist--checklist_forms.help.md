@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the walk-in cooler's maintenance status. It is likely used in a refrigeration or cold storage facility to track the condition of the coolers and the functioning of the refrigeration system. This form will help users to efficiently identify issues and take corrective actions to maintain optimal cooling conditions. I'm assuming that the form will be used by maintenance personnel or facility managers to monitor and maintain the coolers and refrigeration systems in the facility.
-
-The form is designed to be a simple checklist to collect relevant information about the condition of the walk-in coolers, including the number of coolers checked, their current status, and any notes. The form will help users to track and report on any issues with the coolers and refrigeration systems.
-
-This form appears to be designed for maintenance and facility management purposes, and it is not related to any specific industry or platform.
-
-There is no duplication of fields or any issues with the provided YAML fields.</thinking>
-
 # Walk In Cooler Maintenance Checklist - Help Guide
 ## Purpose
 

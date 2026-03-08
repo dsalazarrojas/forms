@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about streaming quality issues they have experienced. The purpose of this form is to collect feedback from users about problems they have encountered with streaming services, such as issues with streaming service providers, dates, times, streamed videos, issue types, and descriptions of the problems. This form will help identify common issues and provide insights for improvement.
-</thinking>
-
 # Streaming Quality Complaint Form - Help Guide
 ## Purpose
 The Streaming Quality Complaint Form is designed to collect information about streaming quality issues encountered by users. This form will help identify common problems and aid in improving streaming services.

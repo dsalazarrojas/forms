@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about Nanobubble Technology, a fictional company that provides innovative solutions for various industries. This form is meant to be completed by business professionals who have experience or interest in Nanobubble Technology or its related fields.
-</thinking>
-
 # Nanobubble Technology Survey - Help Guide
 ## Purpose
 This survey is designed to gain insights into the awareness and experiences of professionals in the industry related to Nanobubble Technology. Your participation will help us better understand the current state of the industry and provide valuable information to enhance our services.

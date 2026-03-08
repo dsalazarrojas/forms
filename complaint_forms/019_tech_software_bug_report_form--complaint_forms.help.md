@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for reporting bugs, issues, or feedback related to tech software applications. It is designed to gather information from users about the problems they encounter while using our tech software, including details about the bug, how to reproduce it, and the user's contact information for follow-up. The purpose of this form is to help us understand and address user-reported issues efficiently, reducing response times and improving overall user experience.
 
 # Tech Software Bug Report Form - Help Guide

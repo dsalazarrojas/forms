@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information and feedback on the quality of a drivetrain installation, which is a critical process to ensure the proper functioning and performance of the drivetrain. This form is used to track and record key details about the installation, including customer information, drivetrain specifics, installation date and time, and any issues or comments that may arise during or after the process. The form is essential for identifying potential issues, verifying customer satisfaction, and maintaining accurate records.
-
-To ensure the form is completed accurately and efficiently, please follow the steps below:
-
-</thinking>
-
 # Drivetrain Installation Quality Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information and feedback on the quality of a drivetrain installation. This form is used to track and record key details about the installation, including customer information, drivetrain specifics, and any issues or comments that may arise during or after the process.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Document Handover Form, a tool used to manage and track document handovers between teams and stakeholders. The purpose of this form is to gather information about the document being handovered, including the client name, document type, and status. It is crucial to use this form to ensure that all relevant details are captured accurately, and that the handover process is completed efficiently.
-</thinking>
-
 # Document Handover Form - Help Guide
 ## Purpose
 The Document Handover Form is a tool used to manage and track document handovers between teams and stakeholders. This form captures key information about the document being handovered, including client name, document type, and status.

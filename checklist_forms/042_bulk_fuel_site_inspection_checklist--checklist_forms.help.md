@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for conducting bulk fuel site inspections. It helps to identify potential safety and regulatory compliance issues at a fuel storage site. The form is meant to be filled out by inspectors or site managers to gather data on the condition and maintenance of the site.
-
-This form is meant to be used for general-purpose and is not specific to any particular industry or regulatory standard. It's a good idea to review the entire form carefully to ensure that it meets your specific needs.
-
-Before using this form, it would be helpful to review the following:
-
-*   This form has been generated based on publicly available metadata about survey topics. It's possible that some fields may not apply to your specific situation.
-*   This form does not collect any sensitive or personally identifiable information.
-*   Please review each field carefully and adjust as needed to suit your specific needs.
-
-This form has a total of 25 fields. Each field is marked as optional or required based on its purpose and industry best practice. Please ensure that all required fields are filled before submitting the form.
-
-</thinking>
-
 # Bulk Fuel Site Inspection Checklist - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about the performance and operations of a wastewater treatment plant. This form is likely used by plant operators or management to provide updates on the plant's performance, including its capacity, treatment efficiency, and other relevant metrics. The information collected here will help stakeholders, such as regulators or government agencies, to monitor the plant's performance and ensure it is operating within compliance standards.
-
-Before using this form, please ensure you're not duplicating work by checking with your internal stakeholders or checking our database for existing reports. Ensure that you're providing the most up-to-date and relevant information.
-
-</thinking>
-
 # Wastewater Treatment Output Report Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Data Tracking Consent Form - Help Guide
 
 ## Purpose

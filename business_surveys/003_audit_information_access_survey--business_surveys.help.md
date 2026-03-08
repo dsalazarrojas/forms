@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about access and permissions within a system or tool. The goal is to help assess the current state of access controls and identify areas for improvement. By providing detailed insights, respondents will be able to identify potential security risks and suggest ways to mitigate them.
-</thinking>
-
 # Audit Information Access Survey - Help Guide
 ## Purpose
 The Audit Information Access Survey is designed to gather information about access and permissions within a system or tool. This form will help assess the current state of access controls and identify potential security risks.

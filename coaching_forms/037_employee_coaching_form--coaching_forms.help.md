@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for internal coaching activities for employees. It is intended to collect information about employee coaching, such as goals, coaching dates, coaching methods, and next steps. This form will help coaches to better understand the employee's needs and provide more effective coaching sessions. Please ensure this form is not duplicated or outdated before proceeding.
-</thinking>
-
 # Employee Coaching Form - Help Guide
 ## Purpose
 This form is for internal coaching activities to collect information about employee coaching, goals, coaching dates, coaching methods, and next steps.

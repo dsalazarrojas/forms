@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Workplace Innovation Roundtable Registration Form" that is clear, concise, and practical, let's first establish the form's purpose and internal reasoning. The form is designed to collect information from attendees for a workplace innovation roundtable, likely for event planning and organization purposes. The form seems to require basic attendee information (name, email, phone number) and event details (title, date, start and end times, venue), along with an RSVP option to indicate attendance confirmation.
-
-Given this context, it's essential to ensure that the form is completed accurately and consistently to avoid duplication and incorrect data. A clear help guide is crucial to ensure that end users understand their responsibilities and the importance of providing precise information.
-
-Upon reviewing the provided YAML, it appears that the form consists of 10 fields, each with a unique label, type, and required status. The fields are divided into two pages, but for the purpose of this guide, we'll focus on the individual fields.
-
-</thinking>
-
 # Workplace Innovation Roundtable Registration Form - Help Guide
 ## Purpose
 The Workplace Innovation Roundtable Registration Form is designed to collect information from attendees for event planning and organization purposes.

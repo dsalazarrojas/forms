@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information about an individual's relationship with their partner. This includes assessing the type of relationship, communication style, physical intimacy, conflict resolution strategies, partner's emotional maturity level, and the overall strength of the relationship. It is crucial to ensure that the form is completed accurately and consistently to provide valuable insights into the relationship dynamics. To prevent duplication or misinterpretation, it is essential to understand the form's purpose and its individual sections.
-</thinking>
-
 # Healthy Relationship Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate the dynamics of a healthy relationship. It consists of seven questions that cover various aspects of relationships, including the type of relationship, communication, physical intimacy, conflict resolution, partner's emotional maturity, and relationship strength. Completing this form will help you assess the quality and health of your relationship.

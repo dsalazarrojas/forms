@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent duplication, this form is designed to be filled out by a single person at a time. Please only submit one inquiry at a time, and do not duplicate entries.
-
-This form is a request for services related to smart contracts. It gathers information from the submitter to understand their needs and assign the correct resources.
-
-</thinking>
-
 # Smart Contract Service Inquiry Form - Help Guide
 ## Purpose
 This form is used to submit a request for services related to smart contracts.

@@ -1,9 +1,3 @@
-<thinking>
-This guide helps users understand the purpose and completion process of the pre_pour_inspection_checklist form.
-The purpose of this form is to collect information for a pre-pour inspection of a construction site. This form ensures that all necessary details are documented before concrete pours, helping to prevent errors, delays, and potential safety hazards.
-The form checks for relevance and non-duplication to prevent redundant data entry.
-</thinking>
-
 # pre_pour_inspection_checklist - Help Guide
 ## Purpose
 The pre_pour_inspection_checklist is a form designed to collect information for a pre-pour inspection of a construction site. This form helps prevent errors, delays, and potential safety hazards by ensuring that all necessary details are documented before concrete pours.

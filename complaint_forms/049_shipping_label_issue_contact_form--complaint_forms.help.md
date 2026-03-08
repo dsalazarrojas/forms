@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about shipping label issues from customers. It's intended for customer support and service teams to identify and resolve these issues efficiently. Please ensure that you're using this form only for shipping label-related issues and not for other concerns. If you've already submitted a similar issue, please do not submit duplicate reports.
-</thinking>
-
 # Shipping Label Issue Contact Form - Help Guide
 ## Purpose
 This form is used to report issues with shipping labels. Please provide as much detail as possible to help our team troubleshoot and resolve the problem quickly.

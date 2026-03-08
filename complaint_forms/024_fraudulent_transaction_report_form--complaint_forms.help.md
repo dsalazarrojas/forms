@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fraudulent Transaction Report Form - Help Guide
 
 ## Purpose

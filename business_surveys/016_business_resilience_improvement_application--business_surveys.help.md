@@ -1,17 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's examine its fields. It appears to be a comprehensive application for businesses to request support or assistance for improving their resilience. The fields suggest that the form collects information on business details, challenges, and needs. However, the exact purpose and expected outcome of this process are not explicitly defined in the provided YAML.
-
-Given the fields, we can infer that the form likely aims to:
-
-- Collect information about businesses seeking assistance or support for improving their resilience
-- Identify areas of improvement and priority needs for these businesses
-- Determine the level of support required and the expected timeline for improvement
-
-This form does not seem to duplicate any existing forms within our company's portfolio, but further investigation is needed to confirm this.
-
-</thinking>
-
 # Business Resilience Improvement Application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Exchange Program Parental Consent Form - Help Guide
 
 ## Purpose

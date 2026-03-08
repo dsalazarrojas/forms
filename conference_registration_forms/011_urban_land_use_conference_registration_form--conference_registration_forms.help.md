@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect registration information for attendees of the Urban Land Use Conference. The form should only be completed by individuals who have been invited to attend the conference. Please note that this form may be used in conjunction with other forms or data collection methods to verify the accuracy of the registration information.
-
-This form is used to gather contact information, role at the conference, sessions of interest, date and time of attendance, a brief bio, email address, phone number, and any additional notes. This information will be used to personalize the conference experience and ensure that attendees receive relevant information and updates.
-
-Before proceeding, please ensure that you have received an invitation to attend the conference and that you have reviewed the information provided carefully.
-
-</thinking>
-
 # Urban Land Use Conference Registration Form - Help Guide
 ## Purpose
 The Urban Land Use Conference Registration Form is used to collect essential information from conference attendees. This information helps us understand who is attending the conference, their role, interests, and preferences.

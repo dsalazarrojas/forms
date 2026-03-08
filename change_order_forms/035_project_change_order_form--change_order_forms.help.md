@@ -1,5 +1,3 @@
-<thinking>... this form is designed to collect relevant information for a project change order, which is crucial for project managers and team members to understand the project's progress and any changes made to it. This form helps ensure that all necessary details are captured for effective project management and communication. It's recommended that only one instance of this form is submitted per project change order, and that users should only complete the form if they have a valid project change order to report. The fields within this form are designed to accommodate various types of information, including text, dates, times, and selections, ensuring a comprehensive overview of the project's status... </thinking>
-
 # project_change_order_form - Help Guide
 
 ## Purpose

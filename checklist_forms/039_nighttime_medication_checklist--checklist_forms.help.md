@@ -1,5 +1,3 @@
-<thinking>...checking that this form is indeed a checklist for tracking whether patients take their medications at night... and that it is not a duplicate of other similar forms in our database...</thinking>
-
 # Nighttime Medication Checklist - Help Guide
 ## Purpose
 This form is used to track the medication administration of patients at night. It helps healthcare professionals ensure that patients receive their medications as prescribed and are safe.

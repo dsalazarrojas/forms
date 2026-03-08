@@ -1,8 +1,3 @@
-<thinking> 
-This form is for obtaining acknowledgement and consent from users for skin care procedures. It is likely used in a clinical or medical setting where users need to agree to certain treatments or procedures. The form is designed to be completed by patients or their authorized representatives. To avoid duplication, only one form per user is required.
-
-</thinking>
-
 # Skin Care Acknowledgement And Consent Form - Help Guide
 ## Purpose
 

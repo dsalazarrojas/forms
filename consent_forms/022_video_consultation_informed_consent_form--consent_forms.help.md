@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a "Video Consultation Informed Consent Form" that captures essential information for a video consultation, including the patient's personal details, consent preferences, and clinician details. The form ensures that patients understand their rights, responsibilities, and data protection. The form fields have been carefully crafted to collect relevant information for secure and effective video consultations.
-
-</thinking>
-
 # Video Consultation Informed Consent Form - Help Guide
 =============================================
 

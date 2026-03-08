@@ -1,12 +1,3 @@
-<thinking>
-This help guide is being generated using AI, and it's a form designed to be used for facepiece inspection checklists. The form is meant to be used for inspecting facepieces, which could be related to safety, maintenance, or quality control in various industries such as manufacturing, healthcare, or construction. 
-
-The form has 8 fields, and users will need to navigate through each of them to complete the form. Please ensure that the form is being used for its intended purpose and not for other unrelated tasks.
-
-To ensure that the form is used correctly and consistently, please follow the guidelines outlined in this help guide.
-
-</thinking>
-
 # Facepiece Inspection Checklist - Help Guide
 ## Purpose
 This form is designed for facepiece inspection checklists, used to ensure that facepieces are properly inspected and maintained. It helps users identify any corrective actions or follow-ups needed for facepieces.

@@ -1,22 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is designed to collect information from aquatic professionals about their professional experiences, challenges, and feedback. The form is meant to gather insights from a diverse group of aquatic professionals to better understand their needs and pain points. It's essential to complete this form accurately and thoroughly to provide valuable information.
-
-This form has multiple sections, each with different types of questions that cater to different aspects of the profession. The form includes fields for:
-
-*   Professional information, including name, job title, and facility name
-*   Primary profession, which helps categorize the responses
-*   Main challenges faced in the profession
-*   Industry trends affecting their work
-*   Technology adoption level
-*   Training or development needs
-*   Suggestions for industry improvement
-*   Years of experience in the field
-
-Before completing the form, ensure you have all the necessary information and answers ready. The form is self-explanatory, and the fields are designed to guide you through the process.
-
-</thinking>
-
 # Aquatic Professionals Survey - Help Guide
 ## Purpose
 

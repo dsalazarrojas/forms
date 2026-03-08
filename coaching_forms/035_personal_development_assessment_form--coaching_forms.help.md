@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help coaches and clients assess personal development goals, skills, and areas for improvement. It provides a structured approach to identify strengths, weaknesses, and development areas. The form includes fields for selecting options, entering text, and providing notes, as well as tracking progress and completion status. The goal is to facilitate effective coaching and development planning by providing a centralized repository of information. Please ensure this form is only used in relevant coaching contexts and not duplicated in other forms or assessments.
-</thinking>
-
 # Personal Development Assessment Form - Help Guide
 ## Purpose
 This form is designed to support personal development and coaching by assessing goals, skills, and areas for improvement. It provides a comprehensive structure for coaches and clients to identify strengths, weaknesses, and development areas.

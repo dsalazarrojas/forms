@@ -1,26 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and useful, I'll first analyze the form's purpose. Based on the provided YAML fields, the form seems to be designed for managing inventory data, likely for products or items within a company's inventory system.
-
-The form's fields suggest it's used to gather information about products, their quantities, locations, categories, and other relevant details. The form appears to be a simple, straightforward tool for data input and management.
-
-The form's structure and field names imply it's likely used by warehouse staff, inventory managers, or similar personnel to update or manage inventory data. The form's purpose might be to quickly and efficiently update or query inventory levels, track stock movements, or generate reports.
-
-To confirm, here's a brief explanation of each field:
-
-*   **Select Multiple**: This field likely allows users to choose multiple products or items for management.
-*   **Product ID**: A numeric field for identifying a specific product or item in the inventory.
-*   **Product Name**: A text field for entering or viewing the product's name.
-*   **Quantity**: A numeric field for specifying the quantity of the product.
-*   **Location ID**: A numeric field for identifying the location where the product is stored.
-*   **Location Name**: A text field for entering or viewing the location's name.
-*   **Category ID**: A numeric field for categorizing the product.
-*   **Category Name**: A text field for entering or viewing the category's name.
-*   **Inventory Status**: A select-one field with options "Active" and "Inactive" for indicating the product's availability or status.
-*   **Notes**: A note field for entering comments or descriptions about the product.
-*   **Email**: A field for entering an email address (likely for notifications or contact purposes).
-
-Please let me know if this analysis is correct, and I'll continue with creating the help guide based on your approval!</thinking>
-
 # Inventory Management Form - Help Guide
 ## Purpose
 

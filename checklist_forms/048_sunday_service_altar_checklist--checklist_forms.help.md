@@ -1,14 +1,3 @@
-<thinking>
-The Sunday Service Altar Checklist form is likely designed to help individuals or teams manage and prepare for Sunday services in a church or other religious setting. The form might be used to track and organize various aspects of the service, such as the selected sacraments, hymns, opening and closing scriptures, sermons, and altar arrangements. The purpose of this form is to ensure a smooth and well-structured Sunday service by allowing users to easily select and organize the different elements that will be used during the service. This form might be used by church administrators, worship teams, or service leaders to plan and prepare for the service.
-
-The form does not appear to be a critical or high-stakes form, as most fields are optional and do not require immediate attention. However, it is still essential to ensure that users understand the purpose and functionality of each field to use the form effectively.
-
-Given the provided YAML fields, it seems that the form has a mix of single-select, multiple-select, and text fields, which suggests that users will have some flexibility in terms of how they choose to fill in the form. The form might be useful for tracking and documenting various aspects of the service, such as the type of hymns to be sung, the scripture to be read, and the sermon or talk to be given.
-
-Before proceeding, ensure that you understand the specific requirements and constraints of your organization or team to use this form effectively. This form might be suitable for small to medium-sized services or teams. However, if you are using this form for a larger or more complex service, you might need to adjust the form or add additional fields to accommodate your specific needs.
-
-</thinking>
-
 # Sunday Service Altar Checklist - Help Guide
 
 ## Purpose

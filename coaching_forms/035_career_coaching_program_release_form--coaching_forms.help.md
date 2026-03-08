@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to obtain consent and release of liability from participants in the career coaching program. The purpose of this form is to ensure that participants are aware of their rights and responsibilities as they participate in the program and to obtain their explicit consent for the use of their images and testimonials. The form is used internally to verify that participants have reviewed and agree to the program's terms of service.
-
-Before completing this form, please ensure that you have not already submitted a similar form for this program. This form is only required once per participant, per program.
-
-</thinking>
-
 # Career Coaching Program Release Form - Help Guide
 ## Purpose
 The Career Coaching Program Release Form is used to obtain consent and release of liability from participants in the career coaching program.

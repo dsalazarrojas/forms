@@ -1,11 +1,3 @@
-<thinking>
-This form is for participants to provide their information and sign the waiver for public events. 
-The form is intended for public events where liability may be a concern. 
-Participants must provide the following information: their name, event ID, event name, waiver type, whether or not they have signed the waiver, their date of birth, phone number (optional), address (optional), and the version of the waiver they are signing. 
-This form should only be used for public events and not for private events or other purposes. 
-Please ensure that the participant is aware that the information is only used for the purpose of the event and is not shared or used otherwise.
-</thinking>
-
 # Public Event Participation Waiver Form - Help Guide
 ## Purpose
 This guide is to help participants complete the Public Event Participation Waiver Form correctly and understand the purpose of each field.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to help event attendees check in and provide their information for the networking event. The form is intended to be completed by event attendees who want to participate in the event. 
-
-Please note that this form will not collect any sensitive information and will only be used for organizational purposes.
-
-The form is divided into several sections: Event Name, Attendee Information, and Event Participation.
-
-The form will be used to track attendance and participation in the event, and will help us better understand the demographics of our attendees. 
-
-This form will be used by event organizers to get a sense of who is attending the event, their role, and how long they spent at the event. 
-
-We will not use the information collected from this form for marketing or spamming purposes. 
-
-If you're still unsure about any of the fields, please contact the event organizers to clarify.
-</thinking>
-
 # Networking Event Check In Form - Help Guide
 ## Purpose
 This form is designed to help event attendees check in and provide their information for the networking event.

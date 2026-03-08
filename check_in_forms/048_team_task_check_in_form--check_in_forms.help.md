@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Team Task Check In Form" that explains the purpose, completion process, and field-by-field explanation of the form. I will base my explanation on the provided YAML fields and aim to be concrete, concise, and practical.</thinking>
-
 # Team Task Check In Form - Help Guide
 ## Purpose
 The Team Task Check In Form is designed to gather information about team tasks and their status. This form is intended for team members to check in on their tasks, providing updates on their progress, blockers, and comments. It helps the project lead and team lead to track the status of tasks and make informed decisions.

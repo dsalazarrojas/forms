@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to calculate the power of a given base number and an exponent number. This form is likely used for educational or scientific purposes, such as calculating the result of a mathematical operation involving exponents. There is no indication that this form is part of a larger application or system, so it's possible that it is a standalone tool for users to quickly calculate exponents. It's also worth noting that the form does not allow for any advanced calculations or complex operations, suggesting that it is designed for simple, basic calculations.
-</thinking>
-
 # ExponentPower Calculation Form - Help Guide
 ## Purpose
 The ExponentPower Calculation Form is a tool used to calculate the power of a base number raised to an exponent number. It is designed to provide a simple and straightforward way to perform this basic mathematical operation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help barbacks (bar staff) efficiently close their shifts and ensure that the bar area is properly cleaned and prepared for the next shift. The form will help barbacks verify that all tasks are completed, reducing the likelihood of last-minute checks and ensuring that the bar is in order for the next shift. This form should only be used for closing shifts and not for other purposes. Please fill out the form carefully and accurately to ensure that all tasks are completed before leaving the bar area.
-</thinking>
-
 # Barback Closing Checklist - Help Guide
 ## Purpose
 This form is a checklist for barbacks to complete before closing their shifts. It ensures that all tasks are completed and the bar area is properly cleaned and prepared for the next shift.

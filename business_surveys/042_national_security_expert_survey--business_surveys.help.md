@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's background and expertise in national security matters. This information will be used to assess their expertise and provide a comprehensive view of their work. Please ensure that all fields are filled out accurately and completely. If a field is marked as optional, it is not required, but filling it out will help provide more context and details about your work. Before starting, consider whether you have already completed a similar form in the past, and if so, whether it would be more efficient to refer back to that instead of duplicating effort.
-</thinking>
-
 # National Security Expert Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your background and expertise in national security matters. It is intended to help us better understand your qualifications and experience in the field.

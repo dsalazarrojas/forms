@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the contents, availability, and location of a first aid kit. The purpose of this form is to check the status of a first aid kit and ensure it is properly stocked and accessible. This form is likely to be used in a healthcare or safety-related setting, such as a school, office, or manufacturing facility.
-</thinking>
-
 # First Aid Kit Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you check the contents, availability, and location of a first aid kit. It ensures that you have a clear understanding of what items are included in the kit, which items are available, and where the kit is located.

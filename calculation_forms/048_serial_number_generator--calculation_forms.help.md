@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Serial Number Generator - Help Guide
 
 ## Purpose

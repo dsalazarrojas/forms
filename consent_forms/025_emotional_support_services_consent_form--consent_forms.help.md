@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information for providing emotional support services to clients. It is crucial to ensure that the client understands the services they are consenting to and that they feel comfortable with the level of support they are receiving. The form's purpose is to document the client's consent, including the type of support they are eligible for and the method of contact they prefer. 
-
-The form is also meant to be filled out when the client first receives the emotional support services, and it will be used to track the client's consent status. This form does not gather sensitive information and does not store it. The fields are designed to be straightforward and easy to fill out for the end-user. 
-
-Please ensure you are not duplicating your consent for the same services. This form should only be used once you have determined that the client requires emotional support services.
-</thinking>
-
 # emotional_support_services_consent_form - Help Guide
 
 ## Purpose

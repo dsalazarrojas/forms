@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for obtaining consent from artists for the release of their artwork. The purpose of this form is to document and standardize the process of granting rights to use an artist's work. It's likely used in a context where artwork is being created or published, and the artist is being asked to release their rights to use, modify, or distribute their work in various ways. This form may be used in academic, commercial, or professional settings, such as art galleries, museums, or media publications.
-</thinking>
-
 # Artwork Release Form - Help Guide
 ## Purpose
 The Artwork Release Form is a document used to obtain consent from artists for the release of their artwork. This form ensures that artists understand the terms and conditions under which their work will be used, shared, or distributed.

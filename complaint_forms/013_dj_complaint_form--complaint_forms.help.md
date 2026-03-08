@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the form's purpose and fields to ensure we're on the same page. The DJ Complaint Form is designed to collect feedback from users about their experience with a DJ (Dance Judge) or their performance. This form is likely used to gather information about the DJ's performance level, reason for complaint, and any recommendations for improvement. We'll review each field to ensure we're explaining them accurately.</thinking>
-
 # DJ Complaint Form - Help Guide
 ## Purpose
 The DJ Complaint Form is a tool for users to provide feedback about their experience with a DJ or their performance. This form helps the DJ improve their skills and provides valuable insights for future interactions.

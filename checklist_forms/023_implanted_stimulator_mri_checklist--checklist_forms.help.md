@@ -1,5 +1,3 @@
-<thinking>Implanted Stimulator MRI Checklist form is designed for radiologists to document essential details related to the MRI (Magnetic Resonance Imaging) scan of a patient who has undergone implanted stimulation. This form helps ensure that all relevant information is collected and reviewed by the radiologist before, during, and after the scan to minimize patient risk and guarantee accurate diagnosis. The fields on this form should only be filled out for cases where a pacemaker or other implanted medical device that affects MRI signal is present. If no implanted medical device is present, there's no need to fill out this form as other forms are designed for general MRI screenings.</thinking>
-
 # Implanted Stimulator MRI Checklist - Help Guide
 ## Purpose
 This form is used to collect essential details related to the MRI scan of a patient with an implanted stimulator. The purpose of this form is to ensure that the radiologist is aware of the implanted device and its potential impact on the scan.

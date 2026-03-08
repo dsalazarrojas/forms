@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Privacy Agreement For Groups - Help Guide
 ## Purpose
 This form is used to collect information about a group's data privacy agreement, including their data handling practices, data protection regulations, and contact information. The form is designed to ensure that groups have a clear understanding of their data handling responsibilities and procedures.

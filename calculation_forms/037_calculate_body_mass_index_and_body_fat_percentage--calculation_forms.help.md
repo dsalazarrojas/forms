@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to help users calculate their Body Mass Index (BMI) and body fat percentage based on their height, weight, and other personal characteristics. It collects user-provided information such as name, email address, gender, age, height, weight, and other measurements to estimate their body fat percentage. The form also asks for the user's fitness goal and activity level to provide a more accurate calculation. The calculated results will be displayed on the screen, and users can choose to receive the results via email as well. This form is intended for personal use and is not for medical purposes. If you have any health concerns, please consult a healthcare professional.</thinking>
-
 # Calculate Body Mass Index And Body Fat Percentage - Help Guide
 ## Purpose
 This form is designed to calculate your Body Mass Index (BMI) and body fat percentage based on your height, weight, and other personal characteristics. It is intended for personal use and is not for medical purposes. If you have any health concerns, please consult a healthcare professional.

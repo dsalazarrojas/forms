@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to check in theater audience members. It's likely used to gather information about attendees at a performance, such as whether they have arrived or not, if they require accessibility accommodations, and their contact information. To prevent duplication, users might be filtered by a unique identifier like a performance ID or user ID.
-</thinking>
-
 # Theater Audience Check In Form - Help Guide
 ## Purpose
 The Theater Audience Check In Form is used to gather information about attendees at a performance, including whether they have arrived, if they require accessibility accommodations, and their contact information.

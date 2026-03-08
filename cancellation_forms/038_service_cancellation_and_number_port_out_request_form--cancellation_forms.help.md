@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Service Cancellation And Number Port Out Request Form", I must first understand its purpose and fields. This form appears to be designed for customers to request the cancellation of a service and port out (transfer) their number to another provider. It's likely intended for customer support or billing purposes.
-
-The form has the following fields:
-
-* Service Cancellation And Number Port Out Request: This is the primary field to describe the service cancellation and port out request.
-* Account Number: This field is likely used to identify the customer's account with the service provider.
-* Port Out Request: This field may ask for details about the customer's port out request, such as the reason why they want to port out.
-* Customer Name: This field is probably used to capture the customer's name, but its requiredness is optional, which seems unusual for a form designed to request specific information.
-* Customer Email: This field is for the customer's email address, which is also optional.
-* Customer Phone: This field is likely used to capture the customer's phone number, but again, it's optional.
-* Reason For Request: This field may ask for a brief explanation of the customer's reasons for requesting service cancellation and number port out.
-* Date Of Request: This field is probably used to record the date the request was made.
-
-Considering the form's purpose and fields, I will create a user-facing help guide.
-</thinking>
-
 # Service Cancellation And Number Port Out Request Form - Help Guide
 ## Purpose
 This form is designed for customers to request the cancellation of a service and port out (transfer) their number to another provider. Fill out this form to provide your account information and reasons for requesting service cancellation and number port out.

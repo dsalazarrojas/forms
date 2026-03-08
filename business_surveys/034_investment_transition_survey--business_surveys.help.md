@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to investment transitions, including the purpose of the survey, the type of investment, the investment advisor, and other relevant details. This form is designed to gather feedback from clients about their transition experience, including their satisfaction and experience with the transition process. It is likely used by financial institutions to assess client satisfaction and identify areas for improvement.
-
-Before completing this form, please ensure that you are not duplicating any existing survey responses. This form is intended for new or unique transition experiences and is not meant to be a duplicate of any previous submissions.
-
-The following fields are optional, but please ensure that all relevant information is provided to provide the most accurate feedback.</thinking>
-
 # investment_transition_survey - Help Guide
 
 ## Purpose

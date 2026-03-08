@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the Smart Utility Dashboard Usability Survey form. This form is designed to collect feedback and suggestions from users on the usability of the Smart Utility Dashboard. The purpose of this survey is to gather information on how often users access the dashboard, their roles within the organization, and their overall experience with the dashboard's features and functionality. The survey also allows users to provide feedback and suggestions on how to improve the dashboard's usability. Users will be asked to provide their email and phone number for contact purposes.
-
-This guide will walk users through each field of the form and explain its purpose and how to complete it. Each field is crucial in providing valuable insights to improve the usability of the Smart Utility Dashboard.
-
-This form has 25 fields, and users are expected to complete all required fields. Required fields are marked with an asterisk (*) in the field label.
-</thinking>
-
 # Smart Utility Dashboard Usability Survey - Help Guide
 ## Purpose
 The Smart Utility Dashboard Usability Survey is designed to collect feedback and suggestions from users on the usability of the Smart Utility Dashboard. This survey will help us understand how often users access the dashboard, their roles within the organization, and their overall experience with the dashboard's features and functionality.

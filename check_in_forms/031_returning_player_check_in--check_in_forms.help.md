@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and verify player information, including their details, policies, and consents. It is crucial to ensure that players are aware of and agree to the relevant policies and procedures before participating in any activity or event. The form is designed to be completed by players themselves, and it will help the organizers and staff to manage player information efficiently.
-</thinking>
-
 # Returning Player Check In - Help Guide
 
 ## Purpose

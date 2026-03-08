@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from shareholders regarding their financial reports. The purpose of this form is to gather essential details from shareholders about their selected reporting period, total shares owned, percentage owned, and submission status. This form is crucial in ensuring accurate and up-to-date financial information for business decision-making purposes. It is recommended that each field is filled accurately and correctly to avoid delays in processing the financial reports.
-</thinking>
-
 # Shareholder Financial Report Voting Form - Help Guide
 ## Purpose
 The Shareholder Financial Report Voting Form is designed to collect crucial information from shareholders about their financial reports. This includes details about the selected reporting period, total shares owned, and submission status. The collected data helps businesses make informed decisions regarding financial investments and strategic planning.

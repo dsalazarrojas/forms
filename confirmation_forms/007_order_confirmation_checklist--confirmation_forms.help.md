@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for internal purposes within a company or organization to streamline the order confirmation process, ensuring all necessary information is gathered and recorded accurately. The form's structure and fields suggest it's designed to collect customer and order details, shipping information, payment data, tracking numbers, and order status updates. It's essential to review the fields carefully to understand their purpose and requirements. 
-
-</thinking>
-
 # Order Confirmation Checklist - Help Guide
 ## Purpose
 This form is used to confirm and document all necessary information related to customer orders, including customer details, order details, shipping information, payment data, tracking numbers, and order status updates. It ensures that all required information is collected and recorded accurately.

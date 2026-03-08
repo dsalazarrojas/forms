@@ -1,5 +1,3 @@
-<thinking>...the form is used for changing the broker of record for a policy, which involves updating the information for a policyholder. This form is likely to be completed by a policyholder who wants to switch or transfer their policy to a new broker or agent. The form requires the policyholder to provide their personal and policy information, as well as the details of the new broker of record. The form also includes sections for authorization, signature, and notary information... </thinking>
-
 # Broker Of Record Form - Help Guide
 ## Purpose
 

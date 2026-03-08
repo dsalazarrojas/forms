@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and opinions from public about charitable organizations. The purpose of this form is to help charitable organizations understand how well they are doing in terms of public trust, confidence, and overall reputation. The form is intended to be completed by individuals who have interacted with or have information about charitable organizations.
-
-The form is part of a survey research project and its responses will be used to identify areas of improvement and provide insights for the organizations. It's recommended that charitable organizations use this form to assess how well they are doing in terms of public trust and confidence.
-
-It's worth noting that the form's questions are designed to be as comprehensive as possible. However, responses will be kept anonymous and any personal identifiable information will be removed.
-
-</thinking>
-
 # Public Trust In Charitable Organizations Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and opinions from the public about charitable organizations. Your responses will help us understand how well charitable organizations are doing in terms of public trust, confidence, and overall reputation.

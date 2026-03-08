@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering attendees to the Lean Innovation Forum. The form collects contact information and specific details about the registrant, such as their role, job title, and event information. This helps the organizers track who's attending and what their involvement is with the event.
-</thinking>
-
 # Lean Innovation Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to gather contact information and specific details about attendees for the Lean Innovation Forum. Please fill out the form with accurate and up-to-date information to ensure you receive important updates and information about the event.

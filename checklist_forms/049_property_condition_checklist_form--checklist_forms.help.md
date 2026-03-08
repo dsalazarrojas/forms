@@ -1,9 +1,4 @@
-> <thinking>
-**Property Condition Checklist Form - Help Guide**
-This form is designed to assess the condition of a property before and after various events or periods. It is used to gather information on the property's status, including its type, condition, and the presence of damage. The form is divided into several sections, each focusing on a different aspect of the property's condition.
-</thinking>
-
-# Property Condition Checklist Form - Help Guide
+> # Property Condition Checklist Form - Help Guide
 
 ## Purpose
 This form is used to evaluate the condition of a property before and after various events or periods, such as lease start and end dates. It helps to gather information on the property's type, condition, and damage status.

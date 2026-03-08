@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather user feedback on their goals and aspirations for the upcoming year. The purpose of this form is to collect information on the user's personal, career, financial, health and fitness, relationships, lifestyle, professional, travel, and miscellaneous goals. This form is intended for internal use within the organization, and the collected data will be used to identify trends and patterns in the user's goals and aspirations.
-
-To avoid duplication of effort and ensure accuracy, it is recommended to review the form carefully before submitting it. Each field should only be filled out if the user has an actual goal in the corresponding area.
-</thinking>
-
 # new_year_checklist - Help Guide
 ## Purpose
 The new_year_checklist form is designed to gather user feedback on their goals and aspirations for the upcoming year. It is intended for internal use within the organization to identify trends and patterns in the user's goals and aspirations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # A.L.P Services Application - Help Guide
 ## Purpose
 The A.L.P Services Application form is designed for organizations to submit their requests for various services, such as account setup, managed services, one-time consulting, data migration, and training & workshops. This form is used to gather essential information from applicants, including their contact details, organization details, and project requirements. The collected data helps us to better understand their needs and provide more accurate proposals.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a waiver form for nonprofit participation, used to collect consent and other participant information. The purpose of this form is to obtain a waiver from participants in a nonprofit event or activity, ensuring that they understand and agree to the terms and conditions of participation. It's essential to complete this form accurately and honestly to maintain transparency and fairness in the event.
-
-Before proceeding, ensure that you're not completing this form for someone else and that the information is for a real person. This form is designed to be filled out by the actual participant.
-
-</thinking>
-
 # Nonprofit Participation Waiver Form - Help Guide
 
 ## Purpose

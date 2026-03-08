@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect data on food insecurity in urban areas. 
-Food insecurity is a complex issue that affects many urban households. 
-This form is intended to help the survey team better understand the nature and extent of food insecurity in urban areas. 
-The form will ask about the household's demographics and their access to food, food challenges, coping mechanisms, and sources of food, among other things.
-The data collected through this form will help the organization understand the needs and challenges of urban households in accessing food.
-Please note that the form is designed to be completed by one household member per household, and the information provided will be kept confidential.
-Please fill out the form carefully and accurately to provide useful information.
-The form should not be completed by multiple people from the same household.
-</thinking>
-
 # Food Insecurity In Urban Areas Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about the experiences and needs of households in urban areas regarding food access, challenges, and coping mechanisms.

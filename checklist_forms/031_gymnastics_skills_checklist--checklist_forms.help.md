@@ -1,5 +1,3 @@
-<thinking>As I review the form design, I see that it's a Gymnastics Skills Checklist form. The form appears to be designed for coaches, instructors, or parents to assess the gymnasts under their care, tracking their skills and progress. This form is likely used in a sports or education setting. I'll create the help guide based on this understanding.</thinking>
-
 # Gymnastics Skills Checklist - Help Guide
 ## Purpose
 This form is designed to help track and evaluate the skills and progress of gymnasts. It's meant to be filled out by coaches, instructors, or parents to assess the gymnasts under their care.

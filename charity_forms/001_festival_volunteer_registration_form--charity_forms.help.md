@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering volunteers for a festival event. It is not a requirement for festival attendees, but rather for volunteers who have signed up to contribute their time and skills. This form is not designed for duplicate submissions, so please ensure you have submitted the form only once. If you are unsure about your submission or have any concerns, please contact the festival organizers.
-</thinking>
-
 # Festival Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed for festival volunteers to register their interest and availability for a specific festival event. It is a straightforward form with several sections that help us get the most accurate information about your volunteer profile.

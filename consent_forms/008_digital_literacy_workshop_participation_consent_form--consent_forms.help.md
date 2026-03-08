@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for the Digital Literacy Workshop, ensuring that each participant has provided their consent and relevant details for emergency contact and accessibility needs. This form will be used internally to track and verify participant demographics and emergency contact information. It is crucial to fill out this form accurately and completely to ensure that we can provide an inclusive and accessible experience for all participants.
-</thinking>
-
 # Digital Literacy Workshop Participation Consent Form - Help Guide
 
 ## Purpose

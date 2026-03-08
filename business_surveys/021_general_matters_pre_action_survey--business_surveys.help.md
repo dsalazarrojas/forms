@@ -1,7 +1,3 @@
-<thinking>
-The form "General Matters Pre-Action Survey" is a critical tool used to assess various aspects of a project or process before taking any significant action. The purpose of this survey is to gather information on whether internal changes are expected or necessary, the level of readiness to support or change, and other concerns that may arise. This form is used to ensure that all parties involved are on the same page and aware of the potential implications of their actions. Please complete this form carefully to ensure that your responses are accurate and informative.
-</thinking>
-
 # General Matters Pre-Action Survey - Help Guide
 ## Purpose
 The General Matters Pre-Action Survey is a pre-action assessment tool used to gather information on internal changes, readiness to support or change, and other concerns that may arise before taking any significant action. This form helps to ensure that all parties involved are aware of the potential implications of their actions.

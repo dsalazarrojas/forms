@@ -1,13 +1,3 @@
-<thinking>
-The "form_calculation_math_function_reference_commaseparate" form appears to be a math-related form used to input and calculate various mathematical data. This form seems to be designed to collect user input for a mathematical calculation or analysis. The fields include input_number, select_input, select_input_multiple, date, time, and other related fields. This form also asks for additional input for a second and third iteration. 
-
-The form's purpose could be to gather historical data for calculations, track user progress, or collect input for a complex calculation involving multiple variables.
-
-Before proceeding, ensure that each field is filled according to its requirements and instructions.
-
-This form is used in combination with a complex mathematical function that requires user input. The input values are required for the mathematical function to perform its calculation and output the result correctly.
-</thinking>
-
 # form_calculation_math_function_reference_commaseparate - Help Guide
 ## Purpose
 The "form_calculation_math_function_reference_commaseparate" form is a collection of input fields used for a mathematical calculation or analysis. The form asks for input on numbers, dates, and select options to perform a calculation.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction data from users about their experience with the 2020 Ies Tbt. The purpose is to gather information on how users feel about the platform, what they like or dislike about it, and areas for improvement.
-The form is divided into two main sections: the introduction and the questions.
-The introduction section is a note field that provides a brief overview of the form's purpose.
-The questions section is divided into two sub-sections: the "User Experience" and "Feedback" sections.
-The "User Experience" section gathers information on the user's satisfaction, overall rating, and frequency of use.
-The "Feedback" section allows users to provide detailed feedback on their experience and suggestions for improvement.
-</thinking>
-
 # 2020 Ies Tbt - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data from users about their experience with 2020 Ies Tbt. The form aims to understand how users feel about the platform, what they like or dislike about it, and areas for improvement.

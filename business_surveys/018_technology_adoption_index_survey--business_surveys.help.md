@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technology Adoption Index Survey - Help Guide
 
 ## Purpose

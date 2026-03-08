@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "High School Cleaning Checklist" form, which aims to assess the cleanliness and safety of school facilities. 
-</thinking>
-
 # High School Cleaning Checklist - Help Guide
 ## Purpose
 This form helps school administrators and janitorial staff evaluate the cleanliness and safety of school facilities. It is designed to be completed by school personnel to ensure that all necessary areas are maintained and safe for students and staff. 

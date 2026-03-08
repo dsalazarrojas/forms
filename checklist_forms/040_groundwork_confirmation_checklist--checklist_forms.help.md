@@ -1,14 +1,4 @@
-> <thinking>
-
-This form is designed to be used as a general-purpose checklist for confirming the readiness of a site or location for various groundwork activities. The form was generated using AI and is intended to be a customizable template for various industries and purposes. This form is not affiliated with, endorsed by, or derived from any form platform, and it is released under a Creative Commons BY 4.0 license, allowing users to modify and share it freely. 
-
-The form is intended for use in site preparation, which may involve tasks such as ensuring the site is clear of debris, leveling the ground, checking for utilities, and verifying the availability of necessary equipment. The form is not specific to a particular industry or business, and its use cases may include construction, landscaping, excavation, or other groundwork activities that require site preparation.
-
-The form is designed to be completed by individuals in charge of groundwork activities to confirm that all necessary tasks have been completed and the site is ready for the next stage of work. The form can be used as a general-purpose template for various groundwork activities, and its fields can be customized to suit the specific needs of the user.
-
-</thinking>
-
-# Groundwork Confirmation Checklist - Help Guide
+> # Groundwork Confirmation Checklist - Help Guide
 ## Purpose
 The Groundwork Confirmation Checklist is a general-purpose form designed to confirm the readiness of a site or location for various groundwork activities.
 

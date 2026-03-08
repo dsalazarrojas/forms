@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # veterinary records release form - Help Guide
 ## Purpose
 This form is used to collect information about the veterinary records release process. It is intended to be completed by the pet owner or authorized representative to provide consent for the release of veterinary records.

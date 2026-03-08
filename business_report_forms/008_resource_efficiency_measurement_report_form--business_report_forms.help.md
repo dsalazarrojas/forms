@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Resource Efficiency Measurement Report Form - Help Guide
 ### Purpose
 The Resource Efficiency Measurement Report Form is a tool used to track and measure the efficiency of resource usage in various contexts. It is designed to help organizations and individuals assess their resource allocation and optimization.

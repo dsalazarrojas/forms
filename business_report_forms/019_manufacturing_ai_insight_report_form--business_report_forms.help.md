@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect detailed information about a manufacturing project. It is intended for project stakeholders to provide insights into the project's progress, challenges, and impact. This form can be used by project managers, team members, or other stakeholders to gather information and make informed decisions. Before filling out this form, please ensure that you have all the necessary permissions and approvals from the project team and stakeholders. Please note that some fields are optional, but providing accurate and relevant information will help to ensure the quality of the insights generated. Please fill out this form carefully and accurately, and if you have any questions or concerns, do not hesitate to reach out to the project team or stakeholders for clarification.</thinking>
-
 # Manufacturing AI Insight Report Form - Help Guide
 ## Purpose
 The Manufacturing AI Insight Report Form is designed to collect detailed information about a manufacturing project, providing stakeholders with valuable insights into its progress, challenges, and impact.

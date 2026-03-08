@@ -1,7 +1,3 @@
-<thinking>
-The Firefighter Confidentiality Acknowledgment form is used by fire departments to acknowledge that firefighters have read, understood, and agreed to departmental confidentiality requirements. This form helps fire departments track policy acknowledgments online, ensuring that all firefighters are aware of the confidentiality protocols. This form is part of the consent forms category, and it's essential for fire departments to have a record of each firefighter's acknowledgment. The form should not be completed by any individual outside of a firefighter or someone who doesn't have access to it.
-</thinking>
-
 # Firefighter Confidentiality Acknowledgment - Help Guide
 ## Purpose
 The Firefighter Confidentiality Acknowledgment form is used by fire departments to track the acknowledgment of departmental confidentiality requirements from all their firefighters.

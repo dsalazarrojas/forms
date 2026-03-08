@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect information on pool maintenance activities, ensuring that all necessary tasks are completed, and that the pool's status is accurately reflected.
-The form will serve as a centralized log for recording and tracking pool maintenance activities.
-The pool maintenance log form is not intended for multiple entries; only one entry per task is expected.
-
-To use this form effectively, make sure to provide accurate and detailed information for each field.
-</thinking>
-
 # Pool Cleaning Log Form - Help Guide
 ## Purpose
 The Pool Cleaning Log Form is designed to record and track pool maintenance activities. It ensures that all necessary tasks are completed and that the pool's status is accurately reflected.

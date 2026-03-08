@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and survey data from users about their experiences with Jitney services. The primary purpose of this survey is to gather information on user behavior, satisfaction, and areas for improvement with Jitney services. This form will help Jitney service providers understand their service level, vehicle condition, communication effectiveness, and overall user experience.
-
-The form is split into multiple pages, with each page containing a mix of text, number, and select options fields. The form's structure and fields are designed to be user-friendly and easy to navigate. To ensure accurate and relevant feedback, users are encouraged to provide their honest opinions and experiences.
-
-Before completing this form, please make sure to answer all required questions and provide as much detail as possible in the text fields. The more information you provide, the more useful the feedback will be for Jitney service providers.
-
-</thinking>
-
 # Jitney Usage Survey - Help Guide
 ## Purpose
 The Jitney Usage Survey is designed to collect feedback and survey data from users about their experiences with Jitney services. This form helps service providers understand user behavior, satisfaction, and areas for improvement.

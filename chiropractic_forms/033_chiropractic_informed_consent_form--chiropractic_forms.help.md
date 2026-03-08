@@ -1,10 +1,3 @@
-<thinking>
-This form is a chiropractic informed consent form, used to gather information about a patient's health and treatment preferences, as well as their understanding of the risks and benefits associated with chiropractic treatment. This form is designed to ensure that patients are fully aware of their treatment options, risks, and benefits before proceeding with treatment. The form is typically used in a chiropractic setting to establish a clear understanding between the patient and the healthcare provider.
-
-The form will be checked for completeness and relevance by ensuring that all required fields are filled out and that the patient's responses are consistent across all relevant sections.
-
-</thinking>
-
 # Chiropractic Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's health and treatment preferences, as well as their understanding of the risks and benefits associated with chiropractic treatment.

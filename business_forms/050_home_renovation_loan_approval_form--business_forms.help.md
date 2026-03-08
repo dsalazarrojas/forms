@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Renovation Loan Approval Form - Help Guide
 ## Purpose
 This form is for loan applicants to apply for a home renovation loan. Please fill out the form with accurate and complete information to help us process your loan application efficiently.

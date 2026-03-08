@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Trust In Brand Experts Survey - Help Guide
 ## Purpose
 This form, "Customer Trust In Brand Experts Survey", is used to assess your perception of our company's customer service team. It consists of several questions designed to gauge your level of satisfaction and trust in our experts, as well as gather additional feedback and contact information.

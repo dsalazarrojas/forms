@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their experiences and preferences related to public spaces in our organization. It's intended to gather input on the accessibility and inclusivity of these spaces. To determine if this form is relevant to you, consider if you have experiences or opinions on the accessibility and usability of public spaces in our organization.
-</thinking>
-
 # Inclusive Public Space Design Survey - Help Guide
 ## Purpose
 This form is a user experience survey aimed at gathering feedback on the accessibility and usability of public spaces in our organization.

@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Event Gift Claim Form", I need to analyze the provided YAML fields and provide a clear, concise, and practical explanation of each field. This guide should cover the form's purpose, how to complete it, and an explanation of each field, including any hints or instructions to help users navigate the form successfully.
-</thinking>
-
 # Event Gift Claim Form - Help Guide
 
 ## Purpose

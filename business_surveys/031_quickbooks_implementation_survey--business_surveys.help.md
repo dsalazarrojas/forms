@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about QuickBooks implementation in your organization. This survey helps us understand the current state of QuickBooks adoption, the phase of implementation, and the benefits or challenges encountered during the process. This information will help us to identify areas of improvement and provide more tailored support to our clients.
-We will check if the survey is relevant and not duplicated before proceeding with the following guide.
-</thinking>
-
 # QuickBooks Implementation Survey - Help Guide
 ## Purpose
 The QuickBooks Implementation Survey is designed to gather information about your organization's QuickBooks implementation experience. This survey will help us understand your implementation phase, benefits realized, challenges faced, and suggestions for improvement. Your input will aid us in providing more effective support and guidance for future implementations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations and individuals ensure that regulatory records are properly archived and maintained. The purpose of this form is to collect relevant information about the record, including the type of record, department responsible, date of archival, current location, and other relevant details. By using this form, organizations can ensure that records are properly stored, accessed, and managed in accordance with regulatory requirements. This form will help prevent duplicate or incomplete records, and ensure that all necessary information is collected and preserved for future reference.
-</thinking>
-
 # Regulatory Record Archival Checklist - Help Guide
 ## Purpose
 The Regulatory Record Archival Checklist is a tool designed to help ensure that regulatory records are properly archived and maintained. This form helps collect relevant information about the record, including the type of record, department responsible, date of archival, current location, and other important details.

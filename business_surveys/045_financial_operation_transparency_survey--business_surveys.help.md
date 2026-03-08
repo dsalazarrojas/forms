@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Operation Transparency Survey - Help Guide
 
 ## Purpose

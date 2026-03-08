@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure the form is filled out correctly for the right purpose and not duplicated for the same purpose. This form is for validating material deliveries, and it's essential to provide accurate information for tracking and inventory management. Please ensure that you're filling out the form for the correct material and delivery date. If you're unsure, refer to the material delivery process documentation for guidance.</thinking>
-
 # material_delivery_validation_form - Help Guide
 ## Purpose
 This form is for validating material deliveries. Please fill it out with the correct information to ensure accurate tracking and inventory management.

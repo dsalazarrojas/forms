@@ -1,12 +1,3 @@
-<thinking>
-This form is a template for a travel agency to generate a cruise packing list for their guests. The form collects various information about the cruise guest, including their name, email, phone number, passport photo, shore excursions, cabin number, travel date, duration of the cruise, port of call, preferred shore excursions, special requirements, ship arrival, boarding pass, cabin confirmation, sailing date, disembarkation date, boarding time, disembarkation time, cruise documents, guest arrival time, shore excursion duration, shore excursion time, and guest arrival date.
-
-Before generating the packing list, the agency needs to ensure that all necessary information is accurate and complete. This form helps in achieving that by providing a structured format for gathering relevant details.
-
-It is crucial that the information provided in this form is accurate and up-to-date to ensure that the packing list is tailored to the specific needs of the guest. The form's fields and their respective types (text, email, number, date, time, select_multiple, select_one, etc.) are designed to collect the necessary data in a straightforward and efficient manner.
-
-</thinking>
-
 # travel-agency-template-cruise-packing-list-generator - Help Guide
 ## Purpose
 This form is designed to help travel agencies generate a cruise packing list for their guests. It collects relevant information about the guest, including their name, contact details, travel plans, and special requirements.

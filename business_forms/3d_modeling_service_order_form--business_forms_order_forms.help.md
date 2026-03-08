@@ -1,17 +1,3 @@
-<thinking>... This form is designed to be completed by clients who are interested in commissioning a 3D modeling service for their project. The form is used to gather information about the client's project requirements, contact details, and other relevant specifications. This form is meant to be a comprehensive guide for clients to ensure that the service provider has all the necessary information to fulfill their project needs. 
-
-The form is divided into several sections, including Client Information, Project Details, and Additional Services. Each section guides the client through specific fields that are relevant to the project requirements. 
-
-Before proceeding, please review the form carefully to ensure you have answered all the required fields accurately. If you have any questions or concerns, please do not hesitate to reach out to us for assistance. 
-
-This form is intended to be completed by clients who are interested in commissioning a 3D modeling service. If you are unsure about any of the fields or require further guidance, please contact us directly. 
-
-Please ensure you have reviewed the form carefully before submitting it to us. We will use the information provided to create your 3D model according to your project specifications. 
-
-The following fields are required and must be completed in order to submit the form: Full Name, Email Address, Order Date, Project Name, Type of 3D model required, Complexity Level, Desired Completion Timeframe, Budget Range, File Format Preference, Texture Requirements, Maximum Polygon Count (if applicable), and Revisions Included.
-
-</thinking>
-
 # 3D Modeling Service Order Form - Help Guide
 ## Purpose
 The 3D Modeling Service Order Form is designed to be completed by clients who are interested in commissioning a 3D modeling service for their project. This form gathers information about the client's project requirements, contact details, and other relevant specifications to ensure the service provider has all the necessary information to fulfill their project needs.

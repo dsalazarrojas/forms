@@ -1,9 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata and is an original adaptation. It is not affiliated with, endorsed by, or derived from any form platform. The form is designed to collect information on experimental results release. 
-
-Please ensure that you understand the purpose and requirements of this form before proceeding. This form is intended for users to release experimental results to specific recipients under certain conditions. If you're unsure about the form's purpose or any of the fields, please refer to the following instructions and explanations.
-</thinking>
-
 # Experimental Results Release Form - Help Guide
 ## Purpose
 The Experimental Results Release Form is designed for researchers and investigators to collect and document information on experimental results release to collaborators, peers, or other stakeholders. The form helps ensure that experimental results are shared and handled properly, with clear conditions and consent.

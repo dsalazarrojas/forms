@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for sustainability crew members to report their availability and interests for volunteer opportunities. The purpose of this form is to ensure that crew members can be informed and scheduled for relevant volunteer activities. It is recommended that crew members only fill out this form once, as it will help the sustainability team understand their general availability and interests.
-</thinking>
-
 # Sustainability Crew Availability Survey - Help Guide
 ## Purpose
 The Sustainability Crew Availability Survey is a form designed to help the sustainability team understand your availability and interests for volunteer opportunities.

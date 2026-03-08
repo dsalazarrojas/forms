@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their work instructions and training procedures, specifically acknowledging their completion and understanding of the tasks assigned to them. This form aims to ensure that users are aware of their duties, responsibilities, and any necessary procedures for performing tasks in their role. 
-
-This form will not serve as a substitute for actual training or instruction but rather a confirmation that the user has received and is willing to follow the established work procedures. This form does not collect any personally identifiable information.
-
-</thinking>
 # Work Instruction Acknowledgment Form - Help Guide
 ## Purpose
 The purpose of this Work Instruction Acknowledgment Form is to collect information about users' work instructions and training procedures, acknowledging their completion and understanding of tasks assigned to them. This form aims to ensure users are aware of their duties, responsibilities, and necessary procedures for performing tasks in their role.

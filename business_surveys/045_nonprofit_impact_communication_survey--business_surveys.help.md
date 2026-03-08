@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Impact Communication Survey - Help Guide
 ## Purpose
 This survey is designed to help us better understand how you perceive our communications and what you expect from them. Please take a few minutes to complete this form and share your thoughts.

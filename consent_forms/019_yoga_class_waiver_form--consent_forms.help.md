@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yoga Class Waiver Form - Help Guide
 
 ## Purpose

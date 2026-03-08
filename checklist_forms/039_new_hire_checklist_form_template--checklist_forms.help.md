@@ -1,7 +1,3 @@
-<thinking>
-This form template is intended to collect information for new hire checklists, which are used to ensure that all necessary steps and information are completed for new employees before they begin working. This form is designed to be used for employees across the organization, regardless of department or job function. Please note that this form is a template and may need to be adjusted based on company-specific needs and requirements.
-</thinking>
-
 # New Hire Checklist Form Template - Help Guide
 ## Purpose
 The New Hire Checklist Form Template is a standardized form used to collect necessary information and ensure that all new hires complete the required steps before starting work. This form is designed to be completed by new employees and their managers/supervisors.

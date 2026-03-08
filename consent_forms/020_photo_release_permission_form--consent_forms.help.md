@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photo Release Permission Form - Help Guide
 ## Purpose
 The Photo Release Permission Form is used to obtain consent for the use of an individual's photo. This form is used to ensure that the individual's privacy and rights are respected in any context where their photo is used, such as in media, advertising, or events. This form is a legal document that serves as proof of consent.

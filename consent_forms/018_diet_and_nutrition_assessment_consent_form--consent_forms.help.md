@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients about their dietary preferences, allergies, and nutritional needs for a diet and nutrition assessment. This form will help us understand their consent to proceed with the assessment, any food allergies or restrictions they may have, and their nutritional needs to provide personalized guidance. Before proceeding, please ensure that you have reviewed the provided options and answered truthfully, as this information is crucial for our diet and nutrition experts to provide effective guidance. Please note that the fields are categorized as required or optional, and you must fill out all required fields.
-</thinking>
-
 # Diet And Nutrition Assessment Consent Form - Help Guide
 ## Purpose
 This form is a crucial step in our diet and nutrition assessment process. It helps us understand your consent to proceed, any food allergies or restrictions you may have, and your nutritional needs to provide personalized guidance.

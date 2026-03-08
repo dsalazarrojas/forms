@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Horror Movie Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of work, I will first determine the purpose and intent behind this form. This form is used to obtain consent from research participants for a research study. The form likely helps researchers to ensure that participants are aware of and understand the research being conducted, its risks, and the implications of participating. To avoid duplication, I will make sure to cover the same information points in the subsequent help guide.
-</thinking>
-
 # Research Funding Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from research participants in exchange for research funding. It helps researchers to ensure that participants are aware of and understand the research being conducted, its risks, and the implications of participating.

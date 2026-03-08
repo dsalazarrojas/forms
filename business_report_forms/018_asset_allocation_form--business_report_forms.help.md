@@ -1,25 +1,3 @@
-<thinking>
-To determine whether to display the Asset Allocation Form, the following checks should be performed:
-
-- The user is a registered investor or has the authority to invest on behalf of the entity.
-- The user has not already completed the form. To check for this, verify that the user's investor ID is not present in the database or that a specific flag has not been set to prevent duplicate forms from being filled out.
-
-If the conditions are met, the form should be displayed. Otherwise, an error message should be displayed to the user, indicating that they are not authorized or that they have already completed the form.
-
-The Asset Allocation Form is used to collect information from investors to create their investment portfolios. This form is a crucial part of the investment process, as it helps the investment advisor create a tailored investment plan that suits the investor's goals, risk tolerance, and current financial situation.
-
-The form is divided into two main sections: the demographic and experience section, and the investment preferences and objectives section.
-
-The demographic and experience section collects information about the investor, such as their name, contact information, and experience with investing. This section helps the advisor understand the investor's background and make recommendations accordingly.
-
-The investment preferences and objectives section collects information about the investor's investment goals, risk tolerance, and current investments. This section helps the advisor create an investment plan that aligns with the investor's objectives and risk tolerance.
-
-The form is filled out by the investor, and the information is then used by the advisor to create a comprehensive investment plan. The plan is regularly reviewed and updated as the investor's situation changes.
-
-The Asset Allocation Form is a powerful tool for creating personalized investment plans that meet the needs of diverse investors. By filling out the form accurately and honestly, investors can expect a tailored investment strategy that helps them achieve their financial goals.
-
-</thinking>
-
 # Asset Allocation Form - Help Guide
 ## Purpose
 

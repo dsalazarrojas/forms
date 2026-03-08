@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block explains the purpose and non-duplication of the form:
 The Smart Home Feature Value Survey is a form designed to gauge user perceptions and expectations regarding smart home features. It is not a duplicate of any other form. The purpose of this form is to collect feedback from users on their interest, importance, and expectation of smart home features. The form includes questions about the features that are currently available or expected in smart home systems, such as voice control, smart lighting, temperature control, security cameras, door locks, and smart assistants. The survey aims to understand how important these features are to users and how much they are willing to pay for them. The collected data will help in making informed decisions about product development and design.
 

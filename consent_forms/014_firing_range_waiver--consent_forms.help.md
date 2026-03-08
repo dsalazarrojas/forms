@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning: This form is likely used for obtaining waivers from people who will be entering a firing range. The purpose of the form is to inform individuals about the potential dangers and rules of the range and to get their consent to participate. The form may also be used to gather information about the individual's medical condition and emergency contacts in case of an accident. The form is not affiliated with any specific form platform and is an original adaptation of a survey topic.
-
-Note: The form is quite straightforward, and most of the fields are self-explanatory. However, the "Legal Restrictions" and "Range Rules" fields may require some explanation to make them clear for the end-user.
-
-Non-duplication check: There is no duplication of fields or sections, and the form appears to be a simple waiver form.
-</thinking>
-
 # Firing Range Waiver - Help Guide
 ## Purpose
 This form is used to obtain a waiver from individuals who will be entering a firing range. It gathers information about their consent, potential dangers, and emergency contacts.

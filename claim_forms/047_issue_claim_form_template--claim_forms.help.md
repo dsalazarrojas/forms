@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose and context of this form. The "Issue Claim Form Template" is a standard template used to document and report issues that occur in the workplace. This form is designed to collect information about the issue, including details about the claimant, the issue itself, and any supporting documents. The goal is to gather accurate and thorough information to help resolve the issue efficiently. To ensure consistency and clarity, please review each field carefully and complete the form accurately.
-
-This guide will walk you through each step to complete the form correctly and provide explanations for each field to help you understand the purpose and requirements of each section.</thinking>
-
 # Issue Claim Form Template - Help Guide
 ## Purpose
 The "Issue Claim Form Template" is a standard template used to collect and document workplace issues. It's essential to fill out this form accurately to ensure that the issue is properly reported and resolved.

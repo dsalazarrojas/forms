@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Body Inspection Checklist - Help Guide
 ## Purpose
 This form is used to document the results of a body inspection, including the date of the inspection, the inspector's name and title, and the patient/client's name and ID. The form also includes various sections for observing and noting different body parts, such as the head, neck, torso, arms, hands, legs, feet, and skin condition. Additionally, it allows for recording any abnormalities found during the inspection, and for noting whether photos were taken or not.

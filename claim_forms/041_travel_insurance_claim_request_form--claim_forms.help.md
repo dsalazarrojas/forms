@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for travelers who want to submit claims for travel-related expenses they have incurred. The form is designed to collect essential information about the traveler, their claim description, trip details, claim date, and claim value to process the claim efficiently. The form is not required but is a helpful tool to facilitate the claim request process.
-
-</thinking>
-
 # travel-insurance-claim-request-form - Help Guide
 ## Purpose
 This form is for travelers who want to submit claims for travel-related expenses they have incurred.

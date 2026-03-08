@@ -1,12 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the Device Access Agreement form. The form is designed to collect information related to device access and usage within an organization. This form will help in ensuring that employees are aware of their responsibilities and limitations when accessing company devices. The form is intended to be completed by employees who need access to company devices and will be used to track and record device access and usage.
-
-Before completing this form, please ensure that you have the necessary approvals and permissions to access company devices. If you are unsure, please reach out to your supervisor or HR department for clarification.
-
-This form is not intended to be duplicated or completed multiple times. Each entry is intended to be a unique instance of device access and usage.
-
-</thinking>
-
 # Device Access Agreement - Help Guide
 ## Purpose
 The Device Access Agreement form is designed to collect information related to device access and usage within an organization. This form will help in ensuring that employees are aware of their responsibilities and limitations when accessing company devices.

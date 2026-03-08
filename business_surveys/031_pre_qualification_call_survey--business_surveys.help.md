@@ -1,14 +1,3 @@
-<thinking>
-This form is a Pre Qualification Call Survey, designed to gather information about potential customers or leads. The purpose of this form is to capture key details about the individual or company, including their name, contact information, company, job title, and other relevant details. This information will be used to assess the potential fit between the individual or company and our services or products.
-
-To ensure that this survey is completed accurately and consistently, please make sure to:
-
-* Only fill out one survey per lead or individual.
-* Do not fill out the survey for the same lead or individual multiple times.
-* Enter accurate and complete information for each field.
-
-</thinking>
-
 # Pre Qualification Call Survey - Help Guide
 ## Purpose
 This form is used to gather information about potential customers or leads to assess their fit with our services or products.

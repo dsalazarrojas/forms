@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to gather information about the community's awareness and usage of local fitness programs, as well as their preferences and opinions. It will help us better understand the community's needs and interests in fitness-related activities. Please note that the responses will be used to improve and tailor our programs to meet the needs of the community.
-...</thinking>
-
 # Community Fitness Program Awareness Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your awareness, usage, and preferences regarding local community fitness programs. Your input will help us understand the community's needs and interests, and we will use this data to improve and tailor our programs accordingly.

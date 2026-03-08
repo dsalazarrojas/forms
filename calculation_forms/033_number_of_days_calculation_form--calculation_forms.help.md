@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll analyze the provided YAML data and generate a concrete, concise, and practical guide that explains the form's purpose, completion instructions, and field-by-field explanations.
-
-This form appears to be a simple calculation form, likely used to calculate the duration between two dates and times. The "start_date" and "end_date" fields suggest a time-range input, while "start_time" and "end_time" fields indicate that the form also takes into account time-specific input.
-
-The internal reasoning behind this form might be to compute the difference between two dates and times, which would result in a numerical output representing the duration in some unit of time (e.g., hours, days, minutes, seconds).
-
-To prevent duplication, it's essential to check if this form already exists or if there's a similar form that accomplishes the same task. If a similar form exists, the AI-generated form should be adapted to improve upon it, not replicate it.
-
-Assuming the form is original and useful, the form's purpose could be to help users calculate the duration between two dates and times for various applications, such as calculating the total working hours, travel time, or any other time-based metric.
-
-</thinking>
-
 # Number of Days Calculation Form - Help Guide
 
 ## Purpose

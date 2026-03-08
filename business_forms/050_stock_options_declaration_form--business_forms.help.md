@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information related to stock options, which are essential for businesses to declare their stock holdings, options, and other relevant details. This form ensures that employees can declare their options accurately and efficiently, making it easier for businesses to manage and track stock options. 
-To fill this form, you should ensure that you are filling it out for the right purpose and not duplicating any existing entries. This will prevent any confusion or errors in the declaration process. Ensure that you fill out all the required fields and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Stock Options Declaration Form - Help Guide
 ## Purpose
 The Stock Options Declaration Form is designed to gather information about stock options from employees. It is a crucial document that helps businesses to accurately track and manage their stock options.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_equipment_distribution_consent_form - Help Guide
 ## Purpose
 The Medical Equipment Distribution Consent Form is a document used to obtain consent from patients for the distribution of medical equipment. This form is necessary for healthcare providers to ensure that patients understand and agree to the terms of equipment distribution. It is a legal requirement for medical professionals to obtain informed consent from patients before providing them with equipment.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about industrial process improvements. It's essential to provide accurate and comprehensive data to help improve the process efficiency and quality. Before completing this form, ensure that you have a clear understanding of the process and its current state. This form may not be suitable for all users, so please only submit the form if you are an authorized representative of your company or organization.
-
-To complete this form, follow these steps:
-
-1. Fill in the required fields with accurate and concise information.
-2. Choose the correct options for each field from the dropdown menus.
-3. If you don't see an option that matches your improvement objective or current process, use the "Other" field to provide a custom description.
-
-</thinking>
-
 # Industrial Process Improvement Report Form - Help Guide
 ## Purpose
 The Industrial Process Improvement Report Form is designed to collect data about industrial process improvements, helping to identify areas for enhancement and optimize the process efficiency and quality.

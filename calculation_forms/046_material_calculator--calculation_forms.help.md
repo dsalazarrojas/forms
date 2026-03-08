@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to provide a calculation tool for construction professionals and other users to accurately estimate material quantities.
-The form is designed to collect data on length, height, width, material type, and various options for calculating area, volume, and material cost. It appears to be a comprehensive calculator for construction materials.
-The form has 20 fields, which might be overwhelming for some users. To confirm, this form is intended for construction professionals and other users who need to calculate material quantities accurately. If you are not a construction professional, you may not need to use this form.
-Please note that this form is designed to be used in conjunction with other tools or knowledge. The calculations performed by this form are likely to be complex and may require additional context or expertise to interpret the results.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to provide a calculation tool for construction professionals and other users to accurately estimate material quantities.

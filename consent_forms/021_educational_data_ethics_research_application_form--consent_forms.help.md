@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # educational_data_ethics_research_application_form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a Kindergarten admission process, likely for a school or educational institution. The form is intended to gather necessary contact, medical, and emergency contact information for a child who is applying for admission to the kindergarten. 
-
-To confirm, this form is not meant to be used for other purposes such as daycare or adult enrollment. 
-
-This form is likely intended to be printed out and completed by hand, and then kept by the school or institution as a record for the student's file. 
-
-Please ensure that you have completed the form with accurate and up-to-date information to ensure the child's safety and well-being.
-
-</thinking>
-
 # Kindergarten Admission Checklist Form Template - Help Guide
 ## Purpose
 This form is used to collect information for a Kindergarten admission process, including contact, medical, and emergency contact information for a child who is applying for admission to the kindergarten.

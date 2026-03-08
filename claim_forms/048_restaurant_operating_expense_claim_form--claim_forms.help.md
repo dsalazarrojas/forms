@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from restaurant operators about their operating expenses. This form is used to track and categorize claims related to restaurant operating expenses. 
-
-This form is part of a larger process to streamline and process claims for restaurant operators. To avoid duplication, please ensure that you are only submitting this form once per claim. 
-
-Please note that this form is only for restaurant operating expenses. If you are claiming something else, please use the corresponding form.
-
-</thinking>
-
 # Restaurant Operating Expense Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information about claims related to restaurant operating expenses from restaurant operators. This information will be used to track and process these claims efficiently.

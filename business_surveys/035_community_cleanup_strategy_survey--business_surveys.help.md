@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for gathering information from residents about their perspectives on community cleanup priorities, volunteer availability, and effective strategies for maintaining a clean and beautiful community. The purpose of this form is to collect feedback and suggestions from residents to inform the development of a comprehensive community cleanup strategy.
-
-Before proceeding, please note that this form is a crucial part of the process to help the community center better understand the needs and preferences of its members. If you have already completed a similar survey in the past, your input is still valuable, and we encourage you to provide your thoughts again, as your perspective may have changed, or we may have added new initiatives that are relevant to you.
-
-The information collected through this form will be kept confidential and only used for the betterment of our community. Please provide honest and detailed responses to each question, and feel free to provide any additional comments or suggestions you may have.
-
-To complete this form, please follow the steps below:
-
-</thinking>
-
 # Community Cleanup Strategy Survey - Help Guide
 ## Purpose
 The Community Cleanup Strategy Survey is designed to gather information from residents on their opinions and suggestions on how to maintain a clean and beautiful community. Your input is vital to helping us create a comprehensive community cleanup strategy that meets the needs and preferences of our community members.

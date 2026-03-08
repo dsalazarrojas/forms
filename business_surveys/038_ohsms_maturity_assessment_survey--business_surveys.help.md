@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to assess the maturity level of a website's overall performance and functionality. It's intended to help organizations evaluate and improve their websites' quality. This form is likely used in the context of a larger assessment framework, such as the overall health and performance metrics for a company's online presence. The form may be used by IT teams, web development teams, or business stakeholders to evaluate websites and identify areas for improvement.
-
-This form is used to collect data on multiple websites, as indicated by the numerous "Site Name" fields, and their corresponding "Site ID" and "Score" fields. This is likely used to create a comprehensive report on the website's performance across multiple sites.
-
-The form is divided into two main parts: site-level assessments and overall scoring.
-
-To complete this form, follow these steps:
-
-1. Enter a unique identifier for each site, and rate each site's performance on a scale of 1 to 10.
-2. For each site, enter the corresponding "Site ID" value.
-3. Fill in the "Score" for each site.
-4. Ensure that all "required" fields are filled in before submitting the form.
-
-</thinking>
-
 # ohsms_maturity_assessment_survey - Help Guide
 ## Purpose
 This form is used to assess the maturity level of a website's overall performance and functionality.

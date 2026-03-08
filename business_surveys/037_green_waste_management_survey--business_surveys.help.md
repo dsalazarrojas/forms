@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for companies to provide information about their green waste management practices. The purpose of this form is to gather data on how companies are implementing waste reduction strategies and what types of programs they have in place to manage their waste. This will help us identify best practices and areas for improvement in the industry. Please ensure that you are filling out this form for the correct purpose and do not submit duplicate entries for the same company.
-</thinking>
-
 # Green Waste Management Survey - Help Guide
 ## Purpose
 The Green Waste Management Survey is a form designed to gather information from companies about their waste reduction strategies and practices. This data will be used to identify areas for improvement and best practices in the industry.

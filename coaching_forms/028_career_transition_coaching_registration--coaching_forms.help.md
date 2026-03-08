@@ -1,14 +1,3 @@
-<thinking>
-You're creating a help guide for the Career Transition Coaching Registration form. Before diving into the explanation, let's ensure this guide serves its purpose and meets the needs of the target audience. 
-
-The form's purpose is to collect information from individuals who are seeking career transition coaching. It aims to gather details about their current situation, goals, motivations, and expectations from the coaching program.
-
-To avoid duplicating or misguiding information, let's keep the explanation concrete, concise, and practical. We'll focus on the essential details of each field, and avoid unnecessary jargon or technical terms. 
-
-With that in mind, let's review the form's fields and provide clear, step-by-step guidance.
-
-</thinking>
-
 # Career Transition Coaching Registration - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information about you as you prepare for a career transition. This information will help us understand your situation, goals, and expectations, enabling us to tailor a coaching program that meets your needs and supports your success.

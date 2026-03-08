@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect detailed information from participants of the Summer Camp, and its purpose is to ensure that all necessary contact and demographic information is gathered for each participant. This includes collecting their personal details, emergency contact information, and participant status. The fields are designed to be clear and concise, with optional fields allowing participants to fill in only the necessary information. To avoid duplication or incomplete information, it's essential to fill out each field as instructed, and if unsure, refer to this guide for clarification. This form should not be used for any other purpose other than registering participants for the Summer Camp.</thinking>
-
 # Summer Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from participants of the Summer Camp, to ensure that all necessary contact and demographic information is gathered for each participant.

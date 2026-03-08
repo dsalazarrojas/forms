@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create this help guide for the "Open Access Teaching Resource Publication Consent Form", we need to break down each step of the form completion process and explain each field in a clear and concise manner.
 
 # Open Access Teaching Resource Publication Consent Form - Help Guide

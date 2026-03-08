@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for a form designed to collect information about an employee's gift preferences during Christmas. The form is intended to help managers or HR representatives understand the interests and wishes of employees in the office, allowing for more personalized and thoughtful gift-giving. 
-Please ensure to only fill out this form once. Filling out this form multiple times will cause confusion and may lead to duplicate entries.
-</thinking>
-
 # Employee Christmas Gift Form - Help Guide
 ## Purpose
 The Employee Christmas Gift Form is a tool used to gather information about each employee's preferences and interests during the holiday season. This information will be used to ensure that each employee receives a gift that is tailored to their individual tastes and wishes.

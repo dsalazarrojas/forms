@@ -1,11 +1,3 @@
-<thinking> 
-
-The Free 5 Day Trial Form is a tool used to create a 5-day trial period for an application or service. This form is used by administrators to define the trial period and collect relevant information. 
-
-This form will help the administrators to create a 5-day trial period for an application or service. The collected information will be used to manage and track the trial period.
-
-</thinking>
-
 # Free 5 Day Trial Form - Help Guide
 ## Purpose
 

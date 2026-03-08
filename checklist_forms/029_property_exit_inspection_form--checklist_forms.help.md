@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to record information about a property inspection exit process. The data collected will be used to track and document the condition of properties after they have been inspected. This form will only be filled out by authorized personnel who have permission to access properties. The data will not be duplicated or used for any other purpose other than the original intent of tracking the property's condition after inspection. If the form is already filled out and you are accessing this help guide, you may disregard this message.
-</thinking>
-
 # Property Exit Inspection Form - Help Guide
 
 ## Purpose

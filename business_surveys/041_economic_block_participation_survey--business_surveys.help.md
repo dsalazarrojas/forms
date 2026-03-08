@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a person's participation in an economic block. It seems to be focused on gathering contact details, roles, motivations, and expectations related to the economic block. There are also fields to capture additional information about other roles, motivations, and expectations. The form likely aims to understand the person's involvement and preferences in the economic block. I will now create a help guide based on this structure.
-</thinking>
-
 # Economic Block Participation Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your participation in the economic block. Your responses will help us understand your preferences and involvement in this area.

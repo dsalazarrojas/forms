@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive earthquake preparedness checklist with a large number of pages and fields, likely intended for emergency contact information and response planning purposes. Given its extensive length, it's likely that this form will be used in a disaster or emergency situation where quick and accurate contact information and response details are crucial. 
-
-To avoid duplication, it's possible that this form might be a template or a base form that can be easily customized and adapted for different types of emergencies or situations. This form's design seems to prioritize flexibility and adaptability, allowing users to quickly identify their emergency contacts and response plans.
-
-Before proceeding with the guide, it's essential to confirm that the form's structure, fields, and options align with the intended use case and target audience.
-
-</thinking>
-
 # earthquake_preparedness_checklist - Help Guide
 ## Purpose
 This form is designed to help users quickly gather and organize essential contact information and response plans in the event of an earthquake or other emergency situations. The form is not required, but it's highly recommended to fill it out to ensure you have a plan in place to keep your loved ones and property safe.

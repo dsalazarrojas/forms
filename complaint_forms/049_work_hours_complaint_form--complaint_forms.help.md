@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees or staff members to complain about issues related to their work hours, such as irregularities in scheduling, conflicts with colleagues or management, or difficulties with time-tracking systems. The form is intended to be a formal channel for employees to report these issues without fear of retribution or negative consequences. It is essential to ensure that employees understand the purpose of this form and use it for its intended purpose.
-</thinking>
 # Work Hours Complaint Form - Help Guide
 ## Purpose
 The Work Hours Complaint Form is a formal channel for employees to report issues related to their work hours. This form should be used to report concerns or complaints about scheduling conflicts, time-tracking discrepancies, or other work hours-related problems.

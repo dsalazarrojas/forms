@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to submit complaints about their stay at the hotel. It should only be used by guests who have experienced issues during their stay and want to report these issues to the hotel management. Please note that submitting a complaint form is a formal process and should not be used for general feedback or suggestions. We will review each complaint form carefully and respond to it in a timely manner.
-</thinking>
-
 # Hotel Complaint Form - Help Guide
 ## Purpose
 This form is designed to help guests report any issues they experienced during their stay at the hotel. Please fill out this form to inform the hotel management about any problems you encountered, and we will review and respond to your complaint as soon as possible.

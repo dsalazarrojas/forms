@@ -1,7 +1,3 @@
-<thinking> 
-This form is for gathering client information and consent for a brow wax correction, which is a medical procedure that involves removing and correcting imperfections or unevenness in a client's brow shape. The client's full name, date of birth, phone number, and email address are all required fields as they are necessary for the service provider to contact and identify the client. The form also asks for the client's date of previous waxing, reason for correction, and desired brow shape to better understand their needs and requirements. Additionally, the form inquires about the client's skin type, current skin conditions, known product or wax allergies, sensitivity to waxing products, medications affecting the skin, recent facial treatments or procedures, pregnancy status, and pain sensitivity level. This information helps the service provider to take necessary precautions and provide appropriate care during the procedure. The form requires the client to acknowledge that the risks and benefits have been explained and that they consent to the brow wax correction. Lastly, the client must sign and date the consent form to confirm their agreement.
-
-</thinking>
 # Brow Wax Correction Consent Form - Help Guide
 ## Purpose
 This form is designed for clients to provide informed consent for a brow wax correction, a medical procedure that involves correcting imperfections in their brow shape. It helps the service provider understand the client's needs and requirements, ensuring a safe and effective treatment.

@@ -1,27 +1,3 @@
-<thinking>
-This form is used to collect information for the engine intake manifold torque sequence checklist. It consists of multiple pages with various fields to ensure accurate collection of data for the specified sequence. The form has 25 fields in total, including 6 select_one, 4 select_multiple, 4 note, 11 optional fields with no specific type.
-
-This guide assumes the user has basic knowledge of forms and field types. Please review each field carefully to ensure accurate completion of the form.
-
-Form completion should be done in a step-by-step manner, starting from the first page to the last. 
-
-Before proceeding, it's essential to ensure that all required fields are completed to avoid missing any critical information. 
-
-Each field should be filled in according to the specific instructions provided. If a field is not applicable, it can be left blank.
-
-The form can be filled out by anyone with access to the system, including but not limited to engineers and technicians.
-
-Please note that this form is designed to collect specific and detailed information. If a field is not filled out correctly, it may lead to errors or misinterpretation of the data. Therefore, please take your time and be precise in your responses.
-
-It's also essential to review each page carefully before proceeding to the next page to ensure that all fields have been filled out correctly.
-
-Before filling out the form, please ensure that you are in the correct environment. This form should only be filled out for the purpose it's intended, which is to collect information for the engine intake manifold torque sequence checklist.
-
-Please note that this form should be filled out by one person at a time to avoid confusion and ensure accurate recording of information.
-
-If you need help or clarification, it's always best to ask someone who has previously filled out the form or an authorized personnel. They can guide you on any questions or doubts you may have.
-</thinking>
-
 # Engine Intake Manifold Torque Sequence Checklist - Help Guide
 ## Purpose
 This form is designed to collect information for the engine intake manifold torque sequence checklist.

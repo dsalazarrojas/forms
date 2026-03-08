@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the Public Health Initiative, which is a program aimed at promoting healthy habits and disease prevention. This form is to be filled out by individuals who are interested in participating in the initiative. It is recommended that you review the form carefully to ensure that all required fields are completed correctly. Please note that some fields may be optional, and you should only fill out those that are relevant to your participation in the program. Before proceeding, ensure that you have read and understood the form's purpose and requirements.
-</thinking>
-
 # public_health_initiative_consent_form - Help Guide
 ## Purpose
 The Public Health Initiative Consent Form is a document that requires participants to provide information about themselves and their interest in the program. The form is used to ensure that participants understand the initiative's purpose, rules, and guidelines.

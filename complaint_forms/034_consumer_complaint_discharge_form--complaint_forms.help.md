@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document the resolution of a consumer complaint, including details about the complaint process, customer feedback, and resolution outcomes. 
-This form is only for complaints that have been escalated to the next level of support or have a resolution that requires additional information from the customer. 
-The customer complaint discharge form is used to track and document all relevant information about the complaint resolution process. 
-The information collected in this form will help to provide better customer service and improve future complaints.
-</thinking>
-
 # Consumer Complaint Discharge Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and ideas from employees on cost-saving initiatives within the organization. The form is designed to understand the impact of these initiatives and gather suggestions for improvements. This form is intended for internal use within the organization, and the data collected will be used to inform decision-making and identify areas for cost-saving opportunities.
-
-Before proceeding, let's confirm that this is the correct form and that the user is not already responding to a duplicate or similar form. If you are completing this form on behalf of a manager or executive, please ensure you have their approval or authorization to do so.
-
-To complete this form, the user will be presented with a series of questions and prompts that aim to elicit feedback and ideas on cost-saving initiatives. The form consists of 8 pages, each with its own unique characteristics and requirements.
-
-</thinking>
-
 # Cost Optimization Initiative Survey - Help Guide
 
 ## Purpose

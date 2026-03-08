@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and report customer service incidents that occur in the Fashion Retail environment. This form is used to collect information about customer complaints or issues that need to be addressed. The information gathered through this form will help the customer service team to identify trends, resolve issues, and improve overall customer experience.
-</thinking>
-
 # Fashion Retail Customer Service Report - Help Guide
 ## Purpose
 The Fashion Retail Customer Service Report form is used to report customer service incidents, allowing the customer service team to document and resolve issues, identify trends, and improve customer experience.

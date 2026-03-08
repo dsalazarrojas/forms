@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for metal cleaning work, allowing users to input information about the metal surface conditions and other relevant details such as date and time of service. This form is likely used in a work order or inspection context, where the metal surface conditions need to be documented for quality control or maintenance purposes.
-
-The form has multiple fields for metal surface conditions, each allowing the user to select one or multiple options. Additionally, the form includes fields for date and time of service, which are required fields indicating when the metal cleaning work was performed.
-
-The purpose of this form is to provide a standardized way to document metal cleaning work and ensure that all necessary information is captured. This form may be used by maintenance personnel, quality control teams, or inspectors to ensure consistent and accurate data collection.
-
-</thinking>
-
 # Metal Cleaning Checklist - Help Guide
 
 ## Purpose

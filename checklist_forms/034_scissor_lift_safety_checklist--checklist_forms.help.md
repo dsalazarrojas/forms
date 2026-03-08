@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect safety-related information for scissor lifts. A scissor lift is a type of aerial lift that is used for lifting people or equipment to a specific height. This form will help ensure that the scissor lift is properly inspected and maintained to prevent accidents and injuries.
-This form should only be used for scissor lifts, and the information collected will be used for safety purposes only.
-</thinking>
-
 # Scissor Lift Safety Checklist - Help Guide
 ## Purpose
 

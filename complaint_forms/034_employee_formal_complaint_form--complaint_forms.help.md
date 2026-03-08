@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect formal complaints from employees, providing a structured and confidential platform to report issues such as harassment, bullying, retaliation, and other workplace concerns. The form is designed to be completed by employees who wish to report incidents and provide supporting details. It should not be used for general feedback or suggestions, as this is a formal process for addressing specific complaints. Please ensure that each complaint is submitted only once and not duplicated through other means. When completing the form, please provide as much detail as possible to help resolve the issue efficiently. Ensure all required fields are filled out and the form is submitted to the correct person or department. The employee information and complaintant details should be accurate and up-to-date. The resolution status should reflect the current status of the complaint, and manager and employee notes are intended to be used for tracking and reference. The form is designed for internal use only, and all fields are required to be completed for accurate tracking and resolution purposes.
-</thinking>
-
 # Employee Formal Complaint Form - Help Guide
 ## Purpose
 This guide provides instructions and explanations for completing the Employee Formal Complaint Form, which is used to report and document formal complaints from employees.

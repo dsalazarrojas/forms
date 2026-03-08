@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to explain the form purpose and checks for relevance and non-duplication:
-
-The form "Expense Reimbursement Checklist Form" is designed to collect information about employee expenses. It is likely a form used by organizations to track and manage employee expenses, such as business trips, meals, and other work-related expenses. The form is likely used for reimbursement purposes, where employees need to submit their expenses for approval and processing. This form is likely used by finance teams or accounting departments to review and manage employee expenses efficiently.
-</thinking>
-
 # Expense Reimbursement Checklist Form - Help Guide
 ## Purpose
 The Expense Reimbursement Checklist Form is used to collect information about employee expenses for reimbursement purposes.

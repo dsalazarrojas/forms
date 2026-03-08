@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult Medical Assistance Form - Help Guide
 ## Purpose
 The Adult Medical Assistance Form is used to gather information and obtain consent for the release of a patient's medical records. This form helps to ensure that the patient's privacy and confidentiality are respected while allowing authorized individuals or organizations to access their medical data.

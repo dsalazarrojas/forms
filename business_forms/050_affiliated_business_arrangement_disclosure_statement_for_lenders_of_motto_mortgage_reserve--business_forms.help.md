@@ -1,12 +1,3 @@
-<thinking>
-This form is used to disclose affiliated business arrangements that may impact an individual's ability to obtain a mortgage. 
-An affiliated business arrangement is a relationship between a creditor and a person or company that may influence the creditor's decision to make a mortgage loan. 
-This form is used to collect information about the relationship between the lender and the service provider. 
-The form is required for lenders who have a business relationship with a service provider that could potentially impact their lending decision. 
-This form will not be used to collect information about relationships that are not affiliated business relationships. 
-The form will be reviewed to ensure that the relationship is not an affiliated business arrangement. 
-</thinking>
-
 # Affiliated Business Arrangement Disclosure Statement - Help Guide
 ## Purpose
 This form is used to disclose affiliated business arrangements between a lender and a service provider. An affiliated business arrangement is a relationship that may influence the lender's decision to make a mortgage loan.

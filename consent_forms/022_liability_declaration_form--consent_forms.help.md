@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals to declare their liability, typically in the context of events or activities that involve risks or potential liabilities. It is crucial to accurately fill out this form to ensure that the individual is aware of and accepts the risks associated with their participation. This form is likely used in situations where the individual's safety or well-being may be at risk, such as in emergency services, high-risk activities, or other scenarios where liability is a concern.
-</thinking>
-
 # Liability Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's declaration of liability. It is essential to fill out this form accurately and truthfully to ensure that the individual is aware of and accepts the risks associated with their participation.

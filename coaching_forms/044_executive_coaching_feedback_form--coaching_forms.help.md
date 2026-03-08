@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture feedback from executive coaching sessions, aiming to provide an objective understanding of the team's performance and areas for improvement. It should be used by team members who have participated in executive coaching sessions, and it is recommended that it be completed by one person per session. This guide will cover the purpose of the form, the steps to complete it, and an explanation of each field, assuming the form is completed in a digital format. Please ensure that you complete the form in a way that accurately reflects your experiences and opinions.
-</thinking>
-
 # Executive Coaching Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from executive coaching sessions, aiming to provide an objective understanding of the team's performance and areas for improvement.

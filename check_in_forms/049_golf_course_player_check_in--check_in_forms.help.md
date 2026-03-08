@@ -1,7 +1,3 @@
-<thinking>
-The form is used for checking in golf course players, which is a crucial process for managing player attendance and ensuring a smooth golf game experience. This guide will walk the user through the form's purpose, how to complete it, and an explanation of each field to ensure a smooth and accurate submission process.
-</thinking>
-
 # Golf Course Player Check In - Help Guide
 
 ## Purpose

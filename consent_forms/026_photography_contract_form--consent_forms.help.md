@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients, including their details, session details, session terms, and payment terms. The purpose of this form is to ensure that both parties have a clear understanding of the photography contract, including the client's identity, the session's scope, and the payment expectations.
-
-The form consists of four pages, each with a unique label and set of fields. The first page, "Client Details", is optional but provides an opportunity for clients to provide their name, email, and other relevant information. The second page, "Session Details", also has the same optional status and includes fields for session date, time, location, and other specific details. The third page, "Session Terms", is another optional page that allows clients to read and agree to the session's terms and conditions. The fourth page, "Payment Terms", is also optional and includes fields for payment amount, payment method, and other payment-related details.
-
-</thinking>
-
 # photography_contract_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients, including their details, session details, session terms, and payment terms, to ensure both parties have a clear understanding of the photography contract.

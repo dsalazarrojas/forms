@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on the current state of performance metrics within an organization, specifically the understanding and clarity of its performance metrics. This form is likely used in a business setting to assess the clarity of performance metrics for decision-making and strategic planning. This form may be used by management or team leaders to gauge the level of understanding and agreement on performance targets and metrics among team members or stakeholders. It may also be used to identify areas where metrics are not clearly understood or agreed upon, allowing for targeted improvement efforts.
-</thinking>
-
 # Performance Metrics Clarity Survey - Help Guide
 ## Purpose
 This survey aims to gather information on the current state of performance metrics within your organization, ensuring that everyone is on the same page regarding performance targets and metrics.

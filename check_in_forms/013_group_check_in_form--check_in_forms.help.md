@@ -1,8 +1,3 @@
-<thinking>
-This form is used for check-in purposes. It is likely to be used by staff at a site where a group of people are arriving. The purpose of this form is to collect necessary information from the group, including their name, size, email, phone number, arrival time, arrival date, arrival location, and any additional information they think is important for their visit. Before filling out this form, please make sure you have the necessary information and that you are filling it out for the correct group.
-
-</thinking>
-
 # Group Check In Form - Help Guide
 
 ## Purpose

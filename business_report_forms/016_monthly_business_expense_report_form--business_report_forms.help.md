@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the submission of monthly business expense reports. This form is designed to collect detailed information about business expenses incurred by employees or managers during a given month. The goal is to provide a clear and organized way to document and review expenses, ensuring accuracy and transparency in financial reporting. This form should only be used for legitimate business expenses, and not for personal or non-reimbursable expenses.
-
-Before proceeding, please verify that this form is relevant to your specific business needs and that you are not duplicating efforts. If you are unsure, please consult with your supervisor or accounting department to ensure you are using the correct form.
-
-</thinking>
-
 # Monthly Business Expense Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about business expenses incurred during a given month. It is used to document and review expenses for accuracy and transparency in financial reporting.

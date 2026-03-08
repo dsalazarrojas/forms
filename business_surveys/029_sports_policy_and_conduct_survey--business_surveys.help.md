@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess an organization's policy and conduct practices, gathering feedback from stakeholders, identifying training needs, and tracking revisions to policies and conduct guidelines. This form is intended for use in a business or organizational setting, likely within human resources, compliance, or risk management departments.
-
-To ensure this form is used effectively, please review the following questions carefully:
-
-* Are you familiar with the organization's policies and conduct guidelines?
-* Have you received proper training or communication regarding these policies?
-* Have you identified any gaps or issues with the current policies and conduct guidelines?
-
-If you're unsure or lack knowledge about these topics, it's recommended that you consult with your supervisor, HR representative, or risk manager before proceeding.
-
-Please answer the questions honestly and thoughtfully, as your input will help the organization better understand and refine its policies and conduct practices.
-
-</thinking>
-
 # Sports Policy And Conduct Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and information about sports policies and conduct practices within your organization. It's a tool to help you assess and refine these policies, ensuring they align with your organization's goals and values.

@@ -1,7 +1,3 @@
-<thinking>
-The AI Generated Assignment Review Consent Form is a crucial document that ensures students and their guardians understand and agree to the terms of AI-assisted review of their assignments. This form is designed to gather essential information and consent from students and their guardians before submitting their work for review. Before creating this form, we should ensure that it is being used in a situation where the student's data is being collected and processed, and that the student and their guardian have provided explicit consent for this process.
-</thinking>
-
 # AI Generated Assignment Review Consent Form - Help Guide
 ## Purpose
 The AI Generated Assignment Review Consent Form is designed to gather information and consent from students and their guardians before submitting their work for AI-assisted review. This form helps to ensure that students and their guardians are aware of how their data will be used and stored.

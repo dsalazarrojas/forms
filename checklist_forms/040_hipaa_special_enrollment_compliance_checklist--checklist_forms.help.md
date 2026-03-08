@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for HIPAA special enrollment compliance checks for employees. The purpose of this form is to gather information about employees' enrollment status, department, job classification, date of hire, department head, manager, and other relevant details. This form is intended for internal use within the organization.
-Before completing this form, please ensure you are familiar with the relevant HIPAA regulations and that this form is being used for official purposes only.
-
-The form consists of two pages: Section 1 is an introduction page with a note about the purpose of this form. The remaining pages are where the actual information about the employees is collected.
-
-Please complete this form accurately and carefully to ensure the correctness and completeness of the data being collected.
-
-</thinking>
-
 # HIPAA Special Enrollment Compliance Checklist - Help Guide
 ## Purpose
 This form is designed for HIPAA special enrollment compliance checks for employees. The form gathers information about employees' enrollment status, department, job classification, date of hire, department head, manager, and other relevant details.

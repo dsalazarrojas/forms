@@ -1,20 +1,3 @@
-<thinking>
-The Safety Training Evaluation Form is designed to collect information about the safety training programs that employees have attended or completed. The form is used to evaluate the effectiveness of these programs and to gather feedback from employees on their experiences. 
-
-The form is divided into several sections, each covering a different aspect of the safety training programs. The sections include:
-* Introduction: A brief introduction to the safety training program.
-* Safety Training: This section asks for general information about the safety training program.
-* Safety Training Programs: This section asks the employee to select which safety training programs they have attended.
-* Training Date: The date the employee received the training.
-* Training Time: The time of day the employee received the training.
-* Employee Information: This section collects information about the employee, including their name, position, and any notes they may have about the training.
-* Evaluation: This section is used to evaluate the safety training program, including whether the employee has completed it and how they have evaluated it.
-* Status: The status of the safety training program, including whether it is active, inactive, or pending.
-* Manager's Evaluation: This section is used for the manager or supervisor to evaluate the employee's safety training status and provide any comments they may have.
-
-This form is designed to be simple and user-friendly, making it easy for employees to provide information about their safety training experiences. By using this form, employers can gather valuable insights into the effectiveness of their safety training programs and make data-driven decisions about how to improve them.
-</thinking>
-
 # Safety Training Evaluation Form - Help Guide
 
 ## Purpose

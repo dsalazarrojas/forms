@@ -1,7 +1,3 @@
-<thinking>
-The form "research_data_management_practices_survey" is designed to collect information about research data management practices from researchers. This form is intended for researchers to provide details about their data management practices, including their institution, department, research title, collaborators, data types, data location, data security, data sharing, documentation, data backup, data archiving, research data services, research data storage, data disposal, data retention, data destruction, access and control, data access control, data disposition, data disposition location, data disposition method, and comments. This form is used to gather information to improve research data management practices within an institution.
-</thinking>
-
 # research_data_management_practices_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about research data management practices from researchers. This information will help improve research data management practices within an institution.

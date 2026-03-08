@@ -1,6 +1,3 @@
-<thinking>
-The form is intended for parents or guardians to provide information and make selections related to their child's participation in the Fresno Grizzlies Baseball Camp. This form is likely used to gather necessary details for the camp registration process, including emergency contact information and medical history. To avoid duplication or irrelevant submissions, this form is only accessible during the appropriate time frame for the camp registration period.</thinking>
-
 # fresno_grizzlies_baseball_camp - Help Guide
 ## Purpose
 The Fresno Grizzlies Baseball Camp is a program for children to learn and play baseball. This form is used to collect essential information from parents or guardians to ensure a safe and enjoyable experience for their child.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a checklist for reviewing architectural drawings to ensure they meet certain standards and requirements. The fields on this form seem to cover various aspects of the drawings, including project information, cover sheet and conventions, compliance and standards, dimensions and annotations, coordination with other disciplines, and overall quality. It appears to be designed for a specific industry or profession, possibly architectural or engineering, where accuracy and attention to detail are crucial. 
-
-Before proceeding, ensure that the form is not a duplication of existing procedures or forms. It's also essential to review the form's fields and options to ensure they align with the actual requirements and standards for the specific industry or profession.
-
-</thinking>
-
 # Architectural Drawing Review Checklist Form - Help Guide
 ## Purpose
 The Architectural Drawing Review Checklist Form is designed to help reviewers assess and ensure that architectural drawings meet specific standards and requirements. This form helps to identify and document any issues or discrepancies found during the review process.

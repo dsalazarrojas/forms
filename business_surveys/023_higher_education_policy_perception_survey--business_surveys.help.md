@@ -1,10 +1,3 @@
-<thinking>
-This is an internal reasoning block to check for relevance and non-duplication of the form purpose and fields. The form is a Higher Education Policy Perception Survey, used to collect opinions and feedback from stakeholders on the policies implemented by a university or department. The fields on the form are a mix of select multiple and select one questions, as well as text fields, likely used to gather detailed opinions and comments. The form seems to have multiple sections with similar fields, which could be an indication of a survey with multiple parts or a repeated pattern of questions. This will help in structuring the help guide accordingly.
-
-To create the help guide, we'll break down the form into sections based on the repeated patterns and provide clear explanations for each field.
-
-</thinking>
-
 # Higher Education Policy Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and feedback from stakeholders on the policies implemented by a university or department. The survey aims to understand the effectiveness, scope, and areas of improvement of the policies.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # excavator_attachment_inspection_checklist - Help Guide
 ## Purpose
 

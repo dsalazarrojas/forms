@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a participant's liability and medical status before engaging in a surf school activity. The purpose of this form is to ensure that the participant understands and acknowledges the risks associated with surfing and to gather necessary contact information in case of an emergency. The form should only be filled out by participants who are physically able to understand and sign the form.
-</thinking>
-
 # Surf School Liability Waiver - Help Guide
 ## Purpose
 The Surf School Liability Waiver form is designed to gather information about a participant's liability and medical status before engaging in a surf school activity. By filling out this form, participants acknowledge that they understand the risks associated with surfing and take responsibility for their own safety.

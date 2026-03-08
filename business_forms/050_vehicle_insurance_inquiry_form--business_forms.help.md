@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their vehicle insurance inquiries. The form will help us understand the customer's vehicle type, insurance provider, and other relevant details that we need to fulfill their insurance needs. We should ensure that the customer's vehicle registration number and insurance provider information are accurate, as this is crucial for processing their insurance claims.
-We should also note that the form has several optional fields, which are:
-- Vehicle make: This field is used to collect information about the vehicle's make.
-- Vehicle year: This field is used to collect information about the vehicle's year of production.
-- Vehicle model: This field is used to collect information about the vehicle's model.
-- Vehicle color: This field is used to collect information about the vehicle's color.
-- Customer name: This field is used to collect the customer's name.
-- Customer email: This field is used to collect the customer's email address.
-- Customer phone: This field is used to collect the customer's phone number.
-- Customer address: This field is used to collect the customer's address.
-- Customer city: This field is used to collect the customer's city.
-- Customer state: This field is used to collect the customer's state.
-- Customer post office code: This field is used to collect the customer's post office code.
-- Customer country: This field is used to collect the customer's country.
-- Customer note: This field is used to collect any additional information or notes about the customer.
-- Customer signature: This field is used to collect the customer's signature.
-</thinking>
-
 # Vehicle Insurance Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their vehicle insurance inquiries.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's interests and engagement with Surat's heritage and culture. The form will gather data on the user's interests, cultural activities, education, and demographic information such as name, email, and phone number. This form is intended for users who want to provide feedback on their experience with Surat's heritage and culture.
-
-To ensure that the form is completed accurately, users should only fill out the form if they have had an experience with Surat's heritage and culture. If the user has not had an experience with Surat's heritage and culture, they should not complete the form.
-
-Please note that this form has no duplicate fields and all fields are optional except where specified as required.
-
-</thinking>
-
 # surat_history_and_culture_survey - Help Guide
 ## Purpose
 The form is designed to collect information about the user's interests and engagement with Surat's heritage and culture.

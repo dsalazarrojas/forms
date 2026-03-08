@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their office cleaning services quote requests. The purpose of this form is to allow users to input their contact information, details about the service they are requesting, and any additional comments or information they might have. 
-
-Before proceeding, please ensure that you have not filled out this form recently and that your submission type is indeed "Quote" or "Service Request", which will help our team in efficiently managing and processing your request.
-</thinking>
-
 # office_cleaning_services_quote_request_form - Help Guide
 ## Purpose
 The office_cleaning_services_quote_request_form is a tool for submitting a quote request or service request for office cleaning services. This form helps our team gather the required information to provide you with an accurate quote or service plan.

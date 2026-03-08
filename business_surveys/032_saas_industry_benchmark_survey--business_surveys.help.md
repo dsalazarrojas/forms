@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect data for the SaaS industry benchmarking survey. The survey aims to gather information from companies in the SaaS industry to create a comprehensive benchmarking report that can be used to compare company performance across various metrics. This form is designed to collect data on ARR (Annual Recurring Revenue), revenue range, churn rate, company size, priorities, company name, contact email, contact phone, company profits, notes, comments, and other information.
-</thinking>
-
 # SaaS Industry Benchmark Survey - Help Guide
 ## Purpose
 The SaaS Industry Benchmark Survey is a tool to help companies compare their performance against their peers in the industry. This form collects information on ARR, revenue range, churn rate, company size, priorities, company name, contact email, contact phone, company profits, notes, comments, and other details.

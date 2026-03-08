@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from academic partnership participants on their experiences and perceptions of the partnership. This information will help in identifying key success factors, challenges, and areas of improvement, which can inform future partnerships and enhance the overall success of similar collaborations. This form has been designed to gather comprehensive data, and it's essential that respondents provide honest and detailed responses to ensure the accuracy of the results.
-</thinking>
-
 # Academic Partnership Success Factors Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from academic partnership participants on their experiences and perceptions of the partnership.

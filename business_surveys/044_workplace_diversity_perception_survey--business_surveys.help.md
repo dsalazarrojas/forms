@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my first task is to create a user-facing help guide for this form, "workplace_diversity_perception_survey". I will include a brief internal reasoning block to explain the form purpose and check for relevance and non-duplication, and then provide the final help document in Markdown format.</thinking>
-
 # workplace_diversity_perception_survey - Help Guide
 ## Purpose
 This survey aims to measure the workplace diversity perception of employees in terms of race, ethnicity, gender, age, employment status, and experiences of discrimination. It gathers information on the types of discrimination people have reported, the perpetrators involved, and the responses received from managers and bystanders.

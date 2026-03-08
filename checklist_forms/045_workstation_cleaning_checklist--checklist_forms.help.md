@@ -1,7 +1,3 @@
-<thinking>
-Workstation Cleaning Checklist is a form used to track the cleaning status of a workstation. It's meant to be completed on a daily basis, ideally after each shift or use. The form ensures that all necessary cleaning tasks are performed, reducing the risk of contamination and promoting a healthy work environment. By following this guide, users can ensure they are using the form correctly, reducing the likelihood of incomplete or inaccurate submissions. This form does not duplicate any other form, and users should not use any other form for workstation cleaning.
-</thinking>
-
 # Workstation Cleaning Checklist - Help Guide
 
 ## Purpose

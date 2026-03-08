@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect feedback and ideas from facility staff, managers, and customers on how to improve facility services. This survey is meant to be a tool for identifying areas of improvement and understanding the needs and concerns of different groups within the facility. It's essential to have a clear understanding of your role, department, and the specific ideas you have for improvement to provide meaningful feedback. Please fill out this form carefully and honestly to help us better serve you and our facility. 
-
-</thinking>
 # Facility Service Innovation Survey - Help Guide
 ## Purpose
 This is a survey designed to gather feedback and ideas from facility staff, managers, and customers on how to improve facility services. The survey aims to identify areas of improvement and understand the needs and concerns of different groups within the facility.

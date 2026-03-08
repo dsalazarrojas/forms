@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Storage And Hygiene Habit Survey - Help Guide
 
 ## Purpose

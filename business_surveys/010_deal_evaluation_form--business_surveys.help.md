@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information to evaluate deals, likely for business or investment purposes. It appears to be used by business professionals to assess the value, risks, and outcomes of deals. The form might be used to compare and analyze multiple deals or to track the progress of a single deal.
-
-This form seems to be a standard form and does not have any duplicate fields. However, the fields might be incomplete or lack specific details that would make it more informative for users.
-
-</thinking>
-
 # deal_evaluation_form - Help Guide
 ## Purpose
 The deal_evaluation_form is used to gather information to evaluate deals. It's likely used for business or investment purposes.

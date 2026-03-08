@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information about the maturity level of standard operating procedures (SOPs) within an organization. The purpose of this form is to evaluate and compare the effectiveness of different SOPs in achieving desired outcomes. This form should only be completed by individuals with access to relevant data and knowledge about the SOPs in question.
-
-This form is intended for use by individuals in a specific role or department and should not be completed by general end-users. 
-
-This form will ask questions that cover various aspects of SOPs, including review cadence, communication channels, adherence trends, review process, and documentation, among others. 
-
-Please ensure you have the necessary permissions and access rights before completing this form.
-
-The information collected will be used to inform decisions and drive improvements to the SOPs. 
-
-If you are unsure about any of the questions or fields, please reach out to the relevant authorities or your supervisor for guidance.
-</thinking>
-
 # sop_maturity_survey - Help Guide
 ## Purpose
 The Sop Maturity Survey form is designed to assess the maturity level of standard operating procedures (SOPs) within an organization. It gathers data on various aspects of SOPs, including review cadence, communication channels, and documentation. This form helps inform decisions and drive improvements to SOPs.

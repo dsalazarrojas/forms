@@ -1,9 +1,3 @@
-<thinking>
-This form is a generic online complaint form used for customers to provide feedback and complaints about a company or organization. The form is designed to collect information about the customer's complaint or issue, including their contact information, details of the complaint, and any additional comments or feedback.
-The purpose of this form is to ensure that any complaints or issues are handled efficiently and effectively. However, before filling out the form, please check with our customer support team to see if your issue can be resolved quickly over the phone or email. If not, please use this form to provide us with your complaint or feedback.
-Before filling out this form, please note that we do not tolerate duplicate complaints. If you have already submitted a complaint, please do not resubmit it.
-</thinking>
-
 # Online Complaint Form - Help Guide
 ## Purpose
 The online complaint form is designed to collect information about your complaints or issues with our company or organization. Please use this form to provide us with clear and concise details about your issue, and we will do our best to resolve it as soon as possible.

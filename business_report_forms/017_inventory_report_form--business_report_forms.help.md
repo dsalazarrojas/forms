@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report and track inventory levels within the organization. This information is used to inform management and other stakeholders about current stock levels, enabling them to make data-driven decisions. This form can be filled out by anyone with access to inventory levels, but it is primarily intended for inventory managers and other relevant personnel.
-</thinking>
-
 # Inventory Report Form - Help Guide
 ## Purpose
 The Inventory Report Form is used to report and track inventory levels within the organization, providing valuable information to management and other stakeholders to make informed decisions.

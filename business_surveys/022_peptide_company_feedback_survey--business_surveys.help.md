@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with Peptide Company products. The purpose of this form is to collect both quantitative and qualitative feedback about the products, which will help the company improve its offerings and provide better customer service. This form will only be accessible to customers who have interacted with the company, ensuring that the feedback is relevant to the company's product offerings. By providing this form, the company aims to gather actionable insights from customers to improve its products and services.
-
-</thinking>
-
 # Peptide Company Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with Peptide Company products.

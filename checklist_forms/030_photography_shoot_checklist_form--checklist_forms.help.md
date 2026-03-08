@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help photography teams prepare and document their shoots. The purpose of this form is to gather information about the preparation status, equipment, location, schedule, and other important details related to the shoot. This information will be used to ensure that the shoot is executed smoothly and that all necessary information is captured.
-
-This form can be completed by any team member or photographer involved in the shoot. The form is divided into different sections for easy reference and understanding.
-
-The goal is to ensure that all relevant information is captured to make the shoot a success. This form should not be used in duplicate or as a substitute for other documentation processes in place. Please ensure to use the original form or update existing documentation accordingly.
-</thinking>
-
 # photography_shoot_checklist_form - Help Guide
 ## Purpose
 This form is used to document and confirm important details related to a photography shoot, ensuring a smooth execution and accurate information capture.

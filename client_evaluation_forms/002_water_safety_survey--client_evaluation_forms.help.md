@@ -1,7 +1,3 @@
-<thinking>
-Is this a form that requires users to evaluate the safety practices and procedures of a water facility or organization? Is there a specific reason why this form is being used for water safety survey? Is there any potential overlap with other forms or surveys used in the water industry? What are the key fields that need to be addressed in the user guide?
-</thinking>
-
 # water_safety_survey - Help Guide
 
 ## Purpose

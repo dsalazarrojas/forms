@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the internal use of the company and aims to ensure that users understand the purpose of the "Vendor Payment Cycle Survey" form and how to complete it effectively.
-</thinking>
-
 # Vendor Payment Cycle Survey - Help Guide
 ## Purpose
 The Vendor Payment Cycle Survey is used to collect information about the payment cycle of vendors. This includes the frequency of payments, payment terms, and other relevant details. The purpose of this form is to gather accurate and comprehensive data to improve vendor management and payment processes within the company.

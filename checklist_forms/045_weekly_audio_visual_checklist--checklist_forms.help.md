@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users document and report on the status of audio-visual (AV) equipment in a specific location, whether it's a meeting room, auditorium, or any other space that requires such equipment. The form will help identify the issues that need to be resolved and keep track of progress over time. This checklist should be used by facilities or maintenance teams to check and report on the status of various AV equipment such as microphones, speakers, projectors, and other technical tools. This will aid in preventing issues and ensure that the equipment is working properly. 
-</thinking>
-
 # Weekly Audio Visual Checklist - Help Guide
 ## Purpose
 The purpose of this form is to aid in the reporting and documentation of audio-visual (AV) equipment status in specific locations. It's a checklist designed for facilities or maintenance staff to report on the status of AV equipment and prevent issues that may arise from malfunctioning equipment.

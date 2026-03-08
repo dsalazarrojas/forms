@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Landlord Permission Form" used to collect information and approval from landlords for pet-related agreements or requests in a rental property or building. This form should be used to ensure that all parties are on the same page regarding pet-related matters. The fields should be filled out by the landlord, and it's crucial that all required fields are completed accurately. This form is likely used in situations where a tenant has a pet, and the landlord needs to provide consent or approval for the pet's presence in the property.
-</thinking>
-
 # Landlord Permission Form - Help Guide
 ## Purpose
 The Landlord Permission Form is used to collect information and approval from landlords for pet-related agreements or requests in a rental property or building.

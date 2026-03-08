@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to report complaints about catering services. The primary goal is to collect detailed information about the issues faced by the customers and their desired resolution. This form is likely to be used by customers who have had a negative experience with a catering service.
-</thinking>
-
 # Catering Service Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about your complaint and provide a platform for you to communicate with our team. Please use this form to report any issues you faced with our catering service.

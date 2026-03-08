@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Air Filtration System Maintenance Checklist is to gather critical information about the status of air filtration systems, ensuring their optimal performance and longevity. This form helps maintenance technicians to systematically inspect and report on the condition of filters, motors, and other critical components of the system. The goal is to prevent premature wear and tear, reduce downtime, and improve overall system efficiency. Please ensure that you only fill out this form for air filtration systems that require maintenance and follow the guidelines and instructions provided.
 
 # Air Filtration System Maintenance Checklist - Help Guide

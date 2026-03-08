@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to request bank account access permission for an authorized representative. The form is used to collect information about the primary account holder and the representative who will be granted access to the account. This form is used for bank account access permission, so it's essential to ensure that all required fields are completed accurately to avoid any issues. Before filling out the form, please review the guidelines and ensure that the information matches the requirements specified in the form.</thinking>
-
 # Bank Account Access Permission Form - Help Guide
 
 ## Purpose

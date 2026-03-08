@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Intercom Access Consent Form - Help Guide
 ## Purpose
 The "Smart Intercom Access Consent Form" is used to collect information from residents regarding their access to Smart Intercom, a communication system that enables residents to request assistance from building management or maintenance teams. This form helps ensure that residents' contact details and consent are recorded accurately and consistently.

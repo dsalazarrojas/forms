@@ -1,7 +1,3 @@
-<thinking>
-We have a registration form for vendors that supply eco-friendly products or services to businesses. The form is intended to gather basic contact information and specific details about their offerings. This form will help us understand their capabilities and facilitate the registration process. Please make sure this form is only filled out by genuine vendors, and do not register multiple times or provide fake information.
-</thinking>
-
 # Eco Supply Vendor Registration - Help Guide
 ## Purpose
 

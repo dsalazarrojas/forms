@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about user stories, which are essential to track and report on project progress. It's likely used in software development, business process improvement, or similar contexts where breaking down tasks into stories helps in understanding project requirements and timelines.
-</thinking>
-
 # User Story Item Entry Form - Help Guide
 ## Purpose
 This form is used to create and edit user stories, a way to describe and track individual pieces of work needed to complete a project or task.

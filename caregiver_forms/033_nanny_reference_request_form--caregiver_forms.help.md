@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather information from employers to provide references for potential nannies. The form is typically completed by the employer on behalf of the nanny they are referring. It is essential that this form is filled out accurately and thoroughly to help potential nannies understand the experience and qualifications of the nanny being referred.
-
-Before filling out this form, please ensure you are the authorized representative of the nanny and that you have the necessary information and permissions to complete this form. Additionally, please note that some fields may have default values or options that may not apply to your specific situation, in which case, please select "Other" or provide the correct information.
-
-</thinking>
-
 # Nanny Reference Request Form - Help Guide
 ## Purpose
 This form is used to collect information about a nanny's employment history and experience. Please provide detailed and accurate information about the nanny's job title, pay frequency, job duration, and any other relevant details.

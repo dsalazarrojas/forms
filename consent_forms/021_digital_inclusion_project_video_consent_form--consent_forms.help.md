@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain digital consent for the Digital Inclusion Project, which likely involves capturing video recordings of participants. The form is designed to collect relevant participant information and ensure that participants understand the terms of the video recording. This form will guide the participant through the process of providing consent and capturing their details.
-</thinking>
-
 # Digital Inclusion Project Video Consent Form - Help Guide
 ## Purpose
 The Digital Inclusion Project Video Consent Form is a crucial document that ensures participants understand and agree to the terms of the video recording process. By completing this form, participants are providing their consent to be part of the project.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from patients regarding their medical marijuana consent. It is crucial for medical professionals to understand the patient's medical history and conditions before recommending or prescribing medical marijuana. This form is typically used in medical settings where patients are being evaluated for medical marijuana treatment. Please ensure that this form is not completed by patients who have already been evaluated or treated for medical marijuana in the past.
-
-Before filling out this form, please ensure that you have read and understood the instructions and the explanations provided below.
-</thinking>
-
 # medical-marijuana-consent-form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their medical history, conditions, and consent to use medical marijuana for treatment. It is essential for medical professionals to assess the patient's eligibility and suitability for medical marijuana treatment.

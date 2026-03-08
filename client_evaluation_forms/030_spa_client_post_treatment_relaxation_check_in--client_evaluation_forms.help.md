@@ -1,8 +1,3 @@
-<thinking>
-This form, "Spa Client Post Treatment Relaxation Check In", is designed to gauge the client's state after a treatment session at a spa. The form is meant to be filled out by the client themselves, providing insight into their relaxation levels, satisfaction, and other post-treatment experiences. The purpose of this form is to gather feedback that can be used to improve the overall spa experience.
-The form consists of 12 questions, each with a different type (select_one, number, select_multiple, date, time, select_one, select_multiple, note). Some questions are optional, while others are required.
-</thinking>
-
 # Spa Client Post Treatment Relaxation Check In - Help Guide
 ## Purpose
 The Spa Client Post Treatment Relaxion Check In form is designed to collect feedback from clients after a treatment session at the spa. This form helps us understand how clients feel and provide better services in the future.

@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-This help guide assumes that the form is intended to help individuals set goals for personal development, career advancement, health and fitness, financial stability, and other areas of life. The guide is likely aimed at ensuring that users understand the purpose and process of setting effective goals, particularly those that align with the SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goal-setting criteria.
+### This help guide assumes that the form is intended to help individuals set goals for personal development, career advancement, health and fitness, financial stability, and other areas of life. The guide is likely aimed at ensuring that users understand the purpose and process of setting effective goals, particularly those that align with the SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goal-setting criteria.
 
 The guide may also help users understand how to overcome potential obstacles and create an accountability system to support their goal-achievement. Users may be individuals or teams looking to set goals for personal or professional growth, and the guide may serve as a reference for creating a comprehensive goal-setting framework.
 

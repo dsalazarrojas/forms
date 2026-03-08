@@ -1,13 +1,3 @@
-<thinking>
-This form is used to capture information about a property. The purpose of this form is to gather relevant details about a property, including its title, address, location, and various other attributes. This form is typically used in a real estate or property management context.
-
-To ensure that the form is completed accurately and thoroughly, please review the following guidelines:
-
-* Ensure that all required fields are filled in, as indicated by the asterisk (*) symbol next to the label. 
-* For select_one and select_multiple fields, select only one option for the first, and multiple options for the latter.
-
-</thinking>
-
 # property_information_form - Help Guide
 ## Purpose
 This form is used to capture information about a property.

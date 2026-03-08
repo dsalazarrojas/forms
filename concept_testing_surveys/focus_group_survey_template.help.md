@@ -1,8 +1,3 @@
-<thinking>
-This form, "focus_group_survey_template", is designed to collect feedback from a focus group on a new concept. To confirm, the form is intended to gather insights on user satisfaction, perceptions, and recommendations for a specific idea or innovation. Please review the form carefully before completing it to ensure you're providing the most relevant information.
-
-</thinking>
-
 # focus_group_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from a focus group on a new concept, gathering insights on user satisfaction, perceptions, and recommendations for the idea or innovation presented.

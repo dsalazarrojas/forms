@@ -1,5 +1,3 @@
-<thinking>...checking form purpose and fields for redundancy and duplication...</thinking>
-
 # Nail Salon Customer Retention Survey - Help Guide
 ## Purpose
 The Nail Salon Customer Retention Survey is designed to help us understand how you, our valued customers, experience our services. Your feedback is vital in helping us identify areas of improvement and enhance your overall experience with our salon. Please take a few minutes to provide your honest answers, and we will use them to make informed decisions to better serve you.

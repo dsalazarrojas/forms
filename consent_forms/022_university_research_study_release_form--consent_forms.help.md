@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for use by researchers and participants in university research studies to document and track the progress of research studies. The form is designed to collect participant consent, researcher information, and study details. Please note that each field is optional unless marked as "required" in the form schema.
-
-To ensure accurate and consistent data collection, please review the form carefully and fill it out completely. If you have any questions or concerns, contact form@gic.mx.
-
-</thinking>
-
 # University Research Study Release Form - Help Guide
 ## Purpose
 The University Research Study Release Form is a document used to capture essential details about a research study, including participant information and researcher contact details. This form serves as a record of the study's progress and status.

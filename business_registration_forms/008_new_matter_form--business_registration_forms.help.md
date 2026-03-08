@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect and store information about new matters, which can be any type of case, issue, or subject that requires attention or resolution. This form will guide you through the fields needed to create a new matter. Before proceeding, please ensure that you have the necessary information and approval to create a new matter.
 
 </thinking>

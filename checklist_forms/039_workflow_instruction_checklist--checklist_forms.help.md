@@ -1,7 +1,3 @@
-<thinking>
-This form is for checking the status and completeness of a workflow instruction checklist. This form is meant to ensure that the workflow process is being followed correctly and that the checklist is up-to-date. The purpose of this form is to gather information about the status of the workflow instruction checklist, which will help in identifying areas that need improvement. This form is not meant to be used for other purposes, such as creating new workflows or modifying existing ones. This form will be used by team members to provide accurate and up-to-date information about the status of the workflow instruction checklist.
-</thinking>
-
 # Workflow Instruction Checklist - Help Guide
 ## Purpose
 This form is used to gather information about the status and completeness of a workflow instruction checklist. It helps to ensure that the workflow process is being followed correctly and that the checklist is up-to-date.

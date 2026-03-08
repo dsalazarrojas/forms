@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting a link for a business listing. The purpose of this form is to allow users to submit a link to their business website or other relevant information. This form is not intended for general contact or other purposes. Please fill out the form completely and accurately to ensure your link is accepted. If you have already submitted a link, please do not submit another. This form is intended for new submissions only.
-</thinking>
-
 # link_submission_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a link for a business listing. This form is used to provide a link to your business website or other relevant information.

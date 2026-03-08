@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Livestock Feed Sustainability Study Survey - Help Guide
 ## Purpose
 This form is designed to collect information about farm operations and their feed sustainability practices. It will help gather insights to inform decision-making and improve the management of resources within the livestock feed industry.

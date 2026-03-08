@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist for navigation bridge checks on a vessel, designed to ensure safe and efficient navigation operations. It is a simple form with six fields to record the status of various critical systems on the navigation bridge. The form's purpose is to help crew members quickly and accurately report the status of these systems, promoting a culture of safety and reducing the risk of accidents. It is essential to fill in all the required fields accurately to ensure the form's purpose is met.
-</thinking>
-
 # vessel_navigation_bridge_check_form - Help Guide
 ## Purpose
 The vessel_navigation_bridge_check_form is a critical tool for ensuring the safety of the vessel and its crew during navigation operations. The form is designed to be completed by the crew member on the navigation bridge, and it provides a quick and easy way to report the status of various systems on the bridge.

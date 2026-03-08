@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is intended to collect information from individuals or groups participating in a drama festival, including their contact details, role in the festival, and scheduling requirements. We should check for internal consistency to prevent duplicate registrations.
-</thinking>
-
 # drama_festival_registration_form - Help Guide
 
 ## Purpose

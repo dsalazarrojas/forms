@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to track the progress of a home sale, providing a structured and organized way to capture key milestones and tasks related to the transaction. 
-The goal of this form is to provide a central location for agents, buyers, and sellers to access and update information about the sale, ensuring that all parties involved are on the same page and that the sale progresses smoothly. 
-This form should be used by agents, buyers, and sellers to track and document the progress of a home sale, from the initial sale date to the closing date.
-</thinking>
-
 # Buyer Sales Checklist - Help Guide
 ## Purpose
 This form is designed to track the progress of a home sale, providing a structured and organized way to capture key milestones and tasks related to the transaction.

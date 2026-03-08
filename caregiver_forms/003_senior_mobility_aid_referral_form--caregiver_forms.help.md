@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for a senior mobility aid referral. A senior mobility aid referral is a process where a caregiver or healthcare professional refers a patient to a service or resource that provides assistance with mobility-related tasks, such as transportation, bathing, or mobility aids like canes or walkers. This form collects contact information and details about the patient, as well as the urgency and priority of the referral, to help facilitate a smooth and effective referral process.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it. Also, please note that some fields may require specific formats or input types (e.g., dates, phone numbers, etc.), which will be explained in the following sections.
-
-</thinking>
-
 # senior_mobility_aid_referral_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information for a senior mobility aid referral, which is a process for referring patients to services that provide assistance with mobility-related tasks.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Tutoring Contract" which is used to collect information for students to agree to the terms of a tutoring contract. The form should only be used for students that have been matched with a tutor and should not be used if the student has already agreed to a different contract in the past. Each field on the form should be filled in as directed.
-</thinking>
-
 # Tutoring Contract - Help Guide
 ## Purpose
 This form is used to collect information for students to agree to the terms of a tutoring contract.

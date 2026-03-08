@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to provide information about a subscription they wish to cancel, enabling the relevant department to process the cancellation request efficiently and effectively. To ensure this form is used correctly, please make sure to complete it for a single, specific subscription cancellation request. Do not submit multiple cancellations on the same form. If you need to cancel multiple subscriptions, please create a new form for each one.
-</thinking>
-
 # Subscription Cancellation Claim Form - Help Guide
 
 ## Purpose

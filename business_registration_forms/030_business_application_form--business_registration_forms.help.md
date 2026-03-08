@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll ensure that the help guide is concise, concrete, and practical for end-users. After analyzing the provided YAML fields, I'll create a user-friendly help guide that covers the form's purpose, step-by-step instructions, and field explanations. I'll aim to clarify any unclear field labels and provide relevant explanations for each field.</thinking>
-
 # Business Application Form - Help Guide
 ## Purpose
 The Business Application Form is designed to collect business information for [Insert Company/Authority Name] to process your application. This form is used to gather essential details about your business, including its structure, industry, location, and other relevant particulars. Please fill out this form accurately to ensure that your application is processed efficiently.

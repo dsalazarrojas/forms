@@ -1,7 +1,3 @@
-<thinking>
-# Dance Studio Participation Release Form is a document used by dance studios to obtain informed consent from participants before enrolling them in classes, programs, or other activities. This form aims to gather essential information about the participant, their emergency contacts, and their consent to participate in studio activities. It is a crucial document that helps the studio to ensure a safe and responsible environment for everyone involved.
-</thinking>
-
 # Dance Studio Participation Release Form - Help Guide
 ## Purpose
 The Dance Studio Participation Release Form is a document designed to collect vital information from dance studio participants. This form is essential to ensure a safe and responsible environment for everyone involved.

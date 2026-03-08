@@ -1,12 +1,3 @@
-<thinking>Form purposes:
-The "Open Education Resource Contribution Consent Form" is a crucial document that helps ensure the legal and ethical use of Open Education Resources (OER) in educational settings. By filling out this form, contributors grant permission for their materials to be used, shared, and modified by others, while also providing essential information about themselves as contributors.
-
-To avoid duplication and ensure accuracy, this form is designed to be filled out once per contribution. It's essential to be completed with attention to detail to guarantee that the contributor's rights are respected and that the form's purpose is achieved.
-
-Before proceeding, please review the form carefully to ensure that you understand its purpose and the information it requires. This will help you complete the form correctly and avoid any potential issues in the future.
-
-</thinking>
-
 # Open Education Resource Contribution Consent Form - Help Guide
 ## Purpose
 The "Open Education Resource Contribution Consent Form" is a document that enables educators, authors, and contributors to grant permission for their educational resources to be used, shared, and modified in educational settings. This form ensures that contributors understand how their materials will be used and that their rights are respected.

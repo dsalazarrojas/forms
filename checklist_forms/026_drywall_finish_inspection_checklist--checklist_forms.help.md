@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my primary objective is to create a user-friendly help guide that clearly explains the purpose and usage of the "Drywall Finish Inspection Checklist" form. To accomplish this, I will analyze the provided YAML fields to understand the form's structure and requirements. I will ensure that the guide is concise, practical, and easy to follow. I will also verify that the form's purpose and fields align with the provided YAML fields to prevent duplication or misinterpretation.</thinking>
-
 # Drywall Finish Inspection Checklist - Help Guide
 ## Purpose
 The Drywall Finish Inspection Checklist is a tool designed to assess the quality and condition of drywall finishes in a given location. This form helps inspectors evaluate the drywall finish type, color, quality, and detect any defects or imperfections. It's essential for ensuring that the drywall finish meets the desired standards and requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will create a user-friendly help guide for the "return_on_investment_roi_calculation_form" form.
 
 </thinking>

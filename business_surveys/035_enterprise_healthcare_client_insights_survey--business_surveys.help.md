@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from Enterprise Healthcare clients about their experiences with the service, which will help the business to make data-driven decisions and improve their services. Before starting, please make sure you haven't completed this form before, as your responses may have already been captured. The form collects information about the client's name, contact number, email, satisfaction level, ideas for improvement, referral intent, date and time of last contact, service decisions made for them, and any additional comments they may have.</thinking>
-
 # Enterprise Healthcare Client Insights Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from Enterprise Healthcare clients about their experiences with the service, which will help the business to make data-driven decisions and improve their services.

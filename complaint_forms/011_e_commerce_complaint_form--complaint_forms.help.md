@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about a customer complaint. This form is designed to collect details about the customer's issue, the order they are concerned about, and their contact information. The form helps the customer service team to efficiently address the complaint by providing them with essential details about the problem and how to contact the customer. It's essential to fill out the form only when you have a valid complaint, to avoid wasting time and resources.
 
 ## How to Complete This Form

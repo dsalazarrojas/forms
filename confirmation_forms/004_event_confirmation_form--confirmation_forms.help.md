@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information about an event, including its details, date, time, location, and status. This form is not intended to be used for events that are already confirmed or completed. The form is designed to be completed by a user who needs to confirm their attendance to an event.
-
-The form will not be used for duplicate events, and the event status will be updated once the form is submitted.
-
-</thinking>
-
 # event_confirmation_form - Help Guide
 ## Purpose
 The event_confirmation_form is designed to gather information about an event, including its details, date, time, location, and status.

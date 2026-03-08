@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for participants to sign a liability waiver for skydiving activities. The purpose of this form is to have the participant acknowledge and accept the risks associated with skydiving and to provide necessary contact information in case of an emergency. This form is a requirement for all participants to ensure their safety and the safety of our staff and equipment.
-
-</thinking>
-
 # Skydiving Liability Waiver Form - Help Guide
 ## Purpose
 The Skydiving Liability Waiver Form is a document that outlines the risks associated with skydiving and requires the participant to acknowledge and accept those risks. It's essential to read and understand the form carefully before proceeding.

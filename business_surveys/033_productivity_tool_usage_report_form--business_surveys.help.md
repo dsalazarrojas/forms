@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the usage of productivity tools by individuals within an organization. The form is likely used by IT or management personnel to gather insights into how employees are utilizing specific tools to improve organizational productivity and efficiency. To ensure accurate and complete data collection, it's essential to understand each field's purpose and requirements. 
-
-The form collects information about the tool's usage frequency, features, and other relevant details such as organization size, vendor, and purchase date. It's possible that some fields may be optional or have specific constraints, like the 'Tool last used location' field which likely requires a more descriptive answer than a simple checkbox or select option. This form may be part of a larger organizational initiative to assess and optimize tool usage across the company.
-
-Please refer to the detailed explanations below for a comprehensive understanding of each field.
-
-</thinking>
-
 # Productivity Tool Usage Report Form - Help Guide
 
 ## Purpose

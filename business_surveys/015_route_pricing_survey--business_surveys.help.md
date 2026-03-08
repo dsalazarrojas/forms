@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Route Pricing Survey - Help Guide
 ## Purpose
 This form is designed to collect information related to route pricing surveys. The purpose of this form is to gather data on transportation costs and total costs associated with specific routes. This data will be used to help the organization make informed decisions regarding pricing strategies.

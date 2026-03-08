@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help organizations implement and maintain a WHMIS (Workplace Health and Safety) Compliance Program. WHMIS is a federal and provincial regulation that requires employers to provide workers with information and training on the hazards present in their workplace. This form helps employers to evaluate and improve their WHMIS compliance program.
-
-To ensure accuracy and completeness, please review the following questions carefully and answer them based on your organization's current practices and policies.
-
-Please note that this form is for general guidance and may not cover every nuance of WHMIS compliance. If you have any doubts or concerns, please consult with your local authorities or regulatory experts.
-
-This form is intended to be used as a guide, not a substitute for professional advice or regulatory compliance. 
-
-Please use the following sections to understand the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # WHMIS Compliance Program Checklist Form - Help Guide
 ## Purpose
 This form is designed to help organizations evaluate and improve their WHMIS (Workplace Health and Safety) Compliance Program. It covers various aspects of WHMIS compliance, including training management, hazard identification, hazard control, incident reporting, and continuous improvement.

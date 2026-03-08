@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's health and fitness class attendance eligibility in the context of the COVID-19 pandemic. The form is used to gather information about the individual's health status, contact history, and travel history, as well as their agreement to follow facility safety protocols. This information will be used to determine whether the individual can safely attend a fitness class without putting themselves or others at risk of infection.
-
-Before completing this form, please ensure that you have not visited any high-risk areas or come into contact with someone who has tested positive for COVID-19 in the past 14 days.
-
-Please note that this form is not intended to diagnose or treat any medical condition. If you are experiencing symptoms or have concerns about your health, please consult a medical professional.
-
-</thinking>
-
 # BeBody Health And Fitness Coronavirus Self-Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to assess an individual's health status and eligibility to attend a fitness class during the COVID-19 pandemic.

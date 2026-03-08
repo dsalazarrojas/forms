@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from attendees registering for the Management Consulting Forum. The form will help the registration team to verify attendee details and prepare for the event. To avoid duplication, attendees should not register multiple times for the same event. Each section is optional unless specified as required. Please refer to the form instructions for further guidance...</thinking>
-
 # Management Consulting Forum Registration Form - Help Guide
 ## Purpose
 The Management Consulting Forum Registration Form is a tool used by attendees to register for the conference and provide essential information about themselves.

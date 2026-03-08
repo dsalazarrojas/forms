@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on a quiz. The form has three questions that require single selections, and each has four options. The correct answers for each question are provided as options. The form calculates the number of correct answers based on the user's selections. This form is likely used for testing or survey purposes. The form does not require the "Calculated Number of Correct Answers" field to be filled, as it is only for display purposes.</thinking>
-
 # Quiz Form With A Calculated Number Of Correct Answers - Help Guide
 ## Purpose
 This form is designed to collect user feedback on a quiz by presenting three questions with single selections and calculating the number of correct answers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for attendees of a church conference to register for the event. The goal of this form is to collect attendee information, including name, contact details, and registration preferences, in order to ensure a smooth and enjoyable experience for all attendees. To avoid duplication, please do not submit duplicate registrations.
-</thinking>
-
 # Church Conference Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees for the church conference.

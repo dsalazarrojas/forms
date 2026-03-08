@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended to assist users in understanding the Athlete Injury Prevention Study Consent Form. The form serves as an informed consent document for athletes participating in the study, outlining the purpose, objectives, and expectations of the research study, including risks and benefits associated with participation. To avoid duplication, please ensure this guide is used only for the specific form version (ID 21).
-
-</thinking>
-
 # Athlete Injury Prevention Study Consent Form - Help Guide
 ## Purpose
 The Athlete Injury Prevention Study Consent Form is a document that outlines the terms and conditions of participation in a research study on athlete injury prevention. This guide will walk you through each section of the form to ensure you understand the requirements and expectations.

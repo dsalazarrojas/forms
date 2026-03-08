@@ -1,11 +1,3 @@
-<thinking>
-
-This is a resort complaint form used for guests to provide feedback or complaints about their stay. The form is designed to gather information about the guest's name, contact information, and details about their complaint. This form aims to ensure that the resort can address the issue in a timely and effective manner.
-
-The form will only accept one complaint per submission, to prevent duplication of efforts. If a guest has already submitted a complaint, they will not be able to submit another one.
-
-</thinking>
-
 # resort_complaint_form - Help Guide
 ## Purpose
 The resort complaint form is a tool for guests to provide feedback or complaints about their stay. It helps the resort staff to address any issues promptly and improve the overall guest experience.

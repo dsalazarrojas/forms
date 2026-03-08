@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "promotion_dispute_complaint_form" is for customers to report and submit complaints or disputes related to promotions or offers provided by businesses. This form allows customers to detail their issues, providing a clear and concise explanation of the problem, its type, and any relevant information about the promotion or order in question. The form will help customers describe the issue in a way that will be easy to understand and resolve. This form is likely to be used by customers who have experienced problems with promotions or offers they were expecting but did not receive.
-
-To prevent duplication and ensure that the form is used as intended, the form should only be completed in situations where a customer has experienced a problem with a promotion or offer provided by a business. If the customer is unsure whether their issue is related to a promotion or not, they should not complete this form.</thinking>
-
 # promotion_dispute_complaint_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Monthly Distribution Partner Report" form, we must understand the purpose and structure of the form. The form is designed to collect information about a distribution partner's sales and inventory data for the month.
 
 ## Monthly Distribution Partner Report - Help Guide

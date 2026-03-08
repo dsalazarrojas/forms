@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from patients for telehealth services, which can include video, telephone, or email visits. This form is used to ensure that patients understand their rights, responsibilities, and the scope of services they will receive from the telehealth provider. The form collects patient information, including contact details and medical condition, as well as their consent for specific services and signature type. It also captures provider information, including name and date of birth. 
-
-Before filling out this form, ensure that you have not already completed a telehealth consent form for the same purpose and date. This form is only for patients who are seeking telehealth services for the first time or have not previously completed a consent form for these specific services. 
-
-</thinking>
-
 # Telehealth Permission Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for telehealth services.

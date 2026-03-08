@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Sexual Harassment Complaint Form. This form is designed to collect information about incidents of sexual harassment, and its purpose is to provide a platform for individuals to report and document such incidents. The form is divided into several sections, each focusing on different aspects of the incident. The guide should explain each section clearly and concisely, making it easy for users to navigate and complete the form accurately.
-</thinking>
-
 # Sexual Harassment Complaint Form - Help Guide
 ## Purpose
 The Sexual Harassment Complaint Form is designed to help individuals report incidents of sexual harassment in a confidential and secure environment. The form will be used to collect information about the incident, including details about the harasser, the incident date and time, and the resolution process. This information will help the investigator to conduct a thorough investigation and take appropriate action.

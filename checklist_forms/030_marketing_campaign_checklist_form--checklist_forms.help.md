@@ -1,12 +1,3 @@
-<thinking>
-A Marketing Campaign Checklist Form is a crucial tool for marketers to ensure they cover all essential aspects of a campaign before launch. It's essential to complete this form accurately to get a clear understanding of the campaign's objectives, scope, and strategy. 
-This form is designed to gather information about marketing campaigns, and it's vital to fill it out carefully to avoid missing any critical details. 
-
-Before starting this form, review the campaign's objectives, target audience, and budget to ensure you understand the context and requirements. 
-
-Please note that some fields are required, and their absence may lead to incomplete or inaccurate campaign records.
-</thinking>
-
 # Marketing Campaign Checklist Form - Help Guide
 ## Purpose
 This form is designed to capture all the necessary details about a marketing campaign to ensure its successful execution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and document information about incidents that occur within a business or organization. Its purpose is to provide a structured way to report and track incidents, which can include accidents, errors, or any other significant events that may impact the organization's operations or employees. The form should only be used for genuine incident reporting and not for other purposes. Please do not submit duplicate incident reports.
-</thinking>
-
 # port_incident_form - Help Guide
 ## Purpose
 The port_incident_form is a structured form for reporting and documenting incidents that occur within a business or organization. Its purpose is to collect and track critical information about the incident, including date, time, location, summary, cause, effects, and status.

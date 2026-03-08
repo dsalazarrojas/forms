@@ -1,8 +1,3 @@
-<thinking>
-This form is a GMP (Good Manufacturing Practices) audit checklist, used to evaluate the compliance of a facility with regulatory standards and requirements. The purpose of this form is to ensure that the facility has adequate measures in place to maintain a high level of control over processes and systems to produce high-quality products, and to identify potential areas of improvement. This form should only be used for facilities that have already been identified as requiring a GMP audit, and should not be used as a general assessment tool for all facilities.
-
-</thinking>
-
 # gmp_audit_checklist - Help Guide
 ## Purpose
 This form is a GMP audit checklist for facilities that have already been identified as requiring a GMP audit. It is used to evaluate the compliance of a facility with regulatory standards and requirements.

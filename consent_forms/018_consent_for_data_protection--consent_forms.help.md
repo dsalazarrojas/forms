@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Form Purpose:** This form is designed to collect your consent for data protection, which is essential for our organization to process your personal data in accordance with applicable laws and regulations. By completing this form, you will be informing us about your preferences and boundaries regarding how your data will be handled. Please ensure you have a valid reason for completing this form, and it's not a duplicate request.
 
 # Consent For Data Protection - Help Guide

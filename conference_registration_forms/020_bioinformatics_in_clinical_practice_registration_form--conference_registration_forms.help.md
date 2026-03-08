@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning check: This form is designed for registration purposes of the Bioinformatics In Clinical Practice conference. It is intended to capture attendee information, including personal details, professional background, and conference preferences. The form is used to ensure that attendees are accurately registered and their needs and interests are met. It is crucial to fill in the form accurately to avoid any confusion or misrepresentation. Please ensure that you are filling in the correct information and follow the guidelines provided.
-</thinking>
-
 # Bioinformatics In Clinical Practice Registration Form - Help Guide
 ## Purpose
 This form is designed for registration to the Bioinformatics In Clinical Practice conference. It is a comprehensive form that captures your personal, professional, and conference preferences information.

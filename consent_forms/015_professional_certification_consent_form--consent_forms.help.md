@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the purpose and requirements of the "professional_certification_consent_form" form. This form is designed to collect user information, contact details, and certification-related data. To ensure the form is completed correctly, we must verify that it's not being submitted unnecessarily and that the required fields are filled out correctly.</thinking>
-
 # professional_certification_consent_form - Help Guide
 ## Purpose
 The "professional_certification_consent_form" is designed to collect user information and certification-related data for a professional certification process. Please ensure that you have the necessary permissions and consent to complete this form.

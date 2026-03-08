@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help healthcare professionals, such as nurses, quickly and accurately assess a patient's vital signs, medical conditions, and treatment needs. The form is designed to be a simple and efficient way to record key information about a patient, and can be used in a variety of clinical settings. To ensure that the form is completed thoroughly and accurately, it is essential to understand each field's purpose and how to fill it out correctly.
-
-Before completing this form, make sure you have a clear understanding of the patient's condition and the purpose of each field. If you are unsure about any field, do not hesitate to consult with a colleague or medical professional for guidance.
-
-The form is divided into several sections, each addressing a different aspect of patient care. Some fields may be marked as "required" or "optional", indicating the level of importance for that field. Please follow the instructions below to complete the form accurately and efficiently.
-
-</thinking>
-
 # Nursing Skills Checklist Form - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals assess a patient's vital signs, medical conditions, and treatment needs.

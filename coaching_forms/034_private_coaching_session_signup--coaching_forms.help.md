@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for private coaching sessions. Before proceeding, check that:
-- You are a client looking to book a private coaching session
-- You are not duplicating an existing session (e.g., you have already registered for a session on a previous form)
-</thinking>
-
 # Private Coaching Session Signup - Help Guide
 ## Purpose
 This form is used to sign up for private coaching sessions with our coaching service. Please fill out the form carefully to ensure you don't miss any important details.

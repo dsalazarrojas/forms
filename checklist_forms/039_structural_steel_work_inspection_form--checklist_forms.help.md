@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about structural steel work inspections. The form is designed to gather details about the structural steel work performed, including whether it was done, the type of steel used, the method of modification, and any other relevant details. The form also collects information about the inspector's name, date and time of inspection, and any comments about the inspection. The purpose of this form is to provide a systematic way of documenting structural steel work inspections, which is essential for quality control and assurance.
-
-Before proceeding, please ensure that this form is relevant to your specific use case and that the fields are not duplicated or redundant. If you find any errors or inconsistencies, please report them to the form designer for correction.
-
-</thinking>
-
 # structural_steel_work_inspection_form - Help Guide
 ## Purpose
 This form is designed to collect information about structural steel work inspections, providing a systematic way of documenting the process.

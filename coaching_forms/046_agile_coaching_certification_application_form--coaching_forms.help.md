@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals applying for Agile Coaching Certification. The purpose of this certification is to recognize the skills and experience of individuals who have a deep understanding of Agile principles and practices. The form is used to gather details about the applicant, their current role, experience, qualifications, and other relevant information.
-
-The form is divided into several sections, each with its own specific purpose. The "Applicant Details" section is a note section that provides an overview of the form. The "Full name" and "Email" fields are required for contact purposes. The "Current role" field allows the applicant to provide their current job title and employer. The "Years of agile coaching experience" field is a numeric field that collects the total years of experience. The "Qualifications" field is an optional field for the applicant to list relevant certifications or education. The "Statement of intent" field is a required field that asks the applicant to provide a brief statement of why they want to obtain the certification. The "Professional references" field is a required field that collects the names and contact details of two professional references. The "Supporting documents" field is an optional field that allows the applicant to describe any attachments they may have, such as a CV or case studies. The "Preferred start date" field is an optional field that allows the applicant to choose when they are available to begin the program.
-
-</thinking>
-
 # Agile Coaching Certification Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for Agile Coaching Certification.

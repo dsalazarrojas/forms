@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for the Maintenance and Construction Committee (MCC) to perform technical checklists on panels. The purpose of this form is to ensure that the panel is properly inspected and recorded. The form is not required to be completed, but it is recommended to be filled out after each inspection to keep track of the results.
-
-The form has several sections with different types of questions. The "General Checklist" section is a free-text field where the inspector can write any notes or comments. The "Electrical Checklist" section is a select-one field where the inspector can choose one of the options. The "Mechanical Checklist" section is a select-multiple field where the inspector can choose multiple options. The "Safety Checklist" section is a free-text field again. The "Maintenance Checklist" section is a select-one field where the inspector can choose one of the options. The "Notes" section is a free-text field for additional comments. The "Email", "Phone", "Date", and "Time" sections are for contact information and timestamps. The "Comments" section is a select-multiple field where the inspector can choose multiple comments. The "Technician Name", "Technician Signature", "Company Name", "Company Email", "Company Phone", "Company Address", and "Customer Name", "Customer Signature", "Customer Email" sections are for contact information.
-
-</thinking>
-
 # MCC Panel Technical Checklist - Help Guide
 ## Purpose
 The MCC Panel Technical Checklist form is a tool for the Maintenance and Construction Committee (MCC) to perform technical checklists on panels. This form helps to ensure that the panel is properly inspected and recorded.

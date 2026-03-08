@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Livestock Hygiene Program Impact Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create a Quit Claim Deed, a legal document used to transfer property ownership without requiring a title search or any other formalities. This form is typically used in real estate transactions, especially when the grantor and grantee are related or in situations where a title search is not feasible or desirable. To ensure accurate and compliant completion of this form, please review the following instructions carefully.
-</thinking>
-
 # quit_claim_deed_form - Help Guide
 ## Purpose
 The Quit Claim Deed form is used to document the transfer of ownership of a property from one individual or entity to another. This form is typically used for family transfers, transfers between family members, or situations where a title search is not required or feasible.

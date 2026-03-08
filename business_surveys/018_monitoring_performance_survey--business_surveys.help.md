@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the performance of various aspects of a business. The purpose of this form is to collect data from employees on their experiences and opinions about their team's performance over a specific period. The survey questions cover various topics such as the survey date, survey period, employee name, team leader, rating scale, comments, email, and phone number. 
-
-This form will help managers and team leaders to assess the performance of their teams and make informed decisions to improve it.
-
-Please note that all fields are optional and can be filled out as per individual preferences. 
-
-</thinking>
-
 # Monitoring Performance Survey - Help Guide
 ## Purpose
 The Monitoring Performance Survey is a form designed to collect feedback and opinions from employees about their team's performance over a specific period. 

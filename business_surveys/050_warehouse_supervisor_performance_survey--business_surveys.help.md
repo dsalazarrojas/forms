@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Supervisor Performance Survey - Help Guide
 
 ## Purpose

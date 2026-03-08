@@ -1,7 +1,3 @@
-<thinking>
-This form is used to screen employees for potential COVID-19 related health risks. The purpose of this form is to assess an employee's health status in order to identify potential risks and take necessary precautions to prevent the spread of the virus. This form should be filled out by all employees before returning to work following a period of absence or after a new employee starts. It helps to ensure that employees are aware of their health status and can provide information to their supervisors and HR department. It's also used to track the number of days since last exposure to the virus.
-</thinking>
-
 # Employee Covid 19 Screening Checklist - Help Guide
 ## Purpose
 The Employee Covid 19 Screening Checklist is a form used to assess an employee's health status in order to identify potential risks and take necessary precautions to prevent the spread of the virus.

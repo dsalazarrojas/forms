@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the Christmas Theme Contact Form is used for its intended purpose: to gather information from users about their holiday plans, traditions, and preferences. This form should not be used to solicit personal data or for any other unrelated purpose. Before filling out this form, please carefully review the fields and ensure that you are only providing relevant information. If you are unsure about any field, please contact our support team for clarification.
-
-</thinking>
-
 # Christmas Theme Contact Form - Help Guide
 ## Purpose
 The Christmas Theme Contact Form is designed to gather information from users about their holiday plans, traditions, and preferences. This form will help us better understand how we can assist you during the holiday season.

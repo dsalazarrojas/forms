@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for corporate events, such as conferences, seminars, and team-building events. It is meant to gather essential information about the event to provide accurate catering services. It is recommended that the form is filled out thoroughly to ensure that the catering team can effectively plan and prepare for the event.
-
-</thinking>
-
 # Corporate Event Catering Quotation Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information about your corporate event so that we can provide you with an accurate quotation for our catering services.

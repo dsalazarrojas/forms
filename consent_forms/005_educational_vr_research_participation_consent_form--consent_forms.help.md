@@ -1,12 +1,3 @@
-<thinking>
-This form will likely be used for educational virtual reality (VR) research participation, where participants provide their information, consent, and other relevant details for the research study.
-
-Before proceeding, please confirm that this form is suitable for your purposes. This form is an AI-generated original adaptation of a publically available survey metadata and does not contain any proprietary content from other platforms. You are free to use, modify, and even distribute this form as long as you give credit to the original creators.
-
-To ensure you get the most out of this form, please make sure to review each field carefully and answer truthfully. If you're unsure about any field, please ask your research coordinator or contact us at form@gic.mx for assistance.
-
-</thinking>
-
 # Educational VR Research Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants for educational VR research studies. It includes fields for participant details, consent, demographics, equipment, research study, survey, emergency contact, participant declaration, consent date, consent time, signature date, and signature image.

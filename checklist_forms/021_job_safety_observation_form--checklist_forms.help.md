@@ -1,5 +1,3 @@
-<thinking>...This form is designed for recording observations on the job site to identify potential safety hazards and improve workplace safety. To fill out this form, you will be asked a series of questions about the safety conditions on the job site. The form is used to collect data that will help management and safety personnel to take corrective action and prevent accidents. Before proceeding, ensure you are filling out this form for the purpose it is intended and not duplicating efforts. This form was created using AI and is not affiliated with or endorsed by any form platform. It is an original work and can be used, modified, and distributed according to the terms of CC BY 4.0. Contact: form@gic.mx if you have any questions or concerns about the form or its use.</thinking>
-
 # Job Safety Observation Form - Help Guide
 ## Purpose
 This form is designed for recording observations on the job site to identify potential safety hazards and improve workplace safety.

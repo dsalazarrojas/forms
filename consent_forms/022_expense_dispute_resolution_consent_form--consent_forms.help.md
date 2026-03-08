@@ -1,7 +1,3 @@
-<thinking>
-This form helps users resolve disputes related to employee expenses, ensuring accurate and fair treatment of claims. The form is designed to gather necessary information to investigate and address each incident thoroughly. This form should only be filled out once all other means of resolving the dispute have been exhausted and a manager or approver has directed the employee to complete it. Please ensure that you have read the company's policies and procedures regarding expense disputes before completing this form. 
-</thinking>
-
 # Expense Dispute Resolution Consent Form - Help Guide
 ## Purpose
 This form is used to gather information for expense disputes that require further investigation and resolution. It's essential to be honest and accurate when filling out this form to help resolve the dispute efficiently.

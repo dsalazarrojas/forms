@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for the Disaster Response Team to collect media-related consent and contact information from users. The form is used to ensure that media content collected during disaster response efforts complies with applicable laws and regulations. The form collects consent for the use of media (e.g. photos, videos, audio) and contact information in case further communication is required.
-
-Before proceeding, ensure that you are authorized to submit this form on behalf of your organization or entity. Duplicate submissions from the same user are discouraged to prevent confusion and potential conflicts. Please review the fields below to understand what is required and what is optional.
-
-</thinking>
-
 # disaster_response_team_media_consent_form - Help Guide
 ## Purpose
 The disaster response team media consent form is used to collect consent for the use of media during disaster response efforts. This form ensures that media content is collected in compliance with applicable laws and regulations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist form designed to gather information on new listings. The purpose of this form is to collect data on various aspects of new listings, likely for inventory management, tracking, or cataloging purposes. It is possible that this form is used by a business or organization to monitor and maintain records of new listings in their inventory or database. To complete this form, you will need to fill in the required and optional fields as instructed below. Please ensure that you have all the necessary information before filling out the form, and be aware that some fields may be optional but are still important for a complete and accurate record.
-</thinking>
-
 # new_listing_checklist_form - Help Guide
 ## Purpose
 This form is designed to collect data on new listings for inventory management, tracking, or cataloging purposes.

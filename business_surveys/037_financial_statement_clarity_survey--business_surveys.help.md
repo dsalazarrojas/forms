@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 To create a user-facing help guide for the "Financial Statement Clarity Survey" form, we need to break down the form's purpose, completion instructions, and field explanations in a clear and concise manner.
 
 **Purpose**

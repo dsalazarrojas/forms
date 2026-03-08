@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The `customer_acquisition_strategy_feedback_form` is a tool designed to gather feedback from customers on their experience with your business. This form is meant to be filled out by customers who have interacted with your company, and it will help you understand their perspective on your customer acquisition strategy. It is essential to complete this form honestly, as the feedback will be used to improve your business operations and customer experience.
 
 Before starting, please ensure you have not filled out this form before, as the feedback is meant to be unique and specific to each customer's experience.

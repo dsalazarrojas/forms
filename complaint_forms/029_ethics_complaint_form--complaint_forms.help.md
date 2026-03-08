@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form's purpose is to collect information regarding ethics-related complaints or incidents, likely from within an organization. The form asks for details about the complainant, incident, and nature of the incident, aiming to gather essential information for investigation and resolution. It's essential to ensure that users understand the form's intent and purpose before proceeding.
-</thinking>
-
 # Ethics Complaint Form - Help Guide
 ## Purpose
 The Ethics Complaint Form is designed to collect information about ethics-related complaints or incidents that occur within an organization. This form helps to gather essential details for investigation and resolution.

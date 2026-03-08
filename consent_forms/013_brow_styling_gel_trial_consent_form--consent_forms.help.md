@@ -1,7 +1,3 @@
-<thinking>
-A brow styling gel trial consent form is a critical tool for ensuring that participants in a trial or experiment understand the purpose, risks, and benefits associated with the use of a new brow gel product. It is essential to have a clear and concise form that communicates the necessary information to participants, reducing the risk of misunderstandings or misrepresentations. In this context, the form is used to gather demographic information, medical history, and consent for the trial, while also ensuring that participants have a clear understanding of the risks and benefits involved.
-</thinking>
-
 # Brow Styling Gel Trial Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in a brow styling gel trial to ensure their safety and understanding of the trial process.

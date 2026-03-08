@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record insurance payment proof for clients. It is intended to collect relevant information about the client, payment details, and claim status. This form should only be used for clients who have made payments related to insurance claims. If a payment has already been recorded in the system, this form should not be used to duplicate the entry.
-</thinking>
-
 # Insurance Payment Proof Checklist - Help Guide
 ## Purpose
 The Insurance Payment Proof Checklist form is used to gather information about client payments related to insurance claims. This form is used to record the payment proof for clients who have made payments.

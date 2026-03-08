@@ -1,7 +1,3 @@
-<thinking>
-Please provide context for the purpose and relevance of the Campus Sustainability Study Filming Consent Form to check for non-duplication of efforts and relevance of the form.
-</thinking>
-
 # Campus Sustainability Study Filming Consent Form - Help Guide
 ## Purpose
 The Campus Sustainability Study Filming Consent Form is used to gather informed consent from participants to film interviews and activities for academic research purposes. This form ensures that participants are aware of the intended use of the footage and are willing to participate in the study.

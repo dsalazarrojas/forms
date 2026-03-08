@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information and files from contributors for a podcast. It is designed to be a simple and straightforward submission process, allowing users to upload their audio files and provide necessary details about themselves and their submission. The form is intended to be used by contributors, not podcast hosts or administrators. Before proceeding, please ensure that you are submitting your own work and that you are not duplicating an existing submission. If you're unsure, you can check our list of previously submitted podcasts to see if it already exists. Please provide accurate and up-to-date information in the form.
-</thinking>
-
 # Podcast Audio Submission Upload Form - Help Guide
 ## Purpose
 This form is used by contributors to upload their audio files and provide necessary details about themselves and their podcast submissions.

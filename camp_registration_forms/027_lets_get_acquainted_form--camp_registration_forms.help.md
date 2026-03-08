@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, I need to create a help guide for an internal "Let's Get Acquainted" form used in the context of a summer camp setting, likely for campers and their families. The form likely aims to gather information about each camper, including their details, allergies, diet restrictions, and other relevant factors. Before proceeding with the guide, I'll analyze the form's purpose and structure to ensure it's clear and practical for end-users. This form appears to be a comprehensive collection of camper information, possibly for camp administrators or counselors to prepare for the summer camp experience.
-
-The form's structure includes various fields, such as text fields for personal details, select_one and select_multiple fields for allergies, diet restrictions, and hobbies, and select_one fields for camp organization and past experiences. There are also text fields for camper notes and counselor/administrator notes. The fields seem to be designed to be mostly optional, with some fields being required to ensure camper safety and camp preparation.
-
-Given the form's layout, I will create a clear and concise help guide to assist users in completing the form correctly and effectively.
-
-</thinking>
-
 # Lets Get Acquainted Form - Help Guide
 ## Purpose
 The "Lets Get Acquainted" form is designed to gather essential information about each camper to ensure a safe and enjoyable summer camp experience. This information will be used to prepare camp administrators, counselors, and other staff members to cater to each camper's needs.

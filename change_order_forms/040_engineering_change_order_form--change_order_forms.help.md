@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document changes made to the engineering process. It is intended for use by engineers to submit changes to the process for review and approval. The form ensures that all necessary information is captured and documented for future reference. Before filling out this form, please ensure that you have a valid reason for the change and that it is not a duplicate change. If you are unsure about the purpose or requirements of this form, please consult with your supervisor or review the engineering process documentation.</thinking>
-
 # Engineering Change Order Form - Help Guide
 ## Purpose
 

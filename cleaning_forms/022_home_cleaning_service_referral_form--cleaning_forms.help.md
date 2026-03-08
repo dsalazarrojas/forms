@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information for a home cleaning service referral. It is likely used for marketing or customer service purposes to track referrals from customers. To complete this form, the user will be asked to select a service option, provide personal details, address information, and specific tracking information for marketing and analytics purposes.
-
-This form is likely used to prevent duplicate referrals, as it requires a combination of personal and tracking information that would make it difficult to create multiple referrals with the same details.
-
-To complete the form, the user will need to select a service option, provide their first name, last name, email, phone number, and address information. They will also need to provide specific tracking information, including the date and time of the referral, and medium and term used for the referral.
-
-</thinking>
-
 # home_cleaning_service_referral_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a home cleaning service referral.

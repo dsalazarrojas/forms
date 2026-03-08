@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a Christmas Secret Santa gift-giving activity within the company. The form is meant to be completed by participants who want to participate in the activity, and it's essential to ensure that each participant has a unique form ID to avoid duplicates. This form will be used to determine who will be the recipient, what gift ideas are acceptable, and other relevant details for the Secret Santa activity.
-
-</thinking>
-
 # secret_santa_form - Help Guide
 ## Purpose
 This is the Secret Santa form, designed for the company's Christmas gift-giving activity. Please fill out this form to participate and let us know your preferences and details.

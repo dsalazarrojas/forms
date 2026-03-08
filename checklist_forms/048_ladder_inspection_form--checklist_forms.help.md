@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect inspection data for ladders. This form guides users through a series of steps to document the condition and details of a ladder inspection. The form is designed to be used by personnel responsible for inspecting ladders in a workplace or facility. 
-
-To ensure the form is completed accurately and efficiently, users should review the form carefully and ensure they understand each field's relevance and required status. The form should not be duplicated or used for non-inspection purposes. 
-
-Please note that the form's layout and fields may be adjusted or updated based on changing operational needs or regulatory requirements. 
-
-</thinking>
-
 # Ladder Inspection Form - Help Guide
 
 ## Purpose

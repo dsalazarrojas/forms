@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect conference registration information from individuals who are interested in attending a healthcare workforce inclusion forum. This form likely aims to gather details about the conference itself, such as the attendee's name and contact information, accessibility needs, and payment details, as well as confirmation of important event-related information such as registration status, email address, phone number, date, time, timezone, city, address, state, and zip code.
-The form is likely designed for attendees who want to register for the conference and provide all necessary details, including their contact information and preferences.
-
-Before filling out the form, make sure to review the following:
-
-- The form is divided into several sections, each with its own set of fields.
-- All fields are required, except for "Conference Details" which is optional.
-- The "Confirm Registration" field is a dropdown menu with multiple options. 
-- The "Confirm Email", "Confirm Phone", "Confirm Date", "Confirm Time", "Confirm Timezone", "Confirm City", "Confirm Address", "Confirm State", and "Confirm Zip" fields are all required to confirm the attendee's registration information.
-</thinking>
-
 # healthcare_workforce_inclusion_forum_registration - Help Guide
 ## Purpose
 This form is used to collect conference registration information from attendees of the healthcare workforce inclusion forum. 

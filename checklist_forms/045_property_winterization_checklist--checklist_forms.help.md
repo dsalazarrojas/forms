@@ -1,11 +1,3 @@
-<thinking>
-This form is a property winterization checklist designed to help users inspect and prepare properties for winter conditions. It's meant to be filled out by someone, likely a real estate or facility manager, who will be inspecting the property and documenting the status of winter preparation.
-The form asks for the property name, address, type, and winter preparation status. It also asks for the date of the inspection, the name and company of the inspector, and a notes section for any additional comments.
-The form does not seem to be intended for a specific region or jurisdiction, so it's possible that the winter preparation status is a general term and not specific to any particular area.
-The form does not ask for any additional details such as winterization checklist items that need to be checked, but it does ask for a list of items that should be inspected and possibly checked off. This could be a misunderstanding or a placeholder for a section that was meant to be included in the form but was left out.
-The form could be used for various purposes such as property inspection, maintenance, or management.
-</thinking>
-
 # property_winterization_checklist - Help Guide
 ## Purpose
 This form is a property winterization checklist designed to help users inspect and prepare properties for winter conditions.

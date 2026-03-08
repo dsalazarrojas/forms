@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # payment_confirmation_form - Help Guide
 
 ## Purpose

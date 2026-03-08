@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting instances where a delivery was not made on time. The form is part of a larger system for tracking and improving delivery processes. Before filling out this form, please ensure that you are reporting a real instance of a delayed delivery and not duplicating an existing report. If you're unsure, you can check with a supervisor or colleague.
-</thinking>
-
 # Distribution Timeliness Report Form - Help Guide
 ## Purpose
 This form is used to report instances where a delivery was not made on time. Please fill out this form to document the delay and help us identify areas for improvement in our delivery process.

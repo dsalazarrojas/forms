@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the current financial system being used by an organization and the system they plan to migrate to. This form is likely to be used by IT or finance teams to assess the feasibility of migrating to a new system and understand the challenges and opportunities involved. This form should not be filled out by anyone who has not been asked to do so by an IT or finance team member. 
-</thinking>
-
 # Financial System Migration Survey - Help Guide
 ## Purpose
 The Financial System Migration Survey is a form used to gather information about the current financial system and the system being migrated to. It is intended for IT and finance teams to assess the feasibility of migrating to a new system and understand the challenges and opportunities involved.

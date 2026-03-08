@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to report issues related to transactions, likely for the purpose of tracking and resolving problems or errors that have occurred during a transaction. This form is likely used by employees or customers to report issues such as incorrect transactions, failed payments, or other transaction-related problems. Before filling out this form, please make sure you're not reporting the same issue multiple times, as it may result in duplicate work and confusion. This form is intended to be a simple and straightforward way to gather essential information about the transaction issue, making it easier for the team to identify and resolve the problem. The fields in this form are designed to help gather all the necessary details to understand the nature and impact of the transaction issue.
-</thinking>
-
 # Transaction Issues Report - Help Guide
 
 ## Purpose

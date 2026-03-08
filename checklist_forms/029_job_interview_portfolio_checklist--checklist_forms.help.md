@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive checklist for job interviews, covering various aspects of the hiring process. The form is designed to collect information about the candidate's job application, interviewer, evaluation, recommendations, and other relevant details. It seems to be used for internal purposes, possibly for tracking and analyzing interview performance or evaluating candidates.
-
-Before diving into the detailed explanations of each field, let's clarify that this form is not for general public use, as some fields might be specific to internal processes or sensitive information. Therefore, this guide will provide explanations that are relevant to internal staff who need to complete the form for their work tasks.
-
-</thinking>
-
 # job_interview_portfolio_checklist - Help Guide
 ## Purpose
 This form is a checklist for job interviews, used by internal staff to track and analyze various aspects of the hiring process. It helps in maintaining accurate and organized information about each candidate, interview, and evaluation process.

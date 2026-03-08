@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used to capture the consent of a facility manager or administrator regarding the use and publication of photographs taken at their facility. The purpose of this form is to ensure that the facility's privacy and security concerns are respected. The form may be used by facility administrators to give their consent for photographs taken on their premises to be published in various media channels. The form will likely be used in conjunction with other forms and processes to ensure that all necessary permissions and approvals are obtained before publishing the photographs.
-</thinking>
-
 # Facility Photography Publication Consent Form - Help Guide
 ## Purpose
 This form is used to capture the consent of a facility manager or administrator regarding the use and publication of photographs taken at their facility.

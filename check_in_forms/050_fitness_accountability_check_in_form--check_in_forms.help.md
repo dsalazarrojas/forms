@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user data for fitness accountability, tracking, and reporting. The purpose of this form is to ensure users can provide accurate and consistent information about their fitness activities, exercise frequencies, exercise durations, and other relevant health metrics. The form will be used by administrators to monitor user progress and provide personalized feedback. Users are encouraged to fill out the form regularly to maintain accurate records and receive constructive feedback.
-
-The form is divided into several sections, each designed to gather specific information about a particular aspect of fitness and health. Users are not required to fill out every section, but providing accurate information will help administrators provide more effective support.
-
-Before starting, please ensure you have all the necessary information ready, as this form is meant to be filled out in one session. If you need to revisit the form, you may need to start from the beginning.
-
-</thinking>
-
 # Fitness Accountability Check In Form - Help Guide
 ## Purpose
 The Fitness Accountability Check In Form is designed to track and monitor users' fitness activities, providing a comprehensive overview of their progress and allowing for personalized feedback from administrators.

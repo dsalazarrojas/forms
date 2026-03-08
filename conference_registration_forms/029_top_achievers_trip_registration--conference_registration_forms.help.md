@@ -1,17 +1,3 @@
-<thinking>
-This form is for conference participants to register their trip details. The form collects personal and travel-related information such as participant's name, travel dates, flight details, accommodation preferences, and travel documents.
-
-To complete this form, follow these steps:
-
-1. Fill in the participant's details in the **Participant Details** section, including name, travel dates, accommodation preferences, flight details, and any relevant travel documents.
-2. Select the preferred travel class (e.g., Economy, Business, First Class) in the **Trip Preferences** section.
-3. Choose the accommodation type (Hotel, Hosted, Self Catering) in the **Accommodation** section.
-4. Select the flight type (Economy, Business, First Class) in the **Flight Preferences** section.
-5. Fill in the flight details in the **Flight Details** section, including flight number and arrival/departure dates.
-6. Select the travel document type and attach any relevant documents in the **Travel Document** section.
-
-</thinking>
-
 # Top Achievers Trip Registration - Help Guide
 ## Purpose
 This form is for conference participants to register their trip details.

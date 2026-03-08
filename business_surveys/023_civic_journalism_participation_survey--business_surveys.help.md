@@ -1,27 +1,3 @@
-<thinking>
-
-This form is designed to understand the engagement and behavior of local residents with local news and community reporting. The purpose of this form is to gather information on how often residents follow local community news, their primary sources for information, their level of trust in local media outlets, and their interest in contributing to local journalism. This form will help to identify areas where residents may be interested in contributing, and what types of contributions they may be willing to make.
-
-The form will gather information on the following:
-
-* How often residents follow local community news
-* Residents' primary sources for local information
-* Level of trust in local media outlets
-* Interest in contributing to local journalism
-* Types of content residents would be willing to provide
-* Topics of interest for local coverage
-* Frequency of attending public meetings
-* Use of apps to report community issues
-* Barriers to participating in local news
-* Interest in attending a workshop on citizen journalism and ethics
-* Demographics (age)
-* Availability for follow-up questions from a reporter
-* Contact information (email, optional)
-
-This form will help to identify areas where local journalism can improve, and where residents may be interested in contributing their skills and knowledge to local reporting. 
-
-</thinking>
-
 # Civic Journalism Participation Survey - Help Guide
 ## Purpose
 This form is designed to gather information from local residents on their engagement and behavior with local news and community reporting.

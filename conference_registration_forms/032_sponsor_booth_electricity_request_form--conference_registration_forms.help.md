@@ -1,5 +1,3 @@
-<thinking>... I'm assuming that this form is used to manage the electricity requirements for sponsor booths at a conference/event, and that the goal is to provide a comprehensive guide for end-users to understand the purpose and usage of the form... I'm also assuming that the form is used to collect information about the power needs and installation details for each sponsor booth. If I'm wrong, please provide more context or clarify the form's purpose and usage... </thinking>
-
 # Sponsor Booth Electricity Request Form - Help Guide
 ## Purpose
 This form is used to manage the electricity requirements and installation details for sponsor booths at a conference/event.

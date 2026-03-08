@@ -1,7 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and non-duplicative, we need to verify that the provided form YAML is consistent and well-structured.
-</thinking>
-
 # Expense Reimbursement Form With Calculations - Help Guide
 ## Purpose
 This form is designed for submitting expense reimbursement requests, including detailed calculations for various scenarios. It's intended for employees to provide accurate financial information for reimbursement purposes.

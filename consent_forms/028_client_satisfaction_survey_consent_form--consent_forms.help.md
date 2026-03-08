@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about client satisfaction and feedback after a service has been provided. The form is intended to help us understand your experience and opinions on our service. We will not store or share any information that you provide without your consent. This form is for voluntary participation, and you may choose to remain anonymous if you wish. Please review each field carefully before providing your responses.
-
-</thinking>
 # Client Satisfaction Survey Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from users for updates to digital security software. This form is typically used by system administrators or IT staff to manage access to software updates. It is essential to complete this form to ensure that users are aware of and agree to the changes made to the digital security software.
-</thinking>
-
 # digital_security_software_update_consent_form - Help Guide
 ## Purpose
 

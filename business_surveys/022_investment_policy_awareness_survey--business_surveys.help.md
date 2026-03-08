@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the awareness of investment policies within an organization, specifically from finance, compliance, and HR departments. It is intended to gauge the level of understanding of these policies among employees and identify areas where more training or support is needed. This form is likely used by management to assess the knowledge and compliance of employees with investment policies, and to identify potential risks and areas for improvement. 
-This form is not meant to be a comprehensive audit of financial activities or compliance, but rather a tool for awareness and education. It is expected that the respondents will be employees of the organization, specifically from finance, compliance, and HR departments. 
-The form is not intended to be used for any other purpose than as an internal awareness and compliance tool. 
-
-</thinking>
-
 # Investment Policy Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gauge the level of awareness and understanding of investment policies among employees of the finance, compliance, and HR departments. The survey is meant to be a tool for awareness and education, and is not a comprehensive audit of financial activities or compliance.

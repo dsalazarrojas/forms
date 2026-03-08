@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Complaint Information Form - Help Guide
 ## Purpose
 The HR Complaint Information Form is designed to gather relevant information regarding employee complaints. This form helps HR departments collect and track complaints in an organized and structured manner. **Please ensure that you are filling a complaint form for the correct reason and not duplicating efforts.** If you are unsure, contact HR or your supervisor for guidance.

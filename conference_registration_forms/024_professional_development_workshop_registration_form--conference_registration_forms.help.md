@@ -1,7 +1,3 @@
-<thinking>
-To ensure we provide accurate and relevant information to our users, we first want to verify that this form is being used for its intended purpose. This form is intended to register participants for a professional development workshop, which may involve selecting a workshop type, providing contact information (first and last name, email address, and phone number), confirming email address, and selecting a preferred tool for communication (e.g., chatjimmy, Google Forms, or Paper Trail). The workshop may also involve selecting a date and time for the workshop, and providing any additional comments or questions. We'll double-check that the form is not being used for any other purpose or in any other context to provide the most accurate and useful information to our end-users.
-</thinking>
-
 # professional_development_workshop_registration_form - Help Guide
 ## Purpose
 This form is used to register participants for a professional development workshop. It collects the necessary information for the workshop organizers to communicate with participants and facilitate a smooth workshop experience.

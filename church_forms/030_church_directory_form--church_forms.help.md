@@ -1,9 +1,3 @@
-<thinking>
-The Church Directory Form is designed to collect essential information from church families, ensuring that their contact details are accurate and up-to-date. This form helps us build a comprehensive directory that serves the church community better.
-It's essential to fill out this form carefully and correctly, as it will be used for internal purposes and may be accessed by other church members. Please review each field carefully to ensure that you provide the right information.
-To avoid duplication, please check the existing directory before submitting your family's information. If your family is already listed, you can update your existing entry instead of submitting a new one.
-</thinking>
-
 # Church Directory Form - Help Guide
 ## Purpose
 The Church Directory Form is designed to collect essential information from church families, ensuring that their contact details are accurate and up-to-date. This form helps us build a comprehensive directory that serves the church community better.

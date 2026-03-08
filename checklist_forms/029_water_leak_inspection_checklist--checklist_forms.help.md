@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and track water leak inspections. The form is used to gather information about a building's water leak status, including the building's location, type, and plumbing system. It also includes fields for the inspector's name, date and time of the inspection, and the water leak status. The form is likely used by maintenance or facilities management teams to identify and address potential water leaks. This form does not have any required fields.
-</thinking>
-
 # Water Leak Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to document and track water leak inspections for a building.

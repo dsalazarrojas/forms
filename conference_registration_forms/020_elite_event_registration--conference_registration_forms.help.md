@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect registration information from attendees for an event. The form will be used to capture attendee details, event preferences, contact information, and other relevant details. This will help the event organizers to manage the event registration process efficiently and ensure that all attendees are aware of the event details. This form should not be completed by anyone who is not registering for the event.
-
-</thinking>
-
 # Elite Event Registration - Help Guide
 ## Purpose
 The Elite Event Registration form is designed to gather information from attendees for an event. This form will help you to provide essential details about the event, allowing us to better understand your needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a Valentine's Day-themed order form for DIY craft kits. It should gather information from customers about their order, including details about the customer, contact information, product selection, payment methods, and delivery preferences. This form is likely used by an online store or e-commerce platform to process orders for these DIY kits.
-</thinking>
-
 # valentine diy kits order form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for ordering DIY craft kits for Valentine's Day. The form is designed to be completed by customers who want to purchase these kits online.

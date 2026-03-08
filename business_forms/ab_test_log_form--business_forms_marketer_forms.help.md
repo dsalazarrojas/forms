@@ -1,7 +1,3 @@
-<thinking>
-The AB Test Log Form is used to document and track the progress of A/B tests. This form is used to collect information about each test, including its title, test type, hypothesis, primary metric(s), baseline conversion rate, expected lift, sample size required, test start date, test end date, variant details, statistical significance status, winning variant conversion rate, business priority, implementation plan, analytics contact email, and additional comments or learnings. This form is intended for users to provide a clear and concise overview of the test, including its purpose, methodology, and outcome. It's likely used by business professionals in the field of digital marketing and product development.
-</thinking>
-
 # AB Test Log Form - Help Guide
 ## Purpose
 The AB Test Log Form is used to document and track the progress of A/B tests, providing a clear and concise overview of each test, including its purpose, methodology, and outcome.

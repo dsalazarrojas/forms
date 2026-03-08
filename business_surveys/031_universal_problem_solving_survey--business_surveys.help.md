@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for internal use by employees to assess their problem-solving skills and job satisfaction. The form is intended to gauge an employee's self-perceived ability to tackle common business problems and their job satisfaction level. It is a self-assessment tool that is not meant to be a formal evaluation of performance. Please note that this form should not be used for official performance reviews or evaluations.
-</thinking>
-
 # Universal Problem Solving Survey - Help Guide
 ## Purpose
 The Universal Problem Solving Survey is a self-assessment tool that helps employees evaluate their ability to tackle common business problems and their job satisfaction level.

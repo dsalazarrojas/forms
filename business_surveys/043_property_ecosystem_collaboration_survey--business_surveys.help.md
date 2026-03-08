@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Property Ecosystem Collaboration Survey" form. This form is used to collect information from property owners and organizations about their properties. The survey aims to understand how these organizations collaborate with each other, their contact details, property specifics, and other related information. It's essential to ensure that all the required fields are filled in correctly to get accurate results.
-
-Before proceeding, please note that this form does not require any personal data or sensitive information. It's a collaboration tool meant to foster better relationships between property owners and organizations. If you're unsure about any field or have questions, please refer to this help guide for clarification.
-
-This guide will walk you through each page of the form, explaining what each section is meant to collect and how to fill it correctly.
-
-</thinking>
-
 # Property Ecosystem Collaboration Survey - Help Guide
 ## Purpose
 This form helps property owners and organizations share their information, enabling more effective collaboration and communication within the property ecosystem.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for users who want to submit complaints on a forum. To ensure that the form is filled out correctly and not duplicated, we first check if there are any existing open complaints for the same issue. If there are no open complaints, we then check if the issue is already resolved. 
 
 # Forum Complaint Form - Help Guide

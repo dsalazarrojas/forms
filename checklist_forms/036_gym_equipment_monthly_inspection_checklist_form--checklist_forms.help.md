@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "Gym Equipment Monthly Inspection Checklist Form" to ensure that end-users understand its purpose, how to complete it, and each field's meaning. The form is designed to help users inspect and report the status of various gym equipment on a monthly basis. This form will help identify any issues with the equipment, ensure that all equipment is in good working condition, and prevent accidents or injuries. It's essential to complete this form regularly to maintain a safe and well-maintained gym environment.
-</thinking>
-
 # Gym Equipment Monthly Inspection Checklist Form - Help Guide
 ## Purpose
 The Gym Equipment Monthly Inspection Checklist Form is used to inspect and report the status of various gym equipment on a monthly basis. This form helps identify any issues with the equipment, ensure that all equipment is in good working condition, and prevent accidents or injuries.

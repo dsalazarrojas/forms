@@ -1,8 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I've reviewed the provided YAML for the Business School Advisory Committee Survey form. The purpose of this form is to gather feedback and insights from advisory committee members on various aspects of the business school, including curriculum relevance, graduate skill development, and faculty qualifications. This form will help the business school administration understand the effectiveness of their programs and identify areas for improvement. It's essential to ensure that this form is completed by the right individuals, i.e., advisory committee members, to obtain accurate and relevant feedback. Please note that this form should not be used for other purposes or by people without the necessary authority and expertise.
-
-</thinking>
-
 # Business School Advisory Committee Survey - Help Guide
 ## Purpose
 The Business School Advisory Committee Survey is a form designed to collect feedback from advisory committee members on various aspects of the business school, including curriculum relevance, graduate skill development, and faculty qualifications. Your input will help the school administration understand the effectiveness of their programs and identify areas for improvement.

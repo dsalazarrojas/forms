@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used to collect accurate and relevant information about the forensic examination process. This form should only be used for cases that are not already documented in the system. Before filling out this form, please verify that the case is not already in the system.
-</thinking>
-
 # Forensic Examination Checklist - Help Guide
 ## Purpose
 The Forensic Examination Checklist is used to collect and document information about a case that is being investigated or examined. This form should be filled out by the examiner or investigator who is conducting the examination.

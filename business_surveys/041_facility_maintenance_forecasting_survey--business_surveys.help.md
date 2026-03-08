@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about facility maintenance forecasts. Before proceeding, please ensure that you are familiar with the maintenance forecasting process and have the necessary information to complete this form accurately. To avoid duplication of effort, please note that this form is intended for new facility maintenance requests, not for updating existing information. If you need to update an existing facility, please use a different form.
-
-</thinking>
-
 # Facility Maintenance Forecasting Survey - Help Guide
 ## Purpose
 The Facility Maintenance Forecasting Survey is a form used to collect information for facility maintenance forecasts. It helps maintenance teams to better understand the maintenance needs and schedules of facilities and assets within them.

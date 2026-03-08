@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's briefly consider the purpose and context of the form. This "Daily Vehicle Inspection Report" form appears to be designed to gather information about the overall condition and functionality of a vehicle after a regular inspection. The form collects data on various aspects of the vehicle, such as engine, transmission, brakes, suspension, steering, and other critical systems. The form likely aims to provide a comprehensive overview of the vehicle's condition, helping identify potential issues or maintenance needs. To confirm the form's purpose and context, let's ensure the guide accurately reflects this understanding.</thinking>
-
 # daily_vehicle_inspection_report - Help Guide
 ## Purpose
 The Daily Vehicle Inspection Report form is designed to gather information about the overall condition and functionality of a vehicle after a regular inspection. This form helps identify potential issues or maintenance needs, ensuring the vehicle's safety and performance.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being created to inform end-users on how to properly complete the National Online Forensics Competition Registration form. The form is designed to collect information from participants and their coaches in the National Online Forensics Competition. It is intended for participants and coaches to provide their details such as name, email, school affiliation, event choices, and other relevant information. This form is only for individuals participating in the National Online Forensics Competition. Please ensure that you have the necessary permission or clearance from your school or organization to participate in this competition. It is also essential to fill out the form accurately and completely to avoid any issues or delays during the competition process.
-
-This form is for one-time submission and should only be filled out once by each participant and their coach.
-</thinking>
-
 # National Online Forensics Competition Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect participant and coach information for the National Online Forensics Competition.

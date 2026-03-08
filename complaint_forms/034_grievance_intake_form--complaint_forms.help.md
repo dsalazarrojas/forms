@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # grievance_intake_form - Help Guide
 ## Purpose
 The grievance intake form is designed to collect detailed information about complaints or issues reported by users. This form helps us understand the nature of the issue, its category, and the steps taken to resolve it. Please fill out this form to ensure that we address your concern efficiently and effectively.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used to explain the purpose and usage of the stock management survey form to end users.
-
-The purpose of this form is to collect information about stock management practices and policies within the organization. It aims to gather data on the current state of stock inventory, purchasing habits, and overall satisfaction with the current stock management practices. This information will help in identifying areas of improvement and making data-driven decisions to optimize stock management.
-
-Before proceeding, ensure that you are familiar with the current stock management practices and policies within your organization. This guide will walk you through each page of the form and explain each field in detail.
-
-</thinking>
-
 # stock_management_survey - Help Guide
 ## Purpose
 This form is designed to collect data on stock management practices and policies within the organization. It aims to gather information on current stock levels, purchasing habits, and overall satisfaction with stock management practices.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their favorite Christmas-related topics, such as favorite stories, gifts, foods, and songs. It will be used to help the Santa's office better understand user preferences and interests. This form will not collect any sensitive or personal information, and all answers will be kept anonymous. Please note that not all fields are required, but the ones marked as required will need to be filled in order to proceed.
-</thinking>
-
 # Santa_quiz - Help Guide
 ## Purpose
 The santa_quiz form is designed to collect information about users' favorite Christmas-related topics to help the Santa's office better understand user preferences and interests.

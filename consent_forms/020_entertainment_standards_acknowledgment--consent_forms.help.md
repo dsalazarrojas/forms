@@ -1,8 +1,3 @@
-<thinking>
-This form is for entertainment standards acknowledgment, which is a process to ensure that a project meets the required standards of the entertainment industry. The purpose of this form is to gather information about a project, including project details, standards compliance, roles involved, and other relevant data. To complete this form, follow the guidelines below.
-
-</thinking>
-
 # Entertainment Standards Acknowledgment - Help Guide
 ## Purpose
 This form is for entertainment standards acknowledgment, which is a process to ensure that a project meets the required standards of the entertainment industry.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect daily work reports from team members. It's essential to fill out this form to ensure that work progress and activities are tracked and monitored effectively. This report is usually sent to the supervisor or manager for review and analysis. Ensure you're not filling out multiple reports on the same day for duplicate work. 
-
-Please note that this form will only be used for the daily work report, hence do not fill in any irrelevant or personal information. 
-
-The purpose of this guide is to provide a concise explanation of each field in the form to make filling it out easier and more efficient for the end users. 
-
-</thinking>
-
 # Daily Work Report - Help Guide
 ## Purpose
 The Daily Work Report is designed to collect essential information about a team member's work activities and progress. This report is used to keep track of tasks, time spent, and any other relevant details that need to be reported for review and analysis.

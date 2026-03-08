@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect consent from a pet owner for DNA sample testing. The form should only be used for testing purposes, and the owner's details, contact information, and pet's details should be accurate and up-to-date. To ensure the form is being used correctly, please review each field carefully and enter relevant information.
-
-</thinking>
-
 # pet_dna_sample_testing_consent_form - Help Guide
 ## Purpose
 This form is used to collect consent from pet owners for DNA sample testing. It is essential to have the owner's consent before proceeding with any testing.

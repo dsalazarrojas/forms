@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this listing_cancellation_form? This form is intended to facilitate the cancellation of listings. It captures information about the cancellation reason, listing status, and other relevant details. It should not be used for other purposes such as listing creation or editing.</thinking>
-
 # listing_cancellation_form - Help Guide
 ## Purpose
 The listing_cancellation_form is used to cancel a listing. Please use this form to provide a clear and concise explanation of the cancellation reason and status.

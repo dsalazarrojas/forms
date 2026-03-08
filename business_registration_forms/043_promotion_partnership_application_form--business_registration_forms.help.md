@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for potential partners to apply for promotion partnership with our organization. It is essential to provide accurate information to increase the chances of a successful partnership. 
-
-Before you start, ensure you have not submitted any other application for the same promotion partnership. Duplicate submissions will lead to rejection.
-
-This form requires a combination of basic personal details and partnership-specific information. Please ensure you provide accurate and honest answers to avoid delays or further communication.
-</thinking>
-
 # Promotion Partnership Application Form - Help Guide
 ## Purpose
 The Promotion Partnership Application Form is designed to gather essential information from potential partners interested in promoting our organization. It helps us understand their needs, interests, and capabilities to determine the potential fit for a successful partnership.

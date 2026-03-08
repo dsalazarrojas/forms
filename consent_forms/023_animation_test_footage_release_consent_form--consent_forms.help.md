@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animation Test Footage Release Consent Form - Help Guide
 ## Purpose
 This form is used to obtain release and consent permissions from individuals who have contributed to animation test footage. The purpose of this form is to ensure that all parties involved are aware of and agree to the usage and dissemination of their work. By filling out this form, contributors will be able to specify their preferences for the release and use of their test footage, including permission for public sharing, educational use, and archival purposes.

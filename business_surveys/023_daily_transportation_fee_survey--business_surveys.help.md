@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "daily transportation fee survey" form, we must first understand the purpose of this form and how it will be used in a business context. This form appears to be a structured questionnaire aimed at gathering information about an individual's or organization's daily transportation habits, specifically regarding fees and methods of commuting. The form likely seeks to collect data on the frequency, cost, and modes of transportation used for daily commutes. This information will be crucial for businesses to understand employee commuting habits, which can inform policies and decisions related to transportation fees, employee benefits, and even company culture.
-
-However, to ensure this form serves its intended purpose effectively, it's essential to verify whether there are any existing similar forms or surveys within the company that might overlap with or complement this form's objectives. Duplication of efforts should be avoided, and the new form should either replace or work alongside existing ones to prevent data redundancy and confusion among end-users.
-
-Given the form's layout and fields, it seems to be designed to collect both qualitative and quantitative data on commuting habits, including methods, costs, frequencies, and satisfaction levels. Each section or field is aimed at extracting specific insights or metrics that can help businesses make informed decisions. 
-
-Before proceeding, let's review the form's components and provide a concrete, concise, and practical user guide for the end-user, ensuring they understand the form's purpose and how to complete it efficiently.
-
-</thinking>
-
 # daily transportation fee survey - Help Guide
 ## Purpose
 The daily transportation fee survey is designed to gather information about your daily commuting habits, specifically regarding methods, costs, and satisfaction levels. This data will help our organization make informed decisions on transportation policies and benefits for employees.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for applicants to register for the Sports Summer Camp. It is designed to gather information about the applicant's sports preference, contact details, and any additional information they may want to share. This form is not meant to be completed by parents or guardians, as it is primarily intended for the applicants themselves.
-</thinking>
-
 # Sports Summer Camp Application Form - Help Guide
 ## Purpose
 The Sports Summer Camp Application Form is a registration form designed for campers to apply for the sports summer camp program.

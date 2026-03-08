@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Maladministration Reporting Form, I must first consider the purpose and intent behind the form. 
-
-This form appears to be designed for users to report incidents or complaints in a structured and standardized manner, allowing for efficient collection of relevant information. 
-
-However, upon closer inspection, it seems that some fields are duplicates or have similar labels, which may cause confusion for users. 
-
-For example, `incident_type` and `incident_type_2` are both labeled as "incident_type", but have different options and labels. This may lead to user confusion. 
-
-Similarly, `reporting_status` and `reporting_status_2` both seem to be asking for the same information, but with different labels. 
-
-To create a clear and concise help guide, I will focus on the purpose of the form as a whole, and provide explanations for each field that will help users understand its intent and relevance.
-
-</thinking>
-
 # Maladministration Reporting Form - Help Guide
 ## Purpose
 This form is designed to allow users to report incidents or complaints in a structured and standardized way, helping to streamline the reporting process and facilitate effective communication.

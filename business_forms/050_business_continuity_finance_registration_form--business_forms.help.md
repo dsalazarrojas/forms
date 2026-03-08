@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the Business Continuity Finance Registration Form is used for its intended purpose and that users don't submit duplicate forms. The form is designed to gather information from businesses affected by disruptions, such as natural disasters, pandemics, or economic downturns, to help them access the necessary financing to recover. To avoid duplication, users should only submit one form per business. This form is intended for businesses with a clear need for financing to recover from a disruption and should not be used for routine or general business inquiries.
-
-</thinking>
-
 # Business Continuity Finance Registration Form - Help Guide
 
 ## Purpose

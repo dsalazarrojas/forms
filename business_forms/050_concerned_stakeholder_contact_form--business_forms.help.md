@@ -1,7 +1,3 @@
-<thinking>
-To confirm, we are creating a help guide for the "Concerned Stakeholder Contact Form" that will be used to collect contact information and concerns from stakeholders. This form will be used by internal teams to gather information and potentially follow up with stakeholders for more details or to discuss potential resolutions. To ensure that this guide is comprehensive and accurate, we will follow the structure below.
-</thinking>
-
 # Concerned Stakeholder Contact Form - Help Guide
 ## Purpose
 This form is used to collect contact information and concerns from stakeholders who are raising issues or concerns that may require further discussion or resolution. Please fill out this form to provide us with the necessary information to address your concerns effectively.

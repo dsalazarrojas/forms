@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "Social Media Engagement Metrics Report Form" to ensure end-users understand its purpose and how to complete it effectively.
-</thinking>
-
 # Social Media Engagement Metrics Report Form - Help Guide
 ## Purpose
 This form is designed to collect data on social media engagement metrics for a specific platform and time range. It helps users to gather insights on the performance of their social media presence and identify areas for improvement. 

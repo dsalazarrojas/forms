@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a template for a legal consultation appointment checklist, which is used to document and record the details of a meeting between a client and their attorney. The form is intended to be a systematic and organized way to capture all the necessary information from the meeting, including the date and time of the meeting, the location, the topics discussed, and the next steps to be taken. It is likely used in a legal setting, such as a law firm, to ensure that all important details are captured and that the client and attorney are on the same page.
-
-The form has two sections for two meetings, indicating that it is intended to be used for multiple meetings or appointments. This could be used in situations where the client and attorney have multiple meetings or appointments over the course of a case or project.
-
-Each section of the form appears to be designed to capture different aspects of the meeting, such as the date and time, location, and attendees. The form also includes fields for capturing the outcome of the meeting and any next steps that need to be taken. The inclusion of signature fields at the end of the form suggests that it is intended to be used for official or formal purposes.
-
-Upon reviewing the form, it appears to be a comprehensive checklist for capturing the details of multiple meetings or appointments between a client and their attorney. The form does not seem to be duplicating any existing forms and is likely a custom creation for a specific use case or industry.</thinking>
-
 # legal_consultation_appointment_checklist_form_template - Help Guide
 
 ## Purpose

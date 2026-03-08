@@ -1,9 +1,3 @@
-<thinking>
-
-We've created this form, inspired by public metadata related to "corporate" and "conference", for representatives to vote on various aspects of a corporate conference. This form is intended to elicit feedback, track delegate engagement, and validate attendee information, likely as part of a conference organization process. To ensure accurate and relevant responses, please review the form carefully before submission.
-
-</thinking>
-
 # Corporate Conference Representative Voting Form - Help Guide
 ## Purpose
 This form is designed for corporate conference representatives to provide feedback, vote on conference aspects, and validate their delegate information.

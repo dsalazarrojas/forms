@@ -1,6 +1,3 @@
-<thinking>
-This guide is for the Regional Officer Registration form, which is a crucial document for registering officers in a specific region. The form is used to collect essential information about the officer, including their contact details, role, and agreement to the terms and conditions. This information is vital for official purposes and will be stored and used as per the organization's policies. It's recommended to complete this form carefully and accurately to avoid errors. Please note that all fields are required unless stated otherwise. If a field is marked as optional, it's not a mandatory requirement for this form.</thinking>
-
 # Regional Officer Registration - Help Guide
 
 ## Purpose

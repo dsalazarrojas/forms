@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an organization's compliance with workplace safety standards and guidelines. The purpose of this form is to identify potential hazards, assess the effectiveness of personal protective equipment and safety equipment, and ensure that regular fire supervising sessions are held. By completing this form, employees can evaluate their workplace safety practices and make necessary improvements to maintain a safe working environment.
-</thinking>
-
 # Workplace Safety Inspection Checklist - Help Guide
 ## Purpose
 The Workplace Safety Inspection Checklist is a tool used to identify and assess workplace safety risks, ensure compliance with safety standards, and promote a culture of safety in the workplace. This form helps employees and supervisors identify potential hazards, assess the effectiveness of safety measures, and document findings and corrective actions.

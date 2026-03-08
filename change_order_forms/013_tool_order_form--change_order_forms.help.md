@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool Order Form - Help Guide
 ## Purpose
 The Tool Order Form is used to collect shipping details, contact information, and tool preferences for ordering purposes. This form helps us efficiently process orders and ensures that we have the necessary information to deliver the tools correctly and on time.

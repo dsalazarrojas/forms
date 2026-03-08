@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is designed to collect feedback from users about their hair texture styling habits, comfort levels, and preferences. It's likely that this form will be used for market research or to gain insights into user preferences, but its exact purpose may vary depending on the context in which it's being used. 
-
-To avoid redundancy, it's essential to understand the purpose of this form and its potential use cases before proceeding. If this form is being used for market research, it may help identify patterns in user behavior, preferences, and pain points. If it's used for internal business purposes, it could aid in product development or customer service optimization.
-
-Before diving into the form details, it's essential to note that some of the fields may seem redundant or similar, but they serve distinct purposes in various contexts. This guide will break down each field, explaining its intent and how to complete it accurately. 
-
-</thinking>
-
 # Hair Texture Styling Comfort Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-...The form is used to generate a customized invoice for camps or events. It captures relevant information about the client, including billing details, invoice specifics, and contact information. This form ensures accurate and detailed invoicing for camps or events. It is essential to fill out the form accurately to create a precise invoice...
-
-</thinking>
-
 # CJH Invoice Generator - Help Guide
 ## Purpose
 The CJH Invoice Generator form is designed to create a customized invoice for camps or events. It captures essential details about the billing party, invoice specifics, and contact information.

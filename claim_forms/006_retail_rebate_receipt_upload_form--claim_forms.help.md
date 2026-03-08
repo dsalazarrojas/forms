@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal logic of the form ensures that users who upload multiple rebate receipts within a specific time frame, for example, one receipt every 30 days, will be flagged for review by the internal review team. This way, we can prevent users from exploiting the system and ensuring only eligible receipts are uploaded for processing.
 
 </thinking>

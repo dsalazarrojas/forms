@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect consent from users to access, process, and analyze their data for the purpose of improving services, products, or research. The form asks for the user's consent level, whether they grant consent, their name, email address, and phone number. This information is used to ensure that the user is aware of and agrees to the terms of data processing. 
-</thinking>
-
 # Digital Assessment Analytics Collection Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect consent from users to access, process, and analyze their data for the purpose of improving services, products, or research.

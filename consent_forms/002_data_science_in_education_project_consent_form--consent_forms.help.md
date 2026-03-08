@@ -1,7 +1,3 @@
-<thinking>
-This form is for data collection and analysis purposes to improve education and research. It's intended for participants to provide information about themselves and their projects for the data science in education project. Please fill out this form accurately and completely. If you have any doubts or concerns, please reach out to us. We will review this form to ensure that it is not a duplicate submission.
-</thinking>
-
 # Data Science In Education Project Consent Form - Help Guide
 ## Purpose
 This form is a consent form for the Data Science in Education project. It collects information about participants and their projects for data collection and analysis. This information will be used to improve education and research in the field of data science.

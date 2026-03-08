@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients registering for a service or product with a company. To ensure that the form is completed correctly and efficiently, we will first check for any potential duplicate entries before proceeding. This form will be stored in the company's database for record-keeping purposes.
-
-</thinking>
-
 # TEMPLATE_TREASURY_client_registration_form - Help Guide
 ## Purpose
 This form is used to register a new client for the company's services or products.

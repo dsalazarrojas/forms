@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to obtain authorization for corporation fees from the user. The purpose of this form is to ensure that the user has the necessary permissions to access certain corporate fees. The form will ask for information such as vendor type, fee amount, credit build out, authorization amount, authorization date, authorization time, authorization reason, and vendor name. This form is not required for all users, and the user should only complete it if they have the necessary permissions.
-
-</thinking>
-
 # Corporation Fees Authorization Form - Help Guide
 ## Purpose
 The corporation fees authorization form is used to obtain authorization for corporation fees from the user.

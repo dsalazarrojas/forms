@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about light pollution awareness, which is essential for understanding the impact of artificial light on the night-time environment and its effects on the environment and living organisms. This form is designed to be completed by individuals who have experience or are familiar with the use of outdoor lighting in residential or commercial settings. By collecting data through this form, we can better understand the current state of light pollution and identify areas for improvement. 
-
-We should ensure that this form is not being filled out by individuals who do not have the required level of expertise or knowledge on the topic, as their responses may not be accurate or relevant. This form is not intended to be a survey for casual users. 
-
-Please make sure to review the entire form carefully before proceeding and fill it out accurately to ensure the quality of the data collected. 
-
-If you are unsure about any part of the form, please don't hesitate to contact the form administrators. 
-
-</thinking>
-
 # Light Pollution Awareness Survey - Help Guide
 ## Purpose
 The Light Pollution Awareness Survey is a tool used to gather information about the use of outdoor lighting in residential or commercial settings and its impact on the night-time environment. This survey is designed to help understand the current state of light pollution and identify areas for improvement.

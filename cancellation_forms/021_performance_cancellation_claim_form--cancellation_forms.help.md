@@ -1,5 +1,3 @@
-<thinking>As a performer, you may need to cancel an event due to unforeseen circumstances. This form is designed to help you document the cancellation and gather information for future reference. Please ensure that you have not already submitted a cancellation request for the same event and that you are submitting this form for a legitimate reason. To avoid duplication of effort, check that the form is not already filled out by another user. Once you have confirmed that the form is not duplicated, you can proceed to fill it out.</thinking>
-
 # performance_cancellation_claim_form - Help Guide
 ## Purpose
 The performance_cancellation_claim_form is used to document the cancellation of an event due to unforeseen circumstances. This form helps to gather information for future reference and ensures that the cancellation process is completed accurately.

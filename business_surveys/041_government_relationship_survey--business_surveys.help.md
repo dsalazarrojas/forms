@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist end-users in understanding the purpose and usage of the Government Relationship Survey form. The survey is designed to gather feedback from the public on their experience and perceptions of the government services provided. The purpose of this form is to help the government understand how well it is serving the public and identify areas of improvement.
-
-Before proceeding, please ensure that this is the correct form for your needs and that you have not already completed a similar survey. Your feedback will help us improve our services and make them more effective for the public.
-
-</thinking>
-
 # Government Relationship Survey - Help Guide
 ## Purpose
 The Government Relationship Survey is a form designed to gather feedback from the public on their experience and perceptions of the government services provided. The goal of this survey is to help the government understand how well it is serving the public and identify areas of improvement.

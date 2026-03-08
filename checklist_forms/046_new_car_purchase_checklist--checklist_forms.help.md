@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about a new car purchase, specifically the vehicle's details, condition, pricing, and other relevant aspects. It's likely used by car dealerships or sales teams to gather data for inventory management and sales tracking purposes. This form is not intended to be a duplicate of any existing form, but rather a unique creation based on public survey topic metadata. The form is designed to be completed by a single user and is not a collaborative or group form.
-
-</thinking>
-
 # New Car Purchase Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about a new car purchase from the user. The form helps in gathering essential details about the vehicle, its condition, pricing, and other relevant aspects.

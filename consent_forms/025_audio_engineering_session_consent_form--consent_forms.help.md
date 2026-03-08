@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audio Engineering Session Consent Form - Help Guide
 
 ## Purpose

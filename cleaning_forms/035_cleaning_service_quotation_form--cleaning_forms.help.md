@@ -1,7 +1,3 @@
-<thinking>
-A quote request form for cleaning services, designed to capture essential details about the client and their needs. This form will serve as a foundation for the quote provided to the client, ensuring accuracy and consistency in communication. It's crucial that the form is completed accurately to ensure the correct quote is generated. Please ensure the form is filled out in its entirety, and if any of the fields are unclear or confusing, please contact our support team for clarification.
-</thinking>
-
 # Cleaning Service Quotation Form - Help Guide
 ## Purpose
 This form is designed to gather information about the client's needs and requirements for cleaning services. The purpose of this form is to provide an accurate quote for the client's requested services.

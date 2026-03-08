@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to guide Shop Assistants in preparing their workstations for the start of a new working day, ensuring that all essential tasks and checks are completed. This form is not intended for use by anyone other than Shop Assistants, as its purpose is specific to their role.
-
-Before proceeding, please ensure you are the correct person to fill out this form and that this form is not a duplicate or a copy of another form.
-
-</thinking>
-
 # Shop Assistant Opening Routine Checklist - Help Guide
 ## Purpose
 The Shop Assistant Opening Routine Checklist is designed to help you prepare your workstation for the start of the day. It guides you through the essential tasks and checks that need to be completed before opening the shop.

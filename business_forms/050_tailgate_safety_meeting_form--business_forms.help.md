@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used by supervisors and safety officials to document the details of a tailgate safety meeting, including employee and supervisor information, meeting objectives, topics, standards, equipment, and procedures.
-
-The form is used in the field of workplace safety, and its purpose is to ensure that all necessary safety protocols are met during a tailgate meeting. It helps in maintaining a record of the meeting details and ensuring that all participants are aware of their roles and responsibilities.
-
-Before using this form, please make sure that you have the necessary information and authority to complete it. This form should not be used as a substitute for actual safety procedures or protocols.
-
-</thinking>
-
 # Tailgate Safety Meeting Form - Help Guide
 ## Purpose
 The Tailgate Safety Meeting Form is a tool used to document the details of a tailgate safety meeting, ensuring that all necessary safety protocols are met during the meeting.

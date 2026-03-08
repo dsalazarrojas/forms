@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess a company's philanthropy practices and policies. It gathers information on the respondent's role within the company, their priorities for giving, employee engagement in philanthropy, how the company measures the impact of their philanthropic efforts, and their annual budget allocation for philanthropy. This assessment is intended for internal use, and the data collected will help organizations evaluate and improve their philanthropic strategies. To ensure the form's purpose and goals are clear, it is essential to understand the context and scope of this assessment...></thinking>
-
 # Company Philanthropy Assessment - Help Guide
 ## Purpose
 The Company Philanthropy Assessment is a tool to help organizations evaluate and improve their philanthropic practices. It collects information on various aspects of corporate giving, including respondent role, giving priorities, employee engagement, impact measurement, and budget allocation.

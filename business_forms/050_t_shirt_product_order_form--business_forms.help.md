@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for customers to order T shirts from a company, allowing them to provide their personal information, order details, shipping information, payment details, and receive a summary of their order. It is not a duplicate of any existing form and is created based on public metadata about T-shirt products and industries. 
 
 # T Shirt Product Order Form - Help Guide

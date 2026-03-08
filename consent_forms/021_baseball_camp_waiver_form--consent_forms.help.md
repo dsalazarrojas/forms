@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect important information from parents or guardians of children attending a baseball camp. The purpose of this form is to gather necessary details about each participant, including their personal information, medical history, and authorization for the camp to provide medical treatment and use their likeness in photos and videos. This form also includes sections for emergency contact information, insurance details, and medical conditions or allergies. By completing this form, parents or guardians are acknowledging their understanding and agreement to the terms and conditions of the camp, including the assumption of risk associated with baseball activities.
-
-</thinking>
-
 # Baseball Camp Waiver Form - Help Guide
 ## Purpose
 The Baseball Camp Waiver Form is a crucial document that provides the camp with essential information about each participant. This form helps the camp to ensure the well-being and safety of the participant during the camp sessions.

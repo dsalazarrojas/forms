@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_inspection_report - Help Guide
 ## Purpose
 This form is designed to collect information about property inspections. It gathers details such as property type, condition, location, size, and other relevant information for reporting purposes.

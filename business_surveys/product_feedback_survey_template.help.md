@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for gathering feedback from product users about their overall satisfaction and experience with the product. Its purpose is to collect information on how satisfied users are, what features they value most, and whether they would recommend the product to others. This form is not a survey platform itself but rather a template that can be adapted for use on various platforms. It's designed to be easily understandable by end-users and adaptable to suit different contexts.
-</thinking>
-
 # Product feedback survey template - Help Guide
 ## Purpose
 This template is designed to gather feedback from product users about their experience and satisfaction with our product. Your input will help us improve the product and provide a better service.

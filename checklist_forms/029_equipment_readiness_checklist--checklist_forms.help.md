@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is part of an asset management system, used to check equipment readiness for maintenance and inspection purposes. Its purpose is to collect data on the current status of the equipment, including its inspection history, maintenance status, and type. By filling out this form, users will be able to determine if the equipment is ready for use, and identify any potential issues that require attention. This form is likely used in a context where equipment maintenance is critical, such as in manufacturing, healthcare, or other industries where equipment downtime can have significant consequences.
-
-</thinking>
-
 # equipment_readiness_checklist - Help Guide
 
 ## Purpose

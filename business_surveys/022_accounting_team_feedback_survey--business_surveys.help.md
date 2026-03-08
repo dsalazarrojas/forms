@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gauge the feedback and satisfaction of the accounting team. The purpose is to help management understand the team's performance and areas where adjustments can be made. This form is to be completed by all team members, and their individual responses are anonymous. The feedback collected will be used to inform future improvements and initiatives to boost team morale and productivity.
-
-This form is not a mandatory requirement, and team members can fill it out if they choose to do so. Management will not be able to identify individual team members who submit their feedback.
-
-Please note that all responses are kept confidential and will not be shared outside the team.
-
-</thinking>
-
 # Accounting Team Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from the accounting team on various aspects of their work environment, job satisfaction, and team dynamics. It is intended to help management understand the team's strengths and weaknesses, and to identify areas for improvement.

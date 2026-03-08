@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning:
-
-* This form is used to capture insights on the utilization of data analytics within an organization, specifically focusing on the tools used, challenges faced, benefits realized, and overall satisfaction. 
-* The form aims to collect feedback on data-related aspects of team performance, communication, and adoption. 
-* This form will help identify potential areas for improvement and provide valuable information for data-driven decision-making. 
-* Ensure that this form does not collect duplicate or irrelevant data; each question is crafted to provide distinct insights. 
-
-</thinking>
-
 # Data Analytics Utilization Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your organization's use and perception of data analytics tools and practices. The insights gathered will help us better understand how you utilize data and identify areas for improvement.

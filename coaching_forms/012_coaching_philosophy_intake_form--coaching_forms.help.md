@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist you in understanding the Coaching Philosophy Intake Form, which is essential for coaches to express their unique coaching style, goals, and expectations. This form helps coaches outline their approach, philosophy, and approachable athlete relationships, setting a solid foundation for productive and fulfilling coach-athlete interactions. Before filling out this form, please ensure that you have not already submitted this form for the same coach; submitting duplicate forms will cause redundancy and confusion in our records. Please answer the questions as accurately and thoroughly as possible, so we can tailor our support and services to meet your specific needs.
-</thinking>
-
 # Coaching Philosophy Intake Form - Help Guide
 
 ## Purpose

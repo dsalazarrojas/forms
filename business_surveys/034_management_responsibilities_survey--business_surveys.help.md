@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive survey to gather information about management responsibilities from employees, managers, or other relevant stakeholders. The purpose of this form is to collect data on the responsibilities assigned to management positions within an organization, their frequency, and their impact on the organization.
-Before proceeding, please ensure that you have not taken this survey in the past and that you have permission to complete this form. 
-This form consists of 25 pages with no clear indication of which pages should be filled out, so please fill out the form as comprehensively as possible.
-</thinking>
-
 # Management Responsibilities Survey - Help Guide
 ## Purpose
 The Management Responsibilities Survey is a comprehensive survey designed to gather information about management responsibilities from employees, managers, or other relevant stakeholders. This form aims to collect data on the responsibilities assigned to management positions, their frequency, and their impact on the organization.

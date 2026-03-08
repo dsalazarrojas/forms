@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for beach camping trip planning and organization. The goal is to collect essential information from users about their planned beach camping trip, including trip details, participant counts, equipment needs, and safety measures. This data will help the trip leader or organizer to prepare for the trip and ensure everyone's safety.
-</thinking>
-
 # Beach Camping Checklist Form - Help Guide
 
 ## Purpose

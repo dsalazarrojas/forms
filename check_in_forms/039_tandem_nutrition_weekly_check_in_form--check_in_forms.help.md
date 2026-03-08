@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is for users to provide information about their weekly progress in the Tandem Nutrition program. This form should only be used by registered users of the Tandem Nutrition program. 
-To ensure that all required information is provided, it's essential to follow the form instructions accurately.
-</thinking>
-
 # Tandem Nutrition Weekly Check In Form - Help Guide
 ## Purpose
 The Tandem Nutrition Weekly Check In Form is a tool for users to share their progress with the Tandem Nutrition program every week. It's a crucial part of the program, as it helps us track your health and well-being.

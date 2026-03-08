@@ -1,6 +1,3 @@
-<thinking>
-As the form is designed to gather feedback on the Chief Security Officer (CSO) performance and leadership, the primary purpose of this form is to collect qualitative information on the CSO's effectiveness in various areas of security management. This form is intended for use by stakeholders, such as board members, executives, managers, and team members, to provide their input on the CSO's performance. It is likely that this form will be used within an organization to evaluate the CSO's ability to develop and implement effective security strategies, manage incidents, and maintain a strong security posture. To avoid duplicating efforts or gathering irrelevant feedback, it is crucial that users familiarize themselves with the form's requirements and ensure that they provide comprehensive and constructive comments.</thinking>
-
 # Chief Security Officer Feedback - Help Guide
 ## Purpose
 The Chief Security Officer (CSO) feedback form is designed to gather qualitative feedback on the performance and leadership of the CSO within an organization. This form is intended to be used by various stakeholders, including board members, executives, managers, and team members, to provide their input on the CSO's effectiveness in key areas of security management.

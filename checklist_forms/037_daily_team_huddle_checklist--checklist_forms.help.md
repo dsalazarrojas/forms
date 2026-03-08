@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to facilitate daily team huddles, a common practice in software development teams where team members share their progress, blockers, and next steps. The form is intended to ensure that each team member can contribute to the discussion, share their availability, and highlight any blockers or progress made. 
-
-It is likely used for a project or sprint review, and it is crucial to maintain a consistent format, so team members can easily review the previous day's discussions.
-
-This form does not seem to be duplicative, as its purpose and structure are unique to team huddles.
-
-</thinking>
-
 # Daily Team Huddle Checklist - Help Guide
 ## Purpose
 The Daily Team Huddle Checklist is a tool used to facilitate daily team discussions, promote transparency, and ensure everyone is on the same page.

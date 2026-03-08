@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to collect information from users for a meet-and-greet event. It is not intended for public access. Users may fill out this form to provide their contact info, pet's name, species, and meet time. It will be used for internal organizational purposes.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 The Doggie Meet & Greet Info Form is intended for internal use to collect information from users for a meet-and-greet event.

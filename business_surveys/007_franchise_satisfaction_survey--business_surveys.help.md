@@ -1,7 +1,3 @@
-<thinking>
-The form is likely created for internal business purposes and is intended for employees of a company to provide their feedback about the franchise. The purpose of this form is to gauge the satisfaction of the franchise with the company's services or products. To confirm that this form is indeed intended for internal business purposes and not for external use, we can look at the fields included - such as franchise_name, contact_number, and date. These fields suggest that the form is meant to collect data from within an organization.
-</thinking>
-
 # franchise_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to measure the satisfaction of a franchise with a company's services or products.

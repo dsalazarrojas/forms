@@ -1,8 +1,3 @@
-<thinking> 
-The Galaxy Themed Event Checklist Form is designed to collect essential information about an event, ensuring that all necessary details are captured accurately and efficiently. This form aims to provide a comprehensive overview of the event, including its title, date, time, location, budget, capacity, status, participants, email, phone, and address. The form's design is intended to guide users through the process of filling in these critical fields, reducing errors and miscommunication. 
-
-</thinking>
-
 # Galaxy Themed Event Checklist Form - Help Guide
 ## Purpose
 The Galaxy Themed Event Checklist Form is a crucial tool for event organizers to gather and store information about their events. This form is designed to collect the most critical details about an event, making it an essential part of the event planning process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending the Interdisciplinary Learning Summit, an event that brings together experts and professionals from various fields to share knowledge and ideas. The form aims to gather details about the attendees, their session interests, accessibility needs, university affiliation, and payment information. The fields in this form are meant to be completed by attendees to help the organizers understand their requirements and preferences. 
-The form is not intended to be used for internal purposes but for public-facing registration for the summit. The information collected will be used to create a participant list and to tailor the event experience to the attendees' needs.
-</thinking>
-
 # Interdisciplinary Learning Summit Registration - Help Guide
 ## Purpose
 This form is designed to collect information from attendees interested in attending the Interdisciplinary Learning Summit. The form is used to gather details about each attendee, including their session interests, accessibility needs, and payment information. This information will be used to create a participant list and to tailor the event experience to their needs.

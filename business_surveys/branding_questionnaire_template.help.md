@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback and insights on brand perception and strategy from individuals who have interacted with the brand. This information will help the brand understand how they are perceived by their audience and identify areas for improvement. Before starting, ensure you are not duplicating an existing survey or feedback mechanism. If you are a brand employee or have a vested interest in the form, be objective and honest in your responses...)</thinking>
-
 # Branding questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights on brand perception and strategy from individuals who have interacted with the brand. The collected data will help the brand understand how they are perceived by their audience and identify areas for improvement.

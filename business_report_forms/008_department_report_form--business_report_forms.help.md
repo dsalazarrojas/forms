@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to provide users with a clear understanding of the Department Report Form's purpose, how to complete it, and what each field means.
 
 The Department Report Form is used to collect information about departmental issues, actions taken, and other relevant details. It is meant to help departmental managers or administrators record and track issues within their department. This form will help you to quickly and efficiently provide information about the state of your department, allowing others to better understand your situation and make informed decisions.

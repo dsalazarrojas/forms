@@ -1,15 +1,3 @@
-<thinking>
-
-To create a help guide for the Supplier Contract Form, we should first establish its purpose and ensure that it is not redundant with other forms. This form is designed to collect information about a supplier's contract, including their name, contract terms, start and end dates, address, contract value, payment terms, and contact details. It also asks about the category and assigned tool for the supplier's contract.
-
-The form is intended to be a standard tool for business operations, and its purpose is to provide a clear and concise way to capture essential information about a supplier's contract. We should verify that there are no other forms serving the same purpose or collecting the same information.
-
-Upon reviewing the form fields, it seems that most fields are required, indicating that it's an essential form for the business operations. The form collects information about the supplier, their contract details, and payment terms, suggesting that it's used for financial or accounting purposes.
-
-The only fields that are not required are 'Supplier Address', 'Contract Value', 'Payment Terms', 'Assigned Tool 2', and 'Assigned Tool'. These fields may be optional or redundant, but they should still be reviewed to ensure they are not causing duplication of effort.
-
-</thinking>
-
 # Supplier Contract Form - Help Guide
 ## Purpose
 The Supplier Contract Form is a standard tool for capturing essential information about a supplier's contract, including their name, contract terms, start and end dates, contact details, and other relevant details. This form helps ensure that all necessary information is collected and recorded accurately and consistently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information about a preloading checklist event. The purpose of this form is to gather essential details about the event, such as its name, loading status, and confirmation of loaded items. This form is intended to be completed by users who are responsible for preparing a preloading checklist for a specific event.
 
 To determine if this form is relevant to your current situation, consider the following:

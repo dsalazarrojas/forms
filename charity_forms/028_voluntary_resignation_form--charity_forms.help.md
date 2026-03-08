@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the voluntary resignation form, which is used to document and record an employee's voluntary resignation. This form is intended for internal use within the organization and will help ensure that all necessary information is collected and accurately recorded.
-
-Before completing this form, please ensure that you've reviewed the relevant company policies and procedures related to voluntary resignation. This form should not be used for involuntary terminations or disciplinary actions.
-
-To avoid duplication of effort, please ensure that you've not already submitted a resignation form for the same employee. If you're unsure, please consult with HR or your manager for guidance.</thinking>
-
 # Voluntary Resignation Form Report - Help Guide
 ## Purpose
 The Voluntary Resignation Form Report is used to document an employee's voluntary resignation, including their reason for leaving, effective date, and other necessary details.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey designed to assess various aspects of a team's operational discipline. It is likely used to gather feedback on the team's performance, communication, and practices. To ensure this form is relevant, it should be used in the context of team evaluation or assessment. If the form is being used in a different context, please adjust the content accordingly.
-</thinking>
-
 # Operational Discipline Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a team's operational discipline, including their communication, safety practices, and performance.

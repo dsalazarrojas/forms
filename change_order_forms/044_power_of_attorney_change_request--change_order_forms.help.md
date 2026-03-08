@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request changes to a power of attorney agreement. It captures the relevant information of the person making the request, the change details, and the approvers involved in the process. This form is used to ensure that all relevant parties are informed and that the change request is properly documented and approved. 
-</thinking>
-
 # Power Of Attorney Change Request - Help Guide
 ## Purpose
 This form is used to request changes to a power of attorney agreement. It captures the relevant information of the person making the request, the change details, and the approvers involved in the process.

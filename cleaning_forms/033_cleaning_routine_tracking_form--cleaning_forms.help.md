@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the cleaning routine of a facility or building, gathering data on various aspects of cleaning tasks, supplies, equipment, and maintenance. The form should only be used for tracking cleaning routines of facilities, not for other purposes. Please ensure that you have the necessary authority to access and update this form. To avoid duplication, please do not submit the same form for multiple facilities or tracking periods.
-</thinking>
-
 # Cleaning Routine Tracking Form - Help Guide
 ## Purpose
 This form is a tool for tracking and monitoring the cleaning routine of your facility. It helps you to gather information on different aspects of cleaning, including tasks, supplies, and maintenance.

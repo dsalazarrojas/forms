@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide healthcare professionals in preparing for an anesthesia procedure. The primary purpose of this form is to ensure that the necessary checks are performed before the procedure, including confirming that airway equipment is ready, medications are prepared, IV access is established, and the checklist is completed by the staff member performing the procedure. This form should not be used for other purposes, and its fields should not be duplicated in other forms. It is intended to be filled out by the staff member responsible for preparing the patient for the procedure.
-</thinking>
-
 # Anesthesia Procedure Checklist - Help Guide
 ## Purpose
 This form is designed to guide healthcare professionals in preparing for an anesthesia procedure, ensuring that all necessary checks are performed before the procedure begins.

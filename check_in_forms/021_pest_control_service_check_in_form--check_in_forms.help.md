@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
 
 * The form is used to gather information from customers or clients who need pest control services. It is essential to have this information to provide the best possible service experience.

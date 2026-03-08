@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used to evaluate the employer of record service provided by our company. To confirm, the purpose of this form is to get feedback from clients about their experience with our employer of record service, specifically on aspects such as client feedback, overall satisfaction, service quality, communication, timeliness, support, frequency of support, and the overall experience. This form is meant to be a quick and straightforward way to gather feedback from clients without being too lengthy or time-consuming.
-
-</thinking>
-
 # Employer Of Record Service Evaluation Form - Help Guide
 ## Purpose
 The Employer Of Record Service Evaluation Form is used to gather feedback from clients about their experience with our employer of record service. The form consists of multiple sections that cover different aspects of the service.

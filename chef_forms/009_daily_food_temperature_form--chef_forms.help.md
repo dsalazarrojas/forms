@@ -1,7 +1,3 @@
-<thinking>
-This form is used for logging and reporting daily food temperature checks. It's likely a requirement for food safety and handling. The purpose of this form is to provide a simple and structured way for users to record important temperature-related data for food stored in a facility, such as a food storage unit. This form helps to ensure that the stored food is kept within the safe temperature range, and any deviations are recorded accurately. The form should be filled out for every batch of food stored, and at regular intervals, to maintain accurate and up-to-date records.
-</thinking>
-
 # Daily Food Temperature Form - Help Guide
 
 ## Purpose

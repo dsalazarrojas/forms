@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Staff Duty Checklist" form, I first need to understand its purpose and ensure it's not duplicating other processes. The form's purpose appears to be a checklist for staff members to indicate their availability or assignments during duty shifts. This form likely helps management track staff's work hours, assignments, or other related duties. It's essential to check if similar processes already exist within the organization to prevent duplication of efforts.
-</thinking>
-
 # Staff Duty Checklist - Help Guide
 
 ## Purpose

@@ -1,9 +1,4 @@
-# <thinking>
-This form is designed to collect opinions and feedback from various stakeholders in a school setting regarding the character policy. The purpose of this form is to gather information about the effectiveness and challenges faced by teachers, parents, students, and other stakeholders in implementing the character policy. This form is not affiliated with any specific platform and is an original adaptation created using AI.
-
-</thinking>
-
-# endline-survey-for-character-policy - Help Guide
+# # endline-survey-for-character-policy - Help Guide
 ## Purpose
 The endline-survey-for-character-policy form is a tool used to collect feedback and opinions from key stakeholders in a school setting. The form is designed to gather information about the character policy, including awareness, effectiveness, and challenges faced by teachers, parents, students, and other stakeholders.
 

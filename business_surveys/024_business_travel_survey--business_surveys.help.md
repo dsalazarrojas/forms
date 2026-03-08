@@ -1,8 +1,3 @@
-<thinking>
-I will create a comprehensive help guide for the "Business Travel Survey" form, ensuring that end-users understand its purpose, how to complete it, and what each field means. This guide will be concrete, concise, and practical, and I will base it on the provided YAML fields.
-
-</thinking>
-
 # Business Travel Survey - Help Guide
 ## Purpose
 The Business Travel Survey is designed to gather feedback from employees on their experiences and perceptions about business travel. This form aims to collect information on various aspects of business travel, including frequency, duration, satisfaction, and improvements needed.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from customers on the gender neutrality of a beauty salon. The purpose of this form is to help the salon understand how well they are meeting the needs of customers of all genders, identify areas for improvement, and create a more welcoming environment for everyone. This form will help the salon understand how customers feel about their atmosphere, pricing, marketing, and staff interactions, as well as their experiences with pronoun usage and restroom accessibility. By collecting this feedback, the salon can make data-driven decisions to improve their services and create a more inclusive environment.
-
-To avoid duplication and ensure accurate feedback, please note that this form should only be filled out by customers who have visited the salon before.
-
-</thinking>
-
 # Beauty Salon Gender Neutrality Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers on the gender neutrality of our beauty salon. Your input will help us create a more welcoming environment for everyone.

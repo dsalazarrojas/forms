@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for factory managers and production teams to request and submit reports on the efficiency of factory operations. The purpose of this form is to gather relevant information about production times, capacities, costs, and other key performance indicators (KPIs) for factories. This form helps factory managers to track and analyze the performance of their operations, identify areas for improvement, and make data-driven decisions to optimize production processes.
-
-To ensure accurate and complete reporting, please fill out this form carefully and thoroughly. If you need to submit a report for multiple factories, please create a new instance of this form for each factory.
-
-Before starting, please review the form fields below and ensure you have all necessary information ready.
-
-</thinking>
-
 # Factory Operation Efficiency Report Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data on factory operations and help factory managers track and analyze the performance of their production processes.

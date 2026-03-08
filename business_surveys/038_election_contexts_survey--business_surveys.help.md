@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # election_contexts_survey - Help Guide
 
 ## Purpose

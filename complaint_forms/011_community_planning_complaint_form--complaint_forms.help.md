@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect complaints or concerns from residents regarding community planning issues in their neighborhood. The form aims to provide an efficient and straightforward way for residents to report problems or suggestions related to zoning, infrastructure, parks, public safety, and environmental concerns. By using this form, residents can easily provide detailed information about the issues they're experiencing, including their name, contact details, the nature of the issue, and what they'd like to see done about it. It's essential to note that all submissions are kept confidential but may be shared with relevant city departments. To prevent duplication, it's recommended to check if you have already contacted anyone else about the issue before submitting this form.</thinking>
-
 # Community Planning Complaint Form - Help Guide
 
 ## Purpose

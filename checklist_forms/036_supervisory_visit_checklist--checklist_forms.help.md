@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to document supervisory visits to sites, gathering information about the visit, the site itself, and any next steps or follow-up actions. This guide should help ensure that all required and optional fields are filled out correctly, ensuring accurate and thorough documentation of supervisory visits.
-
-The form is divided into several sections, each corresponding to a different field. Please ensure that you fill out each field carefully, taking into account the specific guidelines and explanations below.
-
-</thinking>
-
 # Supervisory Visit Checklist - Help Guide
 ## Purpose
 The Supervisory Visit Checklist is used to document supervisory visits to sites, ensuring accurate and thorough documentation of key information about the visit, the site, and next follow-up actions.

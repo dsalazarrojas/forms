@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their COVID-19 vaccination experience. The form has various fields to collect personal details, medical history, vaccination information, and contact tracing data. It appears that the form is intended for customers who have undergone or will undergo vaccination, but the exact purpose might be subject to change based on the business needs.
-</thinking>
-
 # Covid 19 Customer Check In Form - Help Guide
 ## Purpose
 The form is used to collect information about customers who have received or will receive COVID-19 vaccinations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a chemical compound selection for a research project. The purpose of the form is to ensure that the compound selected meets the project's requirements and is suitable for the intended use. To avoid duplication of effort, please ensure that you have reviewed the project's requirements and specifications before filling out this form.
-</thinking>
-
 # Chemical Compound Selection Survey - Help Guide
 ## Purpose
 This form is used to collect information about a chemical compound selection for a research project. The form will help to ensure that the compound selected meets the project's requirements and is suitable for the intended use.

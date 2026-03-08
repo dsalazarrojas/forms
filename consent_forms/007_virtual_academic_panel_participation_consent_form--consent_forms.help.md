@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect participant information and consent for virtual academic panel participation.
-The form will be used to ensure that participants are aware of the event purpose, format, and expected outcomes.
-To prevent form duplication, it's essential to check if a participant has already provided their information and consent.
-</thinking>
-
 # Virtual Academic Panel Participation Consent Form - Help Guide
 ## Purpose
 The Virtual Academic Panel Participation Consent Form is designed to collect participant information and consent for virtual academic panel participation. This form ensures that participants are aware of the event purpose, format, and expected outcomes.

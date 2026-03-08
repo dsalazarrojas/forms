@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is intended for users who are responsible for submitting implementation planning checklists. The purpose of this form is to collect and record crucial information related to project implementation, including project details and stakeholder data. 
-
-The form is designed to minimize duplication of work by ensuring that all relevant project-related information is gathered in one place, making it easy to refer back to and track project progress. By providing this information, users can ensure that the project is properly documented and that key stakeholders are informed and aligned.
-
-This guide will walk you through the form fields and help you understand what each field is for.
-
-</thinking>
-
 # Implementation Planning Checklist - Help Guide
 ## Purpose
 This form is used to gather information about a project, including the project name, owner, team lead, and other relevant details. This helps ensure that all necessary information is recorded and that project stakeholders are informed.

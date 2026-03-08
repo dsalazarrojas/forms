@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Conference Paper Quality Evaluation Form - Help Guide
 ## Purpose
 The Research Conference Paper Quality Evaluation Form is used to evaluate the quality of research papers submitted to conferences. This form helps evaluators assess the paper's content, relevance, and overall quality. It is typically used by conference organizers or reviewers to ensure that papers meet the required standards for presentation and publication.

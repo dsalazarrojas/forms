@@ -1,10 +1,3 @@
-<thinking>
-This form is a medical device safety test checklist, used to assess the safety of medical devices. It's a comprehensive checklist with multiple questions to ensure that medical devices are safe for use in a clinical setting. This guide will walk you through each section of the form and explain what each field means.
-
-This guide is intended for medical professionals who need to complete this form to assess the safety of medical devices. Please note that this guide is not a substitute for proper medical training or expertise.
-
-</thinking>
-
 # Medical Device Safety Test Checklist - Help Guide
 ## Purpose
 

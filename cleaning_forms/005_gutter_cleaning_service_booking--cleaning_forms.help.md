@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to book a gutter cleaning service for a given address. The form is divided into two main sections: Contact Information and Service Information. 
-This form is designed for customers who need to schedule a gutter cleaning service at their premises or someone else's. The form should not be submitted if the customer has already booked a service for the same location.
-</thinking>
-
 # gutter_cleaning_service_booking - Help Guide
 ## Purpose
 This form is used to book a gutter cleaning service. Please provide your contact information and service details to schedule a booking.

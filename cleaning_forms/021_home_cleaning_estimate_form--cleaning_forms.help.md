@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Cleaning Estimate Form - Help Guide
 ## Purpose
 The Home Cleaning Estimate Form is designed to collect information from clients about the services they require for their homes. This form is used to gather details about the client's contact information, services needed, and estimated costs for the cleaning services.

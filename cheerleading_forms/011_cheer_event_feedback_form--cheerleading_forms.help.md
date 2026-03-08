@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from attendees of a cheer event. The purpose of this form is to gather information on the attendee's experience, including their name, email address, and feedback on various aspects of the event such as the venue, event organization, schedule, staff friendliness, facility cleanliness, competition quality, judging fairness, value for money, and overall satisfaction. The form is intended to be completed by attendees of the cheer event, and the feedback collected will help to improve future events.
-
-</thinking>
-
 # Cheer Event Feedback Form - Help Guide
 
 ## Purpose

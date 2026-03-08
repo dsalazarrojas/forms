@@ -1,15 +1,3 @@
-<thinking>
-
-To confirm that this form is for collecting information about a kindergarten student's admission, and to ensure that there is no duplicate form for this purpose.
-
-The purpose of this form is to collect essential information from the parent or guardian of a kindergarten student. It will ask for contact details, student information, medical information, and other relevant data. This form is designed to be completed by the student's parent or guardian to provide accurate and complete information about the student.
-
-The form is divided into several sections, each with its own set of questions. The sections include contact information, student information, medical information, and emergency contacts. The questions are mostly text-based, with some options provided for certain fields.
-
-The form will not collect any sensitive or confidential information, and all answers will be kept secure. The form is intended to be completed by the parent or guardian and should not be filled out by the student themselves.
-
-</thinking>
-
 # Kindergarten Admission Checklist Form Template - Help Guide
 
 ## Purpose

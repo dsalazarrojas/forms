@@ -1,7 +1,3 @@
-<thinking>
-**Internal Check:** This form is designed to collect feedback and input from users regarding the Six Sigma process in various business contexts. It is not intended for use as a template for creating new forms, but rather as a tool for monitoring and analyzing processes. Ensure that this form is not used for any other purpose without proper evaluation and approval from authorized personnel.
-</thinking>
-
 # Six Sigma Process Monitoring Form - Help Guide
 ## Purpose
 The Six Sigma Process Monitoring Form is a tool used for collecting data and feedback from users to monitor and analyze processes related to Six Sigma. It helps organizations track and improve their performance and efficiency.

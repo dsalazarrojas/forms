@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from entrepreneurs who have participated in coaching sessions. The purpose of this form is to collect data on the effectiveness of the coaching sessions and identify areas for improvement. By filling out this form, you will be providing valuable insights that will help us understand how we can better support you in your entrepreneurial journey. Please note that your feedback is anonymous and will be used to improve our coaching services.
-
-</thinking>
-
 # Entrepreneurship Coaching Feedback - Help Guide
 ## Purpose
 

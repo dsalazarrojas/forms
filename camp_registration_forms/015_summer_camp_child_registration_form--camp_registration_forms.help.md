@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from children attending a summer camp. It aims to gather personal details, medical history, emergency contacts, and any relevant medical allergies or conditions. This form is intended for parents or guardians to fill out on behalf of their child. Please ensure that you are submitting this form for the correct child and follow the instructions carefully to avoid any confusion. This form will not be used for any other purpose.
-</thinking>
-
 # summer_camp_child_registration_form - Help Guide
 ## Purpose
 This form is intended for parents or guardians to register their child for a summer camp. It gathers essential information about the child, including personal details, medical history, emergency contacts, and any relevant medical allergies or conditions.

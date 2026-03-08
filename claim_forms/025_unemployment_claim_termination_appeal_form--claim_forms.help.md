@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to allow claimants to appeal the termination of their unemployment claim. It is intended for use by individuals who have had their claim terminated and wish to contest the decision. The form will be reviewed internally to determine the validity of the appeal.
-
-To ensure accuracy and consistency in filling out this form, it's essential to carefully follow these instructions.
-
-This form has multiple pages, each with several fields. Please make sure to complete every field that requires your input, as incomplete forms may delay the processing of your appeal.
-
-Also, please provide a valid reason for your termination in the appropriate field, as this will aid in the review of your appeal.
-
-Before submitting this form, ensure you have attached all necessary documentation to support your claim.
-
-Please note that this form will be reviewed internally to determine the validity of your appeal. This process may take some time.
-
-Before we can begin the process of reviewing your appeal, we need some additional information from you. Please fill out the following form in its entirety.
-
-</thinking>
-
 # Unemployment Claim Termination Appeal Form - Help Guide
 ## Purpose
 This form is used for claimants to appeal the termination of their unemployment claim.

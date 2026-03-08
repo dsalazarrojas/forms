@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from potential attendees of the Ingredient Transparency Summit. The purpose is to gather details about the attendee's session preferences during the summit. The form is divided into several pages, but this help guide will cover each field across all pages.
-
-Given the provided YAML fields, there is no obvious affiliation or derivation from any proprietary forms or platforms, which is a plus! The fields seem to be standard form fields, and there is no indication that there's a need to be overly specific about field descriptions or explanations.
-
-This help guide is intended for end-users who may not be familiar with forms or the summit. It will provide a clear and concise explanation of each field to ensure a smooth and successful form completion.
-
-Please note that the session preferences (session_preferences_1, session_preferences_2, session_preferences_3) have the same label and type (select_one) but with different options. It is assumed that these fields are intended to collect preferences for different sessions.
-
-Also, the "form_submit" field is likely a placeholder for a submit button. Given its type is "text", it's reasonable to assume that it's not meant to be filled in but rather serves as a button to initiate the form submission.
-
-Lastly, the "error_message" field is likely used to display any error messages that might occur during form submission.
-</thinking>
-
 # Ingredient Transparency Summit Registration - Help Guide
 ## Purpose
 The Ingredient Transparency Summit Registration form is designed to collect information from potential attendees of the summit.

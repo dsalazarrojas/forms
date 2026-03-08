@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a user-facing help guide for the "urban_tree_planting_awareness_survey" form. The form is designed to gather information about individuals' awareness and attitudes towards urban tree planting. The form is likely used by researchers or organizations conducting studies or surveys to gather data about people's perceptions and opinions related to urban tree planting.
-
-To ensure that users complete the form accurately, we need to clearly explain the purpose and instructions for each question, as well as what each field represents.
-
-</thinking>
-
 # urban_tree_planting_awareness_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your awareness and attitudes towards urban tree planting. Your responses will help researchers understand public perceptions and opinions related to this topic.

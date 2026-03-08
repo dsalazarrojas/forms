@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture registration details for the HR Policy Optimization Conference. It is meant for attendees to provide their personal information, preferences, and agreement terms.
-
-To determine if the form is being used correctly and to prevent duplication, the following conditions should be applied:
-
-1. The form should only be used for the intended purpose of HR Policy Optimization Conference registration.
-2. All fields should be filled out with accurate and relevant information.
-3. Duplicate submissions should be prevented by verifying unique identifiers or IDs.
-</thinking>
-
 # HR Policy Optimization Conference Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration details for the HR Policy Optimization Conference. This form is used to collect personal information, preferences, and agreement terms from attendees. Please fill out the form accurately and completely to ensure a successful registration process.

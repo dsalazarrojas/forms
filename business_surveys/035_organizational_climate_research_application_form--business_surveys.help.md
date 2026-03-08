@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations interested in collaborating with the research team on various research projects. The purpose of this form is to gather contact information, research interests, and potential areas of collaboration. This form is intended for internal use by the research team and is not a formal commitment or agreement. Please note that the form is not intended to collect sensitive or confidential information, and all fields are optional.
-</thinking>
-
 # Organizational Climate Research Application Form - Help Guide
 ## Purpose
 The Organizational Climate Research Application Form is a tool for organizations to provide information about themselves and their research interests to the research team. The form helps the research team to understand the organization's needs and goals, and to explore potential collaboration opportunities.

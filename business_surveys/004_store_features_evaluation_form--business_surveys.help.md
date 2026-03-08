@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on various aspects of a store's features, allowing customers to evaluate the store's quality, ambiance, staff friendliness, product variety, prices, accessibility, opening hours, product knowledge of staff, returns and exchanges policy, loyalty program, overall experience, and navigation. The form is composed of 12 separate fields, each covering a distinct feature or aspect of the store. 
-
-This form is intended to provide valuable insights for store owners and management teams to identify areas of improvement and make data-driven decisions to enhance the overall customer experience. 
-
-Please ensure that you complete this form with honest and thoughtful responses, taking into account your personal experience with the store. Thank you for your time and feedback! 
-
-</thinking>
-
 # Store Features Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback on various aspects of a store's features. Your responses will help store owners and management teams understand what they can improve to enhance your overall experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Requisition Form - Help Guide
 ## Purpose
 The Kitchen Requisition Form is used to document and track kitchen requisitions, including ingredient lists, supplier information, and financial details. This form ensures accurate and efficient management of kitchen orders and helps to prevent errors in the ordering process.

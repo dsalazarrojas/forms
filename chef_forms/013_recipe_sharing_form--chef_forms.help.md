@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to share their recipes, which is a crucial part of any community that values the exchange of culinary ideas and expertise. The form allows users to input various details about their recipe, such as title, ingredients, cooking method, preparation time, cooking time, and servings. The form also includes a field for users to input tags, which are keywords that help categorize and make the recipe more discoverable. 
-</thinking>
-
 # Recipe Sharing Form - Help Guide
 ## Purpose
 This form is intended for users to share their recipes, including title, ingredients, cooking method, preparation time, cooking time, and servings. The form also allows users to add tags to make the recipe more discoverable.

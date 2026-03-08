@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an organization's fairness perception among its employees. The survey aims to understand employee opinions and experiences, gathering feedback on whether the organization is seen as fair in various aspects. This guide will walk you through the process of completing this form, explaining each field in detail.
-</thinking>
-
 # Organizational Fairness Perception Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gauge the fairness perception of the organization from an employee's perspective. It collects data on employee opinions, experiences, and perceptions regarding fairness in the workplace.

@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Retail Blockchain Partnership Registration" form, which appears to be a form used to collect information from potential partners for a retail blockchain partnership. To confirm, the form is designed to gather contact details and interest in partnership from potential collaborators, with fields such as contact name, email, phone number, and partner type.
-
-To ensure consistency and clarity, we will follow the provided YAML schema and provide a concise, step-by-step guide.
-
-</thinking>
-
 # Retail Blockchain Partnership Registration - Help Guide
 
 ## Purpose

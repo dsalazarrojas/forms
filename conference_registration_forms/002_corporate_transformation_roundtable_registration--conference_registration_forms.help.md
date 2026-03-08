@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering attendees for the Corporate Transformation Roundtable, a platform for industry professionals to share knowledge and best practices on corporate transformation and innovation. To ensure relevance and non-duplication, this form will be reviewed by organizers before processing the registration. Only registered attendees will receive updates and invitations to related events and networking opportunities.
-</thinking>
-
 # Corporate Transformation Roundtable Registration - Help Guide
 ## Purpose
 This guide will walk you through the registration process for the Corporate Transformation Roundtable. Please read this guide carefully to ensure you complete the form correctly.

@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be a report template for production planning and cost tracking in a manufacturing or production setting. The fields appear to be related to tracking material usage, production costs, and status updates. The form might be used by production team members or managers to report on the production process, track material savings, and update the status of production tasks. I'm assuming that this form is designed to be filled out by users with some level of production expertise, so the explanations below will focus on providing concrete and practical guidance for those familiar with the production process. Before proceeding, make sure to review the form's purpose and ensure this guide is not duplicating any other resources or guidelines already available in the organization.</thinking>
-
 # Raw Material Utilization Report Form - Help Guide
 
 ## Purpose

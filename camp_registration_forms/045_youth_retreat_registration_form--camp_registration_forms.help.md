@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants of a youth retreat, ensuring they are correctly registered and accounted for during the event. The form aims to capture participant details, emergency contact information, and dietary preferences. It also includes fields for notes on participants and emergency contacts, as well as fields for assigning staff members to specific participants and emergency contacts.
-
-</thinking>
-
 # Youth Retreat Registration Form - Help Guide
 ## Purpose
 The Youth Retreat Registration Form is used to collect essential information from participants and emergency contacts to ensure their safe and enjoyable experience during the retreat.

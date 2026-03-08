@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the Live Music Session Photography Consent Form. The form is designed to collect essential information from the event organizer or photographer to ensure that both parties have a clear understanding of the photography session's terms and conditions. This guide will walk you through the form's purpose, completion instructions, and an explanation of each field.
-
-</thinking>
-
 # Live Music Session Photography Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect consent from both parties for a live music session photography. It ensures a clear understanding of the terms and conditions of the session, including the use of images and their storage.

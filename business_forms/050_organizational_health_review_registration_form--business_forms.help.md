@@ -1,7 +1,3 @@
-<thinking>
-We should check if this form is being completed by the intended user and not just anyone. The form purpose is to collect information about an organization's health status, which is crucial for making informed decisions and taking actions to support organizational development. We should ensure that all required fields are filled out correctly, and the information provided is accurate and up-to-date.
-</thinking>
-
 # Organizational Health Review Registration Form - Help Guide
 ## Purpose
 The Organizational Health Review Registration Form is designed to collect information about an organization's health status. This form is for internal use, and its purpose is to gather data that will help us make informed decisions and take actions to support organizational development.

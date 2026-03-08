@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the backup status of an IT system. It is a critical component of an IT system administrator's workflow to track and ensure the regular backup of system data. By providing the following information, the form aims to identify whether the backup process is active or inactive, where backups are located, how frequently backups are performed, and record dates for the last and next backups. The form will help system administrators to monitor and control the backup process, ensuring that data is safe and readily available in case of any system failure or data corruption.
-
-</thinking>
-
 # IT System Backup Checklist Form - Help Guide
 ## Purpose
 The IT System Backup Checklist Form is used to track and monitor the backup status of an IT system. This form gathers information on whether the system's backups are active or inactive, their location, backup frequency, last and next backup dates, and additional notes.

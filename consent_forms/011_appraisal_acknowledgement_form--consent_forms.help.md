@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect acknowledgement and information from a property seller after an appraisal report has been generated. The form should be filled out by the seller to confirm receipt of the report and provide any necessary information or corrections. 
-To prevent duplication, this form should not be filled out by the seller until they have received the report.
-</thinking>
 # Appraisal Acknowledgement Form - Help Guide
 ## Purpose
 The Appraisal Acknowledgement Form is used to collect acknowledgement and information from a property seller after an appraisal report has been generated.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from retailers about their experience stocking products. It is intended to improve the product's availability and distribution process. This form is not meant to be a comprehensive review of the product's features, but rather a snapshot of the retailer's experience with stocking and ordering the product. Please answer this form only if you have had a recent experience stocking this product. If you have previously submitted a review, your feedback will not be recorded as duplicate.
-</thinking>
-
 # Product Stocking Retailer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from retailers about their experience stocking our products. Your input helps us to identify areas for improvement and provide better service.

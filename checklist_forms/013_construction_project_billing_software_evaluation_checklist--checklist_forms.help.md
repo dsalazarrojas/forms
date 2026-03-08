@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to guide evaluators to assess and document their evaluation of the construction project billing software. The form is intended for internal use within a company, and its primary purpose is to gather feedback and insights about the software's features, usability, and cost. This form should not be used for external or public purposes, such as marketing or sales.
-
-The form is divided into eight fields, each designed to elicit specific information about the software. The fields should be completed by an authorized evaluator from the organization. The form's questions and fields are designed to be clear and concise, and the responses should provide a comprehensive and objective assessment of the software's strengths and weaknesses.</thinking>
-
 # Construction Project Billing Software Evaluation Checklist - Help Guide
 
 ## Purpose

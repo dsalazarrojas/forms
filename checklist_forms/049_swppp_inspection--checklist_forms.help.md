@@ -1,10 +1,3 @@
-<thinking>
-The provided YAML defines a form called "SWPPP Inspection" that appears to be related to Stormwater Pollution Prevention Plan (SWPPP) regulations and inspections. SWPPPs are plans that aim to prevent stormwater pollution by implementing measures to control sedimentation, runoff, and other environmental pollutants. This form likely exists to facilitate the collection of information related to SWPPP inspections, which are crucial for maintaining compliance with environmental regulations.
-
-Given the structure of the form and its fields, it seems that this form is designed to collect data on the SWPPP inspection process, including site descriptions, addresses, and various aspects of stormwater management. It also appears to require input from a supervisor or site administrator, likely for regulatory compliance purposes.
-
-To verify that this form is accurate and complete, it's essential to review the original context and requirements of the SWPPP regulations, as well as the specific needs and responsibilities of the entities that would be using this form. However, based on the provided YAML, I will proceed with creating a user-facing help guide for this form.</thinking>
-
 # SWPPP Inspection - Help Guide
 ## Purpose
 This form is used to collect information about Stormwater Pollution Prevention Plan (SWPPP) inspections. It's designed to guide you through the process of documenting site-specific details, stormwater management practices, and other relevant information.

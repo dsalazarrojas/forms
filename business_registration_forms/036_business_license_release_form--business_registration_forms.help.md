@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the release of business license records. It collects information for a standard business license release request, ensuring that all necessary data is captured and processed efficiently. This form is meant to be used for official purposes within an organization, and it's not intended to be used for any other context.
-</thinking>
-
 # Business License Release Form - Help Guide
 ## Purpose
 The Business License Release Form is used to request the release of business license records. This form gathers essential information to process the request effectively and ensure that the correct records are released to the authorized person.

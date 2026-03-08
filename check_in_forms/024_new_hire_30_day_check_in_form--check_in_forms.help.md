@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture essential information about a new hire 30 days after their start date. It's an internal check-in process to ensure that all necessary paperwork and processes have been completed for the new employee.
-</thinking>
-
 # New Hire 30 Day Check In Form - Help Guide
 ## Purpose
 The New Hire 30 Day Check In Form is used to collect important information about new employees 30 days after their start date. This form helps the HR department to verify that all necessary paperwork and processes have been completed for the new employee.

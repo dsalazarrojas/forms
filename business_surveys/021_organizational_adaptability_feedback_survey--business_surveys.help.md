@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gather feedback on the adaptability of an organization. The purpose of this form is likely to gauge the level of adaptability and flexibility of the organization in responding to changes in the market or internal environment. It may be used by organizational management or HR departments to assess the effectiveness of their adaptation strategies and make data-driven decisions. The form asks a range of questions, including multiple-choice questions and free-text fields, to gather both quantitative and qualitative feedback. It is likely that the form is used for internal purposes only, as it does not appear to have any fields that would be sensitive or confidential.
-</thinking>
-
 # Organizational Adaptability Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the adaptability of an organization. It asks questions about the organization's ability to respond to changes in the market or internal environment.

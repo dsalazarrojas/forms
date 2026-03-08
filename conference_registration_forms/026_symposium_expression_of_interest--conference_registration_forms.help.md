@@ -1,20 +1,3 @@
-<thinking>
-The form "symposium_expression_of_interest" is designed to collect information from participants about their interest in attending a symposium. This form is intended to gauge the level of interest and preferences of potential attendees, including their contact details, topics of interest, and conference preferences. It's essential to fill out this form accurately to ensure that the symposium organizers can plan and accommodate the needs of all attendees. Please note that this form does not guarantee a spot at the symposium, as selection may be based on various factors, including availability and suitability of the event.
-
-To complete this form, follow these steps:
-
-1.  Fill out the "participant_details" page, providing your details as required or specified.
-2.  On the "contact_details" page, provide your contact information, including your email and phone number.
-3.  On the "topic_of_interest" page, select the topic of interest that best aligns with your goals and expectations from the symposium.
-4.  On the "conference_interest" page, choose the conferences you are interested in attending.
-5.  On the "participant_type" page, select your role or position at the symposium.
-6.  On the "contact_email" page, enter your email address.
-7.  On the "contact_phone" page, enter your phone number.
-8.  On the "additional_info" page, provide any additional information you feel is relevant to your participation in the symposium.
-9.  On the "submission_date" and "submission_time" page, select the date and time you intend to submit your application.
-
-</thinking>
-
 # symposium_expression_of_interest - Help Guide
 ## Purpose
 The symposium_expression_of_interest form is designed to collect information from participants about their interest in attending a symposium.

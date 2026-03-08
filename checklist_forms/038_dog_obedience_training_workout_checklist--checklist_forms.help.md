@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to track and document a dog's obedience training sessions. It's designed to collect relevant information about the session, including the training date, trainer's name, dog's breed, and exercises completed during the session. This form aims to provide a structured and organized way to keep track of training data, making it easier to review and improve the dog's training progress.
-
-It's essential to fill out this form accurately and consistently to ensure the collected data is useful for future reference. Ensure to complete this form for every training session to maintain an accurate record.
-
-</thinking>
-
 # Dog Obedience Training Workout Checklist - Help Guide
 ## Purpose
 This form is used to track and document a dog's obedience training sessions. It's a crucial tool for trainers to record and review progress, identify areas of improvement, and make data-driven decisions for future training sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals completing the NGO Accountability Rating Survey form, which aims to collect feedback on the accountability practices and engagement of NGOs (Non-Governmental Organizations). The purpose of this form is to gather perceptions on the level of transparency, engagement, and accountability of NGOs, which can be used to inform and improve their work.
-</thinking>
-
 # NGO Accountability Rating Survey - Help Guide
 ## Purpose
 The NGO Accountability Rating Survey is designed to assess the transparency, engagement, and accountability of NGOs. This form is intended to gather user perceptions on the level of these aspects, providing valuable insights for improvement.

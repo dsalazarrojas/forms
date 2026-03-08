@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning block: This form is designed to gather information about the frequency and nature of financial reporting tasks within an organization. The purpose of this form is to collect data on whether financial reports are regularly prepared and submitted on time, and if there are any challenges in the process. This data will help the organization understand its financial reporting timeline and make informed decisions. Before filling out this form, please ensure that you have not already completed it, as this will help us gather accurate and unique responses. Please fill out the form with your honest responses, and provide as much detail as possible for each field. If you have any questions or need clarification on any field, please don't hesitate to reach out to your supervisor or HR department.</thinking>
-
 # Financial Reporting Timeline Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the frequency and nature of financial reporting tasks within an organization. The data collected will help the organization understand its financial reporting timeline and make informed decisions.

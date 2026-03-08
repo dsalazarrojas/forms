@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to submit stories anonymously, with the option to consent to publication. The form collects basic information about the story, such as title and text, along with some additional details like age range and trigger warnings. The purpose of this form is to collect story submissions from users who wish to share their experiences or stories, while protecting their anonymity. This form is not affiliated with or endorsed by any specific platform and is an original creation using public metadata as inspiration.
-
-</thinking>
-
 # Anonymous Story Submission Form - Help Guide
 ## Purpose
 The Anonymous Story Submission Form is designed for users to share their stories anonymously, with the option to consent to publication. This form collects basic information about the story, such as title and text, along with some additional details like age range and trigger warnings.

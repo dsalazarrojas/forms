@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess a child's readiness for kindergarten. This form is designed to be completed by educators or professionals who work with children, and its primary goal is to help identify areas of strength and weakness in a child's skills and abilities. The form is a comprehensive checklist that covers various aspects of a child's development, including communication skills, math concepts, social behavior, emotional readiness, language and literacy, fine motor skills, and domain-specific skills. This information will be used to support the child's development and inform educational planning.
-
-This form has been carefully designed to ensure that it is relevant to the needs of both the child and the educational system. The sections and questions have been carefully crafted to provide a clear and comprehensive picture of the child's abilities and areas of improvement. The form includes fields for both required and optional responses, and its structure and content are based on established educational standards and best practices.
-
-By completing this form, educators and professionals will be able to identify areas of strength and weakness in a child's development, and provide targeted support to help them reach their full potential.
-</thinking>
-
 # Kindergarten Readiness Skills Checklist - Help Guide
 ## Purpose
 This form is designed to assess a child's readiness for kindergarten by evaluating their communication skills, math concepts, social behavior, emotional readiness, language and literacy, fine motor skills, and domain-specific skills.

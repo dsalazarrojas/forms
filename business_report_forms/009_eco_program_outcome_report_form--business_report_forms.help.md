@@ -1,9 +1,3 @@
-<thinking>
-
-The Eco Program Outcome Report Form is a crucial documentation tool for tracking the progress and outcomes of environmental conservation programs. It's used to record the goals and outcomes of these programs, which can help organizations to better understand what works and what doesn't, making them more effective in their mission to conserve natural resources and mitigate the effects of human activities on the environment. Before filling this form, please ensure you haven't already completed this form for the same program; if you have, this will likely be unnecessary.
-
-</thinking>
-
 # Eco Program Outcome Report Form - Help Guide
 ## Purpose
 The Eco Program Outcome Report Form is used to document the goals and outcomes of environmental conservation programs.

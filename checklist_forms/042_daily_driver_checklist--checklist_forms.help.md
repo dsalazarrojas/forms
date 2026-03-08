@@ -1,7 +1,4 @@
-> <thinking>
-This form is designed for daily vehicle checks, allowing users to input vehicle details, driver information, and other relevant data. The form aims to provide a comprehensive overview of the vehicle's status, condition, and maintenance history. This form will help users track and record essential information about each vehicle, ensuring timely maintenance and reducing potential issues.
-</thinking>
-# daily_driver_checklist - Help Guide
+> # daily_driver_checklist - Help Guide
 ## Purpose
 The daily driver checklist is a form used to record and track information about a vehicle's status, condition, and maintenance history.
 

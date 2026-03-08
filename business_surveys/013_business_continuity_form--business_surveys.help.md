@@ -1,7 +1,3 @@
-<thinking>
-This form, designed for business organizations, is intended to assess business continuity plans, their status, and identify potential threats and vulnerabilities. It is crucial for companies to have a well-structured business continuity plan in place to ensure the organization's resilience and ability to recover in the event of an emergency or disruption. This form is part of an internal process to gather data and identify areas that need improvement. To ensure relevance, please fill this form only if your organization falls under the category "business_continuity".
-</thinking>
-
 # Business Continuity Form - Help Guide
 ## Purpose
 This form is designed to help assess and improve your organization's business continuity plans. It will help you identify your organization's current state of continuity, threats, and areas that require attention.

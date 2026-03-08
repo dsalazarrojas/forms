@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about monthly coaching calls from both the coach and the client. The form is used to track progress, identify areas for improvement, and provide a record of the discussion. To determine if this form is relevant and non-duplicitous, we should consider the following questions:
-- Is the coach and client discussing goals and progress during the call?
-- Is the coach and client making decisions and setting actions items?
-- Is the coach providing guidance and support during the call?
-If the form is not being used for these purposes, or if the same information is being collected through other means, then it may not be necessary to use this form.
-
-This form is not designed to replace existing systems or processes, but rather to supplement and enhance them. For example, if you are using other tools or forms to track progress, this form can be used to collect additional context and information that is not already being captured.
-</thinking>
-
 # Monthly Coaching Call Check In Form - Help Guide
 
 ## Purpose

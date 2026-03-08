@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers after a visit to a restaurant or other service location. The purpose of this form is to help the business understand how they performed in certain key areas, such as location, service, food quality, and overall atmosphere. By completing this form, customers can provide valuable insights to help the business improve their services. This form is a simple and straightforward way to gather feedback, and the questions are designed to be clear and easy to understand.
-</thinking>
-
 # Restaurant Service Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers after a visit to a restaurant or other service location.

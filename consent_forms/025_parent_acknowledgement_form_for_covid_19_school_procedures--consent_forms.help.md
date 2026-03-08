@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Acknowledgement Form For Covid 19 School Procedures - Help Guide
 
 ## Purpose

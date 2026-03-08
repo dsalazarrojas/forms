@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect personal and membership information from individuals interested in joining the club. The form is divided into several sections, each focusing on different aspects of membership registration. The form will help the club understand how to best reach out to new members and tailor the club's activities and services to their interests. To ensure that new members are aware of the club's rules and expectations, a section is included for them to agree to the club's code of conduct.
-
-The form will be used to determine the type of membership, how the member heard about the club, and their preferred contact method. The member will also be able to select their areas of interest within the club. Finally, the member will have to agree to the club's rules and code of conduct, understand that there is an annual membership fee, and confirm that they are willing to receive communications from the club.
-</thinking>
-
 # Club Membership Registration Form - Help Guide
 
 ## Purpose

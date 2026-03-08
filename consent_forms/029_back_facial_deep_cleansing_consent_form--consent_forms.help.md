@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will walk users through the Back Facial Deep Cleansing Consent Form, which is designed to inform and educate clients about their treatment options and potential risks. Before proceeding, users will be asked to confirm they have not completed a similar form in the past.
-
-</thinking>
-
 # Back Facial Deep Cleansing Consent Form - Help Guide
 ## Purpose
 The Back Facial Deep Cleansing Consent Form is a mandatory document that needs to be completed before undergoing a Back Facial Deep Cleansing treatment. This form helps clients understand the treatment process, potential risks, and post-treatment care instructions.

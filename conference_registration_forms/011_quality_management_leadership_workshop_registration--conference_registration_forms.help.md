@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information for a Quality Management Leadership Workshop Registration. It is intended for individuals who want to attend the workshop. The form is divided into several sections, each with specific fields that need to be filled out. 
-
-Before filling out the form, please make sure you have all the necessary information and that you are registering for the correct workshop. 
-
-This form is not for workshop organizers or administrators. If you are an organizer, please use a different form.
-
-</thinking>
-
 # Quality Management Leadership Workshop Registration - Help Guide
 ## Purpose
 This form is used to register for a Quality Management Leadership Workshop. It is designed to collect relevant information about the workshop and the attendees.

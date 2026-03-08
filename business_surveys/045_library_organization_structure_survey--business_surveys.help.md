@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about the organizational structure of a library, specifically the main organizing unit, department, department head, reporting line, and staffing information. The purpose of this form is to collect data that will help in better understanding and optimizing the library's internal workings.
-
-This guide will help users complete the form correctly and understand each field's significance. Please ensure that you have read and understood the form's purpose and the explanations provided before starting the survey. If you are not sure about any field, please ask for clarification or consult the relevant section of this guide.
-
-</thinking>
-
 # Library Organization Structure Survey - Help Guide
 ## Purpose
 The Library Organization Structure Survey is designed to gather essential information about a library's internal organization and staffing to help in its effective management and development.

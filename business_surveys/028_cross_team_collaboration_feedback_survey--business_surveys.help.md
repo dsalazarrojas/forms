@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Cross Team Collaboration Feedback Survey" form, we need to ensure that users understand the purpose and requirements of the form clearly. This will involve checking for duplication of efforts and ensuring that the form's purpose is well-defined and communicated effectively.
-
-The form's purpose is to gather feedback on cross-team collaboration within a team or organization, aiming to improve collaboration practices, communication, and overall team performance. The form's design is structured around multiple-choice questions, allowing users to provide their feedback and ratings on different aspects of collaboration.
-
-We should ensure that the form is filled out correctly by guiding users through each field, explaining what each field represents, and providing any necessary context or instructions. This will help prevent any confusion or misinterpretation of the form's questions.
-
-The form's structure will be reflected in the help guide, with each field explained in a concise and clear manner, allowing users to fill out the form accurately and efficiently.
-
-</thinking>
-
 # Cross Team Collaboration Feedback Survey - Help Guide
 ## Purpose
 The Cross Team Collaboration Feedback Survey is designed to gather feedback on cross-team collaboration practices within your team or organization. This form aims to improve collaboration, communication, and overall team performance by understanding individual experiences and perceptions.

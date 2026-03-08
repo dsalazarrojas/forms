@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Clinic Registration - Help Guide
 ## Purpose
 The Performance Clinic Registration form is designed for participants to register for a performance clinic event. This form collects information about the participant, their preferred clinic time, consent, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sku_deactivation_approval_request_form - Help Guide
 
 ## Purpose

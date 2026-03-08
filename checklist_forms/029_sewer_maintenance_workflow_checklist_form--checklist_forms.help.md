@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to collect information for sewer maintenance workflows, specifically for tracking and managing work orders, site checks, safety reviews, and other relevant details. It is essential to ensure that all required fields are completed accurately and comprehensively to maintain a thorough and reliable record of sewer maintenance activities.
-
-Before starting the form, please review the following fields and ensure that you have all the necessary information available:
-
-*   **Work Orders**: Select one or more relevant orders related to the sewer maintenance activity. This could be the Order Number, Order Date, or Order Type.
-*   **Site Checks**: Choose the appropriate site check category, either Normal or Abnormal, depending on the condition of the site.
-*   **Safety Reviews**: Select one or more relevant reviews related to the safety aspect of the sewer maintenance activity. This could be the Review Type, Review Date, or Review Result.
-*   **Files Uploaded**: Select one or more files relevant to the sewer maintenance activity. This could be a document, image, or video that provides additional context or evidence.
-*   **Assigned Tool**: Enter the specific tool or equipment used for the sewer maintenance activity.
-*   **Date Created/Updated**: Enter the date and time when the record was created or last updated.
-*   **User Created/Updated**: Select the user who created or last updated the record.
-*   **Comments/Tags**: Provide any additional comments or tags relevant to the sewer maintenance activity.
-*   **Files Link/Tags 2**: Enter a link to any additional files or tags that are relevant to the activity.
-*   **File Uploaded Date 2**: Enter the date when the additional file was uploaded.
-*   **File Uploaded Time 2**: Enter the time when the additional file was uploaded.
-*   **File Description**: Enter a brief description of the uploaded file.
-*   **Tags 2**: Enter any additional tags relevant to the activity.
-
-Please ensure that all required fields are completed accurately and thoroughly to maintain a comprehensive record of sewer maintenance activities.
-</thinking>
-
 # Sewer Maintenance Workflow Checklist Form - Help Guide
 ## Purpose
 

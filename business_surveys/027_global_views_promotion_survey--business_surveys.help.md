@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and opinions from users on a specific topic related to global views promotion. The purpose of this form is to gather information on the user's category, description, and other relevant details. This form is part of a larger survey and feedback system used to understand user opinions and preferences.
-
-Before attempting to complete this form, please ensure that you have reviewed the purpose and context of this survey to avoid duplicate submissions. If you have already provided feedback or completed this form previously, please do not resubmit.
-
-This form has multiple pages, each with several fields. Please follow the instructions below to complete it successfully.
-
-</thinking>
-
 # Global Views Promotion Survey - Help Guide
 ## Purpose
 The Global Views Promotion Survey is designed to collect feedback and opinions from users on a specific topic related to global views promotion. The purpose of this survey is to gather information on the user's category, description, and other relevant details.

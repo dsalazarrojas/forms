@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Webinar Clip Distribution Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who wish to participate in the educational webinar clip distribution program. It helps us understand their consent and preferences for the distribution of webinar clips, which will be used for educational purposes. This guide will walk you through the steps to complete the form and explain each field in detail.

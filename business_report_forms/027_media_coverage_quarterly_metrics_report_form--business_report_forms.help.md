@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather media coverage metrics on a quarterly basis for a company or organization. This form is used to track and report on various aspects of media coverage, including impressions, reach, engagement, sentiment, and earned media value, as well as other relevant information. This data is likely used to measure the success of a company's media campaigns and to identify areas for improvement. It's essential to complete this form accurately and thoroughly to get a comprehensive understanding of the media coverage.
-</thinking>
-
 # Media Coverage Quarterly Metrics Report Form - Help Guide
 ## Purpose
 This form is designed to collect media coverage metrics on a quarterly basis for a company or organization. It helps track and report on various aspects of media coverage, including impressions, reach, engagement, sentiment, and earned media value, to measure the success of media campaigns and identify areas for improvement.

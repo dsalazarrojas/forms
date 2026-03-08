@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we must first understand its context. The form is called "Diversity, Equity, And Inclusion (DEI) Audit Checklist". This suggests that it's a form used for auditing or assessing an organization's diversity, equity, and inclusion practices and policies. Given its name and the various fields it contains, we can infer that it's likely used for HR or diversity and inclusion teams to assess their organization's progress in these areas, identify areas for improvement, and track action items for future development.
-
-However, without further context or explanation provided in the yaml fields, we can't be 100% sure of the form's purpose and usage within the organization. Therefore, it's essential to review each field carefully to understand its significance in the overall purpose of the form.
-
-After reviewing the fields, it's evident that the form is used to assess various aspects of diversity, equity, and inclusion, including leadership engagement, diversity practices, employee resources, and employee experiences. The form also includes fields for feedback and next steps, which suggests that it's not just for auditing but also for planning and tracking progress.
-
-Considering the provided fields, I've created a help guide that explains each field's purpose.
-
-</thinking>
-
 # Diversity, Equity, And Inclusion (DEI) Audit Checklist - Help Guide
 ## Purpose
 The Diversity, Equity, And Inclusion (DEI) Audit Checklist is a form used for auditing or assessing an organization's diversity, equity, and inclusion practices and policies. It helps identify areas for improvement, track progress, and provide a framework for planning and tracking action items.

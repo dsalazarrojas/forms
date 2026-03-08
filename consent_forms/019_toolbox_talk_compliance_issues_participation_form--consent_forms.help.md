@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from participants regarding compliance issues that may have arisen during a toolbox talk. Toolbox talks are regular meetings where supervisors and team leaders discuss important topics, such as workplace safety and compliance. By filling out this form, participants can provide their feedback, sign off on their attendance, and acknowledge any compliance issues that were raised during the meeting. This form helps supervisors to track and follow up on issues, ensuring that they are addressed and resolved in a timely manner. Please ensure that you only fill out this form if you were present during the compliance talk and if you have not already done so. If you have already submitted a form, do not resubmit. Please provide accurate and honest information when filling out this form... </thinking>
-
 # Toolbox Talk Compliance Issues Participation Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants regarding compliance issues that may have arisen during a toolbox talk.

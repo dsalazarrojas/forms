@@ -1,7 +1,3 @@
-<thinking>
-This form is for the release of an academic transcript, allowing students to authorize the dissemination of their academic records to a specific recipient. Before filling out this form, please ensure that you haven't already submitted a similar form in the past; submitting multiple forms may cause confusion and potentially result in unnecessary processing delays. Please fill in your personal details accurately to ensure the correct recipient receives the correct transcript.
-</thinking>
-
 # Academic Transcript Release Form - Help Guide
 ## Purpose
 The Academic Transcript Release Form is a document that authorizes the release of your academic transcript to a specified recipient. This form is used to obtain an official or unofficial transcript, depending on your needs, and is typically used for employment verification, graduate school applications, or other purposes that require verification of your academic credentials.

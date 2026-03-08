@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge awareness and understanding of censorship issues, including its forms, experiences, and concerns. It aims to collect data on individual and professional experiences with censorship, as well as organizational policies and education on the matter. 
-The form will not be duplicated and will only be accessible by authorized personnel. Please proceed with filling out the form below.
-</thinking>
 # Censorship Awareness Survey - Help Guide
 ## Purpose
 The Censorship Awareness Survey is a tool for gathering data on individual and organizational knowledge, experiences, and concerns regarding censorship. Your responses will help us better understand the current state of awareness and understanding of censorship.

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure that this form is intended for a specific purpose and doesn't duplicate any existing forms. The Client Evaluation Form for Lash Extensions is designed to collect feedback from clients about their experience with a lash extension service. This form will help the salon or service provider assess the quality of service, identify areas for improvement, and make data-driven decisions to enhance customer satisfaction. Please review the form carefully to ensure it's relevant to your needs.</thinking>
-
 # Client Evaluation Form For Lash Extensions - Help Guide
 
 ## Purpose

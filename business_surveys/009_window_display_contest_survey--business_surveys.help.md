@@ -1,8 +1,3 @@
-<thinking>
-We're creating a help guide for the "Window Display Contest Survey" form to ensure that end-users can efficiently and accurately complete it. This form is intended to collect information from store owners or representatives about their business, including contact details, store information, and a photo. The survey's purpose is to gather insights from various stores participating in the window display contest, and we want to make sure that the end-users understand the form's requirements and can fill it out correctly. To confirm, we'll review the form structure and fields to ensure that we're not duplicating any information or asking for irrelevant details.
-
-</thinking>
-
 # Window Display Contest Survey - Help Guide
 
 ## Purpose

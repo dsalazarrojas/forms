@@ -1,11 +1,3 @@
-<thinking>
-This form is for clinical study participants to check in after each study visit. It helps researchers track participant engagement, adherence, and any changes or issues that may have arisen between visits. The purpose of this form is to collect information about the participant's health status, protocol compliance, and logistics for upcoming visits.
-
-To confirm that this form is being used correctly, please make sure that you are filling it out for the intended purpose and not for other clinical study-related tasks. Additionally, be aware that this form does not duplicate or replace other clinical study records.
-
-Please review the form carefully and ensure you have filled out all required fields before submitting.
-</thinking>
-
 # Clinical Study Check In Form - Help Guide
 
 ## Purpose

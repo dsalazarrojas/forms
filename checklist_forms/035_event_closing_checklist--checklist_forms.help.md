@@ -1,8 +1,3 @@
-<thinking>
-The event_closing_checklist form is used to ensure that all relevant details are captured at the end of an event. This is a checklist form that helps to verify that all necessary aspects of an event are properly closed, including staff presence, fees paid, sponsors, speakers, and other relevant details. This form should not be used for other purposes, such as creating a new event.
-
-</thinking>
-
 # event_closing_checklist - Help Guide
 ## Purpose
 The event_closing_checklist form is used to gather information about event closing details to ensure that all aspects of the event are properly closed.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to conduct a dot-compliance audit checklist for vehicles. The form's purpose is to assess whether a vehicle meets specific requirements or standards related to vehicle safety and compliance. It seems there is no specific requirement for this form as no fields indicate a particular standard or regulation they should comply with. This form is likely to be used in a general or internal context.
-
-The goal of this form is to gather information about the condition and standards of vehicles. However, it seems this form doesn't specify which vehicles or which regulations the form is referring to. It's possible that it's designed to be a generic vehicle checklist for an internal audit or assessment.
-
-The form is divided into several fields that are mostly related to the vehicle's condition, inspection, and safety standards. However, the fields and their labels are quite generic and don't seem to follow any specific standard or regulation.
-
-This form seems to be designed for data collection and reporting. There is no indication of what actions will be taken or decisions made based on the submitted data. It's likely that the data will be used for internal reporting and tracking purposes.
-
-</thinking>
-
 # dot_compliance_audit_checklist - Help Guide
 ## Purpose
 This form is designed to conduct a dot-compliance audit checklist for vehicles, assessing their condition and standards.

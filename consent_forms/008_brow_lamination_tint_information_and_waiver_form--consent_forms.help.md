@@ -1,5 +1,3 @@
-<thinking>As a brow lamination & tinting service provider, this form is used to collect essential information from clients before their appointment. The form helps to ensure that clients are aware of the potential risks and benefits of the treatment, and provides a clear understanding of what they can expect during and after the appointment. This helps to establish a clear line of communication and sets boundaries, which is in line with professional and regulatory guidelines. It also serves as a formal agreement between the client and the service provider, establishing the terms of the service. This form is designed to be user-friendly, with clear instructions and options for clients to indicate their consent and understanding of these terms.</thinking>
-
 # Brow Lamination & Tint Information And Waiver Form - Help Guide
 ## Purpose
 This form is used to collect essential information from clients before their brow lamination and tinting appointment. It ensures that clients are aware of the potential risks and benefits of the treatment and establishes a clear understanding of what they can expect during and after the appointment.

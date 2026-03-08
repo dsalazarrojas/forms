@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll review the form and its purpose. The form is called "Philanthropic Innovation Insight Survey" and it seems to be a tool for gathering information from executive team members about their awareness and suggestions regarding philanthropic innovation. It's likely used for internal purposes within an organization to assess the level of awareness and engagement of its executive team members. To ensure this guide is relevant and not duplicating any information already known within the organization, I'll create a comprehensive and practical help guide that explains the form's purpose, how to complete it, and each field's meaning.</thinking>
-
 # Philanthropic Innovation Insight Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from executive team members about their awareness and suggestions regarding philanthropic innovation. The purpose of this survey is to help the organization assess the level of awareness and engagement of its executive team members in philanthropic innovation.

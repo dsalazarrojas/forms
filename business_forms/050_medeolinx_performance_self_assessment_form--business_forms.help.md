@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an employee's performance and receive feedback from a manager. It should only be used by employees to provide their performance self-assessment and by managers to provide feedback to employees. The form is not meant to be used for other purposes and should not be filled out by individuals without the correct roles. The MedeoLinx Performance Self-Assessment Form is an original adaptation created using AI and public survey topic metadata.
-</thinking>
-
 # MedeoLinx Performance Self-Assessment Form - Help Guide
 ## Purpose
 The MedeoLinx Performance Self-Assessment Form is designed for employees to provide their performance self-assessment and for managers to provide feedback to employees.

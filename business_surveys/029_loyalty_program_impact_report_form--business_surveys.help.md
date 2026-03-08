@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the impact of a loyalty program on a company's employees, customers, and overall business. This form is part of the business_surveys category and is titled "Loyalty Program Impact Report Form". It is designed to gather specific data points that will help businesses evaluate the effectiveness of their loyalty programs. Before filling out this form, please ensure that you are not duplicating existing data, and that your responses are accurate and relevant to your business.
-</thinking>
-
 # Loyalty Program Impact Report Form - Help Guide
 
 ## Purpose

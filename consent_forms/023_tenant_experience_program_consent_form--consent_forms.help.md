@@ -1,10 +1,3 @@
-<thinking> 
-**This help guide ensures that users understand the purpose and functionality of the "Tenant Experience Program Consent Form"**
- 
-We want to prevent duplication of effort and ensure accuracy in the completion of this form by clarifying its purpose and requirements. This guide will provide users with step-by-step instructions on how to complete the form.
- 
-</thinking>
- 
 # Tenant Experience Program Consent Form - Help Guide
 ## Purpose
 The Tenant Experience Program Consent Form is designed to collect information about a tenant's consent to participate in the Tenant Experience Program. This form is used to gather their preferences and management details about property teams.

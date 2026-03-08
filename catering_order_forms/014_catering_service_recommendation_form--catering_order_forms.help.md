@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the customer's event details and preferences to ensure that we can provide the best catering experience for the customer.
-Before you start filling out the form, check the following:
-- Have you used our catering service before? If so, you may not need to fill out this form as we already have your information on record.
-- Are you already in our catering database?
-If you have already provided us with your contact information and event details in the past, you can simply log in and access your previous events to edit or add new details.
-If not, proceed with filling out this form.
-</thinking>
-
 # Catering Service Recommendation Form - Help Guide
 ## Purpose
 The Catering Service Recommendation Form is designed to help us better understand your event needs and preferences, allowing us to provide personalized catering recommendations for your upcoming event.

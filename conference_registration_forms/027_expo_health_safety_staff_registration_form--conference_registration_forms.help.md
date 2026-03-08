@@ -1,11 +1,3 @@
-<thinking>Before creating this help guide, let's break down the internal reasoning and context for this form. This form appears to be for registering expo health and safety staff, likely for a conference or event. The purpose of the form is to collect information from staff members who will be working on-site during the event. This form likely serves to ensure that staff members are properly registered and their information is documented for any emergencies or incidentals.
-
-The form fields suggest that the organization wants to collect basic contact information (name, email, phone), emergency contact information, and shift scheduling details (shift start and end times, location). The "team member of" field might be intended to track which team or department the staff member is part of.
-
-Before we proceed, let's confirm that the form is for staff registration and not for attendees or attendees' emergency contacts. This form seems to follow the standard format for staff registration, which is crucial for health and safety purposes.
-
-Now, let's create the help guide based on the provided YAML fields.</thinking>
-
 # Expo Health & Safety Staff Registration Form - Help Guide
 ## Purpose
 This form is for registering expo health and safety staff to ensure their information is documented for any emergencies or incidentals during the event. Please fill out this form to provide your details to our event staff.

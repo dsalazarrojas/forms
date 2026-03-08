@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to facilitate the cancellation process of an agreement between two parties. It captures the essential details necessary for a formal notice of cancellation, including the agreement ID, reason for cancellation, effective date, notice period, cancellation date, method of notice, and the date of signing. This information is crucial for maintaining a clear record of the cancellation process and ensuring both parties are aware of their obligations.
 
 To complete this form, please follow the instructions below:

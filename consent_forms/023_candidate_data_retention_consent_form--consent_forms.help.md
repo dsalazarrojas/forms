@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for candidates to consent to the retention of their data for future job opportunities. This form ensures that candidates understand how their data will be used and stored. It is essential to have a clear and concise form to inform candidates about their rights and responsibilities regarding data protection. By providing this form, we can ensure that candidates are aware of what they are consenting to and are able to make informed decisions. This form should not be used for any other purpose, and it is a one-time use form.
-</thinking>
-
 # Candidate Data Retention Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain a candidate's consent to retain their data for future job opportunities. It ensures that candidates understand how their data will be used and stored.

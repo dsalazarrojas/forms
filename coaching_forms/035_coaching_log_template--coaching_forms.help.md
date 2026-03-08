@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for coaches to record and reflect on their coaching sessions, providing a structured way to document client interactions and track progress. Its primary use is to facilitate data-driven decision making for coaches and improve client outcomes. Please ensure you complete this form for every session to maintain accurate and consistent records.
-
-This form should only be completed by authorized coaches, and any sensitive or confidential information should be handled accordingly.
-
-Please note that this template is designed for a specific type of coaching, if you are not the intended user of this form, please do not attempt to complete it.
-
-The following guide is for authorized coaches only.
-
-</thinking>
-
 # Coaching Log Template - Help Guide
 
 ## Purpose

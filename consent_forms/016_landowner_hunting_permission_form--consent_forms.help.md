@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to collect information from landowners about their permission for hunting activities on their property. This form will help landowners and hunters communicate and establish the terms of the permission. It's crucial to fill this form accurately to ensure that both parties are on the same page and avoid any potential issues or misunderstandings. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using public survey topic metadata.
 
 # Landowner Hunting Permission Form - Help Guide

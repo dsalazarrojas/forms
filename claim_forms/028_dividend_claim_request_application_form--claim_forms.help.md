@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a dividend claim request. The purpose of this form is to gather necessary details from the user, including their identification, claim-related information, and contact details. This form is typically used by users who need to submit a claim for a dividend payment. Please ensure you have a valid reason for your claim before filling out this form. If you have already submitted a claim, please do not resubmit it using this form.
-</thinking>
-
 # Dividend Claim Request Application Form - Help Guide
 ## Purpose
 This form is used to submit a dividend claim request. Please fill out the form with your required information to initiate the claim process.

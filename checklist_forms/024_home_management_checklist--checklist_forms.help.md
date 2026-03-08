@@ -1,7 +1,3 @@
-<thinking>
-This form is a general home management checklist that aims to gather information about a household's daily management. It is designed to be completed by a household member or a person responsible for managing the household's daily activities. The form will help to collect data on various aspects of home management, including household tasks, maintenance scheduling, expenses, and other related information. Please ensure that this form is not completed multiple times by the same user, as it is designed to capture a snapshot of the current state of the household.
-</thinking>
-
 # home_management_checklist - Help Guide
 ## Purpose
 This form is designed to collect information on various aspects of home management, helping you to have a better understanding of your household's daily activities, expenses, and other related details.

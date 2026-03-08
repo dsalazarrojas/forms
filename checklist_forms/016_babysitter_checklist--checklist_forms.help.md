@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from babysitters about the household, child care needs, and emergency contact information. The form is designed to ensure that the babysitter has a clear understanding of the household's rules, boundaries, and safety protocols. This information will help us create a safe and comfortable environment for the child, and also help us assess the babysitter's ability to provide quality care.
-
-The form includes a series of questions that cover various aspects of childcare, such as emergency contact information, household rules, and child-specific needs. By completing this form, the babysitter will be able to understand what is expected of them and what they need to do in case of an emergency.
-
-Before filling out this form, the babysitter should make sure to read each section carefully and provide accurate and detailed information. This form is not meant to be a duplication of information, but rather a comprehensive guide to help the babysitter understand their role and responsibilities.
-
-</thinking>
-
 # Babysitter Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information from babysitters about the household, child care needs, and emergency contact information.

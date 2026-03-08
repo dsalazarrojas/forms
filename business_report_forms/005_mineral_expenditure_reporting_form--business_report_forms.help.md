@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information related to the mineral expenditure reporting process. It appears to be used for projects that involve mining or extraction of minerals such as gold, silver, and copper. The form likely serves as a tool for reporting on the expenditure related to these projects, including the project's details, expenditure amount, and submission information. This form could be used for internal reporting within a company or organization, or possibly for external reporting to regulatory bodies.
-
-Before using this form, ensure that it is not being duplicated or submitted multiple times. If you are unsure about the purpose or usage of this form, please consult the relevant authorities or departmental representatives.
-
-</thinking>
-
 # Mineral Expenditure Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect information on mineral expenditure reports for projects involving gold, silver, and copper mining.

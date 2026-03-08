@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Finance Department Efficiency Survey - Help Guide
+> # Finance Department Efficiency Survey - Help Guide
 ## Purpose
 The Finance Department Efficiency Survey is a tool used to gauge the performance and efficiency of the finance department within an organization. This survey aims to collect feedback from various stakeholders, including team members, managers, and external partners, to identify areas of improvement and provide valuable insights for the finance department to enhance its performance.
 

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "process_effectiveness_evaluation_survey" form, I'll first analyze the form structure and fields to determine its purpose, how to complete it, and the meaning of each field. The form appears to be a survey evaluating the effectiveness of a business process, likely within an organizational context.
-
-The form has a clear structure, with a brief introduction page, followed by questions that assess the respondent's awareness of the current workflow, its impact, and potential improvements. It also includes questions on team collaboration, feedback, and survey metadata (date, time, and email).
-
-The form is designed to collect quantitative and qualitative data, likely for internal evaluation and improvement purposes.
-
-</thinking>
-
 # process_effectiveness_evaluation_survey - Help Guide
 ## Purpose
 

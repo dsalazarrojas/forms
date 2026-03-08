@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for caregivers to register their child for before and after school care services. The form captures essential information about the child, the caregiver, and the child's care needs. To ensure accurate and complete data, please review the form carefully before submission. Before starting, please note that this form is for registering a single child. If you need to register multiple children, please fill out the form multiple times. Also, be sure to enter dates in the correct format (MM/DD/YYYY).
-</thinking>
-
 # Before And After School Care Registration Form - Help Guide
 ## Purpose
 This form is used to register a child for before and after school care services with the school. It captures information about the child's details, the child's care needs, and emergency contact information.

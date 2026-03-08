@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "On Call Availability Survey" is to determine the on-call availability of employees or team members. This form is used to collect information about an individual's preferred contact methods, available days, start and end times, preferred language, and assigned tool. This data helps teams and managers understand who is available and when, allowing for efficient communication and resource allocation. It's essential to fill out this form accurately to ensure that the data is reliable and up-to-date.
-</thinking>
-
 # On Call Availability Survey - Help Guide
 ## Purpose
 The On Call Availability Survey is used to gather information about your on-call availability. This form helps teams and managers understand who is available and when, allowing for efficient communication and resource allocation.

@@ -1,15 +1,3 @@
-<thinking> This form is designed to collect information from individuals who wish to register for a Workplace Efficiency Forum. The form will be used to collect personal details such as name, email, and phone number from both the individual and their parent or guardian, if applicable. The form also collects information on the individual's job title and session interests. It is essential to fill out the form accurately to ensure smooth registration and participation in the forum. 
-
-Please check if you are registering for yourself or for someone else. If for someone else, please fill out the form as per the guidelines provided. 
-
-Please note that the fields marked as "parent" are intended for the individual's parent or guardian. 
-
-Also, please make sure to select all the session interests that apply to you. 
-
-The form is not intended to collect information that will be used for marketing purposes, and it is only meant for internal use within the organization. 
-
-</thinking>
-
 # Workplace Efficiency Forum Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals who wish to participate in the Workplace Efficiency Forum. The purpose of this form is to gather essential details from both the individual and their parent or guardian, if applicable.

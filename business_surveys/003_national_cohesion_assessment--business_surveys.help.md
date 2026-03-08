@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # national_cohesion_assessment - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from participants before they attend an outdoor adventure camp. This form is designed to be filled out by each participant to provide the necessary information to ensure their safety and well-being during the camp.
-It's essential that participants complete this form accurately and truthfully, as it will help the organizers of the camp understand any potential risks or medical concerns that may affect them. Please make sure to answer all questions carefully and truthfully.
-</thinking>
-
 # outdoor-adventure-camp-intake-form - Help Guide
 ## Purpose
 This form is designed to collect information from participants to ensure their safety and well-being during the outdoor adventure camp.

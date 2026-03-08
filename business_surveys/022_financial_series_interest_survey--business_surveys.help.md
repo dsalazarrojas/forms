@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that explains the purpose of the "Financial Series Interest Survey" form and how to complete it, along with a field-by-field explanation of each section. I will also ensure that the guide is concise, practical, and easy to understand. The form appears to be a survey that collects various types of information, including personal details, financial data, and preferences. To confirm, I will review the form's YAML structure and ensure that I provide a clear explanation of each field.</thinking>
-
 # Financial Series Interest Survey - Help Guide
 
 ## Purpose

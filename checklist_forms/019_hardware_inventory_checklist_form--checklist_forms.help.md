@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about hardware assets. This form is used to create a checklist for inventory management, tracking the status and details of various hardware assets. It's essential to ensure that each field is accurately filled in to maintain accurate inventory records. Before starting, double-check that you're not duplicating a record in the system.
-
-</thinking>
-
 # hardware_inventory_checklist_form - Help Guide
 ## Purpose
 This form helps you to create a hardware inventory checklist. Fill in the required fields to accurately capture the details of your hardware assets.

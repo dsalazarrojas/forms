@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, I will review the context of the form, which appears to be an "Ecommerce Order Management Software Evaluation Checklist." The form likely serves to gather information about a specific aspect of ecommerce order management software. The purpose of the form is to evaluate the suitability of a particular ecommerce order management software for a business. The form might be used by business users or IT professionals to compare and choose between different options.
-
-</thinking>
-
 # Ecommerce Order Management Software Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to help you evaluate the features and capabilities of ecommerce order management software. It covers general information, order process, order management, customer management, reporting, integration, security, and scalability aspects of the software.

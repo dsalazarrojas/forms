@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from parents or guardians to ensure safe and secure transportation for their children. This form gathers essential details about the child, the event or activity, and the transportation arrangements. The information gathered will be used to create a safe and enjoyable experience for the child. 
-
-This form is a critical document for risk management and to ensure that we are providing the best possible service to our clients. By filling out this form, parents or guardians are giving their consent for their child to participate in the transportation service.
-
-To avoid duplication, we have set up a unique ID for each field, and we encourage parents or guardians to fill out the form carefully and accurately, as the information will be used to create a customized transportation plan for their child.
-</thinking>
-
 # Church Transportation Consent Form - Help Guide
 ## Purpose
 The Church Transportation Consent Form is a mandatory document that needs to be filled out by parents or guardians before their child can participate in church transportation services. This form ensures that we have all the necessary information to provide a safe and enjoyable experience for your child.

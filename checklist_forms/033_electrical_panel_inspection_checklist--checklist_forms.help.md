@@ -1,5 +1,3 @@
-<thinking>As a form expert, I will analyze the provided YAML fields to ensure that the help guide is clear and concise, explaining each field's purpose and functionality. I will also check for any potential duplication of questions or unclear label names. Once I have a clear understanding of the form, I will create a helpful guide that explains the purpose and functionality of the form, as well as each field's purpose. This will help end-users understand the form's context and fill it out accurately.</thinking>
-
 # Electrical Panel Inspection Checklist - Help Guide
 ## Purpose
 This form is designed for electrical professionals to conduct a thorough inspection of electrical panels. It helps ensure that all safety and regulatory requirements are met, and provides a systematic way to document the inspection process and results.

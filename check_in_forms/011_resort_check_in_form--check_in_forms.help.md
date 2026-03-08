@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for guests to input their information for check-in purposes when visiting a resort. The form includes fields for user details, check-in information, and special requests. This form should only be filled out by guests who have an upcoming stay at the resort, not for repeat guests checking out or general inquiries. This is an instance-specific form and should not be used for non-guest purposes.
-</thinking>
-
 # Resort Check In Form - Help Guide
 ## Purpose
 This form is used to capture guest's check-in information and any special requests they may have during their stay at the resort.

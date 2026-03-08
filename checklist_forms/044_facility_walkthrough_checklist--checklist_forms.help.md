@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a walkthrough checklist for a facility, which is used to assess the condition and readiness of a building for occupancy. This form is intended for use by inspectors or auditors to ensure that the facility meets all necessary safety and regulatory requirements. It is likely that this form is used in a controlled or regulated environment, such as healthcare, manufacturing, or government institutions. The form's structure suggests that it covers various aspects of the facility, including floors, equipment, documents, supplies, security, and safety.
-To determine the relevance of this form, it is likely that it will be used for initial facility assessments, regular inspections, or during change of ownership.
-</thinking>
-
 # Facility Walkthrough Checklist - Help Guide
 ## Purpose
 The Facility Walkthrough Checklist is a form used to assess the condition and readiness of a facility for occupancy.

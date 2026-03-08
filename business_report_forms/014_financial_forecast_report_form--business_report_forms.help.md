@@ -1,5 +1,3 @@
-<thinking>This form is used for creating a financial forecast report that outlines a company's predicted financial performance over a specified period. It should be used for planning and forecasting purposes only, and not for actual financial reporting or record-keeping. The form does not replace any other form of financial reporting, but rather provides an additional tool for users to create projections and forecasts. If you need help with actual financial reporting, please reach out to your financial team for assistance.</thinking>
-
 # Financial Forecast Report Form - Help Guide
 ## Purpose
 

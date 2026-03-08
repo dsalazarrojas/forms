@@ -1,7 +1,3 @@
-<thinking>
-The "Quality Control Complaint Form" is designed to collect information about potential issues or defects with purchased products. This form should only be used for actual complaints, not for general inquiries or feedback. Before submitting, please ensure you're not duplicating a complaint that has already been reported. If you're unsure, contact the Quality Control department directly.
-</thinking>
-
 # Quality Control Complaint Form - Help Guide
 ## Purpose
 The "Quality Control Complaint Form" is a tool used to report issues or defects with products. If you've experienced a problem with a product you've purchased, please fill out this form to help us identify and resolve the issue.

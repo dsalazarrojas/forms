@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Survivor Story Sharing Consent Form - Help Guide
 
 ## Purpose

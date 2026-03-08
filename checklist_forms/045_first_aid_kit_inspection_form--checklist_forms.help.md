@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the status of a First Aid Kit, used to provide basic medical treatment in emergency situations. The form is used to determine if the kit is located in the correct location, if it's fully stocked, and if it's in good condition. The form will help users quickly identify any potential issues with the kit and take necessary actions to rectify them.
-</thinking>
-
 # First Aid Kit Inspection Form - Help Guide
 
 ## Purpose

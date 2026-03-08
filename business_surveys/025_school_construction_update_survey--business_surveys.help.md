@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a school construction project, including the project's name, address, and update frequency. The form is meant to gather data from school staff, administrators, or other stakeholders to track the progress and status of the construction project. This form is likely used for internal purposes, such as tracking and reporting, and is not intended for external use.
-</thinking>
-
 # School Construction Update Survey - Help Guide
 ## Purpose
 This form is used to collect information about a school construction project, including its name, address, and update frequency. It helps school staff and administrators track the progress and status of the project.

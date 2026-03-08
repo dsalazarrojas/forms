@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from business professionals on their perceptions of their company culture. It's meant to help the company understand areas of strength and areas for improvement. Please ensure you're answering as a representative of your company, and not as an individual. Your responses should reflect your personal opinions and experiences. Please answer honestly, and do not duplicate responses.
-</thinking>
-
 # Business Culture Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the current state of your company culture. It will help us understand your perceptions of our mission, values, leadership, teamwork, innovation, and overall job satisfaction.

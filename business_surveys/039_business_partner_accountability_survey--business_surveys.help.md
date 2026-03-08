@@ -1,13 +1,3 @@
-<thinking>
-Business Partner Accountability Survey - Help Guide
-=====================================================
-
-This survey is designed to help evaluate the performance and accountability of your business partners. It's essential to complete this survey as a business partner to provide a comprehensive and accurate evaluation of your partnership.
-
-Before filling out this form, please ensure that you are in a position to provide an honest and objective assessment of your partner's performance. This survey is not a duplicate of any other survey, and it's intended to be a helpful tool for you and your partners.
-
-</thinking>
-
 # Business Partner Accountability Survey - Help Guide
 ## Purpose
 This survey is designed to help evaluate the performance and accountability of your business partners. It's essential to complete this survey to provide a comprehensive and accurate evaluation of your partnership.

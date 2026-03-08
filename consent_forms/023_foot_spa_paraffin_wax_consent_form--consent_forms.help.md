@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foot Spa Paraffin Wax Consent Form - Help Guide
 ## Purpose
 The Foot Spa Paraffin Wax Consent Form is a document used to obtain a client's consent for the application of paraffin wax in our spa's foot treatment services. This form is essential for us to ensure that clients are aware of and agree to the procedures involved in our treatment, including the use of paraffin wax.

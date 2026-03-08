@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about a patient's current or past medications. It's crucial to accurately document medications taken, as it helps healthcare providers and other relevant stakeholders make informed decisions about patient care. Before proceeding, ensure that you are filling out this form for its intended purpose and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Medication List - Help Guide
 ## Purpose
 The Medication List form is designed to collect information about a patient's current or past medications. This includes details such as patient name, a list of medications taken, dosage, and dosing frequency.

@@ -1,10 +1,3 @@
-<thinking>
-This form is a checklist to help ensure a safe laboratory environment. The form's purpose is to assess various safety aspects of a lab, such as equipment, chemical handling, and emergency procedures. It is essential to review and complete this form regularly to identify potential hazards and ensure compliance with safety regulations. This process helps prevent accidents and ensures a safe working environment.
-
-This guide will walk you through each field and help you understand what to expect when completing the form.
-
-</thinking>
-
 # Laboratory Safety Checklist - Help Guide
 ## Purpose
 

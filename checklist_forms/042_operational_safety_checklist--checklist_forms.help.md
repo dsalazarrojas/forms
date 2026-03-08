@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about operational safety checks, which are crucial for ensuring a safe working environment. This form is used to document and track safety checks performed on equipment, work areas, and teams. The information collected will help in maintaining a safe and healthy work environment.
-
-This form is not designed to be filled out on a daily basis, but rather as a one-time check or at regular intervals. Please ensure that you are only filling out this form if you have performed an actual safety check, and not just as a routine exercise.
-
-Before starting, please review the equipment and work areas that you are checking, and ensure that all necessary information is accurate and complete.
-</thinking>
-
 # Operational Safety Checklist - Help Guide
 
 ## Purpose

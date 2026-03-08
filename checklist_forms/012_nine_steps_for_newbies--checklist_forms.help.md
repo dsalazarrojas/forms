@@ -1,8 +1,3 @@
-<thinking>
-This form, "Nine Steps For Newbies", is designed to guide new members through a series of essential steps to help them get started with the system. The form is likely intended for users who are new to the system and need to familiarize themselves with its core features and capabilities. The form's purpose is to ensure that new members have a smooth onboarding experience and can quickly become productive users.
-The form's layout consists of 9 steps, each corresponding to a specific action or task. The steps are likely meant to be completed in order, with each one building upon the previous one.
-</thinking>
-
 # Nine Steps For Newbies - Help Guide
 ## Purpose
 The "Nine Steps For Newbies" form is a guided onboarding process for new members to get started with the system.

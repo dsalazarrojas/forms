@@ -1,11 +1,3 @@
-<thinking>
-
-The "Child Medical Procedure Permission Form" is used to obtain consent from the parents or guardians of a child for a specific medical procedure. This form is essential for ensuring that the child receives the necessary medical care while being mindful of parental rights and responsibilities.
-
-Before proceeding, please ensure you have not already submitted a similar form for the same child. Duplicate submissions can cause confusion and may lead to incorrect or incomplete medical records.
-
-</thinking>
-
 # Child Medical Procedure Permission Form - Help Guide
 ## Purpose
 The Child Medical Procedure Permission Form is a crucial document that grants medical staff permission to perform a specific medical procedure on a child. This form ensures that the child's parents or guardians are aware of and agree to the procedure, and that they have been informed of the associated risks and benefits.

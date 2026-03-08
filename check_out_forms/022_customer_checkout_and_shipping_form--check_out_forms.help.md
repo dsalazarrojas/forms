@@ -1,9 +1,3 @@
-<thinking>
-This form is used for customers to provide their information and details for checkout and shipping purposes. The form collects various customer data such as name, email, phone number, shipping details, order information, address, and other relevant fields. This form is likely used in a retail or e-commerce context where customers need to provide accurate and complete information for successful checkout and shipping processes.
-
-This form appears to be a general-purpose form and does not seem to have any specific business logic or rules that would restrict its usage. Therefore, it can be used for various customer checkout and shipping scenarios. However, the form fields and their corresponding labels should be reviewed to ensure they align with the specific business requirements and customer journey.
-</thinking>
-
 # Customer Checkout And Shipping Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and details for checkout and shipping purposes. It is used to gather data such as name, email, phone number, shipping details, and order information to ensure successful checkout and shipping processes.

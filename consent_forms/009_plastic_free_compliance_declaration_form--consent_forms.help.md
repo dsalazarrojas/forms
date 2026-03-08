@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect vendor information for plastic-free compliance declarations. It's meant for vendors to declare their compliance with environmental regulations related to plastic use and waste management. Ensure that the form is filled out correctly, and that the vendor has the authority to sign it. This form should not be used for other purposes, as it may lead to inaccurate or incomplete data.
-</thinking>
-
 # plastic_free_compliance_declaration_form - Help Guide
 ## Purpose
 The plastic-free compliance declaration form is used to collect information from vendors about their plastic-free compliance status. This form helps vendors declare their compliance with environmental regulations related to plastic use and waste management.

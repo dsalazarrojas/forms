@@ -1,7 +1,3 @@
-<thinking>
-This guide is for end users who need to fill out the Academic Roundtable Livestream Consent Form. To ensure that we get accurate and valid consent from participants, please note that each participant must fill out this form once for each event they participate in. If you have already submitted consent for this event, do not fill out this form again. This guide will walk you through each field of the form, explaining what information is required and how to fill it out correctly.
-</thinking>
-
 # Academic Roundtable Livestream Consent Form - Help Guide
 ## Purpose
 The Academic Roundtable Livestream Consent Form is used to collect consent from participants for recording and livestreaming their participation in academic roundtables. This form is essential to ensure that participants' rights and interests are respected and that the recorded content can be shared and used according to their preferences.

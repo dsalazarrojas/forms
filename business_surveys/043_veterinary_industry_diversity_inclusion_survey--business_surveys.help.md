@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the workplace culture, diversity, and inclusion practices within the veterinary industry. This information will help us understand current practices and identify areas for improvement. Please ensure that you're providing accurate and honest responses, and avoid duplicating information already submitted by your colleagues or from previous surveys. If you're unsure about any section, feel free to ask your supervisor or HR representative for guidance.
-</thinking>
-
 # Veterinary Industry Diversity & Inclusion Survey - Help Guide
 ## Purpose
 The Veterinary Industry Diversity & Inclusion Survey aims to gather information on the current state of diversity and inclusion practices within the veterinary industry. Your responses will help us identify areas for improvement and contribute to creating a more inclusive and welcoming work environment.

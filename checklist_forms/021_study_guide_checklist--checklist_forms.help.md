@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose and functionality of the "Study Guide Checklist" form. The form is designed to collect information about study topics and resources related to a study guide. It appears to be a structured form with multiple fields for each topic and resource, but no clear indication of the form's purpose or any specific requirements. I will analyze the form's fields and provide a clear and concise explanation of each field, making it easier for users to understand its purpose and how to complete it.</thinking>
-
 # Study Guide Checklist - Help Guide
 ## Purpose
 The "Study Guide Checklist" form is designed to collect information about study topics and resources related to a study guide. This form helps users to systematically document and track study topics and resources that are relevant to their studies.

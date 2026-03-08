@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form is used to document the termination of a director's employment with the company. It provides a standardized template for capturing the necessary information related to the termination, such as the employee's name, reason for termination, and dates related to the employment end. 
-
-Before proceeding, please verify that there are no active director terminations on record that can be referenced or reviewed for any necessary actions. It is also a good idea to check the employee's personnel file to ensure that all necessary information and documents are up to date.
-
-</thinking>
-
 # Director Termination Notice Form - Help Guide
 ## Purpose
 The purpose of this form is to formalize the termination of a director's employment with the company, providing a clear and concise record of the event.

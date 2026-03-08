@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather feedback from users on the vendor's performance. This form will help the organization to identify areas of improvement for the vendor and ensure that they meet the expected standards. To avoid duplication of effort, please make sure to fill out the form only for vendors that have provided services or goods that have not met your expectations.
-
-</thinking>
-
 # Vendor Feedback Consolidation Report Form - Help Guide
 ## Purpose
 The Vendor Feedback Consolidation Report Form is designed to collect feedback from users on the vendor's performance. This form helps the organization to evaluate and improve the services or goods provided by the vendor. Please use this form to submit your feedback on a vendor who has provided services or goods that have not met your expectations.

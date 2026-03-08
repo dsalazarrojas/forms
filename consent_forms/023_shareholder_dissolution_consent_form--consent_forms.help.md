@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shareholder Dissolution Consent Form - Help Guide
 ## Purpose
 

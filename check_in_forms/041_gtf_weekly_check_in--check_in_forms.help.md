@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not being used for malicious purposes or as a duplicate entry mechanism. This guide will walk the user through the intended use of the form and explain each field's purpose in detail.
-</thinking>
-
 # GTF Weekly Check In - Help Guide
 ## Purpose
 The GTF Weekly Check In form is designed to help users provide feedback, rate their coach's performance, and track their progress. This form is intended for regular check-ins to ensure that users are on track with their goals and provide valuable insights for coaches to improve their services.

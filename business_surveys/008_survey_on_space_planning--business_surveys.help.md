@@ -1,7 +1,3 @@
-<thinking>
-This form is used by the business department to collect feedback and suggestions from end-users regarding the current space planning. The form's purpose is to understand how employees use their workspace, their satisfaction level with the current space planning, and what challenges they face. This information will help the business department to make informed decisions on how to improve the space planning and make the workplace more comfortable and efficient for employees.
-</thinking>
-
 # survey_on_space_planning - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from end-users regarding the current space planning. By filling out this form, you'll help the business department to make informed decisions on how to improve the space planning and make the workplace more comfortable and efficient for employees.

@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll need to analyze the provided YAML fields. The form is called "Growth Strategy Mentorship Application Form" and is divided into several pages. Upon further inspection, I'll identify fields that are likely related to the form's purpose.
-The form appears to be designed for an individual applying for a mentorship program, possibly within a professional or academic setting. Fields such as "Mentorship Goals", "Mentorship Programs", and "Resume" suggest that the form is intended for applicants to showcase their skills and experience in order to be considered for the mentorship program.
-Additionally, fields like "Contact Info", "Contact Number", "Contact Email", and "Social Media" may indicate that the form requires some form of verification or identification from the applicant.
-There are several "Confirm Agree" fields scattered throughout the form, which might seem redundant, but it's possible that they're part of a validation mechanism to ensure the applicant has understood and agreed to the terms and conditions of the program.
-The form also includes fields for "Bio and Photo", "Portfolio", and "References", which could be used by the applicant to showcase their personality, work, and professional network.
-The "Time Zone" field is likely used to determine the best time for scheduling meetings or sessions with the applicant.
-Lastly, there's a field for "Terms and Conditions", which seems out of place, as it's already included multiple times throughout the form. It's possible that this field is intended to be a checkbox to signify that the applicant has read and agreed to the terms.
-The purpose of this form is likely to gather information from individuals applying for a mentorship program, specifically within a professional or academic setting.
-</thinking>
-
 # Growth Strategy Mentorship Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals applying for a mentorship program within a professional or academic setting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students who are interested in participating in the Winter Vaulting Program. The purpose of this form is to collect information from participants, including their participant information, emergency contact details, medical details, and waiver acceptance. This form has four fields, each with its own specific purpose.
-</thinking>
-
 # Winter Vaulting Program Registration - Help Guide
 ## Purpose
 This form is for students who want to register for the Winter Vaulting Program. It helps us to collect necessary information from participants to ensure their safety and successful participation in the program.

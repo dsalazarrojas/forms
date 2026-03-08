@@ -1,8 +1,3 @@
-<thinking> 
-  This help guide will cover the Veterinary Business Growth Survey form. It is designed to gather information from veterinary businesses to identify areas of growth and provide insights for improvement. This form will collect data on the owner's contact information, practice details, challenges faced, goals, and marketing strategies. Please ensure that you have the necessary permissions to access and use the data collected from this form. 
-  This form is a custom-built, AI-generated adaptation of a public survey, and it does not collect any sensitive or personally identifiable information. The data collected will be used to improve the veterinary business growth survey and provide valuable insights for veterinary businesses. If you have any concerns, contact form@gic.mx. 
-</thinking>
-
 # Veterinary Business Growth Survey - Help Guide
 ## Purpose
 The Veterinary Business Growth Survey aims to gather information from veterinary businesses to identify areas of growth and provide insights for improvement. This data will help veterinary businesses understand their current challenges, goals, and marketing strategies, enabling them to make informed decisions for their practice's growth and development.

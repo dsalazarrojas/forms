@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture and resolve tenant complaints. It is intended for tenants to report any issues they are experiencing with their housing, such as maintenance requests, complaints, or concerns. The form will be used to gather information about the complaint and provide a resolution status. Before filling out this form, please review the following:
-- Is the complaint already resolved?
-- Has the tenant already submitted a complaint on this issue?
- 
-Please ensure you have not already submitted a complaint or resolution status for this issue. If so, please do not submit this form.
-</thinking>
-
 # Tenant Complaint Resolution Survey - Help Guide
 ## Purpose
 

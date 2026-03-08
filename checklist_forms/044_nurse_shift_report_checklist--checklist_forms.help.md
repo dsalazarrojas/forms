@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a checklist for a nurse's shift report. The purpose of this form is to gather information from nurses about their shift, including patient names, shift start and end times, and other relevant details. This form is designed to be completed by nurses during their shift to provide accurate and efficient reporting. It is also useful for administrators and supervisors to monitor and evaluate nurses' work. Please ensure that the form is filled out accurately and thoroughly, as the data collected will be used for official purposes.
-
-</thinking>
-
 # nurse_shift_report_checklist - Help Guide
 ## Purpose
 This form is used by nurses to report their shift activities, patient information, and other relevant details.

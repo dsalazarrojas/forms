@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for business registration purposes, where an individual or business seeks to obtain a license or renew an existing one. The form collects information about the applicant, the type of license applied for, the date of submission, any supporting documents submitted, and the status of the approval. This form is designed to gather all necessary details in a structured and organized manner, making it easier for the approver to review and process the application efficiently.
-
-</thinking>
-
 # Business Licensing Approval Form - Help Guide
 ## Purpose
 The Business Licensing Approval Form is a document used by businesses or individuals to apply for a license or renew an existing one. It gathers essential information required for the approval process.

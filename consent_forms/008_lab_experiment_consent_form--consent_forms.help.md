@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect participant information and consent for a lab experiment. The form is designed to be completed by participants before starting an experiment. It gathers information such as participant contact details, experiment start date, and other relevant information. This form is not intended for general public use, but rather for internal use within the research facility. Please ensure you have the necessary permissions and approvals before using this form.
-
-</thinking>
-
 # lab_experiment_consent_form - Help Guide
 ## Purpose
 The lab_experiment_consent_form is used to collect participant information and consent for a lab experiment. It is essential to complete this form accurately and honestly to ensure the success and quality of the experiment.

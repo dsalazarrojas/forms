@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Bread Order Form - Help Guide
 
 ## Purpose

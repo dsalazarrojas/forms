@@ -1,5 +1,3 @@
-<thinking> This form is for obtaining student and parent/guardian consent for promoting a student's project, which involves collecting information about the student and their contact details for promotional purposes. The form aims to gather the necessary permissions and agreements from both the student and their parent/guardian to use their information for promotional activities such as social media, website, and print materials. It is essential to fill out this form to provide the required information and sign the relevant sections to confirm consent. Please make sure to review the form carefully and provide accurate information to avoid any issues or delays in the promotional process. </thinking>
-
 # Student Project Promotion Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from students and their parents/guardians for promoting their project, allowing us to collect and use their information for promotional activities such as social media, website, and print materials.

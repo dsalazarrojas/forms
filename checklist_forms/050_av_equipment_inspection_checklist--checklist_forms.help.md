@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I reviewed the provided YAML fields and determined that the form is used for performing regular inspections of Audio-Visual (AV) equipment. This form is designed to collect information about the equipment's identification, condition, and performance. The form asks for details such as the equipment's unique identifier, type, and manufacturer, as well as its physical condition, cable connections, and audio/video quality. Additionally, it includes fields for assessing the equipment's mounting security, ventilation clearance, and firmware update needs. The form also has fields for recording the inspector's name, location, and any additional notes. The form is meant to be completed by someone performing the inspection, and the final field indicates whether the equipment passes or fails inspection.</thinking>
-
 # AV Equipment Inspection Checklist - Help Guide
 ## Purpose
 This form is used to guide inspectors through the process of evaluating Audio-Visual (AV) equipment's condition and performance. It collects information on the equipment's identification, condition, and functionality to ensure it is in good working order.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a tool for tracking loaned equipment and borrower details. It's used to record and verify information about the equipment that is being checked out, including the type of equipment, borrower's name, and expected return date. This form helps to ensure that equipment is properly accounted for and returned on time.
-The form is designed for use by staff or administrators who need to manage equipment checkouts. It's not intended for public use or to collect sensitive information.
-The form is part of a workflow that may involve multiple steps, including checking out equipment, tracking its condition, and following up on its return.
-The form does not collect or store any personal identifiable information that could be used for profiling or targeting.
-This form is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Computer Check Out Form - Help Guide
 ## Purpose
 This form is used to track loaned equipment and borrower details.

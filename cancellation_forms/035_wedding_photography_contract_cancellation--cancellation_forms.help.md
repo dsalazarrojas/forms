@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information and documentation for a wedding photography contract cancellation. The form is used to gather details about the client's reasons for cancelling the booking, payment refund information, and other relevant details. The cancellation policy should align with the terms agreed upon in the original booking agreement. The client and photographer should both acknowledge their consent to the cancellation policy by selecting the relevant options. This form is used by both the photographer and the client to document the cancellation process and ensure a smooth and professional cancellation experience.
-</thinking>
-
 # wedding_photography_contract_cancellation - Help Guide
 ## Purpose
 This form is used to collect information and documentation for a wedding photography contract cancellation.

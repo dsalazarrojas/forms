@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and explanation align with the business logic behind the form. The purpose of the "customer_retention_metrics_monitoring_form" is to collect data on customer retention metrics, which are crucial for understanding customer loyalty and behavior. This form aims to monitor and analyze customer retention rates, satisfaction, and other relevant metrics to help businesses make informed decisions.
-
-Before we begin, let's review the form fields to ensure that we're not duplicating any information or asking for unnecessary data. Upon reviewing the form, we notice that we have multiple fields related to customer satisfaction and acquisition costs. We should ensure that these fields are clearly explained and that the user understands their purpose.
-
-We should also note that the form has several select_one and select_multiple fields, which suggest that we're collecting categorical data. We should be clear about the options and their meanings to avoid confusion.
-
-With these considerations in mind, let's create the user-facing help guide.
-
-</thinking>
-
 # customer_retention_metrics_monitoring_form - Help Guide
 ## Purpose
 The customer_retention_metrics_monitoring_form is a survey designed to monitor and analyze customer retention metrics, including retention rates, customer satisfaction, and other relevant metrics. This information helps businesses understand customer loyalty and behavior, enabling informed decision-making.

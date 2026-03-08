@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to help users identify and manage potential risks in event environments, such as events with a high volume of people, where accidents, emergencies, or unexpected situations can occur. The purpose of this form is to ensure that users have a clear and organized approach to assessing, planning, and responding to risks that may impact event-goers and participants. By filling out this form, users can identify potential hazards, develop plans to mitigate them, and ensure a safe and efficient response in case of an emergency.
-</thinking>
-
 # Event Risk Management Checklist - Help Guide
 ## Purpose
 This form is a systematic approach to evaluating and managing risks associated with events and events-related activities. It helps users identify potential hazards, plan for emergency responses, and ensure participant and event-goer safety.

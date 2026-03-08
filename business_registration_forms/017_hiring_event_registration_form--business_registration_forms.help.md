@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is correctly filled out, we must first confirm that the form is for the purpose of registering a business for a hiring event. This form should not be used for other purposes such as general company registration or event attendance. The following instructions guide you through the form's completion process, explaining each field's purpose and requirements.
-</thinking>
-
 # Hiring Event Registration Form - Help Guide
 ## Purpose
 The Hiring Event Registration Form is used to gather business information and contact details for businesses participating in a hiring event. This form helps us understand your business profile, plans, and contact information to facilitate the event's smooth execution.

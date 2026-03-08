@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # historical_photo_archive_submission - Help Guide
 
 ## Purpose

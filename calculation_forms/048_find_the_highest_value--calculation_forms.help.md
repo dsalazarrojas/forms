@@ -1,5 +1,3 @@
-<thinking>...This form is designed to find the highest value among two or three input numbers. To use this form, enter your numbers in the corresponding fields, and the highest value will be displayed below the form.</thinking>
-
 # Find The Highest Value - Help Guide
 ## Purpose
 This form is designed to find the highest value among two or three input numbers.

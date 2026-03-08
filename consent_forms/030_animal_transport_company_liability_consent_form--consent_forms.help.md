@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Animal Transport Company to collect information and consent from clients about the transport of their animal. The purpose of this form is to ensure that the client is aware of and agrees to the risks associated with animal transport, including potential accidents, medical emergencies, and other unforeseen events. The form also seeks to establish the client's understanding of liability and emergency procedures. The transport company will use this information to ensure that the client is aware of their responsibilities and limitations, and to protect the company from potential liabilities. Please note that this form is a critical part of the animal transport process and it is essential that clients understand and fill it out accurately.
-</thinking>
-
 # Animal Transport Company Liability Consent Form - Help Guide
 
 ## Purpose

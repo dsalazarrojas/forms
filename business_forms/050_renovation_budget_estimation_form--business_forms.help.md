@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renovation Budget Estimation Form - Help Guide
 ## Purpose
 The Renovation Budget Estimation Form is designed to help you estimate the budget for a renovation project. The form is intended to gather information about the project, including its scope, location, and expected costs, to provide a comprehensive budget estimation.

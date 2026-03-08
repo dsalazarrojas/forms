@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help corporate entities estimate their tax obligations. The user will input information about their company, including its structure, industry, annual revenue, tax rate, tax deductions, employee number, average salary, tax estimation date and time, and other relevant details. The form aims to provide a comprehensive picture of the company's tax situation. Please ensure that you are using this form for its intended purpose and have reviewed your company's tax laws and regulations before completing it. Additionally, this form should not be used for personal tax planning or as a substitute for professional tax advice.
-</thinking>
-
 # Corporate Tax Estimator Form - Help Guide
 ## Purpose
 This form is designed to help corporate entities estimate their tax obligations.

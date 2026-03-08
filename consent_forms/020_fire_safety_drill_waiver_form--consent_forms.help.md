@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians of participants in a fire safety drill, to obtain their consent and demographic information for the participant. This form is not a medical waiver form and does not collect any medical information. This form is designed to be completed by a parent or guardian, and is not intended for completion by participants themselves. This form will be stored securely and used for demographic and consent tracking purposes only.
-
-</thinking>
-
 # Fire Safety Drill Waiver Form - Help Guide
 ## Purpose
 The Fire Safety Drill Waiver Form is used to collect demographic information and obtain consent from parents or guardians of participants in a fire safety drill. This form is used to identify the participant, their emergency contact information, and the relationship between the participant and their emergency contact. This form also requires a signature from the parent or guardian, as well as the date of the signature.

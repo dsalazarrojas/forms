@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information related to the publication of surveys, specifically focusing on authorization and participant details. It's crucial to ensure that the form is used correctly to maintain data accuracy and authenticity. To prevent duplication, please use this form only for genuine survey publication authorization purposes.
-
-</thinking>
-
 # survey_publication_authorization_form - Help Guide
 ## Purpose
 This form is created to collect information about surveys, focusing on authorization and participant details for publication purposes.

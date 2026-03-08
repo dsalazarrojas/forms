@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used only for its intended purpose and not as a duplicate. This form is intended to help customers submit a claim for damage to their shower door. To prevent misuses, we'll provide a clear and concise guide for the end users.
-</thinking>
-
 # Shower Door Damage Insurance Claim Form - Help Guide
 ## Purpose
 This form is designed to help customers submit a claim for damage to their shower door. Please only fill out this form if you have experienced damage to your shower door and wish to file an insurance claim.

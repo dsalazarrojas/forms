@@ -1,15 +1,3 @@
-<thinking>
-The language camp accommodation form is intended to collect information from users about their language camp accommodation preferences, including their address, contact information, and any additional messages they might have. This form is designed to be simple and easy to understand, with clear labels and hints to guide the user through the process.
-
-To prevent duplication and ensure accurate data collection, it's essential to review the form's purpose and ensure that users understand its intent before proceeding. The form should only be used for language camp accommodation purposes, and any extraneous or irrelevant information should be avoided.
-
-The form's structure and fields have been designed to minimize confusion and facilitate smooth data entry. Each field has a clear label and hint to support users in providing the necessary information.
-
-Before creating this guide, it's essential to review the form's YAML structure and understand its purpose and requirements.
-
-Please find below the user-facing help guide for the "Language Camp Accommodation Form."
-</thinking>
-
 # Language Camp Accommodation Form - Help Guide
 ## Purpose
 The Language Camp Accommodation Form is designed to collect information from users about their language camp accommodation preferences.

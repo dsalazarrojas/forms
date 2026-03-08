@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used for inspecting a camp or campsite before a camping trip or event. The purpose of this form is to ensure that all necessary safety and emergency protocols are in place and that the campsite is prepared for a safe and enjoyable stay. The form should be completed by a person responsible for inspecting the campsite and will be used to identify any areas that need attention or improvement. 
-
-The form is divided into different sections, each focusing on specific aspects of the campsite's safety and functionality. Please complete the form accurately and thoroughly to ensure that all necessary items are addressed.
-
-This guide is to help you complete this form efficiently and correctly.
-</thinking>
-
 # Pre Camp Inspection Checklist - Help Guide
 ## Purpose
 The Pre Camp Inspection Checklist is designed to ensure a safe and enjoyable camp experience.

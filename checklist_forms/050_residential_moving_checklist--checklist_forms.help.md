@@ -1,7 +1,3 @@
-<thinking>
-I'm assuming this form is intended for a residential moving checklist, likely for a moving company or relocation service to gather information from customers. The form may be used to collect details about the move, including dates, locations, and items being moved. This information will help the moving company prepare for the move and provide accurate quotes or services to the customer. I'm not duplicating any logic that's already covered in the provided YAML fields.
-
-</thinking>
 # residential_moving_checklist - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their residential move, including move date, type, and details about the move.

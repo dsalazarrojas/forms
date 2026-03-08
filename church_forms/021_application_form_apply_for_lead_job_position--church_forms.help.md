@@ -1,11 +1,3 @@
-<thinking> 
-This form is used to collect information from potential candidates who are applying for a lead job position in a church. The purpose of this form is to ensure that candidates provide all necessary information required for the church leadership team to make an informed decision about their candidacy. This form should be completed by the potential candidate and submitted to the church leadership team for review. 
-The form is divided into several sections: Applicant Information, Faith Background, Professional Background, Leadership Qualities, and References. Each section contains questions or fields that are relevant to the candidate's suitability for the lead job position. 
-
-The form requires the candidate to provide their full name, email address, and phone number. They must also provide their current address, the position they are applying for, and their years of active service or involvement with the church. Additionally, they must describe their faith background, educational background, and leadership qualities and experience. They will also be asked to provide references with their name and contact information. Lastly, they are asked about their availability to start and how they handle conflicts or disagreements.
-
-</thinking>
-
 # Application Form Apply For Lead Job Position - Help Guide
 ## Purpose
 This form is used to collect information from potential candidates applying for a lead job position in a church.

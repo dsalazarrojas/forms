@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture the final resolution of a complaint, including the details of the resolution outcome, financial cost, department head approval, lessons learned, and closure acknowledgement. The purpose of this form is to ensure that complaints are properly closed and documented, allowing for effective tracking and prevention of similar issues in the future. 
-
-</thinking>
-
 # Complaint Resolution Discharge Form - Help Guide
 
 ## Purpose

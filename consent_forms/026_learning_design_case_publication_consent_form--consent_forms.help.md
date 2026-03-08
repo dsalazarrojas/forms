@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining consent from learners for the publication of their Learning Design Cases. The purpose of this form is to ensure that learners understand and agree to the terms and conditions of publishing their work. This form is usually completed by learners who have created a Learning Design Case that they wish to publish for the public to use.
-</thinking>
-
 # Learning Design Case Publication Consent Form - Help Guide
 ## Purpose
 The Learning Design Case Publication Consent Form is a required document that helps learners provide their consent for the publication of their work. This form ensures that learners are aware of and agree to the terms and conditions of publishing their Learning Design Cases.

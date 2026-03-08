@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide their preferences and details for a Secret Santa gift exchange. The goal is to collect information about their gift preferences, including any specific items they like or dislike, and their personal details such as name and email. This will help the Secret Santa organiser to assign gifts that fit the individual user's preferences and keep their details confidential.
-The form is not intended for any other purpose and should not be used as a template or basis for creating other forms without modification.
-</thinking>
-
 # Secret Santa Questionnaire - Help Guide
 ## Purpose
 This form is designed for users to provide their preferences and details for a Secret Santa gift exchange. The goal is to collect information about their gift preferences and personal details.

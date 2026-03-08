@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain medical equipment authorization for use in healthcare settings. The purpose of this form is to provide necessary information about the medical equipment being authorized, including its type, name, description, location, usage frequency, medical staff involvement, start and end dates of usage, and authorized person's signature. 
-
-The form is designed to be completed by healthcare professionals to ensure that the authorized person and equipment are properly identified and that the necessary information is accurately recorded.
-
-This form is likely to be used by hospital administrators, department heads, or other authorized personnel in medical settings to ensure that all medical equipment is properly authorized and tracked.
-
-The form is not intended to be used for other purposes outside of medical equipment authorization.
-
-</thinking>
-
 # medical_equipment_authorization_form - Help Guide
 ## Purpose
 This form is used to obtain medical equipment authorization for use in healthcare settings.

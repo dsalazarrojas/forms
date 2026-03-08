@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect patient data for pain management treatment plans. The form includes information about the patient's name, date of birth, address, and treatment options. This form will help healthcare providers understand patient needs and preferences for pain management. This form is designed to be completed by patients or their authorized representatives. To ensure that each patient's data is up-to-date and accurate, please complete this form only once per patient.
-</thinking>
-
 # pain_management_consent_form - Help Guide
 ## Purpose
 This form is designed to collect information about patients undergoing pain management treatment plans. It helps healthcare providers understand patient needs and preferences for pain management.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about a business plan, specifically its name, type, description, goals, target market, competitive landscape, and financial projections. The purpose of this form is to help businesses provide a clear and concise overview of their plan, which can be used for internal and external purposes such as pitching to investors, applying for funding, or seeking partnerships.
-The form is divided into several sections, each focusing on a different aspect of the business plan:
-- Business Basics: This section includes essential information about the business, such as its name, type, and description.
-- Vision and Mission: This section outlines the business's core purpose and long-term goals.
-- Products and Services: This section details the main products or services offered by the business.
-- Target Market: This section identifies the ideal customer profile and the total addressable market.
-- Competitive Landscape: This section lists the main competitors and outlines how the business will compete with them.
-- Financials: This section includes information about the business's financial projections, such as estimated startup costs, first-year revenue, and break-even timeline.
-</thinking>
-
 # Business Plan Overview Form - Help Guide
 ## Purpose
 This form is used to gather information about a business plan, specifically its name, type, description, goals, target market, competitive landscape, and financial projections. The collected data will help businesses provide a clear and concise overview of their plan.

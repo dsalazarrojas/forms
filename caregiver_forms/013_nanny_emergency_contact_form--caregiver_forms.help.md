@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect emergency contact information for a family member. The purpose of this form is to ensure that important contact details are on record in case of an emergency. This form is typically filled out by a family member or caregiver who is responsible for providing emergency contact information for the individual being cared for. This information will be used to help the care team respond quickly and effectively in the event of an emergency.
-</thinking>
-
 # Nanny Emergency Contact Form - Help Guide
 ## Purpose
 The Nanny Emergency Contact Form is used to collect critical contact information from family members or caregivers for an individual being cared for. This information will be used to ensure that the care team is able to respond quickly and effectively in the event of an emergency.

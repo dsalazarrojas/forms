@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to capture information about a product's branding performance, including its strengths and weaknesses, potential improvement ideas, and details about the tools used in the assessment. The goal is to provide a structured and standardized way to evaluate a product's branding performance and gather feedback for improvement. This form should only be completed by authorized users, and the information gathered will help to inform strategic decisions about product development and improvement. 
 
 # Product Branding Performance Report Form - Help Guide

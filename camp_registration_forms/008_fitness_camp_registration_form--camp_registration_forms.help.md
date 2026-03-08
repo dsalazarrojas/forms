@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to register for a fitness camp. This registration form is used to gather information about the user's first name, last name, email address, fitness goals, available dates, time of day, preferred contact method, any additional comments, and the assigned tool or form ID. The form helps us track and manage camp registrations efficiently. 
-
-We should consider the form as part of the broader registration process for the fitness camp. Please ensure to review the form's purpose and the information gathered from it to ensure consistency with existing policies and procedures. 
-
-Before proceeding, please make sure that this form is not a duplicate or an alternative to another registration form. In the unlikely event of duplication, consider removing or modifying it to avoid confusion and potential redundancy.
-</thinking>
 # Fitness Camp Registration Form - Help Guide
 ## Purpose
 The Fitness Camp Registration Form is used to gather information about users registering for a fitness camp.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used as intended and that users understand its purpose before proceeding with providing guidance. This form is designed to gather insights from users about their perception of the company's financial governance and information management. It's essential to clarify that this form should only be used for this specific purpose and not for any other use-case. Let's review the form structure to ensure that the questions and fields are correctly aligned with the intended use. This will help to prevent misuse and provide accurate feedback for improvement.
-</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 ## Purpose
 

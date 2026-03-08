@@ -1,14 +1,3 @@
-<thinking>
-... (Internal reasoning and checking for relevance and non-duplication)
-
-The purpose of this form is to collect information from non-profit organizations about their adoption of technology. This form will help gather insights on which tools have been adopted, the challenges faced during adoption, training needs, implementation time, and other relevant details.
-
-Upon reviewing the form fields, it appears to be a comprehensive survey designed to assess the adoption of technology in non-profit organizations. Each field is carefully crafted to gather specific information on the technology's adoption, from the tools used to the challenges faced during the process.
-
-After verifying that this form is an AI-generated original adaptation of a public survey topic, there's no risk of duplication or conflict of interest with existing form platforms.
-
-...</thinking>
-
 # Nonprofit Technology Adoption Survey - Help Guide
 ## Purpose
 The Nonprofit Technology Adoption Survey is designed to collect information from non-profit organizations about their adoption of technology. This survey aims to gather insights on which tools have been adopted, the challenges faced during adoption, training needs, implementation time, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-We will assume the form purpose is to allow the end-user to request a change in their autopay payment method or cancellation of their autopay payments on a specific date. This form will likely be used by customers who want to alter or stop their recurring payments. The form will gather information from the customer to fulfill their request.
-The form is likely used to prevent duplicate requests or unnecessary processing and to ensure that the customer's request is processed accurately and efficiently.
-</thinking>
-
 # Autopay Change Or Cancellation Request - Help Guide
 ## Purpose
 This form is used to change or cancel an autopay payment method associated with your account. If you want to change or stop your recurring payments, please fill out this form with the required information.

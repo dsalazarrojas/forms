@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Progress Monitoring Form is designed to collect information about a project's progress and status. This form is intended for project stakeholders to quickly assess the current state of a project and identify areas that require attention. It is recommended to complete the form regularly to ensure timely and accurate project progress reporting. Please ensure that you have reviewed the form and are familiar with its purpose before proceeding. If you have any questions or concerns, contact your project lead or the project management team.
 
 # Progress Monitoring Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>Let's assume that the Bridge Construction Quotation Form is used to gather information from clients or project owners for a bridge construction project. This form helps to gather essential details about the project such as client information, bridge type, location, and requirements. The goal is to provide a clear and concise way to capture all the necessary information to create an accurate quote for the bridge construction project.</thinking>
-
 # Bridge Construction Quotation Form - Help Guide
 
 ## Purpose

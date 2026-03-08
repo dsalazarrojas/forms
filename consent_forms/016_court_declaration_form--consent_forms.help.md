@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:** This form is designed to collect information from users for a court declaration. The form collects the user's details, assigned tool, and category for the declaration.
-
-This form is used to record and manage declarations, ensuring that all necessary information is collected and documented accurately. The form's data will be used internally to facilitate the declaration process.
-
-Please ensure that the information provided is accurate and complete before submitting the form.
-</thinking>
-
 # court-declaration-form - Help Guide
 ## Purpose
 This form is used to collect information for a court declaration.

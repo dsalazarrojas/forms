@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and suggestions from employees on the company's recognition and appreciation culture. It aims to understand how often employees receive recognition and appreciation, what types of recognition they prefer, how often they receive feedback, and their overall satisfaction with the company's culture. The form is meant to be filled out by employees and will help the company identify areas of improvement and best practices to enhance the work environment. Please ensure that you are taking this survey if you have worked at the company for at least 6 months and that you have a genuine opinion to share. If you have already filled out this survey, please do not submit another response. Your responses will be kept confidential and anonymous.
-</thinking>
-
 # recognition_and_appreciation_culture_survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and suggestions from employees on the company's recognition and appreciation culture. It will help the company identify areas of improvement and best practices to enhance the work environment.

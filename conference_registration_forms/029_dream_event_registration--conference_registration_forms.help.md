@@ -1,23 +1,3 @@
-<thinking>
-The purpose of the Dream Event Registration form is to collect information from event attendees and organizers to streamline the event planning and management process. This form is used to collect basic contact information, event details, and attendee counts to enable efficient communication and event coordination. It is essential to ensure the accuracy and completeness of the form data to avoid any potential issues or miscommunications.
-
-Before filling out the form, please ensure you have the following information ready:
-
-* Your first name
-* Last name
-* Email address
-* Phone number (if applicable)
-* Event type (e.g., conference, workshop, or seminar)
-* Event date and time
-* Event location
-* Event description (optional)
-* Participation type (if applicable)
-* Attendee count (if applicable)
-* Event status (if applicable)
-
-Please note that the form is designed to be completed once for each event. If you need to register for multiple events, please create a new form for each event.
-</thinking>
-
 # Dream Event Registration - Help Guide
 
 ## Purpose

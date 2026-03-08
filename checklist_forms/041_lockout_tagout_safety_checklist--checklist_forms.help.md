@@ -1,13 +1,3 @@
-<thinking>
-We're designing a help guide for the Lockout Tagout Safety Checklist form. The form appears to be a comprehensive checklist for tracking and managing the safety and maintenance of equipment in various industrial settings. Its purpose is to ensure that equipment is properly locked out and tagged out for maintenance, and that regular inspections are performed to identify and address potential safety issues. This form will likely be used by maintenance personnel or safety inspectors to document the status and history of equipment inspections, identify areas that require attention, and make recommendations for improvement.
-
-The form is divided into several sections, each covering different aspects of the equipment's safety and maintenance. We'll focus on making each section clear and concise, ensuring that users understand what information to input and how to complete each section correctly.
-
-The form's layout and fields suggest that it's designed to be used for both initial checks and ongoing inspections, allowing users to track equipment status, inspection history, and recommendations for improvement.
-
-Let's ensure that our help guide is clear, concise, and easy to follow, making it accessible to all users, from maintenance personnel to safety inspectors.
-</thinking>
-
 # Lockout Tagout Safety Checklist - Help Guide
 ## Purpose
 The Lockout Tagout Safety Checklist is a form used to track and document the safety and maintenance of equipment in industrial settings. It helps maintenance personnel and safety inspectors to identify potential safety issues, schedule regular inspections, and make recommendations for improvement.

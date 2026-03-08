@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from a requester to verify their identity and authorization to request adoption records. It ensures that the requester has a legitimate reason for requesting the records and that they have the necessary authority to access sensitive information. This form reduces the risk of unauthorized access to confidential adoption records. It is essential that the form is completed accurately and honestly to prevent delays in processing the records request.
-
-</thinking>
-
 # Adoption Records Release Form - Help Guide
 ## Purpose
 The Adoption Records Release Form is a crucial document used to verify the identity and authority of a requester when accessing adoption records. It helps maintain the confidentiality and integrity of the records.

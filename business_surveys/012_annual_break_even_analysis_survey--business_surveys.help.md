@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for the annual break-even analysis of a business. This form is designed to help businesses determine their break-even point, which is the revenue needed to cover fixed costs and variable costs. The break-even analysis is a crucial tool for businesses to understand their financial performance and make informed decisions. 
-
-The form is designed to be completed by the business owner or contact person and will take approximately 10-15 minutes to complete. 
-
-Please make sure to answer the questions based on the current financial year's data. If you have completed this survey previously, please do not fill out this form again.
-</thinking>
-
 # Annual Break-Even Analysis Survey - Help Guide
 
 ## Purpose

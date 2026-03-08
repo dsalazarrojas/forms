@@ -1,5 +1,3 @@
-<thinking>Photography Session Agreement form is used for clients to provide their consent and input information for a photography session. This form is not meant to be a full contract or legal document. The fields below are required for the photographer to understand the client's needs, preferences, and expectations for the session. Please fill out the form accurately to ensure a smooth and enjoyable experience. This form can be filled out by the client before or after the session. If filled out before, it serves as a confirmation of the agreed-upon details. If filled out after, it's an update to reflect any changes to the original plan.</thinking>
-
 # Photography Session Agreement - Help Guide
 ## Purpose
 This form is used to gather information and receive consent from clients for a photography session. It includes fields for session details, session location, and other essential information.

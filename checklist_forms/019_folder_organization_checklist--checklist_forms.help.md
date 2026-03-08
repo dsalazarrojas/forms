@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users assess and document the organization and management of their folder structure. It's a crucial process to ensure that digital and physical folders are properly maintained, backed up, and preserved for future reference. This form should be used by individuals responsible for managing and maintaining their organization's folder structure.
-
-Before proceeding, it's essential to review the form's purpose and relevance to your specific situation. Please ensure that this form is suitable for your needs and that you have the necessary permissions to complete it.
-
-</thinking>
-
 # Folder Organization Checklist - Help Guide
 ## Purpose
 This form is designed to help you document and assess the organization and management of your folder structure, including digital and physical folders.

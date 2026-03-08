@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to guide pet owners or individuals requesting pet cremation services through a series of pages, each covering a different aspect of the process. The form's purpose is likely to collect information and preferences for a custom pet cremation service, allowing the service provider to tailor the process to the individual's needs and circumstances. To confirm, the form is not affiliated with any proprietary form platforms, but rather an original creation using AI-generated form design.
-</thinking>
-
 # Pet Cremation Service Request - Help Guide
 ## Purpose
 This form is designed to guide you through the process of requesting a pet cremation service. Please fill out the form to provide us with the necessary information to tailor the service to your needs and preferences.

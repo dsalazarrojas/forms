@@ -1,23 +1,3 @@
-<thinking>
-To determine the form's purpose, I will analyze the form's schema and labels. This form appears to be designed to gather information about an individual's experiences, preferences, and expectations related to calmness and wellness coaching. The form's title, "Calmness Coaching Survey", suggests that it is intended to assess an individual's current stress levels, sources of stress, coping strategies, and motivations for achieving calmness, as well as their preferences for coaching formats and frequency. This form is likely used to help coaching professionals understand their clients' needs and preferences to provide effective coaching.
-The form is composed of 17 fields, which can be grouped into several categories:
-* Participant information (Participant Name, Email Address)
-* Demographics (Age Range)
-* Current Stress Level and Goal
-* Sources of Stress
-* Coping Strategies
-* Meditation Experience
-* Coaching Preferences
-* Frequency and Time of Coaching Sessions
-* Past Coaching Experience
-* Motivation and Support System
-* Health Conditions
-* Expectations from Coaching
-* Additional Comments
-This form seems to be a comprehensive tool for gathering information about an individual's wellness goals and preferences, allowing coaching professionals to tailor their approach to meet those needs.
-The form's purpose and structure are consistent with the category "coaching_forms" and the title "Calmness Coaching Survey". I will now create the user-facing help guide based on this analysis.
-</thinking>
-
 # Calmness Coaching Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences, preferences, and expectations related to calmness and wellness coaching. It will help coaching professionals understand your needs and preferences to provide effective coaching.

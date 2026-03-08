@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for caregivers to register their emotional resilience in providing care for others. It's essential to understand that the form is meant to assess the emotional well-being of caregivers, not their professional qualifications or experience as caregivers. Caregivers are individuals who provide unpaid care and support to family members, friends, or loved ones, often without formal training or compensation. This form is used to help caregivers identify areas where they may need support or resources to maintain their emotional resilience.
-
-Before filling out this form, please ensure you haven't already submitted it. If you've filled out this form previously, please don't resubmit without speaking with a program staff member first.
-</thinking>
-
 # Emotional Resilience In Caregiving Registration Form - Help Guide
 
 ## Purpose

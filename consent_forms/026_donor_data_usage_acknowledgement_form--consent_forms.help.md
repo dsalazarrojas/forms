@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Data Usage Acknowledgement Form - Help Guide
 ## Purpose
 This form is to obtain your acknowledgement of how your data will be used by the organization. Please take a few moments to review the form and provide your consent.

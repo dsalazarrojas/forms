@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from patients about their experience with clinicians and the overall quality of care they received. The form is designed to gather information about the ease of scheduling appointments, the quality of communication with the clinician, and other aspects of the care process. This form is intended to help clinicians and healthcare providers identify areas of improvement and make necessary changes to enhance the patient experience.
-
-Before completing this form, please note that it is intended for adult patients who have had a recent visit to a healthcare provider. If you have any questions or concerns, please feel free to reach out to your healthcare provider directly.
-
-This form is not intended for patients who have not had a recent visit or for non-adult patients. If you are unsure, please consult with your healthcare provider.
-
-</thinking>
-
 # CAHPS Clinician and Group Survey Version 3.0 (Adult) - Help Guide
 ## Purpose
 This form collects feedback from adult patients about their experience with clinicians and healthcare providers.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gauge users' traveling preferences for various aspects such as traveling frequency, destination type, mode of transportation, budget, accommodation type, and comfort level. 
-This survey aims to collect data that will help businesses to better understand the needs and preferences of their customers for their travel services. 
-
-This form is designed for individuals who are interested in sharing their travel preferences.
-</thinking>
-
 # Traveling Preferences Survey - Help Guide
 ## Purpose
 This survey aims to understand your preferences when it comes to traveling. It will help businesses provide better services for your needs.

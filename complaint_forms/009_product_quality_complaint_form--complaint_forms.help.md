@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about product quality issues they may have experienced. It's designed for internal use by our customer support team to quickly gather the necessary details to address the issue efficiently. Before filling out this form, please ensure you haven't submitted a similar complaint in the past, as this may affect our processing of your current issue. To ensure accurate processing, please fill out the form carefully and completely.
-</thinking>
-
 # product_quality_complaint_form - Help Guide
 ## Purpose
 This form is for customers to report product quality issues they have encountered. It helps our support team understand the problem and take the necessary steps to resolve it.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will create a user-facing help guide for the "Airbnb Check In Check Out Policies Agreement Form" that explains its purpose, completion process, and each field in a concise and practical manner.
 
 </thinking>

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calculate Age - Help Guide
 ## Purpose
 The "Calculate Age" form is designed to help users calculate their age based on their date of birth. This form is useful for personal records, employment verification, insurance applications, medical records, and other purposes where age verification is required.

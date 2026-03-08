@@ -1,15 +1,3 @@
-<thinking>
-The Water Filtration Efficiency Report Form is used to document the performance and maintenance status of water filtration systems. This form helps ensure that all critical information is captured and reported in a standardized manner.
-
-The purpose of this form is to gather detailed information about the water filtration system's efficiency, capacity, and maintenance status. The form's fields cover various aspects of the system, including filtration media capacity, water flow rate, and operational status. The captured data will help identify trends and patterns in the system's performance over time.
-
-To ensure that the form is used correctly, please follow these steps:
-
-1. Review each field carefully and ensure you are answering the question or selecting the correct option.
-2. Be thorough in providing information, especially in fields like maintenance notes and filter replacement cost.
-3. If you are unsure about any field, consult the form's legend or ask your supervisor for guidance.
-</thinking>
-
 # Water Filtration Efficiency Report Form - Help Guide
 ## Purpose
 The Water Filtration Efficiency Report Form is used to document the performance and maintenance status of water filtration systems.

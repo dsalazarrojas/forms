@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to evaluate the performance of a library director, gathering feedback from staff members on their leadership, communication, and overall experience in the library. This form is likely to be used by library staff to provide their opinions and observations about their director's performance, which will be used to inform future decisions and improvements within the library. To ensure that staff members provide accurate and meaningful feedback, it is essential to understand the purpose of each field and how to complete it correctly. 
-
-This form is not intended to be a duplicate or redundant evaluation, but rather a comprehensive assessment of the director's performance. Please take a few minutes to read through this help guide to ensure you understand each field and how to complete it effectively.
-</thinking>
-
 # Library Director Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from library staff members about their overall experience and the performance of the library director. This feedback will be used to evaluate the director's leadership, communication, and overall performance.

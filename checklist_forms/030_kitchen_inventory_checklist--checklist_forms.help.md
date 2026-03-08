@@ -1,5 +1,3 @@
-<thinking>This form is designed for monitoring kitchen inventory levels and maintaining kitchen equipment. It checks the stock levels of food items, refrigerators, freezers, and dishware. The form also identifies urgent restocking needs and maintenance issues that require attention. Each field is designed to provide concise answers to specific questions. Please read the following guide for a detailed understanding of how to complete this form.</thinking>
-
 # Kitchen Inventory Checklist - Help Guide
 ## Purpose
 The Kitchen Inventory Checklist is used to track the inventory levels of food items, refrigerators, freezers, and dishware, as well as identify urgent restocking needs and maintenance issues. This form helps maintain accurate and up-to-date inventory information, allowing for efficient stock management and timely restocking or maintenance actions.

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, the primary goal is to inform and educate users about the purpose and requirements of the "Newcomer Family Retreat Agreement" form. This form is designed to gather essential information about the newcomer's family, including their contact details, medical conditions, and emergency contact relationships. The form is likely used in a context where accurate and up-to-date information is crucial for the well-being and safety of the individual, such as in a hospital or healthcare setting. To ensure that users understand the form's purpose and how to complete it, we'll need to break down the form into its individual fields and provide clear explanations for each. By following this guide, users will be able to efficiently complete the form and provide accurate information.</thinking>
-
 # Newcomer Family Retreat Agreement - Help Guide
 ## Purpose
 The "Newcomer Family Retreat Agreement" form is designed to collect essential information about the newcomer's family, including their contact details, medical conditions, and emergency contact relationships. This information is crucial for the well-being and safety of the individual.

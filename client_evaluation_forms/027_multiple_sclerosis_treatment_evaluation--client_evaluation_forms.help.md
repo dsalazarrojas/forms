@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for evaluating the treatment experience of patients with Multiple Sclerosis (MS). The purpose of the form is to collect information on the patient's symptoms, treatment history, treatment outcomes, satisfaction, and other relevant details. This form should not be used for other medical conditions or purposes.
-The form consists of 10 pages, each with its own section for collecting specific information. The form is designed to be completed by patients or healthcare providers who have experience with MS treatment. 
-</thinking>
-
 # Multiple Sclerosis Treatment Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the treatment experience of patients with Multiple Sclerosis (MS). It collects information on symptoms, treatment history, treatment outcomes, satisfaction, and other relevant details to help healthcare providers better understand the effectiveness of treatment options.

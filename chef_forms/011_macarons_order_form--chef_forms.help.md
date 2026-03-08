@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to gather information for ordering macarons. 
-  The form is split into several sections that capture relevant details such as customer information, macaron type, order details, and delivery information. 
-  The form requires the following fields: customer name, macaron type, macarons count, email, phone, order date, order time, delivery date, and delivery time. 
-  The form also includes optional fields for order notes and delivery notes. 
-  The form is designed to be user-friendly and intuitive, with clear labels and instructions to guide the user through the ordering process.
-</thinking>
-
 # macarons_order_form - Help Guide
 ## Purpose
 This form is used to place an order for macarons. It captures essential information to complete the order, including customer details, order specifics, and delivery details.

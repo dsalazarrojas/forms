@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help Network Shops qualify their business and provide detailed information about their services, employees, and equipment. The purpose of this form is to gather relevant data about Network Shops, which will be used to improve our internal processes and provide better services to customers. This form should not be used for general feedback or complaints; if you have a specific issue or concern, please contact our support team directly. Please make sure to fill out this form only once, as duplicate submissions may cause unnecessary duplication of effort and data.
-</thinking>
-
 # Network Shop Qualification Survey - Help Guide
 ## Purpose
 This form is designed to help Network Shops qualify their business and provide detailed information about their services, employees, and equipment.

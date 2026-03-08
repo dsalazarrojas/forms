@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to help users generate a product quote for their customers. This form likely serves as a sales quote or estimation tool for businesses to quickly provide a quote to a customer for a product. It's possible this form is used to streamline the sales process, reduce manual effort, and improve customer experience. Before continuing, please verify that this form aligns with your specific use case and hasn't been created before. If you're not sure, please double-check with your team or manager.
-</thinking>
-
 # product_builder_and_quote - Help Guide
 ## Purpose
 This form is designed to help users quickly generate a product quote for their customers, streamlining the sales process and improving customer experience.

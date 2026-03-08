@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a harassment complaint and its absence impact, if any, on work operations. It's a way to document and manage incidents, ensuring that employees can report and report back any incidents in a clear and concise manner.
-The form is to be filled out by the person who has experienced the harassment, and it's essential to ensure that the information is accurate and complete.
-This form is not intended for general complaints or issues not related to harassment. Please fill out the form only if you have experienced or witnessed harassment.
-</thinking>
-
 # Harassment Complaint Absence Form - Help Guide
 ## Purpose
 The Harassment Complaint Absence Form is used to document and manage incidents of harassment that affect employees' work experience. Fill out this form to provide detailed information about the harassment you have experienced or witnessed, and any absence impact on work operations.

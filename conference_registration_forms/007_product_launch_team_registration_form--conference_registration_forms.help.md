@@ -1,5 +1,3 @@
-<thinking>... This form is used to register team members for a product launch event. The form will help you determine who is part of the launch team and gather essential contact information for each team member. Please ensure that you fill out this form accurately and thoroughly, as it will be used to coordinate team communication and logistics for the launch event. If you've already registered for the same product launch event, please do not fill out this form again. Please only fill out this form for new team members or updates to existing team member information. ...</thinking>
-
 # Product Launch Team Registration Form - Help Guide
 
 ## Purpose

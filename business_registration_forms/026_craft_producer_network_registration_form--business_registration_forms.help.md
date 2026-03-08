@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help potential members of the Craft Producer Network register themselves. The form is used to collect contact information, producer details, and other relevant data from interested individuals. The purpose of this form is to streamline the registration process and reduce the administrative burden on the network administrators. By providing a clear and concise registration process, we can ensure that all members have a smooth and efficient experience. This form will only be used for new members, and existing members can update their information at any time. We will be checking for duplicate registrations based on the email address, so please ensure that this information is accurate and up-to-date.
-</thinking>
-
 # Craft Producer Network Registration Form - Help Guide
 ## Purpose
 This form is designed to help potential members of the Craft Producer Network register themselves.

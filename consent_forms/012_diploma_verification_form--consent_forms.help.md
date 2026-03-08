@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the verification of academic degrees or qualifications. 
-It's intended for institutions, organizations, or individuals who need to confirm the authenticity of a person's educational background. 
-The form can be used to request and document the verification of degrees or certifications from applicants, employees, or candidates. 
-Please do not duplicate this form or use it for commercial purposes without proper attribution.
-</thinking>
-
 # Diploma Verification Form - Help Guide
 ## Purpose
 The Diploma Verification Form is a document that allows institutions, organizations, or individuals to confirm the authenticity of a person's academic degree or qualification.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended for caregivers to report on a client's activities, observations, and progress for the next day's care. The purpose of this form is to capture essential information about a client's needs and progress, which can help inform and prioritize care decisions for the next day.
-
-When completing this form, users should ensure that they only provide information about the client's next day's care, as indicated by the form's name. Users must also be mindful that some fields are required, as denoted by "required: true".
-
-Upon reviewing the form's content, it appears that the form is designed to collect data on a client's activities, observations, and progress. The form consists of 5 sections: "daily_care_plan", "activity_completed", "observations", "follow_ups", and "additional_comments". Users should focus on providing clear and concise information for each field, taking into consideration the field labels and type of input expected.
-
-Before filling out this form, it is essential to understand what each field entails to ensure accurate and efficient completion.
-
-</thinking>
-
 # next_day_care_report - Help Guide
 ## Purpose
 The purpose of this form is for caregivers to report on a client's activities, observations, and progress for the next day's care.

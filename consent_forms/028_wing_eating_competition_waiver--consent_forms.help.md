@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in the Wing Eating Competition. The purpose of this form is to gather demographic and medical information from participants, including their emergency contact details, medical conditions, and dietary restrictions. This information will be used to ensure participant safety and provide necessary medical clearance for the competition.
-Before filling out this form, please note that it is not intended for duplicate entries or submissions that are not relevant to the competition.
-This form will be used by the competition organizers to get to know the participants better and provide necessary medical support. Please answer the questions honestly and accurately.
-The following fields are explained below:
-</thinking>
-
 # Wing Eating Competition Waiver - Help Guide
 ## Purpose
 This form is designed to collect information from participants in the Wing Eating Competition, ensuring their safety and providing necessary medical clearance.

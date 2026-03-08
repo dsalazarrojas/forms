@@ -1,13 +1,3 @@
-<thinking>
-This form is a service provider authorization form. Its purpose is to collect information from service providers, which can be companies or individuals offering services to customers or clients. The form aims to gather essential details about the service provider, including their provider information, business details, contact information, and permission for data collection. This form will likely be used in business or professional settings, such as in the healthcare, financial, or consulting industries, where service providers need to be registered or approved before offering their services.
-
-Before starting, ensure that you are completing this form as a service provider, and not as a customer or client. If you are a customer or client seeking to authorize a service, please contact the service provider directly.
-
-Please note that this form is an original adaptation of a public survey and may not include all the fields or options available on the original platform or in your industry. If you need more fields or options, you can contact the form creators for further assistance.
-
-Also, please note that some fields might be required or optional depending on the industry or use case. In this form, none of the fields are required by default, but you might be required to fill in some fields depending on the specific context or regulation.
-</thinking>
-
 # service_provider_authorization_form - Help Guide
 ## Purpose
 This form is designed to collect essential details from service providers, including provider information, business details, contact information, and permission for data collection.

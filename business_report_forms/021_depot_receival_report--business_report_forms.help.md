@@ -1,6 +1,3 @@
-<thinking>
-This form is used to report the receipt of goods or items delivered to a depot. The purpose of this form is to ensure accurate and efficient tracking of inventory and deliveries. It may be used to report discrepancies or issues related to the delivery. It is a crucial document for warehouse staff to record the delivery details accurately.
-</thinking>
 # Depot Receival Report - Help Guide
 ## Purpose
 The Depot Receival Report is used to report the receipt of goods or items delivered to a depot. This form ensures accurate and efficient tracking of inventory and deliveries, and may be used to record any discrepancies or issues related to the delivery.

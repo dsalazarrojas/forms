@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our tenant empowerment perception survey effectively captures the opinions and experiences of our renters. This form will help us understand their satisfaction with communication, empowerment, and overall quality of service. Please note that this survey is a one-time opportunity for renters to share their thoughts, and their feedback will be kept confidential and anonymous. If you've already taken this survey in the past, please don't worry about duplicating your feedback.
-</thinking>
-
 # Tenant Empowerment Perception Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your perceptions of our tenant empowerment efforts, including communication, renter ideas, and overall quality of service. Your input will help us improve our services and provide a better experience for all renters.

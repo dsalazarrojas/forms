@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information about services managed within the organization. This includes service name, category, status, owner, review date, and any additional notes. This data will be used to keep track and manage the services provided.
-
-Before proceeding, confirm that this form is not duplicating efforts or data that already exists in the organization. Ensure that the information collected is accurate and up-to-date.
-</thinking>
-
 # Service Inventory Management Survey - Help Guide
 ## Purpose
 This form is designed to help you collect and manage information about the services provided within your organization. It helps keep track of services, their categories, status, owners, review dates, and any additional notes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from church members and visitors for donations. The purpose of the form is to streamline the donation process, making it easy for individuals to contribute to the church's mission and activities. This form will help the church administration keep track of donations, donors, and their preferences. 
-This form should only be used for donations and not for other purposes such as event registration, membership applications, etc. 
-</thinking>
-
 # Church Donation Giving Form - Help Guide
 ## Purpose
 This form is intended for church members and visitors to provide donations to support the church's mission and activities.

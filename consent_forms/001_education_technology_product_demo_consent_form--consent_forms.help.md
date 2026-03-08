@@ -1,10 +1,3 @@
-<thinking>
-This form is used to capture the consent of users before providing a product demo, which is a critical process in ensuring that the users understand and agree to the terms and conditions of the demo. The form is designed to collect information from both the demo provider and the participant. The form will ask for personal details such as user name, email, and contact information, as well as information specific to the demo, like the product version, demo duration, and consent status. 
-
-The form is divided into several sections, and each section corresponds to a specific field in the form. This guide will walk you through each field and how to complete it correctly.
-
-</thinking>
-
 # Education Technology Product Demo Consent Form - Help Guide
 ## Purpose
 This form is used to capture the consent of users before providing a product demo.

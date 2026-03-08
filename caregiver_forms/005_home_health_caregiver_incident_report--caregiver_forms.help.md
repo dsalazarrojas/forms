@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clearly understood by end-users, and that the form is not duplicated or filled out unnecessarily. This form is intended for caregivers to report incidents that have occurred while providing home health care. Incidents may include falls, medication or allergy issues, infections, or other events that require attention. By completing this form, caregivers will provide valuable information for follow-up and care coordination.
-</thinking>
-
 # Home Health Caregiver Incident Report - Help Guide
 ## Purpose
 This form is for caregivers to report incidents that have occurred while providing home health care. Examples include falls, medication or allergy issues, infections, and other events that require attention.

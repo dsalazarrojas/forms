@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help companies create a formal Business Termination Notice Letter for various types of agreements, such as Service, Vendor, Employment, Lease, Partnership, and Subscription or Membership. 
-
-The purpose of this form is to provide a structured template for businesses to notify other parties of the termination of an agreement or contract in a clear and professional manner. This form will guide users through the required information to include in the notice letter, ensuring compliance with common standards and practices. 
-
-The form is divided into sections that correspond to the key elements of a business termination notice letter, including sender and recipient information, type of agreement, termination date, reason for termination, and other relevant details. This will help users create a comprehensive and professional letter that effectively communicates the termination of the agreement or contract.
-
-</thinking>
-
 # Business Termination Notice Letter Generator - Help Guide
 ## Purpose
 The Business Termination Notice Letter Generator is a tool to help create a formal notice of termination for various business agreements and contracts.

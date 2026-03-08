@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients regarding their mental health services. It is designed to gather details about patient contact preferences, medical history, and current medications. The form is not intended for use in high-stakes or sensitive situations. Please ensure that patients understand the purpose and scope of this form before completing it. If you're unsure, please seek guidance from a medical professional.
-</thinking>
-
 # Mental Health Services Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information from patients about their mental health services needs. It is meant to be filled out by patients themselves, and the information collected will be used to provide them with relevant mental health services.

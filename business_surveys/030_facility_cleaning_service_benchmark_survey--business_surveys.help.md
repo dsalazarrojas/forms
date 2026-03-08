@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions from facility owners and managers on the performance of the facility cleaning service, helping to identify areas for improvement and measure the satisfaction level of the service provided. This form will gather information on the facility's name, location, satisfaction level, improvement suggestions, assigned manager's name and title, facility type, contact email and phone, facility location, notes, address, and city. The form is designed to be completed by facility owners and managers to provide feedback on the service provided.
-</thinking>
-
 # Facility Cleaning Service Benchmark Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and suggestions from facility owners and managers on the performance of the facility cleaning service.

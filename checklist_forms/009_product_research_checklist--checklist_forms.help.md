@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to gather information about a product. It allows users to input details about the product, such as its name, URL, description, and research areas. Additionally, users can provide their personal preferences and scores for the product, as well as any recommended team members. The form is meant to aid users in organizing and tracking their product research, and is intended for internal use.
-Please note that this form does not require a specific business logic or rules, it is a general purpose checklist.
-</thinking>
-
 # Product Research Checklist - Help Guide
 ## Purpose
 The Product Research Checklist is a form designed to gather and organize information about a product. It helps users to efficiently gather and track product details, research areas, scores, and personal preferences.

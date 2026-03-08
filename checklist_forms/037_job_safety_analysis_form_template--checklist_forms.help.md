@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a standard job safety analysis form used for documenting and tracking job safety risks, control measures, frequency, impact, and review details. 
-The "Job Safety Analysis Form Template" seems to be intended for use by individuals or teams responsible for conducting thorough risk assessments and reviews. It could be used within industries or organizations that require such forms to ensure worker safety, such as construction sites, manufacturing facilities, or any other environments where safety risks are a concern. 
-
-Before proceeding, ensure that this form has not already been completed for the current job or risk. If it has, you may want to retrieve and review the previous form instead of creating a new one.
-
-</thinking>
-
 # Job Safety Analysis Form Template - Help Guide
 ## Purpose
 The purpose of this form is to gather and document essential job safety information, including risks, control measures, and review details. It is meant to be filled out for each job or task to ensure a thorough risk assessment and to provide a framework for ongoing safety reviews.

@@ -1,8 +1,3 @@
-<thinking>
-A consent form is used to obtain agreement from individuals or participants to share their transcripts or research study data with third parties, usually for research or academic purposes. This form helps maintain transparency and ensures that participants understand how their data is being used. 
-To create a valid consent form, ensure that the participant's name and date are accurate. A valid consent form should only be created once and not duplicated.
-</thinking>
-
 # Research Study Transcript Sharing Consent Form - Help Guide
 
 ## Purpose

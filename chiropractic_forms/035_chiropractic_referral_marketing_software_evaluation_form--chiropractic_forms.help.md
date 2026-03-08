@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that this form is accurately and comprehensively evaluated, I will follow these guidelines:
-
-1.  Ensure the form is used only by those it is intended for (e.g., chiropractors or staff members).
-2.  Prevent duplication of efforts by not allowing users to submit the form multiple times.
-3.  Provide clear and concise explanations for each field to help users understand its purpose and required information.
-
-</thinking>
-
 # Chiropractic Referral Marketing Software Evaluation Form - Help Guide
 
 ## Purpose

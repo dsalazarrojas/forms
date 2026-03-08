@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block to check for relevance and non-duplication: This form is designed to assess the reliability of business processes within an organization. It appears to be a comprehensive survey that covers various aspects of process reliability, including questions about the accuracy, consistency, and quality of processes. The form has multiple pages with fields for selecting and entering text, multiple-choice options, and questions with different types of answers. The form does not require any personal identification information, suggesting that it is intended for internal or business purposes. Before creating the help guide, I will make sure to cover all the fields and questions in the form, making it easy for end-users to complete the form accurately.</thinking>
-
 # Process Reliability Audit Survey - Help Guide
 ## Purpose
 This form is designed to assess the reliability of business processes within an organization. It is used to evaluate the accuracy, consistency, and quality of processes, helping to identify areas for improvement and ensure that processes are functioning as expected.

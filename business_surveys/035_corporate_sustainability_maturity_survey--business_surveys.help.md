@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Corporate Sustainability Maturity Survey" form, which aims to understand the current state of sustainability practices within an organization. The form is designed to gather information about the company's sustainability strategy, domain maturity levels, challenges faced, and submission details. To ensure the guide is helpful and relevant, we will review the form's YAML structure and fields to provide clear explanations and instructions.
-</thinking>
-
 # Corporate Sustainability Maturity Survey - Help Guide
 ## Purpose
 This guide will help you complete the Corporate Sustainability Maturity Survey, which is designed to assess your company's progress in implementing sustainable practices. The survey is used to gather insights on your organization's sustainability strategy, areas of interest, and challenges faced.

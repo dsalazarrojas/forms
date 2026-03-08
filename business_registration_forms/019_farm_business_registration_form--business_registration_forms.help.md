@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to register a farm business, collecting information about the farm's name, location, owner, contact details, email, phone number, business type, and products offered. This form should help you gather essential data for your farm business, ensuring accurate and efficient registration. To avoid duplication, please make sure to fill out this form only once for your farm business.
-</thinking>
-
 # farm_business_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to register a farm business, collecting information about the farm's name, location, owner, contact details, email, phone number, business type, and products offered.

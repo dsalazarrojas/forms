@@ -1,12 +1,3 @@
-<thinking>
-To confirm, this form is designed to collect information about events hosted by charities or organizations, and it's a critical tool for promoting awareness and support for various causes. Before proceeding, we want to ensure that this form is filled out accurately and thoroughly to avoid duplication of effort and ensure that the right information reaches the intended audience.
-
-To prevent misrepresentation and ensure accuracy, please fill out this form only for events that are not already listed on our website. If you're unsure about the event's suitability or have questions, please reach out to us for clarification.
-
-Also, please make sure to complete the form accurately and truthfully, as any incorrect information may lead to confusion and misrepresentation of your organization.
-
-</thinking>
-
 # Announce An Event Form - Help Guide
 
 ## Purpose

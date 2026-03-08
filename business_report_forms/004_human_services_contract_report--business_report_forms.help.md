@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about human services contracts, which can include services like childcare, healthcare, transportation, etc. It seems to be a general form for reporting on these services, but I'll review the fields to ensure they're correctly explained for end-users.
-
-The fields included in this form appear to be for gathering contract and service provider information, such as contract type and terms, service provider details, and reporting dates. The form also includes fields for service delivery summaries, reporting officer and date, and other relevant information.
-
-Upon reviewing the fields, it seems that most of them are optional, which might make the form more user-friendly, but also potentially less structured. The fields are mostly text-based, with some select_one and select_multiple options for contract type and contract term. The date fields are mostly for contract start and end dates and the reporting date.
-
-</thinking>
-
 # Human Services Contract Report - Help Guide
 ## Purpose
 This form is designed to collect information about human services contracts, including services like childcare, healthcare, transportation, etc. This information is meant to facilitate reporting and tracking of such services.

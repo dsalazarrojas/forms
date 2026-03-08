@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inspection_checklist_submission_acknowledgement_form - Help Guide
 ## Purpose
 The purpose of this form is to acknowledge and submit inspection checklists. This form is used to collect information from users to track and record the completion of inspection checklists. It helps to ensure that all required steps have been taken and that the submitter is acknowledging their involvement in the process.

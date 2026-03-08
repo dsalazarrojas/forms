@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information and session preferences for Reentry Simulation events. This form is designed for Reentry Simulation participants to register their details and express their preferences for the sessions they wish to attend. 
-The form will be used internally to track participant registration and preferences, ensuring that participants are properly registered and their preferences are captured for event organization and planning.
-
-Before proceeding, please ensure that you are registered for the Reentry Simulation event and that you have not already submitted your registration form. If you are unsure, please contact the event organizers for clarification.
-
-Please provide accurate and complete information in this form, as it will be used to create participant profiles and facilitate event planning. If you have any questions or need assistance, you can contact the event organizers for help.
-</thinking>
-
 # Reentry Simulation Participant Registration - Help Guide
 ## Purpose
 The Reentry Simulation Participant Registration form collects participant information and session preferences for Reentry Simulation events.

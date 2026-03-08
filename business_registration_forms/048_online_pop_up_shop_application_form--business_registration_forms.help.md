@@ -1,24 +1,3 @@
-<thinking>
-To create this help guide, I will analyze the provided form YAML to understand its purpose and each field's intent.
-
-The form appears to be designed for an online pop-up shop application. The purpose of this form is likely to collect business information, owner information, and shop details from applicants. 
-
-The form has the following fields:
-
-* Business Information (page 1)
-* Owner Information (page 1)
-* Business Products (page 1, select multiple)
-* Contact Information (page 1, text)
-* Store Location (page 1, text)
-* Application Date (page 1, date)
-* Store Hours (page 1, select multiple)
-* Store Hours Time (page 1, time)
-* Store Information (page 1, text)
-* Notes (page 1, note)
-
-Each field's label seems to be self-explanatory, but I will provide additional explanations for clarity.
-
-</thinking>
 # online-pop-up-shop-application-form - Help Guide
 ## Purpose
 This is a help guide for the online-pop-up-shop-application-form. This form is designed to collect business information and shop details from applicants who want to open an online pop-up shop.

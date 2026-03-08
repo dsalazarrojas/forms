@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather metrics and performance data from social media platforms, allowing users to monitor and analyze their online presence. The form is probably used by marketing teams, social media managers, or analytics specialists to collect and report on social media performance over a specific date range. The goal of this form is to provide a structured way to collect and view social media performance metrics, such as engagement, reach, and click-through rates.
-</thinking>
-
 # Social Media Performance Report Form - Help Guide
 ## Purpose
 

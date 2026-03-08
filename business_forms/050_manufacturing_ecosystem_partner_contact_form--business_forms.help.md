@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manufacturing Ecosystem Partner Contact Form - Help Guide
 ## Purpose
 This form is for manufacturers who want to get in touch with our team to collaborate on potential partnerships within the manufacturing ecosystem. It collects information about the partner's contact details, product, and submission requirements to facilitate a smooth collaboration process.

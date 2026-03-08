@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting data about an organization's industrial waste management practices and policies. The purpose of this form is to gather information about how an organization manages its industrial waste, what challenges it faces, and who is responsible for this task.
-
-We expect organizations to fill out this form accurately and honestly, providing information about their current waste management policies, challenges, and personnel. If the organization has no industrial waste management policies or procedures in place, it is acceptable to select "N/A" as the response.
-
-</thinking>
-
 # industrial_waste_management_survey - Help Guide
 ## Purpose
 This form is for collecting data about an organization's industrial waste management practices and policies.

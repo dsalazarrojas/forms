@@ -1,8 +1,3 @@
-<thinking>
-The Sales Mastermind Agreement Renewal form is a key part of the coaching process, and it's essential to ensure that end-users understand its purpose and how to complete it accurately. 
-To start with, let's check that this form is not being completed unnecessarily - is it being used for a renewal, and are the participants confirming their preferences and signatures correctly? This form is likely being used for a renewal, as there's no indication it's being used for initial sales coaching agreements. The participant confirmations and signatures fields should be reviewed to ensure they're accurate before proceeding.
-</thinking>
-
 # Sales Mastermind Agreement Renewal - Help Guide
 ## Purpose
 The Sales Mastermind Agreement Renewal form is used to confirm participants' understandings and preferences for the sales mastermind agreement, which is a crucial part of the coaching process. This form ensures that all parties involved understand and agree to the terms and conditions of the program.

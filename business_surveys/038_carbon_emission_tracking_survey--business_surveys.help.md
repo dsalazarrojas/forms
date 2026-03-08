@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on carbon emissions tracking for an organization. The purpose of this form is to gather information about an individual's energy consumption, transportation habits, and overall sustainability awareness level. This data will help the organization understand their carbon footprint and identify areas for improvement.
-
-Before starting this form, it is essential to note that some questions may be relevant only to certain individuals or circumstances. Please answer the questions that apply to you.
-
-To complete this form, simply fill out the required fields and select the appropriate options for each question. You will find explanations and examples below to guide you through the process.
-
-</thinking>
-
 # Carbon Emission Tracking Survey - Help Guide
 ## Purpose
 This form is designed to collect data on carbon emissions tracking for an organization. The purpose of this form is to gather information about an individual's energy consumption, transportation habits, and overall sustainability awareness level.

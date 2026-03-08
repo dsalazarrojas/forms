@@ -1,12 +1,3 @@
-<thinking>
-This form is used to schedule and document the maintenance of refrigerated trailers. It is intended to be filled out by trailer maintenance personnel to ensure that all necessary maintenance checks are performed and documented. It's assumed that the person filling out this form has the necessary authority and knowledge to perform the maintenance tasks. This guide is intended to help users understand what each field means and how to fill it out correctly. The form's purpose is to collect information about a trailer's condition, maintenance schedule, and other relevant details. Before filling out this form, please note that some fields are required and must be filled out accordingly. Other fields are optional but can provide additional context and useful information.
-
-It's also worth noting that this form is likely to be filled out by multiple people, so be sure to keep the information up-to-date and consistent across different entries.
-
-Before starting to fill out the form, make sure you have all the necessary information and tools readily available.
-
-</thinking>
-
 # Refrigerated Trailer Scheduled Maintenance Checklist - Help Guide
 
 ## Purpose

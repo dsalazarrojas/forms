@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a user-facing form for registering a business service on the WhatsApp platform. The purpose of this form is to allow businesses to provide information about their services, such as their business name, description, and contact details, so that users can easily find and interact with them.
-
-Before we start, let's make sure that we're not duplicating any information. If you've already registered your business service, you won't need to fill out this form again. If you're unsure whether you've already registered, you can check your account settings to see if the information is already populated.
-
-</thinking>
-
 # whatsapp_business_service_registration - Help Guide
 ## Purpose
 This form is designed to help businesses register their services on the WhatsApp platform. It allows you to provide essential information about your business, making it easier for users to find and interact with your service.

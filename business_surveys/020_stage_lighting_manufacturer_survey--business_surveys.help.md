@@ -1,9 +1,3 @@
-<thinking>
-We will be using the "Stage Lighting Manufacturer Survey" to collect information about your company, contact person, contact email, and contact phone. This form is designed to gather relevant details from manufacturers of stage lighting products, helping us better understand your business and provide more effective support.
-
-Please ensure you are reading this help guide carefully before starting the survey. This guide will help you navigate through the form and provide you with the necessary information to complete it accurately.
-</thinking>
-
 # Stage Lighting Manufacturer Survey - Help Guide
 ## Purpose
 The "Stage Lighting Manufacturer Survey" is designed to collect information about your company, contact person, contact email, and contact phone. This will help us better understand your business and provide more effective support.

@@ -1,6 +1,3 @@
-<thinking>
-This is a form for speakers to register for a conference and upload materials. This form is likely used for speakers to provide information and materials required for their presentation or session at the conference. The form should only be filled out by speakers and not by attendees or organizers. The fields should be filled out accurately and completely. There might be some overlap between fields, so please make sure to fill out each field with the most up-to-date information.</thinking>
-
 # Speaker Registration And Material Upload - Help Guide
 ## Purpose
 The "Speaker Registration And Material Upload" form is a required form for speakers to register for a conference and upload necessary materials. This form helps the conference organizers gather essential information about the speaker and their session.

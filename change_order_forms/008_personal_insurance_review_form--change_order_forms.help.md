@@ -1,8 +1,3 @@
-<thinking>
-This form is used to review personal insurance policies for an individual or entity. It's essential to fill out this form accurately to ensure that the information is up-to-date and complete. Please note that this form is not for submitting new insurance policies, but rather for reviewing existing ones. To avoid duplication, please ensure that the information you provide is not already in the system.
-
-</thinking>
-
 # Personal Insurance Review Form - Help Guide
 ## Purpose
 The Personal Insurance Review Form is used to gather information about an individual's or entity's insurance policies. This form helps to update and verify the accuracy of existing insurance records.

@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Automation System Status Report Form" to ensure users understand the form's purpose and how to fill it out accurately. This form is used to collect information about the automation system's status, performance, and incidents. We'll focus on making the explanation concrete, concise, and practical, and avoid introducing any unsupported business logic.
-
-We'll follow the structure of "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips" sections in the final help guide.
-
-</thinking>
-
 # Automation System Status Report Form - Help Guide
 
 ## Purpose

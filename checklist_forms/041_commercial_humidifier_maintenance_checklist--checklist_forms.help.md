@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to guide service technicians in performing regular maintenance checks on commercial humidifiers. The purpose of this form is to ensure that all necessary checks are performed and documented to maintain the optimal performance and reliability of the humidifier. The form is organized into sections that cover different aspects of the humidifier's maintenance, including visual inspection, water system checks, electrical components, mechanical components, performance checks, and maintenance history.
-
-Before using this form, it's essential to review the previous maintenance records and ensure that this is not a duplicate entry. If you're unsure about the current status or maintenance history of the humidifier, please consult with the facility manager or previous servicing technician.
-
-</thinking>
-
 # Commercial Humidifier Maintenance Checklist - Help Guide
 ## Purpose
 This form is designed to guide service technicians in performing regular maintenance checks on commercial humidifiers. The goal is to ensure that all necessary checks are performed and documented to maintain optimal performance and reliability.

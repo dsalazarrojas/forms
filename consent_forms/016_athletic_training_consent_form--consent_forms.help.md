@@ -1,14 +1,3 @@
-<thinking> 
-To create a form like this, we should first check if the form is being used in the correct context. Are we dealing with an athlete who wants to participate in a sports activity? If so, then this form likely aims to gather information on the athlete's medical status and consent for treatment. 
-
-We should also check if there's any duplication or overlap with other forms, especially if we're dealing with a minor. If the athlete is under 18, we'd want to include consent from a parent or guardian. 
-
-The form has a few fields that might be unclear, but let's stick to the labels provided. 
-
-Now, let's move on to writing the help guide! 
-
-</thinking>
-
 # Athletic Training Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Project Timeline Adherence Report Form. It's used to collect information about project timelines and their adherence to schedule. The form will ask for project details such as project ID, team name, start and end dates, status, progress, and other relevant information. It's essential to complete the form accurately to ensure that project timelines are properly recorded and reported. Please note that this form is not meant to be a comprehensive project management tool, but rather a simple way to gather information for project adherence. Before starting to fill out the form, ensure that you have all the necessary information required.
-</thinking>
-
 # Project Timeline Adherence Report Form - Help Guide
 ## Purpose
 The Project Timeline Adherence Report Form is used to collect information about project timelines and their adherence to schedule.

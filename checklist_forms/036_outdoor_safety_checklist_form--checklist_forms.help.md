@@ -1,18 +1,3 @@
-<thinking>
-
-This help guide is intended to be a concise, practical, and user-friendly resource that explains the purpose and usage of the "Outdoor Safety Checklist Form". The form is designed to help assess and record the safety measures taken during outdoor activities. This guide will walk the user through each section of the form, explaining the purpose and requirements of each field. The form is not intended to be a complex assessment tool, but rather a simple and accessible way to collect information.
-
-The form consists of several sections, each with a specific purpose:
-
-*   Participant information: This section is used to collect basic information about the participant, such as their name, email, and date/time of submission.
-*   Risk Level and Hazard Found: This section is used to determine the level of risk and whether any hazards were found during the activity.
-*   Hazard Description and Control Measures: This section is used to describe any hazards found and the measures taken to mitigate or address them.
-*   Safety Measures and Completion: This section is used to record whether safety measures were taken and whether the form has been completed.
-
-The form is designed to be easy to complete and understand, with clear labels and instructions for each section. This guide will explain each field in detail to ensure the user understands the purpose and requirements of each.
-
-</thinking>
-
 # Outdoor Safety Checklist Form - Help Guide
 ## Purpose
 The Outdoor Safety Checklist Form is a simple and accessible tool designed to help assess and record the safety measures taken during outdoor activities. This form is intended to be completed by participants to provide a quick and easy way to collect information on their safety.

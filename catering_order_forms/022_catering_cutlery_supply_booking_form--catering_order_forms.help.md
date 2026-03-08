@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help the Catering Cutlery Supply company manage catering events by requesting booking information from potential clients. The form is intended for clients to provide details about their event, including their contact information, event details, and cutlery requirements. This form is likely to be used by event planners or catering companies to prepare for events and ensure they have the necessary cutlery.
-
-It's likely that this form will be used by people who are planning events such as weddings, corporate events, and parties. They will be asked to provide details about the event, including the date and type of event, as well as the number of guests and cutlery needed.
-
-To avoid duplication of effort, it's recommended to check if there is already a similar form being used for similar purposes in the company before creating a new form.
-
-</thinking>
-
 # Catering Cutlery Supply Booking Form - Help Guide
 ## Purpose
 The Catering Cutlery Supply Booking Form is designed to collect information about catering events and ensure that the Catering Cutlery Supply company has the necessary cutlery to provide for the event.

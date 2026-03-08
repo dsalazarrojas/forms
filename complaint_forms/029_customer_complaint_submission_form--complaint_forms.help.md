@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather customer complaints and feedback. It is intended for customers to report any issues they have experienced with the business, such as product defects, poor service, or other concerns. The form should only be used for reporting genuine complaints and not for submitting general feedback or suggestions. To ensure the form is used effectively, please do not submit duplicate complaints. If you have already submitted a complaint, please do not submit another one. This form is for single-instance reporting of customer complaints.
-</thinking>
-
 # Customer Complaint Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to submit complaints and feedback about their experiences with the business.

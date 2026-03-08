@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their level of collaboration with internal teams and departments within the company. The form is meant to help management understand the current state of collaboration and identify areas of improvement. It's essential to ensure that all fields are completed accurately and thoroughly, as the data collected will help inform future decision-making and resource allocation. Please note that some fields are optional, and users can skip them if they are not applicable. This form is not meant to be a comprehensive audit, but rather a starting point for internal collaboration assessment.
-</thinking>
-
 # Internal Audit Cooperation Survey - Help Guide
 ## Purpose
 The Internal Audit Cooperation Survey is designed to help management understand the current state of collaboration within the company. It aims to gather information on the frequency and effectiveness of internal communication and collaboration.

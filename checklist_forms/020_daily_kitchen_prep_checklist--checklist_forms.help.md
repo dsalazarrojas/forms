@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to keep track of their daily kitchen tasks, routines, and activities. It helps them stay organized and on top of their kitchen responsibilities. The form is divided into sections based on different areas of kitchen management, such as morning routine, cooking, and cleaning. Users can select 'Yes' or 'No' for each task to indicate whether they have completed it or not. The form also includes fields for notes and storage management.
-</thinking>
-
 # Daily Kitchen Prep Checklist - Help Guide
 ## Purpose
 This form is a daily checklist for kitchen management, covering various tasks, routines, and activities to keep your kitchen organized and efficient.

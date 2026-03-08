@@ -1,9 +1,3 @@
-<thinking>
-
-The Sustainability Practice Integration Survey form is used to collect data on how employees perceive their organization's current state of sustainability practice integration. This form is used for internal purposes, such as identifying areas of improvement in the company's sustainability practice integration process. This survey should only be completed once, and employees from different departments and with varying levels of experience in sustainability practice integration should have access to it. 
-
-</thinking>
-
 # Sustainability Practice Integration Survey - Help Guide
 ## Purpose
 This guide provides instructions on how to complete the Sustainability Practice Integration Survey form.

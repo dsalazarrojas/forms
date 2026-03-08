@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Admission Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect essential patient information during the admission process. It is intended to be a comprehensive checklist that helps healthcare professionals gather accurate and up-to-date information about the patient's personal details, medical history, allergies, medical certificiations, family history, contact information, and emergency contact details.

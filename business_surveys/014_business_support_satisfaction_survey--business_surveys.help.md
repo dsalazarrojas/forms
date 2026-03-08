@@ -1,17 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from customers or users about the quality and effectiveness of the business support services provided, aiming to identify areas for improvement and optimize support services. It is essential to ensure that all fields are filled in accurately to provide a comprehensive and unbiased assessment.
-
-This form will not be used for marketing purposes or to sell any products or services. It will be treated as a genuine effort to understand customer satisfaction and expectations.
-
-To prevent duplication of effort, please do not fill out this form if you have already completed it in the past.
-
-Please ensure that the form is filled out by the person who has had direct interaction with the business support team.
-
-Before filling out this form, review the entire form to ensure that all required fields are completed.
-
-If a question or field is unclear or requires further explanation, please contact us for assistance.
-</thinking>
-
 # Business Support Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality and effectiveness of our business support services. Your input will help us understand what we're doing well and where we can improve.

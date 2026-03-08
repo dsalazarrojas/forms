@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to report and dispute mobile payment not received issues. This form should be used when a customer has made a mobile payment but has not received the expected goods or services. The form is intended to collect relevant information about the customer's contact details, order specifics, payment information, and the reason for the dispute.
-
-To complete this form, the customer should provide as much detail as possible about their experience, including any relevant dates and amounts. This information will be used to investigate and resolve the issue.
-
-Before completing this form, please ensure that you have not previously submitted a dispute or complaint about the same issue. If you have, please do not resubmit. This will help us to efficiently process and manage your request.
-
-The following fields are explained in further detail below:
-</thinking>
-
 # Mobile Payment Not Received Dispute Form - Help Guide
 
 ## Purpose

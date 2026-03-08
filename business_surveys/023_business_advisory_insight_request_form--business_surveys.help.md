@@ -1,19 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Business Advisory Insight Request Form", we need to understand the form's purpose and how it fits into the overall business process. This form is used to collect information from business leaders and decision-makers who are requesting advisory services to help them address specific challenges and issues within their organization. The form is likely used to gather data on the requestor's company, the nature of their challenge, and their expectations for advisory services.
-
-When designing the form, we should consider the following goals:
-
-* Collect relevant information from the requestor to understand their needs and challenges
-* Ensure the form is clear and concise, with a logical flow of questions to help the requestor provide the necessary information
-* Avoid overwhelming the requestor with too many questions or complex queries
-* Use clear and descriptive labels and hints to guide the requestor through the form
-* Provide options for fields where possible to help the requestor understand their choices
-
-By considering these goals, we can create a user-friendly and effective form that helps to gather the necessary information to provide advisory services to business leaders and decision-makers.
-
-</thinking>
-
 # Business Advisory Insight Request Form - Help Guide
 ## Purpose
 The Business Advisory Insight Request Form is designed to collect information from business leaders and decision-makers who are seeking advisory services to address specific challenges and issues within their organization. This form helps to understand the nature of their challenge, their expectations for advisory services, and other relevant details.

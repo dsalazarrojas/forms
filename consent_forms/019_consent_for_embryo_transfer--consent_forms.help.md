@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent for an embryo transfer procedure, which is a medical fertility treatment. This form is used to gather information and ensure that the patient understands the risks and procedures associated with the transfer. It's essential that the form is filled out correctly to avoid any confusion or miscommunication during the treatment process. To confirm, please ensure that you are filling out this form in the context of an embryo transfer procedure and that you understand the contents and implications of the form.
-</thinking>
-
 # Consent For Embryo Transfer - Help Guide
 ## Purpose
 ## How To Complete This Form

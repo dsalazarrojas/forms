@@ -1,5 +1,3 @@
-<thinking> This form is designed to assess employees' awareness and understanding of treasury risk factors, including fraud prevention, detection, and reporting. The purpose of this survey is to gather information on the current state of treasury risk awareness within the organization and identify areas for improvement. By completing this form, participants will be able to express their opinions and experiences regarding treasury risk factors, providing valuable insights for the organization's risk management team. The responses will be used to inform the development of risk management strategies and policies. </thinking>
-
 # Treasury Risk Awareness Survey - Help Guide
 ## Purpose
 The Treasury Risk Awareness Survey is designed to assess employees' awareness and understanding of treasury risk factors, including fraud prevention, detection, and reporting.

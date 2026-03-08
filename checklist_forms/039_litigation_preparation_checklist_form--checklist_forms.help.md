@@ -1,20 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided YAML form and extracted the following details:
-
-* The form is named "Litigation Preparation Checklist Form" and has 19 fields.
-* The form is likely used for collecting information related to a legal case.
-* Some fields are required (e.g., case number), while others are optional.
-* The form includes fields for various types of information, such as dates, numbers, text, select options, and email.
-* The form has two date fields (date of incident and filing date) and one hearing date field.
-* The form includes fields for insurance coverage and case status.
-* The form also includes fields for contact information (phone and email).
-* The form has a field for notes.
-
-Internal reasoning block:
-
-This form is designed to gather necessary information for litigation preparation. It is intended for attorneys or other legal professionals who need to prepare cases. The form is a checklist, hence the "Litigation Preparation Checklist Form" title.
-
-</thinking>
-
 # Litigation Preparation Checklist Form - Help Guide
 
 ## Purpose

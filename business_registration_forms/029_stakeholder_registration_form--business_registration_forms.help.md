@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for registering stakeholders in a business context. The form's purpose is to collect information about the stakeholder, their contact details, and event-related information. This form is likely used in a business setting where events are organized and stakeholders need to be managed. The form's purpose is to ensure that stakeholders' information is accurately recorded and easily accessible.
-
-Before filling out this form, please ensure that you have all the necessary information and that it's not a duplicate registration. If you're registering a stakeholder who has already been registered, please do not submit the form again.
-</thinking>
-
 # Stakeholder Registration Form - Help Guide
 ## Purpose
 The Stakeholder Registration Form is used to collect information about stakeholders in a business event. The form helps to manage stakeholder's contact details and event-related information.

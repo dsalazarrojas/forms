@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about the financial risk policy of a business. It is used to assess the company's approach to risk management and identify areas for improvement. The form consists of five fields that cover various aspects of financial risk management. Before proceeding, please ensure that you have read and understood the form's purpose and that it aligns with your current financial risk management policies.
-
-If you have already completed this form, it is highly unlikely that you will need to complete it again, as the same information has already been captured. However, if changes have occurred in your business environment or if you have new information, it might be necessary to update your answers accordingly.
-</thinking>
-
 # Financial Risk Policy Survey - Help Guide
 ## Purpose
 This survey is used to gather information about the financial risk policy of your business, helping us to understand your company's approach to risk management and identify areas for improvement.

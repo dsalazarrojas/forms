@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about sunflower oil purchase habits from customers. It is likely used for market research or to inform business decisions about sunflower oil sales and distribution. This form should only be filled out by customers who have experience with buying sunflower oil. If a customer has filled out this form in the past and has similar information, it's best not to resubmit the form.
-</thinking>
-
 # Sunflower Oil Purchase Survey - Help Guide
 ## Purpose
 This form is designed to collect information about sunflower oil purchasing habits from customers. This information will be used to better understand customer preferences and behaviors related to sunflower oil sales and distribution.

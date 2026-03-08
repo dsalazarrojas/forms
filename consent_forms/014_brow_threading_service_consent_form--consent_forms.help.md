@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brow Threading Service Consent Form - Help Guide
 
 ## Purpose

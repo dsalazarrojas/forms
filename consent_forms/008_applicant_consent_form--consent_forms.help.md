@@ -1,5 +1,3 @@
-<thinking>...The applicant consent form is designed to collect necessary information from the applicant for the purposes of recruitment and background checks. The form ensures that the applicant is aware of and consents to the collection and processing of their personal data, as well as any background checks that may be conducted. This form is a requirement for applicants to complete before proceeding with the application process. The company will not proceed with the application without the applicant's consent. This form should only be completed by applicants who have been provided with a link or form instance by the company or its representatives. Please ensure that you are completing this form for the correct purpose and that you are aware of your rights and the company's responsibilities under data protection regulations... </thinking>
-
 # Applicant Consent Form - Help Guide
 ## Purpose
 The Applicant Consent Form is used to obtain the necessary consents from applicants before the company conducts background checks and processes their personal data.

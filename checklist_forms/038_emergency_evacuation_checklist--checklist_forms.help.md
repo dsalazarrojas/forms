@@ -1,7 +1,3 @@
-<thinking>
-This help guide will ensure that users understand the purpose and usage of the Emergency Evacuation Checklist form, which is designed to gather critical information in emergency situations.
-</thinking>
-
 # Emergency Evacuation Checklist - Help Guide
 ## Purpose
 The Emergency Evacuation Checklist is a form used to collect essential contact and emergency planning information. It is intended to provide a structured and organized approach to gathering critical details, especially in emergency situations. This form helps to quickly gather information from individuals, such as contact details, emergency contact information, and evacuation plans, which are essential for effective emergency response and communication.

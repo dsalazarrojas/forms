@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "flooring_cleaning_chemical_survey" form is to gather information about the flooring cleaning process, focusing on the types of chemicals used, the level of satisfaction with the current cleaning process, any issues encountered, and the condition of the flooring. This form aims to collect data that can be used to improve the cleaning process and overall facility management. Please ensure that you complete this form only once for each flooring area, as it is designed to be a one-time survey.
-</thinking>
-
 # Flooring Cleaning Chemical Survey - Help Guide
 ## Purpose
 The "flooring_cleaning_chemical_survey" form is designed to gather information about the flooring cleaning process, focusing on the types of chemicals used, satisfaction, issues, and condition of the flooring.

@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system designed to help maintenance teams track and manage maintenance activities for a global stage. The Global Stage Maintenance Checklist is a tool used to collect essential information about the stage's condition, equipment, and issues that need to be addressed. This form aims to provide a standardized and efficient way of collecting data, making it easier for maintenance teams to identify areas that require attention and prioritize their actions accordingly.
-</thinking>
-
 # Global Stage Maintenance Checklist - Help Guide
 ## Purpose
 The Global Stage Maintenance Checklist is a form used to collect and track important information about a global stage's condition, equipment, and issues. It helps maintenance teams to:

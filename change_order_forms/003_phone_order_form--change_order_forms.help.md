@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this "phone-order-form" form, we'll focus on explaining its purpose, how to complete it, and what each field means. This guide is designed to be concise and practical.
 
 # phone-order-form - Help Guide

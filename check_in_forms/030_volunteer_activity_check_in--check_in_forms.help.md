@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to capture information about volunteer activities, including check-in details, volunteer status, and shift information. The form is likely used by volunteers to provide their attendance status and report their hours worked. It may also be used for administrative tasks such as tracking volunteer hours, managing shifts, and monitoring volunteer engagement.
-
-To avoid errors, please ensure that you are completing this form for the correct event and that you have the necessary permissions to do so.
-
-The form should not be used for duplicate submissions. If you have already submitted this form for an event, please do not submit it again.
-
-</thinking>
-
 # Volunteer Activity Check In - Help Guide
 ## Purpose
 This form is designed to capture information about volunteer activities, including check-in details, volunteer status, and shift information. It helps administrators track volunteer hours, manage shifts, and monitor volunteer engagement.

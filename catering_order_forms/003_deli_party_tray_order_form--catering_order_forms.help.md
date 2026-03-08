@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help customers place orders for deli party trays. The form is not affiliated with or endorsed by any form platform, but rather a creative adaptation using AI-generated form design. The form's purpose is to collect information about the customer's deli party tray order, including delivery details and any special requests. This form is released under the Creative Commons Attribution 4.0 license, allowing users to use, modify, and even sell derivatives of this form, while giving credit.
-
-Before continuing, please note that this form is a public adaptation and not a direct copy of any existing form. It is intended to be a helpful resource for customers to place their deli party tray orders.
-
-</thinking>
-
 # Deli Party Tray Order Form - Help Guide
 ## Purpose
 The Deli Party Tray Order Form is designed to collect information about your deli party tray order, including delivery details and any special requests.

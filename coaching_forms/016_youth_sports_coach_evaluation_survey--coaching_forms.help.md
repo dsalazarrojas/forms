@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from youth sports coaches about their evaluation and improvement strategies, coaching philosophy, and experiences in working with youth athletes. The purpose of this form is to help identify areas of improvement and best practices for youth sports programs. Please ensure that you complete this form only if you are a youth sports coach. If you have already completed a similar survey, do not submit this form again.
-</thinking>
-
 # Youth Sports Coach Evaluation Survey - Help Guide
 
 ## Purpose

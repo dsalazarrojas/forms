@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather input from business users to gather ideas on paper reduction strategies within their teams. As such, we need to ensure that only relevant and accurate information is collected to support this purpose. To this end, we should focus on providing a clear and concise help guide to ensure users understand what is expected of them.
-</thinking>
-
 # Paper Reduction Ideas Survey - Help Guide
 ## Purpose
 This form is designed to collect ideas and feedback from business users on strategies for reducing paper usage within their teams. The input collected will help in identifying effective ways to decrease paper consumption and implement sustainable practices.

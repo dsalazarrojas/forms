@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering merit badges for events, allowing users to input details about the camp, person participating, and event specifics. The form ensures that the required information is accurately and comprehensively collected for efficient record-keeping and reporting.
-</thinking>
-
 # Merit Badge Registration Form - Help Guide
 
 ## Purpose

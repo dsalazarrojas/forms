@@ -1,13 +1,3 @@
-<thinking>
-This form is used to capture media coverage records release information, which is essential for maintaining accurate and up-to-date records of media coverage. The purpose of this form is to ensure that all necessary information is collected and verified before releasing media coverage records to the public.
-
-Before filling out this form, please note that you should only fill it out once you have received media coverage records from someone else. If you are an end user, you may not need to fill this form at all, as it is primarily intended for the organization's internal use. However, if you are required to provide media coverage records release information, please ensure that all fields are filled accurately and truthfully.
-
-The following form is designed to collect necessary information for media coverage records release, and it is divided into several fields for easy reference. Please ensure that you fill in all required fields correctly.
-
-Please note that some of the fields are not required for every submission, and you can skip them if they are not applicable.
-</thinking>
-
 # Media Coverage Records Release Form - Help Guide
 ## Purpose
 This form is used to capture media coverage records release information for internal use.

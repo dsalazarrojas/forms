@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Emergency Response Survey - Help Guide
 ## Purpose
 This survey is designed to assess your knowledge, awareness, and preparedness in responding to emergency situations in the building where you work. It will help us identify areas for improvement to better prepare for potential emergencies.

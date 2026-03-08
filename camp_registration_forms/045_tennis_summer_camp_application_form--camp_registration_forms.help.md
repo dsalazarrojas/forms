@@ -1,7 +1,3 @@
-<thinking>
-As a tennis enthusiast, this form is likely used for parents or guardians to enroll their children in a summer tennis camp. To ensure that the form serves its purpose correctly, let's make sure that it's being used for its intended use case, and not for other purposes like registering for general contact or creating a new account. Additionally, it's possible that some of these fields might overlap or be redundant, and we should be cautious of that in the design.
-</thinking>
-
 # Tennis Summer Camp Application Form - Help Guide
 ## Purpose
 This form is used for parents or guardians to register their children for a summer tennis camp. It collects necessary information to ensure a safe and enjoyable experience for all campers.

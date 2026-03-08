@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect updated information about an individual's or organization's mailing address. The primary purpose of this form is to capture accurate and complete contact information, which is crucial for efficient communication and data management within the organization. Before proceeding, it's essential to ensure that this form is not used to update an address that is not currently associated with the user or organization. Duplicate submissions may be discarded or handled accordingly.
-
-</thinking>
-
 # Mailing Address Update Form - Help Guide
 ## Purpose
 The Mailing Address Update Form is a crucial tool for updating and ensuring the accuracy of an individual's or organization's mailing address.

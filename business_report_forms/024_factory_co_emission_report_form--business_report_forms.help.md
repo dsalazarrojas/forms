@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory CO₂ Emission Report Form - Help Guide
 ## Purpose
 The Factory CO₂ Emission Report Form is used to track and report emissions of CO₂ from factories and industrial sites. The form is intended to provide detailed information on the types and amounts of CO₂ released by a particular factory during specific reporting periods. This form is designed to help factories accurately document their emissions and report them according to regulatory requirements.

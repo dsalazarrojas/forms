@@ -1,7 +1,3 @@
-<thinking>
-The Babysitting Release Form is a document that authorizes babysitting services for your child. It's essential to understand that this form is a legal agreement between you, the parent or guardian, and the babysitter. By completing this form, you'll be releasing the babysitter from liability for any injuries or accidents that may occur during the babysitting session, except in cases of gross negligence. Please review the form carefully and answer all required fields truthfully. If you have any questions or concerns, please don't hesitate to ask the babysitter or the responsible authority.
-</thinking>
-
 # Babysitting Release Form - Help Guide
 ## Purpose
 This form is designed to be completed by parents or guardians to authorize babysitting services for their child(ren). It's a legal agreement that releases the babysitter from liability for any injuries or accidents that may occur during the session, except in cases of gross negligence.

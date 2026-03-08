@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used to collect information about the Geometric Dimensioning and Tolerancing (GD&T) survey. The Geometric Dimensioning and Tolerancing (GD&T) survey is a tool used to collect information about a company's GD&T practices, knowledge, and submission processes. This form is designed to help companies assess their current state of GD&T practices and identify areas for improvement.
-
-Before we dive into the details of the form, let's make sure we understand its purpose and relevance. The form is used to collect information about the following:
-
-* GD&T practices: This section of the form will ask about the company's current GD&T practices, including whether they have a template for the survey, if they use a drag-and-drop interface, and if they have a submission process in place.
-* GD&T knowledge: This section will ask about the company's current knowledge and understanding of GD&T principles.
-* GD&T submission: This section will ask about the company's submission process for GD&T information.
-
-If we have a similar form already existing in our system, we can avoid duplication of efforts and use the existing form instead of creating a new one.
-
-</thinking>
-
 # Geometric Dimensioning And Tolerancing (GD&T) Survey - Help Guide
 ## Purpose
 The Geometric Dimensioning and Tolerancing (GD&T) Survey is a tool used to collect information about a company's GD&T practices, knowledge, and submission processes.

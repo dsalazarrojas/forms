@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help evaluate the integration of a payment network with the main system. The purpose of this form is to assess whether the payment network meets the required standards and protocols for compliance, security, and functionality. It ensures that the payment network is properly integrated, tested, and validated, and that there are clear processes in place for monitoring activity, handling errors, and reporting issues. 
-
-This form will help identify potential areas of improvement for the payment network, ensuring that it operates smoothly and securely within the main system. 
-
-Please note that this form is a checklist and is not an exhaustive evaluation tool. It should be used as a starting point for a more in-depth evaluation and improvement process.
-
-</thinking>
-
 # Payment Network Compliance Integration Evaluation Checklist - Help Guide
 ## Purpose
 The Payment Network Compliance Integration Evaluation Checklist is designed to assess the integration of a payment network with the main system. It evaluates whether the payment network meets the required standards and protocols for compliance, security, and functionality.

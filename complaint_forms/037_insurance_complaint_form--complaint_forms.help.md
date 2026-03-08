@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for insurance customers to provide feedback or complaints regarding their insurance experiences. This will help the insurance provider to understand the nature of the issue, identify potential problems, and improve their services. To prevent duplication, ensure that you are filling out this form for the first time or with an updated complaint status. Please refer to the form title and instructions for each section. 
-</thinking>
-
 # Insurance Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect complaints or feedback from insurance customers. Please use this form to report any issues or concerns you have experienced with your insurance provider.

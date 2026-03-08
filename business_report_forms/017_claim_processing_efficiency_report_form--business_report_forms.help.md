@@ -1,20 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Claim Processing Efficiency Report Form that is clear, concise, and practical.
-
-To create this form, I'll follow these steps:
-
-1.  Understand the form's purpose and the context in which it will be used.
-2.  Identify the required fields and their labels.
-3.  Create a brief internal reasoning block to explain the form's purpose and check for relevance and non-duplication.
-4.  Write the user-facing help guide in Markdown format.
-
-Here is the internal reasoning block:
-
-This form is used to collect data on the efficiency of claim processing within a business. It helps identify areas of improvement, track progress, and make data-driven decisions. By analyzing this form, managers and executives can get an overview of the current state of the claim processing process and identify potential bottlenecks.
-
-Before creating the form, it's essential to ensure that all required fields are filled out accurately and completely.
-
-</thinking>
-
 # Claim Processing Efficiency Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to validate a patient's consent for various medical procedures or treatments. The form is designed to be filled out by a patient or their authorized representative, and it will be reviewed and validated by medical staff to ensure that the patient has provided informed consent for the procedures. This form is not intended for medical professionals to provide treatment or services to patients; it is a separate process that should not be performed concurrently. Before filling out this form, please confirm that you have not already provided consent for the procedures being validated.
-</thinking>
-
 # patient_consent_validation_form - Help Guide
 ## Purpose
 This form is used to validate a patient's consent for medical procedures or treatments.

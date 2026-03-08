@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather feedback on the economic conditions of an organization. It's likely used by internal stakeholders within the company. The purpose of this form is to gather data on various economic conditions, such as priorities and outlook, and how they affect the organization. It is likely used by the management or department heads to inform decision-making processes.
-</thinking>
-
 # Economic Feedback Survey Form - Help Guide
 ## Purpose
 This form aims to collect information on economic conditions and priorities from employees or stakeholders. It contains multiple sections with different types of questions, including select multiple, select one, text, and email.

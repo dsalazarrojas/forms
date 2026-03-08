@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured and systematic way for cleaning staff to conduct a thorough inspection and cleaning of cabinets in a property or facility. The form is designed to be completed by cleaning staff after each cleaning cycle, allowing them to report on the status of various cleaning tasks, identify potential issues, and provide general comments on the condition of the cabinets. This information is useful for maintaining accurate records of cleaning activities, identifying areas that need improvement, and ensuring that cleaning protocols are consistently applied across all cabins.
-The form should only be used for the specific purpose of reporting on cabinet cleaning activities and should not be used for other purposes or for any other type of inspection.
-</thinking>
-
 # Cabinet Cleaning Checklist - Help Guide
 ## Purpose
 The Cabinet Cleaning Checklist is a standardized form for cleaning staff to report on the status of cabinet cleaning activities and identify potential issues.

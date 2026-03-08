@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for attendees to register for the HR Policy Modernization Roundtable. 
-The form asks for general information about the attendee, such as their name, contact details, and job title. It also allows attendees to select their preferred sessions and indicate any accessibility needs or dietary restrictions they may have. 
-
-The form is intended to gather information that will help with the planning and execution of the event. 
-
-Before filling out this form, please ensure that you have not already registered for the roundtable, and that your registration is up to date. If you have any questions or concerns, please reach out to the event organizers for assistance. 
-
-This form will guide you through the necessary steps to fill out the registration information accurately and efficiently.
-</thinking>
-
 # HR Policy Modernization Roundtable Registration - Help Guide
 
 ## Purpose

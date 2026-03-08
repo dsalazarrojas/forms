@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather relevant information from clients, including details, medical conditions, allergies, current health, and emergency contact information. This form likely serves for yoga consultation or other health-related services. It should be completed by users who have had a previous interaction with the organization. This form is likely not a mandatory form and therefore not filled out by all users, so there are no validation checks for completion.
-</thinking>
-
 # yogaConsultationForm - Help Guide
 ## Purpose
 This form collects information for yoga consultation or other health-related services. It should only be filled out by users who have had a previous interaction with the organization.

@@ -1,15 +1,3 @@
-<thinking>
-The Lighting Complaint Form is used to document and track lighting-related issues that require attention. This form is intended for users to report any problems they encounter with lighting in their area, which may be affecting their daily work or study environment. 
-By submitting this form, users can report incidents of either excessive brightness or darkness, and provide details about the issue, such as its location and the tool used to report the issue. The form is designed to be completed by the user, who can report issues they have encountered and the tool or equipment used to report the issue. This form is a crucial part of our quality of service initiative, ensuring that lighting issues are properly documented and resolved promptly.
-
-The Lighting Complaint Form is a one-page form with several sections that need to be filled in. Please ensure to complete the form accurately and thoroughly, as this information will be used to assess and address the reported issue.
-
-Before submitting the form, please take a moment to review the following fields and their corresponding explanations:
-
-Please ensure that this form is not submitted multiple times for the same issue.
-
-</thinking>
-
 # Lighting Complaint Form - Help Guide
 ## Purpose
 The Lighting Complaint Form is used to document and track lighting-related issues.

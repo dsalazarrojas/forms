@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to schedule coaching calls with a coach. The purpose of the form is to gather information from the client about their availability, goals, contact details, and session expectations. The form ensures that the coach and client are on the same page regarding the coaching call schedule, follow-up details, and session notes. This form will help the coach to provide a personalized coaching experience for the client.
-</thinking>
-
 # nervous-system-coaching-call-registration - Help Guide
 ## Purpose
 

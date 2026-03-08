@@ -1,19 +1,3 @@
-<thinking>
-
-This form is used to collect information from volunteers who will be working with refugees and providing aid. The purpose of this form is to gather contact and emergency contact information, assess the volunteer's understanding of risk and responsibility, and obtain their medical clearance and consent for emergency procedures. This form is intended to ensure that volunteers are aware of and agree to the potential risks and consequences of their volunteer work, and that their medical information is up-to-date in case of an emergency.
-
-To ensure that the form is completed accurately and effectively, the following information is required:
-
-*   Volunteers must provide their name, last name, email address, phone number, and emergency contact information (name, phone number, and relationship).
-*   Volunteers must acknowledge their understanding of the risks and responsibilities associated with volunteering for this cause and agree to assume these risks.
-*   Volunteers must provide medical clearance information, including the type of clearance and the date it was granted.
-*   Volunteers must also indicate their consent for emergency contact and procedures.
-*   The form includes fields to capture any medical clearances that are not applicable (e.g., expired) and fields to capture any emergency procedures.
-
-Please ensure that you understand the importance of providing accurate and detailed information in this form.
-
-</thinking>
-
 # Refugee Aid Volunteer Liability Waiver Form - Help Guide
 
 ## Purpose

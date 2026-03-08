@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a quote for high rise window cleaning services. It is intended for customers or facility managers to provide information about their project, including location, project details, and required services. This form is not meant for actual submission of work orders or payment processing. It is a request for a quote only. To avoid duplication, please do not submit multiple quotes for the same project. If you already have a quote, do not submit another request for the same project. Please review the form carefully to ensure you have filled out all required fields before submitting. 
-
-</thinking>
-
 # High Rise Window Cleaning Quote Request - Help Guide
 ## Purpose
 This form is a quote request for high rise window cleaning services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Communication Plan Checklist - Help Guide
 
 ## Purpose

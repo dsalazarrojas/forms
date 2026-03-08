@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit complaints or reports related to disaster relief response efforts. It's designed to gather information about incidents or issues that occurred during or after a disaster, which will be used to identify patterns, address concerns, and improve future response efforts. Before proceeding, please verify that the complaint is not a repeat submission and ensure that it's not intended for a specific ongoing or closed case. This form is meant to be used for general complaints, not for reporting life-threatening situations or urgent matters that require immediate action.
-</thinking>
-
 # Disaster Relief Response Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents or issues that occurred during or after a disaster relief response. It will be used to help identify patterns, address concerns, and improve future response efforts.

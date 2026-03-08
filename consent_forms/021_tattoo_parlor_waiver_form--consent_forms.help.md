@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Tattoo Parlor Waiver Form" is to collect personal and medical information from customers or clients who are considering or have already received a tattoo at the parlor. This form helps the tattoo artist and other staff members understand the individual's medical history, insurance coverage, and other relevant details to ensure a safe and successful tattooing process. It may also be used to obtain consent for the tattoo procedure.
-</thinking>
-
 # Tattoo Parlor Waiver Form - Help Guide
 ## Purpose
 The Tattoo Parlor Waiver Form is used to collect information about you and your medical history to ensure a safe and successful tattooing process.

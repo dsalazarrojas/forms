@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # understanding_delivered_duty_paid_ddp - Help Guide
 
 ## Purpose

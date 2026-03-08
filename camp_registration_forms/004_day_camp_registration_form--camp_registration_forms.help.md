@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from campers and their emergency contacts for the day camp program. The form will ask for demographic information, contact details, and medical conditions. It's crucial to fill out this form accurately to ensure proper camp administration and ensure the camper's safety. Please ensure you've read and understood the form before submitting, and make sure to provide truthful and accurate information.
-</thinking>
-
 # Day Camp Registration Form - Help Guide
 ## Purpose
 The Day Camp Registration Form is used to collect demographic information, contact details, and emergency contact information from campers and their families. Please fill out this form to register your child for the day camp program.

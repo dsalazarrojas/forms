@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended to assist end-users in completing the Grapes And Grains Survey. The form is designed to collect information about the user's preferences and consumption habits related to grapes and grains. The goal is to gather data on the user's favorite types of grapes and grains, their consumption frequency, and other related preferences. It is essential to ensure that users understand the purpose of the form and its fields to provide accurate and relevant information. This guide aims to address any potential questions or confusion users may have while filling out the form. Before starting, review the form's requirements and ensure that all fields are filled out according to the guidelines provided. 
-
-</thinking>
-
 # Grapes And Grains Survey - Help Guide
 ## Purpose
 The Grapes And Grains Survey is designed to collect information about your preferences and consumption habits related to grapes and grains. Your responses will help us understand your behavior and preferences.

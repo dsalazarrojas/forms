@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to create a record of the dispatch process for cutting boxes. This form is used to capture key details about the box, such as the box number, cut date, and date it was checked by a specific person. The goal is to ensure that the cutting process is accurately documented and that all necessary fields are filled out for future reference.
-This form should only be used for the cutting of boxes and not for other types of dispatches.
-The form has multiple fields that need to be filled out, and each field has a specific purpose.
-</thinking>
-
 # Dispatch Checklist For Cutting Boxes - Help Guide
 ## Purpose
 The "Dispatch Checklist For Cutting Boxes" form is used to document the cutting process of boxes for future reference and to ensure that all necessary information is captured.

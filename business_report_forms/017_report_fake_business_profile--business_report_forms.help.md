@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to report fake business profiles, a feature that helps maintain the integrity of online platforms. Reporting fake profiles helps keep users safe by flagging potentially suspicious activity. This form should only be used for legitimate reporting and not for personal vendettas or harassment. To avoid duplication, we ask that users only report profiles once.
-</thinking>
-
 # Report Fake Business Profile - Help Guide
 ## Purpose
 This form is intended for reporting fake or suspicious business profiles, helping maintain a trustworthy community on online platforms.

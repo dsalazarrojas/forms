@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Contact Form Template - Help Guide
 
 ## Purpose

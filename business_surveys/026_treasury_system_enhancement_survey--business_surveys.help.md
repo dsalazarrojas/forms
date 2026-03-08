@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather feedback and suggestions from users on how to enhance the treasury system, which is a critical component of the organization's financial management. This form is meant to be completed by employees or users of the treasury system who have experience with its current state and can provide valuable insights on areas that need improvement. It's essential to complete this form to ensure that the feedback is relevant and not duplicated. This form will help the treasury team to identify pain points and areas of improvement in the system, which will aid in making informed decisions to enhance the system's functionality and user experience.
-</thinking>
-
 # treasury_system_enhancement_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from users on how to enhance the treasury system.

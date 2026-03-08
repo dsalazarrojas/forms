@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assist managers and administrators in the offboarding process, ensuring that all necessary information is collected and documented when an employee leaves the company. The offboarding process typically involves several steps: collecting company information, documenting the reason for offboarding, coordinating asset returns, and updating employee information. This form serves as a template for these tasks.
-
-Please ensure that you are using this form for the correct purpose and not for duplicate offboarding processes. If you have already completed an offboarding process for the same employee in the past, please do not create a new entry. Duplicate processes can lead to confusion and unnecessary work for both employees and administrators.
-
-</thinking>
-
 # offboarding_checklist_template - Help Guide
 ## Purpose
 This form is a comprehensive checklist for offboarding employees from the company, ensuring that all necessary steps are taken to finalize their departure.

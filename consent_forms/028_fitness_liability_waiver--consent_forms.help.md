@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain fitness liability waivers from users, which are typically used by fitness centers, gyms, or other health-related businesses to inform users of their responsibilities, risks, and liabilities associated with participating in certain physical activities or services. This form is likely used by fitness centers to protect themselves against potential legal issues that may arise due to accidents or injuries sustained during workouts or services provided. 
-
-The fields of this form are likely to be filled with text inputs where users can provide their personal information, medical conditions, and other relevant details.
-
-</thinking>
-
 # Fitness Liability Waiver - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from users before they participate in fitness-related activities or services provided by your facility. This form aims to inform users of their responsibilities and liabilities associated with these activities.

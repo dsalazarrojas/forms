@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from business stakeholders about their global food export operations. This form is intended for businesses that export food products and want to provide input on their market, product, export channels, shipping, logistics, export terms, contact information, and company details. 
-This form is not required for all users, but it's recommended for businesses that fit the specified criteria to help us better understand their export operations and provide relevant services or support.
-</thinking>
-
 # Global Food Export Survey - Help Guide
 ## Purpose
 This form is designed to collect information from businesses that export food products, aiming to understand their market, product, export channels, shipping, logistics, export terms, contact, and company details.

@@ -1,7 +1,3 @@
-<thinking>
-The "Tournament Withdrawal Request Form" is a necessary process for participants to withdraw from a tournament. Before completing this form, please ensure that the tournament has not already been withdrawn from or that the form is not a duplicate of a previously submitted form. To submit a withdrawal request, provide the necessary information to facilitate the tournament organizers to process the request efficiently. This form will gather details about the tournament you are withdrawing from, the reason for the withdrawal, and any additional information that may be relevant to the request.
-</thinking>
-
 # Tournament Withdrawal Request Form - Help Guide
 ## Purpose
 The Tournament Withdrawal Request Form is a form for participants to withdraw from a tournament. It is used to provide details about the tournament and reason for withdrawal, allowing the tournament organizers to process the request efficiently.

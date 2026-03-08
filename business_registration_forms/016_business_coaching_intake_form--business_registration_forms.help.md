@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Coaching Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about your business and your goals for coaching. The information gathered will help us understand your business context, challenges, and objectives, allowing us to provide personalized coaching to support your growth and success.

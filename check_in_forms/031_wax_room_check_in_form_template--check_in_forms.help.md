@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a template for a wax room check-in form, likely used in a salon or spa setting. This form is designed to collect information from clients and technicians for waxing services. The purpose of this form is to facilitate communication between the client and the technician, ensuring accurate and efficient service delivery. This form likely serves as a standard template for all wax room services, reducing duplication of effort and errors.
 
 </thinking>

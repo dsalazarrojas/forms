@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for users to provide amendments and updates to the Document Management System, specifically for documents related to Home Office Affairs (HOA). The purpose of this form is to collect relevant information about the changes or updates to be made to these documents. 
-
-This form is meant to be completed by authorized personnel, and the information provided will be reviewed and processed internally for further action. 
-
-Please ensure that you are only completing this form for legitimate purposes and do not submit duplicate amendments.
-
-</thinking>
-
 # hoa_document_amendment_form - Help Guide
 ## Purpose
 This form is used to provide amendments and updates to documents related to Home Office Affairs (HOA) in the Document Management System.

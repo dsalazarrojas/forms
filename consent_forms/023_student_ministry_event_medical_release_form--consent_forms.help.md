@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical information and event details for students participating in a ministry event. The purpose of this form is to ensure the student's safety and well-being during the event. This form will be used by the event organizers to understand the student's medical conditions, allergies, and any necessary medical supervision required for the event. It is essential to complete this form accurately and thoroughly to prevent any potential risks or hazards during the event.
-
-</thinking>
 # Student Ministry Event Medical Release Form - Help Guide
 
 ## Purpose

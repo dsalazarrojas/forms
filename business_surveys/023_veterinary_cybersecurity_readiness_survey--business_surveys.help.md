@@ -1,15 +1,3 @@
-<thinking>
-To determine the relevance and non-duplication of this form, let's analyze the provided YAML fields:
-- The form is titled "Veterinary Cybersecurity Readiness Survey", which indicates that it's intended for veterinary practices to assess their cybersecurity readiness.
-- The form has multiple pages, but only one "Introduction" page, which is not explicitly explained and is a simple note type.
-- The fields can be categorized into three groups:
-  - Employee/Practice Information (practice_name, number_employees, email)
-  - Cybersecurity Readiness (employee_survey, security_concerns, security_measures)
-  - Additional Information (comments, practice_survey_completed)
-
-The form seems to be designed to gather information from veterinary practices about their cybersecurity readiness, including employee awareness, security concerns, and security measures in place. This information will help the veterinary practice assess their current cybersecurity posture and identify areas for improvement. The form does not appear to be redundant, and each field contributes to the overall goal of evaluating the practice's cybersecurity readiness.
-</thinking>
-
 # Veterinary Cybersecurity Readiness Survey - Help Guide
 ## Purpose
 This form is designed to help veterinary practices assess their cybersecurity readiness. The survey aims to gather information about employee awareness, security concerns, and security measures in place. This will help the practice evaluate their current cybersecurity posture and identify areas for improvement.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for vendors to provide feedback on their invoice experience with your organization. This form will help gather information on how often and in what method payments are made, and any comments or feedback vendors may have. Please ensure you have filled out this form correctly and accurately, as it is essential to understanding the vendor's perspective.
-
-To ensure accuracy and consistency, please do not fill out this form if:
-- You have already filled it out in the past 30 days.
-- You have previously submitted feedback on the same topic.
-
-</thinking>
-
 # Vendor Invoice Experience Survey - Help Guide
 ## Purpose
 This form is designed for vendors to provide feedback on their invoice experience with your organization. The form is used to gather information on how often and in what method payments are made, and any comments or feedback vendors may have.

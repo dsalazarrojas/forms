@@ -1,7 +1,3 @@
-<thinking>
-This form is for retail businesses interested in collaborating with us on sustainability initiatives. The purpose of this form is to gather information from potential partners about their interests, goals, and contact details. Before filling out this form, please make sure you are not already registered with us, and that you are authorized to represent your company.
-</thinking>
-
 # Retail Sustainability Collaboration Registration Form - Help Guide
 ## Purpose
 This form is a registration form for retail businesses interested in collaborating with us on sustainability initiatives.

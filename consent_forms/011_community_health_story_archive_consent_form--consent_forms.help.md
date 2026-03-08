@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Health Story Archive Consent Form - Help Guide
 
 ## Purpose

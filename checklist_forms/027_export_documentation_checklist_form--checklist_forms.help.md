@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information related to the export documentation checklist. The purpose of this form is to gather data on the export documentation items, status, certifications, regulations, compliance, document types, required documents, verified documents, delayed documents, notes, export date, export time, exporter, exporter notes, and exporter address. The form is intended to ensure that all necessary documentation is properly exported and accounted for in the export process.
-
-The fields on this form should only be filled out if relevant to the export process. The form's fields should not be duplicated or unnecessary filled out. This form is designed to be used for the export documentation checklist and should only be filled out for that purpose.
-
-The form will be used for internal purposes and will be used to ensure that all export documentation is properly managed and accounted for. 
-
-Please ensure that all fields that are relevant to the export process are filled out, and do not fill out any fields that are not relevant.
-
-</thinking>
-
 # export_documentation_checklist_form - Help Guide
 ## Purpose
 The export documentation checklist form is designed to collect information related to the export process. This form will help ensure that all necessary documentation is properly exported and accounted for.

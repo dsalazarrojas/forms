@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## hospital_supply_chain_innovation_forum_registration - Help Guide
 ## Purpose
 The hospital supply chain innovation forum registration form is designed to collect information from attendees, including their registration details and attendee details. This form is intended to streamline the registration process for the conference, ensuring that attendees can easily provide their information and confirm their registration.

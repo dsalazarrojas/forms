@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faculty Weekly Research Checkin Form - Help Guide
 ## Purpose
 The Faculty Weekly Research Checkin Form is a tool used to track and update the progress of ongoing research projects, providing a centralized platform for researchers to report their progress and address any challenges or obstacles encountered during the project. This form helps researchers and the support team to stay aligned on the current status and needs of each project, facilitating more effective support and decision-making.

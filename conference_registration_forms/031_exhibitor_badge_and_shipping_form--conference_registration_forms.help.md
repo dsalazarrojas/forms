@@ -1,7 +1,3 @@
-<thinking>
-To determine if an exhibitor badge and shipping form is necessary, let us first check if we have any existing forms for shipping information. If we have a shipping form in use, then this form is likely not necessary. Please review our shipping forms and contact our team if you have any questions or concerns.
-</thinking>
-
 # Exhibitor Badge And Shipping Form - Help Guide
 
 ## Purpose

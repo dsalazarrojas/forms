@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to submit claims for grants. To ensure accurate and complete submissions, please review the fields carefully. Before starting, check that you have all the necessary information and that you are not submitting duplicate claims. If you have any doubts, please ask your supervisor or contact the grant office for guidance.
-
-Note: This form is intended for internal use within our organization. Please do not share your login credentials or use this form for external purposes.
-</thinking>
-
 # Grant Money Claims Submission Form - Help Guide
 ## Purpose
 This form is used for submitting claims for grants. It guides users through the process of providing necessary information for a grant application.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a checklist for engine building, with various sections for inspecting and checking different components and systems of an engine. The form likely has several options for selecting and checking the status of specific parts and components of an engine.
-
-The form's purpose seems to be to ensure that all necessary checks and inspections are performed on an engine before it is considered safe and ready for use. This is crucial for both quality control and safety purposes.
-
-Before proceeding with completing this form, it would be good to review the provided options for each field to ensure that they are accurately and clearly defined. This will help prevent any potential errors or misinterpretations when filling out the form.
-
-</thinking>
-
 # engine_build_checklist - Help Guide
 ## Purpose
 The engine build checklist is used to ensure that all necessary checks and inspections are performed on an engine before it is considered safe and ready for use. This is crucial for both quality control and safety purposes.

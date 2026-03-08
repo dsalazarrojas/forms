@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for conference registration, where attendees can provide their details and preferences for sessions. To fill out this form, follow these steps:
-- Make sure you have a valid reason to access the organizational change forum. This form is not intended for general inquiries or information requests.
-- If you're an existing employee, ensure you have an account with us and are logged in before accessing this form.
-- Ensure you have all necessary information with you, including phone and email details, before proceeding.
-</thinking>
-
 # Organizational Change Forum Registration - Help Guide
 ## Purpose
 This form is used for conference registration. To register for a conference, you will need to provide your details and preferences for sessions you wish to attend.

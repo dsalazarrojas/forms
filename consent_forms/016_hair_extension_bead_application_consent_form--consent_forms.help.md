@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect client information, hair history, and signature for a hair extension bead application. The purpose of this form is to gather necessary details for the application process, including client age verification and contact information. This form is only intended for clients who are 18 years or older. To avoid duplication, ensure that you are not filling out this form if you have already provided similar information or if you are under 18 years old.
-
-</thinking>
-
 # Hair Extension Bead Application Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information for the hair extension bead application process, including client details, hair history, and signature.

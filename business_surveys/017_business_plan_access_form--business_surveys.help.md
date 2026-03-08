@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Plan Access Form - Help Guide
 
 ## Purpose

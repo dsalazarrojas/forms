@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Digital Caregiver Network Registration Form is to collect demographic information from caregivers for the digital caregiver network. The form will be used to determine caregiver qualifications and network compatibility. This form is a required step for anyone wishing to join the digital caregiver network. Please only fill out the form once.
-</thinking>
-
 # Digital Caregiver Network Registration Form - Help Guide
 ## Purpose
 The Digital Caregiver Network Registration Form is used to collect demographic information from caregivers to determine their qualifications and network compatibility.

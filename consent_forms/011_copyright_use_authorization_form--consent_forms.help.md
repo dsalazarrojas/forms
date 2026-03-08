@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting information about the use of copyrighted materials. The form might be used in a business setting, such as in a company's intellectual property or legal department. It's possible that this form is used to obtain consent from employees or contractors to use copyrighted materials for specific purposes, such as for work projects or research. The form might also be used to track the usage of copyrighted materials within the company. 
-</thinking>
-
 # copyright_use_authorization_form - Help Guide
 ## Purpose
 The copyright_use_authorization_form is used to collect information about the use of copyrighted materials within an organization. This form is likely used to obtain consent from employees or contractors to use copyrighted materials for specific purposes, such as for work projects or research.

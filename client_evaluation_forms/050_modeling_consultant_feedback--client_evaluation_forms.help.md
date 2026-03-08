@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from clients about the services provided by modeling consultants. The form captures details such as the consultant's name, project title, and evaluation date. It also includes fields for rating the consultant's performance in various areas like communication skills, work style, time management, and overall satisfaction. This form is designed to provide a comprehensive understanding of the client's experience and help identify areas for improvement for the modeling consultants.
-This form is intended for clients who have already interacted with a modeling consultant, and it seems to be used to evaluate the performance of multiple consultants. Some fields are duplicated (e.g., consultant name and submitted date), suggesting that there may be an option to evaluate multiple consultants and/or multiple interactions.
-The form fields appear to be focused on assessing the performance of the consultants, which seems to be a critical aspect of maintaining the quality of services provided.
-To avoid duplication, the evaluation date fields are likely meant to be used for multiple interactions with the same consultant, and the "Overall Satisfaction" fields may be used to provide an overall evaluation of the consultant.
-</thinking>
-
 # Modeling Consultant Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients about the services provided by modeling consultants, capturing details about the consultant, project, and evaluation date. It aims to assess the performance of consultants in various areas and overall satisfaction.

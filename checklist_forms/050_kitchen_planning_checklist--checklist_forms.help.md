@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to be a comprehensive checklist for kitchen planning, helping users document and organize their thoughts and needs for a specific kitchen project. It's meant to be a general-purpose tool, adaptable to various types of kitchen projects, such as remodels, new builds, or updates.</thinking>
-
 # Kitchen Planning Checklist - Help Guide
 ## Purpose
 The Kitchen Planning Checklist is a document used to collect and store information about a kitchen project's requirements and timeline.

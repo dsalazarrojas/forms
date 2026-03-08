@@ -1,9 +1,3 @@
-<thinking>
-
-Before creating the AI Ethics Licensing Form, we must consider the purpose and importance of such a form. The AI Ethics Licensing Form is a crucial document that outlines the terms and conditions under which a developer or organization is granted permission to use or deploy AI technology developed by our company. This form ensures that the developer or organization adheres to our company's AI ethics and licensing policies, protecting our intellectual property while also promoting responsible AI development and deployment. Before proceeding, please ensure that you are submitting this form for the correct purpose and have not previously submitted a similar request.
-
-</thinking>
-
 # AI Ethics Licensing Form - Help Guide
 ## Purpose
 The AI Ethics Licensing Form is a mandatory document that must be completed by developers or organizations requesting access to our company's AI technology. The form ensures that all parties involved are aware of and agree to our company's AI ethics and licensing policies, which are designed to protect our intellectual property and promote responsible AI development and deployment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to be a waiver for participant's involvement in sports activities. The purpose of this form is to obtain consent from participants to engage in specific sports activities, ensuring they understand the risks and liabilities associated with these activities. This form is a critical part of ensuring participant safety and liability protection.
 
 ## sports_participation_waiver_form - Help Guide

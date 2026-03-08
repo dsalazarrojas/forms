@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who wish to make online donations to a specific charity. The purpose of the form is to gather essential details such as the type of donation, frequency, and amount of the donation, as well as the donor's contact information. This form is designed to be simple and easy to complete, with minimal fields to reduce burden on the donor. The form should not be completed by non-donors or those without an intent to donate. Please ensure that you have a clear understanding of the charity's mission and are willing to make a genuine donation before proceeding.
-</thinking>
-
 # Online Donation Form Theme - Help Guide
 
 ## Purpose

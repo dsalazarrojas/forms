@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about employee or user travel dates and methods. The purpose of this form is to gather data on travel schedules, modes of transportation, and departure times to improve business operations and employee travel management. 
-This form is not intended to replace or duplicate existing processes, but rather to supplement them with additional data. Please ensure that you only fill out this form once for each travel event. 
-</thinking>
-
 # departure_time_survey - Help Guide
 ## Purpose
 The departure_time_survey form is designed to collect information about employee or user travel dates, methods, and departure times. This form helps in improving business operations and employee travel management.

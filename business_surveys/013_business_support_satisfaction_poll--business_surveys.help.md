@@ -1,15 +1,3 @@
-<thinking>
-
-The Business Support Satisfaction Poll form is designed to gauge the satisfaction of business owners or representatives with the support services provided by our organization. This form is intended to collect feedback and input from businesses that have used our services, helping us to identify areas of strength and weakness in our support offerings. By completing this form, you will be providing valuable insights that will enable us to improve and refine our services to better meet the needs of businesses like yours.
-
-Before completing this form, please note that:
-
-* This form is intended for businesses that have used our services and wish to provide feedback on their experience.
-* Please ensure you have used our services before submitting this form, as your feedback is most relevant to your actual experience.
-* If you have not used our services, your feedback may not be as relevant or accurate.
-
-</thinking>
-
 # Business Support Satisfaction Poll - Help Guide
 ## Purpose
 

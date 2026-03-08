@@ -1,12 +1,3 @@
-<thinking>
-To ensure this help guide is accurate and relevant, I'll analyze the form's purpose and fields.
-
-The form is for ordering a holiday cake, which implies it's a form used during the holiday season to collect contact information and details about the order. Given the fields provided, it seems to be designed to collect general information from users. I'll base my explanations on this assumption. I'll also make sure to focus on the essential fields and exclude unnecessary information.
-
-The form doesn't seem to have any conditional logic, so I'll assume each field is filled in sequentially. Since all fields are of type "text", I'll use the label as the field name and provide explanations accordingly.
-
-</thinking>
-
 # holiday_cake_order_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and order details during the holiday season.

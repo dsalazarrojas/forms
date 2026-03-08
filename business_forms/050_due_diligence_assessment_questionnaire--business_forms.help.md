@@ -1,15 +1,3 @@
-<thinking>
-A Due Diligence Assessment Questionnaire is a tool used to gather information about a company's entity, contact person, financial, legal, business structure, ownership, management, and risk management aspects. The purpose of this form is to create a thorough evaluation of a company's internal and external dynamics that can inform strategic and tactical business decisions.
-
-The form is designed to assess and provide data-driven insights for various business stakeholders, such as investors, partners, or advisors.
-
-This form will not store sensitive data or personal identifiable information (PII) as its primary purpose is not data collection but rather to serve as a template for assessment and analysis.
-
-The information collected in this form will be used solely for the purpose of completing the Due Diligence Assessment Questionnaire and will not be shared or sold to any third party.
-
-Please ensure that the information provided is accurate and up-to-date to ensure the quality of the assessment.
-</thinking>
-
 # Due Diligence Assessment Questionnaire - Help Guide
 
 ## Purpose

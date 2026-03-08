@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather relevant information from installers regarding the installation of HVAC systems in various locations. This information will be used to track and manage the status of HVAC installations across the organization.
-</thinking>
-
 # HVAC Installation Checklist Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential details from installers during the installation of HVAC systems, ensuring accurate and comprehensive tracking of such installations.

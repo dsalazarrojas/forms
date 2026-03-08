@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect participant consent for virtual conferencing events. It's essential to ensure that participants understand the purpose and terms of the event before proceeding. This form should only be used for virtual conferencing events, and not for other types of events.
-
-Before filling out this form, please ensure that you have not filled it out for a different event. If you have already filled out this form for a different event, please do not fill it out again.
-
-Please note that all fields marked as "required" are mandatory and must be filled out.
-
-</thinking>
-
 # Virtual Conferencing Participant Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant consent for virtual conferencing events. It's essential to ensure that participants understand the purpose and terms of the event before proceeding.

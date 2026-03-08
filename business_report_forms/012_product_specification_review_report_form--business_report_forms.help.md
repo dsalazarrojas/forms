@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a product's specification and its compliance status. This form is meant to be used by teams or individuals responsible for reviewing and managing product specifications. The form is divided into different sections, including issue capture, improvement recommendations, product compliance, review status, and other relevant fields. This form does not appear to be designed for general user input, but rather for internal use within a specific organization or team. It's essential to ensure that the reviewer fills out the form correctly to provide accurate and useful information for the product owners or stakeholders.
-</thinking>
-
 # Product Specification Review Report Form - Help Guide
 ## Purpose
 This form is used to collect information about a product's specification and its compliance status. It's essential to fill out the form accurately to provide a comprehensive review.

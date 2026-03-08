@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential candidates for the Goalkeeper Program, a coaching program aimed at providing guidance and support to individuals seeking to improve their skills or achieve specific goals. The form asks for personal details, contact information, and specific information about the candidate's experience, availability, and preferences. It is essential that the information provided is accurate and relevant to the program, as it will help the program administrators make informed decisions about the candidate's suitability. Please ensure that you complete this form only once and do not duplicate your inquiry, as this may lead to unnecessary delays in the processing of your application.
-</thinking>
-
 # Goalkeeper Program Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from potential candidates for the Goalkeeper Program, a coaching program aimed at providing guidance and support to individuals seeking to improve their skills or achieve specific goals.

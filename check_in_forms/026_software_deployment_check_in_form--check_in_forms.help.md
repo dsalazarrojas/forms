@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to capture information about software deployments. Each field in this form is meant to provide relevant details about the deployment process, including the date of deployment, the software being deployed, and the team responsible for the deployment. The form should only be filled out for new software deployments, not for updates or patches. The form is intended to be used by the software development team to track and manage software deployments. 
-
-Before filling out this form, please ensure you are creating a new deployment. If you're not sure, please check with the deployment manager or team lead.
-
-To fill out this form, follow the steps below:
-
-1. Choose the correct deployment status for the software.
-2. Enter the software name and version.
-3. Enter the deployment date and time.
-4. Select the team responsible for the deployment.
-5. Select the person who managed the deployment.
-6. Enter the location where the software was deployed.
-7. Choose the tools used for the deployment.
-8. Enter any additional notes or comments.
-9. Enter the email and phone number of the person who deployed the software.
-</thinking>
-
 # software_deployment_check_in_form - Help Guide
 ## Purpose
 This form is used to track and manage software deployments for the software development team.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive questionnaire designed to gather information about a family's accommodation needs. It seems to be used for live-in caregivers to provide details about the family they will be caring for. The form asks for information about the family's details, the caregiver's details, contact information, availability, accommodation requests, and other related details. It's likely used to ensure that the caregiver has a clear understanding of the family's needs and expectations. Before proceeding, it's essential to ensure that this form is relevant and not a duplication of existing information.
-</thinking>
-
 # live_in_caregiver_accommodation_form - Help Guide
 ## Purpose
 The "live_in_caregiver_accommodation_form" is a comprehensive questionnaire designed to gather information about a family's accommodation needs, ensuring that live-in caregivers have a clear understanding of the family's requirements and expectations.

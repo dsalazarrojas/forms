@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a checklist for testing the functionality and status of fire alarm systems. The form's purpose is to ensure that the system is operating correctly and safely. It's used by safety officers to conduct regular tests and maintain a record of their findings. 
-This form is not intended to be a comprehensive inspection form, but rather a quick and efficient way to verify the alarm system's status. The fields are designed to guide the tester through a series of simple checks to ensure that the system is working properly. 
-The form is divided into several sections, each focusing on different aspects of the fire alarm system. 
-</thinking>
-
 # weekly-fire-alarm-test-checklist - Help Guide
 ## Purpose
 This form is designed to be a checklist for testing the functionality and status of fire alarm systems.

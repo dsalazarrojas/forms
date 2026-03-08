@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the Airline Passenger Assistance Admission Form. The form is used to gather information about passengers who require special assistance during flights. This guide is designed to ensure that users understand the form's purpose and how to complete it correctly. Please note that this form is only applicable if the passenger requires assistance due to a disability or medical condition. 
-</thinking>
-
 # Airline Passenger Assistance Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information about passengers who require special assistance during flights. This includes passengers with disabilities or medical conditions that may need assistance from airport staff or airline crew.

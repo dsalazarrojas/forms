@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect opinions and trends from industry experts and stakeholders on various topics related to the industry trends. The purpose of this form is to gather qualitative feedback and insights on the current state of the industry, its challenges, and areas for improvement. This form will help us to identify key trends, pain points, and opportunities for growth in the industry.
-Before starting to fill out this form, please make sure that you have reviewed and understood the form's purpose and the questions asked. If you are unsure about any of the questions or their relevance to your expertise, please contact us at [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Industry Trends Opinion Survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and trends from industry experts and stakeholders on various topics related to the industry trends.

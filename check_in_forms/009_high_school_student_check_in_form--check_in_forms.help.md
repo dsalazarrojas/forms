@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect high school student check-in information for internal tracking and reporting purposes. The form is designed to be completed by students themselves or by school administrators on behalf of students. The fields included in this form are meant to capture relevant details about each student, including their name, school affiliation, location, status, grade level, class enrollment, contact information, and any additional notes or information that may be relevant to their check-in process.
 
 </thinking>

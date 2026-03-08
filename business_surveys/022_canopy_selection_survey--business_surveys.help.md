@@ -1,9 +1,5 @@
 # Canopy Selection Survey - Help Guide
 ## Purpose
-<thinking>
-This form is used to collect information about a client's requirements for a canopy solution. The goal is to gather details about the project type, size, material, and other essential features to provide a tailored recommendation for a canopy that meets their needs.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

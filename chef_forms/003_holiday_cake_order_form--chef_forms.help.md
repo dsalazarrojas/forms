@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their holiday cake order.
-It is used to gather details such as the customer's name, order date, order time, cake type, cake size, delivery address, payment type, payment method, payment amount, email, and phone number.
-The purpose of this form is to ensure that the customer's holiday cake order is processed correctly and efficiently.
-</thinking>
-
 # holiday_cake_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their holiday cake order.

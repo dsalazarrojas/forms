@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the status of a project, including its approval status, review date, comments, project type, reviewer name, reviewer department, and review comments. It is intended for internal use within an organization.
-</thinking>
-
 # Draft Review Checklist - Help Guide
 ## Purpose
 The "Draft Review Checklist" form is used to collect feedback and information about a project from reviewers within an organization. It helps to ensure that projects are accurately reflected in their status and that feedback is provided in a structured format.

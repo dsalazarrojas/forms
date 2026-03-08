@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to collect accurate and helpful complaint information from customers. We should check that it isn't being used for purposes other than its intended use, such as creating fake or test entries. This form should only be used for genuine customer complaints and feedback. We'll need to make sure users understand its purpose and usage to avoid duplication of efforts.
-</thinking>
-
 # Customer Complaint Form - Help Guide
 
 ## Purpose

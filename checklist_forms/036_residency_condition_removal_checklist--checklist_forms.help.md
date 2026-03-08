@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users complete a Residency Condition Removal Checklist. The form's purpose is to collect information and supporting documents required for the removal of residency conditions. The form will likely be used by immigration authorities, human resources departments, or housing departments to review and evaluate the suitability of an individual for residency removal. Before proceeding, ensure that you have the necessary permissions and approvals to use this form. Please be aware that this form is not affiliated with any particular platform or service and is intended for informational purposes only.
-</thinking>
-
 # Residency Condition Removal Checklist - Help Guide
 ## Purpose
 The Residency Condition Removal Checklist is a form designed to assist users in gathering and submitting necessary information and documents for residency removal. It is intended for use by immigration authorities, human resources departments, or housing departments to review and evaluate suitability.

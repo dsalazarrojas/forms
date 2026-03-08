@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback on the denial process from employees. Before filling out this form, please ensure that you have not already submitted feedback on this topic. This form is only meant to be filled out by employees who have experienced a denial in the company's processes. The goal of this form is to gather information that will help us improve our processes and reduce future denials.
-
-Please make sure to be as detailed and objective in your feedback as possible. Remember that this form should not be used to express personal opinions or biases.
-</thinking>
-
 # Feedback On Denial Process - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees who have experienced a denial in the company's processes. The feedback will help us understand the reasons behind the denial and identify areas for improvement.

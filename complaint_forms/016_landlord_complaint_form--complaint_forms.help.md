@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from tenants about their complaints against their landlords, which will be used to track and manage these issues. To avoid duplication, only one complaint per tenant can be registered at a time.
-</thinking>
 # landlord_complaint_form - Help Guide
 ## Purpose
 This form is designed for tenants to submit their complaints against their landlords in a structured manner. It helps to track and manage these issues efficiently.

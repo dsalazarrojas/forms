@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Space Efficiency Survey - Help Guide
 
 ## Purpose

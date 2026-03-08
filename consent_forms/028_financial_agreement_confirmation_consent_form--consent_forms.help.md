@@ -1,7 +1,3 @@
-<thinking>**Purpose:**
-The purpose of this form is to gather financial information and confirm the terms of an agreement with a client. This form is typically used for business agreements, loans, or other financial arrangements. The form is divided into several sections, each with different fields to collect relevant information. To ensure accuracy, please review each field carefully before submitting the form. **Please note that this form is a critical document and requires careful completion.**
-</thinking>
-
 # financial-agreement-confirmation-consent-form - Help Guide
 ## Purpose
 This form is used to gather financial information and confirm the terms of an agreement with a client. It's a critical document that requires careful completion.

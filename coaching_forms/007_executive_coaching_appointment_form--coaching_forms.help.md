@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for executive coaching appointments. It is intended for coaches to gather details about the client's appointment preferences, including the day, time, and duration of the coaching session. The form also collects client information such as name, email, and phone number. The coach's name and notes about the session are also collected. This form is useful for coaches to streamline their scheduling and client communication processes.
-</thinking>
-
 # executive_coaching_appointment_form - Help Guide
 ## Purpose
 This form is designed to collect information for executive coaching appointments. It helps coaches to gather details about the client's preferences and schedule.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Server Complaint Form - Help Guide
 
 ## Purpose

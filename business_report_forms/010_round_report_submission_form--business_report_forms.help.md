@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Round Report Submission Form - Help Guide
 
 ### Purpose

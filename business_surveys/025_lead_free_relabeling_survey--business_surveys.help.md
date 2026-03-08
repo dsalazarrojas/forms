@@ -1,13 +1,3 @@
-<thinking>
-
-The Lead Free Relabeling Survey form is used to gather feedback and input from customers about their experiences with Lead Free products. The form collects information on various aspects of the customer's interactions with the products, including their satisfaction, product labeling, and overall experience. This form is designed to help the development team understand customer needs and preferences, which will be used to improve the quality and relabeling of the Lead Free products.
-
-To confirm, this form is meant to be used by customers who have interacted with the Lead Free products and are providing feedback on their experiences. Please ensure that you are accessing this form when it is relevant to your interaction with the Lead Free products.
-
-Before proceeding, please ensure that you have completed the form for a relevant interaction with a Lead Free product to avoid duplication of information.
-
-</thinking>
-
 # Lead Free Relabeling Survey - Help Guide
 ## Purpose
 The Lead Free Relabeling Survey is a form designed to gather customer feedback and input on their experiences with Lead Free products. This form collects information on various aspects of the customer's interactions, such as satisfaction, product labeling, and overall experience, to help the development team improve the quality and relabeling of the products.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Maneuver Safety Checklist - Help Guide
 ## Purpose
 This form is designed to help conductors and operators ensure that their vehicle is safe and ready for a maneuver. It checks the condition of the vehicle and its systems, ensuring that it is in a state to safely proceed.

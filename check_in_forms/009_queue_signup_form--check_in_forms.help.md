@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Queue Signup Form - Help Guide
 
 ## Purpose

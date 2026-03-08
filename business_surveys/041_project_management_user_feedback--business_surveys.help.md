@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Management User Feedback - Help Guide
 ## Purpose
 The "Project Management User Feedback" form is designed to collect feedback from users about projects managed by the project management team. This form will help the project management team to understand user experiences and improve the project management processes.

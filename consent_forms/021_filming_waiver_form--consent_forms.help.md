@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'd like to confirm that the form purpose and fields seem to be related to capturing information for a filming waiver or permission form. This form appears to be used for individuals to provide details about a filming location, participants, and emergency contacts, among other things. I'll make sure to cover all the required fields and provide clear explanations for each field.</thinking>
-
 # Filming Waiver Form - Help Guide
 ## Purpose
 This form is designed to gather information for a filming waiver or permission form. It captures details about the filming location, participants, and emergency contacts, which is necessary for safety and logistical purposes during film production.

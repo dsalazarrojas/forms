@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used in a research or investigation-related context to obtain agreements from investigators. The form is designed to ensure that investigators understand and agree to the terms and conditions of their involvement. It might be used in scenarios where the investigator's work requires them to access or handle sensitive information, data, or resources. This form is likely not meant for general public use. The form's layout and fields suggest that it may be part of an application or submission process for researchers or investigators. This form should be completed by the investigator after they have reviewed and understood the terms and conditions. This form should not be completed by anyone else. To ensure accuracy and completeness, the form should not be duplicated or shared with others without proper verification.
-
-</thinking>
-
 # Investigator Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather information about your agreement to participate in research or investigation activities. It is essential to carefully review and understand each field before proceeding.

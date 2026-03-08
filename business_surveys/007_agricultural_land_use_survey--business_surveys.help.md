@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on agricultural land use from farmers or landowners, to help us better understand their practices and the impact on the environment. This form will be used to collect data on land area, primary and secondary land uses, irrigation methods, soil management practices, and other relevant details. This form is intended for use by farmers or landowners who wish to provide information on their agricultural land use. It is not intended for use by non-farmers or non-landowners. Please ensure that you are filling out this form as the correct person.
-</thinking>
-
 # Agricultural Land Use Survey - Help Guide
 ## Purpose
 The Agricultural Land Use Survey is a form designed to gather information on agricultural land use from farmers or landowners. This information is used to help us better understand their practices and the impact on the environment.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "corporate_tax_process_feedback_survey", is likely used to gather feedback and suggestions from users on the corporate tax process. The purpose of this form is to help the company understand the strengths and weaknesses of the tax process, identify areas for improvement, and make data-driven decisions to optimize the process. This form is probably used by the accounting or tax department to collect feedback from clients or users who have interacted with the corporate tax process. The feedback collected will be used to improve the efficiency and effectiveness of the tax process.
-
-The form has multiple fields for users to provide feedback on different aspects of the tax process, such as rating the tax process, providing comments, and suggesting improvements.
-
-To ensure that the feedback is comprehensive and actionable, please make sure to fill out all the fields accurately and thoroughly.
-
-</thinking>
-
 # corporate_tax_process_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from users on the corporate tax process. Your input will help us improve the efficiency and effectiveness of the tax process.

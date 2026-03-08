@@ -1,16 +1,3 @@
-<thinking> 
-  This form is designed for pet owners to provide consent for their pet's treatment and care in the absence of the owner. 
-  The form includes sections for pet owner information, pet details, and treatment consent. 
-  This ensures that the veterinary team has the necessary information to provide proper care and treatment for the pet. 
-  The form is a crucial document that must be filled out accurately and thoroughly to ensure that the veterinary team can provide the best possible care for the pet. 
-  This guide will walk the user through each section of the form to ensure they understand each field's purpose and what is required of them. 
-  <hr>
-  **Please note that this form should not be used for duplicate or unrelated purposes, as it contains sensitive information and is a critical document for the pet's care.**
-  <hr>
-  <hr>
-  <hr>
-</thinking>
-
 # Absent Owner Treatment Consent Form - Help Guide
 
 ## Purpose

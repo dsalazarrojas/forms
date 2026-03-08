@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Insurance Claim Form - Help Guide
 ## Purpose
 This form is used to submit a claim for your car insurance policy. Please fill out the form with your policy information, details about the incident, and any other required documents or information.

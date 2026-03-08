@@ -1,12 +1,3 @@
-<thinking>
-The "packaging_prototype_program_application_form" is designed to collect project-related information from applicants. This form is likely used for project proposals, program applications, or other project-related activities where a comprehensive overview of a project is required. The form's purpose is to gather detailed descriptions, specific details, and relevant files that support a project's viability. It's essential to ensure that the form is filled out accurately and completely to facilitate a thorough evaluation process.
-
-Before creating this guide, ensure you have reviewed the form's fields and understand their specific requirements and relevance to the project. If you are unsure about any field, please clarify with the project team or form creator.
-
-Please note that the form is not a one-size-fits-all solution and may have specific requirements for certain fields depending on the project type. Be mindful of the required fields and ensure you fill them out accordingly.
-
-</thinking>
-
 # packaging_prototype_program_application_form - Help Guide
 ## Purpose
 The "packaging_prototype_program_application_form" is designed to collect detailed project information for project proposals, program applications, or other project-related activities.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for evaluating the experience with a vendor. The purpose of this form is to gather feedback on the overall quality of service, communication, cost, and other aspects of the interaction with the vendor. This form should only be completed by vendors or their representatives, but if you're not sure, you can ask your supervisor or the procurement team for clarification. Before starting, make sure you've completed any other necessary vendor evaluation forms for the same vendor.
-
-</thinking>
-
 # Vendor Experience Evaluation Survey - Help Guide
 ## Purpose
 The Vendor Experience Evaluation Survey is designed to collect feedback from vendors or their representatives on their experience with the service provided by our organization. This form helps us identify areas of improvement and areas of strength in our interactions with vendors.

@@ -1,11 +1,3 @@
-<thinking>
-The Highschool Cleaning Checklist form is likely designed for school administrators or facilities managers to maintain an organized and clean environment for students, teachers, and staff in high school settings. This form would be useful for ensuring that all facilities and common areas are well-maintained, and any issues are reported and addressed promptly. 
-
-This form's structure suggests that it covers a variety of areas, including facilities, common areas, custodial areas, offices, classrooms, and bathrooms, across different sections or levels within a high school. This would be particularly useful for tracking maintenance tasks and ensuring that all areas are kept in good condition.
-
-Given the multiple pages and sections in the form, it is possible that this form is designed to be completed over time or in stages, with different pages or sections addressing specific areas or aspects of the school environment.
-</thinking>
-
 # Highschool Cleaning Checklist - Help Guide
 ## Purpose
 The Highschool Cleaning Checklist is a form designed to help school administrators or facilities managers ensure that all facilities and common areas within a high school are well-maintained and organized.

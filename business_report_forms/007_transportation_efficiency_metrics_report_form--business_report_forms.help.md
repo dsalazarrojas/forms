@@ -1,11 +1,3 @@
-<thinking>
-  The "transportation_efficiency_metrics_report_form" form is designed to collect and analyze data related to vehicle usage, fuel consumption, and other efficiency metrics. This form is meant to help users understand how their transportation operations are performing in terms of fuel consumption, mileage, and other relevant metrics. 
-
-When filling out this form, please note that not all fields are required, so you can fill out as much or as little information as you need to. However, providing as much detail as possible will give you a more comprehensive view of your transportation operation's efficiency.
-
-This form should not be used to collect sensitive or confidential information, and all data collected will be used for internal analysis and reporting purposes only.
-</thinking>
-
 # transportation_efficiency_metrics_report_form - Help Guide
 
 ## Purpose

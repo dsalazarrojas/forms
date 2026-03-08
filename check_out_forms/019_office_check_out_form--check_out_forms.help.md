@@ -1,13 +1,3 @@
-<thinking>
-The goal of this internal reasoning block is to explain why I'm creating this help guide and how it will aid in ensuring the form's purpose is clear to end-users. The office check out form is a vital part of the office management system, used to document the check-out process of office items such as tools and equipment. Its purpose is to gather information necessary for keeping accurate records, ensuring accountability, and maintaining the office's inventory. This form will help users understand what is expected of them when filling it out, reducing confusion and errors.
-
-This form is likely to be used daily by office employees, making it essential that they understand its layout and requirements. By following this help guide, users will be able to complete the form efficiently and effectively, ensuring that they are submitting accurate and relevant information. This, in turn, will aid in the office's administrative tasks, such as maintaining a precise record of checked-out items, their owners, and the reason for their use.
-
-This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section, making it a one-stop resource for users. By clarifying each field's requirements and purpose, users will be able to complete the form with confidence, ensuring that they are submitting accurate and complete information.
-
-Before proceeding, it is essential to note that the following guide is based on the provided YAML fields, with the aim of creating a comprehensive and clear explanation for end-users.
-</thinking>
-
 # office_check_out_form - Help Guide
 ## Purpose
 The "office_check_out_form" is a crucial tool used to document the check-out process of office items, ensuring accurate records and accountability.

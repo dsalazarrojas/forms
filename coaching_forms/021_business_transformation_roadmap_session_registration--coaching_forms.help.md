@@ -1,7 +1,3 @@
-<thinking>
-To ensure consistency and clarity in this form, let's briefly review its purpose and potential issues. The form is designed to gather information from business leaders about their business transformation journey, specifically to help them create a personalized road map for their organization's growth and development. Before starting the form, please ensure you are registering as a business leader and not as a representative of another company or individual. This form should only be completed once per business entity. If you have already registered, please do not register again.
-</thinking>
-
 # Business Transformation Roadmap Session Registration - Help Guide
 ## Purpose
 The Business Transformation Roadmap Session Registration form is designed to help business leaders create a personalized road map for their organization's growth and development. It will guide you in identifying your transformation goals, challenges, and timelines to ensure you're on the right path for a successful business transformation.

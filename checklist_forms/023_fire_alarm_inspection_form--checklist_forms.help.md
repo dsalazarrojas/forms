@@ -1,5 +1,3 @@
-<thinking>... This form is designed for inspecting fire alarm systems to ensure they are functioning properly. The form asks for information such as system description, system type, location, inspection date, and certificate details. Please note that this form seems to have a large number of fields with similar names and types, which may lead to confusion. Make sure to fill in the necessary fields accurately and avoid duplication of information. It's recommended to review each field carefully to ensure you're filling in the correct information. ...</thinking>
-
 # fire_alarm_inspection_form - Help Guide
 ## Purpose
 

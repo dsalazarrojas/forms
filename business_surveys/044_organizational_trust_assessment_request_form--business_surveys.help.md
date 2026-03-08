@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Trust Assessment Request Form - Help Guide
 
 ## Purpose

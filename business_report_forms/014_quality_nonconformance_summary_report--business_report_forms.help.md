@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Quality Nonconformance Summary Report, which is used to document and track nonconformances (issues or defects) that occur within a business process. Nonconformances can be internal (related to the business process) or external (related to external factors such as equipment or suppliers). This form aims to collect information about the nonconformance, including the date it occurred, a brief description, location, and category, as well as its status and any corrective actions taken.
 
 Before filling out this form, ensure that you are not duplicating work already done on the same nonconformance. If you are unsure, check the internal database or ask your supervisor for guidance.

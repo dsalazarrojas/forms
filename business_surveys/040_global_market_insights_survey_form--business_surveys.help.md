@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect global market insights from users through a series of questions that cover various aspects of business operations. The form is intended to be completed by users with relevant expertise or knowledge on the topic. Before proceeding, please note that this form is intended for internal use and should not be filled out if the user is not authorized to do so. Please ensure that you have the necessary permissions and clearances before proceeding. The form is divided into several pages, each with its own set of questions, and is designed to be completed in a specific order. Please complete the form in the order provided.
-</thinking>
-
 # Global Market Insights Survey Form - Help Guide
 ## Purpose
 This form is designed to collect global market insights from users through a series of questions that cover various aspects of business operations.

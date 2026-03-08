@@ -1,8 +1,3 @@
-<thinking>
-This help guide aims to provide a clear understanding of the "Statistical Analysis Report Form" used for business surveys. The form is designed to gather data for statistical analysis purposes, specifically for "Business Surveys" category. This guide will walk users through the purpose of the form, how to complete it, and what each field represents.
-
-</thinking>
-
 # Statistical Analysis Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Waste Segregation Consent Form - Help Guide
 
 ## Purpose

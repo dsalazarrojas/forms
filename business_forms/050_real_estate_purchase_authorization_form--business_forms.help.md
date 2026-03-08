@@ -1,10 +1,3 @@
-<thinking>
-The form "real_estate_purchase_authorization_form" is a comprehensive real estate purchase authorization form designed to collect detailed information from buyers and real estate agents for real estate transactions. The form's primary purpose is to standardize the process of obtaining real estate purchase authorizations, ensuring all necessary documents are in order, and facilitating the real estate buying process. By using this form, both buyers and real estate agents can ensure clarity and compliance with all relevant regulations and industry standards.
-
-The following sections of this guide will walk you through the purpose and requirements for each field in the form.
-
-</thinking>
-
 # real_estate_purchase_authorization_form - Help Guide
 ## Purpose
 The "real_estate_purchase_authorization_form" is a document used for authorizing real estate transactions. It collects general information from both the buyer and the real estate agent, property details, and authorization for payments.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the specifications of bottles for production and packaging purposes. It is intended for internal use within a business organization, likely for production planning and management. Before filling out this form, please ensure that you have the necessary information and approvals in place. If you are filling out this form for a project that has already been initiated, please verify that you are not duplicating existing information.
-</thinking>
-
 # Bottling Specifications Survey - Help Guide
 ## Purpose
 

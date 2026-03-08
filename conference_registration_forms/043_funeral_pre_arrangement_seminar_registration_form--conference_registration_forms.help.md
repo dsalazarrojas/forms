@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are registering for a Funeral Pre Arrangement Seminar. The purpose of the form is to gather contact and demographic data for registration and to understand the individual's relationship with the person they are registering for (e.g., will they be an attendant in the future?). The form is likely to be completed by the individual or their representative (e.g., family member, friend). The fields collected will be used to tailor the seminar experience and facilitate communication with the registrant. Please ensure that the form accurately represents the expected information and that no duplicate fields exist in the same form. This guide will walk through the form structure and field explanations to ensure clarity and consistency in submission.
-</thinking>
-
 # Funeral Pre Arrangement Seminar Registration Form - Help Guide
 ## Purpose
 The Funeral Pre Arrangement Seminar Registration Form is designed to collect essential information from individuals who are registering for the seminar. This form aims to understand the registrant's demographics and relationship with the individual being registered for, and to confirm the accuracy of their contact and address details.

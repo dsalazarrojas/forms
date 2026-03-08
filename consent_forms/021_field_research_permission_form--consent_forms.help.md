@@ -1,18 +1,3 @@
-<thinking>
-The internal reasoning block checks that the form is used for collecting information from researchers and participants regarding research studies, ensuring that all required fields are filled out, and that there are no duplicated or missing information entries. This guide is intended for end-users who are filling out the form, and it should provide clear explanations for each field in the form, making it easier for them to complete it accurately and efficiently.
-
-The form purpose is to collect information about research studies, including details about the researchers, participants, and institutional reviews. This includes fields for researcher contact information, participant consent, and study dates and locations.
-
-The form is divided into several sections:
-
-*   Researcher Details: This section collects information about the researcher, including their contact information and institutional review board information.
-*   Participant Details: This section collects information about the participant, including their consent and signature.
-*   Study Details: This section collects information about the study, including its start and end dates, location, and institutional review board information.
-
-The fields in this form are designed to be clear and concise, making it easier for end-users to understand their purpose and what information is required.
-
-</thinking>
-
 # field_research_permission_form - Help Guide
 ## Purpose
 The field_research_permission_form is used to collect information from researchers and participants about research studies, including details about the researchers, participants, and institutional reviews.

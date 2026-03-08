@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Waiver Agreement - Help Guide
 
 ## Purpose

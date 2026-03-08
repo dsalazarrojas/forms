@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed for participants in a kayaking activity to provide their personal information and consent for participation. It is essential to fill out this form accurately and honestly to ensure a safe and enjoyable experience for all participants. Please note that you may not be able to participate in the activity without submitting this form. Ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Kayaking Waiver Form - Help Guide
 ## Purpose
 The Kayaking Waiver Form is designed to gather participant information, including contact details, emergency contacts, and medical information. This form is used to obtain informed consent from participants and their guardians (if applicable) before they start the kayaking activity.

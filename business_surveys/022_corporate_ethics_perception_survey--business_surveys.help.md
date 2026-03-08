@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Ethics Perception Survey - Help Guide
 ## Purpose
 This guide is intended to help users understand and complete the Corporate Ethics Perception Survey. The survey collects information about employees' perception of overall ethics concept, reporting channels, and overall reporting behavior in the organization. It is designed to gather feedback from employees about their experiences and opinions on corporate ethics.

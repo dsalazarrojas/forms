@@ -1,19 +1,3 @@
-<thinking>
-This form is for parents to provide information about themselves and their child. The information will be used to ensure the child's safety and well-being during the summer camp. The form is also intended to collect medical information and any allergies or emergency contact information.
-
-To complete this form, the user should follow these steps:
-
-1. Fill out the "Parent Information" page with the required information about themselves and their child.
-2. On the "Contact Information" page, provide emergency contact information.
-3. The "Medical Conditions" page is for any medical conditions that may affect the child's health.
-4. The "Allergies" page is for any food or environmental allergies that the child may have.
-5. The "Medications" page is for any medications the child is currently taking.
-6. The "Emergency Procedure" page is for any emergency procedures that should be followed in case of an injury or illness.
-7. The "Medical Authorization" page is for any medical authorization that is required.
-8. The "Camp Policies" page is for any policies that the child and their parents should be aware of.
-
-</thinking>
-
 # Summer Camp Waiver Form - Help Guide
 ## Purpose
 The Summer Camp Waiver Form is for parents to provide information about themselves and their child. This information is used to ensure the child's safety and well-being during the summer camp.

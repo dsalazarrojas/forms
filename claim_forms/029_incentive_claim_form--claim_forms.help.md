@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form purpose and relevance to ensure it's clear and concise for end-users. The form is an "Incentive Claim Form" which likely serves as a means for employees to submit claims for incentives or rewards from their manager. This form is likely used to track and process such claims within an organization. To ensure relevance, let's assume that the form is used by employees to submit claims for bonuses, awards, or other incentives from their manager. To prevent duplication, the form may have unique identifiers such as "employee_id", "department_id", etc., which are used to track and identify each claim. Now, let's create the user-facing help guide.</thinking>
-
 # Incentive Claim Form - Help Guide
 ## Purpose
 The Incentive Claim Form is used to submit claims for bonuses, awards, or other incentives from your manager. This form helps track and process such claims within the organization.

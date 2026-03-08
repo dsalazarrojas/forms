@@ -1,5 +1,3 @@
-<thinking>This is a form for assessing supply chain operations, which includes various aspects of a company's supply chain management processes, such as bottlenecks, rating scales, and feedback. It helps to identify areas that need improvement and provide insights to optimize supply chain operations. This form is likely created for internal use within the company or for sharing with stakeholders. It's a comprehensive form that captures detailed information about the company's supply chain performance. Ensure that the fields you fill out accurately reflect the state of your supply chain operations.</thinking>
-
 # Supply Chain Operations Assessment - Help Guide
 ## Purpose
 This form is designed to help assess the performance of a company's supply chain operations. It includes various sections that evaluate different aspects of the supply chain management processes, such as bottlenecks, rating scales, and feedback.

@@ -1,7 +1,3 @@
-<thinking>
-The "Dessert Bar Service Agreement" form is designed to capture customer information and event details. This form is likely used for events or services related to dessert bars, potentially for corporate, social, or private settings. This form should not be used for multiple instances of similar events or services, as it will only capture one instance of the agreement per form completion. It is intended for end-users to provide consent, with a field for approval that includes two options, "Yes" or "No".
-</thinking>
-
 # Dessert Bar Service Agreement - Help Guide
 ## Purpose
 The "Dessert Bar Service Agreement" form is used to collect information from customers about their event or service needs related to a dessert bar.

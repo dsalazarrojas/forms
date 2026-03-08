@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for coaching staff to report any incidents that occurred during sessions. The purpose of this form is to collect information about the incident, including its type, location, and any injuries sustained. The form will help identify the causes of the incident and suggest prevention measures to reduce the likelihood of similar incidents in the future. Before filling out the form, please ensure that the incident has not already been reported and that you are not reporting a duplicate incident. 
-</thinking>
-
 # Coaching Incident Report Form - Help Guide
 ## Purpose
 This form is used to report any incidents that occurred during coaching sessions. It is essential to report incidents promptly to ensure that we can take immediate action and prevent similar incidents from happening again in the future.

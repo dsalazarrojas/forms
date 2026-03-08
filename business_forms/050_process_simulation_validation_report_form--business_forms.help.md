@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users to document the process simulation results. The purpose of this form is to gather essential details from users to validate and analyze process simulation results. To ensure relevance, this form is not affiliated with any form platform, and its content is original, not copied or derived from any form creation or data collection platform.
-
-</thinking>
-
 # Process Simulation Validation Report Form - Help Guide
 ## Purpose
 This form is used to collect information from users about process simulations. It helps to gather details about the simulation name, simulation information, and other relevant details to validate and analyze the simulation results.

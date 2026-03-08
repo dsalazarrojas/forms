@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a Commercial Openings Prioritization Survey, used to collect information for evaluating and prioritizing potential commercial opening sites. This form helps surveyors gather data on the project's details, site information, and market readiness, which will ultimately inform the prioritization of these commercial openings. To avoid duplication of effort, this survey should only be filled out if the user has not previously completed a similar survey for the same project.
-
-</thinking>
-
 # Commercial Openings Prioritization Survey - Help Guide
 ## Purpose
 This form is used to help surveyors collect and prioritize commercial opening sites. The information collected will be used to inform business decisions and ensure that the most suitable location for commercial openings is chosen.

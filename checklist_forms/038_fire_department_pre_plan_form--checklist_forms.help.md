@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's make sure we understand the purpose of this form. The Fire Department Pre Plan Form is used to gather information from a fire department to prepare for any potential fire safety issues. This form is designed to be completed by the fire department, likely as part of a pre-planning or inspection process. It's essential to ensure that the form is completed accurately and thoroughly to provide the fire department with the necessary information to respond effectively in case of a fire emergency. To avoid duplication of effort, please ensure that this form is only completed by authorized fire department personnel.</thinking>
-
 # Fire Department Pre Plan Form - Help Guide
 ## Purpose
 The Fire Department Pre Plan Form is a critical document used by the fire department to gather information about your building's fire safety features and systems. This form helps them prepare for potential fire emergencies and respond effectively in case of an alarm.

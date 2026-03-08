@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wild Goose Chase Checklist - Help Guide
 
 ## Purpose

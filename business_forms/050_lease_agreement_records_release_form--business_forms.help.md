@@ -1,14 +1,3 @@
-<thinking>
-The "lease_agreement_records_release_form" is a form used to request access to specific or all records related to a property or tenant. This form is used by landlords or property managers to grant access to records to tenants or third-party individuals.
-
-The form is designed to collect necessary information about the tenant, landlord, and records access request. The form will be used to create a record of the access request, which can be tracked and managed by the property management team.
-
-This guide is intended for users who need to complete and understand the form for their own access request or for users who need to assist others in completing the form. 
-
-Please review the fields and explanations below to ensure the form is completed accurately and efficiently.
-
-</thinking>
-
 # lease_agreement_records_release_form - Help Guide
 ## Purpose
 The "lease_agreement_records_release_form" is used to request access to specific or all records related to a property or tenant.

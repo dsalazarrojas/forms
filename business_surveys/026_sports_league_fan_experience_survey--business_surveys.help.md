@@ -1,14 +1,3 @@
-<thinking>
-Please note that the form purpose is to collect information about sports league fans' experiences, specifically their demographic info, satisfaction with various aspects of the league, frequency of attendance, favorite teams, and opinions on different aspects of the game day experience. This form will help us better understand the fans' needs and preferences, allowing us to make informed decisions to improve the league's overall experience.
-
-Before starting, please ensure that you haven't filled this form before. If you have already completed this form, your responses will not be recorded, and you'll be able to resubmit your answers.
-
-This form is divided into several sections, each focusing on a different aspect of your fan experience. Please answer all questions honestly, and remember that your responses are anonymous and will help us improve the league.
-
-Now, let's begin!
-
-</thinking>
-
 # sports_league_fan_experience_survey - Help Guide
 ## Purpose
 This form collects information about sports league fans' experiences to help us better understand their needs and preferences.

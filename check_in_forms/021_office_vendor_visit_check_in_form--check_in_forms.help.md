@@ -1,7 +1,3 @@
-<thinking>
-This form is used by office staff to record the arrival time and details of visiting vendors. The purpose of this form is to provide a quick and easy way to document vendor visits, which can be useful for tracking and reporting purposes. It is designed to be completed by office staff during each vendor visit. The form should only be completed when a vendor visits the office, and it is not intended for general office usage or for use by the visitor themselves. The form may be used in conjunction with other check-in and visitor management systems, but its primary purpose is to record basic visit details. The fields included in this form are designed to be self-explanatory, but if you're unsure about any of the fields, you can find the explanation below.
-</thinking>
-
 # Office Vendor Visit Check In Form - Help Guide
 ## Purpose
 This form is designed to record the arrival time and details of visiting vendors to the office.

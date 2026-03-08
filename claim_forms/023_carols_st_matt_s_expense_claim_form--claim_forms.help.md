@@ -1,9 +1,3 @@
-<thinking>
-To ensure that only eligible individuals complete this form, please check that you are a staff member or volunteer of St Matt's Church and that you have not already claimed these expenses. If you are not eligible, please do not complete this form.
-The form is intended to be used by staff members and volunteers of St Matt's Church to claim expenses related to church business. The form is used to track and report expenses to the church's treasurer.
-To complete this form, please ensure that you have the necessary documentation and supporting evidence required to support your claim. If you have any questions or concerns, please contact the church office.
-</thinking>
-
 # Carols St Matt's Expense Claim Form - Help Guide
 ## Purpose
 This form is used to claim expenses related to church business activities. Please note that you must be a staff member or volunteer to complete this form.

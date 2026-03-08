@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of inspecting edge banding on machinery or equipment, with the goal of determining the condition and status of edge banding, and recording the results of the inspection. This form should be used to inspect edge banding on specific areas of a machine or equipment and to record the findings in a structured and detailed way. This helps ensure that edge banding is inspected and recorded consistently, and that any issues are noted and addressed promptly. The form should not be used for other purposes, such as general equipment maintenance or repair. It is intended for use by personnel responsible for inspecting and reporting on edge banding.
-
-</thinking>
-
 # Edge Banding Checklist - Help Guide
 ## Purpose
 The Edge Banding Checklist is designed to help inspect and record the condition and status of edge banding on machinery or equipment. This form guides the inspector through a series of questions and prompts to ensure a thorough and accurate inspection.

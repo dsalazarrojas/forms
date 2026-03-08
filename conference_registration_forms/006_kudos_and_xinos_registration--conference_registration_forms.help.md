@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for an event or meeting with two different types of attendees: Kudos and Xinos. It is likely used to collect information from individuals who want to attend or participate in the event.
-</thinking>
-
 # Kudos-And-Xinos-Registration - Help Guide
 ## Purpose
 This form is used to register attendees for an event. You will need to provide information about yourself, your preferences, and any other relevant details.

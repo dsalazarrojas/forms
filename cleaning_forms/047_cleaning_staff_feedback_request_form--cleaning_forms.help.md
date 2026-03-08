@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Cleaning Staff Feedback Request Form" that is concrete, concise, and practical, we'll break down the guide into four sections: "Purpose", "How to Complete This Form", "Field-by-Field Explanation", and "Tips". This guide will provide end users with a clear understanding of the form's purpose, the steps to complete it, and a detailed explanation of each field. By the end of this guide, users will be able to efficiently submit their feedback and have a clear understanding of the form's requirements.
-
-</thinking>
-
 # Cleaning Staff Feedback Request Form - Help Guide
 
 ## Purpose

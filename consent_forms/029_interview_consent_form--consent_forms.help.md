@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect data for consent purposes in an interview setting, typically from an interviewee. To ensure the form is used correctly, please verify that it is not already completed for the same interviewee and that the purpose of the consent is clearly stated. This form is not intended for other use cases such as surveys or data collection for research purposes... </thinking>
-
 # Interview Consent Form - Help Guide
 ## Purpose
 The Interview Consent Form is used to collect data for consent purposes in an interview setting. It captures essential information from the interviewee, which can be used to verify their consent and ensure transparency throughout the interview process.

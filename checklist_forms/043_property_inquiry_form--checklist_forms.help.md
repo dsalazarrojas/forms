@@ -1,7 +1,3 @@
-<thinking>
-We should only allow one contact method and one contact note per form submission. We should also ensure that the contact method matches the property type. This is to prevent duplication of contacts and ensure accurate data entry.
-</thinking>
-
 # Property Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect property inquiry information from users. It is used to gather details about properties such as address, contact information, property type, price range, square footage, and year built.

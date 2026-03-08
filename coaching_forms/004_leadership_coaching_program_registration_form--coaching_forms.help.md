@@ -1,9 +1,3 @@
-<thinking> This form is used to register a candidate for the leadership coaching program. The purpose of this form is to collect essential information from the candidate, including their personal details, coaching program preferences, and training organization information. This form is designed to be completed by the candidate themselves, and the information collected will be used to create their personalized coaching plan. 
-
-Before starting, please ensure that you have not already registered for this program. If you have any questions or concerns, please contact the coaching team.
-
-</thinking>
-
 # leadership_coaching_program_registration_form - Help Guide
 ## Purpose
 The leadership coaching program registration form is used to collect information from candidates for the leadership coaching program. This form is designed to be completed by the candidate themselves and will be used to create their personalized coaching plan.

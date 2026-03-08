@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register players for a volleyball skills clinic. The form includes fields for session preferences, player details, emergency contact information, and coach consent. Each page of the form is dedicated to a different section, such as session preferences or player details. The form is intended for parents or coaches who want to register their children or players for the clinic. The form should be used by individuals who are able to give or withhold consent for the player's participation in the clinic. This form is not intended for general contact information or general session preferences.
-</thinking>
-
 # Volleyball Skills Clinic Registration Form - Help Guide
 ## Purpose
 The Volleyball Skills Clinic Registration Form is designed to register players for a volleyball skills clinic. This form gathers information from parents or coaches to ensure that the player's needs and preferences are met during the clinic.

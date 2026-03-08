@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning block explains the form purpose and checks for relevance and non-duplication.
-The purpose of this form is to document and track the video editing process, ensuring that all critical steps are taken and tasks are completed on time.
-This form is likely used in a production or editorial context, possibly for video content creation and review. It is not clear whether this form is meant to be filled out by the same person for all fields or if it is meant for multiple reviewers.
-Given the variety of fields, it seems to be used for tracking and reporting progress on multiple levels: individual steps, files, tasks, deadlines, and status updates. Some fields like Reviewer Comments may be redundant with Reviewer Signature and Reviewer's comments in the other fields.
-</thinking>
-
 # Video Editing Process Checklist - Help Guide
 ## Purpose
 This form helps you document and track the video editing process, ensuring all critical steps are completed and tasks are finished on time.

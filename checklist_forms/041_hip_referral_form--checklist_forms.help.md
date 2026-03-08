@@ -1,8 +1,3 @@
-<thinking>
-To begin with, it's essential to understand the purpose and context of the Hip Referral Form. This form is designed to gather information about patients who need referrals to specialists, such as Orthopaedic, Cardiovascular, Pulmonologist, or Rheumatologist. The form will help collect relevant details about the patient's medical history, reasons for referral, and any other necessary data to ensure a smooth referral process. It's crucial to fill out the form accurately and completely, as it may be used to assess the patient's suitability for the referral and to guide the referring specialist in their evaluation. Please make sure to fill out the form only once, and not duplicate the process.
-
-</thinking>
-
 # Hip Referral Form - Help Guide
 ## Purpose
 The Hip Referral Form is designed to collect necessary information about patients who need referrals to specialists. This form will guide the referring specialist in evaluating the patient's suitability and provide the necessary details for a smooth referral process.

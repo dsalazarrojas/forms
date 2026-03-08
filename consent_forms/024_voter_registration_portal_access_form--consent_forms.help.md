@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voter Registration Portal Access Form - Help Guide
 
 ## Purpose

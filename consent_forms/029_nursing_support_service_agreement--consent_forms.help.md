@@ -1,7 +1,3 @@
-<thinking>
-The Nursing Support Service Agreement form is designed to capture information about a patient's consent to receive nursing services, including their personal details, authorized care team members, and service specifics. This form aims to ensure that patients understand their rights and responsibilities related to these services and that healthcare providers have the necessary consents to deliver care. To prevent duplication, please ensure that you are not submitting this form for a patient who has already been registered in our system.
-</thinking>
-
 # Nursing Support Service Agreement - Help Guide
 ## Purpose
 This form is used to obtain a patient's consent for nursing services, which includes information about their personal details, authorized care team members, and specific services they will receive.

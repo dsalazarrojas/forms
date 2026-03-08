@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on the salaries and benefits of public officials to help the organization better understand the compensation landscape and make informed decisions. This form should only be filled out by public officials who are eligible to do so, and it should not be filled out by non-public officials. This ensures that the data collected is accurate and relevant to the target audience. 
-</thinking>
-
 # Salary Survey For Public Officials - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the salaries and benefits of public officials. This information will be used to help the organization understand the current state of compensation for public officials and make informed decisions to improve it.

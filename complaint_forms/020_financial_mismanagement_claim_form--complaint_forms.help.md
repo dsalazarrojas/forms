@@ -1,5 +1,3 @@
-<thinking>...This form was designed to help individuals report cases of financial mismanagement within their organization. It's crucial to fill out this form accurately and honestly to ensure that the complaint is thoroughly investigated and addressed. Please ensure you're not submitting duplicate or frivolous claims, as this may lead to delays or even dismissal of your complaint. If you're unsure about a particular issue, it's always better to err on the side of caution and seek guidance from a relevant authority before submitting your claim. Please be as detailed as possible when providing evidence and explain how the issue has affected you financially. Your submission will be thoroughly reviewed and addressed accordingly...</thinking>
-
 # Financial Mismanagement Claim Form - Help Guide
 ## Purpose
 The Financial Mismanagement Claim Form is designed to report instances of financial mismanagement within your organization. Fill out this form to initiate an investigation and potential action to rectify the situation.

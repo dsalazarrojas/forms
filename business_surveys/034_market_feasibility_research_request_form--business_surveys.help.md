@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to gather information for market feasibility research requests, a crucial aspect of business development. The purpose of this form is to ensure that all necessary details are provided for a thorough analysis of market viability. Before filling out this form, please ensure that you have all the required information readily available. This form has been designed to guide you through the process of requesting market feasibility research, and it is essential that the information is accurate and complete to avoid duplication of efforts and ensure that your request is processed efficiently.
-
-</thinking>
-
 # Market Feasibility Research Request Form - Help Guide
 ## Purpose
 This form is designed to gather all necessary information for market feasibility research requests, ensuring that your request is processed efficiently and effectively.

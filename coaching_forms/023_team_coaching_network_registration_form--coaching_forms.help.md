@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Team Coaching Network Registration Form - Help Guide
+> # Team Coaching Network Registration Form - Help Guide
 ## Purpose
 The Team Coaching Network Registration Form is designed to collect information from team coaches and team administrators to connect them with other teams and resources within the coaching network. This form helps to register teams and their coaches, allowing for easier communication and collaboration.
 

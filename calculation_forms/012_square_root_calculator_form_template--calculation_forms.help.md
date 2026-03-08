@@ -1,5 +1,3 @@
-<thinking>This form is designed to calculate the square root of a given number. It's a basic calculator that takes a numerical input and returns its square root. This form is meant for users who want to calculate square roots quickly and easily. Before proceeding, please ensure that you're using this form for its intended purpose and not duplicating existing functionality. If you're not sure why you need this form, consider whether there's a more advanced calculator available in your workflow.</thinking>
-
 # Square Root Calculator Form Template - Help Guide
 ## Purpose
 The Square Root Calculator Form Template is a simple tool designed to calculate the square root of a given number.

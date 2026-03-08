@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "ethanol_production_process_survey", is designed to collect data from production sites to help us track and improve ethanol production processes. Before filling out this form, please make sure you understand the purpose and have relevant information to provide accurate responses. This form may be used internally to identify areas for improvement and optimize processes, so please only fill it out if you are directly related to the production site.
-
-</thinking>
-
 # Ethanol Production Process Survey - Help Guide
 ## Purpose
 This form is designed to collect data from ethanol production sites to help us track and improve ethanol production processes. It's essential to provide accurate responses as this information will be used internally to identify areas for improvement and optimize processes.

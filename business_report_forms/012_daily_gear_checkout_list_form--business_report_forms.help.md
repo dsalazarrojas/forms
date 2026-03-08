@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data on daily gear checkout, allowing users to track equipment usage and returns. It is likely intended for employees or staff members to report their daily gear usage and returns, possibly for inventory management or maintenance purposes within the organization. The form is divided into multiple pages, each containing several fields. To determine the relevance and potential duplication of this form, it is essential to analyze the context in which it is used.
-</thinking>
-
 # daily_gear_checkout_list_form - Help Guide
 ## Purpose
 The daily gear checkout list form is used to record the daily gear checkout and return of equipment. This form helps in tracking the usage of equipment and ensures that equipment is returned on time.

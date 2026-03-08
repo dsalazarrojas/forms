@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and user-friendly for end-users. This form is for microfinance loan applications and agreements. We should check if the form purpose and fields are well-defined and easy to understand. We should also consider the user's perspective and provide concise explanations for each field to avoid confusion.
-</thinking>
-
 # Microfinance Loan Application And Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect information for microfinance loan applications and agreements. It is used to gather details from borrowers and lenders for the purpose of loan processing and agreement validation.

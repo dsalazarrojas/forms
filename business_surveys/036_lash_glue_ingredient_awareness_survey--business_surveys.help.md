@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from customers and customers' representatives about their experiences and perceptions with lash glue and its ingredients. The purpose of this form is to collect data on how frequently customers use lash glue, the reactions they experience when using it, their safety concerns, and their level of knowledge about the ingredients used in lash glue. This data will help improve the product and customer experience. This form should be filled out by customers and their representatives who have interacted with the product. If a customer or representative has already completed this form, their responses should be updated with new information. Please ensure that the information you provide is accurate and up-to-date.</thinking>
-
 # Lash Glue Ingredient Awareness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers and customers' representatives about their experiences and perceptions with lash glue and its ingredients.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a group and its members. This form is part of a larger system for managing group and role assignments within an organization. The form is designed to collect data on the group's details, member list, role assignments, member tenure, and role responsibilities. The form is not intended for use in high-security or sensitive areas, as it only collects information about groups and their members.
-Before completing this form, please ensure that you have the necessary permissions to access and modify group information. If you're not sure about the group's identity or membership, it's best to double-check with your supervisor or relevant department before proceeding.
-This form is not meant to be filled out multiple times for the same group. Each time you fill out this form, you should ensure it's a new group or update the existing information to avoid duplication.
-</thinking>
-
 # Group And Role Information Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a group and its members. It's used to gather data on the group's details, member list, role assignments, member tenure, and role responsibilities.

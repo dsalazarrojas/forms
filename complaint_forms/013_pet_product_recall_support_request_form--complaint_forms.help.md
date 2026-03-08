@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear to the end-user and that it's not duplicated with existing forms. This form is primarily used to collect information from pet owners or pet caregivers who have experienced an issue with a pet product and want to report it. The goal is to gather all necessary details to help us investigate and address the issue effectively. It's essential to verify that this form is not a duplicate of any existing form and that the user is aware of the form's intended use.
-</thinking>
-
 # Pet Product Recall Support Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about pet product recalls from pet owners or caregivers. It helps us to investigate and address any issues related to pet products.

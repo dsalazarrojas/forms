@@ -1,8 +1,3 @@
-<thinking>
-This form is used for process compliance checking, which is a crucial process that ensures the quality and efficiency of business processes. This form is a checklist to help the reviewer assess and verify the current state of a process, identify potential issues, and take corrective actions. The form should be used to review and verify processes on a regular basis to ensure they are running smoothly and according to the established protocols.
-This form should be used in addition to other process checking methods, not as a replacement.
-</thinking>
-
 # Process Compliance Checklist Form - Help Guide
 ## Purpose
 The Process Compliance Checklist Form is a tool to verify the compliance of a process with the established protocols and standards.

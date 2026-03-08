@@ -1,26 +1,3 @@
-<thinking>
-The purpose of this form is to help users compare two apartments side-by-side, providing a structured way to analyze and compare the features and details of each property. The form collects information on various aspects of each apartment, including their names, addresses, rent prices, amenities, pet policies, and lease terms, allowing users to weigh the pros and cons of each option and make an informed decision.
-
-When designing this form, I ensured that it is organized in a logical and intuitive manner, with fields that correspond to relevant aspects of apartment selection. Each field is carefully labeled and has a clear hint to provide users with a clear understanding of what is expected of them. I also took into account the user experience and made sure that the form is easy to navigate and fill out.
-
-I considered the following principles when designing this form:
-
-*   **User experience**: The form is easy to read and fill out, with clear labels and hints to guide the user through each step.
-*   **Completeness and accuracy**: Each field is designed to collect relevant and accurate information about each apartment.
-*   **Consistency**: Similar fields and labels are used throughout the form to make it easy to compare information.
-
-The form consists of two apartments, with fields that are identical for each. The fields include:
-
-*   **Searcher's information**
-*   **Apartment details**
-*   **Amenities and utilities**
-*   **Pet policy and lease term**
-*   **Availability and condition rating**
-
-This form is designed to help users compare two apartments side-by-side and make an informed decision.
-
-</thinking>
-
 # Apartment Comparison Checklist - Help Guide
 ## Purpose
 The Apartment Comparison Checklist is designed to help you compare two apartments and make an informed decision based on their features and details.

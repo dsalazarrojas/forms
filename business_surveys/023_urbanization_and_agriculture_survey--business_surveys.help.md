@@ -1,27 +1,3 @@
-<thinking>
-This form is a survey designed to collect information on urbanization and its effects on agriculture. It aims to understand the process of urbanization, current agriculture practices, community outcomes, and stakeholder outcomes. The form is composed of several fields that require the respondents to select or input specific information. 
-
-The form has 10 fields in total, divided into the following categories: 
-- Page 1: Introduction (optional)
-- Page 2: Urbanization process (select multiple, required)
-- Page 3: Agriculture practices (text, optional)
-- Page 4: Community outcomes (text, required)
-- Page 5: Stakeholder outcomes (text, optional)
-- Page 6: Research recommendations (select one, optional)
-- Page 7: Local government support (select one, required)
-- Page 8: Community engagement (text, optional)
-- Page 9: Research teams (text, optional)
-- Page 10: Planners and experts (text, optional)
-
-The form is designed to be completed by respondents who have experience or knowledge in urbanization and agriculture. The form's fields are divided into three sections: 
-- Introduction (optional, page 1)
-- Urbanization process and agriculture practices (pages 2-3)
-- Outcomes and recommendations (pages 4-7)
-- Additional information (pages 8-10)
-
-The form is meant to be completed by one person at a time. Please ensure that the person filling out the form has the necessary permissions and approvals before proceeding.
-</thinking>
-
 # Urbanization And Agriculture Survey - Help Guide
 ## Purpose
 This form is designed to collect information on urbanization and its effects on agriculture from respondents with experience or knowledge in the field. The form aims to understand the process of urbanization, current agriculture practices, community outcomes, and stakeholder outcomes.

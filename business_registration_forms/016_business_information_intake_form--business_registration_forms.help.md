@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting basic business information for onboarding or verification purposes. It's essential to fill out this form accurately to ensure that the provided data is up-to-date and correct. Please note that the form should only be completed once for each business. Repeating this process for the same business may result in unnecessary duplication of data.
-
-</thinking>
-
 # Business Information Intake Form - Help Guide
 ## Purpose
 This form collects the essential details of your business to facilitate our services or verification processes. Please answer these questions accurately to ensure we have the correct information to serve you.

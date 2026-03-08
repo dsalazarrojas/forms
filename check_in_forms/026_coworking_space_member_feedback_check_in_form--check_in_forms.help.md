@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from members regarding their check-in experience at the coworking space. It is crucial for us to understand how we can improve the overall experience for our members. Please ensure that you complete this form accurately and thoroughly so that we can better understand your needs and expectations.
-
-</thinking>
-
 # Coworking Space Member Feedback Check In Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from members about their check-in experience at the coworking space. Your input will help us understand what we're doing well and where we need to improve.

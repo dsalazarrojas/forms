@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the expected rate of return on investment based on various factors. This form is likely used by investors, financial analysts, or advisors to estimate the potential gain or loss on an investment. The form asks for the investment amount, time period, rate of return, and other relevant factors such as inflation rate, compounding frequency, and expected interest rate. The form is probably used to provide a quick estimate or approximation of the investment return, rather than a precise calculation.
-
-To ensure the form is used correctly, it's essential to consider the following:
-
-*   The form is designed for a specific use case, and any deviation from the expected use case might lead to incorrect results.
-*   The form is likely used for estimation purposes, so it's okay if the actual results don't match the real-world outcome.
-*   The form might not be suitable for complex investment scenarios or large sums of money.
-*   The form's results should be used as a starting point for further analysis or consultation with a financial expert.
-</thinking>
-
 # Investment Return Calculator - Help Guide
 ## Purpose
 

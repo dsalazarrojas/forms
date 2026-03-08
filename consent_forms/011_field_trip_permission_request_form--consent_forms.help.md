@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request permission for a field trip, gathering essential details such as the parent's name, trip date, and student's name. The form ensures that students have the necessary information for a safe and enjoyable trip. Please ensure that you only complete this form once per trip and that you are requesting permission for the correct student.
-</thinking>
-
 # Field Trip Permission Request Form - Help Guide
 ## Purpose
 This form is used to request permission for a field trip, which is a crucial part of your student's educational journey. It helps ensure that your child is safe and prepared during the trip.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Overpriced Menu Complaint Form", we need to understand the form's purpose and ensure that the information collected is not a duplication or already addressed internally.
 
 This form is designed to allow customers to report overpriced menu items at a restaurant. It's intended for restaurants to receive feedback on their menu pricing, helping them to identify areas for improvement and provide better service to their customers.

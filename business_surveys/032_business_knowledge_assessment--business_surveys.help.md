@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess a person's knowledge and skills in various areas related to business, including industry knowledge, financial literacy, marketing understanding, operations skills, and development needs. This form is intended to help identify areas where a person may need further training or support. The form's purpose is to collect data on the participant's expertise level in these areas and suggest recommended resources for further learning. It is a tool for business professionals to evaluate their own knowledge and skills, and potentially identify areas for improvement.
-</thinking>
-
 # Business Knowledge Assessment - Help Guide
 ## Purpose
 The Business Knowledge Assessment form is designed to evaluate your expertise in various business-related areas. Please answer the questions honestly to help identify your strengths and weaknesses.

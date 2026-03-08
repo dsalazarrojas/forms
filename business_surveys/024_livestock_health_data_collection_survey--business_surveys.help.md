@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, we need to analyze the form's fields and structure. 
-The form is for collecting livestock health data, and it seems to be focused on gathering information about farms, including their name, size, total cattle, herd health, vaccination status, farm practices, veterinary care, monitoring frequency, data collection method, and animal count. 
-However, upon closer inspection, it appears that most fields are optional and do not have any specific validation or constraints applied, which suggests that the form is likely not for real-time data collection or critical decision-making.
-Therefore, it is possible that this form is for general, non-critical data collection or as a sample dataset for data analysis.
-</thinking>
-
 # Livestock Health Data Collection Survey - Help Guide
 
 ## Purpose

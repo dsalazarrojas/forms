@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be for registering participants in a conference or summit, likely the "C.R.O.W.N. Summit". The form captures personal information, such as name, contact details, and demographic data, suggesting it's for attendee registration.
-To confirm, the form includes fields for participant information (first name, last name, date of birth, email, phone number, school name), demographic data (grade level), and emergency contact details (name, phone number). The form also asks about accessibility needs and workshop interests, which might indicate the event is catering to diverse groups and offering relevant content. The "previous attendance" field suggests it's a recurring event, and the "parental consent" and "waiver agreement" fields imply the form is for minors or vulnerable individuals.
-
-The form's structure and fields are comprehensive, covering essential details for event organizers and participants. Given this analysis, the form's purpose appears to be to gather information for participant registration and management for the C.R.O.W.N. Summit.
-
-</thinking>
-
 # C.R.O.W.N. Summit Registration Form - Help Guide
 ## Purpose
 The C.R.O.W.N. Summit Registration Form is designed to capture participant information for registration and management purposes. This includes personal details, demographic data, and emergency contact information. The form is likely for attendees of the C.R.O.W.N. Summit, a recurring event.

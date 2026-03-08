@@ -1,18 +1,3 @@
-<thinking>
-This form is for the adoption of a cat, a contract between the adopter and the shelter. It is used to formalize the adoption process, ensuring both parties understand their roles and responsibilities. This form is a template, and its fields will be filled out by the adopter. The form is intended to be a comprehensive contract that covers all aspects of the adoption, from payment to care and responsibility.
-
-The fields in this form are divided into several sections: contract introduction, adopter information, cat details, adoption terms, and signatures. Each section is designed to ensure the adopter understands and agrees to the terms of the adoption.
-
-Before completing this form, please review all fields carefully. Ensure you understand the implications of the agreements you make. If you are unsure about any aspect, please ask the shelter representative for clarification.
-
-This template is designed to be used by both the adopter and the shelter representative. The adopter will fill out the form, providing all necessary information and agreements. The shelter representative will also review and sign the form, confirming the adoption terms and conditions.
-
-Please fill out this form accurately and honestly, as it will be used to establish the terms of the adoption. If you have any questions or concerns, do not hesitate to ask the shelter representative for assistance.
-
-Now, let us proceed to the help guide.
-
-</thinking>
-
 # Cat Adoption Contract Form Template - Help Guide
 ## Purpose
 The purpose of this form is to finalize the adoption of a cat, establishing the terms of the adoption between the adopter and the shelter.

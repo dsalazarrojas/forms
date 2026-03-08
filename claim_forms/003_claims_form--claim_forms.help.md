@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine if the form is relevant, let's analyze the fields: 
 
 - "Policy Number", "Name of Insured", "Mailing Address", "Primary Phone", and "Email Address" seem to be personal details of the policyholder.

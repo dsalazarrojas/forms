@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from youth camp attendees, including their personal details, program preferences, and medical information. The form will be used to create a database of registered campers and their associated programs. To ensure that the form is completed correctly, please review the following guide.
-</thinking>
-
 # Youth Camp Registration Form - Help Guide
 ## Purpose
 The Youth Camp Registration Form is used to collect information from youth camp attendees, including their personal details, program preferences, and medical information. This form is necessary to ensure that we have accurate and up-to-date information about each camper, which helps us to provide a safe and enjoyable experience for all campers.

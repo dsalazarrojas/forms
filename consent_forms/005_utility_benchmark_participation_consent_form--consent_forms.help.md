@@ -1,7 +1,3 @@
-<thinking>
-This form is a consent form used for participants to provide their information and give consent to the use and reporting of their data in the context of utility benchmarking studies. This form should be completed by all participants who are part of such a study. Ensure that you complete this form carefully as the information you provide will be used to collect data and inform the reporting process. 
-</thinking>
-
 # utility_benchmark_participation_consent_form - Help Guide
 ## Purpose
 The utility benchmark participation consent form is a necessary step for participants to provide their details and give consent to the use and reporting of their data in the context of utility benchmarking studies.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airbnb Check In Form - Help Guide
 ## Purpose
 This form is used to collect information from guests for a seamless check-in experience. It gathers necessary details such as personal information, reservation details, and agreement to house rules, policies, and other relevant information.

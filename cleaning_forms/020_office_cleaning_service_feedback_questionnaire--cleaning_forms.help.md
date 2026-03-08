@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from clients about the quality of the office cleaning service provided. The purpose of this form is to gauge the satisfaction of clients and identify areas for improvement in the service provided by your office cleaning staff. This feedback will help the management to understand what works well and what needs to be adjusted to provide an exceptional cleaning experience for clients. Please ensure that you are not providing duplicate feedback, as this will aid in more effective analysis and decision-making.
-
-</thinking>
-
 # office_cleaning_service_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about the quality of the office cleaning service provided.

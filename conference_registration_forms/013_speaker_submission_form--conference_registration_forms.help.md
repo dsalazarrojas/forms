@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Speaker Submission Form - Help Guide
 ## Purpose
 The Speaker Submission Form is designed to collect information from speakers who wish to participate in a conference. The form helps the conference organizers gather essential details about the speaker's profile, submission, and contact information. This form ensures that the speaker's submission is properly received and processed for the conference.

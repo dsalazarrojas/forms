@@ -1,17 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-This form is designed to gather information about Accessory Dwelling Units (ADUs) to help the organization understand their characteristics, purpose, and experiences. The form includes fields for property owner information, ADU details, and various aspects of ADU management and challenges. The form is intended for ADU owners who wish to participate in a study or survey to help the organization better understand ADU-related issues and opportunities. To ensure accurate and relevant data, please answer all questions truthfully and to the best of your ability.
-
-This form is not intended for:
-
-*   General information gathering or marketing purposes
-*   Advertising or solicitation of services
-*   Collection of sensitive or confidential information
-
-Please note that the information collected will be used for research purposes only and will be treated with the utmost confidentiality.
-
-</thinking>
-
 # Accessory Dwelling Unit Survey - Help Guide
 ## Purpose
 The Accessory Dwelling Unit Survey is designed to gather information about your ADU. Please answer the questions truthfully and to the best of your ability.

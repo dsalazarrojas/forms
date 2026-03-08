@@ -1,8 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and non-duplicative, we should consider the overall purpose of the "Driver Safety Checklist Form". This form is designed to help individuals or organizations assess the safety condition of a vehicle. It covers various aspects of the vehicle's condition, including the vehicle itself, its components, and other related attributes. This form is likely used in contexts such as vehicle inspections, maintenance checks, or driver training programs.
-
-</thinking>
-
 # Driver Safety Checklist Form - Help Guide
 ## Purpose
 The Driver Safety Checklist Form is designed to help individuals or organizations assess the safety condition of a vehicle.

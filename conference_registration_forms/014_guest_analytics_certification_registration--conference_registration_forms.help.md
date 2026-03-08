@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from users for the Guest Analytics Certification Registration process. This form is designed to gather essential details such as name, email address, phone number, certification program, and other specific requirements like program name, start and end dates, duration, location, time zone, and consent status. The form will likely be used by the guest analytics team to track and manage registration for their programs. This form may not require a phone number as it is optional, but other fields are necessary for the registration process. Users can choose from a few options for location and time zone. This form will be submitted online, and users must agree to the terms by selecting the "Agree" option for the "Consent" field. All fields are required for the registration process, except the phone number.
-</thinking>
-
 # Guest Analytics Certification Registration - Help Guide
 ## Purpose
 The Guest Analytics Certification Registration form is used to collect information from users for the Guest Analytics Certification process.

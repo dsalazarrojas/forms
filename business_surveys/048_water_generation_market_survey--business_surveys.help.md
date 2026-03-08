@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about user preferences and habits related to water consumption. The purpose of this form is to gather information on how often users buy water, their preferred type of water, how much they spend on water, and their ratings for their current water source. The survey asks users about their habits of buying water, their preference for the type of water, the taste of water, and other related questions. This form should not be used to collect sensitive or protected data.
-</thinking>
-
 # Water Generation Market Survey - Help Guide
 ## Purpose
 This form is designed to collect data about user preferences and habits related to water consumption.

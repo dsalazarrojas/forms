@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to confirm the participant's sign in for an event, ensuring that the participant's details are correctly recorded and verified. This form is likely to be used in a controlled environment where participant information is collected for events, conferences, or meetings. It should not be used for general purpose, such as user registration or account creation, but rather for specific events where participant attendance needs to be confirmed. Please ensure that this form is used correctly and not duplicated for other purposes.
-</thinking>
-
 # Event Sign In Confirmation - Help Guide
 ## Purpose
 The Event Sign In Confirmation form is designed to collect and verify participant information for specific events. It is intended to be used in a controlled environment to ensure accurate and reliable participant records.

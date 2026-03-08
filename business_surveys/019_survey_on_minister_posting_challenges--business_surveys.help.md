@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Survey On Minister Posting Challenges" form, which aims to collect feedback from ministers on their experiences with posting. It's likely used to identify areas where ministers need support and resources, helping the organization to improve the posting process. It's essential to fill out this form truthfully and without duplication, as it's designed to help the organization better understand the challenges ministers face while posting.
-
-</thinking>
-
 # Survey On Minister Posting Challenges - Help Guide
 ## Purpose
 This survey aims to collect feedback from ministers on their experiences with posting, including common and uncommon challenges they face, their posting frequency, and other related aspects.

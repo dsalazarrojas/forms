@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the Precision Tools they have used. The purpose of this form is to help us understand how users found the tools useful, what improvements they suggest, and how they experienced using the tools. This form is not meant to be a survey on user demographics or contact information. It is primarily aimed at gathering feedback on the tools' functionality, usability, and overall satisfaction.
-</thinking>
-
 # Precision Tools Feedback Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from users about the Precision Tools they have used. We value your opinions and suggestions to continuously improve our tools and provide better services to you and our users in the future.

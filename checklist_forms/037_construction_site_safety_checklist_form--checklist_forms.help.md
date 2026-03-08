@@ -1,20 +1,3 @@
-<thinking>
-To determine the form's purpose and relevance, we'll analyze the fields provided in the YAML input schema.
-
-The form is titled "Construction Site Safety Checklist Form" which suggests it's used for assessing the safety conditions and compliance with regulations on construction sites. The fields included are related to various aspects of site safety, such as:
-
-* Personnel and equipment safety (hard hats, safety glasses, high-visibility vests, and steel-toed boots)
-* Fall protection and scaffolding safety
-* Electrical and fire safety
-* Emergency and first aid facilities
-* Site housekeeping and waste disposal
-
-The form is designed to gather information about the site's safety conditions, including the date of the inspection, the inspector's name, and the project's name and address. The questions cover both the presence and condition of safety equipment, as well as the proper usage and placement of ladders, scaffolding, and electrical cords. The form also includes questions about emergency procedures, such as fire extinguishers and first aid kits.
-
-Based on this analysis, the form appears to be a thorough safety assessment tool for construction sites. It's likely used to ensure that workers are following standard operating procedures and regulations to minimize risks and hazards on site.
-
-</thinking>
-
 # Construction Site Safety Checklist Form - Help Guide
 ## Purpose
 

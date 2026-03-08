@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about institutions and their innovation ecosystems. It's likely used for research or benchmarking purposes. The form has multiple sections with varying levels of importance and relevance to the topic. To avoid duplication, please only fill out the form once per institution.
-</thinking>
-
 # Institutional Innovation Ecosystem Survey - Help Guide
 ## Purpose
 

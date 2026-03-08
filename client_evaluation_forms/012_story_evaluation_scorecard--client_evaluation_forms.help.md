@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and scores from evaluators on various aspects of a story. It has two main sections: the Intro Section and the Criteria Sections. The Intro Section is optional and allows the evaluator to provide a brief introduction or context for their evaluation. The Criteria Sections consist of 6 criteria that evaluators must rate as true or false, indicating whether the story meets the specific criterion or not. The form also has 15 score fields where evaluators can provide numerical scores from 1 to 10 for each criterion. The Review field is for any additional comments or feedback the evaluator wishes to provide.
-</thinking>
-
 # Story Evaluation Scorecard - Help Guide
 ## Purpose
 This form is designed to collect feedback and scores from evaluators on various aspects of a story. It is used to evaluate a story based on its alignment with specific criteria.

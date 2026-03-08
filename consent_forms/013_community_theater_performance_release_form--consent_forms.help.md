@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect necessary information and agreements from performers for a community theater production. It is a legal document that outlines the terms and conditions of participation, including performance rights, compensation, and professional conduct expectations. This form is intended for use by performers, including actors, musicians, and other artists. It is not intended for use by non-performers or audience members. This form should only be completed by individuals who have been cast in a production and have been informed of the specific terms and conditions of their participation. 
-The information collected on this form will be used to establish a legally binding agreement between the performer and the theater company. Please review the form carefully and ask questions if you are unsure about any of the terms before signing. 
-</thinking>
-
 # Community Theater Performance Release Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information and agreements from performers for a community theater production. It is a legally binding document that outlines the terms and conditions of participation, including performance rights, compensation, and professional conduct expectations.

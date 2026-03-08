@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the business information intake form is being used correctly to gather necessary data from clients. Before filling out this form, please check that the information you're providing is accurate and not duplicative. The form is designed to collect essential details about your business, so please answer each question truthfully and thoroughly. If you've already provided some of this information to us in the past, please review the form to ensure you're not duplicating previous responses.</thinking>
-
 # Business Information Intake Form - Help Guide
 
 ## Purpose

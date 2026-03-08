@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect consent from individuals who wish to join a sports club. This form is designed to be completed by potential club members to provide basic contact information and obtain their consent to be part of the sports club. The information collected will be used to communicate with the member and provide updates on club activities.
-</thinking>
-
 # Sports Club Membership Consent Form - Help Guide
 ## Purpose
 The Sports Club Membership Consent Form is a form used to collect contact information and consent from individuals wishing to join a sports club.

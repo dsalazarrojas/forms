@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting data on HR accounting and financial information from various departments within a company. The main page is for general information and section one is a free text field for users to provide any additional information. Section two to section nineteen are specific sections for collecting data on different aspects of HR accounting and finance, such as section two for numerical values, section three for dates, section four and five for selection options, section six and seven for time and email respectively, and sections eight to nineteen for text fields. The last section is a repeat of the main page for users to confirm their information.
-</thinking>
-
 # Human Resources Accounting Survey - Help Guide
 ## Purpose
 This form is designed for collecting data on HR accounting and financial information from various departments within a company.

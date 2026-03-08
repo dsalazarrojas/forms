@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect risk intelligence and consulting information from users. It's a crucial tool for risk assessment, analysis, and mitigation strategies. The form is composed of several sections, each focusing on a specific aspect of risk management. Before proceeding, ensure you understand the purpose of each field and the implications of your responses. Please note that some fields may be mandatory or optional, depending on the specific question. Review each field carefully and provide accurate information.
-</thinking>
-
 # risk_intelligence_consulting_survey - Help Guide
 ## Purpose
 This form is designed to collect risk intelligence and consulting information from users. It is a crucial tool for risk assessment, analysis, and mitigation strategies.

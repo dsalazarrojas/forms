@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track tasks performed during framing and installation of punch list items. It captures information on required tools, equipment used, and notes related to the task. This form is intended to be completed by technicians or workers who perform tasks, and its purpose is to ensure accurate and consistent documentation of work completed. It is also a check list to ensure that all required tools and equipment are accounted for. The form fields are designed to be straightforward and easy to understand. There is no duplication of effort in this form, as it only captures relevant and specific information related to framing and installation of punch list items.
-</thinking>
-
 # framing_punch_checklist - Help Guide
 ## Purpose
 The purpose of this form is to document and track tasks performed during framing and installation of punch list items.

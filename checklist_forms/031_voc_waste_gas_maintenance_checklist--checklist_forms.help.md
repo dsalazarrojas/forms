@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the maintenance status of facilities and equipment that deal with waste gas. The purpose of this form is to ensure that regular inspections and maintenance are conducted to prevent accidents and ensure the safety of both personnel and the environment. The form includes fields to gather information about the facility's equipment status, maintenance schedule, inspection frequency, and inspection history. This form is intended to be completed by facility managers and technicians who are responsible for maintaining the facilities and equipment.
-</thinking>
-
 # voc_waste_gas_maintenance_checklist - Help Guide
 ## Purpose
 This form is used to track the maintenance status of facilities and equipment that handle waste gas to ensure regular inspections and maintenance are conducted.

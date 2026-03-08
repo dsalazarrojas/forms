@@ -1,7 +1,3 @@
-<thinking>
-The "Business License Dispute Resolution Form" is a document used to report business license disputes that have arisen. This form is meant to help business owners or representatives report and resolve disputes related to their business licenses, ensuring that the resolution process is thorough and accurate. It is essential that this form is used to gather all relevant information before commencing the resolution process. 
-</thinking>
-
 # Business License Dispute Resolution Form - Help Guide
 ## Purpose
 This form is designed to collect information about business license disputes. Please use this form to report any issue that has occurred with your business license. 

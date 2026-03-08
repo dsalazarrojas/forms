@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secure Information Submission Form - Help Guide
 ## Purpose
 The Secure Information Submission Form is designed to collect sensitive and confidential information from users in a secure and controlled environment. This form ensures that all submitted data is handled with the utmost care and in accordance with relevant regulations.

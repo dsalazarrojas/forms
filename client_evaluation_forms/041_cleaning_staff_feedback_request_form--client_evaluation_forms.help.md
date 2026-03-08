@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation from clients about the cleaning staff that provided services to their property. The form is used to assess the performance of the cleaning staff in several key areas, including professionalism, courtesy, communication, work ethic, attention to detail, time management, cleanliness, and overall satisfaction with the service provided. This form is intended for property owners, managers, or supervisors to provide feedback on the staff's strengths and weaknesses, and to suggest areas for improvement. This feedback will help the cleaning staff management to identify areas that need improvement and provide better services to clients.
-
-When providing feedback, please keep in mind that your input is crucial in helping us understand how to improve our services. Your comments will be reviewed and considered by our team to provide a better experience for our clients. Please ensure you only fill out this form if the staff provided service to your property.
-
-Please note that some fields are marked as "required", this means that they are crucial to understanding your feedback and need to be filled out.
-</thinking>
-
 # Cleaning Staff Feedback Request Form - Help Guide
 ## Purpose
 

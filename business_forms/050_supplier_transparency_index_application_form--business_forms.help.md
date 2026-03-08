@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Transparency Index Application Form - Help Guide
 
 ## Purpose

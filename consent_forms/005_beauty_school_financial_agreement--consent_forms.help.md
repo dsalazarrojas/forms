@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students enrolling in the beauty school's financial program. The purpose of this form is to gather the student's personal details, program selection, payment schedule, and agreement with the school's policies. The form is divided into multiple sections, each collecting specific information. This form is required for students enrolling in the school's programs and is used to establish a legally binding agreement between the student and the school.
-</thinking>
-
 # Beauty School Financial Agreement - Help Guide
 ## Purpose
 This form is used to collect information from students enrolling in the beauty school's financial program. It ensures that the student understands and agrees to the school's policies and procedures.

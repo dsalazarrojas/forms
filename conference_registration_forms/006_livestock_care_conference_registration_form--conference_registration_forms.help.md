@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for the Livestock Care Conference. The purpose of this form is to gather information from attendees about their registration status for the conference. It is intended for conference organizers to track attendee engagement and preferences. This form should only be filled out by conference attendees or authorized representatives. Please make sure you are authorized to register for the conference before completing this form.
-</thinking>
-
 # Livestock Care Conference Registration Form - Help Guide
 ## Purpose
 The Livestock Care Conference Registration Form is used to record conference attendees' registration status and preferences.

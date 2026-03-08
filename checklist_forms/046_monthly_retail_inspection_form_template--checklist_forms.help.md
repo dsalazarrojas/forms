@@ -1,20 +1,3 @@
-<thinking>
-The form is designed to be used for monthly retail inspection checklists, where store managers or inspectors evaluate various aspects of a store's operations, including its cleanliness, organization, appearance, staff, products, services, equipment, facilities, parking, store operations, and customer service. The form is meant to assess the store's performance in each area and assign a score for overall satisfaction. The form is used to provide feedback and suggestions for improvement.
-
-It's worth noting that the form's fields are primarily focused on the store's performance in different areas, which is why there are many select_one fields. However, it's also used for general information like store address, store manager, and signature.
-
-To ensure the form is not being used for other purposes, the form is designed to be used on a monthly basis, providing a regular evaluation and feedback mechanism for the store.
-
-Before proceeding, please make sure to fill out the form accurately and completely, as it will help in providing a fair evaluation of the store's performance.
-
-If you're unsure about any field or the form's purpose, please refer to this guide for clarification.
-
-Please note that this form is used for evaluation purposes only and any comments or suggestions should be provided in the "comments" field.
-
-It's also worth noting that the form is not meant to be used for any other purpose than store evaluation and feedback.
-
-</thinking>
-
 # monthly_retail_inspection_form_template - Help Guide
 ## Purpose
 This form is used for monthly retail inspection checklists to evaluate a store's performance in different areas.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a crucial form for tracking family coaching sessions, capturing important information about the family and their progress. It should only be used for genuine family coaching sessions, and not for other purposes such as meetings, events, or general notes. To avoid duplication, please ensure that each session log is created with a unique family name.
 
 # Family Coaching Session Log - Help Guide

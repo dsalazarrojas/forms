@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm thinking about how to create a user-friendly help guide that will help end-users complete the Performance Analytics Awareness Survey form efficiently and effectively. To do this, I'll focus on clearly explaining the form's purpose, the steps to complete it, and each field's meaning, making sure to address any potential ambiguities or unclear labels. I'll base my explanation on the provided YAML fields and provide practical examples and tips to make the guide actionable and helpful.</thinking>
-
 # Performance Analytics Awareness Survey - Help Guide
 ## Purpose
 The Performance Analytics Awareness Survey is designed to help users understand their current level of awareness about performance indicators, reporting methods, and data sources. The survey will help users identify areas where they need improvement in these areas and provide valuable insights for future development and optimization.

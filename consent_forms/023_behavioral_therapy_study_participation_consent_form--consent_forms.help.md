@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the "Behavioral Therapy Study Participation Consent Form" to ensure that end users understand its purpose and how to complete it properly.
-</thinking>
-
 # Behavioral Therapy Study Participation Consent Form - Help Guide
 
 ## Purpose

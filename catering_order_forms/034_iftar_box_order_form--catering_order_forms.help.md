@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for customers to place orders for an Iftar Box, a meal or food delivery service. It's likely used in the context of Eid al-Fitr celebrations in countries with Muslim populations, where Iftar Box is a traditional meal or food basket served to break the fast during the holy month of Ramadan. The form may be used to collect customer information, order details, and payment information to fulfill their Iftar Box orders. The form might be used by the Iftar Box service provider to process customer orders and manage their orders efficiently. I will ensure that the explanations are accurate and not redundant with this in mind.
-</thinking>
-
 # Iftar Box Order Form - Help Guide
 ## Purpose
 The Iftar Box Order Form is designed to collect order details from customers for an Iftar Box meal or food delivery service. To fill this form, you will need to provide personal and order-specific information. Please follow the instructions to ensure accurate and efficient processing of your order.

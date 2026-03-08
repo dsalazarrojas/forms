@@ -1,29 +1,3 @@
-<thinking>
-This form is for students who wish to try out a class offered by an organization, presumably a sports or activity-based group. The form's purpose is to collect essential student and contact information, as well as preferences and commitments for the trial class. The form will be used to assess the student's suitability for the class and ensure that all necessary information is provided for the student's safety and participation. It's essential to ensure that the student and parent/guardian provide accurate and complete information to avoid any potential issues or complications.
-
-This form will be used internally to:
-
-*   Gather relevant information about the student and their contact details
-*   Assess the student's suitability for the class based on their skill level and other factors
-*   Collect waiver and authorization for the student's participation
-*   Track the student's registration details
-
-The form is designed to be completed by students and their parent/guardians. It's crucial to follow the instructions carefully to ensure that all required fields are filled in correctly.
-
-The form is divided into two main sections: "Trial Student Details" and "Waiver and Authorization." The first section collects information about the student, including their name, age, contact details, and estimated skill level. The second section includes options for the student to agree to the class's waiver and authorization form, as well as to provide emergency contact information.
-
-To complete the form, the student and their parent/guardian should follow these steps:
-
-1.  Enter the student's name, age, and contact email address and phone number in the corresponding fields.
-2.  Select their preferred trial class date from the list of available dates.
-3.  Choose their estimated skill level based on their experience and ability.
-4.  If necessary, provide important medical notes or allergies.
-5.  Agree to the waiver and authorization form.
-6.  Enter emergency contact information.
-7.  Confirm their registration date and method of referral.
-
-</thinking>
-
 # Cheer Try A Class Registration - Help Guide
 ## Purpose
 This form is designed to gather essential information from students who wish to try out a class offered by our organization. It will be used to assess the student's suitability for the class, ensure their safety and participation, and collect waiver and authorization for their participation.

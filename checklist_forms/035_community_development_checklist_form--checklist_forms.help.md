@@ -1,7 +1,3 @@
-<thinking>
-Are we creating a form to collect information from project team members regarding a specific development project? This form appears to be designed for capturing crucial data such as project name, lead contact, and other essential details for project planning and progress tracking. It's essential to ensure the form accurately captures the required information without duplication or repetition.
-</thinking>
-
 # Development Checklist Form - Help Guide
 ## Purpose
 The Development Checklist Form is a tool to gather essential information from project team members about a development project. This form helps to ensure that all necessary data is collected and reviewed before project progress.

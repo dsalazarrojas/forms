@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for visitors to the animation studio to provide their consent for the use of their image, audio, and video recordings, as well as their name and likeness in various forms of media. The form ensures that all visitors are aware of and agree to the terms under which their content will be used by the studio for promotional and commercial purposes. This form is not designed for employees or staff members of the studio.
-</thinking>
-
 # Animation Studio Behind The Scenes Consent Form - Help Guide
 ## Purpose
 This form is required for all visitors to the animation studio who will be participating in behind-the-scenes tours or visits. It is a legal agreement that outlines the terms under which the visitor's image, audio, and video recordings will be used by the studio for promotional and commercial purposes.

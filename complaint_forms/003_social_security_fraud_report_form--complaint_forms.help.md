@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for reporting social security fraud cases. It's essential that users understand the purpose and process of completing the form to ensure accurate and effective reporting. To avoid duplication of efforts, please ensure you're not submitting a report for a case that has already been reported or investigated. If you're unsure, contact our support team for clarification.
-
-</thinking>
-
 # Social Security Fraud Report Form - Help Guide
 ## Purpose
 The Social Security Fraud Report Form is a tool used to report suspected social security fraud cases. This form collects vital information to aid in the investigation and resolution of these cases. Please provide as much detail as possible to help speed up the process.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to determine form purpose and ensure relevance and non-duplication ...
-
-The Online Summer Camp Application Form is a digital form used for collecting information from individuals interested in attending a summer camp. The form is designed to gather essential details such as personal information (name and contact number), application details (email), availability dates, and preferences for camp selection. The form does not require submission by a specific individual (e.g., staff or administrators). 
-
-</thinking>
-
 # Online Summer Camp Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in attending a summer camp program. 

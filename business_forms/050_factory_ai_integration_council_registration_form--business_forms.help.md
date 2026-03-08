@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory AI Integration Council Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Daily Shuttle Maintenance Checklist is a form used to record the status of daily shuttle maintenance activities. It is intended to be used by facility managers, shuttle operators, or other personnel responsible for ensuring the shuttle is in a safe and operational state before and after each trip. 
 
 This form is used to ensure that all necessary maintenance checks are completed before the shuttle is put into operation and after it is taken out of operation. 

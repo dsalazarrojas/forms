@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form is being used for its intended purpose and not duplicated elsewhere in the system, I would like to know the context in which this form will be used. Is this form part of a larger process or workflow, and will it be used by specific users or roles within the organization? Additionally, are there any existing forms or processes that may be similar or redundant with this one?
-</thinking>
-
 # Diocese Of Gary Online Meeting Permission Form - Help Guide
 
 ## Purpose

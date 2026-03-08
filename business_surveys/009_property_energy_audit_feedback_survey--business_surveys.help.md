@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from customers or visitors after a property energy audit has been conducted. This helps the organization to understand their experiences, identify areas of improvement, and gauge the effectiveness of their energy audit services. It's likely that this form will only be filled out by customers or visitors who have participated in a property energy audit, hence it's essential to ensure that only relevant and non-duplicated data is collected. This form should serve as a starting point for creating a comprehensive guide, so let's get started!
-</thinking>
-
 # Property Energy Audit Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Property Energy Audit Feedback Survey form, a tool designed to collect feedback from customers or visitors after a property energy audit has been conducted. The feedback collected through this form will help the organization improve their services and better meet the needs of their customers.

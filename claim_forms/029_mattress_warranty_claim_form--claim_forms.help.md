@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers who want to claim a warranty on their mattress. The purpose of this form is to gather the necessary information to process the claim efficiently and effectively. The form should not be filled out by anyone other than the customer who is making the claim. This guide will walk you through the steps to complete the form and explain each field to ensure a smooth and accurate submission.
-
-</thinking>
-
 # Mattress Warranty Claim Form - Help Guide
 
 ## Purpose

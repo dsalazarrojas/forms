@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about incomplete work items. It appears to be related to project management or task tracking within an organization. The form likely serves as a tool for teams to report and manage work items that are not yet complete. It's essential to fill this form out accurately to ensure that the correct information is captured and that tasks are properly tracked.
-</thinking>
-
 # Incomplete Work Items Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report and manage incomplete work items in a project or task context.

@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand its purpose and the fields within it. This form appears to be a coaching or facilitation session reflection worksheet, where participants reflect on their experiences, identify key insights, and plan actions to take away from the session. The purpose of this form is likely to help participants process and apply the information gathered during the session, identify areas of clarity and understanding, and commit to actions that promote personal growth or development.
-
-This form is likely used in a coaching or facilitation setting, where a coach or facilitator guides the participant through a series of questions and prompts to encourage reflection, exploration, and planning.
-
-The form includes various sections, each with its own set of fields. Here's a brief overview of each:
-
-*   Session information: This section appears to be a header section that provides information about the session, such as participant name, session date, and topic or focus area.
-*   Reflection questions: This section includes questions that encourage participants to reflect on their experiences, such as key insights gained, emotions experienced, and challenges or obstacles encountered.
-*   Clarity and understanding: This section assesses the participant's level of clarity and understanding after the session. It includes questions like the level of clarity and areas of new understanding.
-*   Action planning: This section is where participants commit to specific actions they will take away from the session. It includes questions like committed actions, timeline, and support needed.
-*   Success and completion: This section evaluates the participant's success and completion of their actions. It includes questions like definitions of success and completion.
-
-</thinking>
-
 # Clarity Reflection Worksheet - Help Guide
 ## Purpose
 The Clarity Reflection Worksheet is a tool to help participants process and apply the information gathered during a coaching or facilitation session. It encourages reflection, exploration, and planning to promote personal growth or development.

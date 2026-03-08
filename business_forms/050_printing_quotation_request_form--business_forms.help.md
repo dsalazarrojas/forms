@@ -1,8 +1,3 @@
-<thinking>
-This form is used for creating printing quotation requests. It's a form that gathers information from end users to facilitate the quotation process. Before filling this form, please ensure you have reviewed the quotation terms and conditions, and that this form is not being filled out for any other purpose than creating a genuine quotation request. 
-
-</thinking>
-
 # printing_quotation_request_form - Help Guide
 ## Purpose
 This form is used for creating printing quotation requests, which are used to gather information from end users for the purpose of providing a quote for printing services.

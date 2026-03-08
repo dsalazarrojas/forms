@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about workplace harassment complaints from employees. It is intended for internal use only and should not be used for external reporting. Before completing this form, please ensure that you have not already reported the issue to your HR department or other relevant authorities. To avoid duplication, please check with your HR department or other relevant authorities to see if the issue has already been reported and addressed.
-
-</thinking>
-
 # Workplace Harassment Complaint Form - Help Guide
 ## Purpose
 The Workplace Harassment Complaint Form is a tool for employees to report incidents of workplace harassment. It helps the HR department to gather information and investigate complaints in a systematic and fair manner.

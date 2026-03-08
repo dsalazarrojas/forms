@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions from facility users about accessibility challenges they face when visiting sports facilities. 
-The purpose of this form is to gather information from users about their experiences with accessibility at sports facilities, helping to identify areas for improvement and enhance user experience. 
-The form is designed to be a simple and straightforward way for users to share their thoughts and suggestions, allowing facility managers to make informed decisions about accessibility enhancements. 
-</thinking>
-
 # Sports Facility Accessibility Improvement Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and suggestions from sports facility users about accessibility challenges they face when visiting these facilities. Your input will help us identify areas for improvement and create a more accessible and enjoyable experience for everyone.

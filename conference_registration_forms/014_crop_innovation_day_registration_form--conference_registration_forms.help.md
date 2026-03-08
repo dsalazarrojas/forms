@@ -1,7 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Crop Innovation Day Registration Form" that explains its purpose, how to complete it, and what each field means. We will use the provided YAML fields to base our explanation and ensure it is concrete, concise, and practical.
-</thinking>
-
 # Crop Innovation Day Registration Form - Help Guide
 ## Purpose
 

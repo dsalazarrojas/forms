@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to allow users to register for the cultural conference and select a panel for the event. The field types and labels are chosen to gather essential details for the conference organizers to ensure a smooth event experience. This form will be filled out by end-users who are attending the conference.
-
-To prevent any confusion, let's review the fields:
-
-* A `select_multiple` field is used to allow the user to choose multiple options for "panel_selections".
-* A `select_one` field, "accessibility_needs", will allow the user to select only one option.
-* A date field is used for "date" which will accept a date value.
-* A time field is used for "time" which will accept a time value.
-* "note" is used for any additional information.
-</thinking>
-
 # Cultural Conference Panel Booking Form - Help Guide
 ## Purpose
 The Cultural Conference Panel Booking Form is designed to gather essential details from attendees, including their selections and accessibility needs, to ensure a smooth and enjoyable experience at the cultural conference.

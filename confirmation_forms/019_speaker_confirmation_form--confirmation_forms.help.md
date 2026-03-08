@@ -1,10 +1,3 @@
-<thinking>
-**Purpose of this Form**: 
-The Speaker Confirmation Form is designed to confirm the speaker's participation in an event, gather their information, and get their travel and lodging arrangements. 
-This form should be filled out to avoid last-minute cancellations or no-shows that may affect event planning and organization. 
-Please note that each speaker must fill out this form only once per event, so if you've already filled it out, you might not need to do it again.
-</thinking>
-
 # Speaker Confirmation Form - Help Guide
 ## Purpose
 The Speaker Confirmation Form is designed to collect information from speakers to confirm their participation in an event.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their divorce coaching needs. It's meant to be a comprehensive intake form that covers various aspects of the client's situation, including their background, financial status, and preferences. This form should be filled out by clients who are seeking divorce coaching services, and the data collected will be used to tailor the coaching process to their specific needs.
-
-Before proceeding, please ensure that you have not filled out this form previously. If you have, please review your previous answers to ensure that they are up-to-date and accurate.
-
-This guide will walk you through each section of the form and explain what information is being collected and why it's important.
-
-</thinking>
-
 # divorce_coaching_client_intake_form - Help Guide
 ## Purpose
 

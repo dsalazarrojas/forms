@@ -1,7 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a facility's general control systems, including its type, location, and status. This form is designed to be completed by facility staff or operators, who will be asked to provide details about the facility's control systems, such as their type, status, and any follow-up dates and times. The form is intended to help facility management or maintenance teams assess and maintain control systems effectively. It is also important to note that this form should not be used for emergency situations or critical control system repairs. If you are unsure about the purpose or requirements of this form, please check with your facility manager or supervisor for further guidance.</thinking>
-
 # General Control Checklist Form - Help Guide
 ## Purpose
 The General Control Checklist Form is a tool used to gather information about a facility's general control systems.

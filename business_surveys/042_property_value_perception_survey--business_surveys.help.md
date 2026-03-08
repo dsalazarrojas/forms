@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the perception of a specific geographic area, likely a property or neighborhood. The form aims to understand how frequently users visit the area, their opinion on the quality of local public transportation, and their preferences regarding amenities and features. The questions cover various aspects such as safety, quality of amenities, and availability of parking. This form is likely used for real estate or property management purposes to gauge user sentiment and opinions on the area's attractiveness and livability.
-
-This form has a set of multiple selection and rating questions, indicating that users are being asked to provide a subjective evaluation of the area based on their personal experiences and preferences. The questions cover both positive and negative aspects of the area, suggesting that the form is designed to gather a comprehensive understanding of the area's strengths and weaknesses.
-
-Before filling out this form, please note that it is a user-perceived survey, and responses are subjective. Please answer based on your personal experience and opinions.
-
-</thinking>
-
 # Property Value Perception Survey - Help Guide
 ## Purpose
 The Property Value Perception Survey is designed to gather feedback on the perception of a specific geographic area, focusing on the quality and features of the area.

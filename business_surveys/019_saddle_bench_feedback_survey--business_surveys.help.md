@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about their experience with the saddle bench. This feedback is used to improve the design and functionality of the saddle bench. Please make sure to provide honest and constructive feedback. You will not be able to submit the form without filling out the required fields. If you are unsure about any information, try to provide the best answer you can.
-</thinking>
-
 # Saddle Bench Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from users about their experience with the saddle bench. Your input will help us improve the design and functionality of the saddle bench.

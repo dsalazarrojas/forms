@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users efficiently set up their morning routine by collecting relevant information. The purpose of the form is to gather essential details for the user's morning routine, including their start time, task list, task status, and any issues or goals they need to tackle. This form aims to provide a structured approach to planning the user's day, making it easier to stay organized and productive. It's essential to complete this form accurately and honestly to ensure a smooth day ahead.
-</thinking>
-
 # Morning Setup Checklist - Help Guide
 ## Purpose
 The Morning Setup Checklist is a form designed to help users set up their morning routine effectively. It collects information about their start time, task list, task status, and any issues or goals they need to address during the day.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for obtaining the consent of parents or guardians for a child's participation in online learning activities. The purpose is to ensure that the parent or guardian is aware of and agrees to their child's online activities, which may include accessing the platform, using digital tools, and sharing personal data.
-Before completing this form, please ensure that you have the necessary permissions from the parent or guardian. This form should only be completed by authorized individuals, such as parents or guardians, and not by the child themselves.
-This form may be duplicated for multiple students, but ensure that each form is completed with the correct child's details.
-</thinking>
-
 # Online Learning Reflection Story Consent Form - Help Guide
 ## Purpose
 

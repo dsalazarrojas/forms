@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for creating a rent certificate, which is a document used to report the receipt of rent from a landlord for a specific period of time. The form requires user input for various fields, including tenant and landlord details, address, dates, and signatures. It's essential to ensure that the user completes the form accurately to avoid any discrepancies or errors in the rent certification process.
-
-</thinking>
-
 # rent_certificate_form - Help Guide
 ## Purpose
 The rent_certificate_form is a document used to report the receipt of rent from a landlord for a specific period of time. This form is typically used by landlords or their representatives to certify that they have received rent from a tenant.

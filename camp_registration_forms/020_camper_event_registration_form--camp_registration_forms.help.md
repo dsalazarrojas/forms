@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for campers who are registering for an event. The form is designed to collect camper information, parent or guardian information, event details, and camper preferences. It is essential to fill out the form accurately and completely to ensure a smooth registration process.
-</thinking>
-
 # Camper Event Registration Form - Help Guide
 ## Purpose
 The Camper Event Registration Form is a crucial document that requires campers to provide essential information about themselves, their parents or guardians, and the event they are registering for. This form helps us understand camper needs, preferences, and requirements to provide a safe and enjoyable experience for all participants.

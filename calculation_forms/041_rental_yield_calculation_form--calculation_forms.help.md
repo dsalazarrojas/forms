@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the Rental Yield Calculation Form. The form is designed to collect information from users to calculate rental yield, which is a key metric in the rental property management industry. The form's purpose is to gather data on the user's property, including its income and expenses, to provide an accurate calculation of the rental yield. Before proceeding, I will review the form schema to ensure that it is properly documented and that I can provide clear instructions to users on how to complete it. I will only include fields that are relevant and necessary for the calculation. I will also ensure that the explanations are concise and practical...</thinking>
-
 # Rental Yield Calculation Form - Help Guide
 ## Purpose
 The Rental Yield Calculation Form is designed to collect information from users to calculate rental yield, a key metric in the rental property management industry. This form will help you determine the profitability of your rental property by gathering data on its income and expenses.

@@ -1,28 +1,3 @@
-<thinking>
-This form is used to process the checkout process for a pest control service. The form collects information from the customer and service provider, including name, contact information, service details, payment information, and signatures. The form is designed to gather accurate and complete information for efficient processing and billing of the service.
-
-The form has been designed to collect the following information:
-
-* First name: This is the first name of the customer.
-* Last name: This is the last name of the customer.
-* Email: This is the email address of the customer.
-* Phone: This is the phone number of the customer.
-* Service Date: This is the date on which the service was performed.
-* Service Time: This is the time at which the service was performed.
-* Payment Method: This is the method used by the customer to make the payment (Credit, Debit, or Cash).
-* Service Provider: This is the name of the service provider, if applicable.
-* Notes: This is an optional field for additional notes.
-* Total Charge: This is the total charge for the service.
-* Payment Amount: This is the amount paid by the customer.
-* Balance: This is the remaining balance after the payment.
-* Payment Status: This is the status of the payment, whether paid or partial.
-* Customer Signature: This is a selection of the customer's signature.
-* Service Provider Signature: This is a selection of the service provider's signature.
-
-When completing this form, please ensure that all required fields are filled out accurately. The form will not proceed to the next step if any required fields are left blank. Please refer to the field-by-field explanations below for further guidance.
-
-</thinking>
-
 # pest_control_service_check_out_form - Help Guide
 ## Purpose
 

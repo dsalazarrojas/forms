@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first provide an internal reasoning block to clarify the form's purpose and ensure it's not duplicated.
-The "Mpox Checklist" form is designed to collect information related to Mpox, a highly infectious and sometimes deadly viral disease. The form aims to gather data on preparation, prevention, and response strategies for individuals, communities, or organizations affected by Mpox.
-</thinking>
-
 # Mpox Checklist - Help Guide
 ## Purpose
 The Mpox Checklist is a form designed to collect information on preparation, prevention, and response strategies for Mpox. This form will help collect valuable insights on how to effectively manage and mitigate the spread of Mpox.

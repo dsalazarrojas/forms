@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about individuals and their roles within an organization. It appears to be a part of a public strategy assessment, possibly for market research or customer feedback purposes. The form is divided into several sections, each with different types of fields such as text, email, select_multiple, and time. The form also allows for additional sections, labeled "First name 1", "Last name 1", "Email 1", etc., which may be used for multiple stakeholders within an organization. The required fields are "Role 1", "First name 1", "Last name 1", and "Role 2", indicating that these fields are crucial for the assessment. The form also includes a "Submit" field at the end, which may be used for final submission of the information collected.</thinking>
-
 # Public Strategy Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about individuals and their roles within an organization for public strategy assessment purposes.

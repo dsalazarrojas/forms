@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for requesting adjustments to the cost of distribution of goods to customers. It allows users to provide general information, customer details, order details, the type of adjustment, unit cost, total cost, justification, and other relevant information. The form is required for all fields except for the total cost, which is optional. The purpose of this form is to facilitate adjustments to the distribution cost in a structured and organized manner.
-
-</thinking>
-
 # Distribution Cost Adjustment Request Form - Help Guide
 ## Purpose
 The Distribution Cost Adjustment Request Form is designed to facilitate adjustments to the cost of distribution of goods to customers. This form gathers essential information about the request, including general information, customer details, order details, adjustment type, unit cost, and other relevant data.

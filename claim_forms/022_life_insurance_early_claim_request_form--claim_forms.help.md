@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Insurance Early Claim Request Form - Help Guide
 
 ## Purpose

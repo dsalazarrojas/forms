@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AED Inspection Checklist - Help Guide
 ## Purpose
 The AED Inspection Checklist is a form used to conduct regular inspections of Automated External Defibrillator (AED) devices. This form helps inspectors gather information about the device's condition, functionality, and compliance with safety standards.

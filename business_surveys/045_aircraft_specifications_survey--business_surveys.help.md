@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect detailed information about an aircraft's specifications and details for various business use cases. It will help to gather insights into aircraft characteristics, such as its registration, make, model, year of manufacture, and range, as well as its avionics, autopilot system, and other key features. The form is intended for use by aircraft owners, operators, or brokers to provide accurate and reliable information about their aircraft. It will help to ensure that the collected data is consistent and up-to-date, which is essential for insurance, sale, or fleet planning purposes. The form will not collect any sensitive or redundant information, and respondents will be required to complete it only once.
-
-</thinking>
-
 # Aircraft Specifications Survey - Help Guide
 ## Purpose
 This form is designed to gather detailed information about an aircraft's specifications and details for various business use cases, such as insurance, sale, or fleet planning. 

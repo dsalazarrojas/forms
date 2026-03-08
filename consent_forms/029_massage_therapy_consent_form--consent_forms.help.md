@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Massage Therapy Consent Form - Help Guide
 
 ## Purpose

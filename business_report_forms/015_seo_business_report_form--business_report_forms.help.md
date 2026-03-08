@@ -1,13 +1,4 @@
-# <thinking>...
-The purpose of this form, "seo_business_report_form", is to collect information about a website's SEO techniques, tools, and strategies. This form is likely used by business or marketing teams to document and analyze SEO efforts. 
-
-To complete this form, the user will be guided through a series of pages, each with specific fields to fill in. To ensure accurate and relevant data, it's essential to fill out each field accurately and thoroughly. 
-
-Before proceeding, ensure that all fields have been reviewed for relevance and that there isn't any duplicate information.
-
-...</thinking>
-
-# seo_business_report_form - Help Guide
+# # seo_business_report_form - Help Guide
 ## Purpose
 The SEO Business Report Form is a tool used by business or marketing teams to document and analyze SEO efforts.
 

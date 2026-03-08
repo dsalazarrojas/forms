@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gauge the confidence and expectations of business users in regards to a digital transition. The goal is to gather data on how they perceive their organization's ability to adapt to the change. This form will not be used to collect personally identifiable information. The data collected will be used by IT and business leadership to identify areas of improvement for future digital transformations.
-The form has 7 sections, with 1 being an introduction, and the rest varying in type between select_one, select_multiple, date, time, note, and email fields. The form's purpose and content will be reviewed and updated periodically to ensure relevance and accuracy.
-</thinking>
-
 # digital_transition_confidence_survey - Help Guide
 ## Purpose
 The digital transition confidence survey is a tool used to gauge the confidence and expectations of business users regarding a digital transition in your organization. The data collected from this form will be used by IT and business leadership to identify areas of improvement and inform future digital transformations.

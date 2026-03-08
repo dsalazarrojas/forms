@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Release Form - Help Guide
 ## Purpose
 The Vehicle Release Form is used to document vehicle releases and obtain information about the vehicle being released. This form is required for all vehicles being released from our inventory.

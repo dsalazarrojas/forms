@@ -1,7 +1,3 @@
-<thinking>
-The "Parental Consent And Waiver Form" is a critical document that serves as an agreement between the parent/guardian and the organization/program for a minor's participation in certain activities. It is essential for the organization/program to ensure that both the minor and their parent/guardian are aware of and agree to the terms and conditions of the activity. To complete this form accurately, ensure that you have read the provided information and understand its contents before signing.
-</thinking>
-
 # Parental Consent And Waiver Form - Help Guide
 
 ## Purpose

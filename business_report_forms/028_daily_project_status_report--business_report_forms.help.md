@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, the "Daily Project Status Report", is to collect data on the progress of ongoing projects within the organization. This form aims to gather relevant information on project status, challenges, milestones, and other key performance indicators. It is crucial to ensure that this information is accurate and up-to-date to facilitate effective project management and decision-making. This form should not be used for duplicate or redundant reporting, and users should only submit one report per project per day.
-</thinking>
-
 # Daily Project Status Report - Help Guide
 ## Purpose
 The Daily Project Status Report is a form used to collect project progress information on a daily basis. This report helps project managers and stakeholders track project status, identify areas of concern, and make informed decisions to drive project success.

@@ -1,8 +1,3 @@
-<thinking>
-The form "curbside_appointment_check_in" is used to check in patients for appointments. It is likely to be used in a medical or healthcare setting. This form is designed to collect the patient's personal details such as name, contact information, appointment date and time, and any additional notes. The form does not collect any sensitive or medical information. 
-Please note that this form is likely to be part of a larger system or workflow. The purpose of the form is to ensure accurate and efficient check-in of patients for their scheduled appointments. The form should not be used to create duplicate entries for the same patient, as this could lead to data inconsistencies and errors in the system.
-</thinking>
-
 # curbside_appointment_check_in - Help Guide
 ## Purpose
 This form is used to check in patients for their scheduled appointments. It collects the patient's name, contact information, appointment date and time, and any additional notes.

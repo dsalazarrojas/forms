@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect incident details from customers or staff members before investigating and resolving the complaint. The form should only be filled out for new incidents, and not for duplicate or resolved incidents. This ensures that all incidents are properly recorded and handled according to the company's incident management procedures. The goal is to gather accurate and complete information to facilitate a swift and effective resolution process.
-</thinking>
-
 # pre-complaint-intake-form - Help Guide
 ## Purpose
 This form is designed to collect incident details from customers or staff members to facilitate a swift and effective resolution process.

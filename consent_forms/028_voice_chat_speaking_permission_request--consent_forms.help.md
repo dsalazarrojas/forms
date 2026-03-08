@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voice Chat Speaking Permission Request - Help Guide
 ## Purpose
 This form is used to request permission to use Voice Chat speaking permissions. By filling out this form, you are providing information about your role, planned usage, and preferred time and frequency of access. This form helps us understand your needs and requirements for Voice Chat speaking permissions.

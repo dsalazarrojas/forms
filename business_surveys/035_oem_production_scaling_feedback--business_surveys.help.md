@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from OEM (Original Equipment Manufacturer) partners regarding their experience with production scaling, specifically on the challenges they face and their capacity and support needs. This information helps to better understand their pain points and optimize production processes for improved efficiency and quality.
-Before filling out this form, please make sure you have the necessary permissions and clearance to provide honest and accurate feedback.
-The following fields are required for the feedback, but it's essential to provide as much detail as possible to help us make data-driven decisions.</thinking>
-
 # oem_production_scaling_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from OEM partners on their experiences with production scaling, allowing us to gather insights and make data-driven decisions to improve efficiency and quality.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vision Statement Submission - Help Guide
 
 ## Purpose

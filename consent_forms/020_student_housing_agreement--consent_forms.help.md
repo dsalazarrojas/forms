@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a "Student Housing Agreement" form, likely used in educational institutions to gather information from students about their housing arrangements. Upon reviewing the form, I notice that it has three fields: "Student Details", "Housing Agreement Terms", and "Housing Provider Details". The form is likely used for administrative or compliance purposes, such as verifying students' housing arrangements or ensuring they have read and understood the terms of their housing agreements. To confirm, I will review the form's fields and provide a concise help guide for end-users.
-
-</thinking>
-
 # Student Housing Agreement - Help Guide
 ## Purpose
 The Student Housing Agreement form is used to gather information from students about their housing arrangements. This form helps the institution verify students' housing details and ensure they have read and understood the terms of their housing agreements.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess a company's business resilience, which is the ability to withstand and recover from disruptions, crises, or unexpected events. Business resilience is a critical aspect of a company's overall strategy, as it can help protect against financial losses, damage to reputation, and even business failure. A company with high business resilience is better equipped to deal with internal and external challenges, such as economic downturns, natural disasters, or supply chain disruptions. By completing this form, you will be able to assess your company's current level of business resilience and identify areas for improvement.
-
-Please note that this form is a self-assessment tool and should not be used as a definitive benchmark. The results should be taken as a starting point for further analysis and discussion within your organization.
-
-Before completing this form, please ensure that you are familiar with your company's current policies, procedures, and practices related to business continuity, risk management, and crisis management.
-
-Please complete this form with the most accurate and up-to-date information available to you.
-
-</thinking>
-
 # Business Resilience Assessment Survey - Help Guide
 ## Purpose
 The Business Resilience Assessment Survey is designed to assess your company's current level of business resilience. It consists of a series of questions that cover key areas of business resilience, including strategic resilience, operational resilience, financial resilience, and technology resilience.

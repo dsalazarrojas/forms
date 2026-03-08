@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information for hotel home insurance reimbursement claims. Before filling out this form, please ensure you've already submitted a claim with the insurance provider and are seeking reimbursement for expenses related to the loss. 
-
-This form is designed to be filled out by the claimant, providing necessary details about the claimant's information, the loss, and the insurance policy involved. It's essential to fill out the form accurately and thoroughly to ensure a smooth processing of the claim.
-
-To prevent duplication of effort, please note that this form is only for claimants who have already submitted a claim with the insurance provider. 
-</thinking>
-
 # home_insurance_hotel_reimbursement_claim_form - Help Guide
 ## Purpose
 The home insurance hotel reimbursement claim form is a document used to gather information from claimants who have experienced a loss and are seeking reimbursement for hotel expenses related to the loss. This form is intended to be completed by the claimant and submitted to the insurance company for processing.

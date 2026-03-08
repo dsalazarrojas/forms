@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Climate Risk Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your perception of climate-related risks in the real estate market. It will help us understand your level of concern, how often you experience climate-related risks, and what measures you take to mitigate them. This survey will aid in creating more targeted support and resources for your business.

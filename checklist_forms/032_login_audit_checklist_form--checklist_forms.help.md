@@ -1,7 +1,3 @@
-<thinking>
-The "login_audit_checklist_form" form is designed to collect information related to login security audits. The form has 25 fields across two pages. The fields can be grouped into several sections, including login form data, review of login controls, find and document, and find and track.
-</thinking>
-
 # login_audit_checklist_form - Help Guide
 ## Purpose
 This form is used to collect information and ensure that all necessary steps for conducting a login audit are properly covered and documented.

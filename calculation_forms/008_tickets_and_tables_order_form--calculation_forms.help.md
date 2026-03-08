@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to provide a clear and concise explanation of the Tickets And Tables Order Form, a form designed to gather information about tickets and tables ordered by customers. The purpose of this form is to collect relevant details such as ticket and table type, quantity, price, and other relevant information to facilitate the order process.
-
-**Internal reasoning:** Before creating this help guide, the form's structure and fields were reviewed to ensure they align with the form's intended purpose. The review process involved examining the form's schema, which indicates the form's layout and field types. Each field's label, type, and hint were analyzed to provide a clear and concise explanation of each field's purpose.
-
-</thinking>
-
 # Tickets And Tables Order Form - Help Guide
 ## Purpose
 

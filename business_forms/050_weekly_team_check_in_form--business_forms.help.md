@@ -1,16 +1,3 @@
-<thinking>
-This guide assumes that the form is used by team members to provide information about their progress, challenges, and next steps in a weekly check-in format.
-To ensure that end-users understand the form's purpose and are not duplicating information, please consider the following instructions:
-1.  The form is intended for weekly team check-ins, so users should only report on their progress for the past week.
-2.  When providing updates, users can select one or more options, depending on their relevance.
-3.  Users can select "Other" as an option if they have challenges or achievements not listed on the form.
-4.  The "Next Steps" field should only be used to plan upcoming actions or tasks.
-5.  Meeting notes should be kept brief and focused on key points discussed during the meeting.
-6.  The "Email" and "Phone" fields should only be used to provide contact information.
-7.  The "Assigned To" field should only be used to specify who the task is assigned to, if applicable.
-
-</thinking>
-
 # Weekly Team Check In Form - Help Guide
 ## Purpose
 This form is used for team members to provide a weekly update on their progress, challenges, and next steps.

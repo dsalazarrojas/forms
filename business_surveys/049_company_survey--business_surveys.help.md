@@ -1,11 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the Company Survey form to ensure that respondents understand its purpose, how to complete it, and the meaning of each field. This guide will be a crucial resource for respondents to help them navigate the form efficiently and effectively. Before we begin, let's consider the following:
-* This form is designed to gather feedback from respondents about their experience with the company.
-* The form is structured to collect information on respondent demographics, satisfaction, areas for improvement, strengths, and future plans.
-* We should avoid duplication of questions and ensure that the form is clear and concise.
-
-</thinking>
-
 # Company Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from respondents about their experience with the company. It will help us understand your satisfaction, areas for improvement, and future plans.

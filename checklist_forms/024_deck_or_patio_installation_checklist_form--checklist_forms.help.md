@@ -1,6 +1,3 @@
-<thinking>
-This form is used for deck and patio installation projects to collect and record various relevant details. The purpose of this form is to gather essential information about the project's contractor, including their license, experience, insurance coverage, and other important details. This form should not be used for general purposes, and its usage should be limited to specific deck and patio installation projects. It is crucial to fill out the form accurately and thoroughly to ensure that all necessary details are collected.
-</thinking>
 # Deck Or Patio Installation Checklist Form - Help Guide
 ## Purpose
 The Deck or Patio Installation Checklist Form is used to collect and record essential details for deck and patio installation projects. This form is designed to help contractors and project managers gather all necessary information in one place, ensuring that projects are completed efficiently and safely.

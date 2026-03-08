@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of the Christmas Card List Form, used for creating and managing a list of Christmas cards. The main goal of this form is to gather information about individuals to whom Christmas cards will be sent, including their name, address, and other relevant details. This form ensures that the correct information is collected and verified before sending the cards. The form has two sections: "Your Information" and "Recipient Information." Each section is designed to collect specific data that will be used to personalize and address the cards correctly. Please ensure that all required fields are completed accurately before submitting the form.
-</thinking>
-
 # Christmas Card List Form - Help Guide
 ## Purpose
 The Christmas Card List Form is a tool to create and manage a list of Christmas cards. This form gathers information about individuals to whom cards will be sent.

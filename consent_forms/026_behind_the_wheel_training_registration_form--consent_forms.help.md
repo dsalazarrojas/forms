@@ -1,5 +1,3 @@
-<thinking>Behind The Wheel Training Registration Form is used by new students to register for behind-the-wheel training with our driving school. This form is used to gather essential information about the student, including their personal details, driver's license status, driving experience, training preferences, and consents.</thinking>
-
 # Behind The Wheel Training Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from new students to register them for behind-the-wheel training with our driving school. 

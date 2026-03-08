@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect various information about a product, its store name, product name, product type, category, subcategory, brand name, condition, price, date, time, note, email, phone number, follow-up date, and follow-up time. The form aims to gather specific details about each product, providing the user with an efficient way to input data.
-
-To ensure relevance and non-duplication, it's essential to review the form fields carefully and only include them if necessary. A good understanding of the form's purpose will help you complete it accurately.
-
-</thinking>
 # product_display_checklist - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a product, including its store name, product name, type, category, subcategory, brand name, condition, price, date, time, note, email, phone number, follow-up date, and follow-up time. This information will help you provide accurate data for further processing.

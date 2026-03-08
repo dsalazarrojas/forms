@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for Field Directors to provide feedback and suggestions on the support they receive from the organization. The purpose of this form is to gather information on their satisfaction levels and any challenges they are facing, as well as any ideas they have for improvements. This form will help the organization understand the needs and concerns of their Field Directors and make informed decisions to address them.</thinking>
-
 # field_directors_feedback_survey - Help Guide
 ## Purpose
 The Field Directors Feedback Survey is a form designed to collect feedback from Field Directors on their overall satisfaction with the support they receive from the organization and any challenges they are facing.

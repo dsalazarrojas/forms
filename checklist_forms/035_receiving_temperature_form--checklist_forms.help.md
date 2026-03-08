@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about receiving temperature measurements. The purpose of this form is to gather critical data about the temperature readings from shipments or products as they arrive at the facility. It's essential to complete this form accurately to ensure proper handling and storage of received items. Please note that this form will not collect any redundant or unnecessary information, and users must ensure that each field is filled out only once and with the correct information.
-</thinking>
-
 # Receiving Temperature Form - Help Guide
 ## Purpose
 The Receiving Temperature Form is used to document and collect temperature readings from shipments or products received at our facility. This form ensures that accurate and up-to-date information is recorded, enabling us to track and manage received items effectively.

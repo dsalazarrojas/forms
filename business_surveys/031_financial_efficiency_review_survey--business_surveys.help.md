@@ -1,13 +1,3 @@
-<thinking>
-
-We are creating a user-facing help guide for the Financial Efficiency Review Survey form. This form is part of the "business_surveys" category and is used to gather feedback and scores from staff on the department's financial processes. The purpose of this form is to understand the financial efficiency of the department and identify areas for improvement.
-
-This form is intended to be completed by staff members, including financial managers, accountants, and other departmental employees. The feedback collected will be used to review and improve the department's financial processes, ensuring they are efficient and effective.
-
-Before proceeding, please make sure you have reviewed the form carefully and understand your role in completing it.
-
-</thinking>
-
 # Financial Efficiency Review Survey - Help Guide
 ## Purpose
 The Financial Efficiency Review Survey is designed to gather feedback and scores on the department's financial processes. This form is completed by staff members to provide an objective view of the current state of financial processes and suggest areas for improvement.

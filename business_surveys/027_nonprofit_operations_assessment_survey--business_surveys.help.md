@@ -1,5 +1,3 @@
-<thinking>...The Nonprofit Operations Assessment Survey is a tool designed to gather feedback from nonprofit organizations about their operational challenges, financial practices, and governance processes. This survey helps identify areas of improvement to optimize nonprofit operations and provide a more efficient and effective service delivery. Before proceeding, ensure this form has not been completed previously for the current organization. If it has, please contact your supervisor for further guidance...</thinking>
-
 # Nonprofit Operations Assessment Survey - Help Guide
 ## Purpose
 The Nonprofit Operations Assessment Survey is a tool designed to gather feedback from nonprofit organizations about their operational challenges, financial practices, and governance processes. This survey helps identify areas of improvement to optimize nonprofit operations and provide a more efficient and effective service delivery.

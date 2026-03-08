@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for the end user to understand the purpose and requirements of the Party Order Form. The form is designed to gather information about a party, including party details, guests, date, time, package details, services, location, and notes. The form will be used by the catering team to prepare for and execute the party.
-
-This guide will walk the user through the steps to complete the form accurately and efficiently.
-
-</thinking>
-
 # Party Order Form - Help Guide
 ## Purpose
 The Party Order Form is a form used to collect information about a party, including party details, guests, date, time, package details, services, location, and notes. This information will help the catering team prepare for and execute the party successfully.

@@ -1,7 +1,3 @@
-<thinking>
-The Delegate Application Form is designed to collect information from users about their interest in being a conference delegate. The form is meant to be completed by users who are interested in applying to be a delegate for a conference. The form will help to determine if the user is looking for delegates and if they have a clear description of the event. This form is not intended to be completed by users who are not interested in being a delegate or do not have a clear description of the event. Please make sure to only complete this form if you are a potential delegate and have a clear description of the event.
-</thinking>
-
 # Delegate Application Form - Help Guide
 
 ## Purpose

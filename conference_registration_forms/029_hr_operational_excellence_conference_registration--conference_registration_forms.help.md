@@ -1,5 +1,3 @@
-<thinking>This form was designed to collect information from individuals interested in attending the HR Operational Excellence Conference. The form is used for registration purposes, ensuring that attendees provide their personal details, participation preferences, and event-related information. The primary goal is to streamline the registration process and gather essential data for event organizers. Please ensure you have the necessary permissions and approvals to submit this form.</thinking>
-
 # HR Operational Excellence Conference Registration - Help Guide
 ## Purpose
 The HR Operational Excellence Conference Registration form is designed to collect information from attendees for the HR Operational Excellence Conference. This form is used to ensure that you provide the necessary details for event organizers to prepare for the conference.

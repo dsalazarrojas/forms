@@ -1,12 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Property Equipment Reliability Survey" form, which is part of the "business_surveys" category. This form is designed to gather information from users about the reliability and maintenance status of various property equipment. The form is likely used to track and evaluate the condition of equipment in a property, helping users to identify areas for improvement and ensure that maintenance schedules are up-to-date.
-
-The main purpose of this form is to collect data on equipment reliability, including its functionality, condition, maintenance schedule, and criticality. Users will be asked to provide information on whether the equipment is functioning normally, its age, purchase date, model, and maintenance history. This data will help users to identify potential issues and ensure that critical equipment is properly maintained.
-
-Please note that this form is likely to be completed by users with direct access to the property and equipment, such as facilities managers or maintenance personnel.
-
-</thinking>
-
 # Property Equipment Reliability Survey - Help Guide
 ## Purpose
 The Property Equipment Reliability Survey is designed to collect information on the condition and maintenance status of various property equipment. This form helps users to track and evaluate the reliability of equipment, identify areas for improvement, and ensure that maintenance schedules are up-to-date.

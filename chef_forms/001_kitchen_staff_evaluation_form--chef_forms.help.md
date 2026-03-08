@@ -1,5 +1,3 @@
-<thinking>...this form appears to be designed to capture feedback and assessments on the performance of kitchen staff members. The purpose is to provide a structured way to evaluate their work in the kitchen. The evaluation form is likely used to identify areas of improvement and strengths. The form fields appear to be standard and widely used in similar applications. I will make sure to explain each field accurately and concisely without inventing business logic. I will also follow the specified Markdown structure and guidelines for the help guide... </thinking>
-
 # kitchen_staff_evaluation_form - Help Guide
 ## Purpose
 The kitchen_staff_evaluation_form is designed to collect feedback and assessments on the performance of kitchen staff members. This form helps to identify areas of improvement and strengths in the kitchen staff.

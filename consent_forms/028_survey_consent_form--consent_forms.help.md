@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Survey Consent Form, used to gather information and consent from users before conducting a survey. The form is used to collect demographic data, consent status, and other details that are relevant to the survey.
 
 To complete the form, follow these steps:

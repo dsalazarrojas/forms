@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are interested in attending the Summer Dance Camp, a program that allows students to learn and improve their dance skills in a fun and engaging environment. The form will help to determine which students are eligible to attend the camp, and will be used to gather necessary information for the camp staff to prepare for the students' arrival. The form should only be filled out by students who have been accepted to attend the camp.
-
-To confirm, this form is intended for students who have already been accepted to attend the camp, and is not a form for initial registration or application. The purpose of this form is to gather more information from students about their preferences and details, which will be used to enhance their experience at the camp.
-</thinking>
-
 # Summer Dance Camp Application Form - Help Guide
 ## Purpose
 This form is intended for students who have already been accepted to attend the Summer Dance Camp. It is used to gather more information from students about their preferences and details, which will be used to enhance their experience at the camp.

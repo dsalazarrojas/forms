@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who need to request an equipment calibration appointment. The form is used to collect information about the equipment that needs to be calibrated, the preferred dates and times for the appointment, contact information, and other relevant details. The form is not for internal use only, but also for external users, such as customers or clients, who need to request a calibration appointment.
-This guide assumes that the user has a basic understanding of what equipment calibration is and why it's necessary. If you're not sure, please refer to our calibration policy document for more information.
-This form is not intended to be completed if you're looking for general information about our calibration services or if you're trying to book a non-calibration related appointment. Please use our other forms for those purposes.
-</thinking>
-
 # Equipment Calibration Appointment Request - Help Guide
 ## Purpose
 The Equipment Calibration Appointment Request form is used to schedule a calibration appointment for your equipment. Please fill out this form with the necessary information to ensure a smooth and efficient calibration process.

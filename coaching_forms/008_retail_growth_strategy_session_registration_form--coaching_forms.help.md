@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from retail businesses about their current challenges and goals for growth. The purpose of this form is to gather data that can be used to provide tailored coaching and guidance for retail businesses on their growth strategy sessions. By using this form, retail businesses can provide detailed information about their session preferences, schedule, and data collection needs, as well as any leads or outcomes they are looking to achieve. This form is intended to be used by retail businesses to register for a coaching session, and by filling out this form, they can ensure they are well-prepared for the session and that their needs are met.
-
-Before filling out this form, please ensure that you have not registered for a similar session in the past and that your current registration is not duplicate.
-
-</thinking>
-
 # Retail Growth Strategy Session Registration Form - Help Guide
 ## Purpose
 This form is designed to help retail businesses register for a coaching session to discuss their growth strategy and receive personalized guidance and support.

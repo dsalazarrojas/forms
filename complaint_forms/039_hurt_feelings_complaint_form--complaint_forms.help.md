@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees, customers, or other stakeholders to report instances of hurt feelings, which can be caused by various factors such as workplace conflicts, misunderstandings, or other personal issues. To ensure accuracy and fairness, please complete this form only once a complaint has been made, and not in response to an existing complaint or issue that has already been resolved. The form's fields are designed to gather essential information to understand the complaint and address it effectively.
-</thinking>
-
 # Hurt Feelings Complaint Form - Help Guide
 ## Purpose
 The Hurt Feelings Complaint Form is a tool for reporting instances of hurt feelings caused by workplace conflicts, misunderstandings, or other personal issues. It helps our team understand the complaint and address it fairly and effectively.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to guide users in following a structured protocol for interventions, capturing critical information such as dates, times, teams involved, and personal details of those involved. It ensures that all necessary data is collected to document the intervention process effectively.
-
-The form is designed to be a comprehensive checklist, guiding users through each step of the intervention process. It collects information on the date of the intervention, start and end times, team members involved, personal details of those affected, and other relevant notes.
-
-Please note that some fields are optional, but it is recommended to fill them out whenever possible to provide a clear and comprehensive record of the intervention process.
-
-</thinking>
-
 # Intervention Protocol Checklist - Help Guide
 ## Purpose
 

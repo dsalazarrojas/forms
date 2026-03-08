@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gauge the sentiment of users towards a nonprofit ad. The purpose of the form is to collect feedback on how effective the ad is in conveying the message, how engaging the visuals are, and the presence of the nonprofit on social media platforms. The form should be filled out to provide a comprehensive understanding of the public's perception of the ad and the nonprofit. The form's questions are designed to be concise and easy to understand. Please ensure that the form is filled out carefully to provide accurate and relevant feedback.</thinking>
-
 # Nonprofit Ad Sentiment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the nonprofit ad's effectiveness and public perception. Your input will help us understand how well the ad conveys the message and how engaging it is.

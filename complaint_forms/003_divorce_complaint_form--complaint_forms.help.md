@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a divorce complaint. The purpose of this form is to gather details about the reason for divorce, separation, and other relevant factors. This form is intended to be used by individuals who are going through a divorce process and need to provide information about their situation.
-
-Before completing this form, please ensure that you have a genuine reason for divorce and that you are not simply duplicating information that already exists. This form is meant to assist in the divorce process, and any unnecessary information provided may lead to delays or complications in processing.
-
-When filling out this form, please answer every question as accurately and thoroughly as possible. Inconsistencies or inaccuracies in the information provided can lead to issues with the divorce process.
-
-</thinking>
 # divorce_complaint_form - Help Guide
 ## Purpose
 The divorce complaint form is designed to gather information about a divorce complaint. This form is intended to be used by individuals who are going through a divorce process and need to provide details about their situation.

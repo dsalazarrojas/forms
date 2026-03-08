@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # get_the_square_root_of_12_with_sqrt1_2 - Help Guide
 ## Purpose
 This form is designed to calculate the square root of 12. It is meant for testing purposes and is not intended for production use.

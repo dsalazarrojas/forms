@@ -1,7 +1,3 @@
-<thinking>
-The Camp Registration Invoice form is a crucial document used to track and record financial transactions and billing information for camps. This form is designed to ensure accurate and organized financial management. To avoid any potential issues with duplicate invoicing, please make sure that the invoice number is unique and not previously used. This form is meant for internal use within the organization, so please do not share it with external parties without proper authorization.
-</thinking>
-
 # Camp Registration Invoice - Help Guide
 ## Purpose
 The Camp Registration Invoice form is a document used to record and track financial transactions and billing information for camps. It ensures accurate and organized financial management within the organization.

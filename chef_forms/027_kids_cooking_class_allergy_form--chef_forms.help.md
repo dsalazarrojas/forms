@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # kids_cooking_class_allergy_form - Help Guide
 ## Purpose
 This form is designed to help us better understand the dietary needs of children attending the cooking class. It collects information on the child's first name, last name, date of birth, food allergies, and any medical conditions they may have. Please note that this form is required for registration, and it is intended to be filled out by a parent or guardian on behalf of the child.

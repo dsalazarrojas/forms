@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about patient samples, specifically their type, collection method, and storage conditions. This form is likely used in a medical setting, such as a laboratory or research facility, to manage and track patient samples. The form asks for details about the patient, the sample type, and the conditions under which the sample was collected and stored.
-</thinking>
-
 # Patient Samples Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information about patient samples, including their type, collection method, and storage conditions. This helps in maintaining accurate records and ensuring proper handling and storage of patient samples.

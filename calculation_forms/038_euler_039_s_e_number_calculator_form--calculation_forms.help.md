@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # eulers_e_number_calculator_form - Help Guide
 ## Purpose
 The eulers_e_number_calculator_form is designed to calculate and display the result of the formula for Euler's number, which is a mathematical constant approximately equal to 2.71828. This form is intended to be used for educational or testing purposes.

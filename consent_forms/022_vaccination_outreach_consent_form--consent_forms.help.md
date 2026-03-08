@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients who are being approached for vaccination outreach activities. The purpose of this form is to collect patient contact information, consent for vaccination, and other relevant details. Please ensure that you only complete this form for patients who are being targeted for vaccination outreach and that the information is not already available in the patient's medical record.
-</thinking>
-
 # Vaccination Outreach Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for vaccination outreach activities. It collects patient contact information, vaccination type, and other relevant details.

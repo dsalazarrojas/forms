@@ -1,5 +1,3 @@
-<thinking>This form, "Babysitter Information Form," is designed to collect essential information from caregivers who provide care services to children. This form is meant to be used by parents or guardians who are looking for a babysitter to care for their children. The form aims to gather detailed information about the caregiver's personal details, experience, and qualifications. It also requires references and background checks to ensure the caregiver's credibility and reliability.</thinking>
-
 # Babysitter Information Form - Help Guide
 ## Purpose
 The Babysitter Information Form is a tool used by parents or guardians to gather essential information about potential caregivers for their children. The form helps to ensure that the caregiver has the necessary qualifications, experience, and references to provide quality care for the children.

@@ -1,6 +1,3 @@
-<thinking>
-To be clear, this form is for users to provide consent for sharing cost allocation data. It's a standard process in our organization to ensure that all stakeholders are aware and agreeable to sharing sensitive information. This form is likely to be used by multiple teams within the organization, and it's essential to fill it out accurately and completely to avoid any potential issues. Please make sure you're filling out the correct version of the form and not duplicating efforts.</thinking>
-
 # Cost Allocation Sharing Consent Form - Help Guide
 ## Purpose
 The "Cost Allocation Sharing Consent Form" is a document used to obtain consent for sharing cost allocation data within the organization. This form is a crucial step in the process of ensuring that all stakeholders are aware and in agreement to share sensitive information.

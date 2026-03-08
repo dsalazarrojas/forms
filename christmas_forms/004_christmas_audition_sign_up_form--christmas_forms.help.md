@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Audition Sign Up Form - Help Guide
 
 ## Purpose

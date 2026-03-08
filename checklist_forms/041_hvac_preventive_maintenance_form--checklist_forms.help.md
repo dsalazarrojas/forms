@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information for preventive maintenance purposes. It is intended for systems and equipment that require regular checks to prevent downtime and ensure optimal functionality.
-
-Before filling out this form, please ensure you are not duplicating efforts by checking the system's maintenance history. This form is meant for new or pending maintenance activities.
-
-To determine if this form is relevant, refer to the organization's maintenance schedule and policies.
-
-</thinking>
-
 # hvac_preventive_maintenance_form - Help Guide
 ## Purpose
 This form is used to record and document information for preventive maintenance activities for HVAC systems and equipment. It helps maintain accurate records, track progress, and ensure that scheduled maintenance is performed on time.

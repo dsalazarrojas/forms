@@ -1,5 +1,3 @@
-<thinking>As a business owner, you are required to file annual reports with the relevant authorities. This form is designed to gather the necessary information for the annual report filing process. Please ensure that you have all the required documents and information ready before proceeding. If you are unsure about any of the fields, please contact our support team for guidance. Note that this form is for general use and may not be applicable to all businesses or situations. It is your responsibility to ensure that the information provided is accurate and complete.</thinking>
-
 # Annual Business Report Filing Intake Form - Help Guide
 
 ## Purpose

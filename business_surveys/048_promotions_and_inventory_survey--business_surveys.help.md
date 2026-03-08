@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about promotions and inventory surveys. It appears that this form is a generic template with multiple pages of text fields, each with a unique label and hint. However, the labels and hints are not very descriptive, and it's not clear what kind of information this form is intended to collect. To confirm the purpose and intended use of this form, I will make an educated guess based on the industry/category "business_surveys" and "promotions-and-inventory-survey". I'm assuming this form is meant to collect data related to promotions and inventory management in a business setting. I will provide a help guide that explains the form's purpose and fields in a way that is concrete, concise, and practical.
-
-</thinking>
-
 # promotions-and-inventory-survey - Help Guide
 ## Purpose
 This form is designed to collect data about promotions and inventory management in a business setting. It may be used to gather information about current promotions, inventory levels, sales performance, and other related business metrics.

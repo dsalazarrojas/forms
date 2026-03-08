@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a clear and concise user-facing help guide for the "Business Plan Checklist Form". This form is designed to help businesses create a comprehensive business plan by collecting information on various aspects of their operations, including business information, executive summary, market analysis, operations plan, management and organization, financial projections, and funding request. The form is structured into sections, with each section guiding the user through the process of filling out the form. Here's the help guide for the form:</thinking>
-
 # Business Plan Checklist Form - Help Guide
 ## Purpose
 The Business Plan Checklist Form is a comprehensive template designed to help businesses create a thorough business plan that covers all essential aspects of their operations. By completing this form, businesses can ensure they have a clear and well-structured plan in place, making it easier to attract investors, partners, or secure funding.

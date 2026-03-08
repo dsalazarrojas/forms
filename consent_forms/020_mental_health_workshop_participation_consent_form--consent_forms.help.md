@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_workshop_participation_consent_form - Help Guide
 ## Purpose
 This form is intended to gather information from participants for the mental health workshop. This includes details about the workshop such as the name, description, date, and time, as well as information about the participant, like their name, phone number, and email. The form also includes an agreement section where participants must select whether they understand and agree to the terms and conditions.

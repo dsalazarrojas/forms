@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the trailer breakdown process. This process involves collecting details about the trailer, its driver, and any safety protocols or witness information that may be relevant. The form is meant to be a helpful tool for gathering all necessary information to ensure a thorough breakdown process. This form is likely used in the context of logistics or transportation industries.
-
-</thinking>
-
 # Trailer Breakdown Process Checklist - Help Guide
 ## Purpose
 This form is designed to collect information for the trailer breakdown process, helping to gather all necessary details for a thorough breakdown process in the logistics or transportation industries.

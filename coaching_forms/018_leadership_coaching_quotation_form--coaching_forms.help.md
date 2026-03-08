@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be for collecting leadership coaching quotation information. It's likely used by coaches or management teams to record and document quotations from clients, such as service quotations or price quotations. It's designed to capture various details like quotation request, details, date, time, service, amount, currency, and other relevant information.
-
-Before proceeding, we must verify that this form doesn't already exist and isn't duplicating any other form with similar purposes.
-
-</thinking>
-
 # Leadership Coaching Quotation Form - Help Guide
 ## Purpose
 The Leadership Coaching Quotation Form is a tool used to collect detailed information about quotations for leadership coaching services or other business quotations. This form will help you document and track essential details related to quotations, ensuring accurate and efficient processing.

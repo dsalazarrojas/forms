@@ -1,23 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Global Pandemic Preparedness Forum Registration Form", we need to clarify the purpose and fields of the form. This form is designed to gather information from individuals registering for a conference on pandemic preparedness, likely to prepare for and respond to global health crises. The purpose of this form is to collect contact information, medical conditions, and logistical details of attendees. The internal reasoning block checks that the form's purpose and design are clear and consistent with the provided YAML fields. 
-
-The form consists of the following fields:
-
-- **Form Information** (ID: 1): This field is a text entry for general information about the attendee.
-- **Emergency Contact** (ID: 2): This field is a text entry for the name and contact information of an emergency contact person.
-- **Emergency Contact Type** (ID: 3): This field is a dropdown select for the relation between the attendee and the emergency contact person.
-- **Emergency Contact Relationship** (ID: 4): This field is a dropdown select for the specific relationship between the attendee and the emergency contact person.
-- **Medical Condition** (ID: 5): This field is a dropdown select for whether the attendee has any medical conditions.
-- **Medical Condition Information** (ID: 6): This field is a text entry for additional information about the attendee's medical condition.
-- **Medical Condition Details** (ID: 7): This field is a text entry for further details about the attendee's medical condition.
-- **Travel Arrangements** (ID: 8): This field is a text entry for information about the attendee's travel plans.
-- **Accommodation Information** (ID: 9): This field is a text entry for information about the attendee's accommodation.
-- **Accommodation Type** (ID: 10): This field is a dropdown select for the type of accommodation the attendee will use.
-- **Transportation** (ID: 11): This field is a text entry for information about the attendee's transportation.
-
-</thinking>
-
 # Global Pandemic Preparedness Forum Registration Form - Help Guide
 ## Purpose
 

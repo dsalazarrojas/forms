@@ -1,7 +1,3 @@
-<thinking>... This form is designed to gather information for coaching sessions between a coach and a client. It is crucial to ensure that both parties are on the same page regarding the coaching process, objectives, and expectations. This form helps establish clear agreements and boundaries for the coaching relationship. The coach and client can use the form to ensure a productive and effective coaching experience...
-
-... </thinking>
-
 # Coaching Session Agreement Form - Help Guide
 ## Purpose
 This form is designed to establish a mutual understanding between the coach and client regarding the coaching relationship, objectives, and expectations. It ensures both parties are clear on the coaching process, duration, format, and financial terms.

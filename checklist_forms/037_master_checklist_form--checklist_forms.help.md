@@ -1,9 +1,3 @@
-<thinking>
-I'm assuming this form is for creating a master checklist, which is a document or list used for tracking progress and tasks in a project or workflow. I'll need to review the form fields to ensure it doesn't have any redundant or duplicate fields. Let me analyze the form... The form has fields for workflow, priority, progress, task, due date, due time, assigned to, priority date, priority time, and notes. I'll make sure to explain each field in the context of the form's purpose.
-
-After analyzing the form, I'll create the help guide as requested. Let's get started!
-</thinking>
-
 # Master Checklist Form - Help Guide
 ## Purpose
 The Master Checklist Form is a tool for creating and tracking master checklists for projects or workflows. It helps to track progress and assign tasks and deadlines.

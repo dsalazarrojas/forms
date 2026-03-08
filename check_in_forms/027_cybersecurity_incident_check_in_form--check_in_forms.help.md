@@ -1,9 +1,3 @@
-<thinking>
-This form is used to check in cybersecurity incidents reported to the organization. This form ensures that the incidents are properly documented and tracked for further investigation and resolution. It's essential to fill out this form accurately and completely to ensure that the incident is properly processed and addressed. 
-
-Before filling out this form, please note that the following fields are required to be filled out in order for the form to be submitted. Fields that are marked as 'required' will not allow you to submit the form until they are filled out.
-</thinking>
-
 # Cybersecurity Incident Check In Form - Help Guide
 ## Purpose
 This form is used to check in cybersecurity incidents reported to the organization.

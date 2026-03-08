@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about participants in events. It's essential to complete this form accurately and thoroughly to ensure that the collected data is useful and reliable. Please note that you should not submit duplicate forms, as this might cause errors in the system. This form is typically used for events that occur within an organization, but it's not exclusive to internal events. The form collects information about the participant and the event, which helps to document and track the event.
-
-</thinking>
-
 # pop_up_event_declaration_form - Help Guide
 ## Purpose
 The pop-up_event_declaration_form is a form designed to collect information about participants in events. It gathers details about the participant, including their contact information and event details.

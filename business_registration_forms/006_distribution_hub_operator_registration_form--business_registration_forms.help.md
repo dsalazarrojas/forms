@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from potential "Distribution Hub Operators" or "Service Providers" who wish to be registered on the Distribution Hub. The purpose of this form is to gather essential details about the business, such as their name, address, contact information, and other relevant business data. By filling out this form, the user will be able to:
-
-* Provide accurate and up-to-date information about their business.
-* Ensure that their business is correctly registered on the Distribution Hub.
-* Access benefits and services offered by the Distribution Hub.
-
-To avoid duplication, please ensure that you are not submitting a duplicate registration. If you have already registered your business on the Distribution Hub, please do not submit this form again.
-
-</thinking>
-
 # Distribution Hub Operator Registration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-Form purpose and relevance: This form is intended for customers to describe a problem they've encountered, providing a brief but clear explanation of its purpose. It's a generic form for gathering feedback and complaints, allowing customers to categorize their issue (e.g., error, mistake, issue, problem, question, or concern) and describe their experience (with optional text entry). Non-duplication of business logic: This form doesn't assume any specific business logic or context, so it's suitable for a wide range of applications. However, the field names and labels might need to be adapted to fit your specific use case. The form's simplicity and flexibility make it a good starting point for creating custom forms for various use cases.
-</thinking>
-
 # Funny Complaint Form - Help Guide
 ## Purpose
 The Funny Complaint Form is designed to gather feedback and complaints from customers, allowing them to describe a problem they've encountered.

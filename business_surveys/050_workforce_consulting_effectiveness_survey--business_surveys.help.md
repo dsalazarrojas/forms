@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to gather feedback on the effectiveness of the workforce consulting team. The purpose of the form is to help understand how well the team has managed to engage with the client, meet their needs, and provide value to their business.
-To avoid any confusion, it's essential to fill out this form only if you have had direct interactions with the team. Please ensure that you're answering based on your own experiences and not sharing someone else's opinions.
-The form is designed to be as straightforward and concise as possible, with fields that require minimal effort to fill out. If you're unsure about any field, feel free to reach out to the team for assistance.
-</thinking>
-
 # Workforce Consulting Effectiveness Survey - Help Guide
 ## Purpose
 

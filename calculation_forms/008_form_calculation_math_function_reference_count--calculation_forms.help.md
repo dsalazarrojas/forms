@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for calculating and referencing math functions, possibly for mathematical modeling or calculations. It includes a range of input fields for different types of data, from single and multiple selection inputs to date and time entries, integers, decimals, emails, phone numbers, text inputs, and text areas. The form is not strictly required, as most fields are marked as optional.
-</thinking>
-
 # form_calculation_math_function_reference_count - Help Guide
 ## Purpose
 This form is designed to collect data for mathematical calculations and referencing math functions. It includes input fields for various types of data, such as selection inputs, date and time entries, numbers, and text fields.

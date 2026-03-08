@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to request Global Importer Of Record (GIR) services for a company's products. This form is used to collect information about the company, its contact person, and details about the shipment, including product description, weight, and value. The form also includes fields for agreement on terms and conditions and shipment terms. The goal of this form is to ensure that all necessary information is collected and agreed upon before proceeding with the shipment. This form should only be filled out by authorized representatives of the company being shipped, or by a trusted partner or representative with knowledge about the shipment details. Please ensure that the information provided is accurate and up-to-date, as it will be used for the purpose of processing the shipment.</thinking>
-
 # Global Importer Of Record Services Request - Help Guide
 
 ## Purpose

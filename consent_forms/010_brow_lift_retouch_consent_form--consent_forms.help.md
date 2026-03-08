@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for clients who have had a previous brow lift procedure and are seeking retouch service. The purpose of this form is to gather necessary information about the client, including their contact details, medical history, and consent to proceed with the retouch procedure. The form will help the medical professionals to assess the client's condition and provide the necessary care. Please ensure that the form is completed accurately and thoroughly.
-</thinking>
-
 # Brow Lift Retouch Consent Form - Help Guide
 ## Purpose
 This form is designed to provide essential information about the client's medical history, consent, and contact details for the brow lift retouch procedure.

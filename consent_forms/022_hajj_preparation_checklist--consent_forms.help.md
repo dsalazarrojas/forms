@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for a form that captures essential information for Hajj preparations. The form, titled "Hajj Preparation Checklist", is used to gather crucial details from pilgrims and their group leaders. The fields in this form help ensure a smooth and safe experience for Hajj travelers. By filling out this form, pilgrims can provide essential information about their travel plans, medical conditions, accommodations, and more. This guide will walk you through each field of the form to make it easier to understand and complete.
-</thinking>
-
 # Hajj Preparation Checklist - Help Guide
 ## Purpose
 This form is used to collect necessary information from pilgrims and their group leaders to prepare for a safe and successful Hajj experience.

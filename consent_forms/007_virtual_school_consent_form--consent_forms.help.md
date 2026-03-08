@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect virtual school consent from parents and students. It is intended to be used by educational institutions or organizations to gather information and consent for their virtual school programs. This form is an original creation and does not copy or extract content from any other form platform. Please review the form carefully to ensure it meets your needs and is not a duplicate of any existing form.
-</thinking>
-
 # Virtual School Consent Form - Help Guide
 ## Purpose
 The Virtual School Consent Form is a document that requires parental and student consent for participation in virtual school programs. It gathers essential information from parents and students, including their personal details, consent status, and contact information.

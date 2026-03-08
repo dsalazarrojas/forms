@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Pro Bono Agent Feedback Form is to gather feedback from clients about their experience with a Pro Bono program. This form is designed to help the Pro Bono team understand the effectiveness of their services, identify areas of improvement, and make data-driven decisions for future development.
-
-This form is used to collect subjective feedback from clients, which may not be suitable for all use cases. It's essential to review the form's purpose and content before using it to ensure it aligns with your specific needs.
-
-The form is divided into multiple pages, each with different types of questions. It's crucial to ensure that each question is relevant and necessary for the intended use case.
-
-</thinking>
-
 # Pro Bono Agent Feedback Form - Help Guide
 ## Purpose
 The Pro Bono Agent Feedback Form is a tool used to gather feedback from clients about their experience with a Pro Bono program. This feedback will help the Pro Bono team understand the effectiveness of their services and identify areas for improvement.

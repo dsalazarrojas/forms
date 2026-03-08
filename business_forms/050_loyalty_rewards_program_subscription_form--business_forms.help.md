@@ -1,7 +1,3 @@
-<thinking>
-The form is used for customers to subscribe to the loyalty rewards program. Before proceeding, please ensure that this form is not already filled out for the customer. If you're filling this form for a new customer, make sure they are not already a member of the loyalty program. 
-</thinking>
-
 # Loyalty Rewards Program Subscription Form - Help Guide
 ## Purpose
 

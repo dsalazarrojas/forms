@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information related to a fire damage claim. It appears to be used in an insurance context, likely for a claims adjuster or processor to gather data from a claimant. The form is designed to collect various details such as the claimant's information, insurance provider details, incident information, and claim status. However, I will need to review the form fields to ensure I can create a comprehensive help guide without duplicating or contradicting any internal information.
-</thinking>
-
 # fire_damage_claim_form - Help Guide
 ## Purpose
 The fire damage claim form is used to collect information related to a fire damage claim from a claimant.

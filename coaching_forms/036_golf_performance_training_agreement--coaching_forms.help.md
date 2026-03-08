@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for coaching performance training programs. 
-It appears to be used for client and coaching staff information, program details, and terms of service. 
-Please ensure that the form is not duplicated or filled out incorrectly. 
-Please fill out this form completely and accurately.
-</thinking>
-
 # golf_performance_training_agreement - Help Guide
 
 ## Purpose

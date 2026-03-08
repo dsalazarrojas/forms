@@ -1,7 +1,3 @@
-<thinking>
-This guide should help end-users understand how to fill out the registration form for the swim camp. This form is for registering swimmers for a swim camp event. It is not intended for other purposes and should not be used for other reasons. 
-</thinking>
-
 # Swim Camp Registration Form - Help Guide
 ## Purpose
 The swim camp registration form is used to register swimmers for the swim camp event. This form is required for registration and should be filled out completely and accurately.

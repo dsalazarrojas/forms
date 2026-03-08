@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the quality assurance onboarding checklist for new hires, aiming to ensure a smooth transition into the organization. This form is intended for employees who are about to start their onboarding process. To avoid duplication, this form should not be filled out by someone who has already completed their onboarding process.
-
-</thinking>
 # quality_assurance_onboarding_checklist - Help Guide
 
 ## Purpose

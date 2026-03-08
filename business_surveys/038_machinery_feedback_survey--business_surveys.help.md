@@ -1,8 +1,3 @@
-<thinking>
-To create this user-facing help guide, I'll review the provided YAML fields and create a concise and practical explanation to guide end-users in completing the Machinery Feedback Survey form. This form aims to collect feedback from users about different machines they operate, which helps improve their performance and overall user experience. To achieve this, we'll cover the form's purpose, how to complete it, and a field-by-field explanation for each field.
-
-</thinking>
-
 # Machinery Feedback Survey - Help Guide
 
 ## Purpose

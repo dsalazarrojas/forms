@@ -1,13 +1,3 @@
-<thinking>
-This form is used for the enrollment of children in the summer camp. 
-The form is divided into sections. 
-- First, fill in the form title which will be used to identify the form.
-- Next, fill in the required information of the parent or guardian, this includes their first name, last name, child first name, and child last name, the date of birth of the child and emergency contact information such as emergency contact first name, last name, relationship, and phone number.
-- Then, fill in medical conditions, medical history, allergies, medical history and medications.
-- After filling the form title and parent information, you need to sign the form as the parent. 
-- Finally, confirm the emergency contact and sign the form again.
-</thinking>
-
 # Summer Camp Enrollment Form - Help Guide
 ## Purpose
 This form is used for the enrollment of children in the summer camp.

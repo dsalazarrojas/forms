@@ -1,7 +1,4 @@
-> <thinking>... This form is designed to measure employee satisfaction with various aspects of their compensation and benefits. It will ask you to rate your satisfaction levels with different components of your compensation package, such as base salary, performance bonus, equity compensation, and health benefits. Additionally, you will be asked to identify the top driver of your satisfaction and the biggest area where you would like to see improvement. The purpose of this survey is to help us understand what factors most influence your satisfaction and to identify areas for improvement.
-... </thinking>
-
-# Compensation Satisfaction Drivers Survey - Help Guide
+> # Compensation Satisfaction Drivers Survey - Help Guide
 
 ## Purpose
 This survey is designed to measure employee satisfaction with various aspects of their compensation and benefits.

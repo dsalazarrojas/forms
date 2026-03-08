@@ -1,7 +1,3 @@
-<thinking>
-The Property Claim Discharge Form is used to document the discharge of a property claim, ensuring that all parties involved are aware of the outcome. Before proceeding, ensure that the form has not already been completed by checking the claim status in the claims database or by inquiring with the claims department.
-</thinking>
-
 # Property Claim Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of a property claim, which is a process that signifies the resolution of a claim, typically after an adjuster has reviewed and approved the claim.

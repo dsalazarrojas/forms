@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have experienced mismanagement issues with charity events. The purpose of the form is to gather specific details about the event and the complainant's experiences, which will help investigate and address the issue effectively. To ensure the accuracy and effectiveness of the process, please review the form carefully and provide as much detail as possible. This form will be reviewed and responded to in a timely manner.
-</thinking>
-
 # Charity Event Mismanagement Complaint Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who have experienced mismanagement issues with charity events. The purpose of the form is to collect specific details about the event and the complainant's experiences.

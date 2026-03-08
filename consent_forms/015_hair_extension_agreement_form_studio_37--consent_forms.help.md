@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to be used by customers of Studio 37 for agreeing to the terms and conditions of the hair extension service they are about to receive. This form helps to clarify the details of the service, including client and service details, pricing, payment terms, and cancellation policies. The form is meant to be filled out by the client before commencing the service to ensure a clear understanding of the agreement between the client and Studio 37. 
-This form is a simple text-based form with no conditional logic or branching, making it straightforward to complete. There is no need for the user to have prior knowledge of the specific fields or their meanings. The form fields can be filled out in any order, and the user does not need to navigate through multiple pages.
-The fields are designed to be self-explanatory, and the label and hint text are designed to provide enough information to guide the user through the form without requiring extensive explanation. The only exception is the "Client Signature" field, which requires a choice between "Client Signature" and "None", indicating that the client is signing the agreement or not.
-</thinking>
-
 # Hair Extension Agreement Form Studio 37 - Help Guide
 ## Purpose
 The purpose of this form is to obtain a client's agreement to the terms and conditions of the hair extension service provided by Studio 37. The form helps to ensure a clear understanding between the client and the service provider.

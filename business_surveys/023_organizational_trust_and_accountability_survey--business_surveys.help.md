@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Trust And Accountability Survey - Help Guide
 ## Purpose
 The Organizational Trust And Accountability Survey is designed to collect feedback from employees about their perceptions of trust and accountability within their organization. The survey aims to gather information on various aspects of employee relationships, such as trust, transparency, communication, and reporting. This data will help management understand the current state of organizational culture and make informed decisions to improve it.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a checklist for packing items for a trip or travel. The form aims to help users organize and list essential items that need to be packed for a smooth and hassle-free journey. The form is designed to be user-friendly, making it easy for individuals to input their packing items and create a personalized checklist.
-</thinking>
-
 # Suitcase Checklist - Help Guide
 ## Purpose
 The Suitcase Checklist form is designed to assist you in organizing the essential items you need to pack for a trip. By providing a structured layout, you can ensure you don't forget anything important and pack only what you need, making your travel experience more efficient and stress-free.

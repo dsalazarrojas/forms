@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure accurate completion of the Final Expense Quote Survey form, please ensure that you have not already submitted this form for the same business entity or policy period. If you are a representative of the business entity, please have the business owner complete this form. This form is used to gather information about the business entity and its operations to generate an expense quote for the policy period.
-
-</thinking>
-
 # final_expense_quote_survey - Help Guide
 ## Purpose
 The Final Expense Quote Survey is used to gather information about a business entity and its operations to generate an expense quote for the policy period.

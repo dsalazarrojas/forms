@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for food taste testing, likely to be used in a production or testing environment to collect data on food taste tests. This form does not seem to have any specific business logic or rules that would require duplication prevention or relevance checks, so I won't be checking for those. I will assume the form is intended to be completed by a user with a straightforward and simple purpose.
-</thinking>
-
 # Food Taste Testing Form - Help Guide
 ## Purpose
 

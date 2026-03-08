@@ -1,7 +1,3 @@
-<thinking>
-This form is for documenting the status of gutters on a building, specifically designed to collect information on cleaning tasks, clogging, damage, debris collection, and the date and time of completion. The form aims to assess the current state of gutters and gather data to inform future maintenance decisions. To ensure consistency and accuracy, please complete this form carefully and thoroughly.
-</thinking>
-
 # gutter_cleaning_checklist_form - Help Guide
 ## Purpose
 The gutter cleaning checklist form is designed to collect data on the status of gutters on a building, including cleaning tasks, clogging, damage, debris collection, and the date and time of completion.

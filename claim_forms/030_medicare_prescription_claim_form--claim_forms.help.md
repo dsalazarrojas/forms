@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for Medicare prescription claims processing. It is a critical form used for healthcare providers to submit claims for Medicare patients. The form requires accurate and complete information to ensure that the claims are processed correctly and promptly. This form is likely to be used by healthcare providers to submit claims on behalf of their patients.
-
-To avoid duplication, ensure that the form is not used for the same patient claim twice. Each claim must have a unique patient ID or claim number.
-
-</thinking>
-
 # medicare_prescription_claim_form - Help Guide
 ## Purpose
 This form is used for submitting Medicare prescription claims on behalf of patients. It ensures accurate and complete information is collected to process claims correctly and promptly.

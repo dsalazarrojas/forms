@@ -1,13 +1,3 @@
-<thinking>
-This form is used to capture information from individuals who are willing to transport animals during rescue operations. It's essential to note that all the fields in this form are mandatory to ensure we can efficiently coordinate transportations and ensure animal safety.
-
-To avoid any confusion, please ensure that you've reviewed the form carefully and provide accurate information. If you're unsure about any field, please reach out to your supervisor or contact person for clarification.
-
-This form will ask for personal and contact information, transportation specifics, and details about the animals being transported. Please provide truthful information and make sure to review and agree to the transport responsibilities and safety protocols.
-
-Before proceeding, ensure that you're aware that providing false information or failing to follow safety protocols can result in the denial of further transportation tasks and potential consequences.
-</thinking>
-
 # Animal Rescue Transport Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from volunteers who are willing to transport animals during rescue operations. The collected data will help us in coordinating transportations, ensuring animal safety, and providing necessary documentation.

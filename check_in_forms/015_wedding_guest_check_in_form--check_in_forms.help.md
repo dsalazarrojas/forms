@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Guest Check In Form - Help Guide
 
 ## Purpose

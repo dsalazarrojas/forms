@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about scuba diving gear and procedures. It's intended for scuba diving professionals or enthusiasts who need to document their gear status, emergency procedures, and other relevant details before and after a dive. The form's primary purpose is to ensure that divers are prepared for safe dives and to provide a record of their activities.
-
-To avoid duplication and ensure accuracy, please review the following fields to understand their purpose and ensure that you provide the required information.
-
-</thinking>
-
 # scuba_diving_gear_checklist_form - Help Guide
 ## Purpose
 The scuba_diving_gear_checklist_form is designed to collect information about scuba diving gear and procedures before and after a dive. It helps divers prepare for safe dives and ensures that they are aware of their equipment status.

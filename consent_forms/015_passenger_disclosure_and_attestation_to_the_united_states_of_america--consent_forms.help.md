@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital representation of a legal form for passengers to disclose and attest to their health and safety information, specifically for travel to the United States of America. The form is intended to gather information from passengers about their health status, travel requirements, and other relevant details for airlines and aircraft operators to ensure a safe and healthy environment on board. It is not affiliated with, endorsed by, or derived from any form platform, and its original adaptation is released under the Creative Commons license.
-</thinking>
-
 # Passenger Disclosure And Attestation To The United States Of America - Help Guide
 ## Purpose
 This form is designed to collect essential health and safety information from passengers for travel to the United States of America. Please complete this form to ensure your safety and compliance with CDC guidelines.

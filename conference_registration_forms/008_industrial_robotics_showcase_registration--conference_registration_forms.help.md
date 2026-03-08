@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from exhibitors for the Industrial Robotics Showcase. This form will be used to gather contact and registration details from exhibitors, as well as their participation type and interests. It's essential that the form is filled out correctly to ensure accurate and complete information is captured.
-Checking for non-duplication is crucial, as the form will be used to manage multiple exhibitors and their corresponding data. The goal is to create a comprehensive list of exhibitors with their correct information.
-The form is divided into several sections, each collecting different types of information.
-</thinking>
-
 # industrial_robotics_showcase_registration - Help Guide
 ## Purpose
 This form collects information from exhibitors for the Industrial Robotics Showcase, including contact and registration details, participation type, and interests.

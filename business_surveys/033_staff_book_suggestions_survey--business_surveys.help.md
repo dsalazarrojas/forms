@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Book Suggestions Survey - Help Guide
 ## Purpose
 This form is designed to collect book suggestions from staff members. It's meant to gather relevant information about books that staff might find interesting or useful for work or personal development. This form will help us identify popular book titles, authors, and publishers that staff would like to read or explore.

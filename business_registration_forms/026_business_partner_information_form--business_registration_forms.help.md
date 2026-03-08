@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Partner Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential business information for our records. Please provide accurate and up-to-date details about your company to ensure proper collaboration and communication.

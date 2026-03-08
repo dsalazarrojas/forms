@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from organizations submitting images to the Heritage Archive for publication. The purpose of this form is to ensure that the organizations provide the necessary information for proper attribution and credit, as well as to verify that the submitted images are accurate representations of the heritage subjects.
-
-Before filling out this form, please ensure that you have the necessary permissions from the image subjects and that the images you are submitting are of high quality and accurately represent the heritage subjects. This form is only for organizations that have been invited to submit images to the Heritage Archive.
-
-</thinking>
-
 # Heritage Archive Photography Consent Form - Help Guide
 ## Purpose
 The Heritage Archive Photography Consent Form is used to collect information from organizations submitting images to the Heritage Archive for publication.

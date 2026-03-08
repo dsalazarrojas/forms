@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for this form, we need to first understand the purpose of the form. From the provided YAML, we can see that the form is called "sales_behavior_assessment" and it's part of the "business_surveys" category. This suggests that the form is designed to assess sales behavior, likely for an organization's internal purposes.
-
-The form has 11 fields, each with a unique id, name, label, and type. Some fields are select_multiple, select_one, number, or text types, indicating they are meant to collect different types of information from the user. The fields are also mostly optional, which implies that users are not required to fill out all fields.
-
-</thinking>
-
 # sales_behavior_assessment - Help Guide
 ## Purpose
 The sales_behavior_assessment form is designed to collect information about sales behavior from employees or salespeople. This form is used to gauge sales performance and identify areas for improvement.

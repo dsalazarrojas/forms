@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Lease Automation Satisfaction Survey form. The primary purpose of this form is to collect feedback from users regarding their experience with the lease automation system. This feedback will be used to identify areas of improvement and make necessary adjustments to enhance the system's usability and functionality.
-
-Before proceeding, please ensure that you have not already completed this survey. If you have previously submitted feedback, your responses will not be duplicated. 
-
-</thinking>
-
 # Lease Automation Satisfaction Survey - Help Guide
 ## Purpose
 The Lease Automation Satisfaction Survey is designed to gather your opinions and feedback on the lease automation system. Your input will help us to identify what works well and what needs improvement, allowing us to make necessary changes to enhance your overall experience with our system.

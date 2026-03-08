@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Graduate Employment Rate Report Form", which is a report that tracks the employment status of graduates from various programs. The form is designed to collect information about the graduate's employment rate, including the program name, cohort start date, program duration, and employment outcome. This report is intended for use by administrators or HR personnel to track the effectiveness of programs and make informed decisions about their implementation.
-</thinking>
-
 # Graduate Employment Rate Report Form - Help Guide
 ## Purpose
 This form is used to gather information about graduate employment rates for various programs. It helps administrators track the employment status of graduates and make informed decisions about program implementation.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the user understands that this form is for requesting a replacement diploma, and that the user must not fill out this form if they are unsure about the request or have already submitted a request for a replacement diploma. This form should only be used for genuine replacement requests, and not for duplicate or test requests. We also need to ensure that users understand that shipping information is optional but will be required for any shipping-related services.
-</thinking>
-
 # replacement diploma request form - Help Guide
 ## Purpose
 This form is for requesting a replacement diploma in case of loss, damage, or non-receipt of the original diploma. It is intended for genuine requests and should not be used for duplicate or test purposes.

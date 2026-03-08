@@ -1,7 +1,3 @@
-<thinking> 
-The Latin America Historical Survey form is designed to gather information from users about their interests, knowledge, and preferences related to the history of Latin America. This form is likely to be used by researchers, educators, or students looking to gather data on this specific region. To ensure accuracy and relevance, we will only allow users to complete this form once. Please make sure you have reviewed the form and have a clear understanding of the questions before proceeding. 
-</thinking>
-
 # Latin America Historical Survey - Help Guide
 ## Purpose
 The Latin America Historical Survey form is designed to gather information from users about their interests, knowledge, and preferences related to the history of Latin America. This form is intended for educators, researchers, or students who wish to contribute their expertise and experiences in this area.

@@ -1,6 +1,3 @@
-<thinking>
-To create a helpful guide for users, we need to understand the context and purpose of the Rotary Membership Form. This form is likely used for tracking and managing membership applications and information for the Rotary Club organization. The form collects various details such as first name, last name, email, phone number, rotary club, membership type, application date, application fee, and more. The fields are categorized into different sections, and users need to fill out the form accurately to ensure the correct information is captured. To avoid duplication, users should check the form carefully before submitting it. We also need to clarify the meaning of each field to prevent confusion.</thinking>
-
 # Rotary Membership Form - Help Guide
 ## Purpose
 The Rotary Membership Form is used to collect and track membership applications and information for the Rotary Club organization. This form helps ensure accurate and organized data entry for efficient management of membership details.

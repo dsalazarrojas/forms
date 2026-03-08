@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the state of entrepreneurship in a given region or community, focusing on the stabilization and support of businesses. It is meant to be used by administrators or officials to assess the effectiveness of business support programs and identify areas for improvement. Please note that this form is not meant to be used for personal or individual business purposes. It is recommended that users familiarize themselves with the form before completing it to avoid any confusion or duplication of effort. 
-</thinking>
-
 # Entrepreneurship Stabilization Survey - Help Guide
 ## Purpose
 The Entrepreneurship Stabilization Survey is a tool designed to gather information about the state of entrepreneurship in a given region or community. It is intended to help administrators or officials assess the effectiveness of business support programs and identify areas for improvement.

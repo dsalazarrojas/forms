@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to handle the process of returning or crediting a purchase. It is intended for use by buyers to initiate a return or credit. The form is used to document the return or credit process, including the reason for the return, the amount to be credited, and the method of credit. The return_and_credit_form is a crucial form that should only be filled out if a return is being initiated, not for general use. It is recommended that you only fill out this form if you are a buyer who has purchased an item and want to return or credit it. Please make sure you are in the correct context and have the necessary information before proceeding.
-</thinking>
-
 # return_and_credit_form - Help Guide
 
 ## Purpose

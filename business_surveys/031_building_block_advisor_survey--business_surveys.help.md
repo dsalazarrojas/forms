@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, I'll review the fields and options provided in the YAML. The form seems to be related to project advisory and consulting services. The purpose of this form is likely to gather information from advisors about a client's project, including details about the project's status, risks, and recommendations. The form is likely used to provide feedback and guidance to the project team or client.
-
-Before proceeding, I'll confirm that this form is not a duplicate of any other form in the system.
-
-</thinking>
-
 # Building Block Advisor Survey - Help Guide
 ## Purpose
 The Building Block Advisor Survey is a form designed to gather information from project advisors about a client's project. This form helps to identify key strengths and areas of concern, risk factors, and recommendations to improve the project's status.

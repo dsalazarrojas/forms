@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used for members to provide consent for audio recordings at the fitness center. The form is used to collect information about the member, including their consent date, recording date, recording time, recording duration, audio recording notes, recording device, recording location, consent status, and consent reason. This form is likely used by fitness center staff to ensure that members are aware of and agree to audio recordings being made of them during their workouts or sessions. It is possible that this form is used in conjunction with other forms or systems to track member information and consent status.
-
-Form fields should be populated with accurate and relevant information to ensure that members' rights and privacy are respected. It is also possible that some fields, such as recording duration and audio recording notes, are optional and only relevant in specific contexts.
-
-Please note that the purpose and context of this form may vary depending on the specific use case and requirements of the fitness center.
-</thinking>
-
 # Fitness Center Audio Recording Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from members for audio recordings made at the fitness center.

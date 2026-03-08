@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to provide instructions on how to complete the Animal Release Tracking Consent Form for users who are responsible for tracking animals. This form is used for tracking animals in a research or monitoring context, ensuring that all necessary information is provided for the safe and efficient tracking of the animal. The form should only be completed by authorized representatives who have been assigned to track animals.
-
-The form is divided into several fields that require specific information to be filled out. The form has been designed to accommodate all the necessary information that the tracking team needs to record the tracking device details, animal information, and tracking conditions.
-
-It is crucial that the form is completed accurately and honestly, as it is a legal document that releases the organization from liability related to the tracking device. The tracking team should review each field carefully and ensure that all required information is provided.
-
-Please note that only authorized representatives can complete this form, and it is essential to review the fields carefully to ensure that all necessary information is recorded accurately.
-
-</thinking>
-
 # Animal Release Tracking Consent Form - Help Guide
 ## Purpose
 The Animal Release Tracking Consent Form is used to track animals in a research or monitoring context. The form is designed to gather essential information about the tracking device, animal, and tracking conditions.

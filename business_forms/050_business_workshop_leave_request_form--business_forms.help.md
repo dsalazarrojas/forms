@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Workshop Leave Request Form - Help Guide
 ## Purpose
 This form is used to request a business workshop leave for employees. The purpose of this form is to provide a standardized way for employees to submit a formal request for a workshop or training event they wish to attend. The form helps the manager review and approve or deny the request, ensuring that it aligns with the organization's goals and objectives.

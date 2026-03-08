@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Reflection Podcast Consent Form - Help Guide
 
 ## Purpose

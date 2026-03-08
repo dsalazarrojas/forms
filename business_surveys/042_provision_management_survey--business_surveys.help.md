@@ -1,5 +1,3 @@
-<thinking>This form is a "Provision Management Survey" used to collect data on stock management practices and experiences in the business. It is designed to help businesses improve their stock management processes and identify areas for improvement. This form is intended for business use only and is not intended for personal or general public use. It is recommended that users complete the form only once a month, to prevent duplication of data.</thinking>
-
 # Provision Management Survey - Help Guide
 ## Purpose
 This form is used to collect data on stock management practices and experiences in the business. It is designed to help businesses improve their stock management processes and identify areas for improvement.

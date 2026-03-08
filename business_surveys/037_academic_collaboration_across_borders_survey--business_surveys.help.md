@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information about the experiences and challenges of academic professionals in international collaboration. This survey is intended to understand the current state of international collaboration, the challenges faced by institutions and researchers, and potential areas for improvement... This form should not be completed by individuals who have not participated in international academic collaborations... The survey responses will be kept anonymous and confidential... Please answer the questions honestly, and if you have any additional comments or insights, feel free to share them...</thinking>
-
 # Academic Collaboration Across Borders Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and challenges in international academic collaboration.

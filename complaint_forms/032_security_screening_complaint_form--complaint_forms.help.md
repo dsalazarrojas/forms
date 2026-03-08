@@ -1,9 +1,3 @@
-<thinking>
-The form's purpose is to provide a platform for users to file security-related complaints. The form aims to collect essential information from the user, including their name and email (which might not be required but is included for potential correspondence), and a detailed description of their complaint. This form's primary goal is to gather sufficient data to aid in the investigation and resolution of the security issues at hand.
-To complete this form, users should navigate through its single page, filling out the provided fields as instructed.
-Each field in the form has been labeled and described below for clarity and ease of understanding:
-</thinking>
-
 # Security Screening Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information for security-related complaints. It helps our team to investigate and address security issues promptly.

@@ -1,13 +1,3 @@
-<thinking>
-The vendor due diligence checklist form is used to collect information about a potential or existing vendor. This form is designed to help you gather and review essential details about the vendor, such as category, name, contact person, description, address, phone number, email, website, and license. This form is meant to be a standard template for consistent and thorough vendor evaluation. To ensure that you're using this form correctly, please review the following steps and guidelines.
-
-The fields in this form are meant to be filled out with real information about the vendor, rather than just placeholder text. Please make sure to enter accurate and up-to-date details to get the most out of this form.
-
-Before filling out this form, it's a good idea to verify the accuracy of the vendor's information by cross-checking with other available sources, such as the vendor's website or a trusted third-party database.
-
-The information collected through this form will be used to evaluate the vendor's eligibility for your organization's business needs. Please be honest and comprehensive when filling out this form to ensure that your evaluation is fair and accurate.
-</thinking>
-
 # Vendor Due Diligence Checklist - Help Guide
 ## Purpose
 The Vendor Due Diligence Checklist is a form used to collect information about a potential or existing vendor. This form is designed to gather essential details to help you evaluate and assess the vendor's qualifications and suitability for your organization's business needs.

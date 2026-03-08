@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Weekly Health Check In Form - Help Guide
 ## Purpose
 The Client Weekly Health Check In Form is a tool to help you report on your physical and mental health, as well as any challenges or concerns you may be experiencing. This form will help us understand your overall well-being and provide the necessary support to ensure your health and happiness.

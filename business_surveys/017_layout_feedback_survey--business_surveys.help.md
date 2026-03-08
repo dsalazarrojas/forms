@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather feedback from end-users about the layout of a specific design. The purpose of this form is to collect input from users who have interacted with the design on a scale that is relevant to the design's effectiveness.
-</thinking>
-
 # layout_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback on the layout of a specific design. It helps us understand how users perceive and interact with the layout to identify areas of improvement and inform future design decisions.

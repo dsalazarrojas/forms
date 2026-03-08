@@ -1,5 +1,3 @@
-<thinking>This form is used to capture participant feedback on a business project. It is used to understand participant experiences, expectations, and suggestions regarding the project. This form should only be filled out by participants who have had experience with the project. Filling out this form will help us understand your perspective and provide better support and guidance for future projects. Please ensure that you only fill out this form once per project.</thinking>
-
 # initial_process_survey - Help Guide
 ## Purpose
 This form is used to gather feedback from participants on a business project.

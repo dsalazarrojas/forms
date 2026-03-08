@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients who are interested in vaginal steam therapy. The form is used to gather patient history, medical information, and consent for the treatment. The goal is to ensure that patients understand the treatment process and provide informed consent. This form should only be filled out by patients who have been referred to yoni Therapys for treatment. 
-</thinking>
-
 # yoni Therapys Vaginal Steam Intake Form - Help Guide
 ## Purpose
 This form is used to collect patient information, medical history, treatment details, and consent for vaginal steam therapy. It is essential to fill out this form accurately and honestly to ensure the best possible care and treatment from our team.

@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive checklist for kitchen operations, covering various aspects of a kitchen's condition and safety. The purpose of this form is to ensure that all critical areas of a kitchen are checked and reported, which can help maintain a safe and clean environment for food preparation and consumption. This form likely serves as a basis for kitchen inspections, audits, or certifications.
-
-The form is split into several sections, each covering a specific area or category of kitchen operations. The fields are a mix of select_multiple, select_one, and number types, indicating that users are required to select one or multiple options or provide a numerical value for each field.
-
-To create a help guide for this form, we will need to explain each field in detail, ensuring that users understand what they are required to do and why.
-
-</thinking>
 # Kitchen Operations Checklist - Help Guide
 ## Purpose
 The Kitchen Operations Checklist is a comprehensive tool used to ensure that all critical areas of a kitchen are checked and reported, maintaining a safe and clean environment for food preparation and consumption.

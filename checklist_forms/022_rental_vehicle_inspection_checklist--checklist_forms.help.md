@@ -1,9 +1,3 @@
-<thinking>
-The Rental Vehicle Inspection Checklist form is designed to assess the condition of a rental vehicle before or after a trip. This form helps the vehicle owner or inspector to record the vehicle's state and identify any issues or damages. The checklist includes multiple fields that cover various aspects of the vehicle, such as its exterior and interior, engine, tires, brakes, suspension, battery, wipers, glass, steering, and chassis. The form is intended to be filled out by the vehicle inspector or owner to provide a thorough and accurate report of the vehicle's condition.
-This form does not seem to have any duplicate fields, and it appears to be designed to collect specific and relevant information about the vehicle's condition.
-The form's fields are designed to be filled out in a specific order, and the inspector or owner should follow the instructions provided here to complete the form accurately.
-</thinking>
-
 # Rental Vehicle Inspection Checklist - Help Guide
 ## Purpose
 The Rental Vehicle Inspection Checklist is designed to help assess the condition of a rental vehicle before or after a trip. This form is intended to be filled out by the vehicle inspector or owner to identify any issues or damages and provide a thorough report of the vehicle's state.

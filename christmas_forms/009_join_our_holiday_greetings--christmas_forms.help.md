@@ -1,8 +1,3 @@
-<thinking>
-This guide will explain how to complete the "Join Our Holiday Greetings" form. The form is used to share holiday messages, photos, and videos with colleagues, friends, or family members. It's essential to review this guide to ensure you understand each field's purpose and complete the form accurately. Please note that some fields are optional, and you can skip them if not required. This guide will help you navigate the form efficiently and ensure your holiday greetings are sent successfully. Make sure to review each field carefully and choose the correct options to match your needs. If you have any doubts or concerns, please contact your internal support team for assistance.
-
-</thinking>
-
 # Join Our Holiday Greetings - Help Guide
 ## Purpose
 This form is designed to allow you to share holiday messages, photos, and videos with others. It's a convenient way to send personalized greetings to your loved ones during the holiday season.

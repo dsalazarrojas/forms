@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event photography contracts, which is a legal document that outlines the terms and conditions of a photography event. This contract is used to ensure that both the client and photographer are on the same page regarding the event's scope, timeline, and image usage. To avoid duplication, please ensure you only submit one event photography contract per event.
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 The Event Photography Contract is a legal document that outlines the terms and conditions of a photography event. It ensures that both the client and photographer are on the same page regarding the event's scope, timeline, and image usage.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Research Assessment Form - Help Guide
 
 ## Purpose

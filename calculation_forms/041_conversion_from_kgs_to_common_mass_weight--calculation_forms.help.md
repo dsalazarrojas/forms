@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is designed to convert a given value in kilograms to various units of mass in the metric, imperial, and US customary systems. It allows users to input a value in kilograms and receive the converted results in different units. The form includes options to select decimal places for the results and a field for additional notes. 
-
-The form is intended for users who need to convert mass values from kilograms to other units of mass. It is not meant for users who need to perform calculations or conversions between other units of measurement.
-
-Please note that the form does not perform conversions for other units of measurement such as volume or length. 
-
-</thinking>
-
 # Conversion From Kgs To Common Mass Weight - Help Guide
 ## Purpose
 This form is designed to convert a given value in kilograms to various units of mass. It allows users to input a value in kilograms and receive the converted results in different units.

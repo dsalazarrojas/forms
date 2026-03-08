@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and insights from finance stakeholders on the treasury budget, including allocation, priorities, and suggestions for improvement. The form is designed to be completed by finance stakeholders, finance leaders, and treasury teams to provide a comprehensive overview of the treasury budget and its implications. It should only be completed once per planning cycle, as indicated by the planning_cycles field.
-</thinking>
-
 # Treasury Budget Review Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from finance stakeholders on the treasury budget, including allocation, priorities, and suggestions for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This internal reasoning block explains why this form was designed and why it's necessary.
-This form is intended to gather information from respondents about their familiarity with civic technology, their use of civic tech tools, and their interest in partnerships for civic tech development. The form is part of a larger initiative to improve civic engagement and awareness among various stakeholders. The goal is to collect data that can inform future civic tech initiatives and identify areas where support is needed. This form should not be filled out if the respondent is already aware of and has already filled out this form.
-</thinking>
-
 # Civic Technology Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from respondents about their familiarity with civic technology, their use of civic tech tools, and their interest in partnerships for civic tech development. The data collected will inform future civic tech initiatives and identify areas where support is needed.

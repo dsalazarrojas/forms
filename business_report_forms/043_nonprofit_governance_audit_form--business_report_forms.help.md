@@ -1,16 +1,3 @@
-<thinking>
-This form is a tool for auditing the governance practices of a nonprofit organization. It is intended to assess the organization's current practices and identify areas for improvement. Nonprofit Governance Audit Forms are used to evaluate the organization's adherence to good governance principles, identify potential areas of concern, and provide guidance on improvements.
-
-To avoid duplication, this form should only be used by authorized personnel within the organization.
-
-The form is divided into sections, each focusing on a different aspect of nonprofit governance. The sections include Organization Information, Governance Practices, Committee Information, Audit Finding, Improvement Opportunities, Recommended Actions, Submission Notes, and Contact Information.
-
-This form requires input from the organization, and it is recommended that the answers are provided truthfully and accurately.
-
-Please note that the fields may vary depending on the specific nonprofit organization and its governance practices.
-
-</thinking>
-
 # Nonprofit Governance Audit Form - Help Guide
 ## Purpose
 This form is a tool for evaluating and improving the governance practices of a nonprofit organization.

@@ -1,26 +1,3 @@
-<thinking>
-The form purpose is to help users reflect on their relationships, progress, and challenges on a weekly basis. This is to facilitate introspection, identify areas for improvement, and provide a framework for setting goals and tracking progress.
-
-When filling out this form, please ensure that each question is completed accurately and honestly. This will help you gain a better understanding of your relationship dynamics and make informed decisions about how to improve it.
-
-This form is meant to be completed on a weekly basis, and it's recommended to save your progress to track your journey over time.
-
-Please review each field carefully to ensure you're providing the most accurate information.
-
-To fill out this form, you'll need to:
-
-* Answer the questions truthfully and to the best of your ability
-* Use the provided fields to describe your relationship status, challenges, and progress
-* Select the most accurate options for your support system, communication style, and conflict resolution
-
-Each field is labeled with a clear description, and you can use these explanations as a guide to complete the form.
-
-Please note that some fields are required, so make sure to fill them in before submitting.
-
-If you're unsure about any of the fields, feel free to reach out to the form creators for assistance.
-
-</thinking>
-
 # Weekly Relationship Check In - Help Guide
 
 ## Purpose

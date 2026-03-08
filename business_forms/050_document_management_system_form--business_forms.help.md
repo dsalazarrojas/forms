@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a document in a document management system. This system is used to track and manage various types of documents, including documents, records, and reports. The form is designed to gather details such as document category, status, submitters, description, and file information.
-</thinking>
-
 # Document Management System Form - Help Guide
 ## Purpose
 

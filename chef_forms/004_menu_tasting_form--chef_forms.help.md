@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "Menu Tasting Form", a form used to gather feedback from users on a specific menu item. The form has several fields that cater to different types of user input, including a menu item selection, rating, comments, contact information, and event details. This form is intended to be completed by users who have tasted a menu item and want to provide their feedback. It is not designed to collect feedback on multiple menu items at once, so users should only select one menu item to provide feedback on. Please ensure that you have completed this form for the correct menu item to ensure accurate feedback.
-</thinking>
-
 # Menu Tasting Form - Help Guide
 ## Purpose
 The Menu Tasting Form is designed to collect feedback from users on a specific menu item. This form is intended to be completed by users who have tasted the menu item and want to provide their feedback.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help administrators assess the readiness of their organization for adopting educational AI technologies. It is not necessary to fill out this form if you have already done so in the past 6 months. Please ensure that you only fill out this form once for each unique educational AI initiative or project.
-
-The form consists of several fields that will help us understand your organization's current state of AI adoption and readiness. Please answer the questions as accurately and completely as possible. If you are unsure about any field, please do not hesitate to ask for clarification.
-</thinking>
-
 # Educational AI Adoption Readiness Survey - Help Guide
 ## Purpose
 The purpose of this form is to help your organization assess its readiness to adopt educational AI technologies.

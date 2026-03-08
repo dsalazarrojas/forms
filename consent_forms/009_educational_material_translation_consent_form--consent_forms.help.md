@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather consent for the translation of educational materials. The form ensures that participants and translators understand and agree to the terms of the translation process. This form is designed to be completed by participants and translators to verify their consent and provide necessary information for the translation process.
-
-When filling out this form, please ensure that you complete each field accurately and truthfully. This form is non-duplicable, meaning that once submitted, it cannot be resubmitted. Make sure to review the form carefully before submitting it to avoid any errors.
-
-Please note that some fields are required and must be completed in order to proceed with the translation process.
-
-</thinking>
-
 # educational-material-translation-consent-form - Help Guide
 ## Purpose
 The educational material translation consent form is used to gather consent and information from participants and translators for the translation of educational materials.

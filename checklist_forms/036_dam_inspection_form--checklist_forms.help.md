@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about dams, specifically during an inspection. The purpose of the form is to gather data on the condition and maintenance status of dams. The goal is to ensure that the inspection is thorough and accurate, and that all necessary information is collected to inform future maintenance and decision-making. It's essential to complete this form carefully and accurately to ensure that the data collected is reliable and useful for further analysis.
-</thinking>
-
 # Dam Inspection Form - Help Guide
 ## Purpose
 The Dam Inspection Form is used to collect information about dams during an inspection, ensuring that the data collected is reliable and useful for further analysis.

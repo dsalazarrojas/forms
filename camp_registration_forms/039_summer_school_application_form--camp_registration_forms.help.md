@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer School Application Form - Help Guide
 ## Purpose
 This form is designed to help applicants gather information for a Summer School program. The form aims to collect basic data from students to process their applications efficiently.

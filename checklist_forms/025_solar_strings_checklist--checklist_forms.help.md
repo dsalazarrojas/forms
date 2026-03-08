@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist for evaluating and documenting solar strings, which are essential components of photovoltaic systems. The form aims to ensure that solar strings are properly checked and certified for optimal performance and safety. This form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI-driven form generation technology, inspired by public survey topic metadata in the category "checklist_forms" and industry "solar". The form is released under CC BY 4.0 license, allowing users to use, modify, and even sell derived forms while providing credit.
-</thinking>
-
 # Solar Strings Checklist - Help Guide
 ## Purpose
 The Solar Strings Checklist is a comprehensive guide for inspecting and certifying solar strings to guarantee optimal performance and safety. This form is designed to help users ensure that solar strings are properly checked, verified, and certified for use in solar panel systems.

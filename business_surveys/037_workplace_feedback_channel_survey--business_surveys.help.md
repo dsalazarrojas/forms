@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the usage and effectiveness of employee feedback channels within the company. The purpose is to understand how employees use these channels, their management level, frequency of use, communication style, satisfaction level, preferred type of communication, and any additional comments. This form will help the company to identify areas of improvement and optimize its feedback mechanisms. Before filling out this form, please ensure that you have not filled it out previously, as the responses will be tracked and stored in the system.
-</thinking>
-
 # workplace_feedback_channel_survey - Help Guide
 ## Purpose
 This form is designed to gather information about the usage and effectiveness of employee feedback channels within the company.

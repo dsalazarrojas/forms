@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Breastfeeding Latch Coaching Intake Form - Help Guide
 
 ## Purpose

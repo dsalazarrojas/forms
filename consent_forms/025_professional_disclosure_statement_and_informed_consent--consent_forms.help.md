@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a template for a professional disclosure statement and informed consent, likely used in a healthcare setting. The form is designed to collect patient and healthcare provider information, including names, dates, and signatures. The form's purpose is to ensure that both the patient and healthcare provider have a clear understanding of their roles and responsibilities in the patient-provider relationship. This form helps to establish a foundation for trust and transparency in the healthcare industry.
-
-</thinking>
-
 # professional disclosure statement and informed consent - Help Guide
 ## Purpose
 This form is designed to be a template for a professional disclosure statement and informed consent in a healthcare setting. It aims to provide a clear and transparent understanding of the patient-provider relationship, ensuring that both parties are aware of their roles and responsibilities.

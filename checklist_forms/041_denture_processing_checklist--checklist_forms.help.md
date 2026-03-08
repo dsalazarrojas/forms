@@ -1,6 +1,3 @@
-<thinking> 
-Denture Processing Checklist is a form designed to gather and document information related to the processing and maintenance of dental implants. This form will be used by staff members to track and manage dental implant procedures, ensuring accuracy and consistency in the process. This form is intended to be used in conjunction with existing dental records, and its completion should not duplicate or conflict with other procedures. The purpose of this form is to ensure that all relevant information is collected and documented in a clear and concise manner, making it easier to reference and review dental implant procedures in the future. By completing this form, staff members can ensure that the necessary steps are taken to properly process and maintain dental implants. </thinking>
-
 # Denture Processing Checklist - Help Guide
 ## Purpose
 The Denture Processing Checklist is a tool used to gather and document information related to the processing and maintenance of dental implants.

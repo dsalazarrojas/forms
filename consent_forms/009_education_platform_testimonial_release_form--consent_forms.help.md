@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to submit testimonials for an education platform. The purpose of this form is to collect testimonial details, student contact information, and consent for the use of their testimonial. This form is typically used to gather feedback from students about their experience on the platform. To avoid duplication, this form should only be filled out once per student. 
-</thinking>
-
 # education_platform_testimonial_release_form - Help Guide
 ## Purpose
 The education platform testimonial release form is a tool used to collect student testimonials for the education platform. This form is used to collect valuable feedback from students about their experience on the platform.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from applicants who wish to participate in a Christmas musical production. This form is likely intended for a school or community theater group, and it collects contact information, performance interests, and availability for rehearsals and performances. The form is likely used to select candidates for cast roles, and the collected data will be used to schedule rehearsals and communicate with applicants about the production.
-</thinking>
-
 # Christmas Musical Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for a Christmas musical production. It will be used to determine casting and rehearsal schedules.

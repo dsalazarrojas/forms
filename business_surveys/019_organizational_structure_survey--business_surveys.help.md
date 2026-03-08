@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'd like to confirm that the form is for gathering information about an organization's structure. The form appears to be collecting data on various aspects of the organization, including its level of hierarchy, reporting relationships, team leadership, job titles, and job classification. It also seems to be focused on understanding the position of different entities within the organization, such as teams, departments, and job titles. This form will help in understanding the overall structure and hierarchy of the organization.</thinking>
-
 # Organizational Structure Survey - Help Guide
 ## Purpose
 The Organizational Structure Survey is designed to gather information about the structure of an organization. This form will help in understanding the hierarchy, reporting relationships, team leadership, job titles, and job classification within the organization.

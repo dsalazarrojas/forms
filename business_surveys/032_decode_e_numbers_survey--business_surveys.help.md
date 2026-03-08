@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a survey designed to gauge the level of awareness and usage of E-numbers in businesses. E-numbers are a type of food code used to identify the ingredients in food products. This form aims to collect data on how businesses are aware of E-numbers, their current use in decision-making, and potential areas for improvement. It is essential to understand this information to better comprehend the industry's grasp of E-numbers and identify potential opportunities for growth. 
-
-</thinking>
-
 # Decode E Numbers Survey - Help Guide
 ## Purpose
 The Decode E Numbers Survey is a tool designed to assess businesses' knowledge and usage of E-numbers. The survey will help us better understand how companies are currently utilizing E-numbers in their decision-making processes and identify areas where awareness can be improved.

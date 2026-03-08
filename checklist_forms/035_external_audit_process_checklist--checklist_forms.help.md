@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll assume that the External Audit Process Checklist form is intended for external auditors to document and report on various aspects of a company's processes and procedures. The form is likely used to ensure that the company's processes are being performed correctly and efficiently. It could also be used for internal audits to identify areas where improvements are needed. Given the multiple "note" fields at the end of the form, it might be used for free-form comments or observations.</thinking>
-
 # External Audit Process Checklist - Help Guide
 ## Purpose
 The External Audit Process Checklist is a comprehensive form for external auditors to document and report on various aspects of a company's processes and procedures. This form ensures that the company's processes are being performed correctly and efficiently. It can also be used for internal audits to identify areas where improvements are needed.

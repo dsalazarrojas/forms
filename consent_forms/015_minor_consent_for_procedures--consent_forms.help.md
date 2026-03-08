@@ -1,5 +1,3 @@
-<thinking>...This form is designed to obtain consent from parents or guardians for medical or dental procedures for minors. The form will be used to collect the necessary information from the parent or guardian to ensure they are aware of and agree to the procedures that will be performed on their child. This form should only be used for procedures that require consent from a parent or guardian, and it is not intended for general medical or administrative purposes. Please ensure that you are using this form for the correct purpose and do not duplicate or misuse it for other purposes...</thinking>
-
 # minor_consent_for_procedures - Help Guide
 ## Purpose
 The minor_consent_for_procedures form is designed to obtain consent from parents or guardians for medical or dental procedures for minors. It is used to collect necessary information from the parent or guardian, ensuring they are aware of and agree to the procedures that will be performed on their child.

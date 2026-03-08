@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request authorization for the distribution of content to various parties. This form ensures that all parties involved in the content distribution process understand their roles, responsibilities, and rights. It's a critical document that protects the creators of the content and the authorized parties. Before starting, please ensure that you're not duplicating this form for other content or parties, as it may cause confusion and errors. Please fill in the required information accurately and honestly.
-</thinking>
-
 # Content Distribution Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for the distribution of content to various parties. It outlines the terms and conditions of the distribution, including the content description, distribution channels, geographic scope, and duration of the authorization.

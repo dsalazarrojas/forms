@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form aims to collect data on the gas bottle disposal methods used by individuals or households in a given area, as well as their awareness and perception of these methods. The purpose is to understand the effectiveness and accessibility of different gas bottle disposal methods, which can help identify areas for improvement and inform policy decisions. 
 
 # Gas Bottle Disposal Survey - Help Guide

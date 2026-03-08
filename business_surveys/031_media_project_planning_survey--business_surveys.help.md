@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Media Project Planning Survey" form, a key tool for project teams to gather essential information about a media project. Before proceeding, please ensure that this form is relevant to your specific project needs. This guide will walk you through the form's purpose, how to complete it, and a detailed explanation of each field.
-</thinking>
-
 # Media Project Planning Survey - Help Guide
 ## Purpose
 This survey is designed to help project teams gather and record project details, objectives, timelines, and other relevant information in one place. It's essential to fill out this form accurately to ensure that project stakeholders are on the same page and that the project progresses smoothly.

@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Company Vehicle Weekly Inspection Sheet" form, following the provided YAML structure. This form is used for performing a weekly inspection on company vehicles, which is crucial for maintaining their reliability and longevity. The form is designed to collect information about the vehicle's condition, including its tires, brakes, lights, fluid levels, and other essential components. This guide will walk users through the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Company Vehicle Weekly Inspection Sheet - Help Guide
 ## Purpose
 The Company Vehicle Weekly Inspection Sheet is a form used to record the condition of company vehicles on a weekly basis. This helps identify any issues with the vehicle and ensures that necessary repairs are made to prevent accidents and downtime.

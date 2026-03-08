@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to track and record the work schedule of an employee. It allows for the selection of multiple work schedules, including whether the employee has completed shifts, the rate of task completion, start and end times of shifts, duration of shifts, status of tasks, date of shifts, and whether an employee is present or not. The form does not have any required fields, indicating that it is meant to provide optional data for tracking purposes.
-</thinking>
-
 # work_schedule_checklist - Help Guide
 ## Purpose
 This form is used to record and track an employee's work schedule.

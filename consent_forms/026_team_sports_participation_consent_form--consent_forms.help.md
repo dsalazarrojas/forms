@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Sports Participation Consent Form - Help Guide
 
 ## Purpose

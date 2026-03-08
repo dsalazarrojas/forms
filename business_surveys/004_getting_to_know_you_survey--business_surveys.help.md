@@ -1,12 +1,3 @@
-<thinking> 
-We need to verify that you're in the right place and that this form is relevant to your role. This form is designed to gather information about you to help us better understand your needs, preferences, and behaviors. If you're not sure why you're being asked to fill out this form, please contact your supervisor or HR department for clarification. 
-
-This form has multiple pages and a variety of fields with different types (text, date, select one/multiple, email, etc.). Please ensure you've read each page carefully and complete all required fields to avoid any errors. 
-
-If you have any doubts about a specific field or page, please reach out to us, and we'll do our best to clarify or assist you. 
-
-</thinking>
-
 # getting_to_know_you_survey - Help Guide
 
 ## Purpose

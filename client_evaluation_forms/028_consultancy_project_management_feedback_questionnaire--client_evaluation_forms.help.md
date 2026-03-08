@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients after the completion of a consultancy project. The purpose of this form is to assess the client's satisfaction with the project's deliverables, communication, and value for money. This feedback will help the consultancy team to identify areas of improvement and provide better services to clients in the future. Please ensure that you only complete this form if you have had a recent project with the consultancy team. If you have already submitted feedback, please do not submit another form.
-</thinking>
-
 # Consultancy Project Management Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their recent consultancy project. The feedback will help our team to improve our services and deliver better results in future projects.

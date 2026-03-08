@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "PTSD CheckList C" form, I will consider the provided YAML file. The form seems to be designed to collect data on various symptoms and experiences related to Post-Traumatic Stress Disorder (PTSD). The form is divided into multiple pages, each with a selection of questions or fields. The fields are mostly multiple-choice questions with options like "Yes" or "No" for the majority of the pages.
 
 To create a clear and concise guide, I will focus on explaining the purpose of the form, how to complete it, and each field in detail.

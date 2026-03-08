@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've analyzed the form's purpose and fields. Based on the YAML input, it appears that this form aims to assess the financial comfort and satisfaction of tenants in a rental property. The form likely aims to gauge the tenant's perception of the rent affordability, financial comfort, and overall satisfaction with the property. The purpose of this form is to collect information that can help the landlord or property manager understand the tenant's needs and make informed decisions to improve the property's financial comfort and tenant satisfaction. This form is likely used to gather feedback from tenants and is not a payment or transactional form.</thinking>
-
 # Tenant Financial Comfort Survey - Help Guide
 ## Purpose
 The Tenant Financial Comfort Survey is designed to gather information about your experience and perception of your financial comfort and satisfaction with your rental property. Your feedback will help us understand your needs and make informed decisions to improve the property.

@@ -1,8 +1,3 @@
-<thinking>
-The Commuter Transport Preference Survey is designed to gather information about employees' and students' commutes to work or school. This survey aims to understand the challenges and preferences related to transportation, parking, and alternative modes of transportation. It is intended for employees, students, and faculty/staff of a specific organization. The survey will help identify areas for improvement in transportation services and infrastructure to better support the commuting needs of the community.
-To ensure accurate and meaningful results, please complete this survey honestly and thoroughly. If you have any questions or concerns, feel free to contact us.
-</thinking>
-
 # Commuter Transport Preference Survey - Help Guide
 ## Purpose
 The Commuter Transport Preference Survey is designed to gather information about employees' and students' commutes to work or school. This survey aims to understand the challenges and preferences related to transportation, parking, and alternative modes of transportation.

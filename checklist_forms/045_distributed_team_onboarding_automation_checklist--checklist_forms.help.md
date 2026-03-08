@@ -1,22 +1,3 @@
-<thinking>
-This is a comprehensive form used for onboarding a new team member into a distributed team. It captures key information about the team member's status, progress, and issues during the onboarding process. The form can be completed by the team lead, project manager, or project lead. The purpose of this form is to standardize the onboarding process, ensuring that all team members have the necessary information and resources to perform their tasks effectively.
-
-The form consists of various sections covering:
-
-*   Hire date and time
-*   Access details (e.g., company email, phone number, chat channels)
-*   Onboarding details (e.g., team lead introduction, project overview, team members introduction)
-*   Setup details (e.g., company email, phone number, team lead, project manager)
-*   Project information (e.g., project description, goals, status)
-*   Team information (e.g., team lead, team members, project manager)
-*   First week tasks
-*   Onboarding completed status
-*   Notes and comments for each section
-
-This form is designed to streamline the onboarding process, reducing the need for manual data entry and ensuring consistency across the team.
-
-</thinking>
-
 # Distributed Team Onboarding Automation Checklist - Help Guide
 
 ## Purpose

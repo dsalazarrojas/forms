@@ -1,12 +1,3 @@
-<thinking>
-To create a form that helps end-users understand the purpose and usage of the "Caller ID Spoofing Complaint Form", we need to consider the internal reasoning behind its creation. This form is likely intended to collect information from individuals who have been victims of caller ID spoofing, a form of telecommunications fraud where a caller's ID is falsified to make it appear as though the call is coming from a different number. The form's primary purpose is to gather details about the incident, including the date, description, and impact of the spoofed call. By filling out this form, complainants can provide valuable information to help investigators track down and stop such scams.
-
-To determine whether a complainant has already submitted a form, we can check for duplication of submitted complaints based on unique identifiers like complainant name and incident date.
-
-This form will be used by law enforcement or internal investigations teams to gather information and follow up with complainants to keep them informed of the progress and results of the investigation.
-
-</thinking>
-
 # Caller ID Spoofing Complaint Form - Help Guide
 
 ## Purpose

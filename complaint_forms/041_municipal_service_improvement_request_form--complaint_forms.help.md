@@ -1,7 +1,3 @@
-<thinking>
-This form is for citizens to provide feedback and suggestions on how the municipal services can be improved. Before submitting, please ensure that you have not already submitted a similar complaint/service request. This will help us to efficiently process your request and avoid duplication. If you are unsure or have questions, please contact the municipal service team directly.
-</thinking>
-
 # Municipal Service Improvement Request Form - Help Guide
 ## Purpose
 

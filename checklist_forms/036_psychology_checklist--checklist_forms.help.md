@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the mental health and wellness of individuals, particularly in a clinical setting. It's intended to be used by medical professionals to evaluate the severity of a patient's psychological condition and create a treatment plan. This form should only be filled out by trained medical professionals, and users are expected to provide accurate and honest answers.
-</thinking>
-
 # Psychology Checklist - Help Guide
 
 ## Purpose

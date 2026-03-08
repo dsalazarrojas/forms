@@ -1,9 +1,4 @@
-# <thinking>
-  To create an effective user guide for the "Fountain Inspection Checklist" form, we need to understand the form's purpose and ensure that it's not a duplicate effort. This form is likely used to inspect and evaluate the condition of a fountain, covering various aspects such as safety, maintenance, and water quality. The form probably serves as a tool for fountain operators or maintenance personnel to record their observations and findings, providing a structured way to assess the fountain's status.
-  In terms of non-duplication, we should ensure that the guide doesn't overlap with existing documentation or procedures for similar forms. We can achieve this by focusing on the unique aspects of this form and highlighting its specific use cases and benefits. With a clear and concise guide, users will be able to quickly grasp the form's purpose and how to effectively use it.
-</thinking>
-
-# Fountain Inspection Checklist - Help Guide
+# # Fountain Inspection Checklist - Help Guide
 ## Purpose
 The "Fountain Inspection Checklist" form is designed to help fountain operators and maintenance personnel inspect and evaluate the condition of a fountain, covering various aspects such as safety, maintenance, and water quality. This guide will walk you through the form's purpose and how to complete it effectively.
 

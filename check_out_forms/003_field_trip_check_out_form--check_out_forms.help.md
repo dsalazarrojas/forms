@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # field_trip_check_out_form - Help Guide
 ## Purpose
 The field_trip_check_out_form is used to record student field trip information, including student and guardian contact details, trip location, and other relevant details.

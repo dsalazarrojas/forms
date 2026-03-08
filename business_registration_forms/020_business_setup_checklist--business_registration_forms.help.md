@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help businesses ensure they have completed all necessary steps to set up their company. It covers various aspects of business setup, including registration, licensing, insurance, and other important tasks. The form is meant to be a comprehensive guide for businesses to assess their progress and identify areas where they need improvement.
-It's essential to fill out this form to ensure you have a clear understanding of your business setup status. Please make sure to fill it out carefully and accurately.
-</thinking>
-
 # Business Setup Checklist - Help Guide
 ## Purpose
 This form is designed to help businesses ensure they have completed all necessary steps to set up their company. It covers various aspects of business setup, including registration, licensing, insurance, and other important tasks.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from residents about their waste segregation practices, knowledge, and willingness to improve their waste management habits. The purpose of this survey is to better understand how residents separate their waste, what challenges they face, and how they learn about waste segregation. This will help in providing targeted education and incentives to improve waste management practices in the community. This survey is not a duplicate of the actual form, but rather a help guide to aid users in understanding its purpose and structure.
-
-</thinking>
-
 # Community Waste Segregation Awareness Survey - Help Guide
 ## Purpose
 This survey aims to understand community residents' waste segregation practices, knowledge, and willingness to improve their waste management habits.

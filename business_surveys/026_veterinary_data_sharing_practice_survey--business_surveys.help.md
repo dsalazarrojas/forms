@@ -1,5 +1,3 @@
-<thinking>As the expert form designer and technical writer, I'll create a comprehensive help guide for the "veterinary_data_sharing_practice_survey" form.</thinking>
-
 # veterinary_data_sharing_practice_survey - Help Guide
 ## Purpose
 This form is designed to collect information about veterinarians' practices and habits regarding data sharing. This survey aims to gather insights on the current state of data sharing practices among veterinary professionals, identifying commonalities and disparities in their approaches. By completing this form, you will be contributing to a better understanding of the veterinary data sharing landscape.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of faculty collaboration within a university setting. It is used to gather information on the frequency, duration, and impact of collaborations between faculty members. The form aims to measure the overall effectiveness of faculty collaboration, including its impact on productivity, job satisfaction, student learning, innovation, diversity and inclusion, and time commitment. This form is intended for university administrators and faculty members to assess their collaboration practices and identify areas for improvement.
-
-Before filling out this form, ensure that you have reviewed the relevant university policies and procedures regarding faculty collaboration. This form is for internal use only and does not collect any personally identifiable information that could be used to identify individual faculty members.
-
-</thinking>
-
 # Faculty Collaboration Effectiveness Index Survey - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of faculty collaboration within a university setting.

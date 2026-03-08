@@ -1,10 +1,6 @@
 # ESG Performance Measurement Request Form - Help Guide
 
 ## Purpose
-<thinking>
-This form is intended to capture essential details about the ESG (Environmental, Social, and Governance) performance measurement request submitted by employees. The purpose of this form is to gather accurate and consistent information about the ESG performance measurement requests across different employees, ensuring timely and efficient submission management. This is crucial for maintaining a centralized and up-to-date ESG performance measurement system.
-</thinking>
-
 ## How To Complete This Form
 To complete this form effectively, please follow these steps:
 

@@ -1,22 +1,3 @@
-<thinking>
-This form is used to calculate the base-2 logarithm of E (LOG2E) for a given input value. The calculation is a mathematical operation that represents the power of 2 to which E (Euler's number) is raised. This form is useful for scientific and engineering applications where the base-2 logarithm of E is required. 
-
-The form consists of the following fields: 
-
-*   Full Name (required): The user's name for logging purposes.
-*   Input Value (x) (required): The number to process.
-*   Required Decimal Precision (required): The number of decimal places to display in the result.
-*   LOG2E Constant Reference (optional): A reference value for the base-2 logarithm of E.
-*   Desired Output Format (required): The format of the result, which can be scientific notation, fixed decimal, or fraction.
-*   Timestamp (required): The date and time when the calculation was performed.
-*   Department (optional): The user's department or affiliation (if any).
-*   Would you like the results emailed to you? (optional): A checkbox to request email notification of the results.
-*   Feedback on tool accuracy (optional): A field to provide feedback on the tool's accuracy.
-
-Note: The form fields are well-designed and self-explanatory, making it easy to understand each field's purpose without requiring a lot of explanation.
-
-</thinking>
-
 # Base 2 Logarithm Of E (LOG2E) Calculation Form - Help Guide
 ## Purpose
 This form is used to calculate the base-2 logarithm of E (LOG2E) for a given input value. The calculation is a mathematical operation that represents the power of 2 to which E (Euler's number) is raised. This form is useful for scientific and engineering applications where the base-2 logarithm of E is required.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a ceremony agreement form used for coordinating a wedding or other celebratory event. It requests essential information about the event, such as the ceremony details, venue, and participant agreements. The form includes fields for the client's name, email address, phone number, and other relevant contact information. Additionally, it covers logistical aspects like venue details, expected guest count, and photography/video permission. It's likely used by wedding planners or coordinators to collect necessary information from clients. This guide will help users fill out the form accurately and correctly.
-</thinking>
-
 # Ceremony Agreement Form - Help Guide
 ## Purpose
 The Ceremony Agreement Form is a document used to collect information and obtain agreements from clients for a wedding or other celebratory event. It ensures that all necessary details are captured for the event's organization and execution.

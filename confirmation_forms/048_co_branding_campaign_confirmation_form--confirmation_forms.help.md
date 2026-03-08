@@ -1,11 +1,3 @@
-<thinking>
-This form is used to confirm details about a co-branding campaign between two parties, typically a brand and a partner. The purpose of this form is to collect necessary information to ensure a successful collaboration. This form is typically filled out by the primary brand contact and the partner brand contact.
-
-Before filling out this form, please ensure that you have the necessary approvals from both parties to proceed with the campaign. Also, please check that you are not duplicating a previous submission with the same campaign details.
-
-To fill out this form correctly, please make sure to provide accurate and clear information for each field.
-</thinking>
-
 # Co Branding Campaign Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm details about a co-branding campaign between two parties, typically a brand and a partner.

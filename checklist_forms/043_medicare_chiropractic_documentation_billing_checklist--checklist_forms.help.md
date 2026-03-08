@@ -1,11 +1,3 @@
-<thinking>
-To create this medicare_chiropractic_documentation_billing_checklist form, I've analyzed the provided YAML fields to understand the purpose and requirements of the form. The form appears to be designed for collecting information related to chiropractic services, including patient and billing information, as well as payment details. This form is likely used for documentation and billing purposes in a chiropractic setting.
-
-It's worth noting that the form has a mix of text, select_one, select_multiple, and date/time fields, indicating that it's used for collecting various types of information. However, some fields seem to be duplicates or have similar labels, which may cause confusion for users.
-
-To avoid duplication and ensure clarity, I'll review the form sections to identify the essential fields and provide a clear, concise guide for users.
-</thinking>
-
 # medicare_chiropractic_documentation_billing_checklist - Help Guide
 ## Purpose
 This form is used to document and bill for chiropractic services. It's essential to fill it out accurately to ensure correct billing and payment details.

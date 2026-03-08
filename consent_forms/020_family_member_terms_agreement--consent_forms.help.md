@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect information and agreements from family members regarding their participation in various activities or programs. It is crucial to complete the form accurately and truthfully to ensure that the individual understands their roles and responsibilities. Before proceeding, please make sure you have reviewed the relevant documents and policies related to the activity or program. If you have any questions or concerns, do not hesitate to ask for clarification...</thinking>
-
 # Family Member Terms Agreement - Help Guide
 ## Purpose
 The Family Member Terms Agreement form is used to collect information and agreements from family members regarding their participation in various activities or programs. It is essential to complete the form accurately and truthfully to ensure that the individual understands their roles and responsibilities.

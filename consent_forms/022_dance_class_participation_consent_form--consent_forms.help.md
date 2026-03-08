@@ -1,9 +1,3 @@
-<thinking>
-Dance Class Participation Consent Form is designed to obtain parent/guardian approval for a student to participate in a dance class. This form helps to ensure that parents/guardians are informed about the class, its risks, and their rights. The form will be used to collect necessary information from parents/guardians before allowing students to participate in the dance class.
-To ensure that this form is completed correctly, please review the following steps and field explanations.
-Please note that the form is divided into multiple pages. Each page will be explained separately.
-</thinking>
-
 # Dance Class Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain parent/guardian approval for a student to participate in a dance class. It ensures that parents/guardians are informed about the class, its risks, and their rights.

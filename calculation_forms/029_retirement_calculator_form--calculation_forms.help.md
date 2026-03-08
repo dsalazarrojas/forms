@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help users plan for their retirement, allowing them to calculate how much they can save and retire comfortably. The form has three main fields, each serving a distinct purpose: "retirement_age", "monthly_savings", and "years_to_retire". The user will input their current retirement age, the amount they can save monthly, and the number of years they plan to retire in. The form will provide an estimate of the total savings needed for a comfortable retirement. The form's primary goal is to give users a clear idea of their retirement savings requirements. To avoid confusion and ensure accurate calculations, users are not required to complete all fields, but are strongly advised to fill out all fields for an accurate estimate.</thinking>
-
 # retirement_calculator_form - Help Guide
 ## Purpose
 The retirement_calculator_form is designed to help users plan for their retirement by estimating the total savings needed for a comfortable retirement.

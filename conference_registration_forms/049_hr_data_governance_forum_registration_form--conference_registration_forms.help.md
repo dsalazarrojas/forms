@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Data Governance Forum Registration Form - Help Guide
 
 ## Purpose

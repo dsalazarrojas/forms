@@ -1,11 +1,4 @@
-# <thinking>
-This form is designed to capture the registration information of conference attendees for the Oncology Conference. It consists of multiple pages with various fields to collect relevant details. The form is intended for individuals who want to register for the conference.
-
-To ensure accuracy and consistency in filling out the form, please review each field carefully. This guide will walk you through each field to help you complete the form correctly.
-
-</thinking>
-
-# Oncology Conference Registration - Help Guide
+# # Oncology Conference Registration - Help Guide
 ## Purpose
 The Oncology Conference Registration form is designed to collect the necessary information from attendees to facilitate their participation in the conference. This form helps the organizers with contact, medical, and session preferences details.
 

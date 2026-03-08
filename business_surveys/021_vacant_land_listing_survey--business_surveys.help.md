@@ -1,19 +1,3 @@
-<thinking>
-This form is for gathering information about vacant land listings. The purpose of this form is to collect details about the property, including its location, size, use, features, and more. It's likely used by real estate agents or professionals to list properties for sale or rent. To fill out this form, you will need to provide information about the property, contact information for the listing agent, and other relevant details. Make sure to double-check your answers for accuracy and completeness. This form is a one-time submission, and once you've filled it out, you can't change your answers. Please fill out the form carefully and make sure to enter all required fields. 
-
-Please note that some of the fields may be optional, but providing accurate information in these fields can help improve the quality of the listing. If you're unsure about any field, please don't hesitate to ask for help.
-
-Before you start filling out this form, you might want to have the following information ready:
-
-* Property details (e.g., location, size, use)
-* Contact information for the listing agent
-* Property map or listing agent's contact details
-
-This form is not meant for repeat submissions. Once you've filled it out, you're done! 
-
-This form is designed to be simple and easy to use. If you need help or have questions, feel free to reach out to the listing agent or our support team for assistance.
-</thinking>
-
 # Vacant Land Listing Survey - Help Guide
 ## Purpose
 This form is designed for gathering information about vacant land listings.

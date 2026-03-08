@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used by agricultural applicators to record the details of a pesticide application, including the applicator's name, license number, date and time of application, location and crop type, chemical product and rate used, weather conditions, and safety protocols.
-The form is likely used to ensure accurate and safe application of pesticides in agricultural settings.
-The form may be used for regulatory compliance, tracking, and analysis of pesticide use.
-</thinking>
-
 # Agricultural Spray Records Checklist - Help Guide
 ## Purpose
 The Agricultural Spray Records Checklist is a form used to record the details of a pesticide application. This form helps ensure accurate and safe application of pesticides in agricultural settings.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from users to gain their consent for participation in surveys. The form is intended for users who are willing to participate in surveys, but it also serves as a record-keeping tool for the organization to document contact information and preferences.
-The form is designed to be completed by a user once, and the collected data will not be used to target users with additional surveys.
-Before completing this form, users should ensure they are aware of the survey participation status and their contact information is up to date.
-</thinking>
-
 # survey_participation_permission_form - Help Guide
 ## Purpose
 The survey_participation_permission_form is used to collect users' consent for participation in surveys and record their contact information.

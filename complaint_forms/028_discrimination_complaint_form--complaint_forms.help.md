@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the Discrimination Complaint Form is completed accurately and effectively, we must first understand its purpose and the fields involved. This form is designed to collect information about incidents of discrimination that have occurred within the organization or institution. It helps to gather details about the incident, identify the parties involved, and document the category of discrimination that occurred. Before proceeding, please note that this form is not intended to be a substitute for a formal investigation or legal action.
-
-When completing this form, please keep in mind that all fields are not required, and you can skip any fields that are not relevant to your situation. However, providing as much detail as possible will help in understanding and addressing the incident.
-
-The form is divided into several sections, each addressing a specific aspect of the incident.
-
-</thinking>
-
 # Discrimination Complaint Form - Help Guide
 ## Purpose
 The Discrimination Complaint Form is a tool to report and document incidents of discrimination that have occurred within the organization or institution. This form helps to gather information about the incident, identify the parties involved, and document the category of discrimination that occurred.

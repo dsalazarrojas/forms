@@ -1,8 +1,3 @@
-<thinking>
-This form is used for inspecting and reporting on the condition of a hose in different sections of a building. The purpose of this form is to gather information about the presence and condition of a hose in each section, as well as to provide photo evidence of any issues found. The form is designed to be completed by maintenance personnel or building inspectors who will be inspecting and reporting on the conditions of the hoses. This form is intended to be used for routine inspections and maintenance, and is not intended for emergency or critical situations.
-
-</thinking>
-
 # Hose Inspection Checklist - Help Guide
 ## Purpose
 This form is used for inspecting and reporting on the condition of a hose in different sections of a building.

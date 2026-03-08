@@ -1,7 +1,3 @@
-<thinking>
-The form is for policyholders to grant authorization for a representative to act on their behalf in settlement claims. The representative can be anyone, such as an attorney or family member. The form includes various fields for collecting information from the policyholder and the representative, including their contact details, relationship, and powers of authorization. The representative may also be authorized to receive payments on behalf of the policyholder. The form also includes fields for identifying the policyholder and representative, such as names, addresses, and emails. The representative's scope of authorization can be selected from a list of options, and the policyholder may be asked to verify their identification. The form also includes fields for witnessing and signature validation.
-</thinking>
-
 # Claim Settlement Authorization Form - Help Guide
 ## Purpose
 This form is for policyholders to grant authorization for a representative to act on their behalf in settlement claims.

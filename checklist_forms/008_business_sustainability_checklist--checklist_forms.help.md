@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations assess their sustainability practices and identify areas for improvement. It's essential to understand that this form is a general template and may not cover all specific aspects of a company's sustainability efforts. Please note that this form is not affiliated with or endorsed by any particular platform and is a public adaptation of a generic form. The form has been created using AI and can be used, modified, or even sold, with proper credit given.
-</thinking>
-
 # Business Sustainability Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate an organization's sustainability practices across various categories, including environmental, social, and governance. It aims to help identify areas where the organization is excelling and areas where improvement is needed.

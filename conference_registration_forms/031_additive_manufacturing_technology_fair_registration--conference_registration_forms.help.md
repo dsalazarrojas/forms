@@ -1,12 +1,3 @@
-<thinking>
-This form is used to register attendees for the Additive Manufacturing Technology Fair. The purpose of this form is to gather information about each attendee, including their name, contact details, attendance days, workshop preferences, and any additional requirements such as dietary needs or accommodation requests.
-
-This form should only be used for attendees who wish to register for the fair. Please ensure that you are registering for the correct event and have all necessary information before proceeding.
-
-Before completing this form, ensure that you have all necessary details ready. If you are unsure about any of the fields, please refer to the explanation below.
-
-</thinking>
-
 # Additive Manufacturing Technology Fair Registration - Help Guide
 ## Purpose
 This form is used to register attendees for the Additive Manufacturing Technology Fair. Please fill out the form completely and accurately to ensure your registration is processed correctly.

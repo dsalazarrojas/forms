@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture the necessary information for an accounting firm to obtain consent from clients or entities to use their records. The form is intended to ensure that the firm is authorized to use the records for specific purposes, such as general ledger, tax returns, or audit reports. By completing this form, the representative of the entity is providing consent for the firm to access and use their records for the specified purposes. This form is a standard template for accounting firms to obtain consent, but it's essential to review and understand the purpose of each field to ensure accurate and compliant information collection.
-
-This form is designed to be completed in conjunction with an authorized representative of the client or entity, and the information collected will be used by the accounting firm to provide services as described in the records authorized for use. It's critical to complete the form accurately and honestly to maintain confidentiality and respect data protection laws.
-
-To avoid any confusion or misinterpretation, please ensure that you understand the purpose of each field before completing the form.</thinking>
-
 # Accounting Record Use Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from clients or entities for the use of their accounting records by an accounting firm. The form captures the necessary information to ensure that the firm is authorized to use the records for specific purposes, such as general ledger, tax returns, or audit reports.

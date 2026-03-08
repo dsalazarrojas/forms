@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive order form for signboard design services. It is likely used to collect information from customers to create custom signboards. The form may be used by a business to gather details about the customer's preferences and requirements for the signboard, such as design type, material preferences, and any special instructions.
-To confirm, the form has fields for customer information, image upload, design requirements, design type, material preferences, image upload, special instructions, and order status, as well as fields for the customer to confirm their order, payment method, and review order details. The form also includes fields for the business to confirm submission and review the design. 
-</thinking>
-
 # Signboard Design Order Form - Help Guide
 ## Purpose
 The Signboard Design Order Form is used to collect information from customers to create custom signboards. The form helps gather details about the customer's preferences and requirements for the signboard, ensuring that the design meets their expectations.

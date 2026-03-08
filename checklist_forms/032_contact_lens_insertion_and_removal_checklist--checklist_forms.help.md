@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to document the training process for contact lens insertion and removal procedures. The purpose of this form is to ensure that trainees understand and demonstrate correct techniques for inserting and removing contact lenses safely and effectively.
-
-When filling out this form, please ensure that you're completing the form for the specific training session being documented. Reusing an existing form will not be effective in tracking progress and ensuring accurate documentation.
-
-When explaining the fields below, I will focus on conveying the necessary information for the end user to complete the form correctly and accurately.
-</thinking>
-
 # Contact Lens Insertion And Removal Checklist - Help Guide
 
 ## Purpose

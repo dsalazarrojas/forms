@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Luxury Customer Experience Audit Form is designed to measure the quality of service standards, staff friendliness, facilities cleanliness, and overall customer satisfaction in luxury establishments. This form helps businesses identify areas for improvement and provide a comprehensive evaluation of their services.
 
 To complete this form, follow these steps:

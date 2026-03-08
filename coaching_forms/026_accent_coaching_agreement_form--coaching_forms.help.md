@@ -1,10 +1,3 @@
-<thinking>
-This help guide aims to assist users in understanding the purpose and process of filling out the "Accent Coaching Agreement Form" form. The form is used for clients to provide information about themselves, select a coaching program, and agree to terms and conditions. It is essential to ensure that clients understand the form's purpose and requirements before proceeding. The form consists of several sections, including client information, coaching program details, financial agreements, terms and policies, and authorization. Each field is designed to collect specific information that will help coaches and clients establish a clear understanding of their coaching engagement.
-
-Before filling out the form, please ensure you are aware of your chosen coaching program, session format, and payment schedule. This guide will walk you through each field, explaining the necessary details to complete the form accurately.
-
-</thinking>
-
 # Accent Coaching Agreement Form - Help Guide
 ## Purpose
 The "Accent Coaching Agreement Form" is used to establish a coaching agreement between you, the client, and your coach. It captures essential details about your coaching program, payment schedule, and terms of service. Please take the time to read and understand each section before filling out the form.

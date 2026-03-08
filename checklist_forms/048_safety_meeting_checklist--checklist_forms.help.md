@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for safety meetings. It's a comprehensive form that covers various aspects of the meeting, including the date, time, location, attendees, and meeting leaders. The purpose of this form is to ensure that all necessary information is documented and easily accessible. Before starting, ensure that you have the necessary permissions or authorizations to complete this form. Also, review the options available for each field carefully to ensure you select the correct information.
-</thinking>
-
 # Safety Meeting Checklist - Help Guide
 ## Purpose
 The Safety Meeting Checklist is a form used to document the details of safety meetings. This form helps ensure that all necessary information is collected and easily accessible.

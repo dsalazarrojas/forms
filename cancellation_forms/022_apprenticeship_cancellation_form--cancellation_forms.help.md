@@ -1,7 +1,3 @@
-<thinking>
-This form is used by the user to cancel their apprenticeship, providing details about the apprentice's information, apprenticeship program information, and reason for cancellation. 
-</thinking>
-
 # Apprenticeship Cancellation Form - Help Guide
 ## Purpose
 The Apprenticeship Cancellation Form is used to provide necessary information to cancel an apprenticeship program.

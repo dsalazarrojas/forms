@@ -1,13 +1,3 @@
-<thinking>
-
-This form, titled "videography_billing_form", is designed to gather information for videography services billing purposes. It collects details about the client, project, billing date, total cost, payment options, payment method, billing status, and additional information.
-
-The purpose of this form is to ensure that all relevant information is gathered accurately and efficiently, streamlining the billing process for videography services. This form is likely to be used by videography service providers or businesses in the videography industry.
-
-Before filling out this form, ensure that you have the necessary permissions and access to complete it. This form might be part of a larger workflow or process, so be aware of any internal procedures that govern its use.
-
-</thinking>
-
 # videography_billing_form - Help Guide
 ## Purpose
 The videography_billing_form is used to gather information for videography services billing purposes.

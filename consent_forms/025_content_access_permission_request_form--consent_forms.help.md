@@ -1,9 +1,3 @@
-<thinking> 
-To ensure the form is being used as intended, I'll review the provided YAML form configuration to understand its purpose and requirements. 
-
-This form appears to be for requesting access permission to specific content, likely in an organization or business setting. It's essential to verify that the user has provided accurate and complete information to prevent duplication of effort or miscommunication. 
-</thinking>
-
 # Content Access Permission Request Form - Help Guide
 ## Purpose
 This form is designed to request access permission to specific content. Fill out this form with your user details and provide a clear reason for your access request.

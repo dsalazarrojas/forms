@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help employees assess their progress and achievement in the business over a specific reporting period. It is intended to capture key information about the period's performance, including organizational achievements, key accomplishments, and metrics related to revenue growth, client acquisition, project completion, and future goals. The purpose is to provide a structured and systematic way to evaluate success and identify areas for improvement. The form is used to track and record progress towards achieving business objectives, and to help leaders make informed decisions about resource allocation and goal-setting. 
-
-</thinking>
-
 # Advance Achievement Survey - Help Guide
 ## Purpose
 This guide is intended to provide users with a clear understanding of how to complete the Advance Achievement Survey form and what information it captures. 

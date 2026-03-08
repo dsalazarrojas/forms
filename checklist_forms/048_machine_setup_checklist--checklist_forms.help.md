@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Machine Setup Checklist - Help Guide
 ## Purpose
 The Machine Setup Checklist is a form designed to help you confirm that your machine is properly set up and ready for use. This form covers various aspects of machine setup, including initial checks, selection of options, and input of specific details. By completing this form, you can ensure that your machine is configured correctly and meets the required standards.

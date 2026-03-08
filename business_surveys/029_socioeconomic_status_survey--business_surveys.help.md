@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect socioeconomic data about individuals or households, likely for research or statistical purposes. This form is part of the "business_surveys" category and is titled "socioeconomic_status_survey". It is possible that this form may be used to gather information about the respondents' income, employment status, education level, household composition, and other demographic variables. However, the exact purpose and usage of this form might not be explicitly stated in the provided YAML fields.
-</thinking>
-
 # socioeconomic_status_survey - Help Guide
 ## Purpose
 The socioeconomic_status_survey form is designed to collect socioeconomic data about individuals or households. This data may be used for research, statistical analysis, or other business purposes.

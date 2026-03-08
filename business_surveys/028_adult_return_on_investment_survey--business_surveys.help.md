@@ -1,10 +1,3 @@
-<thinking>
-The Adult Return On Investment Survey form is designed to gather feedback from adult learners who have completed programs or training sessions. The purpose of this form is to measure the economic and social impact of these programs on participants' careers and lives. It is essential to ensure that this form is completed by individuals who have actually attended a program, and not by those who have not.
-
-To avoid duplication, we recommend that this form be filled out by only one person per program or session. This will help in getting accurate and reliable feedback that can be used to improve future programs and services.
-
-Before starting, take a moment to review the form and ensure you are providing accurate and honest feedback. Your input is crucial in helping us assess the effectiveness of our programs and services.</thinking>
-
 # Adult Return On Investment Survey - Help Guide
 ## Purpose
 This survey aims to evaluate the impact of adult programs or training sessions on participants' careers and lives. It is essential for us to gather feedback from actual attendees to refine and improve our offerings.

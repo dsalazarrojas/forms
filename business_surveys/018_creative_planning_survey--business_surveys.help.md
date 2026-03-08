@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Planning Survey - Help Guide
 ## Purpose
 The Creative Planning Survey is a form used to collect and organize information about creative projects. It helps to identify key details such as title, category, description, and assigned tool. This form is used to create a comprehensive understanding of a project's scope and requirements.

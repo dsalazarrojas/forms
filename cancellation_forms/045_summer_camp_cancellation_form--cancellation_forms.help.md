@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from parents about the cancellation of a child's summer camp registration. The purpose of this form is to gather the reasons for cancellation, the staff member responsible, and any additional comments or remarks. It's essential to fill out this form accurately and thoroughly to ensure that the cancellation process is completed efficiently and effectively. Before filling out this form, please review the provided options carefully and ensure that you are not duplicating any previously submitted forms for the same child.
-
-This form has multiple sections and fields to collect various types of information. Please take your time to review each section carefully and make sure to fill out all required fields. If you're unsure about any field or section, please reach out to the camp staff for clarification.
-</thinking>
-
 # Summer Camp Cancellation Form - Help Guide
 
 ## Purpose

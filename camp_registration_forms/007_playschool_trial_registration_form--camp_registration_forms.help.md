@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users to register their child for a playschool trial. The form will be used to gather user details, child details, emergency contact information, consent, and other relevant details. The fields are categorized into user information, child information, emergency contact, and other details. The form is required to be completed in its entirety for successful registration.
-</thinking>
-
 # playschool_trial_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from users to register their child for a playschool trial. This form is designed to ensure that all required details are captured to facilitate a smooth and efficient registration process.

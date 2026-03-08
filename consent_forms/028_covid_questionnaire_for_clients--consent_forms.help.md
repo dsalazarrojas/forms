@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients regarding their exposure to COVID-19, their symptoms, contact tracing, travel history, exposure risk, and other relevant details. The form is designed to be completed by clients who have been affected by or are at risk of being affected by the virus. This form helps the organization to track and monitor client data in a standardized and efficient manner. To my knowledge, this form is not used in conjunction with other forms, so there is no need for duplication check.
-</thinking>
-
 # Covid Questionnaire For Clients - Help Guide
 ## Purpose
 The Covid Questionnaire For Clients form is designed to collect information from clients regarding their exposure to COVID-19, their symptoms, contact tracing, travel history, exposure risk, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-
-This form is used to record and update the recalcibration status of hanging scales in a warehouse. This form is intended for warehouse staff to track the calibration history and due dates for each hanging scale. The information collected in this form will be used to identify which scales are overdue for recalibration and ensure they are recalibrated within a safe and accurate margin. Please fill in the required and optional fields to accurately record the relevant information for each hanging scale. This form should only be completed once for each hanging scale, to avoid creating redundant records. If you are unsure of any information, please contact the relevant staff member or refer to the scale's manual or manufacturer's documentation.</thinking>
-
 # Hanging Scale Recalibration Checklist - Help Guide
 ## Purpose
 

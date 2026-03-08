@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their experience with the submission management process. This form is intended to collect feedback from users on their satisfaction with the submission process, including their ease of use, any potential improvement ideas, and other relevant information. This form is meant to be used to identify areas of improvement and provide a better user experience.
-
-Before proceeding, please ensure you have not completed this form previously. If you have already submitted your feedback, your responses will be recorded. If you're unsure, please contact the form administrator for guidance.
-
-</thinking>
-
 # Submission Management Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the submission management process.

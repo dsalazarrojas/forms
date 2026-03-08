@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about non-produce inventory items in a business setting. The form likely aims to gather details about the items, their suppliers, and inventory management metrics such as stock levels and restocking frequency. This form is likely used for inventory management and tracking purposes. To ensure the form is not duplicated, the form ID and name should be unique within the organization.
-
-The form consists of 17 fields, which can be grouped into several categories:
-- Item information (item name, description, and type)
-- Supplier information (supplier name, location, and phone number)
-- Inventory metrics (purchase price, sale price, quantity, stock level, and restocking level)
-- Restocking information (restocking frequency and delivery date/time)
-- Additional information (non-produce status and notes)
-
-</thinking>
-
 # Non Produce Inventory Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about non-produce inventory items in a business setting.

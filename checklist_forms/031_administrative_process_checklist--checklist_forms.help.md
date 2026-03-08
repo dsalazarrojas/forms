@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help administrative teams track and verify the completion of various tasks and procedures within their department. The form is used to gather information on the completion of daily, weekly, and monthly tasks, as well as ensure that certain checks and protocols are followed. The form also serves as a way to document any issues that may have arisen during the process and to record corrective actions taken to address them. This form should be filled out by the responsible person completing the tasks and procedures outlined in the checklist, and should be reviewed by a supervisor to ensure that all tasks have been properly completed and that protocols have been followed.
-</thinking>
-
 # Administrative Process Checklist - Help Guide
 ## Purpose
 This form is used to track and verify the completion of various administrative tasks and procedures, including daily, weekly, and monthly tasks, as well as ensure that certain checks and protocols are followed.

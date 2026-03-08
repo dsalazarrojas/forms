@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect industrial sustainability metrics for a company. It aims to gather information about the company's environmental, social, and governance (ESG) performance. The purpose of this form is to provide a standardized way of assessing and comparing industrial companies' sustainability metrics. The form collects data on various aspects such as company name, location, type, and sustainability scores. This information will help stakeholders to evaluate and improve the company's ESG performance.
-
-The form is designed to be simple and easy to fill out, with clear labels and concise explanations. However, it's essential to take a few moments to understand the purpose and implications of each question.
-
-Before starting, ensure that you're familiar with the company's data and have access to the necessary information.
-
-</thinking>
-
 # Industrial Sustainability Metrics Report Form - Help Guide
 ## Purpose
 This form is designed to collect industrial sustainability metrics for a company, allowing for evaluation and improvement of its environmental, social, and governance (ESG) performance.

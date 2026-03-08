@@ -1,12 +1,3 @@
-<thinking>
-This form is a Newborn Photography Contract that captures essential information from customers and photographers for a photography session. The purpose of this form is to ensure that both parties have a clear understanding of the session details, terms, and expectations. It is essential to complete this form to establish a professional relationship between the customer and the photographer. Please ensure you have reviewed the form carefully before starting to fill it out.
-
-Before you begin, make sure you have all the necessary information and documents ready. This form is designed to be completed by both the customer and the photographer, so make sure both parties have a clear understanding of each other's contact information and session details.
-
-Please note that this form is not a legally binding contract, and its primary purpose is to facilitate communication and understanding between parties. It is recommended that both parties review and agree on the terms before proceeding with the photography session.
-
-</thinking>
-
 # Newborn Photography Contract - Help Guide
 ## Purpose
 The Newborn Photography Contract is a document that captures essential information from customers and photographers for a photography session. It ensures both parties have a clear understanding of the session details, terms, and expectations.

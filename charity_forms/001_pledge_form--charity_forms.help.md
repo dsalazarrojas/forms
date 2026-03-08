@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is for users to pledge to donate money to a specific campaign. The form should only be used for campaigns that are registered on the platform. To avoid duplication, users can only pledge if they have not already pledged to the same campaign.
-
-</thinking>
-
 # Pledge Form - Help Guide
 
 ## Purpose

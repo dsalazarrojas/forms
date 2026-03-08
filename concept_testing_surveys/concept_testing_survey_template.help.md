@@ -1,15 +1,3 @@
-<thinking>
-
-This form was created to collect user feedback on a presented concept. Its primary purpose is to gather information on how users perceive and respond to the concept, helping us to refine and improve its development.
-
-This form is designed to be simple and straightforward, making it easy for users to provide their thoughts and opinions. Before you start, please note that your responses will be kept confidential and anonymous.
-
-Before answering the questions, please ensure that you've had a chance to review and consider the concept. Your feedback is valuable, and we appreciate your honesty.
-
-When you're ready, let's begin!
-
-</thinking>
-
 # concept_testing_survey_template - Help Guide
 ## Purpose
 This form is designed to gather initial impressions and feedback on a presented concept.

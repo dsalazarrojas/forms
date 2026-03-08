@@ -1,12 +1,4 @@
-> <thinking>... (Internal reasoning block)
-
-To confirm the form's purpose and relevance, I've checked the input schema and found that the form is for registration, likely for an organization or individual interested in a renewable cooling network. It's not affiliated with any proprietary form platforms, and it's designed for public use. The form has 4 pages with different fields for contact, organization details, interest details, and notes. 
-
-This form is intended for data collection, probably for a networking or informational purpose. It's likely used by companies, organizations, or individuals involved in the renewable cooling sector.
-
-</thinking>
-
-# Renewable Cooling Network Registration Form - Help Guide
+> # Renewable Cooling Network Registration Form - Help Guide
 ## Purpose
 The Renewable Cooling Network Registration Form is designed for registration of organizations or individuals interested in a renewable cooling network. This form aims to collect contact, organization, and interest details.
 

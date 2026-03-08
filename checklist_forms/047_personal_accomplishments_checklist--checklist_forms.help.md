@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Accomplishments Checklist - Help Guide
 ## Purpose
 The Personal Accomplishments Checklist is a form designed to help you track your progress and milestones over a period of time. It's intended for users to input a number indicating how many weeks they have achieved certain goals or made progress toward them.

@@ -1,8 +1,3 @@
-<thinking>
-Please ensure that the form "2021 Spring/Summer Nailing It With Karie On Hand Inventory" is being used for its intended purpose and not for any other purpose. This form is designed to assess the performance of Karie On Hand Inventory, and any submissions made for other purposes will be considered invalid. Also, please note that the form's fields and questions have been carefully crafted to gather specific information about the distributor's experience and preferences. To avoid duplication of effort, please do not use this form for any other purpose other than gathering feedback on the 2021 Spring/Summer Nailing It With Karie On Hand Inventory.
-
-</thinking>
-
 # 2021 Spring/Summer Nailing It With Karie On Hand Inventory - Help Guide
 ## Purpose
 This form is designed to gather feedback from Karie On Hand distributors on their experience with the 2021 Spring/Summer collection. It will collect information on their current stock levels, preferred catalog formats, shipping addresses, and overall satisfaction with the product. This data will help us better understand their needs and improve future product offerings.

@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form is intended for pharmacy staff to document their weekend work, allowing for easy tracking and review of tasks accomplished during their shifts. The form should be completed during or shortly after each shift, ensuring accurate and timely reporting of tasks and any issues that occurred.
-
-To ensure data accuracy and completeness, this guide is intended to be followed to the letter, preventing potential errors or omissions. If you are unsure of a particular field's purpose, please refer to the explanation provided below.
-
-</thinking>
-
 # Pharmacy Weekend Work Checklist - Help Guide
 ## Purpose
 The Pharmacy Weekend Work Checklist is a form designed for pharmacy staff to document their weekend work, ensuring accurate and timely reporting of tasks and any issues that occurred.

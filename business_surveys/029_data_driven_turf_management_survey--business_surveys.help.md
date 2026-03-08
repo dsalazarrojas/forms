@@ -1,15 +1,3 @@
-<thinking>... 
-
-To ensure that you get the most out of this form, take a moment to review the following:
-
-This form, "Data Driven Turf Management Survey," is designed to collect information about your experiences, goals, and challenges with data-driven turf management. By filling out this form, you'll help us better understand your needs and pain points, which will enable us to provide more effective support and solutions for data collection and usage.
-
-Please be aware that this form is not intended to be a comprehensive evaluation or assessment, but rather a general survey to gather information about your current practices and future goals. Your responses will be kept confidential and used solely for the purpose of improving data-driven turf management practices.
-
-Before proceeding, please make sure that you're familiar with the questions and fields presented in this form. If you have any questions or concerns, feel free to ask. If you've already filled out a similar survey, please note that this form is not intended to be a duplicate, and your responses may be different from previous ones.
-
-</thinking>
-
 # Data Driven Turf Management Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your experiences, goals, and challenges with data-driven turf management. This will help us better understand your needs and pain points, which will enable us to provide more effective support and solutions.

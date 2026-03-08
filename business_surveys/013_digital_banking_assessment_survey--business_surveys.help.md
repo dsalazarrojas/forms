@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback and ratings from users regarding the digital banking services provided by an institution. The form asks for information about the user, including their User Id, User Name, and other contact details such as email and phone number. The Branch Id and Account Id fields are used to identify the branch and account associated with the user's feedback. The User Rating and Branch Rating fields are intended to measure the user's satisfaction with the services they received. The Feedback field is a text field for users to provide any additional comments or suggestions. This form is designed to be completed by users after interacting with the digital banking services to help the institution improve its services.
-Before completing this form, please ensure that you are not duplicating your feedback. If you have already submitted a survey, please do not submit another one.
-</thinking>
-
 # Digital Banking Assessment Survey - Help Guide
 
 ## Purpose

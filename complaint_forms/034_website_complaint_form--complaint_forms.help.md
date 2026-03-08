@@ -1,20 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Website Complaint Form, we should consider the following steps:
-
-1.  **Form Purpose**: The form should be designed to collect complaints about the website. The form is likely used for customers or visitors who have encountered issues with the website's functionality, design, or experience.
-
-2.  **Field Validation**: Before completing the form, end-users should be informed about the purpose of each field to prevent errors and ensure they provide relevant information.
-
-3.  **Field Types and Options**: The form includes fields of different types: text, select_one, text, email, select_multiple, and date. Text fields should be self-explanatory. Select_one and select_multiple fields should be explained by their options, which are provided in the form definition. The date field does not require an explanation, as it's a standard date input field.
-
-4.  **Required Fields**: None of the fields are required in the provided YAML definition. This might be a good opportunity to explain the minimum required fields or to add some.
-
-5.  **Tips and Guidance**: Providing tips on how to fill out the form effectively and what to expect after submission can make the experience more user-friendly.
-
-6.  **Submission and Follow-up**: A section explaining what happens after submitting the form can also be added to provide clarity and build trust.
-
-</thinking>
-
 # Website Complaint Form - Help Guide
 ## Purpose
 The Website Complaint Form is designed to allow customers or visitors to report any issues or complaints about our website. This form is an opportunity to share your feedback and help us improve our site's performance.

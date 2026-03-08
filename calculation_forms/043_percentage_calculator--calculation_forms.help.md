@@ -1,15 +1,3 @@
-<thinking>
-The purpose of the "Percentage Calculator" form is to calculate a percentage value based on a given base value and percentage value. This form is used in various business scenarios where a percentage value needs to be calculated for a given base amount. For example, calculating a discount percentage on a product price, or finding the percentage change in stock prices. 
-
-The form is designed to be straightforward, with only the base value and percentage value fields required. The base amount field is optional, which means users can fill it in if they want to provide additional context or information. 
-
-There is also a field for the result of the calculation, which will be populated automatically after entering the base value and percentage value. Additionally, a hint field for the result will be displayed to provide context and feedback to the user.
-
-The form will calculate the percentage result by using the base value and percentage value entered by the user, and will display the calculated result in the result field. The form's logic is based on the following formula: (base value * percentage value) / 100.
-
-This form will be useful for anyone who needs to calculate a percentage value for a given base amount, such as business analysts, financial professionals, or anyone who needs to make quick percentage calculations.
-</thinking>
-
 # percentage_calculator - Help Guide
 ## Purpose
 The "percentage_calculator" form is designed to calculate a percentage value based on a given base value and percentage value. 

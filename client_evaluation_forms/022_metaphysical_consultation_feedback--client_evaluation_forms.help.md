@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Metaphysical Consultation Feedback - Help Guide
 ## Purpose
 The Metaphysical Consultation Feedback form is used to collect post-session insights, satisfaction ratings, and recommendations from clients after a metaphysical consultation. This form helps us understand our clients' experiences and gather feedback to improve our services.

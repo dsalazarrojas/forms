@@ -1,11 +1,3 @@
-<thinking>
-
-This form was created to gather information from business stakeholders about their current and future innovation adoption. The goal is to understand the stage of innovation adoption in their organization and identify potential barriers to adoption. The survey will help us understand the decision timeframe for implementing new innovations and the expected benefits of these adoptions.
-
-To ensure you're providing relevant and accurate feedback, please answer the questions as they relate to your current organization. If you have previously responded to this survey, please let us know so that we can avoid duplication of responses.
-
-</thinking>
-
 # Business Innovation Adoption Survey - Help Guide
 ## Purpose
 This guide will help you complete the business innovation adoption survey. The survey aims to gather insights from business stakeholders on their current and future innovation adoption stages, barriers, decision timeframes, and expected benefits.

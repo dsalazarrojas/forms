@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a checklist for creating a watchlist of best movies, and its purpose is to gather information from users about their preferences and selections. The form is designed to be completed by individuals who want to share their favorite movies and provide additional context about their preferences. The form should be relevant to users who are interested in movies or the entertainment industry, and it's essential to ensure that users do not complete the form if they are not interested in movies.
-
-Before filling out this form, ensure that you have a valid reason for completing it and that you understand the purpose behind it. If you're unsure or have questions, please contact the relevant authorities or support personnel for clarification.
-
-</thinking>
-
 # Best Movies Watchlist Checklist - Help Guide
 ## Purpose
 The Best Movies Watchlist Checklist is designed to collect information from users about their favorite movies and preferences. This form helps users share their thoughts on movies and provides additional context for users who want to discuss or analyze these preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to assist event organizers and participants in planning and executing the setup and teardown of events, ensuring a smooth and efficient experience. The form's design is based on general event planning best practices and caters to a broad range of event types, eliminating the need for event-specific templates. This form has been created without referencing any proprietary form platforms, ensuring its neutrality and universality.
-</thinking>
-
 # Event Setup And Teardown Checklist - Help Guide
 ## Purpose
 The Event Setup And Teardown Checklist is a comprehensive form designed to guide event organizers and participants through the essential steps for setting up and tearing down events. This guide will walk you through the form's purpose, completion instructions, and each field's explanation to ensure a clear understanding of its use.

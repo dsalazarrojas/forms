@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from business users on the impact of marketing strategies on sales performance. It aims to collect data on various aspects of marketing and sales, including marketing channels, strategies, and budget allocation. The form is intended for businesses of all sizes and types, and the questions are designed to be relevant and non-duplicative. It's essential to provide accurate and helpful responses to these questions to ensure the quality of the data collected.
-</thinking>
-
 # Impact Of Marketing Strategies On Sales Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on the impact of marketing strategies on sales performance. The goal is to gather data on various marketing channels, strategies, and budget allocations used by businesses to achieve sales goals.

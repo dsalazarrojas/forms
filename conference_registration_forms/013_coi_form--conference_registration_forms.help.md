@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect participant information for the conference, specifically to ensure that they have no conflicts of interest that may impact their participation. This form is intended to be completed by participants who wish to present or attend the conference. The information provided in this form will be reviewed and verified by conference organizers to ensure a conflict-free environment.
-
-</thinking>
-
 # COI Form - Help Guide
 ## Purpose
 The COI Form is a crucial component of the conference registration process. By completing this form, you are confirming that you have no conflicts of interest that may impact your participation in the conference.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide hiring managers and their assistants through the hiring procedure. It ensures that all necessary steps are taken to make informed decisions about candidate selection. The form helps to standardize the hiring process, reducing the risk of bias and ensuring consistency. It also provides a clear record of the hiring process, making it easier to track and evaluate the performance of hiring managers and their assistants. By using this form, hiring managers and their assistants can focus on making informed decisions, while minimizing the risk of errors and disputes.
-</thinking>
-
 # hiring-procedure-checklist - Help Guide
 
 ## Purpose

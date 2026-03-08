@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outdoor Dining Application Form - Help Guide
 ## Purpose
 This form is designed for individuals to submit an application for outdoor dining requests, providing necessary information about themselves and their dining preferences.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information for the inspection of switchgear equipment. This form will likely be used by maintenance personnel or technicians in a power plant or other industrial setting to report on the inspection results of switchgear units. It's possible that this form is part of a larger process for tracking and managing switchgear inspections, but without further context, we'll focus on the specific form design and functionality.
-
-Before we proceed, let's assume that the form is being used to document the inspection of switchgear units, and that the goal is to gather relevant information about the equipment's condition and any issues that require attention.
-
-To confirm, we'll review the form fields and their expected inputs. The form appears to have a variety of fields, including text inputs for notes and results, select options for switchgear items, date and time inputs for recording the inspection details, and text inputs for user information. Each field is labeled and has a clear indication of its required status.
-
-Let's proceed with the help guide, assuming that this form will be used for switchgear inspections.
-
-</thinking>
-
 # switchgear_inspection_form - Help Guide
 
 ## Purpose

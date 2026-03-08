@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for the purpose of managing food allergies in students, especially those who attend school or camp. It is crucial to have a clear understanding of a student's allergy status, medical conditions, and emergency procedures to ensure their safety and well-being. This form will help administrators or healthcare professionals gather necessary information about a student's allergies, medical history, and emergency contact details.
-
-Please ensure that this form is not duplicated for the same student, and that each student's information is treated confidentially.
-
-</thinking>
-
 # Food Allergy Management Consent Form - Help Guide
 ## Purpose
 The Food Allergy Management Consent Form is designed to gather essential information about a student's food allergies, medical conditions, and emergency contact details. This guide will walk you through each section of the form to help you complete it accurately and efficiently.

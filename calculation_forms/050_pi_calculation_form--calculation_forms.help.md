@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PI (π) Calculation Form - Help Guide
 
 ## Purpose

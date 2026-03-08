@@ -1,8 +1,3 @@
-<thinking>
-To confirm the purpose of this form, the internal logic will check if it's a registration form and if it's for information query only. If it's not a registration form or not for information query only, it will trigger a warning. 
-This form is meant to collect basic personal information from users. It's likely being used for marketing, customer service, or similar business purposes. 
-</thinking>
-
 # Registration Form (Information Query Only) - Help Guide
 ## Purpose
 The Registration Form (Information Query Only) is designed to collect basic personal information from users for marketing, customer service, or similar business purposes. Please note that this form is for information query only and is not intended for registration or submission of sensitive data.

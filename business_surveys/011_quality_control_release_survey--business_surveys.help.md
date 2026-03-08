@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from quality control inspectors on the release of products or batches. It appears to be used to track and document inspection dates and results, product or batch IDs, and release decisions. The form has multiple pages, but it seems that each page is for a single product or batch inspection. The form also asks for two separate sets of inspection dates, product or batch IDs, and results, which suggests that it may be used for both initial and final inspections. The form's purpose is likely to ensure that products or batches meet certain quality standards and are ready for release.
-</thinking>
-
 # Quality Control Release Survey - Help Guide
 ## Purpose
 

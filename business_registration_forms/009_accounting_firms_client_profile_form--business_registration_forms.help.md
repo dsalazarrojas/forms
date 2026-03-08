@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information about an accounting firm's client, including their profile details, contact information, and preferences. This guide will cover the steps to complete the form, explaining each field's purpose and required fields for a successful submission.
-
-To determine which services are selected and how the client prefers to be contacted, this guide will also cover the select multiple and select one fields, respectively. 
-
-Note, this form does not require any special formatting or conditional logic. The fields are self-explanatory and do not depend on each other. Thus, filling out the form should be a straightforward task.
-</thinking>
-
 # Accounting Firms Client Profile Form - Help Guide
 ## Purpose
 This form is designed to collect client profile information, allowing your accounting firm to understand their needs and preferences.

@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information about the adoption of Environmental, Social, and Governance (ESG) policies within an organization. This form is intended to help assess the current state of ESG policy adoption across the company. The purpose of this form is to gather data on the implementation status of ESG policies, the types of frameworks used, and any additional comments or concerns related to these policies. This information will be used to inform future decision-making and drive business growth. Please ensure that you have reviewed the form carefully and have answered all questions to the best of your ability. If you have any questions or concerns, please do not hesitate to reach out to your supervisor or HR representative. ...</thinking>
-
 # ESG Policy Adoption Survey - Help Guide
 ## Purpose
 The ESG Policy Adoption Survey is designed to collect information about the adoption of Environmental, Social, and Governance (ESG) policies within an organization. This information will be used to inform future decision-making and drive business growth.

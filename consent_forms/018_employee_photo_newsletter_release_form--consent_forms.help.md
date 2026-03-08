@@ -1,5 +1,3 @@
-<thinking>... This form is used to gather information about an employee's consent to use their photo in various types of publications. The form is intended for internal use within the organization and is not meant to be submitted by external parties. Please review the form carefully to ensure you are providing accurate information. If you have already completed a similar form in the past, please note that this form is a duplicate and does not need to be submitted unless you wish to update your previous response. ...</thinking>
-
 # Employee Photo Newsletter Release Form - Help Guide
 ## Purpose
 This form is used to gather consent from employees to use their photo in various types of publications. Please review the form carefully to ensure you are providing accurate information.

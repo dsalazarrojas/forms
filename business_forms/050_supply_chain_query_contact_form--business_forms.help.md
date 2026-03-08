@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather contact information and query details from users to facilitate communication and issue resolution within the supply chain. It's designed to be filled out by users to provide context and supporting information for their query.
-Before submitting the form, please ensure you have the necessary permissions and approvals from your supervisor or manager.
-To avoid duplication, please do not submit duplicate queries, especially for the same issue. If you've already submitted a query, please follow up on the previous submission.
-</thinking>
-
 # Supply Chain Query Contact Form - Help Guide
 ## Purpose
 The Supply Chain Query Contact Form is designed to collect contact information and query details from users to facilitate communication and issue resolution within the supply chain. This form is intended to gather relevant information to help resolve the user's query in a timely and efficient manner.

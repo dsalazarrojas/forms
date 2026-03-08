@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the purpose and relevance of this form. This Time Certification Survey form is designed to collect data on employee certifications and certifications-related information. The form likely serves as a tool for managers or HR personnel to track and evaluate employee certifications, ensuring accuracy and completeness of records. To confirm, let's assume that this form is intended for use within an organization to monitor and record employee certifications, such as time-off certifications, vacation time, or other types of absences. If this assumption is correct, we'll proceed with creating the help guide.</thinking>
-
 # Time Certification Survey - Help Guide
 ## Purpose
 The Time Certification Survey form is designed to gather essential information related to employee certifications, ensuring accurate and up-to-date records within the organization. This includes certifications for time-off, vacation, and other types of absences.

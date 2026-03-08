@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Form - Help Guide
 ## Purpose
 The Church Form is designed to gather feedback from visitors about their experience at the church. It is intended to help us understand what we do well and where we can improve, so we can better serve you and our community. Your input is valuable to us, and we appreciate your time in filling out this form.

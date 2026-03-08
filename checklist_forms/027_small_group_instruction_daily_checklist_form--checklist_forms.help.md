@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing daily information about small group instruction activities. The purpose of this form is to ensure that the instructor has a clear understanding of what activities took place during a small group instruction session, including the names of the groups, the date of the instruction, if the activities were instructional, if students participated, and if materials were needed. This form will help the instructor keep track of the activities and materials used during the instruction session, and provide a way to document the student participation and teacher notes. This form is meant to be filled out daily, for each small group instruction session, and should only be completed by the teacher or facilitator who conducted the session.
-</thinking>
-
 # small_group_instruction_daily_checklist_form - Help Guide
 ## Purpose
 This form is used to capture daily information about small group instruction activities. It includes fields for small group names, dates, instructional activities, student participants, materials needed, teacher notes, and student participation.

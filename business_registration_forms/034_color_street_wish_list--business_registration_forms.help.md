@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's personal preferences and interests related to Color Street, a platform that likely offers color-based products or services. It seems to be a simple form for users to input their wishes or preferences, including multiple sections for different types of wishes. The form asks for user information and some specific details such as birthday and notification settings. I will now generate a help guide based on the provided YAML fields.
-</thinking>
-
 # Color Street Wish List - Help Guide
 
 ## Purpose

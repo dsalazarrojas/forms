@@ -1,14 +1,3 @@
-<thinking>...Internal reasoning:
-This form, titled "Christmas Raffle Ticket Form", is intended to gather information from customers or individuals interested in purchasing raffle tickets for a Christmas event. The form is divided into several sections, including purchaser information, ticket purchase, prize information, payment details, and communication preferences. This structure is to ensure that the user has a clear path to fill out the form and provide the necessary information. The form appears to be designed for a charity event, as hinted by the "charity_forms" category. The fields are mostly self-explanatory, but some require further clarification for the end-user to complete the form accurately. For example, the "prize_interest" field seems to require the user to select a prize they are interested in, but no prizes are listed. This might be a placeholder, and the actual prizes will be listed elsewhere. 
-
-The form also requires some payment and communication preferences to be filled out. This might be due to a need for transparency or tracking purposes. It's assumed that the "receipt_email" field is meant to be used to send the receipt to the user after the payment is made.
-
-The form fields are mostly straightforward, but some might cause confusion without proper explanation. For instance, the "payment_status" field seems to be related to the payment method and status, but without clear labels, it's not immediately clear what this means. It's likely a field for tracking payment progress.
-
-The form is likely used for an event where the organizer needs to keep track of the raffle ticket sales, prize interests, and payment details. This form will help them do so efficiently and accurately. 
-
-</thinking>
-
 # Christmas Raffle Ticket Form - Help Guide
 
 ## Purpose

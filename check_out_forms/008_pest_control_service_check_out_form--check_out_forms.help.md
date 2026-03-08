@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information from customers for pest control services. The form should only be used for customers who have previously interacted with the pest control service, such as scheduling a service visit or receiving a quote for services. The form is not intended for new customers. The form should not be used to collect sensitive or confidential information, such as social security numbers or financial information. The form is designed to be completed by the customer in person or over the phone.
-
-To ensure the form is being used correctly, it's recommended to:
-
-* Use the "Pest Control Service Check Out Form" for existing customers only
-* Avoid using the form for new customers or to collect sensitive information
-* Complete the form in person or over the phone to ensure accuracy and to address any questions or concerns the customer may have
-
-</thinking>
-
 # Pest Control Service Check Out Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who have previously interacted with the pest control service. It is used to schedule a follow-up visit, confirm a service appointment, or to collect payment for services rendered.

@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from research participants for inclusion in health startup research cases. This form is used to collect demographic information and medical condition details from participants, which will be used for research purposes.
-
-Before starting, please ensure that you have not filled out this form for the same research case previously. If you are unsure or have any questions, please contact your research coordinator or team lead.
-
-Please ensure that you are filling out the form for a real research case and not as a test or exercise.
-
-This form is only meant for health startup research cases and should not be filled out for other types of research cases.
-
-Please be thorough and accurate when filling out this form, as the information collected will be used for research purposes.
-
-</thinking>
-
 # Health Startup Research Case Inclusion Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from research participants for inclusion in health startup research cases.

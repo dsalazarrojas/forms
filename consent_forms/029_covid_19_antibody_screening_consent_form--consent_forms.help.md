@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the COVID-19 Antibody Screening Consent Form. Before we dive into the details, let's make sure that this form is relevant and has not been previously filled out. Please note that this form is for screening purposes only and does not provide a definitive diagnosis.
-</thinking>
-
 # COVID 19 Antibody Screening Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from patients about their COVID-19 antibody screening test. The test is used to detect past infection with the SARS-CoV-2 virus, which causes COVID-19. Please note that this form is for screening purposes only and does not provide a definitive diagnosis.

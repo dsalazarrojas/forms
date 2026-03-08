@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document information about a safety awareness session that has been conducted. This form will help in keeping track of key details about the session, such as the session's title, trainer, date, location, and attendees. It is used to gather feedback from the attendees and trainers, and to record their evaluations and recommendations. This form will aid in improving future safety awareness sessions by providing valuable insights into what worked and what did not.
-
-Before filling out this form, please ensure that you are reporting on a completed safety awareness session. 
-
-Please do not duplicate a report for the same session. 
-
-The form is meant to be completed by the trainer and/or the participants of the session. 
-
-Note that this form is not for general feedback or comments, but for specific, quantifiable data about the session.
-
-</thinking>
-
 # Safety Awareness Session Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather data about a conducted safety awareness session. It is used to record the session's details, attendees, and outcomes, and to gather feedback and recommendations from the participants and the trainer.

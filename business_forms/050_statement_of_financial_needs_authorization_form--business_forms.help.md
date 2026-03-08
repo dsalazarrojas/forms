@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a person's financial needs and the level of authorization required to meet those needs. 
-The form is typically used by business units or departments to gather data on resource requirements for various projects or initiatives. 
-The user is expected to provide details about their financial needs and the resources needed to meet those needs. 
-However, there are no clear guidelines on how to use this form, and it appears that some fields are not strictly required, which may lead to inconsistent or incomplete data collection.
-</thinking>
-
 # Statement Of Financial Needs Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information about a person's financial needs and the level of authorization required to meet those needs.

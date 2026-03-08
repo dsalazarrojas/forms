@@ -1,5 +1,3 @@
-<thinking>This form is intended to facilitate the quick check-in and tracking of corporate employees. The purpose of this form is to gather information about each employee's presence in the workplace, ensuring accurate records and efficient management. To prevent duplication, each entry should only be completed once per employee per session. This form is not intended for continuous or frequent checks, rather for one-time checks. If an employee is present, they should only submit the information once. If an employee is not present, please do not submit the information.</thinking>
-
 # corporate_employees_presence_check_in - Help Guide
 ## Purpose
 The corporate employees presence check-in form is a tool used to track employees' presence in the workplace. It helps ensure accurate records and efficient management of employee attendance.

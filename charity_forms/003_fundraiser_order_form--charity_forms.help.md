@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Order Form - Help Guide
 
 ## Purpose

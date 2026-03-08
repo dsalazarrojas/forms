@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential applicants to the Coaching And Mentoring Program. It is intended to be used by individuals interested in enrolling in the program to provide their details for evaluation and selection process. This form ensures that applicants meet the required criteria, are aware of the program's terms and conditions, and have provided necessary details for consideration. To prevent duplicate submissions, please make sure to fill in the form only once and save the submission for later reference. 
-
-</thinking>
-
 # Coaching And Mentoring Program Admission Form - Help Guide
 ## Purpose
 

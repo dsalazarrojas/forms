@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect updates to the product tags' design, which are essential for maintaining accurate and consistent product information. This form allows product teams to provide feedback on the design of product tags, specifying which tags need changes, the priority of these changes, and any supporting files that may be relevant to the update. The form should only be used for this specific purpose and not for other updates or changes.
-</thinking>
-
 # product_tag_design_update_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for updating the product tags' design. This form is intended for product teams to submit updates on product tags, specifying which tags need changes, the priority of these updates, and any supporting files that may be relevant.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect coaching service guidelines from coaches, which will be used to showcase on the platform for client selection. The form ensures coaches provide necessary information to facilitate smooth and secure interactions with clients. 
-
-The form is divided into multiple sections, each with specific fields that require completion. Please ensure that you answer each field accurately and thoroughly to provide a comprehensive picture of your coaching services. 
-
-Please review your current guidelines and ensure that they are up-to-date before submitting this form. Duplicate submissions will be automatically flagged and removed from the platform. 
-
-Before proceeding, please ensure that you have reviewed the provided guidelines and that your submissions are accurate and complete. 
-
-</thinking>
-
 # Coaching Service Guidelines Form - Help Guide
 ## Purpose
 This form is designed to collect coaching service guidelines from coaches, which will be used to showcase on the platform for client selection.

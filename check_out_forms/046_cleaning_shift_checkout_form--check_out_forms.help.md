@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the checkout process for cleaning shifts, ensuring that all relevant information is documented and tasks are completed before the end of the shift. It captures details about the shift, team member, and supervisor, including tasks completed, quality checks, supplies, equipment, security, and handoff information. The form aims to reduce errors and improve efficiency in the checkout process.
-</thinking>
-
 # Cleaning Shift Checkout Form - Help Guide
 ## Purpose
 The Cleaning Shift Checkout Form is a tool used by cleaning staff to document their completion of a shift, including tasks, quality checks, and other essential details. This guide will walk you through the form's purpose, how to complete it, and each field's explanation.

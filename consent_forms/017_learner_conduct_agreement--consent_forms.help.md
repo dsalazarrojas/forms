@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learner Conduct Agreement - Help Guide
 ## Purpose
 This form is used to obtain an agreement from learners to uphold a code of conduct that promotes a safe and respectful learning environment. Learners must acknowledge their understanding of the conduct guidelines, agree to follow them, and confirm they will be monitored while participating in the program. This ensures a positive and productive learning experience for all participants.

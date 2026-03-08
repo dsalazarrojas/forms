@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HRA Claim Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...This form is designed for individuals to participate in a 21-day wellness program. To ensure a safe and successful experience, it's essential to gather accurate and comprehensive information about the participant. This form is intended to collect personal data, medical history, and consent to participate in the program. Please ensure you're filling out this form accurately and honestly, as it will help us understand your needs and provide the best possible experience for you. This form will be used to assess your medical eligibility, experience level, and other relevant factors to ensure your participation in the program is safe and successful.</thinking>
-
 # 21 Day Wellness Release Form - Help Guide
 ## Purpose
 The 21 Day Wellness Release Form is designed to collect personal information and medical history from individuals participating in the 21-day wellness program. This form will help us understand your needs and provide a safe and successful experience for you.

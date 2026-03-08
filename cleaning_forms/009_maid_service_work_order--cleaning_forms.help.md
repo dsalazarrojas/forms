@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to create a Maid Service Work Order, which is a document used to capture and store information about a cleaning job that needs to be performed. The form is used to gather details about the client, the service required, and payment terms. It is likely used by a Maid Service company to manage bookings and client interactions.
-
-When completing this form, please ensure that you only fill out one form per cleaning job. If you need to create a new job, start by selecting the correct client and service details. The form is not intended to be duplicated; if you need to create a new job for the same client, please fill out a new form.
-
-</thinking>
-
 # Maid Service Work Order - Help Guide
 ## Purpose
 The Maid Service Work Order form is used to create and manage cleaning jobs for clients. It captures important information about the client, the service required, and payment terms.

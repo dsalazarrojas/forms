@@ -1,7 +1,3 @@
-<thinking>
-To create an effective grievance handling checklist form, it's essential to understand that this form is designed to collect and track information on grievances reported by employees, customers, or other stakeholders within an organization. It helps identify and address issues promptly, ensuring that grievances are handled fairly, efficiently, and consistently. This form should not be used for other purposes, such as for general inquiries or requests. The form should only be used for grievances that require review and investigation.
-</thinking>
-
 # grievance_handling_checklist_form - Help Guide
 ## Purpose
 The grievance handling checklist form is a tool used to document and track grievances reported within an organization. It helps ensure that grievances are handled fairly, efficiently, and consistently.

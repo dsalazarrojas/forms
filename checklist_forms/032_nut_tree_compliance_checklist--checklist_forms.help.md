@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is used to collect information on nut tree compliance, a type of tree species regulation or management check. This form might be used by field workers or auditors to inspect and verify the status of nut trees. The form likely aims to track the compliance status of nut trees with respect to specific regulations, species names, inspection dates and times, and other relevant details. This form could be a part of a broader system for tracking and managing environmental or agricultural regulations.
-</thinking>
-
 # Nut Tree Compliance Checklist - Help Guide
 ## Purpose
 The Nut Tree Compliance Checklist form is used to verify the compliance status of nut trees with respect to various regulations and specifications.

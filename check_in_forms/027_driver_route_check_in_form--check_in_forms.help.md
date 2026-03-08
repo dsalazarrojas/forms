@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to facilitate the check-in process for drivers on their routes, allowing them to record their progress and provide necessary details for each stop. The form is designed to collect specific information for each check-in, including the driver's name, route name, start and end times, location, notes, and status updates. The form aims to ensure accuracy and consistency in the check-in process, reducing the risk of errors and improving efficiency. To ensure the form is completed accurately, users should review each field carefully and provide the required information.
-</thinking>
-
 # driver route check in form - Help Guide
 ## Purpose
 The "driver route check in form" is a tool used for drivers to record their progress on specific routes, ensuring accuracy and consistency in the check-in process.

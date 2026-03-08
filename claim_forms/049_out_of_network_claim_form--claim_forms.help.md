@@ -1,7 +1,3 @@
-<thinking>
-This form is used for processing out-of-network claims. It captures key information about the claim, such as the claim date, the name and NPI of the claim provider, the CPT code, description, amount, and submitter details. The form is meant to be completed by individuals or organizations seeking to submit claims for reimbursement or other purposes. Please ensure that the same form is not used to collect sensitive or duplicate information.
-</thinking>
-
 # out_of_network_claim_form - Help Guide
 ## Purpose
 This form is designed to collect information for out-of-network claims. It's meant for individuals or organizations to submit claims for reimbursement or other purposes.

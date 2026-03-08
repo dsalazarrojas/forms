@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to the Cost of Goods Sold (COGS) for an inventory item. It captures details such as the quantity purchased, quantity sold, cost per unit, and total cost. The form also allows for the entry of additional notes and any other relevant information.
-
-</thinking>
-
 # Cost Of Goods Sold Information Form - Help Guide
 ## Purpose
 The Cost of Goods Sold (COGS) information form is used to document the cost associated with the sale of an inventory item. This form helps in accurately calculating the COGS, which is an essential component of the accounting process for businesses.

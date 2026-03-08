@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to collect consent from animal participants and their owners for testing and evaluation of new animal products. It is essential to ensure that all participants understand the purpose, duration, and confidentiality aspects of the testing process. This form should only be filled out for a specific animal product innovation testing project, and not reused for other purposes. Ensure that you have all necessary information and approvals before proceeding. Please make sure to fill out this form accurately and completely. It's also important to note that the participant will only be asked to fill out this form once.
-...</thinking>
-
 # Animal Product Innovation Testing Consent Form - Help Guide
 ## Purpose
 This form is a consent form for animal product innovation testing. It ensures that participants and their owners understand the purpose, process, and confidentiality aspects of testing new animal products.

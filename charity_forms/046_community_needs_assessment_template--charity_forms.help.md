@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or families to conduct a community needs assessment. This assessment is used to identify and address areas of need within a community. The goal is to gather data that will help organizations provide effective support and services. This form should only be completed by individuals or families who are seeking or have already received services from the organization.
-
-Before proceeding, check if you have already completed this form in the past. If you are unsure, please contact the organization for clarification.
-</thinking>
-
 # Community Needs Assessment Template - Help Guide
 ## Purpose
 The Community Needs Assessment Template is a tool used to gather data from individuals or families to identify areas of need within a community. It helps organizations provide effective support and services.

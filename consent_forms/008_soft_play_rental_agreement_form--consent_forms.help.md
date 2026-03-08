@@ -1,10 +1,3 @@
-<thinking>
-The Soft Play Rental Agreement Form is designed to capture essential information from customers or clients who wish to rent a soft play area or equipment. This form is meant for internal use within your organization and is likely used for tracking and record-keeping purposes. Ensure this form is not duplicated or unnecessary, as it may lead to data redundancy and confusion. This form is meant to be completed by customers or clients who are interested in renting a soft play area or equipment. It should not be filled out by staff or users who are not involved in the rental process.
-
-Before starting, ensure you have all the necessary information and documents ready. This form is a crucial step in the rental process and requires accurate and detailed input.
-
-</thinking>
-
 # Soft Play Rental Agreement Form - Help Guide
 ## Purpose
 

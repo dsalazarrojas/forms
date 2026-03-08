@@ -1,6 +1,3 @@
-<thinking>
-This form is for tracking health insurance claims costs. It is intended for use by insurance companies or claimants to keep track of their claim status, type, and other relevant details. The form should only be used for this specific purpose, and not for any other use case. If you need to track a different type of claim or cost, please use the corresponding form.
-</thinking>
 # Health Insurance Claim Cost Tracker - Help Guide
 ## Purpose
 The Health Insurance Claim Cost Tracker form is designed to provide an overview of health insurance claims, including claim status, type, and related costs. This form helps insurance companies and claimants to quickly and easily access the necessary information.

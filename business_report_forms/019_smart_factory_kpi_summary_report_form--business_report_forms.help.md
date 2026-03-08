@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect key performance indicators (KPIs) for a manufacturing site. The purpose of this form is to provide a summary of the current state of production at the Smart Factory. It appears to be a general-purpose report form that can be used to collect data on various aspects of the factory's performance.
-
-</thinking>
-
 # Smart Factory KPI Summary Report Form - Help Guide
 ## Purpose
 The Smart Factory KPI Summary Report Form is used to collect and summarize key performance indicators for a manufacturing site.

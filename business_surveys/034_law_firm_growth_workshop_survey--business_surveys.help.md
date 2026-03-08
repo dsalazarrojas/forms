@@ -1,16 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form used to collect information from law firms participating in a growth workshop. This form will likely be filled out by firm representatives, and the goal is to gather data on their experiences, needs, and goals. To ensure the form is complete and accurate, we will need to explain each section clearly and concisely.
-
-Before starting, let's consider the following: 
-
-* Is this form intended for internal use within the firm or will it be shared with external parties (e.g., partners, clients, or industry peers)?
-* Are there any specific requirements or constraints for the firm representatives filling out the form (e.g., time limits, data sharing policies)?
-* Are there any specific fields or sections that require additional explanation or clarification?
-
-Assuming this form will be shared with external parties and has no specific requirements or constraints, let's proceed with the help guide.
-
-</thinking>
-
 # Law Firm Growth Workshop Survey - Help Guide
 ## Purpose
 The Law Firm Growth Workshop Survey is designed to gather information from law firms about their experiences, needs, and goals. This information will help us better understand their perspectives and provide insights for the workshop's success.

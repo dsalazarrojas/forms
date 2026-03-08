@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only filled out when it's relevant and not duplicated. This form is designed to gather information from customers who want to report a complaint or issue with our product or service. It's crucial that the customer understands the purpose of the form and fills it out accurately to help us address their concerns efficiently. The form should only be filled out by customers who have a genuine complaint or issue, not just for entertainment or testing purposes. This form is intended to gather necessary information to resolve the complaint or issue, and we need to avoid wasting time and resources on irrelevant submissions. To ensure this, we will review each submission carefully and verify the customer's information before proceeding. If a customer submits a complaint or issue that's not relevant, we will kindly ask them to fill out a different form or contact our customer support team directly.
-</thinking>
-
 # Customer Complaint Form Template - Help Guide
 ## Purpose
 This form is designed to gather information from customers who want to report a complaint or issue with our product or service. It's essential to fill out this form accurately to help us address their concerns efficiently and resolve the complaint or issue as quickly as possible.

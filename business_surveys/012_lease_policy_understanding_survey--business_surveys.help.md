@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about lease policies from landlords or tenants. This form is used to gather data on various aspects of leases, including the survey title, questions, landlord and tenant names, lease start and end dates, lease policy URLs, rent amounts, lease term lengths, lease term units, and lease term types. This form may be used for various business purposes, such as creating reports or performing analysis.
-
-This form does not appear to be a duplicate of any existing form in our database. Its purpose and fields are specific and distinct, making it a new addition to our collection of business forms.
-
-</thinking>
-
 # lease_policy_understanding_survey - Help Guide
 ## Purpose
 This form is designed to collect information about lease policies. It is used to gather data on various aspects of leases, including survey title, questions, landlord name, tenant name, lease start and end dates, lease policy URL, rent amount, lease term length, lease term unit, and lease term type.

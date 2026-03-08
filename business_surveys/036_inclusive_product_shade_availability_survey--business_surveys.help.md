@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information about the availability of different shades of a product, including whether or not they are available, their match with other attributes like color, finish, and size, and so on. This form will help users determine which attributes are available for a given shade of the product.
-</thinking>
-
 # Inclusive Product Shade Availability Survey - Help Guide
 ## Purpose
 This form is designed to help you gather information about the availability of different shades of a product, including whether they are available, their match with other attributes, and so on.

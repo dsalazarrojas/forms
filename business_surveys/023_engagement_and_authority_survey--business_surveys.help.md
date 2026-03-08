@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the user's level of engagement and authority within the organization, likely for internal purposes. It seems to be collecting data on the user's role, their level of engagement with the organization's mission and vision, and their perceived level of authority. To ensure accuracy and consistency, please review this guide carefully before completing the form.
-</thinking>
-
 # engagement_and_authority_survey - Help Guide
 ## Purpose
 This form is designed to gather information on your level of engagement and authority within the organization. It will help us understand your perspective and identify areas where we can improve our communication and decision-making processes.

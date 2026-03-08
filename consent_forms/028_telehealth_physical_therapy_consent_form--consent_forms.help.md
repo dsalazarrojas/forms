@@ -1,8 +1,4 @@
-> <thinking>
-This form is used to obtain telehealth physical therapy consent from patients. It is required to be filled out for all patients who are undergoing telehealth physical therapy sessions. This form is not applicable to patients who are under 18 years of age. Please ensure that you are using this form correctly and only for patients who meet the criteria.
-</thinking>
-
-# telehealth_physical_therapy_consent_form - Help Guide
+> # telehealth_physical_therapy_consent_form - Help Guide
 ## Purpose
 This form is used to obtain telehealth physical therapy consent from patients before starting a telehealth physical therapy session.
 

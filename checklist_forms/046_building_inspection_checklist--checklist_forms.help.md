@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Building Inspection Checklist, used to assess the condition of a building during a pre-purchase or pre-rental inspection. The form is designed to be completed by an inspector, who will evaluate various aspects of the building, including its exterior, roof, foundation, plumbing, electrical, HVAC, interior, and fire safety systems. The inspector will also provide recommendations and notes for each section. This form will help ensure that the inspection is thorough and comprehensive, and that the inspector's results are accurate and consistent.
-
-</thinking>
-
 # Building Inspection Checklist - Help Guide
 ## Purpose
 

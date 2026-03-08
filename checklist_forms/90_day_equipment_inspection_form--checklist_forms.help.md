@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for inspecting and monitoring the condition of equipment, specifically within a 90-day timeframe. It captures essential data for ensuring the maintenance and operation of equipment. To ensure you are using this form correctly, please review and confirm that the provided metadata accurately reflects your needs and that there are no duplicate forms. If the form doesn't match your requirements or has been filled out previously, you might not need to use it.
-</thinking>
-
 # 90 Day Equipment Inspection Form - Help Guide
 ## Purpose
 

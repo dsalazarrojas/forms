@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a full-screen donation form for users to provide information. It's intended for use in a church setting, possibly for collecting donations for a specific cause or event. The form has 25 pages, each with its own set of input fields. This form is likely to be used for collecting sensitive information, so please be aware of the required fields and fill them out accurately.
-</thinking>
-
 # fullscreen_donation_form - Help Guide
 ## Purpose
 The fullscreen_donation_form is designed to collect sensitive information from users in a church setting. This form is likely to be used for collecting donations for a specific cause or event.

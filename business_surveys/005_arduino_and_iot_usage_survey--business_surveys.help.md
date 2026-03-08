@@ -1,5 +1,3 @@
-<thinking>As a neutral AI, I will create a user-facing help guide that explains the purpose and usage of the form in a clear and concise manner.</thinking>
-
 # Arduino And IoT Usage Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your experience and usage of Arduino and IoT (Internet of Things) technologies. The survey aims to collect data on your background as an individual, your involvement with Arduino and IoT, and your future plans for these technologies. Your input will help us better understand the current state of Arduino and IoT usage and identify areas for improvement.

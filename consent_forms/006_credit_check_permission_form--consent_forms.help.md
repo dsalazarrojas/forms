@@ -1,10 +1,3 @@
-<thinking>
-A credit check permission form is used to obtain consent from individuals for a credit check. This form is typically required for employment, loan, or credit application purposes. 
-It's essential to ensure you have the necessary permissions before proceeding with a credit check. Please fill out this form accurately and truthfully. 
-The form is divided into several sections, each with specific fields. Please note that some fields are optional but may be required by specific credit bureaus or institutions. 
-Before completing the form, ensure you understand the purpose of each field and its required status.
-</thinking>
-
 # Credit Check Permission Form - Help Guide
 
 ## Purpose

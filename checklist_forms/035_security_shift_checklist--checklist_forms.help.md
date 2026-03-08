@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, take a moment to confirm that you are completing it for the right purpose. This form is intended to be used by shift leaders to record important details of their shifts, including the start and end times, the shift leader's name and email, and any additional notes they wish to include. Please ensure that you are authorized to fill out this form and that the information is accurate and up to date. If you are unsure about any aspect of this form, please seek clarification before proceeding.</thinking>
-
 # Security Shift Checklist - Help Guide
 
 ## Purpose

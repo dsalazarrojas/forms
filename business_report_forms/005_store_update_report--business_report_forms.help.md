@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for an internal business report, specifically for stores. The form's purpose is to collect data on various aspects of the store, including product details and updates. This form is intended for use by sales representatives, managers, and owners to provide updates on stores, but it's not a mandatory form. 
-The form can be completed by anyone with the necessary access permissions. 
-The form is likely used for reporting and analysis, and the data collected will help the organization make informed decisions. 
-</thinking>
-
 # Store Update Report - Help Guide
 ## Purpose
 This form is used to gather information on store updates for reporting and analysis purposes.

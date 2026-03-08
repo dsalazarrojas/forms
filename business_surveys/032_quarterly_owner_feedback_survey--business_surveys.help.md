@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from business owners on a quarterly basis. The purpose is to gather information on the current status of their properties, areas for improvement, and overall satisfaction with our service. This data will help us understand their needs and concerns, allowing us to make informed decisions and adjustments to our services. 
-</thinking>
-
 # quarterly_owner_feedback_survey - Help Guide
 ## Purpose
 The quarterly_owner_feedback_survey form is used to collect feedback from business owners on a quarterly basis.

@@ -1,7 +1,3 @@
-<thinking>
-To determine whether to display this form, we check if the category is "cancellation_forms" and the title is "Travel Cancellations And Rebookings Form". If both conditions are met, we can continue with the guide.
-</thinking>
-
 # Travel Cancellations And Rebookings Form - Help Guide
 ## Purpose
 This form is used to collect information about travel cancellations and rebookings, allowing you to manage and process these changes efficiently.

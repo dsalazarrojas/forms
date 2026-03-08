@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about patients who have received a vaccination. The purpose of this form is to ensure that vaccination records are accurate and up-to-date. It will help healthcare professionals and administrators to track and monitor vaccination schedules, doses, and any adverse reactions or allergies. This form should only be used to collect information about patients who have been vaccinated and should not be used to collect information about patients who have not received a vaccination.
-</thinking>
-
 # Vaccination Check In Form - Help Guide
 ## Purpose
 This form is used to collect information from patients who have received a vaccination. It helps healthcare professionals to track and monitor vaccination records accurately.

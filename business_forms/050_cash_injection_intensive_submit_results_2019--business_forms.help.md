@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about your business results after participating in a cash injection intensive program. This form is used to gather data about your business's financial performance before and after the program, and to gather feedback about your experience with the program. 
-The form is used to ensure that the program has met your needs and to identify areas for improvement.
-This form should only be filled out by businesses that have actually participated in a cash injection intensive program.
-</thinking>
-
 # Cash Injection Intensive Submit Results 2019 - Help Guide
 
 ## Purpose

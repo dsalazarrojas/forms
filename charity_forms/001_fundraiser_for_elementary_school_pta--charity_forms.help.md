@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and manage fundraising campaigns for an Elementary School PTA. The form can be used to create and share a digital fundraiser form for various purposes such as charity events, donation drives, or other fundraising activities. It's intended for PTA members or school administrators to fill out the form to provide details about the event, including the goal, start and end time, location, and any other relevant information. To ensure that the form is filled out correctly, it's recommended that the form owner (e.g., PTA member or school administrator) carefully review the form fields and their corresponding hints to understand what each field is intended for.
-</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 ## Purpose
 This form is used to create and manage a digital fundraiser form for Elementary School PTA. It is meant to collect and display information about the fundraiser campaign in a structured and organized manner.

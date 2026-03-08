@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for electrical inspectors to document their findings during a home electrical inspection. It's likely used by homebuyers, sellers, or property managers to gather critical information about the electrical system of a property. It's not typically used for general administrative purposes. The form seems to be focused on assessing the electrical system, including the panel, circuit breakers, wiring, electrical hazards, and other relevant documentation. To ensure that this form is completed correctly, it's essential to understand each field's purpose and requirements.
-</thinking>
-
 # Home Electrical Inspection Form - Help Guide
 ## Purpose
 The Home Electrical Inspection Form is a document used to collect information about the electrical system of a property. It's designed to help inspectors gather data on the electrical panel, circuit breakers, wiring, electrical hazards, and other essential aspects of the electrical system. This form is intended for use by homebuyers, sellers, or property managers to ensure that the electrical system is safe and functional.

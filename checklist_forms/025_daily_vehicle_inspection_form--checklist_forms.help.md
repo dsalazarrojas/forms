@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle's condition after a daily inspection. It aims to gather data on the vehicle's details, inspection items, comments, and status after the inspection. The form is used to track the vehicle's status and provide a summary of the inspection findings. Please ensure that the form is used for its intended purpose and is not used for any other purpose.
-</thinking>
-
 # Daily Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle's condition after a daily inspection, enabling the tracking of its status and providing a summary of the inspection findings.

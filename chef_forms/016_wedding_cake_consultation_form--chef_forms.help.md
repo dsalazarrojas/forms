@@ -1,5 +1,3 @@
-<thinking>As a wedding cake consultation form, this form is designed to gather information from clients about their wedding cake preferences. This form is intended for wedding planners or cake designers to understand the client's needs and create a custom wedding cake that fits their vision and style. The form should only be used for weddings that are not yet scheduled or have not been previously submitted. If a wedding is already scheduled, please use the [existing wedding form] instead.</thinking>
-
 # wedding_cake_consultation_form - Help Guide
 ## Purpose
 The Wedding Cake Consultation Form is used to gather information from clients about their wedding cake preferences. This form helps wedding planners or cake designers create a custom wedding cake that fits the clients' needs and style.

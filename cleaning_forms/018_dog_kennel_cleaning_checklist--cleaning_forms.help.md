@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used by kennel staff or managers to conduct a thorough cleaning and maintenance checklist for the dog kennel. The form's purpose is to ensure that the kennel is properly cleaned and maintained to keep the dogs safe and healthy. The form is likely to be used in the pet care, animal shelter, or veterinary clinic industries, and may be used by kennel staff for daily, weekly, or monthly cleaning schedules.
-
-</thinking>
-
 # Dog Kennel Cleaning Checklist - Help Guide
 ## Purpose
 This form is designed to guide kennel staff or managers on conducting a thorough cleaning and maintenance checklist for the dog kennel. The checklist aims to ensure that the kennel is kept clean, safe, and healthy for the dogs.

@@ -1,14 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure that it's not a duplicate, let's analyze the form's properties.
-
-This form is designed to gather information from individuals who review textbook content. The form likely serves to collect feedback, evaluations, and other relevant details about the textbook content from reviewers. To avoid duplication, you might want to add a mechanism to ensure that each submission is unique, such as checking for existing submissions or requiring a unique identifier for each reviewee.
-
-The form is titled "Textbook Content Review Form" and has multiple sections, including evaluation, comments, and contact information for the reviewer and reviewee. The required fields are "Submitted By", "Submitted Email", and "Submitted Phone". This suggests that the form is meant to capture information about the reviewer and the reviewee, as well as details about the submission.
-
-Based on the form's properties, it seems that the form is designed for internal use within an educational institution, possibly for curriculum development or quality control purposes. To ensure that the form is used correctly, you might want to add clear instructions on how to complete it, who to submit it to, and any specific requirements or guidelines for the information gathered.
-
-</thinking>
-
 # textbook_content_review_release_form - Help Guide
 ## Purpose
 

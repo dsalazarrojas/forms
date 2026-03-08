@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about participants in the Green Retail Architecture program. It's intended for store owners and managers who want to get involved in the program and contribute to the sustainability goals of their business. This form should not be filled out by participants who are already registered in the program, as this will create duplicate entries. Participants should only fill out this form once they have received an invitation to join or have been referred by a program administrator.
-</thinking>
-
 # Green Retail Architecture Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in the Green Retail Architecture program. It is intended for store owners and managers who want to join the program and contribute to its sustainability goals.

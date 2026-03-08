@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to evaluate the budgeting process within an organization. This guide will walk you through how to complete the form, field by field, so you can provide valuable insights and suggestions for improvements to the budgeting process.
-
-The form is relevant because it assesses various aspects of the budgeting process, including respondent involvement, years of experience, process clarity, timeline adequacy, communication, resource availability, collaboration, tool effectiveness, challenges faced, process strengths, areas for improvement, and overall satisfaction. 
-
-Non-duplication: The form does not duplicate existing forms or processes within your organization. It's a unique adaptation created using artificial intelligence and public survey data, and it's open-sourced under CC 4.0 for further modification and use.
-
-Before filling out the form, please ensure you're familiar with the following sections and their respective labels.
-
-</thinking>
-
 # Budgeting Process Evaluation Form - Help Guide
 ## Purpose
 

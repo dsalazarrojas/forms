@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the sanitation status of an irrigation system in a specific site. This form is intended to gather information about the overall state of the irrigation system, including the type and status of the pumps, the condition and maintenance of pipes, and other relevant details. 
-
-To avoid non-duplication, this form is only accessible for authorized personnel who are responsible for inspecting and maintaining irrigation systems.
-
-</thinking>
-
 # Irrigation System Sanitation Checklist - Help Guide
 ## Purpose
 The Irrigation System Sanitation Checklist is used to assess the sanitation status of an irrigation system at a specific site. This includes evaluating the type and status of pumps, the condition and maintenance of pipes, and other key aspects of the system.

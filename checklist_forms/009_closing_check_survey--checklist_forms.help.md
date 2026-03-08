@@ -1,12 +1,3 @@
-<thinking>
-The Closing Check Survey is an essential tool used to assess the status of a facility during closing procedures. The purpose of this form is to ensure a thorough and accurate report of the facility's readiness for closure, highlighting any potential issues or problems that need to be addressed before proceeding. The survey aims to verify that all necessary steps have been taken to secure the facility, shut down equipment, and prepare it for the next day.
-
-This form must be completed by the person performing the closing procedures and should be reviewed by a supervisor or manager to ensure that all necessary steps have been taken.
-
-Please note that some fields are required and should be filled out by the user. Required fields are marked as such in the form.
-
-</thinking>
-
 # Closing Check Survey - Help Guide
 ## Purpose
 The Closing Check Survey is used to document the completion of closing procedures, ensuring that the facility is secure, clean, and prepared for the next day.

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and ensure it's not a duplicate. The "electrical_safety_checklist_form" appears to be a comprehensive checklist for assessing and managing electrical systems' safety. This form likely aims to standardize and streamline the process of evaluating electrical systems' compliance with safety standards and regulations. Given the presence of fields related to risk assessment, inspection frequency, and last inspection dates, it seems this form is designed for regular audits or inspections of electrical systems.</thinking>
-
 # Electrical Safety Checklist Form - Help Guide
 ## Purpose
 

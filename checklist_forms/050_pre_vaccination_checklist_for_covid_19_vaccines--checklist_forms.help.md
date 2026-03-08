@@ -1,7 +1,3 @@
-<thinking>... Internal reasoning: This form is designed to gather information about a patient's vaccination history, including the date of the first visit, the type of vaccination received, the patient's age, weight, and medical history, as well as information about any medical devices the patient may be using. The form is likely used by healthcare professionals to document and review patient data. 
-
-It's essential to ensure that the form is completed accurately and thoroughly to maintain accurate patient records...</thinking>
-
 # Pre Vaccination Checklist For COVID 19 Vaccines - Help Guide
 ## Purpose
 The Pre Vaccination Checklist For COVID 19 Vaccines is a comprehensive form used to document patient information and vaccination history prior to administering a COVID-19 vaccine.

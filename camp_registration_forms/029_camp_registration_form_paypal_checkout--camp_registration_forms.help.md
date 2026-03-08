@@ -1,28 +1,3 @@
-<thinking>
-To avoid duplication and ensure this form is only visible to relevant users, you may want to consider integrating the form with your website's user roles, permissions, and authentication systems to control access and restrict form access based on the user's role or group membership.
-
-The form is designed for camp registration and checkout via PayPal. It's primarily used for registering attendees or participants in various sessions at a camp event. To ensure proper registration, each field has a specific purpose and requirement for completion.
-
-The form is structured around the following key areas:
-- Personal Details (Name, Email, Session Selection, and Amount Due)
-- Payment Information (PayPal Email and Coupon Code)
-- Emergency Contact and Additional Notes
-- Agreement and Confirmation
-
-To fill out the form accurately and efficiently, users should follow these steps:
-1. Fill in their personal details such as name, email, and emergency contact information.
-2. Select the session they wish to register for.
-3. Enter their preferred PayPal email address for payment.
-4. Provide any applicable coupon code for payment discounts.
-5. Confirm their billing address (though not mandatory, it's recommended for record-keeping).
-6. Agree to the camp policies and terms and conditions.
-7. Enter any additional notes or instructions for the camp staff.
-8. Review all entries carefully and submit the form.
-
-Below is a guide on each field's purpose and expected input:
-
-</thinking>
-
 # Camp Registration Form PayPal Checkout - Help Guide
 ## Purpose
 The Camp Registration Form is designed for registering attendees or participants in various camp sessions while also facilitating payment through PayPal. This form gathers necessary details for both registration and payment processing.

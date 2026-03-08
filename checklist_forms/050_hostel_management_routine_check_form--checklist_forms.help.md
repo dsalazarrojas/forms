@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Hostel Management Routine Check Form - Help Guide
 ## Purpose
 This form is used to check and report on the hostel's daily routine activities, including cleaning, maintenance, and shopping routines. It is a vital tool to ensure that the hostel is running smoothly and safely.

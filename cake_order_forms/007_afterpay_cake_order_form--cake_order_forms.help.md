@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for customers to provide information for an afterpay cake order. The main goal is to collect details about the customer, cake preferences, and order specifics. This form is crucial for the business as it allows for accurate cake creation and delivery coordination.
-
-Before creating this guide, I reviewed the form schema to identify the most important fields and ensured that there are no duplicates in the existing documentation.
-
-</thinking>
 # Afterpay Cake Order Form - Help Guide
 ## Purpose
 The Afterpay Cake Order Form is a crucial tool for customers to submit their orders for special occasions and events. It allows us to gather essential details about the customer and their cake preferences, ensuring that we can create a customized experience for them.

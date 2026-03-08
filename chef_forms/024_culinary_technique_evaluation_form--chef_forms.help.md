@@ -1,6 +1,3 @@
-<thinking>
-The form is used to evaluate the performance of a culinary technique, allowing users to provide feedback on a specific technique's name, description, score, and performance levels. This form is likely used in a professional or educational setting to assess the proficiency of a chef or a cooking method. The form's purpose is to collect data for evaluation, which can be used to track progress, identify areas for improvement, or provide feedback for training purposes.</thinking>
-
 # Culinary Technique Evaluation Form - Help Guide
 ## Purpose
 The Culinary Technique Evaluation Form is used to evaluate the performance of a specific culinary technique.

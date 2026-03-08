@@ -1,10 +1,4 @@
-> <thinking>
-  This form is designed to be completed by customers who are interested in eco-friendly products. It aims to gather information about their shopping habits, price sensitivity, decision drivers, and any additional comments they may have. This form will help us better understand our target audience's preferences and behaviors in relation to sustainable products.
-  Before proceeding, please note that this form is a one-time survey, and you will not receive any follow-up forms or emails.
-  Ensure that you answer the questions honestly, and if you have any questions or concerns, please don't hesitate to reach out to us.
-</thinking>
-
-# eco_friendly_product_preference_survey - Help Guide
+> # eco_friendly_product_preference_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your shopping habits, preferences, and behaviors related to eco-friendly products. Your input will help us improve our products and services to better meet your needs.
 

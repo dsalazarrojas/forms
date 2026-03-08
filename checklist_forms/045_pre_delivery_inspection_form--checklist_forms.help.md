@@ -1,14 +1,3 @@
-<thinking>
-This help guide will walk you through the process of completing the Pre Delivery Inspection Form. 
-
-The form is designed to collect information about a vehicle before it is delivered to a customer. This information is crucial for ensuring that the vehicle meets the customer's expectations and for facilitating a smooth delivery process.
-
-The form includes various sections and fields that need to be filled out accurately and thoroughly. Each field is carefully crafted to collect specific information that is essential for the vehicle's delivery.
-
-Before proceeding, please ensure that you are familiar with the vehicle's details and have all the necessary documentation readily available.
-
-</thinking>
-
 # Pre Delivery Inspection Form - Help Guide
 ## Purpose
 The Pre Delivery Inspection Form is a critical document that helps ensure the vehicle meets the customer's expectations and requirements. It is a comprehensive checklist that covers various aspects of the vehicle, including its condition, specifications, and details.

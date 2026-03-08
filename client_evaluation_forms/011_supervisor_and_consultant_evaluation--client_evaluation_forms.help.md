@@ -1,8 +1,3 @@
-<thinking>
-This form is used for supervisors and consultants to evaluate each other's performance. It's a two-way evaluation form designed to gather feedback on the effectiveness of the supervisor-consultant partnership. This form should only be used in specific cases where the supervisor and consultant have a direct working relationship, such as during a project or task assignment. Please ensure that the form is used correctly to avoid duplication or misallocation of feedback.
-
-</thinking>
-
 # Supervisor And Consultant Evaluation - Help Guide
 ## Purpose
 The Supervisor and Consultant Evaluation form is used for supervisors and consultants to evaluate each other's performance in a working relationship. This helps to gather feedback on the effectiveness of the partnership.

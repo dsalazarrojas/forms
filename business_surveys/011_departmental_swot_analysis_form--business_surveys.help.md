@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help departments perform a SWOT analysis, a strategic planning tool used to identify and assess the Strengths, Weaknesses, Opportunities, and Threats of a department. The purpose of this form is to help departmental teams gather information and insights about their internal and external environment, and to create an action plan to address the identified issues. 
-
-Please ensure that you are not duplicating this form or using it for any commercial purposes without proper credit to the original creator. This form is a non-profit and open-source adaptation of a generic SWOT analysis form, intended to be used for internal departmental use.
-
-The form consists of multiple sections, each designed to elicit specific types of information. Please answer each section as accurately and thoroughly as possible to get the most out of this analysis.
-
-</thinking>
-
 # Departmental SWOT Analysis Form - Help Guide
 ## Purpose
 The Departmental SWOT Analysis Form is a tool designed to help departments identify and assess their internal and external strengths, weaknesses, opportunities, and threats, and create an action plan to address the identified issues.

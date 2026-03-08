@@ -1,7 +1,3 @@
-<thinking>
-This form is used to review and provide updates on annual budgets within the company. It's a critical process to track and analyze expenses, ensure accuracy, and make informed decisions. This form is designed to gather specific information from employees and departments to facilitate this process. Please ensure that you only submit your review for the relevant budget period and category to avoid duplication of effort.
-
-</thinking>
 # Annual Budget Review Application Form - Help Guide
 ## Purpose
 This form is used to review and update annual budgets within the company. It helps track and analyze expenses, ensuring accuracy and informed decision-making.

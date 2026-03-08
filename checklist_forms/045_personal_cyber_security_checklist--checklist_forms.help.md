@@ -1,9 +1,4 @@
-# <thinking>
-This form was created by AI, based on publicly available information, to help users assess and improve their online security practices. This guide will walk you through each field in the "Personal Cyber Security Checklist" form, helping you understand the purpose behind each section and how to complete it correctly. The form is designed to be flexible and adaptable, allowing you to fill it out based on your individual needs and experiences. Please review each field carefully to ensure you complete it accurately and comprehensively.
-
-</thinking>
-
-# Personal Cyber Security Checklist - Help Guide
+# # Personal Cyber Security Checklist - Help Guide
 
 ## Purpose
 This form helps you assess and improve your online security practices by covering various aspects of cyber security, including user information, password strength, security questions, two-factor authentication, sensitive data, security questions, account activity, password expiration, 2 factor backup, sensitive data backup, account recovery, account lockout, account notifications, and password change.

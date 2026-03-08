@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive confirmation form for apartment bookings, gathering essential information from tenants or guests to ensure a smooth and secure booking process. The form is used to validate the booking details and confirm the accuracy of the booking information. This form is typically used internally within the organization, but it can also be shared with external parties for reference or auditing purposes. To avoid duplication, this form should only be filled out once for each booking.
-
-To ensure accuracy, this form should only be used for new bookings, and not for modifications or cancellations.
-</thinking>
-
 # Apartment Booking Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm the details of an apartment booking, ensuring accuracy and completeness of the information.

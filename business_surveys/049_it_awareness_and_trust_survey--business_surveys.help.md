@@ -1,13 +1,3 @@
-<thinking>
-
-## Internal Reasoning Block
-We are checking if you are eligible to take this survey.
-Please note that this survey is intended for IT professionals and users who have interacted with our IT department.
-If you are not a part of our organization, please don't proceed with the survey as it might not be relevant to you.
-If you are not sure about your role or interaction with our IT department, feel free to ask your manager or our IT department to confirm your eligibility.
-
-</thinking>
-
 # IT Awareness And Trust Survey - Help Guide
 ## Purpose
 This form is designed to measure IT awareness and trust among IT professionals and users who have interacted with our IT department. The survey is used to gauge the level of understanding about our IT services and support, as well as gather feedback about potential improvements.

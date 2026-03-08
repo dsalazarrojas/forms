@@ -1,7 +1,3 @@
-<thinking>
-The form is likely intended to collect information about a property, such as its type, location, and features. This guide will provide a clear and concise explanation of the form's purpose and how to complete it.
-</thinking>
-
 # Your Dream Home Checklist Form - Help Guide
 
 ## Purpose

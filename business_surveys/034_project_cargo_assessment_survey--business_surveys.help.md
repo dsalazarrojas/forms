@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Cargo Assessment Survey - Help Guide
 
 ## Purpose

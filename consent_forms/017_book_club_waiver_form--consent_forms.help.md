@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the end-users understand the purpose of this form and its implications on their participation in the book club. This form is intended to gather essential information for the book club organizers to manage their membership and ensure a safe and enjoyable experience for all participants. The form is designed to collect personal and contact information, as well as consent and waiver agreements that outline the participant's understanding of the book club's expectations and rules. It's essential to complete this form accurately and truthfully to ensure a smooth and enjoyable experience for all.
-
-We will also check if the form is being submitted in the correct context, i.e., a participant joining the book club. If this form is being filled out for any other reason, it's likely due to user error or misunderstanding of the form's purpose.</thinking>
-
 # Book Club Waiver Form - Help Guide
 ## Purpose
 The Book Club Waiver Form is a required document for new participants to join the book club. It collects personal and contact information, as well as consent and waiver agreements that outline the participant's understanding of the book club's expectations and rules.

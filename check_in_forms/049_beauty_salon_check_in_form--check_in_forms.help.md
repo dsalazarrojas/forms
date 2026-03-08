@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect client information and appointment details for a beauty salon. It's used to check in clients, track their appointment times, and update their contact information. The form should only be filled out by clients who have scheduled an appointment at the salon. The form's fields are designed to be filled out in a logical order, starting with the client's information, followed by the appointment details, and then any updates to their contact information or health status.
-</thinking>
-
 # Beauty Salon Check In Form - Help Guide
 ## Purpose
 This form is used to check in clients who have scheduled an appointment at the salon, update their contact information, and provide any necessary health updates.

@@ -1,11 +1,3 @@
-<thinking>
-This form's purpose is to collect insights on impact measurement methods, reporting frequency, challenges, and support needs from nonprofits, funders, and social enterprises. The goal is to help organizations better understand their reporting practices and identify areas for improvement.
-
-This form is designed to be completed by nonprofits, funders, and social enterprises. It is a self-explanatory form, and no additional information will be provided beyond the fields and instructions below.
-
-When completing this form, please answer the questions that are relevant to your organization's practices. If a question does not apply, please select the "N/A" or "None" option when available.
-</thinking>
-
 # Nonprofit Social Impact Reporting Practices Survey - Help Guide
 
 ## Purpose

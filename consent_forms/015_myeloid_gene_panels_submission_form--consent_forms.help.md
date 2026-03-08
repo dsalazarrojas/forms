@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to collect information related to myeloid gene panels submissions, which is a type of genetic testing that identifies genetic mutations associated with inherited diseases. The form is intended for clinicians or other authorized personnel to collect relevant details about the testing type, date, and results, as well as the clinician's information, including their name, email, and institution. The form also includes fields for consent and submission details. The purpose of this form is to ensure accurate and efficient submission of myeloid gene panels for further analysis and research. Please ensure that you have the necessary permissions and approvals before submitting this form.
-
-Please note that this form is not intended for public submission and is only accessible to authorized personnel. Any submission that does not meet the required fields or has incorrect information may be rejected. Before proceeding, please review the form carefully to ensure that all required fields are completed accurately and completely.
-
-Also, please note that this form has been generated using AI and is not affiliated with or endorsed by any form platform. The form is released under CC BY 4.0 and can be used, modified, or even sold, provided credit is given.
-
-Before starting to fill out the form, please review the following fields carefully to ensure accuracy and completeness. Each field is critical to the submission process, and any missing or incorrect information may cause delays or rejection of your submission.
-
-</thinking>
-
 # Myeloid Gene Panels Submission Form - Help Guide
 ## Purpose
 The Myeloid Gene Panels Submission Form is designed to collect information related to myeloid gene panels submissions. This form is intended for clinicians or other authorized personnel to collect details about the testing type, date, and results, as well as the clinician's information.

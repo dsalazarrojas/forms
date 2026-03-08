@@ -1,7 +1,3 @@
-<thinking>
-We're checking for duplicate forms and forms with a similar purpose in the organization. This "Tea Party Checklist" form is a collection of questions that cover various aspects of hosting a successful tea party. The main categories include party details, food and drinks, party decorations, schedule, budget, and guest information. Each category is designed to ensure that the host has all the necessary information to plan and execute a perfect tea party.
-</thinking>
-
 # Tea Party Checklist - Help Guide
 ## Purpose
 The purpose of this form is to help hosts gather essential information for a successful tea party. It covers party details, food and drink preferences, decorations, schedule, budget, and guest information.

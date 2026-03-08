@@ -1,11 +1,3 @@
-<thinking>
-This form was designed to collect data on the smart lock security perception of users. The form is divided into 10 sections, each with a text field where users can provide their input. The purpose of the form is to gather information on users' experiences and opinions regarding smart locks, which can be used by organizations to improve their products or services.
-
-Please note that this form is an AI-generated adaptation of the public survey topic metadata. It is not affiliated with or endorsed by any form platform, and its creation is based on the provided title and category.
-
-Before proceeding, please make sure that you have not completed this form before. If you have any questions or need further clarification, please feel free to contact me at form@gic.mx.
-</thinking>
-
 # Smart Lock Security Perception Survey - Help Guide
 ## Purpose
 This survey aims to collect your opinions and experiences regarding smart locks. Your input will help us better understand your needs and improve our product or service.

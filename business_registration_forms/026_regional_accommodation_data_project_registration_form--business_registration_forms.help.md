@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect regional accommodation data project registration information from organizations. The form is meant to be completed by an organization's contact person, providing necessary details such as name, contact information, and project location. This form likely serves as a central hub for registering projects in a specific region, facilitating data management and organization within the project's scope. Please ensure that this form is not used for other purposes or as a template for other unrelated projects.
-
-Before proceeding, ensure that you have all necessary permissions and approvals to register this project. If you are unsure about the project's category or purpose, please reach out to the project lead or contact person for clarification.
-
-The form will be reviewed and processed internally to ensure that all required information is accurate and up-to-date. Please note that any incomplete or incorrect submissions may lead to delays in project progression.
-
-This form's fields and options are designed to be straightforward, but if you have any questions or need clarification, please don't hesitate to contact the project lead or support team.
-
-</thinking>
-
 # regional-accommodation-data-project-registration-form - Help Guide
 ## Purpose
 The regional-accommodation-data-project-registration-form is used to register regional accommodation data projects for an organization. This form collects essential details from the contact person, ensuring that the project is accurately recorded and tracked within the project scope.

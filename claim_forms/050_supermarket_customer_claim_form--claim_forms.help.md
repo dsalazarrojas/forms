@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supermarket Customer Claim Form - Help Guide
 
 ## Purpose

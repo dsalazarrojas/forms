@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, we can see from the label "Cash Flow Analysis Form" that it is intended to analyze the cash inflows and outflows of a business. This form is likely used to track and calculate the cash inflows (revenue, loan proceeds, etc.) and outflows (operating expenses, debt payments, etc.) of a business over a specific period of time.
-
-Upon reviewing the form fields, we see that it covers various aspects of cash flow, including revenue, expenses, loan proceeds, and debt payments. We also notice that it includes fields for calculating the total cash inflows and net cash flow.
-
-To avoid duplication, we can see that this form is likely designed for a specific use case, such as a quarterly or annual analysis, rather than a daily or monthly analysis. This form is also likely used to provide a summary or overview of the cash flow, rather than a detailed breakdown.
-
-Based on the form's purpose and structure, we can infer that it will be used to help businesses understand their cash flow patterns, identify areas of improvement, and make informed decisions about investments, expenses, and other financial matters.
-
-</thinking>
-
 # Cash Flow Analysis Form - Help Guide
 ## Purpose
 The Cash Flow Analysis Form is a tool used to analyze the cash inflows and outflows of a business over a specific period of time. It helps businesses track and calculate their revenue, expenses, loan proceeds, and debt payments to identify areas of improvement and make informed financial decisions.

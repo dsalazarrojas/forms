@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 To prevent duplication and ensure relevance, we should confirm that the form is intended for participants in baseball tryouts. This form should be used to gather information about each participant, including their personal details, contact information, and emergency contact details. It should also cover health information, release and waiver agreements, and confirm medical clearance. We should ensure that the form is not used for other purposes, such as general participant registration or team management.
 
 </thinking>

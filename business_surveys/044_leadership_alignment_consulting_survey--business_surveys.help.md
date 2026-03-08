@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a team's leadership alignment and style in the context of consulting services. The form is not intended for internal use, such as employee assessments, and is focused on collecting data about teams. The form fields will collect data on team leadership and individual preferences to provide a baseline of team alignment. 
-
-This guide is intended to ensure that users understand the purpose and requirements of the form to accurately and efficiently complete it. If you have concerns or have filled out a survey in the past, please review these instructions for clarification.
-
-</thinking>
-
 # leadership_alignment_consulting_survey - Help Guide
 ## Purpose
 This form is designed to collect information about team leadership styles and preferences for consulting services. It helps us gain insight into a team's alignment and leadership styles, which will aid in providing more effective support.

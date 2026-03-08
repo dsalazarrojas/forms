@@ -1,6 +1,3 @@
-<thinking>
-This is a form for collecting information about superannuation contributions from employees. The purpose of this form is to gather data on superannuation contributions made by employees and their employers. It appears that the form is used to track and record superannuation contributions in a company. The form seems to be designed for use within an organization, likely for HR or payroll purposes. The form is asking for a range of information, including employee and employer details, contribution frequencies and amounts, dates, and other relevant data. This form is likely used to maintain accurate records and facilitate compliance with superannuation regulations.</thinking>
-
 # Superannuation Contribution Survey - Help Guide
 ## Purpose
 This form is designed to collect information about superannuation contributions made by employees and their employers. It is used to track and record superannuation contributions for internal use within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an organization's readiness for institutional innovation. This helps managers evaluate their team's and organization's ability to adapt to new ideas, processes, and technologies. It's essential to complete this form honestly, as it will help you identify areas that need improvement and provide valuable insights for future innovation initiatives. Please ensure you've not completed this form before, as repeating the survey can lead to biased results.
-</thinking>
-
 # Institutional Innovation Readiness Survey - Help Guide
 ## Purpose
 The Institutional Innovation Readiness Survey is a diagnostic tool designed to assess your organization's capacity for institutional innovation. This includes assessing the innovation capability, leadership support, collaboration, communication, resource support, training support, innovation budget, and innovation process. By completing this form, you'll receive an honest self-assessment of your institution's readiness for innovation.

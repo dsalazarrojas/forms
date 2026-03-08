@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect camper information for a summer camp pre-registration process. The form is not affiliated with any specific form platform and is generated using AI, allowing for easy adaptation and modification. The form has 9 fields, all of which are text fields, and none of them are required. The form is intended to collect various types of camper information, including personal details, medical history, guardian information, and payment information. This guide will walk you through each field and its purpose.
-
-</thinking>
-
 # summer_camp_pre_registration_form - Help Guide
 ## Purpose
 The summer_camp_pre_registration_form is designed to collect camper information for a summer camp pre-registration process. The form is intended to gather various types of camper information, including personal details, medical history, guardian information, and payment information.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the workplace health and safety environment. The purpose of this form is to gather information on workplace hazards, safety risks, and measures to be taken to address these issues. This form is intended for completion by employees, supervisors, or other authorized personnel. 
-
-To ensure accurate and complete responses, please review each section carefully. 
-
-This form is not a duplicate of any other form, and its questions and sections are unique to the workplace health and safety assessment.
-</thinking>
-
 # Workplace Health Safety Survey - Help Guide
 ## Purpose
 The Workplace Health Safety Survey is designed to help identify and assess workplace health and safety hazards, risks, and measures to improve the work environment.

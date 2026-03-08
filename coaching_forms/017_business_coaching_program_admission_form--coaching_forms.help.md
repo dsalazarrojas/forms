@@ -1,16 +1,3 @@
-<thinking>
-Internal reasoning: This form is for businesses looking to gain insights into their current situation, set goals, and create a plan for growth. It helps the coaching program team assess the applicant's level of commitment and readiness for the program. This information will be used to provide tailored coaching and support for each business owner.
-
-Please note that the form is not intended to be taken by non-business owners, as the content may be irrelevant to their circumstances.
-
-The form is designed for business owners who are either current or future business owners in various stages of their business development.
-
-Before completing this form, please ensure that you are a business owner or have the authority to represent your business and provide accurate information.
-
-This form is intended to be completed by one person per business.
-
-</thinking>
-
 # Business Coaching Program Admission Form - Help Guide
 ## Purpose
 The Business Coaching Program Admission Form is a tool to help you and our coaching program team get a clear understanding of your current business situation, goals, and needs. Please fill out this form to provide us with accurate and thorough information about your business.

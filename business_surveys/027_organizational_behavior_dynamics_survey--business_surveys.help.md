@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the organizational behavior and dynamics within an organization. It's essential to ensure that the form is filled out accurately and thoroughly to provide useful insights. Please ensure that you're providing the correct information for each field, as it may affect the overall understanding of the organizational behavior.
-</thinking>
-
 # Organizational Behavior Dynamics Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data about employees' behaviors, department, job titles, job functions, job levels, and other organizational dynamics.

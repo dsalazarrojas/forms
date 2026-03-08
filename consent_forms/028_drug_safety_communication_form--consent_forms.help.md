@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's reaction to a drug, which is a critical component of drug safety communication. The form is intended to gather data on the patient's name, age, and reaction to a specific drug, as well as any relevant medical condition, dose, and description of the reaction. This information is crucial for healthcare professionals to assess the safety and efficacy of the drug. 
-
-Please ensure that this form is not used for any other purpose and that the submitted data is accurate and complete. If the patient has a medical condition that is not listed, please add it in the "Patient Condition" field. If the patient's reaction has not been fully described, please provide as much detail as possible in the "Reaction Description" field. If the patient is under 18 years old, please note that a parental consent is required.
-
-</thinking>
-
 # Drug Safety Communication Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's reaction to a drug, which is essential for assessing the drug's safety and efficacy.

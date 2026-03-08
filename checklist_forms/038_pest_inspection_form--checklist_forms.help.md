@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical tool for inspecting pests and documenting the inspection process. It captures essential information about pest inspections, including the type of activity involved, treatment results, and notes from the inspection. It is crucial that users understand the purpose and requirements of this form to ensure accurate and comprehensive data collection. Before filling out this form, please make sure to review the entire form carefully and answer all questions truthfully and completely.
-</thinking>
-
 # Pest Inspection Form - Help Guide
 
 ## Purpose

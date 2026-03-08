@@ -1,8 +1,4 @@
-> <thinking> This form is designed for conducting a thorough inspection of a vehicle's various systems and components. The form is used to gather information about the condition of the vehicle's general status, vehicle, exterior, interior, engine, brakes, suspension, steering, exhaust, battery, electrical systems, cooling systems, transmission, drive train, tires, frame and body, glass and mirrors, lights and signalling systems, seats and prophets, seatbelts, fire protection system, safety belt restraints, horn, turn signals, and wipers. The form is essential for identifying potential issues with the vehicle and ensuring it meets specific standards or requirements. This form should only be used for vehicles that have been pre-checked and are suitable for inspection.
-
-</thinking>
-
-# Mobile Inspection Form - Help Guide
+> # Mobile Inspection Form - Help Guide
 
 ## Purpose
 This form is designed to gather information about the condition of a vehicle's various systems and components. It is used to identify potential issues and ensure the vehicle meets specific standards or requirements.

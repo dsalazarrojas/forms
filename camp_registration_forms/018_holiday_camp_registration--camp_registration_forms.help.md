@@ -1,7 +1,3 @@
-<thinking>
-The primary purpose of the Holiday Camp Registration form is to gather information from parents or guardians about their child's participation in a holiday camp. This form is used to collect camper information, activity choices, contact details, and payment information. The form's fields are designed to help camp administrators manage camper registrations efficiently.
-</thinking>
-
 # Holiday Camp Registration - Help Guide
 ## Purpose
 The Holiday Camp Registration form is designed for parents or guardians to submit their child's registration details for a holiday camp.

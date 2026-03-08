@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_backup_infrastructure_inspection_form - Help Guide
 ## Purpose
 This form is designed to assess the data backup infrastructure of an organization, including its frequency, location, method, and media. The goal is to ensure that data is properly backed up and retained for a specified period in case of emergencies or hardware failures.

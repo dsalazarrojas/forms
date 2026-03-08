@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help conference planners track and manage the various tasks involved in planning a conference. It's a checklist-style form that allows users to input progress status for each task, providing a clear overview of what's been completed, what's in progress, and what's yet to be done. This form is intended to be used by conference organizers to streamline their planning process, ensure that all necessary tasks are covered, and keep track of progress. It's not meant to replace the actual planning process, but rather serve as a tool to help planners stay organized and on track.
-</thinking>
-
 # Conference Planning Checklist - Help Guide
 ## Purpose
 This guide will walk you through the Conference Planning Checklist, a tool designed to help conference planners manage and track the various tasks involved in planning a conference.

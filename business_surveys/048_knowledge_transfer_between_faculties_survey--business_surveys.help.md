@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the knowledge transfer between faculties within a university. Specifically, it aims to gather opinions and experiences on barriers, methods, and ways to improve knowledge sharing between departments. It is likely intended for employees or faculty members to provide their insights and suggestions to help enhance the university's internal communication and collaboration. This form likely targets a specific audience within the university community, potentially for internal knowledge management and improvement efforts. I would recommend checking with the form's creators or stakeholders if this form is not clearly defined or if the target audience is external to the university.
-
-Please note that the form's fields suggest a structured and in-depth analysis of the knowledge transfer process. The questions cover various aspects, such as barriers, methods, and potential improvements. The fields also indicate a focus on collaboration and feedback between departments, which could be related to specific job roles or positions within the university.
-
-It's also worth noting that some fields are optional, which could indicate that the form is designed for voluntary participation, possibly as a way to gather more free-form input or suggestions from respondents.
-
-To confirm the form's purpose and scope, I would recommend reviewing the form's context, the university's internal policies, or consulting with the form's creators or stakeholders.
-</thinking>
-
 # knowledge_transfer_between_faculties_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the knowledge transfer between faculties within a university. It aims to gather opinions and experiences on barriers, methods, and ways to improve knowledge sharing between departments.

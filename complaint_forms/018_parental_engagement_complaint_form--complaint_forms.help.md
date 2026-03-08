@@ -1,7 +1,3 @@
-<thinking>
-We designed this form to gather information for complaints related to parental engagement, which is essential for schools, educational institutions, or family centers to understand the concerns and issues faced by parents or guardians of students. This form helps in ensuring that the institution's policies and actions are in line with the parents' expectations and needs. 
-</thinking>
-
 # Parental Engagement Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to allow parents or guardians to submit complaints or concerns related to their child's education, such as issues with teachers, classroom environment, or school policies. This form will be reviewed by the institution's administration to understand the concerns and take necessary actions.

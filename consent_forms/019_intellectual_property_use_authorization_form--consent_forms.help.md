@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to obtain authorization from users to use intellectual property (IP) owned by our company. This form is intended to ensure that users understand how their IP will be used and to capture their consent for the specified usage. To prevent misuses and protect the company's IP, this form is essential for all users who want to use the company's IP.
 
 </thinking>

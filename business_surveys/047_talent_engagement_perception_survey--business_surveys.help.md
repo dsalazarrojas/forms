@@ -1,8 +1,3 @@
-<thinking>
-... internal reasoning to check for form purpose and non-duplication ...
-The form is designed to measure employees' perceptions of their engagement with their work and their organization. It's essential to complete this form accurately to get reliable data for the management team. Before proceeding, please ensure that you haven't completed this form in the past to avoid duplication of effort.
-</thinking>
-
 # Talent Engagement Perception Survey - Help Guide
 
 ## Purpose

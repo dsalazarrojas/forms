@@ -1,9 +1,3 @@
-<thinking>
-To ensure that this form is completed accurately and thoroughly, the purpose of the Pre Startup Safety Review Checklist is to assess the current state of a workplace and its readiness for start-up, focusing on key elements like workplace safety, employee training, and emergency protocols.
-It's essential to review this form carefully before proceeding to identify areas that need improvement or correction.
-
-Please note that the form is not a one-time activity; it should be reviewed and updated regularly to reflect any changes in the workplace or its operations.
-</thinking>
 # Pre Startup Safety Review Checklist - Help Guide
 
 ## Purpose

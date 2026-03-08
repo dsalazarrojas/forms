@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # summer_camp_parental_release_medical_information_code_of_conduct - Help Guide
 ## Purpose
 This form is used to collect medical information and consent from parents or guardians of students attending a summer camp. The purpose of this form is to ensure that the camp has all necessary information to provide safe and proper care to each student. This form must be completed for each student registered for the camp.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unit Control Checklist - Help Guide
 
 ## Purpose

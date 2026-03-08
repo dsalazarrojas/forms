@@ -1,7 +1,3 @@
-<thinking>
-The Art Gallery Visit Permission Form is intended to gather information from parents or guardians about their child's visit to an art gallery, including the date of the visit, the child's name and grade level, contact information, and details about the visit such as the gallery name, address, and visit purpose. This form helps the school staff to ensure that all necessary permissions are granted before allowing the students to visit the gallery. It is required to be completed by the parent or guardian of each student participating in the visit.
-</thinking>
-
 # Art Gallery Visit Permission Form - Help Guide
 ## Purpose
 The Art Gallery Visit Permission Form is designed to collect information necessary for a student's visit to the art gallery.

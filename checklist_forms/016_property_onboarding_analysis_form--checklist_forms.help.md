@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Onboarding Analysis Form - Help Guide
 ## Purpose
 The Property Onboarding Analysis Form is a tool used to collect and analyze information about a property. This form is used to record details about a property, including its onboarding status, inspection results, and recommended repairs. The information collected will help us better understand the property's condition and assist in the onboarding process.

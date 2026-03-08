@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm that the form is complete and accurate before submitting, please review the following form purpose and guidelines.
-
-This form is designed to collect essential information from presenters for conference presentations. It ensures that all necessary details are provided, including presentation title, date, and format, as well as presenter's contact and organizational information. The form is used to coordinate presentations with the conference schedule and technical requirements.
-
-To avoid any confusion or errors, please ensure you have the required documents and information before filling out this form.
-
-</thinking>
-
 # Conference Presentation Slide Upload - Help Guide
 
 ## Purpose

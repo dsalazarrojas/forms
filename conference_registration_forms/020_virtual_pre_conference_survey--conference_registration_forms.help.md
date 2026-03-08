@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Virtual Pre Conference Survey - Help Guide
 ## Purpose
 The Virtual Pre Conference Survey is a form designed to gather information from attendees regarding their physical presence and availability to provide insights for conference organizers to plan a better experience. This form helps attendees indicate their attendance status, physical conditions, share their thoughts, and provide their contact information for further communication.

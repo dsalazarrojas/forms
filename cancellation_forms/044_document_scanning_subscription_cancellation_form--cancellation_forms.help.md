@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to capture information from a user who wishes to cancel their document scanning subscription service. The purpose of this form is to collect relevant details about the cancellation, such as the reason for cancellation, the date of the last service provided, and any additional feedback or comments from the provider or customer. This form is meant to be an efficient and straightforward way to gather essential information for administrative and business purposes.
-
-To avoid duplication or misinterpretation of the form, it's essential to ensure that each field is filled out accurately and according to its intended purpose. The form fields should be completed in accordance with the instructions below.
-
-</thinking>
-
 # Document Scanning Subscription Cancellation Form - Help Guide
 
 ## Purpose

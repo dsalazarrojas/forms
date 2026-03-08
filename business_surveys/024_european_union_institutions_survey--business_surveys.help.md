@@ -1,13 +1,3 @@
-<thinking>
-The form is likely a survey for gathering information about European Union institutions, which are organizations that make up the EU's governing bodies. This form might be used for research, data collection, or other purposes such as market analysis. To avoid duplication, the form should not be used for internal purposes only, and the responses should be kept confidential. The form appears to be designed for external use, potentially for gathering feedback from individuals or organizations. 
-
-This form seems to be designed to collect basic contact information and preferences regarding European Union institutions. The form has a mix of text fields, select-one and select-multiple options, and date/time fields. It is possible that this form is intended for use by EU institutions or organizations to gather feedback from their employees or external partners. 
-
-Please let me know if this form is intended for internal use only or if there are any specific requirements or restrictions for its use. 
-
-Please let me know if you need me to clarify any further.
-</thinking>
-
 # European Union Institutions Survey - Help Guide
 ## Purpose
 This form is designed to collect information about European Union institutions and preferences. It is intended for external use and may be used for research, data collection, or other purposes.

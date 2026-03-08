@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the purpose of the "Caregiver Termination Form" is to document the termination of a caregiver's employment. This form is a crucial record-keeping tool to ensure that all necessary information is collected and processed correctly. Before proceeding, please ensure that the termination is not a duplicate or that all necessary steps have been taken to handle the situation appropriately. This form will guide you through the required fields and sections to complete the termination process accurately.</thinking>
-
 # Caregiver Termination Form - Help Guide
 
 ## Purpose

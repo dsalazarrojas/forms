@@ -1,8 +1,3 @@
-<thinking>
-This is the "Kids Camping Registration" form, used for parents or guardians to register their children for a camping activity. This form should only be used for this specific purpose and not for any other reason. The form is not intended for general registration or other types of events. Please ensure that the form is not filled out with incorrect data as it may cause errors in the registration process and potentially impact the child's participation in the activity.
-
-</thinking>
-
 # Kids Camping Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from parents or guardians about their children who will be participating in a camping activity. The form is used to gather essential details about each child, including their names, contact information, and preferences for the activity.

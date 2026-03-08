@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a business's cash flow management practices, including their current methods of tracking and forecasting cash flow, the tools they use, and the challenges they face. It is likely to be used by financial professionals or businesses that deal with large amounts of money and want to improve their cash flow management. The questions in this form are relevant to the topic of cash flow management and are not likely to be redundant with other forms or surveys.
-</thinking>
-
 # Cash Flow Management Insight Survey - Help Guide
 ## Purpose
 This survey is designed to help businesses gain insights into their cash flow management practices. It covers current methods of tracking and forecasting cash flow, tools used, and challenges faced. The information gathered will help identify areas for improvement and provide a basis for making informed decisions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Implant Consent Form - Help Guide
 ## Purpose
 The Implant Consent Form is a document designed to obtain consent from patients before undergoing an implant procedure. It serves as a legal agreement between the patient and the medical provider, outlining the terms and conditions of the implant, including the risks and benefits associated with the procedure.

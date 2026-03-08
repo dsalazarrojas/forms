@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about statues and their surroundings for a survey. The purpose of this form is to collect data on specific statues, including their locations and any relevant context. This form is meant to be used in a business context, likely for marketing, research, or sales purposes. 
-
-Before starting, please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an AI-generated adaptation of a survey form based on public metadata.
-
-To confirm, you are using a legitimate survey form created by AI, and not a copy or extraction from any other platform. If you're still unsure, you can verify the form's original source at "form@gic.mx".
-
-Let's get started!
-
-</thinking>
-
 # Statue Discovery Survey - Help Guide
 ## Purpose
 This form is designed to collect information about statues and their surroundings. Please fill it out to contribute to the survey.

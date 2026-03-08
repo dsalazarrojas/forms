@@ -1,11 +1,3 @@
-<thinking>
-The "Travel Insurance Form" is used to collect information from users about their travel plans and insurance needs. This form is typically used by travel companies or insurance providers to gather details about the user's trip, including destination, insurance type, and personal contact information.
-
-Before filling out this form, please ensure that you have all the necessary information about your trip and insurance requirements. You may need to refer to your travel itinerary or insurance policy documents for specific details.
-
-Please note that some fields may not be applicable to your situation, but please answer all the required fields as accurately as possible. If you're unsure about any field, please don't hesitate to ask the form administrator for clarification.
-</thinking>
-
 # Travel Insurance Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your travel plans and insurance needs. Please fill out this form to ensure that you receive the correct travel insurance coverage for your trip.

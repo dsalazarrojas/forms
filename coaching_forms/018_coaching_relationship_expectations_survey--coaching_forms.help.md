@@ -1,12 +1,3 @@
-<thinking>
-This form, "Coaching Relationship Expectations Survey", is likely used for coaches or coaches-to-be to collect information from clients about their expectations and preferences for a coaching relationship. This form might be used to help coaches understand the client's goals, communication style, and expectations for the coaching process, ensuring a smooth and effective coaching relationship.
-
-Before filling out this form, please check if you have filled out a similar form recently, as this might be a duplicate effort. 
-
-This help guide is designed to assist you in understanding the purpose and requirements of the form, as well as provide guidance on how to complete it accurately.
-
-</thinking>
-
 # Coaching Relationship Expectations Survey - Help Guide
 ## Purpose
 The purpose of this form is to provide coaches with a clear understanding of a client's expectations and preferences for a coaching relationship.

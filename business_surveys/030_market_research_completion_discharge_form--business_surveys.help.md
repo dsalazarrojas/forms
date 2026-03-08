@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about the completion of market research studies. Its purpose is to gather data from participants about their involvement in a study, including the study's title, dates, and comments. The form aims to document the completion process and provide a record of the researcher's and participant's interactions.
-</thinking>
-
 # Market Research Completion Discharge Form - Help Guide
 ## Purpose
 This form is used to document the completion of a market research study, ensuring that all necessary information is captured and recorded.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect demographic and financial information from individuals or families in need of financial assistance. The form is designed to be simple and easy to complete, ensuring that all relevant details are captured for processing the requests. Before proceeding, please note that this form may be duplicated for the same applicant. It's essential to ensure that each submission is accurate and complete to avoid any potential issues during the processing stage.</thinking>
-
 # Financial Assistance Request Form - Help Guide
 ## Purpose
 The Financial Assistance Request Form is a simple and easy-to-use form designed to capture demographic and financial information from individuals or families in need of financial assistance.

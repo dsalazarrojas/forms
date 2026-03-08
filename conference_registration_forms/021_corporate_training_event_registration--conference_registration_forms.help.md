@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to register for corporate training events. The purpose of this form is to collect information about the attendee's preferences and details in order to efficiently manage the event registration process. To avoid duplication, please fill out this form only once per attendee. 
-Please note that fields with `required: true` are mandatory fields.
-</thinking>
-
 # Corporate Training Event Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to provide support to individuals who are attending or interested in attending a Global Research Symposium. This form will allow users to request support in a structured way, enabling the organizers to better prepare and provide assistance. To avoid duplication, please do not fill out this form if you have already contacted the symposium organizers directly.
-</thinking>
-
 # Global Research Symposium Support Request Form - Help Guide
 
 ## Purpose

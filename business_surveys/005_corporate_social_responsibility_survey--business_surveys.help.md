@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Social Responsibility Survey - Help Guide
 
 ## Purpose

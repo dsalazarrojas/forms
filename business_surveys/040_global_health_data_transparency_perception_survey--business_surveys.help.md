@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess individuals' perceptions of global health data transparency. The purpose of this form is to understand how well people trust and are willing to share global health data, as well as their concerns about data sharing and privacy. The questions on the form are intended to be answered on a scale ranging from "very willing" to "not at all willing" and from "very much" to "not at all" for certain questions. By understanding these perceptions, organizations and researchers can gain valuable insights into how to improve global health data transparency and better serve the needs of individuals and communities.
-
-Before continuing, please note that this form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and public survey topic metadata, and is released under the Creative Commons BY 4.0 license. You are free to use, modify, and even sell forms derived from it, as long as you give credit.
-
-</thinking>
-
 # global_health_data_transparency_perception_survey - Help Guide
 ## Purpose
 This form is designed to assess individuals' perceptions of global health data transparency.

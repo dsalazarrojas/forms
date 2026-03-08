@@ -1,14 +1,3 @@
-<thinking>
-The form "Ride Service Availability Issue Report Form" is intended to gather information from riders about their experiences with ride services, specifically to report any issues they encountered. This form aims to capture details about the issue, its resolution, and any follow-up activities. 
-
-When submitting this form, riders will be asked to provide their location, the date they experienced the issue, a description of the problem, and whether they have contacted a representative. They will also be asked if follow-up is needed, and if they have contacted a representative, the date of the contact, and the status of the follow-up.
-
-The form is designed to be completed by riders who have experienced an issue with ride services, and it will help in tracking and resolving these issues.
-
-Please ensure that each issue reported through this form is unique and not a duplicate. This guide is intended to help users understand the purpose and use of this form.
-
-</thinking>
-
 # Ride Service Availability Issue Report Form - Help Guide
 ## Purpose
 The Ride Service Availability Issue Report Form is used by riders to report any issues they experienced with ride services. This form is designed to gather information to help in resolving these issues.

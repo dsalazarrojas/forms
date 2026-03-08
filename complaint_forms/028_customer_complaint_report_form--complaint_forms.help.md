@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "customer_complaint_report_form" form, we will follow these steps:
-
-1. **Form Purpose:**
-The purpose of this form is to collect and document customer complaints, allowing for a thorough understanding of customer issues and concerns. This form helps to track and manage customer complaints in an organized and structured manner.
-
-2. **Relevance and Non-Duplication:**
-Before filling out this form, please ensure that you have not already submitted a complaint regarding the same issue. This form should only be used for new or ongoing complaints.
-
-</thinking>
-
 # customer_complaint_report_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document customer complaints, allowing for a thorough understanding of customer issues and concerns.

@@ -1,9 +1,3 @@
-<thinking>
-This form is likely intended to collect information from businesses or entrepreneurs seeking to participate in a seed accelerator program. Seed accelerators provide funding, mentorship, and resources to help early-stage startups grow and scale. The form's purpose is to gather relevant details from applicants to assess their fit for the program.
-To determine the form's purpose and relevance to the user's needs, we need to consider the fields included in the form. The fields seem to focus on the business and its ideas, rather than personal information, suggesting the form is for companies rather than individuals.
-The required fields are all text boxes, which may imply the form is collecting qualitative data rather than numerical or structured information.
-</thinking>
-
 # Seed Accelerator Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses or entrepreneurs seeking to participate in a seed accelerator program. The program provides funding, mentorship, and resources to help early-stage startups grow and scale.

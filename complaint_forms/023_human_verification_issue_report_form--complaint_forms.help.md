@@ -1,7 +1,3 @@
-<thinking>...
-To create a user-facing help guide for the Human Verification Issue Report Form, I'll consider the purpose and requirements of the form. The form seems to be a complaint or issue reporting form, likely used for users to report any issues they encounter with human verification processes. The goal is to gather relevant information from users about the issues they experienced, including the context and description of the issue, steps to reproduce, and any additional information that can help identify and resolve the problem. The form likely aims to provide a structured and organized way for users to report issues, ensuring that all necessary information is captured to facilitate efficient resolution.
-</thinking>
-
 # Human Verification Issue Report Form - Help Guide
 
 ## Purpose

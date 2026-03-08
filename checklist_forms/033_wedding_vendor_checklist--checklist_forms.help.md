@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Vendor Checklist is a form used to collect essential information about wedding vendors and their details. This guide is intended for end-users who need to fill out the form for their own wedding-related purposes. Before proceeding, ensure that you are filling out the correct form and that your answers are relevant to your actual needs. In case of doubts, double-check if the form title or label has been updated to reflect a new form purpose or changes in the form's content.
-</thinking>
-
 # Wedding Vendor Checklist - Help Guide
 
 ## Purpose

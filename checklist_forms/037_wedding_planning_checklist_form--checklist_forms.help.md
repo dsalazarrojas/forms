@@ -1,5 +1,3 @@
-<thinking>As we created this form using only public survey topic metadata (title + industry/category), our aim is to provide a practical and user-friendly guide for end users. We checked for duplication and non-relevance of the form fields to ensure that the form accurately reflects the needs of wedding planning process.</thinking>
-
 # Wedding Planning Checklist Form - Help Guide
 ## Purpose
 The Wedding Planning Checklist Form is designed to help you organize and prepare for your wedding by collecting important details such as venue and guest count, ceremony and reception information, attire, and other essential elements.

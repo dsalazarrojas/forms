@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly guide that explains the purpose and functionality of the "Customer Satisfaction Survey Form" in a clear and concise manner. Before I start writing the guide, I want to confirm that the form is designed to collect customer feedback and satisfaction levels regarding their experience with a company or business. The form should be easy to fill out, and each field should be explained in a way that makes sense to the user. With the provided YAML fields, I will create a comprehensive guide that covers all the essential information.</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 ## Purpose
 The "Customer Satisfaction Survey Form" is designed to collect feedback and satisfaction levels from customers about their experience with a company or business. This form aims to gather essential information to help improve customer satisfaction and overall business performance.

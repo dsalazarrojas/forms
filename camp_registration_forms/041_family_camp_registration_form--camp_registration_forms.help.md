@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from families for a summer camp registration process. The form will likely be completed by a family member, and the goal is to gather necessary data for the camp administration to prepare for the upcoming camp season.
-This guide assumes you are familiar with the basics of filling out online forms.
-</thinking>
-
 # Family Camp Registration Form - Help Guide
 ## Purpose
 The Family Camp Registration Form is used to gather essential information from families who are interested in attending the summer camp. Please fill out this form to provide the necessary details for a smooth and enjoyable camp experience.

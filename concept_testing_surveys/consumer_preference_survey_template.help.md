@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather consumer insights on a new concept. It's intended to be used by individuals who have an opinion about the concept, either positive or negative. Please ensure that you're filling out this form as a consumer who has some level of familiarity with the concept. If you're not familiar with the concept, your responses might not be as valuable or representative.
-</thinking>
-
 # consumer_preference_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from consumers on a new concept, aiming to understand their preferences, opinions, and likelihood of adoption.

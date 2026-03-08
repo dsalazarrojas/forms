@@ -1,15 +1,3 @@
-<thinking> 
-The form "real_estate_tech_efficiency_survey" is a comprehensive survey designed to collect information about the technology used by real estate companies. It is intended for real estate businesses to assess their current technology usage and identify areas for improvement. 
-
-This form is used to collect data on the company details and software used by real estate companies. It is crucial to ensure that the survey is completed accurately and thoroughly, as the information gathered will be used to inform business decisions.
-
-Before proceeding, please review the following:
-
-* The form is divided into multiple pages, each with its own set of questions.
-* Each page is focused on collecting specific information about the company's technology usage.
-* Make sure to select the correct options that apply to your company.
-</thinking>
-
 # real_estate_tech_efficiency_survey - Help Guide
 ## Purpose
 The "real_estate_tech_efficiency_survey" is a survey designed to collect information about the technology used by real estate companies. It is used to assess current technology usage and identify areas for improvement.

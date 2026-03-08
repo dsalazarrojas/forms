@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to obtain consent from participants for the recording and replay of hybrid learning sessions. This form helps ensure that participants are aware of and agree to the terms of the recording, which is essential for building trust and maintaining participant privacy. This form is a crucial part of the hybrid learning session process, as it ensures that all parties involved are on the same page regarding the recording and replay of the session... </thinking>
-
 # Hybrid Learning Session Replay Consent Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from child Medicaid beneficiaries about their experience with their health plan. The purpose of this form is to gather data on the quality of care provided by the plan, accessibility of services, and overall satisfaction with the plan. This form is part of the Medicaid program's effort to continuously improve the services provided to its beneficiaries. 
-
-Please note that this form is not meant to be filled out for every child who has ever been on a health plan. It should only be completed by the parents or guardians who can provide an honest and detailed account of their child's experiences with the health plan. If you have completed this form before, please do not fill it out again unless your child's experience with the plan has changed significantly.
-
-The form collects information on the date the survey is completed, the child's age, the overall health status of the child, the duration of the child's coverage under the plan, the rating of the plan, the ease of access to primary care doctors, specialist, and other services, and finally, the overall satisfaction with the plan and any suggestions for improvement.
-</thinking>
-
 # CAHPS Health Plan Survey Version Child Medicaid Survey 5.0 - Help Guide
 
 ## Purpose

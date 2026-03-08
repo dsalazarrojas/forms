@@ -1,7 +1,3 @@
-<thinking>
-This form was likely generated as a template for a field-based assessment used in a work context, possibly for a site operations team to ensure they have completed necessary site-specific tasks during a walk-through assessment. The form appears to be a checklist-style form where the user would enter text notes for each field. The form's fields may not have any specific logic or validation rules attached to them, indicating it's a basic template for users to input their findings. It's possible this form could be used for a variety of purposes within a company, such as quality control, safety inspections, or other site-specific requirements. The fields may not be highly specialized, but the form's purpose and usage context would determine its intended application.
-</thinking>
-
 # Operations Site Walk Checklist Form - Help Guide
 ## Purpose
 This form is designed for site operations teams to document their findings and observations during a site walk-through assessment. It's a checklist-style form where you'll provide text-based answers for each field.

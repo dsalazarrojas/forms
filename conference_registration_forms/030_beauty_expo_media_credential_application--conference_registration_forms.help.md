@@ -1,12 +1,3 @@
-<thinking>
-The goal of this form is to gather information from media representatives attending the Beauty Expo. The form is likely used to ensure that media professionals have the necessary credentials and arrangements in place for the event. This form will ask for personal and professional information from the media representatives, as well as details about their planned coverage of the event. It is essential to ensure that the information entered is accurate and complete.
-
-Before filling out this form, please check if you have already submitted it to avoid duplication. If you're unsure about any question, it's best to err on the side of caution and ask for clarification before proceeding.
-
-Please note that some fields are marked as required, which means they are necessary for a successful submission. Ensure you fill out all required fields correctly to avoid any issues with your application.
-
-</thinking>
-
 # Beauty Expo Media Credential Application - Help Guide
 ## Purpose
 The Beauty Expo Media Credential Application form is used to gather information from media representatives to ensure they have the necessary credentials and arrangements in place for the event.

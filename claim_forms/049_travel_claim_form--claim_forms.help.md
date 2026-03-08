@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form is intended to facilitate employees to submit their travel claims, allowing them to request reimbursement for expenses incurred during business trips. This form is likely to be used by employees who need to reimburse expenses related to travel, such as airfare, hotel, food, or rental car expenses. The form should only be completed once per travel claim.
 
 </thinking>

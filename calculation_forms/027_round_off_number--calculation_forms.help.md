@@ -1,8 +1,3 @@
-<thinking>
-The form "Round Off Number" appears to be designed for numerical calculations. Its purpose seems to be to round a given number to the nearest value specified by the user. This form might be used in financial or mathematical calculations where precision is needed but not exactness.
-Checking for duplication and ensuring the form's purpose is clear will make sure end-users understand its intended use and avoid submitting incorrect or incomplete data.
-</thinking>
-
 # Round Off Number - Help Guide
 ## Purpose
 The "Round Off Number" form is used to round a given number to the nearest value specified by the user. This form is useful in financial or mathematical calculations where precision is needed but not exactness.

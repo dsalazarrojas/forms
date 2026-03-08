@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to document and report on the outcome of mooring operations performed on vessels. It serves as a checklist to ensure that essential tasks are completed and recorded for quality control, auditing, and compliance purposes.
-
-This checklist should not be duplicated in other forms. Each entry on this form is an essential step in ensuring safe and proper execution of mooring operations. By carefully reviewing and documenting each step, you can identify potential issues and improve the overall effectiveness of the process.
-
-</thinking>
-
 # Mooring Operations Checklist - Help Guide
 ## Purpose
 This form is used to document the outcome of mooring operations performed on vessels. It ensures that all essential steps are taken and recorded for quality control, auditing, and compliance purposes.

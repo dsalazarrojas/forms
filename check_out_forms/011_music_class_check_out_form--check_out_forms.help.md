@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a "music_class_check_out_form" form that is used to record student check-out information for music classes. This form is likely used in a school or educational setting to track student attendance, feedback, and comments. It's crucial to ensure that the form is completed accurately and completely to maintain accurate records. Before creating this help guide, let's review the form's purpose and required fields to ensure we cover all necessary information.
-</thinking>
-
 # music_class_check_out_form - Help Guide
 ## Purpose
 The "music_class_check_out_form" is used to record student check-out information for music classes, ensuring accurate attendance and feedback records.

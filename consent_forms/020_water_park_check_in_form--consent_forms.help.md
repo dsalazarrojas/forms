@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and manage visitor information at a water park, likely for attendance records, customer service, and security purposes. The form captures details such as visitor name, visit date and time, group information, number of adults and children, any additional notes, contact information, assigned equipment or tools, category of visit, and description of the visit. It's essential to ensure that all required fields are filled out accurately to provide the best possible service and ensure visitor safety. Note that some of these fields might not be required, but it's still important to fill them out for better data quality and analysis.
-</thinking>
-
 # Water Park Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information from visitors to the water park, including personal details, visit specifics, and other relevant data to enhance their experience and maintain park records.

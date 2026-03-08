@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers regarding warranty claims for products they have purchased. The form is used to collect details about the customer's purchase, such as product details, claim type, and contact method. This information helps us understand the issue with the product and facilitate the resolution process.
-
-To ensure accurate and efficient processing, please fill out this form carefully, and make sure to provide all necessary details. Please note that this form is a critical part of our warranty process, and incomplete or inaccurate submissions may lead to delays in processing your claim.
-
-Before starting, please ensure that you have reviewed our warranty policy and that your claim falls within the scope of our warranty terms. If you're unsure, please contact our support team for clarification.
-
-Also, please be aware that duplicate submissions will not be accepted. If you have already submitted a claim for the same issue, please do not submit another one. This helps us avoid unnecessary processing and ensures that your issue is handled efficiently.
-
-</thinking>
-
 # Warranty Claim Form - Help Guide
 ## Purpose
 The Warranty Claim Form is used to gather information from customers regarding warranty claims for products they have purchased. Please fill out this form carefully and thoroughly to ensure efficient processing of your claim.

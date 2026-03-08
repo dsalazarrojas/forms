@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning:**
-This form is designed to gather information from parents for field trips, which is essential for ensuring their child's safety and well-being. The form requires a brief description of the field trip, the parent's name, their email address, phone number, and the schools their child is attending. The parent will also need to select the schools their child is currently attending, and provide their signature. Please fill out the form accurately and completely to ensure your child's trip is approved.
-</thinking>
 # Parent Permission Form For Field Trip - Help Guide
 ## Purpose
 This form is designed to collect necessary information from parents for field trips, ensuring their child's safety and well-being.

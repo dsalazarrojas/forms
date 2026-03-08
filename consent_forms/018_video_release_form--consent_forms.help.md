@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm creating a user-facing help guide for the "Video Release Form" to ensure end users understand its purpose, how to complete it, and each field's meaning.</thinking>
-
 # Video Release Form - Help Guide
 ## Purpose
 The Video Release Form is designed to collect consent from individuals and agencies for the use of their images, videos, and other media. This form ensures that individuals and organizations understand their rights, responsibilities, and any limitations involved in the use of their content.

@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to assess a soccer coach's performance, athlete development, and team environment. It should be completed by the coach, athlete, or team administrator. Please ensure that you have permission to access this form and that it's not a duplicate evaluation. If you're unsure, please reach out to your supervisor or the form owner for clarification.
-
-</thinking>
-
 # soccer_coach_evaluation_survey - Help Guide
 ## Purpose
 The soccer coach evaluation survey is designed to gather feedback on a soccer coach's performance, athlete development, and team environment. This form is typically completed by the coach, athlete, or team administrator to provide a comprehensive evaluation of the coach's strengths and weaknesses.

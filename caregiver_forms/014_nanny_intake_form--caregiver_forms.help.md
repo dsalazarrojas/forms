@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are applying to be nannies or caregivers for children. The form is used to gather essential details such as first and last name, contact information, education, work experience, language proficiency, and certification status. This information will be used to verify the identity of the applicant and assess their suitability for employment as a nanny or caregiver. Please note that some fields are optional and only required if the applicant has relevant information to provide.
-</thinking>
-
 # Nanny Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who are applying to be nannies or caregivers for children.

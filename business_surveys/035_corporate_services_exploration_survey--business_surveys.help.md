@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about corporate services exploration, a process that helps companies understand the needs and preferences of their employees. This form should only be filled out by employees who have been assigned to it and should not be duplicated. Please ensure you complete this form carefully and accurately.
-</thinking>
-
 # Corporate Services Exploration Survey - Help Guide
 ## Purpose
 This form is used to collect information from employees about their experiences, preferences, and suggestions on corporate services. Your input will help us better understand your needs and provide better services to you and other employees.

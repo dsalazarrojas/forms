@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the readiness of buildings to transition to energy-efficient practices and technologies. This form is designed to assess the energy management role of the respondent, the building's energy sources and usage patterns, the existence and effectiveness of energy efficiency measures, and the potential barriers to energy transition. This information will help organizations understand their readiness to transition to more energy-efficient practices and identify potential areas of improvement.
-This form is not intended for public use, but rather as an internal assessment tool for organizations to evaluate their own readiness to transition to energy-efficient practices. If you are not authorized to access this form, please do not complete it.
-This form should not be completed by organizations that have already achieved net-zero energy usage or are already well-advanced in their energy transition efforts.
-</thinking>
-
 # Building Energy Transition Readiness Survey - Help Guide
 ## Purpose
 The Building Energy Transition Readiness Survey is designed to assess the readiness of buildings to transition to energy-efficient practices and technologies. This survey will help organizations understand their readiness to transition and identify potential areas of improvement.

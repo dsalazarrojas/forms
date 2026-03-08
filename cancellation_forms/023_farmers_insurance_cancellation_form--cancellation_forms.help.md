@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to handle cancellations for farmers insurance policies. It is used to collect information from policyholders or their representatives to initiate the cancellation process. The form will guide users through the necessary steps to provide all required and optional information. Please review the form carefully and fill in the required fields to complete the process.
 
 # farmers_insurance_cancellation_form - Help Guide

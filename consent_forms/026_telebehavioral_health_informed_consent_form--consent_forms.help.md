@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to obtain informed consent from patients for telebehavioral health services. The purpose of this form is to ensure that patients understand and agree to the terms of their treatment, including any potential risks and benefits, and to provide their contact information for follow-up purposes. This form is not meant to be a substitute for a comprehensive medical exam or treatment plan, but rather a way to gather essential information and obtain consent for telebehavioral health services.
-
-Before proceeding, please ensure that you have reviewed and understood the form carefully and that it is not a duplicate of an existing form.
-
-</thinking>
-
 # Telebehavioral Health Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for telebehavioral health services, including any potential risks and benefits. It is essential to review and understand the form carefully before proceeding.

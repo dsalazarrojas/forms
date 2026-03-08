@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from operations leads who are applying for various roles within the organization. This form will help in processing and tracking job applications efficiently. Before proceeding, ensure that you're filling out this form for the correct purpose and that you've not already submitted an application for this position. If you're unsure, please review the job description and requirements again or contact the hiring manager for clarification.
-</thinking>
-
 # Operations Lead Application Form - Help Guide
 ## Purpose
 The Operations Lead Application Form is a tool used to collect and process applications from candidates for operations-related roles within the organization. This form helps in maintaining an organized and streamlined application process, ensuring that all necessary information is collected and reviewed efficiently.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather donor demographic information to better understand our donors' needs, preferences, and behaviors. This form will help us identify patterns and trends in donor demographics, such as income, occupation, and donation frequency, to inform our marketing and outreach strategies. It's essential to ensure that each donor's experience is unique and meets their specific needs.
-
-We will review this form for each donor to prevent duplication of effort and ensure that we are not over-representing any one group of donors. This will also help us to identify areas that need to be improved.
-
-Before proceeding, please ensure that the data is accurate and up-to-date. The information you provide will be treated as confidential and will not be shared without your explicit consent.
-
-</thinking>
-
 # donor_demographic_research_survey - Help Guide
 ## Purpose
 The donor demographic research survey is designed to gather information about our donors to better understand their demographic characteristics, behaviors, and preferences.

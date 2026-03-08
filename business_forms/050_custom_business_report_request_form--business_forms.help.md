@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to request a custom business report. 
-The purpose of this form is to gather information about the report request, including the title, category, description, client, email, phone number, and other relevant details. 
-The form is intended for business use only and should not be used for personal or non-business purposes. 
-To avoid duplication, users should only submit one request per form.
-</thinking>
-
 # Custom Business Report Request Form - Help Guide
 ## Purpose
 The Custom Business Report Request Form is used to request a custom report for business purposes. Fill out this form to provide details about the report you need and submit it to us for processing.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from athletes regarding their consent for media use during events and interactions with the organization. This form is necessary to ensure that athletes are aware of and agree to the terms of media use, including photo, video, and audio recordings, as well as social media and fan portal promotions. The form is typically completed by athletes before participating in events or interactions with the organization.
-
-</thinking>
-
 # Athlete Fan Interaction Media Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain athlete consent for media use during events and interactions with the organization, ensuring that athletes understand and agree to the terms of media use.

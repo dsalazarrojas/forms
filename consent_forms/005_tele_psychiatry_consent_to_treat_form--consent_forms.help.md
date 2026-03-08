@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for telepsychiatry sessions, which involves online or phone-based consultations between a patient and a mental health professional. The goal of this form is to obtain informed consent from patients before starting treatment. It helps ensure that patients understand their treatment goals, duration, communication preferences, and any medical conditions they may have. This form should only be used for telepsychiatry sessions. Please note that this form has been generated based on publicly available information and may not reflect specific institutional or regulatory requirements.
-
-</thinking>
-
 # tele-psychiatry-consent-to-treat-form - Help Guide
 ## Purpose
 The telepsychiatry-consent-to-treat-form is a crucial document for online or phone-based consultations with mental health professionals. It serves as a guide for patients to understand their treatment goals, duration, and expectations before starting therapy.

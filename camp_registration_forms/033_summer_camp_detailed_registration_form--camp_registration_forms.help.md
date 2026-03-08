@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants to a summer camp. The purpose of this form is to collect information about the participant, including their name, email, phone number, and schedule details for the camp. This form should only be completed by participants who have already been invited to the camp. Please ensure that you are completing this form for the correct participant and that you are not duplicating an existing registration.
-</thinking>
-
 # Summer Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is used for registering participants to a summer camp.

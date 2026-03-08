@@ -1,8 +1,3 @@
-<thinking>
-This form is used for currency conversion, allowing users to convert a base currency to another currency. The form consists of several fields that require user input to facilitate the conversion process. This form should only be used for conversions that require user input, and users should not be required to fill out all fields.
-
-</thinking>
-
 # currency_conversion_form - Help Guide
 ## Purpose
 The **currency conversion form** is used to convert one currency to another based on user input. This form is designed to provide a simple and straightforward way to perform currency conversions.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and insights from users regarding the effectiveness and challenges of using data visualization tools for the Treasury Department. This information will help to identify areas for improvement and optimize data visualization practices across the organization. The form will likely be used by the Treasury Department leadership, and the results will inform strategic decisions related to data visualization tool adoption and development.
-It is essential to ensure that the form is completed only once by each user, and the responses are accurate and honest. If a user has already completed the form, please do not attempt to fill it out again. This will help to prevent duplicate responses and ensure the data quality.
-</thinking>
-
 # Treasury Data Visualization Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from users regarding the effectiveness and challenges of using data visualization tools for the Treasury Department. Your input will help to improve data visualization practices across the organization.

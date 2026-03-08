@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who are interested in participating in a conference hosted by the Tourism Resilience Council. The purpose of this form is to gather demographic information, contact details, and preferences of the attendees. This information will be used to tailor the conference program and materials to suit the needs of the attendees. By submitting this form, attendees will be able to register their interest in the conference and provide valuable feedback to the organizers.
-
-Before proceeding, please note that this form should not be submitted by people who have already registered for the conference, as this may lead to duplicate records. Also, ensure that the information provided is accurate and up-to-date, as it will be used to create personalized experience for each attendee.
-</thinking>
-
 # Tourism Resilience Council Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees who are interested in participating in a conference hosted by the Tourism Resilience Council. The information collected will be used to create a personalized experience for each attendee, including tailored conference materials and program.

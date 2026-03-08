@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and fields are properly explained to the end-user to avoid duplication and irrelevant responses. This form is intended to collect data about employee productivity and wellness, and each field should be clearly explained to ensure accurate and relevant responses.
-</thinking>
-
 # Productivity And Wellness Survey - Help Guide
 ## Purpose
 The Productivity And Wellness Survey is designed to gather information about your productivity and wellness at work. This data will help your organization understand areas where employees can improve their work experience and overall well-being.

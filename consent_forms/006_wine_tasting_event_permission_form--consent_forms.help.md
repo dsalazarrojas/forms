@@ -1,7 +1,3 @@
-<thinking>
-This form is used for wine tasting events where participants are required to provide certain information to confirm their participation. The form should only be filled out by individuals who are actually participating in the event, and not by people who are only providing information on behalf of others. Please ensure that only authorized individuals fill out this form.
-</thinking>
-
 # Wine Tasting Event Permission Form - Help Guide
 
 ## Purpose

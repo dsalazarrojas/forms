@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about an inheritance beneficiary, including details about the person inheriting the asset, the asset itself, and the contact information for the deceased or their representative. This form should be completed by the individual or entity inheriting an asset to provide a comprehensive record of their inheritance for tax and administrative purposes.
-
-To complete this form, please ensure that the information provided is accurate and complete. If you are unsure about any of the fields, please consult with a qualified professional or the relevant authority for guidance.
-
-</thinking>
-
 # Inheritance Beneficiary Form - Help Guide
 
 ## Purpose

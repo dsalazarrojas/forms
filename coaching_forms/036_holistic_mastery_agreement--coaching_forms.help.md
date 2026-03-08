@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, the form is for the Holistic Mastery Agreement, which aims to capture essential information about an individual, including their personal details, contact information, and agreement status. This form ensures that the relevant data is collected in a structured and consistent manner, making it easier to store and reference later.
-
-To create a comprehensive help guide, I'll analyze each field to provide a clear and concise explanation of its purpose and requirements.
-
-</thinking>
-
 # Holistic Mastery Agreement - Help Guide
 ## Purpose
 The Holistic Mastery Agreement form is designed to collect personal and contact information from individuals, as well as their agreement status. This form helps to ensure that the necessary details are collected in a structured and consistent manner.

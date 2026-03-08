@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used when an end user (submitter) wants to place a change order on a field. A change order is a formal request to modify or update a field. This form is likely used by project managers or team members to request changes to fields, such as field modifications, field deletions, or field additions. This form will help the submitter to provide detailed information about the change request, including the field ID, the reason for the change, and other relevant details. 
-
-Before filling out the form, please check that you have a valid reason for the change and that the change is not already in progress.
-
-</thinking>
-
 # Field Change Order Form - Help Guide
 ## Purpose
 The Field Change Order Form is used to request changes to fields. It is a formal process to ensure that all changes are documented and reviewed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dropped Object Safety Acknowledgment - Help Guide
 ## Purpose
 The Dropped Object Safety Acknowledgment form is used to document and acknowledge the safety procedures and protocols related to a dropped object. This form helps ensure that all individuals involved in the incident are aware of the potential hazards and take necessary precautions to prevent accidents.

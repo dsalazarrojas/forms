@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to be a checklist for home stagers to document tasks and their completion dates. A home stager can create and manage multiple checklists for different rooms and tasks. The form should allow the end-users to select the room types, task types, and tasks to be completed in each room, and optionally set a completion date and add comments. There should be a way to assign a technician to be responsible for the tasks. The fields should not be redundant or confusing, and each field should serve a clear and specific purpose.
-</thinking>
-
 # Home Staging Checklist Form - Help Guide
 ## Purpose
 The Home Staging Checklist Form is a tool used by home stagers to document and manage tasks for each room in a property. This form helps track progress, assign tasks to technicians, and provide a clear overview of the work to be done.

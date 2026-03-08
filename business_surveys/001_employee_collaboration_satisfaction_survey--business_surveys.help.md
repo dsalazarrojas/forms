@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide an overview of the Employee Collaboration Satisfaction Survey form, its purpose, and instructions on how to complete it. This form is intended to gauge the level of satisfaction among employees regarding their collaboration experience within the company. The survey consists of 8 fields that cover various aspects of collaboration, including teamwork, communication, feedback, and interactions with management. Each field is designed to collect specific feedback from employees, helping the organization to identify areas of improvement and enhance collaboration within the team. This guide will walk through each field and explain its purpose, making it easier for employees to provide honest and accurate feedback.
-</thinking>
-
 # Employee Collaboration Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to assess employee satisfaction with collaboration within the company, helping us to identify areas of improvement and enhance teamwork and communication.

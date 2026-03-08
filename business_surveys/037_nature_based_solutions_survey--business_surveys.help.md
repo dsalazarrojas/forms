@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information from users about nature-based solutions, their awareness barriers, benefits of interest, local authorities, and NGOs researchers. This form is meant to be a general survey to gather information on these topics. To ensure that the form is completed effectively, it is essential to check if you have any similar forms in your organization or have recently completed any form with similar content.
-</thinking>
-
 # Nature Based Solutions Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and information from users about nature-based solutions, their awareness barriers, benefits of interest, local authorities, and NGOs researchers.

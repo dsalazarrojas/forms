@@ -1,5 +1,3 @@
-<thinking>As we review the provided form YAML, we notice that the "Mixer Inspection Checklist" form is designed to gather information for a mixer inspection. The form is comprised of 25 fields, but most of them appear to be free-text fields, which could be considered redundant. A closer examination of the form structure suggests that it might be intended to collect data from various aspects of a mixer inspection. However, without further context, it is uncertain what specific data points are being targeted. This guide will attempt to provide a clear and concise explanation of the form's purpose and how to complete it, focusing on the fields that seem to have distinct purposes.</thinking>
-
 # Mixer Inspection Checklist - Help Guide
 ## Purpose
 The Mixer Inspection Checklist form is designed to collect information for a mixer inspection.

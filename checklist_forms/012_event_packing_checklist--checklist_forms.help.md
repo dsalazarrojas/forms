@@ -1,7 +1,3 @@
-<thinking>
-The Event Packing Checklist form is designed to help users pack their events with all the necessary items. This form is used to create a checklist for events, allowing users to add and manage their events' details, items, and status in a systematic and organized manner. It's essential to use this form to ensure that all event items are correctly packed and that event organizers and attendees are aware of the status of each item.
-</thinking>
-
 # Event Packing Checklist - Help Guide
 
 ## Purpose

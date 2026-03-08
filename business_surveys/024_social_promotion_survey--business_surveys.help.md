@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the "Social Promotion Survey" form, used to gather information about a company's social media promotion activities. The form has multiple pages, each with various fields to collect different types of data. The form is designed to be completed by users who want to provide feedback on the company's social media promotion efforts.
-
-Before proceeding, please ensure that you understand the purpose of this form and have reviewed the instructions carefully to avoid any duplication of efforts. If you have already completed this form, please do not repeat the effort.
-
-To create a comprehensive guide, we will break down each section and explain each field in detail, ensuring a clear understanding of what to expect from the form and how to complete it accurately.
-</thinking>
-
 # Social Promotion Survey - Help Guide
 ## Purpose
 

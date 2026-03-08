@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information from individuals in the energy sector, such as industry professionals, researchers, or community leaders, to better understand the main concerns and challenges surrounding energy adoption and development in their communities or organizations. This form is a tool for gathering qualitative data to aid in the understanding of energy-related issues and potential solutions. To ensure accuracy, please ensure that the form is used for its intended purpose only, and do not collect information from non-targeted individuals or communities.
-</thinking>
-
 # Energy Interview Questions - Help Guide
 ## Purpose
 This form is designed to collect information from individuals in the energy sector to understand the main concerns and challenges surrounding energy adoption and development in their communities or organizations.

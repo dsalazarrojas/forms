@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and fields to ensure it's clear and practical for end-users. This form appears to be designed for inspecting stormwater systems, which is likely related to water management and maintenance. The goal is to gather information about the system's status, functionality, and compliance. To avoid duplication, we should focus on the essential fields that directly contribute to this goal. We'll break down the form into sections and explain each field in a concise and concrete manner.</thinking>
-
 # Stormwater Inspection Form - Help Guide
 ## Purpose
 The Stormwater Inspection Form is used to assess the status of stormwater systems, including their functionality, components, and compliance with regulations. This form helps ensure that stormwater systems are in good working order and meet regulatory requirements.

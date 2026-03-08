@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from shippers for cargo check-in purposes. This form is used to ensure accurate and efficient cargo check-in, which helps the logistics team to track and manage cargo effectively. To avoid duplication, shippers should only use this form to check in new cargo, not to update existing ones.
-</thinking>
-
 # Freight Cargo Check In Form - Help Guide
 ## Purpose
 The Freight Cargo Check In Form is used to collect information from shippers for new cargo check-in purposes.

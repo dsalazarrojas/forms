@@ -1,12 +1,3 @@
-<thinking>
-The "Wedding Ceremony Contract Form" is used to collect information about a wedding ceremony. This form will help the officiant (a person who performs the ceremony) and the client (the couple getting married) to agree on the terms of the ceremony.
-
-To avoid any confusion, it's essential to ensure that you complete this form accurately and thoroughly. This guide will walk you through each section of the form to help you understand what to expect.
-
-Before you start, please note that some fields are required (indicated by `required: true`), while others are optional. This means that you must fill in the required fields, while you can skip the optional ones if you're not sure or don't want to provide information on them.
-
-</thinking>
-
 # wedding_ceremony_contract_form - Help Guide
 ## Purpose
 This form is used to collect information about the wedding ceremony, including details about the ceremony's time, location, language, and other essential aspects.

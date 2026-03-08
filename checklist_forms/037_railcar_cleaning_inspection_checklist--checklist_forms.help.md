@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # railcar_cleaning_inspection_checklist - Help Guide
 ## Purpose
 The railcar cleaning inspection checklist is a form used to record the status of a railcar's cleanliness after maintenance. It is used to track the cleanliness of the railcar, identify areas that need attention, and assign tasks to maintenance personnel.

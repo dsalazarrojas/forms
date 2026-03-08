@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the condition of a room, assessing various aspects such as general condition, amenities, cleanliness, room condition, maintenance, housekeeping, safety, electrical systems, furniture and fixtures, cleanliness rating, and general rating. It appears to be used for quality control or inspection purposes within a facility or building. This form likely serves as a template for standardized evaluations, providing a structured format to ensure consistency across assessments.
-</thinking>
-
 # Room Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate the condition of a room, providing a comprehensive assessment of its various aspects.

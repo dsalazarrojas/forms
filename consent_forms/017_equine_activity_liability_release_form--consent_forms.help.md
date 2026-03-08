@@ -1,11 +1,3 @@
-<thinking>
-
-This form aims to collect liability releases and agreements from participants in equine activities. The purpose of this form is to ensure that all participants understand and agree to the risks and responsibilities involved in participating in equine activities. This form should only be filled out by those who are authorized to do so, and it is essential to carefully review each field to ensure accurate and complete information.
-
-Before filling out this form, ensure that you have permission from the participant to collect their personal information. This form is not intended to collect duplicate or redundant information, so please only fill out the form once for each participant.
-
-</thinking>
-
 # Equine Activity Liability Release Form - Help Guide
 ## Purpose
 The Equine Activity Liability Release Form is a document that requires participants to agree to the risks and responsibilities involved in participating in equine activities. This form is essential for ensuring that participants understand and accept the risks and liabilities associated with equine activities.

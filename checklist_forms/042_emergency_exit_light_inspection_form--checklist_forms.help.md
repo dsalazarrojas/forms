@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_exit_light_inspection_form - Help Guide
 ## Purpose
 The emergency exit light inspection form is used to assess the status of emergency exit lights in a location, typically in an electrical panel or on the ceiling of a building. This form is used to check if the lights are functioning correctly and if there are any issues that need to be addressed.

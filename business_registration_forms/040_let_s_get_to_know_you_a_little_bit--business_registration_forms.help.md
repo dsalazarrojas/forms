@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect business registration information from users. The form is intended for business owners or their representatives to provide details about their business, including contact information, business type, address, and owner's personal information. The fields in this form are designed to be completed by the business owner or their representative, and the data collected will be used for registration purposes only.
-
-It is essential to fill out the form accurately and comprehensively to ensure that the business information is up to date and correct. Please review the form carefully before submission to ensure that all required fields are filled out correctly.
-
-Before completing this form, please note that some fields are mandatory and require specific formats for accurate processing.
-
-</thinking>
-
 # Lets_Get_To_Know_You_A_Little_Bit - Help Guide
 
 ## Purpose

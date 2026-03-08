@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to obtain consent from clients for the Property Management System API. It is crucial to understand that this form is not just a mere data collection tool, but a critical process to ensure that clients are aware and agree to the terms of using the API. The form's structure and fields are designed to gather necessary information for client onboarding and API integration. The purpose of the form is to collect the client's name, email, and consent to use the API, along with any additional connection details they may have.
-
-To determine if a client should fill out this form, consider the following:
-
-* The client is requesting API access for their property management system.
-* The form is not intended for internal personnel use; it's for external clients.
-* The form is not a one-time use form; it's a recurring process for new clients.
-</thinking>
-
 # Property Management System API Consent Form - Help Guide
 
 ## Purpose

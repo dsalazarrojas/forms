@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Room Check In Form - Help Guide
 
 ## Purpose

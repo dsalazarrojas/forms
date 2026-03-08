@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # การรักษา - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history, allergies, and other relevant details for treatment or diagnosis purposes. It is intended for healthcare professionals to assess a patient's medical condition and provide appropriate care. Please ensure you are using this form for its intended purpose and not for any other use cases.

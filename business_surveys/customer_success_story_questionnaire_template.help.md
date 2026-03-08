@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # customer_success_story_questionnaire_template - Help Guide
 ## Purpose
 This form is designed to gather insights and quantifiable results for crafting compelling customer success stories. It helps businesses and organizations understand their customers' experiences, benefits, and achievements when using their solution. By filling out this form, you will be providing valuable information to help us understand what works well and where we can improve.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to register individuals for a coaching program. The purpose of this form is to collect personal and program information from potential clients. It is designed to be filled out by individuals interested in joining the coaching program.
-
-Before starting, make sure to check if you have already registered for this program. If you have any questions or concerns, feel free to contact us.
-
-Please provide accurate and truthful information to ensure a smooth registration process.
-
-The form is organized into several sections for clarity and ease of completion.
-</thinking>
-
 # Coaching Registration Form - Help Guide
 ## Purpose
 The Coaching Registration Form is used to register individuals for a coaching program. It gathers personal and program-related information to ensure a smooth registration process.

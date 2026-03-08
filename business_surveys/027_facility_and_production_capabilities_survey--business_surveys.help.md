@@ -1,12 +1,3 @@
-<thinking>
-The Facility and Production Capabilities Survey is a critical component of the business process, designed to gather and assess facility and production-related information for informed decision-making. This form helps gather data on facility and production capabilities, including capacity, equipment, and employee information, to better understand the current state of facilities within the organization.
-
-To ensure accurate and comprehensive data, please review each field carefully and provide the most up-to-date information. Duplicate entries are not allowed to avoid redundancy. Please ensure that all required fields are completed to the best of your ability.
-
-This form will help us gain a better understanding of our facilities' capabilities, allowing for more effective resource allocation and planning.
-
-</thinking>
-
 # Facility and Production Capabilities Survey - Help Guide
 ## Purpose
 

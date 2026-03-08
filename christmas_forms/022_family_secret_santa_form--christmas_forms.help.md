@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of organizing a Family Secret Santa gift exchange, where each participant selects a category and a brief description of their interests. This will help the gift-giver choose a gift that fits the recipient's taste and make the gift-giving process more enjoyable and personal. This form ensures that all participants are registered and their interests are noted, avoiding any confusion or duplication of gifts during the gift-giving process.
-</thinking>
-
 # Family Secret Santa Form - Help Guide
 
 ## Purpose

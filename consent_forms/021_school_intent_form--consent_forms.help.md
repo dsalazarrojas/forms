@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Intent Form - Help Guide
 ## Purpose
 This form is used to collect information about the school's intent, which is a crucial piece of information for various administrative and operational purposes within the institution.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: to collect information about the performance of material suppliers, which includes rating and providing feedback for improvement.</thinking>
-
 # Material Procurement Performance Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about the performance of material suppliers. The goal is to gather data that will help us identify areas of improvement and make informed decisions about future business relationships.

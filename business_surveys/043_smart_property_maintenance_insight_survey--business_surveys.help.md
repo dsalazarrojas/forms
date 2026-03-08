@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from facility managers and property owners about their maintenance concerns, preferences, and contact information. The form will help us understand the current state of property maintenance, identify areas for improvement, and provide valuable insights for our company.
-
-This form is a one-time survey, so please answer the questions honestly and thoroughly. Your responses will help us better understand your needs and improve our services.
-
-Please note that this form will not duplicate any existing information we already have in our system, so you will not need to provide redundant data.
-
-</thinking>
-
 # Smart Property Maintenance Insight Survey - Help Guide
 ## Purpose
 The Smart Property Maintenance Insight Survey is designed to gather information from facility managers and property owners about their maintenance concerns, preferences, and contact information. This form will help us understand the current state of property maintenance, identify areas for improvement, and provide valuable insights for our company.

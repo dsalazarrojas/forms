@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to document and manage the business migration process, ensuring that all relevant information is captured and approved by the designated officer. This form helps in tracking and verifying the status of migrations, and it's crucial to ensure that the process is done accurately and consistently. To prevent duplication, please fill out one form per migration process.
-
-</thinking>
-
 # Data Migration Form - Help Guide
 ## Purpose
 The Data Migration Form is a crucial tool to document and manage the business migration process. It captures essential information to track and verify the status of migrations.

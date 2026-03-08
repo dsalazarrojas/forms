@@ -1,7 +1,3 @@
-<thinking>
-Is this form designed to be used for customers to book a cleaning service? It appears to be a comprehensive form that collects various details related to booking a cleaning service, such as customer information, property details, and service requirements. This form likely helps the cleaning service provider to understand the customer's needs and preferences. To confirm, are there any other forms in the system that serve similar purposes or does this form have any dependencies that affect its usage?
-</thinking>
-
 # Book Cleaning Services Online - Help Guide
 ## Purpose
 This form is designed to be used by customers to book a cleaning service. It collects details about the customer, the property to be cleaned, and the service requirements to provide a comprehensive understanding of the customer's needs and preferences.

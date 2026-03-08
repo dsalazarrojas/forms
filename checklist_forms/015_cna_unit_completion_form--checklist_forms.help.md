@@ -1,5 +1,3 @@
-<thinking>...This form is used to ensure that Certified Nursing Assistants (CNAs) have completed all necessary tasks and documented their activities during a shift. This form is also used by supervisors to review and provide feedback on the CNA's performance. The CNA is expected to fill out the form accurately and completely, while the supervisor is expected to review and sign off on the completed form. The form is divided into several sections: patient care tasks, documentation and reporting, and end of shift checklists. Each section should be filled out in its entirety, with the CNA's signature at the end. The supervisor's review and signature are also required at the end of the form... </thinking>
-
 # CNA Unit Completion Form - Help Guide
 ## Purpose
 This form is used by Certified Nursing Assistants (CNAs) to document their activities and complete necessary tasks during a shift. It also serves as a review and feedback tool for supervisors.

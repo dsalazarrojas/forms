@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect and document the necessary information for administering cancer treatment, ensuring that the patient's medical safety is maintained throughout the treatment process. This form guides healthcare professionals through the verification and administration of medications, monitoring of patient reactions, and post-treatment care. It's essential to complete this form accurately and thoroughly to guarantee the patient's well-being and adherence to treatment protocols. To the best of my knowledge, this form is not used for any other purpose, and any duplicate use would be redundant and unnecessary. ...</thinking>
-
 # Cancer Treatment Protocol Checklist - Help Guide
 ## Purpose
 The Cancer Treatment Protocol Checklist is a comprehensive form designed to ensure the safe and successful administration of cancer treatment. It guides healthcare professionals through the essential steps and checks required before, during, and after treatment sessions.

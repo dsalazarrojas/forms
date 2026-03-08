@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for sole proprietorship business registration. A sole proprietorship is a business owned and managed by one individual, where the owner is personally responsible for all the business's assets and liabilities. This form will help the business owner provide essential details about their business and themselves.
-The form is divided into several sections, each collecting specific information. The purpose of this form is to ensure that the business owner provides accurate and complete information, which will be used for registration and other legal purposes.
-Before proceeding with the form, it's essential to note that all fields marked as required must be filled out. The form can be filled out in multiple pages, with each page having a unique identifier (id) for reference and tracking.
-</thinking>
-
 # Sole Proprietorship Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for sole proprietorship business registration. The details collected will be used for registration and other legal purposes.

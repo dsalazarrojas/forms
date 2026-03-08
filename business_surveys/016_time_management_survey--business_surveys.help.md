@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Management Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about how employees manage their time. It covers various aspects of time management, including work hours, breaks, focus, time wasters, time management goals, and tools used.

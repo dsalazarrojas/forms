@@ -1,7 +1,3 @@
-<thinking>
-This form is for enrolling children in a program and obtaining liability releases from parents or guardians. It is a critical form that needs to be completed accurately and thoroughly. Please ensure that you are eligible to enroll in the program before filling out this form. If you are a returning student, please do not fill out this form as you will already have a profile set up. This form is a one-time submission. 
-</thinking>
-
 # Children Enrollment And Liability Form - Help Guide
 ## Purpose
 The Children Enrollment And Liability Form is a necessary document that requires the submission of specific information about a child's registration, medical conditions and allergies, and other essential details for their participation in the program. This form ensures that the program staff has the necessary information to provide a safe and secure environment for the child.

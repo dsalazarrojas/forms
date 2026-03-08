@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the impact of AI on small businesses. The purpose of this form is to gather data on how small businesses are utilizing AI in their operations, what benefits and challenges they are experiencing, and what support they need to adopt AI. This form is intended for internal use within an organization, and the data collected will help inform decision-making and resource allocation.
-
-To ensure that this form is completed accurately and efficiently, please read this guide carefully.
-
-</thinking>
-
 # AI Impact On Small Businesses - Help Guide
 ## Purpose
 This form is designed to collect information about the impact of AI on small businesses. The data collected will help inform decision-making and resource allocation within the organization.

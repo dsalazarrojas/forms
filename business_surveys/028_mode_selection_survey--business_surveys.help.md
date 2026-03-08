@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "mode_selection_survey" form. To start, let's break down the form's purpose and ensure it aligns with the provided YAML fields. The form appears to be designed for collecting feedback on modes of operation or selection, including their usage frequency, satisfaction, and suggested improvements. It's likely a tool for businesses or organizations to gather information on their operational modes, their effectiveness, and areas for improvement.</thinking>
-
 # mode_selection_survey - Help Guide
 ## Purpose
 The mode selection survey is designed to collect feedback on modes of operation or selection within an organization. This form aims to gather information on the frequency, satisfaction, and suggested improvements for each mode, allowing businesses to better understand their operational modes and make data-driven decisions.

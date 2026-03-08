@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # onboarding_process_improvement_survey - Help Guide
 ## Purpose
 The onboarding process improvement survey is designed to collect feedback from new hires on their experience with the onboarding process. It helps identify areas of improvement and provides valuable insights for the organization to enhance the onboarding process.

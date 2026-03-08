@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "hvac_defrost_termination_fan_delay_wiring_checklist" form, I'll need to understand the form's purpose and its fields. The form seems to be related to heating, ventilation, and air conditioning (HVAC) systems, specifically for defrost termination fan delay wiring. This form is likely used to collect information or data for a specific task or project, such as verifying or troubleshooting fan wiring configurations in HVAC systems.
-
-After analyzing the form fields, I will create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning in a concrete, concise, and practical way.
-</thinking>
-
 # hvac_defrost_termination_fan_delay_wiring_checklist - Help Guide
 ## Purpose
 This form is designed to help you verify or troubleshoot fan wiring configurations in HVAC systems for defrost termination. It's a checklist that guides you through identifying and documenting the fan wiring type, color, and termination type, as well as the defrost termination location and any additional notes or photos.

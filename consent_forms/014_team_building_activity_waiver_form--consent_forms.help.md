@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from team members participating in team building activities, ensuring they understand and agree to the risks and responsibilities involved. The form will help identify potential hazards and provide a medical history of participants to ensure their safety. It is crucial to complete this form carefully and accurately to avoid any potential issues or complications during the team building activity.
-</thinking>
-
 # Team Building Activity Waiver Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from team members participating in team building activities. This form helps the activity organizers to identify potential hazards and medical conditions, and ensures that participants understand and agree to the risks involved.

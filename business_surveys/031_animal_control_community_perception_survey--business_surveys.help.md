@@ -1,16 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and opinions from the community about animal control services. It is essential to understand that the purpose of this form is to gather information on how effective and well-received the animal control services are. The information collected will be used to improve animal control services, which may involve increasing funding, offering community programs and services, or adjusting the way issues are handled.
-
-Before filling out this form, ensure that:
-
-* You are providing honest and accurate feedback.
-* You have lived in the community for at least 6 months to give a well-rounded opinion.
-
-Please note that this survey is voluntary, and your responses will remain anonymous if you so choose.
-
-</thinking>
-
 # Animal Control Community Perception Survey - Help Guide
 ## Purpose
 The Animal Control Community Perception Survey is designed to collect feedback and opinions from residents about the effectiveness and quality of animal control services in their community.

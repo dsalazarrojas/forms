@@ -1,23 +1,3 @@
-<thinking>
-We're creating a help guide for the "Incubator Inspection Report" form, which is used to document and track the inspection process of incubators in facilities. This form is likely used to ensure the safety and quality of incubators, which are crucial for sensitive biological materials and research purposes. 
-
-The form is designed to collect various pieces of information, including the incubator status, date of inspection, temperature, humidity, pressure, issues found, issue descriptions, corrective actions, next inspection due dates, facility details, and contact information.
-
-This form should only be used for internal purposes, and the data collected will likely be reviewed by authorized personnel to ensure the incubators are functioning correctly and safely. This form does not seem to be used for external communication or public disclosure, so it's likely that the form will not be shared with external parties.
-
-The form has several fields, including text, date, number, and select multiple fields. The fields are not overly complex or technical, but they do require accurate and detailed information to ensure the correct functioning of the incubators.
-
-This form does not seem to be part of a larger, more complex process or workflow, so the help guide should be clear and to the point. The main goal is to help users understand what each field is for and how to complete the form correctly.
-
-The form has 14 fields, including the title, incubator status, date of inspection, temperature, humidity, pressure, issues found, issue description, corrective action, next inspection due date, facility name, facility address, contact name, contact phone, and contact email.
-
-This form requires no special knowledge or technical expertise, just accurate and detailed information. Users should be able to complete the form in a straightforward and efficient manner.
-
-The fields should be self-explanatory, but a quick review of the help guide will ensure that users understand what is expected of them.
-
-We'll review the form fields and provide clear explanations in the next sections.
-</thinking>
-
 # Incubator Inspection Report - Help Guide
 ## Purpose
 The Incubator Inspection Report form is used to document and track the inspection process of incubators in facilities. It helps ensure the safety and quality of incubators and ensures that any issues found are addressed and corrected.

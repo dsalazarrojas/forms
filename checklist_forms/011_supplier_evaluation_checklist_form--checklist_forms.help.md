@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers for evaluation purposes. It is likely used in a business or procurement context where the supplier is being assessed for their quality, reliability, and overall performance. The form collects various details about the supplier, including their name, contact information, and ratings for different aspects of their service. The fields are quite standard, and there is no apparent duplication or unnecessary fields. Overall, this form appears to be well-structured and straightforward.
-
-</thinking>
 # supplier_evaluation_checklist_form - Help Guide
 ## Purpose
 This form is designed to collect information from suppliers for evaluation purposes, including their name, contact details, ratings, and comments. It is likely used in a business or procurement context to assess the supplier's quality, reliability, and overall performance.

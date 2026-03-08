@@ -1,9 +1,3 @@
-<thinking>**Form Purpose:** This form is designed to obtain consent for filming within a literacy program. It helps capture necessary information such as location, date, time, and contact details of the person being filmed. The form also collects consent from the individual, ensuring that filming can take place. By filling out this form, the individual is acknowledging their understanding of the program's filming procedures and providing explicit consent for filming to occur.
-
-**Internal Reasoning Check:** This form is used to collect consent from individuals within the literacy program for filming purposes. It is used to ensure that all participants are aware of and agree to the filming procedures. The form does not store any sensitive information as it only captures general contact details and relationship status (e.g., parent, guardian, or self). The form is designed to be completed by the individual being filmed or their guardian/parent in case of minors.
-
-</thinking>
-
 # literacy_program_filming_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent for filming within a literacy program. It captures essential details such as filming location, date, and time, as well as contact information and relationship status of the person being filmed. The form also requires explicit consent from the individual before filming can take place.

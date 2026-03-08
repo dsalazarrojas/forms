@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infant Daily Report Form - Help Guide
 ## Purpose
 The Infant Daily Report Form is a document used to track the daily activities, medical conditions, and observations of infants in care facilities. It is designed to provide essential information about the infant's feeding schedule, sleep patterns, and any medical conditions that may require attention. By completing this form, caregivers and facility staff can ensure accurate and consistent reporting of vital information.

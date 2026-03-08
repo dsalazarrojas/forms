@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to collect information and consent from students and parents regarding a science lab project. This form will help ensure that all parties involved are aware of and agree to the project's terms and conditions. To avoid duplication, please make sure to complete this form only after you have read and understood the project details.
-</thinking>
-
 # Science Lab Project Consent Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain consent from students, parents, and teachers for a science lab project. The form gathers contact information, student and parent details, project description, and consent statements from all parties involved.

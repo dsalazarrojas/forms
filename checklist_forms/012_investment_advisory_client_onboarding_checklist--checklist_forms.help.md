@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive onboarding checklist for investment advisory clients. It's designed to gather essential information from clients to provide personalized investment services. The form likely aims to understand clients' demographic and financial information, risk tolerance, investment goals, and other relevant details. Before proceeding, please ensure you have not completed this form in the past 12 months, as it is likely intended for initial or updated client onboarding.
-
-</thinking>
-
 # Investment Advisory Client Onboarding Checklist - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients to provide personalized investment services. It's intended for initial or updated client onboarding and should not be completed if you've done so within the past 12 months.

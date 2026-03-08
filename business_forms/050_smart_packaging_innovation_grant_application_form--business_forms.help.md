@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for applicants to apply for a Smart Packaging Innovation Grant. The purpose of this form is to gather necessary information from applicants to evaluate their project's feasibility and potential impact. This form should only be filled out by applicants who are actually applying for the grant, and not by individuals who are simply browsing the application process.
-</thinking>
-
 # Smart Packaging Innovation Grant Application Form - Help Guide
 ## Purpose
 The Smart Packaging Innovation Grant Application Form is designed for applicants to apply for funding for their project. It helps us gather necessary information to evaluate each project and determine its eligibility for funding.

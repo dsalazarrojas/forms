@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 # Performance Review Reimbursement Claim Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information about the project's interior design preferences and goals. The user will be asked to provide details about their project's budget, design style, color scheme, room layout, material preferences, space planning, and design process. This form is intended to be completed by project managers, designers, or architects who need to gather information about the project's requirements before starting the design process. This form is part of a larger project management system, and its completion is mandatory for ensuring that the project is properly scoped and planned.
 
 </thinking>

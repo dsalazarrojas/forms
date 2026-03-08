@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information related to a pet's safety and awareness event, specifically from the owner's or caregiver's perspective. The form is used to gather essential details about the pet's health, medical history, and contact information in case of an emergency. This information will be used to ensure the pet's well-being and provide the necessary care and attention if the need arises.
-The form consists of 15 questions, categorized into different sections for ease of understanding and completion. The questions are designed to be as straightforward and non-intrusive as possible. 
-When completing this form, please ensure that you provide accurate and up-to-date information to ensure the pet's safety and well-being.
-</thinking>
-
 # Pet Safety Awareness Event Consent Form - Help Guide
 
 ## Purpose

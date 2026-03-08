@@ -1,15 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's first analyze the form's purpose and the provided fields. The "makeup_artist_conference_registration" form appears to be a registration form for a conference, specifically designed for makeup artists. The form likely aims to collect information from attendees, including their event preferences, contact details, and any special needs they may have. 
-
-Upon examining the YAML structure, we notice that the form is divided into multiple pages, each with its own set of fields. The fields seem to be a mix of text inputs (name, email, phone, contact info, address, city, state), a select multiple input for sessions, and another for special needs.
-
-The form's purpose is most likely to:
-
-* Gather contact information (name, email, phone, contact info, address, city, state) 
-* Collect information on event session preferences 
-* Identify any special needs or requirements 
-</thinking>
-
 # makeup_artist_conference_registration - Help Guide
 ## Purpose
 This registration form is for makeup artists to sign up for the conference. It will help us better understand your event preferences and any special requirements you may have.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain the consent of participants to participate in an AI grading pilot program. The form captures essential information from participants, including their name, role, consent to participate, types of data shared, expected benefits, and contact email for questions. The form is essential for establishing a clear understanding of participant consent and facilitating the collection of relevant data for the pilot program.
-
-</thinking>
-
 # AI Grading Pilot Participation Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain the consent of participants to participate in an AI grading pilot program.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Student Check Out Form - Help Guide
 ## Purpose
 The Student Check Out Form is a simple form used to collect information from students for check-out purposes. This form is meant to gather essential data from students before they leave the premises or participate in activities that require a record of their presence. Completing this form ensures that your school or institution can accurately track student attendance and ensure their safety.

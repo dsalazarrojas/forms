@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback and evaluate the conduct of cheerleaders during events. It's intended to assess their performance, behavior, and adherence to safety and stunting rules. The form serves as a tool for coaches and managers to provide guidance and recommendations for improvement. It's likely that this form will be filled out after each event, with the goal of tracking and managing the conduct of each athlete. This form might be used to identify areas of improvement and to communicate with athletes about their performance. It's possible that this form is part of a larger system for tracking and managing team performance and conduct. It's also possible that the form is used for more than just cheerleading, but based on the provided YAML, it seems that it's specifically designed for cheerleading.
-
-</thinking>
-
 # Cheerleading Conduct Review Form - Help Guide
 ## Purpose
 This form is designed to assess the conduct of cheerleaders during events, focusing on their performance, behavior, and adherence to safety and stunting rules.

@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, we can look at the category and title it belongs to. The category is "business_surveys" and the title is "team_member_engagement_survey". This suggests that the form is designed to gather feedback from team members about their engagement with their team and work environment. The purpose of the form is to collect information about various aspects of team member satisfaction, morale, and overall experience.
-
-Before creating the help guide, it would be good to verify that this form is not duplicating any other form, and that it aligns with the organization's existing forms and processes.
-
-</thinking>
-
 # team_member_engagement_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from team members about their engagement with their team and work environment. It covers various aspects of job satisfaction, communication, team morale, and overall experience.

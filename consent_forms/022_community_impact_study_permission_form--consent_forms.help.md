@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants regarding their consent to participate in a community impact study. The form is used to inform participants about the study's purpose, methods, and data usage, and to obtain their consent to participate. This form is essential for ensuring that participants are aware of and agree to the terms of the study. 
-</thinking>
-
 # Community Impact Study Permission Form - Help Guide
 ## Purpose
 This form is used to gather consent from participants in a community impact study, ensuring they understand the study's purpose, methods, and data usage.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users check and report the status of a weekly generator maintenance checklist. It is likely used in an industrial or commercial setting where regular maintenance is required to ensure the generator is functioning properly. This form likely checks the status of various components, such as electrical and mechanical systems, oil levels, and more. The form appears to be used for a simple, straightforward checklist purpose, and does not contain any complex or conditional logic.
-</thinking>
-
 # weekly_generator_maintenance_checklist - Help Guide
 ## Purpose
 The weekly generator maintenance checklist is a simple form designed to help users check and report the status of a generator's various components.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a custom business report from the organization. It is meant to be filled out by someone who needs information about their business operations, finances, or market activities. This form should not be filled out for general inquiries or routine information requests. It is essential to provide a detailed description of the report request to ensure that the report meets the requester's needs.
-
-</thinking>
-
 # Custom Business Report Request Form - Help Guide
 ## Purpose
 The Custom Business Report Request Form is a tool used to request custom business reports from the organization. This form helps to ensure that all necessary information is gathered before creating the report, which saves time and resources.

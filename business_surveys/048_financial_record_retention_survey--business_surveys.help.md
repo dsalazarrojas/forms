@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect financial record retention information from businesses. The goal is to gather data on the company's financial records, their storage, retention, and disposal methods. This survey aims to help businesses understand their compliance with financial data regulations.
-</thinking>
-
 # Financial Record Retention Survey - Help Guide
 ## Purpose
 This form is a tool to collect data on financial records, their storage, retention, and disposal methods from businesses. This data will help in understanding compliance with financial data regulations.

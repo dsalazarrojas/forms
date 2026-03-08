@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals registering for the Labor Law Seminar. It is essential to complete this form accurately to ensure that the relevant details about the attendee are captured for the seminar's organization. This guide will walk you through the process of completing the form, field by field, to help ensure that you provide the required information correctly.
-</thinking>
-
 # Labor Law Seminar Registration Form - Help Guide
 ## Purpose
 The Labor Law Seminar Registration Form is used to collect information from attendees who are interested in attending the Labor Law Seminar. This form helps the seminar's organizers to track the attendees' details, including their name, contact information, and seminar preferences. The information collected on this form will be used to finalize the seminar schedule and ensure that attendees can receive updates and reminders about the event.

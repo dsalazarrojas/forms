@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help users easily subtract a certain number of days from a selected date. It's likely used in scenarios where users need to calculate dates that fall a specific number of days before or after a particular date. This form could be used in various contexts, such as calculating payment due dates or scheduling appointments. To ensure the form is completed correctly, let's review the form fields to confirm that they are filled in as intended.
-
-</thinking>
-
 # Subtract Days - Help Guide
 ## Purpose
 The "Subtract Days" form is a simple tool used to calculate a date that falls a certain number of days before or after a selected date.

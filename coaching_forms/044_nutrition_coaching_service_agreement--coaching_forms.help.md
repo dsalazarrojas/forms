@@ -1,11 +1,3 @@
-<thinking>
-This form is meant to collect information from users interested in using the nutrition coaching service. The purpose of this form is to gather contact details and goal description for potential clients. However, before completing this form, please note that it is not a substitute for actual consultation with a healthcare professional. If you're interested in our services, please contact us directly to discuss your needs and goals. 
-
-This form is also not for actual coaching service clients, but for people who wish to be contacted for potential future services. 
-
-Please fill in the form only if you intend to use our nutrition coaching services. If you have already received coaching from us, please don't complete this form. It's a one-off, single-purpose form, not a general contact or feedback form.
-</thinking>
-
 # Nutrition Coaching Service Agreement - Help Guide
 ## Purpose
 This form is meant to gather information from potential clients interested in using our nutrition coaching services. It is a simple, one-time form to collect contact details and goal description.

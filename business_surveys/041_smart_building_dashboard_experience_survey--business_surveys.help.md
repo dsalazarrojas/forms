@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from users about their experience with the Smart Building Dashboard. The purpose of this form is to collect information about the user's first impression, satisfaction with the dashboard, feature requests, and any issues they faced while using the dashboard. This data will help the development team to identify areas of improvement and make necessary changes to enhance the user experience.
-
-Before proceeding, it is essential to confirm that this form is relevant to your situation and that you have not already completed it. If you are unsure, it is recommended to review the form's purpose and proceed accordingly.
-</thinking>
-
 # Smart Building Dashboard Experience Survey - Help Guide
 ## Purpose
 The Smart Building Dashboard Experience Survey is a short, user-friendly form designed to gather feedback and insights from users about their experience with the Smart Building Dashboard. Your input will help us understand your needs and preferences to improve the dashboard.

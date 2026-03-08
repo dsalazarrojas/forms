@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about pharmaceutical production line inspections, which are crucial for ensuring the quality and safety of products. The form will help inspectors document their observations and findings during an inspection, providing a clear and organized record of the inspection process. This form is not intended for external distribution or commercial use. It is a private and internal tool for internal purposes only.
-</thinking>
-
 # Pharmaceutical Production Line Inspection Form - Help Guide
 ## Purpose
 This form is used to record and document the findings of a pharmaceutical production line inspection. It is designed to provide a clear and organized record of the inspection process, which is essential for maintaining product quality and safety.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for parents to declare their permission for their child's activities, providing a way for schools and organizations to collect necessary information from parents before engaging their children in various activities. This form ensures that parents are informed and provide consent for their child's participation in these activities. It's essential to fill out this form accurately and completely to ensure that all necessary details are captured.
-</thinking>
-
 # Parental Permission Declaration Form - Help Guide
 ## Purpose
 This form is used to collect parental permission for a child's activities. It's essential for parents to provide their child's information, including their name, activity name, activity date, and other relevant details.

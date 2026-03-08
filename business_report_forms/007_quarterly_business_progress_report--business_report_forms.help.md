@@ -1,12 +1,3 @@
-<thinking>
-We're checking if the form is indeed for business progress reporting...
-This form appears to be for tracking quarterly updates and progress from team leads, capturing outcomes and prioritizing next quarter's goals.
-We're checking for non-duplication of form purposes...
-This form purpose is unique and doesn't conflict with any other form in the business_report_forms category.
-We're ensuring the form fields are clear and concise...
-Each field is properly labeled and has a clear explanation. Nothing seems ambiguous or unclear.
-</thinking>
-
 # Quarterly Business Progress Report - Help Guide
 ## Purpose
 The purpose of this form is to capture quarterly progress updates from team leads, track outcomes, and set priorities for the next quarter.

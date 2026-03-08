@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "student_voice_recording_publication_consent_form", is a critical component of a system for managing student voice recordings. It ensures that students' voices are heard and their consent is obtained before publishing their recordings. The form is used to collect essential information from parents or guardians regarding the publication of student voice recordings, including the type of publication, the purpose of the publication, and the consent status. This form is designed to be filled out by parents or guardians to provide their consent and to obtain their informed consent for the publication of their child's recording.
-
-Before filling out this form, please ensure that you are the authorized representative of the student. This form should only be filled out once per recording, and you should not fill out this form again if you have already provided consent for the same recording.
-
-</thinking>
-
 # student_voice_recording_publication_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for the publication of their child's voice recordings.

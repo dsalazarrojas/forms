@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Risk Control Maturity Survey form is to assess the risk control maturity of an organization, which is a measure of its ability to identify, assess, and mitigate risks. The form is likely used in an organizational or business setting to gauge the effectiveness of risk control practices and identify areas for improvement. This form is probably used by risk management teams or audit teams within the organization to evaluate and report on risk control maturity. It's possible that this form is part of a larger risk management process that involves identifying, assessing, and mitigating risks to minimize their impact on the organization.
-</thinking>
-
 # Risk Control Maturity Survey - Help Guide
 ## Purpose
 The Risk Control Maturity Survey form is designed to evaluate the risk control maturity of an organization. This form is used to assess the effectiveness of risk control practices and identify areas for improvement.

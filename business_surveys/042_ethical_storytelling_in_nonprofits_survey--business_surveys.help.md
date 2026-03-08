@@ -1,14 +1,3 @@
-<thinking>
-This form is likely being used to gather information from nonprofit organizations about their experiences and practices related to ethical storytelling. The form is likely designed to collect data on various aspects of nonprofit storytelling, such as the challenges faced by nonprofit organizations, the impact of storytelling on their goals, and the practices used to implement storytelling.
-
-The form is likely to be completed by nonprofit organizations as part of a broader effort to understand the landscape of nonprofit storytelling and identify areas for improvement. It's possible that the form will be used to inform future initiatives or programs aimed at supporting nonprofit storytelling.
-
-It's worth noting that some fields in the form are marked as "required: false", which means they are optional and can be skipped if not relevant. This could be due to the fact that the form is intended to be completed by nonprofit organizations with varying levels of experience and expertise in storytelling.
-
-To ensure the form is completed accurately and effectively, it's essential to review each field carefully and provide clear explanations for any unclear or ambiguous questions.
-
-</thinking>
-
 # Ethical Storytelling In Nonprofits Survey - Help Guide
 ## Purpose
 This form is designed to gather information from nonprofit organizations about their experiences and practices related to ethical storytelling.

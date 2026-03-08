@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect information from clients regarding a videography project submission. It's essential to fill out this form accurately to ensure that the project is completed correctly and that all necessary permissions and agreements are in place. Please note that this form is only for clients who have not already submitted a project form. If you have previously submitted a project form, please do not fill out this form again. The fields and information required may vary depending on the project type and status. Please make sure to review each field carefully before submitting the form.</thinking>
-
 # Videography Project Submission Permission Form - Help Guide
 ## Purpose
 This form is used to collect information from clients regarding a videography project submission. It's essential to fill out this form accurately to ensure that the project is completed correctly and that all necessary permissions and agreements are in place.

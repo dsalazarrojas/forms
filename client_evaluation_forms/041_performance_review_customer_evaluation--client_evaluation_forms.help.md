@@ -1,11 +1,3 @@
-<thinking>
-This form is a performance review customer evaluation form used to assess the performance of a customer in a specific period of time. This form aims to collect feedback on how well a customer has met performance expectations, which are used by the organization to improve customer satisfaction and experience.
-
-This form is meant to be completed by customers after a specific period of time, and it is used to evaluate their overall performance, representative performance, and customer satisfaction. It should only be used by the customer to evaluate their own performance, and not used to evaluate the performance of others. 
-
-The data collected will be used to identify areas of improvement and areas of strength in the customer's performance and provide insights to the customer to help them develop their performance.
-</thinking>
-
 # Performance Review Customer Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of a customer over a specific period of time. It is used to gather feedback on the customer's overall performance, representative performance, and customer satisfaction.

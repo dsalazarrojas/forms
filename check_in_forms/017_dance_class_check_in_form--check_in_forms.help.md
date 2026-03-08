@@ -1,7 +1,3 @@
-<thinking>
-This form is for teachers and staff to check in students attending dance classes. The form will help them record attendance, note any issues or comments, and keep track of other relevant student information. This form should be used in conjunction with other check-in systems to ensure accurate attendance tracking. It's recommended to use this form for every class, and to review and update previous entries regularly to maintain accurate records.
-</thinking>
-
 # Dance Class Check In Form - Help Guide
 
 ## Purpose

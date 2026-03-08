@@ -1,29 +1,3 @@
-<thinking>
-The Cemetery Service Registration form is designed to collect information from registrants (individuals or organizations) who wish to register for a cemetery service. This form ensures that the necessary details are captured for the service to be conducted smoothly and safely. 
-
-Before proceeding, please ensure that you have not already registered for this service, as duplication of efforts may lead to unnecessary complications. 
-
-To confirm, the form is used to collect the following essential details:
-
-* Date of registration
-* Contact information (name, email, phone number)
-* Relationship to the deceased
-* Deceased's full name, date of birth, date of death, and burial location
-* Service type and preferred service date and time
-* Expected attendees
-* Special requirements for the service
-* Consent for the service
-* Liability acknowledgment
-* Payment method
-* Additional requests or comments
-* Signature with name and date
-
-This form requires a valid signature to acknowledge the registrant's commitment to the cemetery's policies and liability terms.
-
-Each field is carefully designed to collect specific information to ensure a well-planned and executed service. Please take your time to fill out the form accurately.
-
-</thinking>
-
 # Cemetery Service Registration - Help Guide
 ## Purpose
 The Cemetery Service Registration form is a crucial document used to gather essential information from registrants to facilitate a smooth and respectful service for the deceased. This form ensures that all necessary details are collected to provide an appropriate and dignified service.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by law enforcement officers to document their daily activities, including morning roll call, incident reports, arrests, vehicle checks, call logs, and officer notes. The form is designed to collect relevant information for administrative and reporting purposes.
-The form has multiple pages, each with its own set of fields. Some fields are required, while others are optional. Each field is labeled to indicate its purpose and relevance.
-</thinking>
-
 # Officer Daily Patrol Checklist - Help Guide
 ## Purpose
 The Officer Daily Patrol Checklist is used to document an officer's daily activities, including morning roll call, incident reports, arrests, vehicle checks, and officer notes.

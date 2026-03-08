@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for the Hotel Room Cleaning Checklist. It aims to collect information about the condition of various aspects of a hotel room's bathroom after cleaning. The fields are designed to help hotel staff efficiently evaluate the thoroughness of the cleaning process.
-
-To ensure that this form is completed accurately, it is essential to understand the meaning and purpose behind each field.
-
-</thinking>
-
 # hotel_room_cleaning_checklist_form - Help Guide
 
 ## Purpose

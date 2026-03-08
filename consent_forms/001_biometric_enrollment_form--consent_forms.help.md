@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that end users understand the context and purpose of this form to avoid duplication and inaccuracies. This Biometric Enrollment Form is intended to collect personal and biometric data from individuals for specific purposes such as security, convenience, or identification. It's essential to clarify the form's purpose and ensure that users understand the implications of providing their biometric data. Let's review the form's fields to ensure clarity and accuracy in the help guide.
-
-The form collects personal information (full name, date of birth, email, phone number, and organization identifier or employee id), biometric data type (fingerprint, facial recognition, iris scan, voiceprint, or palm vein), collection location, data retention period, consent to collect biometric data, purpose of collection, and a note for privacy acknowledgment. We must explain each field in a way that is concrete, concise, and practical for end-users.
-
-</thinking>
-
 # Biometric Enrollment Form - Help Guide
 ## Purpose
 The Biometric Enrollment Form is designed to collect personal and biometric data from individuals for specific purposes such as security, convenience, or identification. This data will be used for authentication, verification, or other authorized purposes.

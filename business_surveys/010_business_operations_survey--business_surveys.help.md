@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from business operations employees on their experience and opinions on various aspects of the company's operations. This includes their perception of the effectiveness of current business processes, their level of satisfaction with the work environment, tools, and resources, and their understanding of the company's business strategy. This feedback will help identify areas of improvement and inform strategic decisions to enhance the company's operations.
-</thinking>
-
 # Business Operations Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from business operations employees on their experiences and opinions on various aspects of the company's operations.

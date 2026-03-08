@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Scope Checklist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drone Flight Log Survey - Help Guide
 
 ## Purpose

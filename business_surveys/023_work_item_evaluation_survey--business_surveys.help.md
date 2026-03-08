@@ -1,5 +1,3 @@
-<thinking>...This form is designed for evaluating projects. The "work_item_evaluation_survey" form helps project team members and stakeholders assess the effectiveness, quality, ease of use, value, and satisfaction of completed projects. This form is used to gather feedback from users on various aspects of a project, providing insights that can be used to improve future projects. The form is not meant for real-time project management or tracking, but rather for retrospective evaluation and improvement purposes only.</thinking>
-
 # work_item_evaluation_survey - Help Guide
 ## Purpose
 The "work_item_evaluation_survey" form is designed to collect feedback on projects, evaluating aspects like project effectiveness, quality, ease of use, value, and satisfaction. 

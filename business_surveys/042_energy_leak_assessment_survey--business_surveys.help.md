@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess energy leaks in commercial and residential buildings. It is used by energy management teams to gather information about energy leaks in different buildings. The form is designed to be filled out by building owners or energy managers. It is used to help identify potential energy leaks and provide recommendations for improvement. This form is not intended for other types of surveys or for non-building related energy leaks. Please ensure that you are filling out this form for the correct purpose.
-</thinking>
-
 # Energy Leak Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help energy management teams identify and assess energy leaks in commercial and residential buildings.

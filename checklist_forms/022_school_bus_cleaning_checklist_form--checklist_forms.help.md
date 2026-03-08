@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML fields for the "school_bus_cleaning_checklist_form", I notice that this form appears to be a checklist for inspecting and reporting on the condition of a school bus. Each field is a text field that requires the user to provide a condition description of a specific part of the bus. For example, "bus_condition" is likely meant to be "Excellent" or "Fair" condition, while fields like "interior_cleaning" and "exterior_cleaning" might be used to report on the cleanliness state of the interior and exterior of the bus. I will proceed with creating the help guide as instructed, ensuring it is concrete, concise, and practical for end-users.</thinking>
-
 # school_bus_cleaning_checklist_form - Help Guide
 ## Purpose
 This form is designed to help users inspect and report on the condition of a school bus. It is meant to be used by school administrators or drivers to assess the overall state of the bus, including interior and exterior conditions, cleaning supplies, and other essential elements.

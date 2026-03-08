@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'd like to clarify that the purpose of this form is to collect information for paid media kickoffs, which typically involves setting up campaigns with various ad serving platforms and tracking budgets for media spend. The form likely serves as a central hub for gathering and organizing crucial data for paid media initiatives. I've reviewed the form schema, and I'll ensure that the explanations for each field are accurate and practical, avoiding any unsupported business logic.</thinking>
-
 # Paid Media Kickoff Requirements Checklist - Help Guide
 ## Purpose
 The Paid Media Kickoff Requirements Checklist is a form used to collect and organize information necessary for paid media kickoffs. This form helps to ensure that all required details are captured and communicated effectively to the stakeholders involved in the campaign setup process.

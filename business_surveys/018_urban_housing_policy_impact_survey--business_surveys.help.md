@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the "Urban Housing Policy Impact Survey" to ensure that users understand its purpose and how to complete it efficiently. This guide will explain each field in the survey and provide tips to help users navigate the form effectively.
-
-Before starting, please note that this survey is meant to collect feedback on the impact of urban housing policies on individuals and communities. It's essential to be honest and thorough in your responses to provide valuable insights.
-
-The survey consists of multiple questions, including demographic information, opinions on policy impact, and demographic details. Be sure to answer each question carefully, and if you're unsure about a question, you can always ask for clarification.
-
-</thinking>
-
 # Urban Housing Policy Impact Survey - Help Guide
 
 ## Purpose

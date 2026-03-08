@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect data on EMT (Emergency Medical Technician) field training sessions. The purpose of this form is to record essential details about each session, such as session type, date, time, location, instructors, trainees, evaluations, and any additional comments or observations. This form might be used by EMT training programs or organizations to track and document their training sessions, which is a crucial aspect of maintaining high-quality training and ensuring trainees receive the best possible education. It's essential to ensure that the form is completed accurately and thoroughly to capture all relevant information. This guide will help users understand how to fill out the form correctly and what each field represents.
-</thinking>
-
 # EMT Field Training Checklist - Help Guide
 ## Purpose
 This form is used to collect data on EMT field training sessions, ensuring accurate and thorough documentation of all relevant information.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a satisfaction survey designed to gauge users' opinions and feedback on the financial documentation provided by the organization. The survey aims to understand how well the users are utilizing the financial documentation and identify areas for improvement. 
-Before filling out this form, please ensure that you have already completed similar surveys and that this is not a duplicate submission.
-</thinking>
-
 # Financial Documentation Satisfaction Survey - Help Guide
 ## Purpose
 The Financial Documentation Satisfaction Survey is a tool used to gather information about the effectiveness and usability of the financial documentation provided by the organization. This survey will help us understand your needs and preferences to improve the quality and accessibility of our financial documentation.

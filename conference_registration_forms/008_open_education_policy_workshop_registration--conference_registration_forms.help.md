@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant details for the Open Education Policy Workshop. This form is designed to gather information from participants, including their contact details, session preferences, and other relevant information. 
-This form is typically used for conference or workshop registration, allowing organizers to efficiently collect participant data and prepare for the event. 
-Before proceeding, please ensure that you have not already completed this form, as duplicate registrations may cause unnecessary work and confusion for the organizers. 
-
-</thinking>
-
 # Open Education Policy Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect participant details for the Open Education Policy Workshop.

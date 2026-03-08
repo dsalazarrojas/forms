@@ -1,11 +1,3 @@
-<thinking>Before creating the user-facing help guide, I will first summarize the form's purpose and check for relevance and non-duplication:
-
-The iot_installation_checklist form appears to be a checklist for documenting and tracking IoT (Internet of Things) installation details. The form has 8 fields across 1 page. The fields are a mix of text, select_one, date, number, and time types. The form seems to be focused on gathering specific, possibly technical, details about IoT installations. 
-
-I did not find any indication of non-duplication or redundancy in the form fields, so I will proceed with creating the user-facing help guide.
-
-</thinking>
-
 # iot_installation_checklist - Help Guide
 ## Purpose
 The iot_installation_checklist form is a checklist for documenting and tracking IoT installation details. It helps to ensure that all required and optional fields are completed correctly to guarantee accurate and reliable data.

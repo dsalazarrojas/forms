@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze its sections and fields. The form is for Horse Boarding Agreement, which suggests it's related to boarding horses at a stable or farm. The fields include owner information, horse information, agreement terms, payment methods, and boarding details. This form is likely for horse owners or boarders to agree on the terms of boarding their horse at a specific location. The non-duplication check is not necessary here as it's a single form with a specific purpose.
-</thinking>
-
 # Horse Boarding Agreement Form - Help Guide
 ## Purpose
 The Horse Boarding Agreement Form is designed for horse owners or boarders to agree on the terms of boarding their horse at a specific location.

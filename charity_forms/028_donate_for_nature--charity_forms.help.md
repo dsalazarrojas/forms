@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture donation information from users, allowing them to specify their donation amount, personal details, and payment preferences.
-The form is used to collect data for internal processing and may be used to create a record in a database or to send the information to a third-party service.
-To avoid duplication, we will only process the form if the user's browser's session ID is unique.
-The form will be processed in the following order: donation amount, name, email, phone, payment method, payment date, payment time, and finally, frequency and comment.
-Please ensure that you are filling out the form correctly, and if you are unsure, please consult this guide.
-</thinking>
-
 # Donate For Nature - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the "Donate For Nature" form.

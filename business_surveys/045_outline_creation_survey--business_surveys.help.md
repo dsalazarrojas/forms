@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "outline_creation_survey" form, explaining its purpose, how to complete it, and what each field means.</thinking>
-
 # Outline Creation Survey - Help Guide
 ## Purpose
 The "Outline Creation Survey" form is a tool used to gather information for creating outlines in a business context. It helps users define and organize their outline structure, content, and submission status. This form is used by business users to create outlines for their projects or documents.

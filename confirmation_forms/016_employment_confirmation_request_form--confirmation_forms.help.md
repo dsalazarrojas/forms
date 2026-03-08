@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the employment confirmation request form, I will analyze the provided YAML fields and create a concise and practical guide that explains the form's purpose, how to complete it, and what each field means.
-
-The form, "employment_confirmation_request_form", is used to collect employment details from employees. However, I couldn't find a clear description of the form's purpose in the YAML fields. Assuming it's for HR or administrative purposes, I'll create a guide based on my interpretation.
-
-The form has multiple pages, but only "Employment Details" page is described with a name, label, hint, type, and options. The other pages seem to be empty, which might be a mistake in the YAML structure. I'll focus on the "Employment Details" page for this guide.
-
-Please note that the form's purpose and some field labels are unclear. To create a helpful guide, I'll make an educated guess based on the provided fields and add some context where necessary.
-
-</thinking>
-
 # employment_confirmation_request_form - Help Guide
 ## Purpose
 This form is used to collect employment details from employees. It seems to be for HR or administrative purposes, such as requesting confirmation or updates from employees. Please fill out as much or as little information as required.

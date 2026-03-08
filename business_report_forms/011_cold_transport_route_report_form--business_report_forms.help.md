@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cold Transport Route Report Form - Help Guide
 
 ## Purpose

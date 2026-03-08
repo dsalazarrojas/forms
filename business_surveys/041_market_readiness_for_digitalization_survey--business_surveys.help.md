@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess a company's market readiness for digitalization, which is a process of integrating digital technology and processes to improve business operations. The purpose of this survey is to gather information on a company's current market readiness, its digital transformation, business model, business processes, and other relevant factors. This data will be used to evaluate the company's potential to successfully undergo digitalization and identify areas for improvement. **Please note that this form is not a comprehensive evaluation and is meant to be a starting point for further discussions and assessments.**
-
-</thinking>
-
 # Market Readiness For Digitalization Survey - Help Guide
 ## Purpose
 This form is designed to help us assess your company's market readiness for digitalization. Your responses will help us understand your current state and identify areas for improvement.

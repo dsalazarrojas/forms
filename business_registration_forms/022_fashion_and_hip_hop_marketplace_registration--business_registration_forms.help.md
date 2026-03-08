@@ -1,8 +1,3 @@
-<thinking>
-This form is for registration of a buyer in a Fashion and Hip Hop marketplace. The purpose is to collect basic information about the buyer and the marketplace they would like to register with. This form is not affiliated with, endorsed by, or derived from any form platform and can be used as is or with modifications. 
-
-</thinking>
-
 # Fashion And Hip Hop Marketplace Registration - Help Guide
 ## Purpose
 This form is designed for registration of a buyer in a Fashion and Hip Hop marketplace. It collects information about the buyer and the marketplace they would like to register with.

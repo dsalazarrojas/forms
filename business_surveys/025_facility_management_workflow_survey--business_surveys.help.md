@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information about facility management workflow from users. It's intended for end-users to provide feedback and insights on the effectiveness and challenges of the current workflow. The form will help identify areas for improvement and facilitate the development of more efficient and effective processes. It's essential to ensure that the form is completed by users who have direct experience with the facility management workflow, and it's not a duplicate survey for the same individual. Please review the instructions and explanations provided below to complete the form correctly...</thinking>
-
 # Facility Management Workflow Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from end-users on the current facility management workflow. It aims to identify areas for improvement and help develop more efficient and effective processes.

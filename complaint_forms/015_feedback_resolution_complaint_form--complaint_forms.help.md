@@ -1,9 +1,3 @@
-<thinking>
-We should first check that the form is only used to resolve feedback and complaints about products or services. We also need to make sure that the form is not used for duplicate complaints.
-The form is used when a customer needs to report an issue with a product or service they have used. This form is only for reporting actual issues or concerns, not for general customer service requests.
-Before submitting a complaint, please ensure that the issue has not been reported before. You can search for existing complaints to check if the issue has already been resolved.
-</thinking>
-
 # Feedback Resolution Complaint Form - Help Guide
 ## Purpose
 

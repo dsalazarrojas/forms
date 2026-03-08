@@ -1,8 +1,3 @@
-<thinking>
-To create an effective help guide for the Rise Youth Convention 2019 registration form, we need to understand the purpose of the form and ensure that we're not duplicating any existing help resources. The form is designed to gather information from attendees who are registering for the conference. It asks for personal details, T-shirt preferences, and permission from parents or guardians for minors. This form is likely intended for parents or guardians to register their youth for the convention, ensuring they provide necessary information such as name, contact emails, and preferences.
-To avoid duplication, let's assume that we're not referencing any other help guides that cover similar registration processes for this specific convention.
-</thinking>
-
 # Rise Youth Convention 2019 - Help Guide
 
 ## Purpose

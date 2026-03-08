@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to ensure that home visits are conducted with safety in mind and documented in a structured and comprehensive manner. This guide is provided to assist the user in understanding the purpose and requirements of the Home Visit Safety Checklist form.
-The Home Visit Safety Checklist form aims to identify and address potential safety hazards during home visits. The form covers various categories such as electrical, tripping, fire, sharp objects, water, medical, structural, and other hazards. The goal is to ensure that all safety issues are identified, documented, and resolved before the home visit is completed.
-Please ensure that you have read and understood the form before proceeding.
-</thinking>
-
 # Home Visit Safety Checklist - Help Guide
 ## Purpose
 The Home Visit Safety Checklist form is a tool used to identify and document potential safety hazards during home visits. It is essential to complete this form accurately and thoroughly to ensure a safe and successful home visit.

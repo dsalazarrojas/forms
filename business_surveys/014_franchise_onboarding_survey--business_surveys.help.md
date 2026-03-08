@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information from franchisees that have just joined the franchise. The purpose of the form is to collect basic contact and business details to help us better understand your business needs and provide you with relevant support and resources. This information will help us ensure that you have a smooth and successful onboarding process.
 
 To complete this form, follow the instructions below:

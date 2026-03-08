@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for registration for the Digital Pedagogy Innovation Award. It's intended for submitters to provide information about their innovative pedagogical practice. To avoid confusion, this form should only be filled out by people who are genuinely interested in showcasing their innovative approaches to teaching and learning. If you're not a genuine submitter, please do not proceed with filling out this form. The form is divided into sections that cover submitter information, the innovative pedagogical practice, and supporting materials. Please fill out the form carefully and thoroughly, as it will help the evaluation committee assess your submission accurately.
-</thinking>
-
 # Digital Pedagogy Innovation Award Registration Form - Help Guide
 
 ## Purpose

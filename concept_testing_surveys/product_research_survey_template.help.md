@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form template is for gathering initial reactions and feedback on a new product concept, likely in the "concept_testing_surveys" category. The purpose of this form is to collect users' perceptions and opinions on the product, its design, features, price, performance, ease of use, and innovation, as well as their willingness to consider using the product. This form is intended to be used as a starting point for product development and improvement. Before proceeding, please review the original metadata and the category this form belongs to, to ensure this form meets your specific needs and goals. This form is an original adaptation of public survey topic metadata, released under CC BY 4.0, and you are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
 # product_research_survey_template - Help Guide
 ## Purpose
 This form is designed to gather users' initial reactions and feedback on a new product concept. It aims to collect information on users' satisfaction, the aspects of the product that influenced their opinion, their willingness to consider using the product, and their overall feedback.

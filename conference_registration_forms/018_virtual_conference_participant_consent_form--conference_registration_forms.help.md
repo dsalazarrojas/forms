@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Conference Participant Consent Form - Help Guide
 
 ## Purpose

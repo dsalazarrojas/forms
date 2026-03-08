@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to gather information about the condition and features of parking lots, with 17 fields divided into two sections: General Information and Additional Features. The purpose of this form is to collect data that will help in assessing the overall condition and safety of parking lots.
-
-</thinking>
-
 # parking_lot_inspection_form - Help Guide
 
 ## Purpose

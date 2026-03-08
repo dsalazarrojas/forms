@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from building permit applicants on their experience with the building permit process. The feedback will help us understand how to improve the process and provide better service to applicants. To ensure that your feedback is useful and relevant, please fill out the form completely and honestly. If you have any comments or suggestions, please use the "Suggestions for Process Improvement" field. This form is not meant to be a comprehensive survey, but rather a quick and concise way to gather your thoughts and opinions.
-</thinking>
-
 # Building Permit Process Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback on your experience with the building permit process. Your input will help us improve the process and provide better service to applicants.

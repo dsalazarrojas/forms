@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the collection of client preferences and medical history for individuals who will be undergoing a sugaring consultation. It's intended for use in the aesthetic medical industry, particularly in sugaring, which involves the application of sugar-based exfoliating treatments to the skin. The form should not be used for general medical diagnoses or treatment decisions. Please ensure that this form is not used in situations where more specific medical expertise is required.
-</thinking>
-
 # Sugaring Consultation Form - Help Guide
 ## Purpose
 This form is used to collect information about the client's preferences and medical history before a sugaring consultation. This helps the practitioner understand the client's needs and ensure a safe and effective treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information about the ownership and usage of silos, which are structures or facilities used for storing or containing things, such as grains, chemicals, or other materials. The form likely aims to gather data on the location, capacity, usage patterns, and ownership details of these silos. The goal is to provide a clear and concise guide to help end-users understand the purpose and structure of the form.
-</thinking>
-
 # SILo Ownership Survey - Help Guide
 ## Purpose
 The SILo Ownership Survey form is designed to collect information about the ownership and usage of silos. This form is used to gather data on the location, capacity, and other relevant details about the silos.

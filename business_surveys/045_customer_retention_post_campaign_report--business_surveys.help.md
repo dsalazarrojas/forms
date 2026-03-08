@@ -1,7 +1,3 @@
-<thinking>
-The form, "Customer Retention Post Campaign Report," appears to be a collection of fields used to gather data on customer retention after a marketing or outreach campaign. This form might be used by a business or organization to track and evaluate the success of their campaign. The fields suggest it could be used to report on customer engagement, satisfaction, and outcomes of a campaign, potentially for the purpose of refining and improving future campaigns. The form includes options for customer segment and segment ID, which may indicate that the campaign was targeted towards specific groups of customers. The form also asks for campaign outcomes, retention rate, acquisition cost, engagement rate, and customer satisfaction rate, providing a comprehensive view of the campaign's results. However, it's worth noting that some fields are currently marked as "optional" (required: false), which might mean these are only used in specific scenarios or for specific purposes, such as tracking certain metrics or segments. It is essential to review the form's requirements and purpose in the business context to ensure accurate and effective usage. 
-</thinking>
-
 # Customer Retention Post Campaign Report - Help Guide
 ## Purpose
 This form is used to gather data on customer retention after a marketing or outreach campaign. It helps businesses or organizations track and evaluate the success of their campaign, making it possible to refine and improve future campaigns.

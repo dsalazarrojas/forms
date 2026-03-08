@@ -1,5 +1,3 @@
-<thinking>As a designer, I will create a clear and concise user guide for the "Daily Symptoms Checklist" form. First, I will analyze the form's purpose and fields to ensure the guide accurately explains the form's intent and functionality. I will avoid making assumptions about business logic not explicitly stated in the YAML file. This guide will be written in Markdown format, with a clear and concise structure.</thinking>
-
 # Daily Symptoms Checklist - Help Guide
 ## Purpose
 This form is designed to collect information on the symptoms experienced by a user over two consecutive days. It is intended to help track and identify potential health issues.

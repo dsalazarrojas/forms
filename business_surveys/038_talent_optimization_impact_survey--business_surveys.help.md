@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for assessing the impact of talent optimization initiatives in an organization. The purpose of this form is to gather information from employees on their experiences and perceptions regarding talent development, which can be used by HR and management to identify areas of improvement and optimize talent acquisition, growth, and retention strategies. This form is not intended to be a comprehensive HR system, but rather a supplementary tool to help gather insights that can inform business decisions. Before starting, ensure you understand the context and purpose of this form, and that you are filling it out in a relevant setting.
-</thinking>
-
 # Talent Optimization Impact Survey - Help Guide
 ## Purpose
 The Talent Optimization Impact Survey is designed to gather information from employees on their experiences and perceptions regarding talent development within the organization. This form aims to help identify areas of improvement and optimize talent acquisition, growth, and retention strategies.

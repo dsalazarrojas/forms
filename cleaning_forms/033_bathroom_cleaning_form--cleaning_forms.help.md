@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from cleaning staff on their cleaning activities, including personnel identification, work details, and areas cleaned. The form also aims to capture any safety incidents or slips reported, supplies used, and the need for re-ordering supplies. The form's fields are structured to ensure that cleaners report their work accurately and efficiently. This helps managers and supervisors to monitor cleaning activities and provide guidance as needed. The form's design minimizes redundant fields, ensuring that essential information is captured without unnecessary repetition.
-
-</thinking>
-
 # Bathroom Cleaning Form - Help Guide
 ## Purpose
 The Bathroom Cleaning Form is designed to gather information on bathroom cleaning activities, ensuring that cleaners report their work accurately and efficiently. This helps managers and supervisors to monitor cleaning activities and provide guidance as needed.

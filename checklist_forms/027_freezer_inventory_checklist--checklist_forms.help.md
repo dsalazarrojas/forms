@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let me clarify the purpose of this form and check for potential duplication or irrelevance. Based on the provided YAML, this form is designed for maintaining the inventory of frozen stock. The form's purpose is to help users conduct a systematic check on the condition and quantity of frozen stock. It appears that the form is intended to ensure the stock is properly stored and handled, reducing the risk of spoilage and contamination. There is no apparent duplication of fields or form sections that would indicate the form is redundant or unnecessary.</thinking>
-
 # Freezer Inventory Checklist - Help Guide
 ## Purpose
 The Freezer Inventory Checklist is a form used to maintain the inventory of frozen stock. It helps users conduct a systematic check on the condition and quantity of frozen stock, ensuring proper storage and handling practices.

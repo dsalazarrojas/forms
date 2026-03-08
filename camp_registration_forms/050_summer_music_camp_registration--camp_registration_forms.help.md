@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This guide will help users understand the purpose and requirements of the Summer Music Camp Registration form. The form collects personal information about the registrant, their music experience, date preference, scholarship status, payment method, instrument expertise, camp preferences, contact information, emergency contact, and other expenses. This guide will cover how to complete the form, which fields are required, and any specific details about each field.
-
-</thinking>
-
 # Summer Music Camp Registration - Help Guide
 ## Purpose
 The Summer Music Camp Registration form is a required form for students who want to participate in the Summer Music Camp. This form is used to collect essential information about the student, their music experience, and other relevant details. Please take a few minutes to complete the form carefully to ensure accurate and complete information.

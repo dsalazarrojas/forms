@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the current state of an organization's cyber security posture. The purpose of this form is to help organizations identify potential vulnerabilities and weaknesses in their cyber security practices. 
-The form is divided into several sections, each covering a different aspect of cyber security.
-The form asks a series of questions that require the user to respond with either "Yes" or "No" or other options depending on the field type.
-</thinking>
-
 # cyber_security_checklist - Help Guide
 ## Purpose
 The Cyber Security Checklist is a comprehensive form designed to help organizations assess their current cyber security practices. It consists of 10 questions that cover different aspects of cyber security, including risk assessment, policy review, control implementation, system monitoring, defense testing, incident response, and procedure review.

@@ -1,5 +1,3 @@
-<thinking>This form appears to be a template for capturing agreements between officers and committee members, likely for a project or organization. The form's purpose is to document the understanding between these individuals regarding confidential conversations and any obligations to support one another. This explanation will help clarify how end-users can complete the form correctly, focusing on the fields provided.</thinking>
-
 # SOPW Officer & Committee Member Agreement - Help Guide
 ## Purpose
 This form is designed for officers and committee members to document their understanding and agreements regarding confidential conversations and mutual obligations.

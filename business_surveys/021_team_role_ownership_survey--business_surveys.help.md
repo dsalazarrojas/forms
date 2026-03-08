@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gauge team ownership and comfort level of team members with their current roles, as well as their interest in taking on new roles. This form is not intended for duplicate responses from the same user. Please ensure that each user is filling out the form only once. The survey will help us understand team dynamics and identify areas where team members may need additional support or resources to excel in their roles... </thinking>
-
 # Team Role Ownership Survey - Help Guide
 ## Purpose
 This form is designed to help us understand team dynamics and identify areas where team members may need additional support or resources to excel in their roles.

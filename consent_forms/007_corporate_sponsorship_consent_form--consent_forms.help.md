@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from companies that wish to sponsor events, products, or services offered by the organization. The form is designed to be completed by the representative of the company who will be responsible for the sponsorship. The form is divided into sections that cover essential details about the company, the sponsorship terms, and the payment schedule. The fields on this form are meant to be filled out by the company representative, and the organization will review and process the information accordingly.
-
-</thinking>
-
 # Corporate Sponsorship Consent Form - Help Guide
 
 ## Purpose

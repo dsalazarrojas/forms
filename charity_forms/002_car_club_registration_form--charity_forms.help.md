@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for individuals to register their car clubs for various types of membership. It is crucial to ensure that users enter accurate and consistent information for efficient processing. Please be aware that entering incorrect information may lead to delays in processing or rejection of your registration. Please review the fields carefully before proceeding.
-</thinking>
-
 # Car Club Registration Form - Help Guide
 ## Purpose
 The Car Club Registration Form is designed to collect essential information from users for car club registration purposes. This includes personal details, vehicle attributes, and emergency contact information.

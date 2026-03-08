@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain consent from donors for GPS tracking during donations pickup. This tracking allows us to better track donations and improve our operations. This form should only be filled out by donors who have actually given or are planning to give a donation, and should not be filled out multiple times by the same individual or for the same donation. The form can be used on its own or as part of a larger process.
-
-</thinking>
-
 # donation_pickup_gps_tracking_consent - Help Guide
 ## Purpose
 This form is used to request consent from donors for GPS tracking during the pickup of their donations.

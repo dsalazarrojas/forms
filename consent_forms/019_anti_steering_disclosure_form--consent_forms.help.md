@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that our borrowers are informed and aware of their loan options before making a decision. This form is used to collect information about the loan process, including the borrower's understanding of the loan terms and any potential conflicts of interest. By filling out this form, borrowers can help us maintain transparency and accountability in the loan process.
-</thinking>
-
 # Anti Steering Disclosure Form - Help Guide
 
 ## Purpose

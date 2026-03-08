@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide a clear understanding of the request_complaint_form, which is used to collect user complaints in a structured and efficient manner. Before proceeding, please note that this form is designed to be filled out by users who have a legitimate complaint to report. This form will only be accepted if the complaint is unique and has not been previously reported. If you have already submitted a complaint, please do not resubmit. 
-</thinking>
-
 # request_complaint_form - Help Guide
 ## Purpose
 The request_complaint_form is a tool used to collect user complaints in a standardized format. It is a multi-page form that guides users through the process of providing detailed information about their complaint.

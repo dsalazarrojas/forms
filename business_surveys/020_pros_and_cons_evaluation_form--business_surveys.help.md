@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about a product or service. The form is meant to gather information about the pros and cons of the product/service, the user's frequency of use, their opinion about the value for money, and their willingness to recommend it to others. It's essential to complete this form carefully, as the information collected will help improve the product/service and provide valuable insights for the business.
-</thinking>
-
 # Pros And Cons Evaluation Form - Help Guide
 ## Purpose
 The Pros And Cons Evaluation Form is a tool used to gather feedback and opinions from users about a product or service. It aims to collect information about the key benefits and drawbacks of the product/service, the user's frequency of use, their opinion about the value for money, and their willingness to recommend it to others.

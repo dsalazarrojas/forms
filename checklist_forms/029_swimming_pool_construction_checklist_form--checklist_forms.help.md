@@ -1,7 +1,3 @@
-<thinking>
-This form, "swimming_pool_construction_checklist_form," is designed to guide contractors and construction professionals in completing a thorough checklist for swimming pool construction projects. The form's purpose is to ensure that all necessary steps and checklists are covered during the construction process.
-</thinking>
-
 # swimming_pool_construction_checklist_form - Help Guide
 ## Purpose
 This form is a comprehensive checklist for swimming pool construction projects. It is used to document and verify the completion of critical tasks and inspections to ensure a safe and quality construction process.

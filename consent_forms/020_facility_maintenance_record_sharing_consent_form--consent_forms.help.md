@@ -1,8 +1,3 @@
-<thinking>
-This form is used for facility maintenance record sharing consent. It is designed to gather information about an individual's consent to share their facility maintenance records. This form is typically used in situations where facility maintenance records need to be shared with other teams or stakeholders for collaboration or reference purposes.
-This form should only be filled out by facility owners or authorized personnel. Reusing this form can cause confusion and lead to duplicate data. Please do not reuse this form for multiple facility maintenance record sharing consent, instead use a separate form for each instance.
-</thinking>
-
 # facility_maintenance_record_sharing_consent_form - Help Guide
 ## Purpose
 This form is used to gather consent for facility maintenance records sharing between teams or stakeholders for collaboration or reference purposes.

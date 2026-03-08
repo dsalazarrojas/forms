@@ -1,7 +1,3 @@
-<thinking>
-The "Title Release Form" is a crucial document that is typically used for transferring ownership of a vehicle. Before proceeding, ensure that you have reviewed and understand the purpose and context of this form. Please note that the provided form structure is based on a sample and may have variations depending on your organization's specific requirements.
-</thinking>
-
 # Title Release Form - Help Guide
 ## Purpose
 The "Title Release Form" is a document used for transferring the ownership of a vehicle. It's an essential step in the vehicle ownership transfer process.

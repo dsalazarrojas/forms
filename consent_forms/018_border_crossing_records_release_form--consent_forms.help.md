@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals to release their border crossing records to a specific agency or individual. This form is used to provide a secure and standardized way to request and release records, ensuring that the individual's privacy and security are maintained. To ensure that the form is completed correctly, please follow the instructions below.
-
-</thinking>
 # Border Crossing Records Release Form - Help Guide
 
 ## Purpose

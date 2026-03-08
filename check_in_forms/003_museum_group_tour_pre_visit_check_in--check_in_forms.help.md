@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from tour group leaders and members before a visit to the museum. It's intended for internal use to prepare for the visit and ensure a smooth experience for both the group and the museum staff. This form is not intended for external use, so it's essential to fill it out thoroughly and accurately to avoid any confusion or miscommunication during the visit. Please review the form carefully to ensure you're providing all necessary information.
-</thinking>
-
 # Museum Group Tour Pre Visit Check In - Help Guide
 ## Purpose
 The Museum Group Tour Pre Visit Check In form is designed to collect essential information from tour group leaders and members before a visit to the museum. This form helps the museum staff prepare for the visit, ensuring a smooth and enjoyable experience for both the group and the staff.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Equipment Maintenance Checklist - Help Guide
 ## Purpose
 This form is designed to facilitate the process of tracking and maintaining equipment on a regular basis. It collects information about the equipment, its status, and the details of its maintenance, including the frequency of maintenance, next maintenance date, and cost involved. This form helps ensure that equipment is properly maintained and reduces the risk of equipment failure.

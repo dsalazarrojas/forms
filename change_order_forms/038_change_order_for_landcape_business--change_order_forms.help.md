@@ -1,18 +1,3 @@
-<thinking>
-This form is a Change Order Form for Landscape Business. It is used by landscape business owners to document changes made to a landscape project after the original contract has been signed. The purpose of this form is to ensure that both the customer and the contractor are aware of the modifications made, the reasons behind them, and the impact on the project timeline.
-
-To prevent duplication of effort, it is essential to fill out this form carefully and accurately, as it is a crucial document for project tracking and communication.
-
-The form is divided into several sections, each focusing on different aspects of the change:
-
-*   Date and identification of the change
-*   Details about the original contract and project scope
-*   Description and justification of the change
-*   Impact on the project timeline
-*   Cost and status updates
-
-This form is used for communication and documentation purposes only. It is not intended to be a formal contract or agreement.
-</thinking>
 # Change Order For Landcape Business - Help Guide
 ## Purpose
 This form is used to document changes made to a landscape project after the original contract has been signed.

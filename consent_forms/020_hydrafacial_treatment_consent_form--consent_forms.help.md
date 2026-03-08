@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hydrafacial_treatment_consent_form - Help Guide
 ## Purpose
 The hydrafacial_treatment_consent_form is used to obtain consent from patients for treatment at your medical practice. It is essential that this form is completed accurately and thoroughly to ensure that the patient's rights and medical history are properly documented.

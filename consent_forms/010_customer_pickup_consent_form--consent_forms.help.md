@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Customer Pickup Consent Form" is to collect necessary information from customers regarding the pickup of their items or packages. This form helps ensure that customers understand and agree to the terms and conditions of the pickup, reducing the risk of disputes or misunderstandings. To use this form, please review the following sections carefully to ensure you understand what information is required and how to provide it correctly.
 
 # Customer Pickup Consent Form - Help Guide

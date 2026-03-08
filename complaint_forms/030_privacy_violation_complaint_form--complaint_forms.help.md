@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report privacy violations that have occurred on our platform. The purpose of this form is to collect information about the incident, the complainant, and any supporting evidence or documentation that may be relevant to the complaint.
-</thinking>
-
 # Privacy Violation Complaint Form - Help Guide
 ## Purpose
 The Privacy Violation Complaint Form is used to report incidents of privacy violations that have occurred on our platform. Please use this form to submit a detailed report of the incident and any supporting documentation.

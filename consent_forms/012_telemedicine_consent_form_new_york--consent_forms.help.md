@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide their informed consent for telemedicine services. It's essential to complete this form accurately and thoroughly to ensure a seamless and secure experience. Before filling out this form, please review the provided explanation carefully to understand its purpose and requirements. This form collects information about the patient, their medical history, and emergency contact details.
-</thinking>
-
 # telemedicine_consent_form_new_york - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients for telemedicine services. This form is designed to gather essential information about the patient's medical history, emergency contact details, and their consent for telemedicine services.

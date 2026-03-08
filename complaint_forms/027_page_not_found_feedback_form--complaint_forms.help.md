@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users when a page on the website cannot be found. It's crucial to provide clear and concise information about the issue encountered. The user's input will help the development team identify and fix the problem as soon as possible. Please fill out this form only if you've tried accessing the page through the normal link and still couldn't find it. If you've already submitted a similar report, please do not submit another one.
-</thinking>
-
 # Page Not Found Feedback Form - Help Guide
 ## Purpose
 This form is designed to help our team understand the issue you experienced when accessing a page on our website. Your feedback will be used to identify and fix the problem as soon as possible.

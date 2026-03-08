@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kids Baking Camp Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to register children for a fun and educational baking camp, allowing them to learn new recipes, make new friends, and develop their baking skills in a safe and supportive environment.

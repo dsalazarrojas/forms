@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent from residents for the utility consumption dashboard. The purpose of this form is to collect information from residents that indicates their permission to display and analyze their utility usage data. The form is designed to be completed by residents and can be used to track their consent status and provide access to their data. This form should not be used for any other purpose, and the completion of this form implies the resident's consent to display and analyze their utility usage data.
-
-</thinking>
-
 # utility_consumption_dashboard_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from residents for the utility consumption dashboard, allowing them to display and analyze their utility usage data.

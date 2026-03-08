@@ -1,14 +1,3 @@
-<thinking>
-The marina scheduling survey form is designed to help marina staff gather information from users about their preferences for arriving and departing from the marina. The form is intended to collect data on arrival and departure dates and times, preferred arrival days, length of stay, and other relevant details. This information will help marina staff better understand user needs and optimize scheduling accordingly.
-
-To complete this form, users will be asked to provide their arrival and departure dates and times, as well as their preferred arrival days and length of stay. They will also be able to select their preferred contact method and provide any additional comments or notes. The form is designed to be user-friendly and easy to navigate.
-
-It's essential to ensure that the information provided in this form is accurate and complete to help marina staff provide the best possible service. Please take your time to fill out the form carefully.
-
-Note to the form administrator: The options for "boat_length" and "marina_location" are limited to the options provided. These options may need to be reviewed and updated regularly to reflect the changing needs and capacity of the marina.
-
-</thinking>
-
 # marina_scheduling_survey - Help Guide
 ## Purpose
 The marina scheduling survey form is designed to gather information from users about their preferences for arriving and departing from the marina. This information will help marina staff optimize scheduling and provide better service.

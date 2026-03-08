@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for participants to apply for various programs or events in the church setting. To use this form, ensure you have read the relevant section's description and requirements. Before submitting your application, make sure you have not already applied for the program/event in question. 
-</thinking>
-
 # Participant Application Form - Help Guide
 ## Purpose
 This form is used to gather essential information from participants applying for various programs or events in the church. It is a mandatory form and must be completed in its entirety to be considered for participation.

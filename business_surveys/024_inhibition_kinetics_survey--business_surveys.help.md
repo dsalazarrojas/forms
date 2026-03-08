@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Inhibition Kinetics Survey" form. To start, let me clarify that the purpose of this form is to collect information about inhibition kinetics, which is a crucial aspect of chemical reactions. The form is designed to gather details from users about enzymes, their inhibitors, and the parameters that affect the reaction. The purpose of this form is to collect data that can be used to analyze and understand the inhibition kinetics of different reactions.
-
-</thinking>
-
 # Inhibition Kinetics Survey - Help Guide
 ## Purpose
 The "Inhibition Kinetics Survey" is designed to collect information about inhibition kinetics, which is a crucial aspect of chemical reactions. This form aims to gather details from users about enzymes, their inhibitors, and the parameters that affect the reaction.

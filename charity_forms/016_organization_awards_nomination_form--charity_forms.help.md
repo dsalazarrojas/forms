@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information about an organization's award nominations. The purpose is to gather data on the categories, recipients, justification, and other relevant details of the nominations. 
-
-To ensure that the form is used correctly, we should check that each field is correctly filled out before submission. This will help in processing the nominations and avoid any errors or discrepancies. 
-We should also double-check that the categories and recipients match each other correctly to avoid any misnomer. Lastly, we should ensure that the nominations are filled out for the correct year to avoid confusion and discrepancies in the data.
-
-</thinking>
-
 # Organization Awards Nomination Form - Help Guide
 
 ## Purpose

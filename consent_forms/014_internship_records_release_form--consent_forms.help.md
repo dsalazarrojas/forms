@@ -1,21 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Internship Records Release Form" to help end-users understand its purpose and how to complete it effectively. The form is intended to collect information from students regarding the release of their internship records. To confirm, this form is not meant for students, but rather for staff or administrators who will be interacting with the students. We should ensure that the form does not duplicate any other forms used in this context.
-
-The form has several fields that require clarification for the end-user:
-- "Student Name" (id 1): This field is used to input the student's name, which is an important detail in the records release process.
-- "Date of Birth" (id 2): This field asks for the student's date of birth, which is likely used to identify the student's demographic information.
-- "Email" (id 3): This field requires the student's email address, which may be used for communication or verification purposes.
-- "Student ID" (id 4): This field asks for the student's ID number, which is probably used to uniquely identify the student in the records.
-- "Organization" (id 5): This field is for the organization the student is working with, which provides context for the internship records.
-- "Department" (id 6): Similar to "Organization", this field is likely for the department within the organization the student is working with.
-- "Consent Type" (id 7): This field allows the user to select whether the records release is for "Internship Records" or "Academic Records", which indicates what type of information is being released.
-- "Release Date" (id 8): This field is for the date when the records are to be released, which is an essential detail in the records release process.
-- "Signature" (id 9): This field is used to input the student's signature, which confirms the release of their records.
-- "Notes" (id 10): This field is for any additional comments or explanations the user wants to add to the records release process.
-- "Contact Number" (id 11): This field is for the student's contact number, which can be used for further communication.
-
-</thinking>
-
 # Internship Records Release Form - Help Guide
 ## Purpose
 This guide will walk you through completing the Internship Records Release Form, which is used to collect information from students regarding the release of their internship records.

@@ -1,5 +1,3 @@
-<thinking>...the form is designed to collect information about exposures, which are incidents or situations where an individual comes into contact with a hazardous substance or environment. This form is used by supervisors to gather necessary details to report and address such incidents. It's crucial that each exposure is documented accurately and thoroughly. To prevent duplication, ensure that each incident is entered only once in the system, and if an incident has already been reported, do not re-enter it. Please use this guide to ensure accurate and thorough completion of the form.</thinking>
-
 # Agent Exposure Survey - Help Guide
 ## Purpose
 The Agent Exposure Survey is a form used to collect information about exposures, which are incidents or situations where an individual comes into contact with a hazardous substance or environment. This form is used by supervisors to gather necessary details to report and address such incidents.

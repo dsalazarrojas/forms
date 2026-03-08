@@ -1,16 +1,3 @@
-<thinking>
-This form is for participants to provide their details, schedule information, support group details, recovery program information, and contact information for the SUD (Substance Use Disorder) group. The form is not a survey or assessment tool but rather a data collection form for participants to provide personal and program information. It is designed to be user-friendly and straightforward.
-
-This form is designed to be filled out by individuals who are participating or have participated in the SUD group. It is not intended for SUD group facilitators, administrators, or other staff members.
-
-Before filling out the form, please ensure that you have the necessary consent to participate in the SUD group and that your information is accurate and up-to-date.
-
-This form is not a substitute for professional medical or psychological assessment. If you are experiencing any distress or concerns, please contact a mental health professional or call emergency services.
-
-Please note that this form is a one-time data collection form and is not intended to be used as a regular assessment or check-in tool.
-
-</thinking>
-
 # SUD Group Participation Form - Help Guide
 
 ## Purpose

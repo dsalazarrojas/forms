@@ -1,6 +1,3 @@
-<thinking>
-This travel confirmation form is designed to gather essential information from customers after they have made a reservation. The purpose of this form is to ensure that the traveler has received and reviewed the details of their reservation, including confirmation of their travel plans, payment details, and contact information. This form also allows customers to provide confirmation of their reservation and any additional details that may be necessary for their travel. The form is not intended for customers to submit additional bookings, so please do not use this form if you have made a new booking.
-</thinking>
 # travel_confirmation_form - Help Guide
 ## Purpose
 This form is used to confirm the details of your travel reservation and provide any necessary information for a smooth travel experience.

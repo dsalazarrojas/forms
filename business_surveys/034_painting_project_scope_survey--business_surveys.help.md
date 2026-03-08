@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Painting Project Scope Survey - Help Guide
 ## Purpose
 This form is designed to gather information about painting projects for internal use. It collects various details about the project, including project name, type, status, client contact, project location, budget, scope, and contract details. This guide will walk you through the form's fields and explain each section's purpose.

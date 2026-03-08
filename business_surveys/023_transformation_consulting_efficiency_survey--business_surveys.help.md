@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to assess the efficiency and effectiveness of business surveys in the context of transformation consulting, specifically to identify areas where surveys may be improved and to gather insights on how they impact business operations. This form is intended to gather input from team members on their participation in decision-making, communication methods, and the areas of business where surveys have a positive impact. The goal is to gather concrete data to inform the development and improvement of business surveys.
-
-The form is structured to collect data on the following topics:
-
-* Whether or not team members participate in decision-making for business surveys
-* Communication methods used for business surveys
-* Areas of business where surveys have a positive impact
-* The value of survey data for business operations
-* Business operations where survey data is valuable
-* Whether or not business surveys help transform the business
-* Areas where business transformation projects benefit from business surveys
-* Overall efficiency in completing business surveys
-
-This form is designed to be completed by team members who are involved in business surveys, and the data collected will be used to improve the survey process and provide insights for future surveys.
-</thinking>
-
 # Transformation Consulting Efficiency Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the registration of startup pitch judges for a specific event. The purpose of this form is to collect information about the individuals who will be evaluating startup pitches. This form should only be filled out by individuals who are available to judge and have expertise in relevant areas.
-</thinking>
-
 # Startup Pitch Judge Registration - Help Guide
 ## Purpose
 This form is for registering as a startup pitch judge for a specific event. Fill out the form to let us know about your expertise and availability to judge.

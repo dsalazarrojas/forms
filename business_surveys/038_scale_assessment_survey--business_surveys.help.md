@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess various aspects of a product or service, such as customer satisfaction, recommendation, quality rating, and more. The goal is to gather data to understand user opinions and preferences. Before filling out this form, ensure you have relevant information and opinions about the product or service. Please note that some fields are optional and do not impact the form's functionality.
-</thinking>
-
 # scale_assessment_survey - Help Guide
 ## Purpose
 The scale assessment survey is designed to gather data on customer satisfaction, recommendation, quality rating, and other relevant aspects of a product or service. The gathered data will be used to improve the product or service.

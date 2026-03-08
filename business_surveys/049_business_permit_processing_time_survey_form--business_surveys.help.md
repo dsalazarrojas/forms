@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to aid users in completing the Business Permit Processing Time Survey Form. The survey is designed to gather information about the processing times experienced by businesses during the permit application process. The form is used to understand how long it took for businesses to receive their permits, whether they were satisfied with the processing time, and any issues they encountered during the process. It is crucial to ensure that the information provided in this guide is accurate and up-to-date to reflect the current form structure and functionality.
-Before proceeding, please confirm that the form is relevant and up-to-date for your specific needs. If you are familiar with the form, please skip this guide. The following guide assumes you are using the current version of the Business Permit Processing Time Survey Form.
-</thinking>
-
 # Business Permit Processing Time Survey Form - Help Guide
 ## Purpose
 The Business Permit Processing Time Survey Form is designed to collect data on business permit application processing times. It aims to understand how long it took for businesses to receive their permits, their satisfaction with the processing time, and any issues they encountered during the process. This information helps us improve our services and provide better support.

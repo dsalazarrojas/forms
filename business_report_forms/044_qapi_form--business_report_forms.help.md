@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form, "qapi_form", is to collect information about a patient's visit to a medical facility. This form likely serves as an internal documentation tool for healthcare providers to record details about the visit, including the patient's demographics, visit type, and other relevant information. The form's fields are designed to gather specific data points that are essential for maintaining accurate and organized records.
-
-When using this form, it is crucial to ensure that you are not duplicating effort or recording unnecessary information. Double-check that the data entered is accurate and up-to-date to avoid any discrepancies or errors.
-
-For instance, if a patient has been visited multiple times, ensure that each entry is recorded separately to maintain a clear and chronological record.
-
-To avoid confusion, please review the form carefully and ensure that all required fields are filled in accurately.
-
-</thinking>
-
 # qapi_form - Help Guide
 ## Purpose
 The qapi_form is a tool for healthcare providers to document a patient's visit, gathering information about their visit type, duration, and other relevant details.

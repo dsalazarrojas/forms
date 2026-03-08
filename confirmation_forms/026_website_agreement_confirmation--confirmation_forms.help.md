@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Agreement Confirmation - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # non_traffic_complaint_form - Help Guide
 
 ## Purpose

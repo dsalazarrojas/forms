@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to collect information from facility maintenance staff regarding the cleanliness status of various areas within a daycare setting. The form likely aims to ensure that facilities are properly cleaned and maintained, which is crucial for the health and safety of the children in care. This checklist will help staff efficiently and thoroughly clean each area, reducing the risk of accidents and illnesses.
-
-The form is divided into separate sections, each focusing on a different area of the facility: facility, bathrooms, floors, trash, kitchen, play area, outdoor, and office spaces. 
-
-This form is intended to be used regularly, possibly at the end of each shift or before a new group of children arrives, to ensure that the facility is properly cleaned and prepared for the upcoming session.
-
-</thinking>
-
 # Daycare Cleaning Checklist - Help Guide
 ## Purpose
 The Daycare Cleaning Checklist is designed to help facility maintenance staff ensure the cleanliness of various areas within a daycare setting. It helps staff efficiently and thoroughly clean each area, reducing the risk of accidents and illnesses.

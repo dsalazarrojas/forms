@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Giveaway Entry Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and preferences for a Christmas giveaway. It helps us understand who is interested in participating in the giveaway and ensures that entrants meet the necessary requirements and eligibility criteria. Please complete the form accurately to increase your chances of winning.

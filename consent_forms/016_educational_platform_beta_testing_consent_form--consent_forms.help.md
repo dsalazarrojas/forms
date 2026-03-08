@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first need to understand the purpose and requirements of the form. Based on the YAML input schema, this form appears to be a consent form for educational platform beta testing. It's likely used to collect participant details, their consent, and expectations for testing the platform. The form is likely used to onboard participants and ensure they understand the expectations and requirements of the beta testing process. I'll make sure to cover all relevant fields and provide a clear and concise explanation to facilitate easy completion of the form. Please let me proceed with creating the form help guide.</thinking>
-
 # educational_platform_beta_testing_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant details, obtain their consent, and outline their expectations for the educational platform beta testing process.

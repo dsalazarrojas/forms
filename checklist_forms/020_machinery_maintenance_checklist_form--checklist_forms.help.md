@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about the machinery maintenance process. The form is designed to gather general information, list any issues encountered during maintenance, schedule repair, and provide space for notes... This form is relevant for machinery operators, technicians, or maintenance personnel who need to perform regular checks on machinery to ensure they are functioning correctly. It is not intended for other purposes such as customer support or sales... This form does not duplicate any existing form, as it's an original adaptation created by AI using public metadata about the "machinery maintenance" topic. It doesn't contain any proprietary content from other form platforms...</thinking>
-
 # Machinery Maintenance Checklist Form - Help Guide
 ## Purpose
 The Machinery Maintenance Checklist Form is designed to help you track and record information about the machinery maintenance process. It gathers essential details for general information, listing any issues, scheduling repairs, and taking notes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # weekly_vehicle_inspection_form - Help Guide
 ## Purpose
 The weekly vehicle inspection form is a tool to help users record and track the status of their company vehicles on a weekly basis. This form is designed to gather information on the vehicle's condition, mileage, and other relevant details for maintenance and administrative purposes.

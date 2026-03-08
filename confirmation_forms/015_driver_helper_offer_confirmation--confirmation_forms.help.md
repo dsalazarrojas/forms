@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Driver Helper Offer Confirmation - Help Guide
 ## Purpose
 The Driver Helper Offer Confirmation form is designed to confirm and record the details of a job offer made to a driver. This form is used to ensure that both the driver and the company are on the same page and that the terms of the offer are understood.

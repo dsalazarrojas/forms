@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for the rooftop farming survey form, a crucial step in gathering insights from grower experiences to shape urban planning and research in this innovative field.
-Before creating this guide, let's ensure that the form is a valuable resource for our end-users. This form is designed to collect comprehensive information from rooftop farming practitioners, focusing on their experiences, methods, challenges, and perspectives on the role of community, research, and urban planning in rooftop farming.
-</thinking>
-
 # rooftop_farming_survey - Help Guide
 ## Purpose
 This form aims to gather insights from rooftop farming practitioners on their experiences, methods, and perspectives on the future of rooftop farming. Your input will help us better understand the challenges and opportunities in this emerging field and inform decision-making for urban planning and research.

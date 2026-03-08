@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about a product from users. To ensure that the information is valid and complete, we will be checking for duplicates based on the product name and submitter name/email/phone. This check will prevent multiple submissions of the same product by different users. We also assume that the product name, price, and submitter name, email, and phone are required fields and must be filled out for the form to be considered complete. This form is intended for internal use only and the data collected will be used to facilitate internal processes.</thinking>
-
 # Submit A Product Form - Help Guide
 ## Purpose
 This form is used to collect information about a product from users. The form is used to submit a product for internal purposes and the information will be reviewed and processed internally.

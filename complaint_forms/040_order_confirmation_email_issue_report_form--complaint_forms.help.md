@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report issues with order confirmation emails, allowing users to submit a report with details about the issue they are experiencing. The form is designed to gather information about the order, the email subject and body, and the specific issue being reported. The fields are organized to guide the user through the process of submitting a comprehensive report. The form should only be completed if the user has experienced an issue with their order confirmation email. 
-</thinking>
-
 # Order Confirmation Email Issue Report Form - Help Guide
 ## Purpose
 The Order Confirmation Email Issue Report Form is used to report issues with order confirmation emails. 

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this Transformation Success Factors Survey form is to gather insights from respondents about the success factors related to business transformations, such as identifying and prioritizing key success factors, understanding the challenges and obstacles that impact transformation success, and assessing the readiness for transformation. This form is designed to provide a structured and easy-to-understand framework for respondents to provide their input.
-
-However, before proceeding, ensure that this form is relevant to your specific use case and does not duplicate any existing surveys. The form's design and content are based on publicly available information and are not affiliated with or endorsed by any form platform.
-
-</thinking>
-
 # Transformation Success Factors Survey - Help Guide
 ## Purpose
 The Transformation Success Factors Survey is designed to help organizations gather insights about the success factors related to business transformations. It aims to identify and prioritize key success factors, understand challenges and obstacles that impact transformation success, and assess the readiness for transformation.

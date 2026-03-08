@@ -1,7 +1,3 @@
-<thinking>...
-The form is designed to collect information about a business for registration purposes. This form will be used by businesses to provide their details, such as business name, type, address, contact information, and ownership structure. The form is designed to be responsive, meaning it will adapt to different screen sizes and devices, making it accessible on various platforms. Before proceeding, please ensure that you have the necessary information and permissions to complete the form accurately and completely.
-</thinking>
-
 # Responsive Business Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a business for registration purposes. Please fill out the form accurately and thoroughly to ensure that your business is registered correctly.

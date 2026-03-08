@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the rental market reform session registration form. The form is used to collect information from attendees for a session on rental market reform. The purpose of the form is to gather details about the session, the attendees, and their registration status. The form is not intended for users to submit sensitive or financial information. The form is not a substitute for any other form that may be used for official registration or payment. Before filling out the form, please ensure that you have all the necessary information and that it is accurate and up-to-date. Also, please be aware that some fields are optional and can be left blank.
-
-</thinking>
-
 # Rental Market Reform Session Registration - Help Guide
 
 ## Purpose

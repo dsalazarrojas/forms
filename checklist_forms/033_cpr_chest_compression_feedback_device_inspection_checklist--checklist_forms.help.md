@@ -1,11 +1,3 @@
-<thinking>
-
-Before we dive into the help guide, let me just confirm that the form is a "CPR Chest Compression Feedback Device Inspection Checklist" used for inspecting and evaluating the condition of a specific type of device used in CPR (Cardiopulmonary Resuscitation) procedures. This form is crucial for ensuring the device is in a safe and functional state for medical use.
-
-I'll make sure to keep the guide concise and practical, explaining each field in a way that's easy to understand for end-users.
-
-</thinking>
-
 # CPR Chest Compression Feedback Device Inspection Checklist - Help Guide
 
 ## Purpose

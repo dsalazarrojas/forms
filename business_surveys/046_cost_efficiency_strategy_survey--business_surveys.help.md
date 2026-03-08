@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The "Cost Efficiency Strategy Survey" form helps business owners evaluate their operational costs and gather feedback on efficiency strategies. It is intended for businesses to identify areas where they can improve their cost efficiency and implement changes to reduce waste and increase productivity.
 

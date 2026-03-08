@@ -1,7 +1,3 @@
-<thinking>... This form is designed to collect daily feedback from childcare staff about the well-being and behavior of children in their care. The form is used to track key aspects of the child's daily experience, including their mood, energy level, social interaction, physical symptoms, and any behavior concerns. This data will help staff provide better care and support to the children. The form should not be completed if the child is not in care at the time of the check-in. Staff should only complete this form for children in their care and not for other children or unrelated individuals.
-
-</thinking>
-
 # Childcare Daily Mood and Behavior Check-In - Help Guide
 ## Purpose
 This form is designed to help staff collect daily feedback about the well-being and behavior of children in their care. It is used to track key aspects of the child's daily experience, including their mood, energy level, social interaction, physical symptoms, and any behavior concerns. This information will help staff provide better care and support to the children.

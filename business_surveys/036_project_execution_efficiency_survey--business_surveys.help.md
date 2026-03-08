@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Project Execution Efficiency Survey" form, we need to ensure that end users understand the purpose of the form, how to complete it, and what each field means. This guide will be based on the provided YAML fields and aim to provide a clear and concise explanation of each field.
-
-</thinking>
-
 # Project Execution Efficiency Survey - Help Guide
 ## Purpose
 The "Project Execution Efficiency Survey" form is designed to evaluate the efficiency of projects in various aspects. It is used to gather data on how projects are executed, including their efficiency, category, project status, type, size, duration, cost, team size, scope, quality, risk, satisfaction, completion rate, execution speed, and other relevant metrics. This data will help organizations understand where they can improve their project execution processes to increase efficiency and productivity.

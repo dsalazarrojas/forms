@@ -1,7 +1,3 @@
-<thinking>
-The Veterinary Inventory Audit Checklist form is used to evaluate the current state of the veterinary clinic's inventory and equipment, ensuring that they are properly maintained and up-to-date. This form helps to identify potential safety risks, outdated equipment, and stock discrepancies, facilitating a proactive approach to inventory management. By completing this form, veterinary staff can ensure that they are meeting the necessary standards for inventory maintenance and equipment upkeep.
-</thinking>
-
 # Veterinary Inventory Audit Checklist - Help Guide
 ## Purpose
 The Veterinary Inventory Audit Checklist is a form designed to help veterinary staff conduct a thorough inventory audit of the clinic's stock and equipment. The goal of this form is to gather information about the current state of the inventory and identify any potential issues that require attention.

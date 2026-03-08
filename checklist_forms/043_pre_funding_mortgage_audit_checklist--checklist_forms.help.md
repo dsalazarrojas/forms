@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used as a pre-funding mortgage audit checklist, which is a critical step in the mortgage process. The form will likely be used by underwriters or auditors to verify and validate information related to a mortgage loan, ensuring that all necessary documents and data are in order before the loan is approved and funded. This checklist will help them track and document their review process, reducing errors and increasing efficiency. It is likely that the form will be used in conjunction with other loan-related forms and processes.
-
-Before starting, please ensure that you have all necessary documents and data readily available. This guide will walk you through the steps to complete the form and provide explanations for each field to ensure you understand its purpose and how to fill it out correctly.
-
-</thinking>
-
 # Pre Funding Mortgage Audit Checklist - Help Guide
 ## Purpose
 The Pre Funding Mortgage Audit Checklist is a form used to validate and verify information related to a mortgage loan before it is approved and funded. This form helps to identify potential issues or risks associated with the loan, ensuring that the underwriter or auditor can review and address these concerns before moving forward.

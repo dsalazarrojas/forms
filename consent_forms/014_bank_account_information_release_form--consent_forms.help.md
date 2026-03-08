@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect information for the release of a bank account holder's data to a third party, typically for a specific purpose such as a loan application, audit, or legal proceedings. The form ensures that the account holder is aware of and consents to the disclosure of their account information. It's crucial that the form is completed accurately to ensure that the scope of disclosure is understood and the information is released only to the intended recipient. This form should not be used for duplicate purposes; ensure that a separate form is completed for each new request.</thinking>
-
 # Bank Account Information Release Form - Help Guide
 ## Purpose
 This form is used to provide a bank account holder's information to a third party for a specific purpose, such as a loan application or legal proceedings. The form helps ensure that the account holder is aware of and consents to the disclosure of their account information.

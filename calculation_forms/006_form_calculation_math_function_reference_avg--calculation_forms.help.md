@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to help users understand how to calculate the average of multiple numbers using the Math Function Reference Avg() formula. This form will guide users in completing the form correctly by breaking down each field's purpose and requirements. 
-
-This form is part of the "calculation_forms" category. 
-
-To ensure relevance and non-duplication, this form should only be used for its intended purpose of calculating the average of multiple numbers.
-
-</thinking>
-
 # Form Calculation: Math Function Reference Avg() - Help Guide
 ## Purpose
 The Form Calculation: Math Function Reference Avg() is a tool used to calculate the average of multiple numbers. This form is designed to guide users in understanding how to use the Math Function Reference Avg() formula correctly.

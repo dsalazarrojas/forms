@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # plumbing_inspection_checklist_form - Help Guide
 ## Purpose
 The Plumbing Inspection Checklist form is designed for plumbers and inspection teams to conduct thorough and standardized inspections of various aspects of a plumbing system. This form helps them to identify potential issues and ensure that the system is functioning properly and safely.

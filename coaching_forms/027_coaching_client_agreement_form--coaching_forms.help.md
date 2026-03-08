@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to document the client-coach agreement, including the coaching services, payment terms, and confidentiality. The coach agrees to provide coaching services to the client, and the client agrees to pay for these services. The form also outlines the terms and conditions of the agreement, including the coaching services, payment terms, confidentiality, and liability limitations. Please review the form carefully and ensure that it accurately reflects the agreed-upon terms between you and your client.
-</thinking>
-
 # Coaching Client Agreement Form - Help Guide
 ## Purpose
 This form is used to document the agreement between you and your client, including coaching services, payment terms, and confidentiality. It is essential to review the form carefully and ensure that it accurately reflects the agreed-upon terms between you and your client.

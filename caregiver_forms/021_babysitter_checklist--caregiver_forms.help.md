@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Babysitter Checklist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workforce Voice Participation Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information about an organization's AI management practices. By completing this AI Management Checklist, you will help identify areas of improvement and provide a comprehensive overview of your organization's AI strategy. Please ensure that you are completing this form with the most up-to-date and accurate information about your organization's AI initiatives.
-</thinking>
-
 # AI Management Checklist - Help Guide
 ## Purpose
 The AI Management Checklist is a tool designed to assess your organization's AI management practices. It provides a framework to identify key areas of improvement and helps in providing a comprehensive overview of your organization's AI strategy. This checklist covers essential aspects of AI management, including strategic alignment, data strategy, governance, talent, budgeting, and risk assessment.

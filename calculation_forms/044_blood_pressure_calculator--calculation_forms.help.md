@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate and assess blood pressure readings. It is essential to fill this form to ensure accurate calculations and proper health assessments. Please note that this form is only intended for personal health tracking and not for professional medical use. If you are a healthcare professional, please use a medical professional's discretion for actual diagnosis and treatment. This form is a simple tool for individuals to get an estimate of their blood pressure category.
-</thinking>
-
 # Blood Pressure Calculator - Help Guide
 ## Purpose
 

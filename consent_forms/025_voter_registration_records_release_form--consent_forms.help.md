@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voter Registration Records Release Form - Help Guide
 
 ## Purpose

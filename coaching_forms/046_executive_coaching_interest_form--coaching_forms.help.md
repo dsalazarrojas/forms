@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the form "executive_coaching_interest_form" is filled out correctly and accurately, we should first consider the following:
-- **Purpose**: This form is likely designed for executives or leaders within an organization to express their interest in undergoing coaching. It's meant to capture their preferences for coaching, such as frequency, duration, location, and topics of interest.
-- **Non-Duplication**: To avoid duplication, we can check if there's an existing record of the same executive participant or the same coaching schedule. If it exists, we can either prompt the user to review or update the existing record instead of creating a new one.
-</thinking>
-
 # executive_coaching_interest_form - Help Guide
 ## Purpose
 

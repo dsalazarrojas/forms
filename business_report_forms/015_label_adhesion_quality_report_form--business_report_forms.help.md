@@ -1,5 +1,3 @@
-<thinking> This form is intended to collect data for the label adhesion quality report. It captures information on a label adhesion test, including the test's surface material, date, time, and environmental conditions such as temperature, humidity, and pressure. The form also allows users to record the test area, adhesion test area, and result of the test, as well as provide remarks and notes. This form is used to ensure that all relevant data is collected and reported for the label adhesion test. </thinking>
-
 # Label Adhesion Quality Report Form - Help Guide
 ## Purpose
 The Label Adhesion Quality Report Form is designed to collect data for the label adhesion test, ensuring that all relevant information is gathered and reported for quality control and analysis.

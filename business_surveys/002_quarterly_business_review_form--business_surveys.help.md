@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quarterly Business Review Form - Help Guide
 ## Purpose
 The Quarterly Business Review Form is designed to be used for quarterly business performance reviews. It's an internal tool for businesses to track and report their progress, goals, strategies, and feedback.

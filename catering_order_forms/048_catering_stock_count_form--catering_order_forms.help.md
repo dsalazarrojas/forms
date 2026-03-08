@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the stock count of various items in the catering department. This form is used to track the current stock levels, identify any discrepancies, and determine if a reorder is required. The form is designed to be completed by the counters who conduct stock counts at different locations, and it will help management to make informed decisions about inventory management.
-</thinking>
-
 # Catering Stock Count Form - Help Guide
 ## Purpose
 This form is used to record the stock count of items at different locations in the catering department. It helps management to track the current stock levels, identify any discrepancies, and determine if a reorder is required.

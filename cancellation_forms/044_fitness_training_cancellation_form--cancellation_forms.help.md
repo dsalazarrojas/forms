@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the cancellation of fitness training sessions. The form's purpose is to gather information from the client about the cancellation, including the reason, member feedback, staff feedback, and any additional information they might have. The form also includes fields for email and phone number in case the client wants to provide contact information. 
-The form is likely used for internal tracking and improvement purposes within the fitness organization rather than for external sharing. To avoid duplication, only one Cancellation ID should be provided per session cancellation.
-</thinking>
-
 # Fitness Training Cancellation Form - Help Guide
 ## Purpose
 This form is used to provide information for cancellation of fitness training sessions. Please use it to enter the cancellation details.

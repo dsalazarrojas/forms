@@ -1,7 +1,3 @@
-<thinking>
-This form is for clients to establish a foundation for their coaching relationship with their coach. It is a crucial document to ensure both parties understand their expectations, responsibilities, and boundaries.
-</thinking>
-
 # Client Accountability And Growth Agreement - Help Guide
 ## Purpose
 This form is used to create a mutual understanding between the client and coach to define the terms of their coaching relationship. It helps establish clear expectations, boundaries, and a growth plan that will guide the coaching sessions.

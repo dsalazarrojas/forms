@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information on various aspects of property management, such as communication and issue resolution. The form's internal reasoning should be based on the provided YAML fields and should help ensure that the form is being used effectively and correctly. To start, the form has been generated using AI, ensuring that it is original and not derived from any existing form platforms.
-
-The fields provided seem to be mostly identical, but with some variations in their labels and names. The repetition of similar fields might be due to the form's structure, which could be intended to cater to different scenarios or sections within property management.
-
-Given the form's purpose and structure, the following instructions and explanations should provide end-users with a clear understanding of how to complete it effectively.
-
-</thinking>
-
 # Property Management Transparency Survey - Help Guide
 ## Purpose
 The Property Management Transparency Survey is designed to collect feedback and information on various aspects of property management, such as communication and issue resolution. This form aims to gather input from respondents to help property managers and stakeholders better understand their experiences and concerns.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID Safe Plan Checklist - Help Guide
 
 ## Purpose

@@ -1,19 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive tool for calculating a cleaning service estimate for a residential or commercial property. The main purpose of this form is to gather essential information about the property, the cleaning service required, and additional factors that may affect the cleaning time and crew size. This form will likely be used by cleaning service providers or property management companies to estimate the time and resources needed for a specific cleaning job.
-
-Before proceeding, let's consider the following:
-
-* The form is divided into sections, making it easy to navigate and focus on one aspect at a time.
-* Most fields are required, ensuring that the user provides necessary information for a accurate estimate.
-* The "Type of Property" field (id: 2) is the only field that does not have a clear label. It might be better to rephrase it as "Property Type" or "Residential/Commercial Property Type".
-* The "Time Adjustment Factors" field (id: 26) seems to be asking for extra time needed for special circumstances, but it's not entirely clear what kind of circumstances are being referred to. Perhaps it could be rephrased as "Additional Time Factors" or "Special Circumstances" to give a better idea of what the user is expected to provide.
-* The "Base Time Estimate" field (id: 25) seems to be asking for hours needed for basic cleaning, but it's not clear what that means. Perhaps it could be rephrased as "Standard Cleaning Time" or "Basic Cleaning Hours" to give a better idea of what the user is expected to provide.
-
-After reviewing the form, I will create a user-facing help guide that explains each section and field.
-
-</thinking>
-
 # Cleaning Service Time Estimator - Help Guide
 
 ## Purpose

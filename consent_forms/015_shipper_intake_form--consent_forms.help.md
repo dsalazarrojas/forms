@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shipper Intake Form - Help Guide
 ## Purpose
 

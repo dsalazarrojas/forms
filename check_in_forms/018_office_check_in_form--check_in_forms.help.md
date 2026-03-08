@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a Check In Form, designed for office-related activities. The form likely serves as an attendance tracking tool, allowing employees to mark their entry and exit times, providing details about their visit, and specifying any necessary information for office coordination. This form might be used for internal purposes within an organization, possibly for time tracking, attendance recording, or visitor management. It's essential to confirm that this form is not being used for any other unrelated purposes and to avoid duplication of effort in the organization.
-
-</thinking>
-
 # Office Check In Form - Help Guide
 
 ## Purpose

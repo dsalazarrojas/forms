@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to be used for categorizing and organizing business forms, possibly for filing or tracking purposes. The "Shine Squad" name suggests it might be related to team or group work. I will assume it's for a team of professionals who need to fill out forms for various purposes. Without further information, I will provide a general-purpose explanation. Please note that the form seems to be asking for metadata about a form, such as its title, category, and possibly attachment or output files.
-</thinking>
-
 # Shine Squad - Help Guide
 ## Purpose
 The "Shine Squad" form is designed to gather information about a form, including its title, category, description, and attachment or output settings. It likely aims to categorize and track forms for team or company use.

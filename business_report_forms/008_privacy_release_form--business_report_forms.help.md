@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and verify the personal information of individuals, likely for HR or administrative purposes in an organization. This form may be used to create and manage internal records, conduct background checks, or other business-related activities that require accurate and up-to-date information about employees or business contacts. The form's fields are designed to capture the most common types of personal contact and identification information. Ensure that all required fields are completed accurately to ensure the form's purpose is fulfilled correctly.
-</thinking>
-
 # Privacy Release Form - Help Guide
 ## Purpose
 This form is used to collect and verify the personal information of individuals for business-related purposes.

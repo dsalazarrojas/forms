@@ -1,7 +1,3 @@
-<thinking>
-Internal note: The form is designed to collect information from beauty business professionals who are interested in joining a mentorship program. The form aims to gather relevant data to match mentors with mentees based on their needs and goals. To avoid duplication, the form is designed to be completed by a single applicant per business. The form is divided into three main sections: Applicant Information, Business Information, and Mentorship Goals. Each section is further divided into smaller fields that require specific information from the applicant. This form is not intended for public access, so the data collected will be used solely for internal purposes.
-</thinking>
-
 # Beauty Business Mentorship Registration Form - Help Guide
 ## Purpose
 

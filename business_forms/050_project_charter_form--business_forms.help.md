@@ -1,11 +1,3 @@
-<thinking>
-This is a form design project for a project charter form that will be used to gather information about a project.
-The form will be used to collect information about project name, project details, targeted key performance indicators (KPIs), financial details, budget, milestones, risks, project budget details, impact details, and project start date.
-The form will be used by project managers and team members to ensure that all necessary information is collected and documented about a project.
-The form will not be used for any other purpose.
-There will not be any other form that has the same purpose of collecting project information.
-</thinking>
-
 # Project Charter Form - Help Guide
 ## Purpose
 The Project Charter Form is a document that outlines the essential information about a project, serving as a foundational guide for project management and team collaboration.

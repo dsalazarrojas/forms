@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by clients who are interested in booking a portrait photography session. To be eligible to use this form, the client should not have previously booked a session or have an existing session scheduled. This form is meant to gather information from the client, including their contact information, session preferences, and any special notes for the photographer or client. The form will be reviewed by the photographer before scheduling the session. Please review the form carefully and provide accurate information to ensure a smooth and successful session.
-</thinking>
-
 # Portrait Photography Session Booking Form - Help Guide
 ## Purpose
 This form is designed to book a portrait photography session with a professional photographer. To begin, ensure you have not already booked a session or have an existing session scheduled.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help users conduct a retaining wall inspection. The purpose of this form is to gather information about the condition and characteristics of a retaining wall, including its structure, materials, height, foundation type, and other relevant details. This form will help users to assess the wall's condition and identify any potential issues that may require attention.
-
-To complete this form, please follow these steps:
-
-1.  Complete each section of the form as instructed.
-2.  Be honest and accurate in your responses.
-3.  Review your answers carefully before submitting the form.
-
-</thinking>
-
 # Retaining Wall Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to conduct a thorough inspection of a retaining wall and gather information about its condition and characteristics.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Wheel Inspection Checklist form. The form is used to collect data on vehicle wheels, including inspection status, condition, and other relevant information. Before proceeding, please ensure that you have the necessary permissions to access and submit data on vehicle wheels.
-</thinking>
-
 # Wheel Inspection Checklist - Help Guide
 ## Purpose
 The Wheel Inspection Checklist is a form used to collect data on vehicle wheels. It includes fields for inspection status, condition, and other relevant information to ensure that vehicles are properly maintained and safe for use.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from employees on the efficiency of cost allocation processes within the organization. This form is intended to understand how well departments are transparent with cost allocation, challenges faced by departments, and other relevant information. Before filling out this form, please ensure that you have not already submitted this form in the past, and that you have a valid understanding of the cost allocation processes within your department or division.
-
-</thinking>
-
 # Cost Allocation Efficiency Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the efficiency of cost allocation processes within your department or division. This data will help management identify areas of improvement and make informed decisions to optimize resource allocation.

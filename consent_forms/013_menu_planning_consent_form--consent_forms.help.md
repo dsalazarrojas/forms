@@ -1,14 +1,3 @@
-<thinking>
-This form is a consent form for menu planning purposes, likely for an event or a meal planning service. It's essential to understand that this form is not for general menu planning purposes but rather for obtaining consent for specific menu items, such as dietary restrictions and food allergies, to ensure the well-being and safety of participants. It's crucial to review this form carefully and ensure it's filled out correctly to avoid any potential issues.
-
-Before completing this form, please note that it's meant for individuals who are participating in menu planning, not for planners or administrators. If you're not a participant, you may not need to fill this form out.
-
-This form is designed to be filled out by participants to provide their consent for specific menu items. Please take a few minutes to read through each section carefully and make sure to fill out the form accurately.
-
-Also, please be aware that some fields may be marked as optional, but it's still essential to fill them out if you have any information to provide.
-
-</thinking>
-
 # Menu Planning Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from participants for specific menu items, such as dietary restrictions and food allergies, to ensure their well-being and safety during menu planning.

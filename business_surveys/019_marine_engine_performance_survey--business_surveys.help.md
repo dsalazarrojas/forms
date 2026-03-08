@@ -1,24 +1,3 @@
-<thinking>
-This form is intended to collect data on marine engine performance, specifically for maintenance and optimization purposes. The form is designed to be completed by engine operators or maintenance personnel to report on the status of marine engines. This form will help identify areas that require attention and provide insights for future maintenance planning.
-
-Before completing this form, please review the following:
-
-1. Is this a one-time evaluation or a recurring assessment?
-2. Has the engine been evaluated before? If so, please refer to previous evaluation records for reference.
-3. Are there any outstanding issues or concerns related to the engine's performance?
-
-This form is not intended for emergency or high-priority situations. Please ensure that the engine is in a stable state before proceeding.
-
-If you are unsure about any aspect of this form, please consult with your supervisor or a technical expert before proceeding.
-
-Please ensure that you are completing this form accurately and honestly, as it will help inform future maintenance and optimization efforts.
-
-Please note that this form is for general information purposes only and is not intended for official reporting or certification.
-
-If you have any questions or concerns, please feel free to reach out to the maintenance team.
-
-</thinking>
-
 # Marine Engine Performance Survey - Help Guide
 ## Purpose
 The Marine Engine Performance Survey is designed to gather information about the status of your marine engine's performance. This form will help identify areas that require attention, track performance trends, and inform future maintenance and optimization efforts.

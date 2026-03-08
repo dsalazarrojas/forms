@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about payroll and cryptocurrency-related topics. This form is likely intended for employees, business owners, or individuals interested in exploring the intersection of payroll and cryptocurrency, possibly for research or business use cases. It's possible that this form is designed to collect data on preferences, experiences, or opinions about payroll and cryptocurrency, and the results might be used to inform decisions or provide insights in the business or financial sector.
-
-Before using this form, it's essential to check if any similar forms already exist within the organization or if a different approach is more suitable for the specific needs.
-</thinking>
-
 # Payroll And Cryptocurrency Survey - Help Guide
 ## Purpose
 This form is designed to collect information about payroll and cryptocurrency-related topics.

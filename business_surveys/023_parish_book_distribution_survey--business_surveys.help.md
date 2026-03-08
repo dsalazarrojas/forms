@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey for tracking the distribution of parish books, which are likely books or materials distributed to parishes or church communities. The purpose of this form is to gather information on the status of parish book distribution, including the number of books distributed, received, and remaining. This form may be used by church administrators or leaders to track the progress of book distribution, identify areas where more work is needed, and provide feedback or comments on the process.
-</thinking>
-
 # Parish Book Distribution Survey - Help Guide
 ## Purpose
 This form is designed to track the distribution of parish books, providing information on the number of books sent, received, and remaining. It is used to monitor and manage the parish book distribution process.

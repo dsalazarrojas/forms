@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gauge the attitudes and concerns of local residents regarding disaster recovery in their area. The purpose of this survey is to collect data on how often disasters occur in the local area, the role of local governments in disaster response, and concerns about disaster preparedness and recovery. This form may be used to inform local emergency planning and response efforts. The form is likely not used to collect duplicate data or to target a specific individual but rather to gather a general understanding of the community's attitudes and concerns.
-</thinking>
-
 # Local Disaster Recovery Attitudes Survey - Help Guide
 ## Purpose
 This survey aims to gather information on local residents' attitudes and concerns regarding disaster recovery in their area.

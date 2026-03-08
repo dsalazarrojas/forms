@@ -1,5 +1,3 @@
-<thinking>... internal logic: the form is for employees to report their work-related expenses, which will be reviewed and approved by managers or accounting staff. The form is optional, not mandatory. Users can skip fields if they're not necessary or if they're unsure about what information to provide. The form is meant to capture details about the expense, such as expense category, date, amount, and notes. Users can choose one of the provided options for expense category and approval status. Users do not need to worry about selecting an option for every field, they just need to fill out what they know or have on hand... </thinking>
-
 # Expense Approval Form - Help Guide
 ## Purpose
 This form is a tool for employees to report their work-related expenses to be reviewed and approved by managers or accounting staff. It is designed to capture relevant information about the expense, such as category, date, amount, and notes.

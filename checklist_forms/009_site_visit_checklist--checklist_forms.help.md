@@ -1,7 +1,3 @@
-<thinking>
-The site visit checklist form is used to record and track site visit information for quality control and site visit purposes. When completing this form, please ensure you are selecting all relevant options and entering accurate information for each field. This form should be completed on a site visit, and the information entered should be specific to that visit. Please note that some fields may be required and others are not, so be sure to fill out all required fields before submitting the form.
-</thinking>
-
 # site_visit_checklist - Help Guide
 ## Purpose
 The site visit checklist form is used to record and track site visit information for quality control and site visit purposes.

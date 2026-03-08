@@ -1,9 +1,3 @@
-<thinking>
-To create a help guide for the "Will And Testament Authorization Form", let's break down the form's purpose and fields to ensure we're on the same page.
-The Will And Testament Authorization Form is a legal document that allows individuals to express their wishes for the distribution of their assets after death. This form is often used in conjunction with a will, and it's essential to complete it accurately to ensure that the testator's wishes are respected.
-The form consists of five fields, each asking questions that are crucial to the testator's intentions.
-</thinking>
-
 # Will And Testament Authorization Form - Help Guide
 ## Purpose
 The Will And Testament Authorization Form is a legal document that allows you to express your wishes for the distribution of your assets after death. This form is often used in conjunction with a will to ensure that your wishes are respected.

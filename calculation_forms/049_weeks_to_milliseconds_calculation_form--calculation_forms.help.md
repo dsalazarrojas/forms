@@ -1,16 +1,3 @@
-<thinking>
-To avoid unnecessary duplication and confusion, let's first clarify the purpose and expected behavior of this form. The Weeks To Milliseconds Calculation Form is designed to assist users in calculating the total number of milliseconds in a given period of time, specifically when provided with the number of weeks.
-
-The form is intended to take two input values:
-1.  The number of milliseconds to convert into weeks
-2.  The total milliseconds to be calculated from the provided input
-
-The form's output will be the calculated total milliseconds.
-
-Assuming the form will be used in a context where the user is aware of the unit conversion (weeks to milliseconds), the form is expected to be straightforward and simple, with no complex calculations required from the user's side.
-
-</thinking>
-
 # Weeks To Milliseconds Calculation Form - Help Guide
 ## Purpose
 The Weeks To Milliseconds Calculation Form is designed to convert a given number of weeks into milliseconds and vice versa.

@@ -1,14 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-
-This form is used to collect information from speakers who will be presenting at a conference. The purpose of this form is to ensure that speakers disclose any potential conflicts of interest and provide necessary details about their presentation, such as the topic, date, and time. This form is typically used by conference organizers to gather information for speaker profiles, marketing materials, and other purposes.
-
-Before filling out this form, please ensure that you have reviewed the conference rules and guidelines regarding speaker disclosures and conflicts of interest. If you are unsure about any field, please contact the conference organizers for clarification.
-
-Please note that some fields are required and must be filled out, while others are optional and can be left blank if not applicable.
-
-</thinking>
-
 # Speaker Disclosure And Conflict Of Interest Form - Help Guide
 ## Purpose
 

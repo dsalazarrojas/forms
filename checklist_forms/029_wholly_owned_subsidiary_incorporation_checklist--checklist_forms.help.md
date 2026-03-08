@@ -1,12 +1,3 @@
-<thinking>
-The Wholly Owned Subsidiary Incorporation Checklist is a form designed to collect specific information about a wholly owned subsidiary for incorporation purposes. This form is used to gather details about the entity's name, address, phone number, email, and other relevant details to facilitate the incorporation process.
-
-To confirm, this form is specifically designed for entities that are wholly owned subsidiaries, and the information collected will be used to update the relevant records and perform the necessary steps for incorporation.
-
-Before proceeding, please ensure you have all the necessary information and documents required for completion. If you're unsure about any of the questions or fields, please refer to the relevant documentation or seek assistance from the relevant authorities.
-
-</thinking>
-
 # Wholly Owned Subsidiary Incorporation Checklist - Help Guide
 ## Purpose
 This form is used to collect information about a wholly owned subsidiary for incorporation purposes.

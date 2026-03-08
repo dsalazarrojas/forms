@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from users for a registration process, specifically for a 2013 camp event. The form appears to be a general registration form, asking for basic information such as name, email, phone number, and purpose of attendance, as well as more specific details about the camp, such as type, start and end dates, and terms of agreement. It also includes a CAPTCHA field to prevent automated submissions.
-</thinking>
-
 # IWOCA 2013 Camp Registration - Help Guide
 ## Purpose
 This form is used to register for the 2013 camp event. Please provide the required information to complete your registration.

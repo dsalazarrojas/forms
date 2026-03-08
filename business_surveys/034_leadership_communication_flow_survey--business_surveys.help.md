@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on leadership communication habits and challenges. It's designed to gauge the frequency and effectiveness of communication with teams, the channels used for communication, and potential barriers to effective communication. This form is likely used in business settings to inform leadership development and team-building initiatives.
-
-</thinking>
-
 # Leadership Communication Flow Survey - Help Guide
 ## Purpose
 This survey aims to assess leadership communication habits and challenges within teams.

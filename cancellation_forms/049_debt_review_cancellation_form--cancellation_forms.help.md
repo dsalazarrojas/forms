@@ -1,13 +1,3 @@
-<thinking>
-This form is used to facilitate the cancellation or continuation of debt review, a process that allows individuals to dispute errors or discrepancies in their debt review process. It's essential to complete this form accurately to ensure that the relevant parties are informed and take necessary steps. Please ensure that you have a clear understanding of the reasons for your request before submitting the form.
-
-When filling out this form, please be concise and specific in your responses. If you have multiple reasons for cancellation, you may select multiple options in the "Dispute with Counselor" or "Dispute with Agency" fields. Ensure that you complete all required fields to avoid delays in the processing of your request.
-
-The "Resolution" field is used to determine the outcome of your cancellation request. Selecting "Cancel debt review" will result in the cancellation of the debt review process, while selecting "Re-enroll in debt review" will allow you to continue the process.
-
-Before submitting the form, please ensure that you have attached all necessary supporting documentation, such as proof of error or misrepresentation.
-</thinking>
-
 # Debt Review Cancellation Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the cancellation or continuation of debt review, providing an opportunity to dispute errors or discrepancies in the process.

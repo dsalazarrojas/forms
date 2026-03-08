@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Lunch Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about employees' meal orders for the week. It's intended to provide the catering team with the necessary details to prepare and deliver meals to each employee's preferred location during their designated meal time. Please fill out the form thoroughly to ensure that your order is processed correctly.

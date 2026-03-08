@@ -1,16 +1,3 @@
-<thinking>
-This form is used for catering order and contract management. It is intended to be filled out by a client who is requesting catering services. The form ensures that all necessary information is collected from the client regarding their event details and contract agreements.
-
-The form contains 19 fields and is divided into 4 sections: 
-1. Contract Introduction 
-2. Event Details 
-3. Terms and Conditions 
-4. Payment and Deposits 
-
-The form requires a signature from the client, which serves as an acknowledgment that they have read and agreed to the terms of the contract. This form is crucial for the catering service provider to ensure a smooth and successful event.
-
-</thinking>
-
 # Catering Order & Contract Form - Help Guide
 ## Purpose
 

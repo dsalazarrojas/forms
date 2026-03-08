@@ -1,11 +1,3 @@
-<thinking>
-This form is used for capturing information related to photography sessions. 
-The form captures information such as user and client details, dates and times of sessions, photographer and assistant names, and notes for the session. 
-The form also includes fields for clients to agree on terms of service, which is a required field to ensure that clients understand and accept the terms before proceeding. 
-This form is typically used for internal purposes by photography businesses, such as capturing client and session information for reference and tracking purposes. 
-Please ensure this form is used only for its intended purpose and not for other business operations.
-</thinking>
-
 # Noah Bennett Photography Form - Help Guide
 ## Purpose
 The Noah Bennett Photography Form is used to capture information related to photography sessions for both the client and the photography business.

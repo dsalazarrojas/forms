@@ -1,9 +1,3 @@
-<thinking>... Internal reasoning block to confirm form purpose and avoid duplication...
-
-The purpose of this form is to document government engagement activities, such as meetings, interactions, and policy alignment, to facilitate auditing and review processes. This form helps ensure consistency and accuracy in recording government engagement details, which is crucial for maintaining transparency and accountability within the organization. The form is designed to be completed by government auditors, who will gather information about government interactions, meetings, and policy alignment, and provide audit results and next steps for follow-up actions.
-
-</thinking>
-
 # Government Engagement Audit Form - Help Guide
 ## Purpose
 The Government Engagement Audit Form is designed to record and document government engagement activities, ensuring transparency and accountability within the organization.

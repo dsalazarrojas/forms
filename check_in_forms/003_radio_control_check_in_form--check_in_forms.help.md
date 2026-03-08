@@ -1,10 +1,3 @@
-<thinking> 
-This form is used for checking in participants for an event. It gathers information about the participant, such as their name, email, phone number, and additional notes. The form also asks about the participant's status and the status of the event. This is a critical component of the event management process, as it ensures that all necessary information is collected for the participant and the event.
-
-Checking if this form has already been completed by the participant can help prevent duplication of effort and ensure that the participant's information is up-to-date.
-
-</thinking>
-
 # radio_control_check_in_form - Help Guide
 ## Purpose
 

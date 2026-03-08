@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees at the Healthy Snacking Expo. This form will likely be used to gather details such as name, email, and dietary restrictions for attendees. It may also be used to gauge interest in specific sessions or workshops. To avoid duplication of effort, review the fields to ensure they are correctly completed, especially the session interests field where attendees can select multiple interests.
-
-This form is part of the conference registration process and is intended for attendees. Please ensure all necessary fields are completed accurately to receive any relevant updates or notifications from the conference organizers.
-</thinking>
-
 # Healthy Snacking Expo Registration - Help Guide
 ## Purpose
 The Healthy Snacking Expo Registration form is designed to collect attendee information and session interests for the event.

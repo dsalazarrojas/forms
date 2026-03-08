@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information for field trips, which can include school field trips, extracurricular activities, or any other trip that requires students' participation. The form is a general authorization form used to collect necessary details about students, parents, and vehicle information. It's meant to be completed by parents or guardians of students who are participating in a field trip. Each field has specific requirements, and some fields are optional. To avoid mistakes, please review each field carefully.</thinking>
-
 # Field Trip Transportation Authorization Form - Help Guide
 ## Purpose
 The Field Trip Transportation Authorization Form is a general authorization form used to collect necessary details about students and vehicle information for field trips.

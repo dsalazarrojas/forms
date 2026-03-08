@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contingency Plan Checklist - Help Guide
 ## Purpose
 The Contingency Plan Checklist is designed to guide your organization in identifying and preparing for potential emergency scenarios. The form helps ensure that you have a solid foundation in place to respond to and recover from emergency situations. Fill out this form to document your organization's progress in addressing critical areas and prepare for any unexpected events.

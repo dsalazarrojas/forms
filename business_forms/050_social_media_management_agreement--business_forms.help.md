@@ -1,7 +1,3 @@
-<thinking>
-The Social Media Management Agreement is a form used to outline the terms and conditions for managing a client's social media presence. This agreement ensures that both parties are on the same page and understand their roles and responsibilities regarding social media management. It's essential to use this form to prevent confusion and miscommunication. This form should not be filled out for testing purposes or as a placeholder; only fill it out for actual client agreements. 
-</thinking>
-
 # Social Media Management Agreement - Help Guide
 ## Purpose
 The Social Media Management Agreement is a contract that outlines the terms and conditions for managing a client's social media presence. This form ensures that both parties are on the same page and understand their roles and responsibilities.

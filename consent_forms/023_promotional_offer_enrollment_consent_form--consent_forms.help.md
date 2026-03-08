@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users don't submit duplicate forms. A promotional offer enrollment form is used to collect information from users who want to participate in promotional offers. This form should be used for users who are new to the system and don't have any existing forms in the system. Please review the form carefully before submitting it to ensure that you are providing accurate and relevant information.
-</thinking>
-
 # Promotional Offer Enrollment Consent Form - Help Guide
 ## Purpose
 This form is used to enroll users in promotional offers. It is meant for users who are new to the system and want to participate in offers. Please fill out the form carefully to ensure accurate and relevant information.

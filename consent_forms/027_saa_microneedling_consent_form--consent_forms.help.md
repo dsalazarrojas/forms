@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect patient's information and consent for microneedling procedures. Please ensure that this form is used only for microneedling procedures and not for other medical treatments or consultations. Also, make sure to review the form fields carefully to avoid duplication of questions that are not relevant to the patient's microneedling consent. For example, if you are collecting the date of birth field but it's not actually relevant to the microneedling procedure, you should remove it.
-</thinking>
-
 # SAA Microneedling Consent Form - Help Guide
 ## Purpose
 This form is used to collect a patient's information and consent for microneedling procedures.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to ensure that documents are properly formatted before being shared or published. This includes reviewing the page layout, style, and design to ensure consistency and correctness. The form also checks for branding consistency, document structure, and other visual elements such as font size, color, and image use. This form is likely used by content creators, editors, or proofreaders to ensure that their documents meet the required standards.
-</thinking>
-
 # Document Formatting Checklist - Help Guide
 ## Purpose
 The Document Formatting Checklist is a form used to review and ensure that documents are properly formatted before being shared or published. This form covers various aspects of document formatting, including page layout, style, and design.

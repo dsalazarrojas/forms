@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form called "Window Treatment Selection Survey" under the category "business_surveys". The form is designed to collect user preferences and requirements for window treatments, and it has multiple pages with various fields that ask for different types of information. The form has a mix of selection and text fields, with some fields being required and others optional. The purpose of this guide is to help users understand the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Window Treatment Selection Survey - Help Guide
 ## Purpose
 The Window Treatment Selection Survey is designed to collect user preferences and requirements for window treatments. This form will help us understand your needs and preferences regarding window treatments, which will aid us in providing better services.

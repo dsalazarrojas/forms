@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Database And Prospecting Audit Survey" form, which aims to assess the effectiveness of the database and prospecting process in a business. This form will help users understand their current database and prospecting strategy, identify areas for improvement, and make informed decisions for future growth. To use this form effectively, ensure that you have a clear understanding of your business's current processes and goals.
-
-</thinking>
-
 # Database And Prospecting Audit Survey - Help Guide
 ## Purpose
 This form is designed to help businesses evaluate the quality and effectiveness of their database and prospecting process. It will provide insights into the database's condition, data collection and quality, and other key performance indicators.

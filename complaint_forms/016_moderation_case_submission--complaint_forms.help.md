@@ -1,19 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "moderation_case_submission" form, I'll need to analyze the form's purpose, fields, and requirements. This form seems to be designed for submitting incident reports, including details about the incident, priority, status, and other relevant information. 
-
-The form should be used for:
-
-* Submitting incident reports for moderation review
-* Providing detailed information about the incident, including date, time, status, and description
-* Specifying incident priority and status
-* Identifying the case manager and incident reporter
-* Tracking follow-up details and status
-
-The form fields are mostly self-explanatory, but some may require additional guidance to ensure accurate and complete submission.
-
-</thinking>
-
 # moderation_case_submission - Help Guide
 ## Purpose
 The "moderation_case_submission" form is designed for submitting incident reports for moderation review. It helps track and manage incidents, including their priority, status, and follow-up details.

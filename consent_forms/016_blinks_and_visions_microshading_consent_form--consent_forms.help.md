@@ -1,7 +1,3 @@
-<thinking>
-We are creating a consent form for the microshading process, which is a cosmetic procedure where pigment is deposited into the epidermis of the skin to create a more intense color. The form is intended to gather essential information from clients, including their consent to undergo the procedure, potential risks and complications, permission to take before and after photos, and other relevant details. This form will help us ensure that clients are fully informed and aware of the process and potential outcomes. Please ensure that this form is relevant to your specific business needs and has not been duplicated for other forms.
-</thinking>
-
 # Blinks And Visions Microshading Consent Form - Help Guide
 ## Purpose
 The Blinks And Visions Microshading Consent Form is a document that gathers essential information from clients prior to undergoing the microshading procedure. The form helps to ensure that clients are informed and aware of the process and potential outcomes.

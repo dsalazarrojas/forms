@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather participant information and agreement to terms for career programs offered by organizations. This form is designed to ensure that participants understand the program's requirements, obligations, and expectations before committing to participation. The form is a legal and administrative requirement for program providers to ensure that participants are aware of their responsibilities and the program's expectations. 
-
-Before filling out the form, please ensure that the program you are participating in is the correct one, as the form will be specific to each program. Additionally, if you have filled out this form previously, please do not fill it out again, as your previous responses will not be affected.
-
-</thinking>
-
 # Career Program Participation Agreement Form - Help Guide
 ## Purpose
 This form is used to gather information and agreement from participants in career programs offered by organizations. It ensures that participants understand the program's requirements, obligations, and expectations before committing to participation.

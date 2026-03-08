@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners about their pet brand loyalty. The purpose of this form is to gather data on how pet owners interact with brands, including their brand awareness, purchase frequency, satisfaction level, and contact history. This information will help brands understand their customers' behavior and preferences, ultimately informing marketing strategies.
-This form is meant to be completed by pet owners, and the data collected will be used internally. The form will be used to identify patterns and trends in pet owner behavior, ensuring that the data is relevant and not duplicated.
-</thinking>
-
 # Pet Brand Loyalty Study Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your interactions with pet brands. Your input will help us better understand how pet owners like you interact with our brand.

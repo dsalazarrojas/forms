@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the operational readiness of a system, process, or project. It is designed to collect data on various aspects of operational readiness, including questions and answers, prophets, and other relevant information. This form is likely used in a business or organizational context to gauge the current state of operational readiness. Please note that this form seems to be a duplicate or variation of a similar form, and it's essential to ensure that the same questions and questions are not being asked multiple times.
-</thinking>
-
 # operational_readiness_assessment_template - Help Guide
 ## Purpose
 The operational readiness assessment template is a tool used to evaluate the current state of operational readiness of a system, process, or project.

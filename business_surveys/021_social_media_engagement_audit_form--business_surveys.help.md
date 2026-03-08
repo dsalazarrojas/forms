@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for evaluating and auditing social media engagement metrics. It's likely used by marketing or social media teams to assess and categorize social media platforms, accounts, or campaigns. This form should not be used for general employee data collection or for creating new social media accounts. It's also not intended to be used for tracking website analytics or website traffic metrics.
-</thinking>
-
 # Social Media Engagement Audit Form - Help Guide
 ## Purpose
 This form is designed to help you track and analyze social media engagement metrics for your company or organization. You can use it to evaluate and prioritize social media platforms, accounts, or campaigns.

@@ -1,5 +1,3 @@
-<thinking>As a coaching subscription form, this form is designed to collect information from individuals seeking coaching services. The form is intended to be completed by clients who wish to subscribe to a coaching program, specifying their personal goals, preferred coaching preferences, and payment details. This form should only be completed by individuals who are interested in subscribing to a coaching program; do not complete this form if you are not seeking coaching services.</thinking>
-
 # Coaching Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking coaching services. It is intended for those who wish to subscribe to a coaching program, specifying their personal goals, preferred coaching preferences, and payment details.

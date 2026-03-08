@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording information related to equipment inspections, issues, and maintenance. It is likely used by maintenance personnel to track and report on equipment conditions, issues, and resolution statuses. The form should only be used for recording issues that have occurred or are occurring on equipment, and not for general equipment maintenance scheduling or tracking. It is possible that this form is part of a larger system for tracking and managing equipment, but without additional context, it's best to follow the provided instructions and guidelines for use.
-</thinking>
-
 # Gear Check Form - Help Guide
 ## Purpose
 The Gear Check Form is used to report and record information about equipment issues, inspections, and maintenance activities.

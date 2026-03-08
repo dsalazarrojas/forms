@@ -1,17 +1,3 @@
-<thinking>
-This form is used to gather information for each client's check-in process at the counseling center. The form is designed to ensure that all necessary details are captured, such as client and provider information, session context, and notes. This form likely helps the counseling center to efficiently manage client sessions and maintain accurate records. It's crucial to ensure that each field is filled out correctly and that the client and provider information is accurate, as this will affect the quality of care provided.
-
-Before starting, please review the form carefully and ensure that you have all the necessary information to complete it. If you are unsure about any field, consult with your supervisor or the center's management.
-
-To complete this form, you will need to navigate through the following pages:
-1. Client Check In: This page requires your name and other client details.
-2. Client Information: This page collects more specific client information such as email address, phone number, and client type.
-3. Session Information: This page captures details about the session, such as session length, type, and status.
-4. Session Comments and Signature: This page captures any additional comments or signature information from the client or provider.
-
-Please review each field carefully and ensure that you fill out all the required fields accurately.
-</thinking>
-
 # Counseling Center Client Check In Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for each client's check-in process at the counseling center.

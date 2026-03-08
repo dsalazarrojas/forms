@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a product or service, which will be used to improve and refine the prototype during the testing phase. The feedback collected will help identify areas of improvement and ensure that the product meets the user's needs and expectations. This form is intended for internal use, and the feedback will be reviewed by the development team to make data-driven decisions about the product. Please note that the form is for testing purposes only, and any data collected will be kept confidential and not shared with any external parties.
-</thinking>
-
 # Prototype Testing Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experience with a product or service. The feedback is used to improve and refine the prototype during the testing phase.

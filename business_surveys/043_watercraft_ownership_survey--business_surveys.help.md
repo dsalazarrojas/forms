@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their watercraft ownership status. The goal is to gather general information about watercraft types, ownership details, usage patterns, insurance coverage, and maintenance activities. To ensure accuracy, please fill out the form with the most up-to-date and relevant information possible. If you're not sure about any of the questions, please provide an estimate or description to the best of your ability. This form is meant for personal use only, and all responses will be kept confidential. Please note that if you're experiencing technical issues or need assistance with this form, contact us at form@gic.mx.
-</thinking>
-
 # Watercraft Ownership Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your watercraft ownership status, helping us understand your relationship with your vehicle.

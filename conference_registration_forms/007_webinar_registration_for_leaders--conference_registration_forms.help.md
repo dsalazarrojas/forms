@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for attendees to register for a webinar, a virtual event where experts or speakers share knowledge and information on a specific topic. The purpose of this form is to collect essential information from attendees, such as their names, emails, phone numbers, and other relevant details, to facilitate the webinar experience and ensure that attendees can access the webinar smoothly.
-
-The form is divided into several sections, each focusing on a specific aspect of the attendee's information. We will go through the form step by step to provide clarity on what information is required and how to complete it correctly.
-
-Please note that some fields are required while others are optional. Required fields are marked with a star (*) symbol. If you have any doubts or questions, please feel free to reach out to us.
-
-</thinking>
-
 # Webinar Registration For Leaders - Help Guide
 ## Purpose
 The Webinar Registration For Leaders form is designed for webinar attendees to register for a virtual event. 

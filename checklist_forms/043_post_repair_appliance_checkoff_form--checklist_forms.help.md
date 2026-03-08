@@ -1,9 +1,3 @@
-<thinking>
-This form is a Post Repair Appliance Checkoff Form. Its primary purpose is to gather information about a specific appliance repair job. The form is used to collect details about the appliance type, make and model, serial number, repair date, list of items checked off after the repair, and the signatures of both the customer and the technician. 
-The form's design aims to streamline the process of documenting post-repair information, ensuring that all necessary details are captured accurately and efficiently.
-
-</thinking>
-
 # Post Repair Appliance Checkoff Form - Help Guide
 ## Purpose
 This form is designed to collect information after an appliance repair job is completed. It helps to ensure that all necessary details are captured accurately and efficiently.

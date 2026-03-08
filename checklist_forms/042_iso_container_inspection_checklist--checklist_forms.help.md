@@ -1,14 +1,3 @@
-<thinking> 
-To create a user-facing help guide for this form, I will consider the following internal reasoning: 
-
-* The form is used for inspection purposes, likely for inventory management or shipping purposes.
-* The form has a mix of required and optional fields, indicating that some information is crucial for the purpose of the form.
-* The form requires a specific shipping method, multiple warehouses for shipping from and shipping to, and a date of completion, indicating that it's used for shipping-related tasks.
-* Some fields are optional, suggesting that users may have additional information to provide but it's not required.
-* The form includes various contact information fields for both shipping from and shipping to entities.
-
-</thinking>
-
 # iso_container_inspection_checklist - Help Guide
 ## Purpose
 

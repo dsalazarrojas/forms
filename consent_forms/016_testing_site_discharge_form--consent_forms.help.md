@@ -1,9 +1,3 @@
-<thinking>
-This form is used to facilitate the discharge process for a testing site, ensuring all necessary information is collected and verified before releasing the patient. The form is designed for use in medical settings, specifically in hospitals or clinics.
-The form should only be used for patient discharges where testing was conducted, and not for other purposes.
-Please ensure the form is not used for duplicate submissions or redundant discharges.
-</thinking>
-
 # Testing Site Discharge Form - Help Guide
 ## Purpose
 The Testing Site Discharge Form is used to collect and verify information required for the discharge process of a patient after testing has been conducted. This form ensures that all necessary details are collected and documented before releasing the patient.

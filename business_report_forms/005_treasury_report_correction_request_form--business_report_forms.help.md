@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow users to request corrections to treasury reports. This form is used to correct errors or discrepancies found in treasury reports, and the user will need to provide details and reasons for the correction. It's essential to fill out this form accurately and completely to ensure that the correction request is processed efficiently.
 
 ## Treasury Report Correction Request Form - Help Guide

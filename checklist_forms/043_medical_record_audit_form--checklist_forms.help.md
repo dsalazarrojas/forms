@@ -1,14 +1,3 @@
-<thinking>
-The medical record audit form is a tool used to assess the accuracy and completeness of a patient's medical record. This form helps auditors review and verify the information contained within the record, ensuring that it aligns with established standards and guidelines. The form is used to identify any errors or discrepancies in the record, and to document the findings of the audit. It is essential to complete this form accurately and thoroughly to maintain the integrity of the patient's medical history.
-
-To determine if this form is relevant to your needs, consider the following:
-
-* If you are responsible for reviewing and maintaining patient medical records, this form may be useful for you.
-* If you are looking to assess the accuracy and completeness of a patient's medical record, this form provides a structured format for doing so.
-* If you have completed this form previously, it may be helpful to review the explanations below to ensure you understand its purpose and usage.
-
-</thinking>
-
 # Medical Record Audit Form - Help Guide
 ## Purpose
 The Medical Record Audit Form is designed to help auditors review and verify the information contained within a patient's medical record. It ensures that the record is accurate and complete, and identifies any errors or discrepancies.

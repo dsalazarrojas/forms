@@ -1,14 +1,3 @@
-<thinking>
-
-To determine if this form is suitable for your needs, check if you are:
-* A team or department that needs to send messages to employees or internal teams
-* Responsible for creating and managing internal messaging programs within your company
-* Looking to ensure compliance with company policies on sensitive data and opt-out mechanisms
-
-Please note that this form helps the 10DLC team assess and approve your internal messaging program, ensuring it meets company standards and guidelines. Duplicate or incomplete submissions might lead to delays in the approval process.
-
-</thinking>
-
 # 10DLC Internal Messaging Registration Form - Help Guide
 ## Purpose
 This form is used to help the 10DLC team evaluate and approve internal messaging programs within your company. The form gathers details about the program's purpose, scope, and compliance with company policies.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to evaluate the delivery personnel's performance, specifically their punctuality, professionalism, communication skills, overall delivery satisfaction, and other relevant aspects. It's likely used by management or HR personnel to assess the delivery personnel's efficiency and effectiveness in their job. To avoid duplication and ensure accurate data, it's essential to review and update the form regularly to ensure it aligns with the company's current needs and policies. 
-
-</thinking>
-
 # Delivery Personnel Evaluation - Help Guide
 ## Purpose
 The "Delivery Personnel Evaluation" form is used to assess the performance of delivery personnel in several key areas. This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.

@@ -1,5 +1,3 @@
-<thinking>Before diving into the user-facing help guide, let's quickly review the form's purpose and required fields. The form is called "Student Post Exam Feedback Check In Form" and its purpose is to gather feedback and information from students after an exam. The form appears to be focused on capturing details about the student's performance, feedback, and next steps. From a quick review of the YAML, it seems that the form is required to collect student information such as name, email, phone, and department, as well as teacher information including name, email, phone, department, school name, subject, course, and section. This form is likely used for administrative purposes in an educational setting. We should aim to make this guide clear and concise for end-users.</thinking>
-
 # Student Post Exam Feedback Check In Form - Help Guide
 ## Purpose
 This form is used to gather feedback and information from students after an exam. It is designed to capture details about the student's performance, feedback, and next steps.

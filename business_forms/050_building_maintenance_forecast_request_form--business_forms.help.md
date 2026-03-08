@@ -1,9 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and relevance. This form, "Building Maintenance Forecast Request Form," appears to be designed for building maintenance and property management teams to gather information about a building's maintenance needs. The form collects data on the building's characteristics, maintenance history, and forecast requirements. It is essential to ensure that the form is filled out accurately and completely to provide a comprehensive understanding of the building's needs.
-
-The form seems to cover various aspects of building maintenance, including its type, size, age, and maintenance history. It also asks for information on the building's maintenance budget, priority areas, and forecast scope. The purpose of this form is likely to help maintenance teams prepare and provide accurate forecasts for the building's maintenance and repair needs.
-
-To avoid duplication of effort and unnecessary work, it is crucial to ensure that the form is filled out accurately and completely before sending it for review. Therefore, it's essential to provide a clear and concise help guide that explains each field's purpose and requirements.</thinking>
-
 # Building Maintenance Forecast Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about a building's maintenance needs to prepare accurate forecasts for maintenance and repair activities. Please fill out the form thoroughly and accurately to help us understand your building's needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with AI Growth System. It's intended for internal use within the company to gauge user satisfaction, identify areas of improvement, and inform future development and support decisions. Please ensure that you're providing feedback about your actual experience with AI Growth System, not hypothetical or hypothetical scenarios. If you've already filled out a similar form, you might want to skip this one or provide an update to your previous submission.
-</thinking>
-
 # AI Growth System Feedback - Help Guide
 ## Purpose
 

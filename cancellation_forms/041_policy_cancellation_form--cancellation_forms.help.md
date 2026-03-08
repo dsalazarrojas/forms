@@ -1,8 +1,3 @@
-<thinking>
-This form is used to process policy cancellations from customers.
-To ensure that the form is used correctly, please only fill it out if your policy has been cancelled and not if it's being cancelled or suspended. To avoid duplication of effort, please do not submit this form if the cancellation has already been processed through another channel.
-</thinking>
-
 # Policy Cancellation Form - Help Guide
 ## Purpose
 The Policy Cancellation Form is used to inform us of policy cancellations. This allows us to update our systems and ensure that you receive the most up-to-date information about your policy.

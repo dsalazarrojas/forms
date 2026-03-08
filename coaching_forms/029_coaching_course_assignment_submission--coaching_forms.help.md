@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm creating this help guide to support users in completing the "Coaching Course Assignment Submission" form. This form is designed for students to submit their assignments and course work, and the fields are carefully crafted to gather necessary information. Before starting, please ensure that this is the correct form and not a duplicate submission. If you're unsure, double-check with your instructor or check the course guidelines.</thinking>
-
 # Coaching Course Assignment Submission - Help Guide
 ## Purpose
 

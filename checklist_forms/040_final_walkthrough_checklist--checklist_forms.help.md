@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to conduct a final walkthrough of a building's systems before completion. It's likely to be used by a facilities management team to verify that all necessary systems have been installed and are functioning correctly. This form is likely to be completed by a team member or building owner. The fields in this form are designed to collect data on various building systems, including electrical, plumbing, heating, and cooling. The form should only be completed when all systems have been installed and are operational. 
-</thinking>
-
 # Final Walkthrough Checklist - Help Guide
 ## Purpose
 This form is used to verify that all building systems are functioning correctly before completion of the building.

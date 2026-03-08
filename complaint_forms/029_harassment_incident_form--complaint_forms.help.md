@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the Harassment Incident Form. The form is designed to collect information about incidents of harassment that occur within the workplace. The purpose of this form is to provide a systematic approach to documenting and addressing such incidents, ensuring that they are handled promptly and in accordance with company policies.
-
-The form has multiple pages, each with its own set of fields. To complete the form, you will need to navigate through each page and fill out the required fields. The fields are designed to be self-explanatory, but I will provide further clarification where necessary.
-
-</thinking>
-
 # Harassment Incident Form - Help Guide
 ## Purpose
 

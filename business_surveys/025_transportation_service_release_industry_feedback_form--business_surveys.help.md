@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from internal teams and external partners about the current service release status, satisfaction levels, and areas for improvement. The form is designed to be completed by individuals who have interacted with the transportation service release, and the feedback will help the service providers refine their release processes and improve the overall quality of their services.
-</thinking>
-
 # Transportation Service Release Industry Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from internal teams and external partners about the current service release status, satisfaction levels, and areas for improvement. The form will help service providers refine their release processes and improve the overall quality of their services.

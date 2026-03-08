@@ -1,7 +1,3 @@
-<thinking>
-To prevent data inconsistency and ensure accurate claims processing, please only complete this form if you are a member of our organization's Community Paramedicine team. This form is not intended for external parties. If you are an external claimant, please refer to our external claims process.
-</thinking>
-
 # Community Paramedicine Reimbursement Request Form - Help Guide
 ## Purpose
 This form is used to request reimbursement for expenses incurred by Community Paramedicine team members while performing their duties. The completed form will be reviewed and processed for approval.

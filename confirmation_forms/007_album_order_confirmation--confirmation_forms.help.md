@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information and confirmation from customers regarding their album order details. The form is designed to ensure accurate and clear communication between the customer and the production team. By filling out this form, customers can review and approve their order details, including album style, size, color, and page layout, before proceeding with production.
-
-To prevent duplication and ensure that orders are thoroughly reviewed, this form is only to be used after the production team has already created a digital mockup of the album.
-</thinking>
-
 # Album Order Confirmation - Help Guide
 ## Purpose
 The Album Order Confirmation form is used to collect information and confirmation from customers regarding their album order details. 

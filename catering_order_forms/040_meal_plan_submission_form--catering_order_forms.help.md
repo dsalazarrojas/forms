@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to provide a clear and concise explanation of the Meal Plan Submission Form, ensuring that users understand its purpose and how to complete it effectively. This guide will cover the form's purpose, the step-by-step process of filling it out, and a detailed explanation of each field. By following this guide, users can ensure they are providing accurate and relevant information for the meal plan submission.
-
-</thinking>
-
 # Meal Plan Submission Form - Help Guide
 ## Purpose
 The Meal Plan Submission Form is a tool used to collect information about a client's meal plan preferences, dietary restrictions, and allergies. This form is essential for catering businesses to understand the client's needs and requirements accurately and provide an exceptional dining experience.

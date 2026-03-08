@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed for users to grant permission to an organization to share their data, photo, video, text, or audio content on various social media platforms. The form is intended to ensure that users understand how their content will be shared and to give them control over the type of content they allow to be shared. This form is not intended to be used as a substitute for informed consent, but rather as an example or a template to be modified and used by your organization. Please note that the form has been generated using AI and may require modification to fit your specific needs.
 
 # Social Media Permission Slip Form - Help Guide

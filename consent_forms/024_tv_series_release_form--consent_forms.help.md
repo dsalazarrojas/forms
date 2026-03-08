@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to be used for obtaining TV Series Release Forms from participants, which are crucial for ensuring that all individuals involved in the production of a TV Series have given their consent to be part of it. This form helps in maintaining transparency and fairness among participants, as well as for the producers of the TV Series. It should not be used for general contact information or other purposes. Please ensure that participants do not fill out the form more than once to avoid confusion and redundancy.
-</thinking>
-
 # TV Series Release Form - Help Guide
 ## Purpose
 This form is used for obtaining consent from participants of a TV Series. It ensures that all involved individuals have given their consent to be part of the production.

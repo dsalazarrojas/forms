@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for dental medical claims. The form is used to gather data from patients or claimants to process and manage dental medical claims. This form is likely used by healthcare providers or insurance companies to receive and review claims for reimbursement or other purposes. To ensure accurate and complete information, please review the form carefully before submitting it.
-
-Before starting, ensure that you have all the necessary information and that the form is not being duplicated. If you are unsure, please contact the relevant authorities or healthcare provider for clarification.
-
-</thinking>
 # Dental Medical Claim Form - Help Guide
 ## Purpose
 The Dental Medical Claim Form is used to collect information for dental medical claims.

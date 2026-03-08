@@ -1,12 +1,3 @@
-<thinking>
-We are creating a guide for an "Inventory Turnover Report Form" designed for business users. This guide will explain the form's purpose, how to fill it out, and each field's meaning.
-
-This form is used to create and submit reports on inventory turnover, which is crucial for businesses to track and analyze their stock levels and trends over time. The form will gather information on inventory levels, costs, and dates to help businesses understand their inventory turnover rates.
-
-We will ensure that this guide is clear, concise, and easy to understand for non-technical business users.
-
-</thinking>
-
 # Inventory Turnover Report Form - Help Guide
 ## Purpose
 The Inventory Turnover Report Form is designed to help businesses track and analyze their inventory levels, costs, and turnover rates over time. This form will aid in creating reports for inventory analysis and decision-making.

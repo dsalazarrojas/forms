@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain reallocation consent from users for parking spaces within a parking lot. The purpose of this form is to gather information about a specific parking space and the user's consent to reallocate it to another user. This form will typically be used when a parking space needs to be reassigned due to various reasons such as employee move, vehicle change, or other administrative reasons. The form will ask for user consent and additional details about the parking space to be reallocated. Please ensure that you have the authority to fill out this form and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Parking Space Reallocation Consent Form - Help Guide
 ## Purpose
 This form is used to obtain reallocation consent from users for parking spaces within a parking lot.

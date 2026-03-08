@@ -1,7 +1,3 @@
-<thinking>
-A 360 Panorama Shooting Checklist is used to collect and verify important information about the 360-degree panorama shoot. The form is meant for photographers and project managers to ensure they capture all necessary details about the shoot, from project and contact information to equipment settings and environmental conditions. This form serves as a standardization and consistency check for capturing all relevant data in a structured and organized way, preventing misunderstandings and miscommunication between team members. By completing this form, photographers and project managers can provide a clear and accurate report of the shoot, facilitating post-processing and delivery of the final product.
-</thinking>
-
 # 360 Panorama Shooting Checklist - Help Guide
 ## Purpose
 The 360 Panorama Shooting Checklist is a form used to collect and record essential information about the 360-degree panorama shoot. This form helps ensure that all relevant details are captured and documented for post-processing and delivery.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to assess the quality of care provided to children by clinicians in a healthcare setting. This form is meant to gather information on the experience of both the child and their parent/guardian. The purpose of this form is to ensure that the clinician is providing the best possible experience for both the child and their family. This form is likely to be used by healthcare professionals to evaluate and improve their practice.
-
-</thinking>
-
 # CAHPS Clinician and Group Survey Version 3.0 (Child) - Help Guide
 ## Purpose
 The purpose of this form is to assess the quality of care provided to children by clinicians in a healthcare setting, ensuring that the clinician is providing the best possible experience for both the child and their family.

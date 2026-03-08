@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to guide the student through the process of submitting an insurance claim after an accident or injury. The form will help students to report their accident and provide relevant information about the incident. 
-
-The form has 8 pages with different sections, each with specific fields to be completed. 
-
-Before filling out the form, please review the fields below to ensure a smooth and accurate submission.
-</thinking>
-
 # Student Insurance Claim Form - Help Guide
 ## Purpose
 The Student Insurance Claim Form is a document used to report accidents or injuries that occurred during a student's academic activities, such as while on campus or traveling for academic purposes. 

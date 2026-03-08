@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about financial controls, including risk assessment, audit history, and follow-up planning. This form is used to ensure that the company's financial controls are functioning correctly and identifying any potential risks or issues. The form is divided into several sections, each designed to collect specific information about financial controls. 
-
-Before filling out this form, please make sure you are authorized to access and modify financial control data. 
-
-This form is a crucial tool for financial control management, and its completion will help the organization maintain and improve the effectiveness of its financial controls. 
-
-When completing this form, please ensure that you have access to the relevant information and data to provide accurate and comprehensive answers. 
-
-This form does not require submission to the management for approval before use, however it's recommended to use it as part of your regular risk assessment and control review process. 
-
-Please note that some fields are optional and you should only fill those fields that are relevant to your specific control.
-
-Please ensure that all fields are filled out correctly and consistently with the company's financial control policies and procedures.
-
-You are responsible for the accuracy of the information you enter in this form.
-
-</thinking>
 # Financial Controls Audit Form - Help Guide
 ## Purpose
 The Financial Controls Audit Form is a tool used to collect and record information about financial controls, their status, and the follow-up planning process.

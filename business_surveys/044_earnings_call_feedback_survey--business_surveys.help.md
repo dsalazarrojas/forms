@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, the purpose of this Earnings Call Feedback Survey form is to collect feedback on company-specific earnings calls. The form aims to help users evaluate the performance of companies such as Apple, Google, Amazon, and others, providing a platform for users to share their thoughts on various aspects of the earnings call, including engagement level, communication level, presentation level, and overall impact. The form's purpose is to facilitate a comprehensive analysis of the call's effectiveness and areas for improvement. To ensure relevance and non-duplication, users should only submit their feedback once for each company.</thinking>
-
 # Earnings Call Feedback Survey - Help Guide
 ## Purpose
 The Earnings Call Feedback Survey is designed to collect feedback on company-specific earnings calls. It's a tool to help analyze the performance of companies such as Apple, Google, Amazon, and others.

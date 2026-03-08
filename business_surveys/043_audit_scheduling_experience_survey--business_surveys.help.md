@@ -1,20 +1,3 @@
-<thinking>
-To ensure this form is filled out by the intended audience and to prevent duplication of effort, let's consider the following:
-
-The "Audit Scheduling Experience Survey" is a crucial tool for collecting feedback on the effectiveness of the audit scheduling process in an organization. This form is designed to gauge the respondent's experience with scheduling audits, focusing on various aspects such as ease, timeline, communication, and overall satisfaction.
-
-Before proceeding, please note that this form is intended for individuals who have participated in or been involved in the audit process. It is not meant for external stakeholders or individuals who have not been directly involved.
-
-To determine whether this form is relevant to you, consider the following questions:
-
-* Have you participated in or been involved in an audit process in the past?
-* Are you familiar with the audit scheduling process and procedures?
-
-If you have answered "yes" to these questions, then this form is likely relevant to you. If not, please do not proceed.
-
-This form has 19 fields, divided into two pages. Each field is described below.
-</thinking>
-
 # Audit Scheduling Experience Survey - Help Guide
 ## Purpose
 The "Audit Scheduling Experience Survey" is designed to collect feedback on the effectiveness of the audit scheduling process. It aims to identify areas of improvement and gauge overall satisfaction with scheduling.

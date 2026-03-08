@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first break down the form's purpose and requirements in my mind...</thinking>
-
 # Social Impact Mentor Application Form - Help Guide
 ## Purpose
 The Social Impact Mentor Application Form is designed for individuals who want to apply to become a mentor in a social impact program. The form is used to collect information about the applicant's background, experience, and skills, as well as their availability and commitment to mentoring. The goal of this form is to ensure that the applicant understands the program's expectations and requirements before applying.

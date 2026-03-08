@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to process unemployment claims. The form collects contact information and employment details for the claimant, including their contact information, work history, and claimant details. This form is likely to be used by employees who are filing for unemployment benefits after being laid off or quitting their job. The form is designed to capture all necessary information to facilitate the processing of the claim. Please ensure the correct completion of all fields to avoid delays in processing.</thinking>
-
 # Unemployment Claim Form - Help Guide
 ## Purpose
 The Unemployment Claim Form is a tool used to process unemployment claims for individuals who have been laid off or quit their job.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect metabolic calculation data from clients, which is likely used for health and wellness, athletic performance, or medical research purposes. The form is divided into sections that cover various aspects of a client's physical condition, behavior, and lifestyle. The form's purpose is to gather detailed information about the client, including demographic and medical history, exercise habits, and health metrics.
-
-Before filling out this form, make sure you have all the necessary information about the client. This form should not be filled out for multiple clients simultaneously; each client should have their own unique form.
-
-Some sections of the form may have multiple options or selections, such as exercise frequency or intensity. Choose the one that best fits the client's situation.
-
-</thinking>
-
 # Metabolic Calculation Data Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a client's physical condition, behavior, and lifestyle for metabolic calculation purposes.

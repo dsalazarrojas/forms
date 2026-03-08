@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for businesses and organizations to register their compliance intentions with our organization. It is a critical step in our process to ensure that we understand your needs and requirements for our compliance services. Please note that this form will help us gather essential information to provide you with accurate quotes, guidance, and support. We review this form carefully, and it is a requirement for our services.
-
-We will review this form to ensure that you understand the terms and conditions of our services, including the accuracy of the information provided and your commitment to achieving compliance. We will also use this form to identify potential challenges and areas of focus for our support and guidance.
-
-Please answer all questions truthfully and accurately. If you are unsure about any question, please provide additional comments or explanations.
-
-</thinking>
-
 # Compliance Intent Form - Help Guide
 ## Purpose
 The Compliance Intent Form is a mandatory form that gathers essential information about your compliance intentions and needs. This form will help us provide you with accurate quotes, guidance, and support to ensure your compliance requirements are met.

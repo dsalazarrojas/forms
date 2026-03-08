@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soccer Camp Waiver Form - Help Guide
 ## Purpose
 The Soccer Camp Waiver Form is designed to collect information from participants to ensure their safety and well-being during the soccer camp. This form is used to gather essential details such as contact information, medical history, and consent for medical treatment in case of an emergency.

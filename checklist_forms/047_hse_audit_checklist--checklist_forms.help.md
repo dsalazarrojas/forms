@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to conduct a comprehensive health, safety, and environment (HSE) audit, which is a systematic evaluation of the work environment, safety procedures, and employee competence and training. The form is intended to assess the current state of the workplace and identify areas that require improvement. It is crucial to complete the form accurately and honestly to ensure the effectiveness of the audit.
-
-The purpose of this audit is to:
-
-- Evaluate the overall safety and environmental performance of the organization
-- Identify potential hazards and risks
-- Review and improve work procedures and equipment
-- Monitor employee competence and training
-- Identify areas for improvement and create an action plan
-
-This guide will walk you through the process of completing the HSE Audit Checklist, which consists of 25 pages. Each page has a specific section or field that needs to be completed. Please follow the instructions below to complete the form.
-
-</thinking>
-
 # HSE Audit Checklist - Help Guide
 ## Purpose
 The HSE Audit Checklist is a comprehensive evaluation of the work environment, safety procedures, and employee competence and training. This audit is designed to assess the overall safety and environmental performance of the organization.

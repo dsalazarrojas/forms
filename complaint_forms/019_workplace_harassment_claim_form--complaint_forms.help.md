@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is for reporting workplace harassment claims. The purpose of this form is to collect information from employees who have experienced or witnessed harassment in the workplace. To use this form effectively, please ensure that you are only submitting new claims that you have not already reported. If you have previously submitted a report, please do not re-submit a report with updated information. This form will guide you through the steps to submit a new claim.
-</thinking>
-
 # Workplace Harassment Claim Form - Help Guide
 ## Purpose
 This form is used to submit a workplace harassment claim. Please provide all necessary information to help us investigate and resolve the issue.

@@ -1,15 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect information from users regarding their digital signature storage consent. It is intended to be used by organizations or entities that wish to store digital signatures, such as e-signatures or digital documents, on behalf of their users. The form is meant to be a straightforward and easy-to-understand way of obtaining consent for digital signature storage. 
-
-The form's purpose is to collect user consent for the storage of their digital signatures, providing an understanding of where and how their signatures will be stored, and for how long. 
-
-This form is not affiliated, endorsed, or derived from any form platform, but rather an original creation using AI. It is released under a Creative Commons license (CC BY 4.0), allowing users to modify and reuse the form as needed. 
-
-The form's sections and fields are designed to be easily understandable and follow a logical structure for user completion.
-
-</thinking>
-
 # Digital Signature Storage Consent Form - Help Guide
 
 ## Purpose

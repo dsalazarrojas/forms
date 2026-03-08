@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed to collect information from agricultural professionals about their record keeping practices. The form aims to gather insights into how farmers and farm managers keep records, their challenges, and preferences for record keeping tools and training. This information will help agricultural organizations and policymakers understand the needs and pain points of their constituents, inform development of more effective record keeping solutions, and support data-driven decision making.
 
 </thinking>

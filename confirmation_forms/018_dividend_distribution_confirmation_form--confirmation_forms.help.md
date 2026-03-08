@@ -1,11 +1,3 @@
-<thinking>
-To confirm the details of a dividend distribution, this form is used to record the key aspects of the process. The form is designed to collect information about the distribution date, amount, and method of confirmation, as well as details about the shareholder involved. This form is intended for use by personnel responsible for managing dividend distributions within an organization.
-
-It is crucial to complete this form accurately and thoroughly to ensure that all necessary details are recorded correctly. The form is not intended for public use, so please do not share it with anyone outside the organization.
-
-This form should not be used for other purposes or to collect irrelevant information. Ensure that you only provide information related to the confirmation of dividend distributions.
-</thinking>
-
 # dividend_distribution_confirmation_form - Help Guide
 ## Purpose
 This form is used to record the details of a dividend distribution, including the distribution date, amount, distribution method, and shareholder information.

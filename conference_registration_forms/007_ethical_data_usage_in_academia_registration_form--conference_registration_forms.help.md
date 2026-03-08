@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for this form, I'll first analyze the form's purpose, which seems to be for registering individuals from academia (universities) to use data ethically. The form likely aims to collect information about the registrants, their roles, and their agreements to data policies and guidelines. To ensure the form's purpose is clear, let's assume the form will be used by university staff and students to register and agree to the institution's data policies and guidelines.
-</thinking>
-
 # Ethical Data Usage In Academia Registration Form - Help Guide
 ## Purpose
 

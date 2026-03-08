@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and consistently across all stores, it's essential to clearly document its purpose and usage guidelines. This Retail Compliance Assessment Form is designed to gather information about store compliance with specific standards and regulations. The form's purpose is to assess the level of adherence to these standards by individual stores within a region. To maintain consistency and accuracy, it's crucial to avoid duplicating efforts and to follow the guidelines outlined in this help guide.
-</thinking>
-
 # Retail Compliance Assessment Form - Help Guide
 ## Purpose
 The Retail Compliance Assessment Form is used to evaluate the compliance of stores within a region with specific standards and regulations. It helps ensure that stores are meeting the required guidelines and standards.

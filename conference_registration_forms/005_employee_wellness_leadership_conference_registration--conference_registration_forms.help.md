@@ -1,5 +1,3 @@
-<thinking>This form is designed to help employees register for the Employee Wellness Leadership Conference. Before proceeding, please ensure you are eligible to attend and have not already registered. If you have any questions or concerns, contact us at form@gic.mx. The form is divided into three sections: Conference Details, Attendee Preferences, and Session Choices. Each section is designed to collect specific information from you, and we'll explain each field in detail below.</thinking>
-
 # Employee Wellness Leadership Conference Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees who wish to attend the Employee Wellness Leadership Conference.

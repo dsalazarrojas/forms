@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect complaints from users regarding investment services provided by the company. It's essential to ensure that each complaint is thoroughly and accurately documented to facilitate a swift and effective resolution. To avoid duplication of effort, please verify that you've not already submitted a complaint for this issue. If you're unsure, you can review your past complaints or contact the support team for assistance.
-</thinking>
-
 # investment_service_complaint_form_title - Help Guide
 ## Purpose
 This form is for users to submit complaints about the investment services provided by the company. Your feedback is crucial in helping us identify and resolve any issues.

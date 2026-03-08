@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Checklist - Help Guide
 ## Purpose
 The Christmas Checklist is a form designed to help you plan and prepare for the holiday season. It's meant to be a helpful guide to ensure you don't forget any important tasks and make the most of your holiday celebrations. This form will walk you through the different sections and tasks to complete, from planning and preparation to shopping, decorating, and enjoying time with loved ones.

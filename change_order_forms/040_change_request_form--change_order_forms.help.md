@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for changes to projects or systems. It is used to create and track change requests, which are essential for managing and implementing updates, enhancements, or fixes to ensure the smooth operation of projects or systems. This form is a crucial tool for project managers, team leads, and stakeholders to collaborate and keep track of proposed changes, their urgency, and the resources required for implementation.
-The form is designed to be filled out by requesters who want to propose a change and by approvers who need to evaluate and approve or reject the proposals. The information collected through this form will help identify potential risks, estimate the effort required for implementation, and determine the priority level of the changes.
-To avoid duplication, please ensure that you're not submitting a change request for an already existing change. If you're unsure, contact your project manager or team lead.
-</thinking>
-
 # Change Request Form - Help Guide
 ## Purpose
 The Change Request Form is a tool for project managers, team leads, and stakeholders to collaborate on and track proposed changes to projects or systems.

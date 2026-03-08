@@ -1,7 +1,3 @@
-<thinking>
-The Manager Survey form is designed to gather information from managers in a company, likely for performance evaluation, feedback, or other managerial purposes. This form should only be used for managerial purposes and not for general employee feedback. Ensure that you have read the form instructions carefully before submitting your responses, as it is essential to understand each field's purpose and how it contributes to the overall survey. Before proceeding, please review this guide to ensure you understand the form's requirements and what each field entails. If you are unsure about any field, please do not hesitate to ask for clarification.
-</thinking>
-
 # Manager Survey - Help Guide
 ## Purpose
 The Manager Survey form is designed to gather information from managers in a company, likely for performance evaluation, feedback, or other managerial purposes.

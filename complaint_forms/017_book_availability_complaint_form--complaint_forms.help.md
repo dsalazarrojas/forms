@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers about book availability complaints or issues. It's crucial to ensure that the submitted data is accurate and complete. To prevent duplication and ensure relevance, users should only fill out this form if they have a genuine complaint about a book that is not available or has issues with its availability. 
-</thinking>
-
 # Book Availability Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about book availability complaints, allowing us to understand the nature of the issue and take appropriate action to resolve it.

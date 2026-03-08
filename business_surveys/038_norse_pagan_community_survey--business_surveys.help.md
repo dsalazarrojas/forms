@@ -1,10 +1,3 @@
-<thinking>
-The form "Norse Pagan Community Survey" is likely used to collect information about the needs and preferences of the Norse Pagan community, such as their beliefs, practices, and demographics. This data could be used to better understand the community's interests and priorities, potentially informing the development of new events, resources, and outreach efforts.
-
-This form should only be used for collecting genuine information from members of the Norse Pagan community and not for soliciting or collecting sensitive or personal information. Ensure that users understand that their input will be used to benefit their community and not for any commercial purposes.
-
-Please check if this survey has been sent to you before as it's possible that you've already completed it in the past.</thinking>
-
 # Norse Pagan Community Survey - Help Guide
 ## Purpose
 This form is designed to collect information from members of the Norse Pagan community about their interests, needs, and preferences. Your input will help us better understand your community and inform the development of new events, resources, and outreach efforts.

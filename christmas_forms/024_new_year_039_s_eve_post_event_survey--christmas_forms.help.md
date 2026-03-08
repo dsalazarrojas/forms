@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the New Year's Eve Post Event Survey form. The form is designed to gather feedback and information from attendees about their experience at the event. The form's purpose is to help the event organizers understand what attendees enjoyed most about the event, what could be improved, and what suggestions they have for future events. This guide will walk users through each field of the form, explaining the purpose and requirements of each.
-
-Before starting the form, please note that it is essential to review the form carefully to ensure that you have provided all required information and to avoid missing any critical fields. The form is divided into sections with clear labels and instructions to guide you through the process.
-
-To complete this form, please proceed to the next section for step-by-step instructions.
-</thinking>
-
 # New Year's Eve Post Event Survey - Help Guide
 
 ## Purpose

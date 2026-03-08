@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from customers about their hamper preferences. The purpose of this form is to understand the customer's needs and preferences for hampers, including their name, contact information, the type of hamper they are interested in, the quantity they would like to collect, and the desired delivery date and time. This information will be used to provide the best possible experience for the customer. Please ensure that this form is not completed multiple times. If you need to update your information, you can simply fill out this form again, and the latest information will be stored.</thinking>
-
 # Hampers Collection Survey - Help Guide
 ## Purpose
 The Hampers Collection Survey is designed to collect information about your hamper preferences.

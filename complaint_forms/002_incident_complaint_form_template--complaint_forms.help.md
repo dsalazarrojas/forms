@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about workplace incidents, providing a structured and easy-to-use format for employees to report and document incidents. The form should only be used for new, unreported incidents. Please ensure that you have not already reported this incident before submitting this form.
-
-</thinking>
-
 # Incident Complaint Form Template - Help Guide
 ## Purpose
 The Incident Complaint Form is used to document and report workplace incidents. This form is meant to be used for new, unreported incidents.

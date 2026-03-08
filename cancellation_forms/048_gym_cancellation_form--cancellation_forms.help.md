@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to cancel their membership or membership plan at a gym, providing a clear and concise way to communicate their cancellation intentions. This form will help users to:
-
-* Provide their first name and last name for identification purposes
-* Enter their email address for correspondence
-* Specify the reason for cancellation, which helps the gym staff to understand their concerns and address them accordingly
-* Choose a specific date for the cancellation
-
-Before filling out this form, please make sure you have not already submitted a cancellation request or membership cancellation. This form is intended for individuals who wish to cancel their gym membership.
-
-</thinking>
-
 # Gym Cancellation Form - Help Guide
 ## Purpose
 This form is designed to facilitate the cancellation of a gym membership. Please fill out this form to inform the gym management of your decision to cancel your membership.

@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to capture critical information about employees when they check in for their shifts. This includes their employee ID, shift, check-in time, check-out time, location, and other optional details. The purpose of this form is to ensure that all employees are accounted for and provide a quick and easy way to record their attendance.
-
-To prevent duplication and ensure accuracy, the form is designed to be used at specific points in time, such as when employees start or end their shifts.
-
-This guide will help you understand the form's purpose, how to fill it out, and what each field means.
-</thinking>
-
 # Employee QR Check In Form - Help Guide
 ## Purpose
 The Employee QR Check In Form is a quick and easy way to record employees' attendance information when they start or end their shift.

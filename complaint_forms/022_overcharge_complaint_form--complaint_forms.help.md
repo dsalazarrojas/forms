@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect customer complaints related to overcharging issues. It aims to gather accurate and detailed information about the overcharge complaint. 
-
-The purpose of this form is to provide an efficient means of recording and tracking customer complaints about overcharging. This data will be used to improve customer service and prevent similar overcharging situations in the future. 
-
-Please ensure that you only submit genuine complaints, as the form is intended for this specific purpose. Do not fill out this form for other reasons. If you are unsure, please contact your customer service representative for guidance. 
-
-Additionally, ensure that you do not submit duplicate complaints, as this can lead to unnecessary repetition of effort and potential miscommunication. 
-
-The form is designed to be simple and easy to complete, with clear field explanations and required fields marked as such.
-</thinking>
-
 # Overcharge Complaint Form - Help Guide
 
 ## Purpose

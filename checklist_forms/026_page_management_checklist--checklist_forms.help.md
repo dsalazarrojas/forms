@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Page Management Checklist form effectively. This form is designed to help users manage pages by selecting the relevant pages and tasks associated with page management. It's essential to understand that this form is not intended for new page creation but rather for managing existing page content and tasks. It's crucial to select relevant pages and tasks to prevent unnecessary duplication of work.
-</thinking>
-
 # Page Management Checklist - Help Guide
 ## Purpose
 The Page Management Checklist is a form used to manage pages by selecting the relevant pages and tasks associated with page management. This form helps users track and update page content, tasks, and other management activities.

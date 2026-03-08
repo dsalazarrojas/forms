@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's take a moment to review the form's purpose and ensure it's not redundant. The form titled "incident_investigation_checklist" appears to be a comprehensive checklist designed to gather information about various aspects of an incident, including investigation actions, dates, locations, descriptions, employee involvement, and status. This form likely serves as a centralized tool for investigators to gather and track data related to incidents in a structured and efficient manner.</thinking>
-
 # incident_investigation_checklist - Help Guide
 ## Purpose
 The incident investigation checklist is a tool used to gather and track information about incidents, including investigation actions, dates, locations, descriptions, employee involvement, and status.

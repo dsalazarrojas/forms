@@ -1,12 +1,3 @@
-<thinking>
-This form is a business survey designed to collect information from potential clients or customers about their business needs and preferences. The purpose of this form is to gather data that will help the business to better understand its target market and tailor its services accordingly.
-
-When filling out this form, please ensure that the information provided is accurate and complete. The form has multiple pages, each with a unique set of questions. You will be required to fill out each page sequentially.
-
-Before starting, please note that some fields are marked as optional. However, providing complete and accurate information will significantly improve the quality of the data collected and the relevance of the services offered.
-
-</thinking>
-
 # RPA Questionnaire - Help Guide
 ## Purpose
 This form is a business survey designed to collect information from potential clients or customers about their business needs and preferences. The purpose of this form is to gather data that will help the business to better understand its target market and tailor its services accordingly.

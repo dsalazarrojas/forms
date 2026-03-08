@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from agents regarding their commitment to the organization. The goal is to collect information on various aspects of the workplace culture, including engagement, satisfaction, and areas for improvement. This data will be used to identify trends and areas that require attention to enhance the work environment and improve the overall commitment of the agents.
-Before starting, ensure that the data you enter is accurate and honest, and that you have the necessary permission to complete this survey if you are an agent.
-</thinking>
-
 # Agent Commitment Survey - Help Guide
 ## Purpose
 The Agent Commitment Survey is designed to collect feedback from agents to help the organization better understand their engagement, satisfaction, and commitment. Your input will contribute to creating a more positive and productive work environment.

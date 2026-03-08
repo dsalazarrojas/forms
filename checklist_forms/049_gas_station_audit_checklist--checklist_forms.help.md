@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a gas station's audit, which is a crucial process to evaluate and improve the safety, cleanliness, and overall performance of a gas station. The purpose of this form is to ensure that the gas station meets the required standards and guidelines set by regulatory bodies and the company. The form will help the auditors to identify any discrepancies or areas for improvement, and provide the necessary information to take corrective actions. This form should only be used for gas station audits and not for other purposes.
-</thinking>
-
 # Gas Station Audit Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about a gas station's audit, which is a crucial process to evaluate and improve the safety, cleanliness, and overall performance of a gas station. The purpose of this form is to ensure that the gas station meets the required standards and guidelines set by regulatory bodies and the company.

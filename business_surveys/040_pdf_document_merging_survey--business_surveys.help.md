@@ -1,9 +1,3 @@
-<thinking>
-This form is for gathering feedback from users on their experiences with PDF merging, aiming to improve the service. It will help us understand current workflows, satisfaction, and provide opportunities for users to share their thoughts on how the service can be enhanced. Please note that this form is for gathering anonymous feedback, and we will not collect any identifying information that could compromise user privacy.
-
-Before proceeding, please ensure you have not already provided feedback on this form, as this will help us avoid duplicating efforts and ensure that your input is not lost.
-</thinking>
-
 # pdf_document_merging_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experiences with PDF merging, helping us improve the service and better understand current workflows, satisfaction, and opportunities for enhancement.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for collecting feedback and opinions from customers on a specific product feature poll. It's essential to gather information on which features are considered high or low priority by customers. This information will help product development teams make informed decisions on what features to prioritize next. It's crucial to ensure that the form is not filled out multiple times by the same person, so please do not submit this form more than once. Please answer all questions truthfully to help us better understand your opinions.
-
-</thinking>
-
 # Product Feature Priority Poll - Help Guide
 ## Purpose
 This form is designed to collect your opinions and feedback on a specific product feature poll.

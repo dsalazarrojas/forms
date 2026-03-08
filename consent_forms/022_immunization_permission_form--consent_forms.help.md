@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # immunization_permission_form - Help Guide
 ## Purpose
 The immunization_permission_form is used to obtain the necessary information to grant or deny immunization permission to a parent/guardian on behalf of a child.

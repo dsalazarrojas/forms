@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an individual's health status related to COVID-19. It's intended to be used by City Of Fresno employees to assess their health risks and take necessary precautions to prevent the spread of the virus. The form is part of a larger effort to monitor and contain the outbreak. The purpose of this guide is to help users understand the form's purpose, complete it accurately, and make the most of the information it collects.
-
-</thinking>
-
 # Template Covid 19 Daily Health Checklist City Of Fresno - Help Guide
 ## Purpose
 The Template Covid 19 Daily Health Checklist is a tool used to collect information about an individual's health status related to COVID-19. It helps City Of Fresno employees assess their health risks and take necessary precautions to prevent the spread of the virus.

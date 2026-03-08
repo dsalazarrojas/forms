@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Center Volunteer Application Form - Help Guide
 ## Purpose
 The Learning Center Volunteer Application Form is designed to collect information from individuals interested in volunteering at the Learning Center. This form ensures that we have the necessary details to evaluate and manage volunteer applications efficiently. To complete the form, please make sure you have not already submitted an application for this program or any other program within the Learning Center.

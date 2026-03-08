@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# photography_use_authorization_form - Help Guide
+> # photography_use_authorization_form - Help Guide
 ## Purpose
 This form is used to obtain authorization for the use of photographs taken by a photographer. It ensures that both the photographer and the client understand the usage rights and terms of the images taken.
 

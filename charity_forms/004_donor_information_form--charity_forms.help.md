@@ -1,7 +1,3 @@
-<thinking>
-To avoid redundant data and ensure accurate donor information, this form is designed to collect relevant details from donors. It is crucial to fill out the form completely and honestly. Please review each field carefully and provide the correct information to avoid any potential issues with the donation processing or donor recognition. 
-</thinking>
-
 # Donor Information Form - Help Guide
 ## Purpose
 The Donor Information Form is a crucial tool to gather essential details from donors who are making a donation to our organization. This form helps us understand your background, preferences, and other relevant information to effectively manage and recognize your generosity.

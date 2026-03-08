@@ -1,7 +1,3 @@
-<thinking>As I review the form design, I consider the following points for creating a user-facing help guide:
-
-The form's primary purpose is to collect information related to a claimant's injury compensation claim. To ensure the guide is useful and non-duplicative, I'll focus on the most critical fields and provide clear explanations. I'll also consider the form's layout and field types to ensure the explanation follows the same flow as the form.</thinking>
-
 # Prison Injury Compensation Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information from claimants who have experienced an injury while in prison. The purpose of this form is to assist in the processing of their injury compensation claim.

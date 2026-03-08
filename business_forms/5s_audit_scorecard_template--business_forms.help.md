@@ -1,19 +1,3 @@
-<thinking>
-
-The 8th Grade Course Request Registration Form is a vital tool for students, parents, and school administrators to register and plan the next year's courses for 8th grade students. This form serves as a central hub for inputting student information, requesting courses, and coordinating communication with the school.
-
-The purpose of this form is to:
-
-- Gather essential student information, including student name and ID number (if available)
-- Request core and elective courses for the next academic year
-- Collect parent/guardian contact details (name and phone number)
-- Record any special course requests or requirements, such as honors placement or IEP/504 accommodations
-- Facilitate communication and scheduling with school counselors
-
-To ensure a seamless experience for all parties involved, please complete this form with care and attention to detail. Ensure that you fill out all required fields and provide accurate information to ensure timely and effective processing.
-
-</thinking>
-
 # 8th Grade Course Request Registration Form - Help Guide
 ## Purpose
 The 8th Grade Course Request Registration Form is a crucial tool for students, parents, and school administrators to plan and coordinate the next year's courses for 8th grade students.

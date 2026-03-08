@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the form is completed accurately and correctly. Please review the form carefully before starting to fill it out. If you've already completed a similar form for this purpose, please skip to the "How To Complete This Form" section.
-</thinking>
-
 # Military Academy Admission Checklist Form Template - Help Guide
 ## Purpose
 The Military Academy Admission Checklist Form Template is designed to guide applicants through the process of providing necessary information for military academy admission. This form gathers essential details about the applicant, including demographic information, application dates and times, academic history, medical information, references, upload documents, and contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect inquiries and contact information from executives interested in coaching services, ensuring that they can get in touch with a designated representative for further guidance. Before filling out the form, please ensure you haven't previously inquired about this service; repeated inquiries may be disregarded. 
 
 </thinking>

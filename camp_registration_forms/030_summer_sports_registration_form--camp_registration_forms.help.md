@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals to register for a summer sports program. Its primary purpose is to collect personal, health, sports-specific, and contact information from participants. This information will be used to place participants into appropriate groups based on their age, sports level, and sports familiarity. The form is required for all participants to ensure a safe and effective experience.
-
-</thinking>
-
 # Summer Sports Registration Form - Help Guide
 ## Purpose
 The Summer Sports Registration Form is a mandatory form for individuals to register for a summer sports program. It collects personal, health, sports-specific, and contact information from participants to place them into suitable groups.

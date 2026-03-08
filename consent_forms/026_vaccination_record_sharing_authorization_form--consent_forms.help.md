@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of obtaining authorization to share vaccination records. This is intended for individuals to grant or deny access to their medical records. The form should only be filled out by individuals who are seeking to share their records with a specific institution, such as a medical center, university, or insurance company. Please ensure the institution and authorization type are accurate to avoid errors.
-</thinking>
-
 # Vaccination Record Sharing Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information for obtaining authorization to share vaccination records with a specific institution.

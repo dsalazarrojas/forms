@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the design of a catalogue. It is intended for reviewers to share their honest opinion on the visual and aesthetic aspects of the catalogue, as well as its usability and layout. The form should not be used for general comments or suggestions, but rather for specific, concrete feedback on the design aspects.
-
-To ensure that the feedback is relevant and actionable, please answer the questions in a honest and specific manner.
-
-This form is part of a larger effort to continuously improve the design of the catalogue and gather insights from various reviewers. Your input is valuable and will help us create a better product.
-
-Please answer the questions to the best of your abilities and provide as much detail as possible.
-
-</thinking>
-
 # Catalogue Design Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the design of a catalogue.

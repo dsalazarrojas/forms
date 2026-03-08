@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the Unity Event Registration form. Please ensure you understand the purpose of this form before proceeding. This form is designed to gather user data, session interests, accessibility needs, contact details, and additional comments related to a Unity event. It is a critical component of the event planning process. This guide will walk you through each field and provide instructions on how to complete it correctly. If you are unsure about any of the information required, please contact form@gic.mx.
-</thinking>
-
 # Unity Event Registration - Help Guide
 ## Purpose
 The Unity Event Registration form is designed to collect information from users to help us better understand their needs and preferences for upcoming Unity events. Please fill out the form accurately and thoroughly to ensure we can provide you with the best experience possible.

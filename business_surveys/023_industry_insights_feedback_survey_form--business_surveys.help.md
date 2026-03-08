@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from industry experts about their experience in their field. The purpose of this form is to gather insights into the current state of the industry and identify areas for improvement. To ensure that the form is completed accurately and effectively, please make sure to answer the questions truthfully and provide detailed explanations when necessary.
-
-The form is not intended to collect sensitive or personal information, and all responses will be kept confidential. Please do not duplicate responses, as this will skew the results and make it difficult to interpret.
-
-</thinking>
-
 # industry_insights_feedback_survey_form - Help Guide
 ## Purpose
 The industry_insights_feedback_survey_form is a tool to gather industry experts' experiences and opinions on the current state of their field. It aims to collect feedback on various aspects of the industry, including company size, job title, and department. The form's results will help identify trends and areas for improvement within the industry.

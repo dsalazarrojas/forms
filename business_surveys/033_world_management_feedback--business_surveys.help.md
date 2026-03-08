@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from team members on their experience with their manager and team. It is essential to provide constructive feedback to help team members grow and improve. Before filling out this form, please ensure you have not already submitted feedback on this topic recently. Your input will help the management team to identify areas of improvement and make data-driven decisions.
-</thinking>
-
 # world_management_feedback - Help Guide
 ## Purpose
 The world_management_feedback form is a survey used to gather feedback from team members regarding their management team. The goal is to understand team members' experiences, strengths, and areas for improvement.

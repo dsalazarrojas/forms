@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Urban Redevelopment Trust Survey is being filled out with the intention of gathering accurate and relevant data. It's essential to prevent duplicate responses or incorrect submissions that might skew the results. This form is designed to collect honest and unbiased feedback from the community regarding urban development issues. Please fill out the form carefully and honestly. If you're unsure about any question or feel that it's not relevant to your situation, please contact the survey administrators for clarification.
-</thinking>
-
 # Urban Redevelopment Trust Survey - Help Guide
 ## Purpose
 The Urban Redevelopment Trust Survey is a tool for collecting feedback from the community regarding urban development issues such as housing, infrastructure, and public health. This form helps the Urban Redevelopment Trust to understand your concerns and opinions on these matters.

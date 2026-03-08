@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: The form is designed to collect information for winter camp enrollment. It's a general form that should be used in various contexts, so I'll try to keep the explanation neutral and not tied to a specific business logic.
-</thinking>
-
 # Winter Camp Enrollment Form - Help Guide
 
 ## Purpose

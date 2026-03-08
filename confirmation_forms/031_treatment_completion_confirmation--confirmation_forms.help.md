@@ -1,9 +1,3 @@
-<thinking>
-The "Treatment Completion Confirmation" form is designed to verify and confirm the completion of medical treatments. This form should be used to document and record important details about medical treatments, ensuring that healthcare providers accurately report their treatments and services to ensure continuity of care and patient records.
-This form should only be used for treatments that have actually been performed and completed. If the form is being used for a treatment that has not been completed or is pending, it is not a confirmation.
-This form can be used to confirm treatment completion for patients across different locations and departments within an organization. It is essential to ensure that all fields are completed accurately and thoroughly.
-</thinking>
-
 # Treatment Completion Confirmation - Help Guide
 ## Purpose
 The "Treatment Completion Confirmation" form is designed to document and record the completion of medical treatments. This form ensures that healthcare providers accurately report their treatments and services, maintaining continuity of care and accurate patient records.

@@ -1,14 +1,4 @@
-# <thinking>...thinking>
-
-The informed-client-consent-form is designed to collect client consent and information for medical treatment, ensuring that clients understand and agree to their medical treatment plans. This form is intended to be completed by clients, and its primary purpose is to gather informed consent for medical procedures. 
-
-This form is part of a larger collection of consent forms, and its completion may be a required step before medical treatment commences. 
-
-Before filling out this form, please ensure that you are using it in the context it was intended for and that all necessary information is accurate and up-to-date. If you are unsure about any aspect of the form, please contact the relevant authority or healthcare professional for assistance. 
-
-</thinking>
-
-# informed-client-consent-form - Help Guide
+# # informed-client-consent-form - Help Guide
 
 ## Purpose
 The purpose of this form is to obtain informed consent from clients for medical treatment. 

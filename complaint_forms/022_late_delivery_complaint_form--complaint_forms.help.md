@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for customers to file a complaint about late delivery of products or services. It is essential to fill out this form accurately and completely to ensure that the issue is resolved efficiently and effectively. Before submitting the form, please make sure you have not already filed a complaint about the same issue, as it may cause duplicate processing and delays in resolution.
 
 # Late Delivery Complaint Form - Help Guide

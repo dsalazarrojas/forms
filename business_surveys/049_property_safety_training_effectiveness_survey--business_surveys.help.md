@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be completed by property managers or other individuals responsible for organizing and evaluating property safety training programs. It assesses the effectiveness of the training provided in terms of the quality and relevance of the training, the number of trainees, and the overall confidence in the training's outcomes. This form will help us better understand the property safety training's strengths and weaknesses, and identify areas for improvement. Before you start, please note that this form is for property-specific safety training, not general training on other topics. If you have already completed a similar form for the same property, please do not complete this form again...</thinking>
-
 # Property Safety Training Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to help us evaluate the effectiveness of property safety training programs. It will help us identify areas where the training is strong and areas where it can be improved.

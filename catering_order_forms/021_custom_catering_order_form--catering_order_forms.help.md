@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a custom catering order for special events. The form is designed to gather information from the customer about their event, including the menu selections, guest count, event details, date, time, contact information, and email and phone number. This form will be used by the catering service to fulfill the order and ensure that the event is properly set up and served. Please make sure to fill in all required fields and provide accurate information to avoid any issues with the order.
-</thinking>
-
 # Custom Catering Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information for a custom catering order for special events.

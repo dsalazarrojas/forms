@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users regarding the gym class cancellation policy. This feedback will be used to evaluate the effectiveness of the current policy and make necessary adjustments. Please ensure that the form is only completed by users who have actually experienced cancellation of a gym class. This form should not be completed by users who are simply testing or experimenting with the form.
-</thinking>
-
 # Gym Class Cancellation Policy Survey - Help Guide
 ## Purpose
 This form is a survey to collect feedback from users who have experienced the cancellation of a gym class. Your input will help us evaluate the effectiveness of our current cancellation policy and make improvements to better serve you.

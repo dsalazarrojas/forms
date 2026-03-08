@@ -1,6 +1,3 @@
-<thinking>
-This guide is for the Party Consent Form, which is used to collect information about a party's consent and emergency contact details. The form is designed to ensure that all parties involved in an event or activity are aware of and agree to the rules and procedures. This guide will walk you through how to complete the form accurately and efficiently.</thinking>
-
 # Party Consent Form - Help Guide
 ## Purpose
 The Party Consent Form is used to collect consent and emergency contact information from parties involved in an event or activity. This information is essential for ensuring a safe and enjoyable experience for all participants.

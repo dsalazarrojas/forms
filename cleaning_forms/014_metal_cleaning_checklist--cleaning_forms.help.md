@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for tracking and documenting metal cleaning activities, likely for maintenance or service records. It appears to be a comprehensive checklist for assessing the condition and cleaning process of metal surfaces. It includes fields for capturing various aspects of the metal cleaning process, such as the surface area, condition before and after service, and areas with or without coating, paint, or clearing. The form may be used by technicians or staff in a maintenance setting to ensure consistency and accuracy in their work. It is possible that this form is part of a larger process for inventory, asset management, or quality control.</thinking>
-
 # Metal Cleaning Checklist - Help Guide
 ## Purpose
 This form is used to track and document the metal cleaning process, including the condition before and after service, surface areas, and presence of coatings, paint, or clearing.

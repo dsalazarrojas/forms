@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's symptoms related to COVID-19. It is intended to be used for diagnostic or health-related purposes only. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and its content is an original adaptation of public survey topic metadata. This form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Covid 19 Symptom Checklist - Help Guide
 ## Purpose
 

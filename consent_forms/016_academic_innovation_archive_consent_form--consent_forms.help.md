@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect consent from contributors to archive their work in the Academic Innovation Archive. The form helps ensure that contributors are aware of their rights and any restrictions related to the archive, and that they understand how their work will be treated and accessed. This form is a legal requirement for the archive and is used to establish a paper trail of consent. The form is not used for any other purpose, and each contributor must fill it out once for each work they wish to archive. The form should not be filled out for works already archived or for which consent has already been collected.</thinking>
-
 # Academic Innovation Archive Consent Form - Help Guide
 
 ## Purpose

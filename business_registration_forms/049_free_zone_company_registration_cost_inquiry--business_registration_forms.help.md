@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from companies interested in registering their business in a free zone. This form will help the company gather the necessary data to determine the registration cost for their business. The form should only be used for companies that are interested in registering their business in a free zone. It's essential to fill out the form accurately to ensure that the information provided is correct and up-to-date. If the company has already registered their business in a free zone, they should not fill out this form.
-
-</thinking>
-
 # Free Zone Company Registration Cost Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to collect information from companies interested in registering their business in a free zone. This form will help the company gather the necessary data to determine the registration cost for their business.

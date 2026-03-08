@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather insights and opinions on men's grooming preferences, habits, and product usage. It's an online survey designed to collect information from individuals, likely for businesses or organizations in the "business_surveys" category, as indicated by the "category" field. The survey asks respondents to provide detailed thoughts on men's grooming habits and product preferences, which can help businesses understand their target audience's needs and preferences.
-</thinking>
-
 # Men's Grooming Preference Survey - Help Guide
 ## Purpose
 The "Men's Grooming Preference Survey" is an online form designed to collect insights and opinions on men's grooming habits, preferences, and product usage. This survey aims to gather information from individuals to help businesses understand their target audience's needs and preferences in the "business_surveys" category.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about a project from the end user. This includes details such as project information, risks, budget, resources, and approval status. This form is likely used in a business setting, perhaps for project management or project intake processes. The form's structure and fields suggest it's meant for a specific project or initiative within the company. To ensure the correct usage of this form, it's crucial to verify that the project information and approval status are filled out correctly and that the user is not duplicating efforts by filling out the form for an already approved or registered project.
-</thinking>
-
 # Project Intake Form - Help Guide
 ## Purpose
 The Project Intake Form is designed to collect information about a project from the end user. It's intended to be filled out by individuals who are submitting a new project or initiative for review and approval within the company.

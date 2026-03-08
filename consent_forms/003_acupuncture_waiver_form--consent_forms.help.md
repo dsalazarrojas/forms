@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be completed by clients or patients before undergoing acupuncture treatment. The purpose of this form is to gather essential information about the client, understand their medical history, and obtain their informed consent for treatment. This form will help the practitioner identify potential risks and contraindications for the treatment, ensuring a safe and effective experience for the client.
-
-Before starting the form, please ensure that you are not duplicating the process for the same client or treatment area. This form should only be completed once per treatment area per client.
-
-This form is intended for patients who are seeking acupuncture treatment. If you are an acupuncturist, please do not complete this form for yourself or other professionals.
-
-Please provide accurate and complete information to ensure a smooth and safe treatment experience.</thinking>
-
 # Acupuncture Waiver Form - Help Guide
 ## Purpose
 The Acupuncture Waiver Form is designed to inform and protect both the client and the practitioner by gathering essential information about the client, identifying potential risks and contraindications, and obtaining informed consent for treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form to assess the presence and effectiveness of YouTube channels and content. The purpose of this form is to understand how well businesses have established a presence on YouTube and the effectiveness of their content strategies. This form is meant for businesses that use YouTube as part of their marketing strategy. It's possible that similar forms might exist for other platforms or businesses, so please only complete this form if you have a YouTube presence.
-</thinking>
-
 # youtube_brand_presence_survey - Help Guide
 ## Purpose
 The YouTube Brand Presence Survey is a form designed to help businesses assess their presence and effectiveness on YouTube. This form is meant to understand how well businesses have established a presence on YouTube and the effectiveness of their content strategies.

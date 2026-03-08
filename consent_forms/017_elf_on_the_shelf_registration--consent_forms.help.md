@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants in the "Elf on the Shelf" activity. The purpose of this form is to collect information from users who are interested in participating in the "Elf on the Shelf" activity. This form is not required for all users, and users can opt-out of it by selecting "No" in the "Holiday Signups" field. The form should only be completed once per participant, and users should not need to complete this form again if they have already done so in a previous year.
-</thinking>
-
 # Elf On The Shelf Registration - Help Guide
 ## Purpose
 The Elf on the Shelf registration form is used to collect information from participants interested in the activity. 

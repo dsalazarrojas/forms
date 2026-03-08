@@ -1,10 +1,3 @@
-<thinking>
-The Tenant Wi-Fi Access Program Consent Form is used to collect information and consent from tenants for access to the program. This form is required for all tenants who wish to participate in the program.
-To ensure that you are filling out the correct form, please note that this form is for tenants who are applying for access to the program. 
-This form is not for landlords or property managers who are requesting access for their properties or themselves.
-Please fill out this form completely and accurately to ensure your application is processed correctly.
-</thinking>
-
 # Tenant Wi-Fi Access Program Consent Form - Help Guide
 
 ## Purpose

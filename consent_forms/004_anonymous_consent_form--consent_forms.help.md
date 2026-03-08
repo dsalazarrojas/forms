@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our users understand the purpose and requirements of this form before they proceed. The "Anonymous Consent Form" is used to gather consent from participants in a study or project, ensuring they are aware of the purpose, procedures, and their right to withdraw participation. To prevent duplication, we must verify that the form is filled out for each individual participant. This guide will walk through each step and field of the form, providing a clear understanding of what each section means and why it is required.
-</thinking>
-
 # Anonymous Consent Form - Help Guide
 ## Purpose
 The "Anonymous Consent Form" is a crucial document that ensures individuals' rights and understanding are protected during studies or projects that require participant involvement. Filling out this form accurately and truthfully is essential for both you as a participant and the researchers or organizers of the study/project.

@@ -1,5 +1,3 @@
-<thinking>...The Music Album Critic Release Form is a document used for releasing music albums to the public. It ensures that all necessary information is collected for publishing music content. This form is used to provide critical feedback on released music. Before filling out this form, please check that it's not a duplicate submission. If you're unsure, please contact the admin team for further guidance...</thinking>
-
 # Music Album Critic Release Form - Help Guide
 ## Purpose
 This form is used to collect feedback on released music albums, ensuring that all necessary information is collected for publication.

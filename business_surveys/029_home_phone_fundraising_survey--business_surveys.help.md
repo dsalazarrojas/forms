@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # home_phone_fundraising_survey - Help Guide
 ## Purpose
 The home_phone_fundraising_survey form is designed to collect information about your home phone fundraising experience. This form is used to gather data that will help us improve our services and better understand your needs.

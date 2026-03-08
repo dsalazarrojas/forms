@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose of the form. This form is intended to gather information from landlords to assess their legal awareness. It seems that the form is designed to collect data on various aspects of legal responsibilities, training needs, and organizational affiliations. The form is likely used to inform or improve policies and procedures related to landlord-legal matters.
-
-We should also ensure that the form is not duplicative, i.e., that it does not ask for information that is already covered by another form or process.
-
-Now, let's create the user-facing help guide.
-</thinking>
 # Landlord Legal Awareness Survey - Help Guide
 ## Purpose
 The Landlord Legal Awareness Survey is designed to gather information from landlords to assess their legal awareness and understanding of their responsibilities. This form helps us understand their needs and concerns, which can inform our policies and procedures.

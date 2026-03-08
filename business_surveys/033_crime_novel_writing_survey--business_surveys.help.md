@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who write crime novels about their experiences, preferences, and habits. This survey aims to understand the demographic characteristics, writing habits, and challenges faced by crime novel writers, which can help us better understand the market and provide more effective services to this community.
-The form is designed to be easy to fill out, with clear questions and concise options. Each section is focused on a specific aspect of crime novel writing, such as writing experience, habits, and style.
-The information collected will help us identify trends, challenges, and areas of interest within the crime novel writing community. However, please note that this form is not a substitute for actual feedback or discussion. If you have any questions or concerns, please reach out to us directly.
-</thinking>
-
 # Crime Novel Writing Survey - Help Guide
 ## Purpose
 This survey aims to understand the demographic characteristics, writing habits, and challenges faced by crime novel writers. Your feedback will help us better understand the market and provide more effective services to this community.

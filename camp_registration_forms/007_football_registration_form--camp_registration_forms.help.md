@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about players for the football team. The purpose of the form is to collect details about each player, such as their contact information, team experience, skills, and emergency contacts. This form will be used by team administrators to manage player registrations and ensure accurate and up-to-date information is maintained. It's essential to fill out this form accurately to avoid duplication or errors in the registration process.
-</thinking>
-
 # Football Registration Form - Help Guide
 ## Purpose
 This guide explains the Football Registration Form, used to collect and record essential details about players for the football team.

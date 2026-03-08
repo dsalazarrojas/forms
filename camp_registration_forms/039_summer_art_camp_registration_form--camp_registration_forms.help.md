@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect registration information for a summer art camp. The form will be used to gather details from interested individuals who want to participate in the camp. This form should only be filled out by individuals who are interested in joining the camp and not by staff members or other non-participants. There should be no duplicate entries for the same participant.
-
-</thinking>
-
 # summer_art_camp_registration_form - Help Guide
 ## Purpose
 This form is used to collect registration information for the summer art camp. Please fill out the form to let us know you are interested in joining the camp.

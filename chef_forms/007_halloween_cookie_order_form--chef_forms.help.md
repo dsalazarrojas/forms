@@ -1,5 +1,3 @@
-<thinking>Here's the reasoning behind the form: This form is designed to collect customer information for a Halloween cookie order. The form will help customers choose their preferred cookie type, quantity, and payment method, along with other important details like delivery address and date. The form ensures that customers can select their preferred cookie type from a list of options, making it easier for them to order their desired cookies. This form is meant for internal use within the organization, and the purpose of this document is to guide users on how to complete it effectively.</thinking>
-
 # Halloween Cookie Order Form - Help Guide
 ## Purpose
 The Halloween Cookie Order Form is designed to collect customer information and preferences for a Halloween cookie order. This form helps customers choose their cookie type, quantity, and payment method, ensuring accurate and efficient order processing.

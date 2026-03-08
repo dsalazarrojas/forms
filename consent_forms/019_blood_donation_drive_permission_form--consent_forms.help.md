@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gather necessary information for a blood donation drive. This form will ask about the donor's consent, medical conditions, travel history, and other important details. We want to ensure that we have a clear understanding of the donor's situation and can handle any potential risks or complications during the donation process. We will not collect any unnecessary information and will make sure to respect the donor's privacy. This form is only for those who are interested in donating blood, and we will not store any information for those who are not donors.
-</thinking>
-
 # Blood Donation Drive Permission Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in donating blood. It is designed to gather essential information about the donor, including their consent, medical conditions, travel history, and other important details.

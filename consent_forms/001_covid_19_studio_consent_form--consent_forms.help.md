@@ -1,7 +1,3 @@
-<thinking>
-This form is for clients to provide their consent for services, including appointment dates, contact information, and health-related details such as COVID-19 symptoms and temperature readings. It's essential to fill out this form accurately and completely to ensure efficient and safe service delivery. Please ensure you have not completed this form previously to avoid duplication of efforts.
-</thinking>
-
 # COVID 19 Studio Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from clients before providing services, including appointment scheduling, contact details, and health protocols for COVID-19 precautions.

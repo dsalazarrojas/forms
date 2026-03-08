@@ -1,13 +1,3 @@
-<thinking>
-**Internal Reasoning Note:**
-This form is designed to gauge the perceived value and willingness to pay of a new concept or product among users. It aims to collect feedback on the overall value-for-money of the concept, price sensitivity, and factors influencing the perception of value.
-
-This form is intended to be used for product development, research, or market analysis purposes. Please ensure that the form is not duplicated or used inappropriately, as it is based on a unique AI-generated template.
-
-Before filling out this form, please review the provided instructions and ensure that you provide genuine and thoughtful responses.
-
-</thinking>
-
 # Price sensitivity survey template - Help Guide
 ## Purpose
 The Price sensitivity survey template is designed to help researchers and product developers understand user willingness to pay and perceived value for a new concept or product.

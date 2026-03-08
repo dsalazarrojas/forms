@@ -1,5 +1,3 @@
-<thinking>... This form is intended to help animal shelters and rescue organizations gather information about the equipment needed for a puppy. It is essential for them to have a clear understanding of what equipment is required for each puppy's specific needs. The form is a checklist-style form with various fields for different types of equipment. The fields are categorized by their type and purpose. This form is meant to reduce duplication of effort and ensure that all necessary equipment is accounted for in the care and adoption process.</thinking>
-
 # Puppy Equipment Checklist - Help Guide
 ## Purpose
 This guide is intended to walk you through the completion of the Puppy Equipment Checklist form. The form is designed to help animal shelters and rescue organizations gather information about the equipment needed for a puppy's care and adoption process.

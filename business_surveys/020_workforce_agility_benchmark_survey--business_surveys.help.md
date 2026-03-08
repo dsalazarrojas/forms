@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently to measure business agility and employee engagement. The purpose of this form is to evaluate the current state of business agility and employee engagement across different departments within an organization. This form assesses various aspects of business agility, including company awareness, team adaptability, change management, communication, and employee engagement. It also evaluates departmental adaptability, leadership, and overall adaptability and leadership. The form aims to provide a comprehensive understanding of an organization's capacity to adapt and lead effectively.
-We must verify that each department's data is accurate, and that the same questions are answered consistently across all departments. Please double-check the form's purpose, scope, and answers before proceeding.
-</thinking>
-
 # workforce_agility_benchmark_survey - Help Guide
 ## Purpose
 The workforce agility benchmark survey is designed to evaluate the current state of business agility and employee engagement across different departments within an organization. It assesses various aspects of business agility, including company awareness, team adaptability, change management, communication, and employee engagement.

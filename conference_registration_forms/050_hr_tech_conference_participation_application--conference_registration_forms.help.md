@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help ensure that the form is used correctly and to prevent any confusion, please confirm that you understand the purpose of this form and will only submit the application if you are a genuine representative of an HR organization looking to participate in the conference. Please do not submit this form if you're unsure or have already submitted an application. We review each application carefully, and submitting multiple applications can delay the review process. Thank you for your cooperation and understanding.
 
 # HR Tech Conference Participation Application - Help Guide

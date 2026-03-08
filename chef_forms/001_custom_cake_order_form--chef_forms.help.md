@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed to collect information from users for a custom cake order form. It includes fields for customer name, email, phone, and date, as well as options for selecting flavor, payment method, and notes. This form may be used by a bakery or a food establishment to gather information from customers for cake orders. 
-It is recommended to review the form carefully to ensure you are not duplicating effort or submitting unnecessary information.
-
-</thinking>
-
 # Custom Cake Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for custom cake orders, which can be used by bakeries or food establishments.

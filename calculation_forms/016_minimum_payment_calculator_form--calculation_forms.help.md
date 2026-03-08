@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help users estimate their minimum payment for a given account. The form will prompt the user to enter account information, including the account name, number, balance, and interest rate. The form will then calculate the minimum payment, interest charge, and other relevant details. This form aims to simplify the process of estimating minimum payments for account holders.
-The fields are designed to be filled out in the following order:
-First, the user will enter basic account information (Account Name, Account Number, Balance).
-Next, they will enter the interest rate and minimum payment details (Minimum Payment, Interest Rate, Minimum Interest Charge).
-The next step is to provide payment frequency and details (Payment Frequency, Frequency, Next Payment).
-Finally, they will enter any additional comments or contact information (Comments, Email, Phone).
-The form does not require all fields to be filled out, although some may be necessary for accurate calculation of the minimum payment.
-</thinking>
-
 # Minimum Payment Calculator Form - Help Guide
 ## Purpose
 This form is designed to estimate the minimum payment for a given account, providing a quick and easy way to calculate key details such as minimum payment, interest charge, and total payment.

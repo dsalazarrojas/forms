@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the Workplace Complaint Verification Form. The form is intended to capture information about workplace complaints, including the issue being reported, the person reporting it, and the details surrounding the incident. This form helps ensure that all relevant information is collected and documented in a structured manner, reducing the likelihood of missing critical details that may impact resolution and follow-up actions.
-
-The form is divided into several sections, each with its own set of fields. The purpose of this guide is to walk users through each field, explaining its intended use and how to complete it accurately.
-
-</thinking>
-
 # Workplace Complaint Verification Form - Help Guide
 
 ## Purpose

@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information from students or participants in a dance class, including their personal details, medical information, and waiver release date. The form aims to ensure that students are aware of the potential risks involved in participating in the dance class and that they, or their parents/guardians, provide consent for their participation. This information will be used to ensure the student's safety and to provide necessary medical attention in case of an emergency.
-
-Before filling out this form, please note that:
-
-* All fields marked as "required" must be filled out.
-* The "Relationship" field should be filled out by the participant's emergency contact's relationship to the participant (e.g., Mother, Father, Brother, Sister, etc.).
-* The "Consent" field should be filled out by the participant or their emergency contact, indicating their consent to participate in the dance class.
-* The "Medical Conditions", "Medication", "Allergies" fields should be filled out with any relevant information.
-* The "Waiver Release Date" and "Waiver Expiration Date" fields are not required but are used to keep track of the waiver's validity.
-* The "Class Attended" field should be filled out with the student's class time (e.g., 9:00-10:00 AM, 10:00-11:00 AM, etc.).
-* The "Payment Type" field should be filled out with the payment method used (e.g., Pay online, Pay on site).
-* The "Payment Method" field should be filled out with the payment method used (e.g., Yes, No).
-* The "Notes" field is for any additional comments or information.
-* The "Signature Date" and "Signature" fields are not required but are used to record the waiver's signing date and signature.
-* The "Waiver Signed By" field should be filled out with the name of the person signing the waiver.
-* The "Waiver Signed On" field is for the date the waiver was signed.
-
-Please fill out the form carefully and accurately.</thinking>
-
 # Dance Class Waiver Form - Help Guide
 
 ## Purpose

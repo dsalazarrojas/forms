@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who want to participate in the Digital Humanities Collaboration Conference. The purpose of this form is to gather essential details from registrants, such as their name, email address, affiliation, research interests, collaboration preferences, and project details. This form will help the conference organizers to understand the backgrounds and expectations of the participants, which will facilitate meaningful interactions and collaborations among them. It is recommended that users fill out this form carefully to ensure that their submissions are accurate and complete.
-
-This guide is to assist users in understanding the form's purpose and how to fill it out correctly. It is essential to note that filling this form is optional, but it is a required step for registration.
-</thinking>
-
 # Digital Humanities Collaboration Registration - Help Guide
 ## Purpose
 This form is designed for individuals who wish to register for the Digital Humanities Collaboration Conference. By filling out this form, you will be able to provide your details and express your interests in participating in the conference.

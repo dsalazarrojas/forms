@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theme Park Disability Access Request Form - Help Guide
 ## Purpose
 The Theme Park Disability Access Request Form is designed for guests with disabilities to inform the park staff about their accessibility needs. This form is used to gather essential information from the guest to provide a comfortable and enjoyable experience for everyone, including those with disabilities. To ensure a smooth experience, please fill out this form carefully and accurately. If you've already submitted this form, please do not resubmit.

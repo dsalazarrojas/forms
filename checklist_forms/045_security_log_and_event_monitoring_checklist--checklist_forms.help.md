@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose, completion instructions, and field-by-field explanations for the "Security Log And Event Monitoring Checklist" form. The form's primary purpose is to assist security teams in monitoring and tracking security logs and events, enabling them to respond quickly to potential security threats. The form is designed to guide users through a series of questions and prompts, gathering crucial information about security-related activities and incidents. Upon reviewing this guide, users should be able to confidently and accurately complete the form, ensuring they don't miss any essential details.
-
-</thinking>
-
 # Security Log And Event Monitoring Checklist - Help Guide
 
 ## Purpose

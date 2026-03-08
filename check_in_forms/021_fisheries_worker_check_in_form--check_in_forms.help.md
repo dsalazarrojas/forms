@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from a fisheries worker about their job site, dates, and contact details. 
-The purpose of this form is to facilitate communication and record-keeping for the fishery. It is crucial that the worker completes all required fields. 
-The form is used in a specific context and is part of the larger fishery's operations. 
-</thinking>
-
 # fisheries_worker_check_in_form - Help Guide
 ## Purpose
 The fisheries_worker_check_in_form is used to collect information from a fisheries worker about their job site, dates, and contact details. 

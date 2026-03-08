@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Bonds Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about investment bonds from participants. It's meant to gauge awareness, knowledge, interest, and attitudes related to investment bonds. The goal is to understand trends in these areas and gather data that can inform business decisions.

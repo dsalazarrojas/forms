@@ -1,8 +1,3 @@
-<thinking> 
-This form is likely used by facilities or maintenance staff to inspect and report on the status of faucets in a building or facility. The form is designed to be completed by a single user, possibly as part of a routine or ad-hoc inspection. The purpose of the form is to gather information about the faucet's status, quality, and other relevant details. This form may be used by facilities or maintenance teams to track and manage the maintenance and repairs of faucets in their buildings or facilities. 
-
-</thinking>
-
 # Faucet Inspection Checklist - Help Guide
 
 ## Purpose

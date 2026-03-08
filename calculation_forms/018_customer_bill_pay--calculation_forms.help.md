@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to input information and pay bills for customers. It is likely used for an internal accounting or billing system. The fields are designed to collect relevant customer and billing information, including address, payment method, payment date, and contact information. This form should only be used for customers, not employees or other internal stakeholders. 
-</thinking>
-
 # Customer Bill Pay - Help Guide
 ## Purpose
 This form is used to input customer billing information and pay bills for customers. 

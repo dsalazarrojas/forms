@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about potential coaching clients, helping us to understand their interests, goals, and availability for training. Please make sure you are a potential coaching client and not a duplicate before proceeding. If you have already submitted an application, please do not submit again as it will not be processed.
-</thinking>
-
 # Fitness Coaching Admission Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from potential coaching clients, including their personal details, fitness goals, and availability for training. By filling out this form, you will be helping us to understand your needs and preferences, allowing us to provide you with the best possible coaching experience.

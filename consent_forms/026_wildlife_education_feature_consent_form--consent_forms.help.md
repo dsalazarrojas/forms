@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for users to provide consent for wildlife education features. It's crucial to understand the importance of consent and how this form will help in the process. 
-
-The form is designed to collect various types of information, including user name, email, phone number, date of birth, note, select one option, select multiple options, date and time, time, decimal number, integer number, media consent, and feature consent. 
-
-Before proceeding, ensure you have not filled out this form previously. If you have, you can refer to the previous submission to review your responses.
-</thinking>
-
 # Wildlife Education Feature Consent Form - Help Guide
 ## Purpose
 This form is used to collect user consent for participation in wildlife education features.

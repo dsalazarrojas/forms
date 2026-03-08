@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for obtaining consent from employees to set up direct deposit services. Direct deposit allows employees to have their paychecks and other payments deposited directly into their bank accounts, reducing the need for manual cash handling and potential issues with lost or stolen checks. This form will collect necessary information from employees to facilitate the setup of this service.
-
-Before proceeding, please ensure that you have not filled out this form in the past, as the information will be stored and processed accordingly.
-
-Also, note that this form is designed to be used on a public domain and is free for anyone to use or modify under a Creative Commons license. If you would like to contribute to this form or have any issues, please contact form@gic.mx
-
-</thinking>
-
 # Direct Deposit Setup Consent Form - Help Guide
 ## Purpose
 The Direct Deposit Setup Consent Form is designed to collect employee consent and necessary information to set up direct deposit services.

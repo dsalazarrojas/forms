@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients about their experience with Medicare in Center Hemodialysis providers. The purpose of this form is to gather information on various aspects of patient care and satisfaction. This form is intended to be completed by patients who have received services from these providers and will help in understanding their experiences and areas for improvement.
-
-The form is divided into sections that gather demographic information, provider details, and patient experience and satisfaction. Please ensure that you complete all required fields accurately and thoroughly.
-
-</thinking>
-
 # medicare_in_center_hemodialysis_patient_experience_survey - Help Guide
 ## Purpose
 The **Medicare In Center Hemodialysis Patient Experience Survey** is designed to collect feedback from patients about their experiences with Medicare in Center Hemodialysis providers. This information will help improve the quality of care and services offered by these providers.

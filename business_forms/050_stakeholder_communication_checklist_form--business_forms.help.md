@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Stakeholder Communication Checklist Form is to gather and document essential information about the communication status and history between project stakeholders. This form helps project managers and stakeholders track and update the frequency, method, and last updated status of communication between them. It's a tool to enhance transparency, accountability, and collaboration in project management.
-</thinking>
-
 # Stakeholder communication checklist form - Help Guide
 ## Purpose
 The Stakeholder Communication Checklist Form is designed to facilitate effective communication between project stakeholders. This form collects and organizes information about the project status, stakeholder status, communication frequency, and last updated status, ensuring all parties are informed and on the same page.

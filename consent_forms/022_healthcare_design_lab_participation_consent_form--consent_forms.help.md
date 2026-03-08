@@ -1,7 +1,3 @@
-<thinking> 
-The form purpose is to collect information from participants in a healthcare design lab. This form is likely to be used for research or study purposes, where participants are being asked to provide their consent and demographic details. Before filling out this form, please make sure you have read and understand the purpose and instructions. If you have already completed this form, please do not resubmit as your existing information will not be replaced.
-</thinking>
-
 # Healthcare Design Lab Participation Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information for a healthcare design lab study. Please read the form carefully and answer accordingly.

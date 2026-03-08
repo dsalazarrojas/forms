@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Student Parent Handbook Acknowledgment Form - Help Guide
 ## Purpose
 The Student Parent Handbook Acknowledgment Form is a form that allows parents or guardians to acknowledge receipt and understanding of the student handbook. This form is intended to ensure that parents/guardians are aware of the policies, procedures, and expectations outlined in the handbook.

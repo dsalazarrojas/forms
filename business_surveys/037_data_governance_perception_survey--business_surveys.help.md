@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Data Governance Perception Survey - Help Guide
 ## Purpose
 The Data Governance Perception Survey is a self-assessment tool used to gauge employees' perceptions and attitudes towards data governance practices within the organization. The survey aims to gather insights into how employees perceive the effectiveness and importance of data governance policies, procedures, and tools.

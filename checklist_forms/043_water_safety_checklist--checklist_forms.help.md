@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information related to water safety, specifically for facilities, such as swimming pools or water treatment plants. This form is intended to assess the water quality and safety conditions at a facility. The form should not be used for other purposes, such as general facility surveys or maintenance requests.
-</thinking>
-
 # Water Safety Checklist - Help Guide
 
 ## Purpose

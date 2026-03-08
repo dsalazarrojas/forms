@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The "Small Business Financial Assessment" form is a tool used to gauge the financial health of small businesses. It is essential to understand that this form should only be filled out by business owners or authorized personnel who are familiar with the financial aspects of their company. Please ensure that you have the necessary permissions and authority to complete this form accurately.
+> The "Small Business Financial Assessment" form is a tool used to gauge the financial health of small businesses. It is essential to understand that this form should only be filled out by business owners or authorized personnel who are familiar with the financial aspects of their company. Please ensure that you have the necessary permissions and authority to complete this form accurately.
 
 To complete this form, follow the instructions below:
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help potential clients express their interests and preferences when seeking coaching services. It's essential to fill out this form honestly, as it will help coaches tailor their approach to meet your specific needs. Please note that you may be contacted by multiple coaches who specialize in different areas or have varying levels of experience. This form is not a commitment to work with any specific coach, and you can still decline or cancel your coaching sessions at any time.
-</thinking>
-
 # wellness_coaching_interest_survey - Help Guide
 ## Purpose
 The Wellness Coaching Interest Survey is a form designed to help potential clients express their interests and preferences when seeking coaching services. It will help coaches tailor their approach to meet your specific needs.

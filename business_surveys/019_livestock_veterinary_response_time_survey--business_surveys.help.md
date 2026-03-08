@@ -1,12 +1,3 @@
-<thinking>
-This is a form for collecting data on response times and other relevant information from veterinarians and their practices. 
-
-This guide is for users who need to complete this form to provide their response times, satisfaction levels, and other relevant details. To complete this form accurately and efficiently, follow the steps below.
-
-The guide will explain each field's purpose, what to do with it, and any specific requirements or considerations.
-
-</thinking>
-
 # Livestock Veterinary Response Time Survey - Help Guide
 ## Purpose
 This form is used to collect data on the response times and other relevant information from veterinarians and their practices. This data will help in analyzing and understanding the response times and satisfaction levels of the veterinarians in their practices.

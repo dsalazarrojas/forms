@@ -1,11 +1,3 @@
-<thinking>
-
-The form "MRI Screening Form" is designed to collect information from patients regarding their medical history, allergies, medications, medical conditions, and other relevant details for MRI screening purposes. 
-
-To prevent duplication and ensure accurate data collection, only patients who have not already been screened or have had significant updates in their medical history should fill out this form.
-
-</thinking>
-
 # MRI Screening Form - Help Guide
 ## Purpose
 The MRI Screening Form is used to gather information from patients to ensure their safety during MRI screening procedures.

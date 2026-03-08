@@ -1,6 +1,3 @@
-<thinking>
-This form is used by sponsors to request clarification on the benefits they have received from a sponsorship they have provided to a project or event. It is intended to ensure that the sponsor's expectations and the actual benefits received from the sponsorship are documented and agreed upon. This form should not be used for other purposes, such as requesting new sponsorship or sponsorship renewals. Please ensure that you only use this form for the intended purpose and do not resubmit a request if the issue has already been addressed.</thinking>
-
 # Sponsorship Benefit Clarification Request Form - Help Guide
 ## Purpose
 The Sponsorship Benefit Clarification Request Form is used to request clarification on the benefits received from a sponsorship. It helps ensure that the sponsor's expectations are met and that the benefits are accurately documented.

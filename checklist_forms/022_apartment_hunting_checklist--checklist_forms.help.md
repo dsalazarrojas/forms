@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the "Apartment Hunting Checklist" form, let's briefly review the form's purpose and fields. This form appears to be designed to collect detailed information about a property, including its address, price, and various features such as number of bedrooms, bathrooms, square footage, overall condition, and amenities. The form also asks for the user's overall rating and opinion about the property, including pros and cons. It seems to be intended for someone searching for an apartment and wants to evaluate different properties. To ensure this form serves its purpose effectively, we should review the provided fields carefully and create a clear and concise guide.</thinking>
-
 # Apartment Hunting Checklist - Help Guide
 
 ## Purpose

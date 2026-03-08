@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on the implementation, effectiveness, and progress of loyalty programs within hospitality businesses. It is intended for internal use by hospitality professionals and should not be completed by customers or external stakeholders. Before filling out this form, please ensure that you have reviewed the relevant internal documentation and that your answers accurately reflect the current state of your loyalty program.
-</thinking>
-
 # Hospitality Customer Loyalty Audit Form - Help Guide
 ## Purpose
 This form is used to gather information about the loyalty programs implemented within hospitality businesses. It helps hospitality professionals evaluate the effectiveness of their loyalty programs and identify areas for improvement.

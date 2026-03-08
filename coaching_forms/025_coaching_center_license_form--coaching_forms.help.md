@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information from coaching centers seeking to obtain a coaching license. The form is used to collect details about the center's name, address, business structure, license type, and other relevant information. This information is essential for the licensing process, ensuring that the center meets the necessary requirements and standards. The form is designed to be completed by the center's owner or director and should not be duplicated or completed by any other individual. 
-
-The form is divided into different sections, each focusing on a specific aspect of the center's information. The sections cover the center's name, address, business structure, license type, services offered, number of coaches, coach certification, facility type, liability insurance, insurance provider, safety protocols, emergency procedures, years in operation, previous licenses, license violations, and application fee. 
-
-Please ensure to complete the form accurately and thoroughly to avoid any errors or omissions.</thinking>
-
 # Coaching Center License Form - Help Guide
 
 ## Purpose

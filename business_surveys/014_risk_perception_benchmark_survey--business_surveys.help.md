@@ -1,14 +1,3 @@
-<thinking>
-The form is used for gathering data on an organization's risk perception. A survey is designed to measure how employees perceive the potential risks that an organization may face. This form aims to gather information on the different types of risk factors, their frequency, and their potential impact levels.
-
-The form should only be used by authorized personnel within the organization.
-
-The form is not intended to be filled out multiple times. Each response should represent a single perspective or viewpoint.
-
-The form's fields are designed to gather specific information on the risk perception of the organization. Each field is explained below.
-
-</thinking>
-
 # Risk Perception Benchmark Survey - Help Guide
 ## Purpose
 The purpose of this form is to help you, as an employee of the organization, understand how you perceive the potential risks that the organization may face. Your responses will contribute to a better understanding of the organization's overall risk perception.

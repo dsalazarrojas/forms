@@ -1,7 +1,3 @@
-<thinking>
-The Payroll File Update Consent Form is a document that requires employees to provide their consent for updates to their payroll files. This form is used to ensure that employees are aware of and agree to changes made to their payroll information. The form typically includes fields for employee identifiers, payroll file update consent, date of update, reason for update, comments, and signature.
-</thinking>
-
 # Payroll File Update Consent Form - Help Guide
 ## Purpose
 The Payroll File Update Consent Form is a document that requires employees to provide their consent for updates to their payroll files.

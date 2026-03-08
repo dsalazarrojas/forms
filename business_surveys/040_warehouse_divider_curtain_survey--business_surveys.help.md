@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from warehouse users regarding their experience with divider curtains. The purpose of this form is to gather information on the user's role, experience, and satisfaction with the divider curtain, including their performance, installation, maintenance, and overall experience. The goal is to identify areas of improvement and provide valuable feedback for future development and refinement of the divider curtain.
-</thinking>
-
 # Warehouse Divider Curtain Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from warehouse users about their experience with divider curtains. The survey aims to understand users' roles, experience, and satisfaction with the divider curtain, including its performance, installation, maintenance, and overall experience.

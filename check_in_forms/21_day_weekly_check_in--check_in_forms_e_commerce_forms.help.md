@@ -1,30 +1,3 @@
-<thinking>Internal reasoning and context:
-
-The 21 Day Weekly Check In form appears to be a crucial tool for tracking and reflecting on progress within the "21-Day Transformation Program." It's likely used for accountability, monitoring, and evaluation of participant's adherence to the program.
-
-This form is likely used to gather information about each participant's progress in several key areas, such as:
-
-*   Current weight
-*   Energy level
-*   Sleep quality
-*   Workouts completed
-*   Overall mood and mental state
-*   Satisfaction with workouts and meal plans
-
-The form seems to cater to the needs of individuals undergoing a transformative journey, providing a structure for them to reflect on their experiences, identify areas of improvement, and seek support when needed.
-
-The fields appear to be a mix of:
-
-*   Tracking metrics (current weight, energy level, sleep quality, workouts completed)
-*   Emotional and mental state (mood rating, biggest challenge)
-*   Feedback and suggestions (program adherence, satisfaction with workouts, support needed for next week)
-*   Goal setting (next week's goals)
-*   Free-text fields for additional comments or feedback
-
-With this context in mind, the form aims to facilitate a thorough assessment of the participant's progress, providing valuable insights for the program administrators to refine and improve the program for future participants.
-
-</thinking>
-
 # 21 Day Weekly Check In - Help Guide
 ## Purpose
 The 21 Day Weekly Check In form is designed to track and reflect on progress within the 21-Day Transformation Program. It's used for accountability, monitoring, and evaluation of participants' adherence to the program.

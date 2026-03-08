@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roofing Inspection Form - Help Guide
 ## Purpose
 The Roofing Inspection Form is a tool used to assess the condition of various roofing components, including the roof, chimney, gutters, flashing, vents, and skylights. This form helps inspectors gather detailed information about the condition of these components, which can be used to identify potential issues and prioritize repairs.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be filled out by participants in a culinary competition. Its purpose is to collect information about the participant, including their contact details, dietary restrictions, and preferences for communication. This form is used to ensure that participants are aware of and agree to the competition rules and terms.
-
-The form will be used to store the participant's contact information, which will be used for communication purposes during the competition. This includes the participant's email, phone number, and address. The participant's dietary restrictions will be considered when allocating food samples to them.
-
-The participant's preferences for communication, specified in the "contact preference" field, will influence how they will be contacted for the competition.
-
-</thinking>
-
 # Culinary Competition Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a culinary competition. It is a required field to be filled out by all participants.

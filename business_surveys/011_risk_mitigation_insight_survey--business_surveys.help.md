@@ -1,11 +1,3 @@
-<thinking>
-This form is part of a larger business survey to gauge risk mitigation practices within an organization. It aims to provide insight into risk awareness, priority awareness, risk effectiveness, and mitigation effectiveness. This is a crucial tool for business leaders to identify areas of improvement in risk management strategies.
-
-Before completing this form, please ensure that it is relevant to your role and responsibilities. This form is designed for individuals who are familiar with risk management practices within the organization.
-
-The form has multiple fields with different types of questions. Please review each section carefully to understand what information is being requested.
-</thinking>
-
 # Risk Mitigation Insight Survey - Help Guide
 ## Purpose
 This form is designed to gauge risk mitigation practices within the organization. It will help identify areas of improvement in risk management strategies.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain a waiver of liability from individuals or companies shipping goods or services. The form is designed to protect both the shipper and the consignee (the recipient of the goods or services) from potential risks or liabilities associated with the shipment. This form is a crucial document that ensures both parties understand and agree to the terms of the shipment, including any risks or liabilities involved.
-
-</thinking>
-
 # Shipping Liability Waiver Consent Form - Help Guide
 ## Purpose
 The Shipping Liability Waiver Consent Form is a document that provides a legal waiver of liability between the shipper and the consignee. This form is used to protect both parties from potential risks or liabilities associated with the shipment.

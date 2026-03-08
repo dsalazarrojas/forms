@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shared Workspace Policy Consent Form - Help Guide
 
 ## Purpose

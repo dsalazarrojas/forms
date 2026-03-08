@@ -1,13 +1,3 @@
-<thinking>
-
-The form "tax_return_checklist" is designed to collect information for tax return purposes. It appears to be a comprehensive form with multiple sections, likely covering different aspects of a business or individual's tax-related activities. The form consists of various types of questions, including text inputs, select multiple and single options, and yes/no questions. It seems that the form is intended to gather detailed information about the business and individual's tax-related activities, including schedules A to G. Given the structure and content of the form, it's likely that this form is used for tax return purposes, such as preparing and submitting tax returns or related forms.
-
-The form has 25 fields, but only 5 fields are marked as 'required', which suggests that some sections are optional or conditional. The "legal" section appears to be the most extensive part of the form, with multiple text inputs for business and individual information, such as names, addresses, phone numbers, and tax IDs. The "schedules" section (fields 4-10) seems to cover the different tax schedules, and the "business" section (fields 3, 11-13) likely pertains to business-specific information.
-
-To confirm the purpose and usage of this form, further clarification or context would be beneficial. However, based on the provided YAML structure, it's possible that this form is used for internal or external tax purposes, such as preparing and submitting tax returns or gathering information for tax-related processes.
-
-</thinking>
-
 # tax_return_checklist - Help Guide
 ## Purpose
 This form is designed to collect information for tax return purposes.

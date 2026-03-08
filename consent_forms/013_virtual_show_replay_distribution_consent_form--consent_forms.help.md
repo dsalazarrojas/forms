@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Show Replay Distribution Consent Form - Help Guide
 
 ## Purpose

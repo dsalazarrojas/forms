@@ -1,11 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "NISE-Stim-Certification-Registration" form, I will follow the provided instructions and structure the guide accordingly. The form seems to be designed for registering certifications, and it appears to be a collection of fields related to certification information, training providers, and other relevant details. Before proceeding, I will review the form's purpose and possible use cases to ensure the guide is tailored to its intended audience.
-
-Given the form's structure, it's likely intended for users to register and manage certifications, which could be used for various purposes such as tracking certification status, managing certification costs, and storing certification-related information. To confirm, I will assume the primary use case is for certification management within an organization or system.
-
-With this understanding, I will create the help guide as requested.
-</thinking>
-
 # NISE-Stim-Certification-Registration - Help Guide
 ## Purpose
 This guide will help you complete the "NISE-Stim-Certification-Registration" form, which is designed for registering and managing certification information.

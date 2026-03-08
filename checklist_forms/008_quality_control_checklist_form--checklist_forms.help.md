@@ -1,18 +1,3 @@
-<thinking>
-To create a user-friendly help guide for this form, we must consider its purpose and intended use case. Upon examining the provided YAML, it appears that this form is designed for quality control checklists, likely for monitoring and evaluating the quality of a particular process or product. The form is composed of multiple fields with various types, including text, select_one, select_multiple, date, time, email, and note fields.
-
-To determine the best course of action, let's consider the following:
-
-*   The form has a mix of single and multiple-choice fields, suggesting that it's meant for collecting detailed feedback or responses from users.
-*   The presence of date and time fields indicates that the form might be used for scheduling or recording events.
-*   Some fields are optional, which means users may be allowed to skip them if they're not relevant to the specific use case.
-*   Email and phone fields are included, which may be for communication or contact purposes.
-*   The form has a large number of fields, suggesting that it's designed for comprehensive quality control evaluations.
-
-Given these observations, it seems that this form is intended for in-depth quality control assessments, possibly for industries like manufacturing, construction, or healthcare where precise measurements and evaluations are crucial.
-
-</thinking>
-
 # quality-control-checklist-form - Help Guide
 ## Purpose
 This form is designed for quality control checklists to evaluate and monitor the quality of a process or product. It is meant to gather detailed feedback and responses from users on various aspects of the quality control process.

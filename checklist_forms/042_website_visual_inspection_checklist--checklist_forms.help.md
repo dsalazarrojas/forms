@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for inspecting a website visually. The primary purpose of this form is to help users evaluate a website's visual consistency and compliance with best practices. This form is intended to be filled out by website administrators or auditors who need to ensure that the website meets certain visual standards.
-
-Given the form's purpose, it is likely relevant to various stakeholders, including website owners, administrators, and auditors. To avoid duplication, this guide will focus on explaining each field and its intended use. No proprietary content or platform-specific features will be duplicated in this adaptation.
-
-</thinking>
-
 # Website Visual Inspection Checklist - Help Guide
 ## Purpose
 The Website Visual Inspection Checklist is a form designed to help users evaluate a website's visual consistency and compliance with best practices. This form is meant to be used by website administrators or auditors to identify areas for improvement on a website.

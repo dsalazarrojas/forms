@@ -1,15 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the "Business Process Optimization Feedback Survey", I first need to understand the purpose and relevance of the form. This form is designed to collect feedback on the effectiveness of business process improvements implemented within an organization. The purpose is to gather insights from employees on whether these improvements have been beneficial, what areas need refinement, and what suggestions they have for further optimization.
-
-By analyzing the form's structure and fields, I can infer the following:
-
-*   The form has three main sections: Respondent Information, Process Improvements, and Workflow Feedback.
-*   The Respondent Information section includes demographic data and contact information.
-*   The Process Improvements section assesses the effectiveness of implemented process changes.
-*   The Workflow Feedback section provides insights on the clarity and usability of the new processes.
-*   The form also includes sections for challenges, suggestions for further improvement, and willingness to pilot new changes.
-</thinking>
-
 # Business Process Optimization Feedback Survey - Help Guide
 ## Purpose
 The Business Process Optimization Feedback Survey is designed to collect feedback on the effectiveness of business process improvements implemented within the organization. Your input will help us understand what's working and what areas need refinement.

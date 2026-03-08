@@ -1,26 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a specific location's suitability for solar forecasting. The form is likely used by professionals in the solar energy industry to assess the potential for solar energy generation at a particular site. The fields on this form are likely used to gather data on various aspects of the location, such as its climate, geography, and infrastructure.
-
-To complete this form, the user will likely be a site surveyor or other solar industry expert. The form is divided into multiple pages, each with its own set of fields. The user will need to provide information about the location, its solar resource availability, and various technical aspects of the site.
-
-The form includes fields for:
-
-* Survey location: This field is likely where the user will enter the name or identifier of the location being surveyed.
-* Solar resource availability: This field is used to assess the availability of solar resources at the location, such as sunlight hours, temperature, and other climatic conditions.
-* Site details: This field provides additional information about the site, such as its terrain, vegetation, and other relevant details.
-* Coordinate 1 (Latitude), Coordinate 2 (Longitude), and Coordinate 3 (Elevation): These fields are used to provide precise location data.
-* Site notes: This field is used for any additional notes or comments about the site.
-* Site photos: This field likely allows the user to upload photos of the site.
-* Site map and site plan: These fields may be used to attach visual maps or plans of the site.
-* Zoning status, zoning notes, and zoning contact: These fields are related to local zoning regulations and permits.
-* Solar wind direction and solar wind speed: These fields are used to assess the local wind conditions.
-* Cloud cover: This field may be used to assess the local cloud cover and its impact on solar energy generation.
-* Solar insolation, solar irradiance, and solar capacity: These fields are used to assess the site's solar resource potential.
-* Solar capacity notes and other capacity notes: These fields are used to provide additional information about the site's capacity.
-
-</thinking>
-
 # Solar Forecasting Location Survey - Help Guide
 ## Purpose
 This form is used to collect information about a specific location's suitability for solar forecasting. The form is designed to gather data on various aspects of the location, including its climate, geography, and infrastructure.

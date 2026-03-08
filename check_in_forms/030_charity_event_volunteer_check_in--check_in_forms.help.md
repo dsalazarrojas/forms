@@ -1,7 +1,3 @@
-<thinking>
-This form is used for volunteers to check-in for charity events, providing essential information for event management and supervision. The form ensures that volunteers have the necessary information and resources for their assigned tasks and roles. It also helps event organizers track volunteer attendance, shifts, and performance. This form should only be used for charity events and not for other purposes. Ensure you are checking in for a valid event and have the necessary permissions to participate.
-</thinking>
-
 # Charity Event Volunteer Check In - Help Guide
 ## Purpose
 This form is designed to gather information for charity event volunteers, ensuring they are properly assigned to tasks, receive necessary resources, and are accounted for throughout the event.

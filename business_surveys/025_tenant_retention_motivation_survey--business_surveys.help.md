@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not being filled out for duplicate purposes and that the end-user understands the intent behind it. This form is meant to measure tenant retention motivation, which is a crucial factor in maintaining a positive landlord-tenant relationship. The form will be used to collect data on various aspects of the tenant's experience, including their satisfaction, likely to renew, reasons for not renewing, suggestions for improvement, overall experience, renewal intent, contact method, contact number, and contact email. This data will be used to identify areas of improvement and inform decision-making for landlord-tenant relationships. Please review the form carefully before completing it, and answer honestly to ensure accurate results.
-</thinking>
-
 # Tenant Retention Motivation Survey - Help Guide
 ## Purpose
 This Tenant Retention Motivation Survey is a tool used by landlords to gauge the level of satisfaction and motivation among their tenants. The data collected from this form will help landlords identify areas for improvement and inform decisions to increase tenant retention and satisfaction.

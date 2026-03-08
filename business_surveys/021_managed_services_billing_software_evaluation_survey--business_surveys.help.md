@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation from customers about their experience with the managed services billing software. The purpose of this form is to collect information on how the software meets their needs, what features they like or dislike, and any suggestions or comments they may have. This form will help us improve the software to better serve our customers in the future. It's essential that the customer completes this form honestly, as their input will directly contribute to the development of our managed services billing software. If this form is completed by a non-customer, their input may not be taken into consideration in the development process.
-</thinking>
-
 # Managed Services Billing Software Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from customers about their experience with the managed services billing software.

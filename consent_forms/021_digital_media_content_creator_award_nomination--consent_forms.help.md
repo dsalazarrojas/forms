@@ -1,9 +1,3 @@
-<thinking>
-This form is for nominating a digital media content creator for an award. The purpose of this form is to collect relevant information about the creator and their work, which will be used to evaluate their eligibility for the award.
-The form is intended to be completed by someone nominating a digital media content creator, not by the creator themselves.
-It is essential to fill out this form correctly to ensure that the nomination is valid and can be considered for the award.
-</thinking>
-
 # digital_media_content_creator_award_nomination - Help Guide
 ## Purpose
 This form is for nominating a digital media content creator for an award. The collected information will be used to evaluate their eligibility for the award.

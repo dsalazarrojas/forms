@@ -1,7 +1,3 @@
-<thinking>
-The form is likely being used to collect information about participants in a Secret Santa gift exchange, gathering details such as their preferences, interests, and relationships to help pair them with a suitable gift-giver. This form aims to ensure that each participant receives a gift that suits their tastes and connections with others.
-</thinking>
-
 # Secret Santa Survey - Help Guide
 ## Purpose
 This form, titled "Secret Santa Survey", is designed to collect information about participants in a gift exchange. The goal is to match participants with gift-givers who can provide a thoughtful and personalized gift based on their interests and preferences.

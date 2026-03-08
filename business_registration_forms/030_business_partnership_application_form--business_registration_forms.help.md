@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for businesses seeking to form a partnership or strategic alliance with our organization. Please ensure that you are a legitimate business entity and not a duplicate submission. If you have already submitted an application, please do not resubmit. This guide will walk you through the required information and help you complete the form accurately.
-</thinking>
-
 # Business Partnership Application Form - Help Guide
 ## Purpose
 This form is used for businesses seeking to form a partnership or strategic alliance with our organization. The goal is to provide a comprehensive understanding of your business and its goals, as well as to determine the suitability of your business for a partnership or alliance.

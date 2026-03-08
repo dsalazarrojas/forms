@@ -1,8 +1,3 @@
-<thinking>
-...The "data_verification_checklist" form is designed to collect information about the verification process and accuracy standards related to a specific entry. This form aims to assess the verification status of an entry based on its accuracy and other factors. The form is intended for use in scenarios where entries need to be evaluated and verified for their accuracy and authenticity. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using AI. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it while giving proper credit. Contact [form@gic.mx](mailto:form@gic.mx) for any inquiries or questions regarding the form.
-
-</thinking>
-
 # data_verification_checklist - Help Guide
 ## Purpose
 The "data_verification_checklist" form is a tool used to assess the accuracy and verification status of entries. It is designed to gather information about the verification process and accuracy standards related to a specific entry.

@@ -1,8 +1,3 @@
-<thinking>
-To ensure this form is used correctly, please note that it's a coaching registration form for individuals seeking grant proposals. This form should not be duplicated if the user has already submitted a grant proposal. The form fields below are designed to gather essential information about participants in a clear and concise manner. 
-
-Please use this form for your coaching services, and provide accurate information to ensure the best possible experience.</thinking>
-
 # grant-proposal-coaching-registration-form - Help Guide
 ## Purpose
 

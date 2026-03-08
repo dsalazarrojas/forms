@@ -3,11 +3,6 @@
 ## Purpose
 This form is designed to help us understand your interest and fit for our coaching program. It's used to evaluate your suitability as a potential coach and to gather information about your preferences and availability.
 
-<thinking>
-This form is intended to gather information about potential coaches who are interested in our fine arts programs. We want to make sure that coaches who fill out this form are actually interested in the programs we offer and that their experience and preferences match our program requirements. This helps us to avoid duplicated effort and focus on coaching who are a good fit for our organization. We're using this form to help us select coaches who have the right experience, language, and availability to coach our clients effectively.
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, simply follow the steps below:

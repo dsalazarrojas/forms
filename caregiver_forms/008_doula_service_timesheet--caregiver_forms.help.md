@@ -1,9 +1,3 @@
-<thinking>
-This help guide will cover the Doula Service Timesheet form, which is used to track and document service visits between a doula and a client. 
-To avoid duplication, this guide will cover the entire process from start to finish. 
-The form is a critical tool for both the doula and the client in maintaining accurate records of service hours, client contact information, and visit details. 
-</thinking>
-
 # Doula Service Timesheet - Help Guide
 ## Purpose
 The Doula Service Timesheet form is a comprehensive record-keeping tool for tracking and documenting service visits between a doula and a client. It ensures accurate and detailed documentation of service hours, visit details, and client contact information.

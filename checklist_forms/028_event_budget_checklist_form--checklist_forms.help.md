@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information about an event's budget and logistical details. The purpose of this form is to provide a clear and concise way for users to input and track the budget and other essential details related to an event. The form is designed to be completed by event organizers and planners to ensure that all relevant information is gathered and organized in one place. This form is a standard template and should not be modified or duplicated for use in other contexts without approval from authorized personnel.
-
-Before starting to complete this form, it is essential to note that the form is divided into several pages with various fields. Each field is designed to collect specific information related to the event. The fields are organized in a logical and sequential manner to make it easier to gather and review the information.
-
-Below is a help guide to assist you in completing the form accurately and efficiently.
-
-</thinking>
-
 # Event Budget Checklist Form - Help Guide
 ## Purpose
 The Event Budget Checklist Form is designed to gather information about an event's budget and logistical details. This form is used to ensure that all relevant information is collected and organized in one place.

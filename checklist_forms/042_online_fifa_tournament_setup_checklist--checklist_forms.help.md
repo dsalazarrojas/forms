@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users set up online FIFA tournaments, gathering essential details to ensure a smooth and enjoyable experience for participants. The form's purpose is to collect information about the tournament name and start date. The form's fields are carefully crafted to guide users through the process of creating a well-structured tournament. Before proceeding, ensure that you have the necessary permissions and approvals to collect user data, and make sure you comply with all relevant data protection regulations.
-
-</thinking>
-
 # Online FIFA Tournament Setup Checklist - Help Guide
 ## Purpose
 This form is used to collect information about your online FIFA tournament, including the name and start date of the tournament.

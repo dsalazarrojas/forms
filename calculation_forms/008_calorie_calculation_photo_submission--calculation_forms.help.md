@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to submit photos of their meals and estimate the calorie content. The form requires the user's name and email for follow-up and results, as well as the date and time of the meal consumption. The user can provide an estimated calorie value, list the main components of the meal, and note any dietary restrictions. They must also give consent to use the photo for analysis and coaching.
-
-This form is not a duplicate of other forms in the category as it is focused specifically on photo submission for calorie calculation.
-
-</thinking>
-
 # Calorie Calculation Photo Submission - Help Guide
 ## Purpose
 This form is used for users to submit photos of their meals to estimate the calorie content.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for the purpose of documenting an inspection of a property during the move-in and move-out process. This form should help property owners and managers identify any damages or issues that need to be addressed before and after the move-out inspection. By using this form, users can ensure that their property is accurately and thoroughly inspected, reducing potential conflicts and disputes between landlords and tenants. The form should not be used as a substitute for actual inspections conducted by licensed professionals. 
-
-The form's purpose and structure have been designed based on general industry practices, but specific requirements may vary depending on local laws and regulations. It's essential to review and adapt the form according to the specific needs and guidelines of your jurisdiction. 
-
-The following guide will walk you through the Move In Move Out Inspection Form, providing explanations and instructions for each field. 
-
-</thinking>
-
 # Move In Move Out Inspection Form - Help Guide
 
 ## Purpose

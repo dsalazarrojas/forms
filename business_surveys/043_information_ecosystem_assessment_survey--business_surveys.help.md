@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the current state of information systems within an organization. It is meant to gather information on various aspects of information management, including information sources, frequency and quality of information, and the presence of information gaps. The form is intended for employees and stakeholders to provide their input on the current state of information systems and identify areas for improvement.</thinking>
-
 # information_ecosystem_assessment_survey - Help Guide
 ## Purpose
 This form is designed to assess the current state of information systems within an organization. It is meant to gather information on various aspects of information management, including information sources, frequency and quality of information, and the presence of information gaps.

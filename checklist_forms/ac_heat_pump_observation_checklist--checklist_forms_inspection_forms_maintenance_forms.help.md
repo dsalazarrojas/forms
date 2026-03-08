@@ -1,13 +1,3 @@
-<thinking>
-
-This AC Heat Pump Observation Checklist form is designed to help auditors or inspectors assess the performance, safety, and maintenance status of a heat pump. The form is divided into four sections: General Inspection Information, Performance Assessment, Maintenance Status, and Safety Assessment. The form requires the inspector to gather specific information about the heat pump's performance, safety, and maintenance status, as well as provide recommendations and notes for any necessary repairs or maintenance.
-
-This form is intended to be used by auditors or inspectors who need to evaluate the condition of heat pumps in various settings, such as residential, commercial, or industrial locations. The form's structure and questions are designed to elicit specific and consistent data that can be used to identify issues and provide actionable recommendations for improvement.
-
-The form should not be used in situations where a more comprehensive evaluation is required, such as during routine maintenance or repairs. In such cases, a more detailed inspection form or checklist might be more suitable.
-
-</thinking>
-
 # AC Heat Pump Observation Checklist - Help Guide
 ## Purpose
 This form is designed to assess the performance, safety, and maintenance status of a heat pump. It is intended to be used by auditors or inspectors to identify issues and provide recommendations for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely intended for collecting information about an individual's or organization's giving behavior, potentially for the purpose of research or surveying donor demographics. The form has multiple pages with a variety of input types, including text, date, time, select, select multiple, integer, and decimal fields. The contact page likely allows the user to provide personal contact information, while other pages ask for more specific details such as date and time, addresses, or numerical values. Each field has a distinct type, and select fields provide options to choose from. Some fields are required, while others are not.
-
-Before proceeding, ensure that this form is not redundant or unnecessary for your specific use case. Double-check the fields and their corresponding types to ensure they are correctly aligned with your requirements.</thinking>
-
 # Global Giving Behavior Survey - Help Guide
 ## Purpose
 

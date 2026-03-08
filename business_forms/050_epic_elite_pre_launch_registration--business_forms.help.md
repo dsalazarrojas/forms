@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # epic_elite_pre_launch_registration - Help Guide
 
 ## Purpose

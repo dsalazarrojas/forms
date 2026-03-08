@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to support key account planning, which is a strategic process to identify, develop, and maintain relationships with key customer accounts. By providing detailed information about key customers, their objectives, and their challenges, this form will help you better understand their needs and expectations. Before proceeding, please ensure you have permission to access the customer data and that this form is not a duplication of an existing survey.
-
-Please note that this form has multiple pages with various fields, each requiring specific information. Be sure to complete all required fields to ensure a comprehensive account plan.
-
-</thinking>
-
 # Key Account Planning Survey - Help Guide
 ## Purpose
 

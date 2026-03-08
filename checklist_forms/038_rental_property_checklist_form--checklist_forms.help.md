@@ -1,13 +1,3 @@
-<thinking>
-The Rental Property Checklist Form is designed to gather essential information about a rental property, including its address, type, condition, rent price, lease start and end dates, and owner/manager details. This form aims to provide a comprehensive checklist to aid in the evaluation and management of rental properties.
-
-The form is intended for use by rental property professionals, such as property managers or administrators, to quickly and accurately gather relevant information about a rental property. It is likely to be used in conjunction with other processes or systems to manage rental property records or for regulatory compliance.
-
-The form can be completed on a per-property basis, allowing users to easily review and update information as needed. The form's fields are designed to be flexible and adaptable, accommodating different types of properties and requirements.
-
-Before starting, ensure you have access to the necessary information and that your responses are accurate and up-to-date.
-
-</thinking>
 # Rental Property Checklist Form - Help Guide
 
 ## Purpose

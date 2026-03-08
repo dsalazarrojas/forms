@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal reasoning:** This form is designed to help coaches evaluate the performance of gymnastics coaches, gathering feedback and ratings on their coaching style, communication skills, and overall experience. It is a comprehensive tool that covers various aspects of coaching, from performance evaluation to follow-up communication. The form is intended to be completed by individuals who have interacted with the coach, and the results will likely be used to identify areas of improvement for the coaching staff. This form should not be used for multiple evaluations of the same coach, as it is designed for single-instance feedback. 
-
-</thinking>
-
 # Gymnastics Coach Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings on the performance of gymnastics coaches. It's intended to help coaches improve their skills and provide a better experience for athletes and parents.

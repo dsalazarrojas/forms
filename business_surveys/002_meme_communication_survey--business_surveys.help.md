@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Meme Communication Survey form. This guide will cover the purpose of the form, how to complete it, and what each field means. I'll aim to make the guide concrete, concise, and practical, while avoiding any unsupported business logic. I'll also base the explanation on the provided YAML fields.</thinking>
-
 # Meme Communication Survey - Help Guide
 
 ## Purpose

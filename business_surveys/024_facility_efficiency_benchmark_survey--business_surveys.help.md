@@ -1,13 +1,3 @@
-<thinking>
-The purpose of the Facility Efficiency Benchmark Survey is to gather information about your company's facilities to help assess and improve their energy efficiency. This information will be used to compare your facility's energy efficiency with industry standards and identify areas for improvement.
-The survey is designed for facilities managers, owners, and operators to provide insights into their energy consumption, usage patterns, and goals for reducing energy waste. By answering these questions, you will be able to:
-- Understand your facility's energy consumption per square foot
-- Identify opportunities for improvement
-- Set realistic targets for energy efficiency
-The answers you provide will help us to create a benchmark for your facility's energy efficiency, providing a baseline to measure progress and identify areas that require attention.
-Please ensure that you are completing the survey for the correct facility. If you are unsure or have any questions, please reach out to your supervisor or the help desk.
-</thinking>
-
 # Facility Efficiency Benchmark Survey - Help Guide
 ## Purpose
 The Facility Efficiency Benchmark Survey is designed to gather information about your facility's energy consumption and usage patterns to help you assess and improve your energy efficiency.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Equipment Functional Test Checklist" form, I will assume that the form is used to test and inspect the equipment in a manufacturing or production environment. The purpose of this form is to ensure that the equipment is functioning correctly and meeting the required standards for operation. This form will help users identify potential issues or defects with the equipment and provide a clear and concise way to report their findings.
-
-Before starting the form, it's essential to review the equipment's history, including its maintenance records, warranty, and any previous test results. This will help you understand the equipment's past performance and identify any recurring issues.
-
-As you fill out the form, make sure to answer each question carefully, taking into account the specific options provided.
-
-</thinking>
-
 # Equipment Functional Test Checklist - Help Guide
 ## Purpose
 The purpose of this form is to perform a functional test of the equipment to ensure it's operating correctly and meeting the required standards for operation.

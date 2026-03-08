@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly. The purpose of this form is to allow customers to cancel their extended warranties, which is a critical part of our business process. We need to verify that the customer is actually canceling their warranty and not just submitting a fake cancellation request. To avoid non-duplication of effort, we should only allow one cancellation request per customer. We also need to ensure that the customer is entering correct information to facilitate processing of their warranty cancellation.
-</thinking>
-
 # Extended Warranty Cancellation Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to cancel their extended warranties. If you're a customer looking to cancel your warranty, please fill out this form accurately and thoroughly.

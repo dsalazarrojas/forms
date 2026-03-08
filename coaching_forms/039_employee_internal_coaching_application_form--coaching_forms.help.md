@@ -1,7 +1,3 @@
-<thinking>
-The Employee Internal Coaching Application Form is designed to collect information from employees who are interested in or are currently part of an internal coaching program. This form helps identify the coaching needs and preferences of employees, ensuring a smooth and effective coaching experience. Before filling out this form, please ensure that you have not already submitted a similar request or application. If you are unsure, please check with your HR or administrative department to avoid duplication of efforts.
-</thinking>
-
 # Employee Internal Coaching Application Form - Help Guide
 ## Purpose
 The Employee Internal Coaching Application Form is used to provide coaching services to employees based on their specific needs and preferences. This form will help identify your coaching requirements and ensure a tailored coaching experience.

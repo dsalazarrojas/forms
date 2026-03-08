@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning block for the form design and technical writing process. I will now output the final help guide in Markdown format.
 
 # Job Planning And Execution Survey - Help Guide

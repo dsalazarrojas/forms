@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register a corporate group for a conference. It is not designed for individual registrations. The form is used to capture relevant details about the group's conference requirements, including group size, number of rooms, and additional requirements. This form is likely used for conference organizers to plan and prepare for the needs of corporate groups.
-</thinking>
-
 # Corporate Group Conference Registration Form - Help Guide
 ## Purpose
 

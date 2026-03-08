@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to audit a store's retail return policy, ensuring that it meets the company's standards and requirements. The form will be used by store managers or employees to provide information about their store's return policy, including its effectiveness and last review date. This form aims to streamline the audit process, making it easier for store owners to ensure their policies are up-to-date and compliant with company regulations.
-
-The form will be reviewed internally for consistency and accuracy, and any discrepancies or concerns raised during the review process will be addressed and clarified prior to finalizing the form.
-
-</thinking>
-
 # ประก  Retail Return Policy Audit Form - Help Guide
 ## Purpose
 The retail return policy audit form is designed to collect information about a store's return policy, ensuring it meets company standards and requirements.

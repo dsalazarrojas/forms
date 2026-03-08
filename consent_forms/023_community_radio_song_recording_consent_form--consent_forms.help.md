@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for artists and bands to grant consent for their music to be featured on a community radio station. The form is used to collect necessary information about the artist, their music, and their permissions for broadcast, recording, and promotional use. This form ensures that the radio station has the necessary rights and permissions to use the music, and provides a clear understanding of how the music can be used. This form is a one-time submission and should not be used for multiple submissions.
-
-This form is designed to be filled out by one person, typically the artist or band representative. It is divided into several sections that cover different aspects of the consent process.
-
-</thinking>
-
 # Community Radio Song Recording Consent Form - Help Guide
 
 ## Purpose

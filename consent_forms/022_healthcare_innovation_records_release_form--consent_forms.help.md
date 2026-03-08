@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to obtain release of information from a patient's healthcare innovation records. The healthcare innovation records are a record of a patient's treatment and care history. This form is required to be completed by the patient or their authorized representative to release this information.
 
 ## Purpose

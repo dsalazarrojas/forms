@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the confidence and satisfaction levels of business users with respect to the treasury oversight process. It is essential to understand that this form is not intended to be a survey of individual opinions but rather a general evaluation of the current state of treasury oversight within the organization. 
-
-Before proceeding, ensure that you have not already completed this form. If you have, your responses will not be recorded again. 
-
-To complete this form, you will be presented with a series of questions and options, some of which are multiple-choice questions and some require free-form text responses. Please answer the questions as accurately and thoroughly as possible, providing your honest opinions and feedback. The form is divided into several sections, each focusing on a specific aspect of the treasury oversight process. 
-
-Please note that answers are not required for all fields, and you should only fill out the fields that are relevant to your experience or opinion. 
-
-</thinking>
-
 # Treasury Oversight Confidence Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions on the current state of treasury oversight within the organization. It is intended to help the treasury team understand areas of improvement and identify opportunities for growth. Your input is invaluable in helping us refine our processes and ensure the highest level of transparency and accountability.

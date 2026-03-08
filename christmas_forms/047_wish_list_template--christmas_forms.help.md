@@ -1,9 +1,3 @@
-<thinking>...This form is for generating a wish list template for the Christmas holiday. To ensure that the form is filled out correctly and that the generated template is useful for your purposes, it's essential that you understand its intention and the meaning behind each field. 
-
-The purpose of this form is to collect information about items you would like to receive as gifts during the Christmas season. Each field in the form serves a specific purpose, and filling out this form correctly will result in a well-structured and accurate wish list template.
-
-</thinking>
-
 # wish_list_template - Help Guide
 ## Purpose
 The wish_list_template is a form used to create a wish list for Christmas. It helps you generate a template that you can use to list the items you would like to receive as gifts during the holiday season.

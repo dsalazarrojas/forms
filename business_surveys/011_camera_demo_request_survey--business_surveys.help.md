@@ -1,11 +1,3 @@
-<thinking>
-This thought process will be used to generate the help guide:
-
-* The form is used to request a camera demo for an organization or group.
-* The form is used for demo requests, not for other purposes, so there is no need to check for non-relevance.
-* The form is likely to be filled out by someone requesting a demo, so there is no need to check for duplication.
-</thinking>
-
 # Camera Demo Request Survey - Help Guide
 ## Purpose
 This form is used to request a camera demo for your organization or group. Please fill out the form to help us better understand your demo requirements and preferences.

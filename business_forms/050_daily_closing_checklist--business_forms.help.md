@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to track and report on daily tasks and activities. It's designed to be completed at the end of each day to ensure that all tasks are accounted for and any issues or concerns are documented. This form is meant to be a quick and easy way to summarize the day's events and provide a record of progress.
-
-When designing this form, we considered the following:
-
-* The form will be used by various teams and users, so it's essential to make sure that it's easy to understand and navigate.
-* The form should be concise and to the point, allowing users to quickly input their information and move on.
-* The form should accommodate different types of tasks and locations.
-
-By considering these factors, we aimed to create a simple and effective form that meets the needs of its users.
-
-</thinking>
-
 # Daily Closing Checklist - Help Guide
 
 ## Purpose

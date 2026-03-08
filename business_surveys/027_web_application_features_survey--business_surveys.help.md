@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from users about the web application's features, such as their perceived importance, level of satisfaction, and any new feature ideas or suggestions. This form will help the development team understand user needs and preferences, and inform future development decisions. Please note that this survey is intended for web application users and is not designed for general feedback or support requests.
-</thinking>
-
 # Web Application Features Survey - Help Guide
 ## Purpose
 

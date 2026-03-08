@@ -1,14 +1,3 @@
-<thinking>
-To confirm the purpose and relevance of the form:
-
-This form is designed to collect information on weekly objectives from employees. The purpose of this form is to gather data on the objectives set by employees for the week. This form will help employees to set clear goals and track their progress.
-
-Checking for duplication or redundancy:
-
-There is no duplication or redundancy in the form fields. Each field is designed to collect a specific type of information.
-
-</thinking>
-
 # weekly_objectives_form - Help Guide
 ## Purpose
 The weekly objectives form is designed to collect information on the objectives set by employees for the week. This form helps employees to set clear goals and track their progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from loyalty program participants to share their data with third parties. The form should only be used in situations where data sharing is required and necessary for program operations. Before using this form, ensure that the program has a valid legal basis for collecting and sharing participant data. 
-</thinking>
-
 # Loyalty Program Data Sharing Consent Form - Help Guide
 ## Purpose
 The Loyalty Program Data Sharing Consent Form is used to collect participant consent for sharing data with third parties. This form is essential for ensuring that participants are aware of and agree to the sharing of their data.

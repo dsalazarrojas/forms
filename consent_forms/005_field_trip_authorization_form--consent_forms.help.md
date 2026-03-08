@@ -1,7 +1,3 @@
-<thinking>
-We are creating a field trip authorization form for students to request permission to take a field trip. This form is intended to gather necessary information from students, including the date and time of the trip, the location, and other relevant details. The form will be used by school administrators to review and approve or deny the trip request based on the provided information. 
-</thinking>
-
 # Field Trip Authorization Form - Help Guide
 
 ## Purpose

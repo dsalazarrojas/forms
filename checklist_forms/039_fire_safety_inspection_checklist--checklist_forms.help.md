@@ -1,9 +1,3 @@
-<thinking>
-The "fire_safety_inspection_checklist" form is designed to facilitate the process of conducting fire safety inspections in various locations. The form is used to document the findings and actions taken during a fire safety inspection, ensuring that the necessary steps for maintaining a fire-safe environment are met.
-
-When reviewing this form, please ensure that all applicable sections are completed accurately and thoroughly. This guide is intended to help users understand each field's purpose and how to fill it out correctly. Duplicate or outdated entries should be avoided to maintain consistency and relevance.
-</thinking>
-
 # fire_safety_inspection_checklist - Help Guide
 ## Purpose
 This form is used to document the results and actions taken during a fire safety inspection. It captures information about the inspection date, location, and findings, as well as the inspector's details and any notes or observations made during the inspection.

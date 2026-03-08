@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect application information from individuals interested in joining an Entrepreneurship Program. It's crucial to ensure only eligible applicants complete it. This guide will help in understanding the form's purpose and how to fill it accurately. Please read through it carefully before proceeding with your application. Ensure you don't duplicate efforts as the program is designed to provide a specific experience for its volunteers. The form will only be shared with authorized personnel within the program, so be honest with your answers, and only provide accurate information. Your participation will be greatly appreciated!
-</thinking>
-
 # Entrepreneurship Program Volunteer Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect your information for an Entrepreneurship Program. Your details will be used to assess your fit for the program and schedule your shifts accordingly. The program aims to provide a unique experience for volunteers interested in entrepreneurship.

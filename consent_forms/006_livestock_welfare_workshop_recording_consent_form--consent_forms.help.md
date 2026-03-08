@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing the consent of workshop participants to record their sessions. This form will likely be filled out by participants upon their arrival or in advance. It's essential to understand the purpose of this form to accurately fill it out, and we check for non-duplication to avoid overwriting existing consent records.
-</thinking>
-
 # Livestock Welfare Workshop Recording Consent Form - Help Guide
 
 ## Purpose

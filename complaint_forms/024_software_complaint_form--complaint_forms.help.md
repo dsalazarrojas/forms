@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Software Complaint Form" that is concrete, concise, and practical, I will first analyze the form's purpose and structure to ensure the guide is relevant and non-duplicative. The form's purpose is to gather information from users about software-related complaints, which includes descriptions of issues, software versions, and additional feedback. The guide should aim to walk users through the steps to complete the form accurately and provide clarity on each field's meaning and importance.
-
-</thinking>
 # Software Complaint Form - Help Guide
 ## Purpose
 The Software Complaint Form is designed to collect detailed information about software-related complaints, allowing the development team to understand the issues and improve the software accordingly.

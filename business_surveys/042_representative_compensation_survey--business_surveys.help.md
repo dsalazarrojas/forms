@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about representative compensation surveys, which are used to gauge the effectiveness of manager and surveyor feedback sessions. This form ensures that both managers and surveyors are surveyed regularly to provide an accurate picture of the organization's performance. It is essential to complete the form accurately to help improve future feedback sessions and provide valuable insights for growth and development...</thinking>
-
 # Representative Compensation Survey - Help Guide
 
 ## Purpose

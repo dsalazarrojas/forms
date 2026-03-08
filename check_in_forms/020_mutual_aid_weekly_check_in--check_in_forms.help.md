@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mutual Aid Weekly Check In - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from users of the 12 Minute Affiliate System Marketing System. The goal is to understand user experience, satisfaction, and areas for improvement. The form is intended to be completed by users who have signed up for the system, with the aim of gathering valuable feedback to enhance the platform.
-
-To ensure the form is completed accurately, it is essential to review the fields carefully before proceeding. This guide will walk you through each field, its purpose, and expected input.
-
-Before proceeding, it is crucial to note that this form is a one-time feedback collection exercise, and your responses will help shape the future development of the 12 Minute Affiliate System Marketing System.
-
-Please refer to the following help guide for a detailed explanation of each field.
-
-</thinking>
-
 # 12 Minute Affiliate System Marketing System - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from users of the 12 Minute Affiliate System Marketing System. Your responses will help us understand your experience, satisfaction, and areas for improvement.

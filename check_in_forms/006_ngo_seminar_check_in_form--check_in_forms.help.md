@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NGO Seminar Check In Form - Help Guide
 
 ## Purpose

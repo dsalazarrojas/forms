@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather end-user feedback on a product, specifically to understand their overall impressions, quality perception, and willingness to recommend it. This form is intended to be completed by end-users who have had experience with the product.
-To ensure that the form is completed accurately and relevantly, please review the fields below and only answer the questions that apply to your experience with the product.
-</thinking>
-
 # Product Testing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on a product, allowing us to understand your overall impressions, quality perception, and willingness to recommend it to others.

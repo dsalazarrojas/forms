@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect and report on the performance metrics of a specific retail store over a period of one week. This form will gather information on the start and end dates of the week, the store's ID and location, and the total transactions, sales, inventory, and foot traffic during that week. 
 
 ## Weekly Retail Performance Report - Help Guide

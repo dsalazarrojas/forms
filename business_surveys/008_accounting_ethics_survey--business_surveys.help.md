@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Ethics Survey - Help Guide
 ## Purpose
 The Accounting Ethics Survey is designed to gauge the opinions and perceptions of accountants within your firm on various aspects of ethics and reporting practices. This survey aims to gather information on respondents' roles, experience, familiarity with ethics codes, and confidence in reporting mechanisms, as well as their suggestions for improvements and preferences for anonymity.

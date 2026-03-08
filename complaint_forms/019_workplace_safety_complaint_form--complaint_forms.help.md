@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect and manage workplace safety complaints. 
-It is meant to be filled out by employees, and its data will be used to track and investigate incidents. 
-The form should only be filled out once per complaint. 
-</thinking>
-
 # Workplace Safety Complaint Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to register a new TSP (Trading Standards and Practices) entity. This form is designed for businesses that need to be registered with the TSP. The form is not intended for individuals or non-business entities. It is recommended that only one form be submitted per business entity to avoid duplication of effort and ensure accurate data collection.
-</thinking>
-
 # TSP Registration Form - Help Guide
 ## Purpose
 The TSP Registration Form is a mandatory form for businesses that need to be registered with the TSP. It is a one-time registration process designed to collect essential business information.

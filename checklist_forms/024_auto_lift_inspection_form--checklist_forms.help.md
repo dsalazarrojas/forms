@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for conducting a thorough inspection of an auto lift in order to determine its safety and functionality. Before proceeding, please ensure you have a clear understanding of the form's purpose and the required actions. 
-
-This form is meant to be filled out by a trained and qualified inspector, typically a mechanic, and is intended to be used as a checklist to ensure the lift is safe to operate and meets the necessary standards. 
-
-Please review the following sections carefully and fill out the form accordingly. Note that some fields are marked as "required," which means that they must be completed in order to submit the form. 
-
-</thinking>
-
 # Auto Lift Inspection Form - Help Guide
 ## Purpose
 The Auto Lift Inspection Form is a comprehensive checklist used to evaluate the safety and functionality of an auto lift. It guides the inspector through a series of questions and checks to ensure the lift is safe to operate and meets the necessary standards.

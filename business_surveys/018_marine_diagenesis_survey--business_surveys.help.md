@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marine Diagenesis Survey - Help Guide
 
 ## Purpose

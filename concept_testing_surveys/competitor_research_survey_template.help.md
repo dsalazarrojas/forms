@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help businesses gather insights into competitor offerings and market perceptions to inform future product development. It's intended to be a tool for research and improvement, not for direct sales or marketing purposes. Please ensure that you're using this form to gather genuine feedback from customers or stakeholders who can provide informed opinions. If you're planning to use this form to sell or promote products, please consider creating a different form.
-
-</thinking>
-
 # Competitor Research Survey Template - Help Guide
 ## Purpose
 This survey template is designed to gather insights into competitor offerings and market perceptions to inform future product development.

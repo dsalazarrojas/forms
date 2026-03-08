@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to document incidents or disputes between festival vendors and the festival organization. It will be used to collect information about the incident, including the date it occurred, the vendor involved, the location, a description of what happened, and any relevant evidence attached to the incident. The incident type will be selected from a dropdown menu with options such as "Vendor Not Providing Goods or Services" or "Vendor Not Meeting Expectations". The form will also collect follow-up information, including the date and any notes from any follow-up actions. This form is intended to help festival organizers and vendors resolve disputes and improve future festival operations. To prevent duplication, users should check if a similar incident has already been reported before submitting this form.
-</thinking>
-
 # Festival Vendor Dispute Incident Report Form - Help Guide
 ## Purpose
 The Festival Vendor Dispute Incident Report Form is designed to document and manage incidents or disputes between festival vendors and the festival organization. This form helps festival organizers collect and track information about incidents, their resolution, and any follow-up actions.

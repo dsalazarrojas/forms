@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about customer interactions and service quality for a weekly report. The purpose of this form is to gather information about customer service interactions, including the number of interactions, resolution status, resolution outcomes, average resolution time, and quality of service. This report is likely used by customer service teams to track their performance and identify areas for improvement. The form should only be completed by authorized personnel, as sensitive information such as email addresses and manager signatures are collected.
-</thinking>
-
 # customer_service_weekly_interaction_report - Help Guide
 ## Purpose
 The customer service weekly interaction report is designed to collect data about customer interactions and service quality. This report is used to track performance and identify areas for improvement.

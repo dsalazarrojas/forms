@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are filling out the Partner Application Form. The purpose of this form is to gather relevant information from prospective partners, which will be used by the organization to evaluate and consider them for partnership potential. This form is typically filled out by individuals representing a business or organization that wishes to partner with the organization.
-
-Before proceeding, it's essential to confirm that the user is filling out this form with a legitimate business purpose. Duplicate submissions should be avoided as they can lead to unnecessary work and potential conflicts. Ensure that you have a genuine interest in partnering with the organization before proceeding.
-
-It's also good practice to review the provided options and required fields before starting the form. This will save time and prevent potential issues during the submission process.
-
-</thinking>
-
 # Partner Application Form - Help Guide
 ## Purpose
 The Partner Application Form is a collection of questions designed to help the organization evaluate and assess potential partnership opportunities. This form gathers necessary information about the business or organization applying for partnership and their representative.

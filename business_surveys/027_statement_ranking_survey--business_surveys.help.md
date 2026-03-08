@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Statement Ranking Survey - Help Guide
 
 ## Purpose

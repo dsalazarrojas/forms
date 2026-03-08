@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting maintenance complaints. It is intended for use when a complaint arises about a maintenance issue. Before filling out this form, please ensure that you have not previously reported this complaint and that it is not a recurring issue. If you are unsure, please contact the maintenance team for clarification.
-</thinking>
-
 # Maintenance Complaint Form - Help Guide
 ## Purpose
 This form is used to report maintenance complaints to the maintenance team. It allows you to provide details about the issue and its location, and helps the team to track and prioritize complaints.

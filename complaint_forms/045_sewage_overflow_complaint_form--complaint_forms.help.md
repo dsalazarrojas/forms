@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Sewage Overflow Complaint Form is used correctly to gather accurate and helpful information from users. Before filling out the form, please verify that your concern is related to a sewage overflow issue. If you're unsure, you can contact our support team to confirm. Additionally, please note that this form is for reporting sewage overflows, not for general complaints or issues not related to sewage overflows. Please ensure that you're not submitting duplicate reports by checking our public records or contacting our support team to see if the issue has already been reported.
-</thinking>
-
 # Sewage Overflow Complaint Form - Help Guide
 ## Purpose
 The Sewage Overflow Complaint Form is designed to report sewage overflows in the community. This form will help us to identify the location and severity of the issue, which will allow us to respond and fix the problem efficiently.

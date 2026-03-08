@@ -1,7 +1,3 @@
-<thinking>
-The Hotel Maintenance Checklist form is a tool designed to track and record the maintenance activities and schedules of a hotel's facilities and equipment. The purpose of this form is to ensure that regular maintenance tasks are performed and documented in a timely manner to prevent equipment malfunctions and minimize operational disruptions. It also allows for recording and tracking the status of maintenance items, including their priority level and history. To use this form, users must be familiar with hotel maintenance procedures and schedules, and have a basic understanding of the types and categories of maintenance tasks and equipment.
-</thinking>
-
 # Hotel Maintenance Checklist - Help Guide
 ## Purpose
 The Hotel Maintenance Checklist is a tool used to track and record maintenance activities and schedules for hotel facilities and equipment. It helps ensure that regular maintenance tasks are performed and documented in a timely manner, minimizing the risk of equipment malfunctions and operational disruptions.

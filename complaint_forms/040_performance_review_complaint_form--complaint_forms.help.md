@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is intended to collect feedback and complaints from employees regarding their performance reviews. It's designed to allow users to easily submit issues they faced during the review process. To prevent duplicate submissions, the form should not be filled out by the same user more than once in a short period of time... </thinking>
-
 # Performance Review Complaint Form - Help Guide
 ## Purpose
 This form is intended to collect your feedback and complaints regarding your performance review. It helps us to identify areas of improvement and provide a more accurate review process. Please fill out the form carefully and truthfully, and do not submit it if you've already reported the same complaint.

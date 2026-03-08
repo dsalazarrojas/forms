@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Babysitting Registration Form - Help Guide
 ## Purpose
 The Babysitting Registration Form is designed to collect information from families who are requesting babysitting services from our organization. This form helps us understand the family's needs, provide a safe and comfortable environment for the children, and ensure that we can match the family with a suitable sitter.

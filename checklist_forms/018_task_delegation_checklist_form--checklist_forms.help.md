@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist with the task delegation process, ensuring that tasks are properly assigned and tracked. The form is meant to be a checklist for confirming task delegation details. It's essential to complete the form accurately to avoid confusion and miscommunication. Before proceeding, please review the fields below to understand their purpose and requirements.
-</thinking>
-
 # Task Delegation Checklist Form - Help Guide
 
 ## Purpose

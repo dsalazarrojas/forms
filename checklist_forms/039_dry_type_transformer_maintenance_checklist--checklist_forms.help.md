@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to guide users through the maintenance process of a dry-type transformer. It helps users track and record essential information for routine inspections, maintenance records, and other relevant details. This form is likely used by maintenance teams or field engineers to ensure that transformers are properly maintained and monitored. 
-
-Before proceeding, please ensure that the form is being used for its intended purpose and not for other purposes that may be better served by other forms or systems.
-
-The form has 14 fields, which are split into several sections. This guide will walk through each field to help users complete it correctly.
-
-</thinking>
-
 # dry-type-transformer-maintenance-checklist - Help Guide
 ## Purpose
 This form is designed to guide users through the maintenance process of a dry-type transformer, helping track and record essential information for routine inspections, maintenance records, and other relevant details.

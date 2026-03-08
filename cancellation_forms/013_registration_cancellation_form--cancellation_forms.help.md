@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Registration Cancellation Form - Help Guide
 ## Purpose
 This form is used to record the cancellation of registration in a system, likely for a user or participant in a course, event, or similar activity.

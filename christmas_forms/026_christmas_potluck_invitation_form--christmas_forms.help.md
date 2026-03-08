@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from guests attending a Christmas potluck event. The purpose of this form is to gather essential details from each guest, including their name, contact information, RSVP status, and what dish they plan to bring to the event. This form is used to ensure that guests are accounted for and that the host has an idea of what to expect in terms of food and supplies.
-
-To prevent duplication, this form should only be filled out once per guest.
-
-The form consists of several sections, including guest information, dish details, and volunteer help. Each section has its own set of fields that require specific information. Please make sure to fill out the form accurately and completely.
-
-Before filling out the form, make sure to review the options carefully and choose the correct answers.
-
-</thinking>
-
 # Christmas Potluck Invitation Form - Help Guide
 ## Purpose
 The Christmas Potluck Invitation Form is designed to collect information from guests attending the event, ensuring the host has a clear understanding of who is attending and what they will bring.

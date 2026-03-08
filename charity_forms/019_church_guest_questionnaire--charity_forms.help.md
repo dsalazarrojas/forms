@@ -1,7 +1,3 @@
-<thinking>
-We've created this form to gather information about your visit to our church, so we can better understand your experience and gather feedback to improve our services. This form is intended for guests who have visited our church, and it's designed to be a quick and easy way to share your thoughts and suggestions. Please note that this form is for internal use only, and your responses will not be shared publicly.
-</thinking>
-
 # Church Guest Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from our guests to help us understand their experiences and preferences when visiting our church.

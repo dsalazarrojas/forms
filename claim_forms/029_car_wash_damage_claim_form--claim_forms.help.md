@@ -1,9 +1,3 @@
-<thinking>Before we begin creating the help guide, let's quickly review the purpose and context of this form. This form is called "Car Wash Damage Claim Form" and it seems to be designed for customers or clients to submit claims for damages incurred during a car wash service. The form appears to be focused on gathering information about the claimant, the car wash business, the incident, and the vehicle involved. It's likely that this form will be used by car wash businesses to handle customer complaints and issues related to car wash services.
-
-To ensure this form is used correctly, let's check for any potential duplication or overlap in fields. Upon reviewing the form, we can see that some fields seem to be related to each other, such as the "car wash business name", "car wash location", and "car wash phone", which could be considered as parts of a single unit.
-
-Before creating the help guide, let's confirm if this is correct and if there are any other areas that need clarification or rewording.</thinking>
-
 # Car Wash Damage Claim Form - Help Guide
 ## Purpose
 This form is used to submit a claim for damages incurred during a car wash service. Please fill out this form with accurate and detailed information to help us process your claim efficiently.

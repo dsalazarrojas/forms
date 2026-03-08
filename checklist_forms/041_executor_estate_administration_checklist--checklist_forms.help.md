@@ -1,7 +1,3 @@
-<thinking>
-The Executor Estate Administration Checklist form is used to gather information about the estate administration process. This form is designed to be completed by the executor of an estate to provide an overview of the estate's status and progress. It should only be completed when the estate administration process is ongoing, as it provides details about the current state of the estate, including any challenges or issues that may need to be addressed. This form should not be used for general estate planning or planning for a future estate administration. 
-</thinking>
-
 # Executor Estate Administration Checklist - Help Guide
 ## Purpose
 

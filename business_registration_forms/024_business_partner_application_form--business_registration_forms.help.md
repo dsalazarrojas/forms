@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from business partners seeking to partner with your company. The purpose of this form is to gather relevant details about the business entity, its structure, and its interests. 
-
-The form is divided into several sections, which will help guide you through the process of providing information about your business.
-
-Before you start, please note that some fields are required and must be filled out completely. You will also see some fields with options, where you can select one or more relevant answers.
-
-The form consists of several pages, each with its own set of fields.
-
-</thinking>
-
 # Business Partner Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from business partners seeking to partner with your company. The goal is to gather the necessary details about your business entity, its structure, and its interests to determine potential partnership opportunities.

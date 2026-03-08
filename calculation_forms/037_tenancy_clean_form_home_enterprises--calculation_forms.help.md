@@ -1,22 +1,3 @@
-<thinking>
-The AI-generated form "tenancy_clean_form_home_enterprises" is designed to collect client information and schedule cleanings for a home cleaning service. This form likely caters to businesses that offer cleaning services, and its purpose is to provide a structured way to obtain necessary details from clients for efficient service delivery. This form is part of a larger collection of forms used to manage interactions with clients.
-
-To avoid duplication, it's essential to check if a similar form already exists in the platform or system before creating a new instance of this form. This form has a distinct purpose and structure, making it a unique addition to the platform.
-
-This form collects the following information:
-- Client Information (tenant_info)
-- Property Address (property_details)
-- Cleaning Services (cleaning_details)
-- Availability (availability)
-- Start Date (start_date)
-- End Date (end_date)
-- Message to us (client_message)
-- Contact Information (contact_info)
-
-Please note that this form is an original creation and does not copy any proprietary content from other platforms.
-
-</thinking>
-
 # tenancy_clean_form_home_enterprises - Help Guide
 ## Purpose
 This form is designed for businesses that offer home cleaning services to collect client information and schedule cleanings efficiently.

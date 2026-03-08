@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not duplicated or filled out by someone without understanding its purpose. This form is meant to help us understand and confirm the product market fit of a business. Product market fit is a crucial concept in business strategy that refers to the match between a product or service and the needs of its target market. By filling out this form, you will be helping us assess how well your product or service aligns with its target audience's needs and expectations. Please take the time to carefully read and fill out this form accurately to help us better understand your business.
-</thinking>
-
 # Product Market Fit Confirmation - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-As I review the provided YAML fields, I can see that the Facility Maintenance Checklist Form is a comprehensive tool designed to gather information from users. It appears to be a form with multiple pages, each containing text fields for various "Facility Maintenance Tasks" and "Contact Details" fields. The form has 20 pages, with some fields being required while others are not. The "Submit" field is a select_one type field with options "Yes" and "No". 
-
-This form seems to be intended for users to report their maintenance activities and possibly upload supporting documents. However, without further context, it's hard to determine the exact purpose and workflow behind this form.
-
-Upon closer inspection, it appears that the form is structured in a way that makes it difficult for users to understand its purpose and how to complete it. The numerous pages and fields may lead to confusion. To create a user-friendly guide, I will need to break down the form into its purpose, how to complete it, and provide field-by-field explanations.
-
-</thinking>
-
 # Facility Maintenance Checklist Form - Help Guide
 ## Purpose
 The Facility Maintenance Checklist Form is a tool designed for users to report their maintenance activities and upload supporting documents. The form is used to track and manage facility maintenance tasks and associated contact details.

@@ -1,5 +1,3 @@
-<thinking>Business Agility Consulting Survey: A tool to help organizations assess their current state of agility and identify areas for improvement. This form is designed to help business leaders understand their organization's agility maturity level and what steps they can take to achieve higher levels of agility. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation based on public survey topic metadata. It's a self-assessment tool, so please answer questions honestly, and don't worry about right or wrong answers - your responses will help us understand your needs.</thinking>
-
 # Business Agility Consulting Survey - Help Guide
 ## Purpose
 

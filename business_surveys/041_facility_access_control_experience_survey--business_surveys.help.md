@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to gather feedback from users about their experience with facility access control. This includes their experience with facilities such as offices, warehouses, or other facilities. The purpose of this form is to understand their experiences, including the type of facilities they visit, how often they visit, and how they rate their overall experience. This feedback will help us improve our access control systems and services.</thinking>
-
 # Facility Access Control Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback on your experience with facility access control. Your input will help us improve our services.

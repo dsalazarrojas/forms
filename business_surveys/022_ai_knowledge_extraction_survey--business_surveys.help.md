@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their current knowledge landscape, challenges, and interests in AI-powered knowledge extraction. The form is divided into four sections:
-1. Respondent Information: This section collects the respondent's name, job role, and department.
-2. Current Knowledge Landscape: This section inquires about the primary sources of knowledge for the respondent's team.
-3. AI Knowledge Extraction: This section assesses the respondent's interest in AI-powered knowledge extraction, their biggest challenges in finding information, and their desired features for such a tool.
-4. Additional Information: This section asks about the typical sensitivity of the data handled, potential risks and concerns, and a specific use case where AI extraction would be helpful.
-
-The form is designed to be completed by respondents with the following characteristics:
-- They are familiar with AI-powered knowledge extraction.
-- They are interested in the concept.
-- They are aware of their organization's knowledge landscape.
-
-Please note that this form is part of a research project. The collected data will be used to better understand the needs and challenges of organizations and potential users of AI-powered knowledge extraction. Please respond truthfully and to the best of your abilities.</thinking>
-
 # AI Knowledge Extraction Survey - Help Guide
 ## Purpose
 

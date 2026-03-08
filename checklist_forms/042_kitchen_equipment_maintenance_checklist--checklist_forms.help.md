@@ -1,8 +1,3 @@
-<thinking>
-## Purpose
-The kitchen_equipment_maintenance_checklist is designed to aid in the maintenance planning and tracking of kitchen equipment in a kitchen or restaurant setting. This form collects information on the type of maintenance, frequency, cost, and status of various kitchen equipment to help identify maintenance needs and schedules.
-</thinking>
-
 # kitchen_equipment_maintenance_checklist - Help Guide
 ## How To Complete This Form
 To complete this form, follow these steps:

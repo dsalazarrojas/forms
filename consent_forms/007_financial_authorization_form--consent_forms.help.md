@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request financial authorization from users for a specific transaction. This form should be completed by users who wish to authorize or decline financial transactions. Please ensure that you are completing this form for a valid transaction and not for other purposes. To avoid errors, please ensure that you have filled out all required fields and that your answers are accurate. This form is for internal use only and the information provided will be reviewed by authorized personnel.
-</thinking>
-
 # Financial Authorization Form - Help Guide
 ## Purpose
 This form is used to request financial authorization from users for a specific transaction. It collects information about the user's identity, transaction details, and consent to the transaction.

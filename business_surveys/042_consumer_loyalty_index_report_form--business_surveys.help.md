@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Consumer Loyalty Index Report Form, we need to understand the form's purpose, which is to collect data from customers about their loyalty to the brand. This form likely aims to measure customer satisfaction, commitment, and overall experience with the brand. It's essential to ensure that the respondents provide honest and accurate information to help the brand improve its services.
-
-Before creating the help guide, we need to confirm that the form is not a duplicate or redundant form. If it is, we should adjust the content to avoid duplication.
-
-</thinking>
-
 # Consumer Loyalty Index Report Form - Help Guide
 ## Purpose
 This form is designed to measure customer loyalty, satisfaction, and overall experience with the brand. By providing feedback through this form, you will help the brand improve its services and better understand your needs.

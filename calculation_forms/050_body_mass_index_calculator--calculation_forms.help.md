@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate the Body Mass Index (BMI) of users based on their height and weight. The purpose of this form is to provide users with an estimate of their BMI and categorize them into different weight classes. To ensure accurate calculations, users need to input their correct height and weight values in the appropriate units. The form also asks for additional information such as age, activity level, and health conditions to provide a more comprehensive understanding of the user's health.
-</thinking>
-
 # Body Mass Index Calculator - Help Guide
 
 ## Purpose

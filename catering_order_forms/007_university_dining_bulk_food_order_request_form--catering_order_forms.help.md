@@ -1,7 +1,3 @@
-<thinking>
-...this form is used to create or update a new university dining bulk food order request form, which is likely used to request bulk food orders for events or functions within the university dining system. Ensure that only one form is created per event. The form should not be used to duplicate existing requests or orders.
-</thinking>
-
 # University Dining Bulk Food Order Request Form - Help Guide
 
 ## Purpose

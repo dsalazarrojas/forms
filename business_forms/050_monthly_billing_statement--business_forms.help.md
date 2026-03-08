@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for monthly billing statements. It seems to be a simple form with various fields related to customer and payment information. I will create a help guide that explains each field and its purpose clearly.
-</thinking>
-
 # Monthly Billing Statement - Help Guide
 ## Purpose
 The Monthly Billing Statement form is used to collect information for monthly billing purposes, including customer details, payment methods, charges, balances, and other relevant information. This form helps ensure accuracy and completeness of the billing process.

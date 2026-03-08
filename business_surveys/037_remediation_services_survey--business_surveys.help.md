@@ -1,15 +1,3 @@
-<thinking>
-
-## Form Title: Remediation Services Survey
-
-Internal purpose: This form is designed to collect feedback from customers on their remediation services experience. It is meant to be used by customers to rate and review their experience with our remediation services, providing insights to improve our services.
-
-Relevance: This form is intended to collect feedback from customers after they have interacted with our remediation services. It should only be filled out by customers who have received remediation services from our organization.
-
-Non-duplication: This form should not be filled out by customers who have already completed a remediation services survey. To avoid duplication of effort, please ensure that you have not already provided feedback on our remediation services.
-
-</thinking>
-
 # Remediation Services Survey - Help Guide
 ## Purpose
 

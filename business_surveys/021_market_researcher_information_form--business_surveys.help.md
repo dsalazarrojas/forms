@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information from market researchers about their contact details and work experience. It is a critical form for our market research team to understand who they are dealing with and ensure accurate communication and collaboration. Please ensure this form is filled out correctly for accurate representation.
-</thinking>
-
 # Market Researcher Information Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from market researchers about their personal contact details and work experience.

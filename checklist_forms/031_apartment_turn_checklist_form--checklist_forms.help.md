@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data on the status of an apartment unit during the turn-over process. It captures various aspects of the unit's condition, including cleanliness, appliance functionality, plumbing, HVAC system, pest control, odor treatment, hardware replacement, and estimated repair costs. This form is meant to provide an efficient and structured way to document and track the turn-over process.
-
-To avoid duplication of effort, please ensure that the data collected here is up-to-date and reflects the current status of the unit.
-
-Please ensure that all relevant fields are filled out accurately, and take note that some fields may be conditional or optional based on the circumstances.</thinking>
-
 # Apartment Turn Checklist Form - Help Guide
 ## Purpose
 The Apartment Turn Checklist Form is designed to collect and document the status of an apartment unit during the turn-over process, ensuring that all relevant aspects are addressed and updated accurately.

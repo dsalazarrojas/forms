@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect complaints from customers about their experience with a restaurant. The purpose of this form is to gather information about the issue, the department responsible for the issue, and the contact information of the customer. It's likely that this form will be used internally within the restaurant to track and address customer complaints in a centralized manner. It's essential to ensure that the complaints are not duplicated, as this form is intended for internal use only. Therefore, customers may be advised to only submit one complaint per issue to prevent over-reporting.
-</thinking>
-
 # Restaurant Complaint Form - Help Guide
 ## Purpose
 The Restaurant Complaint Form is designed to collect and track customer complaints within the restaurant environment. This form aims to provide an efficient means for customers to report issues and for restaurant staff to address and manage these complaints effectively.

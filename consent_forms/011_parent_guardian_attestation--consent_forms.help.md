@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Guardian Attestation - Help Guide
 
 ## Purpose

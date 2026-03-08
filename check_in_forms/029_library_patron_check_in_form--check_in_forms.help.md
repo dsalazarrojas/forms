@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to track and record information about library patrons who have visited the library. This information is primarily for internal use and is not intended to be shared publicly. This form should only be filled out when a patron has visited the library and is intended for staff use only.
-</thinking>
-
 # Library Patron Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about library patrons who have visited the library. This information will be used for internal tracking and record-keeping purposes.

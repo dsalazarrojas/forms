@@ -1,9 +1,3 @@
-<thinking>
-The form "Lyft Inspection Form Checklist" is designed to gather information about a vehicle's condition, make, year, and other relevant details for inspection purposes. This form is likely used in a logistics or automotive context where a vehicle's status and history are being tracked. To ensure accuracy, please ensure that all fields are filled out correctly and consistently with the actual vehicle conditions.
-
-Before filling out this form, please make sure you have all the necessary information about the vehicle, including its make, year, model, and current status. This form should not be filled out for multiple vehicles simultaneously, as each vehicle's information should be entered separately.
-
-</thinking>
 # lyft_inspection_form_checklist_forms - Help Guide
 ## Purpose
 This form is designed to collect information about a vehicle's inspection, including its make, year, model, and condition. It's used to track and update a vehicle's status and history.

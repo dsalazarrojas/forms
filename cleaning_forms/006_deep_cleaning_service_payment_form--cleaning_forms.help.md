@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Deep Cleaning Service Payment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for placing orders with Amul, a milk and dairy products company. The purpose of this form is to collect order information from customers, including customer details, delivery details, product preferences, and payment information. The form helps in processing and confirming the orders. The form has 17 sections and 54 fields, each section having a specific set of fields related to different aspects of the order, such as customer information, delivery details, product choices, payment methods, and confirmation.
-</thinking>
-
 # Amul Order Form - Help Guide
 ## Purpose
 The Amul Order Form is used to collect order information from customers, including customer details, delivery details, product preferences, and payment information. This form helps in processing and confirming the orders.

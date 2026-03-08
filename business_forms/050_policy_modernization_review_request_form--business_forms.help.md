@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to request a review of an existing policy, which may involve updating or refining the policy's content. This form is not intended for policy creation or new policy submissions. Review requests are usually made by existing policy owners or stakeholders, and it is expected that the submitter has already been involved with the policy. To avoid duplicates, please ensure that you have not already submitted a review request for the same policy number. If you have any doubts about whether this form is relevant to you, please review our policy review process documentation.
-</thinking>
-
 # Policy Modernization Review Request Form - Help Guide
 ## Purpose
 This form is designed to request a review of an existing policy, which may involve updating or refining its content.

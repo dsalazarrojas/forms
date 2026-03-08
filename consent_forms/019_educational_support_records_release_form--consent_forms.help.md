@@ -1,7 +1,3 @@
-<thinking>
-The Educational Support Records Release Form is used to obtain consent for the release of educational records from an institution. The form is used to provide a legal basis for the transfer of information between institutions, ensuring that the records are accurate and up-to-date. This form is typically used in cases where a student or parent is requesting access to academic records from an institution.
-</thinking>
-
 # Educational Support Records Release Form - Help Guide
 ## Purpose
 The Educational Support Records Release Form is used to obtain consent for the release of educational records from an institution. This form is used to ensure that records are accurately and lawfully transferred between institutions.

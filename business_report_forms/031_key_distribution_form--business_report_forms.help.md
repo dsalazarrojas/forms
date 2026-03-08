@@ -1,5 +1,3 @@
-<thinking>This form is intended to be used by authorized personnel for distributing keys and other sensitive information. It captures relevant details such as notes, distribution dates, and signatures from key stakeholders. Please ensure you have the necessary permissions and authorization to access this form.</thinking>
-
 # Key Distribution Form - Help Guide
 ## Purpose
 The Key Distribution Form is used to record and document the distribution of sensitive keys and other information between authorized personnel.

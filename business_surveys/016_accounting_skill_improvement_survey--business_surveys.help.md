@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from accounting professionals about their skills and interests in training. The primary purpose is to understand their proficiency levels in various accounting areas, such as financial reporting, audit and compliance, and software skills. This data will help the training department plan relevant and effective training programs. The form is intended to be completed by accounting professionals who are considering or have already participated in the training program.
-
-</thinking>
-
 # Accounting Skill Improvement Survey - Help Guide
 ## Purpose
 

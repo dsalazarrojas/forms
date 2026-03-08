@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for film confirmations. It's meant to be completed by users who have submitted a film for review. The form is used to confirm details about the film, including its title, director, and submission details. It's a critical part of the review process to ensure that all necessary information is accurate and up-to-date. Please note that all fields are required unless otherwise specified.
-</thinking>
-
 # Film Confirmation Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-We will assume that this form is designed to collect information about a project related to soft material crafting, such as yarn or fiber crafts. This form is likely used to gather data for market research, sales, or community engagement purposes. We will focus on providing clear and concise explanations for end-users to understand the form's purpose and how to complete it correctly.
-
-</thinking>
-
 # Soft Material Crafting Survey - Help Guide
 ## Purpose
 The Soft Material Crafting Survey is a form designed to gather information about your soft material crafting projects. This includes data on project types, material types, colors, and other relevant details. Please answer the questions truthfully to help us better understand the soft material crafting market.

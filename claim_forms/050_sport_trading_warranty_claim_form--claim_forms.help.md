@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture information for potential warranty claims related to sports trading activities. The purpose of this form is to gather relevant details about the claimant's contact information, product details, claim specifics, and other relevant data. This form aims to streamline the warranty claim process and ensure that all necessary information is collected in a structured manner. To avoid duplication, users should only submit one claim per form.
-
-</thinking>
-
 # Sport Trading Warranty Claim Form - Help Guide
 ## Purpose
 The Sport Trading Warranty Claim Form is designed to collect information from individuals who wish to file a warranty claim related to sports trading activities.

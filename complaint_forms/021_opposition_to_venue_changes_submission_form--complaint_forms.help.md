@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who wish to express opposition to changes made to a venue. This form is intended for users who have been affected by these changes and wish to voice their concerns. It is crucial that each submission is relevant and not duplicate. Please ensure the form is filled out carefully and accurately, and refrain from submitting duplicate or unnecessary information.
-</thinking>
-
 # Opposition To Venue Changes Submission Form - Help Guide
 
 ## Purpose

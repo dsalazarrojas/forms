@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from attendees for seminars or conferences. The form is intended to capture the attendee's details, including their interest in attending the seminar, any questions or concerns they may have, and payment information. The form is required for all attendees, as it provides essential details for the event organizers and ensures that attendees are aware of the terms and conditions of their registration. Please note that the form is not intended for duplicate submissions, and each attendee should fill it out only once.
-</thinking>
-
 # seminar_form - Help Guide
 ## Purpose
 The seminar registration form is designed to collect attendee information and details for seminars or conferences.

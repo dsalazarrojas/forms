@@ -1,17 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I've reviewed this form and noticed that it's designed for businesses to organize their income and expenses. This form likely helps businesses in financial planning, accounting, and tax preparation. To confirm this, I'll provide a brief internal reasoning block that outlines the form's purpose and potential use cases.
-
-This form is used for businesses to track and report their income and expenses over a specific period. The form is likely used for financial planning, accounting, and tax preparation purposes. It helps businesses to:
-
-*   Record and categorize their income sources (product sales, service income, rental or lease income, investment income, and other income)
-*   Track their operating expenses (salaries and wages, rent or lease, utilities, insurance, office supplies, equipment and furniture, marketing and advertising, professional services, travel expenses, and other operating expenses)
-*   Calculate their total income and total operating expenses
-
-This form is useful for businesses that need to regularly review and update their financial data.
-
-</thinking>
-
 # Business Income And Expense Organizer - Help Guide
 ## Purpose
 This form is used for businesses to track and report their income and expenses over a specific period. It helps with financial planning, accounting, and tax preparation.

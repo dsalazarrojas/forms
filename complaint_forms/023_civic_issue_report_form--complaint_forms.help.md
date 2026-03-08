@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civic Issue Report Form - Help Guide
 ## Purpose
 The Civic Issue Report Form is designed to gather information about issues or concerns that need attention from local authorities. This form allows citizens to report problems they have encountered, such as safety concerns, noise disturbances, or environmental issues, and provides a way for authorities to quickly understand the situation and take appropriate action.

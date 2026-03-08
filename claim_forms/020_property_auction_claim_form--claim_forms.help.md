@@ -1,11 +1,3 @@
-<thinking>
-
-The Property Auction Claim Form is used to submit a claim for a property that has been put up for auction. It allows the representative of the property's owner to claim and submit relevant details about the property, including its type, address, auction date and time, and other relevant information. This form is typically used by authorized parties to ensure accurate and timely submission of claims. It's essential to review the form carefully before completing it to avoid duplication or submission of incomplete claims.
-
-Before starting, ensure that you have all the necessary information and authorization to submit a claim. The form consists of several steps, each requiring specific information.
-
-</thinking>
-
 # Property Auction Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information about a property being put up for auction. It's meant for authorized representatives of the property's owner to provide essential details for the auction process.

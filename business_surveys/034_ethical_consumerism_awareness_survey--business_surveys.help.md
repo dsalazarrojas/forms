@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on consumers' awareness and practices related to ethical consumerism, specifically regarding the environmental impact and sustainability of purchasing decisions. This form is designed to gather data on the frequency and nature of consumers' considerations for sustainable brands, their purchasing patterns, and their understanding of where their money goes. The goal is to provide insights that can inform businesses on how to improve their sustainable practices and better meet the needs and expectations of their customers.
-
-To prevent duplication of existing surveys, we must ensure that this form is distinct from other surveys on similar topics and does not ask questions that have already been answered by the user in previous surveys.
-
-</thinking>
-
 # Ethical Consumerism Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information on consumers' awareness and practices related to ethical consumerism, specifically regarding the environmental impact and sustainability of purchasing decisions.

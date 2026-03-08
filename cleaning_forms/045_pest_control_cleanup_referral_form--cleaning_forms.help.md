@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pest_control_cleanup_referral_form - Help Guide
 ## Purpose
 The Pest Control Cleanup Referral Form is used to report pest control issues that need to be addressed. This form collects information about the pest control issue, including the location, priority, and assigned tool or technician. The information collected will be used to assign the task to the right technician and ensure that the pest control issue is resolved efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arctangent Calculation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from clients after a service appointment at a salon. The form is meant to be used by the salon staff to gather information on the quality of the services provided, the client's experience, and any notes or comments they may have. To ensure that all feedback is captured accurately, please make sure to only complete this form once after each service appointment. 
-</thinking>
-
 # Lash Client Experience Review Appointment Form - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation from clients after a service appointment at the salon. It helps to ensure that the services provided meet the client's expectations and to identify areas for improvement.

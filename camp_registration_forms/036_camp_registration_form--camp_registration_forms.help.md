@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians about their child's contact information, medical needs, and preferences for a summer camp or other recreational activity. The form aims to ensure that all necessary details are captured for the child's safety and well-being during the camp experience.
-
-The form is designed to gather information about the primary contact person's contact details, the child's name, date of birth, and other relevant information such as medical conditions, swimming proficiency, and dietary restrictions. It also asks for the child's grade level and preferred camp session. This information is used to ensure that the child is properly taken care of and that the camp can cater to their specific needs.
-
-Before completing this form, please note that it is intended for parents or guardians to provide information about their child. It is crucial that the information provided is accurate and up-to-date to ensure the child's safety and smooth experience at the camp.</thinking>
-
 # Camp Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from parents or guardians about their child's contact details, medical needs, and preferences for a summer camp or recreational activity.

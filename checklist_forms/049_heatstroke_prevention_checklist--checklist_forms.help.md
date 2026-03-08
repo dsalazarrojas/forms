@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users assess their risk of heat stroke and take necessary precautions to prevent it. The "Heatstroke Prevention Checklist" is a critical tool in the prevention of heat-related illnesses, which can occur when the body's temperature control system is overloaded. The form is intended to be completed by individuals who are planning or participating in activities that take place in hot and humid environments. By filling out this form, users will be able to identify potential risks and take steps to mitigate them. 
-
-Please note that this form is not intended to replace medical advice or emergency response protocols. If you suspect someone is experiencing heat stroke, please call for emergency assistance immediately.
-</thinking>
-
 # Heatstroke Prevention Checklist - Help Guide
 ## Purpose
 This help guide is designed to assist users in completing the Heatstroke Prevention Checklist form. The purpose of this form is to identify potential risks and take steps to prevent heatstroke.

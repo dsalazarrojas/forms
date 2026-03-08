@@ -1,8 +1,3 @@
-<thinking>
-To create a helpful guide, I'll need to understand the form's purpose and ensure that I'm not duplicating any information that's already known within the organization. The form is for a "Snowmobile Equipment Exchange Survey", which suggests it's for collecting information about snowmobiles being exchanged or traded. This form is likely used to gather details about the equipment, contact information, and other relevant data from users. To avoid duplication, I'll focus on explaining the form's purpose and how to complete it, rather than reiterating internal information.
-
-</thinking>
-
 # Snowmobile Equipment Exchange Survey - Help Guide
 ## Purpose
 The Snowmobile Equipment Exchange Survey is a tool to collect information about snowmobiles being exchanged or traded. This form helps users provide details about their equipment, including its type, condition, and price, as well as contact information for follow-up inquiries.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on hospital waste reduction practices from hospital staff. It seems relevant to the field of healthcare and waste management.
-</thinking>
-
 # Hospital Waste Reduction Practices Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information from hospital staff on their current practices and suggestions for reducing waste in the hospital. This will help identify areas of improvement and provide insights for future waste reduction initiatives.

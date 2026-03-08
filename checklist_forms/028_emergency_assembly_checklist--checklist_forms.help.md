@@ -1,11 +1,3 @@
-<thinking>
-
-The form's purpose is to gather information during an emergency assembly meeting, which is a gathering of people in response to an emergency situation. This form is likely used in a business or organizational setting where safety is a top priority. The form helps in collecting relevant details of the assembly, including attendance of individuals, incidents that occurred, and other essential details. The goal is to have a clear and comprehensive record of what happened during the assembly, which can aid in subsequent actions and decision-making.
-
-To avoid duplication, the form is likely designed for use in specific contexts or situations where the same type of assembly is repeated, such as in a company with regular fire drills or emergency response exercises.
-
-</thinking>
-
 # Emergency Assembly Checklist - Help Guide
 
 ## Purpose

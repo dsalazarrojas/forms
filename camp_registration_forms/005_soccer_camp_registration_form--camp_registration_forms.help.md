@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from individuals who want to participate in the Soccer Camp. The purpose of this form is to gather necessary details to ensure a smooth and enjoyable experience for all attendees. Please make sure to fill out the form carefully and accurately to avoid errors. Before starting to fill out the form, double-check that you haven't already submitted a registration form for the same camp.
-</thinking>
-
 # Soccer Camp Registration Form - Help Guide
 ## Purpose
 

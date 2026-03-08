@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain the necessary consents and releases from parents or guardians before their child can participate in camp activities. This form ensures that the parent or guardian has provided their consent for their child to engage in various aspects of the camp program, including medical emergencies, photography, and other activities. To ensure that the necessary consents and releases are in place, please fill out this form carefully and thoroughly.
-</thinking>
-
 # Camp Knock Consent Form - Help Guide
 
 ## Purpose

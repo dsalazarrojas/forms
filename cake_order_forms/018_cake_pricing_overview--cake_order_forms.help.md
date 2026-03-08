@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cake Pricing Overview - Help Guide
 ## Purpose
 This form is designed to help customers provide information about their cake needs for a cake ordering process. It collects essential details about the customer, event details, cake preferences, and delivery information to ensure that the cake is made according to their specifications.

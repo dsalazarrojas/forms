@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # electrical_upgrade_work_consent_form - Help Guide
 
 ## Purpose

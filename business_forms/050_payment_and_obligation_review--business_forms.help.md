@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication ...
-
-The purpose of this form is to collect information about payments and obligations, presumably for a business or financial context. To avoid confusion, this form appears to be designed to capture details about a single payment or obligation, possibly for accounting, invoicing, or financial reporting purposes.
-
-This form is likely used for internal business processes, and its completion may be mandatory or optional depending on the specific requirement. To ensure accuracy and prevent duplication, it is essential to understand the form's purpose and ensure that it is used correctly.
-
-The form's fields are divided into several sections, which will be explained below. Please note that some fields are optional, and their completion depends on the specific context or requirement. 
-
-</thinking>
-
 # Payment And Obligation Review - Help Guide
 ## Purpose
 The Payment And Obligation Review form is designed to collect information about payments and obligations in a business or financial context. This form helps to gather essential details for accounting, invoicing, or financial reporting purposes.

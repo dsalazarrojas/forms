@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect business customer registration information, including contact details, business details, and account preferences. This form is intended for businesses to register with the system, and it's crucial that the information provided is accurate and complete. To ensure the form is filled out correctly, review each field carefully and make sure to provide the requested information. This form is a one-time registration process, and the information provided will be used to establish a business account. If you have any questions or concerns, please contact our support team.
-</thinking>
-
 # Business Customer Registration Form - Help Guide
 
 ## Purpose

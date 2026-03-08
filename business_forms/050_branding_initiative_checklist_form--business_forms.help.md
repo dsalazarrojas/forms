@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for this form. The form is for tracking a Branding Initiative, and its purpose is to provide an overview of the initiative, its progress, and key milestones. This form will help project managers, marketing teams, or other stakeholders to stay organized and informed about the branding initiative's status. The form appears to be designed for multiple phases of a branding initiative, with each phase having specific tasks and status fields.</thinking>
-
 # Branding Initiative Checklist Form - Help Guide
 ## Purpose
 This form is designed to track and manage a Branding Initiative's progress, from discovery and research to execution and launch. It allows project managers and team members to keep track of tasks completed, progress, and resources involved in each phase of the initiative.

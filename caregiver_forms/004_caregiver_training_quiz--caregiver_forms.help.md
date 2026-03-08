@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Training Quiz - Help Guide
 ## Purpose
 

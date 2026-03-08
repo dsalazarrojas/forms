@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for visitor management, allowing users to log and categorize visitors to the facility. It appears to be used for visitor check-in purposes, where visitors can select their purpose of visit, provide their contact information (email and name), and optionally add any comments if needed.
-</thinking>
-
 # Visitor Management Login Form - Help Guide
 ## Purpose
 The Visitor Management Login Form is used to log and categorize visitors to the facility. This form is for visitor check-in purposes, where visitors can provide their information and details about their visit.

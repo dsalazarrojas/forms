@@ -1,22 +1,3 @@
-<thinking>As a business innovation leader, you are tasked with identifying and evaluating the key drivers of innovation within your organization. This form, called the innovation audit form, is designed to help you gather information about your company's innovation processes, goals, and challenges. To ensure you get the most out of this form, please complete it carefully and thoroughly, and don't hesitate to review and repeat it as needed.
-
-The form is designed to be completed by the innovation leader or relevant team members. Each section is designed to gather specific information, so please take your time to answer each question accurately. If you have any doubts or questions, please reach out to your innovation team for clarification.
-
-Before starting, take a moment to review the form's sections and their corresponding fields. This will help you understand what is being asked and make the process more efficient.
-
-Once you've completed the form, review it for accuracy and completeness. If needed, repeat the process to ensure you have gathered all necessary information.
-
-The form is divided into the following sections:
-
-* Business Surveys
-* Company Information
-* Innovation Processes
-* Goal Setting
-* Innovation Culture
-* Innovation Roadmap
-
-Please complete the form in order, answering each question as thoroughly as possible. You can save your progress and come back to it later if needed.</thinking>
-
 # innovation_audit_form - Help Guide
 ## Purpose
 The innovation audit form is a tool to help business leaders assess and evaluate their organization's innovation processes, goals, and challenges.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess and evaluate the swimming skills of a student, typically after a lesson or a set of lessons. It helps instructors to gauge the student's proficiency in various swimming skills, such as entering and exiting the water, basic body movements, and other essential techniques. The form is intended to provide a structured and systematic approach to evaluating student progress, allowing instructors to identify areas of strength and weakness, and make informed decisions about student progression. This form may be used in swimming lessons for children or adults, and its purpose is to support student development and improvement.
-</thinking>
-
 # Beginner Swimming Skills Checklist - Help Guide
 ## Purpose
 The Beginner Swimming Skills Checklist is a tool used by swimming instructors to evaluate the swimming skills of their students. It helps instructors assess the student's proficiency in various swimming skills, identify areas of strength and weakness, and make informed decisions about student progression.

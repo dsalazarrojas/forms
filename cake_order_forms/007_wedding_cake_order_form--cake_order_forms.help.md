@@ -1,5 +1,3 @@
-<thinking>As the form is an AI-generated form, it's possible that its structure and fields may not perfectly align with the specific business logic and requirements of a real-world wedding cake order form. To confirm its relevance and non-duplication, I'll review the inputSchema and make adjustments as needed. Upon examination, the form appears to be a basic form with a few fields. The purpose of the form seems to be to collect information about a wedding cake order. I'll create a user-facing help guide based on this assumption.</thinking>
-
 # Wedding Cake Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about a wedding cake order. It will help us process your order and ensure that your special day is celebrated with the perfect cake.

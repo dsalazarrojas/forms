@@ -1,5 +1,3 @@
-<thinking>This form appears to be a calculator designed to assist individuals in determining their hourly rate based on various factors such as the hourly rate, currency, weekly hours worked, and billing goals. To confirm, this is a form used to calculate an individual's hourly rate, considering the currency of their work and the number of hours they have billed to clients. The form will help users understand how to calculate their hourly rate for different currencies and billing scenarios.</thinking>
-
 # Hourly Rate Calculator - Help Guide
 ## Purpose
 The Hourly Rate Calculator is designed to help users calculate their hourly rate based on various factors such as currency, weekly hours worked, and billing goals.

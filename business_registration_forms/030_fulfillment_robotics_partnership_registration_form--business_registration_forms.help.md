@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to register a new partnership with Fulfillment Robotics. To fill it out, you will need to provide some basic information about the partnership, including its address, contact details, partnership role, skills and languages spoken, and any relevant notes. This form is for both internal and external partners, so please ensure you fill it out accurately and completely.
-
-</thinking>
-
 # Fulfillment Robotics Partnership Registration Form - Help Guide
 
 ## Purpose

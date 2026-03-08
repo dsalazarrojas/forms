@@ -1,12 +1,3 @@
-<thinking>
-
-This form appears to be a survey designed to measure the level of social cohesion within a faith-based community. The purpose of this form is to understand how individuals perceive their community in terms of feelings of belonging, interfaith interaction, leadership, involvement, trust, conflict, communication, and support.
-
-Internal reasoning:
-The form is designed to collect opinions on various aspects of community life, including the sense of belonging, interfaith interaction, leadership, and community involvement. It also inquires about the level of trust, conflict, and communication within the community. The survey aims to gather insights into the social dynamics of the community and identify areas where improvement can be made to enhance the overall sense of social cohesion.
-
-</thinking>
-
 # Faith Based Social Cohesion Survey - Help Guide
 ## Purpose
 This form is designed to measure the level of social cohesion within a faith-based community. The survey collects opinions on various aspects of community life, including feelings of belonging, interfaith interaction, leadership, involvement, trust, conflict, communication, and support.

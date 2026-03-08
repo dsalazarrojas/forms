@@ -1,7 +1,3 @@
-<thinking>
-We need to determine the purpose of this form and whether it's a duplicate or not. The form is for a machine learning engineer survey, which suggests it's meant to gather information about the skills, experience, and expertise of machine learning engineers. This form is likely used for internal assessment or benchmarking purposes within an organization.
-</thinking>
-
 # machine_learning_engineer_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience and expertise as a machine learning engineer. The survey aims to collect data on your skills, experience, and knowledge in various areas related to machine learning.

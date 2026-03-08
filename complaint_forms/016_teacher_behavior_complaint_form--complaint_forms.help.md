@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users report incidents or complaints regarding a teacher's behavior. The purpose of this form is to gather information about the incident, provide details about the teacher's actions, and allow the user to choose how they would like to proceed with the complaint. This form is not intended for general feedback or compliments, so please only use it to report incidents or complaints that require action. To ensure that all relevant information is captured, please complete the form thoroughly and accurately. If you have already submitted a complaint regarding the same incident, please do not repeat the complaint using this form.
-</thinking>
-
 # Teacher Behavior Complaint Form - Help Guide
 ## Purpose
 The Teacher Behavior Complaint Form is designed to allow students, parents, or staff to report incidents or complaints about a teacher's behavior. These reports can help identify patterns or issues that need attention, and provide a formal channel for addressing them.

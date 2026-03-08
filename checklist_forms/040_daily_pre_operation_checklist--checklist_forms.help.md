@@ -1,37 +1,3 @@
-<thinking>
-The Daily Pre Operation Checklist form is designed to be a crucial tool for operators and teams to ensure that all equipment is inspected and prepared before starting a pre-operation activity. The purpose of this form is to gather critical information about the equipment being used, the location where the operation will take place, and any pre-inspection items that need attention. It also captures the operator's name, team leader's name, and form completion details. By using this form, teams can ensure that all equipment is in good condition, and any issues are addressed before the operation begins.
-
-The form will help operators to:
-
-* Check the condition of equipment before usage
-* Identify any critical items that require immediate attention
-* Document the pre-operation inspection details
-* Provide transparency and accountability in the pre-operation process
-
-This form is designed to be completed by operators and team leaders on a daily basis before the start of each operation. The completion of this form is not mandatory, but it is highly recommended for ensuring the safety and efficiency of the operation.
-
-The form consists of multiple fields that need to be filled in by the operator, including:
-
-* Equipment Used: Select all equipment used during the operation
-* Location Used: Provide the location where the operation will take place
-* Equipment Condition: Check the condition of the equipment
-* Pre-Inspection Items: List any pre-inspection items that need attention
-* Critical Item Issues: List any critical issues found during the pre-operation inspection
-* Comments: Provide any additional comments or notes
-* Date Completed: Record the date the form was completed
-* Time Completed: Record the time the form was completed
-* Operator Name: Enter your name as the operator
-* Team Leader Name: Enter the name of the team leader
-* Form Completed By: Enter the name of the person completing the form
-* Completed: Indicate if the form was completed or not
-* Submitted: Indicate if the form was submitted or not
-* Pre-Inspection Items 2: Select all additional pre-inspection items
-* Equipment Status: Select the status of the equipment (Active or Inactive)
-* Completed: Indicate if the form was completed or not
-* Submitted: Indicate if the form was submitted or not
-
-Please note that some fields are not required, and you can leave them blank if not applicable.</thinking>
-
 # Daily Pre Operation Checklist - Help Guide
 ## Purpose
 This form is designed to gather critical information about the equipment, location, and pre-inspection items before starting a pre-operation activity.

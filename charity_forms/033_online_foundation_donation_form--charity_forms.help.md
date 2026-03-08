@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from donors who wish to make a donation to a foundation. The form is intended for online donations, and the collected data will be used to process and follow up with the donor as necessary. The purpose of this form is to ensure that the donor's information is accurate and up-to-date, and to provide the donor with the opportunity to specify their donation preferences. This form should only be used for online donations, and users should not attempt to use this form for other purposes, such as in-person donations or offline transactions. Duplicate submissions should not be made, as this may result in duplicate processing and unnecessary follow-up actions.
-</thinking>
-
 # Online Foundation Donation Form - Help Guide
 ## Purpose
 The Online Foundation Donation Form is a tool designed to collect information from donors who wish to make a donation to a foundation. This form is intended for online donations and is meant to be used by donors to provide their information in order to process their donation.

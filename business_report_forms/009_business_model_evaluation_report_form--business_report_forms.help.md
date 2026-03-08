@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Model Evaluation Report Form - Help Guide
 
 ## Purpose

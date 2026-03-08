@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to convert kilograms to pounds. The primary purpose of this form is to facilitate easy conversion between two commonly used units of mass. The form's primary input field is a text input where users are expected to enter a value in kilograms. The form then offers two options to convert the entered value: to pounds or to ounces. The result is displayed as a note, which is non-editable and read-only.
-
-The conversion logic is based on the standard conversion factors where 1 kilogram is equivalent to approximately 2.2046 pounds or 35.27398 ounces. When the user selects "to pounds", the system will convert the entered kilogram value to the corresponding pound value and display it as a note. When the user selects "to ounces", the system will convert the entered kilogram value to the corresponding ounce value and display it as a note.
-
-This form is intended for users who need to convert kilograms to pounds or ounces for various purposes such as product packaging, food labeling, or other applications where such conversions are required. It is not designed for complex calculations or scientific calculations but rather for straightforward conversions.
-
-Before starting, ensure that you have the correct input value in kilograms. This form does not have any validation for incorrect input values.
-
-Please review the fields below for guidance on filling out the form correctly.
-</thinking>
-
 # Kilograms To Pounds Conversion Form - Help Guide
 
 ## Purpose

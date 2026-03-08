@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users track their daily routine, ensuring they have completed essential tasks, attended meetings, and documented their work hours and any additional notes. This form is a checklist-based form, designed to be completed daily to keep users organized and on track. Before proceeding, ensure you have a clear understanding of your daily tasks, meetings, and work hours to provide accurate and consistent data.
-</thinking>
-
 # Daily Routine Checklist Form - Help Guide
 ## Purpose
 

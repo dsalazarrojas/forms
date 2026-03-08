@@ -1,20 +1,3 @@
-<thinking>
-This form is a request for downloading 3D photos from a photo studio, used for various purposes such as personal use, commercial projects, or research. The form is designed to collect information from the requestor, including their name, contact information, and details about the requested asset. This form is not intended for duplicate or multiple submissions from the same requestor for the same asset; each submission will be reviewed and responded to individually.
-
-The form collects the following information:
-
-*   Requestor's name and contact information (including email and phone number)
-*   Asset identification and details
-*   Intended use of the asset
-*   Preferred format for download
-*   Resolution and fidelity requirements
-*   License type and terms
-*   Number of assets requested
-*   Date access is needed by
-*   Additional notes and delivery instructions
-
-</thinking>
-
 # 3D Photo Download Request - Help Guide
 ## Purpose
 

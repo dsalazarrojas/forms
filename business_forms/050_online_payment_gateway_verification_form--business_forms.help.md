@@ -1,7 +1,3 @@
-<thinking>
-This form is used for verifying the status of online payment gateways for merchants. It's crucial to ensure that all required fields are completed accurately to avoid any issues with the payment processing. Before proceeding, check if the information is not already present in the system to avoid duplication of efforts.
-</thinking>
-
 # Online Payment Gateway Verification Form - Help Guide
 ## Purpose
 

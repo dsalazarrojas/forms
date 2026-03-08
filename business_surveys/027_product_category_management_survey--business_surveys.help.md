@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a collection of questions for gathering feedback on products, categories, and customer preferences. However, I noticed that there are multiple fields with similar labels, which might lead to confusion. A few suggestions to clarify the purpose of this form:
-- Consider removing redundant fields with similar labels.
-- Add a clear and concise description to explain the form's purpose.
-- Organize fields in a way that makes sense to the user, e.g., grouping related fields together.
-</thinking>
-
 # Product Category Management Survey - Help Guide
 ## Purpose
 This form is designed to gather information on product categories, customer preferences, and feedback to improve product offerings and marketing strategies.

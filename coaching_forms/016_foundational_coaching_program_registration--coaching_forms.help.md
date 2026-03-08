@@ -1,11 +1,3 @@
-<thinking>
-This form is for the registration of users for a foundational coaching program. The form should be completed by users who want to enroll in the program. The fields on this form are used to collect information about the user's personal details, program selection, and program status. It's essential to fill out the form accurately to ensure that the program administrators can process the user's request correctly. Please note that this form is not for internal use only, and the data collected here will be used for program management purposes. 
-
-Please make sure to fill out the form once for each person you are registering for the program. 
-
-Before you start, ensure that you have all the necessary information ready.
-</thinking>
-
 # foundational_coaching_program_registration - Help Guide
 ## Purpose
 This form is designed for users to register for the foundational coaching program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for attendees to register for an HR Collaboration Networking Event. The form collects information that will be used to create a list of attendees, which will be shared with other attendees and event organizers. The form is not a formal application, so the fields should be kept brief and to the point. The purpose of this form is to facilitate networking among attendees and to provide contact information to facilitate follow-up communication.
-</thinking>
-
 # HR Collaboration Networking Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the HR Collaboration Networking Event. The form is intended to be quick and easy to fill out, and the information collected will be used to create a list of attendees that will be shared with other attendees and event organizers.

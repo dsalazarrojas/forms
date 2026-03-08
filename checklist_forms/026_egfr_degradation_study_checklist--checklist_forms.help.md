@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # eGFR Degradation Study Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>This form is a crucial tool for requesting payroll analytics reports that will aid in the analysis and optimization of an organization's compensation and benefits packages. It gathers relevant information about the company, report details, employee data, and manager information. The form is designed to minimize redundancy and maximize the quality of the data provided.
-
-To complete this form, you will need to fill out the following fields. Please make sure to provide accurate and complete information for a comprehensive report.</thinking>
-
 # Payroll Analytics Report Request Form - Help Guide
 ## Purpose
 This form is used to request payroll analytics reports that will help in the analysis and optimization of an organization's compensation and benefits packages.

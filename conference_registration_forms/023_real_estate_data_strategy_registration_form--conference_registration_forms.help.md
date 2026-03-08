@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from participants for the purpose of the Real Estate Data Strategy conference. The goal is to gather relevant details about each participant, including their contact information, interests, and other relevant data. This form is likely used by event organizers to prepare for the conference and ensure that participants are registered correctly.
-
-Before filling out the form, please check if you have already registered for the Real Estate Data Strategy conference. If you have registered before, you might not need to fill out this form again.
-
-</thinking>
-
 # Real Estate Data Strategy Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from participants for the Real Estate Data Strategy conference.

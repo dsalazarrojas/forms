@@ -1,11 +1,3 @@
-<thinking>
-This form is a collection tool for gathering feedback and information from municipality citizens. 
-The purpose of this form is to collect data for the municipality's records and to provide insight into the concerns and needs of the residents. 
-This form is intended to be completed by a citizen who has a complaint or concern they wish to bring to the attention of the municipality. 
-The data collected will be reviewed and used for decision-making within the municipality. 
-Please ensure the collected information is accurate and complete, as it will directly affect the response and resolution of the concern. 
-</thinking>
-
 # Municipality Citizen Input Information Collection Form - Help Guide
 ## Purpose
 This form collects information from citizens with complaints or concerns regarding the municipality. 

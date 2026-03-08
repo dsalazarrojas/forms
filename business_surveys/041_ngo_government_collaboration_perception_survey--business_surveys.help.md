@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gauge the perceptions of NGOs (Non-Governmental Organizations) regarding their collaboration with government institutions. It is meant to be a self-reporting tool for NGOs to express their thoughts, opinions, and experiences with government partners. The form is not affiliated with or endorsed by any form platform, but rather a public survey created using AI-generated code.
-
-Before proceeding, please ensure that you are completing this form as an authorized representative of an NGO. If you're unsure or need clarification, contact form@gic.mx.
-
-</thinking>
-
 # NGO Government Collaboration Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the collaboration experiences and perceptions of NGOs with government institutions.

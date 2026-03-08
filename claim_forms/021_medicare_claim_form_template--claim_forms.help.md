@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about Medicare claims. The form is used by healthcare providers to submit claims to the Medicare program. The form is divided into several sections, each containing specific fields that need to be completed by the healthcare provider. The form is not required to be completed in its entirety, and users can skip sections that are not relevant to their claim.
-
-When filling out this form, please ensure that you provide accurate and complete information for each field. If you're unsure about any field, please refer to the instructions below.
-
-</thinking>
-
 # medicare_claim_form_template - Help Guide
 ## Purpose
 The medicare_claim_form_template is a form used to collect information about Medicare claims. It is intended for healthcare providers to submit claims to the Medicare program.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect non-disclosure declaration information from individuals or entities that need to access sensitive or confidential information. This includes a declaration of non-disclosure and a signature or agreement to keep the information confidential. The form also asks for contact information (name, email, phone number) and a date/time stamp for record-keeping purposes.
-
-Before filling out this form, please ensure that you have not submitted a similar declaration or agreement previously. Duplicate submissions may cause confusion and potential issues with record-keeping and compliance.
-</thinking>
-
 # Non Disclosure Declaration Form - Help Guide
 ## Purpose
 This form is used to collect non-disclosure declaration information from individuals or entities that need to access sensitive or confidential information.

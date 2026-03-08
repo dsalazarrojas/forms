@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to gather contact and preference information from users interested in participating in the silent auction. To ensure accuracy and avoid duplication of efforts, please ensure that you only fill out the form once. If you have already participated in the silent auction, please do not complete this form again...</thinking>
-
 # silent_auction_check_out_form - Help Guide
 ## Purpose
 The silent auction check-out form is used to gather contact and preference information from users interested in participating in the silent auction.

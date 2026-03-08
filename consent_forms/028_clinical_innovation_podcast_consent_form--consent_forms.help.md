@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Clinical Innovation Podcast Consent Form is used for its intended purpose and not duplicated. The form is intended for participants in the podcast, and its purpose is to gather their consent for the recording of their voice and image. Each field should be filled out with accurate information to ensure that the participant's rights are respected and their expectations are met. We will review the fields carefully to ensure that they are filled out correctly.
-</thinking>
-
 # Clinical Innovation Podcast Consent Form - Help Guide
 
 ## Purpose

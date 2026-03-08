@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is intended to obtain consent from individuals to monitor noise levels in their environment using a device. It's essential to ensure that users understand the purpose and implications of the monitoring process before proceeding. To prevent duplication, this form will only be processed if the user has not already given consent for a noise monitoring device.
-</thinking>
-
 # Noise Monitoring Device Consent Form - Help Guide
 ## Purpose
 The Noise Monitoring Device Consent Form is a document that allows users to provide their consent for the use of a noise monitoring device in their environment. This form is a necessary step to ensure that the device is only used with the explicit permission of the individuals affected.

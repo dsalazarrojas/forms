@@ -1,7 +1,3 @@
-<thinking>...This is an expert form designer and technical writer, crafting a user-facing help guide for the "Grid Plotting Survey" form...
-
-</thinking>
-
 # Grid Plotting Survey - Help Guide
 ## Purpose
 The Grid Plotting Survey is designed to gather information about your experience with grid plotting, including the tools and challenges you've encountered.

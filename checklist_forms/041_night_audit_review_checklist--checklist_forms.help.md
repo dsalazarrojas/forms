@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Night Audit Review Checklist - Help Guide
 ## Purpose
 The Night Audit Review Checklist is a form used to document and track the progress of night audits, providing a detailed overview of the hotel's performance for a specific night. This form serves as a guide for revenue managers and audit managers to review and verify the accuracy of the night audit data.

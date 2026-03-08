@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to guide users through the access management lifecycle process, which is a series of steps taken when a user's access to an organization's system is modified or revoked. The goal of the form is to ensure that all necessary steps are taken to properly manage and monitor access, and to track progress and completion of each phase. To use this form, users should only be completing the sections and fields that apply to their specific lifecycle event. The form is divided into distinct phases: 
-Lifecycle Event, 
-Phase 1 - Request and Approval, 
-Phase 2 - Provisioning, 
-Phase 3 - Deprovisioning, 
-Audit and Verification, and 
-Finalization.
-</thinking>
-
 # Access Management Lifecycle Checklist - Help Guide
 ## Purpose
 The Access Management Lifecycle Checklist is a tool designed to guide users through the process of modifying or revoking user access to an organization's system. This form ensures that all necessary steps are taken to properly manage and monitor access, and track progress and completion of each phase.

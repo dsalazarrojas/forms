@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to confirm trip details for travel agencies and their clients. It is used to gather information about a trip, including its ID, name, description, and associated travel agency information. This form is likely used in a business or organizational setting where travel agencies need to keep track of their clients' trips and confirm the details before proceeding with further actions. It's essential to ensure that the form is filled out completely and accurately to maintain accurate records and avoid duplication of efforts.
-</thinking>
-
 # Trip Details Confirmation Form - Help Guide
 
 ## Purpose

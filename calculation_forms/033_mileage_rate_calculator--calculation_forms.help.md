@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mileage Rate Calculator - Help Guide
 
 ## Purpose

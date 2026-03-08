@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a company's corporate governance and compliance practices. The purpose of this form is to gather essential details about the company's structure, policies, and procedures related to governance and compliance. This information will help the company's stakeholders, such as investors, partners, or regulatory bodies, to understand the company's commitment to good governance and compliance practices. The form is structured into several sections, each covering a specific aspect of corporate governance and compliance. By completing this form, companies can demonstrate their transparency and accountability in these critical areas.</thinking>
-
 # Corporate Governance Checklist Form - Help Guide
 ## Purpose
 

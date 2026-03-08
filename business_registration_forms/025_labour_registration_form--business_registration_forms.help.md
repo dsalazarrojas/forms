@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from labourers who wish to register with the company for their work. It will be useful for HR purposes and other administrative tasks. Please ensure that the form is not filled out in duplicate. Ensure that the form is not filled out multiple times by the same user.
-</thinking>
-
 # Labour Registration Form - Help Guide
 ## Purpose
 The Labour Registration Form is used to collect necessary information from labourers who wish to register with the company. This information will be used for HR purposes and other administrative tasks.

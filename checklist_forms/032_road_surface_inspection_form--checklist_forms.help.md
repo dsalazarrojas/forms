@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Road Surface Inspection Form is to gather information about the condition and characteristics of a road surface. This form is likely used for quality control, maintenance, or other related purposes. It's essential to ensure that the form is filled out accurately and thoroughly to provide reliable information. 
-Before starting, make sure that you're not duplicating a form for the same inspection. If you're unsure, check with the relevant authorities or the form's owner to verify the necessity of filling this form.
-</thinking>
 # Road Surface Inspection Form - Help Guide
 ## Purpose
 The Road Surface Inspection Form is used for assessing the condition and characteristics of a road surface.

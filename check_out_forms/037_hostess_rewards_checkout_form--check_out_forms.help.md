@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hostess Rewards Checkout Form - Help Guide
 
 ## Purpose

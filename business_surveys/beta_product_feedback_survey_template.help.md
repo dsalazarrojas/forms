@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather insights from beta users to improve the product. To prevent duplication of effort, please only submit this survey if you have used the beta product. If you have already provided feedback, your submission will not be recorded.
-</thinking>
-
 # beta_product_feedback_survey_template - Help Guide
 ## Purpose
 This beta product feedback survey is designed to collect your opinions on the beta product experience. Your participation will help the development team identify areas for improvement and create a better product for all users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate check-ins during telepsychology sessions. The purpose of the form is to gather information about the patient's presence, session details, and the status of the provider and patient. This form aims to ensure that both the provider and patient are on the same page, promoting effective communication and collaboration. By using this form, providers can quickly and efficiently check in with patients, document session notes, and update their status. This form is intended for internal use within a telepsychology practice or organization.
-</thinking>
-
 # Telepsychology Session Check In Form - Help Guide
 ## Purpose
 This form is designed to facilitate check-ins during telepsychology sessions, ensuring that both the provider and patient are on the same page.

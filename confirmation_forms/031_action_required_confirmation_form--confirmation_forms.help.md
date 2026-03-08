@@ -1,5 +1,3 @@
-<thinking>...The form is designed to capture information about a specific action that requires confirmation. It is primarily used for internal purposes within an organization, likely to track and manage tasks or projects. The form's purpose is to gather details such as the name and position of the person confirming the action, the department they belong to, a description of the action, the source of the instruction, and other relevant details like the due date and priority level. The form's fields are designed to be filled out by someone responsible for confirming an action, and the information collected will likely be used for tracking and record-keeping purposes within the organization.</thinking>
-
 # Action Required Confirmation Form - Help Guide
 ## Purpose
 This form is used to record and confirm specific actions required within an organization, ensuring that individuals are held accountable for their responsibilities.

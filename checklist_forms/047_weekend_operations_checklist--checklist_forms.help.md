@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information related to the weekend operations at a site, likely used for quality control, status updates, or maintenance purposes. The form asks the user to indicate the readiness of the site, the status of ongoing tasks, and other relevant details. However, I will not be able to verify or ensure that the form is not being used for non-commissioned activities such as personal to-do lists, or duplicate efforts that do not align with the overall site operations objectives. I assume that the form purpose and fields are aligned with the site's operational procedures and policies. The form fields seem to focus on assessing the site's status, task management, and submission details.
-
-</thinking>
-
 # Weekend Operations Checklist - Help Guide
 ## Purpose
 The Weekend Operations Checklist is a tool used to monitor and update the status of site activities during weekends. It helps in identifying any issues or areas that require attention.

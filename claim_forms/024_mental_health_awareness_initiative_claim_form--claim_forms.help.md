@@ -1,7 +1,3 @@
-<thinking>
-...this form was generated using AI and serves as a template for mental health awareness initiatives. Before starting, ensure this form is relevant to your specific situation and not a duplication of an existing claim. If you're unsure, contact form@gic.mx for clarification. Please fill out the form accurately to ensure your mental health awareness initiative claim is processed efficiently.
-</thinking>
-
 # Mental Health Awareness Initiative Claim Form - Help Guide
 ## Purpose
 This form is for claiming mental health awareness initiatives. It collects information about your mental health condition, initiative name, description, and other relevant details. Please fill it out carefully to ensure your claim is processed correctly.

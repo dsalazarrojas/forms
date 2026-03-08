@@ -1,11 +1,3 @@
-<thinking>
-
-The "Audit Planning Coordination Survey" is designed to collect information about the upcoming audit, including the type of audit, proposed period, preferred dates, key contacts, and other relevant details. This form is intended to gather input from individuals who will be involved in the audit process, such as auditors, coordinators, and stakeholders. The form's purpose is to ensure that all parties are on the same page and that the audit planning process runs smoothly.
-
-The survey aims to capture essential information to facilitate effective coordination and communication among team members and stakeholders. By filling out this form, you will be contributing to a clear and organized audit planning process.
-
-</thinking>
-
 # Audit Planning Coordination Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

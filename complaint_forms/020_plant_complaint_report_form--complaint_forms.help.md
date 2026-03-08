@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be a complaint report form for plants, allowing users to report issues related to plants, such as damage, disease, or pest infestations. The form will gather information from the user about the type of plant affected, the description of the issue, any photos provided, and other relevant details such as location and staff member reporting the issue. This form will help gather data to identify trends and patterns in plant-related complaints, which can be used for improvement and maintenance purposes.
-
-Please note that this form is not intended for use in high-stakes or sensitive areas, and it's recommended to review the form and its purpose before proceeding. Additionally, the form is designed to be completed by users with a basic understanding of plant-related issues, and it's not intended for experts in the field.
-
-Before submitting a complaint, please make sure that you have not previously submitted a complaint for the same issue, as duplicate submissions may cause confusion and delay the resolution process.
-
-Please provide accurate information in the required fields to ensure that the issue can be properly addressed.
-
-Also, please be aware that this form is for reporting issues with plants only, and not for other purposes such as reporting animal-related issues or general complaints.
-
-</thinking>
-
 # Plant Complaint Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about complaints related to plants. It's intended for reporting issues such as damage, disease, or pest infestations.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from users about their experiences with different service providers, specifically around signal testing. This form will be used to assess the quality of service provided by service providers such as AT&T, Verizon, Sprint, and T-Mobile. The goal is to gather detailed information about specific incidents, including date, time, location, and any issues encountered. This will enable the company to identify areas of improvement and provide more reliable service to its users.</thinking>
-
 # Site Signal Testing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experiences with signal testing, allowing us to evaluate and improve our services.

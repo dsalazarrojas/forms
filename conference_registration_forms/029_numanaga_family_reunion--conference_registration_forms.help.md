@@ -1,10 +1,3 @@
-<thinking>
-This is a guide on creating a user-facing help document for the "Numanaga Family Reunion" form. This form is for conference registration, and the fields are self-explanatory. The purpose of the form is to gather information from attendees for the conference.
-
-We'll go through the form fields to provide a clear explanation of each field, ensuring users understand what is required and what is optional. This guide will cover the "Conference Name", "Family Name", "Email", "Phone", "Checkin Date", and "Checkin Time" fields.
-
-</thinking>
-
 # Numanaga Family Reunion - Help Guide
 ## Purpose
 The "Numanaga Family Reunion" form is for conference registration, gathering information from attendees to facilitate a smooth and organized event.

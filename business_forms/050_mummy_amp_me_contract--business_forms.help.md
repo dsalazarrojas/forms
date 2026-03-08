@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "mummy_and_me_contract" form. This form is used for customers to provide information about themselves, including contact details, address, and nationality. The purpose of this form is to collect relevant data from customers for processing or communication purposes. It's essential to ensure that each field is filled out correctly to avoid any issues or misunderstandings. We should double-check that the customer's nationality is selected correctly from the list, as this field is required. We should also clarify what type of date is expected for the "Date of Birth" field.
-</thinking>
-
 # mummy_and_me_contract - Help Guide
 ## Purpose
 The "mummy_and_me_contract" form is used to collect customer information for processing and communication purposes.

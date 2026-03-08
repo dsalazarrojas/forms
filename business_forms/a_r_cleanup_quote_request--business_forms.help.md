@@ -1,27 +1,3 @@
-<thinking>
-
-This form is designed to collect information from companies that are interested in requesting a cleanup and reconciliation quote from an Accounts Receivable (AR) specialist or vendor. The purpose of this form is to understand the company's current financial situation, the specific services they require, and their desired completion date and budget range for the cleanup process.
-
-To fill out this form, follow these steps:
-
-1.  In the "Requester & Company Information" section, provide your company's name and details about the person responsible for onboarding and the best contact email and phone number for the proposal and questions.
-
-2.  Enter the current total accounts receivable balance and the number of open invoices.
-
-3.  Choose the aging profile by selecting all the relevant buckets in the list (0-30 days, 31-60 days, 61-90 days, 91-180 days, and over 180 days).
-
-4.  Choose the services required for the cleanup and reconciliation process from the list (Data cleansing & validation, Customer outreach & collections, Reconciliation & dispute resolution, Reporting & dashboarding, and Ongoing AR management).
-
-5.  Enter the desired completion date for the cleanup process.
-
-6.  If you have a budget range in mind, select it from the options provided.
-
-7.  Provide any additional access requirements or information that the vendor might need to access your system or data.
-
-8.  Include any additional information that might impact the cleanup and reconciliation process.
-
-</thinking>
-
 # a_r_cleanup_quote_request--business_forms - Help Guide
 ## Purpose
 This form is designed to collect information from companies requesting a cleanup and reconciliation quote from an AR specialist or vendor.

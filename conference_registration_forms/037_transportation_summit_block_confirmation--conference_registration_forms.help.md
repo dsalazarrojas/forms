@@ -1,11 +1,3 @@
-<thinking>
-This form is used to confirm a transportation block for a conference. The purpose of this form is to gather information from users about their participation and preferences for the conference transportation. This information will help in planning and organizing the transportation for the conference. To confirm a transportation block, the user needs to provide their name, email, phone number, selected block, participation status, and group preference. 
-
-It is crucial that users provide accurate and complete information, especially for the blocks and group preferences, as it will directly impact the transportation arrangement. 
-
-Please ensure that this form is not completed multiple times by the same user, as it may lead to confusion and errors in the transportation planning process.
-</thinking>
-
 # Transportation Summit Block Confirmation - Help Guide
 ## Purpose
 This form is used to confirm a transportation block for a conference, providing essential information about a participant's attendance, block preferences, and group preferences.

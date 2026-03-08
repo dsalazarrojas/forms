@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will first consider the context in which it is being used and the purpose of the form. This form is used for a business model canvas survey, which is a tool used to help business owners and stakeholders evaluate their business model and identify areas for improvement. The form collects information on various aspects of the business, such as its value proposition, customer segments, revenue streams, key resources, key activities, partnerships, cost structure, competitive advantage, market position, growth potential, and areas needing improvement.
-
-The form is likely to be used by business owners, managers, and stakeholders who want to understand their business's strengths, weaknesses, and areas for improvement. Therefore, I will aim to write a help guide that is clear, concise, and practical, and that addresses the needs of these users.
-
-</thinking>
-
 # Business Model Canvas Survey - Help Guide
 ## Purpose
 

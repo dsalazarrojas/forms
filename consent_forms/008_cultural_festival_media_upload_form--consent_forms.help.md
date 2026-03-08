@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data for cultural festivals, allowing organizers to upload media such as participant photos, videos, and audio files. The form also captures information about the festival name, date, time, location, and organizers. It's essential for festival organizers to provide accurate and complete information to ensure the successful execution of their events.
-
-To prevent duplication, this form should only be completed for each unique festival. Please ensure that the same festival is not duplicated in the system.
-
-</thinking>
-
 # Cultural Festival Media Upload Form - Help Guide
 ## Purpose
 This form is used to collect media and information about cultural festivals, including participant details, festival dates and times, location, and organizers.

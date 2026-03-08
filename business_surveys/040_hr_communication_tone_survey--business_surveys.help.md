@@ -1,9 +1,3 @@
-<thinking>
-
-The HR Communication Tone Survey is designed to gather feedback from employees on how they perceive HR's communication tone. This survey will help identify areas where HR's communication can be improved, ensuring that employees feel supported and satisfied with the communication they receive. Before completing this survey, please ensure that you are responding to the correct HR department and that you have experience with HR's communication.
-
-</thinking>
-
 # HR Communication Tone Survey - Help Guide
 ## Purpose
 

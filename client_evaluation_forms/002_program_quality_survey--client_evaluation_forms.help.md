@@ -1,12 +1,3 @@
-<thinking>
-
-To ensure this form serves its purpose effectively, we should first consider the following:
-- The form is meant to collect data on the quality of services provided by the organization. Therefore, it should be used by employees or agents who are familiar with the services offered by the organization.
-- This form should not be used for general feedback or support requests, as it is designed to evaluate the quality of services, not to report issues or ask for help.
-- The form should not be filled out multiple times for the same service area, as this would skew the data and make it difficult to accurately assess the quality of services.
-
-</thinking>
-
 # Program Quality Survey - Help Guide
 ## Purpose
 The Program Quality Survey is designed to collect feedback on the quality of services provided by your organization. It is intended for employees or agents familiar with the services offered, who can accurately assess and report on the quality of these services. This form helps your organization understand how well it is meeting the needs of its service recipients and areas of operation, and identify areas for improvement.

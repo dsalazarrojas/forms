@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a cross-brand partnership between your business and another brand. The purpose of this form is to gather necessary information about both parties involved in the potential partnership. Please ensure that you are submitting this form only once per business, and that the business you are partnering with has not already been contacted through this form. If you are unsure about the relevance of this form or have already submitted a similar request, please check with the relevant stakeholders before proceeding.
-</thinking>
-
 # Cross Brand Partnership Review Request Form - Help Guide
 ## Purpose
 This form is designed to help us understand your business and potential partner's information for cross-brand partnership reviews. It's essential to ensure that the information you provide is accurate and up-to-date.

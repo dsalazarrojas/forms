@@ -1,9 +1,3 @@
-<thinking>
-To ensure the integrity and accuracy of our reports, we require that each submission be thoroughly filled out and meet the following criteria. The form is designed to gather relevant information about the report, including its category, files, priority, comments, and submitter details. We also aim to avoid duplication of effort and ensure that each report is submitted with the correct submitter and submit time.
-
-To confirm, the report should be submitted by the same person who originally created it. If the report requires a second submitter, please ensure that both submitters are listed accurately and truthfully.
-</thinking>
-
 # Qualified Report Submission Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about reports, including category, files, priority, comments, and submitter details. Please fill out the form carefully and accurately to ensure the integrity and accuracy of our reports.

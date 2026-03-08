@@ -1,5 +1,3 @@
-<thinking>This form, titled "Stock Market Analysis Survey," aims to collect information from users about their investment preferences, risk tolerance, and market insights. This form is designed to help users provide their personal and investment-related data in a structured format, making it easier for financial experts to analyze and provide tailored advice. Before starting the survey, please ensure that you have all necessary information ready, and double-check that you're not duplicating any previous surveys.</thinking>
-
 # Stock Market Analysis Survey - Help Guide
 ## Purpose
 The Stock Market Analysis Survey is a tool for users to provide their investment preferences, risk tolerance, and market insights. This information will help financial experts analyze and provide personalized advice on investments.

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather information from a parent or legal guardian to verify a minor's participation in a particular activity. This form is typically required for minors who will be participating in activities that involve some level of risk or require special handling. The purpose of this form is to obtain consent from the parent or legal guardian to their child's participation. This form should only be filled out by a parent or legal guardian, and not by the minor themselves. Before starting, make sure the parent or legal guardian understands the purpose and requirements of this form. If the parent or legal guardian has already filled out this form for the same minor, it is not necessary to fill it out again. Please ensure that the parent or legal guardian is aware of the information being requested and is willing to provide it...</thinking>
-
 # Parental Consent For Minors Form - Help Guide
 ## Purpose
 This form is used to obtain consent from a parent or legal guardian for a minor's participation in activities that involve some level of risk or require special handling.

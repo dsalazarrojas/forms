@@ -1,7 +1,3 @@
-<thinking>
-The Discrimination Report Form is a tool used to collect information about alleged discrimination incidents. Before filling out this form, please ensure that you have not already reported the incident to the relevant authorities. If you have already reported the incident, please do not fill out this form.
-</thinking>
-
 # Discrimination Report Form - Help Guide
 ## Purpose
 The Discrimination Report Form is used to gather information about alleged discrimination incidents, which will be used to investigate and resolve the situation.

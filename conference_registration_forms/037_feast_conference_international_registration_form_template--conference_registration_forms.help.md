@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the registration of attendees to the Feast Conference International. It is designed to gather basic contact information, preferences, and interests of the registrants. The form should only be used for registration and not for any other purpose. Please ensure that the form is not filled out by the same person more than once.
-</thinking>
-
 # Feast Conference International Registration Form Template - Help Guide
 
 ## Purpose

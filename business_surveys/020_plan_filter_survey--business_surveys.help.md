@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to ensure that end users understand how to complete the "Plan Filter Survey" form efficiently and accurately. It's crucial to review the form's purpose and fields carefully to avoid duplication of effort and ensure relevance to the business goals.
-
-The "Plan Filter Survey" form appears to be a multi-page form with various fields, including text, select_one, select_multiple, time, date, and number fields. The form's pages seem to be designed to collect different types of information from users, such as their preferences or choices.
-
-Before proceeding, it's essential to understand that this form is not intended for real-time data collection but rather for planning purposes. It's recommended to review the form carefully to ensure that you're providing accurate and relevant information that aligns with your business goals.
-
-Please note that this form is not mandatory, and users are not required to fill out every page. However, providing all the necessary information will help ensure that your responses are accurate and useful for planning purposes.
-
-</thinking>
-
 # Plan Filter Survey - Help Guide
 ## Purpose
 The "Plan Filter Survey" form is designed to collect information for planning purposes. It's not intended for real-time data collection but rather for gathering data that will be used to filter and prioritize plans. Providing accurate and relevant information will help ensure that your responses are useful for planning and decision-making.

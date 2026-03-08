@@ -1,14 +1,3 @@
-<thinking>
-
-Internal reasoning:
-This form is intended to collect information from individuals who wish to file an insurance claim. The form is divided into several sections, each designed to gather specific details about the claim. The sections are: 
-- "Claim Details" (page 1): This section will capture the general information about the claim, such as the type of claim and the date it occurred.
-- "Claimant Info" (page 2): Here, the form will collect contact information and other relevant details about the person filing the claim.
-- "Claimant Contact" (page 3): This section will gather more information about how to contact the claimant in case the insurance provider needs to reach out.
-- "Claims Type" (page 4): In this section, the form will ask for details about the specific type of claim being made.
-
-</thinking>
-
 # Insurance Claim Form - Help Guide
 ## Purpose
 The Insurance Claim Form is designed to gather essential information from individuals who wish to file an insurance claim. This form will help insurance providers collect the necessary details to process and address the claim efficiently.

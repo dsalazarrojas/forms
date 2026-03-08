@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information about customer or user habits and preferences related to a product or service. It may be used by business analysts or product managers to inform development decisions, marketing strategies, or sales tactics.
-</thinking>
-
 # Magnet Information Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your usage habits, satisfaction, and purchasing behavior in relation to our services. This will help us understand your needs and improve our offerings.

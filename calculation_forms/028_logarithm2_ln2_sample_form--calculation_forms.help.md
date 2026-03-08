@@ -1,8 +1,3 @@
-<thinking>
-The Logarithm2 (LN2) Sample Form is used to calculate the logarithm of a given number, specifically the natural logarithm of 2. This form is a demonstration of the mathematical operation, aiming to educate users about the process of calculating logarithms. The form is designed to be simple and accessible, allowing users to input a number and see the result of the natural logarithm of 2.
-The form should only be used for educational purposes, and users are not expected to perform actual calculations for practical applications. It is not intended to be a complex tool for professional use.
-</thinking>
-
 # Logarithm2 (LN2) Sample Form - Help Guide
 ## Purpose
 The Logarithm2 (LN2) Sample Form is used to calculate the natural logarithm of 2, a fundamental concept in mathematics. This form is designed for educational purposes, allowing users to input a number and see the result of the natural logarithm of 2.

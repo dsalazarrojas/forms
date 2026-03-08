@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and confirm the details of a student's activities, such as supervisor confirmation, work period, and supervisor's comments. This form is likely used for internal purposes within an organization, perhaps for tracking student progress or performance. Before filling out this form, please ensure that you are authorized to access and submit this information.
-</thinking>
-
 # Stt Supervisor Confirmation Form - Help Guide
 ## Purpose
 This form is used to gather information from supervisors to confirm student details and activities.

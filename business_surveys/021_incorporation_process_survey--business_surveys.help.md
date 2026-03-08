@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the incorporation process, a crucial step in the business setup process. To determine if this form is relevant and not duplicated, it will be used by business users to provide feedback and suggestions on how to improve the incorporation process, specifically for law firms, corporate service providers, and business registries. This form will help identify areas of improvement and suggest changes to make the process more efficient.
-</thinking>
-
 # incorporation_process_survey - Help Guide
 ## Purpose
 The "Incorporation Process Survey" form is designed to collect feedback and suggestions from business users on how to improve the incorporation process for law firms, corporate service providers, and business registries.

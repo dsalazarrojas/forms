@@ -1,10 +1,3 @@
-<thinking>
-This form is used for the registration of mining operations, which is a crucial process in the mining industry. It is used to gather information about the mining site and operations, including the registration details, site registration, site documents, and operational information. This form is a critical part of the business registration process in the mining industry.
-
-Before proceeding, please ensure that you have all the necessary information ready to complete the form accurately and efficiently. Additionally, please note that this form will be used to register a new mining operation, if the form has been previously completed and submitted for the same operation, it will not be accepted.
-
-</thinking>
-
 # Mining Operations Registration - Help Guide
 ## Purpose
 The purpose of this form is to register new mining operations, capturing relevant information about the site and operations.

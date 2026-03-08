@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to gather information for an insurance claim, and it's crucial that the user understands the purpose and requirements of the form to provide accurate and complete information. To ensure consistency and accuracy, please review the form carefully before completing it.
-
-To complete this form, follow these steps:
-
-1.  Enter your claim ID, which is a unique identifier for your insurance claim.
-2.  Select the type of claim you are submitting (auto or manual).
-3.  Enter the date you are granting permission for your claim.
-4.  If applicable, enter the amount of the claim.
-5.  Enter the ID of the insurance company you are working with.
-6.  Select the current status of your claim (pending, approved, or denied).
-7.  Enter any additional notes about your claim.
-8.  Select the user's permission status for your claim.
-9.  Enter the form completion status (completed or incomplete).
-10. Enter the ID of the user who reviewed your claim.
-11. Enter the date the claim was reviewed.
-12. Select the user who reviewed your claim.
-13. Enter the permission status of the user who reviewed your claim.
-14. Select the form completion status (completed or pending).
-15. Enter the permission status of the user who submitted your claim.
-16. Select the user who submitted the claim.
-17. Enter the ID of the user who submitted the claim.
-18. Select the status of the user who submitted the claim (approved, pending, or denied).
-19. Enter the ID of the user associated with the claim.
-20. Enter any additional notes about the submitter's permission.
-21. Enter any additional notes about the reviewer's permission.
-22. Enter the ID of the user who reviewed the claim.
-23. Enter the user who reviewed the claim.
-24. Select the status of the user who reviewed the claim (approved, pending, or denied).
-
-By following these steps and filling in the required fields, you will be able to submit a complete and accurate insurance claim form.
-
-</thinking>
-
 # Insurance Claim Permission Form - Help Guide
 
 ## Purpose

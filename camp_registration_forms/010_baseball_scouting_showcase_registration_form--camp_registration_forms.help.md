@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: The purpose of this form is to gather player information for the Baseball Scouting Showcase. This form is designed to collect relevant details about the player's personal information, athletic profile, academic background, and recruitment materials. It is likely used for scouting purposes to assess player potential. Ensure that each field is accurate and up-to-date, as this information may impact the player's scouting opportunities.</thinking>
-
 # Baseball Scouting Showcase Registration Form - Help Guide
 ## Purpose
 The Baseball Scouting Showcase Registration Form is a comprehensive registration form designed to collect detailed information about players participating in the Baseball Scouting Showcase. This form will be used to gather essential data about each player's personal, athletic, and academic background.

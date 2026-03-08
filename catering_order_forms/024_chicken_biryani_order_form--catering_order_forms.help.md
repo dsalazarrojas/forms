@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form purpose and relevance, the "Chicken Biryani Order Form" is a form designed to collect information for ordering chicken biryani from a catering service. This form is likely intended for customers who wish to place an order for delivery or pickup. The form collects personal details such as name, email, and phone number for contact purposes, as well as order-specific information like date, time, and type of biryani. It also includes options for adding extra items, dietary restrictions, and payment methods. The form's purpose is to streamline the ordering process and provide a clear and concise way for customers to communicate their preferences.
-</thinking>
-
 # Chicken Biryani Order Form - Help Guide
 ## Purpose
 The Chicken Biryani Order Form is designed to collect information for ordering chicken biryani from a catering service. This form is intended for customers who wish to place an order for delivery or pickup.

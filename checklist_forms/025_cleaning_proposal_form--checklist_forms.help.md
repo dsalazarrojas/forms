@@ -1,5 +1,3 @@
-<thinking>... This form is designed to be a comprehensive cleaning proposal form that captures essential information about the client and their cleaning needs. It's intended to be filled out by cleaning company staff or representatives, who will be using this form to create a proposal for the client. The form has several sections: Company Information, Client Information, Proposal Details, Services Proposed, Pricing, Terms and Conditions, and Acceptance. Before filling out the form, please ensure that you have all the necessary information and that the form is not already filled out for another proposal. This will prevent errors and ensure that the form is accurate for the client's specific needs... </thinking>
-
 # Cleaning Proposal Form - Help Guide
 ## Purpose
 The Cleaning Proposal Form is designed to capture all the necessary information to create a comprehensive cleaning proposal for a client. This form guides the user through a series of sections to gather details about the client, their cleaning needs, and the proposal itself.

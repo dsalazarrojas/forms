@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from store visits. This feedback will help the retail business improve their store's overall experience. The form is used to gather details about the store visit, including the store's overall rating, any issues encountered, and if there's a follow-up action required.
-</thinking>
-
 # retail_visit_report_form - Help Guide
 ## Purpose
 The retail_visit_report_form is used to collect feedback from store visits. This feedback is crucial for the retail business to understand what they are doing well and what areas need improvement.

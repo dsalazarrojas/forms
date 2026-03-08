@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the School Trip Parent Information Collection form, providing users with a clear understanding of its purpose, required fields, and how to complete it.
-
-First, it's essential to confirm that this form is intended for collecting parent information related to school trips, specifically for medical treatment, emergencies, and other relevant details. To avoid duplication of information, ensure that the form is not used for any other purpose than its intended use.
-
-This guide will walk you through each field of the form, explaining their purpose and required fields.
-
-</thinking>
-
 # School Trip Parent Information Collection - Help Guide
 ## Purpose
 The School Trip Parent Information Collection form is designed to collect necessary information from parents or guardians regarding their child's health, emergency contacts, and other relevant details related to school trips. This information is crucial for the school to ensure the child's safety and well-being.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with the NDT (Not Yet Determined) team, including their services used, rating, and other relevant information. The purpose of this form is to gather insights on how the team can improve its services and communication. This form will help the team to better understand the needs and expectations of their customers, and make data-driven decisions to enhance their services. Before proceeding, please ensure that you have not already provided feedback on this form, as this would be a duplicate submission. If you have previously submitted feedback, please do not resubmit it. If you are unsure about any of the information, please feel free to ask for clarification or assistance.
-</thinking>
-
 # NDT Feedback Collection Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the NDT team, including their services used, rating, and other relevant information. The purpose of this form is to gather insights on how the team can improve its services and communication.

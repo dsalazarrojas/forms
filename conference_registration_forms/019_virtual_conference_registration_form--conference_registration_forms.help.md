@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect registration information from attendees, speakers, exhibitors, staff, and students for a virtual conference. The form should be completed by filling in all mandatory fields to ensure accurate and efficient registration processing. Ensure that the fields are correctly filled in before submitting to avoid errors. The fields should not be duplicated or left blank if not applicable.
-</thinking>
-
 # Virtual Conference Registration Form - Help Guide
 ## Purpose
 The Virtual Conference Registration Form is used to collect registration information for attendees, speakers, exhibitors, staff, and students for a virtual conference.

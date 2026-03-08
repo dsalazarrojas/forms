@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic order form for a pumpkin cheesecake. It likely serves as a template for customers to place an order for a pumpkin cheesecake, which could be used in a business or restaurant setting. The form doesn't appear to be affiliated with any specific form platform, suggesting that it's a custom creation. The form's structure is simple, with four sections: "Order Details", "Customer Info", "Delivery Info", and "Order Confirmation". Each section is a text field, which could be used to collect various pieces of information such as order specifics, customer contact details, delivery instructions, and order confirmation notes.
-</thinking>
-
 # Pumpkin Cheesecake Order Form - Help Guide
 ## Purpose
 This form is designed to collect order details, customer information, delivery information, and order confirmation from customers who want to place an order for a pumpkin cheesecake.

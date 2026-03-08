@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form, "Internal Process Friction Survey," is to help the organization identify areas of inefficiency within its internal processes. This form collects information about workflow bottlenecks, pain points, and implementation status, among other details. It's essential to complete this form to provide valuable insights for process improvements.
-
-Before starting this survey, please note that your responses will be kept confidential and used solely for internal purposes. If you have already completed a similar survey, kindly refrain from duplicating your answers, and focus on providing updated information. Your contributions are invaluable in helping us create a smoother and more efficient work environment.
-</thinking>
-
 # Internal Process Friction Survey - Help Guide
 ## Purpose
 This survey aims to understand the internal processes that cause friction, identify pain points, and determine the implementation status of suggested solutions. Your honest and thorough responses will help us pinpoint areas for improvement and develop strategies to enhance our internal processes.

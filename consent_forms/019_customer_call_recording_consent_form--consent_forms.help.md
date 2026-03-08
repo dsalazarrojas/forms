@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect the consent of customers to record their phone calls. It's crucial to have this consent as per the company's data protection policies. This form will be used to gather information about the customer's team, location, and reason for requesting the recording of their phone call. It's essential to fill this form correctly to ensure that the customer's consent is accurately documented. This form should not be filled in if the customer has already given their consent through a different method.
-</thinking>
-
 # customer_call_recording_consent_form - Help Guide
 ## Purpose
 This form is used to collect the customer's consent to record their phone call. It helps ensure that the customer's data privacy and security are maintained as per company policies.

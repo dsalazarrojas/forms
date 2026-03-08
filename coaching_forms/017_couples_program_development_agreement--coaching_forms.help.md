@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in participating in a couples program, likely a couples therapy or counseling program. The form aims to ensure that participants understand their role and responsibilities in the program, and are aware of the expectations and agreements that come with participating. Before proceeding, it's essential to review this form carefully to ensure that you're not duplicating existing data or misrepresenting your intentions. This form's layout and fields are designed to be straightforward and user-friendly, making it easier for you to understand what is required and what is optional.
-</thinking>
-
 # Couples Program Development Agreement - Help Guide
 ## Purpose
 This guide will walk you through the fields in the Couples Program Development Agreement form. This form is designed to gather essential information from individuals participating in a couples program.

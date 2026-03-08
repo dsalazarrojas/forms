@@ -1,13 +1,3 @@
-<thinking>
-The Property Listing Evaluation Checklist form is designed to collect information about a property listing evaluation. This form is used to evaluate properties based on various criteria such as property address, type, description, price, and status. 
-
-This form is typically used by real estate agents, property managers, or evaluators to assess properties and provide a comprehensive evaluation report. 
-
-The form is divided into multiple pages, each with its own set of questions or fields. The answers to these questions will help in providing a detailed report about the property. 
-
-It is essential to fill out this form accurately and thoroughly to ensure a reliable evaluation report.
-
-</thinking>
 # Property Listing Evaluation Checklist - Help Guide
 ## Purpose
 The Property Listing Evaluation Checklist form is designed to collect information about a property listing evaluation. 

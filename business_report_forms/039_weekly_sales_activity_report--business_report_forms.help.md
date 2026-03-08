@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide clarity on the purpose of the form and how to complete it for end users who will be submitting weekly sales activity reports. It is designed to ensure that all necessary information is collected and reported accurately. This form will be used to track and analyze sales performance, which will help inform business decisions. The purpose of this form is to gather data on sales activity for the week and provide insights to help drive business growth.
-</thinking>
-
 # Weekly Sales Activity Report - Help Guide
 ## Purpose
 The Weekly Sales Activity Report is a form used to track and record sales activity for the week. This information will be used to analyze sales performance and make informed business decisions.

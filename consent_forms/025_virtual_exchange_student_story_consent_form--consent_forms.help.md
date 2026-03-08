@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Exchange Student Story Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from virtual exchange students to share their stories and media with specified individuals or organizations. The form is a crucial part of the virtual exchange process, ensuring that students' personal information and stories are shared with the right people at the right time.

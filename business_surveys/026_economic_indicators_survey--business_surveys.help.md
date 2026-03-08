@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on economic indicators, such as economic sentiment and outlook, from various regions and departments within an organization. This form helps in understanding the current economic trends and forecasts, which can inform business decisions. This form is likely to be used by business development teams, finance departments, or other relevant teams within an organization. Before completing this form, please ensure that you have the necessary permissions and approvals to submit the data.
-
-To avoid duplication, please do not submit multiple forms for the same purpose.
-
-Please note that some fields may have multiple options or selections, and you should choose the most relevant option that best describes your current situation.
-</thinking>
-
 # Economic Indicators Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on economic indicators, such as economic sentiment and outlook, from various regions and departments within an organization.

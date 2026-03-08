@@ -1,5 +1,3 @@
-<thinking>Before diving into the guide, let's clarify the purpose and requirements of the Medical Treatment Claim Form. This form is designed for patients to provide information related to their medical treatment and claim details. The form will collect various patient and treatment-related information, including medical conditions, treatment plans, doctor information, and claim status. It is crucial to ensure that all required fields are filled in accurately and thoroughly to facilitate a smooth and efficient claim processing process. Please ensure that the information provided is correct and up-to-date, and that you have all necessary documents ready for upload before submitting the form.</thinking>
-
 # Medical Treatment Claim Form - Help Guide
 ## Purpose
 The Medical Treatment Claim Form is designed to collect information about a patient's medical treatment and claim details. This form helps in ensuring that all necessary information is provided accurately and efficiently for claim processing.

@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended to provide a step-by-step explanation of the "leadership-coaching-leave-form" form, ensuring that users understand its purpose, how to complete it, and what each field means. This form is used to collect information for coaching sessions, specifically in the context of leadership coaching.
-
-To confirm, before proceeding, the form's purpose is to gather essential details for coaching sessions, which includes information about the coaching session date, coach type, employee relationship with the coach, and other relevant details. Please verify that this guide is applicable to your specific use case.
-
-The form is structured to collect the following information: coaching session date, start and end dates, coaching type, relationship with the coach, location, reason for leaving, comments, employee name, manager's approval, submission date, and submission time.
-
-Please review the form's fields below to ensure understanding of each section.
-</thinking>
-
 # leadership-coaching-leave-form - Help Guide
 ## Purpose
 The "leadership-coaching-leave-form" is used to collect information for coaching sessions in the context of leadership coaching.

@@ -1,11 +1,3 @@
-<thinking>
-The form is intended for users to provide their holiday preferences and habits, allowing them to be categorized into different personality types or interests. This form will likely be used for marketing, research, or fun purposes to understand user preferences and behavior during the holiday season.
-
-This form will likely be used to gather information on user preferences for different holiday activities, food, and traditions, and will help users to identify their holiday personality or interests.
-
-To the best of my understanding, there are no specific rules against duplication or multiple submissions.
-</thinking>
-
 # Holiday Personality Quiz - Help Guide
 ## Purpose
 The Holiday Personality Quiz form is designed to gather user information on their holiday preferences and habits to better understand their personality or interests.

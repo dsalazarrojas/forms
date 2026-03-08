@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the business barriers that organizations face. It's essential to ensure that the survey is only completed once and by the intended respondent. This survey is meant for businesses only and should not be filled out by individuals. The form is intended to gather data on various aspects of business growth, internal and external barriers, and resource constraints. Before proceeding, please ensure that you have permission from the business owner to complete this survey on their behalf.
-
-</thinking>
-
 # Business Barriers Survey - Help Guide
 ## Purpose
 The Business Barriers Survey is designed to collect information about the internal and external obstacles that businesses face when trying to grow and expand. The data collected will help businesses identify areas where they need help or support to overcome these barriers.

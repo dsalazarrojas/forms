@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in joining the worship team, which is a crucial part of a church's music ministry. The form ensures that the applicants provide necessary details to assess their suitability and availability for the role. However, it's essential to note that the form may not be a comprehensive evaluation tool and its completion should be followed by a more in-depth interview or assessment by the worship team leaders. It's also worth mentioning that the form may be used internally to track applications and streamline the process, so please ensure that you are not duplicating efforts and only submit your application once.</thinking>
-
 # Worship Team Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from individuals interested in joining the worship team. Please fill out this form thoroughly and accurately to help us evaluate your suitability and availability for the role.

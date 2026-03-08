@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by business stakeholders to gather information about presentation tools, their features, and ratings. The purpose of this form is to collect feedback from users about presentation tools, which will help to improve the development and support of these tools. This form should only be filled out by people who have experience with presentation tools, as the questions are specific and require detailed answers. It is not designed to be filled out by people without experience.
-</thinking>
-
 # Presentation Tools Comparison Survey - Help Guide
 ## Purpose
 The Presentation Tools Comparison Survey is designed to gather information about presentation tools used in businesses. This includes rating and commenting on presentation tools such as PowerPoint, Google Slides, and Keynote.

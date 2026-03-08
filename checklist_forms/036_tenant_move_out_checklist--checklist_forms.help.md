@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to a tenant's move-out process. It's likely used to track and document the key details of a tenant's departure from a property. The form is structured to collect basic property and tenant information, move dates, rental frequency, and rent amount, as well as any additional notes that might be relevant.
-</thinking>
-
 # Tenant Move Out Checklist - Help Guide
 ## Purpose
 This form is used to collect information about a tenant's move out process, including property details, tenant details, move in and move out dates, rent frequency, and rent amount, as well as any additional notes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and document the release of software development records. It is meant to be completed by developers or teams after a project is completed, and it's an official record of the release details. The form will likely be used by management or other teams to track and manage the release process. Please ensure that this form is not completed for non-release events or sensitive records are not released without proper authorization.
-</thinking>
-
 # software_development_records_release_form - Help Guide
 ## Purpose
 The software_development_records_release_form is used to document and record the release of software development records. It is a crucial form for tracking and managing the release process.

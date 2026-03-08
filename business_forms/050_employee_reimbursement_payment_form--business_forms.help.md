@@ -1,5 +1,3 @@
-<thinking>Employee Reimbursement Payment Form is designed to collect and track employee reimbursement and payment information for business operations. This form is a part of the company's internal processes to ensure timely and accurate reimbursement of employee expenses. It is crucial to fill out this form completely and correctly to avoid any discrepancies or delays in receiving your reimbursement. Please review your employee handbook or speak with your supervisor for specific reimbursement policies and procedures.</thinking>
-
 # employee_reimbursement_payment_form - Help Guide
 ## Purpose
 The Employee Reimbursement Payment Form is used to collect and track employee reimbursement and payment information. This form is essential for the company's internal processes to ensure accurate and timely reimbursement of employee expenses.

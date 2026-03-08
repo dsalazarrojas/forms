@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about a daily task checklist for a specific user. The purpose of this form is to help the user keep track of their daily tasks and activities. It is likely used in a work environment where tasks are assigned to employees or team members to ensure accountability and productivity.
-
-This form appears to be used in conjunction with other forms or systems, such as a task management system, to track progress and completion of tasks. 
-
-To avoid duplication, the form should be used by one user at a time, and not by multiple users with the same name or ID.
-
-</thinking>
-
 # Daily Task Checklist Form - Help Guide
 
 ## Purpose

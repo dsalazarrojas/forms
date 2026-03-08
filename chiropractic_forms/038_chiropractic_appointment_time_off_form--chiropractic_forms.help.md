@@ -1,5 +1,3 @@
-<thinking>...I'm checking the form design and requirements to ensure I understand the context and purpose of the form... It appears the form is for chiropractors to request time off from work, and the goal is to reschedule or cancel appointments. To confirm, this form will be used by patients to provide necessary information for the chiropractor's time off request. I will also check for non-duplication and ensure that all required fields are clearly defined. I'm ready to proceed with creating the user-facing help guide...</thinking>
-
 # Chiropractic Appointment Time Off Form - Help Guide
 ## Purpose
 This form is designed to be used by patients to request time off from a chiropractor. You will need to fill out this form to inform the clinic of your availability and provide a reason for your request.

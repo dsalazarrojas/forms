@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information regarding a windshield damage event. The purpose of the form is to collect the details of the incident in order to process the claim. The form has been designed to be straightforward and easy to navigate.
-</thinking>
-
 # windshield_claim_form - Help Guide
 ## Purpose
 This form is used to record the details of a windshield damage event in order to process the claim.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data on the safety inspection of facilities. The purpose of this form is to ensure that facilities are regularly inspected for safety and security risks, and to document any hazards found and corrective actions taken. This form will be used by facility owners, managers, and inspectors to record and report on facility safety conditions, and to track progress on addressing potential risks. The information collected will be used to inform decisions on prioritizing facility safety and security efforts. 
-
-To ensure that the form is being used effectively, it's essential to understand its purpose and how to complete it accurately.
-</thinking>
-
 # Facility Safety Inspection Checklist - Help Guide
 ## Purpose
 The Facility Safety Inspection Checklist is a tool used to record and report on facility safety conditions, identifying potential risks and hazards, and tracking progress on addressing them.

@@ -1,8 +1,3 @@
-<thinking>
-We are building a help guide for the "Architectural Design Records Release Form". This form is used to document the release of records and documents related to architectural design projects. Its primary purpose is to ensure that the records are shared with the correct parties, while also maintaining confidentiality and adhering to relevant non-disclosure agreements. Before proceeding with filling out the form, please ensure that you are in a position to provide the required information and that you have the necessary permissions to authorize the release of these records.
-
-</thinking>
-
 # Architectural Design Records Release Form - Help Guide
 ## Purpose
 The Architectural Design Records Release Form is used to document the release of records and documents related to architectural design projects. This form ensures that the records are shared with the correct parties, while also maintaining confidentiality and adhering to relevant non-disclosure agreements.

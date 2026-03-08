@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from participants for sharing their academic data. The form ensures that participants understand what data will be shared, with whom, and for how long. It's crucial that this form is filled out accurately to establish a clear understanding between the data collector and the participant.
-</thinking>
-
 # Academic Data Sharing Consent Form - Help Guide
 
 ## Purpose

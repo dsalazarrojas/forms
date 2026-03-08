@@ -1,7 +1,3 @@
-<thinking>
-The form "Financial Statement Clarity Survey" is designed to gather feedback from users on the clarity of financial statements. This form is likely used to evaluate the comprehensibility and presentation of financial information, helping stakeholders understand how well the financial statements convey essential information. This form is probably used by finance teams, auditors, or other stakeholders who need to assess and improve the financial reporting process. Ensure that this form is not duplicated or redundant with existing forms in the organization, and that the questions and fields are aligned with the actual business needs and goals.
-</thinking>
-
 # Financial Statement Clarity Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the clarity of financial statements, helping stakeholders evaluate and improve the financial reporting process.

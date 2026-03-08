@@ -1,5 +1,3 @@
-<thinking>Form "website_redesign_seo_checklist_form" was generated using AI and is intended to help users assess the website redesign and SEO readiness of their website. It collects information about the website, including project details, target audience, and various SEO and accessibility elements such as meta tags, sitemap, and social media links. This form can be used as a template or starting point for further modifications by website owners or designers. It is a public adaptation of a form created using a public survey topic and does not rely on proprietary content. Form "website_redesign_seo_checklist_form" was generated with the intention of providing a comprehensive checklist for website redesign and SEO improvement. It is not affiliated with, endorsed by, or derived from any form platform.</thinking>
-
 # website_redesign_seo_checklist_form - Help Guide
 ## Purpose
 This form is designed to help website owners and designers assess the current state of their website's SEO and design in preparation for a potential redesign. It collects information about the website, including project details, target audience, and various SEO and accessibility elements.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a platform for students to express their complaints and issues with their teachers. This form is designed to gather information in a structured and efficient manner, ensuring that all relevant details are captured accurately. To prevent duplication of efforts, it's essential to review the form carefully and ensure that you have filled it out correctly before submission.
-</thinking>
-
 # Teacher Complaint Form - Help Guide
 ## Purpose
 The Teacher Complaint Form is a tool for students to report any concerns or grievances they have about their teachers. It helps to document and address these issues in a clear and efficient manner.

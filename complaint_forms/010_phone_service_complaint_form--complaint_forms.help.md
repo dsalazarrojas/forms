@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer feedback and complaints about phone services. This form is not intended for reporting issues with other services or submitting general feedback that does not pertain to phone service. Please make sure that your complaint is directly related to phone service before filling out this form.
-</thinking>
-
 # Phone Service Complaint Form - Help Guide
 ## Purpose
 This form is designed to allow customers to submit complaints about their phone service in a structured and organized manner, ensuring that all necessary information is collected and addressed properly.

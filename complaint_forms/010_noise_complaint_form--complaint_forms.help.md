@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information regarding noise complaints from individuals, which can be submitted for the purpose of tracking and addressing noise-related issues. This form will ensure that relevant details such as the type of noise, location, and frequency of the noise are captured accurately. 
-Please ensure you are using this form for the purpose intended and not for duplicate submissions or unnecessary complaints.
-</thinking>
-
 # Noise Complaint Form - Help Guide
 ## Purpose
 The Noise Complaint Form is a tool for reporting noise-related issues. It allows you to report a noise complaint and provide necessary details about the type of noise, its location, and the impact on you.

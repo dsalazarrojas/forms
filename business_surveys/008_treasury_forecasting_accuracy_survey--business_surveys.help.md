@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect information on the methods and challenges businesses face when it comes to forecasting, specifically the accuracy of their treasury forecasts. The purpose of this form is to help the treasury department understand the current state of their forecasting processes and identify areas for improvement.
-
-By completing this form, respondents will be able to share their current methods for forecasting, their desired forecast accuracy, the challenges they face in achieving this accuracy, their current forecasting roadmap, and how they validate their forecasts. This information will help the treasury department gain a deeper understanding of the business needs and challenges.
-
-To avoid duplication and ensure accuracy, please only answer the questions if you are familiar with the topics and processes being asked about.
-
-</thinking>
-
 # Treasury Forecasting Accuracy Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the methods and challenges businesses face when it comes to forecasting, specifically the accuracy of their treasury forecasts. The purpose of this form is to help the treasury department understand the current state of their forecasting processes and identify areas for improvement.

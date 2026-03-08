@@ -1,10 +1,3 @@
-<thinking>
-This form is likely created for a business or organization involved in environmental and urban planning. The form may be used to gather information from end-users, such as residents, business owners, or community members, to better understand their needs, concerns, and opinions about environmental and urban planning projects or initiatives. It might be used to collect contact information for follow-up, gather feedback, or solicit comments about specific projects or policies.
-
-Please review and ensure this form is not a duplicate or redundant form. If you're unsure, consider consulting with the project lead or stakeholders for clarification.
-
-</thinking>
-
 # Environmental And Urban Planning Survey - Help Guide
 ## Purpose
 This survey aims to gather information and opinions from individuals about environmental and urban planning projects or initiatives.

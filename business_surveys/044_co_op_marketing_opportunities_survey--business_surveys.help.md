@@ -1,5 +1,3 @@
-<thinking>As a business-to-business (B2B) collaboration, this form is designed to help businesses identify potential co-op marketing opportunities. It's essential to fill out this form accurately to ensure that the information provided is relevant and non-duplication. Please take a few minutes to review the fields carefully and provide as much detail as possible.</thinking>
-
 # Co-Op Marketing Opportunities Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your business and its potential for co-op marketing opportunities. This will help our team understand your business needs and identify potential collaboration opportunities.

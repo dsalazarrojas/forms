@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users keep track of warehouse inventory by providing a checklist for items to check, their current location, quantity in stock, and other relevant information. The form is intended to be completed by warehouse staff to ensure that all necessary checks are performed on items, including checking if an item is at a specific reorder point, last inspection date, and next inspection date. This form should be used to maintain accurate and up-to-date records of warehouse inventory, and to provide visibility into the status of items in the warehouse.
-</thinking>
-
 # warehouse_inventory_checklist_form - Help Guide
 ## Purpose
 The warehouse inventory checklist form is a tool used to track and manage warehouse inventory. It is designed to ensure that all items are checked and recorded accurately, and that all necessary information is captured.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback and comments from users about test automation. The purpose of this form is to gather information on how to improve the test automation process. It is designed to be used by users who have interacted with the test automation system and have feedback to share. This form is not intended to be used for other purposes. Please ensure that you have the necessary permissions and authorization to access this form.
-
-The form is designed to be completed by users who have experience with the test automation system and can provide valuable insights on how to improve it. Please fill out the form only once you have completed the test automation process or have relevant feedback to share.
-
-</thinking>
-
 # Test Automation Feedback Form - Help Guide
 ## Purpose
 The Test Automation Feedback Form is used to collect feedback and comments from users about the test automation process. It helps to gather information on how to improve the test automation process and make it more efficient for users.

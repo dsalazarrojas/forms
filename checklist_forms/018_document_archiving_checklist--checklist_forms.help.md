@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture metadata about documents that have been archived. The purpose of this form is to ensure that archived documents are properly stored and managed. The form will ask for various fields related to the document, including its status, storage location, and retention period. The form is used to track and categorize archived documents, making it easier to locate and retrieve them when needed.
-
-To prevent duplication, the form should only be filled out once for each document. Filling out this form multiple times for the same document can lead to inconsistencies and errors in the database.
-
-</thinking>
-
 # document_archiving_checklist - Help Guide
 ## Purpose
 The document archiving checklist is a form used to capture metadata about archived documents. This form helps to track and categorize documents, making it easier to locate and retrieve them when needed.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document incidents and improvements within the organization. It is likely used for reporting and tracking purposes, helping to identify areas of improvement and ensure that incidents are properly investigated and resolved. This form may be used by various departments within the organization, such as operations, quality control, or management. Before starting, ensure that the form is relevant to your specific situation and not already covered by an existing report or process.
-</thinking>
-
 # schimmas_cleaning_incident_and_improvement_report - Help Guide
 ## Purpose
 This form is designed to gather information about incidents and areas of improvement within the organization.

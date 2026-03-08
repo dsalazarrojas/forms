@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the Reception Area Security Checklist form. The form's purpose is to assess and document the security risks associated with the reception area of a facility. The form is designed to help users identify potential security risks and provide a detailed description of the risks. This information can be used to prioritize and address security concerns.
-
-Before filling out this form, please ensure that you have a clear understanding of the risks and concerns related to the reception area. You may want to review any relevant policies, procedures, and previous assessments before completing the form.
-
-When filling out the form, please provide as much detail as possible, and select the most accurate option for each field. If a field is not applicable, please enter "N/A" or provide a brief explanation.
-
-Please note that some fields are optional and may not be relevant to your specific situation. However, including as much information as possible will help ensure that your assessment is thorough and accurate.
-</thinking>
-
 # Reception Area Security Checklist - Help Guide
 ## Purpose
 The Reception Area Security Checklist is a form designed to assess and document the security risks associated with the reception area of a facility. This form helps users identify potential security concerns and provide a detailed description of the risks.

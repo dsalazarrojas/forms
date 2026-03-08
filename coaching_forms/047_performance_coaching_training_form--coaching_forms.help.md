@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from participants in a performance coaching training session. The purpose of this form is to gather relevant details about the participant's goals, objectives, and schedule for the training session, as well as their agreement to participate and any additional comments or remarks. This form is designed for both the participant and the coach to provide their perspectives on the training session.
-
-Before proceeding, please confirm that the participant and coach have not already submitted their forms for this specific training session.
-
-</thinking>
-
 # performance_coaching_training_form - Help Guide
 
 ## Purpose

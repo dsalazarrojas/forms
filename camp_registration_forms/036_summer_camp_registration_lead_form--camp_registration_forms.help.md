@@ -1,7 +1,3 @@
-<thinking>
-
-This help guide is intended to assist Summer Camp Registration Leads in understanding the required information to fill out the form and what each field represents. The Summer Camp Registration Lead Form is used to gather essential data from parents registering their children for summer camps, which includes contact and demographic details. It also allows leads to select various programs, dates, and payment plans to suit their needs. The form should not be filled out by anyone without a legitimate reason, and it is recommended to review this guide to avoid duplication and ensure all required information is accurate.</thinking>
-
 # Summer Camp Registration Lead Form - Help Guide
 
 ## Purpose

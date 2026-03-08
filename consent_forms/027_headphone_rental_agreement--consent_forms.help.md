@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # headphone_renal_agreement - Help Guide
 ## Purpose
 The purpose of this form is to collect details for a headphone rental agreement. This form is used to gather essential information about the rental, including equipment type, rental duration, start and end dates and times, equipment location, responsible party, and a signature. This form ensures that all necessary details are collected for a smooth and organized rental process.

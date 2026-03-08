@@ -1,6 +1,3 @@
-<thinking>
-This form is a vehicle pre-sale checklist designed to help users gather and verify crucial information about a vehicle prior to its sale. The primary purpose of this form is to collect data on the vehicle's condition, history, and specifications to ensure accurate representation and fair market value pricing.
-</thinking>
 # vehicle_pre_sale_checklist - Help Guide
 ## Purpose
 The vehicle pre-sale checklist is designed to collect information about a vehicle's condition, history, and specifications before it is sold. This helps to ensure that accurate and fair market value pricing is established.

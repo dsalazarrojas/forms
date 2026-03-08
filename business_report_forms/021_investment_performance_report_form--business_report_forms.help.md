@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to report the performance of an investment, which is a vital metric for businesses to assess the success of their financial endeavors. The form collects information on various aspects of the investment, including the investment return, client name, investment date, investment type, investment duration, investment amount, investment status, and any additional notes. This data will be used to track and analyze the performance of investments, enabling businesses to make informed decisions and optimize their investment strategies.
-
-This form is designed to be completed by authorized personnel, and its completion is not mandatory. However, providing accurate and detailed information will ensure that the investment performance data is comprehensive and reliable.
-
-To the best of my knowledge, this form is a one-time report, and there isn't a recurring or duplicate form for similar purposes.</thinking>
-
 # investment_performance_report_form - Help Guide
 ## Purpose
 The investment performance report form is used to report the performance of an investment, providing essential data for businesses to evaluate their financial endeavors' success.

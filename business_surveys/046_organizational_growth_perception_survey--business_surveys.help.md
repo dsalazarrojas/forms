@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help you provide feedback on your perception of your company, team, and department, as well as your personal experiences and opinions. This form is used to gather information about the current state of your organization, identify areas of improvement, and provide insights for growth and development.
-Please ensure that you fill out this form only once for each company. If you need to provide feedback for multiple companies, please create a new form for each one.
-You should not fill out this form if you are a manager or executive within the company, as your feedback may be biased.
-</thinking>
-
 # Organizational Growth Perception Survey - Help Guide
 ## Purpose
 The Organizational Growth Perception Survey is a tool designed to gather feedback on your perception of your company, team, and department. This survey helps identify areas of improvement and provides insights for growth and development.

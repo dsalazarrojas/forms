@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Salon Client Liability Release Form - Help Guide
 ## Purpose
 The Hair Salon Client Liability Release Form is a document that acknowledges the client's understanding and acceptance of the risks associated with receiving services from the hair salon. This form is essential for clients to acknowledge their responsibility and liability for any potential harm or injury that may arise during the salon's treatment or services.

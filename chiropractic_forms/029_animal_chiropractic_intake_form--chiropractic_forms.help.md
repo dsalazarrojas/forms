@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners to help the chiropractor understand the animal's health and medical history, identify potential chiropractic care needs, and consent to treatment. The form is intended to be used by pet owners to provide detailed information about their pets, including their medical history, symptoms, and treatment goals. This guide should only be used by pet owners who are seeking chiropractic care for their animals. If you are a veterinarian, please do not complete this form as it is intended for pet owners.
-</thinking>
-
 # Animal Chiropractic Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from pet owners to help the chiropractor understand the animal's health and medical history, identify potential chiropractic care needs, and consent to treatment.

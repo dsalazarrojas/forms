@@ -1,14 +1,3 @@
-<thinking>
-The form is intended for users who are interested in adopting a rescue dog from a local animal shelter. To ensure that the form is completed correctly and effectively, let's clarify the purpose and requirements of the form.
-
-The purpose of the form is to collect information about the potential adopter's household and their experience with pets. This information will help the shelter staff to better match the adopter with a suitable rescue dog and ensure a smooth adoption process.
-
-To complete the form, the user will need to navigate through the various sections, entering their information in the required fields. Some fields are not required, but providing accurate and detailed information will help to facilitate the adoption process.
-
-Before starting the form, please make sure that you are familiar with the adoption process and that you have the necessary information ready to be filled in.
-
-</thinking>
-
 # rescue_dog_adoption_application - Help Guide
 ## Purpose
 The rescue dog adoption application form is designed to gather information about you and your household to help us find the best match for you and your family.

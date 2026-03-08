@@ -1,5 +1,3 @@
-<thinking>As a business survey form, this form is designed to collect data about market drivers, which are factors that influence a company's success or failure. The Market Driver Analysis Survey is intended to gather information from end users about the relative importance and impact of each market driver. This form is likely used to inform business decisions or product development within a company. To ensure that your input is relevant, please only fill out fields that apply to your role or department. If you're unsure, feel free to reach out to the form administrators for assistance. Please note that this form is intended for multiple uses, so please provide clear and concise answers in each field.</thinking>
-
 # Market Driver Analysis Survey - Help Guide
 ## Purpose
 This form is designed to collect information about market drivers and their impact on your role or department. Please answer each field to the best of your ability, and don't hesitate to ask if you need clarification on any questions.

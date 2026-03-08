@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees for a youth conference, including their personal details, event preferences, and other relevant data. This form is likely intended for registration and organizational purposes, ensuring that the necessary information is collected in a structured and organized manner to facilitate effective communication and event management.
-
-To ensure non-duplication, it is recommended to review and verify the form fields against the conference's requirements and attendee profiles. This will help in avoiding redundant or irrelevant fields, ensuring that the form remains concise and easy to understand for the attendees.
-
-</thinking>
-
 # Youth Conference Registration Form - Help Guide
 ## Purpose
 The Youth Conference Registration Form is designed to collect essential information from attendees for the purpose of registration and event management.

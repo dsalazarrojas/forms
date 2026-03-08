@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Environmental Health Complaint Form is used for users to report potential environmental health concerns or issues in a specific location. This form is intended for reporting instances where the environment may pose a risk to public health, such as pollution, contamination, or other hazards. To ensure that all necessary information is collected for proper investigation and resolution, please fill out the form completely and accurately. If you have already reported an issue, please do not submit a duplicate report, as our team will handle each case individually.
 
 </thinking>

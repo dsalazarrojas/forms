@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Sports Trading Card Rookie Checklist" form. This form is designed to collect information about a sports trading card, including its name, series, player position, rookie year, grade, condition, and other relevant details. The form is divided into two sections: the main section for collecting card information and the secondary section for additional details. To complete this form, the user will need to fill out the required fields, which include sports trading card name, series, player position, rookie year, grade, condition, and contact method. The user can optionally provide additional information such as price, notes, and contact method. The form also includes two sets of fields for collecting information about a second sports trading card, in case the user needs to collect data on multiple cards.
-
-</thinking>
-
 # Sports Trading Card Rookie Checklist - Help Guide
 ## Purpose
 The Sports Trading Card Rookie Checklist form is designed to collect information about sports trading cards in a structured and organized way. The form is meant to be used by collectors, buyers, or sellers of sports trading cards to gather and store essential details about each card.

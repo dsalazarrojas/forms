@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Inspection Checklist - Help Guide
 ## Purpose
 The Warehouse Inspection Checklist is used by warehouse staff to inspect and record the status of the warehouse environment, including its location, storage conditions, fire suppression systems, emergency exits, fire prophets, storage areas, aisle width, safety equipment, electrical systems, and emergency procedures.

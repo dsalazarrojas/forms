@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form to gauge employees' understanding of our company's finance policies. This form will help us collect valuable insights on how well our employees comprehend our financial guidelines and identify areas where we need to improve. To ensure we don't duplicate effort or collect redundant information, we'll use this form to assess the current state of finance policy understanding among our employees.
-</thinking>
-
 # Finance Policy Understanding Survey - Help Guide
 ## Purpose
 This form is designed to help us understand how well our employees comprehend our company's finance policies. Your responses will help us identify areas of improvement and inform our training and education programs.

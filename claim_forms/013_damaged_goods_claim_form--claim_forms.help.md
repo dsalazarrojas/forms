@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers report damaged or defective goods. The purpose of this form is to gather information about the product and the circumstances surrounding the damage, which will be used to investigate and process the claim. This form should only be used for goods that have been damaged or have become defective after purchase, and not for routine returns or cancellations. Please ensure that you have already checked your product warranty or return policy before submitting this form. If you've already submitted a claim, please do not resubmit this form, as it may be treated as a duplicate.
-</thinking>
-
 # Damaged Goods Claim Form - Help Guide
 
 ## Purpose

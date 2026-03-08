@@ -1,6 +1,3 @@
-<thinking>**Internal Reasoning Block**
-This form is designed to collect feedback from patients about their experience with radiation therapy at a cancer care facility. The form is intended to help staff and administrators assess the quality of care provided and identify areas for improvement. The form collects information on various aspects of the patient's experience, including communication, treatment, and overall satisfaction. By reviewing this data, the facility can make informed decisions about how to enhance patient care and improve their experience.</thinking>
-
 # CAHPS Cancer Care Radiation Therapy Survey - Help Guide
 ## Purpose
 

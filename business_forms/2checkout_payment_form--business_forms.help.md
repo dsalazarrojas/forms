@@ -1,9 +1,3 @@
-<thinking>
-  This form is for capturing payment details for 2Checkout and Verifone transactions. It's crucial to ensure that customers' billing information, product or service description, and payment amounts are accurately recorded. The purpose of this form is to collect necessary information for payment processing and to facilitate smooth transactions. This form's structure and fields are designed to cater to the specific needs of 2Checkout and Verifone businesses. Please note that this form does not duplicate content from other platforms, and the provided fields and their explanations are based on the input schema. 
-
-Form fields are categorized into different sections to enhance clarity, and each field has a clear label and hint. Required fields are marked as such, ensuring that customers provide the necessary information for successful transactions. By following this guide, customers can complete the form accurately and efficiently.
-</thinking>
-
 # 2Checkout Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment details for 2Checkout and Verifone transactions. It captures essential information such as customer contact details, transaction specifics, and payment options.

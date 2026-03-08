@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Constant Calculation Form - Help Guide
 ## Purpose
 The Time Constant Calculation Form is a tool used to calculate the time constant of a circuit. This form is designed to assist users in determining the time constant based on various circuit types and user-inputted values.

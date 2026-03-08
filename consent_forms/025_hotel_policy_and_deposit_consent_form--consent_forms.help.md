@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for customers to acknowledge and consent to hotel policies and procedures, specifically related to deposit payments and room usage. It is designed to ensure that customers understand and agree to the hotel's terms and conditions before proceeding with their stay. The form should only be filled out once per stay and does not need to be completed for each room booked. 
 
 </thinking>

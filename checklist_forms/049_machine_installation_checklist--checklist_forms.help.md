@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating a machine installation checklist. I need to ensure the form purpose, how to complete it, and what each field means. Let me review the provided YAML fields.
-</thinking>
-
 # Machine Installation Checklist - Help Guide
 ## Purpose
 This form is designed to guide individuals through the process of installing machines, ensuring that all necessary steps are taken to ensure a successful and safe installation. 

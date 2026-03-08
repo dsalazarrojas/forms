@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users create a fun Easter experience for themselves or their loved ones. It gathers essential information about the Easter date, the Easter basket contents, and the Easter hunt details. This form is meant to be completed by individuals who are planning or participating in Easter-related activities. The form will not be used for commercial or malicious purposes. Please ensure that the information provided is accurate and up-to-date.</thinking>
-
 # Easter Checklist - Help Guide
 ## Purpose
 The Easter Checklist is a form designed to help individuals plan and prepare for a successful Easter celebration. It collects information about the Easter date, the contents of the Easter basket, and the details of the Easter hunt.

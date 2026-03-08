@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and functionality of the Sports League Administrative Efficiency Survey form. The form's primary objective is to collect feedback and data on the administrative efficiency of a sports league. This guide will walk users through the form's sections, explaining each field and its purpose in a clear and concise manner.
-</thinking>
-
 # Sports League Administrative Efficiency Survey - Help Guide
 ## Purpose
 The Sports League Administrative Efficiency Survey is designed to collect feedback on the current administrative processes and resources used by a sports league. This survey aims to identify areas of improvement and provide data-driven insights for optimizing the league's administration.

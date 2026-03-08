@@ -1,7 +1,3 @@
-<thinking>
-This is a checklist for evaluating a house's condition and features. It's designed to help users assess a house's suitability for their needs, whether they're buying, selling, or renting it. The form includes fields for basic information like address, year built, and condition, as well as more specific details about the house's features like bathrooms, bedrooms, and square footage. The goal is to gather a clear picture of the house's attributes to make an informed decision. This guide will walk you through each field to make sure you understand what each one means and how to complete it accurately.
-</thinking>
-
 # Open House Checklist - Help Guide
 ## Purpose
 The Open House Checklist is a tool to help you evaluate the condition and features of a house. It's essential to complete this form accurately to get a clear picture of the house's suitability for your needs.

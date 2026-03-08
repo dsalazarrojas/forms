@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is intended for employees to submit their wish lists and preferences for the Secret Santa gift exchange. The form gathers information such as their name, email, and wishes, which will be used to generate a unique set of gift ideas for each participant. This will ensure that every participant receives a gift that suits their interests and budget. By providing these preferences, participants can help to create a enjoyable and personalized experience for all involved.
-
-</thinking>
-
 # Secret Santa Wish List Form - Help Guide
 ## Purpose
 The Secret Santa Wish List Form is a survey that collects information from participants to create a personalized gift list for each person involved in the Secret Santa gift exchange. This form should be filled out by each employee participating in the Secret Santa activity.

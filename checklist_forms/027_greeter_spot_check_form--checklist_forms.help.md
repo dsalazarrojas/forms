@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record information about a customer interaction, specifically a greeting session. The form is not intended for real-time or high-priority use cases, and it's expected that the user will review and validate the form submission after completing it. The form is intended for manual entry, with the expectation that the user will fill out the form for each relevant interaction. The form should not be used for duplicate or repetitive entries, as this can lead to data duplication and potential errors in analysis.
-</thinking>
-
 # Greeter Spot Check Form - Help Guide
 ## Purpose
 The Greeter Spot Check Form is used to record information about a customer interaction, including the greeting method, location, and other relevant details.

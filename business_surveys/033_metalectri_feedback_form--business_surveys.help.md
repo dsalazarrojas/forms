@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Metalectri Feedback Form is to gather information from users about their experience with Metalectri, a fictional product or service. This form is used to collect feedback on various aspects of the product, including ratings, comments, and categories. It is essential to complete this form accurately and thoroughly to help Metalectri's development team understand areas of improvement and make informed decisions for future updates.
 
 ## Purpose

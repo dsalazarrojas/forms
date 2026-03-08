@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automotive Business Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an automotive business applying for registration. The form is divided into sections that cover various aspects of the business, including business information, contact details, business operations, services and inventory, and certifications. It is essential to fill out this form accurately and completely to ensure that the application process is efficient and successful.

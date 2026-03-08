@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about retail process automation applications. It is intended for businesses that want to automate their retail processes, and provides a structure for gathering details about their current systems, goals, and processes.
-
-To ensure relevance, this form will only be useful for businesses that operate in the retail industry or have similar needs. 
-
-This form does not require any proprietary or sensitive information. All answers will remain anonymous and are not shared with any third party. 
-
-Please note that the form has been generated using AI and is intended for informational purposes only.
-
-</thinking>
-
 # retail_process_automation_application_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from retail businesses about their current systems, automation goals, and processes to help them identify areas for improvement and potential opportunities for process automation.

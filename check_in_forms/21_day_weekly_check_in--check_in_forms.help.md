@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 21 Day Weekly Check In - Help Guide
 ## Purpose
 The 21 Day Weekly Check In form is designed to help participants of a 21-day program track their progress, mood, and challenges on a weekly basis. This form helps you provide valuable insights for yourself or others in the program. Please ensure you are using this form within the context of the 21-day program schedule.

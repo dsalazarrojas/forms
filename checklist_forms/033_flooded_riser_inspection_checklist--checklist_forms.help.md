@@ -1,8 +1,3 @@
-<thinking>
-This form is used to conduct a thorough inspection of a flooded riser. The purpose of this form is to gather essential information regarding the site location, the date of completion of the inspection, a description of the flooded riser, its location, and the next steps for repair or maintenance. It is essential to ensure that every field is filled out accurately for a comprehensive report generation. Please note that the fields are designed to gather specific and relevant information for the inspection, so ensure that the information provided is concrete and practical for the maintenance team. Please fill out the form carefully, and if you have any doubts or questions, refer to the field explanation below.
-
-</thinking>
-
 # Flooded Riser Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to assist in conducting a thorough inspection of a flooded riser. It captures essential details such as location, date, description, and next steps for maintenance or repair.

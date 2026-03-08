@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture an individual's gender identity and related information, providing a space for users to declare their gender, preferred pronouns, name, date of birth, and any additional details they wish to share. This form ensures that the user can select their gender identity from a range of options, including non-binary and trans options, and provides a safe space for users to express their preferred name and any additional information they feel is relevant. To avoid duplicating or misrepresenting user information, it is essential to complete this form carefully and accurately.
-</thinking>
-
 # Gender Identification Declaration Form - Help Guide
 
 ## Purpose

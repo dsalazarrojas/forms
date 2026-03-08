@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from applicants for a business registration process. It is used to gather personal and business details of applicants. The form has multiple pages, each with its own set of fields. The purpose of this form is to collect accurate and complete information from applicants to facilitate the registration process.
-
-Before proceeding, please ensure that you have the necessary information ready to fill out the form accurately. It is also recommended to review each field carefully to avoid any duplication of information.
-
-</thinking>
-
 # downline_application_form - Help Guide
 ## Purpose
 This form is used to collect information for the business registration process.
