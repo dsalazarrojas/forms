@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and experiences from users who have gone through the immigration process. This form should only be filled out by users who have actually experienced immigration, to avoid duplication and ensure relevant feedback. This form will help us understand their challenges, experiences, and satisfaction with our services, which will help us improve our support and services for future users.
-</thinking>
-
 # Immigration Experience Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect information about drivers in a fleet management context... this form is likely used to assess drivers' risk profiles and determine their suitability for driving company vehicles or other fleet-related activities... it's likely that this form is used in conjunction with other fleet management systems...</thinking>
-
 # Fleet Insurance Driver Assessment - Help Guide
 ## Purpose
 This form is used to collect information about drivers in a fleet management context to assess their risk profiles and determine their suitability for driving company vehicles or other fleet-related activities.

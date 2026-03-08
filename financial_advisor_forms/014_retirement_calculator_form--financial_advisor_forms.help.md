@@ -1,5 +1,3 @@
-<thinking>As a forms expert and technical writer, I will create a comprehensive user-facing help guide for the Retirement Calculator Form. This guide will cover the form's purpose, how to complete it, and what each field means. I'll ensure the explanation is concrete, concise, and practical, without inventing unsupported business logic. I will also follow the required Markdown structure for the guide.</thinking>
-
 # Retirement Calculator Form - Help Guide
 ## Purpose
 The Retirement Calculator Form is designed to help users assess their retirement readiness and make informed decisions about their financial future. This form will guide you through a series of questions to determine how much you need to save for a comfortable retirement and what steps you can take to achieve it.

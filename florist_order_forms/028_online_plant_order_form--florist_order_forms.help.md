@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Plant Order Form - Help Guide
 ## Purpose
 The Online Plant Order Form is used to collect information for the ordering and purchasing of plants. This form is a crucial tool for customers to provide their details for successful plant delivery and payment processing.

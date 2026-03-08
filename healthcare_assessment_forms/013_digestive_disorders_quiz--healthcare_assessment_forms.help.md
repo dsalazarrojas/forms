@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Digestive Disorders Quiz is a form designed to assess an individual's awareness and knowledge about digestive disorders. The form is intended for healthcare professionals to gather information about a patient's digestive system, its problems, and related disorders, including awareness and treatment options.
 
 To complete this form, please follow the steps below:

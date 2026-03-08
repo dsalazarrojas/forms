@@ -1,11 +1,3 @@
-<thinking>
-This form is for submitting financial ledger records for review and processing. 
-It is used for reporting financial data and should not be used for other purposes. 
-Please ensure you are uploading the correct type of file before submitting. 
-Do not upload duplicate or unnecessary files. 
-If you are unsure about the form purpose or the file type, contact the relevant department for clarification. 
-Please note that this form is a digital representation of the original analog form, and the fields may be subject to changes as per internal policies and regulations.</thinking>
-
 # Financial Ledger Submission - Help Guide
 ## Purpose
 The Financial Ledger Submission form is a digital tool for submitting financial records for review and processing.

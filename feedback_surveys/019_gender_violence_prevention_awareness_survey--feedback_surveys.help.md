@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect anonymous feedback and responses from users about gender violence prevention awareness. It is intended to be used by individuals who have experienced or witnessed gender violence, either as a perpetrator or victim. The form is designed to gather information about the type of violence, gender, and other relevant details to help in the prevention and awareness of gender violence.
-The form will not collect any personally identifiable information and will be used for aggregate reporting purposes only.
-</thinking>
-
 # Gender Violence Prevention Awareness Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the Gender Violence Prevention Awareness Survey form, ensuring you understand what information is collected and how to submit it.

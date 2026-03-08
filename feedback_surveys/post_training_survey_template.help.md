@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees after a training program. The purpose of this form is to collect data on trainees' experiences, satisfaction, and areas for improvement. By using this form, the organization can identify strengths and weaknesses of the training program and make informed decisions for future improvements.
-</thinking>
-
 # post_training_survey_template - Help Guide
 ## Purpose
 The post-training survey is designed to collect feedback from trainees after a training program. The feedback will help us improve future programs by identifying areas of strength and weakness.

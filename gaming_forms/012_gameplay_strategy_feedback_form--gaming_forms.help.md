@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from players on their preferred gameplay strategy, which will help game developers to better understand player preferences and improve the game experience. This form is designed to be completed by players who have played the game and want to share their thoughts on how to make the game more enjoyable or challenging for others.
-
-The form will be reviewed to ensure that it is completed once per player, to avoid duplication of feedback from the same player. If a player has already submitted feedback, they will be notified that their feedback has already been recorded and they will not be able to submit again.
-
-</thinking>
-
 # Gameplay Strategy Feedback Form - Help Guide
 ## Purpose
 The Gameplay Strategy Feedback Form is designed to collect feedback from players on their preferred gameplay strategy, which will help game developers to better understand player preferences and improve the game experience.

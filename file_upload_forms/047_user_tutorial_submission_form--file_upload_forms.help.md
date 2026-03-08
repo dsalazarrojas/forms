@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended for end users who are submitting a User Tutorial Submission Form. Before starting, please ensure you have a clear understanding of the form's purpose and the information it will collect. This form is designed to gather information about a user's tutorial submission, and it's essential to complete it accurately and thoroughly.
-
-To avoid duplication, please note that the form is not intended for multiple submissions. If you have already submitted a tutorial, please do not submit again.
-
-Please follow this guide carefully to complete the form correctly.
-
-</thinking>
-
 # User Tutorial Submission Form - Help Guide
 ## Purpose
 The User Tutorial Submission Form is designed to collect information about a user's tutorial submission. This form will guide you through the steps to complete it accurately.

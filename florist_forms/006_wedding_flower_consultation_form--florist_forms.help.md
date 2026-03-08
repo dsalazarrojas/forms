@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, we will assume that the form purpose is to collect information necessary for a wedding flower consultation. The form's title and label are self-explanatory, and it's likely that the form will be used by wedding planners or brides-to-be to gather information about their flower preferences.
-</thinking>
-
 # Wedding Flower Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary for a wedding flower consultation. It will help wedding planners or brides-to-be to gather information about their flower preferences, including favorite flower types, colors, and shapes.

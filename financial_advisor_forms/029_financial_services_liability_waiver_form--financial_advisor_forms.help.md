@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to capture key information related to financial services liability waiver agreements. A liability waiver is a contract that protects financial service providers from legal liability in case of errors or omissions during financial planning and advisory engagements. 
-
-The purpose of this form is to ensure that the client understands and acknowledges the waiver terms before commencing any financial planning or advisory engagement. This includes providing details about the financial services offered, client expectations, and acknowledgment of liability limitations.
-
-To ensure relevance, the form is only applicable for financial services provided to clients. 
-
-Non-duplication consideration:
-
-* This form should not be used for any other type of liability waiver or agreement.
-* Other forms with similar purposes should be used for different types of agreements.
-</thinking>
-
 # financial_services_liability_waiver_form - Help Guide
 ## Purpose
 This form captures key information related to liability waiver agreements for financial services provided to clients. The client must acknowledge and understand the terms before commencing any financial planning or advisory engagement.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly outline the purpose and relevance of the HACCP inspection form. HACCP stands for Hazard Analysis and Critical Control Points, a systematic approach to identify and control hazards in the food industry. This form is designed to ensure that food establishments maintain a safe and sanitary environment, preventing the risk of foodborne illnesses. By completing this form, food handlers can self-inspect their operations and identify areas for improvement to prevent contamination and food safety issues.</thinking>
-
 # HACCP Inspection Form - Help Guide
 ## Purpose
 The HACCP Inspection Form is designed to help food establishments identify and control potential hazards in their operations. This form guides the completion of a thorough self-inspection to ensure food safety and prevent contamination.

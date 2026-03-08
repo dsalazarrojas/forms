@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and survey data from users about the progress of data transformation projects. The form should only be filled out once, and it's not a form that will be frequently used. Each field in the form has been carefully designed to gather specific information. Please review each field carefully to ensure that you provide accurate and complete information.
-</thinking>
-
 # Data Transformation Progress Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and survey data from users about the progress of data transformation projects.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "Casting Call Submission Upload Form" that provides a clear understanding of the form's purpose, step-by-step instructions on how to complete it, and a detailed field-by-field explanation of each required and optional field.</thinking>
-
 # Casting Call Submission Upload Form - Help Guide
 ## Purpose
 This form is used to submit applications for acting auditions. To submit a casting call, please ensure that you provide accurate and up-to-date information about your submission. Make sure you are not duplicating a submission for the same production.

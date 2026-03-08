@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for mergers and acquisitions resource collection. The form should be used by companies to upload documents and provide details about the company and its contributors involved in the merger or acquisition process. This form will help in collecting all necessary information from companies and its contributors in a systematic and organized way. Please ensure that you have reviewed the form carefully before proceeding to avoid duplication of work or incorrect submission. 
-</thinking>
-
 # mergers_and_acquisitions_resource_collection - Help Guide
 ## Purpose
 This form is designed to collect information for mergers and acquisitions resource collection from companies and its contributors.

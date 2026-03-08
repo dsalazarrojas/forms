@@ -1,9 +1,4 @@
-> <thinking>
-This form is used by our customers to apply for vehicle advertising services. To ensure a smooth and efficient application process, please make sure that your submission is complete and accurate. 
-We check for duplicates and relevance before processing applications.
-</thinking>
-
-# Vehicle Advertising Application Form - Help Guide
+> # Vehicle Advertising Application Form - Help Guide
 ## Purpose
 The Vehicle Advertising Application Form is designed for customers to apply for vehicle advertising services. It helps our team assess their needs and provide tailored advertising solutions.
 

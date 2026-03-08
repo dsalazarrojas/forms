@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Favorite Program Feedback - Help Guide
 
 ## Purpose

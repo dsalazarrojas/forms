@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The internal reasoning block explains the form purpose:
 The Digital Menu Screen Order Form is a form used to display and manage digital screens that show menu information to customers in a restaurant or food and beverage establishment. This form is used by management or staff to input information about menu items, options, and other relevant details for customer ordering.
 The form has different pages that can be completed for each digital menu screen, allowing for easy management and customization of menu content.

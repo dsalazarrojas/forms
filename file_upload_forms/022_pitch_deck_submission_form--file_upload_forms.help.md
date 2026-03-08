@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help startups and entrepreneurs submit a pitch deck, which is a presentation they use to showcase their company's idea, product, or service to investors, partners, or customers. The form is used to capture key information about the pitch deck, including the category of the submission, the name of the startup, the date and time of submission, and the description of the investment being sought. This form is designed to be completed by the startup representatives, and its purpose is to ensure that the necessary information is captured in a consistent and organized manner.
-</thinking>
-
 # Pitch Deck Submission Form - Help Guide
 ## Purpose
 The Pitch Deck Submission Form is a crucial tool for startups and entrepreneurs to submit their pitch deck to the relevant audience. It captures essential information that helps the audience understand the startup's idea, product, or service.

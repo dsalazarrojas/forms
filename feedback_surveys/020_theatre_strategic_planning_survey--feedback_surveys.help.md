@@ -1,9 +1,3 @@
-<thinking>
-
-We've designed this form to gather information from theatre organizations about their current challenges, priorities, and resource allocation. It's essential that you only complete this form if you're a representative from a theatre organization. This will help us better understand your needs and provide more relevant guidance and support. Please ensure that you're not duplicating your responses if you've already completed similar surveys in the past.
-
-</thinking>
-
 # Theatre Strategic Planning Survey - Help Guide
 ## Purpose
 Theatre Strategic Planning Survey is a form designed to collect information from theatre organizations about their current challenges, priorities, and resource allocation. This will help us better understand your needs and provide more relevant guidance and support.

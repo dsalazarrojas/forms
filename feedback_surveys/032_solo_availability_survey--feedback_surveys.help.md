@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's availability to work solo on specific days and time slots. The purpose of this form is to gather data on the number of days and time slots that an individual is available to work alone without any supervision. This data will be used to optimize solo work assignments and schedules. It is recommended that users complete this form only once to provide accurate and up-to-date information. If users have already completed this form in the past, their previous responses will be considered valid and do not need to be updated unless there are changes in their availability.
-</thinking>
-
 # Solo Availability Survey - Help Guide
 ## Purpose
 The Solo Availability Survey form is designed to collect information about an individual's availability to work solo on specific days and time slots. This data will be used to optimize solo work assignments and schedules.

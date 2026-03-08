@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that is clear, concise, and practical for the "Voice Over Sample Upload Form". The purpose of this form is to allow users to upload multiple samples of voice over work, including files with their respective titles, sizes, upload methods, and descriptions. The form is designed to be completed by users who are uploading multiple files at once, with fields for each file's metadata such as title, size, upload method, and description. The form will be used in an internal system, and the fields are likely to be used for data processing and organization purposes.</thinking>
-
 # Voice Over Sample Upload Form - Help Guide
 ## Purpose
 The Voice Over Sample Upload Form is a tool for users to upload multiple samples of voice over work at once. This form is designed to collect metadata about each file, including its title, size, upload method, and description.

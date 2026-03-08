@@ -1,5 +1,3 @@
-<thinking>As a pet owner, it's crucial to track your pet's sodium intake to ensure they receive the right amount of sodium necessary for their health and well-being. This form helps pet owners monitor and record their pet's sodium intake, which can be crucial for maintaining their overall health. Before filling out this form, please ensure that you have not already submitted the information for the same date, as this form is intended for a single day's intake. Please fill out the form carefully, ensuring all required fields are completed accurately.</thinking>
-
 # Pet Sodium Intake Tracker Form - Help Guide
 ## Purpose
 The Pet Sodium Intake Tracker Form is designed to help pet owners record their pet's sodium intake for a day. This form helps gather essential information on the pet's sodium consumption from different sources, pet's health status, and owner contact details.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to apply for Continuing Education Units (CEU) certification for a course or workshop they have completed. The purpose of the form is to gather necessary information for verification and certification purposes. To avoid duplication, please ensure you have not submitted this form before or have an active certification request pending.
-
-Before proceeding, please verify that you have the required documents and information ready to be uploaded.
-
-</thinking>
-
 # Application For CEU Certification - Help Guide
 ## Purpose
 This form is used to apply for Continuing Education Units (CEU) certification for a course or workshop.

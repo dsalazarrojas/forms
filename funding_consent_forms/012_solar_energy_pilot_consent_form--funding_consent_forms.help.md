@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect participant information and consent for a solar energy pilot program. The form is divided into several sections, each focusing on a specific aspect of participant involvement. The purpose of this form is to gather necessary details and ensure that participants understand their roles and expectations. To ensure consistency, it's essential to have all participants complete this form to maintain accurate and comparable data.
 
 # Solar Energy Pilot Consent Form - Help Guide

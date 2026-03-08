@@ -1,11 +1,3 @@
-<thinking>
-The form's purpose is to collect patient information for a thorough physical examination. This form is likely used in healthcare settings to record vital signs, physical appearance, and examination findings. To determine if the form is suitable for your needs, please consider the following:
-Is the form designed for general use or for a specific population (e.g., pediatrics, geriatrics)?
-Does the form require additional fields or sections to accommodate specific medical conditions or procedures?
-Will the form's layout and design suit your workflow and user interface preferences?
-Are there any other forms or templates available that might be more suitable for your use case?
-</thinking>
-
 # Adult Physical Exam Form - Help Guide
 ## Purpose
 

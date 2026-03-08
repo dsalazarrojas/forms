@@ -1,17 +1,3 @@
-<thinking>
-This is a guide for the Weekly Budget Form, a financial tool designed to help users track their weekly expenses and income. The form aims to provide a clear overview of a person's financial situation, facilitating better budgeting and financial planning. 
-
-The form has eight fields in total, each serving a distinct purpose:
-
-- **Weekly expenses**: A numerical field to input the total weekly expenses.
-- **Weekly income**: A numerical field to input the total weekly income.
-- **Weekly goal**: A dropdown select field with options Income, Expenses, Savings, or Other, allowing users to set a financial goal for the week.
-- **Weekly expense categories**: A multiple select field offering options Housing, Utilities, Transportation, Food, Entertainment, or Other, enabling users to categorize their weekly expenses.
-- **Weekly expense amount**: A numerical field to input the total weekly expense amount for selected categories.
-- **Weekly income sources**: A multiple select field with options Paycheck, Interest, Sales, or Other, allowing users to specify their income sources.
-- **Weekly budget date**: A date field to input the date for which the budget is intended.
-</thinking>
-
 # Weekly Budget Form - Help Guide
 ## Purpose
 The Weekly Budget Form is a tool to help users track and manage their weekly finances, setting a financial goal and categorizing expenses to better understand their financial situation.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the gamer's preferences, interests, and availability for a gamer community or online platform. The form is designed to be completed by gamers themselves, and the collected data will be used to provide them with personalized recommendations, offers, or content. The form should not be duplicated, as each submission is a unique representation of a gamer's profile.
-</thinking>
-
 # Gamer Life Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about the gamer's preferences, interests, and availability for a gamer community or online platform.

@@ -1,12 +1,3 @@
-<thinking>
-The form's purpose is to collect information from users about a debt review cancellation, which is a process that allows individuals to cancel or dispute a review or inquiry about their debt. This form is designed to capture relevant details from users, including their contact information, the reason for cancellation, the date of cancellation, and any dispute resolution information. It also includes fields for user and agency signatures, as well as fields for agency name and any errors encountered during the review enrollment process.
-
-Internal checks to prevent duplication:
-- Check if the form is being used in a non-relevant context.
-- Check if the user has already submitted a previous form for the same purpose.
-- Check if the form is being used for non-compliance or malicious purposes.
-</thinking>
-
 # Debt Review Cancellation Form - Help Guide
 ## Purpose
 The Debt Review Cancellation Form is used to collect information from users about a debt review cancellation, which is a process that allows individuals to cancel or dispute a review or inquiry about their debt.

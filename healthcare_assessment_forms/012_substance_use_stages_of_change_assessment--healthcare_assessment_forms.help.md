@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the stages of change in individuals with substance use issues. The purpose of this form is to collect data on the individual's demographic information, substance use assessment, readiness for change, stages of change, readiness for treatment, treatment planning, treatment services, follow-up counseling, and treatment outcomes. The form is intended to be used by healthcare professionals to gather information on the individual's progress in addressing their substance use issues.
-
-To ensure that the form is not duplicated or used inappropriately, please note that this form was created using AI-generated content and is not affiliated with, endorsed by, or derived from any form creation platform. It is an original adaptation of public survey topic metadata and is released under CC BY 4.0 license.
-
-Before filling out the form, please ensure that you have understood the purpose and intent of each section. If you have any doubts or concerns, please consult with the healthcare professional administering the form.
-
-</thinking>
-
 # Substance Use Stages Of Change Assessment - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer data for uploading customer IDs, likely for processing or verification purposes. The form may be used by support teams or other internal stakeholders. It's possible that this form is used in conjunction with other forms or data collection methods to gather comprehensive customer information. Ensure that the form is not duplicated with other forms or data sources to avoid data duplication or confusion. 
-</thinking>
-
 # Customer ID Upload Form - Help Guide
 
 ## Purpose

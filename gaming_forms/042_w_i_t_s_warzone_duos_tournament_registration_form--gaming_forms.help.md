@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from players wishing to participate in a "Wits Warzones" tournament. This form serves as the primary means of registration for the tournament. To ensure accuracy and efficiency in completing the form, please review the form carefully before submission. Note: Please ensure that you are submitting the correct information to the correct tournament. Duplicate submissions may lead to delays or cancellations in your registration.
-
-</thinking>
-
 # wits_warzones_tournament_registration_form - Help Guide
 ## Purpose
 The wits_warzones_tournament_registration_form is a registration form for players participating in the "Wits Warzones" tournament. 

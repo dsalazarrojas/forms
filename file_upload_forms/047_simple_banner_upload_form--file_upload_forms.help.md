@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to allow users to upload and manage banners for a website or application. The form is meant for administrators or users with high-level permissions to upload banner images, documents, or videos. The form has multiple fields for entering metadata such as file title, file size, file type, and other relevant information. 
-
-The form will be used to manage banners across different sections of the website, and the metadata entered here will help in categorizing and searching for banners.
-
-This guide is intended to help users understand how to complete this form correctly and efficiently. 
-
-Before proceeding, please note that this form requires the 'Submit' button to be selected to submit the form, and the 'Cancel' button will discard all changes made.
-
-Also, the form has a field for selecting the file type which is 'Image', 'Document', 'Video', or 'Audio'.
-
-</thinking>
-
 # Simple Banner Upload Form - Help Guide
 ## Purpose
 This form is used to upload and manage banners for a website or application.

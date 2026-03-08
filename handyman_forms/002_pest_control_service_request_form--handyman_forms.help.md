@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to be a simple way for customers to request pest control services from a business or service provider. The form is designed to collect essential details about the pest control treatment, including the type of pest, the location, and the time of service. The form also collects optional information like the contact number, customer name, and additional comments.
-
-By filling out this form, customers can easily communicate their pest control needs and help the service provider understand how to provide the best possible assistance.
-
-Before filling out this form, please note that the following fields are not required to be filled. However, providing the necessary details will ensure that the service provider can attend to your pest control needs efficiently and effectively.
-
-</thinking>
-
 # Pest Control Service Request Form - Help Guide
 ## Purpose
 This form is used to request pest control services from our team.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their eye health and prescription status. This form is typically used by eye doctors or optometrists to gather data for patient records and treatment planning. To avoid duplication of effort, please ensure that this form is only used for new patient consultations. 
-
-The form collects information on patient demographics, prescription status, medical history, and contact details. Some fields, such as "Prescription Medications" and "Eye Condition", allow the patient to select from pre-defined options, while others, like "Patient Comments" and "Doctor Comments", are free-text fields for the patient and doctor to provide additional context.
-</thinking>
-
 # eye-prescription-form - Help Guide
 ## Purpose
 This form is used to collect information from patients about their eye health and prescription status for new patient consultations.

@@ -1,10 +1,3 @@
-<thinking>
-
-Internal reasoning block to check form purpose and non-duplication: 
-This form is a COVID-19 daily health screening form designed to monitor the health status of individuals, particularly in high-risk environments such as workplaces, schools, or facilities. It is essential to complete this form accurately and honestly to ensure the well-being of oneself and others. Before proceeding, please confirm that you have not filled out this form in the past 24 hours. If you have any doubts or concerns, contact your HR representative or facility administrator for assistance.
-
-</thinking>
-
 # COVID 19 Daily Health Screening Form - Help Guide
 ## Purpose
 The COVID-19 Daily Health Screening Form is a tool for employees, students, or individuals to report their health status daily. This form helps identify potential COVID-19 cases, monitor health trends, and take necessary precautions to prevent the spread of the disease.

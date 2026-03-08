@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for users to upload and submit information about passport size photos. The primary purpose of this form is to gather information related to passport size photos, which could be for identification, travel, or other official purposes. 
-
-The form is likely used by government agencies, travel companies, or other organizations that require passport size photos from applicants. The form might be used to collect information for various types of documents, such as passport applications, visa applications, or identity verification purposes. 
-
-To ensure accurate and consistent data collection, it is essential to complete the form attentively. 
-
-Note that this form is designed to be filled out by an individual, not a group or organization. 
-
-The form is likely to be submitted electronically, and the information gathered will be used for official purposes.
-</thinking>
-
 # Passport Size Photo Submission - Help Guide
 ## Purpose
 The purpose of this form is to collect information and upload passport size photos for identification, travel, or other official purposes.

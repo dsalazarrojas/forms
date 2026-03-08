@@ -1,10 +1,3 @@
-<thinking>
-The form "Weight Loss Journey Testimonial Form" is designed for individuals who have completed a weight loss program and are willing to share their success story or testimonial with the program team. The purpose of this form is to gather testimonials from satisfied clients who have achieved their weight loss goals. This form collects information about the client's name, weight loss journey, and their progress, as well as their testimonial and whether they would recommend the program to others.
-
-To ensure that the form is filled out correctly, it's essential to review and follow these instructions carefully.
-
-</thinking>
-
 # Weight Loss Journey Testimonial Form - Help Guide
 ## Purpose
 The Weight Loss Journey Testimonial Form is designed to collect success stories from satisfied clients who have completed a weight loss program. The form is used to gather testimonials, which can be used to promote and improve the program.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for table hosts at a charity gala event to provide their information and preferences. The purpose of this form is to collect necessary details from table hosts, including their name, contact information, and event preferences such as table number and seating location. The form is used to ensure that all necessary information is collected from table hosts and that they are properly registered for the event. 
-
-The form will be used to determine table assignments, contact information, and other event logistics. Table hosts are encouraged to fill out the form accurately and thoroughly to ensure that their needs are met during the event. 
-
-It is assumed that table hosts are attending the gala for the first time and are not repeat attendees. If a table host has previously registered for a gala event, they are not expected to re-register. This form is a one-time registration process and should be completed only once per table host. 
-
-Please refer to this guide to ensure you fill out the form correctly. 
-</thinking>
-
 # Charity Gala Table Host Registration Form - Help Guide
 ## Purpose
 

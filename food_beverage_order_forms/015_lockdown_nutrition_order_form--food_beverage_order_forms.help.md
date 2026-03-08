@@ -1,7 +1,3 @@
-<thinking>
-This form is used to place orders for nutrition-related products during the lockdown period. It is intended for businesses that want to offer essential food and beverage products online, while complying with social distancing measures. The form will help to collect contact details, list of products, product images, product prices, and order details. The purpose of this form is to ensure smooth and efficient order processing while maintaining public health and safety standards.
-</thinking>
-
 # Lockdown Nutrition Order Form - Help Guide
 ## Purpose
 The Lockdown Nutrition Order Form is designed to help businesses receive orders for essential food and beverage products during the lockdown period. This form is intended for customers who want to place orders for these products online while adhering to social distancing measures.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help individuals prepare for a mortgage pre-approval process. The form collects information about a property and its owner, as well as the borrower's financial situation. This includes details about the property's value, type, and location, as well as the borrower's income, employment status, and credit score. By filling out this form, users will be able to gather all the necessary information to prepare for a mortgage pre-approval.
-The form is likely used by financial institutions or mortgage professionals to assess a borrower's eligibility for a mortgage and to gather the necessary documents and information to move forward with the mortgage process. It's essential to ensure that all fields are filled out accurately and thoroughly to avoid delays or issues during the mortgage pre-approval process.
-The form is composed of 25 questions that cover different aspects of the mortgage pre-approval process. These questions cover property details, borrower's financial situation, and other relevant information. Each field is essential in helping the financial institution understand the situation and prepare for the mortgage process.
-</thinking>
-
 # Mortgage Pre-Approval Checklist - Help Guide
 ## Purpose
 

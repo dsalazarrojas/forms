@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect vehicle information for submission. This form is designed to gather specific data related to vehicles, including type of vehicle, date, time, email, and other relevant details. It is intended for users to provide accurate and complete information about their vehicles.
-
-Before proceeding, please ensure that you have all the necessary information ready to be submitted. This form is not intended for duplicate submissions, so please check that your vehicle is not already registered or submitted.
-
-</thinking>
-
 # vehicle-submission-form-template - Help Guide
 ## Purpose
 The vehicle submission form is designed to collect vehicle information for submission.

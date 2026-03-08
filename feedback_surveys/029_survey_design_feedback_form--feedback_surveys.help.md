@@ -1,7 +1,3 @@
-<thinking>
-The survey_design_feedback_form is intended to gather feedback from participants on the design of a survey. This form is designed to collect specific information about the participant's experience with the survey and provide actionable feedback for improvement. This form is meant for internal use, and the feedback collected will help shape future survey designs to better meet the needs of our users. Please note that this form is not meant for actual participant feedback, but rather for internal feedback collection and analysis. If you are not familiar with the survey_design_feedback_form, please review this help guide to ensure you are using it correctly.
-</thinking>
-
 # survey_design_feedback_form - Help Guide
 ## Purpose
 The survey_design_feedback_form is used to gather internal feedback from staff members on the design of a survey. This feedback will help us improve the survey's usability and effectiveness.

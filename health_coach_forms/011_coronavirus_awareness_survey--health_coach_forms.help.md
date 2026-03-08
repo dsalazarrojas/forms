@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather awareness and perceptions about the risks and prevention methods of coronavirus, aiming to gather insights from end-users about their thoughts and experiences with the virus. The form consists of 7 fields across 7 pages, with the majority of the fields being single or multiple-choice questions, and one field for free-text notes. To ensure consistency with the original intent, I will only include fields that are relevant to the topic of coronavirus awareness and prevention.
-
-The following fields are relevant to this topic:
-- "What are your thoughts about the risk of coronavirus?" (page 1)
-- "What do you think is the biggest risk factor?" (page 2)
-- "Have you ever been in contact with a person with coronavirus?" (page 3)
-- "How long do you think the risk of transmission is?" (page 4)
-- "What time of day do you think the risk of transmission is higher?" (page 5)
-- "Do you know how to prevent the transmission of coronaviruses?" (page 6)
-- "What is your preferred prevention method?" (page 7)
-
-I will ensure that each field is explained in a clear and concise manner, making it easier for the end-users to complete the form accurately.
-
-</thinking>
-
 # Coronavirus Awareness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather insights from end-users about their thoughts and experiences with the coronavirus, its risks, and prevention methods.

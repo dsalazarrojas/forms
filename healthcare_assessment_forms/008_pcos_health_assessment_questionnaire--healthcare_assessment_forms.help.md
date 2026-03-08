@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of the form, we can analyze the label and hint fields in the input schema. The form is likely used to collect information about a patient's health, specifically regarding polycystic ovary syndrome (PCOS). The fields are primarily focused on symptoms, medical history, and physical characteristics.
-</thinking>
-
 # PCOS Health Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's health, specifically regarding polycystic ovary syndrome (PCOS). It helps healthcare professionals to assess the severity of symptoms and identify potential medical issues related to PCOS.

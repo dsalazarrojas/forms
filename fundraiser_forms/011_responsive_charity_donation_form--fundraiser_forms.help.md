@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for donors to make charity donations. It is intended to gather information from donors, such as their name, contact details, and donation preferences. It is not meant for internal use, but for donors to easily make donations and communicate their preferences. The form should not be used to collect sensitive information that is not directly related to the donation process.
-
-</thinking>
-
 # Responsive Charity Donation Form - Help Guide
 ## Purpose
 The Responsive Charity Donation Form is designed to allow donors to make easy and straightforward charitable donations. It helps donors provide their details and preferences in a clear and structured way.

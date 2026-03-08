@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Statement Request Form - Help Guide
 ## Purpose
 The Investment Statement Request Form is a tool used to request investment statements for various investment instruments. This form is designed to collect relevant information from clients to facilitate the process of obtaining investment statements.

@@ -1,6 +1,3 @@
-<thinking>
-This guide is for the Cardiology Discharge Form, used by healthcare professionals to document patient information during the discharge process. This form is crucial for ensuring accurate and comprehensive patient care. Ensure that the form is completed thoroughly and accurately for each patient.
-</thinking>
 # Cardiology Discharge Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document and record the status of crops in a greenhouse. This form helps ensure that crops are monitored and assessed for their quality and condition. It is designed to be completed by greenhouse staff after inspecting the crops, and can be used to track changes over time and identify potential issues. This form should only be filled out by authorized personnel, as it is intended for internal use only. Please note that this form is not for reporting issues with the greenhouse structure itself, but rather for assessing the health and quality of the crops.
-
-</thinking>
-
 # Greenhouse Crop Inspection Form - Help Guide
 ## Purpose
 The Greenhouse Crop Inspection Form is used to document and record the status of crops in a greenhouse, helping staff monitor and assess their quality and condition.

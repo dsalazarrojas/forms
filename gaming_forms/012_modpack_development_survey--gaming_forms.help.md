@@ -1,5 +1,3 @@
-<thinking>...This help guide is designed to assist users in completing the Modpack Development Survey form. The primary purpose of this form is to gather feedback from users about their experience with modpack development. It is essential to fill out this form honestly and thoroughly, as the feedback received will help the development team identify areas of improvement and make data-driven decisions to enhance the modpack development process... (Please note that this form is part of a larger process, and the answers will be reviewed and used internally to improve the modpack development process.) If you've already completed a similar form, please take a moment to review the questions and answers before submitting this form to avoid duplication of effort and ensure that your feedback is up-to-date and relevant... </thinking>
-
 # Modpack Development Survey - Help Guide
 ## Purpose
 The Modpack Development Survey is designed to collect feedback from users about their experience with modpack development. Your input will help the development team identify areas of improvement and make informed decisions to enhance the modpack development process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Fair Registration Form - Help Guide
 ## Purpose
 The Health Fair Registration Form is designed to collect personal and contact information from participants, as well as details about their medical insurance status and birth information. This form will help us better understand your needs and ensure a smooth experience during the Health Fair event.

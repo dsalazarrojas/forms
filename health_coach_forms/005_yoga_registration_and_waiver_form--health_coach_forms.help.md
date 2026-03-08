@@ -1,12 +1,3 @@
-<thinking>
-The "Yoga Registration And Waiver Form" is designed to collect essential information from users for the purpose of registering them for yoga programs and classes. This form aims to understand the user's medical history, contact information, and other relevant details to ensure a safe and comfortable experience during yoga practices. It is crucial to complete this form accurately, as it will be used to provide personalized guidance and support throughout the user's yoga journey.
-
-Before proceeding, please note that you may be asked to provide this form multiple times if your situation changes or if you have any new medical conditions.
-
-Please fill out this form carefully and thoroughly, and make sure to answer all questions truthfully. If you have any questions or concerns, do not hesitate to ask for help.
-
-</thinking>
-
 # Yoga Registration And Waiver Form - Help Guide
 ## Purpose
 The "Yoga Registration And Waiver Form" is designed to collect essential information from users for the purpose of registering them for yoga programs and classes.

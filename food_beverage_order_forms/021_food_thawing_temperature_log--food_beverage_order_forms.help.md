@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form, "Food Thawing Temperature Log", is used to record the temperature and date information of food during its thawing process. This form will help ensure that the food is stored and handled safely to prevent foodborne illness. To avoid errors, please fill out the form accurately and thoroughly. Ensure that each entry is correct and relevant to the current state of the food. Please be aware that some fields may be unnecessary if the food is stored at a consistent temperature throughout the process.
-
-</thinking>
-
 # Food Thawing Temperature Log - Help Guide
 ## Purpose
 The Food Thawing Temperature Log is used to record the temperature and date information of food during its thawing process.

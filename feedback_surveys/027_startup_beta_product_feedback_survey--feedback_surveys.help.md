@@ -1,5 +1,3 @@
-<thinking>...We need to create a comprehensive guide to help users understand the purpose and completion of this form, which is designed to gather feedback from users about their beta product experience... To avoid duplication, we need to check if the users have already provided feedback for the same beta product and if so, we should not display the form to them again...</thinking>
-
 # Startup Beta Product Feedback Survey - Help Guide
 ## Purpose
 The Startup Beta Product Feedback Survey is designed to gather information about your experience with our beta product. We value your feedback and would like to know what you think about the product's performance, features, and overall satisfaction. Your input will help us make informed decisions to improve our product.

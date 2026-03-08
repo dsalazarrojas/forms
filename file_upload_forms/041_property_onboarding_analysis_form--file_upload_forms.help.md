@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_onboarding_analysis_form - Help Guide
 ## Purpose
 The property onboarding analysis form is designed to collect information about a property in order to onboard it into the system. This form is used by property owners to provide detailed information about their property, including its address, type, size, year built, owner's contact information, property status, and other relevant details. The form helps to ensure that all necessary information is collected and accurate, reducing the risk of errors or missed data.

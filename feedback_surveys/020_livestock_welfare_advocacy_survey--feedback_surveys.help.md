@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to gather feedback and surveys from users related to livestock welfare advocacy. It seems to be a form used for collecting information from users who are concerned about animal welfare, possibly for the purpose of providing support or resources to those who need it. The form likely aims to understand the concerns and needs of users, and provide them with relevant support and guidance. Before filling out this form, please ensure that you haven't already submitted a similar survey or feedback form. This will help us avoid duplication of efforts and provide more accurate and efficient support.
-
-</thinking>
-
 # Livestock Welfare Advocacy Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and surveys from users regarding their concerns and needs related to livestock welfare advocacy.

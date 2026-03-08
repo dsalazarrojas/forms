@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We've created this help guide to assist end-users in understanding the Dental Records Release Form, a crucial document for managing patient information and medical records.
 
 </thinking>

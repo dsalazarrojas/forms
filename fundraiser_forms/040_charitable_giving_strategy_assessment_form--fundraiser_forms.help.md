@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a non-profit organization's current charitable giving strategy, including its donor segments, key metrics, outreach channels, challenges, opportunities, and recommended actions. The goal is to provide a comprehensive assessment of the organization's strategy and identify areas for improvement.
-
-Before filling out this form, please review the fields carefully and ensure that you understand the purpose and context of each one.
-
-</thinking>
-
 # Charitable Giving Strategy Assessment Form - Help Guide
 ## Purpose
 This form is designed to help non-profit organizations evaluate their current charitable giving strategy and identify areas for improvement.

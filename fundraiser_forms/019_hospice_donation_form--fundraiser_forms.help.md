@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospice Donation Form - Help Guide
 
 ## Purpose

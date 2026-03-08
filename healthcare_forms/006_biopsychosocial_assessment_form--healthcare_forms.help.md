@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess the biopsychosocial factors of a patient, which is a comprehensive evaluation of the patient's biological, psychological, and social factors. This form is likely used in a healthcare setting to gather information on the patient's demographics, medical history, mental state, and environmental factors that may impact their health. This information can be used by healthcare professionals to better understand the patient's needs and provide personalized care.
-
-Before completing this form, please make sure you have the necessary information and consent from the patient. This form is not intended to be a substitute for a comprehensive clinical evaluation, but rather a supplement to gather additional information.
-
-Please note that some fields may have specific requirements for completion, such as "required: true" indicating that the field must be completed before submitting the form.
-</thinking>
-
 # Biopsychosocial Assessment Form - Help Guide
 ## Purpose
 The Biopsychosocial Assessment Form is used to gather information on a patient's demographics, medical history, mental state, and environmental factors.

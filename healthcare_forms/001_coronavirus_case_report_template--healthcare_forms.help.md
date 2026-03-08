@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect and report information about suspected or confirmed cases of coronavirus disease. This form helps track and document cases to inform public health responses and prevent further transmission of the disease. The form is a template, so users are free to adapt it according to their specific needs and context.
-Before starting, ensure that you're completing this form for the intended purpose and not a duplicate report.
-</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 

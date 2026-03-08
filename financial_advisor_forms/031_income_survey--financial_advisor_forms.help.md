@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Income Survey form is designed to collect information about an individual's income levels, financial advisor forms, and other relevant details. The form is intended for various target groups, including income levels within a population or target group, and provides fields for demographic information such as email, phone number, and notes. 
 
 This form is part of the financial advisor forms collection and is meant to be filled out by individuals within the target group to provide insight into their financial situation.

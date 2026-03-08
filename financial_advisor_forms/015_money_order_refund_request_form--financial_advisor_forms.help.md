@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for customers to request a refund for a money order they have purchased. This form will help us understand the details of their purchase and the reason for their request. Please complete this form with accuracy and attention to detail to help us process your refund request efficiently. This form will ask for details about the money order, the order type, date of purchase, date of requisition, bank name, branch, amount, account number, and the reason for the refund. Please note that all the fields are not required, but providing accurate information will help us process your refund request quickly and correctly.
-</thinking>
-
 # Money Order Refund Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a refund for a money order. Fill out this form to provide the necessary details about your money order and the reason for your refund request.

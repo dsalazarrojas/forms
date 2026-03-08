@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this Heart Rate Tracking Form is to collect data on users' heart rates during exercise or physical activities. This form helps track the effectiveness of exercises or activities on heart rate, which is essential for fitness and health professionals to monitor their clients' or patients' heart rate levels. By filling out this form, users can record their heart rate readings, exercise duration, and other relevant information, making it easier for fitness and health experts to assess their progress and provide guidance.
-
-The form is designed for users to input their personal data, which includes:
-
-*   User details such as name, email address, and phone number
-*   Heart rate data during exercise or activity
-*   Start and end dates of the exercise or activity
-*   Type of exercise or activity
-*   Comments on the exercise or activity (optional)
-*   Email and phone number of the user
-
-The goal is to collect accurate and complete data for health and fitness professionals to analyze and provide personalized advice.
-
-</thinking>
-
 # Heart Rate Tracking Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure consistency, we need to understand the context and purpose behind this form. The form is called "scientific claim verification submission form" and has several fields related to user information, scientific claim, research assertion, uploaded files, reviewer comments, and review status among other fields. The form likely serves as a submission template for a scientific claim or research paper for review and verification by experts or peers. Each field in the form is designed to capture specific information related to the submission, reviewer's review process, and the outcome of the review. We will now create a user-facing help guide that explains each field in detail.
-</thinking>
-
 # scientific_claim_verification_submission_form - Help Guide
 ## Purpose
 The "scientific claim verification submission form" is a template for submitting scientific claims or research papers for review and verification by experts or peers. This form helps ensure that all necessary information is provided to facilitate a thorough and efficient review process.

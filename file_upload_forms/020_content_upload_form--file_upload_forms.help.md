@@ -1,12 +1,3 @@
-<thinking>
-This form is a crucial tool for uploading content to our platform, and it's essential to understand its purpose and how to use it correctly. The Content Upload Form is designed to collect information and files from users, ensuring that they comply with our storage and usage terms. Before proceeding, please make sure you have the necessary rights to upload the content you're about to upload, and that you've carefully reviewed our terms of service.
-
-When filling out this form, you'll be asked to provide various pieces of information, including your personal details, a brief description of the content, and its sensitivity level. This information will help us process and store your content efficiently and securely. Please take your time and fill out the form accurately, as incorrect or incomplete submissions may lead to delays or issues with your content.
-
-Before uploading any content, please ensure that you have the necessary permissions or rights to do so. If you're unsure about any part of the form, please don't hesitate to ask for clarification or advice.
-
-</thinking>
-
 # Content Upload Form - Help Guide
 ## Purpose
 The Content Upload Form is a tool for uploading various types of content, including images, videos, documents, and more. It's essential to use this form to ensure that your content is stored and used according to our terms of service.

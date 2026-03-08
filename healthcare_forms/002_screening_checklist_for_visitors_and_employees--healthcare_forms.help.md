@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from visitors and employees about their health and travel history, as well as their answers to screening questions. The purpose of this form is to identify potential health risks and ensure that visitors and employees are following proper protocols for safety and hygiene. 
-Before completing this form, please make sure you are in an area with good internet connectivity and a stable device. 
-
-Please note that some fields may not be required, but they are still important for providing accurate and complete information. 
-
-If you are having trouble understanding a field, please consult with the person responsible for managing this form or seek assistance from a colleague.
-</thinking>
-
 # Screening Checklist For Visitors And Employees - Help Guide
 ## Purpose
 This form is designed to collect information from visitors and employees about their health and travel history, as well as their answers to screening questions. The purpose of this form is to identify potential health risks and ensure that visitors and employees are following proper protocols for safety and hygiene.

@@ -1,8 +1,3 @@
-<thinking>
-To begin with, the purpose of this form is to gather information from a hairdresser about a client's hair preferences and characteristics, such as hair type, texture, and color. This form will help the hairdresser to provide personalized advice and services to the client.
-The form should only be filled out by a hairdresser, not by a client. It is used for internal purposes only and not for public display.
-</thinking>
-
 # salon_consultation_form - Help Guide
 ## Purpose
 The salon_consultation_form is designed to collect information from a hairdresser about a client's hair preferences and characteristics. This information will be used to provide personalized advice and services to the client.

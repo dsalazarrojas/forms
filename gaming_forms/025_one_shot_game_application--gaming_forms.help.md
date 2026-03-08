@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a one-shot game application. A one-shot game is likely a game that is played only once, and the form aims to gather necessary details about it. This form is likely used within a gaming-related context, possibly for administrative or reporting purposes. To ensure the correct usage of this form, please confirm that the form's purpose and fields are relevant to your specific use case. If you're unsure or have questions, consider reaching out to the form's creator or relevant stakeholders for clarification.
-</thinking>
-
 # one_shot_game_application - Help Guide
 ## Purpose
 

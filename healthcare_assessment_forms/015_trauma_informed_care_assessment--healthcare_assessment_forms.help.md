@@ -1,7 +1,3 @@
-<thinking>
-You are about to create a user-facing help guide for a form called "Trauma Informed Care Assessment". This form is used in the healthcare sector to assess trauma-informed care practices in a healthcare setting. Before starting, please ensure that you are in the correct context and have a good understanding of the form's purpose. The purpose of this form is to evaluate the effectiveness of trauma-informed care practices in a healthcare setting. Please review this guide carefully to ensure that you are completing the form accurately and correctly.
-</thinking>
-
 # Trauma Informed Care Assessment - Help Guide
 ## Purpose
 The Trauma Informed Care Assessment form is used to evaluate the effectiveness of trauma-informed care practices in a healthcare setting. This form helps assess the level of awareness, understanding, staff engagement, resources and support, policies and procedures, staff retention, and evaluation scale of the care practice.

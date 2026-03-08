@@ -1,38 +1,3 @@
-<thinking>
-
-The "Counseling Intake Form" is a comprehensive form used to collect general information and medical history from patients. This form is intended for healthcare providers to gather relevant data for medical consultations and treatment purposes. It is essential to fill out this form accurately and truthfully to ensure that the healthcare provider has a thorough understanding of the patient's medical history and needs.
-
-Before filling out this form, please ensure that you have reviewed and understood the purpose of each section and the type of information required. The form includes multiple sections, each with its own set of questions, which are:
-
-* General Information: This section is for collecting personal details such as name, contact information, and other general information.
-* Contact Information: This section is for providing contact details of the patient.
-* Medical History: This section is for recording any past medical history or health issues.
-* Medical Conditions: This section is for listing any existing medical conditions such as diabetes, hypertension, etc.
-* Allergies: This section is for recording any allergies or sensitivities.
-* Medications: This section is for listing any medications currently being taken.
-* Mental Health: This section is for recording any mental health issues or concerns.
-* Emergency Contact: This section is for providing emergency contact information.
-* Emergency Contact Person: This section is for listing the person to be contacted in case of an emergency.
-* Relationship: This section is for specifying the relationship between the patient and the emergency contact person.
-* Medical History 2: This section is for recording any additional medical history or health issues.
-* Consent to Share: This section is for obtaining consent to share medical information with healthcare providers.
-* Medical Provider: This section is for specifying the patient's current medical provider.
-* Medical Notes: This section is for recording any additional medical notes or comments.
-* Emergency Procedure: This section is for specifying if any emergency procedures have been performed.
-* Medical Procedure 2: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 3: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 4: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 5: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 6: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 7: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 8: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 9: This section is for specifying if any medical procedures have been performed.
-* Medical Procedure 10: This section is for specifying if any medical procedures have been performed.
-
-Please ensure to fill out each section accurately and truthfully, and do not hesitate to ask for help if you encounter any issues or concerns.
-
-</thinking>
-
 # Counseling Intake Form - Help Guide
 ## Purpose
 The Counseling Intake Form is a comprehensive form used to collect general information and medical history from patients, ensuring that healthcare providers have a thorough understanding of the patient's medical history and needs.

@@ -1,16 +1,3 @@
-<thinking>
-To create this help guide, I will follow the provided YAML fields and create a concrete, concise, and practical explanation of the form.
-
-The purpose of this form is to allow customers to provide details about their holiday wreath order. This includes selecting the type of wreath, providing their contact information, and specifying order details such as quantity, date and time of order, and any additional notes. This form is likely used by florists or flower shops to fulfill holiday wreath orders.
-
-The form is designed to be completed by customers who want to order a holiday wreath, and it's intended to be filled out by one person.
-
-The form is not intended for non-relevant orders or orders that are not for a holiday wreath. If a customer is not interested in ordering a holiday wreath, they should not fill out this form.
-
-The form has 12 fields, and each field has a specific purpose and instruction.
-
-</thinking>
-
 # Holiday Wreath Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to provide details about their holiday wreath order.

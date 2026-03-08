@@ -1,7 +1,3 @@
-<thinking>
-This form is a Hair Color Consultation Form used for clients to consult on their hair color preferences, including hair type, color, appointment schedule, and contact information. It is likely used within a salon or hairdresser business to streamline client consultations and communication. The form is structured to gather essential details about the client's hair color preferences, schedule a meeting, and capture their contact information.
-</thinking>
-
 # Hair Color Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information about the client's hair color preferences, appointment schedule, and contact details. It will help the hairstylist or salon staff to better understand the client's needs and preferences.

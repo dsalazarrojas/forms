@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants for a virtual game night event. The form is used to gather details such as participant names, email addresses, phone numbers, game titles, start times, game durations, game descriptions, event dates, and tags (yes/no). The purpose of this form is to ensure accurate and complete registration data for participants, which will be used to organize and execute the virtual game night event smoothly. Please note that this form should not be used for duplicate registrations, and all necessary information is required for a successful submission. Please review the form fields carefully to ensure a complete and accurate submission.
-</thinking>
-
 # Virtual Game Night Registration Form - Help Guide
 ## Purpose
 The Virtual Game Night Registration Form is designed to collect relevant details from participants to organize and execute the virtual game night event successfully.

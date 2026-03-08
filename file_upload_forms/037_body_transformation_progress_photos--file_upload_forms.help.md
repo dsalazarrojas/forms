@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll need to understand the form's purpose. From the YAML input schema, it appears that this form is used for clients to track their progress in a body transformation program. They will be providing demographic information, measurements, photos, and their progress updates. The form will likely be used by coaches or trainers to monitor clients' progress and provide guidance.</thinking>
-
 # Body Transformation Progress Photos - Help Guide
 ## Purpose
 The Body Transformation Progress Photos form is designed for clients to track their progress in a body transformation program. This form helps coaches and trainers monitor your progress and provide guidance to help you achieve your goals.

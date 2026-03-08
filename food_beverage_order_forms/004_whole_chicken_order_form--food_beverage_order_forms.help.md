@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Whole Chicken Order Form - Help Guide
 ## Purpose
 The Whole Chicken Order Form is designed to collect information about a customer's order for whole chickens. This form gathers essential details such as the customer's name, the count of whole chickens ordered, the side of chicken preferred, and any additional sauces selected. The form also captures the date and time for pick-up. Completing this form will help ensure that your whole chicken order is processed accurately and efficiently.

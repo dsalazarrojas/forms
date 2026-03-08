@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for requesting an update to an emoticon, a small emoticon is used in various online platforms. The purpose of this form is to allow designers to request changes or updates to the emoticons they are working on or have been assigned to. This form should only be used for valid requests, and please do not use it for duplicate requests.
-
-This form is not a general feedback or support form. If you have general feedback or support questions, please use the proper channels.
-
-</thinking>
-
 # Emoticon Update Request Form - Help Guide
 
 ## Purpose

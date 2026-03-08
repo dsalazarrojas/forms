@@ -1,7 +1,3 @@
-<thinking>
-We should consider adding a validation rule to ensure that the email field is only required when the "session_info" field is filled. This will help us prevent unnecessary data collection and make the form more intuitive for users.
-</thinking>
-
 # Henna Experience Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients who have experienced a henna session. The feedback will help the event planner and henna artist improve their services, ensuring that future clients have an exceptional experience.

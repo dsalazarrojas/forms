@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Fundraiser Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information from fundraisers after they have checked in for an event. The form is used to track attendance, guest information, and other relevant details. Please ensure that this form is completed accurately and consistently to maintain reliable records.

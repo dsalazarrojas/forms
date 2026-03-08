@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information about referrals for financial services. It is intended for employees who need to submit referrals for review and approval. The form is divided into several sections, each covering a different aspect of the referral process. The fields are designed to gather relevant details about the referral, including contact information, referral source, reason, and status.
-
-Before completing this form, please ensure that you have the necessary information and approvals before submitting. Also, be mindful of the required fields and ensure that you fill them out accurately. Duplicate submissions will not be accepted.
-
-Please note that this form is for internal use only and is not intended for public submission. Only authorized personnel should access and submit this form.
-
-</thinking>
-
 # Financial Services Referral Campaign Form - Help Guide
 ## Purpose
 

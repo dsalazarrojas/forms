@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and structure of this form, we need to analyze the input YAML file. The form is called "Funeral Home Access Request Form" and is likely used to collect information from visitors to a funeral home. The purpose of this form could be to gather the necessary details for the funeral home staff to accommodate and provide services to the visitors. The form has 7 fields: Visitor Information, Contact Information, Visitor Access Request, Schedule Visit, Attachments, Message, Email, and Phone.
-</thinking>
-
 # Funeral Home Access Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from visitors to a funeral home, allowing staff to efficiently manage and provide services to those visiting the facility.

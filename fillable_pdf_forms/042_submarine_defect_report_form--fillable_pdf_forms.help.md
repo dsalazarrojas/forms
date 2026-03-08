@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about submarine defects, including the date of the defect, a brief description, categories, and other relevant details. This guide will walk you through each page of the form, explaining each field and its purpose.
-
-</thinking>
-
 # Submarine Defect Report Form - Help Guide
 ## Purpose
 The Submarine Defect Report Form is used to report defects on submarines, collecting essential information to facilitate the analysis and resolution of these issues.

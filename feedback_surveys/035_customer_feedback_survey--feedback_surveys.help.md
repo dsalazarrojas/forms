@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Customer Feedback Survey - Help Guide
 
 ## Purpose

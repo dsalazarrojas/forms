@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electrical Injection Testing Form - Help Guide
 ## Purpose
 This form is designed to collect data for electrical injection testing, likely for quality control or assurance purposes in industrial or electrical engineering settings. The form may be used to document test results, track equipment performance, or monitor environmental conditions.

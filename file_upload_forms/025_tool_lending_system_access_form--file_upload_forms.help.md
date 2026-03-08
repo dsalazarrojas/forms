@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request access to the Tool Lending System. The form collects necessary information from the user to process their request. Please note that this form is designed for users to provide accurate and complete information, ensuring efficient handling of their requests.
-</thinking>
-
 # Tool Lending System Access Form - Help Guide
 ## Purpose
 This form is used to request access to the Tool Lending System.

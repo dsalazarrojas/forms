@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording data related to underground insulation resistance testing. Please ensure that the form is relevant to the specific test being conducted. This is not a general-purpose form and should only be used for this type of testing. The fields below describe the specific data that needs to be captured for each test location.
-</thinking>
-
 # Underground Insulation Resistance Testing Form - Help Guide
 ## Purpose
 This form is used to record data related to underground insulation resistance testing. It captures key information about the test location, test conditions, and results.

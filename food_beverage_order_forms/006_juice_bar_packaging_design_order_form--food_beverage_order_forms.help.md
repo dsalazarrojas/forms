@@ -1,11 +1,3 @@
-<thinking>
-To provide a helpful user-facing guide for the "juice_bar_packaging_design_order_form", we should first clarify the purpose and relevance of this form within our organization. This form seems to be designed for requesting packaging design services for a juice bar, where users need to provide specific details to submit their design requests.
-
-The form appears to be used for both internal and external users, and it's essential to ensure that all required fields are correctly filled out to avoid any issues with submission. The form's fields cover various aspects of packaging design, including color scheme, packaging type, size, label positioning, material, finish, shape, size, and designer's name and contact information. It also includes fields for submitting the design and tracking the submission status.
-
-Before proceeding, let's ensure that all fields are correctly filled, and the submission status is accurately updated.
-</thinking>
-
 # juice_bar_packaging_design_order_form - Help Guide
 ## Purpose
 This form is used to request packaging design services for a juice bar. It's essential to provide accurate and complete information to ensure a successful submission.

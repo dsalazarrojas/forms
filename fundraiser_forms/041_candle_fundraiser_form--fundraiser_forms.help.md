@@ -1,23 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Candle Fundraiser Form", I'll follow these steps:
-
-1.  Identify the form's purpose and potential issues with duplication or relevance.
-2.  Review the form's fields and their labels to ensure clear and concise explanations.
-3.  Write a detailed help guide in Markdown format following the specified structure.
-4.  Use the field labels and hints provided in the YAML to create bullet points for each field's explanation.
-
-The form is for collecting information from customers who are purchasing candles from a fundraiser event. The purpose of the form is to collect necessary details for the sale, including the customer's contact information, order details, and payment method. To avoid duplication, the form should not be used for duplicate orders or for customers who are already familiar with the process.
-
-The form fields include:
-*   Organization details (name, contact email, contact phone)
-*   Sales details (product selection, quantity, customer name, address)
-*   Payment information (method, total amount paid, reference number)
-*   Agreement and confirmation (final sale agreement, confirmation of payment and order details)
-
-Given the form's structure, potential issues with duplication can arise from incorrect or incomplete information. To avoid these issues, the form should be reviewed carefully before submission, and the customer should ensure all required fields are filled in correctly.
-
-</thinking>
-
 # Candle Fundraiser Form - Help Guide
 ## Purpose
 The Candle Fundraiser Form is designed to collect necessary information from customers who are purchasing candles from a fundraiser event. Please ensure all required fields are filled in correctly to avoid duplication and ensure successful processing of your order.

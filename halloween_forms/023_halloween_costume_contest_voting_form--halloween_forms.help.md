@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users of the Halloween Costume Contest Voting Form, a form designed to collect user input for the Halloween costume contest. The form is meant to gather information on users' favorite costumes, haunted houses, and other preferences. The purpose of the form is to understand user opinions and preferences, and to create a more engaging and interactive experience for users. 
-
-The form has multiple sections and fields, each with its own label and type. The form is designed to be user-friendly and easy to navigate.
-
-To check for relevance and non-duplication, this guide will review each field and its label to ensure that the content is clear and concise.
-
-</thinking>
-
 # Halloween Costume Contest Voting Form - Help Guide
 ## Purpose
 The Halloween Costume Contest Voting Form is designed to collect user input for the Halloween costume contest. This form will help us understand user opinions and preferences on various aspects of the contest.

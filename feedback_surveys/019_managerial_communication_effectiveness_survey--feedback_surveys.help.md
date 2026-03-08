@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Managerial Communication Effectiveness Survey - Help Guide
 ## Purpose
 The Managerial Communication Effectiveness Survey is designed to evaluate the effectiveness of managerial communication within your organization. This survey aims to gauge the level of employee satisfaction and team satisfaction with your communication style, frequency, and approachability. The survey also aims to assess the manager's ability to listen, provide developmental efforts, and set goals for employees.

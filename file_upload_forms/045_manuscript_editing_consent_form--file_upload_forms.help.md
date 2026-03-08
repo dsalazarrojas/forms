@@ -1,34 +1,3 @@
-<thinking>
-The Manuscript Editing Consent Form is used to gather information from authors and editors to facilitate the review and editing process of manuscripts. The form is used to collect data on manuscript details, submission history, and consent for editing. It is essential that the information is accurate and up-to-date to ensure that manuscripts are reviewed and edited correctly.
-The form is designed to collect data on manuscript editing and submission history, which will help in tracking and managing the manuscripts efficiently.
-Before filling out this form, please ensure that you have all the necessary information and permissions required for the manuscript editing process.
-The form fields are designed to be clear and concise, and you will be required to provide the following information:
-- project_name: This field will be used to identify the project name.
-- author_name: This field is for the author's name.
-- email: This field is for the author's contact email.
-- contact_number: This field is for the author's contact number.
-- project_details: This field is for any additional project details.
-- manuscript_upload: Select the appropriate manuscript upload option.
-- submission_date: This field is for the manuscript submission date.
-- manuscript_type: Select the type of manuscript.
-- manuscript_pages: This field is for the number of manuscript pages.
-- manuscript_length: This field is for the length of the manuscript.
-- submission_status: Select the submission status of the manuscript.
-- manuscript_revision_status: Select the manuscript's revision status.
-- manuscript_status: Select the manuscript status.
-- manuscript_reviewer: Select the manuscript reviewer.
-- manuscript_editor: Select the editor for the manuscript.
-- project_manager: Select the project manager.
-- author_signature: The author's signature.
-- editor_signature: The editor's signature.
-- project_manager_signature: The project manager's signature.
-- manuscript_editor_note: This field is for notes from the editor.
-- manuscript_review_note: This field is for notes from the reviewer.
-- submission_date_2: Another submission date field.
-- submission_date_3: Another submission date field.
-- submission_date_4: Another submission date field.
-</thinking>
-
 # Manuscript Editing Consent Form - Help Guide
 ## Purpose
 

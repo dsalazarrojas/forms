@@ -1,28 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the digital property platform access application form. This form is used to provide access to digital properties for approved users. It collects user details, access request information, and other relevant data required for verification and approval processes.
-
-To ensure the form is filled out correctly, please review each section carefully and ensure all required fields are completed. 
-
-This guide will cover the purpose and usage of each field in the form to assist users in providing accurate and complete information. 
-
-The form's internal validation checks for duplicated submissions and ensures that only one request for access is allowed per user. 
-
-Please note that the form is divided into multiple pages with the following fields:
-User Details (page 1)
-Access Request (page 2)
-Upload File (page 3)
-Verify Details (page 4)
-Approve Reject (page 5)
-Date (page 6)
-Time (page 7)
-Notes (page 8)
-Email (page 9)
-Phone (page 10)
-
-This guide will cover the explanation of each page/field to ensure users understand its purpose and correct usage.
-
-</thinking>
-
 # digital_property_platform_access_application - Help Guide
 ## Purpose
 The digital property platform access application form is used to request access to digital properties. It gathers user details and necessary information for the verification and approval process.

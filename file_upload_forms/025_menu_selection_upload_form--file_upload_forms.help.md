@@ -1,14 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for a form titled "Menu Selection Upload Form". This form is designed to collect menu selection information from users. 
-
-The form's purpose is to gather data on menu item uploads, including file uploads, dates, and user details. The form is likely used for menu management purposes, perhaps for restaurants or food establishments. 
-
-Before we dive into the instructions, let's assume that this form is used for restaurants to upload new menu items, and the user is a staff member tasked with managing the menu. 
-
-The form is relatively straightforward, with several fields that require user input. 
-
-</thinking>
-
 # Menu Selection Upload Form - Help Guide
 
 ## Purpose

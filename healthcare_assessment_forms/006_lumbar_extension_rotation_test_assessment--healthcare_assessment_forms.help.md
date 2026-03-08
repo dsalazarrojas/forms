@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lumbar Extension Rotation Test Assessment - Help Guide
 ## Purpose
 The Lumbar Extension Rotation Test Assessment is a comprehensive evaluation tool used to assess the lumbar spine and surrounding muscles. This form is designed to gather information about a patient's clinical findings, diagnosis, and other relevant details.

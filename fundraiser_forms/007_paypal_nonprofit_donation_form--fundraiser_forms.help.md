@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect donations from users who want to contribute to a nonprofit organization. The form is designed to be used by nonprofits to receive donations via PayPal. The form is likely to be used for fundraising events, charity drives, or general donations.
-</thinking>
-
 # PayPal Nonprofit Donation Form - Help Guide
 ## Purpose
 

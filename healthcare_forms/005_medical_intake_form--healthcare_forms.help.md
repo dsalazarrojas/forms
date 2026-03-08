@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Intake Form - Help Guide
 ## Purpose
 The Medical Intake Form is a document used to gather information about a patient's medical history, current symptoms, and past surgeries. This form is intended to help healthcare providers understand the patient's medical background and provide accurate and effective treatment.

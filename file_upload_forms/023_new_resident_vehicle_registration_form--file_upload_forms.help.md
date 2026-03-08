@@ -1,5 +1,3 @@
-<thinking>Here's the internal reasoning behind the form purpose and the potential for duplication. The form is intended to collect information about a new resident's vehicle registration, which is crucial for various administrative and regulatory purposes. By requiring only some fields (e.g., "Yes" or "No" for parking_application), we aim to minimize unnecessary data collection while still gathering the necessary information. To avoid duplication, we can check if a resident has already registered a vehicle with us before, using a unique identifier (e.g., license plate number). This way, we can prevent overwriting existing registrations and ensure data consistency.</thinking>
-
 # New Resident Vehicle Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about a new resident's vehicle for registration purposes. Please fill it out carefully to avoid any errors or duplicates.

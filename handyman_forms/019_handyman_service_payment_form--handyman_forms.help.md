@@ -1,17 +1,3 @@
-<thinking>
-
-This form is likely used by clients or customers to pay for services rendered by a handyman. The form will likely be used by handymen or their staff to collect payment information from clients. The form's purpose is to collect information about the payment method, payment date, service cost, and payment amount.
-
-It would not make sense to require the first name, last name, and email as they are not relevant to payment information. Therefore, these fields will be marked as optional.
-
-The payment method field will likely have cash, bank transfer, and card as options, with card being the most secure but also most difficult for the client to use.
-
-The service cost and payment amount fields are required to ensure that the correct amount is paid for the service.
-
-The notes field is likely used for any additional information or comments about the payment.
-
-</thinking>
-
 # Handyman Service Payment Form - Help Guide
 ## Purpose
 This form is used to collect payment information from clients.

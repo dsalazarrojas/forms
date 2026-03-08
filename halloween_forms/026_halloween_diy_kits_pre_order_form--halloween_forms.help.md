@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # halloween_diy_kits_pre_order_form - Help Guide
 ## Purpose
 This form is for customers to pre-order Halloween DIY kits. It captures the necessary information for the customer to place their order.

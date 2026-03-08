@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for students to order graduation caps and gowns for upcoming graduations. The form will collect the necessary information for processing and customization of the graduation attire. It is essential that students understand the purpose and process of this form to ensure accurate and timely completion of orders. This form should be used only for students and not for other purposes.
-</thinking>
 # Graduation Cap And Gown Order Form - Help Guide
 ## Purpose
 This form is used for students to order graduation caps and gowns for upcoming graduations. It collects necessary information for processing and customization of the graduation attire.

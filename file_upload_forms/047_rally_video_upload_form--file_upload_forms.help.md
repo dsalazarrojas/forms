@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to upload videos related to rallies. This form is designed to gather information about the videos, including the video itself, its duration, and associated event details. It's essential to complete this form accurately to ensure that the video is correctly attributed to the relevant event and rally. Please ensure you have all necessary information before submitting the form.
-</thinking>
-
 # Rally Video Upload Form - Help Guide
 ## Purpose
 The Rally Video Upload Form is a tool for uploading videos related to rallies. It helps gather essential information about the videos, such as the video content, duration, and associated event details. This form is crucial for ensuring that the uploaded videos are correctly attributed to the relevant events and rallies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals who have income from self-employment and are required to file a Schedule SE with the IRS. This form is used to calculate self-employment tax liability. Before proceeding, ensure you have reviewed the relevant tax laws and regulations.
-</thinking>
-
 # Form 1040 SE Self Employment Tax Form - Help Guide
 ## Purpose
 

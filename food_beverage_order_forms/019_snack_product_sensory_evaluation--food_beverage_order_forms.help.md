@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to gather user feedback on the product's taste, texture, and satisfaction. The form is part of a quality control process to evaluate the snack product's sensory properties. This form is intended for internal use only and should not be shared with the public. The form is a simple, self-explanatory form that should take only a few minutes to complete. It is likely used by product developers, product managers, or quality control personnel to evaluate the snack product's quality and make data-driven decisions. The form is not intended for public use and should be filled out by a small group of people with specific knowledge and expertise in the product's development process.
-</thinking>
-
 # Snack Product Sensory Evaluation - Help Guide
 ## Purpose
 The Snack Product Sensory Evaluation form is used to gather feedback on a snack product's taste, texture, and satisfaction. This feedback is used to evaluate the product's quality and make data-driven decisions in the development process.

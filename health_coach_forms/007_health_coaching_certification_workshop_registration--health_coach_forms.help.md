@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users who want to register for a health coaching certification workshop. The purpose of this form is to collect information from participants about their details, preferred dates, training provider, training academy, workshop information, contact information, and agreements. This form will help workshop organizers to get necessary details from participants and ensure a smooth registration process.
-
-This form is not intended for internal use within the organization, but rather for external participants who want to register for the workshop. This form is a one-time use form, and users should not be required to fill it out multiple times.
-
-Please ensure that you are filling out this form with accurate and up-to-date information to avoid any delays or issues with the workshop.
-</thinking>
-
 # Health Coaching Certification Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants who want to register for a health coaching certification workshop.

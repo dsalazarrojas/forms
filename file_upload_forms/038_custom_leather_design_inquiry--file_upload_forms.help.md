@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for customers to inquire about custom leather design services. The form will be used to gather information about the customer's design concept, material preferences, and project expectations. Please ensure that you are not submitting duplicate requests, as this form is only intended for new inquiries.
-
-</thinking>
-
 # Custom Leather Design Inquiry - Help Guide
 
 ## Purpose

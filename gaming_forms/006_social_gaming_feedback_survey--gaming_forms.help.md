@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback from social gamers on their gaming habits, satisfaction with various aspects of gaming, and preferences for game development tools and platforms. The goal is to understand how social gamers interact with games and platforms, what features they would like to see in games or platforms, and what type of content they find most helpful. To ensure the most accurate and useful feedback, please complete the form honestly and thoroughly. Note that some fields may be optional, but providing detailed answers will help us better understand your preferences and habits. Please make sure to review the form carefully before submitting it to ensure you are answering all relevant questions.</thinking>
-
 # Social Gaming Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from social gamers on their gaming habits, satisfaction with various aspects of gaming, and preferences for game development tools and platforms.

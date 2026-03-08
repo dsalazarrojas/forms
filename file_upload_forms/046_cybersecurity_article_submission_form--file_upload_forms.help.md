@@ -1,11 +1,3 @@
-<thinking>
-
-To begin with, this form is designed for cybersecurity article submission. The purpose of this form is to collect information from users who wish to submit articles related to cybersecurity. The form has multiple fields that cover various aspects of the article submission process, including author and affiliation, manuscript details, and submission status.
-
-Before proceeding with filling out the form, please ensure that you are submitting a unique article and not duplicating an existing one. 
-
-</thinking>
-
 # cybersecurity_article_submission_form - Help Guide
 ## Purpose
 This form is designed for cybersecurity article submission. It is used to collect information about the article, author, and submission status.

@@ -1,8 +1,3 @@
-<thinking>
-Internal purpose: 
-This form is used for Mother's Day menu orders.
-</thinking>
-
 # Mother’s Day Menu Order Form - Help Guide
 ## Purpose
 The "Mother's Day Menu Order Form" is a form used to take orders for food and beverage items for Mother's Day celebrations. This form will guide you through the order process, ensuring that all necessary details are captured for accurate and efficient order submission.

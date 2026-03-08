@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Tax Return Request Form", I'll first outline the purpose and internal logic of the form. This form appears to be used for requesting tax returns, gathering information about the taxpayer, and tracking the status of the request. It seems to be part of the "financial_advisor_forms" category, which likely involves tax-related financial activities.
-
-The form has 25 fields, which can be grouped into several categories: taxpayer information, request details, status tracking, and form management. The form is not strictly required, as some fields are marked as "optional" (not required). The user can choose to fill in the form as needed, but all fields are currently not mandatory.
-
-</thinking>
-
 # Tax Return Request Form - Help Guide
 ## Purpose
 The Tax Return Request Form is used for requesting tax returns, gathering information about the taxpayer, and tracking the status of the request. This form is part of the "Financial Advisor Forms" category.

@@ -1,11 +1,3 @@
-<thinking>
-
-As the "Contest Winner Update Form" is used to update and gather more detailed information from contest winners, it is essential to ensure that the form is completed accurately and thoroughly. This form is not intended for general public access, so it is crucial to verify that the user attempting to access this form has a legitimate reason for submitting it, i.e., being a contest winner.
-
-To prevent duplication of effort and potential abuse, it is essential that users have a clear understanding of what this form is for and how to complete it correctly.
-
-</thinking>
-
 # Contest Winner Update Form - Help Guide
 ## Purpose
 The Contest Winner Update Form is used to collect detailed information from contest winners to ensure proper prize distribution and to gather valuable feedback and testimonials. This form is only accessible to contest winners and should not be used for any other purpose.

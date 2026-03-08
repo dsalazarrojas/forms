@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their hair type, dryness, allergies, medical conditions, treatment consent, signed consent, client signature, and date and time of the treatment.
-This form aims to gather data that will be used to provide a frizz control treatment that suits the client's needs.
-</thinking>
-
 # Hair Frizz Control Treatment Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect client information for the hair frizz control treatment.

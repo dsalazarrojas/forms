@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to collect financial planning client profile information. The purpose of this form is to gather relevant details about the client's financial situation, goals, and expectations. It is crucial that this form is filled out accurately and completely to ensure that the client's needs are met. Please make sure to only complete this form once for each client. 
-
-If you have filled out this form before, please check the "Financial Planning Client Profile" section in your account to see if the information you are currently submitting is duplicate. 
-
-</thinking> 
-
 # Financial Planning Client Profile Form - Help Guide
 ## Purpose
 The purpose of this form is to collect financial planning client profile information.

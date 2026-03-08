@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this form is meant to be a user-facing help guide for the "Frozen Food Truck Accessory Order Form" in the "food_beverage_order_forms" category. This guide aims to explain the form's purpose, how to complete it, and what each field means. I will review the provided YAML fields and craft a clear and concise guide. 
-
-</thinking>
-
 # Frozen Food Truck Accessory Order Form - Help Guide
 ## Purpose
 The Frozen Food Truck Accessory Order Form is used to gather information about the accessories needed for a frozen food truck. This form helps to ensure that the truck is properly equipped with the necessary accessories to operate efficiently.

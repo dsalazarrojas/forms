@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to validate the Steam app ID for a specific user. The purpose of this form is to gather information about the user's Steam account, including their Steam app ID, user ID, profile link, profile image, evidence, game ID, Steam tag, game name, and game tag. This form is likely used for support or troubleshooting purposes, where the user is required to provide their account details to facilitate the validation process.
-
-This form should only be used for users who have a Steam account and are attempting to validate their Steam app ID. The form is likely not intended for public access, so it's possible that the user will be required to log in or have a specific permission to access this form.
-
-Each field on the form is designed to collect specific information about the user's Steam account. However, some fields may not be required, and users are not obligated to fill them out if they are not applicable. This form may be used in conjunction with other forms or processes to gather more comprehensive information about the user's account.
-
-</thinking>
-
 # steam_app_id_validation_form - Help Guide
 ## Purpose
 This form is used to validate the Steam app ID for a specific user.

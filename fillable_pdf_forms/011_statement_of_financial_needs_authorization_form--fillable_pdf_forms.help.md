@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a business or individual's financial needs, including their business ownership structure, address, and contact details. This form is used to gather authorization for financial needs, likely for financial assistance or funding purposes. It's likely that this form will be filled out by a business owner or representative to provide accurate and up-to-date information about their business.
-</thinking>
-
 # Statement Of Financial Needs Authorization Form - Help Guide
 ## Purpose
 The Statement Of Financial Needs Authorization Form is used to collect information about a business or individual's financial needs, including their business ownership structure, address, and contact details.

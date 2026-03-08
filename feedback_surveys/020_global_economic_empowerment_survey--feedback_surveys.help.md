@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool used to gather data on the Global Economic Empowerment of individuals or households. The form will ask for information on various aspects of financial stability, savings, and access to financial services. The goal of this form is to collect data that can inform economic policies and programs aimed at promoting financial inclusion. Before proceeding, ensure that the responses are accurate and relevant to the context of the form's purpose.
-</thinking>
-
 # Global Economic Empowerment Survey - Help Guide
 ## Purpose
 

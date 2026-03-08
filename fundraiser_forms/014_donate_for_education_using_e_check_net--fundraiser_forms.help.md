@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit donations for educational purposes using the E.Check.Net payment method. The form is designed to collect basic information about the donation, including the amount, payment method, sponsor details, and submission information. It is recommended that users review the form carefully and complete it only if they intend to make a valid donation. If a user has already submitted a similar form, please review the existing information to avoid duplication of effort.
-</thinking>
-
 # Donate For Education Using E.Check.Net - Help Guide
 
 ## Purpose

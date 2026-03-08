@@ -1,19 +1,3 @@
-<thinking>
-To create a help guide for the "Seafood Fresh Catch Order Form", we first need to understand its purpose and requirements. The form is likely used by a seafood restaurant or market to capture information from customers about their order. The form should gather details such as customer name, contact information, order details (e.g., date, time, weight, and type of seafood), payment method, and any additional comments or comments. It is not clear if the "submit_button" field is actually a submit button or just a regular text field, but we will assume it's not part of the form's purpose.
-
-The form has a few potential issues, such as:
-- Customer phone number should be validated as it's a critical contact information.
-- The payment type field has a list of options, but the credit card info field doesn't.
-- Order quantity is also a bit unusual, as it's more likely a numeric value.
-- Order comments can be a free-text field for additional information.
-
-The form is mostly straightforward, so the main goal is to provide clarity and simplicity to guide the user through it.
-
-The "Fish" and "Shellfish" options for the order item field should likely be replaced with more specific seafood types (e.g., salmon, cod).
-
-After clarifying these points, the help guide should cover the purpose, the steps to complete it, a field-by-field explanation, and some general tips.
-</thinking>
-
 # Seafood Fresh Catch Order Form - Help Guide
 
 ## Purpose

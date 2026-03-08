@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by customers, so let's go through some internal reasoning to confirm that the form's purpose, fields, and instructions are clear and accurate.
-
-First, we need to confirm that the form's purpose is to collect customer information for ordering frozen meals. This includes selecting a meal type, specifying the quantity, and providing contact information for delivery.
-
-The form appears to be a comprehensive order form, covering various aspects of the order, such as customer contact details, payment method, and order status.
-
-We'll go through each field to confirm that the explanations are clear and accurate.
-
-</thinking>
-
 # Frozen Meal Order Form - Help Guide
 ## Purpose
 The Frozen Meal Order Form is designed to collect information from customers for ordering frozen meals. This form includes selecting a meal type, specifying the quantity, and providing contact information for delivery.

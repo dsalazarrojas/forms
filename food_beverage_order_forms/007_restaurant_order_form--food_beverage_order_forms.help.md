@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the Restaurant Order Form, which is designed to collect information from customers for both food pickup and delivery orders. The form aims to provide a convenient and efficient way for customers to submit their orders, including their location, contact details, order date and time, total cost, payment method, and any additional notes. It's intended to ensure that customers can easily place their orders with the correct details, and that our team can process the orders accurately and promptly.
-</thinking>
-
 # Restaurant Order Form - Help Guide
 ## Purpose
 This form is for customers to place their orders for pickup or delivery. Please fill in the required information to ensure efficient order processing.

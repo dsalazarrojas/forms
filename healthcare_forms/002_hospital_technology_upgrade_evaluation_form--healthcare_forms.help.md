@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from hospital staff on the current status of hospital technology upgrades. It is meant to be used by hospital administrators or IT personnel to evaluate the effectiveness and usability of various technologies in the hospital setting. The form should only be filled out by those directly involved in the upgrade process or have first-hand knowledge of the technology in question.
-The form is divided into multiple sections, each covering a different aspect of the hospital technology upgrade process. The goal is to provide a comprehensive overview of the upgrade process, including contact information, feedback, and submission status.
-</thinking>
-
 # Hospital Technology Upgrade Evaluation Form - Help Guide
 ## Purpose
 The Hospital Technology Upgrade Evaluation Form is designed to collect feedback and data from hospital staff on the current status of hospital technology upgrades. This form helps hospital administrators or IT personnel evaluate the effectiveness and usability of various technologies in the hospital setting.

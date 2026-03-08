@@ -1,11 +1,3 @@
-<thinking>
-This form will serve as a guide for enrolling a bank customer. It is meant to collect relevant and required information for opening a new bank account. Each field should be filled out with the relevant information of the applicant. It is recommended that the fields are filled out in order to provide the best and most accurate information possible.
-
-It is also recommended that users fill out all required fields. Some fields are not required, but filling out those fields will provide additional information that can be used to provide a more personalized experience.
-
-The information collected will be used to create a new account and provide the customer with relevant account information and benefits.
-</thinking>
-
 # Bank Enrollment Form - Help Guide
 ## Purpose
 This form is used to guide users through the process of enrolling in a bank account.

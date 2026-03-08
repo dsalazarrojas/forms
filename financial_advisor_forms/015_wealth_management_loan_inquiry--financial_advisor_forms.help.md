@@ -1,7 +1,3 @@
-<thinking>
-The form "Wealth Management Loan Inquiry" is designed to collect information from clients about their loan preferences and needs. The purpose of this form is to gather essential details about the client's financial situation, contact information, loan type, review date, follow-up schedule, and loan request. This form is not affiliated with or endorsed by any specific platform and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Wealth Management Loan Inquiry - Help Guide
 ## Purpose
 The Wealth Management Loan Inquiry form is a tool used to collect information from clients about their loan preferences and needs. This form helps our team to better understand the client's financial situation and provide personalized guidance on available loan options.

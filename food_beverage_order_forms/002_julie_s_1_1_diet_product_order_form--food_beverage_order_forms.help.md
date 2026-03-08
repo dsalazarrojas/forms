@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to one-to-one diet product orders. It is likely used in a business or administrative context, such as when a sales representative or manager needs to record and track details of a specific customer order.
-</thinking>
-
 # jules_1_to_1_diet_product_order_form - Help Guide
 
 ## Purpose

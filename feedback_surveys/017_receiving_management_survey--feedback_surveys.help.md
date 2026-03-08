@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Receiving Management Survey - Help Guide
 ## Purpose
 The Receiving Management Survey is a tool used to collect feedback from individuals on their experiences with receiving management practices within your organization. This form is designed to gather information on the quality of service, performance metrics, and contact information to help identify areas for improvement and make data-driven decisions. Please fill out this form to provide your honest feedback.

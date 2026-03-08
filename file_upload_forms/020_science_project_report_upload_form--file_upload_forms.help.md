@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about science project reports from students. The purpose of this form is to upload a report about a science project, including details about the project category, participation in a science fair, and other relevant information. This form should only be used to upload reports for existing science projects, and not for new project submissions. It's also recommended to ensure that each form is submitted only once per project.
-</thinking>
-
 # Science Project Report Upload Form - Help Guide
 ## Purpose
 The Science Project Report Upload Form is used to upload reports about science projects. This form collects information about the project category, science fair participation, and other relevant details.

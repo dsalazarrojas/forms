@@ -1,17 +1,3 @@
-<thinking>
-
-To create the perfect user-facing help guide for this healthcare data collaboration network application form, we need to ensure that each field explanation is clear, concise, and accurately captures the purpose of each field. Here's the reasoning behind creating this guide:
-
-The purpose of this form is to collect essential information from healthcare organizations, research organizations, and pharmaceutical companies for collaboration and data sharing in the healthcare sector. This form is designed to be completed by representatives from these organizations, and it helps the organization to:
-
-*   Provide accurate and up-to-date health data.
-*   Collaborate on health-related research and projects.
-*   Ensure the secure and controlled sharing of health data.
-
-This form is a crucial part of the data collaboration process, and it's essential to ensure that each field is completed accurately and thoroughly. The fields are designed to collect the necessary information for the collaboration process, and the help guide will explain each field in a clear and concise manner.
-
-</thinking>
-
 # health_data_collaboration_network_application_form - Help Guide
 ## Purpose
 This form is used to collect information from healthcare organizations, research organizations, and pharmaceutical companies for collaboration and data sharing in the healthcare sector. 

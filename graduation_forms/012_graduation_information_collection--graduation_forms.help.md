@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Graduation Information Collection - Help Guide
 
 ### Purpose

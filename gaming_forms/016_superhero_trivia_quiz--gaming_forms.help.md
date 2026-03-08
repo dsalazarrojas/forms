@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Superhero Trivia Quiz form is a survey designed to test users' knowledge of various superheroes. The form is intended for both fun and educational purposes, allowing users to gauge their familiarity with iconic comic book characters. It is not a formal assessment, but rather a casual, user-facing quiz. The form is not meant to be filled out in a specific format, and users can submit their responses in any format they see fit. This guide will walk users through the process of completing the form.
 
 # Superhero Trivia Quiz - Help Guide

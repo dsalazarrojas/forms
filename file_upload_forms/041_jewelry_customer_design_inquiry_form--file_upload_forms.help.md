@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jewelry Customer Design Inquiry Form - Help Guide
 
 ## Purpose

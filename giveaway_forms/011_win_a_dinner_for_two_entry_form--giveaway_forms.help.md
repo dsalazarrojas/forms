@@ -1,25 +1,3 @@
-<thinking>
-The form "win-a-dinner-for-two-entry-form" is designed to capture information from users for a dinner giveaway contest. This form has three pages with a series of fields that ask for personal details, preferences, and confirmation of entry. To ensure accuracy and efficiency, users should carefully fill out the form by providing the following information:
-
-* A valid email address to receive notifications and updates.
-* A confirmed email address to verify the user's email.
-* A preference for the size of their party.
-* A confirmation of the party size preference.
-* A date for the desired dinner reservation.
-* A time for the desired dinner reservation.
-* A selection of a restaurant.
-* A confirmation of prize preference.
-* A confirmation of entry.
-
-The form is designed to be completed by the user in multiple pages, with each page containing one or more fields. Users should navigate through the pages to provide the required information. The form fields are designed to capture specific types of information, such as email addresses, date, time, and selections from predefined options.
-
-Before completing the form, please note that the email fields should be filled with valid email addresses. The date field should be in the format MM/DD/YYYY. The time field should be in 24-hour format (HH:MM). For the restaurant selection, multiple options can be chosen.
-
-The form also has a field for additional comments, which is optional. However, providing this information can help the contest organizers understand the user's preferences and tailor the experience accordingly.
-
-Finally, the form concludes with two confirmation pages, where users should check boxes to confirm their entry and agree to the terms and conditions of the contest.
-</thinking>
-
 # win-a-dinner-for-two-entry-form - Help Guide
 ## Purpose
 The "win-a-dinner-for-two-entry-form" is designed to capture information from users for a dinner giveaway contest. It has three pages with fields that ask for personal details, preferences, and confirmation of entry.

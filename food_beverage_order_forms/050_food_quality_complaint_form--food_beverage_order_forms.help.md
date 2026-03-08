@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Quality Complaint Form - Help Guide
 ## Purpose
 The Food Quality Complaint Form is a tool used to report any quality issues with food products ordered from our establishment. This form helps us identify and address potential problems with our food quality, ensuring that we provide the best possible service to our customers.

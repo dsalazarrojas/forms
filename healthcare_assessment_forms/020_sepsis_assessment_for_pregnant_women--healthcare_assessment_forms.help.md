@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a thorough assessment of pregnant women for sepsis, a life-threatening condition that requires prompt medical attention. Sepsis can lead to severe illness and even death if not identified and treated promptly. This form is designed to collect essential information about the pregnant woman's general health, symptoms, risk factors, vital signs, clinical findings, maternal information, pregnancy information, and fetal information. By filling out this form, medical professionals can quickly and accurately identify potential sepsis cases and provide timely care.
-
-The form is intended for use by healthcare professionals in clinical settings, such as hospitals, clinics, and doctor's offices. It is essential to complete this form accurately and thoroughly to ensure the best possible outcomes.
-
-This form has been created using AI to generate the layout and structure, but the content and purpose are designed to be consistent with standard medical practices and guidelines. 
-
-</thinking>
-
 # Sepsis Assessment For Pregnant Women - Help Guide
 ## Purpose
 The Sepsis Assessment for Pregnant Women form is designed to collect information for the early identification and treatment of sepsis, a life-threatening condition that can occur during pregnancy.

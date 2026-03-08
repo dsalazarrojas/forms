@@ -1,10 +1,3 @@
-<thinking> 
-This form has been created based on publicly available data and is used to capture information from individuals interested in volunteering for a bake sale event. The form is designed to collect contact and commitment information from volunteers, including their name, email, phone number, and availability for the event. The form also asks about the individual's role preferences, dietary restrictions, and any special skills they may have. Additionally, it inquires about their transportation needs and the type of baked goods they can contribute. This information will be used to efficiently organize the event and ensure a smooth experience for all volunteers. 
-
-Please note that this form does not collect sensitive or personally identifiable information that could be considered private or confidential.
-
-</thinking>
-
 # Bake Sale Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers interested in participating in a bake sale event. It will be used to manage volunteer registrations, roles, and contributions.

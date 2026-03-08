@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information from clients to provide tailored credit repair services.
-The form will be used by financial advisors to analyze client credit history, employment status, financial aid, and other relevant details.
-This form should not be filled out by clients who have already undergone credit repair services with the same financial institution.
-</thinking>
-
 # Credit Repair Consultation Form - Help Guide
 ## Purpose
 The Credit Repair Consultation Form is a comprehensive questionnaire designed to gather essential information from clients. By filling out this form, clients will provide their financial advisors with a clear understanding of their current credit situation, allowing for personalized and effective credit repair services.

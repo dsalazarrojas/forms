@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Supplier Fabric Sample Upload Form is to collect information about a supplier's fabric sample, including their identification, contact details, and other relevant information. This form is likely used for inventory management, quality control, or procurement purposes within a company or organization. 
-
-When you complete this form, please ensure you are submitting the correct information for the specific supplier's fabric sample, as it will be used to update or create records in the system. If you are submitting information about a supplier you are familiar with, please make sure to double-check the data entered to ensure it is accurate.
-
-Please do not submit duplicate entries for the same supplier. If you need to update information for an existing supplier, use the "Update" function to make changes.
-
-</thinking>
-
 # Supplier Fabric Sample Upload Form - Help Guide
 ## Purpose
 The Supplier Fabric Sample Upload Form is designed to collect and store supplier information for fabric sample submissions. This form serves as a centralized hub for storing key details about a supplier's fabric sample, including identification, contact, and other relevant information.

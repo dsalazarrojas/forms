@@ -1,10 +1,3 @@
-<thinking>
-The Wellness Survey form is designed to collect relevant health information from patients to help healthcare providers assess their overall well-being and provide personalized advice. 
-This form is not intended for emergency use, and users should only fill out the form if they are not in an urgent medical situation. 
-This form is meant to be completed by a patient, and the questions are aimed at gathering information on various aspects of health, including physical activity, medical history, mental status, sleep quality, exercise frequency, nutrition, health insurance, and emergency contact information. 
-Please fill out this form carefully and honestly, and do not duplicate the form if you have already submitted it. 
-</thinking>
-
 # Wellness Survey - Help Guide
 ## Purpose
 The Wellness Survey is a form designed to collect health information from patients to help healthcare providers assess their overall well-being and provide personalized advice.

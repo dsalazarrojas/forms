@@ -1,7 +1,3 @@
-<thinking>
-This form is for artists to provide their details and consent for the use of their digital artwork. It collects information about the artist, the artwork, and the usage rights of the digital art. The fields include artist name and contact details, usage rights (e.g. public domain, limited rights), artist statement, artwork description, and consent for usage terms. This form is meant to be completed by artists when submitting their digital artwork for use in various contexts.
-</thinking>
-
 # digital_art_submission_use_consent_form - Help Guide
 ## Purpose
 

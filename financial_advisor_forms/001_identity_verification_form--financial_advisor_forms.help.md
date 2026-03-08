@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect personal and employment information from users, as well as to verify their identity. The form appears to be part of a system where users need to provide details about themselves, their contact information, address, date of birth, employment status, and employment information. However, it seems that the form is not intended to be a comprehensive identity verification form, as some fields like "Identity Verification" and "Document" are not actually used for verification but rather as a selection of options for uploading identity documents. 
-The form is likely used for internal purposes within an organization or for administrative tasks such as onboarding new employees or conducting background checks. The form's requirements and fields are relatively basic, suggesting that it may not be intended for complex identity verification processes. 
-The form does not contain any sensitive or highly personal information fields that could potentially raise concerns about user data protection. 
-Overall, this form is straightforward and simple in its structure.
-</thinking>
-
 # IdentityVerificationForm - Help Guide
 ## Purpose
 This form is designed to collect personal and employment information from users, as well as to verify their identity through the upload of identity documents. However, as mentioned in the form description, this is not the primary purpose of the form.

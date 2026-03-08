@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for financial advisors to gather information from clients about their financial situation, employment status, income, debt, and goals for financial recovery. This data will help advisors plan a recovery strategy tailored to the client's needs. Please ensure that each field is filled accurately and completely to facilitate a proper assessment and plan.
-</thinking>
-
 # Client Intake For Financial Recovery - Help Guide
 ## Purpose
 This form is designed to collect information from clients to help plan a recovery strategy tailored to their individual needs.

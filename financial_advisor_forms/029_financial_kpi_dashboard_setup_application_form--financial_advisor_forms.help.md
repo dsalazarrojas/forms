@@ -1,7 +1,3 @@
-<thinking>
-The Financial KPI Dashboard Setup Application Form is used to set up a user's financial KPI dashboard, which allows them to view their financial performance and progress. This form is intended to be completed by users who want to access their own financial information. To ensure the form is completed correctly, please review each field carefully. If you are unsure about any field, please seek guidance from an authorized personnel.
-</thinking>
-
 # Financial KPI Dashboard Setup Application Form - Help Guide
 ## Purpose
 The Financial KPI Dashboard Setup Application Form is a setup form to allow users to access their financial performance and progress through a dashboard. 

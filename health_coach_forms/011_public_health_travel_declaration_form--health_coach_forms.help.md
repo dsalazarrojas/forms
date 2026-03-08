@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form for public health travel declaration purposes. The form is used to collect travel details, personal contact information, and health status information to ensure a traveler's health and safety during trips. We should ensure that this form is not used in any other context, such as medical purposes, that require specific medical knowledge and expertise. The content of this form is inspired by public survey topics on public health and travel, and not affiliated with or derived from any form platforms. We aim to provide an accessible and user-friendly guide for end-users.
-
-</thinking>
-
 # Public Health Travel Declaration Form - Help Guide
 ## Purpose
 The Public Health Travel Declaration Form is a tool designed to gather essential information from travelers to ensure their health and safety during trips. This form is intended for travelers who need to declare their health status, travel details, and contact information for emergency situations.

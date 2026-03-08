@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Financial Declaration Form - Help Guide
 
 ## Purpose

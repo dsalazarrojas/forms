@@ -1,6 +1,3 @@
-<thinking> 
-Is this form designed to register individuals for a COVID-19 vaccine event, gathering their demographic information, health status, and preferences for vaccine types, dose seeking, and language assistance? The form likely aims to ensure accurate data collection for event management and potential vaccination administration. To confirm, the purpose of this form is to collect participant information for COVID-19 vaccine registration, and its fields should cover essential details such as name, contact information, health status, and preferences for event scheduling. This form might be used to minimize duplicate registrations, ensuring event organization and management are streamlined and accurate. </thinking>
-
 # COVID 19 Vaccine Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking COVID-19 vaccine registration. The data collected will be used for event organization, scheduling, and administration of the vaccine.

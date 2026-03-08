@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect contact information, order details, and other relevant data for food and beverage orders. It is a general-purpose form and does not cater to any specific business logic or scenario. The form is likely part of a larger ordering system, possibly for a food establishment, restaurant, or cafe. The fields are designed to be self-explanatory, with a mix of text fields for contact information and order items, a date field for scheduling, a time field for appointment scheduling, a select-one field for contact method, and a select-multiple field for menu selection. The form's structure suggests that it may be used for both internal and external users. However, the lack of any specific business logic means that its purpose could be adapted for various contexts. It's essential to review the form's requirements and context to ensure it is used correctly and effectively.</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect contact information, order details, and other relevant data for food and beverage orders.

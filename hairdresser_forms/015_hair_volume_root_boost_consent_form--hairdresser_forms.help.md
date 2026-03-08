@@ -1,7 +1,3 @@
-<thinking>
-This form was created by an AI using public survey topic metadata from the hairdresser category. It is an original adaptation and not affiliated with, endorsed by, or derived from any form platform. This guide is to help end-users understand the purpose and completion of the form.
-</thinking>
-
 # Hair Volume Root Boost Consent Form - Help Guide
 ## Purpose
 The Hair Volume Root Boost Consent Form is a form designed to gather information and consent from clients for a hair volume root boost treatment. This form is used to collect client details, treatment specifics, and consent for the procedure.

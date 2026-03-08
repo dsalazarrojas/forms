@@ -1,9 +1,3 @@
-<thinking>
-
-We designed the Square Orphanage Donation Form to help users provide financial support to a specified orphanage. This form gathers information about the donor's generosity, such as the amount of their donation, their preferred donation frequency, and their contact details. Please fill this form only if you intend to make a one-time or recurring donation to the specified orphanage.
-
-</thinking>
-
 # Square Orphanage Donation Form - Help Guide
 ## Purpose
 The Square Orphanage Donation Form is a tool used to collect donations for a specified orphanage. Fill out this form to make a one-time or recurring contribution to the chosen orphanage.

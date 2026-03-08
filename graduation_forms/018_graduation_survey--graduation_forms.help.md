@@ -1,7 +1,3 @@
-<thinking>As I review the provided YAML, I understand that this form is for capturing information related to graduation. The purpose of the form is to gather feedback, satisfaction, and post-graduation plans from students after graduation. Each field is designed to collect relevant details that can help the institution or organization track progress, satisfaction, and future plans of their graduates.
-
-To ensure that the form is completed accurately and consistently, I'll follow the structure you provided to create a help guide that is concrete, concise, and practical. I'll also aim to explain field labels that may be weak or unclear to the best of my ability without introducing unsupported business logic.</thinking>
-
 # Graduation Survey - Help Guide
 ## Purpose
 The Graduation Survey form is designed to gather feedback, satisfaction, and post-graduation plans from graduates. This form will help the institution or organization track the progress and experiences of their graduates, enabling them to make informed decisions and improvements for future graduates.

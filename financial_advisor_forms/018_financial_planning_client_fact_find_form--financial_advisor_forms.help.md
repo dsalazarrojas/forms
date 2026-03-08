@@ -1,5 +1,3 @@
-<thinking>As an AI-generated form, I have been designed to mimic human-like conversations, but I will try my best to explain the form purpose, how to complete it, and each field in a clear and concise way.</thinking>
-
 # Financial Planning Client Fact Find Form - Help Guide
 ## Purpose
 The Financial Planning Client Fact Find Form is designed to collect information about a client's financial history, goals, and contact details. This form will help financial planners, advisors, or professionals in the industry gather essential facts to create a comprehensive financial plan tailored to the client's needs.

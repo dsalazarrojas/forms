@@ -1,8 +1,3 @@
-<thinking>
-CSA Order Form is designed to collect relevant customer information, order details, and payment method for CSA (Community-Supported Agriculture) orders. The form helps to streamline the order process, ensuring accurate and complete information for efficient order fulfillment and delivery management.
-The following guide will walk you through the required fields and options to ensure a smooth and successful CSA order experience.
-</thinking>
-
 # CSA Order Form - Help Guide
 ## Purpose
 The CSA Order Form is designed to collect customer information, order details, and payment method for Community-Supported Agriculture (CSA) orders. This form ensures accurate and complete information for efficient order fulfillment and delivery management.

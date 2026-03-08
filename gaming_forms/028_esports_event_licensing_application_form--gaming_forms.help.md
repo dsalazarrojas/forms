@@ -1,12 +1,3 @@
-<thinking>
-The Esports Event Licensing Application Form is a critical document used to apply for event licensing in the esports industry. This form is designed to collect essential information about an event, its organizers, and the services provided to ensure compliance with industry standards and regulations. The form serves as a gateway for event organizers to obtain a license, which is necessary for hosting esports events. The form is divided into sections that cover event details, licensing information, event organizers, and safety and emergency measures. 
-
-To prevent duplication, this form should only be completed by authorized personnel or the designated event organizer. 
-
-Before starting, make sure to have all required documents and information ready to ensure a smooth and efficient application process. 
-
-</thinking>
-
 # Esports Event Licensing Application Form - Help Guide
 ## Purpose
 The Esports Event Licensing Application Form is a critical document used to apply for event licensing in the esports industry.

@@ -1,16 +1,3 @@
-<thinking>... internal reasoning block ... This form is intended to book a session for a game prototype testing, which will allow users to input session details such as tester information, session time, and session schedule preferences. The form is designed to be completed in the following steps: 
-
-- **Session Details**: Input the details of the session you want to book, such as any relevant information.
-- **Tester Details**: Enter your name and email address for the person who will be testing the game prototype.
-- **Session Time**: Choose the time slot you are available for the session. Note: This field is optional.
-- **Tester Email**: Enter your email address.
-- **Tester Name**: Enter your name.
-- **Tester Phone**: Enter your phone number.
-- **Tester Notes**: Any additional notes for the session.
-- **Session Schedule**: Confirm your schedule availability for the session (yes or no).
-
-</thinking>
-
 # Game Prototype Testing Booking Form - Help Guide
 ## Purpose
 This form is designed to book a session for game prototype testing. It allows users to input necessary details about the session and tester information.

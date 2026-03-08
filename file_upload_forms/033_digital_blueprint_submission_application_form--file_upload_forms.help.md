@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is for users who need to complete the "Digital Blueprint Submission Application Form". The purpose of this form is to gather information about a digital blueprint submission, including submission details, architect and contractor information, project details, and submission status.
-
-The form consists of multiple pages with various fields that require different types of input. This guide will walk through each field and explain what it is used for, what type of input is expected, and any specific requirements.
-
-Before filling out the form, please make sure to review all fields carefully and provide accurate information.
-
-</thinking>
-
 # Digital Blueprint Submission Application Form - Help Guide
 ## Purpose
 This form is used to submit digital blueprints for review and approval. Please provide accurate and complete information to ensure a smooth review process.

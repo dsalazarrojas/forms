@@ -1,7 +1,3 @@
-<thinking>
-This form is for food vendors to apply for a license to participate in a food festival. The purpose of this form is to collect necessary information from vendors to evaluate their application and ensure a smooth festival experience for all. Please ensure you only submit the form if you are a legitimate food vendor interested in participating in the festival. This form is not affiliated with any form platform and is an original adaptation of a form generated using public survey topic metadata.
-</thinking>
-
 # food festival license application form - Help Guide
 ## Purpose
 This form is designed for food vendors to apply for a license to participate in a food festival. It will be used to evaluate your application and ensure a smooth festival experience for all.

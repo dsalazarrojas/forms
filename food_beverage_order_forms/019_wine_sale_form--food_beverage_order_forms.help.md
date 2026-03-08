@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for wine sales, and its purpose is to collect information from customers who want to purchase wine online or offline. This form should only be used by customers looking to buy wine, not for wine-related events, wine tastings, or wine-making purposes. The form should not be used for duplicate wine sales or for customers who have already purchased wine from our store recently. Please ensure that customers who have purchased wine from our store within the past two weeks do not fill out this form.
-</thinking>
-
 # Wine Sale Form - Help Guide
 ## Purpose
 The Wine Sale Form is designed for wine customers who want to purchase wine online or offline.

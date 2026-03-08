@@ -1,5 +1,3 @@
-<thinking>A brief internal reasoning block to understand the form purpose and relevance:</thinking>
-
 This form is intended for plant-based product development. The form is used to collect information about a new product, including its details, image, description, tag, category, target audience, price, price scale, launch date, status, and status note. This form helps to streamline the product development process by providing a structured way to gather all necessary information in one place. It's a crucial tool for product managers and developers to ensure that all required details are captured before starting the development process.
 
 Here is the user-facing help guide for the form:

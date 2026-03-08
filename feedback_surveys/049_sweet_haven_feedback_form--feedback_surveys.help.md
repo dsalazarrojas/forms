@@ -1,15 +1,3 @@
-<thinking>
-We're creating a comprehensive help guide for the Sweet Haven Feedback Form. This form is designed to collect feedback from customers on their experience at Sweet Haven, a hypothetical company offering sweet treats and other services. The form will help Sweet Haven understand their customers' needs, preferences, and suggestions for improvement. To ensure the form serves its purpose effectively, we'll cover its purpose and relevance.
-
-Before filling out the form, kindly take a moment to review the form's purpose:
-- This form is intended for customers who have visited or interacted with Sweet Haven.
-- The form aims to collect feedback on the customer's experience, including their overall satisfaction and any issues they encountered.
-- This feedback will help Sweet Haven refine their services and improve customer experience.
-
-Please note that we'll only be addressing the form fields that are actually included in the form's YAML configuration. If you have any questions or concerns, feel free to ask, and we'll clarify the form's purpose and relevance in the process.
-
-</thinking>
-
 # Sweet Haven Feedback Form - Help Guide
 ## Purpose
 The Sweet Haven Feedback Form is designed to collect feedback from customers on their experience at Sweet Haven. This form helps Sweet Haven understand customer needs, preferences, and suggestions for improvement.

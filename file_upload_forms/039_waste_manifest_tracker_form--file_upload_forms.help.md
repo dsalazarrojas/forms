@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Waste Manifest Tracker Form - Help Guide
+> # Waste Manifest Tracker Form - Help Guide
 
 ## Purpose
 The Waste Manifest Tracker Form is designed to track and report on waste management activities, including the transportation and disposal of waste. This form helps users track and record specific details about the waste manifest process in a standardized and structured manner.

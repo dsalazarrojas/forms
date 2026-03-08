@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # N95 Fit Test Form - Help Guide
 ## Purpose
 The N95 Fit Test Form is a document used to record the results of fit testing for N95 respirators. The form is used to capture important information about the wearer, the test sequence, and the test results. This form is crucial for maintaining accurate records and ensuring compliance with regulatory requirements.

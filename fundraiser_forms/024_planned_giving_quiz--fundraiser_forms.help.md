@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for planned giving, which is a type of donation where a donor makes a commitment to give a certain amount of money over time. The form is used to gather contact information, gift preferences, and follow-up details from donors. The form is likely used by fundraising or development teams to track and communicate with donors.
-
-To avoid duplication and ensure accurate tracking, it is essential to check that this form is not being completed for a donor who has already been recorded in the database.
-
-</thinking>
-
 # planned_giving_quiz - Help Guide
 ## Purpose
 The planned giving quiz form collects information from donors to track their commitment to make planned gifts, including their contact information, gift preferences, and follow-up details.

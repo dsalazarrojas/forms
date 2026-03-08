@@ -1,14 +1,3 @@
-<thinking>
-The Aircraft Maintenance Sales Inquiry Form is designed to gather information from potential customers who are seeking maintenance services for their aircraft. This form will help us understand their needs and provide a comprehensive quote for the required services.
-
-To avoid duplication and ensure that we serve the same customer multiple times, we will verify if the provided contact information matches our existing records before creating a quote or providing any services.
-
-Before filling out this form, we kindly remind customers that providing accurate and honest information is crucial for us to provide an accurate quote and to ensure that we can serve them effectively. 
-
-This form will guide you through the necessary steps to complete it. Please read each section carefully to ensure that you complete the form correctly.
-
-</thinking>
-
 # Aircraft Maintenance Sales Inquiry Form - Help Guide
 ## Purpose
 

@@ -1,16 +1,3 @@
-<thinking>
-# This form is designed to collect feedback and evaluation from players after playing an escape room. 
-# The form is split into several sections, each covering different aspects of the escape room experience. 
-# The goal is to gather data to improve future escape rooms. 
-# This form should only be filled out after completing the escape room experience. 
-# Please fill out every field, even if you don't want to leave comments. 
-# This form is for internal use only and will be reviewed by staff to make decisions about future escape room development. 
-# This form should not be filled out by staff, it's for players. 
-# Please answer every question honestly. 
-# This form will help us improve the escape room experience for everyone. 
-# If a question is not applicable, please select 'No' or 'Not Applicable'. 
-</thinking>
-
 # escape_room_evaluation_form - Help Guide
 ## Purpose
 The escape_room_evaluation_form is designed to collect feedback and evaluation from players after playing an escape room. It helps us improve the escape room experience for everyone.

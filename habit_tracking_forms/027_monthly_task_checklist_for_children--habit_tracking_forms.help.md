@@ -1,14 +1,3 @@
-<thinking>
-  This form is designed to track the progress of monthly tasks for children, 
-  allowing parents or teachers to monitor and evaluate the completion of tasks 
-  over time. It is meant to be used regularly to keep track of the tasks 
-  assigned, the effort required, and the feedback from the child's guardian. 
-  The form is divided into several sections: Tasks, Effort, Challenges, and 
-  more. This form is intended to be filled out on a regular basis, such as 
-  weekly, bi-weekly, or monthly, to monitor progress and provide 
-  opportunities for review and next steps.
-  </thinking>
-
 # monthly_task_checklist_for_children - Help Guide
 ## Purpose
 This form is designed to track the progress of monthly tasks for children, 

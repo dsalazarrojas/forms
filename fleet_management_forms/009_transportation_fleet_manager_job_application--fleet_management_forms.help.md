@@ -1,21 +1,3 @@
-<thinking>
-The Transportation Fleet Manager Job Application form is designed to collect information from potential candidates applying for the Fleet Manager position. This form is used to gather details about the candidate's personal details, work experience, and emergency contact information. The form is composed of multiple fields, each with its own specific purpose and requirements. 
-
-The form has a mix of simple text fields, select fields for job roles, and select_multiple fields for various categories. The select_multiple fields for work experience, education, skills, references, and emergency contact are used to determine if the candidate has experience or information in these areas. These fields are important in assessing the candidate's suitability for the Fleet Manager position.
-
-The form also includes fields for personal details such as first name, last name, email, phone, date of birth, time of birth, and address. These fields are straightforward and used to identify and contact the candidate.
-
-To avoid duplication of effort, please ensure that you do not have a resume already submitted for the same job application. If you have previously submitted a resume, please indicate that in the Resume field.
-
-Before filling out the form, please be aware that the form is composed of multiple pages with different fields. Please ensure that you fill out the form accurately and completely, following the instructions for each field.
-
-Please note that this form is for job application purposes only. Please do not submit any information that you are not comfortable sharing.
-
-The form is designed to be completed by the candidate. If you are submitting on behalf of another person, please ensure that the candidate is aware of the information being submitted.
-
-Please ensure that the submitted information is accurate and true to the best of your ability.
-</thinking>
-
 # Transportation Fleet Manager Job Application - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates applying for the Fleet Manager position. It helps us to evaluate their qualifications and suitability for the job.

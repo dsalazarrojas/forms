@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their behavior and preferences related to empty gas bottle disposal. This form will help the company better understand customer habits and identify potential areas to improve waste management practices. It's essential to complete the form accurately to provide valuable insights. Please ensure the information provided is relevant and not duplicated.
-</thinking>
-
 # Gas Bottle Disposal Survey - Help Guide
 ## Purpose
 This guide is to assist you in completing the Gas Bottle Disposal Survey form. The survey aims to gather information about your habits and preferences regarding empty gas bottle disposal.

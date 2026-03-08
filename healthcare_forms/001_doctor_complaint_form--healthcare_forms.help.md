@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients and doctors about their experience at a healthcare service. It allows them to express their opinions and suggestions about the service provided, including specific complaints and praises. The form is intended to help the healthcare service improve their quality of service. To ensure the feedback is meaningful, we need to avoid duplicate and irrelevant submissions.
-
-This guide is designed to help end-users complete the form correctly and effectively.
-
-</thinking>
-
 # Doctor Complaint Form - Help Guide
 ## Purpose
 This guide will walk you through the purpose and usage of the Doctor Complaint Form, a tool designed to help healthcare services gather feedback from patients and doctors.

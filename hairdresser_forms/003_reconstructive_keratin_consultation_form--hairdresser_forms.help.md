@@ -1,15 +1,3 @@
-<thinking> This help guide is intended to assist users in completing the Reconstructive Keratin Consultation Form, a crucial tool for salon professionals to gather valuable information about clients' hair conditions and goals. To ensure that the form is completed accurately, please take a moment to review the form purpose and fields carefully before proceeding.
-
-The Reconstructive Keratin Consultation Form is designed to help salons and professionals determine the best course of action for clients' keratin treatments. By gathering information about the client's hair history, goals, and conditions, the form helps to identify the most effective treatment strategies and products to achieve desired results.
-
-Before completing the form, please ensure that you have reviewed the client's entire hair history, including previous treatments, products used, and medical conditions. This will help to provide a comprehensive understanding of the client's hair needs and ensure that the treatment plan is tailored to their specific requirements.
-
-Please complete the form carefully, answering each question truthfully and thoroughly. This will ensure that the information gathered is accurate and useful for the treatment planning process.
-
-If you have any questions or concerns about the form, please don't hesitate to ask your salon professional or consult the provided guidelines below for clarification.
-
-</thinking>
-
 # Reconstructive Keratin Consultation Form - Help Guide
 ## Purpose
 The Reconstructive Keratin Consultation Form is designed to collect information about a client's hair condition, goals, and treatment history to help salon professionals provide the best possible treatment plan for their keratin treatment.

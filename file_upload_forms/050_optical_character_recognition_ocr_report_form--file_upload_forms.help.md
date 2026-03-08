@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and document the details of an Optical Character Recognition (OCR) process, specifically regarding a received file. The form captures user input, file information, and timestamp data for the received file. This form may be used for auditing, reporting, or other related purposes. Please ensure that you are completing this form for a genuine reason and that the file you're uploading is relevant to the task at hand. Duplicate submissions should be avoided to maintain data consistency.
-
-</thinking>
-
 # Optical Character Recognition (OCR) Report Form - Help Guide
 ## Purpose
 This form is designed to collect and document the details of an Optical Character Recognition (OCR) process, including user input, file information, and timestamp data for the received file.

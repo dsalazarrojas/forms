@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback from participants after a peer support meeting. The goal is to understand what worked well and what didn't during the meeting, allowing the facilitators to improve future sessions. Please ensure you only submit this form once per meeting and do not duplicate your feedback by submitting multiple forms. This will help us track progress and make adjustments as needed.</thinking>
-
 # Peer Support Meeting Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants after a peer support meeting. Your input will help us understand what worked well and what didn't, allowing us to make improvements for future sessions.

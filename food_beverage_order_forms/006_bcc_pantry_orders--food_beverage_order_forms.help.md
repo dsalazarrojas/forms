@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first break down the form purpose and context to ensure this help guide is relevant and effective.
-
-The "BCC Pantry Orders" form is designed for BCC members to place orders for pantry items, produce, proteins, dairy, and other household essentials. This form is likely used for bulk orders or special requests, and the goal is to provide a structured yet flexible way for members to specify their needs, ensuring accurate order fulfillment and communication between the BCC and its members.
-
-To confirm that this help guide is necessary, I'll review the form's structure, field types, and required fields. Upon review, I notice that most fields have clear labels, hints, and required status, suggesting that the form is well-designed for clarity. The only fields that stand out for potential confusion are `quantity_notes`, `dietary_restrictions`, and `special_requests`, as they might be considered "nice-to-have" fields for additional information, rather than critical fields. However, I'll address these fields in the guide for completeness.
-
-Here's the final help document in Markdown format:</thinking>
-
 # BCC Pantry Orders - Help Guide
 ## Purpose
 The BCC Pantry Orders form is designed to help members place orders for bulk pantry items, produce, proteins, dairy, and household essentials. This form ensures accurate and efficient order fulfillment while allowing members to specify their needs and preferences.

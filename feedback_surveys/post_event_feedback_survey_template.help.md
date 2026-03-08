@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather feedback from event participants to improve future events. This survey aims to assess the overall satisfaction of attendees, the value they derived from various event activities, and their likelihood of attending similar events in the future. By collecting this feedback, event organizers can identify areas for improvement and enhance the overall event experience. This form is not a duplicate of any existing form, but rather a generated template using public survey topic metadata. It is an original adaptation and is not affiliated with or endorsed by any form platform. Please note that this form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving proper credit.
-</thinking>
-
 # Post event feedback survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from event participants to improve future events by evaluating their overall satisfaction, the value they derived from event activities, and their likelihood of attending similar events.

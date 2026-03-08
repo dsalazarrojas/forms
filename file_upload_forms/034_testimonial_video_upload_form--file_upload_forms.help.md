@@ -1,20 +1,3 @@
-<thinking>
-
-This form is used to collect testimonials, including videos and images, from customers. The form is likely used on a website or application where customers can provide feedback or testimonials about a product or service. The form is designed to be simple and straightforward, with multiple fields for collecting different types of testimonials. However, there is no explicit information about the purpose of the form, so it may be used for other purposes such as surveys, questionnaires, or even user reviews. Additionally, some fields seem to be duplicates or have unclear labels, which may indicate that the form is not fully finalized or has been designed without a clear understanding of the requirements.
-
-Given this form's structure and fields, it appears that it's intended to collect various types of testimonials, including:
-
-* Text-based testimonials
-* Video testimonials
-* Image testimonials
-* Audio testimonials
-
-The form has a mix of required and optional fields, but the exact purpose of each field is not clearly defined. It's possible that some fields are meant to be filled out only in specific circumstances or for specific types of testimonials.
-
-To ensure the form is filled out correctly, it's essential to carefully read and understand each field's label and hint (if provided). If a field's label or hint is unclear, it's best to ask for clarification or seek guidance from the form's designer or administrator.
-
-</thinking>
-
 # testimonial_video_upload_form - Help Guide
 ## Purpose
 The testimonial_video_upload_form is designed to collect various types of testimonials, including text, video, and image-based testimonials, from customers. This form allows users to provide feedback or testimonials about a product or service.

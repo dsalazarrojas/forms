@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting feedback from participants in a laughter yoga session. It aims to assess the effectiveness of the session and gather suggestions for improvement. The form is not required, but it's a valuable tool for evaluating the session's impact and identifying areas for future development. To ensure that your feedback is useful, please complete this form carefully.
-</thinking>
-
 # Laughter Yoga Assessment Survey -- Feedback Surveys - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from participants in a Laughter Yoga session. It's meant to assess how well the participants connected with each other, how they felt before and after the session, how much they laughed, and how well they connected with the instructor. Your feedback will help us improve future sessions.

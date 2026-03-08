@@ -1,8 +1,3 @@
-<thinking>
-Please check to see if this form is already in use. 
-This form is designed to help us collect feedback from nonprofit organizations about their partnerships and collaborations with other organizations. This survey aims to understand the frequency and effectiveness of these partnerships, as well as common challenges they face.
-</thinking>
-
 # NGO Collaboration Effectiveness Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the frequency and effectiveness of partnerships between non-profit organizations and other types of organizations. Your responses will help us gauge the current state of non-profit collaborations.

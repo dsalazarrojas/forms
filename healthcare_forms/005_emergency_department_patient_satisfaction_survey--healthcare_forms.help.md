@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is designed to gather feedback from patients about their experience in the emergency department, specifically focusing on various aspects such as visit length, overall satisfaction, wait time, pain management, communication, hospital staff, discharge process, billing clarity, and recommendations for future care. The form aims to provide an objective assessment of the emergency department's services, allowing healthcare providers to identify areas for improvement and enhance patient care.
-
-**Form Non-Duplication Check:**
-Please ensure that this form is used for its intended purpose and not for any other department or process. If you're unsure, contact your supervisor or IT department for clarification.
-
-</thinking>
-
 # emergency_department_patient_satisfaction_survey - Help Guide
 ## Purpose
 The emergency department patient satisfaction survey is a tool used to gather feedback from patients about their experience in the emergency department.

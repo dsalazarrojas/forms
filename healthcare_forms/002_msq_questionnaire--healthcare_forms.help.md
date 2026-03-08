@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their migraines, including how they affect their lifestyle, physical health, frequency, severity, days of the week, time of day, type, and impact on mood and cognition. The form is structured in a way that guides the user through a series of questions that are relevant to understanding the user's experiences with migraines. To ensure that users provide accurate and relevant information, each question is labeled clearly, and instructions are provided on how to complete each field correctly.
-</thinking>
-
 # msq_questionnaire - Help Guide
 ## Purpose
 The msq_questionnaire form is designed to collect information from users about their migraines. This information will help healthcare professionals understand the user's experiences with migraines and provide better care.

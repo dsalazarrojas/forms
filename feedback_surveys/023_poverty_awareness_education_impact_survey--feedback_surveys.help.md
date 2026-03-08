@@ -1,13 +1,3 @@
-<thinking>
-The Poverty Awareness Education Impact Survey form is designed to collect information from individuals who have participated in a poverty awareness education session or training program. This form will help us understand the effectiveness of our education initiatives in raising awareness about poverty and its impact on individuals and communities.
-
-Before proceeding, please ensure that you are filling out this form to report a specific session you have attended. If you are completing this form for a different purpose, please do not submit your answers, as they may not be accurately reflected in our analysis.
-
-We also want to make sure that your answers are not duplicated, so we ask that you fill out this form once per attended session.
-
-Please take a few minutes to carefully answer the following questions. If you have any questions or concerns, please feel free to contact us.
-</thinking>
-
 # Poverty Awareness Education Impact Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from individuals who have participated in a poverty awareness education session or training program.

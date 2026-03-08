@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect patient information and assess their heel pain, helping healthcare professionals better understand the severity and frequency of the pain, its type and location, and any potential previous injuries that may be contributing to the pain. This guide will help users understand the purpose and requirements of the form, ensuring accurate and efficient completion.
-</thinking>
-
 # Heel Pain Assessment Survey - Help Guide
 ## Purpose
 The Heel Pain Assessment Survey is a form designed to help healthcare professionals gather information from patients about their heel pain. This form aims to collect data that will aid in understanding the severity and frequency of the pain, its type, location, and any previous injuries that may be contributing to the pain. By completing this form, patients can help healthcare professionals develop a more comprehensive understanding of their condition and provide valuable insights for proper diagnosis and treatment.

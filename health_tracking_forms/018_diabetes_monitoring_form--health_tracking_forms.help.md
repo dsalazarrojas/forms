@@ -1,7 +1,3 @@
-<thinking>
-A health tracking form, specifically designed to monitor diabetes. It seems reasonable to create a form for tracking and monitoring diabetes. The form should be used by patients or healthcare providers to track blood sugar levels, blood pressure, weight, medication usage, diet, and exercise.
-</thinking>
-
 # Diabetes Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help you track and monitor your diabetes-related health metrics, including blood sugar levels, blood pressure, weight, medication usage, diet, and exercise. Please complete this form to provide detailed information about your current health status.

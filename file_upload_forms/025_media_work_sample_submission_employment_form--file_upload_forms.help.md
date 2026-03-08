@@ -1,37 +1,3 @@
-<thinking>
-This form, "media_work_sample_submission_employment_form", appears to be a comprehensive form for submitting employment information about media works. It seems to be used to collect data from multiple sources, likely for employment purposes. The form is divided into several sections, each representing a different aspect of employment data. The form appears to be designed for both initial and follow-up submissions.
-
-To complete this form accurately, please ensure that you have all necessary information available. Start by carefully reviewing each field to understand its purpose and relevance. This form is likely used for data analysis and reporting.
-
-Here is a brief explanation of the form fields:
-
-* Job Application: Provide a concise description of your employment application.
-* Uploaded Work Samples: Select whether you have uploaded any work samples or not.
-* Review Comments: Add any additional comments about your submission.
-* Screening Date: If applicable, enter the date of your screening or interview.
-* Submitted By: Indicate whether you submitted your application through a third-party source.
-* File Uploaded: Enter the name and type of the uploaded file.
-* Uploaded Files: Select whether you uploaded any files or not.
-* Job Title: Enter the title of the job you applied for.
-* Job Description: Provide a brief description of the job role.
-* Job Type: Enter the type of job you applied for.
-* Job Status: Indicate the status of your job application (Active, Archived, or Pending).
-* Uploaded Date: If applicable, enter the date you uploaded your work samples or files.
-* Media Type: Enter the type of media you are submitting (e.g., image, video, audio).
-* Media Link: Provide any additional links related to your media submission.
-* Uploaded By: Indicate whether you uploaded your media file or not.
-* Uploaded Time: Enter the time you uploaded your media file.
-* File Size: Enter the size of your uploaded file.
-* File Name: Enter the name of your uploaded file.
-* File Type: Enter the type of your uploaded file.
-* Submitted By 2: Enter the name of the person who submitted the second job application.
-* Uploaded Files 2: Select whether you uploaded any files or not for the second job application.
-* File Uploaded 2: Enter the name and type of the uploaded file for the second job application.
-* Job Title 2: Enter the title of the second job application.
-* Job Description 2: Provide a brief description of the second job role.
-* Job Type 2: Enter the type of the second job application.
-</thinking>
-
 # media_work_sample_submission_employment_form - Help Guide
 ## Purpose
 This form is used for submitting media works for employment purposes, including job applications, work samples, and other related data.

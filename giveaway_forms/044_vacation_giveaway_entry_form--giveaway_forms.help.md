@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the form is only filled out by eligible users, i.e., individuals who have not already entered the contest. This can be achieved by implementing a mechanism to check for duplicate entries based on email or phone number. However, this is not a part of this guide.
-</thinking>
-
 # vacation-giveaway-entry-form - Help Guide
 ## Purpose
 The vacation giveaway entry form is designed to collect information from individuals who would like to participate in a vacation giveaway contest. By filling out this form, users can enter their details, which will be used to determine the winner of the contest.

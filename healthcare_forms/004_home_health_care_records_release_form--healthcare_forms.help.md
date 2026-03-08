@@ -1,5 +1,3 @@
-<thinking>This form, "Home Health Care Records Release Form," is a crucial document used in healthcare settings to transfer patient records between healthcare providers. It is essential to fill out the form accurately to ensure the smooth transfer of patient data. Please ensure that you have the necessary permissions and information to complete this form correctly.</thinking>
-
 # Home Health Care Records Release Form - Help Guide
 ## Purpose
 This form is used to transfer a patient's health care records from one healthcare provider to another. It ensures that the patient's medical history, records, and other relevant information are accurately and securely transferred between healthcare providers.

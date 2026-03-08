@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from customers about their experiences at an ice cream parlor. 
-The purpose of this form is to gather information on how customers feel about the ice cream, their favorite flavor, and their experience in the parlor. The form will help the parlor to understand its strengths and weaknesses, and make informed decisions on how to improve its services.
-This form is not intended to be completed by employees of the parlor or individuals who have not visited the parlor recently. To avoid duplication, please do not complete this form if you have already done so.
-</thinking>
-
 # Ice Cream Business Survey - Help Guide
 ## Purpose
 The Ice Cream Business Survey is designed to gather feedback and opinions from customers about their experiences at our ice cream parlor.

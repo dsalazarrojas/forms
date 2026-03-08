@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for users to select one or multiple file upload options from the "File Input" and "Additional Files" dropdown menus. 
-The form also contains a "Upload" button to initiate the file upload process. It's crucial to ensure that the form is filled in according to the user's needs, as any confusion may cause incorrect data entry. To verify the form is correctly filled, double-check that options selected are correct and the "Upload" button matches the intended action. 
-It's also worth noting that all form fields are optional, so users can choose what's most relevant to them. 
-
-This form appears to be designed for a responsive environment, hence the name "Responsive Upload Form". The form's responsiveness ensures it adapts to different screen sizes and devices.
-
-The following guide is to help users understand the form's structure and purpose, as well as the meaning of each field.</thinking>
-
 # Responsive Upload Form - Help Guide
 
 ## Purpose

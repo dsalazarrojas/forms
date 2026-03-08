@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Card Image Upload Form - Help Guide
 ## Purpose
 This form is designed to allow users to upload an image of their insurance card for verification and processing purposes. Please ensure that you are using this form in a legitimate and authorized context.

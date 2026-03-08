@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to help facilities and organizations ensure they have a solid understanding and agreement on health and safety protocols in place. This guide will walk you through each step of the form, explaining each field in detail. Please note that this form is designed to be fillable and adaptable, and its content is not affiliated with any specific platform or service.
-
-</thinking>
-
 # Sample Health Safety Facility Protocols Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to document and standardize the health and safety protocols within a facility or organization. It helps ensure that all relevant personnel are aware of and agree to follow the established procedures in case of emergencies.

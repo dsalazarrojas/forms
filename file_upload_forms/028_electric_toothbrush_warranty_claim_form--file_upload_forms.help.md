@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to claim an electric toothbrush warranty. The Electric Toothbrush Warranty Claim Form is used for customers who want to initiate the warranty claim process for their electric toothbrush. The form collects information about the customer, their contact details, and any supporting documents required to process the claim. To prevent duplication of effort and ensure that the form is used correctly, we should only display the form when a customer has not already submitted a claim for the same electric toothbrush, and the form should not be visible on the page if the user is not logged in.
-
-</thinking>
-
 # Electric Toothbrush Warranty Claim Form - Help Guide
 ## Purpose
 The Electric Toothbrush Warranty Claim Form is used to initiate the warranty claim process for your electric toothbrush. This form collects necessary information to process your claim, and it helps our team to efficiently assist you with your warranty claim.

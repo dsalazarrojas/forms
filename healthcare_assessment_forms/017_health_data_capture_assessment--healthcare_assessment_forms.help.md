@@ -1,10 +1,3 @@
-<thinking>
-...The form is used for a healthcare professional to collect information on a patient's health data, assessing their overall wellbeing, and providing a comprehensive understanding of their health status.
-This form should be filled out for every patient, to ensure that the healthcare professional has all the necessary information to make informed decisions about the patient's care.
-It's essential to complete this form thoroughly and accurately, to provide the best possible care for the patient.
-Please ensure that you understand the purpose and requirements of the form before proceeding.
-</thinking>
-
 # Health Data Capture Assessment - Help Guide
 ## Purpose
 The Health Data Capture Assessment form is designed to capture essential health information from patients, enabling healthcare professionals to make informed decisions about their care.

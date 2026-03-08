@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from subject representatives, which are individuals who have a close connection to a subject or project. The purpose of this form is to gather information about the subject's representation, such as their concerns and suggestions, in order to improve the subject's experience and overall project outcomes. It's essential to provide accurate and helpful feedback, as it will directly impact the subject's perception and engagement.
-
-The form is not intended to be completed by the same person multiple times, so please make sure to review the form carefully and ensure that you're providing new and valuable feedback.
-
-Please fill out this form to provide your feedback and suggestions for the subject's representation.
-</thinking>
-
 # Subject Representative Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from subject representatives, which are individuals who have a close connection to a subject or project.

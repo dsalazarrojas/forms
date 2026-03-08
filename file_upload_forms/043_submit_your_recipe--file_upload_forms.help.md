@@ -1,5 +1,3 @@
-<thinking>This form is intended for users to submit their recipes with a specific category and serving size. The form collects various pieces of information, including the recipe title, image, description, category, cooking time, and serving size, which will be used to categorize and display the submitted recipes. To ensure that users do not submit duplicate recipes, this form will check for existing recipe submissions before allowing the submission of a new one.</thinking>
-
 # submit_your_recipe - Help Guide
 
 ## Purpose

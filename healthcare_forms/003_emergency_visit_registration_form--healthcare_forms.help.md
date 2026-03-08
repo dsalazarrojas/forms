@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is likely for the registration of emergency visits to a medical facility, allowing patients to provide essential information about their condition, contact details, and medical history. To avoid duplication, this form should be filled out by patients upon arrival at the medical facility, and not before or by anyone else on their behalf. 
-The form fields are designed to be straightforward and user-friendly, aiming to ensure accurate and comprehensive information collection.
-</thinking>
-
 # Emergency Visit Registration Form - Help Guide
 ## Purpose
 The Emergency Visit Registration Form is for patients to provide essential information about their condition, contact details, and medical history during emergency visits to a medical facility.

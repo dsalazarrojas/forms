@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers to place orders for healthy shakes at a food and beverage establishment. It may be used by customers to select their preferred pickup or delivery option, provide contact information, specify their shake preferences, and agree to certain terms. The form may be used by staff to quickly and accurately record customer orders and ensure that all necessary information is collected in one place.
-</thinking>
-
 # Healthy Shake Request Form - Help Guide
 ## Purpose
 This form is designed to help customers place orders for healthy shakes at our establishment. It allows customers to select their preferred pickup or delivery option, provide contact information, and specify their shake preferences.

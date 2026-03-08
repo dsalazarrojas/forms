@@ -1,9 +1,3 @@
-<thinking>
-
-The 360 Degree Feedback Survey form is designed to help managers and team members gather feedback on an employee's performance, strengths, and areas for improvement. This form should only be used for official purposes and not for casual or social feedback. Please ensure that all answers are honest and respectful, as they will be anonymized if you choose to remain anonymous. 
-
-</thinking>
-
 # 360 Degree Feedback Survey - Help Guide
 ## Purpose
 The 360 Degree Feedback Survey is a form used to gather feedback on an employee's performance, strengths, and areas for improvement from multiple perspectives, including management, peers, and self-assessment.

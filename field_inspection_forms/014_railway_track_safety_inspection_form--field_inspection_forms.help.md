@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for safety inspections of railway tracks. The purpose of this form is to document the findings and status of the railway track's safety inspection. 
-
-To complete this form, follow these steps: 
-
-1. Fill out each field as instructed below. 
-2. Ensure to complete all mandatory fields marked as required.
-3. Review the form carefully before submission.
-
-</thinking>
-
 # Railway Track Safety Inspection Form - Help Guide
 
 ## Purpose

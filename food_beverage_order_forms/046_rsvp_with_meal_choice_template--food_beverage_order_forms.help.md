@@ -1,23 +1,3 @@
-<thinking>
-
-This form is designed to collect RSVP and meal choices for guests attending an event. The form is likely intended for events where guests can choose their meal preferences for themselves and potentially one or more other guests. The form is likely to be used in a hospitality or event management context, such as for catering services.
-
-The form appears to be a template with a mix of single-select and multi-select fields, as well as text fields for collecting additional information. 
-
-Given the presence of multiple fields with "RSVP", "Email", "Phone", and "Comments" labels, it seems that the form is designed to collect information for multiple guests. The "Assigned Tool" field suggests that the form may also be used to assign a tool to a guest or event team member.
-
-The form requires the following information: 
-
-* Event date and time
-* RSVP status for the event
-* Meal preferences for each guest
-* Contact information (email and phone number) for each guest
-* Comments or additional information for each guest
-
-This template appears to be a comprehensive form for collecting RSVP and meal preferences for multiple guests. However, the exact purpose and usage of the form will depend on the specific event and context in which it is used.
-
-</thinking>
-
 # rsvp with meal choice template - Help Guide
 ## Purpose
 This form is designed to collect RSVP and meal preferences for guests attending an event.

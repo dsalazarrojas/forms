@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Fridge Temperature Log - Help Guide
 
 ## Purpose

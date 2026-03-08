@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, we need to understand the form purpose. The purpose of this form is to gather information from patients undergoing plastic surgery. It covers various aspects of the patient's medical history, allergies, and other relevant medical details. The form is intended to ensure that both the patient and the doctor have a clear understanding of the procedure and the necessary documentation for the surgery.</thinking>
-
 # Plastic Surgery Patient Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients before undergoing plastic surgery. It helps the doctor understand the patient's medical history, allergies, and other relevant details to ensure a safe and successful procedure.

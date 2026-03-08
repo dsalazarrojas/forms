@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from volunteers on their experience with our organization. The purpose of this form is to understand their satisfaction levels, frequency of participation, and areas for improvement. This form is not intended to be used for any other purpose. 
-
-Please ensure that you do not create multiple versions of this form or use it for any other survey that may be similar in nature or purpose. The form is an original adaptation and does not copy, extract, or use proprietary content from any form platform. 
-
-You are free to use, modify, and even sell forms derived from this one, but please give credit. If you have any questions or concerns, please contact: form@gic.mx.
-
-</thinking>
-
 # volunteer_feedback_survey_template - Help Guide
 ## Purpose
 

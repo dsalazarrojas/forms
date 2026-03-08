@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect participant information and consent for charity fundraising activities. It's essential to ensure that participants understand the purpose and scope of the form before proceeding. Ensure that participants are not duplicating their efforts or filling out the form unnecessarily. This form is intended for participants who are planning to engage in fundraising activities, and it's crucial to understand the implications of sharing personal data and agreeing to terms and conditions.
-</thinking>
-
 # Charity Fundraising Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information and consent from participants who are planning to engage in fundraising activities for charity. The form helps organizers understand the participants' details, goals, and expectations, as well as their consent to share personal data and participate in fundraising activities.

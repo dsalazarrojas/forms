@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for submitting claims to the legal counsel, and the purpose of this form is to ensure that all relevant information is gathered and processed correctly. It is recommended to complete this form with care and attention to detail to avoid duplication of effort and potential issues with submissions. Before filling out this form, please make sure that you have not submitted a claim in the past and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Legal Counsel Claim Submission - Help Guide
 ## Purpose
 The Legal Counsel Claim Submission form is designed to collect necessary information from clients or individuals seeking legal counsel services. The form gathers details about the claim, file attachments, supporting documents, legal counsel information, client information, submission information, and review status.

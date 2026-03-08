@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tilling Specialist Feedback - Help Guide
 
 ## Purpose

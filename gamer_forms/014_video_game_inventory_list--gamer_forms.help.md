@@ -1,27 +1,3 @@
-<thinking>
-This is a form design task that involves creating a user-facing help guide for a "Video Game Inventory List" form. The form is likely used to collect information about video games, including their titles, release dates, ratings, console types, statuses, conditions, playtime, notes, retailers, and user information such as name, email, phone number, and address.
-
-To ensure the form is completed correctly and accurately, the guide should explain the purpose of each field, how to fill out the form, and any specific requirements or constraints for each field. The form is designed to collect data about video games, and the user should be able to easily navigate the form and understand what information is being requested.
-
-Upon reviewing the form structure, the following fields are present:
-
-* A title field for the game
-* A release date field for the game's release date
-* A rating field for the game's rating
-* A console type field for the console on which the game is played
-* A status field for the game's status (e.g. new, used, collectible, etc.)
-* A condition field for the game's condition (e.g. mint, used, damaged, etc.)
-* A playtime field for the amount of playtime the game has been used for
-* A notes field for any additional notes about the game
-* A retailer field for the store where the game was purchased
-* A user name field for the user's name
-* A user email field for the user's email
-* A user phone number field for the user's phone number
-* A user address field for the user's address
-
-This guide will cover each of these fields in detail to ensure the user can complete the form accurately and efficiently.
-</thinking>
-
 # Video Game Inventory List - Help Guide
 ## Purpose
 The Video Game Inventory List form is designed to collect information about video games, including their titles, release dates, ratings, console types, statuses, conditions, playtime, notes, retailers, and user information. This form is used to gather data about your video game collection and help you manage your inventory.

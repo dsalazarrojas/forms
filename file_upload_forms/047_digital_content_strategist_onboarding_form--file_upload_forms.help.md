@@ -1,7 +1,3 @@
-<thinking>This form is likely used for onboarding new digital content strategists within a company, allowing them to submit their information and preferences for assigned tasks. It seems to be a comprehensive form that collects various details about the new strategist, including their contact information, job description, and preferences for onboarding and review processes. It's likely that the form is used by HR or management teams to track and manage the onboarding process of new content strategists. To ensure that the form is completed accurately and efficiently, it's crucial to clearly understand each field's purpose and requirements.
-
-Before starting the onboarding process, please review this guide carefully to ensure you're completing the form correctly.</thinking>
-
 # Digital Content Strategist Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from new digital content strategists to help the onboarding process. Please fill out the form accurately and completely to ensure a smooth transition.

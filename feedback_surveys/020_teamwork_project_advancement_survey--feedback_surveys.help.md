@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on team collaboration and advancement within the Teamwork Project. It's essential to understand the context of the project, its current status, and the team's perception of its progress. The form will help identify areas for improvement and opportunities for growth. Ensure that you answer all questions thoroughly to provide valuable insights.
-</thinking>
-
 # Teamwork Project Advancement Survey - Help Guide
 ## Purpose
 The Teamwork Project Advancement Survey aims to collect information about your team's collaboration and project advancement. Your input will help us understand your experiences, challenges, and suggestions for improvement.

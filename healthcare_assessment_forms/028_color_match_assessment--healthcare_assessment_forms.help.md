@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Color Match Assessment - Help Guide
 ## Purpose
 The Color Match Assessment form is designed to help healthcare professionals match a client's skin tone and natural hair and eye colors with suggested color palettes, providing a personalized approach to skincare and makeup recommendations. This form helps to identify a client's skin tone and hair color, allowing for tailored advice on how to enhance their appearance.

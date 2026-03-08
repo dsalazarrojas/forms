@@ -1,14 +1,3 @@
-<thinking>
-This form is used to evaluate the physical therapy needs of a patient. It collects information about the patient's name, date of birth, contact number, medical history, chief complaint, physical condition, physical therapy diagnosis, and treatment plan. This form is intended for use by medical professionals to gather relevant information for patient care.
-
-The fields on this form are designed to be completed by the patient or their authorized representative. The form should only be completed once for each patient.
-
-Please note that the form is not intended for patients with severe medical emergencies. If you are experiencing a severe medical emergency, please seek immediate assistance from a medical professional.
-
-The form should not be shared or duplicated without permission from the medical professional responsible for the patient's care.
-
-</thinking>
-
 # physical_therapy_evaluation_form - Help Guide
 ## Purpose
 The physical therapy evaluation form is used to gather information from patients about their medical history, physical condition, and treatment needs.

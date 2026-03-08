@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assess the quality of a game console. The purpose of this form is to collect feedback from users about the condition and functionality of their gaming consoles. This form is likely used by support or quality assurance teams to gauge the console's performance and identify areas for improvement. This form is not intended for users to report bugs or issues with game performance, but rather to provide an overall assessment of the console's condition.
 
 ## Game Console Quality Assessment - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...The internal reasoning block is used to check if the form purpose and field relevance is well-understood. In this case, the form is used to update the experience points (XP) and forum reputation (FR) points of a user. This form is likely used by moderators or support staff to adjust a user's points for any discrepancies or errors in the past. The field names and labels suggest that the form is used for internal purposes, such as support or operations, rather than user-facing. The required fields are "Reason for Adjustment", "XP/FR Points Adjustment", "Date Adjustment Requested", "Support Email", "Support Phone", and "Assigned To", which indicates that these fields are critical to the form's purpose. I do not see any duplication of fields, and the fields are generally clear in their purpose. I will now output the final help guide in Markdown format.</thinking>
-
 # XP/FR Points Update Form - Help Guide
 ## Purpose
 This form is used to update a user's experience points (XP) and forum reputation (FR) points for any discrepancies or errors in the past. It's intended for internal use by moderators or support staff.

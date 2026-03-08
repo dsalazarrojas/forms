@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for renewable energy solar technician positions. 
-The form is a part of the hiring process for this type of role and aims to capture relevant details from potential candidates. 
-This form should only be used for this specific type of position. 
-</thinking>
-
 # Renewable Energy Solar Technician Job Application - Help Guide
 ## Purpose
 The renewable energy solar technician job application form is designed to gather necessary information from candidates applying for a position in the solar energy industry. This form is not a general-purpose form and should only be used for applicants interested in renewable energy solar technician roles.

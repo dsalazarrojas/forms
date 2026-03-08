@@ -1,7 +1,3 @@
-<thinking>
-The "dropbox_hr_file_submission_form" is a form designed to facilitate the submission of files by users. The form is intended for users to upload and categorize their files. It's likely used by HR departments or teams to manage and track employee documents, such as performance reviews, medical records, or personnel records. The form should only be used for its intended purpose, and users should not use it for other unrelated submissions. To ensure accurate tracking and organization, please do not submit duplicate files or files that do not align with the specified categories.
-</thinking>
-
 # Dropbox HR File Submission Form - Help Guide
 ## Purpose
 The Dropbox HR File Submission Form is designed to enable users to upload and categorize files related to HR activities such as performance reviews, medical records, or personnel records.

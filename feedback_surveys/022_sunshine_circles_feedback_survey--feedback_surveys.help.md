@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants who have experienced the Sunshine Circles program. The feedback is crucial in helping us understand the effectiveness of the program and identify areas for improvement. To ensure we receive high-quality feedback, we kindly ask that the feedback be provided by one participant per response.
-To prevent duplication, we suggest that participants do not provide feedback for the same session more than once.
-</thinking>
-
 # Sunshine Circles Feedback Survey - Help Guide
 ## Purpose
 The Sunshine Circles feedback survey is designed to collect feedback from participants about their experience with the program. Your input will help us improve the program and provide better services to our participants.

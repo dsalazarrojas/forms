@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the gaming habits and preferences of users. This data will help us understand the gaming behavior of our target audience and inform the development of new features and content.
-To avoid duplication of efforts, we should ensure that this form is not used to collect information that is already covered by other forms or surveys in the same application.
-</thinking>
-
 # Computer Games Survey - Help Guide
 
 ## Purpose

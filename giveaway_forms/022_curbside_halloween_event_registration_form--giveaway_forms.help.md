@@ -1,18 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide that explains the purpose and usage of the Curbside Halloween Event Registration Form. The form is intended to collect information from individuals who are attending the Curbside Halloween event. It's crucial to note that the form is not for business use, so the purpose is not related to sales or marketing. The form is likely to be used to gather participant information for event organization and management purposes.
-
-To avoid duplication, it's essential to ensure that each participant fills out the form only once. If a participant has already registered for the event, please do not fill out the form again. If you're unsure about any information, contact the event organizers for clarification.
-
-The form is divided into multiple sections, each focusing on a different aspect of the participant's information. The following sections are:
-
-*   User Information: This section collects basic contact information.
-*   Event Participation: This section determines if the participant is attending the event.
-*   Participant Details: This section gathers additional information about the participant, including interests, allergies, and medical conditions.
-*   Special Requests: This section is for any special requests or needs of the participant.
-*   Participant Skills and Education: This section is for participant's skills and educational background.
-*   Participant Status: This section gathers information about the participant's employment status, income range, and social media presence.
-
-Please take the time to fill out the form carefully and accurately to ensure that the organizers can provide the best experience for you at the event.</thinking>
-
 # Curbside Halloween Event Registration Form - Help Guide
 ## Purpose
 The Curbside Halloween Event Registration Form is intended to collect information from participants about their attendance and interests for the Curbside Halloween event. Please fill out the form carefully to provide accurate information.

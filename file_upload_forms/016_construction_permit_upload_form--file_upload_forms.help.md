@@ -1,12 +1,3 @@
-<thinking>
-The "Construction Permit Upload Form" is used for uploading and submitting construction permits. This form is designed to collect relevant information from applicants and verify that all required documents and calculations are attached. The form is split into sections, each with specific fields that cover different aspects of the construction project. This guide will walk through each section and field, explaining what information is needed and why.
-
-The form is primarily used by construction project applicants to provide their project details, upload required documents, and request expedited reviews. The form is essential for ensuring that all necessary information is provided for the permit application process.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Construction Permit Upload Form - Help Guide
 ## Purpose
 The Construction Permit Upload Form is used to collect information from applicants and verify that all required documents and calculations are attached for construction projects.

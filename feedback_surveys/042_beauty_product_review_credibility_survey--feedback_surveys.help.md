@@ -1,7 +1,3 @@
-<thinking>Before generating the help guide, I'll check for internal consistency and relevance.
-
-The form appears to be a Beauty Product Review Credibility Survey aimed at understanding how consumers interact with beauty product reviews. The questions cover various aspects of review credibility, including the frequency of reading reviews, the importance of reviewer expertise, the impact of verified purchases, and the red flags that make respondents skeptical. The form also touches on the importance of transparency, awareness of sponsored reviews, and the ability to identify suspicious or fake reviews. Overall, the form seems to be focused on evaluating consumer behavior and preferences related to beauty product reviews.</thinking>
-
 # Beauty Product Review Credibility Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your behavior and preferences when interacting with beauty product reviews. Your responses will help us understand how you evaluate review credibility and what factors influence your purchasing decisions.

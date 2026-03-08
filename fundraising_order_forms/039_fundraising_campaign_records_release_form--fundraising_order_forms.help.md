@@ -1,7 +1,3 @@
-<thinking>
-This form is used by fundraisers, event organizers, and administrators to capture the necessary information and permissions to create records and store data about fundraising campaign participants. This form aims to minimize data duplication and ensure that participants' information is accurate and up-to-date. The form is a crucial tool for the fundraising campaign management team to efficiently process participant data, track progress, and communicate with participants effectively.
-</thinking>
-
 # Fundraising Campaign Records Release Form - Help Guide
 ## Purpose
 This form is used to collect information and permissions from participants in a fundraising campaign.

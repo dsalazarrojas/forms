@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to win a free training session. The form ensures that the user provides accurate and complete information required to process their entry. The user is asked to provide basic contact information (first name, last name, email, and phone number), confirm their interest in a training session, and specify how they heard about the promotion. The form is designed to prevent duplicate entries by asking users to confirm their interest in a training session. This form is only for those who are eligible for the promotion.
-</thinking>
-
 # Win A Free Training Session Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to participate in a free training session promotion. The form is only accessible to those who are eligible for the promotion.

@@ -1,9 +1,3 @@
-<thinking> 
-I will create a help guide for the "Facial Habit Awareness Tracker" form, which appears to be designed to track various aspects of habits, including daily habits, triggers, and actions. The form will likely be used to gather information about an individual's habits, such as how often they engage in a particular habit, the intensity of the habit, and how long it lasts.
-
-Before proceeding, I'll review the form structure and ensure that I don't repeat any information. The form consists of multiple sections, including daily habits, triggers, actions, and other habit-related questions.
-
-</thinking>
 # Facial Habit Awareness Tracker - Help Guide
 ## Purpose
 The "Facial Habit Awareness Tracker" form is designed to gather information about an individual's habits, including daily habits, triggers, and actions. This form helps users track and understand their habits' frequency, intensity, and duration, providing valuable insights into their behavior.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Painting Delivery Form - Help Guide
 
 ## Purpose

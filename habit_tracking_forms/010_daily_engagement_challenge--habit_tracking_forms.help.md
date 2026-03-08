@@ -1,11 +1,3 @@
-<thinking>
-
-The form "dailyEngagementChallenge" is a tool designed to help individuals track their daily engagement and reflection on specific challenges. It's an adaptable tool that allows users to input information about the type of challenge they're undertaking, the date, and their thoughts, which can be used for various purposes such as habit tracking, goal setting, or self-improvement.
-
-This form aims to be flexible, allowing users to input their data in a way that suits their needs. However, please note that this form has no affiliation with any form platforms and is a completely original creation, released under CC BY 4.0.
-
-</thinking>
-
 # dailyEngagementChallenge - Help Guide
 ## Purpose
 The dailyEngagementChallenge form is designed to be a daily or periodic tool to help users track their engagement with specific challenges. It's a straightforward tool that collects information about the type of challenge, the date, and any notes or reflections the user may have about their experience.

@@ -1,9 +1,3 @@
-<thinking>
-  This guide will walk through the process of completing the 'medical_centre_evaluation_survey' form, a form designed for users to provide feedback and rate their experience at a medical centre. 
-  Before starting, it is essential to ensure that the feedback provided is unique and relevant to the medical centre's service. Duplicate feedback will not be considered. 
-  To begin, let's break down the form into its individual components, explaining each field and how it contributes to the overall feedback process.
-</thinking>
-
 # Medical Centre Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users regarding their experience at a medical centre. This feedback is crucial in helping the centre identify areas for improvement and make informed decisions to better serve their patients.

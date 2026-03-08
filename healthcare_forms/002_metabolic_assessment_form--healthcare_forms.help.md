@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting general information, height, weight, age, height unit, weight unit, metabolic rate, note, email, phone number, and follow-up information from patients. The form is designed to be completed by healthcare professionals, such as doctors or nurses, to gather data for patient assessment and treatment planning. It is essential to complete the form accurately and thoroughly to ensure that the patient's information is up-to-date and reliable.
-</thinking>
-
 # metabolic_assessment_form - Help Guide
 ## Purpose
 The Metabolic Assessment Form is a tool used by healthcare professionals to collect vital information about a patient's general information, physical characteristics, and follow-up details. This information is essential for creating a comprehensive patient record and making informed decisions about their treatment.

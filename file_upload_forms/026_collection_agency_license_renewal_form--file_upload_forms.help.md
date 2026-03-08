@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm the relevance and non-duplication of form submissions, it is essential to understand that the form is intended to collect information for the purpose of renewing a Collection Agency License. This form is designed to gather necessary details from the agency to review and approve the license renewal. The fields are carefully crafted to capture the required information for the renewal process. It is essential to ensure that the submitted form is accurate and complete to avoid delays or rejections in the license renewal process.
-
-</thinking>
-
 # Collection Agency License Renewal Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for renewing a Collection Agency License. Please fill out the form accurately and completely to avoid delays or rejections in the license renewal process.

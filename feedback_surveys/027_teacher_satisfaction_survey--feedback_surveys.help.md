@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from teachers on their experience and satisfaction with the school. It is crucial to ensure that the school's support and resources meet the needs of its teachers. Before completing this form, please ensure that you have not already provided feedback to the school in a similar survey. This feedback is intended for internal use only and will not be shared externally.
-
-</thinking>
-
 # Teacher Satisfaction Survey - Help Guide
 
 ## Purpose

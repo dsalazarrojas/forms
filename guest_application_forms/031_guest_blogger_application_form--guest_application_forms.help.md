@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to assist guests in understanding the purpose and usage of the "Guest Blogger Application Form". The form is designed to collect information from potential guests who want to contribute to a blog as influencers. The purpose of the form is to help the blog administrators evaluate the applicants' suitability for guest blogging opportunities. To avoid duplication, this form should only be submitted once, and not repeated for every guest blogging opportunity.
-</thinking>
-
 # Guest Blogger Application Form - Help Guide
 ## Purpose
 The Guest Blogger Application Form is used to collect information from potential guests who want to contribute to the blog as influencers. This form helps the blog administrators evaluate the applicants' suitability for guest blogging opportunities.

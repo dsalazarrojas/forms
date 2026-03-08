@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect data for Speech Language Pathology assessments, which are evaluations conducted by Speech Language Pathologists to assess an individual's speech, language, and communication abilities. This form will be used by healthcare professionals to gather information on the client's clinic information, client history, consent status, evaluation type, evaluation date and time, assessment results, next evaluation date and time, previous evaluation date and time, client contact information, referral source, referral date and time, referring doctor information, and additional comments. 
-
-Before proceeding, please ensure that the form's fields have not been duplicated in other forms within the same assessment. This will help avoid unnecessary redundancy and ensure that the collected data is comprehensive and accurate. Ensure that you understand the purpose and relevance of each field before proceeding with the form. 
-
-If unsure about any field, please seek clarification from the relevant healthcare professional or relevant authorities.</thinking>
-
 # Speech Language Pathology Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect data for Speech Language Pathology assessments.

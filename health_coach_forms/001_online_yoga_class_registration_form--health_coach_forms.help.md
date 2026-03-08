@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect registration information from users who want to attend an online yoga class. The form is designed to capture essential details such as name, contact information, and preferences for the class. It's used to create a schedule for the class and ensure accurate communication with attendees. The form is also designed for data integrity, ensuring that each attendee's details are up to date and secure. This information will not be used for any other purpose other than for organizing the online yoga class and follow up communication.
-
-It's assumed that the user already has an account in the system. This form aims to complement existing data, providing an easy way for users to update or provide additional information for the class.
-
-</thinking>
-
 # Online Yoga Class Registration Form - Help Guide
 ## Purpose
 

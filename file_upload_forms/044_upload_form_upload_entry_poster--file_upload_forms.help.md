@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # upload_form_upload_entry_poster - Help Guide
 
 ## Purpose

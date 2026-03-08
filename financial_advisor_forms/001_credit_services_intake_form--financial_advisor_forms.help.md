@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their credit services needs. The form is intended to gather data on loan types, credit scores, income levels, employment status, employment length, income sources, and employment history. The form will likely be used to assess the user's eligibility for credit services. Before filling out this form, ensure that you have a clear understanding of what kind of credit services you are applying for, as the form will guide you through the necessary fields accordingly.
-</thinking>
-
 # Credit Services Intake Form - Help Guide
 ## Purpose
 The Credit Services Intake Form is a comprehensive tool used to collect information from users about their financial needs and requirements. This form will help the processing team assess the user's eligibility for credit services and provide personalized guidance.

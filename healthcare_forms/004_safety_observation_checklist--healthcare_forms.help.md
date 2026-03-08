@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Safety Observation Checklist" form, used for collecting safety observations on patients.
-This form is likely used in a healthcare setting to record observations on a patient's handling, which may include their behavior, condition, or other relevant information.
-The purpose of this form is to gather data that can be used to assess the patient's safety and identify potential risks or concerns.
-</thinking>
-
 # Safety Observation Checklist - Help Guide
 ## Purpose
 The Safety Observation Checklist is used to collect safety observations on patients in a healthcare setting. This form is designed to help caregivers gather information that can be used to assess the patient's safety and identify potential risks or concerns.

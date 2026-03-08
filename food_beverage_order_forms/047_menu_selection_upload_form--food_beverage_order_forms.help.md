@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for menu selection and upload purposes, likely in a food and beverage establishment. Users will be uploading menu items and possibly other related files. This form's design suggests it's meant for a simple and straightforward process.
-
-Before proceeding, ensure you are authorized to use the system and that you are not duplicating an existing upload, as this form is intended for unique menu uploads. If you're unsure, contact your administrator for assistance.
-
-</thinking>
-
 # Menu Selection Upload Form - Help Guide
 ## Purpose
 

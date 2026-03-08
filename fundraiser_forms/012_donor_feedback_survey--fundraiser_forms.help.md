@@ -1,11 +1,3 @@
-<thinking>
-The "Donor Feedback Survey" form is designed to gather feedback from donors about their experience with the organization, with the goal of understanding their satisfaction, preferred contact method, and any suggestions for improvement. This form will help the organization refine its fundraising efforts and better serve its donors. 
-
-Please note that this form is intended for donors who have interacted with the organization in the past, and their feedback will be helpful in identifying areas of improvement. 
-
-Before completing the form, please ensure that you have already provided your email and phone number to the organization.
-</thinking>
-
 # Donor Feedback Survey - Help Guide
 ## Purpose
 The Donor Feedback Survey is designed to gather feedback from donors about their experience with our organization. Your input will help us understand your satisfaction, preferred contact method, and any suggestions for improvement.

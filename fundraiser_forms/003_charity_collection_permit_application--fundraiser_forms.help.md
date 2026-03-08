@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from charities and collectors about their fundraising activities. This includes details about the applicant, collection plan, and compliance and safety measures. The form is designed to ensure that charities and collectors are aware of their responsibilities and obligations under relevant laws and regulations. This form is not intended for public disclosure, and the information collected will be used for administrative purposes only. It is recommended that users only submit this form once for each new collection permit application.
-</thinking>
-
 # Charity Collection Permit Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information from charities and collectors about their fundraising activities.

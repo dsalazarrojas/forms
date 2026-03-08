@@ -1,9 +1,3 @@
-<thinking>
-This form is for UK immigration permission to stay applications. To ensure that the form is filled out correctly, please review the following information and fill out the form accordingly. This form is intended for applicants who wish to apply for permission to stay in the UK.
-
-Before starting the form, please check if you have filled it out before, in case you need to make any changes or corrections. If you have any previous immigration issues, health issues, dependents, or travel history, please answer the questions accordingly.
-</thinking>
-
 # uk_immigration_permission_to_stay_application_form - Help Guide
 ## Purpose
 The UK Immigration Permission to Stay Application Form is used to gather essential information for immigration purposes. This includes details about the applicant's identity, address, contact information, employment, education, travel history, and other relevant information that may affect their application.

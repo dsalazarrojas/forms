@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Move In/Out Photo Submission - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the submission of photos related to a tenant's move-in or move-out activities. This form is used to collect information and images that can help property managers and owners track and record the status of tenant move-ins and move-outs.

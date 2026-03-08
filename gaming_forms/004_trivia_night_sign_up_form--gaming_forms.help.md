@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trivia_night_sign_up_form - Help Guide
 ## Purpose
 The Trivia Night Sign Up Form is a registration form for participants to sign up for a Trivia Night event. This form collects necessary information from participants, including their name, contact details, team name, and other relevant details. The form is a critical component of the Trivia Night event registration process.

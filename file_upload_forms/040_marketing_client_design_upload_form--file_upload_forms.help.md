@@ -1,5 +1,3 @@
-<thinking>This help guide is for the marketing_client_design_upload_form. This form is used to collect information from clients or users regarding their marketing project design requirements. It helps in uploading and managing project files, status, and deadlines.</thinking>
-
 # marketing_client_design_upload_form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from clients or users about their marketing project design requirements. It is used to upload files, track project status, and manage deadlines.

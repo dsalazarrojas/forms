@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for placing orders at a food truck, and it appears to be a comprehensive form for handling customer orders, including details like order status, assigned personnel, and form assignment information. Before proceeding, please ensure that this form is not a duplicate of another form and that you have the necessary permissions to access and complete this form.
-</thinking>
-
 # food_truck_order_form - Help Guide
 ## Purpose
 The food_truck_order_form is a form designed for customers to place orders at a food truck. It collects information to manage and track orders efficiently.

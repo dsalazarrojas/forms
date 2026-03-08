@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Acupuncture Basic New Client Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and efficiently. The purpose of this form is to assess the care needs of patients who have been diagnosed with Long COVID. This form is meant to be completed by healthcare professionals to gather information about the patient's symptoms, care needs, and other relevant details. Before starting, please verify that you are using this form for the intended purpose and that you are not duplicating effort.
-
-To prevent data duplication, ensure that you have not already completed this form for the same patient. If you are unsure or have any questions, please reach out to the relevant department for guidance.
-
-Now, let's dive into the help guide for this form.
-</thinking>
-
 # long_covid_care_assessment - Help Guide
 ## Purpose
 The Long COVID Care Assessment form is designed to gather information about patients who have been diagnosed with Long COVID. This form is used to document a patient's symptoms, care needs, and other relevant details.

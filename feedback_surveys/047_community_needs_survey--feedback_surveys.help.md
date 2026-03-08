@@ -1,8 +1,3 @@
-<thinking>
-We're assuming that the form is intended to collect information about the needs and priorities of the community, likely for community development or social services purposes. This form aims to gather feedback from community members to better understand their needs and challenges. The form is designed to be completed by community members who can provide valuable insights into the community's needs and preferences. This form should not be used for duplicate or redundant purposes, as it is designed to be a one-time collection exercise.
-
-</thinking>
-
 # Community Needs Survey - Help Guide
 ## Purpose
 

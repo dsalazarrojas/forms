@@ -1,5 +1,3 @@
-<thinking> Hospital Listing Submission Form is used for healthcare professionals and organizations to list their hospitals for various medical services and facilities. This form is intended to gather information about individual hospitals. The form is not for patients to register or book appointments. It is primarily used for administrative and data collection purposes. It's recommended that users complete the form only once for each hospital, to avoid duplication of data. </thinking>
-
 # Hospital Listing Submission Form - Help Guide
 ## Purpose
 The Hospital Listing Submission Form is used for healthcare professionals and organizations to list their hospitals for various medical services and facilities. This form is intended to gather information about individual hospitals, and it's recommended to complete it only once for each hospital.

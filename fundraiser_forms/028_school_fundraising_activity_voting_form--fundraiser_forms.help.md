@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for school administrators to create and manage fundraising activities for their school, including selecting a category, inputting a description, and setting a date and time for the event. This form is used for internal purposes, and the data collected will be used for school administrators to track and manage their fundraising activities efficiently. 
-Please ensure that you are using the correct form for your intended purpose and that you have permission to create a fundraising activity in your school's database before completing this form.
-</thinking>
-
 # School Fundraising Activity Voting Form - Help Guide
 ## Purpose
 This form is used to create and manage fundraising activities for your school. Please use it to collect data for internal purposes.

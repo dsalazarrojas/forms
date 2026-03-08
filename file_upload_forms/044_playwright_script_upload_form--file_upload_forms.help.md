@@ -1,7 +1,3 @@
-<thinking>
-To be able to provide a helpful guide for users, let's first break down the form's purpose and ensure we're not duplicating any effort. This form is for uploading a script for the Playwright testing framework. It seems to be a crucial form for managing scripts, likely for QA and engineering teams. The form's fields are quite comprehensive, covering various aspects of the script, including its name, context, file type, upload type, description, category, status, and other metadata.
-</thinking>
-
 # playwright_script_upload_form - Help Guide
 ## Purpose
 The `playwright_script_upload_form` is used to upload and manage scripts for the Playwright testing framework. This form is essential for QA and engineering teams to create, update, and store scripts.

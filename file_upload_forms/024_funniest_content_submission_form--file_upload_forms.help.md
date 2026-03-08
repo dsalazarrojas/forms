@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user-generated content, specifically humorous content such as jokes or stories, for a website or platform. The form is meant to be simple and easy to use, allowing users to submit their content in a variety of formats, including text, images, and videos. The form fields are organized into several categories, each with its own set of options, to help the user choose how they want to categorize and label their content. This form is likely used by site administrators or moderators to review and filter the submitted content before it is published on the platform.
-</thinking>
-
 # Funniest Content Submission Form - Help Guide
 ## Purpose
 This form is designed to collect user-generated content, such as jokes, stories, or other humorous media, for the website or platform. The form is meant to be simple and easy to use, allowing users to submit their content in a variety of formats.

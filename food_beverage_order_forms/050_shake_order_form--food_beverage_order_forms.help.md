@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a shake order, which is used to fulfill customer requests for custom shakes. The form is intended for customers to provide their name, shake preferences, and any additional notes they may have. The form is not required, but it is recommended that customers complete it to ensure their shake order is fulfilled correctly.
-</thinking>
-
 # Shake Order Form - Help Guide
 ## Purpose
 The Shake Order Form is used to collect information for a custom shake order from a customer.

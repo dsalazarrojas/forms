@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are inquiring about nursing homes, which can include potential residents, family members, or caregivers seeking information about the home's availability, services, or general inquiries. This form helps to gather relevant details to facilitate a smooth and efficient interaction between the inquirer and the nursing home staff.
-</thinking>
-
 # Nursing Home Enquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are inquiring about nursing homes. This form is designed to gather relevant details to facilitate a smooth and efficient interaction between the inquirer and the nursing home staff.

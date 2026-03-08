@@ -1,5 +1,3 @@
-<thinking>What we're trying to do here is prevent users from uploading videos to the system. We are going to have a form with 8 fields where users can fill out information for the video they want to upload. We will check to see if a user has already uploaded a video with the same title and tags to prevent duplication. We will also allow for users to choose a category and add tags for the video. If the user clicks on the submit button, the video will be uploaded and a confirmation will be sent to the user.</thinking>
-
 # Video Submit Form - Help Guide
 ## Purpose
 The Video Submit Form is a web-based form designed to help users upload new video content to the system. By filling out this form, you can submit a video for review and potential inclusion in the system.

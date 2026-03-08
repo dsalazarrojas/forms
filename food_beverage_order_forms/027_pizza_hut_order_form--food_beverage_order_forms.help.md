@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the form's purpose and relevance, we first need to analyze the fields and their types. This form appears to be for ordering a pizza from Pizza Hut, likely for delivery or takeout. The "Customer Name", "Phone", "Email", "Address", and "Order Details" fields suggest that the form is intended for customers to provide their contact information and order preferences. The "Delivery Method" field indicates that the form is used to choose between delivery and takeout options. The "Order Details" field with specific options like "Small 2-topping pizza" also confirms this. The form is likely used for customers to place an order and provide payment information.
-
-The form does not appear to be a duplicate, as the fields and their labels are unique and relevant to the purpose of ordering a pizza.
-
-</thinking>
-
 # Pizza Hut Order Form - Help Guide
 ## Purpose
 This form is used to place an order for pizza from Pizza Hut. You can choose between delivery and takeout options, and provide your contact information and order preferences.

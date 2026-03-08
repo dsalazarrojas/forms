@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for nurse anesthetists to register and provide required information. 
-This guide ensures that nurse anesthetists understand the purpose of the form and can complete it correctly and efficiently. 
-</thinking>
-
 # Nurse Anesthetist Registration Form - Help Guide
 
 ## Purpose

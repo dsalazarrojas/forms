@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help hotel guests submit a reimbursement claim for damages or losses incurred during their stay. The form is meant to be filled out by the guest, and it will be reviewed and processed by the hotel staff or management. This form is not a formal legal document, but rather a tool to assist in the process of submitting a claim.
-
-To confirm, this is a one-off claim form, not a recurring subscription or agreement.
-
-To avoid duplication of effort, please only fill out the form once per incident.
-
-This form is intended to collect information from the guest and any supporting documents required to process the claim.
-
-If you have already submitted a claim or have any concerns, please contact the hotel staff directly.
-
-</thinking>
-
 # Home Insurance Hotel Reimbursement Claim Form - Help Guide
 ## Purpose
 This form helps hotel guests submit a reimbursement claim for damages or losses incurred during their stay.

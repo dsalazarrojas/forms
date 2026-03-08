@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for fundraising efforts, specifically for the Scentsy Buddy Drive. It is used to collect information from customers who are placing an order for a fundraiser. To ensure accuracy, please fill out this form completely. If you have any questions or need clarification, contact your sales representative.
 
 # Scentsy Buddy Drive Order Form - Help Guide

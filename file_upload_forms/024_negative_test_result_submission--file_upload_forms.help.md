@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for submitting negative test results for quality control and verification. This form is intended for use by personnel responsible for monitoring test results, particularly in situations where test results are not positive. The form is used to record and document the test result, date, and contact information for quality control and tracking purposes. To prevent duplication, the form will only be accepted if the test result is negative. If the test result is positive, you will be directed to a different form for positive test result submission.
-</thinking>
-
 # Negative Test Result Submission - Help Guide
 ## Purpose
 This form is used to submit negative test results for quality control and verification.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to manage documents in a systematic and organized way. It collects information about the document, including its title, type, size, upload date, and status. The form also requires the document owner's email address, file location, category, and submitted date/time. The purpose of this form is to ensure that documents are properly labeled, stored, and tracked. This form is intended to be used by document owners to upload and manage their documents, and it helps maintain a centralized repository of documents.
-</thinking>
-
 # Document Management System Form - Help Guide
 ## Purpose
 The Document Management System Form is a tool for document owners to upload and manage their documents in a systematic and organized way. This form ensures that documents are properly labeled, stored, and tracked.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and feature suggestions from EdTech App users regarding the EdTech App feature set. The form will help identify areas of the app that need improvement and provide valuable insights for the development team to create a better user experience.
-</thinking>
-
 # EdTech App Feature Feedback Survey - Help Guide
 ## Purpose
 This form is intended to gather your feedback and suggestions about the EdTech App features. Your input will help us identify areas that need improvement and create a more enjoyable and functional user experience.

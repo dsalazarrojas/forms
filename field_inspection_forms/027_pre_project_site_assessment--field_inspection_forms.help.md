@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about a construction site before a project begins. The purpose of the form is to assess the site's safety, environmental, and logistical conditions. This form is designed to help project managers and site supervisors quickly identify potential hazards and plan for site operations. It's essential that the information is accurate and comprehensive to ensure site safety and efficiency.
-
-To ensure consistency, this guide is for informational purposes only, and the actual use case might vary based on site-specific requirements.
-</thinking>
-
 # Pre Project Site Assessment - Help Guide
 ## Purpose
 The Pre-Project Site Assessment form is used to collect essential site-specific information before commencing a project. It helps project managers and site supervisors identify potential hazards, environmental concerns, and logistical challenges that may affect the project's success.

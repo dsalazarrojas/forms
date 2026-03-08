@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help us assess the overall health and wellness of a business, focusing on various aspects such as financial, operational, and strategic performance. It will help us understand your company's strengths and weaknesses, allowing us to provide more tailored guidance and support to help your business thrive. This form is intended to be completed by the primary contact person for the company, and the information gathered will be treated confidentially. Please ensure that the data entered is accurate and up-to-date, as any discrepancies may affect the validity of the assessment results.
-
-Please note that some fields are marked as optional (e.g., customer_retention_rate, debt_to_equity_ratio), but they are still important to complete for a comprehensive assessment. If you're unsure about a field, please provide a best-effort answer or explain the circumstances.
-</thinking>
-
 # Business Health Check Up Questionnaire - Help Guide
 ## Purpose
 

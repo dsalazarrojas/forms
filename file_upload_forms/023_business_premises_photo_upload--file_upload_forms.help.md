@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Premises Photo Upload - Help Guide
 
 ## Purpose

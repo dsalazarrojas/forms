@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for guests to register their tourist ID information, which includes user details, ID number, nationality, birth date, arrival date, email, phone number, passport copy, and photo ID back. This form aims to gather relevant information about the guest to ensure smooth and secure tourist experiences. It is recommended to complete the form carefully and accurately to avoid any issues during the tourist's stay. Ensure that the ID number, passport copy, and photo ID back fields are filled correctly to avoid delays or rejections.
-</thinking>
-
 # tourist_id_registration_form - Help Guide
 ## Purpose
 The tourist_id_registration_form is designed for guests to register their tourist ID information for a smooth and secure stay.

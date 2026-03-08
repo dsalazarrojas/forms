@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to allow users to upload content related to a website's funding. It is used by the website's administrators to upload various types of files and associated metadata. The purpose of this form is to provide a centralized location for users to upload and manage their website's funding content. Please ensure that the form is being used for this specific purpose, and not for any other purpose. Duplicate uploads should be avoided, as it may lead to confusion and data inconsistencies. 
-</thinking>
-
 # website_funding_content_upload_form - Help Guide
 
 ## Purpose

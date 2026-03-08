@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, the form purpose is to collect contact information from individuals who are interested in joining a yoga mailing list. The form is not intended to be used for any other purpose, and there should be no duplicates in the database. 
-
-This form should not be used to collect sensitive information such as passwords, financial data, or personal health information.
-
-The form fields are simple and straightforward, with only three fields: First Name, Last Name, and Email. There are no additional pages or questions beyond this.
-
-</thinking>
-
 # yoga_mailing_list_form - Help Guide
 ## Purpose
 This form is designed to collect contact information from individuals interested in joining a yoga mailing list. Please fill out the form below to join our list and receive updates on upcoming yoga events and promotions.

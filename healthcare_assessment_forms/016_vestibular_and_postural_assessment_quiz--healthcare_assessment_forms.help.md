@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the vestibular and postural systems of an individual. It is intended to be used by healthcare professionals to gather information about a patient's vestibular and postural symptoms, habits, and experiences. The form is not meant to be used as a diagnostic tool, but rather as a guide for further evaluation and treatment planning. Please ensure that this form is used in conjunction with a comprehensive medical examination and a thorough review of the patient's medical history before making any conclusions or diagnoses.
-</thinking>
-
 # Vestibular And Postural Assessment Quiz - Help Guide
 ## Purpose
 The Vestibular And Postural Assessment Quiz is a tool used to gather information about an individual's vestibular and postural systems. This information can be used by healthcare professionals to identify potential issues and develop targeted treatment plans.

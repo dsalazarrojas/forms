@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect patient information for healthcare services. It's meant to be filled out by patients or their representatives to provide essential data for healthcare providers. This information will be used to assess and manage patients' medical conditions, histories, and care requirements.
-
-The form has multiple fields that require different types of information, including user and contact information, medical history, allergies, medications, medical conditions, health status, family history, contact details, medical care information, and health insurance status. The form is divided into several sections, and each section should be filled out completely for accurate and effective use of the information collected.
-
-The form is not meant for duplicate submissions. If a user has already filled out the form, they should not need to do so again.
-
-Please note that the following fields are required to be filled out completely: Medical History, Family History, Medical Care Information, and Health Insurance.
-
-</thinking>
-
 # Department Of Health Data Collection Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for healthcare services. It's meant to be filled out by patients or their representatives to provide essential data for healthcare providers.

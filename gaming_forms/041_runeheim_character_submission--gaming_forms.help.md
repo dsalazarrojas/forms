@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and user-friendly for those submitting a character to the Runeheim universe. This form will be used to collect information about the character, including their name, race, class, background, and other relevant details. Before filling out the form, please make sure you have all the necessary information ready, as some fields are required for the character submission to be considered complete. To prevent duplication, we will be checking for characters with the same name, race, and class combinations. If you submit multiple characters with the same characteristics, only the first submission will be recorded.
-</thinking>
-
 # Runeheim Character Submission - Help Guide
 
 ## Purpose

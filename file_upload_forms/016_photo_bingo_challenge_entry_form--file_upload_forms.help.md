@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from participants in a photo bingo challenge. This form is an original adaptation of public survey topic metadata and does not copy, extract, or use proprietary content from other form creation or data collection platforms.
-</thinking>
-
-
 # photo_bingo_challenge_entry_form - Help Guide
 ## Purpose
 The photo bingo challenge entry form is designed to collect participant information for a photo-themed game. This form is a unique adaptation of a public survey topic and is intended to be used with permission from the creators of the original content.

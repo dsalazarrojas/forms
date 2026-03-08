@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit margin trading orders, which involves borrowing money from a lender to buy or sell securities. The form collects user information, order instructions, trading pair, and other relevant details to facilitate the trading process.
-</thinking>
-
 # Margin Trading Order Form - Help Guide
 ## Purpose
 This form is used to place a margin trading order, which enables users to trade financial instruments with borrowed money. Users can input their details, provide order instructions, select a trading pair, and set margin amounts, leverage, stop loss, take profit, risk management strategy, and confirm their order.

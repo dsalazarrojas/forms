@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pocket_pa_example_covid_19_salon_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a salon's COVID-19 related data. It is used to record details about the salon's address, contact person, and other relevant health information. This form will likely be used for contact tracing and reporting COVID-19 cases in a salon setting.

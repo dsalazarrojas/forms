@@ -1,7 +1,3 @@
-<thinking>
-To determine the best possible solution, we need to understand the form's purpose and the context in which it will be used. This form is for uploading a portfolio for a fashion show, which implies it will be used for showcasing a collection of images or content related to a fashion show. Considering the fields provided, it seems to be a general form for users to provide information about their model portfolio, including model details, contact information, and other relevant data.
-</thinking>
-
 # Fashion Show Portfolio Upload Form - Help Guide
 ## Purpose
 The Fashion Show Portfolio Upload Form is a tool for models to upload and showcase their portfolios, providing a platform for them to share their work with fashion industry professionals.

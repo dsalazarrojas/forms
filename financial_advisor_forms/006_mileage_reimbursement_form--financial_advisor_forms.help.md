@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information for mileage reimbursement requests, which is a common process in businesses where employees travel for work. The purpose of this form is to gather necessary details such as reimbursed amount, currency, travel dates, locations, distance, and other relevant information to facilitate the reimbursement process. It's essential to ensure that the form is completed accurately and thoroughly to avoid delays or rejections in the reimbursement process. Before starting, please review the form carefully to understand what is required and what is optional.
-
-</thinking>
-
 # Mileage Reimbursement Form - Help Guide
 ## Purpose
 The Mileage Reimbursement Form is used to capture information for mileage reimbursement requests. It's a crucial document that helps facilitate the reimbursement process for employees who have traveled for work.

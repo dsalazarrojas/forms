@@ -1,5 +1,3 @@
-<thinking>Stat Adjustment Survey is a form used to gather feedback from players and game administrators about the balance and stats of games in the platform. This form is not meant to be completed by players who have not played the game, and users should not fill out this form if they are unsure about the purpose of the form or if they have already provided feedback on the same game. The form is designed to collect information about a player's experience with the game, including feedback about the balance and stats, as well as suggestions for improvement. By filling out this form, users can help game developers improve the game and provide a better experience for all players.</thinking>
-
 # Stat Adjustment Survey - Help Guide
 ## Purpose
 

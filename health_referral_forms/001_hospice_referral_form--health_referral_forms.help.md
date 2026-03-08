@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient and hospice information for referral purposes. It should only be completed by authorized personnel. Please ensure that the form is not duplicated, as it may cause confusion and affect patient care. The form is used to communicate relevant patient information to the designated hospice team, allowing them to provide appropriate care and services. 
-
-</thinking>
-
 # Hospice Referral Form - Help Guide
 ## Purpose
 The Hospice Referral Form is a tool used to collect and convey patient information to the designated hospice team for referral purposes. It helps ensure that the patient receives the best care and services they need.

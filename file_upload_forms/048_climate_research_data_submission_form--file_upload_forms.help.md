@@ -1,11 +1,3 @@
-<thinking>... internal reasoning to determine the purpose and relevance of this form.
-
-The form is designed to collect climate research data submissions from researchers. It is intended to gather information about the researcher's identity, research study, methodology, data types, data format, and publication status. This form likely serves as a template for researchers to submit their climate research data to a centralized repository or database, facilitating the sharing and reuse of climate research findings. It is possible that the form is used by a specific research organization or institution to manage and track climate research projects. However, without further information, it's not possible to confirm the exact purpose and relevance.
-
-The form is well-structured and includes various sections for different types of information. It seems to be designed to gather comprehensive data about the research study, methodology, and publication status. The form is also likely used for data management and tracking, rather than for public engagement or outreach.
-
-</thinking>
-
 # Climate Research Data Submission Form - Help Guide
 ## Purpose
 This form is designed to collect climate research data submissions from researchers. It gathers information about the researcher's identity, research study, methodology, data types, data format, and publication status. This form is likely used to track and manage climate research projects.

@@ -1,6 +1,3 @@
-<thinking> 
-This form, the Retail Visit Report, is designed to document and track information about visits to retail stores. The primary purpose of this form is to provide a standardized method for collecting data and feedback from store visits, ensuring consistency and accuracy in the evaluation process. The form should be used to record information about each store, including its ID, name, and address, as well as notes and ratings from the visit. Additionally, the form captures information about the store's manager and inspector, such as follow-up actions and notes. The form's fields should only be filled out when a visit is actually conducted, and users should avoid duplicating data entry or entering information for a visit that has not occurred. This form is intended for internal use by authorized personnel only. </thinking>
-
 # Retail Visit Report - Help Guide
 ## Purpose
 The Retail Visit Report form is designed to document and track information about visits to retail stores, ensuring consistency and accuracy in the evaluation process.

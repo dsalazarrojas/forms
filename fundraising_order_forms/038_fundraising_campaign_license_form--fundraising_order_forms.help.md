@@ -1,7 +1,3 @@
-<thinking>
-This form is used to license fundraising campaigns and order forms. It's essential to ensure that users understand the purpose and category of their campaigns. When completing this form, users should select the correct category and ensure that their campaign is properly licensed. The form should not be duplicated, and users should not assign it to multiple categories. This form generates an output file that contains the campaign information, and users can choose the filename for this file.
-</thinking>
-
 # fundraising_campaign_license_form - Help Guide
 ## Purpose
 The fundraising campaign license form is used to license fundraising campaigns and order forms. It's a crucial tool for users to provide information about their campaigns, ensuring they are properly categorized and licensed.

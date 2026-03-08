@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to make a donation to a charity. The form is used to gather details such as donation amount, frequency, payment method, contact information (name, email, phone number), and any additional comments the user may have. 
-The purpose of this form is to provide a user-friendly way for donors to contribute to the charity. The form data will be used to process the donation and follow up with the donor as necessary. It is intended to be used by individuals who want to make a one-time or recurring donation. 
-The form is intended for both internal and external users, but it's essential to note that internal users will not be able to submit a payment. 
-It is possible to complete the form in different languages, but the content provided here is in English. 
-</thinking>
-
 # Square Charity Donation Form - Help Guide
 ## Purpose
 The Square Charity Donation Form is a tool used to collect donations from individuals who want to contribute to a charity. The form is designed to be user-friendly and efficient, gathering all necessary information to process and follow up on the donation.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Faith-Based Social Cohesion Survey" form, we'll follow these steps:
-
-* Identify the form's purpose and ensure it's not a duplicate effort.
-* Explain each field's label and required status.
-* Provide a concrete and concise explanation of each field, based on the provided YAML.
-
-The form's purpose is to gather feedback and information about faith-based social cohesion. It seems to be a survey focused on understanding relationships and interactions within faith communities. Before diving into the form's specifics, let's confirm this is not a redundant effort and the form's purpose aligns with the organization's goals.
-
-</thinking>
-
 # Faith-Based Social Cohesion Survey - Help Guide
 ## Purpose
 The "Faith-Based Social Cohesion Survey" is a tool designed to gather feedback and information about relationships within faith communities. This survey aims to help identify areas of strength and weakness within faith-based social interactions.

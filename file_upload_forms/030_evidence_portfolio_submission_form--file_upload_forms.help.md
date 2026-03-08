@@ -1,36 +1,3 @@
-<thinking>
-This form is designed for submitting evidence portfolios, which are collections of documents and other digital artifacts that demonstrate student learning and achievement. The purpose of this form is to gather information from students, teachers, and other stakeholders to track and evaluate student progress, identify areas of strength and weakness, and inform instruction.
-The form is intended to be used by students to submit their portfolios, but also by teachers and other educators to provide feedback and comments on student work. The form will help to:
-- Provide evidence of student learning and achievement
-- Facilitate teacher feedback and assessment
-- Track student progress over time
-- Identify areas of strength and weakness in student work
-- Inform instruction and make data-driven decisions
-
-When completing this form, please ensure that you are submitting a valid portfolio. If you are a student, make sure that you have permission from your teacher or school administrator to submit your portfolio. If you are a teacher, ensure that you are providing accurate and constructive feedback. 
-
-The form has multiple pages, each with its own set of fields. Please complete the following pages:
-
-* Page 1: Submit File
-* Page 2: File
-* Page 3: Student Name
-* Page 4: Teacher Name
-* Page 5: Assessment Comments (Optional)
-* Page 6: Assessment Date and Time
-* Page 7: Upload File (Upload your student's portfolio file)
-* Page 8: Assessment Comments
-* Page 9: Assessment Grade
-* Page 10: Submission Status
-* Page 11: Submitted By
-* Page 12: Submission Date and Time
-* Page 13: Submitter Information
-* Page 14: Email and Phone
-* Page 15: Address and Comments
-
-Each page has specific fields that you need to complete. Please read the following field explanations carefully:
-
-</thinking>
-
 # evidence_portfolio_submission_form - Help Guide
 ## Purpose
 This form is designed for submitting evidence portfolios, which are collections of documents and other digital artifacts that demonstrate student learning and achievement.

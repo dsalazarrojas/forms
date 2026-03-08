@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals or organizations seeking local housing planning permission. The form is likely used for administrative or bureaucratic purposes, possibly for approval or registration of local housing projects. 
-
-The form is not a one-time use case but rather a recurring process, as indicated by the numerous fields related to the submitter's identity and affiliation. This suggests that the form is used for tracking and record-keeping, rather than a one-off transaction. 
-
-The form fields appear to be a mix of personal and organizational information, indicating that the submitter may be representing an organization. The fields also seem to cater to different aspects of the submitter's affiliation, such as name, address, and job function. 
-
-It's possible that the form is used for official purposes, such as government or regulatory agencies, due to the emphasis on official titles, positions, and affiliations. 
-
-Given this, the form might be part of a larger process for submitting and managing applications for local housing planning permissions.
-</thinking>
-
 # Local Housing Planning Permission Application - Help Guide
 ## Purpose
 This guide is designed to walk you through the process of completing the Local Housing Planning Permission Application form. This form is used to collect information from individuals or organizations seeking local housing planning permission.

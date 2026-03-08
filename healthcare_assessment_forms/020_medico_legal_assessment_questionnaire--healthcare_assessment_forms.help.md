@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll first analyze the provided YAML form schema to understand its purpose and structure. This form appears to be a comprehensive medical assessment questionnaire that gathers various information from patients or individuals undergoing medical evaluation. It includes fields for personal details such as date of birth, address, contact information, and medical history, as well as medical-related information like medical evaluation date, medical condition, treatment, tests, and results. The form also includes fields for medical certification, medical investigation, and medical evidence. It's essential to ensure that the form is filled out correctly and accurately to gather the necessary information for medical professionals.</thinking>
-
 # Medico Legal Assessment Questionnaire - Help Guide
 ## Purpose
 This Medico Legal Assessment Questionnaire is designed to collect comprehensive information from patients or individuals undergoing medical evaluation. It is a crucial tool for medical professionals to gather the necessary details to provide accurate and effective medical treatment and care.

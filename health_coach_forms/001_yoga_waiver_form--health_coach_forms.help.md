@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients or patients who are participating in yoga activities or classes, such as yoga classes or workshops. This information is likely to be used for administrative purposes, to ensure that the client has provided their consent and has been properly informed about the activity or class they are about to participate in. It's likely that this form is used in a yoga studio or wellness center environment.
-
-Before we begin, let's ensure that we're not duplicating any information that may already exist in other parts of your system. This form's fields are designed to capture unique and relevant information about the client's participation.
-
-</thinking>
-
 # yoga_waiver_form - Help Guide
 ## Purpose
 The yoga waiver form is used to collect information from clients or patients before they participate in yoga activities or classes.

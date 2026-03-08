@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diastolic Function Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to assess the diastolic function of a patient. It is meant to collect information about a patient's health condition and aid healthcare professionals in making informed decisions about their care. If you are not a healthcare professional or are unsure about your role in completing this form, please consult with a medical expert before proceeding.

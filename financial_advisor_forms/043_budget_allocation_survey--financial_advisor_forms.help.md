@@ -1,6 +1,3 @@
-<thinking>
-This form is used for respondents to submit budget allocation requests. It is crucial to understand that this form is not meant for general budget inquiries or requests for non-budgeted funds. It is specifically designed to capture allocation requests for a particular budget period, allowing departments to outline their spending priorities, provide justification, and demonstrate potential consequences if their requests are denied. Before proceeding, please review the form carefully to ensure you are using it for its intended purpose and not duplicating existing efforts. If you're unsure about any field or requirement, refer to this guide for clarity.
-</thinking>
 # Budget Allocation Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide assumes the form is part of a larger system used to gather information about patients' healthcare needs and challenges. Its purpose is to collect data on patients' health status, access to necessary care, and their ability to follow up on treatment plans. The guide is intended for use by healthcare professionals who will be interacting directly with patients.
 
 ## Purpose

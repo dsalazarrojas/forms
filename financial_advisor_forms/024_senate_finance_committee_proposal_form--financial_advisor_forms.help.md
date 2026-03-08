@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, we need to make sure we understand the form's purpose and its relevance to the target audience. This form is likely used by finance committee members or staff to evaluate and review proposals submitted by submitters. The form is likely used for internal decision-making and tracking of proposals within the finance committee. The form's fields seem to be a mix of general information, specific details about the proposal, and options for committee and staff feedback. It's essential to ensure that the fields are clear and easy to understand for the submitters and reviewers. Let's review the form's fields carefully and create a concise guide to help users complete the form correctly.</thinking>
-
 # Senate Finance Committee Proposal Form - Help Guide
 ## Purpose
 This form is designed for finance committee members or staff to review and evaluate proposals submitted by users. It helps track and record information about the proposals, committee and staff feedback, and submitter details.

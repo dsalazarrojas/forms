@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from healthcare team members on their workload, job satisfaction, and work environment. This form will help the healthcare organization understand the needs and challenges faced by its team members, which can inform decisions on resource allocation, training, and other initiatives to support the team.
-
-This form is designed to be completed by healthcare team members, and responses will be kept confidential. The data collected will be used to identify areas for improvement and inform changes to the team's work processes and practices.
-
-Before starting, please review this guide to ensure you understand the purpose and requirements of the form. If you have already completed a similar form, you may not need to complete this one. Please only complete this form if you have not already done so.
-
-</thinking>
-
 # Healthcare Team Workload Feedback Form - Help Guide
 ## Purpose
 The healthcare team workload feedback form is designed to gather your opinions and experiences on your workload, job satisfaction, and work environment. Your feedback is crucial in helping us understand your needs and challenges, which will inform decisions to support the team.

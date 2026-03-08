@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the intake process of seals, likely for inspection or evaluation purposes, possibly related to quality control or assessment. The intention is to gather information about the seal's condition which may affect its usability or value. The form likely helps in documenting and tracking the seal's status, and could be used for further processing or action.
-</thinking>
-
 # Seal Intake Inspection Form - Help Guide
 ## Purpose
 The Seal Intake Inspection Form is used to assess the condition of a seal and determine its status for further processing or action.

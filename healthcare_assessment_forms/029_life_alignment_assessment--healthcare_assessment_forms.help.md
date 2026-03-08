@@ -1,5 +1,3 @@
-<thinking> This form is used for a Life Alignment Assessment, which helps users evaluate their current and future life priorities and assess their satisfaction with their current life alignment. It's designed to provide insights into how well their life is currently aligned with their goals and aspirations. This form is optional, and users are not required to fill it out. If you are unsure about the purpose or relevance of this form, please don't hesitate to reach out to your healthcare provider or HR representative for clarification. If you have already completed a similar assessment, you can skip this form and focus on your current priorities and goals. </thinking>
-
 # Life Alignment Assessment - Help Guide
 ## Purpose
 The Life Alignment Assessment is a tool used to evaluate how well your life is currently aligned with your goals and aspirations. It's a self-assessment that helps you identify areas where you need to make adjustments to feel more fulfilled and satisfied with your life.

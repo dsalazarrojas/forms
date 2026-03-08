@@ -1,12 +1,3 @@
-<thinking>
-The "legislative_meeting_feedback_survey" form is used to gather feedback from participants after a legislative meeting. The purpose of this form is to collect information about the meeting's effectiveness, identify areas of improvement, and provide a platform for attendees to share their thoughts and opinions. This form is intended for individuals who have participated in the meeting and are providing feedback as part of the evaluation process.
-
-To ensure that the feedback collected is relevant and consistent, please ensure that:
-
-* The form is only completed by participants who have attended the meeting.
-* The same feedback form is not submitted multiple times by the same participant.
-</thinking>
-
 # legislative_meeting_feedback_survey - Help Guide
 
 ## Purpose

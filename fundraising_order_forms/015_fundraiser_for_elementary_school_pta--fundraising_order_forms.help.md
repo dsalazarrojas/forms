@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for collecting information about fundraisers for an Elementary School PTA. The goal is to gather essential details about each fundraiser, including its category, type, and description. This form can be used for tracking and managing fundraising events, which is crucial for the PTA's administrative and planning purposes.
-
-The form is not affiliated with, endorsed by, or derived from any specific form platform, and it's an original adaptation based on public metadata. It can be used, modified, and even sold under the Creative Commons Attribution 4.0 license.
-
-</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Food Survey Template - Help Guide
 ## Purpose
 This template is designed to collect information about a student's food preferences, eating habits, and demographic details. The survey aims to gather data to better understand students' eating habits, preferences, and frequency of consumption of different food and beverage items. This information will be used to improve food services and offerings on campus.

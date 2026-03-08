@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for requesting revisions to a documentary narration, which is likely a critical part of a larger content creation or production process. To ensure that your revision request is processed accurately and efficiently, please follow the steps below to complete this form correctly. 
 
 - The form purpose is to provide necessary details for a timely and effective revision of a documentary narration.

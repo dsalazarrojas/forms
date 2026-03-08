@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the financial performance of a business. It is intended to be used by financial advisors to evaluate the financial standing of a company. The purpose of this form is to provide an objective assessment of a business's financial health, highlighting areas of improvement and providing recommendations for growth and development. This form should only be used by authorized financial advisors to avoid misinterpretation of data.
-
-</thinking>
-
 # Financial Performance Audit Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cultural-festival-event-proposal-submission - Help Guide
 
 ## Purpose

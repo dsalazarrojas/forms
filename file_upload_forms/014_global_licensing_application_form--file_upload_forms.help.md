@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the global licensing process. It's meant for applicants who need to submit a global licensing application. The form ensures that applicants provide all necessary information to complete the licensing process efficiently. Please ensure you have all necessary information and documentation before starting the form. This guide will walk you through each step of the form. Please review each field carefully to ensure you provide accurate and complete information.
-</thinking>
-
 # Global Licensing Application Form - Help Guide
 ## Purpose
 The Global Licensing Application Form is used to gather information from applicants for the global licensing process. This form helps ensure that all necessary details are provided to complete the licensing process efficiently.

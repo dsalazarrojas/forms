@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rural Development Awareness Survey - Help Guide
 
 ## Purpose

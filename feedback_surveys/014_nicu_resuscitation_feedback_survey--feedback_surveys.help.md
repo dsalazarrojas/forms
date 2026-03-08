@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NICU Resuscitation Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly, please note that the purpose of this form is to gather information about individuals interested in joining the fundraising committee. This form is designed to collect relevant details about the applicant, their role and committee preferences, and contact information. Before filling out this form, please confirm that you are filling it out for the correct reason and purpose.
-</thinking>
-
 # Fundraising Committee Application Form - Help Guide
 ## Purpose
 The Fundraising Committee Application Form is designed to gather information from individuals interested in joining the fundraising committee. This form is used to collect details about your role, committee preferences, contact information, and other relevant details.

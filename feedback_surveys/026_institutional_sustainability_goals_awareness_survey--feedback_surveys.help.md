@@ -1,8 +1,3 @@
-<thinking>
-In order to create a user-facing help guide for the "Institutional Sustainability Goals Awareness Survey" form, it's essential to first consider the purpose and context of the form. This form likely aims to assess employees' awareness and perception of their institution's sustainability goals, focusing on communication channels, feedback mechanisms, and areas for improvement. Before proceeding, let's ensure that the guide is relevant to the intended audience and not a duplication of efforts in case of identical or very similar forms used in the past.
-
-</thinking>
-
 # Institutional Sustainability Goals Awareness Survey - Help Guide
 ## Purpose
 The "Institutional Sustainability Goals Awareness Survey" is designed to gauge employees' understanding of their institution's sustainability goals, particularly in relation to communication channels and feedback mechanisms. This survey aims to gather input on awareness, engagement, and areas for improvement regarding sustainability efforts within the institution. The information gathered will help in tailoring strategies to enhance awareness and engagement with sustainability goals.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from users about their experience with saffron, a type of spice or ingredient. The purpose of this survey is to understand the frequency of usage, satisfaction levels, and preferences of users related to saffron. We want to know how often users use saffron, how satisfied they are with it, and what benefits and challenges they experience when using it. We also aim to collect information on how likely users are to recommend saffron to others and how important it is in their lives.
-
-Please note that the same questions might be answered multiple times in the survey. Before proceeding, ensure that you have not already taken this survey before, or that the questions are still relevant to your current saffron experience. If you have, please let us know and we will consider your feedback for future improvements.
-
-</thinking>
-
 # Saffron Usage Feedback Survey - Help Guide
 ## Purpose
 This survey aims to gather your thoughts and experiences with saffron, a type of spice or ingredient.

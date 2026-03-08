@@ -1,11 +1,3 @@
-<thinking>Internal context: The "Digital Nomad Housing Hub" aims to create a platform for remote workers to register and find affordable, convenient housing options. The purpose of this form is to gather information from remote workers on their work and accommodation preferences. The platform aims to provide a seamless experience for both workers and homeowners by matching their needs with available housing options.
-
-The form is designed to be flexible and adaptable, allowing users to input their information and preferences in a way that is easy to understand and fill out. Each field is carefully crafted to help the platform's algorithm match the user's needs with the best possible housing options.
-
-Before filling out the form, please ensure that you have a clear understanding of the information you are providing. This form is for remote workers to register their information and preferences, and it is not intended for homeowners to fill out.
-
-Please note that some fields are optional, and you can choose to fill out only the relevant information. However, please ensure that all required fields are filled out to get the most accurate and effective housing matches.</thinking>
-
 # Digital Nomad Housing Hub Registration Form - Help Guide
 ## Purpose
 The "Digital Nomad Housing Hub Registration Form" is designed to gather information from remote workers on their work and accommodation preferences. This information will help the platform match their needs with the best possible housing options.

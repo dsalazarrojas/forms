@@ -1,11 +1,4 @@
-<thinking>...</thinking>
-
 This internal reasoning block explains the form's purpose and checks for relevance and non-duplication:
-<thinking>
-The purpose of this form is to gather submission requests from editors for article content. It is designed to collect essential information from editors, including their comments, file uploads, and submission dates and times. The form should be used by editors who want to submit their work for review and publication. 
-Before starting the submission process, please ensure that you have read and understood the form's purpose. Please do not submit duplicate requests, as this can cause unnecessary processing time and potential conflicts. 
-This form is intended to be filled out by editors, not end-users. If you are an end-user, you may not need to access this form.</thinking>
-
 # Editor Article Submission Request - Help Guide
 
 ## Purpose

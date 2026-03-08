@@ -1,7 +1,3 @@
-<thinking>
-This form, "Financial Audit Form", is used for collecting detailed financial information about a company, including its health, compliance status, financial data collection, analysis, and auditing process. It is designed to gather essential details about the company's financial standing, compliance, and contact information.
-</thinking>
-
 # Financial Audit Form - Help Guide
 ## Purpose
 This form is used to collect comprehensive financial information about a company, including its financial health, compliance status, and contact details. It is intended for auditing and financial analysis purposes.

@@ -1,20 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of how to complete the ERP User Feedback Survey form. However, before proceeding, let's clarify the form's purpose and potential areas of confusion or duplication.
-
-The ERP User Feedback Survey form is designed to collect feedback from users on their experience with the ERP system. This form will help us gather insights on the user's satisfaction with the system, their suggestions for improvement, and their departments of interest.
-
-To ensure that users can provide us with accurate and relevant feedback, we've included fields that cover the following:
-
-* User satisfaction levels and scale
-* Departmental interests and availability
-* Suggested improvements
-* Comments and questions
-* Contact information
-
-To complete this form, please follow the steps below.
-
-</thinking>
-
 # ERP User Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from ERP users to improve the overall user experience and identify potential areas of improvement.

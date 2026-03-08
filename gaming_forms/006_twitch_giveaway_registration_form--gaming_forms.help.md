@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for a Twitch giveaway. The purpose of this form is to collect necessary information from the users, which includes their details, game preferences, and location. The form is composed of multiple fields that require users to input their information, with some fields being optional and others required. It's essential that users understand the purpose and requirements of the form to ensure accurate and complete submissions.
-</thinking>
-
 # Twitch Giveaway Registration Form - Help Guide
 ## Purpose
 This form is used to register for a Twitch giveaway. Users are required to provide their details, game preferences, and location to participate in the giveaway.

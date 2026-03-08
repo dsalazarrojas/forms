@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Lunch Order Form - Help Guide
 ## Purpose
 This form is designed to help students make their lunch preferences known to the school cafeteria team, which will help them prepare a suitable meal. Please complete this form with your selection to ensure that the cafeteria staff can fulfill your order accurately.

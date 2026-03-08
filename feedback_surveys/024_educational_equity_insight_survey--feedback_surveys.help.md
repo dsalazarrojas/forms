@@ -1,9 +1,3 @@
-<thinking>
-
-We are going to create a help guide for the Educational Equity Insight Survey form. This form is designed to collect feedback and insights from school districts and educational institutions to understand their perspectives on equity and inclusion. It is a self-reporting tool to gather information and opinions from various stakeholders, including schools, districts, and other organizations. This form is used to identify areas of improvement and to foster better relationships between schools, districts, and communities. This form should not be used for formal evaluations or performance measures.
-
-</thinking>
-
 # Educational Equity Insight Survey - Help Guide
 ## Purpose
 The Educational Equity Insight Survey is a self-reporting tool to gather feedback and insights from school districts and educational institutions on their perspectives on equity and inclusion. The survey is meant to be a collaborative platform for improvement, fostering better relationships between schools, districts, and communities.

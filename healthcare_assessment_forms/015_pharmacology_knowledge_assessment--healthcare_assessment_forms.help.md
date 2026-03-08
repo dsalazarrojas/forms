@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmacology Knowledge Assessment - Help Guide
 
 ## Purpose

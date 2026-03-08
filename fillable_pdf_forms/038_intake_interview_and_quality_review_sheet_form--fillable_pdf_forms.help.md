@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a user-facing help guide for this form to ensure that end-users understand the purpose and usage of the form. The form is used for the intake interview and quality review sheet for volunteer work.
 
 To complete this form, please follow these steps:

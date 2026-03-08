@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Loan Exit Interview - Help Guide
 =====================================
 

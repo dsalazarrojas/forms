@@ -1,9 +1,3 @@
-<thinking>As the form designer and technical writer, I must first understand the context and purpose of this form. This is the Twitch Channel Ban Appeal Form, used for users to appeal against channel bans. The form aims to gather information from the channel owner to review and potentially unban their channel. I will assume the form is meant to collect relevant details to help in making an informed decision during the appeal process.
-
-Next, I will review the form fields and identify areas that require clarification or explanations to ensure end-users understand their purpose and expectations.
-
-Upon reviewing the form, I notice that the fields are mostly self-explanatory, but some require additional context to ensure users understand their purpose. I will provide explanations for these fields and create a helpful guide for end-users.</thinking>
-
 # Twitch Channel Ban Appeal Form - Help Guide
 ## Purpose
 This form is for users to appeal against channel bans on Twitch. Please fill out the form with your channel details and reasons for the ban to help our team review and potentially unban your channel.

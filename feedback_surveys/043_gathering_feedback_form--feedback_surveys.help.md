@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gathering Feedback Form - Help Guide
 
 ## Purpose

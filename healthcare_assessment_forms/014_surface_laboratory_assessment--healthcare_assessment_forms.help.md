@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the surface characteristics of a patient's condition, likely to be used in a laboratory setting to gather information and track test results. The purpose of this form is to collect relevant data from the patient's medical history, allergies, and test results, which will help medical professionals to make informed decisions about the patient's treatment and care. This form should not be used as a substitute for a comprehensive medical diagnosis, but rather as a tool to gather information and identify potential areas for further investigation.
-
-</thinking>
-
 # Surface Laboratory Assessment - Help Guide
 ## Purpose
 The Surface Laboratory Assessment form is designed to collect information from patients to help medical professionals in a laboratory setting. This form is used to gather data on the patient's medical history, allergies, and test results.

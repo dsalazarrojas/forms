@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and employment information from individuals. It is likely used for HR, personnel management, or tax purposes.
-</thinking>
-
 # LS54 Form - Help Guide
 ## Purpose
 The LS54 Form is a document used to collect essential details about an individual, including their personal details (name, address) and employment information (employer details). 

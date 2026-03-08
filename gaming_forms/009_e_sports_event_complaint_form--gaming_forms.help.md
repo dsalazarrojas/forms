@@ -1,17 +1,3 @@
-<thinking>
-
-We are creating a form to guide users through the process of reporting issues or complaints regarding e-sports events. This form is intended to collect detailed descriptions of events from various categories. It is essential for us to understand the specific details and circumstances surrounding a complaint, which helps us to address and resolve it efficiently. 
-
-By using this form, you will be able to: 
-- Report an event that has caused you discomfort, distress or dissatisfaction
-- Provide a clear and accurate description of the event and its details
-- Identify the specific category under which the event falls
-- Submit your report for further action or investigation
-
-Please note that this form is designed to be as comprehensive as possible, but feel free to add any information that you believe will support your report.
-
-</thinking>
-
 # e_sports_event_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect complaints or reports related to e-sports events. It is a tool to help us understand and address your concerns.

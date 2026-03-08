@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience. It's intended to help us understand what you think about our service, and we'll use your input to improve. Please fill out this form only if you've actually experienced our service. If you're not a user, your feedback won't be relevant, and we'll have to discard it to maintain data quality.
-</thinking>
-
 # Star Rating Feedback Form - Help Guide
 ## Purpose
 The Star Rating Feedback Form is a simple survey designed to gather users' opinions about their experience with our service. Your input will help us identify areas for improvement and make our service better.

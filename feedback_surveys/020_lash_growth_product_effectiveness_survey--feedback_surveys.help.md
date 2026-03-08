@@ -1,12 +1,3 @@
-<thinking>
-The form "Lash Growth Product Effectiveness Survey" is a survey designed to gather information about the effectiveness of lash growth products. This form is intended to be completed by users who have used the product and have experience with its use. The purpose of this form is to collect feedback and data that can be used to improve the product and its development process.
-
-To avoid duplication of effort, this form should only be completed by users who have not already provided feedback on the same topic.
-
-Please ensure that you only fill out this form if you have used the product and have a genuine opinion about its effectiveness.
-
-</thinking>
-
 # Lash Growth Product Effectiveness Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand how well our lash growth product works for you. Your feedback will help us make improvements to the product and its development process.

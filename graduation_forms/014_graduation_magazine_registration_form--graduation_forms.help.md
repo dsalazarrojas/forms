@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduation Magazine Registration Form - Help Guide
 
 ## Purpose

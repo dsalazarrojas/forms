@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only relevant and non-duplicate forms are submitted. This form is designed to collect information from users about a new recipe they'd like to share with the community. The form should only be used for genuine recipe submissions, not for testing or spamming purposes. We want to keep the community safe from unwanted or duplicate submissions. To achieve this, users will be asked to confirm that they're certain about the submission and that it's not a duplicate.
-</thinking>
-
 # Recipe Submission Form - Help Guide
 ## Purpose
 The Recipe Submission Form is designed for users to share new recipes with the community. Please use this form to submit a recipe you'd like to share, and follow the instructions below to ensure a smooth submission process.

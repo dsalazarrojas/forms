@@ -1,32 +1,3 @@
-<thinking>Before creating this help guide, let's review the form purpose and ensure it's not a duplicate. This form is designed for healthcare professionals to gather relevant information about a patient's medical genetics assessment, which includes patient history, family history, genetic conditions, medical history, and other relevant details. This form will help genetic counselors and healthcare providers assess the patient's genetic risk factors and develop an effective treatment plan.
-
-Given the form's comprehensive nature, it's essential to ensure that each section is completed accurately and thoroughly. The form's sections are designed to collect specific information about the patient, their medical history, and the genetic conditions they may be experiencing.
-
-The following guidelines will help healthcare professionals complete the form efficiently and effectively:
-
-1.  **Patient History**: This section is for capturing the patient's medical background, including any allergies, medications, or previous treatments.
-2.  **Family History**: This section is for recording the patient's family medical history, including any genetic conditions that may be affecting their relatives.
-3.  **Genetic Conditions**: This section is for selecting the genetic conditions that the patient may be experiencing, based on their family history and medical background.
-4.  **Medical History**: This section is for recording the patient's medical history, including any relevant medical events or conditions.
-5.  **Consent**: This section is for obtaining the patient's consent for genetic testing and counseling.
-6.  **Genetic Counselor**: This section is for recording the genetic counselor's observations and recommendations.
-7.  **Clinic Information**: This section is for recording the clinic's or healthcare provider's information.
-8.  **Patient Information**: This section is for capturing the patient's name, age, relationship to the patient, and gender.
-9.  **Genetic Testing**: This section is for selecting the genetic tests that may be relevant for the patient.
-10. **Genetic Testing Result**: This section is for recording the results of any genetic testing.
-11.  **Genetic Result Date**: This section is for recording the date of the genetic testing result.
-12.  **Medical Record Information**: This section is for recording the patient's medical record number, provider, and date.
-13.  **Genetic Counselor Note**: This section is for the genetic counselor to record any additional notes or recommendations.
-14.  **Patient Consent**: This section is for confirming the patient's consent for genetic testing and counseling.
-15.  **Patient Consent Date**: This section is for recording the date of the patient's consent.
-16.  **Genetic Counselor Signature**: This section is for the genetic counselor to sign and date their involvement in the process.
-17.  **Clinic Signature**: This section is for the clinic or healthcare provider to sign and date their involvement in the process.
-18.  **Patient Signature**: This section is for the patient to sign and date their consent and understanding of the process.
-19.  **Medical Record Review**: This section is for the healthcare provider to record their review of the patient's medical record.
-20.  **Clinic Note**: This section is for the clinic or healthcare provider to record any additional notes or recommendations.
-
-By following these guidelines, healthcare professionals can complete the form accurately and efficiently, ensuring that the patient receives the best possible care and support for their genetic health needs.</thinking>
-
 # Medical Genetics Assessment Form - Help Guide
 ## Purpose
 The Medical Genetics Assessment Form is designed to gather comprehensive information about a patient's medical genetics assessment, which includes their medical history, family history, genetic conditions, and other relevant details. This form helps healthcare professionals assess the patient's genetic risk factors and develop an effective treatment plan.

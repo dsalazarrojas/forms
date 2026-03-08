@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information about the copyright holder, contact information, and copyright license details for an item that needs to be uploaded to the platform. This form is likely used for internal processes or workflows that require accurate and detailed copyright information.
-
-To ensure accuracy, please note that each field is optional, but having accurate information is crucial for proper processing and authorization.
-
-The form should not be duplicated or filled out for the same item without proper review and approval by the relevant parties.
-
-</thinking>
-
 # copyright_use_authorization_form - Help Guide
 ## Purpose
 The copyright_use_authorization_form is a form used to collect and verify copyright information for items that need to be uploaded to the platform. This form helps ensure that the correct copyright holder and license details are recorded accurately and consistently.

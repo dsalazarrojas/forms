@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to help users renew their fundraising campaigns. It's used to collect information from donors who want to extend their support for a particular campaign. This form is only necessary for users who have already donated to a campaign and want to continue their support. It's not meant for new donors or people who haven't donated before. To prevent duplicate submissions, the system will only allow users to renew their campaign once it's already been saved.
-</thinking>
-
 # Fundraising Campaign Renewal Form - Help Guide
 ## Purpose
 This form is for existing donors who want to renew their support for an ongoing fundraising campaign. If you're a new donor or have not donated before, you cannot use this form.

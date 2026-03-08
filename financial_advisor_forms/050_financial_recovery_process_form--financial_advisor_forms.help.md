@@ -1,9 +1,3 @@
-<thinking>
-
-We will use this form to document the financial recovery process, which is an essential part of the financial planning process for individuals or businesses experiencing financial difficulties. The form will help to collect relevant information regarding the recovery process, including financial institutions involved, the recovery process used, and other details that can aid in the recovery process. To avoid duplication of effort, it's essential to ensure that the form is filled out correctly and accurately the first time.
-
-</thinking>
-
 # Financial Recovery Process Form - Help Guide
 ## Purpose
 This form is designed to collect information about the financial recovery process for individuals or businesses experiencing financial difficulties. The form will help to identify the financial institutions involved, the recovery process used, and other details that can aid in the recovery process.

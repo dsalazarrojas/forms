@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The form purpose is to allow users to request a retake for a specific film scene. This form is used to provide detailed information about the scene that needs to be retaken, including the reason for the retake, the preferred date and time for the retake, and other relevant details. It is intended for use by film production teams to ensure that the scene is properly re-shot and meets the desired quality standards.
+> The form purpose is to allow users to request a retake for a specific film scene. This form is used to provide detailed information about the scene that needs to be retaken, including the reason for the retake, the preferred date and time for the retake, and other relevant details. It is intended for use by film production teams to ensure that the scene is properly re-shot and meets the desired quality standards.
 
 Before filling out this form, please ensure that you have all necessary information and supporting files ready, and that you have checked with the relevant production team to confirm that the scene is indeed eligible for a retake.
 

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to better understand their wellness and health status. This includes their medical history, current health conditions, and habits that may impact their health. The form will be used to provide guidance and support for the user's overall wellness.
-This form should only be filled out by users who are looking for guidance and support for their health and wellness, and not for any other purpose. It is essential to fill out the form accurately and honestly to get the most relevant and helpful information.
-</thinking>
-
 # Wellness Consultation Questionnaire - Help Guide
 ## Purpose
 The Wellness Consultation Questionnaire is designed to collect information about your health and wellness status to help you make informed decisions about your health and well-being. It is not a diagnostic tool, but rather a guide to help you identify areas that may be impacting your health.

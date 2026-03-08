@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Camp Participant Selfie Collection Form - Help Guide
 ## Purpose
 This form collects participant selfies from campers for various purposes such as ID badges, activity participation, group yearbooks, social media features, and staff recognition. The collected selfies are stored in the camp's secure database and used for specific purposes as granted by the participant.

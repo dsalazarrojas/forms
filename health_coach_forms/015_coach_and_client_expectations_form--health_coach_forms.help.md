@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coach And Client Expectations Form - Help Guide
 
 ## Purpose

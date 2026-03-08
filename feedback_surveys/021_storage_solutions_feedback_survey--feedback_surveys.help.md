@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about their storage solutions, such as file servers, network-attached storage (NAS), and storage area networks (SAN). The form is used to assess the effectiveness and satisfaction of these solutions, which are critical components of an organization's data storage infrastructure. 
-
-The form will help the organization understand the strengths and weaknesses of their storage solutions, identify areas for improvement, and make data-driven decisions about how to optimize and expand their infrastructure.
-
-To avoid duplication of feedback, this form is only intended for users who are currently using or have experience with storage solutions. Feedback from users who do not have experience with storage solutions will not be accepted.
-
-</thinking>
-
 # Storage Solutions Feedback Survey - Help Guide
 ## Purpose
 This guide explains how to complete the Storage Solutions Feedback Survey form, which is used to gather feedback on storage solutions.

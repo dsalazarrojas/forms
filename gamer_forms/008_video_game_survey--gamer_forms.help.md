@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and information about video games from users. It will likely be used to gather data for research or analysis purposes, such as market research or game development insights. The form is divided into several sections, each with its own set of questions or fields. Before filling out the form, please ensure that you are not duplicating any existing data and that your feedback is genuine and relevant.
-
-</thinking>
-
 # video_game_survey - Help Guide
 
 ## Purpose

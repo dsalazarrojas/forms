@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Content Metadata Form - Help Guide
 ## Purpose
 The Digital Content Metadata Form is a tool used to collect and manage metadata about digital content. It helps provide important information about the content, such as its category, content type, date published, and license, among other details. This form is essential for ensuring that content is accurately and consistently described, making it easier to find, categorize, and manage.

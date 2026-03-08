@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information from users who want to participate in a fundraising campaign. The form is divided into several pages, each with specific fields that require user input. To ensure that each user has a unique experience, the form has a non-duplication feature that checks for user information and prevents duplicate entries.
-</thinking>
-
 # fundraising_registration_form - Help Guide
 ## Purpose
 The Fundraising Registration Form is used to collect information from users who want to participate in a fundraising campaign.

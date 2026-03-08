@@ -1,12 +1,3 @@
-<thinking>
-
-The goal of this form is to collect information from participants for the ballet event raffle. It's essential to ensure that the form is completed accurately and consistently to maintain the reliability of the raffle process. To verify this, you should check the form for:
-
-- Ensure that each page of the form is correctly linked to the corresponding section in the help guide.
-- Verify that each field has the correct label, type, hint, and options.
-
-</thinking>
-
 # Ballet Event Raffle Entry - Help Guide
 
 ## Purpose

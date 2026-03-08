@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Profit Program Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience with our non-profit program. The goal is to understand how effective our program was in achieving its intended outcomes and what we can improve for future participants.

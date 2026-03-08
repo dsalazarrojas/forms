@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly and to its full potential. A quick review of the fields and their purposes will help us confirm this:
-- The form is called "Board Game Playtest Feedback Form" and it's meant to gather feedback from playtesters about a board game.
-- The form has several fields for different types of feedback: Tester Information, Play date, play duration, overall enjoyment rating, balance feedback, rule clarity, components quality, and improvement suggestions.
-- All fields are optional, except for Play date and Overall enjoyment rating. 
-- The form aims to collect feedback that can be used to refine the game design.
-</thinking>
-
 # Board Game Playtest Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from playtesters after they have played a board game. The information gathered from this form will help us refine the game design and improve the gaming experience.

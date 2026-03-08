@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The "Holiday Party Photo Upload" form is used for uploading and managing holiday party photos. Users can provide details about the event, including the date and time, location, and number of attendees. The form also allows users to upload photos, specify the type and size of the file, and provide additional information such as a brief description and tags.
 

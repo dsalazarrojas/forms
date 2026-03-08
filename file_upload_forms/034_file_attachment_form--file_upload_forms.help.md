@@ -1,8 +1,3 @@
-<thinking>
-This form is used to attach a file to a document. It is used by administrators to upload and associate a file with a document for the purpose of record keeping. This form is used within an internal system, so it's essential to ensure that the form is completed correctly to avoid errors and inconsistencies. Please review each field carefully to ensure that you understand its purpose and complete the form correctly.
-
-</thinking>
-
 # file_attachment_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-Internal note: The Client Strategic Plan Upload Form is designed for organizations to submit their strategic plans, providing essential information about their goals, objectives, and implementation timelines. This form helps in ensuring that all necessary details are captured and reviewed properly. To avoid duplicate submissions, please check if a similar plan has already been uploaded by the same organization. Ensure that all required fields are filled in accurately and thoroughly, as this data will be used for further analysis and reference.
-
-</thinking>
-
 # Client Strategic Plan Upload Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a chicken order from customers or businesses. The form is intended for use by customers or their representatives to place an order for fresh poultry products. It's likely that this form will be used by customers who are placing orders for their business or restaurant.
-
-To ensure that the form is filled out correctly, we should make sure that all required fields are completed. This includes business name, contact person, email address, phone number, desired delivery date, type of chicken product, meat quality grade, preparation style, quantity, unit of measurement, price per unit, delivery address, city, state or province, postal code, preferred delivery time window, and whether this is a recurring order.
-
-We should also note that some fields, like special requests and special handling or storage requirements, are optional and do not need to be filled out unless specifically required.
-</thinking>
-
 # Chicken Order Form - Help Guide
 ## Purpose
 The Chicken Order Form is designed to collect information for a poultry order. It is intended for use by customers or their representatives to place an order for fresh poultry products.

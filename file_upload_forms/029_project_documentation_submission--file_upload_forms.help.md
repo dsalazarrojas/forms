@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI and is not affiliated with any form platform. Its purpose is to collect project documentation submissions. When filling out this form, please ensure that you're not duplicating information already submitted or submitting irrelevant data. To use this form effectively, please follow the instructions below.
-</thinking>
-
 # Project Documentation Submission - Help Guide
 ## Purpose
 The Project Documentation Submission form is designed to collect project documentation submissions from individuals.

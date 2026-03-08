@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is for school-based therapy referrals, and it's essential to ensure that each field is filled out correctly to ensure accurate and effective referrals. Please note that this form is not a duplicate of other forms, and it's designed to gather specific information for school-based therapy referrals.</thinking>
-
 # School Based Therapy Referral Form - Help Guide
 ## Purpose
 This form is designed to gather information for school-based therapy referrals. It helps identify the student's needs and ensures that the referral process is thorough and accurate.

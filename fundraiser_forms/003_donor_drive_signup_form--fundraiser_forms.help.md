@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from donors who wish to participate in a Donor Drive, which is an initiative that supports a specific cause or organization. The form is designed to gather contact and donation preferences from the donor, including their name, email, phone number, address, and donation details such as amount and frequency. The purpose of this form is to help the organization understand the donor's interests and provide them with tailored information and updates.
-
-Before completing the form, please ensure you are not already registered to donate to this cause or organization, as this may cause duplicate records. 
-</thinking>
-
 # Donor Drive Signup Form - Help Guide
 ## Purpose
 This form is used to collect information from donors who wish to participate in a Donor Drive for a specific cause or organization.

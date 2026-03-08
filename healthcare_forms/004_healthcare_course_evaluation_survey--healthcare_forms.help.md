@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from course attendees on their experiences with a healthcare course. The form asks about overall satisfaction, material helpfulness, format, instructions, recommended course length, rating, and additional comments. The form also collects contact information to allow for follow-up communication. This form likely aims to understand the course's effectiveness and identify areas for improvement.
-</thinking>
-
 # Healthcare Course Evaluation Survey - Help Guide
 
 ## Purpose

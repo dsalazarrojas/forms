@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Form 843 Tax Abatement Form is to provide a standardized and easily accessible way for individuals to claim tax refunds. This form is designed to be completed by taxpayers who are entitled to a tax refund. By filling out this form, individuals can efficiently and accurately submit their tax claims, ensuring that they receive their rightful refunds. Please note that the form is not affiliated with any form platform and is an original creation.
-
-Before filling out the form, please ensure that you are not duplicating an existing claim or that your tax status has not changed since the last tax period.
-
-</thinking>
-
 # Form 843 Tax Abatement Form - Help Guide
 ## Purpose
 The Form 843 Tax Abatement Form is designed to assist taxpayers in claiming their tax refunds in a simple and straightforward manner. This form is intended for taxpayers who are eligible for tax refunds.

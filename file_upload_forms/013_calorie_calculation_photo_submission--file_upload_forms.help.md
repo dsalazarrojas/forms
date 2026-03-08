@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Calorie Calculation Photo Submission form is to collect user-submitted photos and data for the estimation of calories consumed during a meal or snack. This form is designed to gather information on the participant's meal details, including the meal type, time consumed, description of food items, beverages consumed, and other relevant factors. The form aims to provide a standardized approach to collecting and analyzing data on participants' eating habits.
-
-To ensure data quality and avoid duplication, we will not allow multiple submissions for the same participant on the same day. This form is intended for single-use submissions per participant per meal.
-
-The following fields are required for a successful submission. Please ensure that all required fields are completed before proceeding.
-
-</thinking>
-
 # Calorie Calculation Photo Submission - Help Guide
 ## Purpose
 The Calorie Calculation Photo Submission form is designed to collect user-submitted photos and data for the estimation of calories consumed during a meal or snack. This form aims to gather information on participant's meal details, including meal type, time consumed, description of food items, and other relevant factors.

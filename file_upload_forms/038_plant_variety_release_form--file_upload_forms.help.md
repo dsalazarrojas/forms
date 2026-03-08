@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request the release of a plant variety. The form is meant to collect information from the release requester, who is the person or organization requesting the release of the plant variety. This information will be used to process and review the release request. Please ensure that you have the authority to request the release of the plant variety before filling out this form. Also, make sure you have not already submitted a release request for the same variety, as duplicate requests may cause delays or confusion in the review process.
-</thinking>
-
 # Plant Variety Release Form - Help Guide
 
 ## Purpose

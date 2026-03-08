@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by facility managers or supervisors to conduct a safety inspection of a recycling plant. The purpose of this form is to gather information about the condition and compliance of various aspects of the plant's safety, such as equipment, systems, and practices. This form will help identify potential safety hazards and ensure that the plant is operating in accordance with regulatory requirements and company standards.
-
-When filling out this form, please ensure that you have access to the plant's safety documentation and that you are familiar with the safety protocols and procedures. If you have any questions or concerns, please don't hesitate to contact the safety officer or the facility's management team.</thinking>
-
 # Recycling Plant Safety Inspection Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is a simple file upload form designed to collect files from end users. The form is meant to be used for users to upload a file of a specific type (documents or images) and to provide additional metadata about the file, such as its size and name. The form's purpose is to allow users to submit a file for review or processing.
-The form is a multi-page form, with four fields in total. Each field is designed to be completed in a specific way, and users should be aware of the following:
-* The uploaded file should be of the type selected in the `file_type` field.
-* The `file_size` field is not required, but it's meant to help users provide additional information about the file.
-* The `file_name` field is also not required, but it's meant to help users provide a human-readable name for the file.
-Before proceeding, we will check if the uploaded file is of the selected type and if it is within the allowed size limit.
-</thinking>
-
 # file_submission_form - Help Guide
 ## Purpose
 The file_submission_form is a simple file upload form designed to collect files from end users. It consists of four fields: selecting the file type, uploading a file, specifying the file size, and naming the file.

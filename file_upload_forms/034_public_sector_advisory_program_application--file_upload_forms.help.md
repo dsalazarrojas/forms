@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_sector_advisory_program_application - Help Guide
 ## Purpose
 This form is designed to collect information from program managers for public sector advisory programs. The purpose of this form is to gather essential details about the program, its experience, and the applicant's availability. By filling out this form, program managers can provide a comprehensive application for consideration.

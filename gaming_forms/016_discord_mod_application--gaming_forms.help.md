@@ -1,9 +1,3 @@
-<thinking>...the form purpose and checks for relevance and non-duplication...>
-
-This form is intended for users to apply to become moderators on a Discord server. The form should only be completed if the user is genuinely interested in becoming a moderator, and not just filling out the form out of curiosity or to cause trouble. To prevent duplication of forms, we will check for user submissions within the past week to ensure that users are not submitting multiple applications within a short timeframe.
-
-</thinking>
-
 # Discord Mod Application - Help Guide
 ## Purpose
 The purpose of this form is to submit an application to become a moderator on our server. Please make sure you are genuinely interested in this role before proceeding.

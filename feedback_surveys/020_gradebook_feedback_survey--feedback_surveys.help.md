@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to collect feedback and survey responses from students and staff about their interactions with teachers. Its purpose is to gather data on the effectiveness of teaching methods, student engagement, and overall satisfaction. This data will help identify areas of improvement and provide feedback that can be used to inform teaching practices and enhance student learning outcomes.
-
-This form will be used for both students and staff to provide feedback, and the questions are structured to collect both qualitative and quantitative data. The questions cover various aspects, including teacher feedback, student feedback, staff feedback, and overall ratings.
-
-The form consists of multiple pages, each containing several questions. The questions are designed to be straightforward and easy to understand. The required fields are marked as such, indicating that the user must provide an answer to proceed.
-
-The form will be completed by both students and staff, and the answers will be used to improve teaching practices and student outcomes.
-
-</thinking>
-
 # Gradebook Feedback Survey - Help Guide
 
 ## Purpose

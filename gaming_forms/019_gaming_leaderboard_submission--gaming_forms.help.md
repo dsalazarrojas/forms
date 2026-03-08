@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect user data for the Gaming Leaderboard, which will display user-submitted information such as user details, leaderboard details, scores, submission date and time, and timezone. This form is designed to be completed by users who want to submit their gaming achievements or statistics to be displayed on the leaderboard. 
-Before proceeding, please ensure that the form is not a duplicate submission, as this will not be accepted. 
-The form will be used to display a list of users who have submitted their scores, and it will be used for leaderboard maintenance and updates.
-</thinking>
-
 # Gaming Leaderboard Submission - Help Guide
 ## Purpose
 The form is used to collect user-submitted information for the Gaming Leaderboard. This includes user details, leaderboard details, scores, submission date and time, and timezone.

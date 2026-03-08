@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organic Order Request - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this Drive Thru BBQ form is to collect notes for an order, a signature of the customer, and a signature of the manager or staff member handling the order. This form ensures the accuracy of the order and verifies the customer's acceptance of the order. The form is designed to be filled out during the drive-thru process, with the goal of streamlining the ordering process and reducing errors... </thinking>
-
 # Drive Thru BBQ Form - Help Guide
 
 ## Purpose

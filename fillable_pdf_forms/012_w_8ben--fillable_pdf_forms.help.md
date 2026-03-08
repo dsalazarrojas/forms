@@ -1,11 +1,3 @@
-<thinking>
-This form, "w-8ben", is designed to capture information related to a foreign account or entity. The primary purpose of this form is to collect details about a foreign account or entity that may be subject to the Withholding Tax requirements of the Internal Revenue Code. This form is often used for tax purposes, specifically for foreign entities that have income from a U.S. source.
-
-Before proceeding, it's essential to check if you've already filled out this form in the past to avoid duplication of effort. If you've previously submitted this form, ensure you're not resubmitting the same information.
-
-This form is part of a larger suite of forms used for tax-related purposes. Please note that the specific requirements and guidelines for this form may vary depending on the context in which it's being used.
-</thinking>
-
 # w-8ben - Help Guide
 ## Purpose
 The "w-8ben" form is designed to collect information about a foreign account or entity that may be subject to Withholding Tax requirements. This includes details about the type of entity, its name, address, and other relevant information.

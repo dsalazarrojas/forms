@@ -1,12 +1,3 @@
-<thinking>
-The Curbside Pickup Menu form is designed to be a quick and convenient way for customers to place orders for curbside pickup from our restaurant. To ensure that customers can accurately complete their orders without confusion, it's essential that they understand how to fill out this form correctly.
-
-By using this form, customers can choose their meal type (Grilled, Baked, or Fried), provide their contact information (Name, Phone Number, Email, and Address), and select a convenient pickup time. The form is intended for customers who prefer to pick up their orders from our restaurant rather than having it delivered.
-
-Before proceeding, let's ensure that you are filling out this form for a valid reason. Please make sure you are not using this form for any other purpose. If you are unsure, please contact our support team for clarification.
-
-</thinking>
-
 # Curbside Pickup Menu - Help Guide
 ## Purpose
 The Curbside Pickup Menu form is designed for customers to place curbside pickup orders from our restaurant. This form is meant for customers who prefer to pick up their orders instead of having it delivered.

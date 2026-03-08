@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from respondents about their point of view on a particular topic. This form is likely used for market research or to gather opinions from a target audience. The form is designed to be completed by individuals who have a personal stake or interest in the topic, and the goal is to capture their thoughts, experiences, and suggestions. This form is not intended for general public use, but rather for specific groups or organizations.
-
-To ensure that this form is being filled out correctly, it's essential to check for redundancy and make sure that each question is answered truthfully and with the best effort possible. This will help in maintaining the quality and integrity of the gathered data.
-
-Before proceeding, please note that the answers will be used to improve or develop new products, services, or strategies. Your input is invaluable, and we appreciate your participation in helping us achieve this goal.
-
-</thinking>
-
 # Point Of View Survey - Help Guide
 ## Purpose
 The Point of View Survey is designed to gather feedback from individuals about their personal experiences, thoughts, and opinions regarding a particular topic. This form aims to collect information to improve or develop new products, services, or strategies.

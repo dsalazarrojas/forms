@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients and individuals to share information and contact details with healthcare professionals. The form aims to provide a platform for people to seek advice or treatment recommendations from health experts. The form will likely be used by healthcare providers to assess and understand patient concerns and provide personalized guidance. To ensure accurate and efficient completion, it is essential to review this form carefully and provide all required information. Please note that this form is not intended for emergency use; if you require urgent medical attention, please contact your local emergency services or a healthcare professional immediately.
-</thinking>
-
 # Health & Fitness Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact and demographic information from individuals who need health and fitness advice or guidance from healthcare professionals. It is meant to be a starting point for healthcare providers to offer personalized advice and support.

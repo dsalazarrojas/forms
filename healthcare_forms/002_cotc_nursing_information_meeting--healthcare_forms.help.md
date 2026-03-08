@@ -1,8 +1,3 @@
-<thinking>
-This form is a part of the Cotc Nursing Information Meeting, used to collect information from nurses and other staff. It is likely used for internal purposes, such as staff registration or meeting attendance tracking. The purpose of this form is to gather necessary data for the meeting, which may include contact information, meeting schedules, and other relevant details. To avoid duplication or errors, it is essential to complete the form accurately and consistently.
-
-</thinking>
-
 # Cotc Nursing Information Meeting - Help Guide
 ## Purpose
 This form is used to collect information from nurses and other staff for the Cotc Nursing Information Meeting.

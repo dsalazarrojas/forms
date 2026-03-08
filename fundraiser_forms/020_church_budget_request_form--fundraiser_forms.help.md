@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from church departments and ministries for budget requests. This form is likely used by church administration to ensure that all budget requests are properly documented and reviewed. The form is likely used to prevent duplication of efforts and to provide a clear understanding of the requested budget items. It is also possible that this form is used to track progress and follow up on outstanding requests.
-</thinking>
-
 # Church Budget Request Form - Help Guide
 ## Purpose
 The Church Budget Request Form is used by church departments and ministries to submit their budget requests to the finance committee. This form is essential for ensuring that all budget requests are properly documented and reviewed.

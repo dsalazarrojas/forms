@@ -1,5 +1,3 @@
-<thinking>Before we start, let's quickly consider the form's purpose and potential issues with duplication or irrelevance. This form, "join_adventuring_party_survey", seems to be designed for players to sign up or register for an adventuring party. The form includes fields for party name, party leader, adventure preferences, party type, and adventure frequency, which suggests it's used for planning or organizing a group activity. Given the presence of date and time fields, it's also possible that this form is for scheduling or coordinating events. To avoid duplication or irrelevance, let's ensure that the instructions are clear and concise, and that the field explanations align with the form's intended purpose.</thinking>
-
 # join_adventuring_party_survey - Help Guide
 ## Purpose
 

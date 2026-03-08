@@ -1,13 +1,3 @@
-<thinking>
-This form was created to collect moment challenge submissions from participants. To ensure you are using this form correctly, please confirm that you have not already submitted your moment challenge submission, as this form is not associated with any form creation platform. 
-
-Please note that this form collects information on user inputs, photos, consent forms, photos, videos, participant details, and names of the participants.
-
-Before proceeding, consider the following questions:
-- Have you read the provided instructions carefully?
-- Do you have any necessary documents or materials prepared for submission?
-</thinking>
-
 # Moment Challenge Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect submissions for a moment challenge. It is designed to gather information from participants, including user inputs, photos, and other relevant details.

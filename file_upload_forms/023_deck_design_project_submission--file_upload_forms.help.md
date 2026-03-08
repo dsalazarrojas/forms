@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for a deck design project submission. It is likely used in an educational or professional setting where students or architects are submitting their deck design projects. The form is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata as inspiration.
-</thinking>
-
 # Deck Design Project Submission - Help Guide
 ## Purpose
 This form is used to collect and submit deck design projects. The form is intended for students or architects to provide project details, files, drawings, and measurements related to their deck design projects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Snow Conditions Report - Help Guide
 
 ## Purpose

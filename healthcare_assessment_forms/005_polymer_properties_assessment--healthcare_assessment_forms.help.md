@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the properties of various types of polymers, such as polypropylene, polyester, and polyamide. The form collects information about the sample ID, sample type, and several physical and chemical properties of the polymer. It's intended for users who need to evaluate or assess the characteristics of polymers in various contexts, possibly for academic, industrial, or research purposes. Please ensure you have the proper understanding and context before completing this form.</thinking>
-
 # Polymer Properties Assessment - Help Guide
 ## Purpose
 This form is designed to collect and document various properties of polymers, including physical and chemical information, for evaluation and assessment purposes.

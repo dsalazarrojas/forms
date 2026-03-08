@@ -1,9 +1,3 @@
-<thinking>
-Pediatric Health Assessment Form is a tool used to collect information from patients or their caregivers about their medical history, contact details, and any emergency contact information. This form is designed to gather essential data for a comprehensive health assessment. 
-Before using this form, please ensure that you have not already created a similar form for the same purpose within your organization. 
-This form's design is inspired by public survey topic metadata and is an original adaptation, not affiliated with, or derived from any form platform.
-</thinking>
-
 # Pediatric Health Assessment Form - Help Guide
 ## Purpose
 The Pediatric Health Assessment Form is a tool used to collect medical and contact information from patients or their caregivers for a comprehensive health assessment.

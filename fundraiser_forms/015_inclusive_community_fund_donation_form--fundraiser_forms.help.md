@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for users to submit donations to the Inclusive Community Fund, a fund that supports community activities and events. It's essential to fill out this form to ensure that the donation is properly recorded and acknowledged by the organization. Please review the form carefully and fill it out accurately to avoid any issues with your donation.
-
-</thinking>
-
 # Inclusive Community Fund Donation Form - Help Guide
 
 ## Purpose

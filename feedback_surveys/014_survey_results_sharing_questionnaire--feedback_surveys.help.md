@@ -1,5 +1,3 @@
-<thinking>...I understand that this is a form designed to capture feedback and survey results for sharing with various groups such as employees, customers, students, and community stakeholders. The form aims to gather information about how to share the findings with them, the frequency of sharing, the timing of sharing, and the medium used for sharing. To ensure that this form is completed accurately and efficiently, it's essential to follow the guidelines below...</thinking>
-
 # Survey Results Sharing Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about sharing survey results with various groups such as employees, customers, students, and community stakeholders. It will help you provide the right information to the right people at the right time.

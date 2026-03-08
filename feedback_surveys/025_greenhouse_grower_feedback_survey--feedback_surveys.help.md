@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from growers on their experience with our greenhouse operations. The goal is to understand what works well and what doesn't, and to gather suggestions for improvement. This form should only be completed by growers who have had experience with our operations.
-</thinking>
-
 # Greenhouse Grower Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from growers on their experience with our greenhouse operations. Your input will help us understand what we do well and what we can improve on.

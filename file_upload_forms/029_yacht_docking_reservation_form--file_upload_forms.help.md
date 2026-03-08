@@ -1,7 +1,3 @@
-<thinking>
-This form is used for making a yacht docking reservation. The user must provide their name, email, phone number, select their marina and boat type, choose a docking date and time, select a departure date and time, and select a slip size. They can also enter a reservation ID, provide additional comments, upload a file, and select the type of file uploaded. The form is designed to be completed by users who want to make a docking reservation at a specific marina.
-</thinking>
-
 # yacht_docking_reservation_form - Help Guide
 ## Purpose
 This form is used to make a yacht docking reservation. It gathers information about the user, their boat, and the docking details.

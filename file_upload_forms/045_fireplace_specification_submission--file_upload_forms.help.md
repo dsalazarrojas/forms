@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect and process fireplace submission data. To ensure the integrity of the submission data, it's essential to understand what each field represents and how it should be completed. Please review the form carefully before proceeding. Note that the submission status can be either "submit" or "save for later". This form will guide you through the necessary steps for a proper submission. If you're unsure about any field, please refer to this help guide.
-
-</thinking>
-
 # Fireplace Specification Submission - Help Guide
 ## Purpose
 The Fireplace Specification Submission form is designed to gather detailed information from users to facilitate efficient fireplaces installation, maintenance, and management. This form helps our team to process and review the submission data accurately.

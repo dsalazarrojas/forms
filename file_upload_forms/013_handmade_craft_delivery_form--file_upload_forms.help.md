@@ -1,14 +1,3 @@
-<thinking>
-This form is for customers to provide their handmade craft delivery information, including customer contact details and order specifics. The form is designed to be completed by customers when they need to arrange delivery of their custom-made products. 
-The form is likely to be used by customers with handmade crafts in the following context:
-- Custom orders: When customers place an order for a custom-made product, they need to provide their delivery details and payment information to finalize the order.
-- Order tracking: Customers may need to update their delivery details or provide comments on the order status.
-- Other uses: Depending on the business context, this form might be used for different purposes such as order updates or delivery confirmations.
-
-To avoid duplication or unnecessary form submissions, please ensure the form is not used for duplicate purposes or for orders that have already been processed.
-
-</thinking>
-
 # Handmade Craft Delivery Form - Help Guide
 
 ## Purpose

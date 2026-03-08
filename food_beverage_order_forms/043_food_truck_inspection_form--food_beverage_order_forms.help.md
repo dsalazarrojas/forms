@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Truck Inspection Form - Help Guide
 
 ## Purpose

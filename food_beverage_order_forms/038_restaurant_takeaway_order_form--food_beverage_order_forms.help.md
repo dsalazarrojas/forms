@@ -1,9 +1,3 @@
-<thinking> 
-- This form is used for taking orders from customers for takeout or delivery from a restaurant.
-- It is used in a restaurant setting and is typically completed by customers when ordering food online.
-- This form is not duplicated, and any confusion will be addressed in the form explanation.
-</thinking>
-
 # restaurant_takeaway_order_form - Help Guide
 ## Purpose
 This form is designed for customers to provide their delivery or takeout order information to the restaurant. It helps the restaurant to understand the customer's order requirements and preferences.

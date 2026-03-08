@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect submissions for the "Molecule Design" category. It's designed to gather information about molecules, including their names, structures, and context. The form also allows users to upload supporting files to provide additional context or reference.
-
-Before completing this form, please ensure that you're submitting a new molecule design and not a duplicate. Re-submissions for the same molecule design will not be accepted.
-
-This form is intended for users who want to submit their molecule designs for review or discussion. If you're looking for a form to create a new molecule design, you can use this form to gather information and materials before creating your design.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public survey topic metadata.
-
-</thinking>
-
 # Molecule Design Submission Form - Help Guide
 ## Purpose
 The Molecule Design Submission Form is a tool for users to submit their molecule designs for review or discussion. It collects information about the molecule, including its name, structure, and context, as well as allows users to upload supporting files.

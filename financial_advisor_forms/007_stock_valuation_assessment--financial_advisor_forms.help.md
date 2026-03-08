@@ -1,11 +1,3 @@
-<thinking> 
-
-To determine the purpose of this form, we need to analyze the fields and their labels. The form appears to be related to financial analysis and valuation of stocks. The fields include various aspects of a stock, such as its name, investment opinion, risk score, and financial metrics like price, market capitalization, and return rate. The form also includes fields related to investment strategies and risk management, such as investment horizon, risk-free rate, and market risk. These fields suggest that the form is used to assess the value and potential of a stock for investment purposes.
-
-To ensure that this form is not a duplication of other forms, we can check if there are similar forms in our system. Assuming that we have checked and there are no similar forms, let's proceed with creating the user-facing help guide for this form.
-
-</thinking>
-
 # Stock Valuation Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the value and potential of a stock for investment purposes. It helps financial analysts and investors evaluate various aspects of a stock, including its name, risk score, financial metrics, and investment strategies.

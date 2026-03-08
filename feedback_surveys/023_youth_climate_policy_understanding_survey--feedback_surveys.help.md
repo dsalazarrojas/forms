@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey aimed at understanding the perspectives and opinions of respondents on climate policy. The form is likely used to collect feedback and suggestions from the general public on climate-related policies. Given the structure of the form, it is possible that the survey is part of a research study or a public engagement initiative to gather data for decision-making.
-</thinking>
-
 # youth_climate_policy_understanding_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions on climate policy from respondents. It is likely intended for research or public engagement purposes.

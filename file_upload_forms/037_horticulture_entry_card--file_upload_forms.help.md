@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for horticulture entries, which could be related to gardening, agriculture, or plant-related activities. The form should not be used for other purposes or for sensitive data that needs to be treated with special care. The fields in this form are meant to be filled out for general horticulture purposes only. Please do not use this form for any other purpose or for data that could be sensitive. 
-</thinking>
-
 # Horticulture Entry Card - Help Guide
 ## Purpose
 This form, Horticulture Entry Card, is designed to collect data related to horticulture entries. It helps gather and store information about various activities, events, or data points related to gardening, agriculture, or plant-based projects. 

@@ -1,20 +1,3 @@
-<thinking> 
-This form seems to be designed for users to apply for roles on a Discord server. The form asks for various pieces of information including how well the user knows the person recommending them, their experience on the server, and their availability for different roles. The form also seems to be designed for users to select multiple roles they are interested in and specify their timezone. 
-
-There seems to be a focus on timezone and role awareness, which might be related to the server's operations or community engagement. 
-
-The form is quite extensive and seems to be asking for a lot of information, but it might be necessary for the server to determine eligibility for certain roles. 
-
-The form is also asking for a free-text "About me" section, which might be used for additional information or context. 
-
-This form might be used by servers with complex role assignments or high expectations for community contributors. 
-
-It's worth noting that some of the fields seem to be redundant or slightly confusing (for example, the 'roles_aware_aware', 'timezone_aware_aware' fields). These might be errors in the form design or fields that were added unnecessarily. 
-
-It would be beneficial for the form designer to review and clean up the form to ensure it is clear and concise for users. 
-
-</thinking>
-
 # Discord Role Application Form - Help Guide
 ## Purpose
 This form is designed to help you apply for roles on a Discord server. It will help the server administrators understand your qualifications and interests, and determine the best fit for you in the server.

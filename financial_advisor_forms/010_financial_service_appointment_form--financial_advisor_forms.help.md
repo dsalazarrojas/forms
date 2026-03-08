@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose, which is to book a financial service appointment. This form should not be used for any other purposes, such as booking a meeting or making a purchase. 
-The form has a clear and concise design, with each field labeled to help users understand what information is being requested. The fields are also optional, which means users can leave any field blank if they don't have the information or don't want to provide it. 
-</thinking>
-
 # Financial Service Appointment Form - Help Guide
 ## Purpose
 The Financial Service Appointment Form is designed to book a financial service appointment with a client. Fill out this form to schedule a meeting with a financial advisor or planner.

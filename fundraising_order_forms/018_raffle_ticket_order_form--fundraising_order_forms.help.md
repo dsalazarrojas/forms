@@ -1,28 +1,3 @@
-<thinking>
-This form appears to be designed for a raffle ticket order form. To verify, I will review the fields and options. 
-
-The fields suggest that this form is used for customers or donors to purchase raffle tickets, provide payment information, and possibly claim a winner. 
-
-Checking the fields and options:
-- `raffle_ticket_order_form_page_1`: This page seems to be an introduction or a confirmation page.
-- `raffleNumber`: likely the raffle ticket number or quantity to be purchased.
-- `donor_name`, `donorEmail`, `donorPhone`: donor or winner information.
-- `raffleTicketPrice`, `raffleQuantity`: likely the price and quantity of the raffle tickets to be purchased.
-- `orderComments`: comments or notes for the order.
-- `paymentMethod`: payment method, possibly "Online Payment" or "Offline Payment".
-- `paymentDetails`: possibly additional payment information.
-- `orderDate` and `orderTime`: timestamps for the order submission.
-- `formSubmission`: confirmation or submission status of the form.
-- `orderStatus`: the status of the order, possibly "Confirmed" or "Unconfirmed".
-- `paymentGateway`: payment gateway, possibly "Stripe" or "PayPal".
-- `paymentStatus`: payment status, possibly "Success" or "Unsuccess".
-- `raffle_ticket_winner`, `winnerEmail`, `winnerPhone`, `winnerComments`, `winnerDetails`: winner information.
-- `drawDate` and `drawTime`: timestamps for the draw or raffle event.
-
-The fields seem to be consistent with a raffle ticket order and winner tracking form. However, some field labels may be weak or unclear. To improve clarity, a brief internal reasoning block is provided below.
-
-</thinking>
-
 # Raffle Ticket Order Form - Help Guide
 ## Purpose
 This form is used for customers or donors to purchase raffle tickets, provide payment information, and claim a winner.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for a meeting submission, likely for a business or professional setting. The form is intended to gather details about a meeting, including its purpose, location, date and time, and any attached files. The purpose of this form is to ensure that all relevant information is collected in a structured and organized manner, facilitating efficient communication and collaboration among team members or stakeholders. Before proceeding, make sure you have all the necessary information and attachments prepared to submit a complete and accurate meeting report. Ensure that each field is filled out correctly, as indicated by its label, and that you have attached any required files. This form is designed to be completed by one person at a time.
-</thinking>
 # Mocion Submission Form - Help Guide
 
 ## Purpose

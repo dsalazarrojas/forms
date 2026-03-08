@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is intended to gather information for food and beverage orders at a festival. The form fields are designed to collect relevant details to facilitate efficient processing and delivery of orders. The purpose of this guide is to provide users with a clear understanding of how to complete the form, ensuring accurate and timely submission of orders.
-
-</thinking>
-
 # Festival Food Order Template - Help Guide
 ## Purpose
 The Festival Food Order Template is used to collect food and beverage orders from festival attendees. This form is essential for processing and delivery of orders efficiently and accurately.

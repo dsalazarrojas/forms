@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be used for customers to order flower seeds, providing their contact information, seed type, quantity, and any special instructions or comments. This form is likely used by a florist or a seed retailer to collect order details from customers. It is a simple form with fields for customer information, seed type, quantity, and optional fields for special instructions and comments.
 
 # Flower Seeds Order Form - Help Guide

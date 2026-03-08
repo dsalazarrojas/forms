@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their vegetable order. The form has four fields: "Customer Info", "Order Details", "Delivery Info", and "Delivery Time". The purpose of this form is to gather essential information from customers about their name, order specifications, delivery address, and desired delivery time. 
-- "Customer Info" is a text field where customers can input their name.
-- "Order Details" is a text field where customers can specify the type and quantity of vegetables they want to order.
-- "Delivery Info" is a text field where customers can provide their delivery address.
-- "Delivery Time" is a time field where customers can select their desired delivery time.
-</thinking>
-
 # Vegetable Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers about their vegetable order, including their name, order specifications, delivery address, and desired delivery time.

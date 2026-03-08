@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information for a Valentine's Day giveaway event. It is designed to gather details from interested participants. The form should only be filled out once per person. If a user has already submitted their information for this form in the past, please do not fill it out again. This form will help us understand your interest and preferences for the upcoming Valentine's Day event... </thinking>
-
 # Valentine Giveaway Form - Help Guide
 ## Purpose
 The Valentine Giveaway Form is designed to collect information for a Valentine's Day event. This form helps us understand your interest and preferences for the event.

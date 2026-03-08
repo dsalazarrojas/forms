@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about a specific event. This feedback will help us understand how the event was experienced by users, what worked well, and what didn't. Please complete this form to provide your honest feedback and help us improve our events in the future.
-
-To ensure that your feedback is valuable, please note that:
-
-* This form is only for providing feedback about the specific event you are being asked to comment on.
-* You may only submit one response per event.
-* Your responses will be reviewed and used to improve our events.
-
-Before starting, please make sure that you have attended the event and are providing feedback about that specific event.
-
-</thinking>
-
 # Event Feedback Survey - Help Guide
 ## Purpose
 The Event Feedback Survey is designed to collect user feedback about a specific event. Your responses will help us understand the event's success and identify areas for improvement.

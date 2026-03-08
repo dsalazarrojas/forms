@@ -1,7 +1,3 @@
-<thinking>
-The "Voiding Diary Form" is used to collect and document information about an individual's experience with voiding events, including the date and time of the last voiding event, frequency of voiding, and volume of voiding. The form is designed to be completed by patients or caregivers, and its purpose is to gather data that can be used to monitor and track the progression of the individual's condition over time. To determine if this form has already been filled out for this individual, please check the patient's medical chart. If the form has already been completed, there is no need to repeat the information. If the form has not been completed, please make sure to fill it out completely and accurately.
-</thinking>
-
 # Voiding Diary Form - Help Guide
 ## Purpose
 The Voiding Diary Form is used to collect and document information about an individual's experience with voiding events.

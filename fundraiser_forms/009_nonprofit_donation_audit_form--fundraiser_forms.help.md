@@ -1,7 +1,3 @@
-<thinking>
-This form is a Nonprofit Donation Audit Form, likely used by a nonprofit organization to collect information from donors about their donations. The form is designed to be completed by donors, and the data collected will be used by the nonprofit to track and manage donations. This form is likely to be used for internal administrative purposes, and the data will not be shared publicly. The form is not a payment form, but rather a way to collect additional information from donors. To avoid duplication, ensure that this form is not submitted multiple times for the same donation.
-</thinking>
-
 # Nonprofit Donation Audit Form - Help Guide
 ## Purpose
 This form is a collection of questions to gather information from donors about their nonprofit donation. It is intended to be completed by donors and will help the nonprofit organization track and manage their donations.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from kitchen users regarding their experience with the kitchen. The form should be used to gather information about their overall satisfaction and areas of improvement. To ensure relevance and non-duplication, we should be checking if the user has already submitted feedback in the last 30 days. This will prevent users from filling out the same form multiple times.
-</thinking>
-
 # Kitchen Collaboration Feedback Form - Help Guide
 ## Purpose
 The Kitchen Collaboration Feedback Form is designed to collect feedback from kitchen users about their experience with the kitchen. This feedback will help us understand areas of improvement and make necessary changes to enhance the kitchen collaboration experience.

@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplicate submissions and ensure accuracy, please verify that you have not already submitted a referral for the same patient. If you are unsure, please consult your internal records or reach out to your team for clarification.
-The Physician Referral Form is used to collect information about patients who require specialized medical care. It is essential to gather relevant details to facilitate effective communication with the referring physician and ensure a smooth transition of care for the patient.
-</thinking>
-
 # Physician Referral Form - Help Guide
 ## Purpose
 The Physician Referral Form is a tool used to collect information about patients who require specialized medical care. It is essential to gather relevant details to facilitate effective communication with the referring physician and ensure a smooth transition of care for the patient.

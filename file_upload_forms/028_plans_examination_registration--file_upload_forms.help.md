@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "PlansExaminationRegistration" form, I'll first analyze the provided YAML fields to understand the form's purpose and structure.
-
-The form is likely used for registering a project's examination plans and related documents. It's designed for users to input project details, attach relevant documents, provide review comments, and specify additional details such as email, phone number, and reviewing team.
-
-The form has two optional fields for email and phone, which suggests that users may be required to provide contact information for some reason. The "Reviewing Team" field is a select_one field, implying that users must choose a team to review the project. The "Assigned Tool" field is a select_multiple field, which may be used to assign multiple tools to the project. The "Output File" field is another optional text field, which may be used to upload a file as an output for the project.
-
-Given this analysis, the form purpose is to collect project details, documents, and contact information for review and project assignment.
-
-</thinking>
-
 # PlansExaminationRegistration - Help Guide
 ## Purpose
 The "PlansExaminationRegistration" form is used to register a project's examination plans and related documents. This form is designed to collect project details, contact information, and other relevant data for review and project assignment.

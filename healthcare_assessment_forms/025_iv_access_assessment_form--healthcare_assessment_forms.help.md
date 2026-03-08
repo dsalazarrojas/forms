@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We should have a clear and concise explanation of the purpose, usage, and fields of the IV Access Assessment Form.
 
 The IV Access Assessment Form is a medical tool used to evaluate the appropriateness and safety of IV access in patients. This form helps healthcare professionals assess the patient's medical history, evaluate the current IV access site, and document the results of their evaluation. It is an essential tool for healthcare providers to ensure that IV access is performed safely and effectively.

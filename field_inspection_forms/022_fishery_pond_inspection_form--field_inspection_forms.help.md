@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the condition of a fishery pond. This form is designed for fishery professionals to record and report on the current state of the pond, including water conditions, temperature, life forms, and other relevant details.
-The form is used for general information gathering and is not specific to a particular type of inspection or action. Therefore, it is suitable for a wide range of users who may be interested in monitoring and recording pond health.
-This form is part of a set of related forms that are used for fishery pond management and inspection. Its content and structure should be reviewed and updated as necessary to ensure consistency with other forms in the suite.
-</thinking>
-
 # Fishery Pond Inspection Form - Help Guide
 ## Purpose
 The Fishery Pond Inspection Form is a tool to help fishery professionals gather information about the condition of a fishery pond. The form can be used to record and report on water conditions, temperature, life forms, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information from users about their performances, which could be used for reporting, analysis, or other business purposes. The form should only be filled out once per performance, to avoid duplication of effort. If a user has already submitted a performance report, they should not fill out this form again. This form is used to collect data on performances, and the data will be used to track and analyze performance metrics. It's essential to fill out this form accurately and completely to ensure that the performance data is reliable and consistent. 
-
-</thinking>
-
 # Performance Submission Form - Help Guide
 ## Purpose
 The Performance Submission Form is designed to collect details about a performance from users, which will be used to track and analyze performance metrics.

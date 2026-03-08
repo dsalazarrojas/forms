@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from end-users about their experience with a service, specifically their feelings of being treated with justice and dignity during the service. 
-The form is intended to help the service provider understand their strengths and weaknesses, and improve the overall experience for future users. 
-Please only fill out this form if you have actually received the service. 
-If you have already filled out this form, do not fill it out again. 
-</thinking>
-
 # Justice And Dignity Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback about your experience with a service, focusing on how you felt about being treated with justice and dignity during the visit.

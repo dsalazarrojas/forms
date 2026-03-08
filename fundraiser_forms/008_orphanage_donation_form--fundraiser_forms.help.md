@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from donors who wish to donate to an orphanage. This form is meant to be used by orphanage administrators to collect contact information from donors, understand their donation preferences, and track donations to the orphanage. It's essential to ensure that the form is filled out accurately and completely to ensure the proper processing of donations. Before filling out this form, please ensure you are filling it out for the correct orphanage and that your donation is legitimate. If you are unsure about any of the information, please contact the orphanage directly.
-
-Please note that the "Other" fields are meant to be used for special cases where the donor has a specific request or requirement that doesn't fit into the standard options. Please use these fields only when necessary.
-</thinking>
-
 # Orphanage Donation Form - Help Guide
 ## Purpose
 The Orphanage Donation Form is designed to collect information from donors who wish to make a donation to an orphanage. This form helps the orphanage administrators to track donations, understand donor preferences, and provide better services to the orphanage.

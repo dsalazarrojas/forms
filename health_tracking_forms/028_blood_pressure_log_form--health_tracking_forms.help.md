@@ -1,5 +1,3 @@
-<thinking> This form is likely for patients or individuals to track and record their blood pressure readings at different times of the day. The form aims to gather comprehensive data to monitor and analyze the patient's blood pressure trends, helping healthcare providers identify patterns and potential health issues early. This data collection process will likely be used to support patient care and treatment planning. I'm assuming that the form is part of a larger health-tracking system, possibly used in medical settings or by healthcare providers. This form might be used in conjunction with other health metrics to provide a more holistic view of the patient's health status. I'll now provide the help guide for the form, based on the given YAML structure. </thinking>
-
 # Blood Pressure Log Form - Help Guide
 ## Purpose
 The Blood Pressure Log Form is designed to collect and record blood pressure readings from patients at various times of the day. This information will be used to help healthcare providers monitor and analyze the patient's blood pressure trends, enabling early detection of potential health issues.

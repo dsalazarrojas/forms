@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect anonymous feedback from employees about their perception of the workplace culture, leadership support, and overall inclusivity. The purpose of this survey is to gather data to identify areas where the organization can improve its inclusivity index. It's crucial that each employee's feedback is genuine and honest. If you have completed this survey before, please skip it to avoid duplication and ensure that your feedback is counted towards the current survey period. 
-</thinking>
-
 # Workplace Inclusivity Index Survey - Help Guide
 ## Purpose
 The Workplace Inclusivity Index Survey aims to assess the current state of diversity, equity, and inclusion in the workplace. This anonymous survey will help us understand your experiences and perceptions of our work environment and provide insights for improvement.

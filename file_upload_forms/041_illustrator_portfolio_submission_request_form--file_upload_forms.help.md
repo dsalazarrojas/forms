@@ -1,5 +1,3 @@
-<thinking>... This form is designed to help Illustrators and designers submit their portfolios for evaluation and review. The form is a simple and efficient way to request a portfolio review. It is not intended for use in situations where sensitive or personal data is being collected. To avoid duplication of effort, please make sure you have not submitted your portfolio recently. If you have any questions or concerns, please contact us at form@gic.mx. ...</thinking>
-
 # Illustrator Portfolio Submission Request Form - Help Guide
 ## Purpose
 This form is designed to help Illustrators and designers submit their portfolios for evaluation and review.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document the discharge information of an inpatient patient, including the patient's name, discharge date, disposition, follow-up provider, follow-up phone number, follow-up date, discharge status, and other relevant details. This form is designed to ensure accurate and thorough documentation of the patient's discharge process.
-Before filling out this form, please verify that there isn't an existing form with the same purpose. This will help prevent duplication of effort and ensure data consistency.
-</thinking>
-
 # Inpatient Care Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of an inpatient patient, ensuring that all relevant details are accurately recorded.

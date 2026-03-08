@@ -1,5 +1,3 @@
-<thinking>Internal Note: The Visitation Attestation Form is used to collect information about visits made to facilities, including the first name, last name, and contact details of visitors. This form is primarily designed to track and confirm the purpose and details of these visits. The goal of this form is to provide an efficient and straightforward way to gather essential information for administrative and reporting needs. It's essential to complete this form accurately, as it serves as a record of visitations made to the facility. Please ensure you only submit one form per visit to avoid duplication and maintain an accurate record.</thinking>
-
 # Visitation Attestation Form - Help Guide
 ## Purpose
 This form is for collecting information about visits made to facilities, including details about the visitor and visit details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expansion Pack Release Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information on an individual's dietary habits, including their frequency of eating certain types of food, food allergies, time spent on food preparation, and frequency of eating out. The form is intended to be completed by an individual who is tracking their eating habits. The purpose of this form is to collect data on the frequency of consumption of different types of food, which can be used to identify patterns and provide insights on individual's eating habits.
-
-</thinking>
-
 # Dietary Habits And Frequency Survey - Help Guide
 ## Purpose
 This form is designed to collect information on an individual's dietary habits, including frequency of eating certain types of food, food allergies, time spent on food preparation, and frequency of eating out.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration purposes only and does not affect the actual sale outcome. It should only be used to gather data about the customers' orders for internal analysis and tracking. Please ensure that this form is not used for actual order processing.
-</thinking>
-
 # Soup Sale Registration - Help Guide
 ## Purpose
 The Soup Sale Registration form is used to gather information about customer orders for internal analysis and tracking purposes. It is not intended for actual order processing.

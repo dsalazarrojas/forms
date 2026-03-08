@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for tax preparation purposes. The form is intended for financial advisors to gather data from their clients to better understand their financial situation and prepare their taxes accurately. The form is typically filled out by the client during an initial meeting with the financial advisor. The form data will be used to generate financial reports and recommendations for the client. To avoid duplication, the financial advisor will review the form with the client to ensure all relevant information is included and no fields are left blank.
-
-</thinking>
-
 # Tax Preparation Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for tax preparation purposes, gathering data to generate financial reports and recommendations.

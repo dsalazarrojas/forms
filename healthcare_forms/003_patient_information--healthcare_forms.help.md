@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for healthcare purposes. The form is typically used to gather demographic and medical history data from patients. Non-medical history is not included in the form, so fields like 'medical_history', 'medical_insurance', 'emergency_contact_name', 'emergency_contact_relationship', 'emergency_contact_phone', etc. are considered optional and can be omitted. 
-</thinking>
-
 # Patient Information - Help Guide
 ## Purpose
 This form is used to collect patient information for healthcare purposes. It is used to gather demographic and medical history data from patients.

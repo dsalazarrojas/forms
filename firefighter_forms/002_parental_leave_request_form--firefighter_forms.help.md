@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information necessary for a parental leave request process. It typically serves as an internal tool to gather relevant details, such as employee name, leave dates, reason for leave, and contact details. It may also contain other fields related to departmental approvals and manager comments. The form is likely used for employee benefits, leave tracking, and administrative purposes within the organization.
-</thinking>
-
 # Parental Leave Request Form - Help Guide
 ## Purpose
 

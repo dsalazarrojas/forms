@@ -1,7 +1,3 @@
-<thinking>
-The Investment Performance Disclosure Consent Form is a form used to gather client consent for the sharing of performance data. This form is typically used in a financial advisory context where the client is required to provide explicit consent for the sharing of their investment performance data with third parties. The purpose of this form is to ensure that clients are aware of and agree to the sharing of their data, which can be a sensitive topic. It is essential to have a clear and concise form that guides clients through the process of providing their consent.
-</thinking>
-
 # Investment Performance Disclosure Consent Form - Help Guide
 ## Purpose
 The Investment Performance Disclosure Consent Form is designed to gather client consent for the sharing of investment performance data. This form is typically used in financial advisory contexts to ensure that clients are aware of and agree to the sharing of their investment data.

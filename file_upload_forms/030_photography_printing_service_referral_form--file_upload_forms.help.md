@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture referrals for the photography printing service. Referrals can be from customers, colleagues, or friends who have recommended our services. 
-The goal is to capture the referral information, including the contact details of the person making the referral and the details of the photo to be printed. 
-This form should be used only for valid referrals, and it's essential to check that the referral is not a duplicate before submitting it. Please make sure to fill in all required fields.
-</thinking>
-
 # Photography Printing Service Referral Form - Help Guide
 ## Purpose
 This form is designed to capture referrals for the photography printing service. Referrals can be from customers, colleagues, or friends who have recommended our services.

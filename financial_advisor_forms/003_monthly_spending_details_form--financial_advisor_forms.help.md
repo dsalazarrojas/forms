@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather detailed information about an individual's monthly spending habits, including income, expenses, and financial goals. The form will be used to help individuals track and manage their finances effectively. Before proceeding, ensure that you have reviewed the form's purpose and requirements to avoid duplication of effort or incorrect submission.
-
-Please note that this form will help you in creating a comprehensive picture of your financial situation, which will assist in making informed decisions about your money management. The form is designed to be filled out by individuals who are seeking to gain a deeper understanding of their financial situation.
-
-</thinking>
-
 # monthly_spending_details_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your monthly income, expenses, and savings goals. This information will help you understand your overall financial situation and make informed decisions about your money.

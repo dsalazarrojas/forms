@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Financial Strategy Fellowship Application Form - Help Guide
 ### Purpose
 

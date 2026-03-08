@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about potential conflicts of interest (COI) from individuals who need to disclose them for a particular project or task. The purpose of this form is to ensure transparency and accountability in the decision-making process. This form is typically used in situations where individuals may have personal or professional relationships with entities that could potentially impact the outcome of a project or task. 
-Please fill out this form carefully and accurately, as your honesty is crucial in maintaining the integrity of the project. If you have any questions or concerns, please reach out to the project lead or team for assistance.
-</thinking>
-
 # COI Form - Help Guide
 ## Purpose
 The COI Form is used to collect information about potential conflicts of interest from individuals who need to disclose them for a particular project or task. This form helps ensure transparency and accountability in the decision-making process.

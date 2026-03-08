@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Gym Trainer Evaluation Survey" form. I'll make sure to explain the form's purpose, how to complete it, and what each field means, aiming for clarity, conciseness, and practicality.</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 This guide is intended to help you complete the "Gym Trainer Evaluation Survey" form, which aims to gather feedback about your experience with a gym trainer. Your input will help us improve our services and provide better training sessions in the future.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Short Film Feedback Survey" form to ensure end-users understand its purpose and completion process.
-</thinking>
-
 # Short Film Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals who have watched a short film. The purpose of this form is to gather their thoughts and opinions about the film. This information will be used to improve the content and make it more engaging for future viewers.

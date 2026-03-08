@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and vaccination data for shingles vaccination assessment. This form is intended for healthcare professionals to collect relevant data for patient care and follow-up. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using AI and public metadata. Before using this form, review the provided instructions and guidelines to ensure it meets your specific needs and regulatory requirements.
-</thinking>
-
 # Shingles Vaccination Assessment Form - Help Guide
 ## Purpose
 

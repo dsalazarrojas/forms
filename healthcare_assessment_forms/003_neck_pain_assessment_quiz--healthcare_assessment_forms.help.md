@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the Neck Pain Assessment Quiz form, the first step is to understand the purpose of the form. The form is designed to collect information from patients about their neck pain experiences, symptoms, duration, location, and other relevant factors. This information will be used to identify potential causes of neck pain and develop a treatment plan tailored to the patient's needs. 
-
-The form is divided into different sections, each focused on a specific aspect of neck pain. For instance, the "Neck Pain Symptoms" section asks patients to select multiple symptoms they are experiencing, such as mild, moderate, or severe pain. Similarly, the "Pain Duration" section allows patients to choose how long they have been experiencing pain. The "Pain Location" section provides an option to specify the exact location of the pain. 
-
-By analyzing the fields and their corresponding options, it becomes clear that the form aims to gather detailed information about the patient's symptoms, medical history, and treatment preferences. Therefore, the form is likely used in a clinical or healthcare setting.
-
-</thinking>
-
 # Neck Pain Assessment Quiz - Help Guide
 ## Purpose
 The Neck Pain Assessment Quiz is a form designed to collect information from patients about their neck pain experiences. This information will be used to identify potential causes of neck pain and develop a treatment plan tailored to the patient's needs.

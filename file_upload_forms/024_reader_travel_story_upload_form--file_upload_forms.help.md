@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for readers to upload their travel stories, allowing them to share their experiences with a wider audience. The form includes various fields to collect detailed information about the story, including its title, author, content, location, and ratings. It also includes fields for uploading files and selecting tags. The form is designed to be completed by readers who have a travel story to share, and it's expected that each field will be filled in accordingly.
-
-This form is a self-service tool, and users should be able to upload their stories without assistance. However, if users need help, they can ask for support. To avoid duplication of effort, please do not upload the same story twice.
-
-</thinking>
-
 # Reader Travel Story Upload Form - Help Guide
 ## Purpose
 The Reader Travel Story Upload Form is designed for readers to share their travel stories with a wider audience. The form helps to collect detailed information about the story, including its title, author, content, location, and ratings.

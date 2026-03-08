@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Self Certification Of Vaccination Status - Help Guide
 
 ## Purpose

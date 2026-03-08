@@ -1,9 +1,3 @@
-<thinking>
-  The purpose of this form is to gather information about the mental health of a patient. This form is designed to assess their mood, sleep patterns, and pain locations. It will help healthcare professionals to understand the patient's emotional and physical well-being. 
-  This form is intended to be completed by a patient and can be used by healthcare professionals to make informed decisions about their treatment. 
-  The information gathered from this form will not be used for any other purpose than to aid in patient care.
-</thinking>
-
 # Mental Health Survey - Help Guide
 
 ## Purpose

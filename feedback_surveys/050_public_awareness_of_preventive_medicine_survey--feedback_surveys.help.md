@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather public awareness and feedback on preventive medicine practices. The form aims to collect information on users' medical history, doctor's recommendations, contact information, medical issues, and knowledge of preventive medicine. This information will be used to assess public awareness and identify areas of improvement for preventive medicine education and outreach.
-
-To prevent duplication, please ensure you have not already completed this form. If you are unsure about the purpose or scope of this form, please refer to our internal documentation or contact the relevant authority.
-
-</thinking>
-
 # Public Awareness Of Preventive Medicine Survey - Help Guide
 ## Purpose
 The Public Awareness of Preventive Medicine Survey is a form designed to collect information on public awareness and feedback on preventive medicine practices.

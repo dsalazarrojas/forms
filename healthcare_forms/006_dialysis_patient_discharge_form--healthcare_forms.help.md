@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dialysis_patient_discharge_form - Help Guide
 
 ## Purpose

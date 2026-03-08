@@ -1,4 +1,4 @@
-<figure><thinking>...</thinking></figure>
+<figure></figure>
 
 # Unclaimed Assets Recovery Inquiry Form - Help Guide
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for healthcare professionals to track their shifts, roles, and other relevant information. The purpose of this form is to collect data on their work hours, tasks, and responsibilities. This form may be used by healthcare organizations to monitor staff schedules, allocate resources, and improve efficiency. It's essential to ensure that this form is completed accurately and consistently to maintain the reliability of the data collected.
-</thinking>
-
 # Healthcare Professional Time Tracking - Help Guide
 ## Purpose
 This form is designed to track healthcare professionals' shifts, roles, and other relevant information to support staff scheduling and resource allocation within healthcare organizations.

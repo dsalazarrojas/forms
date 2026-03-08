@@ -1,7 +1,3 @@
-<thinking>
-Is this form part of a larger system for healthcare organizations to assess the severity of dengue fever cases? Should it be used by healthcare professionals only, or is it intended for general public use? Are there any specific guidelines or regulations that need to be followed when filling out this form?
-</thinking>
-
 # Dengue Medical Certificate Form - Help Guide
 ## Purpose
 The Dengue Medical Certificate Form is a tool for healthcare organizations to assess the severity of dengue fever cases. This form is designed to collect relevant information from patients, allowing healthcare professionals to evaluate and manage the condition effectively.

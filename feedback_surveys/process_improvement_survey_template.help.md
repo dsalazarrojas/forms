@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on current processes to identify areas for improvement. The purpose is to collect data on the efficiency, frequency of use, and pain points of the processes, which will help in streamlining and optimizing them. This form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using public survey topic metadata as inspiration. It's released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, provided they give credit. This form will help in making data-driven decisions for process improvement.
-</thinking>
-
 # process_improvement_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on current processes to identify areas for improvement.

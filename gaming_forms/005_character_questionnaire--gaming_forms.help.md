@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'll create a comprehensive user-facing help guide for this character questionnaire form. This guide will break down the purpose of the form, step-by-step instructions on how to complete it, and a field-by-field explanation of each field. I'll also ensure that the explanations are concrete, concise, and practical, taking into account the provided YAML fields.</thinking>
-
 # Character Questionnaire - Help Guide
 ## Purpose
 This Character Questionnaire is designed to collect information about your character in a role-playing game (RPG) or fantasy setting. It will help you create a comprehensive character profile that will help you and your party collaborate on your adventure and make informed decisions about your character's development and interactions.

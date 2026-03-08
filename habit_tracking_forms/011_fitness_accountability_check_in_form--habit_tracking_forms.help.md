@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Accountability Check In Form - Help Guide
 ## Purpose
 This form is designed to help users track their progress in staying fit and healthy. It's meant to be filled out after each workout session, allowing users to provide details about their current workout plan, the days they've worked out, exercises completed, weight used, time spent exercising, and any additional notes they'd like to record. This form aims to provide accountability and encouragement for users to stick to their fitness goals.

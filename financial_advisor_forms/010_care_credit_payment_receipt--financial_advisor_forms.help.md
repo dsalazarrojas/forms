@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a payment receipt related to Care Credit payments. 
-Care Credit is a program that provides reimbursement for certain medical services. 
-This form will help providers capture the necessary information to process and track payments for their services. 
-The form asks for details such as receipt number, date of service, patient information (name, address, phone, and email), payment details (amount financed, down payment, etc.), and other relevant information to process payments.
-
-</thinking>
-
 # Care Credit Payment Receipt - Help Guide
 ## Purpose
 This form is designed to collect all necessary information to process and track payments for medical services rendered under the Care Credit program.

@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to capture a student's personal journal entries, observations, and experiences during a nature study or outdoor educational program. This might include entries on the student's natural environment, notes on specific plants, animals, or phenomena they've encountered, or reflections on their learning process and insights gained. The form is designed to be filled out by students to record and reflect on their individual experiences in a nature-based setting. The form will likely not be used for formal assessments or evaluations, but rather as a tool for students to engage more deeply with their surroundings and develop their observation and critical thinking skills.
-
-This form is not intended to be used for any other purpose than what it was designed for, and users should be aware of its limitations and potential for misinterpretation.
-
-To ensure consistency and accuracy, please review and validate the form's content and functionality before using it in any context.
-
-Please ensure that the form's design and content align with your program's or organization's specific needs and policies.
-
-The form's content and structure have been created based on public metadata and may not cover all possible aspects or nuances of the topic.
-
-Please note that this form is a public domain adaptation and not affiliated with or endorsed by any form platform.
-
-Before sharing or using this form, please review the original form's metadata and credits provided.
-
-The form has been released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it - just give credit.
-
-If you have any further questions or concerns, please don't hesitate to contact me at form@gic.mx.
-</thinking>
-
 # Student Nature Journal Form - Help Guide
 ## Purpose
 The Student Nature Journal Form is designed to capture a student's personal journal entries, observations, and experiences during a nature study or outdoor educational program.

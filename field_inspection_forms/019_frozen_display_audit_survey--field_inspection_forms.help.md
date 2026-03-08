@@ -1,6 +1,3 @@
-<thinking>
-The Frozen Display Audit Survey is a tool used by store managers and inventory control personnel to audit and evaluate the condition of frozen display cases in store shelves. This form helps them gather information about each store's frozen display case, ensuring that they meet the required standards and safety protocols. Before proceeding, ensure you are filling this form for the correct store. If you've already conducted a survey for this store, you can stop here and do not fill the form again.</thinking>
-
 # Frozen Display Audit Survey - Help Guide
 ## Purpose
 The Frozen Display Audit Survey is a tool used by store managers and inventory control personnel to audit and evaluate the condition of frozen display cases in store shelves.

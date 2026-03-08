@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is to help event planners discover and select catering vendors for their events. It collects information about the vendor's business, including their name, contact details, services offered, and operational details. The form is designed to gather essential data for vendor profiles, ensuring that event planners can make informed decisions when selecting vendors for their events.
-Form structure: The form is divided into four sections: Vendor Information, Service Profile, Online Presence, and Operational Details. Each section is designed to collect specific information that helps event planners assess the vendor's suitability for their events.
-Relevance: This form is intended for catering vendors who want to promote their services to event planners. It is not designed for general business information or marketing purposes. 
-</thinking>
-
 # Catering Description And Photo Submission - Help Guide
 
 ## Purpose

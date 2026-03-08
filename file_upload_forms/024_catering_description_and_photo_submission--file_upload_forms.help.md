@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I will create a user-friendly help guide for the "Catering Description and Photo Submission" form. This guide will walk users through the form's purpose, step-by-step instructions on how to complete it, and provide explanations for each field to ensure users understand its meaning and intent.</thinking>
-
 # Catering Description and Photo Submission - Help Guide
 ## Purpose
 This form is designed to collect information about your catering business, including your company name, contact details, services offered, and menu options. The form also requires you to submit up to three photos of your business, which will be used to showcase your work.

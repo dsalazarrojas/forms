@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Shuttle Maintenance Checklist - Help Guide
 ## Purpose
 The Daily Shuttle Maintenance Checklist is a form used to evaluate the status of the vehicle's components and systems. It helps ensure that the vehicle is in good condition and ready for use. This form is typically completed by the vehicle operator or maintenance personnel on a daily basis to track the vehicle's condition and identify potential issues.

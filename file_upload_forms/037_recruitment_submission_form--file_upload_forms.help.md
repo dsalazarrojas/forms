@@ -1,7 +1,3 @@
-<thinking>
-This form is for recruitment submission, which means it's used for candidates to submit their job applications. The form is designed to collect various information from candidates, including their job title, work experience, job type, job status, job category, job tags, job description, and other relevant details. This form is likely used by HR or recruitment teams to collect and manage job submissions from candidates. The form has multiple fields for uploading different types of files, such as resumes, documents, and cover letters. The form also includes fields for collecting contact information of the submitter, including name, email, phone number, and address. The form is probably used in a work-related setting, such as a company's HR department or a job search platform.
-</thinking>
-
 # Recruitment Submission Form - Help Guide
 ## Purpose
 The Recruitment Submission Form is a form designed for candidates to submit their job applications to the company. It is meant to collect all necessary information for the recruitment team to review and process the application.

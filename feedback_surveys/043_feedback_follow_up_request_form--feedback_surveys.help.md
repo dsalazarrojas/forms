@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback follow-up requests from customers or users. These requests can include any questions or concerns that need to be addressed after an initial feedback session or interaction. To ensure that follow-up requests are properly documented and communicated, this form guides the user in providing essential information.
-The form helps in preventing duplication of work and ensuring that follow-ups are assigned to the correct team members or agents who are best equipped to handle them.
-</thinking>
-
 # Feedback Follow Up Request Form - Help Guide
 
 ## Purpose

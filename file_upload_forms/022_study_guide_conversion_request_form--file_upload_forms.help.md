@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help users request study guide conversions from an internal system. The purpose of this form is to gather information from the user about the study guide they need to be converted, such as the title of the study guide, the format they would like it in, and any additional details or notes they'd like to include. 
-
-The form will likely be used by staff members or users who need to request conversions for themselves or others. 
-
-This form is not intended to be used for any other purpose, and users should not submit this form for anything other than requesting a study guide conversion. 
-
-</thinking>
-
 # study_guide_conversion_request_form - Help Guide
 ## Purpose
 This form is used to request the conversion of a study guide from an internal system. Fill out this form with the requested information to submit your request.

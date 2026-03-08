@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to record the user's temperature, and it's meant to be used by health coaches or medical professionals to monitor and track patient progress. It's likely used in a healthcare setting where the goal is to record and report vital signs, such as temperature, at regular intervals. The form is likely not meant to be filled out by patients themselves, as the "User Name" field suggests it's more about recording information about the user, rather than the user filling out the form themselves.
-
-The form should not be used if the user is filling out the form for a non-medical purpose, as it may not ask for the necessary information or follow the appropriate format.
-
-</thinking>
-
 # Temperature Record Form - Help Guide
 ## Purpose
 The Temperature Record Form is used to record a patient's temperature readings for monitoring and tracking progress in a healthcare setting.

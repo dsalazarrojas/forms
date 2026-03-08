@@ -1,10 +1,3 @@
-<thinking>
-The Radiotherapy Virtual Assistant Survey is designed to gather user feedback on the quality of service provided by the Radiotherapy Virtual Assistant. This form is intended to capture users' frequency of use, satisfaction level, and opinions on improvement opportunities for the assistant. The responses will help us refine and enhance the service to better meet the needs and expectations of our users. This guide is to ensure that users complete the form accurately and effectively.
-
-Please note that this is a sample form and actual questions may vary based on the form's purpose and intended use. If you have any questions or concerns, please reach out to us for clarification.
-
-</thinking>
-
 # Radiotherapy Virtual Assistant Survey - Help Guide
 ## Purpose
 The Radiotherapy Virtual Assistant Survey is designed to gather user feedback on the quality of service provided by the Radiotherapy Virtual Assistant. This information will help us improve and refine the assistant to better meet the needs and expectations of our users.

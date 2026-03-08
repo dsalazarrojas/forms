@@ -1,15 +1,3 @@
-<thinking> 
-
-To create a comprehensive help guide for the "Perimenopause Quiz" form, let's consider the following:
-
-- The form is intended to be completed by healthcare professionals or patients who need to assess perimenopause symptoms and related conditions.
-- The form aims to collect data on patients' symptoms, medical history, and personal details.
-- The quiz results and follow-up actions are likely to be used for diagnosis and treatment planning.
-
-Given the form's structure and fields, I will provide a clear and concise help guide that addresses the form's purpose, completion process, and field explanations.
-
-</thinking>
-
 # Perimenopause Quiz - Help Guide
 ## Purpose
 The Perimenopause Quiz is a form designed to help healthcare professionals and patients assess and identify perimenopause symptoms and related conditions. It gathers relevant information on patients' medical history, symptoms, and personal details to aid in diagnosis and treatment planning.

@@ -1,7 +1,3 @@
-<thinking>
-Dermal fillers are commonly used in cosmetic and dermatological procedures to restore or enhance facial features. This form is designed to record and document the treatment process for dermal fillers, including the date of treatment, injection sites, number of injections, number of dermal fillers, number of treatment sessions, and any additional notes from the practitioner. Please ensure that this form is filled out for every dermal filler treatment, as it will aid in the monitoring and management of patient treatment records.
-</thinking>
-
 # Dermal Filler Treatment Record Form - Help Guide
 ## Purpose
 This form is used to document and track dermal filler treatments for patients.

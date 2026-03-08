@@ -1,9 +1,3 @@
-<thinking> 
-To be honest, the main purpose of this form is to gather feedback about meetings, specifically about the toolbox meeting. This could be related to various aspects like safety concerns, safety leaders, and improvement areas, which are all important topics within the context of the toolbox meeting. This form should be completed by meeting attendees to provide their input and suggestions for future meetings. 
-
-Please consider whether this form already exists elsewhere (e.g., in other meetings) and if it's worth creating a similar form for this specific type of meeting. Also, consider whether any of the fields could be replaced with or integrated with existing data sources to avoid duplicating efforts.
-</thinking> 
-
 # Toolbox Meeting Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback about the toolbox meeting from attendees. This feedback will help the meeting organizers and safety leaders to identify areas of improvement and make informed decisions for future meetings.

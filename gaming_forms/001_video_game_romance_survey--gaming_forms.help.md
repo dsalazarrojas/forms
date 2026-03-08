@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form that is used to collect information about video game romances. This form is likely used for a community of gamers who are interested in discussing and rating video game romances. The form may be used to gather information about the types of romances that players are interested in, how often they engage with them, and their favorite romance options.
-
-To avoid duplication, let's ensure that this form doesn't collect redundant or redundant information. We should also consider the types of users who will be using this form and design it in a way that is easy to understand and fill out.
-
-Before creating the help guide, let's consider the following:
-
-* Are there any specific fields that we can remove or merge to reduce duplication?
-* Are there any fields that are not clearly labeled or require further explanation?
-* Are there any specific instructions or tips that we should include in the help guide?
-
-</thinking>
-
 # Video Game Romance Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your favorite video game romances. Please fill out this form to share your thoughts and opinions about video game romances and help us improve our community.

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is intended to evaluate the knowledge of individuals about cardiovascular health, particularly healthcare professionals, patients, or the general public. It is likely to be used in a healthcare setting to assess knowledge gaps, identify areas of interest, or provide educational materials on heart health topics. This form should not be used to diagnose or treat any medical conditions.
-
-</thinking>
-
 # Cardiovascular Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the cardiovascular knowledge of individuals, helping healthcare providers identify knowledge gaps and areas for further education. This assessment is a tool to gauge one's understanding of various heart health topics, including risk factors, symptoms, and treatments.

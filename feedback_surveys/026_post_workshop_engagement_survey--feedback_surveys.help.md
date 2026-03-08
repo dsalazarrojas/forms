@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Workshop Engagement Survey - Help Guide
 
 ## Purpose

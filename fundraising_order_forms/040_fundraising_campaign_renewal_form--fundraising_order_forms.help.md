@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fundraising Campaign Renewal Form", we need to consider the purpose of the form and the fields it contains. The form is intended to renew a fundraising campaign, which implies that it's a follow-up process to previous campaign activities. The form requires specific information about the campaign, contact details, and payment methods. 
-
-We should also review the fields for potential redundancy or inconsistencies. For example, the `contact_email` field appears twice, which might indicate a need to remove or merge these fields to avoid confusion. 
-
-Upon reviewing the form, I'll focus on providing a clear and concise help guide for end-users, addressing the purpose, completion process, and explanations for each field.
-
-</thinking>
-
 # Fundraising Campaign Renewal Form - Help Guide
 
 ## Purpose

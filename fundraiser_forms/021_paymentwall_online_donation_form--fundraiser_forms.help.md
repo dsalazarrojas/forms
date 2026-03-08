@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to make online donations to the Paymentwall platform. It is not intended for general contact or inquiry purposes. If you're looking for information about a specific product or service, please contact us at [insert contact email]. 
-</thinking>
-
 # Paymentwall Online Donation Form - Help Guide
 ## Purpose
 The Paymentwall Online Donation Form is designed to allow users to make donations to the Paymentwall platform. This form is not meant for general inquiries or contact, so please do not use it for those purposes.

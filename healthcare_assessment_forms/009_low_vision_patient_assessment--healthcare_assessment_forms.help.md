@@ -1,12 +1,3 @@
-<thinking>
-This low vision patient assessment form is designed to gather information on a patient's vision health and any relevant medical history. The form is used to determine the severity and type of vision impairments a patient may have. This form is often used in healthcare settings to help healthcare providers assess and treat patients with vision-related issues. To ensure that each patient's data is accurate and up-to-date, please complete this form carefully and thoroughly.
-
-Before starting, ensure that you have all the necessary information and documents ready, such as medical records and contact details.
-
-This guide is designed to be completed by the patient or a healthcare provider on their behalf. Please note that some fields are optional, and you can skip those that do not apply to you.
-
-</thinking>
-
 # Low Vision Patient Assessment - Help Guide
 ## Purpose
 The Low Vision Patient Assessment form is designed to collect information on a patient's vision health and medical history.

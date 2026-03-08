@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to upload assessment results and performance evaluations for employees or trainees. This form is designed to collect specific information related to assessments, including the evaluator's name, the employee/trainee's name and ID number, the title or code of the assessment, the date of evaluation, a brief summary of the results, and ratings for work ethics and overall performance. 
-
-This form aims to facilitate the efficient collection and recording of assessment data, making it easier to track and manage performance evaluations for employees or trainees.
-
-To prevent duplication, the form is designed to be completed only once per assessment. Please ensure that the uploaded files accurately reflect the assessment results and are clearly named with the employee ID.
-
-</thinking>
-
 # Assessment Upload Form - Help Guide
 ## Purpose
 The Assessment Upload Form is designed to collect and record assessment data for employees or trainees. This form should be completed once per assessment, ensuring accurate and efficient data management.

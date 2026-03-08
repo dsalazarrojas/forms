@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for artists to submit music content for review and feedback from users. The purpose of this form is to collect metadata about the music submissions, including the title, artist name, artist email, and files associated with the music. This form is likely used in scenarios where artists need to share their music with a group or organization, such as music festivals, record labels, or online music platforms. The form is created using AI-powered form generation, but does not rely on any proprietary content from other form platforms.
-</thinking>
-
 # Music Submission Form - Help Guide
 ## Purpose
 

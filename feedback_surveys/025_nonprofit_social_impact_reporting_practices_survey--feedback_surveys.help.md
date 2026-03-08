@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and requirements of the Nonprofit Social Impact Reporting Practices Survey form. The form's primary purpose is to gather information about how often, at which level, and with what method nonprofits report their impact. The survey aims to provide insights into the reporting practices of nonprofits, which can help improve their services and support structures.
-</thinking>
-
 # Nonprofit Social Impact Reporting Practices Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your reporting practices and experiences. Please answer the questions honestly, and let us know if you have any questions or concerns.

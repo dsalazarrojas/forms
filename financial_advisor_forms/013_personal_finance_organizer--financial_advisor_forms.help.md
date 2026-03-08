@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help users track their personal finance by organizing their income, expenses, and savings goals. The form asks for information about monthly income and expenses, savings targets, and other relevant details. This form will likely be used by individuals who want to get a clear picture of their financial situation and set achievable savings goals.
-
-The form will not be used for financial planning or investment advice, and the data collected will not be used for any commercial purpose.
-
-The form fields will be populated by users and will likely be used to create a dashboard or report to track progress towards savings goals.
-
-The form will be used in a secure environment, and data will be stored in compliance with relevant data protection regulations.
-
-The form will be completed by one user at a time.
-
-The form will be used to collect data for internal use only.
-
-</thinking>
-
 # Personal Finance Organizer - Help Guide
 ## Purpose
 This form is designed to help users track their personal finance by organizing their income, expenses, and savings goals.

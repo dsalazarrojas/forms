@@ -1,6 +1,4 @@
-> <thinking>As a form designer and technical writer, I must consider the context and purpose of the Daily Subconscious Tracker Form. Upon analyzing the provided YAML, I infer that this form is designed to collect users' daily experiences, habits, and thoughts, likely for personal development, mental health, or wellness tracking purposes. The form is intended to be filled out daily, with each field representing a distinct aspect of a user's daily life. I will ensure that my explanation accurately represents the form's intent and functionality without introducing new information that might confuse or mislead users.</thinking>
-
-# Daily Subconscious Tracker Form - Help Guide
+> # Daily Subconscious Tracker Form - Help Guide
 ## Purpose
 The Daily Subconscious Tracker Form is a tool designed to help users monitor and analyze their daily thoughts, habits, and experiences. It is meant to be filled out daily, providing a comprehensive snapshot of an individual's mental and physical state.
 

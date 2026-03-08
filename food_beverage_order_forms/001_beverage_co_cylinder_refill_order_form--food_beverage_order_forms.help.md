@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage CO₂ Cylinder Refill Order Form - Help Guide
 
 ## Purpose

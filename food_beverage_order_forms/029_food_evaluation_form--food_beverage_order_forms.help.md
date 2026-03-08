@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block to check form purpose and fields for duplication or non-relevance ...
-</thinking>
-
 # Food Evaluation Form - Help Guide
 
 ## Purpose

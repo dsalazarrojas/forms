@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose and relevance of the "policy_improvement_feedback_survey" form, we'll analyze its fields. The form is likely used to collect feedback from end-users about policy improvements. It includes a note section for an introduction, multiple-choice fields for selecting policy areas, a rating system for assessing the policy's effectiveness, text fields for providing feedback and suggested improvements, and another text field for additional feedback.
-
-This form is likely used within an organization to gather end-user insights on policy changes, ensuring that the policies are effective and well-suited for the organization's needs. It helps to identify areas that require improvement, providing a foundation for data-driven policy adjustments.
-
-Before filling out this form, please ensure that you have not already provided feedback on the same policy. Duplicate feedback will not be considered in the data analysis.
-
-Please note that some fields are optional, and the required fields are marked as such. If a field is marked as "required", it is essential to fill it out to ensure that your feedback is accurately represented in the analysis.
-</thinking>
-
 # policy_improvement_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from end-users about policy improvements within an organization.

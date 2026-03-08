@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that our certification exams are accurately and fairly administered to all test-takers. The purpose of this form is to capture information about each exam-taker, including their identity, contact information, and exam-taking environment, as well as questions related to their certification program. It is essential to understand that the questions on the form are designed to assess a test-taker's knowledge and skills in various areas relevant to the certification program. The form is not intended to be taken in a group setting, and it is required for each exam-taker to confirm that they are taking the exam independently.
-
-Before proceeding, please ensure that you have a clear understanding of the questions and answers on the form and that you have taken the exam in a quiet, comfortable environment. If you require any special accommodations or have any concerns, please let us know in the "Testing Accommodations" field.
-
-Please fill out the form carefully and accurately, as it will be used to evaluate your certification status. If you have any issues or concerns, please contact us for assistance.
-</thinking>
-
 # Certification Exam - Help Guide
 ## Purpose
 The purpose of this form is to collect information from exam-takers for the certification program. This information includes personal details, exam-taking environment, and answers to questions related to the certification program.

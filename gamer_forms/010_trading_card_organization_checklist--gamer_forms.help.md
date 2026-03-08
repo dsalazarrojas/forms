@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to help users organize and track their trading card collections. The form allows users to evaluate the condition of their cards, how they are stored, and any notes or comments related to the cards. This form is designed to be a comprehensive checklist for users to assess their collection and ensure that it is properly organized and cared for.
-
-Before completing this form, users should first ensure that they have a clear understanding of the condition of their cards and how they are stored. They should also be prepared to provide any relevant notes or comments about each card.
-
-</thinking>
-
 # Trading Card Organization Checklist - Help Guide
 ## Purpose
 The Trading Card Organization Checklist is a comprehensive form used to evaluate and track the condition and storage of your trading card collection.

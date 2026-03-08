@@ -1,5 +1,3 @@
-<thinking>As a neutral AI, I will provide a detailed help guide for the "Vegan Cheese Supply Order Form" based on the provided YAML structure. The form seems to be designed for ordering vegan cheese supply from a supplier, and it captures various details about the order, supplier, customer, and delivery. Before I proceed, let me clarify that I will focus on explaining each field's purpose without assuming any proprietary business logic or internal reasoning. I will use the YAML structure as guidance to create a comprehensive help guide that covers the form's purpose, completion instructions, and field-by-field explanation.</thinking>
-
 # Vegan Cheese Supply Order Form - Help Guide
 ## Purpose
 The "Vegan Cheese Supply Order Form" is designed to help suppliers receive orders from customers for vegan cheese products. The form collects information about the order details, supplier's information, product selection, delivery details, customer's information, and payment details.

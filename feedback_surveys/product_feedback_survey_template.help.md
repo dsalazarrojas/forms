@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather product feedback from users, aiming to identify areas for improvement and assess overall satisfaction. The form will help us understand customer opinions on the product's features, usability, and overall experience. Please note that this form is a template and may not be a direct representation of any existing or actual form used by the company. The form is intended to be a starting point for feedback collection and should be reviewed and validated by the company before being used in any official capacity.
-</thinking>
-
 # product_feedback_survey_template - Help Guide
 ## Purpose
 This form is designed to gather product feedback from users, aiming to identify areas for improvement and assess overall satisfaction.

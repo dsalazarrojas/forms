@@ -1,16 +1,3 @@
-<thinking>
-This form is a template for placing orders for pandesal, a type of salt bread. To confirm the form's purpose, we have to consider the form's fields and the type of product it's related to. Based on the fields provided, it appears this form is used to collect information about the type of bread, quantity, and other details related to a pandesal order. The form does not seem to be for duplicate or unnecessary, as it's focused on collecting specific and relevant information for the purpose of placing an order.
-
-Form Purpose: This form is used to collect information about pandesal orders, specifically the type of bread, quantity, and other details related to the order.
-
-Form Type: A template for creating pandesal orders.
-
-Key Features: This form is suitable for bakeries or businesses that sell pandesal and need a simple and easy-to-use form for customers to place orders.
-
-Target Audience: Customers, bakers, or businesses that sell pandesal.
-
-</thinking>
-
 # Pandesal Order Form Template - Help Guide
 ## Purpose
 The Pandesal Order Form Template is a user-friendly tool for customers to place orders for pandesal with a bakery or business. The form is designed to collect necessary information to process the order efficiently.

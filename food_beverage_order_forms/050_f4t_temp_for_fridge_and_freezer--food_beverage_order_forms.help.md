@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for the management and tracking of food and beverage orders. The main fields include the temperature of the fridge and freezer, order and delivery dates and times, customer information, order status, and other relevant details. The form is likely used in a food and beverage management context where the goal is to efficiently manage and track orders from customers.
-</thinking>
-
 # f4t_temp_for_fridge_and_freezer - Help Guide
 ## Purpose
 This form is used to manage and track food and beverage orders, including temperature readings from the fridge and freezer, order and delivery information, and customer details.

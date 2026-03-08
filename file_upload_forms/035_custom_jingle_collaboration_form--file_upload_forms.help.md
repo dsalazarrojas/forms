@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate collaboration on custom jingles between clients and collaborators. It is used to gather information about the project, the client, and the collaboration process. Before filling out this form, ensure that you have all necessary information and approvals in place. This form should not be used for duplicate or unrelated projects.
-</thinking>
-
 # Custom Jingle Collaboration Form - Help Guide
 ## Purpose
 The Custom Jingle Collaboration Form is a tool used to collect information about custom jingle projects, including project details, client information, and collaboration settings.

@@ -1,8 +1,3 @@
-<thinking>
-The "Mpox Quiz" form is designed to help individuals assess their risk of monkeypox virus transmission based on their symptoms and exposure history. This form is intended for use in healthcare settings to gather information about the user's symptoms, exposure history, and potential risk factors. The form is not meant to diagnose or treat monkeypox, but rather to provide a quick and easy way for healthcare professionals to gather information and identify potential cases.
-Before filling out the form, please ensure that you are not already a known case or have recently traveled to areas with high monkeypox transmission. Completing the form will help healthcare professionals understand your situation better and provide guidance on the next steps.
-</thinking>
-
 # Mpox Quiz - Help Guide
 
 ## Purpose

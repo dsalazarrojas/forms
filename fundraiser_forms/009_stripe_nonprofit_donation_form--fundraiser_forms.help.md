@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donor information and donation details for a nonprofit campaign. It's intended for fundraising efforts, and the data collected will be used to track and manage donations. The form fields are meant to be filled out by donors, allowing them to provide their details and choose a donation amount, frequency, and any other custom information required for the campaign.
-</thinking>
-
 # Stripe Nonprofit Donation Form - Help Guide
 ## Purpose
 The Stripe Nonprofit Donation Form is designed to collect donor information and donation details for a nonprofit campaign.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: The purpose of this form is to collect user input for a weekly lunch order. The form allows users to input their name, email, order preferences for specific days, the type of food they want (yes/no), the quantity of food, any additional notes, and who it is assigned to and which tool is used for the order. This form is likely used for internal purposes within an organization, and the fields are designed to accommodate the specific needs of the users.
-
-</thinking>
 # Weekly Lunch Order Form - Help Guide
 ## Purpose
 The Weekly Lunch Order Form is used to submit your weekly lunch order preferences. Please fill out this form to let us know what you'd like to order for the week.

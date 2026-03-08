@@ -1,9 +1,3 @@
-<thinking>
-The form "Showcase Your Success" is designed to collect feedback and testimonials from users about their success stories, experiences, and achievements in the "Feedback Surveys" category. This form is meant to gather information about individuals or organizations that have achieved notable success in their respective fields, and to provide a platform for them to share their stories, recognition, and achievements with a broader audience.
-The form is intended to be used for users to showcase their success stories and experiences in a specific industry or category, providing a way to share their achievements and recognition received from others.
-It's essential to ensure that the information collected through this form is authentic and accurate, as it will be used to display on a public platform.
-</thinking>
-
 # Showcase Your Success - Help Guide
 ## Purpose
 The "Showcase Your Success" form is designed to collect and showcase success stories, experiences, and achievements from individuals or organizations in a specific industry or category.

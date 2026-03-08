@@ -1,23 +1,6 @@
 <figure>
 </figure>
 
-<thinking>
-The Running Log Form is designed to track an individual's running activities, including details of their first run, workout date, distance, pace, duration, calories burned, and various other metrics. This form aims to help users maintain a structured log of their runs, which can be used to monitor progress and identify trends over time.
-
-To complete this form, users should fill out the required and optional fields as follows:
-
-*   Ensure that all fields are filled out, unless a field is specifically marked as optional.
-*   Enter details of your first run, including date and location.
-*   Provide information about your most recent workout date.
-*   Record the distance of your runs, including the longest and shortest distances covered.
-*   Enter your age and height to track your progress in relation to these biometric factors.
-*   Note the average distance and number of runs you complete each day.
-*   Connect your account to apps like MyFitnessPal or Fitbit to sync your data and track your runs in those platforms.
-*   Decide whether to connect your account with apps or not.
-*   Enter your phone number to allow for further contact.
-*   Enter your name, age, height, weight, and country of residence.
-</thinking>
-
 # Running Log Form - Help Guide
 ## Purpose
 The Running Log Form is designed to track an individual's running activities, including details of their first run, workout date, distance, pace, duration, calories burned, and various other metrics.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you complete the Devotional Book Feedback Survey form, which is designed to collect user feedback and suggestions on a devotional book. It's essential to provide constructive feedback to help authors and publishers improve future books and ensure that readers' opinions are heard. Please fill out this form only if you have a genuine interest in the book and its content. To avoid duplicate submissions, please do not fill out this form if you have already provided feedback on this book through other channels.
-</thinking>
-
 # Devotional Book Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and suggestions on a devotional book. Your input will help authors and publishers understand what works and what doesn't, allowing them to create better content for their readers.

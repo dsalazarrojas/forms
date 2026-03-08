@@ -1,11 +1,3 @@
-<thinking>
-This form is used for submitting and publishing mobile apps. The purpose of this form is to gather necessary information from developers to review and verify the app before publishing it on various app stores. This form is not intended for duplicate submissions, so please make sure to fill it out only once for each new app.
-
-When completing this form, you will be asked for information about the app, including its submission date, developer details, and app metadata. Make sure to fill out all required fields accurately and thoroughly. The form is divided into several sections, each with a specific set of fields to fill out.
-
-Please note that some fields are required and must be filled out, while others are optional and can be left blank if not applicable.
-</thinking>
-
 # App Creation And Submission Form - Help Guide
 ## Purpose
 This form is used for submitting and publishing mobile apps.

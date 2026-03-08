@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Screen Addiction Survey - Help Guide
 ## Purpose
 This form is designed to assess an individual's level of addiction to various screens (phone, computer, social media, email, etc.). The survey consists of questions that gauge the frequency and frequency of usage of different screens, as well as a score that calculates a total addiction level.

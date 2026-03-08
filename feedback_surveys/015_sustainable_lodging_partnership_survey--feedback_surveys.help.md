@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from partners about their interests and sustainability practices. To ensure that we only collect valid and non-duplicated data, we will check for duplicate responses and only accept responses from partners who have not already participated in this survey. Please note that all fields are optional, and users can skip fields if they are not relevant to their situation.
-</thinking>
-
 # Sustainable Lodging Partnership Survey - Help Guide
 ## Purpose
 This form is intended for partners to share their information and interests with us to help us better understand their needs and potential opportunities for collaboration.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Investment Research Log Form is to record and document investment research activity. This form is intended to provide a structured format for collecting and storing information about investment opportunities, status, and associated details. To ensure accuracy and consistency, please ensure that the form is filled out in accordance with the provided guidance.
-</thinking>
-
 # Investment Research Log Form - Help Guide
 ## Purpose
 The Investment Research Log Form is a tool designed to record and document investment research activity in a standardized way. This form helps to provide a clear and consistent structure for collecting and storing information about investment opportunities, status, and associated details.

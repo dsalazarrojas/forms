@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their dining experience at the restaurant. The form will help us understand customer preferences and preferences, such as their interest in vegetarian options, visit frequency, and contact information. This form will also collect data on customer contact information, promotional email preferences, menu ratings, phone numbers, food allergies, and food taste ratings. The form is intended to be a quick and easy way for customers to provide feedback without overwhelming them with too many questions. It will help us identify areas of improvement and make informed decisions about our menu and services.
-</thinking>
-
 # Menu Options Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their dining experience at our restaurant. Your input will help us improve our menu options, services, and overall customer experience.

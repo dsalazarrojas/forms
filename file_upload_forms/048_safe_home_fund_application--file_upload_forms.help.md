@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from users to determine the eligibility and suitability of their home for a safe home program. The form is designed to gather details about the user's home safety, their contact and follow-up information, and any relevant notes. It is intended to be used by a nonprofit organization, community program, or government agency. The form is not meant to be a comprehensive or exhaustive assessment, but rather a starting point for further evaluation and support. This form is not affiliated with or endorsed by any specific form creation platform, and it is an original adaptation created using public survey metadata.
-</thinking>
-
 # Safe Home Fund Application - Help Guide
 
 ## Purpose

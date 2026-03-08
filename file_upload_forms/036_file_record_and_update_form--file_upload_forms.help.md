@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to record and update files, allowing users to provide details such as file name, description, URL, and other relevant information for tracking and management purposes. The form requires the user to provide accurate and complete information for each field to ensure that the file record is up-to-date and reliable. Before proceeding, please ensure that you have all the required information available and that you have filled in the form correctly to avoid any duplication of records.</thinking>
-
 # File Record And Update Form - Help Guide
 ## Purpose
 The "File Record And Update Form" is designed to capture information related to files, enabling accurate tracking and management of these files. This form is used to update existing files or create new ones, ensuring that all relevant details are recorded.

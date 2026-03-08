@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from end-users about their experience with calendar integrations. It's meant to help improve the performance, features, and overall user satisfaction. The form is structured to gather information about the frequency and duration of use, ease of use, reliability, and overall satisfaction.
-</thinking>
-
 # Calendar Integration Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from end-users about their experience with calendar integrations.

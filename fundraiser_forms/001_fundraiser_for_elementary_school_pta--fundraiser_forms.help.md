@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to create a fundraising campaign for an Elementary School PTA event. It allows users to provide details about the event, such as its name, date, location, and goal amount. The form also asks for contact information, including email, phone number, and website, which will be associated with the event. This form is intended to help the PTA organize and promote their fundraising event, and gather relevant details for further processing and follow-up.
-To ensure the form is filled out correctly, please review the following guidelines:
-</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for users to provide feedback on the operating system. The form should be filled out by users who are currently using the operating system and want to provide feedback on their experience. Before filling out the form, please make sure you have not already submitted feedback on the same topic.
 
 To complete this form, follow these steps:

@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "public_awareness_of_sustainable_tourism_survey" form. This form is designed to gather information about users' awareness and knowledge of sustainable tourism. The form has 25 questions, including multiple-choice questions, text-based questions, and selects. The goal is to gauge users' opinions, knowledge, and experiences related to sustainable tourism.
-
-To ensure that the form is completed accurately and effectively, we will guide users through the purpose and usage of each question in the following help guide. This will help prevent misunderstandings and ensure that the form is filled out as intended.
-
-Before proceeding, please review the form's purpose and content carefully to ensure it's relevant to your role and needs.
-
-</thinking>
-
 # public_awareness_of_sustainable_tourism_survey - Help Guide
 
 ## Purpose

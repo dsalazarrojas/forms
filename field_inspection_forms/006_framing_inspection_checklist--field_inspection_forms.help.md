@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's ensure the form purpose and relevance are understood. This "Framing Inspection Checklist" form appears to be a collection of questions related to the inspection of framed structures, possibly for quality control or assurance purposes. It's essential to verify that the form is not a duplicate of another form and that it's indeed the correct tool for its intended use. Let's assume the form is relevant and not a duplicate for the sake of this exercise.</thinking>
-
 # Framing Inspection Checklist - Help Guide
 
 ## Purpose

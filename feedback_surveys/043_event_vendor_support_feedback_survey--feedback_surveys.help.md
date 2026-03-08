@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from event planners and vendors regarding their experiences with event support. The purpose of this form is to collect data on whether event planners received support from vendors, whether they were satisfied with the support, and to gather suggestions for improvement. 
-</thinking>
-
 # Event Vendor Support Feedback Survey - Help Guide
 
 ## Purpose

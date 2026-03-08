@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather feedback from students who have completed the Hy Flex course, which is likely a type of online course or educational program. The purpose of this survey is to collect information on what students liked and disliked about the course, what they learned, and how they evaluate the course overall. To ensure that feedback is valid and actionable, it's essential to complete this form thoroughly and accurately.
-</thinking>
-
 # Hy Flex Learning Feedback Survey - Help Guide
 ## Purpose
 

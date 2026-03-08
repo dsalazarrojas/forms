@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to register as naval guards. The registration process is a one-time process that verifies an individual's identity and confirms their affiliation with the naval guard. This form will not be used for any other purpose than verification of identity and affiliation. If you have already registered as a naval guard, please do not submit this form again. The form is designed to be completed quickly and accurately, and all fields are optional except where marked as required.
-</thinking>
-
 # Naval Guard Registration Form - Help Guide
 
 ## Purpose

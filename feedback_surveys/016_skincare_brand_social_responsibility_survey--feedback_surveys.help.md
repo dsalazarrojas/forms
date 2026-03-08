@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on the social responsibility of the skincare brand. The purpose of this form is to understand how the brand's social responsibility initiatives are perceived by customers. The form will ask questions related to awareness, prioritization, values, and feedback to gather a comprehensive view of the brand's social responsibility. The form is not meant to be a comprehensive survey but rather a starting point for the brand to understand their social responsibility.
-</thinking>
-
 # Skincare Brand Social Responsibility Survey - Help Guide
 ## Purpose
 This form is designed to gather information on the skincare brand's social responsibility. The goal is to help the brand understand how customers perceive their social responsibility efforts.

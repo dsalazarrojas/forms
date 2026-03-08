@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect feedback from users about their experience with Metalectri, a tool that likely provides some sort of services or solutions to its users. The form's purpose is to gather information on how users perceive the quality of these services, whether they have suggestions for improvement, and whether they would like to be contacted for further discussion or to share their contact information. This form is optional, meaning users are not required to fill it out, but filling it out will help Metalectri's team understand the user's needs and preferences.
-The form is likely to be used by Metalectri's internal teams, such as customer support, product development, and management, to analyze and act upon the user's feedback.
-</thinking>
-
 # Metalectri Feedback Form - Help Guide
 ## Purpose
 The Metalectri Feedback Form is a tool for you to provide your thoughts and opinions about your experience with Metalectri. Your feedback will help us understand how we can improve our services to better meet your needs.

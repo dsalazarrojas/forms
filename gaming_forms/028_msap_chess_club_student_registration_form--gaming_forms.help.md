@@ -1,15 +1,3 @@
-<thinking>
-
-As a technical writer, I will create a user-facing help guide for the MSAP Chess Club Student Registration Form. This form is designed to collect information from students who want to join the MSAP Chess Club. The form is divided into several sections that ask for personal and contact information, as well as emergency contact details.
-
-The purpose of this form is to gather the necessary information from students who want to register for the MSAP Chess Club. This information will be used to verify their identity and ensure that they are a legitimate member. The form is not intended to be a comprehensive form, as it only asks for basic information.
-
-After completing the form, students will be able to access club events, resources, and benefits. They will also have the opportunity to participate in club activities and connect with other members.
-
-Before starting, please note that you can complete this form online or in person. If you need help or have questions, don't hesitate to ask.
-
-</thinking>
-
 # MSAP Chess Club Student Registration Form - Help Guide
 
 ## Purpose

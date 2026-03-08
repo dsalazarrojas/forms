@@ -1,7 +1,3 @@
-<thinking>
-To provide a help guide for the "Charity Gala Registration Form" that is clear, concise, and practical for end-users to understand how to complete it. The guide should cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section and field. This guide will help ensure that end-users can easily navigate and fill out the form accurately and efficiently.
-</thinking>
-
 # Charity Gala Registration Form - Help Guide
 ## Purpose
 The "Charity Gala Registration Form" is a tool for registering attendees for a charity gala event. The form is designed to collect information about the attendee, their guests, and their payment details. This guide will walk you through the steps to complete the form and provide explanations for each field to ensure a smooth and accurate registration process.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users who are planning to install skylights on their roofs. The purpose of this form is to gather specific details about the project, including the user's name, project address, property type, and other relevant information such as roof type, building size, and location. The form is meant to be completed by individuals or entities planning to submit a roof skylight planning permission application.
-</thinking>
-
 # Roof Skylight Planning Permission Application - Help Guide
 
 ## Purpose

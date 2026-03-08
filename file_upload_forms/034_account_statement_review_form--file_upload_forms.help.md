@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for reviewing and verifying account statements. The user is asked to provide information about the customer, including their name, account number, email address, and phone number. They are also asked to confirm the accuracy of the statement balance and provide details about any discrepancies found in the statement. If there are discrepancies, the user will be asked to select the type of discrepancy and provide a description of the issue. In the event of a discrepancy, the user will also be asked about the expected correct amount and their preferred resolution. This form is likely used by account managers or customer service representatives to verify account information and ensure that all transactions are accurate and legitimate. The form also collects contact information for follow-up, in case further clarification or resolution is needed. This form is used for internal purposes only.
-</thinking>
-
 # Account Statement Review Form - Help Guide
 
 ## Purpose

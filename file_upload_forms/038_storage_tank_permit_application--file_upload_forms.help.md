@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is used for applicants to apply for a Storage Tank Permit. It is used during the initial stages of the permit application process. Please note that the form is not intended for existing permit holders to reapply or renew their permits. If you are an existing permit holder, please refer to our separate instructions for renewal.
-
-</thinking>
-
 # Storage Tank Permit Application - Help Guide
 ## Purpose
 The Storage Tank Permit Application form is used to gather information from applicants who are seeking to obtain a Storage Tank Permit. This form is part of the initial application process and is required to be completed accurately and thoroughly.

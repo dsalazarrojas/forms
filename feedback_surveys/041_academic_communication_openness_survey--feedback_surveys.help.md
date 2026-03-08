@@ -1,12 +1,3 @@
-<thinking>
-**Academic Communication Openness Survey Purpose and Relevance Check**
-This form is intended to assess the level of communication openness in academic institutions. Communication openness refers to the extent to which individuals feel comfortable sharing their ideas, receiving feedback, and engaging in open dialogue within their department or institution. This survey is designed to help identify potential barriers to communication and gather suggestions for improvement.
-
-Before proceeding, please ensure that:
-* This form is relevant to your role and responsibilities within your institution.
-* You have not previously completed this survey, as repeating the survey may lead to invalid or biased results.
-</thinking>
-
 # Academic Communication Openness Survey - Help Guide
 ## Purpose
 This form is designed to measure the openness of communication within your academic institution. Your input will help us understand the current state of communication and identify areas for improvement.

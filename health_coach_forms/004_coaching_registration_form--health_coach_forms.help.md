@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended to gather personal and program information from users registering for coaching services. 
-  The form is divided into sections that cover personal details, program selection, experience and goals, health information, and terms and agreement. 
-  Before proceeding, ensure you haven't already registered, as this form is not meant to be filled out multiple times. 
-  Please complete all required fields, and select the most accurate options to provide a comprehensive picture of your needs and expectations.
-</thinking>
-
 # Coaching Registration Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from you to tailor our coaching services to your needs. Please provide accurate and complete responses to ensure a personalized experience.

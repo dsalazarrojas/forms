@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a food signup for gatherings, such as potlucks or events. The form is meant to capture relevant details about the food being brought, including its type, serving size, and location. This form will help hosts or organizers gather information about the food that will be served and ensure that there is a variety of options available for attendees. This form should not be used for other types of events or gatherings that do not involve food.
-</thinking>
-
 # Food Signup For Gatherings - Help Guide
 ## Purpose
 The Food Signup For Gatherings form is used to collect information about food items that will be brought to a potluck or event. This form helps hosts and organizers plan and manage the food offerings for the event.

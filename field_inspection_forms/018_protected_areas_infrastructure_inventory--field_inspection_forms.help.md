@@ -1,9 +1,3 @@
-<thinking>
-This form is used to inventory protected areas infrastructure. The purpose of this form is to collect and record information about the infrastructure within protected areas such as parks, conservation areas, or other protected environments. This information can be used by park rangers, conservationists, and other stakeholders to monitor and manage the condition and quantity of infrastructure within these areas.
-
-Before proceeding with this form, please ensure you have reviewed and understand the purpose and requirements of the form. If you have already completed a similar form for the same protected area, please do not duplicate your efforts. Please ensure the information you provide is accurate and up-to-date.
-</thinking>
-
 # Protected Areas Infrastructure Inventory - Help Guide
 ## Purpose
 The purpose of this form is to collect and record information about the infrastructure within protected areas such as parks, conservation areas, or other protected environments.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a fun and engaging Halloween-themed form that allows users to express their preferences and opinions on various aspects of Halloween. It's likely used for internal surveying or polling purposes within a company or organization.
-
-The form is not intended for any specific business purpose that affects the user's rights or responsibilities. It's likely used for entertainment or internal purposes only. 
-
-Please review the form fields to ensure that none of your answers will be used for any purpose other than those intended in this help guide.
-</thinking>
-
 # Halloween Quiz - Help Guide
 
 ## Purpose

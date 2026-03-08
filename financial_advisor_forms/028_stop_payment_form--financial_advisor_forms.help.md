@@ -1,9 +1,3 @@
-<thinking>
-
-To prevent duplication, the Stop Payment Form is meant to be used only once a payment has been initiated and you want to cancel it. This form is not meant for creating new payments. Ensure you are authorized to access this form.
-
-</thinking>
-
 # Stop Payment Form - Help Guide
 ## Purpose
 The Stop Payment Form is a financial form used to cancel a payment that has already been initiated. This form is used to stop an existing payment from being processed.

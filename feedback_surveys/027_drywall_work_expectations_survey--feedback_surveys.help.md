@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information about drywall work expectations. It appears to be part of a project management process, likely used to gather information about project timelines, team composition, and communication channels. The form includes a mix of text, select multiple, select one, and date fields, indicating that it requires a range of input types. The form seems to be used for both project planning and communication purposes.
-</thinking>
-
 # Drywall Work Expectations Survey - Help Guide
 ## Purpose
 This form is intended to collect information about drywall work expectations from project team members. It's used to gather project details, team composition, communication preferences, and other relevant information.

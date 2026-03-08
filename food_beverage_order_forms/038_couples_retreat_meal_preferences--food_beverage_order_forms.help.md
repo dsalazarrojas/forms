@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather meal preferences and dietary information from couples attending a retreat. The form collects information on food allergies, drink preferences, meal choices, entree details, and dessert options. This form is likely used by retreat organizers or event planners to ensure that all guests' needs are met and to provide an accurate headcount for meal planning. It's essential to complete this form accurately to ensure that the retreat organizers can cater to individual needs and provide a pleasant dining experience for all couples. It's possible that this form may be used in conjunction with other forms to gather additional information, such as accommodation preferences or activity choices.
-
-This form is a part of the "food_beverage_order_forms" category, indicating its focus on food and beverage orders. The "couples_retreat_meal_preferences" title suggests that it's specifically designed for couples attending a retreat. 
-
-Please note that all fields are optional, so there's no need to worry about leaving any sections blank if they don't apply to you. However, providing accurate information will help the retreat organizers to plan a more personalized and enjoyable experience for you and your partner.
-
-The information gathered through this form may be used for multiple purposes, such as planning meals, accommodating dietary restrictions, and ensuring that all guests are treated equally and fairly. It's essential to ensure that the form is filled out accurately and thoroughly to guarantee a successful and enjoyable retreat.
-
-If you're unsure about any of the options or fields, please reach out to the retreat organizers for clarification.
-
-</thinking>
-
 # couples_retreat_meal_preferences - Help Guide
 ## Purpose
 This form gathers meal preferences and dietary information from couples attending a retreat to ensure that all guests' needs are met and to provide accurate headcounts for meal planning.

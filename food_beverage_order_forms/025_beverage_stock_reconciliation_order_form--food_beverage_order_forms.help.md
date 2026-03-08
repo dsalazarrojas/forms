@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assist in the reconciliation of beverage stock for bars, restaurants, or other hospitality venues. The main goal is to gather information about the current state of the stock, compare it with expected counts, and identify any discrepancies or issues. The form is divided into several sections that cover different aspects of the stock reconciliation process:
-* Location Information: This section requires the name of the location, the manager's name and contact information, and the date and time of the count.
-* Alcoholic Beverages Count: This section gathers the current count of different types of alcohol bottles (vodka, gin, rum, whiskey, and tequila) in stock.
-* Non-Alcoholic Beverages Count: This section focuses on soft drinks, juices, water, and coffee/tea supplies.
-* Damage and Loss Report: This part of the form is used to report any damaged or expired items.
-* Unexplained Loss or Shrinkage: This section is used to document any unexplained discrepancies in the inventory.
-* Replenishment Orders: This section is used to identify items that need to be reordered or replenished.
-</thinking>
-
 # Beverage Stock Reconciliation Order Form - Help Guide
 ## Purpose
 The Beverage Stock Reconciliation Order Form is designed to aid in the accurate counting and reconciliation of beverage stock for your bar, restaurant, or hospitality venue. The form covers all types of beverages, including alcohols, non-alcohols, and coffee/tea supplies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about expenses claimed for a fundraising event. The form will be used to gather details about the event, including the date, location, and type of event. The form will also collect information about expenses incurred during the event, such as the expense amount, description, and receipt. Additionally, the form will collect contact information for the person claiming the expense, including their name, email, and phone number. The form will have buttons for submitting the claim, saving a draft, cancelling, and viewing previous claims. The form will not store any data until the claim is submitted.
-</thinking>
-
 # fundraising_event_expense_claim_form - Help Guide
 
 ## Purpose

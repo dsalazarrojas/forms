@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Sponsor Donation Form is to collect information from sponsors and supporters who want to donate to a cause or organization. This form helps to ensure that the donation process is smooth and secure while also allowing the organization to track and manage sponsor contributions effectively. It is crucial to fill out this form accurately to avoid any issues with the donation process.
 
 ## Purpose

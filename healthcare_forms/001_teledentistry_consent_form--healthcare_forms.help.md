@@ -1,5 +1,3 @@
-<thinking>A healthcare organization might use this form for patients to consent for teledentistry services. Teledentistry services involve providing dental care remotely, through video or phone calls, to patients without requiring an in-person visit to a dentist or orthodontist. These services may include consultations, treatment planning, and patient education, among others. Patients fill out this form to inform the medical provider of their medical history and any relevant medical conditions that may affect treatment. In this document, we will break down each field to help users complete the form efficiently and accurately.</thinking>
-
 # Teledentistry Consent Form - Help Guide
 ## Purpose
 This Teledentistry Consent Form is intended for patients to provide their medical history and any relevant medical conditions to their medical provider prior to receiving remote dental care.

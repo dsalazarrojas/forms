@@ -1,7 +1,3 @@
-<thinking>This form is used to collect information for the Easter Brunch event. The form is for ordering food and beverages, and also allows the collection of guest information and special requests. To avoid duplicates, this form is only accessible during the event dates. This will ensure that the information collected is up-to-date and relevant.
-
-</thinking>
-
 # Easter Brunch Order Form - Help Guide
 ## Purpose
 The Easter Brunch Order Form is used to collect information for the Easter Brunch event. This form is for ordering food and beverages, and also allows the collection of guest information and special requests.

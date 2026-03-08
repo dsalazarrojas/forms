@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to facilitate fundraising efforts for an event or cause. The fields are designed to capture information from individuals who would like to place an order, but have not yet provided their personal details. This form should only be used for orders that have not already been placed through other means.
-</thinking>
-
 # Tickled Floral Fundraiser - Help Guide
 ## Purpose
 The Tickled Floral Fundraiser form is designed to collect information from individuals who want to place an order but have not yet provided their personal details. This form allows users to provide their contact information and order details in a straightforward and easy-to-use interface.

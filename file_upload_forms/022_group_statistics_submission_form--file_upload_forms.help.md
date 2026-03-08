@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Statistics Submission Form - Help Guide
 ## Purpose
 This form is designed to collect statistics and information from group members to provide insights and updates on team performance.

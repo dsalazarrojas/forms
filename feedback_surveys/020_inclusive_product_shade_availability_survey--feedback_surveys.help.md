@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inclusive Product Shade Availability Survey - Help Guide
 
 ## Purpose

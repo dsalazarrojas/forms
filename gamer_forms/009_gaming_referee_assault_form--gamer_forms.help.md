@@ -1,21 +1,3 @@
-<thinking>
-We have a form designed for reporting incidents that occur during gaming events. This form is intended for referees to report incidents, such as player injuries, technical issues, or other problems that need to be addressed. The form should be used to provide detailed information about the incident, including the date, time, game ID, player names, and any relevant notes. This form is likely used by game administrators or event organizers to review and resolve these incidents.
-
-We need to ensure that the form is filled out correctly to provide accurate information for future reference. Let's review the form fields to ensure we understand their purpose and requirements.
-
-The form is divided into multiple sections, each with its own label and field type.
-
-*   **Incident Details**: This section should contain a brief description of the incident that occurred during the game.
-*   **Date and Time**: This section is used to specify the date and time of the incident.
-*   **Game Information**: This section is used to identify the game in which the incident occurred, including the game ID and player IDs.
-*   **Player Information**: This section contains the names of the players involved in the incident.
-*   **Referee Information**: This section is used to specify the name of the referee who reported the incident.
-*   **Game Type and Location**: This section is used to specify the type of game and location where the incident occurred.
-*   **Notes**: This section is for any additional comments or information about the incident.
-
-We will now create a user-facing help guide for the form.
-</thinking>
-
 # Gaming Referee Assault Form - Help Guide
 ## Purpose
 The Gaming Referee Assault Form is used to report incidents that occur during gaming events. This form is intended for referees to provide detailed information about the incident, including the date, time, game ID, player names, and any relevant notes.

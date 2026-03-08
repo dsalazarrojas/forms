@@ -1,7 +1,3 @@
-<thinking>
-We have to make sure this form is used for what it's intended for. Research funding consent forms are used to obtain informed consent from participants in research studies, ensuring they understand what's involved and what rights they're giving up. To avoid duplication, please check if we already have a form with the same purpose and fields before proceeding. This form should only be used for research studies that require participant consent.
-</thinking>
-
 # Research Funding Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from participants in research studies, ensuring they understand what's involved and what rights they're giving up.

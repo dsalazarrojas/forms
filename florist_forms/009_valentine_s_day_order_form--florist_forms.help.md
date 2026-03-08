@@ -1,6 +1,3 @@
-<thinking> 
-This guide is intended for end-users who need to complete the "valentines_day_order_form" to place an order for Valentine's Day. This form is used to collect customer information and order details for Valentine's Day celebrations. It is crucial to ensure that the form is completed accurately and thoroughly to ensure timely and correct delivery of the order. Please read this guide carefully to understand how to complete the form correctly.</thinking>
-
 # valentines_day_order_form - Help Guide
 ## Purpose
 The "valentines_day_order_form" is a form used to collect information for Valentine's Day orders. It is essential to fill out this form accurately and completely to ensure timely and correct delivery of the order.

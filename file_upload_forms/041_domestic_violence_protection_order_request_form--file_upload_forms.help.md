@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a request for a domestic violence protection order, a legal document that helps keep individuals safe from abuse. This form will guide you through the necessary steps to provide the required information. Please ensure you have all necessary documents and information before proceeding. If you have submitted this form previously, be aware that it is only necessary to complete it again if there have been changes in your circumstances or if the previous request has expired.
-</thinking>
-
 # Domestic Violence Protection Order Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for a domestic violence protection order. A domestic violence protection order is a legal document that helps keep individuals safe from abuse.

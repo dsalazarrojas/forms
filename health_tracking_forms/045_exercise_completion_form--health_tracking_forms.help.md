@@ -1,7 +1,3 @@
-<thinking>
-The Exercise Completion Form is designed to collect information from users about their exercise completion. This form is intended to be a simple and straightforward way to track user exercise completion, focusing on collecting user input and workout information. To avoid duplication, please ensure that you are not creating duplicate forms for the same purpose or using this form for purposes not related to exercise tracking.
-</thinking>
-
 # Exercise Completion Form - Help Guide
 ## Purpose
 The Exercise Completion Form is a user-friendly tool designed to collect information from users about their exercise completion. This form is meant to be a simple and efficient way to gather essential details about the user's workout experience.

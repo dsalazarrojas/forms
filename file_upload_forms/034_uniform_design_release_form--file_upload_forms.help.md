@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for users who will be filling out the Uniform Design Release Form. It is designed to collect information and metadata for the submission of uniform designs. The form is part of a larger workflow that includes other forms with similar fields. This guide will explain each field purpose, the overall form purpose, and provide instructions for completing the form accurately.
-
-</thinking>
-
 # Uniform Design Release Form - Help Guide
 
 ## Purpose

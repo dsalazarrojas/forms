@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants of Art For Social Change Impact Survey, a project aimed at measuring the social impact of arts-based initiatives. The purpose of this survey is to gather information on the project's effectiveness in increasing awareness, promoting community connection, and developing skills among participants. The survey is used to improve future project design and delivery.
-</thinking>
-
 # Art For Social Change Impact Survey - Help Guide
 ## Purpose
 This survey is used to measure the social impact of Art For Social Change projects, focusing on awareness increase, community connection, skill development, and overall project quality.

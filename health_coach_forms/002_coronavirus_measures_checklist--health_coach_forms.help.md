@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess their risk level of coronavirus exposure by asking a series of questions regarding symptoms, travel history, and exposure to potential COVID-19 cases. This form is intended for individuals who may be experiencing symptoms or have had recent contact with someone with COVID-19.
-</thinking>
- 
 # coronavirus_measures_checklist - Help Guide
 
 ## Purpose

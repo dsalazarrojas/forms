@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a business license application from a government agency. It is likely used by business owners or their representatives to submit their license application and associated documents. This form may be used to streamline the license application process and reduce manual data entry for the agency.
-
-Before completing this form, ensure that you have all the necessary information and documents ready. It is assumed that you have a clear understanding of your business and its characteristics. You may want to check with the government agency for any specific requirements or rules that might affect your business.
-
-To avoid duplication, make sure you are not already in the process of submitting a license application for the same business. If you are unsure, please contact the agency for clarification.
-
-Please review the fields below to understand what information is requested.
-</thinking>
-
 # Government Business License Submission Form - Help Guide
 ## Purpose
 The Government Business License Submission Form is designed to collect necessary information from business owners or their representatives to facilitate the submission of a business license application.

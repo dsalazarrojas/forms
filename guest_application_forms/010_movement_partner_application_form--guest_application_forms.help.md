@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to apply to become a movement partner, allowing them to collaborate with us and contribute to our mission. Before filling out this form, please make sure you are not already a partner with us. If you are unsure, please contact us to verify.
-</thinking>
-
 # Movement Partner Application Form - Help Guide
 ## Purpose
 The Movement Partner Application Form is a tool for users to apply to become a movement partner, allowing them to collaborate with us and contribute to our mission.

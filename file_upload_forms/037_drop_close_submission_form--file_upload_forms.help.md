@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of closing a submission, providing a comprehensive overview of the process and relevant details. The form is likely used in a professional or formal setting, possibly in the context of a project or business operation. The form's fields include uploading evidence, selecting facilities, operations, and team leaders, as well as providing comments and closure dates and times. This form is probably used for record-keeping, reporting, or documentation purposes.
-</thinking>
-
 # drop_close_submission_form - Help Guide
 ## Purpose
 The "drop_close_submission_form" is used to collect information for closing a submission, providing an overview of the relevant details.

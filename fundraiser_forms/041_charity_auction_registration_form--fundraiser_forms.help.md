@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the charity auction registration form. This form is designed to gather essential information from attendees and bidders for the charity auction event. The form should only be filled out by individuals who are registering for the event. Duplicate registrations should be avoided to prevent errors in the event planning process. Please review each field carefully to ensure accurate and complete information is provided.
-</thinking>
-
 # Charity Auction Registration Form - Help Guide
 ## Purpose
 This form is for registering attendees and bidders for the charity auction event. It helps the organizers collect necessary information to manage the event smoothly.

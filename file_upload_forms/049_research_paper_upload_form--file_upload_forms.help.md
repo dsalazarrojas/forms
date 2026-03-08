@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect metadata and upload research paper files. The form is intended for researchers to submit their work, and the uploaded files will be used for internal review and analysis. To ensure data quality, please ensure you only upload relevant files and provide accurate information in the form fields.
-</thinking>
-
 # Research Paper Upload Form - Help Guide
 ## Purpose
 The "Research Paper Upload Form" is designed to collect research paper submissions from users. This form is meant for users to upload their manuscripts, providing necessary metadata and file information for review.

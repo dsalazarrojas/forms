@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from submitters for a qualified report. 
-The form is meant to ensure that submitter's data is accurate and consistent across all fields. The submitter's data will be reviewed by our team before it's accepted. 
-Please note that you are not allowed to submit duplicate reports. 
-If you are unsure of any field, please contact us before submitting your report.
-
-</thinking>
-
 # Qualified Report Submission Form - Help Guide
 ## Purpose
 This form is used to collect information from submitters for a qualified report. It is essential to provide accurate and complete information to ensure that your report is reviewed and accepted correctly.

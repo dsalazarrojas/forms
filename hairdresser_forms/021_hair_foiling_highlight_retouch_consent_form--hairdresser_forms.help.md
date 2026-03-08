@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for clients who are requesting to retouch their hair with a foiling highlight technique. The form is intended to gather information from the client about their hair history, style preferences, and submission details. This form is a crucial part of the hair salon's process to ensure that each client receives the best possible service.
 
 </thinking>

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and qualitative data from music listeners about their experience with an album. It's intended to help artists and producers understand how their work is being received by their audience, and identify areas for improvement. The form is structured into two sections: "Listener Information" and "Album Ratings" and "Qualitative Feedback".
-
-It's likely that this form will be used by individuals who have listened to an album, and the data collected will help refine future album production and content creation.
-
-</thinking>
-
 # Album Listening Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from listeners about their experience with an album. Please take a few minutes to complete this form to help us better understand how our music is being received.

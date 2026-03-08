@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from donors to facilitate the distribution of their charitable contributions. This form is used by financial advisors to identify the frequency and amount of gifts made to different charitable organizations.
-It is crucial that the form is filled out correctly to ensure accurate tracking of donations and to prevent duplicate records.
-</thinking>
-
 # Qualified Charitable Distribution Form - Help Guide
 ## Purpose
 This form is used to collect information from donors regarding their charitable contributions. Financial advisors will use this form to track the frequency and amount of donations made to various charitable organizations.

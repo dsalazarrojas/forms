@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for uploading photographs with relevant metadata.
-</thinking>
-
 # photo_upload_template - Help Guide
 ## Purpose
 

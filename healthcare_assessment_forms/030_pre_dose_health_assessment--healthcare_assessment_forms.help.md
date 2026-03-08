@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "pre-dose-health-assessment" form is to collect information about a patient's health status before administering a medication or treatment. This form is typically used in healthcare settings to ensure that patients are healthy enough to receive certain treatments or medications. The form is used to assess the patient's allergies, current medications, recent symptoms, medical condition, and whether they have given their consent for the treatment.
-The form is designed to be completed by healthcare professionals, such as doctors or nurses, and is an important tool in ensuring the patient's safety and well-being.
-</thinking>
-
 # pre-dose-health-assessment - Help Guide
 ## Purpose
 The "pre-dose-health-assessment" form is used to collect information about a patient's health status before administering a medication or treatment.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose of this form. The Graduation Clearance Form is used to record a student's graduation status and clearance. It's an essential form for tracking and verifying a student's graduation eligibility. The form captures various details about the student, their degree, and their clearance status. Let's assume that this form is intended for academic institutions or universities to use for administrative purposes. We will create a help guide that explains how to complete this form in a clear and concise manner.</thinking>
-
 # Graduation Clearance Form - Help Guide
 ## Purpose
 The Graduation Clearance Form is used to record a student's graduation status and clearance. It captures details about the student, their degree, and their clearance status. This form is intended for academic institutions or universities to use for administrative purposes.

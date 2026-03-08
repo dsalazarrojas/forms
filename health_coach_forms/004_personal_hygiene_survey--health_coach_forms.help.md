@@ -1,22 +1,3 @@
-<thinking>
-
-To confirm, this form is intended for assessing an individual's personal hygiene practices and habits. The purpose of this form is to collect information on the frequency and effectiveness of various personal hygiene practices such as hand washing, showering, brushing teeth, exercise, and more, with the goal of identifying potential areas for improvement.
-
-This form aims to collect data on:
-
-* Personal hygiene practices like hand washing, showering, and brushing teeth
-* Frequency of exercise
-* Use of substances like smoking and alcohol
-* Management of stress
-* Quality of sleep
-* Nutrition
-* Self-care habits
-* Presence of health issues
-
-To avoid duplication or misinterpretation, this form should not be filled out by individuals who have already completed a similar survey on this topic.
-
-</thinking>
-
 # Personal Hygiene Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to collect feedback from staff about the procedures in place. The purpose of this feedback is to help us understand what is working well and what areas need improvement. By completing this form, staff will be providing valuable insights that will help us refine our procedures and make them more effective and efficient. It is essential to provide accurate and detailed responses to help us gather the right kind of feedback. Please ensure that your feedback is specific and focused on the procedures you are evaluating, rather than general comments or opinions that do not relate to the specific procedure. Please note that this form is not a duplicate of other feedback channels, such as email or direct reporting, so please provide new and original feedback that is not already shared elsewhere.
-</thinking>
-
 # Procedures Review Feedback Survey - Help Guide
 ## Purpose
 

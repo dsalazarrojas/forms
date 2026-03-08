@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for assessing an individual's risk of infection control and isolation practices in a healthcare setting. The form aims to collect data on patient identification, infection control practices, risk factors, contact precautions, transmission, infection control measures, isolation status, review frequency, contact trace status, review status, and review comments. 
-
-The form will be completed by healthcare professionals to assess the patient's risk of infection and isolation practices, and to identify potential areas for improvement. The form will help healthcare professionals to:
-
-1. Identify patients who are at high risk of infection and isolation.
-2. Assess the effectiveness of infection control practices in the healthcare setting.
-3. Identify potential areas for improvement in infection control measures.
-4. Track and review patient data for infection control and isolation practices.
-
-Please ensure that the form is completed accurately and thoroughly to ensure that the patient's risk of infection and isolation practices are properly assessed.
-
-</thinking>
 # Infection Control And Isolation Assessment Questionnaire - Help Guide
 ## Purpose
 The Infection Control And Isolation Assessment Questionnaire is a tool used to assess an individual's risk of infection and isolation practices in a healthcare setting. This form will help healthcare professionals to identify patients who are at high risk of infection and isolation, assess the effectiveness of infection control practices, and identify potential areas for improvement in infection control measures.

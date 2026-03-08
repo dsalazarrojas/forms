@@ -1,12 +1,3 @@
-<thinking>
-**Internal reasoning:**
-
-This form is likely used to collect information from gamers or media outlets before conducting a game launch interview. The form asks a series of questions to determine the role of the person filling out the form (gamer, media, influencer, etc.) and gather relevant details about the interview, such as the date and location of the interview, as well as any special requests they may have. This information will be used to schedule and conduct the interview in a professional and organized manner.
-
-The form requires all fields to be completed, except for "What is your role" which is optional, indicating that not all users will need to answer this question. The form also checks for duplicate submissions, suggesting that this form is used in a multi-step process where duplicate submissions are not allowed.
-
-</thinking>
-
 # Game Launch Interview Booking Form - Help Guide
 ## Purpose
 This form is used to book and confirm a game launch interview with a potential guest. It gathers necessary information from the guest to ensure a smooth and productive interview process.

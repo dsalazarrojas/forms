@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess the Return on Investment (ROI) of cardiology departments in healthcare organizations. The purpose of this form is to collect data on various aspects of cardiology department operations, including organization information, departmental metrics, and investment plans. This form is designed to help cardiology departments evaluate their current state and identify areas for improvement.
-
-To ensure the accuracy and completeness of the data collected, it is essential to carefully consider each field's purpose and requirements. Before proceeding, please review the form carefully and ensure that all fields are filled in correctly.
-
-This form is a critical component of the cardiology department's assessment process, and the data collected will be used to inform future decision-making. Please fill in the form accurately and thoroughly to ensure the best possible outcome.
-
-</thinking>
-
 # Cardiology ROI Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the Return on Investment (ROI) of cardiology departments in healthcare organizations. It collects data on various aspects of cardiology department operations, including organization information, departmental metrics, and investment plans.

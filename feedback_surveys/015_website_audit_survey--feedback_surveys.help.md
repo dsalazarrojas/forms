@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and insights from visitors about their experience on the website. This form helps us identify areas of improvement and make data-driven decisions to enhance user experience and website performance.
-
-Before filling out this form, please ensure that you have not already provided feedback on our website. If you have previously submitted feedback, your response will not be recorded.
-
-To provide the most helpful feedback, be as specific and concrete as possible in your answers.
-</thinking>
-
 # Website Audit Survey - Help Guide
 ## Purpose
 The Website Audit Survey is a form designed to collect your honest and constructive feedback on our website. Your input will help us improve your experience and make necessary changes to enhance our website's performance.

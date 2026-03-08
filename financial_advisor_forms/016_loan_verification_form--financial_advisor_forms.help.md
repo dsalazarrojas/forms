@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from loan applicants or existing loan holders to verify their employment status and financial information. It is intended to be used by financial advisors or institutions to assess a person's financial stability and employment history. This form is not intended for general public use, but rather for internal use by financial institutions.
-
-Before filling out this form, please note that some fields are required to ensure a complete and accurate submission. If you are unsure about any field, please refer to the field explanation below.
-
-</thinking>
-
 # Loan Verification Form - Help Guide
 
 ## Purpose

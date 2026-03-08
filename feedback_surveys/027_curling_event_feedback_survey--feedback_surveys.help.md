@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction and feedback of attendees of a curling event. The form is designed to collect information on the attendee's experience, rating, favorite aspects, past experience with curling events, team preferences, overall satisfaction, areas for improvement, and any additional comments. The form will help the organizers of the event to identify areas of improvement and enhance the overall experience for future attendees. This form does not collect sensitive or identifiable information, so it should be safe to fill out. Please ensure that you have not filled out this form previously to avoid duplicate submissions.
-</thinking>
-
 # Curling Event Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and satisfaction from attendees of a curling event. Your responses will help us improve future events.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help individuals create a comprehensive budget plan for their financial well-being. It is a self-reporting tool that gathers information about the user's personal and financial details, allowing them to identify areas of overspending, create savings goals, and set realistic targets for their financial planning. This form is intended to be used by individuals who wish to improve their financial management skills, reduce debt, and achieve their long-term financial objectives. To ensure the form is useful and effective, it is essential to complete it carefully and accurately.
-
-</thinking>
-
 # Budget Planning Form - Help Guide
 
 ## Purpose

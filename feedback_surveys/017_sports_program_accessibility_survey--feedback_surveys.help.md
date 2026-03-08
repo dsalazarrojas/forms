@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to collect feedback and insights from users about the accessibility of sports programs. The purpose of this form is to gather information about the user's experiences and opinions about the accessibility of our sports programs, including the facilities and services offered. This feedback will help us understand how we can improve the accessibility of our sports programs and provide better services to our users. 
-
-</thinking>
-
 # Sports Program Accessibility Survey - Help Guide
 
 ## Purpose

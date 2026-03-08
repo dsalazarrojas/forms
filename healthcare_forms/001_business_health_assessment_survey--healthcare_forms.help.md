@@ -1,17 +1,3 @@
-<thinking>
-We need to determine the relevance and non-duplication of the form before creating the user-facing guide. Let's analyze the form and its purpose.
-The form is titled "Business Health Assessment Survey" and appears to be designed for organizations to assess their overall health and wellness within the business environment. It covers various aspects such as organizational structure, employee satisfaction, health and safety concerns, employee programs, and technology infrastructure. The form seems to be a comprehensive assessment tool for businesses to evaluate their strengths and weaknesses in these areas.
-However, upon closer inspection, there are some potential issues with the form:
-*   The "turnover_rate" field is optional, but it might be a critical aspect of organizational health, especially if it's high. It would be beneficial to emphasize its importance.
-*   The "training_budget_percentage" field is also optional, but it's essential for employee development and productivity. It would be better if this field was required.
-*   The "leadership_development_programs" field has a confusing option "Yes - planning to implement" which might cause confusion. It would be better to rephrase this to something like "Yes - planning to implement in the next [timeframe]".
-*   The "diversity_inclusion_initiatives" field has a somewhat vague label. It would be better to rephrase this to something like "Diversity, Equity, and Inclusion Initiatives" to make it more specific.
-*   The "technology_infrastructure_rating" field might be too subjective and open to individual interpretation. It would be better to rephrase this to something like "How would you rate the effectiveness of your current technology systems?".
-*   The "compliance_audit_date" field is optional, but it's essential for regulatory compliance. It would be better if this field was required.
-*   The "improvement_priorities" field allows for selecting three priorities, but it would be better to limit this to one or two priorities to make it more focused.
-*   The "additional_comments" field is optional, but it's a great opportunity for users to provide more context and insights. It would be better if this field was required.
-</thinking>
-
 # Business Health Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help businesses assess their overall health and wellness within the organization. It covers various aspects such as organizational structure, employee satisfaction, health and safety concerns, employee programs, and technology infrastructure.

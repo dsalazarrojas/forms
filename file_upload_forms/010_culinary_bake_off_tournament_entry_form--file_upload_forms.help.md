@@ -1,13 +1,3 @@
-<thinking>
-  This form is designed to collect information for a Culinary Bake Off Tournament.
-  It is used for contestants to provide contest information and upload
-  images of their entries.
-  The form has four required fields, but no optional fields are listed.
-  Contestants are asked to select multiple categories, and provide 3 image
-  uploads. Please ensure that each category option is relevant and not
-  duplicated.
-</thinking>
-
 # Culinary Bake Off Tournament Entry Form - Help Guide
 ## Purpose
 This form is for contestants to enter a culinary bake off competition, providing information and images of their creations.

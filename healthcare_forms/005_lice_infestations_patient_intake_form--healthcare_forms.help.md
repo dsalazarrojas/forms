@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # lice_infestations_patient_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about head and body lice infestations. It is intended to be used by healthcare professionals to gather data for diagnosis and treatment purposes.

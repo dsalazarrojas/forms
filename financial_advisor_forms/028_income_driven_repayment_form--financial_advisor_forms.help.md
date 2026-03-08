@@ -1,33 +1,3 @@
-<thinking>
-To determine the form's purpose and relevance, I've reviewed the YAML structure and extracted the following key points:
-
-* The form is related to income-driven repayment, suggesting it may be used for individuals seeking income-driven repayment plans for their student loans.
-* The form requires input from the individual, indicating it's likely used for loan application or certification purposes.
-* The form asks for personal and financial information, such as income, family size, employment status, and tax documents, suggesting it's used to assess an individual's eligibility for income-driven repayment plans.
-* The form has multiple "family size" and "income frequency" fields, implying it's used to calculate income-driven repayment amounts.
-* The form requires "income verification" and "tax documents", indicating it's used to validate the individual's income and tax information.
-* The form asks for "loan type" and "student loan balance", suggesting it's used for students or borrowers who need to apply for income-driven repayment plans.
-
-Considering these points, the form's purpose appears to be for an individual to provide their financial information to apply for or certify their eligibility for income-driven repayment plans for their student loans. This form will help the loan servicer or administrator to assess and calculate the individual's income-driven repayment amount.
-
-This form is likely used for:
-
-* Borrowers applying for income-driven repayment plans
-* Certifying current income and eligibility for income-driven repayment plans
-* Loan servicers or administrators to verify borrower's income and eligibility
-
-The form's fields are relevant as they:
-
-* Gather personal and financial information about the borrower
-* Allow the individual to specify their loan type and balance
-* Help the individual to select their employment and income frequency
-* Validate the individual's income and tax information
-* Enable the individual to specify their family size and status
-
-There are no duplicate or irrelevant fields in the provided YAML structure.
-
-</thinking>
-
 # Income Driven Repayment Form - Help Guide
 ## Purpose
 This form is used for borrowers to apply for or certify their eligibility for income-driven repayment plans for their student loans. It provides the necessary information required to calculate the individual's income-driven repayment amount and validate their income and tax information.

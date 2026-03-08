@@ -1,7 +1,3 @@
-<thinking>This form is designed to collect information about an individual's fitness level, exercise habits, nutrition, and goals. To ensure the form is complete and accurate, please carefully review each section and enter the requested information. If you're unsure about any of the questions or fields, please refer to this help guide for guidance.
-
-Before proceeding, please check that the form is not already completed for you, as this may result in duplicate entries. If you're still unsure about the form's purpose or have concerns about the questions, feel free to reach out to our support team for clarification.</thinking>
-
 # Fitness Questionnaire - Help Guide
 ## Purpose
 The Fitness Questionnaire is designed to help individuals assess their current fitness level, identify areas for improvement, and provide valuable insights for personal trainers or coaches to tailor their services to their clients' needs.

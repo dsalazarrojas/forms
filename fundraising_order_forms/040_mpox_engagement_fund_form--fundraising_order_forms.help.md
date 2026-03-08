@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mpox Engagement Fund Form - Help Guide
 ## Purpose
 The Mpox Engagement Fund Form is used for collecting donations and information from donors, prophets, and other stakeholders to support the Mpox Engagement Fund. This form helps to track and record donations, their purpose, and the contact information of the donors and prophets.

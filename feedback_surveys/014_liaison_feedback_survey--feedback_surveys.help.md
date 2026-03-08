@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture feedback from end-users about their interactions with Liaisons, with the primary goal of understanding how Liaisons are perceived by clients. The form collects both quantitative and qualitative feedback, including ratings and open-ended comments. The feedback will be used to improve the quality of service and communication provided by the Liaisons.
-
-Before filling out this form, please make sure you are providing feedback about a specific interaction or experience with a Liaison. If you're not sure if this form applies to your situation or have already filled out this form in the past for a similar interaction, please contact us to clarify.
-
-Please fill out each section thoroughly, as your feedback is crucial in helping us provide better service.
-
-</thinking>
-
 # Liaison Feedback Survey - Help Guide
 ## Purpose
 

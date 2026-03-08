@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the cleanliness and overall experience of the Wash Bay And Paint Bay services. 
-The form is intended to be completed by users of these services to provide their opinions on the cleanliness, equipment, staff, and overall experience. 
-It is expected that users will provide honest feedback, and that the form will be completed only once per user.
-</thinking>
-
 # Wash Bay And Paint Bay Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on the cleanliness and overall experience of the Wash Bay And Paint Bay services.

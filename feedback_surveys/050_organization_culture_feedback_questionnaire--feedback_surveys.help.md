@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The organization culture feedback questionnaire is a form designed to gather perceptions of an organization's culture, climate, and policies from employees. This form aims to collect feedback on various aspects of the organization's work environment, including leadership, communication, collaboration, and recognition. By providing feedback, employees can help identify areas of strength and areas for improvement, facilitating positive change and growth within the organization.
 
 </thinking>

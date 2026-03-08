@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Longevity Protocol Intake Form - Help Guide
 ## Purpose
 The Longevity Protocol Intake Form is designed to collect information about your lifestyle habits, health conditions, and demographics to help our team provide personalized guidance and support for your longevity journey. This form is required to be completed by all participants in our Longevity Protocol program.

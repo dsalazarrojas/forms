@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Specialty Meat Selection Pre Order Form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees about the quality of HR services provided to them. It is designed to gather information about the employee's experiences, satisfaction, and ratings of the HR services they have received. The form is meant to be completed by employees who have interacted with HR services, such as submitting a request, seeking guidance, or receiving support.
-
-To complete this form, follow these steps:
-
-1. Please fill in your name, as this will help us identify who is providing feedback.
-2. Select the department that you interacted with HR services from.
-3. If you have any comments about your experience with HR services, please share them in the comments field.
-4. Rate your overall satisfaction with HR services using the rating scale.
-5. Rate your overall satisfaction with the HR services you received, using a scale of 1-10.
-6. Provide any additional comments or feedback you may have about HR services.
-7. Share any further feedback or suggestions you may have about HR services.
-
-This form should take no more than 5-7 minutes to complete.
-
-</thinking>
-
 # HR Service Quality Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees about the quality of HR services provided to them.

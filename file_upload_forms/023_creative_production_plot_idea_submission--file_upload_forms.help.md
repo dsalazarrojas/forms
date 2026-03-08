@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect creative production plot idea submissions from users. It is intended to gather details about the plot, story title, story description, story keywords, and file attachments related to the idea. The form is likely used by production teams or creative departments in film, television, or other media production industries to collect ideas from writers, directors, or other creatives. The form may be used for internal purposes, such as tracking and organizing submissions, or for external purposes, such as sharing ideas with partners or clients.
-
-The form is not intended to be a comprehensive or detailed submission form, but rather a quick and easy way to collect basic information about a creative idea. The form's structure and fields are likely designed to be simple and straightforward, with a focus on collecting key information rather than providing a comprehensive narrative or detailed description.
-
-The form's field labels and options may not be clear or descriptive, which could lead to confusion or errors in submission. However, the form's structure and fields are likely designed to be intuitive and easy to use, with a focus on collecting basic information rather than providing in-depth analysis or evaluation.
-
-Given the form's design and structure, it is likely that the submission details will be reviewed and evaluated by production teams or creative departments to determine the feasibility and potential of the creative idea. The form's output will likely be used to track and organize submissions, and to provide a basic overview of the idea and its associated files.
-
-The form's fields are designed to be optional, with the exception of the "Form Submission Details" field, which is likely required to provide context and background information about the submission. The file attachment fields are also likely optional, allowing submitters to provide additional context and supporting materials as needed.
-
-Overall, the form is designed to be a quick and easy way to collect creative production plot ideas, and its structure and fields are intended to facilitate a basic and straightforward submission process.
-</thinking>
-
 # Creative Production Plot Idea Submission - Help Guide
 ## Purpose
 The Creative Production Plot Idea Submission form is designed to collect creative production plot ideas from writers, directors, or other creatives. It is intended to gather basic information about the plot, story, and attachments related to the idea.

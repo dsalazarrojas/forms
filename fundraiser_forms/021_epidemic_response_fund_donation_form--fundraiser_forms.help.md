@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations for the Epidemic Response Fund, which is a critical initiative to support individuals and communities affected by epidemics. The purpose of this form is to gather general information, contact details, and donation specifics from donors. Before starting, please ensure you are not already registered in our system, as duplicate records may be created. This form is a public adaptation of a form created using AI, and you are free to use, modify, and distribute it under CC BY 4.0 license.
-</thinking>
-
 # Epidemic Response Fund Donation Form - Help Guide
 ## Purpose
 The Epidemic Response Fund Donation Form is designed to collect donations for the Epidemic Response Fund, which supports individuals and communities affected by epidemics.

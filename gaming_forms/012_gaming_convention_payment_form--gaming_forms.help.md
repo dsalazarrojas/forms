@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, we will analyze the input schema.
-
-Upon reviewing the YAML, we can see that the form is related to gaming conventions, and it appears to be used for processing payment and registration information for attendees. The form contains fields for event organizer, event name, attendee details, payment method, payment status, and event details. This suggests that the form is used for managing registrations and payments for gaming conventions.
-
-We will assume that this form is intended for event organizers and attendees to input their information for the purpose of registering and paying for a gaming convention.
-
-To avoid duplication, we will check for similar forms in our organization's documentation and update this form's documentation if needed.
-
-</thinking>
-
 # gaming_convention_payment_form - Help Guide
 ## Purpose
 This form is used for registering and paying for a gaming convention. It is meant to be filled out by event organizers and attendees to process registration and payment information.

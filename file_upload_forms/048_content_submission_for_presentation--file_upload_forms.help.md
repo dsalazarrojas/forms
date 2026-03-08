@@ -1,14 +1,3 @@
-<thinking>
-This guide aims to provide a clear and concise explanation of the "Content Submission For Presentation" form, ensuring that users understand the form's purpose, how to complete it, and what each field entails. The form is designed to collect information about a presenter's submission for a presentation, including their personal details, presentation content, and requirements. To complete this form, users must provide accurate and thorough information to ensure a smooth and successful presentation.
-
-This form is intended to be used by presenters to submit content for a presentation, and the information collected will be used to review and prepare for the event. It is crucial that users understand the form's purpose and requirements to avoid any confusion or errors during the submission process.
-
-Before starting, please ensure that you have all the necessary information and materials ready for submission. This will help you complete the form efficiently and accurately. If you are unsure about any field or information, please refer to this guide for clarification.
-
-Please note that some fields are required, indicated by <required>, while others are optional, but still essential for a comprehensive submission.
-
-</thinking>
-
 # Content Submission For Presentation - Help Guide
 ## Purpose
 

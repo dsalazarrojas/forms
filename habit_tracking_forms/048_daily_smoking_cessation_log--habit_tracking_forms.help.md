@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Smoking Cessation Log - Help Guide
 
 ## Purpose

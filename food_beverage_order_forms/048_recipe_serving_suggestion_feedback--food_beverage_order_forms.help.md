@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and effectively by the end users. To do this, we must first confirm that the form is being used for its intended purpose: to gather feedback on serving and plating suggestions for a recipe. We also want to avoid duplication of effort, so we'll check that the same form is not being filled out multiple times for the same recipe.
-</thinking>
-
 # Recipe Serving Suggestion Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback on serving and plating suggestions for a recipe. Your input will help us improve the presentation and preparation of our dishes.

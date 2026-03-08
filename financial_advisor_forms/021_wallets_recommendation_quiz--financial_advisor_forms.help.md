@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to help users find the perfect wallet that suits their needs. It asks a series of questions about the user's preferences, including their desired wallet type, budget, material, size, color, and security features. The form is likely used in a financial advisor context, where the goal is to recommend a wallet that fits the user's requirements. It's possible that this form is used as a starting point for a more in-depth financial consultation or advice session. The form is not a traditional survey, but rather a guided process to help users narrow down their preferences and find a recommended wallet. There is also a slight duplication of some questions, which might indicate that the form is still a work in progress or that some questions should be consolidated or removed.</thinking>
-
 # Wallets Recommendation Quiz - Help Guide
 ## Purpose
 The purpose of this form is to help users find the perfect wallet that suits their needs and preferences.

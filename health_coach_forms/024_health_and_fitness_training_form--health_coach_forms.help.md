@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients about their health and fitness goals, medical history, and training schedule. This form will help trainers and coaches understand the client's needs and create an effective training plan. 
-
-This form is not intended for medical diagnosis or treatment, and users should consult their doctor before starting any new exercise program.
-
-Please note that this form is designed to collect personal and sensitive information, and all fields are optional.
-
-To ensure data accuracy, we recommend filling out the form completely, but if some fields are not applicable, please leave them blank or mark them as "N/A" if requested. 
-
-If you're unsure about any field, please contact our support team for assistance.
-
-</thinking>
-
 # Health And Fitness Training Form - Help Guide
 
 ## Purpose

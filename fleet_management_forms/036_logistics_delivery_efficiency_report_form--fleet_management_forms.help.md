@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Logistics Delivery Efficiency Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about delivery efficiency for logistics operations. It helps to track performance metrics such as on-time delivery, delayed or cancelled deliveries, and any documents or communications that were delayed. The data collected will be used to analyze and improve the logistics delivery process.

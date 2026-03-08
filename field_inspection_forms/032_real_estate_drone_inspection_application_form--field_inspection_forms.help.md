@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information from real estate clients, property details, inspection schedule, inspection reports, contact information, drone inspection data, and submission tracking data. This form aims to streamline the process of collecting and organizing relevant information for real estate drone inspections. The form is divided into sections for easy navigation and to ensure that all necessary fields are filled out. To prevent duplication of work, please ensure that this form is used for real estate drone inspections only and not for other unrelated purposes.
-</thinking>
-
 # Real Estate Drone Inspection Application Form - Help Guide
 ## Purpose
 The Real Estate Drone Inspection Application Form is designed to collect relevant information for real estate drone inspections. This form helps to gather general information, property details, inspection schedule, inspection reports, contact information, drone inspection data, and submission tracking data in a structured and organized manner.

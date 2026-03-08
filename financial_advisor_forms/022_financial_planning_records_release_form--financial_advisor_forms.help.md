@@ -1,10 +1,3 @@
-<thinking>
-This form is for financial planners, financial institutions, and clients to document the authorization and termination of financial planning records. The purpose of this form is to ensure that all parties involved in the planning process are aware of their roles and responsibilities throughout the life of the plan. 
-
-The form collects information on client authorization, financial institution, financial planner, start and end dates for the authorization, trusted parties, and signatures of all parties involved. The fields are designed to be completed by the client, financial planner, and financial institution.
-
-</thinking>
-
 # Financial Planning Records Release Form - Help Guide
 ## Purpose
 The Financial Planning Records Release Form is a document used to formally release and terminate financial planning records. It ensures that all parties involved in the planning process are aware of their roles and responsibilities.

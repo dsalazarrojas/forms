@@ -1,12 +1,3 @@
-<thinking> 
-We are creating a help guide for the "Guild Battle Reservation Form". This form is designed to allow users to schedule a battle for their guild. The form consists of several fields that will help the user to fill in the necessary information for the battle. To make sure that the user fills out the form correctly and accurately, we will provide clear explanations for each field in this guide. 
-
-The form is not a mandatory one, so users are free to fill it out as they see fit. However, please note that filling out this form will help the battle organizers to prepare for the battle better. 
-
-The purpose of this form is to collect information about the match, such as the date and time of the match, the name of the guild and opponent, and the game mode. The information will be used by the battle organizers to coordinate and prepare for the upcoming battle. 
-
-</thinking>
-
 # Guild Battle Reservation Form - Help Guide
 ## Purpose
 The Guild Battle Reservation Form is used to schedule a battle for your guild. Filling out this form will help the battle organizers to prepare for the battle better.

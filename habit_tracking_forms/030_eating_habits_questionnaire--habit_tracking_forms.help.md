@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's eating habits, focusing on their dietary preferences, frequency, and behaviors. The form is divided into multiple pages, each with a specific set of questions that aim to gather detailed insights into the user's eating habits. The form is not intended to be a one-time use case, but rather a repeated assessment that will track changes over time. Therefore, it's essential that the user fills out the form consistently and accurately.
-
-Before proceeding, please note that this form is not intended to diagnose or treat any health conditions. The purpose of this form is for general health and wellness guidance only.
-
-Also, please be aware that you can always go back to review and update your answers later.
-</thinking>
-
 # Eating Habits Questionnaire - Help Guide
 ## Purpose
 This form aims to gather detailed information about your eating habits. Your responses will help us understand your dietary preferences and behaviors. Please answer the questions to the best of your ability and truthfully.

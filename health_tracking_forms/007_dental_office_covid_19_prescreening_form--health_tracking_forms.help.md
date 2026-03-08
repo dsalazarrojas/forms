@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients visiting a dental office. It's essential to ensure that patients provide accurate and up-to-date information to help the dental office understand their medical history and take necessary precautions during their visit. This form is a COVID-19 prescreening form, which means it's used to ask patients about their COVID-19 status and any related symptoms they may be experiencing. Please review the form carefully to understand its purpose and how to complete it correctly.
-
-</thinking>
-
 # dental_office_covid_19_prescreening_form - Help Guide
 ## Purpose
 This form is used to collect information from patients about their COVID-19 status and medical history before visiting the dental office. It's crucial for the office to have accurate and up-to-date information to ensure patient safety and provide necessary care.

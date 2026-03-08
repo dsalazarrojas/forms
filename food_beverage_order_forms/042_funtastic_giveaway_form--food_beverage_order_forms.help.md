@@ -1,12 +1,3 @@
-<thinking>
-This form is for creating a new "FunTastic Giveaway" event. The purpose of this form is to collect information about the event's title, category, description, and other relevant details. This form is typically used for internal purposes, and the collected data will be used for administrative tasks such as categorizing, searching, and reporting.
-
-When filling out this form, please ensure that you are not duplicating any existing records. Before submitting the form, double-check that you have filled out all required fields. If you are unsure about any field, please contact the administrator for guidance.
-
-This form is designed for easy submission, so feel free to add any necessary information in the "Description" fields. If you need to add more categories or descriptions, please do so by adding additional rows.
-
-</thinking>
-
 # FunTastic Giveaway Form - Help Guide
 ## Purpose
 The FunTastic Giveaway Form is designed to collect necessary information for categorizing, searching, and reporting on giveaway events. Please fill out the form accurately and completely to ensure proper processing.

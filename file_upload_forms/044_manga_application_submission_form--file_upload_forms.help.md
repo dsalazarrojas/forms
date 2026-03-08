@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect submission of manga applications from creators. It's a required form for creators who want to showcase their work on our platform. To avoid duplications, we check for existing submissions before accepting a new one. We aim to provide a clear and concise guide to help creators complete the form accurately.
-</thinking>
-
 # Manga Application Submission Form - Help Guide
 ## Purpose
 The Manga Application Submission Form is a form used to collect information from creators to showcase their manga series on our platform. This form helps us understand the creator's intent, work, and requirements for submission.

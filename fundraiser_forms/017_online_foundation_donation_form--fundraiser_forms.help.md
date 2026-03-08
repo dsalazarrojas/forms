@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online-foundation-donation-form - Help Guide
 
 ## Purpose

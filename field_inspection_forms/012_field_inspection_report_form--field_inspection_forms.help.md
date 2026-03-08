@@ -1,13 +1,3 @@
-<thinking>
-
-To create a field inspection report form for a given site, we will need to gather some basic information. This form will be used to document the results of an inspection of a site's physical condition and compliance with safety and regulatory requirements. The form should be filled out by the person conducting the inspection, and it should be completed as soon as possible after the inspection. The form will ask for some details about the inspection, such as the date it took place, the name of the facility being inspected, and any observations or notes made during the inspection.
-
-This form should not be used to collect any sensitive or personal information. All information collected will be for the purpose of documenting the inspection, and will not be used for any other purpose without further review and approval.
-
-This form is intended for general use, and should not be used as a substitute for other more detailed or specialized forms. For example, this form may not be suitable for collecting information on complex safety hazards or for detailed site-specific documentation.
-
-</thinking>
-
 # Field Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to record the results of a field inspection of a site's physical condition and compliance with safety and regulatory requirements.

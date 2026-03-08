@@ -1,8 +1,3 @@
-<thinking>
-We're designing this help guide to ensure that users understand the purpose and requirements of the "Online Course Content Submission Form". This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. The form is for submitting course content, including course titles, authors, dates, descriptions, files, and other relevant information. The guide will clarify each field's purpose, helping users provide accurate and complete submissions. We will also consider the specific types of files and tags that can be uploaded or selected.
-
-</thinking>
-
 # Online Course Content Submission Form - Help Guide
 ## Purpose
 This form is for submitting course content, including course titles, authors, dates, descriptions, files, and other relevant information. Please fill out the form accurately and completely to ensure that your course is properly documented and available for review.

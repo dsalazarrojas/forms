@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose of the Yoga Club Registration Form, ensuring that end-users understand its relevance and non-duplication. As a health coach, this form aims to gather information from potential yoga club members to help them find a suitable yoga class that fits their preferences and needs. The form is designed to be completed by individuals who wish to join the yoga club or inquire about specific classes. The questions cover essential details such as name, contact information, payment options, preferred type of yoga, class duration, class frequency, class schedule, start and end times, and additional information. By filling out this form, end-users will be able to provide essential details for the health coach to assist them in finding the best fit for their yoga practice.
-</thinking>
-
 # Yoga Club Registration Form - Help Guide
 ## Purpose
 The Yoga Club Registration Form is designed to gather essential information from potential members to help them find a suitable yoga class that fits their needs and preferences.

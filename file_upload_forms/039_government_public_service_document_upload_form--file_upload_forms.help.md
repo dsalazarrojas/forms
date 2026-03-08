@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for government public service organizations to collect documents from citizens. The purpose of this form is to allow citizens to upload their public service documents, such as birth certificates, ID cards, or other relevant documents. This form is intended to be used by government public service organizations to streamline the process of collecting and verifying documents from citizens.
-
-To use this form, the following pages will be displayed one by one. Please answer all required fields to complete the form.
-
-</thinking>
-
 # Government Public Service Document Upload Form - Help Guide
 ## Purpose
 The Government Public Service Document Upload Form is designed to collect documents from citizens for government public service organizations.

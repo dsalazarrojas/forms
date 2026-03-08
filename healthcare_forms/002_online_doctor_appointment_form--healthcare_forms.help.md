@@ -1,7 +1,3 @@
-<thinking>
-The form is used to schedule an online doctor appointment. The form requires the patient's information, appointment details, and doctor selection. The patient is asked to provide their name, email, phone number, medical practice address, and medical practice email. The patient must also select the available doctor, date, time, appointment length, reason for visit, and confirm or deny having medical history. The form includes spaces for special instructions, medical practice address, phone number, and a message. The patient must read and accept the terms and conditions before submitting the form. This form ensures that patients can book appointments online, and doctors can manage their availability and schedule.
-</thinking>
-
 # online_doctor_appointment_form - Help Guide
 ## Purpose
 The online_doctor_appointment_form is used to schedule online appointments for patients.

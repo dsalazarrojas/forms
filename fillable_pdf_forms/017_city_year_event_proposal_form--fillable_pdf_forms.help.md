@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help event organizers submit proposals for city events. To ensure that all event proposals are relevant and unique, please note that we only accept new proposals for events not already listed on our event calendar. Before proceeding, please check our calendar to avoid duplication. If you have any questions or need clarification, feel free to reach out to us.
-</thinking>
-
 # City Year Event Proposal Form - Help Guide
 ## Purpose
 The City Year Event Proposal Form is a submission tool for event organizers to propose events to be held in the city. This form helps us understand your event's details, ensuring that we can review and respond to your proposal efficiently.

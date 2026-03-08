@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to assess an employee's social emotional learning skills in the workplace. The form collects information on the employee's emotional intelligence, social skills, and work environment. The form is intended for use in an educational or training setting to help employees develop their social skills and work environment. Please ensure that you are only completing this form for the purpose of social emotional learning in the workplace, and not for any other purpose. Also, ensure that you are not duplicating this form for other purposes.
-</thinking>
-
 # Social Emotional Learning In The Workplace Test Form - Help Guide
 ## Purpose
 This form is designed to evaluate an employee's social emotional learning skills in the workplace.

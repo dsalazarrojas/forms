@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to import scores data from a file into a system. The main intent is to allow users to upload a file containing their team's scores for a specific match round. However, before proceeding with the form, it's essential to check if there's already an existing team with the same name in the system, as duplicate team names are not allowed. It's also crucial to ensure that the file uploaded contains the correct data format for the import process to succeed.
-</thinking>
-
 # Team Scores Import Form - Help Guide
 ## Purpose
 The Team Scores Import Form is a tool to import scores data from a file into the system for a specific match round. This form helps users upload their team's scores for the match round in question.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for financial institutions to document the discharge of a financial advisor from a client. It captures various details regarding the advisor, the client, and the reason for termination.
-</thinking>
-
 # Financial Advisory Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of a financial advisor from a client. It captures details about the advisor, the client, and the reason for termination.

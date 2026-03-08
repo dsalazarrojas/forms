@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information for a virtual reality production grant application. This form is likely intended for individuals or organizations applying for funding to support the creation of virtual reality (VR) content, such as games, simulations, or experiences. The purpose of this form is to gather necessary details about the project, its budget, and the applicant's contact information. It's probable that this form is used by a funding agency or organization to assess the viability and feasibility of the project.
-
-To confirm the form's purpose and relevance, let's review the input schema: it includes fields for budget, project budget, production schedule, project lead, team members, contact person, email, phone, address, and website. These fields suggest that the form is primarily focused on collecting project-related information and contact details, which aligns with the purpose of a grant application.
-
-Before proceeding with the help guide, ensure that you have reviewed and filled out this form in the past to confirm that the information is accurate and comprehensive. This form appears to be a standard application form for a grant or funding request, and the fields seem to cover all relevant details. 
-
-</thinking>
-
 # Virtual Reality Production Grant Application - Help Guide
 
 ## Purpose

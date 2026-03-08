@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users registering new arachnid species, providing all necessary details for the proper classification and documentation of the specimen.
-
-The form is divided into sections that guide users through the registration process. The purpose of this form is to collect essential data about the arachnid species, including researcher information, discovery details, specimen description, and documentation. The form is designed to ensure that all necessary information is captured accurately and thoroughly.
-
-To ensure that your data is properly registered, please follow the instructions in this guide.
-
-</thinking>
-
 # Arachnid Species Registration - Help Guide
 ## Purpose
 The Arachnid Species Registration form is designed to collect detailed information about newly discovered arachnid species. This form helps researchers and scientists to properly classify and document the species, ensuring accurate and comprehensive data.

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for assessing the skills, experience, and job performance of a financial expert. The form is designed to gather information about the candidate's background, job history, and performance. It may be used for evaluation purposes, such as performance reviews or promotions.
-
-To prevent duplication, let's check if there's a similar form already in use. After checking, we find that this form is a variation of a common assessment form used in the finance industry. We will make sure to highlight the key differences and clarify any ambiguities in the explanation below.
-
-</thinking>
-
 # Financial Expert Assessment - Help Guide
 
 ## Purpose

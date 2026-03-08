@@ -1,12 +1,3 @@
-<thinking>
-  The purpose of this form is to collect information for a heroic legacy exhibition registration, which is likely a platform for showcasing and promoting artists' work. This form is likely used for internal or external registration processes, such as artist submissions or exhibition curation.
-
-  The form is not meant to be a one-size-fits-all solution, so please ensure that you are using it for its intended purpose and not duplicating similar forms for other unrelated uses.
-
-  This guide will walk you through the fields and options available on the form.
-
-</thinking>
-
 # heroic-legacy-exhibition-registration - Help Guide
 ## Purpose
 This form is designed to collect information for a heroic legacy exhibition registration, allowing artists to showcase their work and connect with potential clients or exhibition organizers.

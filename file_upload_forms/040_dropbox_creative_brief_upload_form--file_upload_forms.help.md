@@ -1,5 +1,3 @@
-<thinking>...this form is designed to allow users to upload files related to a creative brief in a controlled and structured manner, with a specific category and file selection options... this form will help to ensure that the uploaded content is relevant and does not duplicate existing content...</thinking>
-
 # Dropbox Creative Brief Upload Form - Help Guide
 ## Purpose
 The Dropbox Creative Brief Upload Form is a user-friendly interface for uploading files related to a creative brief in a structured and controlled manner.

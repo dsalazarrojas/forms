@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track an individual's meditation habits, allowing them to reflect on their daily, weekly, or monthly meditation practice. The form aims to gather information on the type of meditation practiced, the duration of each session, the frequency of practice, and the individual's consistency and progress in meditating. The goal is to help users understand their meditation habits and identify areas for improvement.
-</thinking>
-
 # Meditation Habit Tracker - Help Guide
 ## Purpose
 This form is designed to track an individual's meditation habits, allowing them to reflect on their daily, weekly, or monthly meditation practice.

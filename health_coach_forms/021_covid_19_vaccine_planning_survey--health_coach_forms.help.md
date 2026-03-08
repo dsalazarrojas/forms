@@ -1,16 +1,3 @@
-<thinking>
-This form is a data collection tool for healthcare organizations to provide information about their COVID-19 vaccine planning. 
-The form aims to gather details about the organization, its vaccine distribution plan, storage capabilities, administration capacity, and safety protocols. 
-The form is designed to help organizations assess their readiness for COVID-19 vaccination. 
-
-The form is a one-time data collection tool and will not be used for any other purpose. 
-The data collected will be used to understand the current state of vaccine distribution and administration in healthcare organizations.
-
-Please note that some fields are optional and are marked as "note". 
-Please answer each question carefully as it will help us better understand your organization's capabilities.
-
-</thinking>
-
 # COVID 19 Vaccine Planning Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your organization's COVID-19 vaccine planning and capabilities. This includes details about your organization, vaccine storage, administration, and safety protocols.

@@ -1,14 +1,3 @@
-<thinking>
-The Simple Annual Performance Review Form is a digital document used to evaluate an employee's performance over a specific period of time. This form is typically filled out by the employee and their supervisor at the beginning and end of the review period. It helps the supervisor to provide feedback and goals for the employee to work on during the next review period. The form should not be used for formal performance evaluations or performance-related issues that require immediate attention.
-
-Before proceeding, make sure you have reviewed any relevant internal documentation and have the necessary information and access to complete the form accurately and efficiently.
-
-Please note that this form is for general guidance and support only. If you are unsure about any specific questions or fields, please consult with your supervisor or HR representative.
-
-This form has multiple pages and fields that need to be filled out. Please follow the instructions below to complete it properly.
-
-</thinking>
-
 # Simple Annual Performance Review Form - Help Guide
 ## Purpose
 The Simple Annual Performance Review Form is a digital document used to evaluate an employee's performance over a specific period of time. It helps the supervisor to provide feedback and goals for the employee to work on during the next review period.

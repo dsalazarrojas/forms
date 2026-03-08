@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to apply for an income certificate, likely for official or tax purposes. Before starting the application, ensure that you are eligible for this specific type of certificate and that you have not already submitted an application for the same purpose. This form is designed to collect personal and employment information from applicants to assess their qualifications and generate an income certificate accordingly.
-</thinking>
-
 # Income Certificate Application Form - Help Guide
 ## Purpose
 This form is designed to help individuals apply for an income certificate. It is intended for official or tax-related purposes. Please ensure that you are eligible for this specific type of certificate and that you have not already submitted an application for the same purpose.

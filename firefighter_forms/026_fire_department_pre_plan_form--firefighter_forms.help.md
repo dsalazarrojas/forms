@@ -1,9 +1,3 @@
-<thinking>
-The form is intended for firefighters to quickly and efficiently submit information about a potential fire hazard or emergency situation. This form will serve as a pre-plan for the fire department to better prepare and respond to the situation. It is likely used by emergency services to gather information and coordinate efforts.
-The form is not intended for general public use. Only authorized users should access this form.
-The form fields are self-explanatory and should be filled in according to the following guidelines.
-</thinking>
-
 # Fire Department Pre-Plan Form - Help Guide
 ## Purpose
 The Fire Department Pre-Plan Form is a tool used by firefighters to quickly submit information about a potential fire hazard or emergency situation, allowing the fire department to better prepare and respond.

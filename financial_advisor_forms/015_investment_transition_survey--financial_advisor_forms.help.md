@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients transitioning their investments. The form should be used to understand their current investments, the type of transition they are undergoing, and their satisfaction with the transition process. This form is designed to be completed by clients who are changing their investment portfolio or strategy, and it's essential to ensure that the information collected is accurate and complete.
-</thinking>
-
 # Investment Transition Survey - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are transitioning their investments, allowing us to understand their current investments, the type of transition they are undergoing, and their satisfaction with the process.

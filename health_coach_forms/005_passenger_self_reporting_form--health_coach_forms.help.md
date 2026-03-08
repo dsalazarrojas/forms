@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow passengers to report their own travel information and potential exposures to COVID-19. The form is intended to be completed by passengers as part of the pre-boarding process or as required by public health authorities. By completing this form, passengers are helping to protect their own health and the health of others by accurately reporting their travel history and any potential risks.
-</thinking>
-
 # Passenger Self Reporting Form - Help Guide
 ## Purpose
 The Passenger Self Reporting Form is designed to collect essential information from passengers about their recent travel history and potential exposures to COVID-19.

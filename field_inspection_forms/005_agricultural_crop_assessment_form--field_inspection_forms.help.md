@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from a field inspector about their assessment of an agricultural crop. The form is designed to gather data on the crop's health, growth stage, and any issues observed such as pests or diseases. This information can be used by farmers, agronomists, or other stakeholders to inform decisions on crop management and potential interventions. This form should only be filled out by individuals who have performed a physical assessment of the crop in the field.
-
-Before proceeding, make sure that you have not completed this form for this crop before, as this would indicate a duplicate assessment. If you are unsure, please contact your supervisor or refer to your organization's guidelines for duplicate assessment policies.
-
-</thinking>
-
 # Agricultural Crop Assessment Form - Help Guide
 ## Purpose
 

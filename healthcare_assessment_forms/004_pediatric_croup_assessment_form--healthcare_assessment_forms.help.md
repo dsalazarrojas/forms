@@ -1,18 +1,3 @@
-<thinking> 
-To ensure that the Pediatric Croup Assessment Form is used correctly and effectively, it's essential to understand its purpose and the process of completing it. This form is a crucial tool for healthcare professionals to assess and diagnose croup in children, a common condition characterized by a barking cough and potentially serious symptoms.
-
-When filling out this form, healthcare providers are gathering vital information about the patient's condition, medical history, and treatment administered. This form helps healthcare professionals to quickly identify potential red flags, such as difficulty breathing or a high-pitched cry, which can aid in determining the severity of the condition.
-
-To ensure accuracy and consistency, the form should only be filled out by authorized healthcare professionals. 
-
-Please note that if the patient has a medical record number, it should be recorded in the "Medical Record Number" field. If the patient does not have a medical record number, this field can be left blank. 
-
-Additionally, when filling out the "Follow-Up Status" and "Follow-Up Date" fields, please note that these are not necessarily related to future appointments, but rather the status of the patient's current visit and the date of the visit respectively. 
-
-The "Phone Number" and "Email" fields should be used for contact information purposes only and should not be used for any other purpose. 
-
-</thinking>
-
 # Pediatric Croup Assessment Form - Help Guide
 ## Purpose
 The Pediatric Croup Assessment Form is a crucial tool for healthcare professionals to quickly and accurately assess and diagnose croup in children. It helps gather vital information about the patient's condition, medical history, and treatment administered.

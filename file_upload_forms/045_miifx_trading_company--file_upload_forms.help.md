@@ -1,19 +1,3 @@
-<thinking>
-This is the internal reasoning block to create a user-facing help guide for the Miifx Trading Company form. I will be creating a help guide that includes a brief explanation of the form's purpose, how to complete it, and a field-by-field explanation of each field. The form appears to be for gathering file upload information and details from users, likely for a trading company.
-
-Form fields include:
-
-* File Upload: a text field for uploading files
-* Contact Information: a text field for collecting contact information
-* File Details: a text field for providing file details
-* File Security: a text field for providing file security information
-* File Upload Status: a radio button with options 'Yes' and 'No'
-* File Info: a text field for providing file information
-
-The form appears to be optional, with no fields requiring input from the user.
-
-</thinking>
-
 # Miifx Trading Company - Help Guide
 ## Purpose
 The Miifx Trading Company form is designed to collect information from users about file uploads and details. This form is likely used for internal purposes within the company, such as tracking and organizing files. Completing this form will help the company understand more about the files being uploaded and ensure their security and status.

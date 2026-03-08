@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to report any damage found on a flight. This form should be completed by the crew or staff in charge of managing flight safety and quality control. 
-The form should only be filled out when a flight has sustained damage during the flight or upon return, and there is an immediate need to report it.
-</thinking>
 # Flight Damage Report Form - Help Guide
 ## Purpose
 This form is used to report any damage found on a flight. It should only be completed by the crew or staff in charge of managing flight safety and quality control when a flight has sustained damage during the flight or upon return.

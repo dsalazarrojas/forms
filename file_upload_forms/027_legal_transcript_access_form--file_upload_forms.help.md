@@ -1,5 +1,3 @@
-<thinking>This form is for users to request access to legal transcriptions from our organization. This form will collect some basic contact information and a copy of the legal transcript to facilitate access request processing.</thinking>
-
 # legal_transcript_access_form - Help Guide
 ## Purpose
 The purpose of this form is to collect user information and a scanned copy of the legal transcript to process requests for access to legal transcriptions.

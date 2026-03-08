@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the COVID-19 Related Complaint Form, which is used to report incidents related to COVID-19. This form is crucial for ensuring that all necessary information is collected in a structured and organized manner. 
-
-Before starting, please note that this form should only be filled out for incidents that are directly related to COVID-19. If you are unsure whether an incident is related to COVID-19, please contact the relevant authorities or consult with a medical professional.
-
-To avoid duplication of efforts, please ensure that you are not filling out this form for an incident that has already been reported. 
-</thinking>
-
 # covid_19_related_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents related to COVID-19, ensuring that all necessary details are captured in a structured manner. This includes reporting symptoms, contact information, and other relevant details.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather information from the user about a senior who is being recognized. This information will be used to create a personalized recognition award or gift for the senior. The user will be asked to provide details about the senior's achievements, a brief story or anecdote about the senior, and contact information to facilitate communication. The form is not limited to a specific format, and the user can choose to provide as much or as little information as they want. The form is designed to be completed by someone who knows the senior well, such as a colleague or friend.
-The form will be used to create a customized recognition award or gift that reflects the senior's accomplishments and personality. The user's input will help to make the recognition more personal and meaningful.
-The form will only be used for internal purposes within the organization, and the information gathered will not be shared outside of the organization.
-</thinking>
-
 # Senior Recognition Survey - Help Guide
 ## Purpose
 The Senior Recognition Survey is a form used to gather information about a senior who is being recognized, allowing for a personalized and meaningful recognition award or gift to be created. This form is designed to be completed by someone who knows the senior well and is intended for internal use within the organization.

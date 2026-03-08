@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting participant information and contact details for public health initiatives. It ensures that participants are aware of how their data will be used and stored, which is crucial for maintaining confidentiality and data integrity. To prevent duplication, this form should only be used for new participants. Please verify that you are not filling out this form for an existing participant before proceeding. The form will ask for some personal details, contact information, and potentially other relevant data. Please ensure all fields are accurate to the best of your ability.
-</thinking>
-
 # public_health_initiative_consent_form - Help Guide
 ## Purpose
 The public_health_initiative_consent_form is designed to collect participant information and contact details for public health initiatives. It ensures data confidentiality and integrity while allowing for accurate contact and communication.

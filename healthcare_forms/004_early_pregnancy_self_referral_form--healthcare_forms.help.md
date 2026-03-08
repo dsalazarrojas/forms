@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to gather information from patients about their medical history, pregnancy information, and contact details. It is designed to be filled out by patients themselves, and the data collected will be used to support their healthcare journey. Please ensure that you are filling out this form accurately and truthfully. If you have any doubts or concerns about this form, please reach out to your healthcare provider for clarification. 
-</thinking>
-
 # early_pregnancy_self_referral_form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's medical history, pregnancy information, and contact details from patients themselves.

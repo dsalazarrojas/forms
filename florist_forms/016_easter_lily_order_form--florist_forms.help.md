@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process Easter lily orders. To avoid duplication, please ensure that you are not already working on an Easter lily order for the same customer. Before proceeding, review the customer's details and ensure that the delivery date is accurate.
-</thinking>
-
 # easter_lily_order_form - Help Guide
 ## Purpose
 The Easter lily order form is used to collect information from customers for Easter lily orders. This form is designed to gather essential details such as delivery date, order details, quantity, customer information, and order notes.

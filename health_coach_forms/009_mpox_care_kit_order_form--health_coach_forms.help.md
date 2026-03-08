@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mpox Care Kit Order Form - Help Guide
 ## Purpose
 The Mpox Care Kit Order Form is designed to collect information from customers to fulfill their specific needs for a Mpox care kit. This form helps you to understand their preferences for the kit type, size, and additional items, ensuring that the order is accurate and efficient. 

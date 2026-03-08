@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for search image uploads. It is intended to be filled out by users who wish to upload images for search purposes, which may include searching for specific images or uploading images to be searched by others. To avoid duplication, please ensure that you are not already uploading the same image. Please review the form carefully before submitting.
-</thinking>
-
 # image_upload_for_search - Help Guide
 ## Purpose
 The form is used to collect information for search image uploads, which can be used to search for specific images or upload images to be searched by others.

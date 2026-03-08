@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about food items, specifically to screen them for compliance with regulatory requirements. The form asks for details about the supplier, product, and documentation to ensure accuracy and completeness. It's essential to fill out this form carefully to avoid errors and potential issues. Make sure to read each section carefully and fill in the relevant information accurately. If you're unsure about any part of the form, please refer to the provided help guide or contact us for assistance.
-</thinking>
-
 # Food Item Screening Declaration Form - Help Guide
 ## Purpose
 The Food Item Screening Declaration Form is designed to gather accurate and complete information about food items to be screened for regulatory compliance. This form is used to ensure that food items meet the necessary standards and regulations.

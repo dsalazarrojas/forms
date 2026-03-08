@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in coaching services. The form is meant to be a starting point for the coaching process, gathering essential details about the individual's personal background, contact information, medical history, exercise history, and any relevant documents they may have. The form also includes a section for additional notes and a confirmation page to ensure the individual has reviewed their submitted information accurately. The form is not affiliated with any specific survey platform and can be used freely with proper credit. This guide will walk you through each section of the form to ensure a smooth and accurate completion process.
-
-</thinking>
-
 # Online Coaching Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in coaching services. It's a starting point for the coaching process, gathering essential details to help our coaching team provide personalized guidance and support.

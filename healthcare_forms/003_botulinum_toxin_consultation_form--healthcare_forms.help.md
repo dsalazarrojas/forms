@@ -1,9 +1,3 @@
-<thinking>
-
-As the form designer and technical writer, I will create a comprehensive user-facing help guide for the Botulinum Toxin Consultation Form.
-
-</thinking>
-
 # Botulinum Toxin Consultation Form - Help Guide
 ## Purpose
 The Botulinum Toxin Consultation Form is designed to gather essential information about patients, including their personal details, medical history, and preferences regarding botulinum toxin treatment. This form helps healthcare professionals to assess the patient's eligibility for botulinum toxin injections and provide personalized care.

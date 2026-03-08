@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to gather contact information and aftercare instructions from clients who have undergone microdermabrasion treatments. The form should be completed by clients to provide their contact details and any relevant information about their treatment and aftercare needs. This form will likely be used by medical professionals to communicate with clients and provide personalized aftercare advice. It's essential to note that this form is not intended to be a formal authorization form, but rather a collection of data to be used in conjunction with other relevant information.
-
-</thinking>
-
 # Microdermabrasion Aftercare Form - Help Guide
 ## Purpose
 This form is designed to collect essential contact and aftercare information from clients who have undergone microdermabrasion treatments. Completing this form helps medical professionals provide personalized aftercare advice and communicate effectively with clients.

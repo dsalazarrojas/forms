@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Frozen Ingredient Replenishment Order Form - Help Guide
 ## Purpose
 This form is designed to help you manage the frozen ingredient replenishment process for your business. It allows you to submit orders for frozen ingredients, providing essential information for efficient inventory management and logistics.

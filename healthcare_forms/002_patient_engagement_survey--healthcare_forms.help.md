@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients about their experience at a healthcare facility. The goal is to gauge patient engagement and satisfaction with the care they received. The form is divided into sections for personal information, service quality, satisfaction, areas for improvement, and additional feedback.
-
-To ensure that your form meets our standards and isn't duplicating efforts, we'll review your submission.
-
-</thinking>
-
 # Patient Engagement Survey - Help Guide
 ## Purpose
 The Patient Engagement Survey is a tool to measure patient satisfaction and engagement. By understanding your experience, we can refine our services to better meet your needs.

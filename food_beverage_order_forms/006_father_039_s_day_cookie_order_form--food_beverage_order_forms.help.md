@@ -1,16 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the creation of orders for cookies, typically for fathers' day celebrations. This form allows users to specify details about the order, including the desired cookie shape, size, and any special message to be written on the cookie. The form also requests information to contact the orderer, such as name, phone number, and email address. Additionally, it captures the date and time of the order, notes, and the number of cookies requested. This form is intended for customers to place orders for cookies, which will be processed internally.
-
-Before proceeding, please ensure that you have not placed this order before, and that you are aware of the following:
-- This form is intended for new orders only.
-- Please be accurate with the details provided as they will be used to fulfill your order.
-- This form does not support cancellations, modifications, or changes to existing orders.
-
-Please be aware that this form will be reviewed by a member of our team before it is processed.
-
-</thinking>
-
 # Fathers Day Cookie Order Form - Help Guide
 ## Purpose
 This form is used to create a cookie order for fathers day celebrations.

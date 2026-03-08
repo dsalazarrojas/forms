@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to register access to financial statements. This form is intended for individuals who wish to access their financial information or have someone else access their financial information on their behalf. The form will ask for personal and account-specific details to ensure that the request is valid and secure.
-
-This form may be used by financial institutions to verify the identity and authority of individuals requesting access to financial information. 
-
-Before submitting this form, please ensure that you are requesting access for a legitimate purpose and that you have the necessary authorization to do so. 
-
-Please note that this form is not for internal use within the institution, and any duplication of this form may lead to unnecessary processing and potential security risks.
-
-</thinking>
-
 # Financial Statement Access Registration Form - Help Guide
 
 ## Purpose

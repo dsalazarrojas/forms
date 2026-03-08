@@ -1,7 +1,3 @@
-<thinking>
-This form is used for uploading an image file for recognition purposes. The goal is to provide a clear and concise way to collect user-provided image files along with relevant metadata such as description and type of recognition required. This will help in efficient processing and categorization of the uploaded images. Please make sure you're using this form for its intended purpose and not for other file types or purposes. If you're unsure, please check with your supervisor or contact the relevant department for clarification.
-</thinking>
-
 # image_upload_for_recognition - Help Guide
 ## Purpose
 The form is designed to collect image files for recognition purposes. This includes uploading images for Identification, Analysis, or Both recognition types.

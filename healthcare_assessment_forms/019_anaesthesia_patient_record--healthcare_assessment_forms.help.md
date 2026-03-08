@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather essential information for the anaesthesia team to assess and document the patient's status during and after surgery. The goal is to ensure accurate and complete data for the patient's medical record. This form should only be used for patients undergoing anaesthesia and should be completed by medical professionals.
-
-Before filling out this form, please ensure that you have the necessary information about the patient and are familiar with the anaesthesia procedures and protocols. 
-
-To avoid duplication of effort, please check if the patient's anaesthesia record is already up-to-date before proceeding.
-
-This form is divided into three main sections: Patient Record, Medical History, and Intra/Post-Operative Notes. Each section has specific fields that require completion to ensure comprehensive care for the patient.
-
-Please note that some fields are required for accurate and safe anaesthesia administration, while others are optional but important for thorough record-keeping.
-</thinking>
-
 # Anaesthesia Patient Record - Help Guide
 ## Purpose
 The Anaesthesia Patient Record form is designed to document a patient's information, medical history, and intraoperative and post-operative data to ensure accurate and comprehensive care during and after surgery.

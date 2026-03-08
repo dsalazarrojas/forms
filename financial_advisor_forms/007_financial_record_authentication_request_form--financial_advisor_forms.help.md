@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Record Authentication Request Form - Help Guide
 ## Purpose
 

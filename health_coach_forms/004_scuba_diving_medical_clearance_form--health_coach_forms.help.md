@@ -1,11 +1,3 @@
-<thinking>
-This form is used to evaluate the medical suitability of individuals for scuba diving activities. It gathers information about the diver's general health, medical conditions, medications, medical history, travel history, medical certifications, allergies, medical clearance, signature, date, time, note, email, and phone number. The form's purpose is to ensure that the diver is aware of and meets the necessary medical requirements for scuba diving, thus reducing the risk of accidents and ensuring a safe experience for the diver and others in the diving environment.
-
-Please ensure that you are filling this form for the right purpose. If you are an individual who needs to undergo a medical evaluation for scuba diving, please fill in the form accurately and completely. If you are filling this form for someone else, please ensure that you are doing so for their medical evaluation and not as a prank or other unauthorized action.
-
-Before proceeding, please note that this form is not a substitute for a thorough medical examination by a licensed healthcare professional. In case of doubt, consult a doctor or a licensed healthcare professional.
-</thinking>
-
 # Scuba Diving Medical Clearance Form - Help Guide
 ## Purpose
 The Scuba Diving Medical Clearance Form is designed to help individuals evaluate their medical suitability for scuba diving activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for music promotion purposes. The form is designed to gather details about an artist's music, including their contact information, music type, genre, and promotional materials. This form is likely used by music industry professionals or event organizers to collect information from artists for promotional purposes. This form's fields are designed to be straightforward and easy to complete.
-</thinking>
-
 # music_promotion_form - Help Guide
 ## Purpose
 The music promotion form is used to collect information for music promotion purposes. This includes details about the artist, their music, and promotional materials.

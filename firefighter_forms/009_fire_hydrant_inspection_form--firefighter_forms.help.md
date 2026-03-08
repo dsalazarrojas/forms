@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for firefighters to conduct inspections on fire hydrants and report on their status, description, and any issues found. This form ensures that the fire hydrants are regularly checked to ensure they are in good working condition and can be accessed in case of an emergency. The goal is to maintain accurate and up-to-date records of fire hydrant locations, status, and any issues that may arise.
-</thinking>
-
 # Fire Hydrant Inspection Form - Help Guide
 ## Purpose
 The Fire Hydrant Inspection Form is used to inspect and report on the status of fire hydrants. This form is used to maintain accurate and up-to-date records of fire hydrant locations, status, and any issues that may arise.

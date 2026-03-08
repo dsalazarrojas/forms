@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medication Intervention Assessment - Help Guide
 ## Purpose
 The Medication Intervention Assessment form is designed to collect information about a patient's current medication regimen and any potential changes or concerns related to their medication. This form helps healthcare professionals assess the patient's medication status and identify potential issues that require attention.

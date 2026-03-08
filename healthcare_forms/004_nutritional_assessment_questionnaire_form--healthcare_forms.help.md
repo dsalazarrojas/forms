@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information on a patient's nutritional status, specifically their blood sugar levels, fatty acid levels, inflammation levels, toxicity, eating habits, food intake, blood pressure, body mass index, and cholesterol levels. The purpose of this form is to provide a comprehensive assessment of a patient's nutritional health.
- 
-The form consists of 10 questions, each asking about a different aspect of nutritional health. The questions are divided into two categories: select_one (single choice) and number (numeric input). 
-Please note that this form does not require any input data and is used for informational purposes only.
-</thinking>
-
 # Nutritional Assessment Questionnaire Form - Help Guide
 ## Purpose
 The Nutritional Assessment Questionnaire Form is a tool used to collect information on a patient's nutritional status, providing a comprehensive assessment of their health.

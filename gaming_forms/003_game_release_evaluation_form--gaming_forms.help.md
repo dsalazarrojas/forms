@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate a game's release, gathering information about its version, name, platform, overall rating, and other relevant details. To ensure accuracy, please complete this form for each game release.
-</thinking>
-
 # Game Release Evaluation Form - Help Guide
 ## Purpose
 The Game Release Evaluation Form is used to collect feedback and information about a game's release.

@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information for a champagne ordering process. It is intended for customers or event planners to place an order for champagne. The form includes fields for date of order, customer information (name, email, phone number), event details (event date, type, and location), and order specifics (champagne type, bottle size, quantity, and payment method). To use this form, follow the steps below. </thinking>
-
 # Champagne Order Form - Help Guide
 ## Purpose
 This form is used to place an order for champagne. It will ask for information such as event details, customer contact information, and order specifics. This will help us ensure accurate and timely delivery and billing.

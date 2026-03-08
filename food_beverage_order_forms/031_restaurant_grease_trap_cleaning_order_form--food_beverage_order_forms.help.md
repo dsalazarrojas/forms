@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for restaurant grease trap cleaning orders. The form is likely used by restaurant staff to report or request maintenance for the grease traps in their establishment. It is intended for internal use within the restaurant management team. This form does not appear to have any fields that are specific to the form submission itself (e.g., date and time of submission), instead focusing on collecting details about the grease trap to facilitate proper cleaning and maintenance. There does not seem to be any redundancy in fields, and all fields are relevant to the purpose of the form.
-</thinking>
-
 # Restaurant Grease Trap Cleaning Order Form - Help Guide
 
 ## Purpose

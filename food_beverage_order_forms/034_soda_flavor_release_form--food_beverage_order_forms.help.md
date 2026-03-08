@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a tool for releasing new or modified flavors of soda to the market. It collects information about the flavor, including its name, description, release date and time, target audience, and various permissions related to its usage. The form is divided into sections that cover different aspects of the flavor release, such as product category, subcategory, and target audience.
-
-Before proceeding, we need to ensure that we understand the purpose of this form and what information it is intended to capture. The form is likely used by personnel within a company responsible for managing and maintaining their product line and ensuring that new or updated flavors are properly released and approved for consumption.
-
-We will review the form layout and explain each field in detail to help the user understand what information is required and what is intended by each field.
-
-</thinking>
-
 # Soda Flavor Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about new or modified flavors of soda. It is intended to be used by personnel within a company to manage and release new flavors to the market.

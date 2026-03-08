@@ -1,7 +1,3 @@
-<thinking>
-This form is used to upload character designs for a game. The form collects information about the character, including its details, description, image URL, game name, designer's name, and game and character types. The information will be used to populate a database for game design data management. Please ensure that the form is not duplicated for the same purpose. If you are unsure about any field, kindly contact the relevant team for clarification.
-</thinking>
-
 # Game Character Design Upload Form - Help Guide
 ## Purpose
 The Game Character Design Upload Form is used to upload character designs for a game. It is a critical component of the game development process, allowing designers to provide essential information about each character in a structured and organized manner.

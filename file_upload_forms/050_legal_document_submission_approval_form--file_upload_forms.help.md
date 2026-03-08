@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for legal document submission. The submitter uploads a document and provides their information, which is reviewed and approved by an approver. The form is used to track the status of the submission and to record the comments and signatures of both the submitter and the approver. The form is not required for any specific legal purpose, but rather serves as a general tool for managing document submissions.
 
 # Legal Document Submission Approval Form - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from game music composers who want to collaborate on a project. The form is not affiliated with, endorsed by, or derived from any form platform, and it was created using a combination of public survey topic metadata and AI algorithms. The form's purpose is to gather data about the composer's game studio experience, preferred genres, portfolio URL, genre preferences, experience details, and composer portfolio. This form will likely be used by game developers, music supervisors, or other industry professionals looking for talented collaborators.
-
-</thinking>
-
 # Game Music Composer Collaboration Application - Help Guide
 ## Purpose
 This form is designed to help game music composers collaborate on music projects with game developers, music supervisors, or other industry professionals. The form collects information about the composer's game studio experience, preferred genres, portfolio URL, genre preferences, experience details, and composer portfolio.

@@ -1,17 +1,3 @@
-<thinking>
-The form's purpose is to collect information from gamers who want to submit their scores to a leaderboard for a specific game. This form is likely used for tracking and comparing player scores across different games and leaderboards. To prevent duplication, the form might check if a player has already submitted a score for the same game and leaderboard within a certain time frame.
-
-The form has 7 fields:
-- Player Name: This field is likely used to identify the player submitting the score.
-- Score: This field is used to store the player's score.
-- Game Name: This field is used to specify the game being played.
-- Team Name: This field is optional and might be used to store the team the player is playing with.
-- Leaderboard Name: This field is used to store the name of the leaderboard the score is being submitted to.
-- Submission Date: This field is likely used to store the date and time of when the score was submitted.
-- Score Value: This field is used to store the actual score value (if different from the score field).
-
-</thinking>
-
 # Gaming Leaderboard Submission - Help Guide
 ## Purpose
 The Gaming Leaderboard Submission form is used to collect scores from players for a specific game on a designated leaderboard.

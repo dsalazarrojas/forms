@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end users to apply for the GANG (Gaming Access Network Group) program. The purpose of the form is to gather information from individuals who are interested in joining the GANG program. The form will be reviewed and evaluated for suitability for the program. Please only submit the form if you are serious about joining the GANG program.
-</thinking>
-
 # GANG Application Form - Help Guide
 ## Purpose
 The GANG Application Form is a self-service application form designed for individuals interested in joining the GANG program. The form will be reviewed and evaluated for suitability for the program.

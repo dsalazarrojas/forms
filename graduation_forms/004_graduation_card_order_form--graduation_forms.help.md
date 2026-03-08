@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who want to order graduation cards. It's intended for users who need to place an order for graduation cards, likely for a school or university event. The form is likely used by administrators or coordinators to gather essential details from customers before fulfilling their requests. 
-
-The purpose of this form is to ensure that all necessary information is collected accurately and efficiently, reducing errors and misunderstandings during the order process. 
-
-The form should only be used for its intended purpose and not for any other unrelated tasks. 
-
-Please use this form for ordering graduation cards only. 
-
-</thinking>
-
 # Graduation Card Order Form - Help Guide
 
 ## Purpose

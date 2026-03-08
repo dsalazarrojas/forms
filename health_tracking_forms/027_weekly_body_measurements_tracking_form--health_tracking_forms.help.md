@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Body Measurements Tracking Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess a patient's functional ability in various areas, including mobility, communication, cognitive function, personal care, and safety. It is likely intended for healthcare professionals to evaluate a patient's condition and identify areas where they may need support or interventions. The form should be completed with the patient's input, and the results can help inform care planning and decision-making.
-
-This form appears to be a comprehensive assessment tool, covering various aspects of a patient's daily life, such as independence, mobility, communication, and personal care. Before using this form, please ensure that you have permission to collect and use this information, and that you have informed the patient about the purpose and use of their data.
-
-Please note that some fields may be marked as "optional" or "required", which means that the field may or may not be necessary depending on the context. However, all required fields should be completed for a comprehensive assessment.
-
-Also, please be aware that some options may have different levels of severity or frequency, such as "Adequate", "Limited", or "Unlimited". These options should be chosen based on the patient's actual condition and ability.
-
-Before proceeding, please review the form carefully and make sure you understand each field's purpose and requirements.
-
-</thinking>
-
 # Functional Ability Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess a patient's functional ability in various areas, including mobility, communication, cognitive function, personal care, and safety.

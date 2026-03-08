@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Footwear Wear Analysis Intake Form - Help Guide
 
 ## Purpose

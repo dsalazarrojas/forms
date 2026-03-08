@@ -1,33 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and function of the "Sleep Tracker Form". The form is designed to collect data on users' sleep patterns, including sleep start and end dates and times, sleep duration, quality, and frequency. Users will be able to input their sleep start and end dates and times, select the duration and quality of their sleep, provide any relevant notes, and specify the frequency and location of their sleep.
-This form is intended for personal use, and the data collected will be stored for user's reference and reporting. The form fields are as follows:
-
-- **Sleep Tracker Form** (`sleep_tracker_form`): A text field for users to enter their sleep tracker form title.
-
-- **Sleep Start Date** (`start_date`): A date field for users to input the start date of their sleep period. This is a required field.
-
-- **Sleep Start Time** (`start_time`): A time field for users to input the start time of their sleep period. This is a required field.
-
-- **Sleep End Date** (`end_date`): A text field for users to input the end date of their sleep period. This field is required.
-
-- **Sleep End Time** (`end_time`): A text field for users to input the end time of their sleep period. This field is required.
-
-- **Sleep Duration** (`sleep_duration`): A numeric field for users to input the duration of their sleep period. This field is optional, but if selected, users will be prompted to specify the frequency of their sleep.
-
-- **Sleep Quality** (`sleep_quality`): A numeric field for users to rate the quality of their sleep. This field is optional.
-
-- **Notes** (`notes`): A text field for users to add any additional comments or notes about their sleep.
-
-- **Sleep Frequency** (`sleep_frequency`): A select field for users to choose how often they sleep. This field is optional.
-
-- **Sleep Frequency Hint** (`frequency_hint`): A text field for users to add any additional comments about their sleep frequency. This field is optional.
-
-- **Sleep Start Location** (`start_location`): A multi-select field for users to choose where they started sleeping. This field is optional.
-
-- **Sleep Start Location Hint** (`location_hint`): A text field for users to add any additional comments about the location where they started sleeping. This field is optional.
-
-</thinking>
-
 # Sleep Tracker Form - Help Guide
 
 ## Purpose

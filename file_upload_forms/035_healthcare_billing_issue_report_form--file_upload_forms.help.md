@@ -1,7 +1,3 @@
-<thinking>
-The form "Healthcare Billing Issue Report Form" is designed for patients or authorized personnel to report issues related to healthcare billing errors, discrepancies, or concerns. This form helps identify and document problems with billing, allowing healthcare providers to address and resolve these issues efficiently. Before filling out the form, please check if the issue has been previously reported to avoid duplication of effort. If you are unsure, please contact the healthcare provider's billing department for guidance.
-</thinking>
-
 # Healthcare Billing Issue Report Form - Help Guide
 ## Purpose
 This form is used to report issues or concerns with healthcare billing to the healthcare provider's billing department. This may include errors, discrepancies, or problems with billing statements.

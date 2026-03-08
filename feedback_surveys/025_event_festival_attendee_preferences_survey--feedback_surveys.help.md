@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about attendees' preferences and experiences during the festival. The purpose of this form is to gather feedback and insights that can help us better understand how to improve future events. This form is not meant to be filled out multiple times, so please only complete it once per person.
-</thinking>
-
 # Event Festival Attendee Preferences Survey - Help Guide
 ## Purpose
 The Event Festival Attendee Preferences Survey is a form designed to collect information about your experiences and preferences during the festival. Your feedback is crucial in helping us make future events more enjoyable for everyone.

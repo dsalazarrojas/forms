@@ -1,9 +1,3 @@
-<thinking>
-
-To create the user-facing help guide for the "Braintree Donation Template 3" form, I will follow the provided instructions and structure.
-
-</thinking>
-
 # Braintree Donation Template 3 - Help Guide
 ## Purpose
 The Braintree Donation Template 3 form is designed to collect donor information and donation details for fundraising efforts. This form is intended for individuals who want to make donations to support specific programs or causes.

@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to be used by inspectors to conduct a thorough assessment of a barber shop's facilities, equipment, and practices. Its purpose is to evaluate the shop's compliance with certain standards and regulations. This form should only be used by authorized personnel for official inspections.
-The form is divided into several sections, each addressing specific aspects of the shop, including cleanliness, equipment condition, and fire safety. Each section is designed to gather specific information about the shop's compliance with certain standards. This form is meant to be completed by one inspector at a time, and the results are intended to be used for official purposes only.
-There is no duplication of effort in this form, and each section is designed to be completed once the inspector has finished the previous section.
-</thinking>
-
 # Barber Shop Inspection Checklist - Help Guide
 ## Purpose
 The Barber Shop Inspection Checklist is a form used by inspectors to assess the compliance of a barber shop with certain standards. This form is designed to be completed by one inspector at a time and is intended for official purposes only.

@@ -1,5 +1,3 @@
-<thinking> This form is intended to assess the skills and knowledge of histology technicians in various aspects related to histology techniques. This assessment will help identify areas where the technician needs more training or guidance. Please ensure this form is filled out for each technician in your laboratory. </thinking>
-
 # Histology Techniques Assessment - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the histology skills and knowledge of laboratory technicians. It assesses their proficiency and experience in histology techniques, including lab background, equipment, methods, and proficiency level.

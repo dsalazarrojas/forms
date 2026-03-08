@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the referral process between healthcare providers and specialists. It collects relevant information about the patient, the specialist, and the referral details, ensuring a smooth and accurate communication. This form should not be filled out for duplicate or non-relevant referrals, such as routine check-ups or follow-up appointments. 
-</thinking>
-
 # Medical Specialist Referral Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for referrals to a medical specialist. It helps healthcare providers communicate effectively with specialists, ensuring the patient receives the best possible care.

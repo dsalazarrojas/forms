@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a Wellness Quiz that gathers user's information and preferences to provide them with personalized wellness recommendations. The purpose of this form is to collect information about the user's health and wellness goals, and to provide them with suggestions and tips on how to achieve those goals.
-This form is likely to be used by users who are interested in improving their overall well-being and want to take the first step towards a healthier lifestyle. The form should be filled out by users who are willing to provide honest and accurate information about themselves.
-To avoid duplication of effort, this form should only be filled out by users who have not previously filled out the form, or who have not already achieved their wellness goals.
-</thinking>
-
 # Wellness Quiz - Help Guide
 ## Purpose
 The Wellness Quiz is designed to help users identify areas where they can improve their well-being and provide them with personalized recommendations to achieve their health and wellness goals.

@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the CMA Plus Up Program Submission form. This form is intended for applicants to submit their applications for the CMA (Commonwealth of Massachusetts) Plus Up program. The form will be used to collect essential information from applicants, including their contact details, program preferences, financial requests, and project specifics. This guide will walk you through each step of the form submission process, explaining what each field means and how to complete it accurately.
-
-</thinking>
-
 # CMA Plus Up Program Submission - Help Guide
 ## Purpose
 The CMA Plus Up Program Submission form is used to collect information from applicants for the CMA Plus Up program. This program provides funding to support projects and initiatives that benefit the community. Please ensure that you have all the necessary information and supporting documents before submitting your application.

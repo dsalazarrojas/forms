@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is for the Adult New Patient Enrollment Form, used to capture essential information from adult patients to enroll them in a healthcare system. This form helps ensure that the patient's demographic data, contact information, and medical history are collected accurately and consistently, which is essential for providing personalized and efficient care.
-
-Before proceeding, please note that this form will collect information that may be sensitive in nature and should be completed with care. It is also designed to be completed only once for each patient, to avoid duplicate entries.
-
-</thinking>
-
 # Adult New Patient Enrollment Form - Help Guide
 ## Purpose
 The Adult New Patient Enrollment Form is a crucial part of the patient onboarding process. It collects demographic data, contact information, and medical history to create a comprehensive patient profile. This information is vital for our healthcare professionals to provide personalized care and services.

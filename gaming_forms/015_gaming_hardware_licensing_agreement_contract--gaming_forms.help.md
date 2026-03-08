@@ -1,10 +1,3 @@
-<thinking>
-This form was designed using AI-generated metadata and is not affiliated with, endorsed by, or derived from any form platform. The purpose of this form is to collect information for a gaming hardware licensing agreement contract. This form is used to gather details from users about their gaming hardware, events, and other relevant information.
-
-Before proceeding, let's verify that this form is relevant and not a duplicate. This form is intended to collect information from users in the gaming industry, specifically for licensing agreements related to gaming hardware. If you're unsure about the form's purpose or have already completed a similar form, please review the form again or contact the form creator for clarification.
-
-Assuming this form is a good fit for your needs, let's proceed to the help guide.</thinking>
-
 # Gaming Hardware Licensing Agreement Contract - Help Guide
 ## Purpose
 This form is designed to collect information for a gaming hardware licensing agreement contract.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their family's capital orientation, which includes income, employment status, relationship status, and other relevant details. This form is meant to be filled out by the client or their representative to provide accurate and comprehensive information about their family's financial situation. The purpose of this form is to ensure that we have a clear understanding of the client's needs and preferences.
-</thinking>
-
 # Family Capital Orientation Intake Form - Help Guide
 ## Purpose
 The Family Capital Orientation Intake Form is a document that collects information about the client's family capital orientation, including income, employment status, relationship status, and other relevant details. This form is used to gather accurate and comprehensive information about the client's needs and preferences.

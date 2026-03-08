@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect marketing campaign assets from users. It's intended for marketers, advertisers, and other professionals who want to upload and organize their marketing materials. The purpose of this form is to gather information about the marketing campaign, specifically the campaign name, the type of file being uploaded, and any additional context or tags associated with the campaign. 
-
-This form is part of a larger system for managing marketing campaigns, and its data will be used to categorize and prioritize uploaded files based on their type and campaign name. 
-
-Before proceeding, please ensure you're uploading the correct type of file for your campaign and that the campaign name is accurate. 
-
-This form is part of a larger system and does not duplicate or copy content from any other form platform. It's a custom-built form created using public survey topic metadata. 
-
-</thinking>
-
 # Marketing Campaign Asset Upload Form - Help Guide
 ## Purpose
 The Marketing Campaign Asset Upload Form is designed to collect marketing campaign assets from users. It helps to categorize and prioritize uploaded files based on their type and campaign name.

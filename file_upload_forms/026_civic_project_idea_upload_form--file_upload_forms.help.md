@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow civic project proposers to submit their ideas for community development projects. The purpose of this form is to collect project details, proposer information, and proposal documents to facilitate the evaluation and consideration of these proposals. Before starting, please ensure that you have a unique project idea and not a duplicate of an existing project already submitted. If you're unsure, please check with the project administrators or review the existing proposals to confirm.
-</thinking>
-
 # Civic Project Idea Upload Form - Help Guide
 ## Purpose
 This form is designed to collect project details and proposer information for civic project proposals. It guides the submitter through a step-by-step process to provide all necessary information for proposal evaluation and consideration.

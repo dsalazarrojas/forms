@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request an extension of a Medicare hospital stay waiver. The purpose of this form is to gather necessary information from the patient to support their waiver request. Please ensure that the information provided is accurate and complete before submitting the form. This form is intended for internal use only and should not be used for external purposes. 
-</thinking>
-
 # medicare-hospital-stay-waiver-extension-request - Help Guide
 ## Purpose
 The Medicare Hospital Stay Waiver Extension Request form is used to request an extension of a pre-authorized Medicare hospital stay waiver. This form must be completed and submitted for patients who require additional hospital stay time due to extenuating circumstances.

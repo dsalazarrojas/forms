@@ -1,7 +1,3 @@
-<thinking>
-Please ensure this form is relevant and not a duplicate, this form is used for submitting a Fishing License Replacement Application.
-</thinking>
-
 # Fishing License Replacement Application - Help Guide
 ## Purpose
 This form is intended for individuals who need to replace their fishing license, likely due to loss, damage, or expiration. It allows users to submit a formal application for a new fishing license.

@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed to import questions from a file, typically in a CSV or Excel format, into our question bank. The file should contain the questions, categories, and other relevant metadata. The form helps us to validate and process the uploaded file efficiently.
-The form is meant to be used by content team members and educators to import questions into the system. To avoid duplication, please ensure that the questions you are importing are not already present in the system.
-</thinking>
-
-# Question Import Form - Help Guide
+> # Question Import Form - Help Guide
 ## Purpose
 This form is designed to import questions from a file into our question bank.
 

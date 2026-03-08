@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information for a Mucoperiosteal Flap Assessment. The purpose of this form is to gather data on patient information, surgical details, and post-operative complications. The form appears to be used in the healthcare industry for assessing and documenting the results of surgeries related to mucoperiosteal flaps.
-
-Before proceeding, it's essential to ensure that the form is not being used for any other purpose. If you're not familiar with the context of this form, it's recommended to review the following documentation carefully to avoid potential errors.
-
-</thinking>
-
 # Mucoperiosteal Flap Assessment Form - Help Guide
 ## Purpose
 The Mucoperiosteal Flap Assessment Form is designed to collect and document essential information about mucoperiosteal flaps, including patient details, surgical specifics, and post-operative complications.

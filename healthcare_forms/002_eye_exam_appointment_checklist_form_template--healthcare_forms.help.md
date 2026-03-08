@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an eye exam appointment, including patient details, examination specifics, and potential allergies or medical conditions. To ensure that the form is completed accurately and effectively, follow the instructions below.
-</thinking>
-
 # Eye Exam Appointment Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to gather essential details for an eye exam appointment, such as patient information, examination type, and potential medical conditions or allergies. It helps healthcare staff to better understand the patient's needs and provide the best care possible.

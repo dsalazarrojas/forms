@@ -1,14 +1,3 @@
-<thinking>
-The form is for team applications for e-Sport teams, likely for recognition, sponsorships, or other forms of support. The purpose of this form is to collect information about the team, its members, and their online presence. To avoid duplication, it's recommended that teams only fill out this form once, and then update their information if necessary.
-
-This form has multiple fields, each serving a specific purpose. Some fields are optional, while others are required to ensure a complete and accurate submission.
-
-The form will be filled out by team representatives, typically the team leader or a designated member. The information collected will be used to verify the team's identity, evaluate their eligibility for support, and facilitate communication.
-
-The following is a guide to help fill out the form correctly:
-
-</thinking>
-
 # E_Sport_Team_Application_Form - Help Guide
 ## Purpose
 This form is designed to gather information about your e-Sport team to help us evaluate your application for support.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to evaluate the overall experience and satisfaction of a bank customer with their bank's services. The purpose of this form is to collect feedback from customers on various aspects of their experience, including account services, online banking, mobile app, customer service, branch visits, ATM accessibility, fee structure, loan services, investment services, and more. This form is intended to be completed by bank customers to provide their honest and constructive feedback.
-
-To ensure relevance and non-duplication, the form is designed to be user-friendly and easy to complete. Each field is labeled and explained clearly, and the form is organized into sections to make it easy to follow. The feedback collected from this form will help the bank improve their services and provide better experiences for their customers.
-
-To avoid duplication of effort, the form is designed to collect feedback on specific services and experiences, rather than asking customers to rate their overall satisfaction with the bank. This will help the bank identify areas that need improvement and provide targeted solutions.
-
-The form also includes questions about the customer's demographics and preferences, such as which products they use and which services they are interested in. This information will help the bank tailor their services and marketing efforts to their customers' needs.
-
-Overall, this form is an essential tool for banks to collect feedback from their customers and improve their services. By using this form, banks can gain valuable insights into their customers' experiences and preferences, and make data-driven decisions to drive business growth and customer satisfaction.
-</thinking>
-
 # Bank Customer Evaluation Form - Help Guide
 ## Purpose
 The Bank Customer Evaluation Form is designed to collect feedback from customers on various aspects of their experience with the bank, including account services, online banking, mobile app, customer service, branch visits, ATM accessibility, fee structure, loan services, investment services, and more.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple order form for halal food orders. It appears to be designed for users to input their preferences, order details, and contact information when placing a halal food order. This form will guide the user through the process of submitting their order. Please ensure that the form fields are correctly filled out, as this will affect the accuracy of the order submission. Note that some fields are optional, but it's crucial to fill out the required fields for a successful order submission.
-</thinking>
-
 # Halal Food Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to process their halal food orders efficiently.

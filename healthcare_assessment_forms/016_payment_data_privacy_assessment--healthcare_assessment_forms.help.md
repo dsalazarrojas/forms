@@ -1,7 +1,3 @@
-<thinking>
-The form "Payment Data Privacy Assessment" is used to gather information about sensitive payment data that has been collected, stored, and shared within an organization. This form aims to ensure that payment data is handled in accordance with relevant laws and regulations, such as GDPR and HIPAA, which dictate how sensitive data should be protected. Ensuring that this form is completed accurately will help prevent data breaches and non-compliance issues.
-</thinking>
-
 # Payment Data Privacy Assessment - Help Guide
 
 ## Purpose

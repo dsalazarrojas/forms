@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Health Product Raffle Entry" form is to collect information from users who are interested in participating in a raffle for a health product. This form will help us understand their demographics, preferences, and eligibility to enter the raffle. We will review the form responses to ensure that each entry meets the eligibility criteria and that there are no duplicate entries. Please note that this form is for informational purposes only and is not a guarantee of winning the raffle.
 
 # Health Product Raffle Entry - Help Guide

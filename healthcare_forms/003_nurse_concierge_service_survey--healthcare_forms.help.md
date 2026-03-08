@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with our nurse concierge service. The goal is to understand how our nurses are performing and where we can improve. We are not duplicating any existing forms, and this form will be used to gather specific information about patient feedback.
-
-</thinking>
-
 # Nurse Concierge Service Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from patients about their experience with our nurse concierge service. Your responses will help us understand how we're performing and identify areas for improvement.

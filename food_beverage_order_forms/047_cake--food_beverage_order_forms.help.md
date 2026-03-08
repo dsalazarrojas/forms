@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for cake orders. The purpose of the form is to gather essential details such as customer name, contact email, cake type, size, pickup date, any special decoration requests, dietary requirements, and payment method.
-Before filling out this form, ensure that you have all the necessary information ready.
-</thinking>
-
 # Cake - Help Guide
 ## Purpose
 This form is used for customers to submit their cake orders. It collects vital information such as customer details, order specifics, and payment method to facilitate smooth order processing and pickup.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information from grantmakers regarding their environmental education programs and projects. This form serves as a tool for grantmakers to provide details about their programs, including project specifics, budget, funding request, and grant justification. The form aims to ensure that grantmakers' programs align with the organization's goals and objectives... </thinking>
-
 # environmental_education_grant_application - Help Guide
 ## Purpose
 The environmental education grant application form is designed for grantmakers to provide information about their environmental education programs and projects. This form helps the organization assess and review grant applications.

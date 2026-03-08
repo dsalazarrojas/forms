@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity Program Awareness Survey - Help Guide
 ## Purpose
 The Diversity Program Awareness Survey aims to assess employees' knowledge and understanding of the company's diversity program, identify areas of improvement, and gather feedback for the program's continued development and growth.

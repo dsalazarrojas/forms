@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from players about a game. The form will be used to gather information about the player's experience with the game, including their feedback questions, ratings, and other relevant details. This form is designed to be completed by players to provide constructive feedback to game developers, which will help improve the game.
-</thinking>
-
 # Game Feedback Form - Help Guide
 ## Purpose
 The Game Feedback Form is designed to collect feedback from players about their experience with a game. This form will help game developers understand what players like or dislike about the game, allowing them to make improvements and updates to enhance the gaming experience.

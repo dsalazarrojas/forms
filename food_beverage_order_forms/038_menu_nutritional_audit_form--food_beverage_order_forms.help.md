@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for a menu nutritional audit, which is a process used in the food and beverage industry to assess the nutritional content and ingredients of menu items. The form is intended for menu developers, nutritionists, or food safety experts to gather data on menu items, including their ingredients, serving amounts, and nutritional profiles. This audit is crucial for ensuring that menu items are safe for consumption, particularly for customers with food allergies or sensitivities.
-
-To avoid duplication of effort, please review this form carefully and ensure that you have the necessary information and permissions to complete it accurately. If you are unsure about any section or require additional guidance, please consult with your supervisor or relevant authorities.
-
-</thinking>
-
 # Menu Nutritional Audit Form - Help Guide
 ## Purpose
 The Menu Nutritional Audit Form is used to gather data on menu items, including their ingredients, serving amounts, and nutritional profiles. This information is essential for ensuring menu items are safe for consumption and compliant with regulatory requirements.

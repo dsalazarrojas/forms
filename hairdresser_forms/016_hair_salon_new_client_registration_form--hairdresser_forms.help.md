@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect new client information for the hair salon, ensuring accurate and comprehensive data entry. This form will help the salon staff register new clients, including their personal details, appointment preferences, and other relevant information. The form has been created with the following fields: first name, last name, date of birth, email, phone, address, name of the hairdresser that recommended this client, appointment type, appointment time, appointment date, and notes. This form will not be used to collect redundant or duplicate data, and all fields are marked as required to ensure consistency in the client information...</thinking>
-
 # hair_salon_new_client_registration_form - Help Guide
 ## Purpose
 This form is designed to collect new client information for the hair salon, ensuring accurate and comprehensive data entry.

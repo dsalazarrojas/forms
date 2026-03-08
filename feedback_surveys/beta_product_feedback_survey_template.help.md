@@ -1,7 +1,3 @@
-<thinking>
-This form purpose is to collect feedback from beta product users about their experience with the product. The goal is to understand areas that need improvement, identify user preferences, and gauge the likelihood of users recommending the product to others. This form is designed to be easy to use and understand, and the questions are carefully crafted to elicit specific, relevant information from users. By collecting this feedback, the product development team can make informed decisions about future product enhancements and improvements.
-</thinking>
-
 # beta_product_feedback_survey_template - Help Guide
 ## Purpose
 The beta product feedback survey template is designed to gather information from users about their experience with the beta product. This feedback will help the development team understand areas that need improvement, identify user preferences, and determine the likelihood of users recommending the product to others.

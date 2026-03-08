@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for hospital accessibility evaluations. It is used to assess the accessibility features and conditions of a facility, such as ramps, pathways, and entrances. The form will be completed by evaluators who will assess the facility's accessibility features and provide their feedback. The form's purpose is to ensure that the facility meets the required accessibility standards. 
-
-This form is likely to be used by facilities management teams or accessibility auditors to evaluate the hospital's accessibility features. It is a crucial tool to identify areas for improvement and ensure that the hospital is accessible to people with disabilities.
-
-Before filling out this form, please make sure that you have evaluated the facility's accessibility features and are familiar with the assessment criteria.
-
-Please note that this form is not a duplicate of the existing form "Hospital Accessibility Checklist". The purpose of this form is to gather more detailed and specific information about the facility's accessibility features.</thinking>
-
 # Hospital Accessibility Design Evaluation Form - Help Guide
 ## Purpose
 The Hospital Accessibility Design Evaluation Form is a tool used to assess the accessibility features of a hospital to ensure that it meets the required accessibility standards.

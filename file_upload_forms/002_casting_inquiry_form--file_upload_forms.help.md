@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used for talent to inquire about a casting opportunity, providing detailed information about themselves and their availability. This guide will help users understand how to fill out the form correctly and ensure accurate and complete submission of their information.
-
-</thinking>
-
 # Casting Inquiry Form - Help Guide
 ## Purpose
 The Casting Inquiry Form is used for talent to inquire about a casting opportunity, providing detailed information about themselves and their availability.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on a travel website. The purpose of the form is to gather information about the user's travel experience, including their booking details and satisfaction rating.
-</thinking>
-
 # travel_website_customer_feedback_survey - Help Guide
 ## Purpose
 This form is a customer feedback survey designed to collect information about your travel experience on our website. Your feedback is crucial in helping us improve our services and make your future visits more enjoyable.

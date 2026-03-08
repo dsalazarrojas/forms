@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is intended to collect information from guests attending a wrestling event. It is required for the event organizers to verify the guest's details and ensure a smooth experience for all attendees. Before filling out the form, please ensure you are attending the correct event and understand that providing accurate information is crucial. This form will be reviewed by the event team before granting access to the event. If you have any questions or concerns, please don't hesitate to reach out to the event organizers.
-</thinking>
-
 # Wrestling Event Guest Pass Application - Help Guide
 ## Purpose
 This form is designed to collect essential information from guests attending a wrestling event. It helps the event organizers verify attendee details and ensure a safe and enjoyable experience for everyone at the event.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from an individual to help a financial advisor provide personalized investment recommendations. The form will ask for basic contact information, investment preferences, and financial goals to create a comprehensive profile of the individual's financial situation.
-The form aims to gather data that will enable the financial advisor to make informed investment recommendations that align with the individual's risk tolerance, investment horizon, and financial goals. It is essential to fill out the form accurately to ensure the advisor receives a complete and accurate picture of the individual's circumstances.
-Before filling out this form, please ensure you have all the necessary information readily available to avoid any potential issues during the submission process.
-</thinking>
-
 # financial_planner_recommendation_form - Help Guide
 ## Purpose
 The financial planner recommendation form is designed to collect personal and financial information from an individual to provide tailored investment advice.

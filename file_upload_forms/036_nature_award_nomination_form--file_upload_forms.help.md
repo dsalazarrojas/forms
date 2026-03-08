@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect nominations for the "Nature Award", which aims to recognize and honor exceptional contributions to the field of nature. The purpose of this form is to gather information about a nominee for the award, including their entry details and supporting documentation. The form is divided into three pages: nomination form, supporting images, and entry details.
-
-When filling out this form, please ensure that you are nominating someone who meets the eligibility criteria for the award. This form should not be used to submit multiple nominations for the same person.
-
-The form will be reviewed and assessed by a panel to ensure that the nominee meets the criteria and standards set by the award committee. Incomplete or non-compliant submissions may be rejected.
-
-</thinking>
-
 # Nature Award Nomination Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect income tax information from individuals or businesses in Hindi language. The form is divided into two pages, each containing various fields to gather relevant tax information. The purpose of this form is to collect data for tax calculation and reporting purposes. 
-
-To determine relevance and duplication, the form checks if there is an existing entry with the same tax year, tax payer name and id number. If there is, it will prompt the user to review and edit the existing entry instead of creating a new one. 
-
-Please note that some fields are not marked as "required" but this does not mean they are optional, some may be mandatory based on the specific tax rules and regulations.
-
-</thinking>
-
 # Income Tax Information Form In Hindi - Help Guide
 ## Purpose
 This form is designed to collect income tax information from individuals or businesses in Hindi language for tax calculation and reporting purposes.

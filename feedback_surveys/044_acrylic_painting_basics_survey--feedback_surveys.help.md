@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist students in completing the Acrylic Painting Basics Survey. It's essential to review this guide to ensure you understand the purpose and requirements of the survey. Please complete this form if you're a student who has recently taken an acrylic painting class or workshop. This form aims to gather your feedback on your experience with acrylic painting, which will help improve future classes and provide valuable insights for instructors. 
-</thinking>
-
 # Acrylic Painting Basics Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from students who have taken an acrylic painting class or workshop. Your input will help instructors refine their teaching methods and improve the overall learning experience.

@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to help retailers apply for an omnichannel retail grant. This grant is likely a financial award given to retailers that want to improve their business operations by adopting omnichannel strategies, such as integrating online and offline channels to enhance customer experience and increase sales. The form is designed to collect information from retailers about their general details, project information, financial details, and supporting documents.
-
-To avoid duplication, this form is likely to be used by retailers who are interested in applying for the grant for the first time. If a retailer has already applied for the grant, they should not use this form again.
-
-After filling out the form, retailers can submit their application for review. The form fields are designed to collect required information for the grant application process.
-</thinking>
-
 # Omnichannel Retail Grant Application - Help Guide
 ## Purpose
 The Omnichannel Retail Grant Application form is designed to help retailers apply for a grant that helps them improve their business operations by adopting omnichannel strategies.

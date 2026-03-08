@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Fundraising Campaign Records Release Form - Help Guide
 
 ### Purpose

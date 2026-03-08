@@ -1,8 +1,3 @@
-<thinking> 
-The "Physical Therapist Recommendation Form" is used for patients to provide essential information about their physical therapy treatment, including contact details, medical history, treatment goals, and insurance information. This form helps ensure that physical therapists have all necessary details to provide effective care. To avoid duplicates, this form should only be filled out once by the patient and signed by the therapist.
-
-</thinking>
-
 # Physical Therapist Recommendation Form - Help Guide
 
 ## Purpose

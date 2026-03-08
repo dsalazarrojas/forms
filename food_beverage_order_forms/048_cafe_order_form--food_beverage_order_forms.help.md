@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form allows customers to place orders from a cafe, selecting options for coffee and non-coffee beverages, food and snacks, and specifying payment preferences. This guide will walk you through each field to ensure a smooth order placement process.
-
-</thinking>
-
 # Cafe Order Form - Help Guide
 ## Purpose
 The Cafe Order Form is a simple online order form for customers to place orders for food and beverages from a cafe.

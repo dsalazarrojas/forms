@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a player's dismissal from a team or game. The purpose of this form is to gather relevant details about the reason for dismissal, the player's status, and any other relevant information. It's essential that you only complete this form for players who have been dismissed from a team or game, and not for players who are still active or not part of the team. To avoid any confusion or duplication, please ensure that you're not submitting duplicate reports for the same player.
-
-This form consists of 12 fields that require various types of information. Please make sure to fill in all the required fields, as indicated by the label.
-</thinking>
-
 # Gaming Dismissal Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a player's dismissal from a team or game.

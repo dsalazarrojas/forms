@@ -1,5 +1,3 @@
-<thinking>...checking the form purpose and fields for duplication...</thinking>
-
 # IT Room Weekly Inspection Checklist - Help Guide
 ## Purpose
 The IT Room Weekly Inspection Checklist is a form designed to help IT staff inspect and report on the condition of the IT room on a weekly basis. This form is used to ensure that the IT room is in good condition, safe, and secure. The form helps identify any issues or concerns that need to be addressed.

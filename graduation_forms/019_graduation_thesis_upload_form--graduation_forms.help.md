@@ -1,12 +1,3 @@
-<thinking>
-This form is used for uploading graduation thesis documents and related metadata. The form is designed to collect essential information about the thesis, such as student name, course title, upload date, and file type. The form should only be completed by the student submitting their thesis or their authorized representative. 
-
-It checks if the form has been filled out before for the same student and thesis. If it has, it will prevent the user from re-uploading the form.
-
-This help guide will explain each field in the form and provide tips for the user to complete it successfully.
-
-</thinking>
-
 # Graduation Thesis Upload Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the upload and registration of graduation thesis documents. This form ensures that the required information is collected and stored accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for firefighters to report incidents in a standardized and organized way. The purpose of this form is to collect relevant information about incidents that the fire department responds to, including call type, situation found, officer in charge, units involved, and volunteer status. The form is meant to be completed by firefighters in the field, and the data collected will be used to improve incident response and emergency management.
-</thinking>
-
 # Fire Department Incident Report - Help Guide
 ## Purpose
 This form is used to collect information about incidents responded to by the fire department. It is designed to be completed by firefighters to provide a standardized and organized way to report incidents. The information collected will be used to improve incident response and emergency management.

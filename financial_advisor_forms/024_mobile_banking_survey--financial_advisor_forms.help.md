@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to provide a clear and concise help guide for the end users to understand the purpose and usage of the mobile banking survey form. I will follow the provided YAML structure to extract the necessary information and create a comprehensive help document that covers the form's purpose, how to complete it, and a field-by-field explanation of each section. I will aim to be concrete, concise, and practical in my explanation, and if a field label is weak or unclear, I will try to explain it in a way that is based on the provided YAML fields.</thinking>
-
 # Mobile Banking Survey - Help Guide
 ## Purpose
 This mobile banking survey form is designed to gather feedback and opinions from users about our mobile banking service. It aims to understand your thoughts, experiences, and satisfaction with our service, as well as gather information about your usage habits.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Tools And Vehicle Usage Agreement" form, designed to document the usage of tools and vehicles within an organization. It is likely used for tracking and managing the usage of tools and vehicles, including their start and end dates, usage hours, and other relevant details. This form might be used by employees, departments, or teams to report their tool and vehicle usage for administrative purposes. 
-</thinking>
-
 # Tools And Vehicle Usage Agreement - Help Guide
 ## Purpose
 The "Tools And Vehicle Usage Agreement" form is used to record and report the usage of tools and vehicles within an organization. This form helps to ensure that usage is properly documented and accounted for, facilitating better management and maintenance of tools and vehicles.

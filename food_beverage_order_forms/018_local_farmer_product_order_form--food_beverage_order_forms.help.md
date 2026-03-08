@@ -1,12 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Local Farmer Product Order Form", I'll follow the provided instructions and structure.
-
-The purpose of this form is to collect order information from customers for local farmer products. This form should only be used for orders that are intended for the local farmer market. The form is not intended for orders that are meant for other markets or platforms.
-
-Before starting, please review this form carefully to ensure you have all the necessary information and to prevent any duplication of efforts.
-
-</thinking>
-
 # Local Farmer Product Order Form - Help Guide
 ## Purpose
 The "Local Farmer Product Order Form" is a tool used to collect order information from customers for local farmer products. This form should only be used for orders that are intended for the local farmer market.

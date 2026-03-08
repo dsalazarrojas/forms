@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers seeking vehicle finance for the purchase or refinancing of a vehicle. The form is intended to gather essential details about the vehicle, the applicant's employment status and income, and the desired loan terms. It will help the financial advisor to evaluate and determine the eligibility for a vehicle loan.
-
-The form will be filled out by a customer who wants to apply for a vehicle loan. It is crucial to fill in this form accurately as it will be used to process their loan application and provide a personalized loan offer.
-
-To ensure the form is filled out correctly, please follow the instructions below.
-
-</thinking>
-
 # Vehicle Finance Application Form - Help Guide
 ## Purpose
 The Vehicle Finance Application Form is designed to collect information from customers seeking vehicle finance for the purchase or refinancing of a vehicle. This form will help the financial advisor to evaluate and determine the eligibility for a vehicle loan.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive assessment tool for fitness coaches to gather information from their clients. It appears to be a general health assessment form, designed to collect basic information about the client's general info, medical history, health status, goals, lifestyle data, and emergency contact information. The form also includes fields for health coaching services, consent, and notes. Some fields are marked as required, indicating that they need to be filled out. The form is likely used by fitness coaches to gather information from clients before providing coaching services.
-</thinking>
-
 # Fitness Coaching Assessment Form - Help Guide
 ## Purpose
 This form is designed to be a comprehensive assessment tool for fitness coaches to gather information from their clients before providing coaching services.

@@ -1,39 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive form for uploading game concepts, requiring various details about the game, its development team, and associated metadata. To ensure that the form is filled out correctly, we need to understand its purpose and how each field contributes to it. The form seems to be a collection of metadata fields for a game upload process, potentially for a game development platform or service.
-
-To verify this, let's take a closer look at the fields:
-
-- **game_concept_upload_form** (Page 1): This likely serves as the main title and introduction for the form.
-- **File** (Page 2): This field might be used for uploading a file associated with the game, possibly a game icon or demo reel.
-- **Game Concept** (Page 3): A text field where developers can describe their game concept.
-- **Game Tags** (Page 4): Multiple-select field for categorizing the game into different genres or tags.
-- **Game Description** (Page 5): A text field for a brief description of the game.
-- **Game Genre** (Page 6): Multiple-select field for selecting the game's genre.
-- **Game Platforms** (Page 7): Multiple-select field for selecting the platforms on which the game will be available.
-- **Game Pitches** (Page 8): A text field for a more detailed pitch of the game.
-- **File Type** (Page 9): Multiple-select field for specifying the type of file uploaded (e.g., game icon, demo, etc.).
-- **Upload File** (Page 10): A text field that might be a placeholder or redundant with the "File" field.
-- **Game Title** (Page 11): A text field for the game's title.
-- **Game URL** (Page 12): A text field for the game's URL or web presence.
-- **Game Version** (Page 13): A text field for the game's version number or status.
-- **Game Dev Name** (Page 14): A text field for the name of the game developer.
-- **Game Dev Email** (Page 15): A text field for the developer's email address.
-- **Game Dev Website** (Page 16): A text field for the developer's website.
-- **Game Dev Phone** (Page 17): A text field for the developer's phone number.
-- **Game Dev Tags** (Page 18): Multiple-select field for categorizing the developer into different tags.
-- **Game Dev Company** (Page 19): A text field for the developer's company name.
-- **Game Dev Address** (Page 20): A text field for the developer's address.
-- **Game Dev City** (Page 21): A text field for the city where the developer is located.
-- **Game Dev State** (Page 22): Multiple-select field for selecting the state where the game is developed.
-- **Game Dev Zip** (Page 23): A text field for the developer's zip code.
-- **Game Dev Country** (Page 24): A text field for the developer's country.
-- **Game Dev Comments** (Page 25): A text field for any additional comments from the developer.
-
-This form appears to be a comprehensive collection of metadata fields for a game upload process, covering game details and developer information.
-
-</thinking>
-
 # Game Concept Upload Form - Help Guide
 ## Purpose
 The Game Concept Upload Form is a comprehensive form for uploading game concepts to a game development platform or service. It requires various details about the game and its development team, including the game's concept, description, genre, platforms, and developer information such as name, email, website, and location.

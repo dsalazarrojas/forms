@@ -1,9 +1,3 @@
-<thinking>
-
-To provide a comprehensive help guide for the "Bar Wait Time Complaint Form", let's first consider the purpose of this form. The form is designed to collect information from customers about their experience with wait times at a bar, allowing the establishment to gather valuable feedback and insights to improve their services. This guide will walk through the form's purpose, how to complete it, and provide a field-by-field explanation of each section.
-
-</thinking>
-
 # Bar Wait Time Complaint Form - Help Guide
 
 ## Purpose

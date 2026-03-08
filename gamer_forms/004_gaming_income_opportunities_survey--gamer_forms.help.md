@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended to gather information about gaming income opportunities from end-users. It is likely to be used by gaming industry professionals or researchers to collect data on gaming-related earnings, habits, and experiences.
-  The following help guide will provide end-users with a clear understanding of the form's purpose, how to complete it, and what each field represents.
-  Note that the form structure might be subject to change based on the specific requirements and constraints of the gaming industry and the data collection needs.
-</thinking>
-
 # Gaming Income Opportunities Survey - Help Guide
 ## Purpose
 The Gaming Income Opportunities Survey is designed to collect information about gaming-related income opportunities from end-users. This data will help us better understand the gaming industry's dynamics and identify trends.

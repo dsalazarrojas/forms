@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate entries, this form is intended for new users to enter a giveaway for the MBA program. The form collects demographic information such as program name, school name, and contact details to help the giveaway committee assess the applicant's fit for the program. The form also aims to gauge the applicant's interest in the program, how they found out about it, and their willingness to accept terms and conditions. Upon filling out the form, the user will be required to confirm that they understand and agree to the terms and conditions.
-</thinking>
-
 # mba_program_giveaway_entry - Help Guide
 ## Purpose
 This form is a giveaway entry form for MBA programs. It collects information to assess applicant fit and gauge interest in the program.

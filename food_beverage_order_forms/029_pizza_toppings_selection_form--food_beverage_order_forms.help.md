@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers select their desired toppings for a pizza order. By filling out this form, customers will be able to choose multiple toppings for their pizza from a list of options. The form is meant to be a guide for customers to make their order more efficient and ensure that their pizza is tailored to their preferences.
-</thinking>
-
 # Pizza Toppings Selection Form - Help Guide
 ## Purpose
 This form is intended to be filled out by customers to select their desired toppings for a pizza order.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the ADHD Consultation Form, we need to understand its purpose and requirements for end-users. This form is used to gather essential information for a consultation with a patient suspected of having Attention Deficit Hyperactivity Disorder (ADHD). The purpose of this form is to collect relevant details about the patient, including contact information, medical history, and primary concerns. It's essential to ensure that the form is filled out accurately and completely to facilitate a thorough and effective consultation. The form should only be completed for patients suspected of having ADHD, and the information collected will be used to guide the consultation process. To prevent duplication of effort, ensure that the form is only completed once for each patient.
-</thinking>
-
 # ADHD Consultation Form - Help Guide
 ## Purpose
 The ADHD Consultation Form is used to collect information for a consultation with a patient suspected of having Attention Deficit Hyperactivity Disorder (ADHD). This form helps gather essential details about the patient, including contact information and medical history.

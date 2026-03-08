@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-This is a critical thinking phase where I'll analyze the provided YAML fields to create a comprehensive user-facing help guide for the "Gourmet Food Order Form".
+### This is a critical thinking phase where I'll analyze the provided YAML fields to create a comprehensive user-facing help guide for the "Gourmet Food Order Form".
 
 The form purpose is likely for users to place orders for gourmet food products. The form is a multi-page form with various fields for users to select options for their order.
 

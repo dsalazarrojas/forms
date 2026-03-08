@@ -1,8 +1,3 @@
-<thinking>
-To ensure this form is relevant and not duplicated, let's analyze the form's purpose and fields. 
-Based on the form's name "proof_of_ownership_verification_form" and the fields, it seems the form is designed to verify the ownership of an item or asset. The fields suggest that the user needs to provide information about the owner's identity, the type of document that proves ownership, and potentially some additional details like dates and notes. This form likely serves as a part of a process to ensure that the item is properly owned or possessed by the user. It's crucial that the form is completed accurately and without duplication to ensure the integrity of the verification process.
-</thinking>
-
 # proof_of_ownership_verification_form - Help Guide
 ## Purpose
 This form is designed to verify the ownership of an item or asset. It collects information about the owner's name, the type of document that proves ownership, and additional details such as dates and notes.

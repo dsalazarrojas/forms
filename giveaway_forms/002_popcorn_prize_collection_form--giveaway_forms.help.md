@@ -1,8 +1,3 @@
-<thinking>
-To ensure that each user can easily understand the purpose and requirements of the "Popcorn Prize Collection Form", it's essential to have a clear and concise help guide in place. This form is used for a specific business process, and its completion is required for the proper processing and delivery of prizes to the winners. The following guide will explain each field's purpose and required information to help users complete the form accurately and efficiently.
-
-</thinking>
-
 # Popcorn Prize Collection Form - Help Guide
 ## Purpose
 The "Popcorn Prize Collection Form" is used to collect and process prize claims from winners. This form ensures that we have all the necessary information to deliver prizes correctly and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-The Screenplay Upload Form is designed to allow users to upload their screenplays for review and consideration. This form is typically used for internal purposes, such as within a company or organization. The form is intended to collect information about the screenplay, including its title, author, and categorization, as well as allow users to upload supporting files. The form is not meant to be publicly accessible, so users should only access it if they have been explicitly invited or have a valid login credentials.
-</thinking>
-
 # Screenplay Upload Form - Help Guide
 ## Purpose
 The Screenplay Upload Form is a tool for users to upload and manage their screenplays. This form is intended for internal use and is not publicly accessible.

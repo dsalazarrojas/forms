@@ -1,9 +1,3 @@
-<thinking>...I'll create a user-facing help guide for the "Favorite Dishes Feedback Form" based on the provided YAML fields. Here is the internal reasoning block:
-
-This form is designed to collect feedback from users about their favorite dishes, allowing them to share their preferences and opinions. It is essential to complete this form accurately to help us improve our menu offerings. Please ensure that you complete this form only once and provide feedback for each category.
-
-</thinking>
-
 # Favorite Dishes Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback about your favorite dishes. Please provide your honest opinion to help us improve our menu.

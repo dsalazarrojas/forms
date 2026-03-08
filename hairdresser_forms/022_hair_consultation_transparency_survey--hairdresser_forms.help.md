@@ -1,8 +1,3 @@
-<thinking>
-We are considering adding a transparency survey for our salon to understand how we're performing and what areas we can improve in our service. We'll use this data to refine our processes and ensure our customers are satisfied with their experience. Before we add this feature, let's make sure we're not duplicating any efforts or creating redundant questions. Please note that this form is a one-time feedback gathering tool and will not be used for regular or scheduled surveys.
-
-</thinking>
-
 # Hair Consultation Transparency Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our salon. It will help us understand what we're doing well and what areas we need to improve on.

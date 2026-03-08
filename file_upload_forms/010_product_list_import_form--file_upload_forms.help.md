@@ -1,9 +1,3 @@
-<thinking>**Internal Reasoning and Duplication Check**
-
-This form is designed to import products into the system, allowing users to add new products with various attributes such as name, description, price, categories, and more. The form will check for duplication based on product name and ID to prevent accidental overwrites. Please ensure you have all the necessary information before proceeding. You can only submit one product at a time. If you are importing multiple products, use the 'Import Tool' to upload a CSV or Excel file for faster processing.
-
-</thinking>
-
 # Product List Import Form - Help Guide
 
 ## Purpose

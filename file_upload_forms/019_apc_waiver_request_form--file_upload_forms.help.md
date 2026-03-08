@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to be a request for a waiver of Article Processing Charge (APC) fees for authors who are unable to pay the fees associated with publishing their work in the journal. The form is intended to help authors explain why they are requesting a waiver and provide supporting documentation that proves their financial situation or other circumstances that justify the waiver. The form is also designed to help the journal's editorial team make informed decisions about which waiver requests to grant.
-
-This form is typically used for authors who are facing financial hardship, have institutional funding constraints, or are from developing countries. However, authors from any country can request a waiver if they have a valid reason to do so.
-
-To complete this form, you will need to provide information about yourself, your manuscript, and your request for a waiver.
-
-</thinking>
-
 # APC Waiver Request Form - Help Guide
 ## Purpose
 This form is a request for a waiver of Article Processing Charge (APC) fees for authors who are unable to pay the fees associated with publishing their work in the journal.

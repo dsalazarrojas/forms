@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for inputting details about bus routes, such as route number, name, type, and operational information, to facilitate efficient bus management and service optimization.
-Given the form's complexity, it's essential to create a comprehensive help guide to ensure users understand its purpose and how to fill it out correctly.
-This guide will cover the form's purpose, the step-by-step process of filling it out, and a detailed explanation of each field to prevent confusion.
-</thinking>
-
 # Bus Information Form - Help Guide
 ## Purpose
 This form is used to collect and manage information about bus routes, enabling efficient scheduling, route planning, and service optimization.

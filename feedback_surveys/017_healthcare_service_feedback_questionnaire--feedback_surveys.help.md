@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clearly understood, and that it's not a duplication of existing knowledge or forms. The form is designed to gather feedback from users about their experience with the healthcare service. The goal is to understand their thoughts and suggestions about the service, and to collect contact information for potential follow-up or communication. This form will likely be used by service providers or administrators to review and act upon the feedback. It's a straightforward and simple form with a clear call-to-action for users to share their opinions and suggestions. It's not a duplication of any other form, as the specific focus on the healthcare service experience and the required fields make it distinct. The purpose is to collect qualitative feedback, not just quantitative scores or ratings. The form has a clear and direct structure, with a mix of open-ended and multiple-choice questions. The required fields are focused on collecting user contact information and agreement to share feedback, which makes it clear that the form is not just a survey, but a way to gather actionable feedback. 
-</thinking>
-
 # Healthcare Service Feedback Questionnaire - Help Guide
 ## Purpose
 The Healthcare Service Feedback Questionnaire is designed to gather your thoughts and opinions about our healthcare service. Your feedback will help us understand your experience and suggestions for improvement. Please take a few minutes to complete this form and provide as much detail as possible.

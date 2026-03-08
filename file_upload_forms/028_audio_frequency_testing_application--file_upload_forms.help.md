@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants for audio frequency testing services. The form is used for the following purposes:
-
-1.  **Product Development**: To test and refine products or prototypes to ensure they meet the required specifications and standards.
-2.  **Quality Assurance**: To verify that products or devices meet the required quality and performance standards.
-3.  **Regulatory Compliance**: To ensure that products or devices comply with relevant laws and regulations.
-4.  **Repair Verification**: To test and validate repaired or modified products or devices.
-5.  **Benchmarking**: To compare the performance of products or devices against industry benchmarks.
-
-The form is intended to be completed by applicants who want to schedule and submit their product or device for audio frequency testing. The form collects necessary information for the testing process, including applicant details, device specifications, testing standards, and logistical information.
-
-</thinking>
-
 # Audio Frequency Testing Application - Help Guide
 ## Purpose
 This form is for applicants seeking audio frequency testing services. It is designed to collect necessary information for the testing process, ensuring that your product or device meets the required specifications and standards.

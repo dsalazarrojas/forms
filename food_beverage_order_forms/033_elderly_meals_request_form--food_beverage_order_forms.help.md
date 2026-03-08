@@ -1,7 +1,3 @@
-<thinking>
-This form is used for elderly individuals to request meals, and its purpose is to gather information about the user's meal preferences and dietary needs. The form should only be filled out once per user, and any duplicate requests will not be processed.
-</thinking>
-
 # Elderly Meals Request Form - Help Guide
 ## Purpose
 The Elderly Meals Request Form is used to request meals for elderly individuals. It gathers information about the user's meal preferences and dietary needs, allowing our team to provide personalized meal services.

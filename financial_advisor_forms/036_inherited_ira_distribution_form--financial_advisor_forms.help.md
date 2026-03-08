@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an inherited IRA (Individual Retirement Account) distribution. This form is intended for use by financial professionals to track and manage the distribution process. The fields on this form are meant to collect details about the IRA account holder, the distribution method, and the status of the distribution. Please ensure that all required fields are filled out accurately to facilitate efficient processing of the distribution.
-</thinking>
-
 # Inherited IRA Distribution Form - Help Guide
 ## Purpose
 The Inherited IRA Distribution Form is used to track and manage the distribution of Inherited Individual Retirement Accounts (IRAs). It provides a platform for financial professionals to collect necessary information from beneficiaries, account holders, or other stakeholders involved in the distribution process.

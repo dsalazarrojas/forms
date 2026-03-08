@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Global Drumming Community Survey" form. Before proceeding, please note that this form is designed to gather feedback and insights from the global drumming community. Your input will help us understand your experiences, preferences, and suggestions for our community. If you have already completed this form, please do not submit duplicate responses.
-</thinking>
-
 # Global Drumming Community Survey - Help Guide
 ## Purpose
 The Global Drumming Community Survey is designed to gather feedback and insights from the global drumming community. This form will help us understand your experiences, preferences, and suggestions for our community, allowing us to improve and provide better services for drummers of all levels.

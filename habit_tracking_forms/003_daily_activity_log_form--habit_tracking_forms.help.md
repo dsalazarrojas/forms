@@ -1,13 +1,3 @@
-<thinking>
-This form is a Daily Activity Log Form, used for tracking daily activities, events, or tasks completed by a user. This form is likely used in a context where users need to record and report their daily activities for monitoring, reporting, or auditing purposes.
-
-The form is designed to collect data on various aspects of a user's daily activities, including the start and end dates, times, and activity types, as well as any additional notes or comments. It also allows users to select categories, subcategories, and tags for further organization and filtering of the data.
-
-To ensure accurate and consistent data collection, the form fields are designed to be optional, but some fields have specific purposes that may influence the required status in certain contexts. For example, the "start date" and "end date" fields are crucial for tracking the duration of an activity, while the "activity type" field helps filter activities based on the type of work or category they belong to.
-
-The form is likely used for both individual and team monitoring, and its data collection capabilities can be adapted for various use cases. To ensure the form is used correctly, this guide will walk you through each field and its purpose.
-</thinking>
-
 # Daily Activity Log Form - Help Guide
 
 ## Purpose

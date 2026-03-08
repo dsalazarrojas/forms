@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to allow users to search and filter characters based on various criteria. This form can be used to quickly browse through characters that match a specific role, alignment, or level, making it easier to find characters that fit specific needs or preferences. The form does not have any required fields, so users can fill it out partially or completely, depending on their search needs.
-</thinking>
-
 # Character Search And Filter Form - Help Guide
 ## Purpose
 The Character Search And Filter Form allows users to search and filter characters based on various criteria, including role, alignment, or level. This form is designed for quick browsing and filtering of characters.

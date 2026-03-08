@@ -1,12 +1,3 @@
-<thinking>
-This form is used for mobile application license applications, which are used by developers or publishers to submit their mobile applications for approval and licensing. This form is designed to collect necessary information from the applicant, including user input, mobile app details, screenshots, additional documents, contact information, and other relevant data.
-
-Before proceeding, ensure that you are submitting a genuine application and not a duplicate or incomplete submission. This form should only be filled out once and not multiple times. If you are unsure about any of the fields or require clarification, please contact the relevant authorities or support team for assistance.
-
-Please note that the fields in this form are designed to be user-friendly and easy to understand. Each field is described below for your convenience.
-
-</thinking>
-
 # Mobile Application License Application - Help Guide
 ## Purpose
 This form is used for mobile application license applications, which are used by developers or publishers to submit their mobile applications for approval and licensing.

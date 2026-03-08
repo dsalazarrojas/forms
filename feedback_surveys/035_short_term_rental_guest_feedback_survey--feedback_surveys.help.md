@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## short-term-rental-guest-feedback-survey - Help Guide
 
 ## Purpose

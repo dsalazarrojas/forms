@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for its intended purpose, so we need to double-check that the form is being used correctly.
-</thinking>
-
 # Donation Tracking Form - Help Guide
 ## Purpose
 The Donation Tracking Form is designed to collect information about donations made to our organization. This form is meant to gather details about each donation, including the donation date, time, amount, donor details, email address, and contact number. The information collected will help us track and manage our donations effectively.

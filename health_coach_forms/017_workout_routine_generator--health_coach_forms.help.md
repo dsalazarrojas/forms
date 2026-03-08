@@ -1,5 +1,3 @@
-<thinking> This guide will help users understand what to expect from the form, ensure it's a relevant use case for them, and prevent duplication of effort.</thinking>
-
 # workout_routine_generator - Help Guide
 ## Purpose
 The `workout_routine_generator` form is designed to collect relevant information from clients to create personalized workout routines tailored to their fitness goals and preferences. This form helps trainers create a comprehensive plan to help clients achieve their desired outcomes.

@@ -1,7 +1,3 @@
-<thinking>... internal reasoning: The form is designed to gather multilingual messages from users, with fields for form title, message, language, subject, attachments, and additional information. The form is required to be submitted with a message, attachments, and subject. The language field is optional but recommended for multilingual support. The attachments field is also optional but may be required for certain purposes. The form is intended to be a basic yet effective way to collect feedback and messages from users in different languages...
-
-</thinking>
-
 # Multilingual Message Submission Form - Help Guide
 ## Purpose
 The Multilingual Message Submission Form is designed to gather messages from users in different languages. This form allows you to submit a message, choose the language, and attach files, if needed.

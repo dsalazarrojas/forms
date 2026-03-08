@@ -1,5 +1,3 @@
-<thinking>Manuscript Consultation Request form is designed for users to request manuscript consultation services. Its purpose is to gather information about the user's manuscript, preferences for the consultation, and any additional context that might be relevant for the consultation. This form aims to provide a clear and concise way for users to submit their requests, ensuring that all necessary details are captured efficiently. To avoid duplication or irrelevant requests, the form is designed to be completed only once, and users are encouraged to provide as much detail as possible. By using this form, users can expect a prompt and effective response from the consultation team.</thinking>
-
 # Manuscript Consultation Request - Help Guide
 ## Purpose
 The Manuscript Consultation Request form is designed for users to request manuscript consultation services. Its purpose is to gather information about the user's manuscript, preferences for the consultation, and any additional context that might be relevant for the consultation.

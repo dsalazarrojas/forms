@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting new forms from the NuevoCurrent organization, which is likely a specific group or division within the organization. The form is designed to collect information about a file, likely for tracking, organization, or management purposes. To ensure that only valid submissions are recorded, we will perform checks on the submitted data. 
-</thinking>
-
 # nuevacurrent_org_submit_form - Help Guide
 ## Purpose
 The "nuevacurrent_org_submit_form" is a form designed to collect information about a file submission from the NuevoCurrent organization. It is intended to capture details such as messages, file information, and categorization.

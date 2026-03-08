@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information from patients before an appointment with a doctor. The purpose of this form is to collect relevant details about the patient, including their name, contact information, and appointment details, as well as any symptoms they may be experiencing. This information will help the healthcare provider prepare for the appointment and ensure a smooth and efficient process.
 
 # Pre Appointment Declaration Form - Help Guide

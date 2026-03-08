@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback from users of a social networking app, aiming to understand their experiences, satisfaction, feature usage, and suggestions for improvements. The purpose of this form is to collect data that can help the development team to refine and enhance the app's features and overall user experience.
-
-</thinking>
-
 # Social Networking App Feedback Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect feedback from users of the social networking app. Your input will help us understand how you use the app, what features you find most useful, and what areas need improvement. Please provide honest and detailed answers to help us create a better experience for you and all users.

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for uploading travel blog-related videos, which is a common requirement in content creation and publishing. The purpose of this form might be to facilitate the process of adding videos to the blog, likely for editorial purposes. I assume that this form would be used by travel bloggers or content creators who want to share their travel experiences with an audience. The form likely aims to collect video upload information, such as title, description, category, and other relevant metadata. The internal logic might involve checking for consistency and accuracy of the submitted data. However, I'll focus on creating a user-friendly help guide without assuming unsupported business logic.
-</thinking>
-
 # Travel Blog Video Upload Form - Help Guide
 ## Purpose
 The Travel Blog Video Upload Form is designed to help you upload videos related to travel blog content.

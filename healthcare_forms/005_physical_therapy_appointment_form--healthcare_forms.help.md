@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect and process patient data for physical therapy appointments, including patient information, appointment scheduling, and payment details. This form likely serves as an administrative tool for healthcare professionals to manage patient records and appointments. 
-
-To ensure relevance and non-duplication, this form should only be used for patients who have been previously verified as legitimate patients or clients of the physical therapy practice. If a patient has already filled out this form, the existing data should be referenced and updated accordingly, rather than requiring the patient to re-enter their information.
-
-</thinking>
-
 # Physical Therapy Appointment Form - Help Guide
 ## Purpose
 This form collects and processes patient data for physical therapy appointments, enabling healthcare professionals to manage patient records and appointments efficiently.

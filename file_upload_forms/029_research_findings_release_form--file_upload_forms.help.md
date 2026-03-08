@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to document and formalize the release of research findings, ensuring that all necessary information is captured and reviewed before publication. This form is used to verify that the research findings have been reviewed and approved by the appropriate institutional authorities.
-
-To prevent duplication, this form should only be filled out after an initial review and approval process has been completed. It is essential to fill out this form accurately and thoroughly, as it serves as a record of the release of research findings.
-
-Before filling out this form, make sure you have the necessary approvals and reviews in place. This form is not a substitute for the actual approval or review process.
-
-</thinking>
-
 # Research Findings Release Form - Help Guide
 ## Purpose
 This form is used to document the release of research findings, ensuring that all necessary information is captured and reviewed before publication.

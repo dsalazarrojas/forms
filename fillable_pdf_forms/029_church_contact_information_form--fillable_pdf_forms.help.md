@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from individuals who have interacted with the church. The purpose of this form is to help the church staff and members better understand how to communicate with these individuals and tailor their outreach efforts. This form is intended to be used by church attendees, visitors, and members to provide their personal and family information. To avoid duplication of effort, please do not submit this form if you have previously done so.
-</thinking>
-
 # Church Contact Information Form - Help Guide
 ## Purpose
 The Church Contact Information Form is designed to collect contact information from individuals who have interacted with the church. This information will be used to help the church staff and members better understand how to communicate with them and tailor their outreach efforts.

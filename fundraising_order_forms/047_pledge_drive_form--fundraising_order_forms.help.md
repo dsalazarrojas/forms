@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a pledge drive, allowing users to pledge money for a specific event, organization, or initiative. The form will guide users through a series of fields to capture relevant details about the pledge. Please ensure that users understand the purpose of each field before proceeding to submit the form. This guide will help ensure that users fill out the form correctly and accurately provide the required information.
-</thinking>
-
 # Pledge Drive Form - Help Guide
 ## Purpose
 The Pledge Drive Form is designed to collect pledges for specific events, organizations, or initiatives. It helps to gather information about the user's pledge amount, frequency, and duration of the pledge.

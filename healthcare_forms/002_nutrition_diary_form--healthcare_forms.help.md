@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's diet and daily habits. The purpose of the form is to gather data on what a user consumes and their regular habits, allowing for tracking and analysis of dietary trends. The form is not affiliated with or endorsed by any form platform, and it is an original adaptation using public survey topic metadata as inspiration. The form was created using an AI and is released under the Creative Commons BY 4.0 license, allowing for modifications and even commercial use. If you'd like to use this form as a starting point, please give credit to the original creators.
-
-</thinking>
-
 # Nutrition Diary Form - Help Guide
 ## Purpose
 The Nutrition Diary Form is designed to collect information about your daily diet and habits.

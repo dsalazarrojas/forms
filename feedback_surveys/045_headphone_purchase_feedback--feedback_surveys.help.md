@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a critical component of our customer feedback system, collecting data on customers' experiences with headphone purchases. This information will help us identify areas of improvement and make informed decisions for future product development and customer satisfaction initiatives.
-
-Before proceeding, please ensure that you have filled out this form only once per purchase. Duplicate submissions may skew our data and create unnecessary work for our team.
-
-</thinking>
-
 # Headphone Purchase Feedback - Help Guide
 ## Purpose
 The Headphone Purchase Feedback form is designed to gather feedback from customers on their experiences with purchasing our headphones. This form helps us understand what we do well and where we can improve, ultimately allowing us to provide better products and services to our customers.

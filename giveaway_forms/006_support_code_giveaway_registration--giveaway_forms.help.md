@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for users to register for the support code giveaway. The purpose of the form is to collect information from users to provide them with a support code that they can use to access various resources. To prevent duplicates and ensure relevance, users who have already registered will be checked against a database before being allowed to submit their details.
-
-</thinking>
-
 # Support Code Giveaway Registration - Help Guide
 ## Purpose
 This form is used to collect information from users who would like to register for a support code giveaway. Fill out the form with the required information and submit it to complete the registration process.

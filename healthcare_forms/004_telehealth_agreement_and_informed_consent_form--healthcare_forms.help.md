@@ -1,8 +1,3 @@
-<thinking>
-This is a telehealth agreement and informed consent form used by healthcare providers to obtain agreement and consent from patients. The form is designed to document the patient's understanding and agreement with healthcare-related policies and procedures. To avoid any duplication of effort, this form should only be completed by authorized healthcare providers.
-
-</thinking>
-
 # Telehealth Agreement And Informed Consent Form - Help Guide
 ## Purpose
 This form is used by healthcare providers to obtain agreement and consent from patients. It ensures that patients understand and agree to healthcare-related policies and procedures.

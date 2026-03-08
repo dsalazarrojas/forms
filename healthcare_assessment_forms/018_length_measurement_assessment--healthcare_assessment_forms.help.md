@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this "length measurement assessment" form, I will follow the provided YAML structure and guidelines. Here's the internal reasoning process:
-
-* The form purpose is to collect data for length measurements, which could be for various purposes such as health assessments, patient care, or medical research. This form likely aims to document measurements taken by staff, manufacturers, or instructors.
-* Each field is designed to capture different aspects of the measurement process, such as the actual measurement, the unit of measurement, and the method used. 
-* Some fields are optional, indicating that they are not necessary for form completion, but might provide additional context or information. 
-
-</thinking>
-
 # length measurement assessment - Help Guide
 ## Purpose
 This form is used to record length measurements for various purposes, such as health assessments, patient care, or medical research. Measurements can be taken by different individuals, and the form helps in documenting the process.

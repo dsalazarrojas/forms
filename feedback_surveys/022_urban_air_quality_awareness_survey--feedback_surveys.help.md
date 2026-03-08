@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather feedback and information from users about their perceptions and behaviors related to urban air quality. The form is designed to be completed by users who want to provide their input on the quality of the air they breathe. 
-
-The purpose of this form is to gather quantitative and qualitative data about the user's experiences and perceptions of air quality in urban areas. This data can help inform policies and strategies to improve air quality.
-
-We should be careful not to duplicate efforts or create confusion, so please make sure to only complete this form if you are willing to provide your genuine input.
-
-</thinking>
 # Urban Air Quality Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and perceptions of air quality in urban areas. Your input will help us understand how people in urban areas think and feel about air quality.

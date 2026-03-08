@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for an Ayurvedic Case Diagnosis. This form is not for emergency situations, please fill it out only when a scheduled appointment is available. This form is not a substitute for in-person consultations. The purpose of this form is to gather essential information about the patient's medical history, lifestyle, and chief complaint to assist the practitioner in making an informed diagnosis and treatment plan. This form should not be used to report emergencies or life-threatening situations.
-</thinking>
-
 # Ayurvedic Case Diagnosis Form - Help Guide
 ## Purpose
 The Ayurvedic Case Diagnosis Form is a tool used by healthcare practitioners to gather information about patients for an effective diagnosis and treatment plan. This form helps practitioners to understand the patient's medical history, lifestyle, and chief complaint, which enables them to provide personalized recommendations for Ayurvedic therapies, detox, diet, and herbal remedies.

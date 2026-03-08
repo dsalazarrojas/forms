@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Protein Infusion Consent Form - Help Guide
 ## Purpose
 The Hair Protein Infusion Consent Form is a form designed to collect essential information from individuals seeking hair protein infusion treatment. This form helps us understand your medical history, allergies, and consent for the treatment. Please fill out this form completely and accurately to ensure a smooth and safe treatment experience.

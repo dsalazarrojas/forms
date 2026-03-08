@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "corporate_fundraising_event_reservation_form". The purpose of this form is to allow users to reserve a spot for a corporate fundraising event, and gather information about the attendee. This form is likely used for internal events or meetings within an organization.
-To ensure the form is completed correctly, please note that the "Category" field is required. This means that users must select one of the available categories to proceed with their reservation.
-</thinking>
-
 # corporate_fundraising_event_reservation_form - Help Guide
 ## Purpose
 The corporate fundraising event reservation form is used to collect information from individuals reserving a spot for a corporate fundraising event within an organization.

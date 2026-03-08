@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to schedule a consultation with a health coach, gathering essential information from the user such as their availability, preferred consultation duration, and other relevant details. The form will help health coaches manage their time effectively and ensure that consultations are conducted at a convenient time for both parties. To avoid confusion, please ensure that you are using this form to schedule a consultation for a specific date, as it is not intended for ongoing or recurring consultations. Also, please note that the form is not designed to handle multiple consultations or sessions, so please fill it out only for a one-time consultation.
-
-</thinking>
-
 # diet_consultation_appointment_form - Help Guide
 ## Purpose
 The purpose of this form is to schedule a consultation with a health coach.

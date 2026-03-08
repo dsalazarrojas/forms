@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Esports Broadcaster Licensing Application form. Before proceeding, we'll outline the form's internal logic to ensure it's a good fit for its intended use case.
-
-The form is designed to collect information from broadcasters for the purpose of obtaining a license to broadcast esports content. The form includes fields for personal details, broadcast preferences, and additional information, allowing the platform to gather necessary data for the licensing process.
-
-To avoid duplication and ensure relevance, the form has been designed with the following assumptions:
-- The form is intended for individual broadcasters.
-- The license type field is a selection of options (TV, Stream, Both) that will help the platform differentiate between broadcasters with different types of licenses.
-- The form does not require additional information to be filled out for the license to be issued.
-- The form is designed to be completed by the broadcaster themselves, with no intermediate steps required.
-
-</thinking>
-
 # Esports Broadcaster Licensing Application - Help Guide
 ## Purpose
 The Esports Broadcaster Licensing Application form is a necessary step for individual broadcasters to obtain a license to broadcast esports content. This form helps us understand your needs and preferences for a customized license.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients seeking health consulting services. It's essential to fill out this form accurately and completely to ensure that the health consultant can provide personalized and effective services. Please review the form carefully and ensure you have all the necessary information before submitting it. 
-</thinking>
-
 # Health Consultant Information Form - Help Guide
 
 ## Purpose

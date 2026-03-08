@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users assess and provide feedback on the improvement of plants. The purpose of this form is to collect ratings and comments on various aspects of plant growth, including overall performance, soil nutrition, water availability, pest control, and nutrient balance. The form is likely used by farmers or plant experts to evaluate the current state of a plant and provide suggestions for improvement.
-</thinking>
-
 # Plant Improvement Assessment Quiz - Help Guide
 ## Purpose
 The "Plant Improvement Assessment Quiz" is a tool used to evaluate and provide feedback on the improvement of plants. It is designed to collect ratings and comments on various aspects of plant growth, including overall performance, soil nutrition, water availability, pest control, and nutrient balance.

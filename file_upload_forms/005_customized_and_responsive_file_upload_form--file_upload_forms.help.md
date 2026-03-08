@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to upload and manage customized and responsive file uploads. The form is typically used in a business setting where the user needs to upload files related to customer messages. The form's purpose is to gather relevant information from the user and to provide a seamless file upload experience. The form will likely be used by sales or customer support teams to collect and manage customer messages.
-
-Before starting, ensure that the form is not a duplicate. Check that the form has been filled out correctly in the past and that the form's purpose aligns with your current task.
-
-</thinking>
-
 # Customized And Responsive File Upload Form - Help Guide
 ## Purpose
 The Customized And Responsive File Upload Form is designed to collect file uploads from customers. This form allows users to manage customer messages and related files.

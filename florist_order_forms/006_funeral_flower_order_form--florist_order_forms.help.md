@@ -1,5 +1,3 @@
-<thinking>...The Funeral Flower Order Form is designed to collect information from customers who wish to place an order for funeral flowers. The form aims to gather the necessary details to ensure the order is processed efficiently and accurately. This form has four sections: Customer Info, Order Details, Delivery Info, and Payment Details. Each section is crucial to complete the order successfully... </thinking>
-
 # Funeral Flower Order Form - Help Guide
 ## Purpose
 The Funeral Flower Order Form is designed to collect information from customers who wish to place an order for funeral flowers. This form gathers the necessary details to process the order efficiently and accurately.

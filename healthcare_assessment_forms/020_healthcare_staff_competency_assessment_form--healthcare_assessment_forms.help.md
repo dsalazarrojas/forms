@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assessing the competencies of healthcare staff members. The purpose of this form is to evaluate the skills and abilities of healthcare staff in areas such as communication, leadership, and problem-solving. This form is typically used for performance evaluations, training, and development purposes. It is essential to complete the form carefully and accurately to ensure that the staff member's competencies are correctly assessed. Please make sure that you are using this form for its intended purpose and not duplicating efforts.
-</thinking>
-
 # Healthcare Staff Competency Assessment Form - Help Guide
 ## Purpose
 

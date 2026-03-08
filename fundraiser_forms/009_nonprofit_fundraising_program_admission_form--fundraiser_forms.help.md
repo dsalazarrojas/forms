@@ -1,12 +1,3 @@
-<thinking>
-We need to provide a clear and concise user-facing help guide for the nonprofit_fundraising_program_admission_form form to ensure that end-users understand its purpose, requirements, and how to complete it accurately. This guide will help reduce confusion and improve data quality.
-
-The form is designed to collect information from participants in a nonprofit fundraising program. It is likely used for tracking and managing participant data, event information, and participant interactions. The fields included suggest a comprehensive collection of participant details, event specifics, and donation/dues information.
-
-Before we dive into the guide, let's note that some fields are optional, meaning they are not required to be completed for the form to be considered valid. This is indicated by the "required: false" property in the YAML.
-
-</thinking>
-
 # nonprofit_fundraising_program_admission_form - Help Guide
 ## Purpose
 The nonprofit_fundraising_program_admission_form is designed to collect participant data and event information for a nonprofit fundraising program. This form helps track participant details, event specifics, and donation/dues information.

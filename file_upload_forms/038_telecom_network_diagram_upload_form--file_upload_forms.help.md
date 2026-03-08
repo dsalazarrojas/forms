@@ -1,25 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Telecom Network Diagram Upload Form" that provides end users with a clear understanding of the form's purpose, how to complete it, and what each field means. This form is for uploading telecom network diagrams.
-
-To create this guide, we'll need to break down the form into its individual fields and provide a concise explanation for each, along with any specific requirements or instructions for completion. We'll also want to ensure that the guide covers all the required fields and provides any relevant tips or best practices for users.
-
-The form has several fields, including:
-* Project Documentation
-* Telecom Network Diagram
-* File
-* Description
-* Category (checkbox options: Yes/No)
-* Issued By (checkbox options: Yes/No)
-* Issuer (checkbox options: Yes/No)
-* Project (checkbox options: Yes/No)
-* Vendor (checkbox options: Yes/No)
-* Date
-* Time
-* Notes
-
-Our goal is to make the form easy to understand and complete, and to provide clear instructions and explanations for each field. We'll use the provided YAML fields to inform our guide and provide any necessary context or background information to help users make informed decisions when completing the form.
-
-</thinking>
 # Telecom Network Diagram Upload Form - Help Guide
 
 ## Purpose

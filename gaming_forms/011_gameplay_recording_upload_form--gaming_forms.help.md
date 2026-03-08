@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the uploading and categorization of gameplay recordings. Its purpose is to collect relevant metadata for each recording, making it easier to organize and analyze them. Before proceeding, please ensure that you have a clear understanding of what the form's purpose is and that the recording you're about to upload is relevant to the chosen category. If you're unsure, please reach out to our support team for assistance.
-</thinking>
-
 # Gameplay Recording Upload Form - Help Guide
 ## Purpose
 The Gameplay Recording Upload Form is designed to collect metadata for gameplay recordings, allowing for easy organization and analysis. This form is essential for our users to categorize and share their gameplay recordings effectively.

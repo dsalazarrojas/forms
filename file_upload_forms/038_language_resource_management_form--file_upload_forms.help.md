@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Resource Management Form - Help Guide
 
 ## Purpose

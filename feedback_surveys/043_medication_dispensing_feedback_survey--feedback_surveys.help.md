@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from patients about their experience with medication dispensing during a visit to a pharmacy. The form is designed to collect information about various aspects of the visit, including the overall quality of care, medication dispensing process, staff friendliness and helpfulness, medication needs, and overall satisfaction. This feedback will be used to identify areas for improvement and make necessary changes to enhance patient experience.
-
-To ensure that the collected feedback is actionable and relevant, we will review and filter out duplicate and unrelated responses. This form is only intended for patients who have had a visit to a pharmacy. Patients who have not had a visit will not be able to access this form.
-
-</thinking>
-
 # Medication Dispensing Feedback Survey - Help Guide
 
 ## Purpose

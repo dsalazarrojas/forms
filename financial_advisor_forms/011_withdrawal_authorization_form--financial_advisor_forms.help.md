@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and that we are not duplicating any work. This form is a withdrawal authorization form for students, used by financial advisors to authorize the withdrawal of funds from a student's account. The form should be used when a financial advisor needs to withdraw funds on behalf of a student, typically in cases where the student is unable to do so themselves. We should verify that the form is not being used for any other purpose, such as for non-essential transactions or for students who do not actually require financial assistance.
-</thinking>
-
 # Withdrawal Authorization Form - Help Guide
 ## Purpose
 The Withdrawal Authorization Form is used by financial advisors to authorize the withdrawal of funds from a student's account when the student is unable to do so themselves.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a wire transfer between two accounts. It's intended for financial advisors or account holders to provide details of the transfer, but not for actual execution of the transfer. The form is meant to be filled out by the user, and the collected data will be reviewed by the financial advisor for accuracy and completeness.
-</thinking>
-
 # Wire Transfer Form - Help Guide
 ## Purpose
 The Wire Transfer Form is used to gather information for a wire transfer between two accounts. This form is not for executing the transfer itself, but rather for providing the necessary details for the financial advisor to review and verify.

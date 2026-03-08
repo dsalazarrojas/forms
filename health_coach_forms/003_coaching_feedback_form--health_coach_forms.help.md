@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-# Coaching Feedback Form - Help Guide
+# # Coaching Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their coaching experience with our organization. Your input will help us understand what we're doing well and where we can improve.
 

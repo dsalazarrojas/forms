@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to order flowers online. It collects information about the type of flowers they want to buy, the quantity, desired delivery date, time, address, and contact phone number and email. This form is meant to be completed by customers who want to place a flower order for themselves or others. 
-
-The form is designed to be simple and easy to use, but it's essential to ensure that customers complete it correctly to ensure their order is processed accurately. 
-</thinking>
-
 # Online Flower Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to order flowers online, providing details for a successful and accurate flower delivery.

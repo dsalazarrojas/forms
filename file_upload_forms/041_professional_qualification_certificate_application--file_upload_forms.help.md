@@ -1,8 +1,3 @@
-<thinking>
-The form is used for submitting an application for a professional qualification certificate. This form is typically used by individuals seeking to obtain or verify a professional certification or qualification in a specific field, such as a medical certification or a teaching certification. The form requires the submission of a file, as well as personal information like name, date of birth, email, phone number, address, country of issuance, issuing organization, and verification status. The form also allows for optional verification requests. This form is likely used by administrators or HR personnel to verify the qualifications of employees or applicants. It's essential to ensure that the form is filled out accurately and completely to avoid any issues with the verification process. Please review the form carefully before submitting it.
-
-</thinking>
-
 # professional-qualification-certificate-application - Help Guide
 ## Purpose
 This form is used to submit an application for a professional qualification certificate. Please fill out the form carefully to provide all necessary information.

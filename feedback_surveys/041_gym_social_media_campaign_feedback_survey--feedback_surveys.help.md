@@ -1,10 +1,3 @@
-<thinking>
-This is a help guide for the Gym Social Media Campaign Feedback Survey form. The purpose of this form is to gather feedback from users about their experience with the gym's social media campaign. The form is designed to be a quick and easy way for users to share their impressions, likes, and dislikes about the campaign. It will help the gym's management team identify areas of improvement and make informed decisions about future campaign strategies.
-
-Before starting the survey, please make sure you have not already completed this survey. Duplicates will be deleted.
-
-</thinking>
-
 # Gym Social Media Campaign Feedback Survey - Help Guide
 ## Purpose
 This form is a survey to gather feedback from users about their experience with the gym's social media campaign. Your input will help us shape future campaigns and make them more effective.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a clear and concise help guide for the "Dessert Distribution Sign Up" form, let's analyze the provided YAML fields and understand the form's purpose. This form appears to be a sign-up sheet for a dessert distribution event, where volunteers can indicate their interest in helping with the event, provide their contact information, specify the dessert type and quantity they plan to distribute, and other details.
-
-To avoid duplication, we'll ensure that the form fields are correctly labeled and explained to prevent confusion among end-users.
-
-</thinking>
-
 # Dessert Distribution Sign Up - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Gut Health Daily Log" form, we need to consider the purpose of the form, how to complete it, and an explanation of each field. This form is designed to track daily logs for gut health, which may include symptoms, routines, and other relevant information. To ensure that end users understand the form's purpose and how to use it, we should clarify the following:
-
-*   The form is intended to be used by individuals who want to monitor their gut health and track any symptoms, routines, or other relevant information on a daily basis.
-*   The form should be filled out daily, with each field providing specific information about the user's gut health.
-*   The form should not be used for other purposes, such as medical diagnosis or treatment.
-
-</thinking>
-
 # Gut Health Daily Log - Help Guide
 ## Purpose
 The "Gut Health Daily Log" form is a tool designed for individuals to track their gut health on a daily basis. It is intended to help users monitor and record their symptoms, routines, and other relevant information to improve their gut health.

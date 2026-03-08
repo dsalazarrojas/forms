@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to submit Medicare claims. The purpose of this form is to gather information about a patient's medical claim, including billing and claim status. This form is intended for health care providers to submit claims on behalf of their patients. Please ensure that you are submitting this form in a legitimate and authorized capacity.
-
-</thinking>
-
 # medicare_claim_form_template - Help Guide
 ## Purpose
 This form is used to submit medical claims to Medicare.

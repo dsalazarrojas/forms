@@ -1,11 +1,3 @@
-<thinking>Before we start building the help guide, let's ensure that the form is relevant to the user's needs and goals. The "Hydrocarbon Assessment Checklist" form appears to be designed for evaluating and documenting hydrocarbon storage and spill response procedures. It seems to cover various aspects of hydrocarbon management, including storage conditions, spill response equipment, corrective actions, and staff training. However, to be certain, we should consider the following:
-
-*   Are the form fields well-defined and unambiguous?
-*   Are there any potential issues or inconsistencies in the form design?
-*   Can the form be completed accurately and efficiently by the end user?
-
-Let's assume for the sake of this exercise that the form is well-defined, relevant, and free of any issues. Now, let's start building the help guide for the "Hydrocarbon Assessment Checklist" form in Markdown format.</thinking>
-
 # Hydrocarbon Assessment Checklist - Help Guide
 ## Purpose
 The "Hydrocarbon Assessment Checklist" is a form used to evaluate and document hydrocarbon storage and spill response procedures. It helps ensure that the hydrocarbon storage is properly maintained, and spill response actions are taken promptly and effectively.

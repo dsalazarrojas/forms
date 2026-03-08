@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be designed for gathering information about a patient's home health care needs. The form is likely used by healthcare professionals to collect data for patient care and management. It appears to be a comprehensive form covering various aspects of the patient's health, including medical history, symptoms, home environment, medications, and contact information.
-
-To ensure this form is not duplicated, I'll make sure to provide a clear and concise help guide that explains each field's purpose and how to complete it.
-
-</thinking>
-
 # home_health_care_checklist - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's home health care needs, including medical history, symptoms, home environment, medications, and contact information. This data will help healthcare professionals provide better care and management for the patient.

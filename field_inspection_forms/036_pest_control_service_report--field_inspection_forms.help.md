@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and report pest control services provided to a property. The purpose of this form is to document the visit date, services performed, and contact information for future reference. To complete this form, the user should ensure that all required fields are filled out accurately and thoroughly. This form may be used by various teams within the organization, including pest control technicians, customer service, and quality assurance.
-</thinking>
-
 # Pest Control Service Report - Help Guide
 ## Purpose
 The Pest Control Service Report form is used to record and report pest control services provided to a property. It captures essential information for future reference, including the date of visit, services performed, and contact details.

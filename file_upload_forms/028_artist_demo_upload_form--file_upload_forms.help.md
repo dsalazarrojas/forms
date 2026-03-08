@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for artists and musicians to submit their demo tracks for review, festival bookings, collaboration opportunities, or other purposes. The purpose of the form is to gather necessary information about the artist's identity, music profile, and demo details. Before submitting, please ensure you own the rights to the work and agree to the submission terms. This form should only be filled out by the artist or their authorized representative. 
-
-</thinking>
-
 # Artist Demo Upload Form - Help Guide
 
 ## Purpose

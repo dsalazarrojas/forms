@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a trading card, including its type, set name, card number, rarity, condition, grade, price, purchase date, purchase price, and sale price. This data is likely to be used for tracking and inventory purposes. Before filling out this form, please ensure you have the necessary information about the card and that it is not already in the system. This guide will walk you through the process of filling out the form, field by field.
-</thinking>
-
 # Trading Card Stats Form - Help Guide
 ## Purpose
 The Trading Card Stats Form is a tool for collecting data about a trading card. This form helps users to provide detailed information about a card, which can be used for inventory management, tracking, and other related purposes.

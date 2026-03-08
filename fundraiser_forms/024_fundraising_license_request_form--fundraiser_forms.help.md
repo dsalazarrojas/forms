@@ -1,9 +1,3 @@
-<thinking>
-To confirm that the form is correctly implemented and relevant for the purpose of a Fundraising License Request Form.
-The purpose of this form is to collect information about a person's or organization's request for a fundraising license, which could be related to non-profit or for-profit projects, art, literature, music, theater, dance, films, or other types of projects.
-This form aims to gather essential details such as contact information (name, email, and phone), project specifics (project type, project details, budget), and license-related data (license type, license status, and expiration date).
-</thinking>
-
 # Fundraising License Request Form - Help Guide
 ## Purpose
 The Fundraising License Request Form is used to collect information about your project and license request.

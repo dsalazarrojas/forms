@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a training giveaway entry form that is used to collect user information and preferences for a training program. To ensure the entry is valid, users must not repeat entries and should only submit new entries. The purpose of this form is to collect data for the training program's evaluation and improvement.
 
 # Training Giveaway Entry Form - Help Guide

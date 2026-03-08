@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals or entities to apply for financial assistance or services. The form is used to gather relevant information to assess applicants' eligibility for funding or other financial support. To ensure that applicants provide accurate and complete information, the form should only be completed once per applicant. Please review the form carefully before submitting it to avoid any potential issues. Note that the form is divided into multiple pages for ease of use and clarity.
-</thinking>
-
 # Finance Application Form - Help Guide
 ## Purpose
 The Finance Application Form is designed to collect financial information from applicants to assess their eligibility for funding or other financial support.

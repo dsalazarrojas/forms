@@ -1,12 +1,3 @@
-<thinking>
-To avoid duplicating effort, the form purpose and explanation will be based on the fields provided in the YAML. 
-The form appears to be for calculating the net profit margin, which is a financial metric used to assess a company's profitability. 
-The net profit margin is calculated by dividing the net profit by the revenue and then multiplying by 100. 
-The form will allow users to input the revenue, cost of goods sold, operating expenses, and other expenses, and then select the type of calculation they want to perform (Gross Profit, Gross Profit Margin, or Operating Profit Margin). 
-The form will also allow users to select the net profit type (Operating Loss, Operating Profit, or Net Profit). 
-The form will then display the calculation result in a note field.
-</thinking>
-
 # Net Profit Margin Calculator - Help Guide
 ## Purpose
 The Net Profit Margin Calculator is a tool to calculate a company's net profit margin, a financial metric that assesses profitability.

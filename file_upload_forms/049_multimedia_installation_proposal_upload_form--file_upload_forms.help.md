@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are submitting multimedia installation proposals. The form is used to gather details about the proposal, including supporting files, proposal details, gallery information, venue information, event information, schedule, and proposal status. It is crucial that only proposals that are relevant to the multimedia installation should be submitted, and that the user understands that duplicate submissions will not be accepted. This guide is intended to assist users in filling out the form correctly, ensuring they provide the necessary information required for the proposal evaluation process.
-</thinking>
-
 # Multimedia Installation Proposal Upload Form - Help Guide
 ## Purpose
 

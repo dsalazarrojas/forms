@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication, I'll check if the form already exists in our internal knowledge base. If it does, this guide will be merged and updated. Otherwise, it will be created as a new guide.
-Form purpose: This form is used to collect information for custom dessert orders, including customer details, dessert preferences, and order notes. It is designed to be filled out by customers, sales staff, or other authorized personnel to place dessert orders.
-</thinking>
-
 # Custom Dessert Order Form - Help Guide
 ## Purpose
 The Custom Dessert Order Form is used to collect information for custom dessert orders, including customer details, dessert preferences, and order notes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halloween Candy Donation Form - Help Guide
 ## Purpose
 The Halloween Candy Donation Form is a simple online form designed to collect information from individuals interested in donating candy to a local food drive. The form is intended to gather contact details and other relevant information to facilitate the process.

@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is used for patients or their representatives to provide feedback on their experiences with medical appointments. The purpose of this form is to collect quantitative and qualitative feedback on various aspects of the appointment, such as the doctor's bedside manner, timeliness, and overall satisfaction. This information will be used to improve the quality of care and services provided by the healthcare organization. 
-
-This form is part of a larger feedback collection process, and it is essential to fill it out accurately to ensure that your feedback is captured correctly. Please ensure that you have filled out the form for the correct appointment, as feedback for the wrong appointment will not be recorded.
-
-To confirm, you have not already filled out this form for this appointment, please double-check the appointment date and other details to ensure that your feedback is for the correct appointment.
-
-</thinking>
-
 # Medical Appointment Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Medical Appointment Feedback Survey, which is designed to collect your feedback on your recent medical appointment.

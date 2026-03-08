@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from clients about their experience with the financial advisory service. It is used to identify areas of improvement and make informed decisions for future service delivery. 
-To complete this form, please follow the steps below. 
-We will be using information from the client feedback to help us improve our services, so we kindly request that you answer these questions truthfully and thoroughly. 
-Ensure that you are completing the form for the correct financial advisory service you received.
-</thinking>
-
 # Financial Advisory Service Feedback Report - Help Guide
 ## Purpose
 This form is a feedback mechanism to help us understand your experience with our financial advisory service. Your feedback is invaluable to us, and we use it to identify areas where we can improve.

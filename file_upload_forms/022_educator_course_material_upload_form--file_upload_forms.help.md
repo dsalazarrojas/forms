@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>This form is used to upload and submit course materials by educators. The form collects information about the course material, such as its title, type, category, uploaded file details, and course-related metadata. This form ensures that educators can upload their course materials in a standardized format, making it easier for learners and administrators to access and manage course resources. By filling out this form, you will be able to provide accurate and detailed information about your course materials, which will help to improve the learning experience for students. Please ensure that the information you enter is accurate and complete, as it will be used for course cataloging and discovery.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. Review the form fields and ensure you have all the required information ready.

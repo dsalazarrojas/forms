@@ -1,10 +1,3 @@
-<thinking>
-This form is used to search for planning permissions. It is designed to collect relevant information from users to facilitate the search process. 
-Please note that the form fields are designed to collect different types of information, and some fields are required while others are optional. 
-It is recommended that users fill out the form carefully, providing accurate and complete information to get the best results. 
-To ensure that the search results are not duplicated, please do not submit the same search request multiple times.
-</thinking>
-
 # Planning Permission Search Request Form - Help Guide
 ## Purpose
 The Planning Permission Search Request Form is used to search for planning permissions related to properties. It is designed to gather relevant information from users to facilitate the search process.

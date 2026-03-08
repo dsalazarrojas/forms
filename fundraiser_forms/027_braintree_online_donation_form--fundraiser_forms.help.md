@@ -1,10 +1,3 @@
-<thinking>
-We're designing the Braintree Online Donation Form to make it easy for users to contribute to our cause. This form will guide them through a series of sections, each focused on a different aspect of the donation process. The goal is to collect relevant information about the donor, understand their donation preferences, and provide options for customizable and recurring donations.
-
-Before we begin, it's essential to ensure that this form meets the needs of our donors and is free from duplication. We'll be using this form to collect donations for various programs, so it's crucial that we get this right!
-
-</thinking>
-
 # Braintree Online Donation Form - Help Guide
 ## Purpose
 The Braintree Online Donation Form is designed for donors to contribute to our cause using a simple and intuitive interface. This form guides you through various sections, ensuring you provide the necessary information for a smooth donation process.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants for a giveaway event. It is likely intended to be used in a retail setting, such as a mall or store, where a giveaway is being conducted for marketing purposes. The form should be completed by participants to enter the giveaway contest. It is not clear if the form is required to be completed in-person or online. To ensure accurate and consistent responses, please review the form carefully before proceeding. Please note that this form may have been designed to be completed by multiple participants, indicated by the presence of `participant_info_2`.
-</thinking>
-
 # Top Shopper Giveaway Entry Form - Help Guide
 
 ## Purpose

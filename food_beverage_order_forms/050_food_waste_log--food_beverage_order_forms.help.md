@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Waste Log - Help Guide
 
 ## Purpose

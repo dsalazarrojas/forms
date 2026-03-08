@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fee Waiver Follow Up Questionnaire - Help Guide
 
 ## Purpose

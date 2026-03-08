@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_merchandising_effectiveness_assessment - Help Guide
 ## Purpose
 The retail merchandising effectiveness assessment form is used to gather information about a store's sales performance, inventory levels, and operational status. This form helps assess the effectiveness of a store's merchandising strategy and identify areas for improvement.

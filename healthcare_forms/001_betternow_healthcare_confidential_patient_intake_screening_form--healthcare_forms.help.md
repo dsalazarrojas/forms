@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect confidential patient intake information for healthcare services. The purpose of this form is to gather essential details about the patient's identity, medical history, and lifestyle factors that might affect their health. This form will be used to create a comprehensive profile of the patient, which will help healthcare professionals provide personalized and effective care. 
-
-It's essential to ensure that this form is completed accurately and thoroughly to ensure that the patient's medical history and preferences are accurately recorded and communicated to the healthcare team.
-
-</thinking>
-
 # BetterNOW Healthcare Confidential Patient Intake Screening Form - Help Guide
 ## Purpose
 This form is designed to collect confidential patient intake information for healthcare services. The purpose of this form is to gather essential details about the patient's identity, medical history, and lifestyle factors that might affect their health.

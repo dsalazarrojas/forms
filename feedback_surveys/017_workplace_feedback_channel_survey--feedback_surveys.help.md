@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed to collect feedback from employees or users about their experience with the workplace. The purpose of this form is to gather information on how the workplace is functioning and identify areas for improvement. To avoid duplication, the form is probably intended to be filled out by different people on different occasions, and the responses will be collected for analysis. 
-</thinking>
-
 # Workplace Feedback Channel Survey - Help Guide
 ## Purpose
 This survey is designed to collect your feedback about your experience with the workplace. Your input will help us identify areas for improvement and provide better service to our employees.

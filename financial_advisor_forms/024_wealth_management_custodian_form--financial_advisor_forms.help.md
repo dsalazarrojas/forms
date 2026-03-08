@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from a custodian or authorized party regarding an individual's or entity's wealth management. The purpose of this form is to establish a record of authorization and custodianship for the specified account, ensuring that all parties involved are aware of their roles and responsibilities. The form is typically used when an individual or entity is entrusting someone with their financial assets or property. 
-
-The form ensures that the necessary information is collected and recorded accurately and in a way that meets regulatory requirements. The form is not meant to be a comprehensive financial plan or advice, but rather a document that captures the essential details of the custodianship.
-
-This guide will help users complete the form accurately, understand each field's purpose, and provide tips to ensure that the form is filled out correctly.
-</thinking>
-
 # Wealth Management Custodian Form - Help Guide
 ## Purpose
 This form is used to establish a record of authorization and custodianship for an individual or entity's financial assets or property. It captures necessary information from the custodian or authorized party, including their name, contact details, and authorization date.

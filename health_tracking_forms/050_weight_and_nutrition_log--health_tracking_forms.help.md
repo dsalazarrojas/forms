@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the user's weight and nutrition goals. The form is intended to be completed by individuals who want to monitor their weight and nutrition progress over time. The purpose of this form is to provide a simple and structured way to record daily weight and nutrition-related activities, such as weight measurements, food intake, exercises, and target dates and times. 
-</thinking>
-
 # Weight And Nutrition Log - Help Guide
 ## Purpose
 This form helps users track their weight and nutrition progress, providing an organized way to record weight measurements, food intake, exercises, and target dates and times.

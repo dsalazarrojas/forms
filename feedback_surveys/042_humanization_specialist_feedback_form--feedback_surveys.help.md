@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Humanization Specialist Feedback Form - Help Guide
 ## Purpose
 The Humanization Specialist Feedback Form is designed to gather feedback from users regarding their experience with Humanization Specialists. This form helps us understand the strengths and weaknesses of our services, allowing us to improve and refine our approach to providing high-quality support.

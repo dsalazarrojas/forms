@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to simulate a simple game of Rock Paper Scissors between two players. The game is typically played by two players making simultaneous and independent choices, with the winner being the player who chooses the winning hand.
-The game is often used as a way to break the ice or for entertainment. It is also used as an example of a game theory problem, where two individuals try to predict and counter-predict each other.
-The form is designed to be simple and easy to use, with a minimal amount of fields. Players can choose between rock, paper, and scissors using the select_one field, and the outcome of the game will be displayed in the note field.
-</thinking>
-
 # Rock Paper Scissors Game - Help Guide
 ## Purpose
 This form is designed to simulate a game of Rock Paper Scissors between two players. It's a simple and fun game used to break the ice or for entertainment.

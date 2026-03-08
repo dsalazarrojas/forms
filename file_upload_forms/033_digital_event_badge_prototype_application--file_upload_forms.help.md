@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from event attendees to generate a digital badge prototype for the event. This badge will serve as a proof of attendance or participation in the event. The form is designed to gather essential details such as event title, organizer's name, event start and end dates, attendee's email, badge type preference, and badge image details. This information will be used to create a digital badge that can be distributed among event attendees.
 
 # digital_event_badge_prototype_application - Help Guide

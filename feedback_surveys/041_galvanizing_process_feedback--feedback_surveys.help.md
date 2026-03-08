@@ -1,8 +1,3 @@
-<thinking>
-This form, "Galvanizing Process Feedback," is designed to collect user feedback about a galvanizing process run. To ensure the information you submit is accurate, please only fill out this form for a specific galvanizing process run. If you need to provide feedback for multiple runs, please submit separate forms. This will help us better understand your experiences and improve our processes.
-The purpose of this form is to gather feedback on the galvanizing process run you've just completed or are currently engaged in. Your input will help us identify areas for improvement and optimize the process.
-</thinking>
-
 # Galvanizing Process Feedback - Help Guide
 ## Purpose
 The Galvanizing Process Feedback form is designed to collect user feedback about a galvanizing process run. This feedback is used to identify areas for improvement and optimize the galvanizing process for future runs.

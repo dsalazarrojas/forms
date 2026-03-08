@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # diagnostic_imaging_referral_form - Help Guide
 ## Purpose
 The diagnostic imaging referral form is a medical referral form designed for healthcare providers to gather essential information for imaging services. This form helps in creating a comprehensive record of the patient's condition, medical history, and imaging needs. It is intended to ensure that the imaging services requested are accurate, up-to-date, and in line with the patient's current health status.

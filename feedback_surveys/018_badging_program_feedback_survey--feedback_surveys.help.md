@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from participants who have earned badges through the Badging Program. The purpose of this form is to gather information on the participant's experience with the program, including their satisfaction with the program's overall value, recognition, and support. The feedback will help us identify areas of improvement and ensure that the program meets the needs of its participants.
-
-Before filling out this form, please note that we will not ask for duplicate feedback. If you have already provided feedback, you will be redirected to this page with a note indicating that your feedback has already been recorded.
-
-If you have any trouble filling out this form, please don't hesitate to ask for help.</thinking>
-
 # Badging Program Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users identify their culinary style, preferences, and dietary habits. It is intended for food and beverage businesses to collect information about their customers' tastes and eating habits. The form is divided into multiple sections, each focusing on a different aspect of the user's culinary style. This form is not intended to be used in high-security or sensitive contexts, such as financial or health-related applications.
-</thinking>
-
 # Identify Your Culinary Style - Help Guide
 
 ## Purpose

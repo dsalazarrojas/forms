@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Hook Inspection Report - Help Guide
 ## Purpose
 The Annual Hook Inspection Report is used to document the inspection of a hook during its annual maintenance cycle. This form helps ensure the hook is in good condition and safe for continued use. It is essential to complete this form accurately and thoroughly to maintain compliance with safety regulations and prevent potential damage or accidents.

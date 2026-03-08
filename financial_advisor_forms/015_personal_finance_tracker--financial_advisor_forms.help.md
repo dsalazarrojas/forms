@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a simple personal finance tracker, allowing users to input their income, expenses, and savings data to gain insights into their financial situation. The form will guide the user through various fields to collect necessary information, including income and expenses categories, frequency and type, and goals and targets. This information will help users understand how much they earn, spend, and save, and make data-driven decisions to manage their finances effectively. 
-
-To ensure that the form is not duplicated or filled out unnecessarily, users will be required to provide their email address and phone number to help the financial advisor or system track and follow-up on their progress.
-
-Before completing this form, please note that the information provided will be treated confidentially and securely stored. Please be aware that the form is meant to be a general guide and not a substitute for professional financial advice.
-
-Please review the form carefully and fill it out accurately to provide the best possible outcome.
-</thinking>
-
 # Personal Finance Tracker - Help Guide
 ## Purpose
 This form is designed to help users track their personal finances, including income, expenses, and savings data. It is meant to be a general guide and not a substitute for professional financial advice.

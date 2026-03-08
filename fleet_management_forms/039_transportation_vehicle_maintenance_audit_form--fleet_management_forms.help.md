@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for transportation vehicle maintenance audits. The form aims to gather general information about the vehicle, inspection details, driver information, any additional notes, and a final submission confirmation. It is a simple form that does not involve any complex calculations or conditional logic. Before proceeding, please verify that the form is suitable for your specific use case and does not overlap with existing forms or surveys in your organization.
-</thinking>
-
 # Transportation Vehicle Maintenance Audit Form - Help Guide
 ## Purpose
 This form is a basic audit tool for transportation vehicle maintenance. It collects general information, inspection details, driver information, and notes to help with vehicle maintenance.

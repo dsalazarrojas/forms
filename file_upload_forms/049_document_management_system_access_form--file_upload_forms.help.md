@@ -1,9 +1,3 @@
-<thinking>
-This form is used for managing access to the document management system. It is intended for users who need to access and manage documents. This form will help you to input information about the document such as user input, file upload details, access level, file type, description, date and time of upload, and other meta data. 
-Please note that this form is meant to be used by users who have been granted access to the system, and are not intended for general public access.
-
-</thinking>
-
 # document_management_system_access_form - Help Guide
 ## Purpose
 The document management system access form is used to input and manage information about documents in the system. This form is intended for users who need to access and manage documents, and is not intended for general public access.

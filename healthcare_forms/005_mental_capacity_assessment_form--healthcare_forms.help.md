@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Mental Capacity Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's mental capacity, which refers to their ability to understand, evaluate, and manipulate information across various domains, including their cognitive, emotional, and social well-being. The form is used to assess a patient's mental status, medical history, and other relevant factors that may impact their cognitive function.

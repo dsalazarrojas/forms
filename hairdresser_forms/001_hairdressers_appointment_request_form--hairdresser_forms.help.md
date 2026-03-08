@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Hairdressers Appointment Request Form, we need to consider the following:
-
-*   The form is intended for clients to request appointments with hairdressers, so it's essential to convey this purpose clearly.
-*   The form requires a simple and intuitive design to guide users through the submission process, ensuring they fill in all necessary information correctly.
-*   Each field should be explained in a way that is concrete and concise, avoiding ambiguity and confusion.
-
-</thinking>
-
 # Hairdressers Appointment Request Form - Help Guide
 
 ## Purpose

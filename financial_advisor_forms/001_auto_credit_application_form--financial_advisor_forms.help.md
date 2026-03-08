@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will analyze the fields and options provided. The form appears to be for an auto credit application, which typically involves obtaining financing or credit for a vehicle purchase. The form collects personal and financial information from the applicant to assess their creditworthiness and determine the feasibility of approving a loan. 
-
-The form is divided into sections: Personal Information, Address, Employment, Credit Information, and Vehicle Information. This suggests that the form is used to gather information about the applicant's ability to repay a loan, their employment status, their current credit situation, and their preferences for the vehicle loan.
-
-This form is likely used by financial institutions or auto dealerships to assess and approve credit applications for vehicle purchases. To confirm, the required fields and options suggest that the form is focused on assessing the applicant's financial capacity and credit history to make an informed decision about extending credit.
-
-The internal logic of the form also confirms that the form's purpose is to gather necessary information to facilitate the vehicle loan application process. The required fields indicate that the applicant must provide their personal details, contact information, employment status, and financial history, among other relevant details.
-
-Given this analysis, the form is likely used by financial institutions or auto dealerships to evaluate creditworthiness for vehicle loans. This form should be used to help end-users understand what information is needed from them and how to complete it accurately to ensure their loan application is processed efficiently.
-</thinking>
-
 # Auto Credit Application Form - Help Guide
 
 ## Purpose

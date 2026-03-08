@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from farmers or farm owners for their order of herbs and foods. The form likely serves as an internal tool for farm owners to communicate their orders to the relevant parties or for the farm's administration to process orders. The fields are likely used to gather details about the farm's order such as the type of crops ordered, the date of the order, and the payment information. This form might be used in a specific context such as for wholesale market sales or direct-to-consumer sales.
-
-</thinking>
-
 # Herbs And Foods Crop Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow farm owners to place orders for herbs and foods.

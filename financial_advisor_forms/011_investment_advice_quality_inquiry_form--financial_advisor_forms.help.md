@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Investment Advice Quality Inquiry Form", I will first consider the form's purpose and the requirements for completion. The form appears to be designed for clients to provide feedback or ask questions related to their investment advice. The purpose of this form is likely to gather information from clients about their current experience and expectations, which can help the investment advisors provide better service.
-
-Given the multiple "question_*" fields with no specific options and the note field, it seems that the form is intended for gathering text-based feedback or answers. The "required: true" fields are probably the questions that are mandatory for the client to provide a complete and satisfactory response. However, the absence of specific options for these "question_*" fields makes it difficult to infer their exact nature. I will assume that these fields are meant to be used for free-text input.
-
-Before proceeding with the creation of the help guide, I want to ensure that the form is not a simple "free-text" field that would allow clients to provide unstructured feedback. However, considering the structured "question_*" fields with "label" and "hint" attributes, I will assume that the form is designed to gather specific information from clients.
-
-To provide an accurate help guide, I will assume that the "question_*" fields with "required: true" are the most critical parts of the form, and the "client_feedback" field is also an important section. The "question_*" fields with no "required: true" attributes might be optional or secondary questions. I will provide explanations based on these assumptions.
-
-</thinking>
-
 # Investment Advice Quality Inquiry Form - Help Guide
 ## Purpose
 The "Investment Advice Quality Inquiry Form" is designed for clients to provide feedback or ask questions related to their investment advice experience. This form helps investment advisors gather information about current experiences and expectations.

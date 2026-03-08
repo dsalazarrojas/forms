@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information for meal orders during a quarantine period. This form is likely used in a healthcare setting, such as a hospital or clinic, to track and manage patient meal requests. The form should be used by patients or their representatives to submit their meal preferences and any special instructions or requests. The fields should be filled out carefully to ensure accurate and complete information is provided. Please review the form carefully and ensure all required fields are completed.
-
-This guide is to help users understand the form's purpose and complete it accurately. If you have any questions or need help with the form, please contact the relevant staff member.</thinking>
-
 # Quarantine Meal Order Form - Help Guide
 ## Purpose
 The Quarantine Meal Order Form is designed to collect information for meal orders during a quarantine period.

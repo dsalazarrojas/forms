@@ -1,5 +1,3 @@
-<thinking>This form is designed for health coaches to check in with their clients on the adherence to their health and wellness plan. The form collects information on the client's progress, including their weight, height, and progress photos. The coach can also add their own comments and reminders for the client. This form is meant to be a regular check-in point for the coach and client to review progress and make adjustments to the plan as needed. It is not meant to be a comprehensive assessment of the client's overall health, but rather a snapshot of their current progress. The coach and client can both use this form to track progress over time and make informed decisions about future coaching sessions.</thinking>
-
 # Health Coaching Client Plan Adherence Check In - Help Guide
 ## Purpose
 The purpose of this form is to provide a regular check-in point for health coaches and their clients to review and update progress on the client's health and wellness plan.

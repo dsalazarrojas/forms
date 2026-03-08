@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by end users, particularly healthcare professionals, to accurately assess patient risk. This form is intended for use in the ICU (Intensive Care Unit) setting to gather necessary information about a patient's condition. Before using this form, please review the following fields to ensure you understand their purpose and requirements.
-</thinking>
-
 # icu risk assessment form - Help Guide
 ## Purpose
 The ICU Risk Assessment Form is designed to collect essential information about a patient's risk level and condition. This form helps healthcare professionals quickly and accurately assess a patient's risk and make informed decisions.

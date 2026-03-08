@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical information related to a patient's foot examination. It includes demographic information such as patient ID and medical record number, as well as various clinical findings including blood pressure, pulse, pain level, and other sensory and motor functions of the foot. This form aims to capture a comprehensive overview of the patient's condition.
-The form is designed to be completed by healthcare professionals during a patient's consultation or examination, and the information collected will help in making a more accurate diagnosis and effective treatment plan.
-To ensure data accuracy and consistency, the form should only be filled out by authorized healthcare professionals.
-</thinking>
-
 # diabetes_foot_exam_form - Help Guide
 ## Purpose
 The diabetes foot examination form is designed to collect detailed medical information related to a patient's foot condition, helping healthcare professionals make a more accurate diagnosis and effective treatment plan.

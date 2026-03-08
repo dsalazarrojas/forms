@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for users to reserve grab-and-go meals, which are pre-prepared meals that can be picked up at a specific time. The form is intended to collect information from customers about their meal preferences, payment details, and other relevant information to facilitate a smooth reservation experience.
-</thinking>
-
 # grab_and_go_meals_reservation_form - Help Guide
 ## Purpose
 The grab and go meals reservation form is designed to collect information from customers for their meal reservations. This form will help you provide an efficient and personalized service for your customers.

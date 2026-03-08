@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information from clients or patients about their hypnosis goals, objectives, and medical history. The purpose of this form is to provide a comprehensive intake form for hypnosis services, allowing the practitioner to assess the client's needs and provide effective treatment. This form is not intended to replace the professional judgment of a licensed therapist or healthcare professional.
-
-Before filling out this form, please note that:
-
-* All answers should be accurate and truthful.
-* The form is intended for hypnosis services only.
-* Please answer all fields carefully and thoroughly.
-
-</thinking>
-
 # Hypnosis Intake Form - Help Guide
 ## Purpose
 The Hypnosis Intake Form is a collection of questions designed to help hypnosis practitioners understand your needs and provide effective treatment. This form is not a substitute for professional consultation or therapy, but rather a tool to gather essential information.

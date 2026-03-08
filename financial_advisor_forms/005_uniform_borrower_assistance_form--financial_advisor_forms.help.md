@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Uniform Borrower Assistance Form - Help Guide**
 
 ## Purpose

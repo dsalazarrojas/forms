@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on the lead generation process, aiming to optimize and improve the quality and quantity of leads generated. This form was created by AI and is an original adaptation of a public survey template, not affiliated with or derived from any form platform. The form is released under a Creative Commons BY 4.0 license, allowing free use, modification, and distribution.
-</thinking>
-
 # lead_generation_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on the lead generation process, aiming to optimize and improve the quality and quantity of leads generated.

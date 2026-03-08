@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an auto part for verification purposes. The form is designed to collect details about the part, including its name, manufacturer part number, and condition. The information collected will be used to verify the authenticity and quality of the part. This form should only be used for parts that have been received for verification, and not for other purposes. Please ensure that the form is filled out for each part separately to avoid duplication of effort and to maintain accurate records.
-</thinking>
-
 # Auto Parts Verification Form - Help Guide
 ## Purpose
 The Auto Parts Verification Form is used to collect information about an auto part for verification purposes. This form is designed to gather details about the part, including its name, manufacturer part number, and condition, to verify its authenticity and quality.

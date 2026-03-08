@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for players to track their character's statistics during gaming sessions. It appears to be a comprehensive tracker for character development and session-specific data. The fields are a mix of basic information (player name, character name, session date, session number, etc.) and more detailed statistics (character level, experience gained, health points, etc.). The form also includes optional fields for tracking additional data such as total damage dealt/taken, enemies defeated, gold earned/spent, and items acquired during the session. One interesting field, 'character status,' is a select-one field with specific options (Healthy, Injured, Cursed, Poisoned, Blessed, and Other), which might be used to indicate the character's current health status. It's likely that this form is used for tabletop RPG games or similar role-playing games where character development and session tracking are essential parts of the gameplay.
-</thinking>
-
 # Character Statistics Tracker - Help Guide
 ## Purpose
 This form helps you track your character's statistics during gaming sessions, allowing you to monitor their development and progress.

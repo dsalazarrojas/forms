@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's neurological examination, including their personal details, medical record number, and various aspects of their neurological examination, such as cranial exam, motor exam, and sensory exam. The form is divided into different sections, each focusing on a specific aspect of the neurological examination. The purpose of this form is to ensure that the healthcare professional conducting the examination has a comprehensive understanding of the patient's condition and can accurately diagnose and treat it.
-
-Before using this form, please ensure that you are familiar with the relevant medical standards and guidelines for conducting a neurological examination. This form should not be used as a substitute for medical expertise and judgment.
-
-This form is designed to be used in a healthcare setting, such as a hospital or clinic, and is intended to aid healthcare professionals in their assessment and diagnosis of neurological conditions.
-</thinking>
-
 # Neurological Exam Form - Help Guide
 ## Purpose
 

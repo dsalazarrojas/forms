@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect basic information from new clients in an osteopathic healthcare setting. This form should be used for new clients who have not previously registered in the system. It is not intended for existing clients.
-</thinking>
-
 # Osteopathic New Client Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from new clients, including contact details and medical information. This form is required to be completed by clients to register with the osteopathic healthcare service.

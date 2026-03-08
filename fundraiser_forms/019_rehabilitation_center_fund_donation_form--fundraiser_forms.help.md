@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form's purpose is to collect donation information from users, likely for the Rehabilitation Center's fundraising efforts. This form will be used for users who wish to donate money or other resources to support the center's activities. Before creating this guide, please ensure that this form will indeed be used for this specific purpose and not for other types of data collection.
-</thinking>
-
 # Rehabilitation Center Fund Donation Form - Help Guide
 ## Purpose
 The Rehabilitation Center Fund Donation Form is used for users to contribute money or other resources to support the center's activities.

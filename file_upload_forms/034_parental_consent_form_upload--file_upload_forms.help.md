@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Consent Form Upload - Help Guide
 ## Purpose
 The Parental Consent Form Upload form is used to collect information from parents or guardians regarding their consent for a child to participate in certain activities or programs. This form helps to ensure that parents or guardians are aware of and agree to the terms and conditions of the activity or program their child is participating in.

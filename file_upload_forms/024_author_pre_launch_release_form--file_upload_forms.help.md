@@ -1,7 +1,3 @@
-<thinking>
-The Author Pre Launch Release Form is used to gather information from authors about their work, including submission details, author and book information, and reviewer and publication permissions. This form is typically used by authors to provide advance review copies to selected individuals. It helps authors to manage the distribution of their work and set boundaries on reviewer interactions. The form also ensures that reviewers are aware of their responsibilities and obligations regarding review and publication of the work.
-</thinking>
-
 # Author Pre Launch Release Form - Help Guide
 
 ## Purpose

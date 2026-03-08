@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for job applicants to provide their information and upload necessary documents for consideration. It is intended to be a general-purpose form, not specific to any one job posting or company. It is recommended that applicants fill out the form with as much detail as possible.
-</thinking>
-
 # Job Application Form With Image Upload - Help Guide
 ## Purpose
 The Job Application Form With Image Upload is a general-purpose form designed for job applicants to submit their information and documents for consideration.

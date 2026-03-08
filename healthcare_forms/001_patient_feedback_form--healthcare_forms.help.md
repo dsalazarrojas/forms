@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Feedback Form - Help Guide
 
 ## Purpose

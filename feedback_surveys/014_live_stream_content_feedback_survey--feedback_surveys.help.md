@@ -1,10 +1,3 @@
-<thinking>
-We need a user-friendly help guide that informs viewers on how to provide meaningful feedback on live stream content, helping our team identify areas of improvement.
-To create this guide, we should follow the form's schema and focus on providing clear and concise explanations for each field. We should also ensure the guide is easy to navigate and understand, even for users who may not be familiar with the form.
-This guide is intended to serve as a helpful resource for viewers who want to participate in the live stream content feedback survey. By following this guide, viewers can provide accurate and informative feedback that will help us improve our content and services.
-Please let me know if this meets your requirements. I'll create the actual Markdown guide once confirmed.
-</thinking>
-
 # Live Stream Content Feedback Survey - Help Guide
 ## Purpose
 The Live Stream Content Feedback Survey is designed to gather your thoughts and opinions on our live stream content. Your feedback is valuable to us, and we appreciate your time and effort in helping us improve our content and services.

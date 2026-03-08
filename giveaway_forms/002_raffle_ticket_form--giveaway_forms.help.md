@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help organizers create a raffle ticket form for various raffles or giveaways. The form is meant to collect essential details from participants, including their contact information, raffle entry preferences, and payment methods. To ensure accurate and efficient completion of the form, please read through each field carefully.
-
-The form's primary function is to gather information from participants and process their raffle entries. This form is likely to be used for events or campaigns where participants are randomly selected to win prizes. Ensure you have all the required fields filled before submitting the form.
-
-Please note that the "Raffle Status", "Raffle Type", "Raffle Date", "Raffle Time", "Entry Start Date", "Entry End Date", "Entry End Time", and "Entry Status" fields are likely to be set by the form administrator or event organizer. These fields are not meant to be filled by the participant.
-
-</thinking>
-
 # Raffle Ticket Form - Help Guide
 ## Purpose
 The Raffle Ticket Form is designed to collect participant information and process their raffle entries. Ensure you have all the required fields filled before submitting the form.

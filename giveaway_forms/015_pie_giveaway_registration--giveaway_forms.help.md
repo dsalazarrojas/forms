@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering for a giveaway. Giveaways are promotional events where the company provides a free product or service to a random participant. The form is used to collect information from the participants to determine their eligibility and to gather their contact details for prize delivery. The form is not meant for actual purchase or order of a product, but rather for entry into a giveaway event. This is a one-time event, and users should only fill out the form once.
-
-Before proceeding, ensure that you have not previously registered for this giveaway event. If you have, your entry will not be accepted.
-</thinking>
-
 # pie_giveaway_registration - Help Guide
 ## Purpose
 The "pie_giveaway_registration" form is used for participants to register for a giveaway event. This event offers a free product or service, and users must provide necessary information to be eligible and receive the prize.

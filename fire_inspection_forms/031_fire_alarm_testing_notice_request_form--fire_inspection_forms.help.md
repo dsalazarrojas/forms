@@ -1,14 +1,3 @@
-<thinking>
-To create a clear and user-friendly help guide for the "Fire Alarm Testing Notice Request Form", I will first understand the form's purpose and the fields it contains. The form seems to be designed for requesting fire alarm testing services, possibly for residential or commercial properties. 
-
-The form collects contact details, property address, testing dates (and preferred date/time), test results, assigned tools/equipment, assigned user/team, assigned group, and comments. The required fields are contact details, testing dates, preferred testing date, preferred testing time, assigned tool, assigned user, assigned group, status, and comments.
-
-Upon reviewing the form's structure and labels, I can infer that it is likely used by property owners or managers to request fire alarm testing services. The form is probably submitted internally or through a web application.
-
-Given this understanding, the purpose of the form is to facilitate fire alarm testing services for properties. The form's primary goal is to gather essential information to schedule and perform fire alarm tests efficiently.
-
-</thinking>
-
 # Fire Alarm Testing Notice Request Form - Help Guide
 ## Purpose
 

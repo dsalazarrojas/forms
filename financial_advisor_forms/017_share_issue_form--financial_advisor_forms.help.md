@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The share_issue_form is designed to help financial advisors gather information about a company's share issues, such as company details, share details, and investor information. This form is intended for use by financial advisors to collect data for internal record-keeping and reporting purposes. 
 
 Before proceeding, please confirm that you are authorized to access this form and that the information you are about to input is accurate and up-to-date.

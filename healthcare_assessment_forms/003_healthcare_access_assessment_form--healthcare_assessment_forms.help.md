@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assessment and evaluation purposes in a healthcare setting. The primary goal is to gather relevant information about a patient's healthcare access, delivery, and support needs. This form should not be used for any other purpose. The form consists of a series of questions that are designed to capture detailed and accurate information about a patient's healthcare status. Ensure that all relevant fields are filled out thoroughly and honestly to provide a comprehensive assessment.
-</thinking>
-
 # healthcare_access_assessment_form - Help Guide
 ## Purpose
 The healthcare_access_assessment_form is a tool used to evaluate a patient's healthcare access, delivery, and support needs. It is essential to provide accurate and comprehensive information to aid in making informed decisions about patient care.

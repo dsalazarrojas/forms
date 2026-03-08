@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a funding request from a user. This form is likely used to collect data for internal purposes, such as budgeting or resource allocation. Before filling out the form, please ensure you are not duplicating an existing request or that the request is not being submitted for a purpose other than what is intended for this form. If you are unsure, please check with the relevant authority for guidance.
-</thinking>
-
 # Funding Request Form - Help Guide
 
 ## Purpose

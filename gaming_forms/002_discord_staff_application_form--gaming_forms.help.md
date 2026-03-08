@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Discord Staff Application Form - Help Guide
 ## Purpose
 The purpose of this form is for individuals to submit their application for a staff position within a Discord server. This form is used to gather necessary information to evaluate their suitability for the role and assess their qualifications.

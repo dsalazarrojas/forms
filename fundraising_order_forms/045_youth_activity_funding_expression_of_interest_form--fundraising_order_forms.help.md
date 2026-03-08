@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Activity Funding Expression Of Interest Form - Help Guide
 ## Purpose
 The Youth Activity Funding Expression of Interest Form is a tool for youth groups to express their interest in funding for their activities. This form is used to gather information about the group's funding needs, project details, and contact information. The form helps the youth group to present their request for funding in a structured and clear manner.

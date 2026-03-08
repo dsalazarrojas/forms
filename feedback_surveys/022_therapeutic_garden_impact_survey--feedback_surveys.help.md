@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on the therapeutic garden, likely from users who have visited the garden, to gather data on their experiences, well-being, and frequency of visits. This form is designed to help us understand the impact of the garden on visitors' overall well-being and their reasons for visiting. 
-To avoid duplicate responses, we will be using IP address blocking for this form.
-</thinking>
-
 # Therapeutic Garden Impact Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals who have visited the therapeutic garden. Your responses will help us understand the positive and negative impacts of the garden on your overall well-being.

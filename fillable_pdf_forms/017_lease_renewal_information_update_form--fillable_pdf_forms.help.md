@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to update information regarding lease renewals, covering various aspects of the lease agreement such as start and end dates, lease terms, rent, utilities, and other relevant details. Before proceeding, please ensure that you are completing this form for an existing lease and that the information is up to date.
-
-To prevent potential errors, review your current lease documents and ensure that the information being updated is accurate and reflects the current state of the lease. If you are unsure about any field or have questions, please contact your supervisor or the lease administrator.
-
-</thinking>
-
 # Lease Renewal Information Update Form - Help Guide
 ## Purpose
 This form is designed to gather updates on lease renewal information, ensuring that all relevant details are captured accurately.

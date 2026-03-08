@@ -1,7 +1,3 @@
-<thinking>
-This form is used for healthcare professionals to refer patients to health initiatives, providing essential information for patient management and care coordination. The form collects patient information, medical history, and contact details, as well as the healthcare provider's recommendation for treatment and follow-up. It helps healthcare providers to ensure continuity of care and effective communication among healthcare teams.
-</thinking>
-
 # Health Initiative Referral Form - Help Guide
 ## Purpose
 The Health Initiative Referral Form is a tool for healthcare professionals to refer patients to health initiatives, providing a structured way to gather and document essential patient information, medical history, and contact details. This form helps healthcare providers to ensure continuity of care and effective communication among healthcare teams.

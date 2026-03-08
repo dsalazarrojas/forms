@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose and relevance of the form, I will analyze the inputSchema provided.
-
-The form is likely used for planning and submitting appointments related to fundraising events. It seems to be a multi-page form with three pages: "form_submission_page", "event_details_page", and "appointment_details_page". The form does not require any specific input fields to be filled in, but it appears to be a template for collecting information about events and appointments.
-
-Before proceeding, I will check for any potential duplication of forms with similar names or purposes. After analyzing the inputSchema, I did not find any duplication or similar forms.
-
-Now that the purpose and relevance have been determined, I will create a user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # fundraising_event_planning_appointment_form - Help Guide
 ## Purpose
 This form is used for submitting appointments related to fundraising events. It is a template for collecting information about events and appointments.

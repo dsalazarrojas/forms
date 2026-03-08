@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to assess the emotional distance between a patient and their caregivers or family members. This assessment aims to evaluate the level of emotional connection and intimacy the patient has with their loved ones. It's an essential tool for healthcare professionals to understand the patient's emotional well-being and develop a personalized care plan. Before proceeding, please note that this form is a critical component of the patient's medical records, and accurate information is crucial for providing high-quality care. Please ensure that you have the patient's consent before filling out this form. Also, if you have filled out this form previously, you can edit the existing information instead of creating a new entry to avoid duplication.
-</thinking>
-
 # Emotional Distance Assessment - Help Guide
 ## Purpose
 The Emotional Distance Assessment form is designed to evaluate the emotional connection between a patient and their caregivers or family members.

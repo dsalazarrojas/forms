@@ -1,7 +1,3 @@
-<thinking>
-The form is used to submit training assignments, which is a crucial part of the employee's professional development. It is essential to ensure that each submission is unique and relevant to the training program. To prevent duplication or incorrect submissions, we need to clearly understand the fields in this form.
-</thinking>
-
 # Training Assignment Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information about submitted training assignments, including the type of file submitted, description, submission status, submitter's identity, and submission timestamp.

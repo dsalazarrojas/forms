@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Ordering Form - Help Guide
 ## Purpose
 The Self Ordering Form is designed to facilitate self-service ordering from your food and beverage business. It collects information on your preferences and requirements to ensure accurate and quick processing of your order.

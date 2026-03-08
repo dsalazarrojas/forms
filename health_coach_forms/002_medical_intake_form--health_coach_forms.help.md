@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Medical Intake Form - Help Guide
 ==========================
 

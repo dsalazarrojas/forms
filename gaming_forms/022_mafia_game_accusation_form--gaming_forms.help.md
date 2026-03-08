@@ -1,5 +1,3 @@
-<thinking>Before proceeding with the help guide, I'll make sure this form is correctly understood by our team to ensure its purpose and relevance. This form appears to be used for tracking or managing player information in a Mafia game, with fields for game host, accusation type, and various player-related data such as name, state, and position. I'll review each field to provide a clear and concise help guide.</thinking>
-
 # Mafia Game Accusation Form - Help Guide
 ## Purpose
 The Mafia Game Accusation Form is used to record and document accusations and information related to players in a Mafia game. This form helps to keep track of game hosts, accusation types, player states, and positions, as well as player details such as name and phone number.

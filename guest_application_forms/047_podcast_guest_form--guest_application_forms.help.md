@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect podcast guest information for potential interviews or features. It is intended for guests who are applying to be on a podcast. The form is divided into different sections, each representing a step in the application process. The form collects the guest's name, category of application, description of themselves, a logo (if applicable), and any custom fields as requested by the podcast host.
-
-To ensure that the podcast guest form is completed accurately and correctly, we have implemented checks to prevent duplicate submissions. This means that if a guest has already submitted their application, they will not be able to submit the same form again.
-
-</thinking>
-
 # Podcast Guest Form - Help Guide
 ## Purpose
 This form is used to collect podcast guest information for potential interviews or features on the podcast.

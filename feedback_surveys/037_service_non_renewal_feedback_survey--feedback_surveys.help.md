@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers who have chosen not to renew their service with the company. The purpose of this form is to gather information on why customers decided not to renew, which will help the company identify areas for improvement. By filling out this form, customers can provide their thoughts on their experience with the service and suggest ways the company could improve to retain customers in the future.
-
-The form is divided into several sections, each addressing different aspects of the customer's experience. Please answer the questions truthfully, and feel free to provide as much detail as you'd like.
-
-</thinking>
-
 # Service Non Renewal Feedback Survey - Help Guide
 ## Purpose
 

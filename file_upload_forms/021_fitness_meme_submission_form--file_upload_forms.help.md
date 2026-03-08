@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect user input for a fitness meme submission, which is a feature used to share and manage user-generated content related to fitness. 
-The goal is to provide users with a structured format to share their thoughts, opinions, or experiences on fitness-related topics. The form's purpose is to gather information such as the user's first name, email (optional), fitness level, an image or video file, and a short description of their submission. The form also allows users to select multiple categories for their content, add additional tags, and display the date and time of submission.
-To prevent form duplication, we will be using a check for existing submissions before allowing users to submit new content.
-</thinking>
-
 # Fitness Meme Submission Form - Help Guide
 ## Purpose
 The Fitness Meme Submission Form is designed to collect user-generated content related to fitness, allowing users to share their thoughts, opinions, or experiences on fitness-related topics.

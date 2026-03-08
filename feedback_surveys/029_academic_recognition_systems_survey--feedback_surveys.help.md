@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form purpose and relevance, we are considering creating a survey to gather insights from users about their experiences with academic recognition systems at our institution. This will help us understand how well our current recognition systems are meeting the needs of our community members and identify areas for improvement. Please answer the questions below honestly, and remember that all responses will be kept confidential and anonymous.
-</thinking>
-
 # Academic Recognition Systems Survey - Help Guide
 
 ## Purpose

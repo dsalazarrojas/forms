@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Odor Control Solutions Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on odor control solutions, helping us understand their experiences, performance, and suggestions for improvement. The goal is to gather valuable insights to refine and develop more effective odor control solutions.

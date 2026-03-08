@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Public Service Announcement Survey" form. This form is used to gather feedback and opinions from users on public service announcements. The form is designed to understand how effective the public service announcements are in reaching users, how users rate the quality of the announcements, and how they would like to be contacted in case of a public service issue.
-
-To ensure that this form is filled out correctly, we need to make sure users understand the purpose and the fields involved. This form is not meant to be filled out multiple times for the same survey, as each user's response will help us better understand their individual perspective. Please fill out this form carefully and accurately.
-
-</thinking>
-
 # Public Service Announcement Survey - Help Guide
 ## Purpose
 The Public Service Announcement Survey is a tool to gather feedback and opinions from users on public service announcements. It is used to understand how effective these announcements are in reaching users and to gather information on how users can be contacted in case of a public service issue.

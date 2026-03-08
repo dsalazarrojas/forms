@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow end-users to submit their contact information and advisory needs for tax efficiency services. It is essential to fill out this form accurately to ensure that the tax efficiency advisory service provider can reach you and provide the necessary assistance. Please note that each field is mandatory for the service to be provided. To avoid duplication, do not fill out this form if you have previously submitted a similar request in the past.
-</thinking>
-
 # Tax Efficiency Advisory Contact Form - Help Guide
 ## Purpose
 This form is for individuals seeking tax efficiency advisory services, which includes tax planning and financial guidance to optimize their tax situation.

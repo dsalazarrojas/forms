@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is used correctly and only by relevant users. This form is meant to be used by game developers or designers to evaluate and document the quality of a game level. It should only be filled out by people who have access to the game level's inner workings, such as developers or QA testers. This form should not be used to evaluate general game performance metrics or user feedback.
-</thinking>
-
 # Game Level Design Checklist - Help Guide
 ## Purpose
 This form is designed to help game developers and designers evaluate and document the quality of a game level. It covers various aspects of level design, including gameplay, visual, and technical considerations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Extension Consultation Form - Help Guide
 
 ## Purpose

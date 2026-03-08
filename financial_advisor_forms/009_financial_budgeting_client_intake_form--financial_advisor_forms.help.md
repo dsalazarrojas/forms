@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a client's financial situation for the purpose of providing financial budgeting guidance. This form will likely be used by financial advisors to assess a client's income, expenses, debts, and financial goals. To avoid duplicating efforts and ensure accurate data collection, please use this form to gather all relevant information from each client. Please note that some fields are not required and can be skipped if not applicable.
-</thinking>
-
 # Financial Budgeting Client Intake Form - Help Guide
 
 ## Purpose

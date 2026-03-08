@@ -2,8 +2,6 @@
 
 ## Purpose
 
-<thinking>This form is used to import data from CSV files to a target system. The form collects import request details such as the department, priority, and target system, as well as file specifications like delimiter, encoding, and column mapping.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, please follow these steps:

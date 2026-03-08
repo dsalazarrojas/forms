@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to accompany the Norse Pagan Community Survey form, which aims to collect information about individual practitioners' community engagement and interests. This form should be completed by community members who are involved in Norse Pagan practices. If you have already completed a similar survey, please refrain from doing so again. This guide is designed to help you understand the form's purpose and how to complete it effectively.
-</thinking>
-
 # Norse Pagan Community Survey - Help Guide
 ## Purpose
 

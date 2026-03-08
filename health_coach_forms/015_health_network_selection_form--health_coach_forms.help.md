@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from the user about their health network, specifically their insurance plan and health provider status, address, contact details, and demographics. This form will likely be used for administrative or medical purposes, such as verifying patient data or facilitating communication between healthcare providers. It is essential to ensure that all required fields are completed accurately to provide the best service possible.
-</thinking>
-
 # health_network_selection_form - Help Guide
 
 ## Purpose

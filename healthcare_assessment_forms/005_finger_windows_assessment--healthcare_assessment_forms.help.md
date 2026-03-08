@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information related to participants in a study or assessment, specifically in the context of "Finger Windows." The form includes fields for participant performance, evaluator notes, participant identification, demographics, and software compatibility. The fields seem to be aimed at evaluating or assessing the participants' abilities or characteristics. There might be some overlap with other forms or assessments in the healthcare industry, but the specific focus on "Finger Windows" suggests a tailored approach to this field of study. I will create a help guide based on this information.
-</thinking>
-
 # Finger Windows Assessment - Help Guide
 ## Purpose
 The Finger Windows Assessment form is designed to collect information about participants, focusing on their performance, demographics, and compatibility with different versions of the "Finger Windows" software. This form will help gather essential data for research, assessment, or evaluation purposes.

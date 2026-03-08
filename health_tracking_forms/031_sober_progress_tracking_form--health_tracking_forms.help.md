@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track an individual's sober progress over time. It captures key information about their sobriety journey, including the start date of their sobriety, the number of days they have been sober, their current mood, and any challenges they are facing. The form also allows for optional comments and goal selection. This form is designed to be completed daily, providing a comprehensive picture of the individual's sobriety progress.
-</thinking>
-
 # sober_progress_tracking_form - Help Guide
 ## Purpose
 The sober progress tracking form is used to monitor an individual's progress in achieving sobriety. It helps track important milestones, such as the start date of sobriety, and daily experiences like mood and challenges faced.

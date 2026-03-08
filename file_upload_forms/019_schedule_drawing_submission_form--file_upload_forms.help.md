@@ -1,9 +1,3 @@
-<thinking>
-This form is a Schedule Drawing Submission Form designed to collect information about a submitted drawing. The purpose of this form is to gather details about the drawing, including the submitter's contact information, the drawing's details such as title, description, file type, and category, and the date and time of submission. This form is meant to be completed by individuals who have submitted a drawing for review or evaluation.
-
-Before proceeding, please ensure that you have a valid reason for submitting this form, and that you are not duplicating an already submitted drawing. This form should only be used for new submissions.
-</thinking>
-
 # Schedule Drawing Submission Form - Help Guide
 ## Purpose
 The Schedule Drawing Submission Form is designed to collect information about a submitted drawing and its associated details. This form is intended for submitters to provide clear and accurate information about their submissions for the review process.

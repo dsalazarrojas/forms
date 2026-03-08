@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning is as follows:
-This form is used by small business owners to apply for credit. The form gathers business and owner details, credit request information, and other relevant data to assess the creditworthiness of the business. The form is designed to be user-friendly and easy to complete, with clear labels and hints to guide the user through the process.
-
-</thinking>
-
 # small_business_credit_application_form - Help Guide
 ## Purpose
 The small business credit application form is used by small business owners to apply for credit. This form gathers business and owner details, credit request information, and other relevant data to assess the creditworthiness of the business.

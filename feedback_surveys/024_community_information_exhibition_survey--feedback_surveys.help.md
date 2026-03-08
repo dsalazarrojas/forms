@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions from the same user, a unique token should be included in the form URL or a session ID in the application. This form is designed to gather attendee feedback on exhibitions, providing valuable insights for future events. The goal is to improve exhibition experience and quality through data collection.
-</thinking>
-
 # Community Information Exhibition Survey - Help Guide
 ## Purpose
 The Community Information Exhibition Survey is a tool to gather feedback from attendees on their experience at exhibitions. The data collected will help event organizers understand what went well and what can be improved for future events.

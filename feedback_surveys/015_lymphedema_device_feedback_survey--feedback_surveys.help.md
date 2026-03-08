@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with the Lymphedema Device. This feedback will help us understand how often users interact with the device, their level of satisfaction with it, and identify areas for improvement.
-The form is designed to be a quick and painless way for users to share their thoughts and opinions. It's not a survey that requires a lot of time or effort, but rather a simple way to get your input.
-Before proceeding, please note that the form is not intended for users who have not used the device. If you haven't used the device, your feedback will not be included in the analysis.
-</thinking>
-
 # Lymphedema Device Feedback Survey - Help Guide
 
 ## Purpose

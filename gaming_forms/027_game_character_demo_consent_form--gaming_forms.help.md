@@ -1,12 +1,3 @@
-<thinking>
-This form is for obtaining consent from a game development team or organization to display or distribute game characters for demo or showcase purposes. The purpose is to ensure that the game character's creator or organization grants permission for their game character to be used in a demo or showcase event, and to specify how it should be displayed or distributed. This form is usually used by event organizers or developers to gather information from game character creators before using their characters in a demo or showcase event.
-
-The form should only be filled out by the game character's creator or organization. Filling out this form multiple times is not allowed. If you are not the game character's creator or organization, please do not fill out this form.
-
-The form is not intended for general public submission. If you are a game developer looking to display or distribute your game character in a demo or showcase event, please contact the event organizer directly to inquire about the submission process.
-
-</thinking>
-
 # Game Character Demo Consent Form - Help Guide
 ## Purpose
 The Game Character Demo Consent Form is used to obtain consent from game character creators or organizations to display or distribute their game characters for demo or showcase purposes.

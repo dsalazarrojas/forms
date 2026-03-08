@@ -1,9 +1,3 @@
-<thinking>
-This form is a survey to collect feedback on the tax filing experience. Its purpose is to gather information from users about their experience with tax filing, including any challenges they faced, their satisfaction with the process, and any suggestions for improvement. This form is designed to be completed by individuals who have filed their taxes in the past year and are looking to provide their feedback.
-The form is not meant to be a comprehensive tax filing form, but rather a collection of questions to gather specific information about the tax filing experience. The questions are meant to be straightforward and easy to answer.
-Before filling out this form, please make sure you have not filled it out previously. Your feedback is valuable, and we want to hear from as many people as possible.
-</thinking>
-
 # tax_filing_experience_survey - Help Guide
 ## Purpose
 This form is a survey to collect feedback on the tax filing experience. Its purpose is to gather information from users about their experience with tax filing, including any challenges they faced, their satisfaction with the process, and any suggestions for improvement.

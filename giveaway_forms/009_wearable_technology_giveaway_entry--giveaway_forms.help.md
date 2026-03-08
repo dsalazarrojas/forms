@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wearable Technology Giveaway Entry - Help Guide
 
 ## Purpose

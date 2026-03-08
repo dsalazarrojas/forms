@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Magazine Media Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from contributors, authors, or creators whose work is being published in a magazine. It asks for details about the contributor, the content they will be submitting, and their consent for media usage. This form helps us understand their rights, permissions, and any specific requirements for publication.

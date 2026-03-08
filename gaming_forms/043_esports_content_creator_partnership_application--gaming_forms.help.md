@@ -1,15 +1,3 @@
-<thinking>
-To determine if a form is being completed for the correct purpose and to prevent duplication, we should first confirm the form is being used for its intended use case.
-
-This form is designed for esports content creators to apply for partnership opportunities with our company. It is intended for those who want to collaborate with us on various projects, such as hosting events, creating content, or promoting our brand. To ensure the form is being used correctly, please consider the following:
-
-* Are you an esports content creator looking for partnership opportunities?
-* Are you applying for a specific project or program we have advertised?
-* Have you reviewed our guidelines and requirements for partnership applications?
-
-If you have, then proceed with the form submission. If not, please review our guidelines and revisit this form when you are ready.
-
-</thinking>
 # esports_content_creator_partnership_application - Help Guide
 ## Purpose
 The esports_content_creator_partnership_application form is designed for esports content creators to apply for partnership opportunities with our company. We are looking for talented creators to collaborate with us on various projects, such as hosting events, creating content, or promoting our brand.

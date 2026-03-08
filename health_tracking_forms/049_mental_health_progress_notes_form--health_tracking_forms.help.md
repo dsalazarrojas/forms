@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow healthcare professionals to track the progress and outcomes of mental health sessions with patients. This form is designed to collect essential information about the patient's progress, treatment plan, and session details. 
 
 The form is intended for use in clinical settings, such as mental health clinics or counseling offices. 

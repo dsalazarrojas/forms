@@ -1,36 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users understand what each field is for. This form is for submissions to a anthology, so it's essential to get the correct information from the authors. The form should be filled out by authors submitting their work to the anthology. To ensure consistency, we should check that each field is filled out correctly before proceeding.
-
-Here are the fields and their descriptions:
-
-*   **entry_type**: This field is for selecting the type of entry (fiction or nonfiction).
-*   **authors_first_name**: This is the first name of the author submitting the work.
-*   **authors_last_name**: This is the last name of the author submitting the work.
-*   **entry_title**: This is the title of the entry being submitted.
-*   **entry**: This is the actual entry being submitted.
-*   **submission_date**: This is the date the entry was submitted.
-*   **submission_time**: This is the time the entry was submitted.
-*   **file_one**: This is the first file related to the entry.
-*   **file_two**: This is the second file related to the entry.
-*   **cover_letter**: This is any additional information or cover letter from the author.
-*   **submission_status**: This is the status of the submission (Pending, In Review, Rejected, Accepted, or Withdrawn).
-*   **notes**: Any additional comments or notes about the submission.
-*   **contact_email**: The email of the author or contact person.
-*   **contact_phone**: The phone number of the author or contact person.
-*   **contact_address**: The address of the author or contact person.
-*   **contact**: Additional contact information.
-*   **authors_website**: The website of the authors.
-*   **authors_social_media**: The social media of the authors.
-*   **authors_publication**: The publication of the authors.
-*   **entry_length**: The length of the entry in words.
-*   **anthology**: The title of the anthology the entry is part of.
-*   **anthology_publication_info**: Information about the publication of the anthology.
-*   **anthology_publication_date**: The date of publication of the anthology.
-*   **anthology_publication_time**: The time of publication of the anthology.
-*   **submission_form**: Any additional information about the submission.
-
-</thinking>
-
 # couples_anthology_submission_application - Help Guide
 ## Purpose
 This form is for authors to submit their work to a publication, specifically for a couple's anthology.

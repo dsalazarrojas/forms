@@ -1,9 +1,3 @@
-<thinking>
-This form is used to upload library user avatars, which are used to represent library users in the system. It is used to collect information about the user's preferences and contact details. The form is not intended for sensitive or confidential information, and it is designed to be completed by library users themselves.
-
-To avoid duplication, this form should only be completed once by each user. If a user has already completed this form, they will not be able to submit it again.
-</thinking>
-
 # Library User Avatar Upload Form - Help Guide
 ## Purpose
 The Library User Avatar Upload Form is used to upload a profile picture or avatar for library users. This form allows users to provide a personalized image that represents them in the system.

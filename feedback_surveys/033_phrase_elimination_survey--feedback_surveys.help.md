@@ -1,7 +1,3 @@
-<thinking>
-This form is a Phrase Elimination Survey, used to gather feedback and suggestions for phrases that should be retired or replaced in our language usage. This form is not intended for urgent or critical issues, but rather for suggestions and opinions on phrases that may be outdated or no longer relevant. Before filling out this form, please ensure that you have reviewed the current language usage and understand its purpose and context. This form should not be used to report technical issues or bugs.
-</thinking>
-
 # Phrase Elimination Survey - Help Guide
 
 ## Purpose

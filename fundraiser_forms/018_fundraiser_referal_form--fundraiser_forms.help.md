@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Referal Form - Help Guide
 ## Purpose
 This form is intended to be used when you have a potential fundraiser to refer to our team. This form will help us collect information about the potential fundraiser and their contact details so we can follow up with them. Please ensure that you only submit a referral for a fundraiser who is new to our organization and not already working with us.

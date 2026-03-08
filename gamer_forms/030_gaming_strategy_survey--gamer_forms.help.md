@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a gamer's demographics, gaming habits, and skills. The form is designed to be user-friendly and straightforward, with clear labels and explanations for each field. Before filling out the form, please make sure you are a gamer and have a basic understanding of the topic, as the questions are designed to be relevant to this specific context. If you're unsure about any field, please don't hesitate to ask for clarification. We'll make sure to keep the explanations concrete and concise.
-</thinking>
-
 # Gaming Strategy Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your gaming habits and preferences. Your responses will help us better understand what makes you tick when it comes to gaming.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the utilization of skills in various areas. It's essential to provide accurate and honest feedback to help improve our team's performance and skill development. Please only fill out this form if you have direct experience with the skills being asked about, and make sure to provide feedback on all required fields. If you're unsure about any of the questions, please reach out to the form owner for clarification.
-</thinking>
-
 # Skill Utilization Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the utilization of skills within our team. Your input will help us understand how well we're using our skills and identify areas for improvement.

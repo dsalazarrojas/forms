@@ -1,5 +1,3 @@
-<thinking>This form is a Squamous Cell Carcinoma Quiz, designed to help healthcare professionals and individuals gather information and educate themselves about this type of cancer. The purpose of this quiz is to collect data on various aspects of squamous cell carcinoma, including its symptoms, diagnosis, treatment, and prevention. The quiz is composed of 25 questions, each focusing on a specific aspect of squamous cell carcinoma. By completing this quiz, users will gain a comprehensive understanding of this disease and its characteristics.</thinking>
-
 # Squamous Cell Carcinoma Quiz - Help Guide
 ## Purpose
 This form is designed to educate healthcare professionals and individuals about squamous cell carcinoma, a type of cancer that can affect various parts of the body. The quiz covers different aspects of the disease, including symptoms, diagnosis, treatment, and prevention.

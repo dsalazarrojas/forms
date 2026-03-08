@@ -1,10 +1,3 @@
-<thinking>
-The Organizational Culture Alignment Survey is designed to help you understand the current state of your organization's culture and identify areas for improvement. It's a crucial tool for leaders and managers to gauge the alignment between your organization's values, goals, and behaviors. Before completing this survey, take a moment to ensure you're not providing duplicate feedback, as your input will help shape the direction of organizational development and growth.
-
-To complete this survey, please follow the instructions below:
-
-</thinking>
-
 # Organizational Culture Alignment Survey - Help Guide
 ## Purpose
 

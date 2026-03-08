@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from authors to upload their manuscripts to a repository. It is intended for authors to submit their manuscripts for review and publication. The form is not affiliated with, endorsed by, or derived from any form platform, and is a unique creation using only public survey metadata. It is released under a Creative Commons Attribution 4.0 license, allowing users to modify and share the form freely. This form is meant to be used by authors to upload their manuscripts to a repository, and the information collected will be used by the repository administrators to manage the upload process.
-Is this form being used in a context where duplicate uploads are not desired? If so, consider adding a check to prevent duplicate uploads.
-</thinking>
-
 # Open Access Repository Upload Request Form - Help Guide
 
 ## Purpose

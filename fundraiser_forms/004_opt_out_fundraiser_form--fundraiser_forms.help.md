@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for individuals or organizations to opt out of a fundraiser, providing their personal information and details about their donation. The form aims to collect relevant data for administrative and tracking purposes. It is essential to fill out all required fields to ensure accurate record-keeping. Please ensure you are filling out the correct fundraiser and not duplicating efforts.
-
-</thinking>
-
 # Opt Out Fundraiser Form - Help Guide
 ## Purpose
 

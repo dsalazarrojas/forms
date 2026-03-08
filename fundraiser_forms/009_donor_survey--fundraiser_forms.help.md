@@ -1,7 +1,3 @@
-<thinking>
-This form is a Donor Survey form that is used to collect information from donors about themselves and their experiences with a non-profit organization. The form is intended to provide a better understanding of who the donors are, their motivations for donating, and their interests. The information collected will help the organization improve its donor engagement and communication strategies. This form will likely be used for internal analysis and reporting, so it's essential to ensure that the data is accurate and complete.
-</thinking>
-
 # Donor Survey - Help Guide
 ## Purpose
 The Donor Survey form is a tool to gather information from donors about themselves, their motivations, and their interests.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create the perfect guide for the user-facing help document, I will need to consider a few things:
-
-- Understand the form's purpose, which is to gather information for vegetable orders.
-- Identify any dependencies or relationships between fields.
-- Be concise and clear in explaining each field.
-
-</thinking>
-
 # vegetables_order_form - Help Guide
 ## Purpose
 The `vegetables_order_form` is used to place orders for vegetables. This form is intended for end-users to provide their order details, contact information, and delivery preferences.

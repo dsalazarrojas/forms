@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Mental Health Journal Template - Help Guide
 
 ## Purpose

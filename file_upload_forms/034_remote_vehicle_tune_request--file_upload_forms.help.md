@@ -1,7 +1,3 @@
-<thinking>
-The form is used for remote vehicle tuning requests. The form will be used to collect vehicle-specific information from customers, including vehicle ID, make, model, year, and file details. This information will help the customer service team to assist the customer with their vehicle-related requests. The form is designed to be filled out by customers who need assistance with their vehicle, such as troubleshooting or maintenance. The form is a one-time request, meaning customers will not be able to edit or update their submissions after they have been submitted. 
-</thinking>
-
 # Remote Vehicle Tune Request - Help Guide
 ## Purpose
 The Remote Vehicle Tune Request form is used to collect vehicle-specific information from customers to assist the customer service team with vehicle-related requests.

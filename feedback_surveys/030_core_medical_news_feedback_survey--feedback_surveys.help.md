@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "core-medical-news-feedback-survey," is to gather feedback from users on various medical-related topics, including their field of expertise, medical news, and other relevant information. This form is designed to be completed by users with a medical background, such as physicians, surgeons, or healthcare professionals. The feedback collected will be used to improve the quality and relevance of medical content and services.
-
-To ensure that you have the correct information, please check that you haven't completed this form before, especially if you've recently received a similar survey in your email.
-
-Before you begin, please note that most fields are not required, but it's essential to fill in any fields that you're comfortable sharing information about.
-
-</thinking>
-
 # core-medical-news-feedback-survey - Help Guide
 
 ## Purpose

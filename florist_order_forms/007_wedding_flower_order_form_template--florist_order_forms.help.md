@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Flower Order Form Template - Help Guide
 ## Purpose
 This form is designed for customers to place a wedding flower order. It will collect the necessary details about the customer, ceremony preferences, flower choices, and contact information to facilitate a successful order.

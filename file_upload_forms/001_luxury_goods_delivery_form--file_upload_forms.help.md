@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the delivery of luxury goods. This form is used by senders to input data about the recipient, delivery details, and files related to the delivery. The goal is to efficiently collect all relevant data required for successful and efficient luxury goods delivery.
-</thinking>
 # Luxury Goods Delivery Form - Help Guide
 ## Purpose
 

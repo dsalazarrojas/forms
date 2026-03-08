@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a glass system's condition and maintenance needs. It includes fields for assessing hardware performance, safety equipment, glass type, condition, and maintenance requirements. The form is intended to be completed by individuals responsible for maintaining or evaluating glass systems in various settings, such as buildings, homes, or industrial facilities.
-
-Before proceeding, ensure that you're not duplicating work and that the information is relevant to your evaluation or maintenance tasks. If you're unsure, please review the form fields and your goals to confirm.
-
-</thinking>
-
 # Glass Systems Evaluation Checklist - Help Guide
 ## Purpose
 This form helps you assess the condition and maintenance needs of a glass system, ensuring it meets safety and performance standards.

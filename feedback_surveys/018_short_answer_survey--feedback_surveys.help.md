@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I'd like to confirm that the purpose of this "Short Answer Survey" form is to collect feedback from customers or users about their experience with a product or service. This form likely aims to gather information about the customer's experience, including their name, contact details, and feedback on various aspects of the product or service. The form appears to be comprehensive, covering multiple fields related to customer contact information, feedback, and product/service evaluation. I will ensure that the help guide accurately reflects the purpose and content of this form.</thinking>
-
 # Short Answer Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from customers about their experience with our product or service. Your input is valuable to us, and this form will help us understand your thoughts and opinions.

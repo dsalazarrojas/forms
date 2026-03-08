@@ -1,15 +1,3 @@
-<thinking>
-To prevent non-duplication and ensure accurate orders, please ensure the following:
-- The form is only filled out for the intended event and purpose.
-- The event date is correct and accurate.
-- The orderer's contact information is up-to-date and complete.
-- The souvenir item selection is correct and reflects the event's branding.
-- The order quantity and unit cost are accurately calculated to avoid discrepancies.
-- The custom design requirement is clearly indicated.
-- The production deadline is realistic and allows sufficient time for processing and production.
-- The payment method is clearly understood and agreed upon by the event organizers.
-</thinking>
-
 # Club Event Souvenir Production Order Form - Help Guide
 ## Purpose
 This form is used to place an order for souvenirs to be produced for a specific event. It collects essential details such as order date, contact information, event details, souvenir type, quantity, unit cost, and payment method to ensure accurate production and timely delivery.

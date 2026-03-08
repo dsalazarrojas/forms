@@ -1,7 +1,3 @@
-<thinking>
-This form is used for water safety surveys, likely used in the context of lifeguarding or water-based industries. The purpose of this form is to gather information about users' experience and qualifications in watercraft, lifesaving skills, and water conditions/hazards. This form is likely used by organizations to assess users' suitability for specific roles or to evaluate their preparedness for water-based activities.
-</thinking>
-
 # Water Safety Survey - Help Guide
 
 ## Purpose

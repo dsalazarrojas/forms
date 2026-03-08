@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their experience with prepaid packages. The form is part of a larger feedback collection system, and its completion will help us understand customer satisfaction and identify areas for improvement. To ensure that we only collect relevant and valuable feedback, we'll check for duplication and only allow submissions from unique users.</thinking>
-
 # prepaid_package_feedback_survey - Help Guide
 ## Purpose
 The prepaid_package_feedback_survey is designed to collect feedback on customer experiences with prepaid packages. This form helps us understand customer satisfaction and identify areas for improvement.

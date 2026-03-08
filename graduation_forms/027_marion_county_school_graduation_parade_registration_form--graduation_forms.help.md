@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather information from the school administration for the Marion County School Graduation Parade. This form will be used to collect details about the graduation parade, including the school's name, graduation date and time, parade location, and contact information for the graduation parade organizer and sponsor. 
 
 The fields included in this form are meant to be completed by the school administration to provide necessary information for the graduation parade planning and execution.

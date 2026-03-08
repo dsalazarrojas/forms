@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Wings Over Wednesday Order Form. Before proceeding, please note that this form is intended for ordering purposes only and is not meant for internal administrative tasks. If you are an administrator, please use the appropriate internal system for your tasks.
-</thinking>
-
 # Wings Over Wednesday Order Form - Help Guide
 ## Purpose
 The Wings Over Wednesday Order Form is used to record orders for food and beverage items. This form is designed to gather necessary information from customers for efficient order processing and delivery.

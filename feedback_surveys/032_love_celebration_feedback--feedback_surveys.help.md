@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's clarify the purpose and context of this form. The form is called "Love Celebration Feedback" and is used to collect feedback from event attendees. This form is likely designed to gather information about their experience, rating, and suggestions for future events. It's possible that the form is used to track and analyze attendee feedback to improve future events. To ensure we don't duplicate effort, please review the form carefully and let's make sure all fields are necessary and well-explained.</thinking>
-
 # love celebration feedback - Help Guide
 ## Purpose
 The "Love Celebration Feedback" form is designed to collect feedback from event attendees. This form helps us understand your experience, provide a space for you to rate our event, and gather your suggestions for future improvements.

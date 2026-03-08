@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Code Snippet Submission Form - Help Guide
 ## Purpose
 This form is designed for submitting code snippets, which are small pieces of code that can be used as building blocks in programming. The form helps you share your code snippet with the community, and it is intended for users to submit their code snippets for others to use.

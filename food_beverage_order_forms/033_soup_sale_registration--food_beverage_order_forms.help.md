@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from customers for soup sales, such as their name, email, soup type preference, pickup or delivery preference, contact number, order details, total cost, and payment method. This form is essential for processing orders and ensuring accurate billing. To prevent duplication, we need to ensure that a customer's order is not already registered. This form will be used by the customer to provide the necessary information for the sales team to process their order efficiently.
-</thinking>
-
 # Soup Sale Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for soup sales. It is used by the sales team to process customer orders accurately and efficiently.

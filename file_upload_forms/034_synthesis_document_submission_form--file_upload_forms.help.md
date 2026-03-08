@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Synthesis Document Submission Form - Help Guide
 ## Purpose
 The Synthesis Document Submission Form is intended for users to submit their documents for synthesis, such as uploading and processing their own documents. This form allows users to upload a single synthesis document and associate it with a project ID.

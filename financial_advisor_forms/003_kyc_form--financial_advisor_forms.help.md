@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "KYC Form" in the "financial_advisor_forms" category. This form is used for customer Know Your Customer (KYC) verification, and the goal is to provide a clear and concise instructions to end-users on how to complete it.
-
-**Relevance check:** The form is intended to capture essential customer information for risk assessment and compliance purposes. This is a critical process for financial institutions to ensure anti-money laundering (AML) and anti-terrorism financing (ATF) regulations are met. To prevent duplication, we should provide a clear explanation of each field and its purpose.
-
-</thinking>
-
 # KYC Form - Help Guide
 
 ## Purpose

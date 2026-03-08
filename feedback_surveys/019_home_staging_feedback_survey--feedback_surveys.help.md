@@ -1,5 +1,3 @@
-<thinking>Internal purpose of this form is to collect feedback from customers after visiting a home that has been staged to help us understand how it can be improved, reducing the time and effort needed for our home stagers and sales teams to provide better service. Feedback will help us identify areas of improvement, and will be used internally to guide the next home staging. This form should only be used by customers who have recently visited a home that has been staged. Please fill out this form only once, and do not submit duplicate feedback for the same home.</thinking>
-
 # Home Staging Feedback Survey - Help Guide
 ## Purpose
 This form is to gather feedback from customers after visiting a home that has been staged to help us improve our home staging services.

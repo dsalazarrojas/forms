@@ -1,11 +1,3 @@
-<thinking>
-This form is used for users to track their impulses, providing a record of instances where a specific impulsive behavior was exhibited. 
-The goal of this form is to gather data on the impulsive behavior, its triggers, and consequences. 
-It is intended for individual use, with the possibility of sharing data with a coach or mental health professional.
-Please note that the form is designed to be completed in a self-reporting manner, allowing users to provide information on a per-impulse basis.
-This form is meant to be a personal and individualized tool for tracking and understanding one's impulses, but it is not a substitute for professional medical or mental health advice.
-</thinking>
-
 # impulse_tracking_form - Help Guide
 ## Purpose
 The purpose of this form is to track and record instances of impulsive behavior, providing a comprehensive record of the impulsive behavior, its triggers, and outcomes.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be related to planning a graduation ceremony, likely for students or alumni. The internal reasoning should check that the form is not being used for a non-graduation purpose. Additionally, it should verify that the form is not being duplicated, as it might have similar fields in other forms.
-</thinking>
-
 # Graduation Ceremony Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a graduation ceremony, including details about the ceremony itself, the invitations, and the graduates. It should be used by administrators or staff to plan and coordinate the graduation ceremony.

@@ -1,5 +1,3 @@
-<thinking>Before generating this help guide, I will analyze the form fields to understand their purpose and relevance to the "Documentary Pitch Submission Application Form".</thinking>
-
 # Documentary Pitch Submission Application Form - Help Guide
 ## Purpose
 This form is designed for submitting a documentary pitch to a festival or a production company. It captures essential details about the documentary, its creators, and production team, allowing the applicant to provide a comprehensive and structured submission.

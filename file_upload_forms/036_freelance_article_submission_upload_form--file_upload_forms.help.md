@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only filled out once per article submission, and that the information provided is accurate and complete. This form is a one-time upload for freelancers to submit their work and associated information. The form will be reviewed for quality and accuracy before publishing. The following help guide will walk you through the steps to complete the form correctly.
-</thinking>
-
 # Freelance Article Submission Upload Form - Help Guide
 ## Purpose
 This form is designed for freelance writers to submit their articles for review and potential publication. It is a one-time upload process where you provide detailed information about your submission.

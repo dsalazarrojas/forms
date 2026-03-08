@@ -1,20 +1,3 @@
-<thinking>... internal reasoning about the form purpose and fields ...
-
-The Electronic File Submission Form is used for users to submit electronic files, such as documents, images, or videos, for processing and review. The form is designed to collect relevant metadata about the file, including its name, description, attachment status, type, size, and tags. The form is typically used in business or academic settings where users need to submit files for evaluation, collaboration, or archiving.
-
-To ensure accurate and efficient processing, the form requires the following fields to be filled out:
-
-*   The file name should be a brief but descriptive title of the file.
-*   The file description should provide a clear and concise summary of the file content.
-*   The "Is it Attached?" field is used to indicate whether the file is attached to the form or not.
-*   The "Attachment Type" field is used to select whether the file is a true attachment or not.
-*   The file size field is used to specify the size of the file in bytes.
-*   The "File Tags" field is used to add relevant tags or keywords to the file for easy searching or classification.
-
-The form is not designed to be filled out multiple times for the same file, and each submission should be a unique instance of the form. 
-
-</thinking>
-
 # Electronic File Submission Form - Help Guide
 ## Purpose
 The Electronic File Submission Form is used for users to submit electronic files, such as documents, images, or videos, for processing and review.

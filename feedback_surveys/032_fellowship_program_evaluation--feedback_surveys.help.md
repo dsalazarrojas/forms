@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for users who want to complete the Fellowship Program Evaluation form, which is used to evaluate the effectiveness and impact of a fellowship program. 
-This guide will help you understand the purpose of the form, how to complete it, and what each field means. Please make sure you have read this guide carefully before starting the form. If you're unsure about any of the fields, please refer to this guide for clarification. 
-The form is meant to provide feedback and ratings on various aspects of the fellowship program, including overall rating, program impact, quality, value, participant satisfaction, and additional comments. It's designed to be completed by both participants and organizers of the fellowship program. 
-Please note that completing this form is a required task for participants and organizers of the fellowship program. 
-</thinking>
-
 # Fellowship Program Evaluation - Help Guide
 ## Purpose
 The Fellowship Program Evaluation form is a tool used to assess the effectiveness and impact of a fellowship program. It collects feedback and ratings on various aspects of the program, helping us to identify areas of improvement and areas of success.

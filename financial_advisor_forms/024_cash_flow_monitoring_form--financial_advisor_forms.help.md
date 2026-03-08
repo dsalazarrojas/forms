@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the cash flow of a business, specifically the opening and closing balances, cash transactions, and net change. It's likely used by financial advisors or accountants to monitor and analyze a business's financial health. This form is probably used during regular review and analysis of a business's financial performance. The form should not be duplicated or used for other purposes without proper review and approval from financial advisors or accountants.
-</thinking>
-
 # Cash Flow Monitoring Form - Help Guide
 ## Purpose
 The Cash Flow Monitoring Form is used to track and analyze a business's cash flow, including opening and closing balances, cash transactions, and net change.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Preservation Equipment Order Form - Help Guide
 ## Purpose
 This form is intended for ordering food preservation equipment such as freezers, dryers, or ovens for food processing purposes. Please fill out this form to place your order.

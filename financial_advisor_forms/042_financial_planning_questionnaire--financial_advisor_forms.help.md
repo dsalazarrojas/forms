@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect financial information from an individual or organization, providing a comprehensive overview of their financial situation, goals, and objectives. The form is intended to gather sensitive and confidential data, so users should be advised to review the terms of service and understand that their responses will be used for the purpose of providing financial planning and advisory services.
-
-It's essential to ensure that users understand the purpose and implications of the form, as it may collect information that is personal and sensitive. Please review the form carefully before proceeding, and if you have any concerns or questions, do not hesitate to reach out to the form owner or contact person.
-
-This form is a public survey, and the answers will be used to provide general information about financial planning and advisory services. The form is not intended to create a binding contract or agreement, and the responses given will not be used for any purposes other than to provide general information and advice.
-
-</thinking>
-
 # Financial Planning Questionnaire - Help Guide
 ## Purpose
 The Financial Planning Questionnaire is designed to gather information about your financial situation, goals, and objectives. It is intended to provide a comprehensive overview of your current financial situation and help you create a plan to achieve your financial goals.

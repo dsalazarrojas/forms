@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Donation Survey" form is to collect information from donors about their donations. The form is designed to gather demographic and donation-related details, such as name, contact information, and donation preferences. This information will help us better understand our donors and provide them with personalized experiences. Please ensure that you have reviewed the relevant documentation and that this form is not a duplicate of an existing form before submitting your response.
-</thinking>
-
 # Donation Survey - Help Guide
 ## Purpose
 The Donation Survey form is used to collect information from donors about their donations. This form helps us understand our donors' demographics, donation preferences, and contact information.

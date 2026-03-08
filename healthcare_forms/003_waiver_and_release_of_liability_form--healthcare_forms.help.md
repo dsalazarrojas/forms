@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waiver And Release Of Liability Form - Help Guide
 ## Purpose
 The Waiver And Release Of Liability Form is used to obtain legal releases and agreements from participants to ensure they understand and acknowledge their responsibilities and liabilities related to activities, events, or services provided by the organization. This form helps to protect both the participant and the organization by outlining the terms and conditions of participation.

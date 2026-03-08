@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect data from trading card deck submissions. It's a collection of various fields that gather information about the deck submitted, including the player's name, the name of the tournament, the deck's format, and other specific details about the deck.
-To avoid duplicates and irrelevant submissions, please ensure that:
-- You're not submitting a deck that has already been posted before.
-- You're not posting a deck for a tournament that's not happening.
-- You're not listing cards that are not actually part of your deck.
-</thinking>
-
 # Trading Card Deck Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect trading card deck submissions from players. It's a collection of various fields that gather information about the deck submitted, including the player's name, the name of the tournament, the deck's format, and other specific details about the deck.

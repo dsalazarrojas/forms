@@ -1,11 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Visalia Grocery Outlet Order Form," we need to understand the form's purpose and ensure that it's not duplicating any existing guides.
-
-This form appears to be designed for customers to place orders with multiple stores or for the same store with multiple items. The form includes various fields for customer information, order details, and item specifics. However, the form is likely duplicating some fields, such as address, city, and zip code, which may be unnecessary or already handled elsewhere in the system.
-
-To address this, we should consider removing or merging these duplicate fields. Additionally, we should ensure that each field is correctly labeled and explained to help customers complete the form effectively. We can also consider creating a section on tips or best practices to help customers fill out the form accurately and efficiently.
-</thinking>
-
 # Visalia Grocery Outlet Order Form - Help Guide
 ## Purpose
 The Visalia Grocery Outlet Order Form is used to place orders with multiple stores or for the same store with multiple items. It collects customer information, order details, and item specifics to facilitate efficient order processing.

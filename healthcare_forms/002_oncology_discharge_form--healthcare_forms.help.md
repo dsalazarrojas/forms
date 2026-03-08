@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information related to the discharge of a patient from an oncology department in a hospital. It appears to be a comprehensive form that covers various aspects of patient care and follow-up. I will provide a detailed help guide for this form.
-</thinking>
-
 # Oncology Discharge Form - Help Guide
 ## Purpose
 The Oncology Discharge Form is used to document the discharge of a patient from the oncology department. It gathers information about the patient's name, medical history, treatment details, medication list, vital signs, allergies, family history, social support, mental status, lab tests, imaging studies, patient care goals, discharge date, follow-up care, discharge status, next appointment, next appointment time, patient phone, patient email, healthcare provider details, and discharge summary. This form is used to ensure that all relevant information is documented before discharging the patient.

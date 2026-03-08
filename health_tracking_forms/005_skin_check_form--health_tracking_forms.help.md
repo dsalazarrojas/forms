@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to support end-users in completing the Skin Check Form, which is used to collect information about the skin health and medical history of patients. It's crucial to fill out the form accurately to ensure that the patient's skin concerns and medical history are properly recorded and treated.
 
 # Skin Check Form - Help Guide

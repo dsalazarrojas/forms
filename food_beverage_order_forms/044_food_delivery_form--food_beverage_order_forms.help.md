@@ -1,16 +1,3 @@
-<thinking> 
-This form is intended for customers to place food and beverage orders. The form has multiple fields for customers to provide information about their order, including date, time, pickup or delivery address, payment method, and other details. The form also includes fields for customer contact information and notes.
-
-To complete this form, customers should fill out the required and optional fields as follows:
-
-* Fill out the delivery date and time fields with the date and time you would like your order to be delivered.
-* Enter your pickup address if you would like to pick up your order.
-* Select your preferred payment method and enter the corresponding payment information if required.
-* Enter any special instructions or notes if you have any specific requests.
-* Enter your phone number and email address for contact purposes.
-* Select the type of delivery you would like (pickup, delivery, or both).
-* Finally, select the status of your payment and any other relevant information.</thinking>
-
 # Food Delivery Form - Help Guide
 ## Purpose
 This form is for customers to place food and beverage orders for delivery or pickup.

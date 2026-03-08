@@ -1,19 +1,3 @@
-<thinking>
-The "Organizational Structure Feedback Survey" is a crucial tool for gathering information about how employees perceive and interact with their organizational structure. This survey aims to understand the current state of an organization's structure and identify areas that need improvement. By completing this form, participants will be providing valuable insights that will help shape the organization's structure and decision-making processes.
-
-The information collected from this form will not be shared publicly and will only be used within the organization to inform internal decisions. Please ensure that your feedback is honest and constructive, as it will help create a more positive and productive work environment.
-
-Before starting, please ensure that you have read the <a href="https://example.com/privacy-policy">Privacy Policy</a> and <a href="https://example.com/terms-of-use">Terms of Use</a> of this form.
-
-To complete this form, please follow these steps:
-
-1.  Answer each question carefully, and provide as much detail as possible.
-2.  Make sure to answer all questions, as indicated by the asterisk symbol (\*).
-3.  Please be honest and provide your genuine thoughts and experiences.
-
-Below is a field-by-field explanation of each question:
-</thinking>
-
 # Organizational Structure Feedback Survey - Help Guide
 ## Purpose
 The "Organizational Structure Feedback Survey" is a tool used to gather information about how employees perceive and interact with their organizational structure, with the aim of identifying areas that need improvement. This survey is not publicly shared, and the feedback will be used to inform internal decisions.

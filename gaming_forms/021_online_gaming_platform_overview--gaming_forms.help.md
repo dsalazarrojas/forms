@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about their online gaming platform experience. The purpose of this form is to gather information on how users use the platform, their favorite game genre, how often they play games, and their overall satisfaction with the platform. This form is not required, but it will help the platform developers to better understand user behavior and preferences. 
-Please note that this form is for general purposes only and should not be used as a formal feedback mechanism for support or technical issues. 
-</thinking>
-
 # Online Gaming Platform Overview - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is used for uploading photo collages for contest purposes. The form is used to gather information about the photo collage, including its title, school name, school type, contest category, school location, school contact, upload date, and submitter. The form is designed to be completed by users who want to upload a photo collage for contest submission. Before proceeding, please ensure that you have a valid photo collage to upload and that you have filled out all the required fields accurately and truthfully. To avoid duplicating a form submission, please do not submit if you have already uploaded a photo collage with the same title and school name.</thinking>
-
 # Photo Collage Upload Form - Help Guide
 ## Purpose
 This form is used to upload a photo collage for contest submission.

@@ -1,11 +1,3 @@
-<thinking> 
-
-The `esports_event_stream_slot_booking` form is designed to manage the booking and scheduling of esports event stream slots. It seems that the form is intended for event organizers to collect information from streamers about their availability and preferences for streaming events. This form likely serves as a centralized hub for event organizers to efficiently manage and coordinate with streamers.
-
-Before proceeding, let's review if this form is a duplicate or if there are any internal requirements that need to be addressed. If not, we can proceed with the help guide.
-
-</thinking>
-
 # esports_event_stream_slot_booking - Help Guide
 ## Purpose
 The `esports_event_stream_slot_booking` form is used to book and schedule stream slots for esports events. This form helps event organizers collect information from streamers about their availability and preferences for streaming events.

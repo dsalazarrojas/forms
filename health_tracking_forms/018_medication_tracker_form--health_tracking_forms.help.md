@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track medications taken by patients. The form is designed to collect information about the medication name, dosage administered, remaining dosages, start date, end date, and any additional notes about the medication. This form is intended for use in a healthcare setting to provide a structured way of documenting medication records.
-</thinking>
-
 # Medication Tracker Form - Help Guide
 ## Purpose
 The Medication Tracker Form is used to track medications taken by patients. It helps healthcare providers to keep track of medication schedules, dosages, and notes in a structured format.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for users to enter their information for a Winter Wellness Bundle Giveaway. The purpose of this form is to collect data for the giveaway entry process. This guide will help users understand how to complete the form and what each field is used for.
-
-To complete this form, the user will be presented with a series of questions. They will be asked to select whether they would like to enter the giveaway, enter their name, provide an email address, enter their phone number, and specify their date of birth.
-
-Before filling out the form, it's essential to ensure that the user's intention is genuine and they have not entered the form previously. To avoid duplicate entries, please do not fill out the form more than once.
-</thinking>
-
 # Winter Wellness Bundle Giveaway Entry - Help Guide
 
 ## Purpose

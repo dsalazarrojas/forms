@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning)
-
-This form is designed to collect feedback from team members on the effectiveness of the team's communication. The purpose of this form is to gather information on how well the team is able to communicate with each other, both within the team and with external stakeholders. This form should only be filled out by team members who have participated in some capacity with the team, and it should not be filled out by non-team members. It's essential to fill out this form only once per survey respondent, as it's intended to capture individual perspectives. 
-
-</thinking>
-
 # Team Communication Effectiveness Survey - Help Guide
 ## Purpose
 The Team Communication Effectiveness Survey is designed to collect feedback on how well the team is communicating with each other and external stakeholders. This form will help identify areas of strength and weakness in the team's communication strategy.

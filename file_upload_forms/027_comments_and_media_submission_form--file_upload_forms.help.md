@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Comments And Media Submission Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and media from users about a specific product or service. It allows you to submit comments, media, and additional information about your experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from donors who are making a one-time or recurring donation to support conservation efforts. The form is intended to gather details about the donor, their donation preferences, and any additional information that may be relevant to the donation. This form is typically used for administrative purposes, such as tracking donations and sending notifications.
-</thinking>
-
 # Conservation Donor Information Collection - Help Guide
 ## Purpose
 The Conservation Donor Information Collection form is used to gather information from donors who are making a one-time or recurring donation to support conservation efforts. This form is intended to help us understand the donor's preferences and needs, and to ensure that we provide the best possible experience for them.

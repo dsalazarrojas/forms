@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Imaging Techniques Assessment - Help Guide
 ## Purpose
 The Imaging Techniques Assessment form is designed to gauge your understanding and practices related to imaging techniques, their application, and their impact in your work. This form aims to assess your current skills, knowledge, and processes used in imaging data collection, analysis, and interpretation.

@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, you need to understand the importance of CPR training in providing emergency medical care. This form is designed to collect necessary information from participants to ensure effective and safe training experiences. Please ensure that the participant information is accurate and up-to-date to avoid duplication and ensure timely confirmation of registration. The form collects contact information, personal details, and preferences for training format and dates. Each field should be completed accordingly to guarantee successful registration. Please take a moment to review the following guide to ensure a smooth and accurate submission process.</thinking>
-
 # CPR Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for CPR training registration. It includes contact details, medical considerations, and preferences for training format and dates.

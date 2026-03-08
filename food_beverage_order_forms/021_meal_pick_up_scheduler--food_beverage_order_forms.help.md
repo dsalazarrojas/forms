@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Meal Pick Up Scheduler - Help Guide
 
 ## Purpose

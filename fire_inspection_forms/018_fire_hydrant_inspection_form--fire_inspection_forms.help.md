@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about fire hydrants, specifically their status, condition, and other relevant details. It's essential that the user understands the purpose of this form to provide accurate and consistent data.
-
-The form is intended to be used by authorized personnel to inspect fire hydrants and report their findings. To avoid duplication, make sure to use this form only for fire hydrant inspections and not for other purposes.
-
-Before starting the inspection, review the fire hydrant's address and ensure you have the correct location.
-
-Please note that some fields are marked as required, indicating that they must be filled in for the form to be complete. If you're unsure about any field, refer to the specific instructions below.
-
-</thinking>
-
 # Fire Hydrant Inspection Form - Help Guide
 ## Purpose
 The Fire Hydrant Inspection Form is used to collect information about fire hydrants, their status, condition, and other relevant details.

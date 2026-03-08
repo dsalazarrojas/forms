@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a rendition of a file from the system. A rendition is a scaled version of a file, often used for printing or viewing. The form is used by users to submit a request for a specific rendition of a file, which is then processed and delivered to them. The form does not require a login or password, indicating that it's intended for external users or internal users without authentication requirements. The form is designed to be simple and user-friendly, with clear labels and minimal required fields.
-</thinking>
-
 # Rendition Download Request Form - Help Guide
 ## Purpose
 

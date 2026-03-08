@@ -1,7 +1,3 @@
-<thinking>
-This form is a collection of questions aimed at gathering feedback and preferences from individuals about their favorite places. The goal is to understand what makes a particular place special, how often people visit, and how they prefer to engage with it. This form is designed to be completed by individuals who have a personal connection to a place and are willing to share their thoughts and experiences. It is not intended for businesses or organizations, and responses should be kept confidential. Please ensure that the provided information is accurate and reflects your genuine opinions about your favorite place.
-</thinking>
-
 # Favorite Place Description Survey - Help Guide
 ## Purpose
 

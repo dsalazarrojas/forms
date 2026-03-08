@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Submission Management Survey - Help Guide
 
 ## Purpose

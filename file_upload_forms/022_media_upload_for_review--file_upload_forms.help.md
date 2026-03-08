@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users for review purposes. The media upload form is designed to be simple, with the primary goal of collecting user-uploaded files. It does not collect sensitive information or require users to create an account.
-</thinking>
-
 # Media Upload For Review - Help Guide
 ## Purpose
 

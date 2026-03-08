@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the commercial application from end users. It's meant to be completed by users who have experience with the application, and its purpose is to help the development team understand user satisfaction, pain points, and areas for improvement. This form is intended to provide a comprehensive view of the user's experience, covering various aspects such as satisfaction, usability, and feature usage. The form should not be completed if you're a non-user or haven't interacted with the application recently. Also, if you've already completed this form, your feedback is already recorded, so there's no need to fill it out again.</thinking>
-
 # Commercial Application Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from end users on their experience with the commercial application. It will help the development team understand what works and what doesn't, allowing them to improve the application.

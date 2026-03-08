@@ -1,6 +1,3 @@
-<thinking> 
-This form is for requesting a mesh building project. It gathers information about the project details, such as mesh type, size, and material. It also includes fields for uploading files, providing contact information, and setting follow-up preferences. The form is not meant for internal use only, but also for external users, so it's essential to explain each field clearly to ensure accurate and complete submissions. This form is not intended to be a duplicate of other forms, but rather a comprehensive tool for requesting a custom mesh building project.</thinking>
-
 # Mesh Building Request Form - Help Guide
 ## Purpose
 The Mesh Building Request Form is a tool for users to submit requests for custom mesh building projects. It's a comprehensive form that gathers all the necessary information to facilitate the project's progress.

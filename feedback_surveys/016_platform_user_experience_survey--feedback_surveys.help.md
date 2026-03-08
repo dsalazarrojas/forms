@@ -1,9 +1,3 @@
-<thinking>
-You need to ensure that the form is being filled in by the right people. This form is intended to collect feedback from platform users, so only users should be filling it out. To prevent duplication of efforts, you should check if a similar form or survey has been recently filled out by the same user.
-
-Additionally, the form should only be made available for users who are logged in or have access to fill it out. This will help ensure that the form is being filled out by people who are actually using the platform and have something valuable to contribute.
-</thinking>
-
 # Platform User Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from platform users to improve their experience and help us understand their needs and concerns.

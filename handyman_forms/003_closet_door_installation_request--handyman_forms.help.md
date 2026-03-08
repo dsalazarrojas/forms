@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Closet Door Installation Request - Help Guide
 ## Purpose
 The purpose of this form is to gather information for a closet door installation request. It is intended for customers to provide their contact information, specify the details of the closet door they need, and schedule the installation.

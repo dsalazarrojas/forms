@@ -1,17 +1,3 @@
-<thinking>
-As an expert in form design and technical writing, I will create a user-facing help guide for the Client Self Care Routine Survey form. This guide will cover the form's purpose, how to complete it, and what each field means, ensuring end users understand the form's requirements and how to navigate it smoothly.
-
-To determine the form's purpose, I will review the input schema and note the following:
-
-- The form collects client information, including demographics (full name, email, phone number) and basic health metrics (age range, sleep hours, water intake).
-- The form has two main sections: "Wellness and Health Goals" and "Current Self-Care Routine."
-- The form assesses the client's current health and wellness status, goals, and challenges.
-- The form gathers information about the client's self-care routine, habits, and preferences.
-
-Given this analysis, the form is designed to help clients reflect on their current health and wellness status, set goals, and identify areas for improvement. It will help healthcare providers understand the client's needs and preferences, enabling them to offer personalized guidance and support.
-
-</thinking>
-
 # Client Self Care Routine Survey - Help Guide
 ## Purpose
 

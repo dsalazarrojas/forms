@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Memory Sharing Form - Help Guide
 ## Purpose
 The Family Memory Sharing Form is designed to gather family history, relationships, and memories from family members. It's a collection of questions and fields to help you share and record your family's story, media, and experiences. This form is required for the following family members: family members (id 3), family events (id 6), family relationships (id 6), family travel (id 9). It's not required for file upload (id 5), family media (id 2), family interests (id 8), family occupation (id 10), and file upload (id 4).

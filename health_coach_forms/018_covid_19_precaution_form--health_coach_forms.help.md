@@ -1,12 +1,3 @@
-<thinking> 
-This help guide aims to assist end-users in completing the COVID 19 Precaution Form. The form is used to outline and record precaution measures taken by individuals or organizations to prevent the spread of COVID-19. Before proceeding, please note that this form should be completed only once for each entity (individual or organization) implementing these precautions, and not for each specific incident or event.
-
-The form captures essential information about the entity, the precautions taken, and the plan for compliance monitoring. The purpose of this form is to ensure a standardized and structured approach to COVID-19 prevention within your organization, making it easier to identify any areas that need improvement and track progress over time.
-
-The following fields are included to help you complete the form:
-
-</thinking>
-
 # COVID 19 Precaution Form - Help Guide
 ## Purpose
 The purpose of this form is to outline and record precaution measures for individuals or organizations to prevent the spread of COVID-19.

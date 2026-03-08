@@ -1,13 +1,3 @@
-<thinking>
-
-The Civic Engagement In Youth Survey form is designed to gather insights from young individuals about their civic engagement and interest in community service. The form aims to understand their perceptions of their own civic leadership, their preferences for causes they care about, and their involvement in community activities. The survey's questions cover a range of topics, including age, education status, volunteer experience, community service frequency, preferred causes, voting habits, barriers to civic engagement, social media engagement, perceived impact, interest in joining a Youth Advisory Council, and suggestions for supporting youth in the city.
-
-This form is intended for young individuals aged 13 and above. If the respondent is under 13, they will be asked to confirm their parent's permission to fill out the survey.
-
-The form's purpose is to gather data to better understand the needs and interests of young individuals, which can inform initiatives and programs aimed at increasing civic engagement and leadership among this age group.
-
-</thinking>
-
 # Civic Engagement In Youth Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form's purpose and relevance are checked, we should confirm that it is intended for users who have reached the top-enroller level in a specific program or contest, and that the form is not a duplicate. This form is designed to collect information from users who have achieved the top-enroller level and submit photos to commemorate their achievement. The photo submission should reflect the user's identity as a top-enroller. We should avoid submitting duplicate photos or information.
-
-</thinking>
-
 # top_enroller_photo_submission - Help Guide
 ## Purpose
 The purpose of this form is to allow top-enrollers to submit their photos to commemorate their achievement. This form is for users who have reached the top-enroller level in a specific program or contest.

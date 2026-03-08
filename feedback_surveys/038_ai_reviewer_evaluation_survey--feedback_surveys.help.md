@@ -1,12 +1,3 @@
-<thinking>
-To confirm, I will create a user-facing help guide for the "AI Reviewer Evaluation Survey" form. I will include the form's purpose, steps for completing it, and a field-by-field explanation for each section. I will also include tips for the end user. 
-
-This form appears to be designed to evaluate the performance of an AI reviewer, specifically focusing on its accuracy, relevance, clarity of feedback, tone, and usefulness. The goal is to gather feedback on how well the AI reviewer performed in terms of providing accurate and clear feedback, as well as its overall tone. This form will likely be used by stakeholders to understand areas for improvement for the AI reviewer.
-
-This guide will be written in Markdown, with the required sections being "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips".
-
-</thinking>
-
 # AI Reviewer Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of an AI reviewer, specifically focusing on its accuracy, relevance, clarity of feedback, tone, and usefulness. This feedback will help stakeholders understand areas for improvement for the AI reviewer.

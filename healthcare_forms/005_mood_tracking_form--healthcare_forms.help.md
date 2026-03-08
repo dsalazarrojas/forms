@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the patient's mood, anxiety levels, energy levels, and other relevant health indicators. This form is used to collect data on a patient's overall well-being and help healthcare professionals monitor their progress.
-</thinking>
-
 # mood_tracking_form - Help Guide
 ## Purpose
 The mood tracking form is used to capture information on a patient's mood, anxiety levels, energy levels, and other health indicators. This helps healthcare professionals understand the patient's mental state and develop targeted treatment plans.

@@ -1,7 +1,3 @@
-<thinking>...The patient referral form is used to gather information from the referring physician and the patient regarding a referral for medical care. This form is essential in ensuring that the patient's medical needs are met and that the referring physician has provided all necessary information for the receiving physician. To avoid duplication, the patient referral form should not be used for patients that already have a current medical record at our facility or if the patient is not a new patient...
-
-</thinking>
-
 # patient referral form - Help Guide
 
 ## Purpose

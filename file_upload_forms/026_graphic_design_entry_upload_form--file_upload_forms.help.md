@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect and process graphic design entries submitted by users. It's intended for users to provide a brief description of their entry and upload a supporting file related to the graphic design. The form is used to collect metadata associated with the entry, including a description and a file upload field. It does not require the user to be a designer or to have any specific qualifications, making it accessible to a wide range of users. Please note that users must complete all required fields to ensure successful submission of the form.
-</thinking>
-
-# Graphic Design Entry Upload Form - Help Guide
+> # Graphic Design Entry Upload Form - Help Guide
 ## Purpose
 
 This guide is designed to help you understand how to complete and use the Graphic Design Entry Upload Form. The form is intended to collect and process graphic design entries submitted by users.

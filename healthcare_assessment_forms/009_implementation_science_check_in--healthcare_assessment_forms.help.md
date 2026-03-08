@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for project team members to regularly check-in with each other about the implementation of a project within the healthcare sector. It helps to identify and track progress, barriers, and strategies for improvement. It's an essential tool for maintaining project momentum and ensuring that teams are aware of each other's needs and progress.
-
-Before filling out this form, please check if you have access to the project ID and are submitting for the correct project. If you're unsure, please reach out to your project manager or team lead.
-
-This form is designed to be filled out regularly, ideally at the start and end of each project phase, to ensure that the project is on track and that any issues or concerns are addressed promptly.
-
-Please note that the form does not collect personal identifiable data and is intended for internal use only.
-
-</thinking>
-
 # Implementation Science Check In - Help Guide
 ## Purpose
 The Implementation Science Check In form is a tool for project team members to report on their progress, challenges, and needs related to a specific project in the implementation science context.

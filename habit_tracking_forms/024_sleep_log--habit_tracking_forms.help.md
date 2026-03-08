@@ -1,10 +1,3 @@
-<thinking>
-This form is used for tracking a user's bedtime routine and sleep quality. This form is designed to be completed by the user, who will answer a series of questions about their bedtime habits and sleep patterns. The form is divided into several pages, each with its own set of questions, and is intended to be a quick and easy way for users to provide information about their sleep habits.
-
-To avoid duplication of effort, this form is designed to be completed by the user on an ad-hoc basis, meaning that the user fills it out as needed and at their own pace, rather than being required to fill it out on a regular schedule. This form is intended to be used for tracking progress and patterns over time, rather than as a one-time data collection exercise.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to help users track their bedtime routine and sleep quality. This form is designed to be completed by the user, who will answer a series of questions about their bedtime habits and sleep patterns.

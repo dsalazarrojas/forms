@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about an individual's face mask requirements, specifically for situations involving physical proximity or other specific scenarios. This data will help in understanding the individual's behavior and preferences when it comes to wearing face masks. The form is designed to be completed by individuals to report on their face mask usage habits. This information will aid in creating policies and guidelines for face mask usage in different settings. It is crucial to ensure that the form is filled out accurately and honestly to obtain reliable data. Please note that this form is not intended to be mandatory, and the individual's responses will not be used for any punitive purposes. The goal of this form is to gather information to help improve face mask policies and guidelines. If you have any questions or concerns, please reach out to your supervisor or HR representative.
-</thinking>
-
 # Face Mask Requirement Survey - Help Guide
 ## Purpose
 The Face Mask Requirement Survey is designed to collect data about an individual's face mask requirements and habits.

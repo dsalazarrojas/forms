@@ -1,9 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's clarify the purpose and relevance of this form. Based on the provided YAML, this form appears to be for collecting information about a client's well-being and health status. The form includes sections for contact information, medical history, allergies, and follow-up information. It seems to be used by a wellness coach to gather data for providing personalized coaching services.
-
-It's essential to ensure that the form doesn't collect redundant or unnecessary information, and that the questions are clear and concise. Let's review the form again to identify any potential areas for improvement.
-
-Assuming the form is well-crafted, the user-facing help guide should provide clear instructions on how to complete the form and what each field represents. I'll create the guide accordingly, focusing on making it easy to understand and use for non-technical users.</thinking>
-
 # wellness_coach_interview_form - Help Guide
 ## Purpose
 This form is designed for wellness coaches to collect information from clients about their health status, medical history, and other essential details. Completing this form helps the coach understand the client's needs and provide personalized guidance.

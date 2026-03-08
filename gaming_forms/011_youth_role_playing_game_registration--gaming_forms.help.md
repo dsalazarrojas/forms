@@ -1,13 +1,3 @@
-<thinking>
-This is a form for creating registrations for a youth role-playing game. The form collects information for players who are signing up for the game. 
-
-This guide will walk you through the fields in the form, explaining what each one is for and how to complete it. 
-
-Please note that some of these fields are not required, meaning you can submit the form without filling them in, but be aware that the information might not be recorded correctly. 
-
-The purpose of this form is to ensure that players' and parents' information is collected accurately for the smooth operation of the game.
-</thinking>
-
 # Youth Role Playing Game Registration - Help Guide
 ## Purpose
 The form is for creating registrations for players of a youth role-playing game. This includes collecting information about the player and their parents for the game's administration purposes.

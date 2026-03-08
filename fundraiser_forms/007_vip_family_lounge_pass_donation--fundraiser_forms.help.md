@@ -1,7 +1,3 @@
-<thinking>
-The form seems to be for collecting donations from VIP family lounge passes, likely for a fundraising event or campaign. The purpose of this form is to gather information from donors, including their contact details and donation amount. It's possible that the form is used to track donations for a specific cause or initiative within an organization or community.
-</thinking>
-
 # vip_family_lounge_pass_donation - Help Guide
 ## Purpose
 This form is used to record donations for the VIP Family Lounge pass. Donors can provide their personal and contact information, as well as the recipient's details and donation amount. This form helps in tracking and recording the donations made.

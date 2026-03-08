@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Firefighting Equipment Assessment - Help Guide
 
 ## Purpose

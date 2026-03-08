@@ -1,7 +1,5 @@
 # researchPostdoctoralFellowOnboardingForm - Help Guide
 
-<thinking>Before you begin, please be aware of the form's purpose: to collect data for [insert specific reason here]. Please ensure that you do not complete this form unnecessarily, as it is primarily intended for [insert specific reason here]. This guide is designed to walk you through the steps to complete the form successfully.</thinking>
-
 ## Purpose
 The Research Postdoctoral Fellow Onboarding Form is designed to gather essential information about research postdoctoral fellows onboarding into a specific program. This form is used to ensure accurate and efficient onboarding process.
 

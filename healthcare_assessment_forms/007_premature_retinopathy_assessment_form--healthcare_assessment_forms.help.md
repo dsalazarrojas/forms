@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to assess the premature retinopathy status of patients, particularly focusing on the severity of the condition. Premature retinopathy is a condition that can lead to vision loss or blindness in premature infants. The form aims to gather essential information about the patient's medical condition, treatment, and consent status to facilitate proper care and management. Before proceeding, please ensure that you have the necessary permissions and that the patient's information is accurate and up-to-date. This form should not be used for any other purpose or duplicated for other patients.
-</thinking>
-
 # Premature Retinopathy Assessment Form - Help Guide
 ## Purpose
 The Premature Retinopathy Assessment Form is a healthcare-specific form designed to gather information on the severity of premature retinopathy in patients. This form helps healthcare professionals assess the condition's impact on the patient's vision and determine the best course of action for proper care and management.

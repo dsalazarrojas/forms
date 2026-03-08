@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll create a user-facing help guide for the "Online Activism Behavior Study" form. This form aims to collect data on individuals' online activism behavior, categorize their motivations, and explore their perceptions of different categories. The form has multiple pages, each with specific questions that guide the user through the collection of relevant information. To ensure users understand the purpose and process of completing the form, I'll provide a clear and concise guide.</thinking>
-
 # Online Activism Behavior Study - Help Guide
 ## Purpose
 The "Online Activism Behavior Study" form is designed to gather information about individuals' online activism behavior, including their motivations, perceptions, and demographics. This form will help researchers and analysts understand online activism trends and patterns.

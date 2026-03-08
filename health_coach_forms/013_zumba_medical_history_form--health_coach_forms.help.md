@@ -1,7 +1,3 @@
-<thinking>Before generating the help guide, I want to ensure that I understand the form's purpose and its relevance to the user. The form appears to be designed to collect information about a person's Zumba participation, including their frequency of practice, duration, intensity, and medical history. This form is likely used for health coaches or trainers to assess a person's Zumba experience and potential risks or benefits associated with their practice.
-
-I will now review the form's fields and provide a concise and clear explanation of each field in the help guide.</thinking>
-
 # zumba_medical_history_form - Help Guide
 ## Purpose
 This form is designed to collect information about your Zumba participation, including your frequency, duration, intensity, and medical history, to help health coaches or trainers assess your Zumba experience and potential risks or benefits associated with your practice.

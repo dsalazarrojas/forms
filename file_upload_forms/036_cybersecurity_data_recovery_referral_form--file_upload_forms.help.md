@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about security incidents and provide a way for organizations to report and track security incidents. This form should only be filled out by authorized personnel, and it is not intended for use in emergency situations or to report critical security incidents. Please ensure that the form is completed accurately and thoroughly before submitting it. To ensure data quality and prevent duplication, please check that the form has not been filled out by another authorized representative from your organization before submitting it.
-</thinking>
-
 # Cybersecurity Data Recovery Referral Form - Help Guide
 ## Purpose
 This form is designed for organizations to report and track security incidents related to malware, phishing, ransomware, data breaches, or other types of security incidents. It helps the incident response team to quickly gather essential information and start taking corrective actions to mitigate the incident.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the progress of an individual's anal training sessions. The form collects information on the session date, duration, difficulty rating, and other relevant details to provide a comprehensive overview of the training's progress. This form is typically used for individuals who are undergoing anal training to help them monitor their progress and set goals for future sessions.
-</thinking>
-
 # Anal Training Progress Tracker - Help Guide
 
 ## Purpose

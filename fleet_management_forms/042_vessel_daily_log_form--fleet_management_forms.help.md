@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about daily operations and activities of a vessel. It seems that the form collects various pieces of data about a vessel's state and activities, such as crew, location, weather, and speed. The options for each field are mostly related to categorizing the vessel or its operations, with select_one and select_multiple types indicating that users are supposed to choose one or multiple options from a predefined set. The purpose of this form might be for monitoring or reporting of vessel activities, or for keeping track of vessel operations. It is crucial to ensure that the form is filled out correctly and consistently to maintain accurate records.
-
-To avoid confusion, I will try to provide clear explanations for each field, but if there are any unclear fields or any additional context that could clarify the intent, please provide it.
-</thinking>
-
 # Vessel Daily Log Form - Help Guide
 ## Purpose
 The Vessel Daily Log Form is a tool used to record and report information about the daily operations and activities of a vessel. It helps in monitoring and tracking the state of the vessel.

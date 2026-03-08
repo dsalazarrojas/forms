@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form is designed to track weekly body measurements for individuals, likely for health monitoring or fitness tracking purposes. The form collects data on various body circumferences and weights, allowing users to record and compare their measurements over time. The fields include weight, height, and multiple circumferences for different body parts, as well as an optional comment and photo field for additional context. This form is likely used in a healthcare or fitness setting, such as a medical clinic or gym.
-
-</thinking>
-
 # weekly_body_measurements_tracking_form - Help Guide
 ## Purpose
 This form is designed to track weekly body measurements for individuals, collecting data on weight, height, and various body circumferences.

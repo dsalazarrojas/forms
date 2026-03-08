@@ -1,19 +1,3 @@
-<thinking>
-This guide will help you understand the "PayPal Orphanage Donation Form" and assist you in completing it successfully. The form is used for collecting donations to support orphanages. It is crucial to ensure that the form is filled out completely and accurately to process the donation correctly.
-
-The form has multiple fields that require specific information, and some of these fields have specific options for you to choose from. Before proceeding, please note that:
-
-* The "Full Name" field is used to input your name as it appears on your identification or passport.
-* The "Email" field must be a valid email address that we can use to communicate with you regarding your donation.
-* The "Donation Amount" field requires a number that represents the amount you wish to donate.
-* The "Frequency" field offers various options for how often you would like to donate, which you can choose from "Option 1", "Option 2", or "Option 3".
-* The "Payment Method" field requires you to select one of the available options to ensure your donation is processed correctly.
-* The "Notes" field is an optional field for any additional comments or information you wish to provide about your donation.
-* The "Confirmation" field is required and serves as a confirmation of your intention to donate.
-
-It is essential to fill out the form accurately and thoroughly to ensure your donation is processed correctly.
-</thinking>
-
 # paypal_orphanage_donation_form - Help Guide
 ## Purpose
 The "PayPal Orphanage Donation Form" is used to collect donations to support orphanages. To process your donation correctly, please fill out the form accurately and completely.

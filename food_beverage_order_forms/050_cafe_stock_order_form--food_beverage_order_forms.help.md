@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cafe Stock Order Form - Help Guide
 ## Purpose
 This form is for ordering stock and supplies for your cafe. It allows staff members to submit a standardized order for cafe supplies, including coffee beans, milk, and cleaning products.

@@ -1,11 +1,3 @@
-<thinking>As a healthcare professional, it's essential to ensure that patients receive the necessary support and accommodations to manage their disabilities effectively. This form helps healthcare providers and other stakeholders assess a patient's disabilities and identify potential barriers to care. By providing detailed information about the patient's conditions, symptoms, functional difficulties, and other needs, this form can streamline the process of developing personalized care plans. When creating this form, we've considered the following requirements:
-
-*   Each field should be clear and easy to understand.
-*   Each field should be relevant to the assessment process.
-*   The form should be comprehensive enough to capture all essential information.
-
-</thinking>
-
 # Disability Assessment Form - Help Guide
 
 ## Purpose

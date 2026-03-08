@@ -1,6 +1,3 @@
-<thinking>
-This help guide is for the "Education Research Study Application" form, which is intended to collect information from researchers for the purpose of managing and tracking education research studies. 
-</thinking>
 # Education Research Study Application - Help Guide
 ## Purpose
 This form is used to apply for an education research study. Please fill out this form to provide details about your research study, and we will review and consider your application.

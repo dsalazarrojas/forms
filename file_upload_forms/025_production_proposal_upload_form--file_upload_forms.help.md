@@ -1,23 +1,3 @@
-<thinking>
-The form purpose is to upload a production proposal for evaluation and review. This form ensures that all relevant details, including project information, budget, and contact details, are captured in a structured manner. This form should only be completed once for each production proposal.
-
-Before starting, ensure that you have all the required information and that you are uploading a new proposal. If you need to update an existing proposal, please contact the relevant person for further guidance.
-
-Please note that this form has the following pages:
-
-1. Upload Production Proposal (page 1)
-2. Project Details (page 2)
-3. Production Type (page 3)
-4. Production Budget (page 4)
-5. Production Deadline (page 5)
-6. Production File (page 6)
-7. Contact Person (page 7)
-8. Contact Email (page 8)
-9. Contact Phone (page 9)
-10. Contact Note (page 10)
-
-</thinking>
-
 # Production Proposal Upload Form - Help Guide
 ## Purpose
 The Production Proposal Upload Form is used to upload a production proposal for evaluation and review. This form ensures that all relevant details, including project information, budget, and contact details, are captured in a structured manner.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather contact information and message from users for fundraising campaigns. The purpose of this form is to collect details such as name, email, phone number, address, and state to facilitate communication with the user. This form is likely to be used by fundraising teams or organizations to reach out to potential donors or supporters. It is essential to fill out all required fields (marked as "required") to ensure that the form is submitted correctly. Please note that the form is not meant for internal use and is intended for external users.
-</thinking>
 # Fundraising Campaign Communication Form - Help Guide
 ## Purpose
 This form is used to gather contact information and message from users for fundraising campaigns.

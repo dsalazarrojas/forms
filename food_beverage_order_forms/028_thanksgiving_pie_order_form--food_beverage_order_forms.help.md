@@ -1,13 +1,3 @@
-<thinking>
-
-We can create the help guide for the "Thanksgiving Pie Order Form" form. 
-
-The form is used for customers to order their pie for Thanksgiving. 
-
-This guide will cover the form's purpose, how to complete it, and an explanation of each field. 
-
-</thinking>
-
 # Thanksgiving Pie Order Form - Help Guide
 ## Purpose
 The "Thanksgiving Pie Order Form" is used to collect information from customers to process their pie order for Thanksgiving. Please complete the form carefully to ensure your order is processed correctly.

@@ -1,8 +1,3 @@
-<thinking> 
-The "Daily Photo Challenge Submission Form" is designed to help users submit their photo entries for a challenge. 
-To ensure that users do not submit duplicate entries and that the form remains a valid submission, we are implementing a validation logic on the backend to prevent submissions that have already been received. 
-</thinking>
-
 # Daily Photo Challenge Submission Form - Help Guide
 ## Purpose
 The "Daily Photo Challenge Submission Form" is used to submit photos for a daily photo challenge. Users need to provide a photo, a description of the photo, the date of submission, and the type of challenge it belongs to.

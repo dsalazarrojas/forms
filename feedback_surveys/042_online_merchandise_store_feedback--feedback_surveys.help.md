@@ -1,7 +1,3 @@
-<thinking>
-**Purpose:** This form is used to collect feedback and comments from customers about their experience with our online store's merchandise. The form aims to gather valuable insights on the product quality, user experience, and overall satisfaction. Please complete this form only if you have recently purchased from our store. Duplicate submissions from the same customer will not be accepted.
-</thinking>
-
 # online_merchandise_store_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback and comments from customers about their experience with our online store's merchandise.

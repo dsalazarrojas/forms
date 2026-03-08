@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to process an online coffee order. This form will be used to gather order details, customer contact information, and specific coffee preferences. It's essential to ensure that this form is filled out correctly to ensure the order is processed accurately and efficiently. Before proceeding, please review the following help guide to understand the form's purpose and the information required to fill it out correctly.
-</thinking>
-
 # Online Coffee Order Form - Help Guide
 ## Purpose
 The Online Coffee Order Form is designed to collect information for an online coffee order. Fill this form to submit your order and ensure accurate processing.

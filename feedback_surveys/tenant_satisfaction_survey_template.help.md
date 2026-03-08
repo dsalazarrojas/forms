@@ -1,7 +1,3 @@
-<thinking>
-This form, "tenant_satisfaction_survey_template," is designed to gather feedback from tenants regarding their experiences living in a rental property. This form aims to collect information on various aspects of the tenant's satisfaction, such as communication from property management, responsiveness to maintenance requests, and overall living experience. The form also seeks to understand the tenant's preferences and priorities when it comes to the property or community features. Additionally, it inquires about the likelihood of recommending the property to others and open-ended suggestions for improvement.
-</thinking>
-
 # Tenant_satisfaction_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from tenants to help property management or landlords improve the living experience and address any concerns or issues they may be facing.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from applicants for Energy Intelligence Grants. It is essential to ensure that each form is filled out accurately and completely, as this will help the grant review process run smoothly and efficiently. Before proceeding, please make sure that the information provided is up-to-date and accurate, and that you are not duplicating efforts. The form will be reviewed by the grant team to assess the eligibility and suitability of the project.</thinking>
-
 # Energy Intelligence Grant Application Form - Help Guide
 ## Purpose
 The Energy Intelligence Grant Application Form is a tool used to gather information from applicants for Energy Intelligence Grants. The purpose of this form is to collect essential details about your project to evaluate its eligibility and suitability for funding.

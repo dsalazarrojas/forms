@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the public's interest and familiarity with Groundhog Day, a popular American holiday celebrated on February 2nd. The purpose is to gather insights into how much people enjoy or are interested in puns, media consumption, education, participation, and recommending the holiday to others. It's essential to fill out this form to ensure accurate representation of these metrics and inform the design and improvement of future holiday content and activities.
-</thinking>
-
 # Groundhog Day Opinion Poll - Help Guide
 ## Purpose
 The Groundhog Day Opinion Poll is designed to understand your feelings and habits regarding Groundhog Day. By answering this form, you'll help us improve the way we share and celebrate this holiday.

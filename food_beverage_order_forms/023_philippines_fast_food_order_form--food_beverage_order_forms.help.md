@@ -1,12 +1,3 @@
-<thinking>
-This help guide will outline the purpose and usage of the "Philippines Fast Food Order Form", ensuring that end users understand its intended use, how to complete it, and what each field signifies.
-
-The form is designed to collect customer data and order information for the fast food store in the Philippines. It is intended for customers to input their order details, including store location, order time, contact information, and order items. This form helps streamline the ordering process, ensuring accurate and efficient customer data collection.
-
-To avoid duplication, this guide will cover each field's purpose, making it easy to fill out the form accurately.
-
-</thinking>
-
 # Philippines Fast Food Order Form - Help Guide
 ## Purpose
 The "Philippines Fast Food Order Form" is a form designed to collect customer data and order information for the fast food store in the Philippines. It is intended for customers to input their order details, including store location, order time, contact information, and order items.

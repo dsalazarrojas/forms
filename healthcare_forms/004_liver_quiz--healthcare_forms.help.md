@@ -1,12 +1,3 @@
-<thinking>
-A user-facing help guide for the "Liver Quiz" form should be created to ensure end-users understand its purpose, how to complete it, and what each field means. To begin, a brief internal reasoning block explains the form's purpose and checks for relevance and non-duplication. Here's the internal reasoning block:
-
-
-This form, known as the "Liver Quiz", is designed to help medical professionals or patients gather and evaluate information about a patient's liver health. The form is structured to collect basic information about the liver, including potential liver dysfunction causes and test results. It's not intended to be a comprehensive medical assessment, but rather a quick quiz to aid in initial evaluation or follow-up consultations. It's essential to review the form's fields carefully to avoid duplication of effort and to ensure that all required information is gathered.
-
-
-</thinking>
-
 # Liver Quiz - Help Guide
 
 ## Purpose

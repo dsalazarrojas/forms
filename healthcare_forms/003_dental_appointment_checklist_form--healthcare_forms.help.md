@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medical history, allergies, and appointment details. This form should be completed for each patient visit. It is recommended to fill out this form only once for each patient, and avoid duplication of effort. This form is intended for internal use within the healthcare organization, and the information collected will be reviewed by the medical team to update the patient's medical history and prepare for their appointment.
-</thinking>
-
 # Dental Appointment Checklist Form - Help Guide
 ## Purpose
 The Dental Appointment Checklist Form is a critical document used to capture essential patient information and medical details before a dental appointment. This form helps the dental team to review the patient's medical history, allergies, and appointment schedule, ensuring a safe and effective treatment process.

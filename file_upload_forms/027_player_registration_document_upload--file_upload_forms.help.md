@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Registration & Document Upload - Help Guide
 ## Purpose
 This form is designed to collect player information and upload documents related to the player. It is used to register players and upload relevant documents such as player registration forms, player documents, and player profiles.

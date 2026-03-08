@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Order Application Form - Help Guide
 ## Purpose
 The Food Order Application Form is a digital form used to collect information from customers for food orders. This form is used to gather details such as customer name, order date and time, contact information, food items, quantity, special instructions, total cost, payment method, and order status.

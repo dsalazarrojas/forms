@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants in a short story contest to release their entries into the public domain. The form is used by the contest organizers to verify participant permissions and release rights. It's essential to ensure that each field is filled in accurately and completely. Please review each field carefully and fill in the required information to the best of your ability.
-</thinking>
-
 # Short Story Contest Release Form - Help Guide
 ## Purpose
 The Short Story Contest Release Form is used for participants in a short story contest to release their entries into the public domain.

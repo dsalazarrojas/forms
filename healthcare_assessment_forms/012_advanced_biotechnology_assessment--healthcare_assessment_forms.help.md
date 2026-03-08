@@ -1,6 +1,4 @@
-> <thinking>Advanced Biotechnology Assessment form is designed for healthcare professionals to evaluate a candidate's expertise and skills in biotechnology. This form is intended for use in the hiring process to assess a candidate's qualifications and experiences in various areas of biotechnology. Please ensure that you are not duplicating efforts and are not using this form for other purposes. If you have any questions or need further clarification, please reach out to your contact person.</thinking>
-
-# Advanced Biotechnology Assessment - Help Guide
+> # Advanced Biotechnology Assessment - Help Guide
 
 ## Purpose
 The Advanced Biotechnology Assessment is used to evaluate a candidate's expertise and skills in various areas of biotechnology. This form is designed for healthcare professionals to assess a candidate's qualifications and experiences in biotechnology.

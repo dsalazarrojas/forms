@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about reading habits from users. It appears to be a survey form, likely used to gather data on what books or articles individuals read, how often they read, and possibly their reading preferences. The form is composed of 25 pages with text fields, but no clear structure or organization is evident in the page names or labels.
-</thinking>
-
 # reading_habits_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about reading habits from users. The form appears to be a survey, aiming to collect data on what books or articles individuals read, how often they read, and possibly their reading preferences.

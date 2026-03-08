@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information for a zoning permit application. This form is used to gather data that will help determine whether a property meets the zoning regulations for a specific permit. This form should only be used for properties that are not already under development, have not been previously approved for a zoning permit, or have not had a recent permit approval.
-
-This form is a fillable PDF form, which means that users will need to enter their information into the form fields. This guide will walk users through each section of the form and provide an explanation of each field.
-
-</thinking>
-
 # Zoning Permit Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a zoning permit application. This form will gather data that will help determine whether a property meets the zoning regulations for a specific permit.

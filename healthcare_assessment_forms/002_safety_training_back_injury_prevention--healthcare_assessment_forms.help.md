@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess trainees' understanding of back injury prevention principles during a safety training session. The form aims to ensure that trainees understand the safety protocols and procedures to prevent back injuries. It's essential to fill out this form accurately to maintain a safe work environment. Please note that this form is a mandatory assessment for trainees.
-
-</thinking>
-
 # Safety Training: Back Injury Prevention - Help Guide
 ## Purpose
 This form is used to assess trainees' understanding of back injury prevention principles during a safety training session.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help individuals express their thoughts and feelings about their personal boundaries. The feedback collected will be used to identify areas of improvement in maintaining healthy professional relationships within the organization.
-This form should only be completed once per person to avoid duplication of feedback.
-</thinking>
-
 # Personal Boundaries Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals about their personal boundaries and how they are respected within the organization. It is essential to understand how your boundaries are being met and identify areas for improvement.

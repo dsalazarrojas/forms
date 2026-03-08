@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their daily experiences, mood, and stress levels. It's intended to help gather information on how individuals perceive their day, identify stressors, and provide suggestions for improvement. To avoid duplication, please note that this form is designed to be filled out once a day. Please complete the form as accurately and thoroughly as possible to provide the most valuable insights.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect feedback on your daily experiences, mood, and stress levels.

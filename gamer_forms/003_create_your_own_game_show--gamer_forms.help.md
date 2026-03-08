@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users create their own game show. The form allows users to input information about their game show concept, rules, target audience, and other game-related details. The form is meant to gather relevant data to help users create a unique and engaging game show experience.
-
-To ensure that users understand the purpose of the form, I'll review the provided YAML fields to ensure that the form serves its intended purpose and does not duplicate any existing functionality. This form appears to be a general game show creation template, and its fields are focused on game show attributes such as title, audience, prizes, and duration.
-
-</thinking>
-
 # create-your-own-game-show - Help Guide
 ## Purpose
 This form is designed to help users create their own game show by inputting relevant information about their game show concept, rules, audience, prizes, and other details.

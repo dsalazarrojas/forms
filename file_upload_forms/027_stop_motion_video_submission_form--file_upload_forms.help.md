@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user-submitted stop motion videos and related metadata. Before filling out this form, please ensure that you have a valid video ID, title, and entry description. The form will ask for a variety of details about the entry, including contact information and tags.
-</thinking>
-
 # Stop Motion Video Submission Form - Help Guide
 ## Purpose
 This form is a tool for users to submit stop motion videos and accompanying metadata. To ensure that your submission is successful, please review the following instructions carefully.

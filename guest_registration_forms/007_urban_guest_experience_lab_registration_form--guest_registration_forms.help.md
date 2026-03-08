@@ -1,7 +1,3 @@
-<thinking>
-This form is used for guests to register their information for a lab visit. The form captures essential details such as their name, company, position, department, date of registration, email, phone number, address, and any additional notes. It also includes fields for emergency contact information.
-</thinking>
-
 # urban-guest-experience-lab-registration-form - Help Guide
 
 ## Purpose

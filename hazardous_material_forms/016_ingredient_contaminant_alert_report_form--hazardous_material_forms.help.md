@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, we need to consider the purpose and content of the form. The "Ingredient Contaminant Alert Report Form" seems to be designed to report any potential issues or contaminants found in an ingredient or product. The form likely aims to gather information to help identify and address these issues.
 
 Upon reviewing the form fields, we can see that it includes fields for:

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from turf management professionals on their current practices, data use, current challenges, interest in data-driven solutions, and frequency of conducting turf practices. The form aims to understand how often users conduct turf practices, what types of data they use, and what challenges they face in their work. By completing this form, users will help us better understand their needs and improve turf management practices. Please make sure to complete the form honestly and thoroughly, as your input will contribute to the development of more effective data-driven solutions.
-</thinking>
-
 # Data Driven Turf Management Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from turf management professionals about their current practices, data use, and challenges. Your input will help us improve turf management practices.

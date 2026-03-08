@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an early claim request in a life insurance context. The form aims to gather the necessary details for processing the claim, including the uploaded claim file, insured name, claim date, claim description, insurance policy number, phone number, email address, claimant's signature, insurance provider, policy holder's signature, claimant's name, claimant's address, claimant's phone number, policy holder's name, claimant's relationship with the policy, claimant's type, policy type, and claim amount. To avoid duplication, users should not submit multiple forms for the same claim. If users need to re-submit the form for the same claim, please contact the insurance provider for instructions. This form is designed for individual, business, and group claimants. Please ensure you fill in all required fields accurately and completely.
-</thinking>
-
 # Life Insurance Early Claim Request Form - Help Guide
 ## Purpose
 This form is used to gather information for an early life insurance claim request. Please fill in all required fields accurately and completely to facilitate the claim process.

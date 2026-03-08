@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our users understand the purpose of the Release Feedback Survey form and what information we need from them. The form is designed to collect feedback from users about a specific product release, which will help us identify areas of improvement and make informed decisions for future releases. We should avoid duplicating similar surveys or sending them to users who have already responded, as this can cause unnecessary frustration and confusion.
-</thinking>
-
 # Release Feedback Survey - Help Guide
 ## Purpose
 The Release Feedback Survey is a form designed to collect feedback from users about a specific product release. This feedback will help us identify areas of improvement and make informed decisions for future releases.

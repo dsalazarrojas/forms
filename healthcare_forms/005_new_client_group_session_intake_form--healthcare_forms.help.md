@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect client details and health history for new client group sessions. 
-The form is divided into three sections: Client Details, Health History, and Consent. 
-The form will be used by healthcare professionals to gather essential information about the client. 
-Please ensure that you do not submit duplicate client details.
-</thinking>
-
 # New Client Group Session Intake Form - Help Guide
 
 ## Purpose

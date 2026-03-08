@@ -1,15 +1,3 @@
-<thinking>
-
-To confirm, the form is for users to submit images with their corresponding metadata (caption, description, category, tags, and file information).
-
-The primary purpose of this form is to allow users to create and submit a set of images with their associated data for display in an image gallery. This form is designed to be user-friendly, with a simple and intuitive layout that guides users through the submission process.
-
-To avoid duplication, the form will only allow a user to submit one image at a time, and will display a confirmation prompt if the user tries to submit multiple images.
-
-The form is divided into six separate pages, each with a specific field type and corresponding label.
-
-</thinking>
-
 # Image Gallery Submission Form - Help Guide
 ## Purpose
 The Image Gallery Submission Form is a tool for users to submit images with associated metadata (caption, description, category, tags, and file information) for display in an image gallery.

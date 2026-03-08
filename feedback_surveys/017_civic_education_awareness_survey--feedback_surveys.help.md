@@ -1,14 +1,3 @@
-<thinking>
-We're creating a help guide for the Civic Education Awareness Survey, a form designed to gather information about citizens' knowledge and understanding of civic education in the local community. Before we begin, let's review the form's purpose and requirements:
-
-The form aims to collect data on citizens' awareness and understanding of civic responsibilities, including their knowledge of the US government structure, local governance, and sources of information for civic education. The form is divided into two sections: Civic Awareness Assessment and Program Interest. The questions in the first section assess the respondent's knowledge of basic civic concepts, such as the number of branches of government and the document containing the first ten amendments to the Constitution. The second section explores the respondent's interest in local community issues, sources of information, and potential barriers to learning about civic responsibilities.
-
-To ensure that our results are accurate and meaningful, we need to minimize duplication and ensure that respondents are not answering questions that have already been addressed. If you've already taken this survey in the past, please do not resubmit. If you're unsure about any of the questions, please feel free to ask for clarification or contact us directly.
-
-This guide will walk you through each section of the form, explaining each field and how to complete it.
-
-</thinking>
-
 # Civic Education Awareness Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your knowledge and understanding of civic education in our local community. Your answers will help us understand what we can do to improve civic education and increase awareness among residents.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to refer patients to a dietitian or nutritionist for dietary guidance and support. The form captures essential information for a dietitian to assess the patient's needs and provide personalized recommendations. Before completing this form, please ensure you have the necessary permissions and approvals to refer a patient to a dietitian. 
-
-Please note that this form is not intended for self-referral or general public use. It is designed for healthcare professionals to gather and share information with a licensed dietitian or nutritionist. 
-
-If you are a healthcare professional, please ensure that you are using this form correctly and following your facility's policies and procedures for referring patients to specialists.
-</thinking>
-
 # Dietitian Referral Form - Help Guide
 ## Purpose
 The Dietitian Referral Form is used by healthcare professionals to refer patients to a dietitian or nutritionist for dietary guidance and support.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from industrial facility users about their industrial wastewater management practices and characteristics. The form is intended to help the facility's management team gather insights on their current practices and identify areas for improvement. It's essential to fill out this form accurately to ensure the collected data is reliable and useful for analysis. To avoid duplication of information, please ensure you're not filling out this form if you've previously done so.
-
-This form is intended for industrial users only; if you're not affiliated with an industrial facility, please do not fill out this form. The questions are designed to be clear and concise, and each field is explained below.
-
-</thinking>
-
 # industrial_wastewater_user_survey - Help Guide
 ## Purpose
 This form is used to gather information about industrial wastewater management practices and characteristics from industrial facility users. It's essential to provide accurate and honest answers to help the facility's management team understand their current practices and identify areas for improvement.

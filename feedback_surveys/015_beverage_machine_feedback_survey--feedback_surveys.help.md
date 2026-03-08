@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a beverage machine. The purpose of this form is to collect information on how often users use the machine, what type of machine it is, where they primarily use it, and their overall satisfaction with the machine. This form will help us understand the user's point of view and identify areas for improvement. Please provide honest and detailed answers to each question to help us better serve you and the beverage machine user community. This is a one-time submission form, and we will not be collecting any personally identifiable information. If you have already submitted feedback for this machine, please do not submit again. Your feedback will be reviewed and may be used to improve the beverage machine.
-</thinking>
-
 # Beverage Machine Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a beverage machine. The purpose of this form is to collect information on how often users use the machine, what type of machine it is, where they primarily use it, and their overall satisfaction with the machine.

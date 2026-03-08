@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifelong Learning Motivation Survey - Help Guide
 
 ## Purpose

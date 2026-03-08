@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for an evaluation survey form called "public_service_evaluation_survey" that is used to collect feedback on public services. Before proceeding, let's ensure this form is being used for its intended purpose and not for other use cases. 
-
-Given the form's structure, it's likely used in customer-facing scenarios where users are being asked to rate or provide feedback on services they've interacted with. Each field in this form is designed to collect specific information from users, ranging from overall satisfaction and service quality to communication and timeliness. 
-
-Please note that some fields are optional, which means users can choose to skip them if they don't provide relevant information. The form seems to be designed for feedback rather than a strict survey.
-
-</thinking>
-
 # public_service_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on public services, allowing users to rate and comment on their experience. It is likely to be used by customers or users to express their opinions on how well a service was delivered.

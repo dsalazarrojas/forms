@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record information about a square sponsorship donation, allowing users to specify whether or not they have been sponsored, their name, the amount of the donation, whether they have made regular donations, and the type of donation. This information will likely be stored in a database for tracking and reporting purposes.
-We recommend that users complete this form only once for each square sponsorship donation.
-Please confirm that the following fields have been completed for a different sponsorship before completing this form: other forms in the "square_sponsor_donation_form" category, such as any other "square_sponsor_donation_form_page" with id > 1.
-</thinking>
 # square_sponsor_donation_form - Help Guide
 ## Purpose
 This form is used to record information about a square sponsorship donation.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect feedback from legal associates regarding the employment contract of a new hire. The goal is to ensure that the employment contract meets the necessary requirements and to gather any concerns or issues that may arise during the review process. This form is part of a larger hiring process and is designed to facilitate communication between the legal team and the HR department.
-
-Before completing this form, please ensure you have reviewed the employment contract in question and have access to it. You should be aware of the hiring process and the necessary steps involved in reviewing the employment contract.
-
-Please note that this form is not meant to be a comprehensive review document, but rather a brief check-list to gather necessary information and feedback.
-
-Please make sure you have filled out any other relevant sections or forms related to the hiring process before starting this form.
-
-Also, please be aware that some of the fields may ask for sensitive information. Be sure to fill it in accurately and with the correct information.</thinking>
-
 # Legal Associate Employment Contract Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from legal associates regarding the employment contract of a new hire. It aims to ensure the contract meets all necessary requirements and gather any concerns or issues that may arise during the review process.

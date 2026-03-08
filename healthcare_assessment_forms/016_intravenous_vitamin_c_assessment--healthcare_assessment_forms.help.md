@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather patient information for intravenous Vitamin C therapy assessment. Please note that this assessment is for patients who require such treatment. If the patient does not require intravenous Vitamin C therapy, do not fill out this form. 
-
-</thinking>
-
 # Intravenous Vitamin C Assessment - Help Guide
 ## Purpose
 This form is designed to gather important information from patients requiring intravenous Vitamin C therapy.

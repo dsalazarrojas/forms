@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the calibration process for gaming equipment, ensuring that the equipment is functioning optimally. This form is intended to collect relevant details from the submitter, such as the type of equipment, its status, and any necessary calibration information. It's crucial to accurately classify the equipment type to guarantee correct calibration procedures are followed.
-
-To prevent duplication of work, please ensure that the submitter is the correct owner or authorized representative of the equipment. If the equipment is not owned by the submitter or the submitter is not authorized to request calibration, it's recommended to contact the equipment owner or manager to initiate the calibration process.
-
-The internal team will review each form submission and verify the submitted information to prevent potential discrepancies.
-
-</thinking>
-
 # Gaming Equipment Calibration Request Form - Help Guide
 ## Purpose
 This form collects necessary details to initiate the calibration process for your gaming equipment.

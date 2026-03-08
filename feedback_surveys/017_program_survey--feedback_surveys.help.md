@@ -1,7 +1,3 @@
-<thinking>...This form, called "Program Survey", is designed to collect information about a program or project. It's a part of the "Feedback Surveys" category. Before proceeding, please ensure that you have not already filled out this form. This form is intended to gather data for analysis and evaluation purposes, so please provide accurate and detailed information.
-
-</thinking>
-
 # Program Survey - Help Guide
 ## Purpose
 This form is used to collect data about a program or project. It's a part of the "Feedback Surveys" category.

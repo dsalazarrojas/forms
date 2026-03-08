@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Covid 19 Acknowledgement - Help Guide
 ## Purpose
 This form is intended to collect information about an individual's understanding and consent regarding the administration of the Covid-19 vaccine. It is designed to ensure that individuals have been provided with relevant information and have given their consent before receiving the vaccine.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to notify the bank of a deceased account holder's passing, ensuring the account is handled according to the bank's protocols for handling estate administration. This process helps the bank freeze the account to prevent any further transactions, which may involve contacting the informant to verify the information provided before proceeding with estate administration. It's essential to submit accurate and complete information to help the bank expedite the process. Please review this form carefully and answer each question truthfully.
-</thinking>
-
 # Bank Account Holder Death Notification Form - Help Guide
 ## Purpose
 This form is designed to notify the bank of a deceased account holder, allowing the bank to freeze the account and handle it according to their protocols for estate administration.

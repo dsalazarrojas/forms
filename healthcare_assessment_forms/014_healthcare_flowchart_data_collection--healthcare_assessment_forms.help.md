@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data for healthcare assessments. The purpose of this form is to gather information about a patient's concerns, symptoms, medical history, and other relevant details. This form is likely used by healthcare professionals to evaluate and manage patient care. I will ensure that the fields and instructions are clearly explained to help users understand their purpose and complete the form accurately.
-</thinking>
-
 # Healthcare Flowchart Data Collection - Help Guide
 
 ## Purpose

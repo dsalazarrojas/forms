@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Food Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a user's daily food intake. This includes their weight, food items consumed, the amount and unit of the food consumed, the time of day, any notes, email, phone number, and a daily form notes section. This information is intended for personal or research purposes.

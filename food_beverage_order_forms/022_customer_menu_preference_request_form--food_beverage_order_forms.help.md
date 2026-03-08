@@ -1,10 +1,3 @@
-<thinking>
-The "customer_menu_preference_request_form" form is designed to collect information from customers about their menu preferences for an event or occasion. This form is likely to be used in a food and beverage context, such as restaurants, catering services, or events. The form collects main information about the customer, their menu picks, any special requests, contact details, and date and time information.
-
-To prevent duplication, this form should only be filled out by customers who have not yet submitted a menu preference request.
-
-</thinking>
-
 # customer_menu_preference_request_form - Help Guide
 ## Purpose
 The "customer_menu_preference_request_form" is a form used to collect menu preferences from customers for an event or occasion.

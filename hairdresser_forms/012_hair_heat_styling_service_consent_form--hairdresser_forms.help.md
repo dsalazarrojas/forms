@@ -1,35 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients before offering them hair heat styling services. The form will gather details about the client, their health, appointment details, and other relevant information.
-The form has 20 fields in total, including text inputs for client details, health information, and appointment details, as well as select options for services, payment methods, and additional services. The required fields are:
-* Client Details (text)
-* Health Information (text)
-* Consent (select multiple)
-* Appointment Details (text)
-* Client Health (text)
-* Stylist Details (text)
-* Salon Details (text)
-* Contact Info (email)
-* Phone (number)
-* Address (text)
-* Allergies (text)
-* Emergency Contact (text)
-* Medical Notes (text)
-* Appointment Time (time)
-* Appointment Date (date)
-* Appointment Duration (number)
-* Services (select multiple)
-* Additional Services (select multiple)
-* Payment Method (select multiple)
-The non-required fields are:
-* Consent (select multiple)
-* Services (select multiple)
-* Additional Services (select multiple)
-* Payment Method (select multiple)
-
-The fields that seem to be duplicates are "services" and "additional services", which both have a select multiple type. It would be better to merge these two fields into one, or to remove one of them to avoid duplication.
-The form will be used by clients to provide their consent to receive services, and by the salon to gather necessary information for the appointment.
-</thinking>
-
 # Hair Heat Styling Service Consent Form - Help Guide
 
 ## Purpose

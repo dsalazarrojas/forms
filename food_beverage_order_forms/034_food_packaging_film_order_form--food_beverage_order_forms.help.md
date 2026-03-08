@@ -1,5 +1,3 @@
-<thinking> 
-This form is for ordering food packaging films, which are used to protect and display food products. The form is for customers to provide their information, details about their order, select the products they want to order, choose a payment gateway, and confirm their order details. This form is likely used by food manufacturers or distributors to process customer orders and ensure timely delivery. Before completing this form, ensure you have all the necessary information and select the correct options for your order. If you have any questions or concerns, please contact our customer support team.</thinking>
 # Food Packaging Film Order Form - Help Guide
 ## Purpose
 This form is for customers to place orders for food packaging films. Please fill out the form carefully to ensure accurate and timely processing of your order.

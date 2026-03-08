@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients in a telehealth counseling setting. This form aims to gather essential details about the client, their contact information, emergency contact information, and consent for telehealth services. The form is designed to ensure that clients understand their rights, the nature of the services, and their obligations in the telehealth setting. By completing this form, clients will be able to provide their informed consent for telehealth services and ensure a smooth and secure interaction with their health coach.
-</thinking>
-
 # telehealth_counseling_consent_form - Help Guide
 
 ## Purpose

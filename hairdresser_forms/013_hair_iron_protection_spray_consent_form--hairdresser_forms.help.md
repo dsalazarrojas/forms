@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information and consent from clients for the use of hair iron protection spray. The form should only be completed by clients who have been informed about the use of this product and have agreed to its application. This form may be used in conjunction with other forms or as a standalone document.
-The form collects information about the client's authorization, signature, contact details, name, and email. Each field is designed to gather specific information and consent from the client.
-Please ensure that the client has provided accurate and up-to-date information in each field.
-
-</thinking>
-
 # Hair Iron Protection Spray Consent Form - Help Guide
 ## Purpose
 This form collects information and consent from clients for the use of hair iron protection spray during a hair treatment or service.

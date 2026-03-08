@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from building occupants regarding noise levels and mitigation efforts in their work or living spaces. The purpose of this form is to gather data on noise perception, sources, and impact on daily activities, as well as overall satisfaction with noise levels. This information will help building managers and maintenance teams identify areas of improvement and make data-driven decisions to reduce noise levels and improve occupant satisfaction.
-
-Before completing this form, please ensure that you have not already submitted feedback on this topic recently. This form is meant to capture feedback from individuals who have been impacted by noise levels in the building.
-
-When completing this form, please answer honestly and thoroughly to provide valuable insights. Your feedback is crucial in helping us improve the noise situation in the building.
-</thinking>
-
 # Building Noise Mitigation Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from building occupants on noise levels and mitigation efforts in their work or living spaces.

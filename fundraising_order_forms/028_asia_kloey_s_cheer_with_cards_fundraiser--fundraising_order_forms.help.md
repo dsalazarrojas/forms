@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place an order for a fundraiser. The form likely aims to collect necessary information for processing and delivering the order, including customer details, order specifics (e.g., number of boxes, type of card box), payment method, and shipping details. To confirm, the form is for a fundraiser, and the specific details of the form should be tailored to accommodate the unique needs of a fundraiser event.
-</thinking>
-
 # Asia and Kloeys CHEER With Cards Fundraiser - Help Guide
 ## Purpose
 This form is designed to collect information for a fundraiser order from a customer. Please fill out the form carefully to ensure accurate order processing.

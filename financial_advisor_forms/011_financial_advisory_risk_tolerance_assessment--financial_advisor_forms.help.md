@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly go through the reasoning behind this form. The Financial Advisory Risk Tolerance Assessment form is designed to help investors or financial advisors assess an individual's or institution's risk tolerance for investments. This form collects various pieces of information to determine the risk level and investment objectives, which is essential for tailoring investment advice or product recommendations. This form is likely used in a financial advisory or planning context, such as for investment planning or portfolio management. By answering the questions in this form, the user will get a better understanding of their risk tolerance and investment goals, making it easier for advisors to provide personalized guidance.</thinking>
-
 # Financial Advisory Risk Tolerance Assessment - Help Guide
 ## Purpose
 The Financial Advisory Risk Tolerance Assessment form is designed to help investors or financial advisors understand your risk tolerance and investment goals. This information will aid in tailoring investment advice or product recommendations that suit your needs.

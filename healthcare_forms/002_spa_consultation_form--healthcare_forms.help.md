@@ -1,7 +1,3 @@
-<thinking>... This form is designed to collect information for a spa consultation, allowing clients to provide personal details, select services they are interested in, and schedule an appointment. The form also enables staff members to provide assigned staff members, set a consultation time, and note any additional comments or concerns. This form aims to streamline the consultation process, ensuring that clients receive the best services tailored to their needs and preferences. Please make sure you are completing this form for the intended purpose and purpose only. If you need to create a similar form for another context, please adapt this one accordingly to suit your specific needs. Also, be aware that this form is not affiliated with, endorsed by, or derived from any specific form platform. It was created using public metadata and released under the Creative Commons 4.0 license, allowing you to modify, use, and even sell it, just give credit. Contact form@gic.mx for any inquiries or further questions. 
-
-</thinking>
-
 # Spa Consultation Form - Help Guide
 ## Purpose
 The Spa Consultation Form is designed to gather necessary information from clients for a personalized spa experience. This form helps spa staff to understand client preferences, schedule appointments, and ensure that clients receive the best possible services tailored to their needs.

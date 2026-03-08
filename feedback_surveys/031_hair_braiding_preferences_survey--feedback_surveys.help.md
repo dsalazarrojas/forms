@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Braiding Preferences Survey - Help Guide
 
 ## Purpose

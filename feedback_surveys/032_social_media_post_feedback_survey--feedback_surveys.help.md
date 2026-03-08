@@ -1,7 +1,3 @@
-<thinking>Internal reasoning block:
-We are creating a feedback form to gather information from users about social media posts. This form will help us understand what users think about our content and identify areas for improvement. We want to make sure that the form is easy to understand and complete, and that users know what to expect. We will check that the form is not being duplicated, and that users are only submitting one response per social media post.
-</thinking>
-
 # Social Media Post Feedback Survey - Help Guide
 
 ## Purpose

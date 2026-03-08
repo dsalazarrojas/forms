@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed for alumni to create an endowment to support their alma mater. It collects donor information, donation amount, and other relevant details such as donation type, designation, payment method, and recognition preference. This form helps to streamline the endowment creation process and ensures accurate and consistent data collection. The form's design is based on the standardization of donor management and endowment processes in higher education institutions.
-
-</thinking>
-
 # Alumni Endowment Form - Help Guide
 ## Purpose
 The Alumni Endowment Form is designed for alumni to create an endowment to support their alma mater. This form collects necessary information to process and acknowledge donations.

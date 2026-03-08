@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on the symptoms of neuropathy, a condition that affects the nervous system. This form is designed to help clinicians assess and monitor the severity of neuropathy symptoms. It's essential to complete this form accurately to help healthcare professionals provide the best possible care and treatment.
-
-To determine if this form is relevant and not duplicated, consider the following:
-
-* The form is designed for patients who are experiencing symptoms related to neuropathy.
-* The form does not collect redundant information, as each page and section is focused on a specific aspect of neuropathy symptoms.
-* The form is not intended for patients with other health conditions that may present similar symptoms, such as arthritis or multiple sclerosis.
-
-</thinking>
-
 # Neuropathy Symptom Score Questionnaire - Help Guide
 
 ## Purpose

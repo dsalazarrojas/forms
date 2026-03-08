@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for snack bar staff to submit a request for restocking specific products in the snack bar area. The form should be filled out by a staff member when they notice that a product is running low or out of stock, and the goal is to request restocking of these items in order to maintain an adequate supply and prevent stockouts. Before filling out this form, please ensure that it is not a duplicate request, as multiple submissions may lead to unnecessary restocking efforts and waste. Ensure that you are submitting a new, unique request each time you fill out this form.
-</thinking>
-
 # Snack Bar Product Replenishment Order Form - Help Guide
 ## Purpose
 This form is used by snack bar staff to submit a request for restocking specific products in the snack bar area. The goal is to maintain an adequate supply of products and prevent stockouts.

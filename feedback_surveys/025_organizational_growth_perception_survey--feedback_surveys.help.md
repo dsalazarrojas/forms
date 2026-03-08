@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their perception of the organization's growth and development. It is designed to be a one-time survey to help the organization understand the employees' opinions and feelings about their work environment, colleagues, and overall experience. The survey should not be taken by non-employees or people who have already completed it.
-
-</thinking>
-
 # Organizational Growth Perception Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from employees on their perception of the organization's growth and development. It is not intended to be a formal evaluation or performance review, but rather a tool to help us understand your thoughts and feelings about your work environment, colleagues, and overall experience.

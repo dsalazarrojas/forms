@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist healthcare professionals in understanding and completing the NICU Monitoring Checklist form. The purpose of this form is to gather information on various patient monitors and vital signs for newborn infants in the neonatal intensive care unit (NICU). The form is designed to be completed by healthcare staff, including nurses and doctors, to track and record the patient's conditions and responses to treatments.
-To ensure the form is completed accurately and efficiently, it is essential to understand the purpose and relevance of each field. Please review the fields carefully to avoid duplication and ensure you are collecting the necessary information.
-</thinking>
-
 # NICU Monitoring Checklist - Help Guide
 ## Purpose
 The NICU Monitoring Checklist is a form used to collect data on newborn patients in the neonatal intensive care unit (NICU). It is designed to track vital signs, patient conditions, and responses to treatments.

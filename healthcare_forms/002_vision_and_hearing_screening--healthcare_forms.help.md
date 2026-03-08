@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a healthcare-related form, specifically for vision and hearing screenings. The purpose of this form is to collect data on students' vision and hearing test results, along with other relevant details such as date and comments from nurses. The form is designed to be filled out by students and teachers, and nurses will likely review and sign off on the results. This form appears to be a standard assessment tool for schools or healthcare settings.
-</thinking>
-
 # Vision And Hearing Screening - Help Guide
 ## Purpose
 The Vision and Hearing Screening form is used to document the results of vision and hearing tests performed on students in a healthcare setting.

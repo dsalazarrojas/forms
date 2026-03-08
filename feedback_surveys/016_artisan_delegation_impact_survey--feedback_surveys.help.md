@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the Artisan Delegation Impact Survey, let's first understand the form's purpose and context.
-
-This form is designed to collect feedback and insights from respondents about the Artisan Delegation Program, a program aimed at promoting economic empowerment among artisans. The survey is used to assess the overall impact of the program on respondents, identify areas of improvement, and gather suggestions for future development.
-
-Before starting the survey, please ensure that you have not already completed it in the past. If you are unsure, you can check your email or contact your organization's administrator for guidance.
-
-</thinking>
-
 # Artisan Delegation Impact Survey - Help Guide
 ## Purpose
 

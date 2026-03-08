@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Income Reduction Form", we need to understand its purpose and the fields involved. This form is used to collect information from users for some specific financial calculation. Let's assume the purpose is to calculate a reduction in income for users based on their employment status and other relevant factors.
-
-The form will be filled out by users, and each field is designed to collect specific information from them. This guide will explain each field and its required nature, to help users understand what's expected of them.
-
-</thinking>
-
 # Income Reduction Form - Help Guide
 ## Purpose
 The Income Reduction Form is used to collect information from users for some specific financial calculation. Please fill out this form to the best of your ability, ensuring that all required fields are completed.

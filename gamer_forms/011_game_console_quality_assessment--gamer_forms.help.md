@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the form is designed to assess the quality of a game console, and it's intended for use in a store or inventory management context. The form appears to be a comprehensive assessment tool that captures various aspects of the console, including its condition, recorded status, accessories, functionality, and more. I'll assume that the form is meant to be filled out by store staff or inventory managers to evaluate and document the quality of game consoles before they are sold or stored.
-
-</thinking>
-
 # Game Console Quality Assessment - Help Guide
 ## Purpose
 The Game Console Quality Assessment form is designed to evaluate the quality of a game console, capturing its condition, recorded status, accessories, functionality, and other relevant details. This form helps store staff or inventory managers assess the console's value and make informed decisions about its sale, storage, or disposal.

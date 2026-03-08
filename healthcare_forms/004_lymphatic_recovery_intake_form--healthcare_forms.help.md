@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their lymphatic recovery journey. It aims to collect general information about the client, such as their goals and preferences for treatment, appointment schedules, contact details, emergency contacts, medical history, and any allergies or concerns they may have. The form is used in a healthcare setting to facilitate a comprehensive understanding of the client's needs and preferences.
-</thinking>
-
 # Lymphatic Recovery Intake Form - Help Guide
 
 ## Purpose

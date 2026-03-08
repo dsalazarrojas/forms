@@ -1,5 +1,3 @@
-<thinking>Health Coaching Client Plan Adherence Check In form is used to track the client's adherence to their health coaching plan. This form is designed to help health coaches monitor progress, identify areas of improvement, and provide timely follow-up support. To avoid confusion with other client plans, ensure that each client has a unique name. This form should only be used for clients who are currently active in the health coaching program.</thinking>
-
 # Health Coaching Client Plan Adherence Check In - Help Guide
 ## Purpose
 The Health Coaching Client Plan Adherence Check In form is used to track the client's adherence to their health coaching plan, helping health coaches monitor progress and provide timely support.

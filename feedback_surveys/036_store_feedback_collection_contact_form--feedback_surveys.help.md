@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect store feedback from customers or visitors. It's meant to help store management improve services, products, and overall customer experience by gathering input from those who have visited the store. The form is not affiliated with any form platform, but rather an original adaptation created using public survey metadata.
-
-This form is not intended to collect sensitive information, as all fields are optional and only require the user's contact information if they choose to provide it. The form does not store any personal identifiable information, and any collected data will be used solely for internal purposes to help the store management team understand customer feedback and improve their services.
-
-</thinking>
-
 # Store Feedback Collection Contact Form - Help Guide
 ## Purpose
 

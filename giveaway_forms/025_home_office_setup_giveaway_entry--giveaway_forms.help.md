@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users interested in setting up a home office setup. It's intended to gather data on their current work setup, their preferences for future setup, and any additional notes they'd like to share. To ensure the integrity of the data, please ensure you're using a valid email address for your entry. If you've already submitted an entry for this giveaway, do not resubmit. The form will guide you through the required and optional fields to provide a clear and concise experience.
-</thinking>
-
 # Home Office Setup Giveaway Entry - Help Guide
 ## Purpose
 This guide is here to help you understand every step of the Home Office Setup Giveaway Entry process.

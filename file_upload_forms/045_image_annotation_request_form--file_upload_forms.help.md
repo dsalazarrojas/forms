@@ -1,12 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure it's not being used for something else, let's break down the form's fields and requirements.
-
-*   The form appears to be designed for a client or vendor to provide details for image annotation tasks, including uploading images, specifying deadlines, and providing contact information.
-*   Each field has a clear and specific purpose, and there's no overlap or redundancy among the fields. 
-*   The form requires several pieces of information to be filled out by the client or vendor, indicating it's not intended for a single-use case. 
-
-</thinking>
-
 # Image Annotation Request Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from clients or vendors for image annotation tasks. Please fill out the following fields to provide a complete and accurate request.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Signage Detail Collection Form - Help Guide
 ## Purpose
 

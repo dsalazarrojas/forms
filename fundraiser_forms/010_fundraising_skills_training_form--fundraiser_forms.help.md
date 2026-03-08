@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Fundraising Skills Training Form" that is clear, concise, and practical. I'll base the guide on the provided YAML fields and provide a brief internal reasoning block to solidify my understanding of the form's purpose and non-duplication. This form is intended to be a tool for collecting information from participants in a training program, likely for a fundraising context. The form likely aims to assess the skills and abilities of the participants, which will inform the training process and outcomes. To ensure non-duplication, I'll verify that the form is not affiliated with, endorsed by, or derived from any form platform, and that it's an original adaptation using only public survey topic metadata.</thinking>
-
 # Fundraising Skills Training Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a fundraising skills training program. It will help assess their skills and abilities, which will inform the training process and outcomes.

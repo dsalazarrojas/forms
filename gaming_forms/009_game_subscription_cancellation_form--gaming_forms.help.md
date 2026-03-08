@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to be used by users who want to cancel their game subscription. 
-The form will be filled out by the user who wants to cancel their subscription to provide information about their game subscription and reason for cancellation. 
-The information will then be used by the support team to review and follow up on the cancellation request. 
-It's likely that users will be filling out this form when they no longer want to continue their subscription to a particular game, and they will provide as much detail as possible about their game subscription to ensure that the cancellation is processed correctly.
-</thinking>
-
 # Game Subscription Cancellation Form - Help Guide
 ## Purpose
 This form is used to cancel a game subscription. To cancel a subscription, please fill out the form below with the relevant information.

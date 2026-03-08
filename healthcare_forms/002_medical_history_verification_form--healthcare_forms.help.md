@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect and verify the medical history of a patient. This form is part of the "healthcare_forms" category and is titled "medical_history_verification_form". Its purpose is to gather information on the patient's medical history, including any conditions they may have, medications they are taking, allergies, and other relevant details. This form is designed to be completed by medical professionals to ensure accurate and thorough patient care. 
-
-The form is designed to be completed in a step-by-step manner, with each field providing additional context and information to support the patient's medical history. 
-
-This form should only be used by authorized personnel to ensure the security and confidentiality of the patient's data.
-
-</thinking>
-
 # medical_history_verification_form - Help Guide
 ## Purpose
 The medical history verification form is used to collect and verify the medical history of a patient. This form is part of the "healthcare_forms" category and is intended to be completed by medical professionals.

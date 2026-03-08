@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients or clients who are seeking weight loss services. The purpose of this form is to gather essential contact information, medical history, weight loss goals, and other relevant details that will help health professionals provide accurate and personalized advice and care. It is essential to complete this form accurately and thoroughly to ensure that the healthcare provider has a comprehensive understanding of the individual's health status and goals.
-
-Before you start, please make sure you are not already in the middle of a similar process or have already completed the form in the past. This will help the healthcare provider to better understand your needs and provide more effective guidance.
-
-</thinking>
-
 # Weight Loss Intake Form - Help Guide
 ## Purpose
 The Weight Loss Intake Form is designed to collect essential information from patients or clients who are seeking weight loss services. This form helps health professionals to understand your medical history, weight loss goals, and other relevant details to provide personalized advice and care.

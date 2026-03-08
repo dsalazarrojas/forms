@@ -1,6 +1,3 @@
-<thinking>
-This form is a crucial part of the Café Loyalty Program Materials Order Form, which is used to collect essential information from café owners or administrators who require materials for their loyalty programs. This form helps gather details about the café's contact information, loyalty program status, material requirements, and payment methods, ensuring that the materials are delivered correctly and in a timely manner. The form should only be completed by authorized personnel to avoid duplication of efforts and miscommunication. The following guide will walk users through the form's purpose, completion process, and each field explanation to ensure a smooth and efficient ordering process.</thinking>
-
 # Café Loyalty Program Materials Order Form - Help Guide
 ## Purpose
 The Café Loyalty Program Materials Order Form is a crucial document used by café owners or administrators to order materials related to their loyalty programs. It collects essential information for proper processing, delivery, and fulfillment of materials.

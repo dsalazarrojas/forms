@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # operating-statement-submission - Help Guide
 ## Purpose
 This form is for submitting an operating statement, which is a document that provides information about the operating activities, financial performance, and other relevant data of an organization or entity. The operating statement is used for internal review and decision-making purposes, and it's essential for ensuring accurate and transparent financial reporting.

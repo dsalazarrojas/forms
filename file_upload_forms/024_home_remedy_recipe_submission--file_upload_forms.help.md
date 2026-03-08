@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect home remedy recipes from users, with an emphasis on uploading a photo and submitting a review, rating, and comments. Each field in the form will be used to gather necessary information to complete the submission. To ensure data quality, users are required to provide a few specific fields such as photo upload, rating, comments, and contact information.
-
-Before starting the submission process, please ensure that you are not duplicating a previous submission. To confirm, please review the "Tags" field where you can enter keywords related to your remedy.
-
-</thinking>
-
 # Home Remedy Recipe Submission - Help Guide
 
 ## Purpose

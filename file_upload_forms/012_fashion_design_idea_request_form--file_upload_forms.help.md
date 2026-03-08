@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect fashion design ideas from users. It's a request form, so the user can provide a description of their design concept, attach relevant files, and upload images to support their idea. The fields in this form are designed to gather necessary information from the user to assess and develop their design idea.
-
-</thinking>
-
 # Fashion Design Idea Request Form - Help Guide
 ## Purpose
 This form is used to submit fashion design ideas to be assessed and developed. Please fill in the required fields to describe your design concept and attach any relevant files or images.

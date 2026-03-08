@@ -1,9 +1,3 @@
-<thinking>
-The Skincare Recycling Habit Survey is a form designed to collect information on a person's skincare routine and habits related to recycling. This form is likely used by a company or organization in the skincare industry to gather data on customer behavior, preferences, and habits. The form is probably administered to a specific audience, such as customers, users, or enthusiasts, and the data collected will help the company improve their products, services, or marketing strategies.
-The form has 7 pages, but there's no obvious indication of how the pages are structured or related to each other. Each page seems to be a single text field with no specific options or constraints provided. This might be due to the simplicity of the form or limitations in the input schema.
-Before proceeding, please confirm that this form is relevant to your needs and not a duplicate effort. If you're unsure, please review your goals and objectives to ensure this form meets your requirements.
-</thinking>
-
 # Skincare Recycling Habit Survey - Help Guide
 ## Purpose
 The Skincare Recycling Habit Survey is a form designed to collect information on a person's skincare routine and habits related to recycling. The data collected will help the company improve their products, services, or marketing strategies.

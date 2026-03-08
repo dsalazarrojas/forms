@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experience with the Smart TV App. It is crucial to understand the demographics and pain points of the users to make necessary improvements. The form is designed to be comprehensive yet concise, gathering information about the user's overall experience, feedback, issues faced, and contact information. Please ensure you only fill out this form once per session to avoid duplication of feedback.
-</thinking>
-
 # Smart TV App Feedback Survey - Help Guide
 
 ## Purpose

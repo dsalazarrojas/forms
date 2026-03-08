@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the organizational feedback maturity of a company or institution. It's intended to measure the frequency, channels, and effectiveness of feedback given and received within the organization. The goal is to identify areas of strength and weakness in the feedback process, allowing for improvement and growth. Before proceeding, please ensure you've reviewed the form carefully and understand its purpose. This guide is meant to be a helpful reference, but if you have any doubts or concerns, it's always best to clarify with the form creator or relevant stakeholders.
-</thinking>
-
 # Organizational Feedback Maturity Survey - Help Guide
 ## Purpose
 The Organizational Feedback Maturity Survey is designed to gauge the effectiveness of your organization's feedback process.

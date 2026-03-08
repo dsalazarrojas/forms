@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their COVID-19 vaccination status. The purpose of this form is to collect data on customers' first name, last name, date of birth, email, phone number, vaccination date, vaccination site, medical office, and vaccination dose received. This form should only be used for customers who have been vaccinated against COVID-19. It is essential to complete this form accurately and honestly to ensure that your vaccination status is correctly recorded. 
-
-Please ensure that you have not already completed this form before, as it can cause duplication of data.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Covid 19 Customer Check In Form - Help Guide
 ## Purpose
 The form is designed to collect data on customers' COVID-19 vaccination status.

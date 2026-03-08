@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I'll follow the provided structure and explanation requirements. Here's the final help guide in Markdown format:
 
 # Creative Teaching Practices Impact Survey - Help Guide

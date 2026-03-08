@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Fundraising Event Filming Consent Form - Help Guide
 ## Purpose
 The Fundraising Event Filming Consent Form is designed to obtain consent from participants for filming and photography at a fundraising event. This form ensures that attendees are aware of and agree to the capturing of their image or likeness for promotional purposes.

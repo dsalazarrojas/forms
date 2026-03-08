@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Accountability Check In Form - Help Guide
 ## Purpose
 The Fitness Accountability Check In Form is designed to help clients track their progress, set fitness goals, and schedule next workouts. This form is used to provide coaches with a comprehensive overview of clients' fitness journey, allowing for better guidance and support.

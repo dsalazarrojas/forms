@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to help applicants gather information for creative equipment funding applications. This form will be used by administrators to collect relevant details about an organization or project. The form should not be duplicated or filled out for other purposes. Please ensure that you have all the required information and follow the correct format when completing the form. This will help speed up the processing time and reduce errors... </thinking>
-
 # Creative Equipment Funding Application Form - Help Guide
 ## Purpose
 This form is for organizations and projects seeking funding for creative equipment. Please fill out the form completely and accurately to provide the necessary information for the review process.

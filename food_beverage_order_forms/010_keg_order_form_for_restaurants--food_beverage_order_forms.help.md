@@ -1,5 +1,3 @@
-<thinking> 
-This form seems to be designed for restaurants to receive orders from customers for keg beer deliveries. Considering this is a simple form, it's likely to be used for small to medium scale keg deliveries. The purpose of this form would be to collect information for efficient order fulfillment and potentially for billing/payments purposes. There's no indication that the form is meant for any other context or use cases. I won't provide an elaborate internal reasoning or duplication check.</thinking>
 # Keg Order Form For Restaurants - Help Guide
 ## Purpose
 This form is designed to collect keg beer orders from customers for restaurants.

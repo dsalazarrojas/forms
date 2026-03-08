@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for requesting a Lawsuit Claim Number Lookup. This form is used to submit a request for a Lawsuit Claim Number, which is used to identify a specific case in the system. When filling out this form, please ensure that you have a valid reason for the request and are not submitting duplicate requests. This form will guide you through the required and optional fields to provide the necessary information to process your request.
-
-</thinking>
-
 # Lawsuit Claim Number Lookup Request - Help Guide
 ## Purpose
 This form is used to request a Lawsuit Claim Number, which is used to identify a specific case in the system.

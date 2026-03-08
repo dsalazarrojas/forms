@@ -1,12 +1,3 @@
-<thinking>
-A Covid-19 Safety Survey form is designed to gather patient information and medical history in order to provide a comprehensive understanding of their safety during the Covid-19 pandemic. This form will be used to identify areas of concern and take necessary precautions to ensure patient safety. Before proceeding, please review the form carefully to ensure that you are providing the most accurate information.
-
-This form will only be completed by patients who are suspected or confirmed to have Covid-19 or those who are at high risk of exposure. Please answer the questions honestly and to the best of your ability.
-
-Please note that this form may be duplicated or reviewed by healthcare staff, so please ensure that you provide accurate and up-to-date information.
-
-</thinking>
-
 # Covid 19 Safety Survey - Help Guide
 ## Purpose
 This form is designed to gather information about patients who are suspected or confirmed to have Covid-19 or those who are at high risk of exposure to the virus. The information collected will help healthcare staff to identify areas of concern and take necessary precautions to ensure patient safety.

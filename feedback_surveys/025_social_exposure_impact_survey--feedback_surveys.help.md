@@ -1,5 +1,3 @@
-<thinking>...Internal note: This form is designed to collect feedback data from users about their social exposure experience on a website or application. It has 24 questions, mostly multiple-choice text input fields. The form is not affiliated with any survey platforms and is an original creation. It's meant to be used as is, without modification, or as a starting point for further adaptation and customization. Please ensure that the form is used in accordance with your organization's policies and applicable laws...</thinking>
-
 # Social Exposure Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback data from users about their social exposure experience on a website or application.

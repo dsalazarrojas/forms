@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect patient intake information for fat cavitation procedures. The purpose of this form is to gather essential details about the patient, including contact information, medical history, and next appointment schedule. This data will be used to prepare for the procedure, ensure patient safety, and provide personalized care. 
-Please ensure that the patient's medical history and procedure details are accurate and up-to-date. 
-
-The form will be reviewed and processed by healthcare professionals to prepare for the patient's visit. Please complete all required fields to the best of your abilities.
-</thinking>
-
 # Fat Cavitation Client Intake Form - Help Guide
 
 ## Purpose

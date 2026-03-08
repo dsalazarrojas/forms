@@ -1,20 +1,3 @@
-<thinking>
-This form is a Customer Loyalty Program Feedback Poll, aiming to gauge customer satisfaction and gather valuable insights to improve our customer loyalty program. It is crucial that the information provided is accurate and up-to-date, as it will be used to tailor our services to better meet our customers' needs. Before proceeding, kindly ensure that you have not previously submitted a feedback form, as this will help prevent duplicate responses and ensure the integrity of our data.
-
-To complete this form, follow the steps below:
-
-1. Fill in your name and email address as prompted.
-2. Select your preferred contact method from the provided options.
-3. Share any suggestions or comments you have about our customer loyalty program.
-4. Indicate your preferred email contact method.
-5. Provide your phone number (this is a required field).
-6. If you're willing to share, provide your address and select your age range.
-7. Select your gender.
-8. Record the time you last completed a survey (optional, but greatly appreciated).
-
-Please note that some fields may not be required, but providing as much information as possible will greatly help us to better understand your needs and preferences.
-</thinking>
-
 # Customer Loyalty Program Feedback Poll - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The Fitness Weekly Check In Form is a tool for health coaches to gather information from their clients about their fitness goals, progress, and habits. This form is meant to be completed weekly, allowing health coaches to monitor their clients' fitness journey and provide guidance and support. The form should not be completed daily, as it is intended to capture the client's overall progress and goals for the week. 
-</thinking>
-
 # Fitness Weekly Check In Form - Help Guide
 
 ## Purpose

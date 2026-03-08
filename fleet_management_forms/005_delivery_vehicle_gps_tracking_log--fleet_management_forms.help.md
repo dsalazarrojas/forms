@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to track and record the GPS tracking log of vehicles, ensuring accurate delivery vehicle management. This includes capturing relevant details such as vehicle status, driver ID, start and end locations, GPS coordinates, vehicle condition, and delivery status. The form's output should help administrators make informed decisions about vehicle management and ensure efficient logistics operations.
 
 </thinking>

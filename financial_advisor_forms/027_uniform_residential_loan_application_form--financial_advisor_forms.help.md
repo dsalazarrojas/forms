@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this Uniform Residential Loan Application Form, I'll analyze the form's purpose and field structure. The form appears to be a loan application form designed for individuals or co-borrowers seeking a residential loan. The fields are primarily concerned with collecting contact, property, employment, income, and credit information from both the borrower and co-borrower. The form likely serves as a starting point for evaluating loan eligibility and assessing creditworthiness.
-
-</thinking>
-
 # Uniform Residential Loan Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for a residential loan application. It gathers contact, property, employment, income, and credit details from both the borrower and co-borrower. Please fill out the form accurately and completely to help us better understand your financial situation and facilitate the loan application process.

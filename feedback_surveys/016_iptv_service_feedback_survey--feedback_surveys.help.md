@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "iptv_service_feedback_survey", is to collect feedback from users regarding their experience with IPTV services. This form aims to gather information on various aspects of the IPTV service, including the quality of channels, content, and service provided. It also includes fields for rating the frequency of watching IPTV, satisfaction level, and potential areas of improvement. By collecting this feedback, the IPTV provider can identify areas of strength and weakness in their service and make informed decisions to enhance the overall user experience.
-
-To avoid duplication of feedback, please note that if you have already provided feedback on this form, your responses will not be recorded.
-
-</thinking>
-
 # iptv_service_feedback_survey - Help Guide
 ## Purpose
 The "iptv_service_feedback_survey" form is designed to gather feedback from users about their experience with IPTV services. It aims to collect information on various aspects of the service, including channel quality, content, and service provided.

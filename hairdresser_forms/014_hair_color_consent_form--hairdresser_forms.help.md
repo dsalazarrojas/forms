@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent for hair color treatment from clients or customers. The form aims to obtain informed consent regarding the type of hair color treatment they are receiving and any specific details about the treatment, such as the type of treatment used. It also captures the date of consent and allows the user to sign the form, indicating they have given consent. The purpose of this form is to ensure that clients or customers are aware of the hair color treatment they are receiving and have agreed to it.
-</thinking>
-
 # Hair Color Consent Form - Help Guide
 ## Purpose
 This form is intended to be used by hairdressers or beauty professionals to obtain informed consent from clients or customers prior to providing hair color treatment. The form ensures that clients understand the type of treatment they are receiving and have given their consent.

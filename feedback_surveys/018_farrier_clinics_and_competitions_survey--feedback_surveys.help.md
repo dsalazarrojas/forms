@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Farrier Clinics And Competitions Survey" form. This guide will help end-users understand the form's purpose, how to complete it, and each field's meaning. The form appears to be designed to collect feedback from participants in Farrier Clinics And Competitions, gathering information on their experience with the event.</thinking>
-
 # Farrier Clinics And Competitions Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from participants in Farrier Clinics And Competitions. Your responses will help us understand your experience with the event, allowing us to improve and refine our future events. Your input is valuable, and we appreciate your time in completing this survey.

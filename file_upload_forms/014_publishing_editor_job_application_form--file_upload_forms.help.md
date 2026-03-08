@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to help publishing editors apply for a job position. The form should be used by interested individuals to express their interest in the position and provide necessary information about themselves. Before proceeding with the form, please ensure that you are applying for this specific job position to avoid duplicate submissions. Please note that this form does not guarantee consideration for the position.
-</thinking>
-
 # Publishing Editor Job Application Form - Help Guide
 ## Purpose
 The Publishing Editor Job Application Form is designed to collect relevant information from interested publishing editors to consider for a job position. Please use this form to express your interest in the job and provide necessary details about yourself.

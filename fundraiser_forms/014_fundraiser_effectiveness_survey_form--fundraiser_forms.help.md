@@ -1,7 +1,3 @@
-<thinking>
-The Fundraiser Effectiveness Survey Form is designed to gather information about the success and impact of a fundraising event held by an organization. This form helps to evaluate the event's effectiveness in achieving its fundraising goals, identify areas for improvement, and inform future fundraising strategies. To avoid duplication, the form should only be used for events that have already been conducted. The survey is meant to be completed by the event organizers or those who were directly involved in the event.
-</thinking>
-
 # Fundraiser Effectiveness Survey Form - Help Guide
 ## Purpose
 

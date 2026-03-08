@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # office_feedback_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on the current office environment and facilities to help identify areas of improvement and make informed decisions to enhance the work experience.

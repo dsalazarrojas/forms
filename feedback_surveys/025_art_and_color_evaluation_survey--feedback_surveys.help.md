@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to gather information about the viewer's opinion on artistic and color evaluation of a given artwork. This survey is designed to collect data on the viewer's emotional response, understanding, and overall assessment of the artwork, as well as their feedback on color harmony and balance, preference, and originality.
-
-Before completing this form, please note that the form is divided into several sections, each focusing on different aspects of the artwork. You will be asked to provide your personal information (name and email), age group, and date of survey completion. Then, you will be asked to evaluate the artwork based on its visual impact, emotional response, and understanding of the message. After that, you will be asked to provide feedback on color harmony, balance, and preference. Finally, you will be asked to provide an overall assessment of the artwork, including your rating and recommendation.
-
-Please make sure to answer each question based on your genuine feelings and thoughts about the artwork. If you have any additional comments or suggestions, feel free to provide them in the designated fields.
-
-Also, please note that the form is designed to be self-explanatory, so you should be able to fill it out without any additional guidance. However, if you have any questions or need further clarification on any of the questions, you can always reach out to us for support.</thinking>
-
 # Art And Color Evaluation Survey - Help Guide
 ## Purpose
 The Art And Color Evaluation Survey is designed to gather information about the viewer's opinion on artistic and color evaluation of a given artwork.

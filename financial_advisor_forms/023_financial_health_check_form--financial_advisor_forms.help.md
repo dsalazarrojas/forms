@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for financial professionals to conduct a regular health check on clients' financial well-being. The form aims to gather relevant information about the client's income, expenses, savings, investments, and other financial aspects. This guide is designed to help users understand how to complete the form correctly and effectively.
-
-Before completing the form, ensure that you have the necessary information and permissions to do so. This form is not intended for duplicate or unnecessary uses.
-
-</thinking>
-
 # financial_health_check_form - Help Guide
 ## Purpose
 The financial health check form is designed to gather information about a client's financial situation. It is essential to provide accurate and honest answers to help financial advisors offer tailored advice and guidance.

@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to be used by clients or customers to understand the purpose and requirements of the form "Nutrition Coaching Service Agreement" within the "health_coach_forms" category. The purpose of this guide is to ensure that clients understand how to complete the form accurately and effectively, as well as what each field represents, to ensure a smooth and informed experience.
-
-Before creating this guide, ensure that the client understands the form's purpose and its relevance to their needs. This guide should not duplicate information already provided in other materials, such as the form's label or hints.
-
-To confirm the form's purpose and relevance, review the "inputSchema" field to determine the form's structure and requirements. This guide will focus on making the form accessible to end-users by clearly explaining each field and its intended use.
-
-The goal of this guide is to make the client experience more enjoyable and efficient by providing clear explanations for each field, ensuring they can focus on the essential information required for the "Nutrition Coaching Service Agreement" form.
-
-</thinking>
-
 # Nutrition Coaching Service Agreement - Help Guide
 ## Purpose
 The "Nutrition Coaching Service Agreement" form is a document that clients use to express their agreement to the terms and conditions of the nutrition coaching service provided by the health coach. It ensures that the client understands and acknowledges the service's terms, including their responsibilities and expectations.

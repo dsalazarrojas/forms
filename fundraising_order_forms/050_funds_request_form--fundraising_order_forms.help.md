@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who want to submit a funds request to a specific team or organization. The purpose of the form is to provide information about the user's institution, financial needs, and other relevant details. Please note that this form is only to be filled out for a specific purpose and should not be used for any other reason. If you are unsure about the purpose of this form, please contact the relevant team or organization directly.
-</thinking>
-
 # Funds Request Form - Help Guide
 ## Purpose
 The Funds Request Form is designed to gather information about your institution's needs and requirements for financial support. This form should be used for official purposes only, such as submitting a request for funds to a specific team or organization.

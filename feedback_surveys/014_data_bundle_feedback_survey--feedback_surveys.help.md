@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form used to collect feedback from customers about data bundles. The purpose of this form is to gather information about customers' experiences with data bundles, including their name, email, rating, and feedback. This form should be used by customers to provide their input on how they perceive the quality and usefulness of data bundles.
-</thinking>
-
 # Data Bundle Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about data bundles. It is meant to gather information about the customer's experience and perception of data bundles, allowing us to improve our services.

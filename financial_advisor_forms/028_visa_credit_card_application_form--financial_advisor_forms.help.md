@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal and financial information from the user to assess their creditworthiness for a visa credit card application. The form will be used to determine the user's credit history, income, and employment status to make informed decisions about their credit card application. This form will help the financial institution gather necessary information to evaluate the user's creditworthiness and provide relevant offers or rejections for the credit card application.
-
-It's essential to ensure that the user has a clear understanding of what information is required and how to complete each field correctly to avoid misunderstandings or errors. The form's purpose is not to create any unnecessary or duplicate records. All required fields will be clearly marked to avoid missing critical information.
-
-The form will be used to collect information on personal identification, financial history, and other relevant details. This form is intended for users who are applying for a visa credit card.
-
-Please note that the form is designed to collect sensitive information, so please ensure that the user understands the importance of providing accurate and secure information.
-</thinking>
-
 # Visa Credit Card Application Form - Help Guide
 ## Purpose
 The Visa Credit Card Application Form is designed to collect personal and financial information from the user to assess their creditworthiness for a visa credit card application.

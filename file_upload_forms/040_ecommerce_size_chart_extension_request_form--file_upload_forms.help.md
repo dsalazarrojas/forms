@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for ecommerce size chart extension requests. This form is intended for individuals or teams responsible for managing size charts for online products, allowing them to submit requests for updating size charts. This form is not affiliated with any specific form platform and is an original adaptation created for public use. The information collected through this form will help in organizing and prioritizing size chart extension requests.
-
-</thinking>
-
 # ecommerce_size_chart_extension_request_form - Help Guide
 ## Purpose
 The ecommerce size chart extension request form is a tool for submitting size chart extension requests. It helps in gathering necessary information from users to efficiently manage and prioritize size chart updates.

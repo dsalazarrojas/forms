@@ -1,7 +1,3 @@
-<thinking>
-The Hero T Shirt Order Form is designed to gather information for ordering t-shirts for fundraising purposes. This form captures details such as customer name, contact information, shirt preferences, and order specifics. It's crucial to carefully complete this form accurately to ensure proper order processing and fulfillment. Please ensure you are completing this form for the correct purpose and do not submit duplicate forms. If you're unsure about any field, consider consulting the form's fields explanations.
-</thinking>
-
 # Hero T Shirt Order Form - Help Guide
 ## Purpose
 The Hero T Shirt Order Form is designed to collect information for ordering t-shirts for fundraising purposes. This form is used to gather customer details, shirt preferences, and order specifics.

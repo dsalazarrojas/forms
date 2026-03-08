@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information about project submissions for tech competitions. It is designed to be a submission form for teams to provide details about their projects, including any potential issues they may have encountered during the submission process.
-
-The form was generated using AI and is an original adaptation of publicly available metadata from tech competition projects. It is not affiliated with or endorsed by any specific platform, and its content is released under a Creative Commons BY 4.0 license.
-
-This guide is intended to help users understand the purpose and requirements of the form, and to provide clear explanations of each field.
-
-</thinking>
-
 # Tech Competition Project Submission Form - Help Guide
 ## Purpose
 The Tech Competition Project Submission Form is designed to collect project submission information from teams competing in tech competitions. This form is a simple and straightforward way to gather details about each project, including any potential issues that may have arisen during the submission process.

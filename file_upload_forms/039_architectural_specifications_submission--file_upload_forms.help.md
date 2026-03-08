@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Architectural Specifications Submission - Help Guide
 ## Purpose
 This form is designed to collect architectural specifications from submitters, including submitter information, project details, and specification document upload. It ensures that all required information is accurately and thoroughly documented for review and approval purposes.

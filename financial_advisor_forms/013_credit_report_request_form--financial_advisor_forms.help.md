@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Credit Report Request Form - Help Guide
 ## Purpose
 The Credit Report Request Form is a tool for users to request a credit report. This form helps gather necessary information to process a credit report efficiently and accurately. To avoid duplication, please ensure that you do not submit the same request multiple times. This form is intended for individuals who require a credit report for various reasons, such as applying for loans, obtaining credit, or understanding their credit score.

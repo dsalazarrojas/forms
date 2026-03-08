@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect data on the safety assessment of cytotoxic drugs. The form is designed to gather information on the presence or absence of certain factors related to the administration and handling of these drugs. This form is used to help healthcare professionals make informed decisions about patient safety. It's essential to ensure that this form is completed accurately and thoroughly to prevent errors and ensure patient well-being.
-
-This form should only be used in the context of cytotoxic drug safety assessments. Using this form in other contexts may lead to incomplete or inaccurate data, which can compromise patient safety.
-
-Please note that some of these fields may seem redundant or unnecessary, but they are designed to cover all possible scenarios related to cytotoxic drug safety assessments. Please ensure that all fields are completed accurately and thoroughly.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # cytotoxic_drug_safety_assessment - Help Guide
 ## Purpose
 This form is used to collect data on the safety assessment of cytotoxic drugs. It's essential to ensure that this form is completed accurately and thoroughly to prevent errors and ensure patient well-being.

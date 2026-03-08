@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data for users to track their daily food consumption and monitor their calorie intake. The form is designed to be user-friendly and easy to use, with a clear and concise layout that guides the user through the inputting process. 
-
-Before proceeding, it's essential to ensure that the form is being used for its intended purpose and not for any other reason, to avoid duplication of efforts and potential errors. 
-
-</thinking>
-
 # Food Calorie Tracking Log - Help Guide
 ## Purpose
 The Food Calorie Tracking Log is a form designed to help users monitor and record their daily food consumption, providing a clear and concise way to track calorie intake over time.

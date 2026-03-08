@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and function of the "Specialist Care Model Assessment" form. The form is designed to collect information about specialist care models, which are specialized care plans or programs tailored to meet the unique needs of individuals or populations. This form should only be completed by those authorized to access it, and users must ensure they have the necessary permissions and approvals before filling out the form.
-
-Please note that this form has not been officially affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata as inspiration.
-
-Before proceeding, ensure you have reviewed this guide to understand each field's purpose and requirements. If you're unsure about any field, please reach out to the contact information provided for further clarification.
-
-</thinking>
-
 # Specialist Care Model Assessment - Help Guide
 ## Purpose
 The "Specialist Care Model Assessment" form is designed to collect information about specialist care models. This form will help healthcare professionals and organizations evaluate and optimize their care plans and programs.

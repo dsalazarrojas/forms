@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback on the remote onboarding experience of new hires. The form is designed to gather information on the effectiveness of the onboarding process, the manager's rating and comment, and any additional feedback or suggestions from the new hire. The form will help the organization to identify areas of improvement in the onboarding process and make data-driven decisions to optimize it.
-
-To avoid duplication, we will use the data collected from this form to supplement existing feedback data, if any.</thinking>
-
 # Remote Onboarding Experience Survey - Help Guide
 ## Purpose
 This form is used to collect feedback on the remote onboarding experience of new hires.

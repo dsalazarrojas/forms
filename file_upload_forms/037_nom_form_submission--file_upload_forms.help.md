@@ -1,5 +1,3 @@
-<thinking>Before we dive into the user-facing help guide for the "NOM Form Submission" form, let's break down the purpose and requirements of the form internally. The form appears to be a comprehensive submission form that captures various information related to file uploads. It includes fields for files, file names, sizes, types, and descriptive information about the submitter, such as their contact details, role, and designation. The form seems to be designed for users to provide details about files they are uploading, possibly for administrative or regulatory purposes. We should ensure that the form's purpose is clear and that users understand what information is being requested and why. We should also check that the form is not being used for multiple purposes, to prevent confusion or duplication of effort.</thinking>
-
 # NOM Form Submission - Help Guide
 ## Purpose
 The "NOM Form Submission" is a comprehensive form designed to capture details about file uploads, including metadata about the files and information about the submitters. This form is intended to gather information for administrative or regulatory purposes.

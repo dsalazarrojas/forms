@@ -1,5 +1,3 @@
-<thinking>As we need to create a user-facing help guide for the Covid 19 Hazard Assessment Checklist form, let's break down the purpose and requirements of the form first.</thinking>
-
 # Covid 19 Hazard Assessment Checklist - Help Guide
 ## Purpose
 The Covid 19 Hazard Assessment Checklist is a form designed to help assess and identify potential hazards related to Covid 19 in the workplace. This form is intended to be completed by employees, health coaches, or supervisors to document and evaluate the effectiveness of prevention and mitigation measures against Covid 19 hazards.

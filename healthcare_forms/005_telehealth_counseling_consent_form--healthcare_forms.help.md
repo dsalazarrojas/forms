@@ -1,11 +1,3 @@
-<thinking>
-## Purpose
-This form is intended for telehealth counseling sessions. It is designed to obtain patient and provider information, as well as to provide a means of obtaining consent from patients before a session begins. 
-
-The form is meant to ensure that the necessary data is collected and that the patient is aware of the scope of the session, the limits of confidentiality, and the potential risks and benefits. It is also a means to ensure that the provider can document the session's progress and the patient's feedback.
-
-Please make sure that this form is relevant and not duplicated before filling it out.
-</thinking>
 # telehealth_counseling_consent_form - Help Guide
 ## Purpose
 ## How To Complete This Form

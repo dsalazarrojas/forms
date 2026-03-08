@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for players in a Mafia Game to submit accusations against other players. The purpose of this form is to provide a structured way for players to report suspected cheaters or rule breakers in the game. This form is not affiliated with, endorsed by, or derived from any form platform, but rather a original adaptation created using AI. The form is released under CC BY 4.0 and can be used, modified, and distributed freely. The form has multiple pages with various fields for submitting information, and the instructions below will guide you through its completion.
-</thinking>
-
 # Mafia Game Accusation Form - Help Guide
 ## Purpose
 This form is designed for players in a Mafia Game to submit accusations against other players.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for assessing a patient's concentration and energy levels for health screening purposes. It appears to be designed to collect information on a patient's sleep quality, daily energy levels, concentration ability, and other relevant factors. The form is likely used by healthcare professionals to evaluate a patient's well-being and provide personalized guidance or referrals. Before proceeding, ensure that this form is not a duplicate or outdated version. If you're unsure, please verify with your organization's policies and guidelines.
-
-</thinking>
-
 # Concentration And Energy Assessment - Help Guide
 ## Purpose
 The Concentration And Energy Assessment form is a tool used by healthcare professionals to evaluate a patient's concentration and energy levels. This assessment helps identify areas of concern and provides a basis for recommendations or referrals for further treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with fly fishing equipment. The purpose of this form is to gather information from users about their satisfaction with the equipment they used and any issues they encountered during their fishing trip. This form is intended for internal use by the company providing the equipment, and the information collected will help inform product development and improvement decisions.
-</thinking>
-
 # Fly Fishing Equipment Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with fly fishing equipment.

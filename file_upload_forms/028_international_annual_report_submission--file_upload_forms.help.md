@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the International Annual Report Submission. This form is used by authorized personnel to upload and submit reports on a specific date. 
-The form must not be used for any other purpose than the one mentioned above.
-</thinking>
-
 # international_annual_report_submission - Help Guide
 ## Purpose
 This form is used to collect information for the International Annual Report Submission.

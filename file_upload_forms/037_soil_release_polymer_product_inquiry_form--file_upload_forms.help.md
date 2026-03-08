@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting soil release polymer product inquiries. It is used for customers or internal stakeholders to provide information about their polymer product needs and requirements. This form is not intended for general product inquiries, but rather for specific polymer products. It is recommended that users fill out all required fields for accurate submission.
-</thinking>
-
 # soil_release_polymer_product_inquiry_form - Help Guide
 ## Purpose
 This form is used to gather information about soil release polymer product inquiries. It is designed to collect relevant details from customers or internal stakeholders to better understand their needs and requirements for specific polymer products.

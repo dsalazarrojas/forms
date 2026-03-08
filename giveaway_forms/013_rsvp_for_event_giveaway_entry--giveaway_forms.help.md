@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "rsvp_for_event_giveaway_entry" form, which is used to collect RSVP and contact information for event attendees who are interested in entering a giveaway. The form is designed to ensure that the event organizers can get the right contact details and preferences from interested attendees in a single, streamlined process.
-
-Before filling out the form, please make sure you are only entering yourself or the person you are RSVPing for once. If you are already entered for the giveaway or you have RSVPed for a different event, your entry will be invalid. If you're unsure, please contact the event organizer to confirm.
-
-This form is divided into multiple pages, with each page focusing on different aspects of the entry. The form is intended for event attendees who are interested in entering the giveaway, and is not a general RSVP form for the event.
-
-</thinking>
-
 # rsvp_for_event_giveaway_entry - Help Guide
 ## Purpose
 This form is used to collect RSVP and contact information for event attendees who are interested in entering a giveaway.

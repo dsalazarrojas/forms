@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Barber Shop Products Order Form - Help Guide
 ## Purpose
 This form is used to collect information from barbershops for ordering products such as hair care tools, shaving products, and other related items. It helps us track and fulfill orders accurately.

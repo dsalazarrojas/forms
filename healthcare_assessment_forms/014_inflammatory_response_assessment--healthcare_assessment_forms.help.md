@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the inflammatory response in a patient. The primary purpose of this form is to collect relevant information about the patient's general information, contact information, symptoms and history, health conditions, medications, allergies, medical record number, contact preference, email, phone number, and medical conditions. This form is likely used in the healthcare industry to gather data for medical professionals to better understand and diagnose patients with inflammatory responses.
-
-Before proceeding, please check if this form is relevant to your context. If you have filled out this form before, please ensure that you are not duplicating your efforts.
-
-This form appears to be a straightforward assessment of various health-related topics. Please ensure that you only submit accurate and relevant information.
-
-Please review the field explanations below to ensure you understand what each field entails. If you have any questions or concerns, contact form@gic.mx.
-</thinking>
-
 # Inflammatory Response Assessment - Help Guide
 ## Purpose
 

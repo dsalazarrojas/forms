@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for artists and performers to submit their videos to the platform for review and consideration. The purpose of this form is to collect information about the artist and their video, including their contact details, video metadata, and submission agreement.
-
-The form is structured into sections, each with a clear label and description. The artist must complete the form to provide their details and video information, which will then be reviewed and considered for further action.
-
-The form is composed of 25 fields, including text, email, phone number, website, and social media links, as well as video metadata such as title, description, type, and duration. Additionally, the artist can choose to upload their video file or provide a link to it on YouTube or Vimeo.
-
-The form requires the artist to confirm that they own the rights to the video and agree to the submission terms. This ensures that the platform can handle the submitted content in a responsible and compliant manner.
-
-</thinking>
-
 # Artist Video Submission Form - Help Guide
 ## Purpose
 This form is designed for artists and performers to submit their videos to the platform for review and consideration.

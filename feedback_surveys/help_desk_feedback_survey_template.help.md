@@ -1,8 +1,3 @@
-<thinking>
-We're checking if this form is relevant to your needs. If not, please let us know so we can improve our form generation algorithms.
-This form is a feedback survey designed to gather insights from customers and users to improve our help desk service and user experience. It aims to collect opinions on the overall satisfaction, issue resolution time, help desk agent interaction, and clarity of resolution provided. By providing feedback, you'll help us identify areas for improvement and make the help desk experience more efficient and helpful.
-</thinking>
-
 # help_desk_feedback_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers and users to improve our help desk service and user experience.

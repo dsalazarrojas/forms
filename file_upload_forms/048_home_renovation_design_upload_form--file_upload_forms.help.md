@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about home renovation project designs. The purpose of this form is to upload and collect project details, including file type, size, and relevant design information. The form is meant for internal use by the design team and will not be publicly accessible. It is essential to fill in the form correctly to ensure that the uploaded file is correctly identified and attributed to the relevant project and designer. Please double-check the form fields to avoid duplication and ensure accurate submission.
-</thinking>
-
 # home_renovation_design_upload_form - Help Guide
 
 ## Purpose

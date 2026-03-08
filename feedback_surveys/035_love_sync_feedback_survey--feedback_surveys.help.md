@@ -1,7 +1,3 @@
-<thinking>
-The "love_sync_feedback_survey" form is used to collect feedback and ratings from users about their experience with a product or service. This form is designed to gather user satisfaction, feature preferences, and improvement ideas to help the product team understand the user's needs and preferences.
-</thinking>
-
 # love_sync_feedback_survey - Help Guide
 ## Purpose
 The "love_sync_feedback_survey" form is a feedback and rating survey used to collect information about the user's experience with the product or service. This form is designed to help the product team understand user satisfaction, feature preferences, and improvement ideas.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Respiratory Assessment Form - Help Guide
 ## Purpose
 The Respiratory Assessment Form is used to gather information about a patient's respiratory health and medical history. This form helps healthcare professionals assess the patient's respiratory status, identify potential respiratory issues, and determine the need for further medical evaluation or intervention.

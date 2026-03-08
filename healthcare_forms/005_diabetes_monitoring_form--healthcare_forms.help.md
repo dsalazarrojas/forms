@@ -1,20 +1,3 @@
-<thinking>
-
-This form, "diabetes_monitoring_form", is designed to collect data on an individual's health metrics and habits related to diabetes monitoring. The purpose of this form is to gather essential information from healthcare providers, patients, or caregivers to track and manage the condition's progression. This form is typically used for monitoring blood sugar levels, blood pressure, weight, medication schedules, and dietary habits.
-
-By filling out this form, users can:
-
-* Track blood sugar levels and frequency of monitoring
-* Record blood pressure readings and units used
-* Monitor weight and its frequency of measurement
-* Record medication schedules, dosages, and side effects
-* Log dietary habits and frequency of consumption
-* Document exercise routines and frequency
-
-This form is an essential tool for healthcare professionals to understand an individual's diabetes condition, identify patterns, and provide personalized advice.
-
-</thinking>
-
 # diabetes_monitoring_form - Help Guide
 ## Purpose
 ## How To Complete This Form

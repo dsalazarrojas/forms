@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Neurodiversity Program Feedback Survey - Help Guide
 
 ## Purpose

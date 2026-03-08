@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are seeking a personalized fitness and nutrition plan. Before completing this form, please ensure you are not duplicating information or seeking the same service recently. If you are unsure about the purpose of this form or the questions it asks, please clarify with your fitness or nutrition professional.
-</thinking>
-
 # Personalized Fitness And Nutrition Plan Request - Help Guide
 ## Purpose
 This form is designed to help you get a tailored fitness and nutrition plan based on your specific goals, needs, and preferences.

@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's analyze the form and its purpose. This form appears to be a subscription order form, which is used to collect information from customers or users to process their subscription orders. It includes fields for personal details, subscription plans, billing information, and order notes.</thinking>
-
 # Subscription Order Form - Help Guide
 ## Purpose
 The Subscription Order Form is used to collect and process subscription orders from customers or users. Please fill out the form accurately to ensure a smooth and efficient subscription process.

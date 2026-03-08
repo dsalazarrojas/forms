@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students regarding their loan repayment status and payment method. It ensures that the institution has a clear understanding of the student's financial status, enabling them to provide the necessary support and resources. Please note that this form should only be filled out for students who have an outstanding loan balance. If you have already completed this form, there will be no need to redo it. If you have questions or concerns, please don't hesitate to reach out to your Financial Aid Office.
-</thinking>
-
 # Loan Repayment Form - Help Guide
 ## Purpose
 The loan repayment form is a tool to help the institution track and manage student loan repayment information. It is essential to have this information to provide accurate financial aid and support to students.

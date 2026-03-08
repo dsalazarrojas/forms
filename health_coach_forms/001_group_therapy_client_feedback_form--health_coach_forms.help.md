@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by clients to provide feedback and suggestions to the therapy team. The purpose of this form is to gather information about the client's experience, satisfaction, and feedback. This form is only to be filled out by clients who are participating in group therapy sessions. 
-
-Before completing this form, please ensure that you have received a link to this form and that you are filling it out as a client in a group therapy session. 
-
-</thinking>
-
 # group_therapy_client_feedback_form - Help Guide
 ## Purpose
 This form is used by clients to provide feedback and suggestions to the therapy team. 

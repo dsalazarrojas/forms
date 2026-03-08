@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for project managers and team members to submit receipts associated with specific projects. Each receipt should be related to a project, and the form aims to collect relevant information about the project and the receipt.
-</thinking>
-
 # Receipt Submission For Projects - Help Guide
 ## Purpose
 This form is for project managers and team members to submit receipts related to specific projects. Each receipt should be associated with a project, and the form aims to collect relevant information to help manage project resources effectively.

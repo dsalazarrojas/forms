@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Announcement Submission Form - Help Guide
 
 ## Purpose

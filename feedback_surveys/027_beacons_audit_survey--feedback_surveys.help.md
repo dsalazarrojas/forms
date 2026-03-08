@@ -1,11 +1,3 @@
-<thinking>Before creating a user-facing help guide, I'll provide some internal reasoning to clarify the form's purpose and check for relevance and non-duplication. This form is designed to gather feedback from users about their experience with beacons. It's likely intended to gather data on the effectiveness, reliability, and usability of beacons in various settings. This form might be used to inform product development, sales, or marketing teams about the user's expectations and experiences, helping them to improve and refine their offerings. Given the variety of fields, it seems the form aims to cover different aspects of beacon usage, from user engagement to technical considerations.
-
-To avoid duplication, I'll review the fields for any obvious repetition or overlap. Upon reviewing the fields, I noticed that "signal_reliability" and "battery_life_satisfaction" both deal with quality-related aspects of beacons. However, "signal_reliability" is more focused on the signal quality, while "battery_life_satisfaction" is about the user's experience with the beacons' batteries. These two fields are distinct enough to not be considered a duplication.
-
-Another potential overlap is between "would_recommend" and "future_plans". Both questions seem to be about the user's opinion about beacons. However, "would_recommend" is more about recommending the technology to others, while "future_plans" is about the user's future plans regarding beacon technology. While related, these are separate concerns and not a duplication.
-
-The other fields cover a good spread of topics, including user engagement, technical considerations, and future plans, which makes this form a comprehensive tool for gathering feedback.</thinking>
-
 # Beacons Audit Survey - Help Guide
 ## Purpose
 The Beacons Audit Survey is designed to gather your feedback on your experience with beacons. This form will help us understand how you use beacons, what you like or dislike about them, and how we can improve our product.

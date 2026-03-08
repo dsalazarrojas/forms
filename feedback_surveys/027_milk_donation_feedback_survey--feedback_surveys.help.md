@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system for tracking and analyzing feedback from milk donors. The purpose of this form is to collect information about the donor's experience, satisfaction, and plans for future donations. The form will likely be filled out by milk donors who have previously donated milk through the system and are being asked to provide feedback on their experience. This form should not be filled out by individuals who have not previously donated milk, as their feedback would not be relevant to the system's analysis. Additionally, the form should not be filled out multiple times by the same individual, as this could skew the data and lead to inaccurate conclusions.
-</thinking>
-
 # Milk Donation Feedback Survey - Help Guide
 
 ## Purpose

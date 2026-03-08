@@ -1,23 +1,3 @@
-<thinking>
-The form is meant for users to renew their driver's license. A valid driver's license is required for various activities such as driving a car, operating a motorcycle, or in some cases, operating a commercial vehicle. In the United States, driver's licenses are typically required for individuals who operate a vehicle, especially for those who drive a vehicle with a commercial license. This form is used to collect information from users to determine whether their license can be renewed. The form is likely used by authorities such as DMV (Department of Motor Vehicles) or equivalent agencies. 
-
-This form is likely used by individuals who need to renew their license due to its nearing expiration or due to certain life events such as changing address or employment. It is likely used by citizens who are eligible to renew their license and are not new applicants. The form is likely used in conjunction with other forms or documentation.
-
-The form asks the user for the following information: 
-1. Current license type (driver's license, vehicle license, or other)
-2. Name as it appears on the license
-3. Date of birth
-4. Current address
-5. Whether or not the user has any outstanding traffic offenses
-6. Number of years the user has held this license
-7. Date of last license renewal
-8. Contact number (optional)
-9. Whether or not the user has experienced new addresses or employment changes (optional)
-10. Whether or not the user has been involved in any traffic accidents since the last license renewal (optional)
-11. License renewal date
-12. Additional comments
-</thinking>
-
 # Licence Renewal Form - Help Guide
 ## Purpose
 This form is used to collect information to determine whether your driver's license is eligible for renewal. Please fill out the form with your current information and any relevant details about your license and traffic history.

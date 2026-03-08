@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the energy efficiency of a vehicle or vehicle fleet. The purpose of this form is to gather information about the vehicle's performance, fuel usage, and other relevant details. This data will be used to analyze and improve the energy efficiency of the vehicle or fleet. Please ensure that you are filling out this form for the correct vehicle or fleet, as it will affect the accuracy of the data collected. If you are unsure or have already filled out this form for the same vehicle or fleet, please do not fill it out again. The form will guide you through the necessary steps to provide the required information.
-</thinking>
-
 # Fleet Energy Efficiency Report Form - Help Guide
 ## Purpose
 The Fleet Energy Efficiency Report Form is designed to collect data on the energy efficiency of a vehicle or vehicle fleet. This data will be used to analyze and improve the energy efficiency of the vehicle or fleet.

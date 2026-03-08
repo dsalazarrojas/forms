@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a specific interface. It's a survey that aims to gather opinions and suggestions on the usability, design, and overall experience of the interface. To ensure that the form is filled out correctly, the user should be able to complete it in a way that reflects their genuine opinion on the interface.
-</thinking>
-
 # User Interface Feedback Survey - Help Guide
 
 ## Purpose

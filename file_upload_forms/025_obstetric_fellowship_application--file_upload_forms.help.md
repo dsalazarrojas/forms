@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by end-users, and that the information provided is accurate and relevant. This form is for the obstetric fellowship application, and it's essential to fill it out carefully to ensure that the application process is efficient and effective. Please make sure to read through the form carefully and provide accurate information to avoid duplication of efforts.
-</thinking>
-
 # obstetric_fellowship_application - Help Guide
 ## Purpose
 The Obstetric Fellowship Application form is designed to collect information about obstetric fellowships. This form helps to gather data on various aspects of the fellowship, including its location, duration, status, and description. Fill out this form accurately to ensure that the application process is efficient and effective.

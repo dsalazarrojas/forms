@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to help users understand the purpose and completion of the Lunch Menu Pre Order Form. The form is used to collect information for a pre-order from customers for a lunch menu. It is essential that users complete this form accurately to ensure a smooth order processing and delivery process. Please note that the form is not intended for actual order placement but rather for providing information for the order. If you need to place an order, please contact our ordering department.
 
 # Lunch Menu Pre Order Form - Help Guide

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture information related to the workflow and documentation of a chest X-ray examination. The purpose of this form is to ensure that all necessary information is captured and documented for each examination, including patient details, examination details, and quality control parameters. This form is intended to be used by radiology technologists and radiologists to document and track the status of chest X-ray examinations.
-
-The form captures information such as patient name, patient ID, and date of birth, as well as examination details like exam date, exam time, and exam type. It also includes fields for capturing the quality of acquired images, whether contrast was used, and the equipment used during the examination. The form also captures information on patient positioning, any adverse events that occurred during the examination, and the status of the workflow.
-
-This form is designed to be filled out in conjunction with the acquisition of each X-ray image, and is intended to be used for quality control and tracking purposes. It ensures that all necessary information is captured and documented in a consistent and accurate manner, reducing errors and increasing efficiency in the radiology workflow.
-
-Note: Before filling out this form, ensure that you have reviewed the relevant patient records and imaging studies to confirm that all necessary information has been captured. If you are unsure about any information, please consult with the relevant clinical team members or radiologist.
-
-</thinking>
-
 # Chest X Ray Workflow Documentation - Help Guide
 ## Purpose
 The purpose of this form is to capture and document the workflow and examination details for each chest X-ray examination. This form is used to ensure that all necessary information is captured and documented in a consistent and accurate manner.

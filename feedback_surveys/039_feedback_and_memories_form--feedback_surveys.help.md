@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback and testimonials from users about a particular event. The form is used to collect ratings and comments about the event, as well as optional photos, videos, and audio recordings. The form is divided into several sections, and each section is designed to capture specific information about the event. The user will be asked to rate the form itself and the experience, and provide comments about the form and their experience. The form also includes a section to collect consent, which is a critical component of the form. 
-
-The form is meant to be filled out by someone who has attended an event and has some thoughts to share. The user may choose to share a photo, video, or audio recording as part of their feedback, but this is optional. 
-
-The form will ask the user to give consent for their feedback to be shared publicly, which is a required field. If the user does not provide their consent, their feedback will not be shared. The form also allows users to share multiple photos, videos, and audio recordings, but these fields are not required.
-
-When creating the form, it's essential to ensure that each field is filled out correctly to gather the most useful feedback. Each field has been designed to capture specific information about the event, and the user's experience.
-</thinking>
-
 # feedback_and_memories_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and testimonials from users about a particular event.

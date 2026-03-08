@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Organizer Feedback Form - Help Guide
 
 ## Purpose

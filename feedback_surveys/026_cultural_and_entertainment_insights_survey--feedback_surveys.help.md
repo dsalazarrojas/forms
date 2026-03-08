@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information, preferences, and feedback from individuals who participate in arts and entertainment events. The purpose of this form is to gather data that will help event organizers and venue managers better understand their audience and improve their offerings. The form will be used to collect data on event preferences, demographic information, and feedback, which will help us provide better services to our audience.
-</thinking>
-
 # cultural_and_entertainment_insights_survey - Help Guide
 ## Purpose
 The cultural_and_entertainment_insights_survey form is designed to collect information from individuals who participate in arts and entertainment events. This data will help event organizers and venue managers understand their audience better and improve their services.

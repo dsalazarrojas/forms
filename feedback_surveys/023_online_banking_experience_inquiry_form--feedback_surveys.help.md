@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_banking_experience_inquiry_form - Help Guide
 
 ## Purpose

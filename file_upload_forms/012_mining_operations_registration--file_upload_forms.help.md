@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose of this form and checks for duplication before proceeding. The form is meant to gather information about mining operations, including site details, operational status, and supporting documents. It's essential to review the form carefully to avoid duplication of effort and ensure accurate data entry.
-
-To prevent duplication, please check if you have an existing registration for this mining operation. If you're unsure, you can contact our support team for assistance.
-
-Before starting, ensure you have all necessary documents and information ready to provide accurate answers.
-</thinking>
-
 # Mining Operations Registration - Help Guide
 ## Purpose
 This form is designed to collect information about mining operations, including site details, operational status, and supporting documents. It's crucial for us to have accurate and up-to-date information for efficient management and decision-making.

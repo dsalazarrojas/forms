@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for assessing the characteristics of a skin lesion, which is an abnormal growth or blemish on the skin. The form aims to collect information about the size, color, type, location, duration, and other relevant details of the skin lesion. The fields are designed to be completed by a healthcare professional or medical practitioner who is examining the skin lesion.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Skin Lesion Assessment Form - Help Guide
 ## Purpose
 The Skin Lesion Assessment Form is a tool for healthcare professionals to collect and record information about the characteristics of a skin lesion. This form helps identify key features of the lesion and aid in proper diagnosis and treatment.

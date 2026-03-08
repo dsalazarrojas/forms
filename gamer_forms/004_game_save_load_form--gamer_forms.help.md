@@ -1,9 +1,3 @@
-<thinking>
-  This guide aims to provide a clear understanding of the Game Save Load Form, ensuring users complete it successfully and effectively. The form is designed to cater to the needs of gamers who wish to save or load their game progress. The form's primary purpose is to gather information about the game being saved or loaded, such as the game ID, platform, and status. This form will be used in conjunction with other forms, so it's essential to understand its fields correctly to ensure accurate data collection and efficient data management.
-
-To avoid duplication of effort and ensure relevance, this guide will only cover the Game Save Load Form and its specific fields. It is crucial to follow these guidelines to complete the form accurately and make the most out of it.
-</thinking>
-
 # Game Save Load Form - Help Guide
 ## Purpose
 The Game Save Load Form is designed to allow users to save or load their game progress. It gathers information about the game, such as game ID, platform, and status.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a feedback survey intended to gather information from visitors about their experiences during visits to healthcare facilities. It is meant to capture feedback on the quality of the visitor experience, including communication with staff, issues faced during the visit, and overall satisfaction. This form is not intended to be completed by staff members or internal personnel, and its responses should not be used as a basis for employee evaluations or performance metrics. It is designed to provide valuable insights to improve the visitor experience.
-
-</thinking>
-
 # Healthcare Visitor Policy Feedback Survey - Help Guide
 ## Purpose
 The Healthcare Visitor Policy Feedback Survey is a tool used to gather feedback from visitors about their experiences during visits to healthcare facilities. This form is meant to collect information on how well visitors were greeted, the effectiveness of staff communication, and any issues they faced during their visit.

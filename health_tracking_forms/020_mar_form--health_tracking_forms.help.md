@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mar_form - Help Guide
 ## Purpose
 This form is designed for recording medication administration data. It gathers information about patients, medications, and the administration process.

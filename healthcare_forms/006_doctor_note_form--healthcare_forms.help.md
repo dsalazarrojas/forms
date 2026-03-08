@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare professionals about patient visits. The goal is to gather data on the patient's name, the doctor's name, the date of service, and the reason for absence. This form is intended to be used in a medical setting, such as a hospital or clinic.
-
-To ensure the form is being used correctly, it's essential to verify that it's not being used as a template for other unrelated forms. The form was created using AI, but it's an original adaptation and does not contain any proprietary content from other form platforms.
-
-The form can be used in various healthcare settings, and it's released under a Creative Commons BY 4.0 license, allowing users to freely use, modify, and even sell forms derived from it, as long as they give credit.
-
-If you have any questions or concerns about this form, please don't hesitate to contact form@gic.mx.
-
-</thinking>
-
 # Doctor Note Form - Help Guide
 ## Purpose
 This form is designed to collect information from healthcare professionals about patient visits, focusing on essential details such as patient name, doctor name, date of service, and reason for absence.

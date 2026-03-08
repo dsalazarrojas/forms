@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about the gamer's details, upload their game highlights, and collect their consent for featuring their gameplay on the platform. The form is designed for internal use within the organization and will be used to determine which game highlights to feature. The purpose of this form is to ensure that the gamer's privacy and consent are respected, and that they are aware of the terms and conditions of featuring their gameplay.
-</thinking>
-
 # Online Game Demo Highlight Consent Form - Help Guide
 
 ## Purpose

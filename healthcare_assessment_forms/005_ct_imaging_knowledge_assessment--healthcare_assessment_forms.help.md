@@ -1,12 +1,4 @@
-## <thinking>
-
-The purpose of this form is to assess the knowledge and skills of individuals, particularly those in the healthcare industry, specifically in the field of CT imaging. This form will help evaluate their understanding of CT fundamentals, radiation safety protocols, contrast agents, patient positioning, protocol selection, artifact identification, emergency procedures, quality control, and areas requiring improvement. The assessment will cover different aspects of CT imaging knowledge, such as hands-on practice, online modules, classroom instruction, mentorship, and video tutorials.
-
-This form will not be used for commercial purposes and is a free adaptation for non-profit purposes only.
-
-</thinking>
-
-# CT Imaging Knowledge Assessment - Help Guide
+## # CT Imaging Knowledge Assessment - Help Guide
 ## Purpose
 The CT Imaging Knowledge Assessment is a form designed to evaluate the knowledge and skills of healthcare professionals in the field of CT imaging. This form covers various aspects of CT imaging, including CT basics, radiation safety, contrast agents, patient positioning, protocol selection, artifact identification, emergency procedures, quality control, and areas requiring improvement.
 

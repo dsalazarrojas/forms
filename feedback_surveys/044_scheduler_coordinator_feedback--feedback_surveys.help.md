@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scheduler Coordinator Feedback - Help Guide
 ## Purpose
 This form is designed to provide feedback on the performance, communication, and professionalism of the scheduler coordinator. It allows you to give input on how well the coordinator is doing their job and suggest improvements for continuous growth. The form is intended for use by staff members, managers, and supervisors who need to evaluate the coordinator's performance and identify areas for improvement.

@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for the Camper Satisfaction Survey Form, which is designed to collect feedback from campers about their experiences at the camp. The form is used to gauge camper satisfaction with various aspects of the camp, including their overall enjoyment, counselors, activities, food, and facilities. It also includes questions about their experience with counselors, making new friends, and overall feelings of safety at the camp.
-
-When completing this form, please answer the questions honestly and to the best of your ability. Your feedback is valuable to us and will help us improve the camp for future campers.
-
-Please note that some questions may be marked as "optional," but we still encourage you to complete them as they can provide us with more information about your experience.
-
-Also, please be aware that this form is not a survey for every camper, but rather a sample of campers who have expressed interest in providing feedback. If you are not comfortable sharing your feedback, you can simply skip the form.
-</thinking>
-
 # Camper Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from campers about their experience at the camp. It consists of multiple questions that aim to understand their satisfaction levels with various aspects of the camp, such as food, activities, counselors, and facilities.

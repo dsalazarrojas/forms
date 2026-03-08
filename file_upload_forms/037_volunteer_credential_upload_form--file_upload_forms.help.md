@@ -1,7 +1,3 @@
-<thinking>
-This form is used to upload volunteer credentials for verification purposes. The form should only be completed once per volunteer, and the user should not be allowed to upload duplicate credentials for the same volunteer. This form is designed to collect information and attachments from volunteers, and the uploaded files will be stored securely.
-</thinking>
-
 # Volunteer_Credential_Upload_Form - Help Guide
 ## Purpose
 ## How To Complete This Form

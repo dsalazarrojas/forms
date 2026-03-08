@@ -1,7 +1,3 @@
-<thinking>
-The Budget Variance Report Form is used to report on the variance between the original budgeted amount and the actual amount spent for a specific department and reporting period. This form helps in monitoring and tracking deviations from the budgeted amounts and taking corrective actions to address them. The form should not be used for other purposes such as creating new budgets or submitting new requests for funding.
-</thinking>
-
 # Budget Variance Report Form - Help Guide
 ## Purpose
 

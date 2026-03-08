@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Household Hazardous Waste Collection Registration" form. I'll review the form fields to ensure I understand their purpose and relevance to the task at hand. This form appears to be designed for collecting information about hazardous waste collection from households. It seems reasonable to assume this form is meant to register or schedule a collection of hazardous waste materials. Before proceeding, I'll review the form's fields to ensure I don't duplicate any information or explanations.</thinking>
-
 # Household Hazardous Waste Collection Registration - Help Guide
 ## Purpose
 This form is used to register or schedule a collection of hazardous waste materials from households. Please complete this form to provide information about the materials you'd like to dispose of and arrange for their collection.

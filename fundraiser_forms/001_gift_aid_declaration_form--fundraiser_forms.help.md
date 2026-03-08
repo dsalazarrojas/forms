@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the Gift Aid Declaration Form is being used correctly for its intended purpose, which is to declare and manage Gift Aid tax relief on donations to charities. This form is designed to collect necessary information for processing Gift Aid claims. To avoid duplication of effort and potential errors, it's essential to follow this guide carefully.
-
-To complete this form, the user should have a clear understanding of what each field represents and how it relates to the Gift Aid declaration process.
-
-The form is divided into two main categories: donor information and declaration details. The donor information section includes fields for personal details such as first name, last name, and address. The declaration details section includes fields for charity information such as charity name, reference, and gift aid number.
-</thinking>
-
 # Gift Aid Declaration Form - Help Guide
 ## Purpose
 The Gift Aid Declaration Form is used to declare and manage Gift Aid tax relief on donations to charities. This form is required to be completed by individuals who wish to claim Gift Aid on their donations.

@@ -1,15 +1,3 @@
-<thinking>
-
-The form purpose is to provide a structured way for borrowers to submit their loan application information, which can help financial advisors assess their eligibility for loss mitigation programs.
-
-To use this form, borrowers can follow these steps:
-
-1.  On the first page, the borrower will enter their loan application information in the **Loan Application** field.
-2.  On subsequent pages, borrowers will be asked to provide additional information, such as **Borrower Info**, **Income Proof**, **Employment Info**, and **Income History**.
-3.  Please note that the form fields are all text inputs and are meant to be completed with the relevant details requested in each field.
-
-</thinking>
-
 # Loss Mitigation Application Form - Help Guide
 ## Purpose
 The Loss Mitigation Application Form is a structured way for borrowers to submit their loan application information to financial advisors.

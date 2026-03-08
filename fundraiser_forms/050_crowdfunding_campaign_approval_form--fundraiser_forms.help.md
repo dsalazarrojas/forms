@@ -1,9 +1,3 @@
-<thinking> This form is intended for approving crowdfunding campaigns. It is used to collect information about a project, such as its title, budget, start and end dates, project managers, coordinators, and other relevant details. This form aims to ensure that all necessary information is collected to approve a crowdfunding campaign. It is likely used by project administrators or decision-makers to assess the project's viability and make informed decisions.
-
-It is possible that the campaign details will be used for multiple approvals, so please ensure you are filling out all required and optional fields accurately to avoid duplication. This guide is intended to assist you in completing this form correctly and thoroughly.
-
-</thinking>
-
 # Crowdfunding Campaign Approval Form - Help Guide
 ## Purpose
 The Crowdfunding Campaign Approval Form is used to collect and assess the details of a crowdfunding campaign before it is approved for launch.

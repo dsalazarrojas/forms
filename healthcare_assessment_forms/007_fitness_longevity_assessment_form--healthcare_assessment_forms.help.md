@@ -1,7 +1,3 @@
-<thinking>
-We should check that the form is not being duplicated in our internal documentation and that this guide is relevant to the provided YAML. This form seems to be focused on assessing an individual's fitness, nutrition, sleep, stress management, mental health, and overall wellness. The form collects demographic information, fitness level, exercise frequency, nutrition habits, sleep quality, stress management, mental health, physical activity, health goals, medical status, exercise factors, mental factors, social support, overall wellness, health risks, medical conditions, sleep duration, sleep quality, exercise facility, nutrition facility, mental facility, medical facility, and overall score.
-</thinking>
-
 # Fitness Longevity Assessment Form - Help Guide
 ## Purpose
 The Fitness Longevity Assessment Form is designed to evaluate an individual's overall fitness, nutrition, sleep, stress management, mental health, and overall wellness. This form will help assess an individual's health and wellness status.

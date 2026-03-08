@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for internal use only. 
-Please ensure that the survey is relevant to your work and not a duplication of effort. 
-</thinking>
-
 # Winter Apparel Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers on our winter clothing items. It covers various aspects of our winter clothing, including quality, features, relevance, and overall satisfaction. 

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for a GIF (Graphical Information Flow) accessibility assessment, which is used to evaluate the accessibility of images with text alternatives (alternating text) and identify potential flashing or motion risks that may cause seizures or other adverse effects. This form is used to gather data on the accessibility of images and provide suggestions for improvements. It is likely used in the healthcare industry for patients with sensory sensitivities or disabilities.
-
-Please note that this form has 25 fields, which may seem excessive. It is likely that some fields may be redundant or unnecessary. Reviewing the form's fields and content may help to identify and remove any unnecessary fields.
-
-Also, note that the form has a mix of text and multiple-select fields. It is recommended to group fields with similar purposes and use the least amount of fields possible to reduce complexity and improve user experience.
-
-Please review the form carefully and provide feedback on any inconsistencies or issues.
-</thinking>
-
 # gif_accessibility_assessment - Help Guide
 ## Purpose
 The gif_accessibility_assessment form is used to evaluate the accessibility of images with text alternatives and identify potential flashing or motion risks.

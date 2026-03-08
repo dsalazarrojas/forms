@@ -1,7 +1,3 @@
-<thinking>
-  This form appears to be a template for a "Digital Escape Room" game settings and puzzle list configuration. The form is designed to collect user input for the game settings and puzzle lists. It consists of multiple pages with various fields for game settings and puzzle lists. Given the structure of the form, it seems to be intended for users to input specific settings and lists related to the game and puzzles, but further context or description is not provided.
-</thinking>
-
 # digital_escape_room_template - Help Guide
 ## Purpose
 This form is designed to collect user input for digital escape room game settings and puzzle lists.

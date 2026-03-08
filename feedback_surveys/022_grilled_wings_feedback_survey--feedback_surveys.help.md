@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will first analyze the form's purpose and fields to ensure I understand the context and functionality. This form is a feedback survey for grilled wings, and it seems to gather information on the quality and service of the product. The form is divided into several sections, each with specific questions and fields that aim to elicit feedback on taste, quality, appearance, service, and other related aspects. The form also includes fields for recommending the product and providing contact information.
-
-</thinking>
-
 # Grilled Wings Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The Verses Read Tracking Form is designed to help users monitor and record their personal reading habits for verses read in a day, week, or specific time frames. This form is intended for users who want to track their progress, set goals, and identify patterns in their reading frequency. It's essential to fill out this form accurately to ensure that you get accurate insights into your reading habits.
-
-This form should be used by users who are tracking their personal reading habits and want to set goals and track progress. If you're not tracking your personal reading habits, this form is not applicable to you.
-</thinking>
-
 # Verses Read Tracking Form - Help Guide
 
 ## Purpose

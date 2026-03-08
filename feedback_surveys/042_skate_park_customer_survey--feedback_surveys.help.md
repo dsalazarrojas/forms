@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: The purpose of this form is to gather feedback from customers about their experience at the skate parks. The form collects data on the customer's visit frequency, safety feeling, facilities cleanliness, staff helpfulness, available amenities, overall satisfaction, and contact information. This data will help the skate park management understand their customers' needs and make improvements accordingly. Before filling out this form, please note that it is designed to be completed by customers after their visit. If you have not visited the skate park, do not fill out this form.</thinking>
-
 # skate_park_customer_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience at the skate parks. Your responses will help us understand your needs and make improvements to provide a better experience for everyone.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to track and report sick and family leave credits, which are essential for employees to manage their time off work and maintain a balance between their personal and professional lives. This form will guide users through the process of recording their leave credits, ensuring accuracy and completeness of information. The form will also help in identifying potential duplication or redundancy in leave credits, which is crucial for efficient and fair leave credit management. Please ensure to follow the exact instructions and fill out the form carefully to avoid any errors or inconsistencies.
-</thinking>
-
 # Sick & Family Leave Credit Due Diligence Form - Help Guide
 ## Purpose
 The Sick & Family Leave Credit Due Diligence Form is designed to assist employees in accurately and efficiently tracking their sick and family leave credits. This form helps ensure that all credits are properly recorded, and potential duplication or redundancy is identified.

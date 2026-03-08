@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antimicrobial Therapy Assessment - Help Guide
 
 ## Purpose

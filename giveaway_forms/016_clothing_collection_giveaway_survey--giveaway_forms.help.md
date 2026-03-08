@@ -1,9 +1,3 @@
-<thinking>
-This form is for participants to sign up for a clothing collection giveaway, allowing them to share their preferences and needs with the giveaway organizers. The form aims to gather information about the participant's style, clothing needs, and logistical preferences for the giveaway process. By filling out this form, participants can ensure that the giveaway items are tailored to their interests and needs.
-
-To avoid duplication, the form should only be filled out once by each participant. Please make sure to only submit the form once, as duplicate submissions may cause confusion and delay the giveaway process.
-</thinking>
-
 # Clothing Collection Giveaway Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your clothing preferences and needs for a giveaway opportunity. Please answer the questions accurately to ensure that the giveaway items are suitable for you.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's financial goals, risk tolerance, and investment preferences to provide tailored wealth advisory recommendations. This form will help advisors understand the client's needs and priorities, enabling them to offer personalized guidance on investments, risk management, and financial planning. The form is designed to be flexible and adaptable to various financial situations, allowing users to input their goals and preferences without feeling constrained by pre-defined options. The form will not be duplicating information already available in other parts of the system. If a user has already completed a similar form in the past, this form will not repeat the same questions or require duplicate information.
-</thinking>
-
 # Personal Wealth Advisory Recommendations - Help Guide
 ## Purpose
 

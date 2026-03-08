@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the 3D Photo Download Request form, I'll follow the provided instructions and structure.
-The form's purpose is to collect information from users who want to download a 3D photo. This is a crucial process that ensures the asset is delivered to the correct person, with the correct details, and with the right permissions.
-The form aims to gather essential information such as the requester's name, organization (if applicable), email address, phone number (if outside local area), project title, asset identifier, intended usage, distribution channels, preferred delivery format, resolution and texture requirements, license requested, and consent to the licensing terms and credit requirements. This data helps in ensuring that the asset is delivered correctly and that the user has the necessary permissions to use it.
-</thinking>
-
 # 3D Photo Download Request - Help Guide
 ## Purpose
 The 3D Photo Download Request form is designed to collect necessary information for downloading 3D photos. Fill out this form to ensure that your 3D asset is delivered correctly and with the correct permissions.

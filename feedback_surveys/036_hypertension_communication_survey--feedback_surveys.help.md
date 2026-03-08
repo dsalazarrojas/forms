@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Hypertension Communication Survey" form, I will first review the internal reasoning block to understand the form's purpose and relevance. 
-
-The form is used to collect information about an individual's demographics and preferences related to communication methods for hypertensive patients. This form aims to gather data on age, gender, occupation, education level, income, and other factors that might influence how patients prefer to receive medical information.
-
-Upon reviewing the form fields, I notice that some fields are marked as "required" and others are not. This implies that the form is not strictly necessary for all respondents, but rather an optional tool for collecting additional information. The fields also seem to cover a broad range of topics, from demographics to communication preferences.
-
-To ensure the form's purpose and relevance, it would be essential to check if the target audience is aware of this survey's existence and is willing to participate. I will assume that the survey is sent to a target group of patients or healthcare professionals and that the audience is already aware of the survey's purpose.
-
-</thinking>
-
 # Hypertension Communication Survey - Help Guide
 ## Purpose
 The Hypertension Communication Survey is designed to collect information about patients' demographics and communication preferences related to hypertensive conditions.

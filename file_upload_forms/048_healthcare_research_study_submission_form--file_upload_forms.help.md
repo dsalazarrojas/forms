@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a submission form for healthcare research studies. It's meant to collect information from researchers about their studies, including their names, institutions, research titles, objectives, locations, and files related to the research. This form will help streamline the submission process for researchers and ensure that all necessary information is collected in a standardized format. Before starting, please ensure that you have all the required information and that you're submitting a new research study that hasn't been previously submitted. If you're unsure, please contact the form administrators.
-</thinking>
-
 # Healthcare Research Study Submission Form - Help Guide
 
 ## Purpose

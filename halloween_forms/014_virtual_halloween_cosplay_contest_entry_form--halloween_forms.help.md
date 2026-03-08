@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a Virtual Halloween Cosplay Contest. The purpose of this form is to collect entries from participants who want to submit their Halloween cosplay ideas. The form asks for the title of the entry, category, description, name of the participant, email address, and submission image URL. The submission image URL is required to showcase the participant's work. The form also includes options for a submission video and submission link, but they are not required. The form is intended for individuals who want to participate in the contest and have a chance to win a prize.
-</thinking>
-
 # Virtual Halloween Cosplay Contest Entry Form - Help Guide
 ## Purpose
 This form is intended for participants to submit their Halloween cosplay ideas to a virtual contest. Please fill out the form to enter your creation and have a chance to win a prize.

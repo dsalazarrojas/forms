@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for demo slot booking management. It allows users to input information about a demo slot, including user details, slot booking details, and demo specifics. The purpose of this form is to facilitate the booking process by collecting necessary information from both the user and the partner. This form is likely used in a gaming context, such as demo slots for games or software.
-
-Before proceeding, please ensure that you have read this guide and understand the requirements. If you need assistance with a similar form, I will provide an alternative solution or additional guidance.
-
-Please note that some fields may have specific requirements or dependencies, and the correct input for each field is essential for the form's functionality.
-
-If you have any questions or concerns about this form or its usage, please don't hesitate to contact us.
-
-This form is used for internal purposes within the gaming industry. Please use it responsibly and in accordance with your organization's policies and procedures.
-</thinking>
-
 # game_studio_demo_slot_booking_form - Help Guide
 ## Purpose
 This form is used for managing demo slots in a gaming context.

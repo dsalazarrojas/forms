@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from healthcare providers about their capacity to provide COVID-19 vaccinations. This is not a patient registration form, but rather a survey to gather information about the provider's ability to distribute vaccines. The form will help the health department to assess each provider's capabilities and allocate resources effectively.
-We are not duplicating any existing information or forms, as this form is specifically designed to capture provider-specific data.
-</thinking>
-
 # COVID 19 Vaccination Provider Pre Registration Survey - Help Guide
 
 ## Purpose

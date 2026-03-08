@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Training Request For Nursing Education - Help Guide
 ## Purpose
 This form is a tool to collect information about training requests for nursing education. The purpose of this form is to provide necessary details about a training session, including the title, category, description, assigned tool, date, number of attendees, and any additional information that may be relevant. This form is used by authorized personnel to review and manage training requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on infectious disease reports. It is intended for medical professionals to report cases of infectious diseases to ensure public health tracking and response. The form should only be completed by authorized personnel, such as healthcare providers, and the information collected should be accurate and up-to-date. The form should not be used to submit fake or duplicate reports.
-</thinking>
-
 # Infectious Disease Report Form - Help Guide
 ## Purpose
 The Infectious Disease Report Form is used by healthcare professionals to report cases of infectious diseases. This form helps track and monitor disease outbreaks, enabling public health officials to respond quickly and effectively to prevent the spread of disease.

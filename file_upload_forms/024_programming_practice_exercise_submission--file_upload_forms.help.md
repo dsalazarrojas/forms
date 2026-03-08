@@ -1,8 +1,4 @@
-### <thinking>
-This form is designed to collect submissions for programming practice exercises. Submissions are used for feedback and evaluation purposes. Please ensure that you're submitting your own work and not someone else's. Also, be aware that duplicate submissions will not be accepted.
-</thinking>
-
-# Programming Practice Exercise Submission - Help Guide
+### # Programming Practice Exercise Submission - Help Guide
 ## Purpose
 This form is used to submit your programming practice exercises for feedback and evaluation.
 

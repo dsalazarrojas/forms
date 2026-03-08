@@ -1,32 +1,3 @@
-<thinking>
-This form is intended for individuals who are interested in applying for a financial advisor position. It collects relevant information about the applicant, including contact details, work experience, education background, financial skills, and other relevant qualifications.
-The form is divided into different sections, each covering a specific aspect of the applicant's background and experience. The sections include:
-- Applicant Info: Provides basic contact information and demographic details.
-- Contact Info: Collects contact details such as email and phone number.
-- Work Experience: Asks for previous work experience, including job title, job type, start and end dates, and company name.
-- Financial Skills: Selects the financial skills the applicant possesses.
-- Resume: Allows the applicant to upload their resume.
-- Portfolio Link: Links to the applicant's online portfolio.
-- Personal Statement: A note field for the applicant to express their qualifications and experience.
-- References: Selects references from a list of predefined options.
-- Certifications: Selects certifications the applicant holds.
-- Submit: Allows the applicant to review and submit their application.
-- Email: Collects the applicant's email address.
-- Phone: Collects the applicant's phone number.
-- Address: Collects the applicant's address.
-- Birthdate: Collects the applicant's birthdate.
-- Birth Time: Collects the applicant's birth time.
-- Job Title: Collects the applicant's current job title.
-- Work Start Date: Collects the applicant's current work start date.
-- Work End Date: Collects the applicant's current work end date.
-- Company: Collects the applicant's current company name.
-- Position: Collects the applicant's current position title.
-- Department: Collects the applicant's current department.
-- Job Type: Collects the applicant's current job type.
-- Salary: Collects the applicant's current salary.
-- Job Status: Selects the applicant's current job status.
-</thinking>
-
 # Financial Advisor Job Application Form - Help Guide
 ## Purpose
 The Financial Advisor Job Application Form is designed to help individuals apply for a financial advisor position. It is intended to collect relevant information about the applicant, including contact details, work experience, education background, financial skills, and other relevant qualifications.

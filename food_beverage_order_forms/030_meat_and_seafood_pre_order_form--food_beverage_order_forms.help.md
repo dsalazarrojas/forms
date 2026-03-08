@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users pre-order meat and seafood items for a customer. The form is meant to be filled out by customers, and it is intended to capture information about the customer, their order details, and any additional notes. This form is likely used in a food establishment or restaurant setting, such as a butcher shop or a seafood market, to ensure that customers' orders are accurately recorded and fulfilled. 
-
-To prevent errors, this form is a one-page form and does not allow for multiple submissions.
-
-</thinking>
-
 # Meat And Seafood Pre Order Form - Help Guide
 ## Purpose
 

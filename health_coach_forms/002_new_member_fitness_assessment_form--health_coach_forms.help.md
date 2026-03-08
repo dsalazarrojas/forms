@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to gather information from new members, including their personal details, medical history, and fitness goals. The form aims to assess the member's fitness level, medical conditions, and emergency contact information. It also collects payment and billing information, as well as any additional details that may be relevant to their membership. The form is not intended to be a comprehensive medical assessment, but rather a basic evaluation to determine the member's fitness level and identify any potential risks or concerns. Please note that this form is not a substitute for a comprehensive medical evaluation, and any medical information provided should be reviewed and verified by a qualified healthcare professional.
-</thinking>
-
-# New Member Fitness Assessment Form - Help Guide
+> # New Member Fitness Assessment Form - Help Guide
 ## Purpose
 The New Member Fitness Assessment Form is designed to gather information from new members, including their personal details, medical history, and fitness goals. The form aims to assess the member's fitness level, medical conditions, and emergency contact information.
 

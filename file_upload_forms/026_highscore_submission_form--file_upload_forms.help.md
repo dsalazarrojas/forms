@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to submit highscore information, which is essential for tracking and maintaining accurate highscore records. To ensure the form is used correctly, please review this help guide carefully.
-
-Before submitting a highscore entry, ensure that you have the necessary information and documents ready. This form is not intended for duplicate submissions. If you need to update or correct an existing highscore entry, please contact the relevant authorities for assistance.
-
-The form is divided into several sections, each catering to a specific aspect of highscore submission. This guide will walk you through each section, explaining the purpose and requirements of each field.
-</thinking>
-
 # Highscore Submission Form - Help Guide
 
 ## Purpose

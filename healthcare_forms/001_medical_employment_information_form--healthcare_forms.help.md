@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_employment_information_form - Help Guide
 ## Purpose
 The Medical Employment Information Form is used to collect essential details from healthcare employees. This form helps in verifying employment-related information, such as contact information and insurance details, to facilitate smooth communication and administrative tasks. Please fill in the form accurately and honestly, as the information will be used for official purposes.

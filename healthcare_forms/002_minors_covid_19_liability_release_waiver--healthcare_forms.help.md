@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and effectively, it is essential to clarify the purpose of this form and the process of completing it. The Minors COVID-19 Liability Release Waiver form is used to gather information and obtain consent from parents or guardians for medical procedures or services, particularly for administering COVID-19 vaccines to minors. This form helps healthcare providers to ensure that they have the necessary permissions and approvals before proceeding with treatment. Completing this form involves carefully providing accurate and complete information about the minor, their medical history, and any relevant allergies or medical conditions. It is crucial to review the form carefully and ensure that all the fields are filled out correctly before submitting it. Please check that all the fields are filled out correctly and provide any necessary supporting documentation before proceeding.
-</thinking>
-
 # Minors COVID 19 Liability Release Waiver - Help Guide
 ## Purpose
 The Minors COVID-19 Liability Release Waiver form is used to gather information and obtain consent from parents or guardians for medical procedures or services, particularly for administering COVID-19 vaccines to minors.

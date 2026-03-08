@@ -1,11 +1,3 @@
-<thinking>
-The Safety Symbols Assessment form is used to collect data on participants' perceived safety and risk perception regarding certain hazards or risks. This form will be used to gather information on the level of confidence or uncertainty participants have regarding these hazards and their impact.
-This form is part of the larger project to better understand how people perceive and respond to safety symbols and hazard warnings. This information will be used to inform future design and implementation of safety symbols and warning systems.
-Please ensure this form is being filled out by the correct participants and not duplicated.
-
-Please note that the form is currently not required, but it's recommended to complete it for better understanding of the results.
-</thinking>
-
 # Safety Symbols Assessment - Help Guide
 ## Purpose
 The Safety Symbols Assessment form is designed to collect information on participants' perception of safety and risk levels regarding certain hazards or risks. The form helps to gather data on the level of confidence or uncertainty participants have regarding these hazards and their impact.

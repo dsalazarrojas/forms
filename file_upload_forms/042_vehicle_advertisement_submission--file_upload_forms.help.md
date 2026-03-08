@@ -1,5 +1,3 @@
-<thinking>...The Vehicle Advertisement Submission form is designed to collect information from sellers about the vehicles they are trying to sell. This form should only be filled out once for each vehicle being submitted. Please ensure that you are not duplicating a submission for the same vehicle. If you have multiple vehicles to submit, please fill out this form separately for each one. If you are unsure about what information to provide, please contact our support team for assistance.</thinking>
-
 # Vehicle Advertisement Submission - Help Guide
 ## Purpose
 The Vehicle Advertisement Submission form is a tool for sellers to provide detailed information about the vehicles they are trying to sell. This form helps us gather essential data about the vehicle, such as seller information, vehicle details, images, and listing price.

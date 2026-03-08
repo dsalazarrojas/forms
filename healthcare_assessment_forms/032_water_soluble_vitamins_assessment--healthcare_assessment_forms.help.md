@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for healthcare professionals to assess an individual's consumption of water-soluble vitamins. The form is meant to gather information about the individual's intake, symptoms, supplements, and frequency of water-soluble vitamins, as well as any side effects experienced. This form is likely used in a medical setting to evaluate the individual's vitamin intake and provide guidance on recommendations.
-
-</thinking>
-
 # Water Soluble Vitamins Assessment - Help Guide
 ## Purpose
 

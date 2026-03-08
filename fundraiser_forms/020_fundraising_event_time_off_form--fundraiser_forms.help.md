@@ -1,9 +1,3 @@
-<thinking>...<thinking>
-
-The purpose of this form is to create or modify a fundraising event, including defining the event details, specifying the time off period, and designating the approver and their contact information. This form is used to request time off for an employee and ensure that the event is approved and scheduled accordingly.
-
-This form should only be used when an employee is requesting time off for a fundraising event. If the event is not for a fundraising purpose, please use the regular time off form.</thinking>
-
 # Fundraising Event Time Off Form - Help Guide
 
 ## Purpose

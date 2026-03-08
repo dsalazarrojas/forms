@@ -1,9 +1,3 @@
-<thinking>
-The Fast Food Order Form is designed to facilitate the ordering process for fast food customers. It allows customers to provide their information and preferences for their order, including their first name, email, order type, quantity of burgers, quantity of pizza, quantity of salads, total (presumably the total cost of the order), payment method, phone number, note, first name, last name, address, and date.
-To prevent duplicate orders, this form should only be filled out once per customer per order. If a customer attempts to fill out the form multiple times, it may cause confusion and errors in the order process.
-It's also worth noting that the form seems to have two fields labeled "First name" which might cause confusion. This could be considered for further review and potential consolidation of the two fields.
-</thinking>
-
 # Fast Food Order Form - Help Guide
 ## Purpose
 The Fast Food Order Form is designed to collect customer information and preferences for a fast food order. This form allows customers to specify their order type, quantity of various menu items, payment method, and other relevant details.

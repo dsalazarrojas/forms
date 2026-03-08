@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experience at the medical facility. It will help us understand how we can improve our services and provide better care for our patients. Please take a few minutes to answer the following questions to help us understand your experience.
-</thinking>
-
 # Medical Support Coordinator Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their experience at the medical facility. It will help us understand how we can improve our services and provide better care for our patients.

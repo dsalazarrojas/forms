@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block explains the form purpose and checks for relevance and non-duplication.
 
 The **Donation Request Form** is used to collect information from donors for a fundraiser. This form helps in collecting details such as the donor's contact information, donation amount, frequency, and other relevant details. The form is designed to be completed by the donor themselves, providing an opportunity for them to request a donation.

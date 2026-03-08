@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's first examine its YAML definition. This form is a W9 Form, which is typically used for reporting income earned from a third-party agency. The form appears to be designed to collect information about clients, including their name, address, business details, and other relevant data. This form may be used in a financial or accounting context, such as for tax purposes. Given its focus on client and business information, it's likely used for tax reporting or accounting purposes.
-
-The form contains various fields for collecting different types of data, including text fields for client and business names, addresses, and phone numbers, select_one fields for business type and EIN type, date fields for dates of client and signature sign, and note fields for signatures and notes. These fields suggest that the form is used for detailed reporting on clients and their businesses, possibly for tax or financial purposes.
-
-Upon closer inspection, it appears that most fields are optional, which may indicate that this form is for general informational purposes rather than a mandatory submission form. This form might be used for internal reference or for creating a record of client and business information. 
-
-Given the presence of date fields for signature and sign dates, it's possible that this form is used for obtaining signatures or acknowledgments from clients or businesses. However, without further context, it's difficult to determine the exact purpose with certainty.
-
-Considering the form's structure and fields, it seems that the form is used for collecting and storing client and business information for reference or reporting purposes, possibly for tax or financial contexts. It's designed to be a comprehensive yet flexible tool that allows for optional input of various data points. 
-</thinking>
-
 # W9 Form - Help Guide
 
 ## Purpose

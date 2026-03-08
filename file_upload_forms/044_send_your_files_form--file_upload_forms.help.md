@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to send files as part of a specific workflow or process. It's intended for users to upload multiple files and provide optional metadata about the files, such as where they originated from and which tool was assigned to them. The form is not intended for users to choose between yes or no options, but rather to select specific options or enter free-form text to provide additional context. Please note that this form does not store any files, it's only meant to capture information about files that may be already uploaded somewhere else.
-</thinking>
-
 # send_your_files_form - Help Guide
 ## Purpose
 This form is for sending files that may be relevant to a specific task or process.

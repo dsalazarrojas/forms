@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by individuals or organizations to provide support to a military-related organization. It's likely used for fundraising purposes. Before attempting to fill out this form, ensure that you've reviewed any relevant internal guidelines or procedures that may apply to your donation. Duplicate submissions should be avoided to ensure accurate tracking and record-keeping.
-
-</thinking>
-
 # Military Support Donation Form - Help Guide
 
 ## Purpose

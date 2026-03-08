@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be a basic information form for gathering details about an investor's portfolio and contact information. It appears to be part of a larger system for managing investments or financial portfolios. I'll assume that the "investment_details" field on page 2 is meant to gather more specific information about the investments, whereas the "investment_details" field on page 1 is likely a general introduction or summary of the portfolio. I'll also assume that the "portfolio_allocation" field on page 2 is a yes/no question asking whether the investor has a specific type of allocation in their portfolio.</thinking>
-
 # investor_portfolio_information_form - Help Guide
 ## Purpose
 This form is used to collect information about an investor's investment portfolio and contact details. It is designed to provide a clear and concise summary of the investor's investment status and allow for any necessary follow-up actions or notifications.

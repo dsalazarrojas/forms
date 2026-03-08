@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for onboarding art gallery curators, collecting essential information to facilitate the curator's integration into the gallery team. The form gathers data about the curator's professional profile, required documents, availability, and administrative setup. Ensuring accuracy and completeness of the submitted information will expedite the onboarding process and help in creating a smooth workflow between the gallery and the curator. Please review each field carefully to provide the most accurate information.
-</thinking>
-
 # Art Gallery Curator Onboarding Form - Help Guide
 ## Purpose
 The Art Gallery Curator Onboarding Form is designed to collect essential information from new curators, facilitating their integration into the gallery team. This form is crucial for ensuring a smooth onboarding process and effective collaboration.

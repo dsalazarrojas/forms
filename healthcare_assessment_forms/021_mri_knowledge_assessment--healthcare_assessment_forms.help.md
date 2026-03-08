@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's knowledge and experience with Magnetic Resonance Imaging (MRI) procedures. The purpose of this form is to assess the level of knowledge and proficiency of staff members in performing MRI procedures. This form is likely to be used in a healthcare setting to evaluate the competency of staff in MRI operations.
-The content of this form is likely to be reviewed by medical professionals to ensure that staff members have the necessary knowledge and skills to perform MRI procedures safely and effectively.
-This form is not intended to be used as a diagnostic tool. The information collected through this form will be used for training and education purposes only.
-Please ensure that you answer honestly and accurately, as the information collected through this form will be used to inform staff training and education programs.
-</thinking>
-
 # MRI Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess staff knowledge and proficiency in performing Magnetic Resonance Imaging (MRI) procedures.

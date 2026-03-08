@@ -1,12 +1,4 @@
-# <thinking>... internal reasoning block to verify purpose, non-duplication, and relevance
-
-The Peer To Peer Relationship Survey form is designed to collect data on interpersonal relationships between individuals. It is a comprehensive survey that covers various aspects of relationships, including duration, frequency of contact, conflict resolution, support, trust, intimacy, satisfaction, and overall quality. This form is intended for use in research, personal development, or other scenarios where understanding relationships is crucial.
-
-Before proceeding, ensure that the form is used for its intended purpose. This form does not collect personal data that could compromise individual or group privacy, nor does it contain any sensitive or proprietary content.
-
-</thinking>
-
-# Peer To Peer Relationship Survey - Help Guide
+# # Peer To Peer Relationship Survey - Help Guide
 ## Purpose
 The Peer To Peer Relationship Survey is designed to collect information about relationships between two individuals. It helps in evaluating the nature, quality, and dynamics of the relationship.
 

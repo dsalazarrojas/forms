@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback and suggestions from users on inciting incidents. The form's purpose is to collect information on how an incident impacted the user and what category it falls under. The form will be used to track and analyze user feedback, which will inform future improvements to our services.
-
-To ensure accurate and relevant feedback, please complete the form only if you have experienced or witnessed an inciting incident. Do not complete this form if you are simply looking for general information or feedback on a non-incident related matter.
-
-Please make sure to answer the questions accurately and provide as much detail as possible to help us better understand the incident and improve our services.
-</thinking>
-
 # Feedback On Inciting Incidents - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from users on inciting incidents, which are significant events that may have a substantial impact on our users.

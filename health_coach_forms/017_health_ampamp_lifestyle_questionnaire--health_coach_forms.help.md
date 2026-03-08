@@ -1,15 +1,4 @@
-> **<thinking>**
-This form is designed to gather information on an individual's health and lifestyle habits, including height and weight, exercise frequencies, dietary restrictions, physical activity levels, and health goals. The form aims to collect comprehensive data to help health coaches and professionals make informed decisions about an individual's well-being.
-
-The form includes various sections to gather detailed information, such as medical conditions, family history, and medications. The sections are designed to be clear and concise, making it easy for users to provide accurate and detailed information.
-
-To ensure the accuracy and validity of the data collected, it is crucial to fill out the form accurately and thoroughly. Users should not fill out the form if they are unsure or unclear about the information being requested.
-
-Please note that some fields may be required or optional, depending on the context in which the form is being used.
-
-**Please review the instructions carefully before filling out the form.**
-
-> **</thinking>**
+> ****
 
 # Health & Lifestyle Questionnaire - Help Guide
 

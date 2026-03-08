@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual's or organization's financial situation. It is designed to gather data for internal analysis and reporting purposes, such as financial planning, budgeting, or compliance requirements. The form should be completed by individuals or entities that have a legitimate reason to submit financial data, such as financial advisors, accountants, or other stakeholders. Please ensure that this form is not used for external or unauthorized purposes. It is essential to fill out this form accurately and completely to avoid any potential issues or discrepancies in the data analysis.
-
-</thinking>
-
 # Financial Statement Form - Help Guide
 ## Purpose
 The Financial Statement Form is used to collect and analyze financial information from various sources. This form helps us to better understand individuals' or organizations' financial situations, enabling informed decisions and efficient financial planning.

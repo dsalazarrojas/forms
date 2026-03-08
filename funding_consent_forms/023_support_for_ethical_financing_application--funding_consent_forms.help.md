@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from applicants seeking support for ethical financing applications, likely for research, innovation, or other projects aligning with ethical standards. The form's purpose is to gather relevant details from the applicant, including contact and financial information, funding sources, and supporting documents. This form is not affiliated with any specific form platform and is a custom creation. Please ensure that each field is filled out accurately to ensure a smooth review process. To avoid duplication of efforts, please review the form carefully before submitting.
-</thinking>
-
 # Support For Ethical Financing Application - Help Guide
 
 ## Purpose

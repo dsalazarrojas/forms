@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with the "Milkshake Machine". This form should only be filled out by customers who have used the machine in the past and are willing to provide feedback. Please note that duplicate submissions from the same user will be prevented to avoid spam and ensure the feedback is genuine.
-</thinking>
-
 # Milkshake Machine Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their experience with the "Milkshake Machine". Your input will help us understand how we can improve the machine and provide better service to our customers.

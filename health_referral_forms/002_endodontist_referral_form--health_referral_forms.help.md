@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Endodontist Referral Form - Help Guide
 ## Purpose
 The Endodontist Referral Form is used by referring dentists to send patient information to an endodontist for further treatment and evaluation. This form helps ensure that the endodontist has all necessary information to provide optimal care to the patient.

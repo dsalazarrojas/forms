@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### Design Upload Form Template - Help Guide
 
 ### Purpose

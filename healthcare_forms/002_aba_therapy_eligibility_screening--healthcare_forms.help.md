@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that clearly explains the purpose and requirements of the "ABA Therapy Eligibility Screening" form. To ensure that the guide is concrete, concise, and practical, I will base the explanation on the provided YAML fields.</thinking>
-
 # ABA Therapy Eligibility Screening - Help Guide
 ## Purpose
 The ABA Therapy Eligibility Screening form is designed to help assess whether a child or adult is eligible for Applied Behavior Analysis (ABA) therapy. ABA therapy is a type of behavioral treatment that focuses on helping individuals with autism and other developmental disabilities improve their behavior and communication skills.

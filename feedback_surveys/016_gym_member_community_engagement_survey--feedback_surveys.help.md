@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and engagement data from gym members. The purpose of this form is to collect information on members' interests, preferences, and suggestions for improving the gym's events and communication. The data collected will help the management team make informed decisions to enhance the overall gym member experience.
-
-Before proceeding, please ensure that:
-
-* The member has an account on the platform.
-* The member has not already completed this form.
-
-</thinking>
-
 # Gym Member Community Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and engagement data to help us improve your overall gym experience.

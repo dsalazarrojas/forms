@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect information from applicants for trade certification, which is likely related to a certification or training program for professionals in a specific trade or industry. This form is intended to capture essential details about the applicant, such as their name, email, phone number, and address. The form requires a file upload, which may be necessary for providing supporting documents or proof of certification. To ensure the form is completed correctly and efficiently, we should provide clear instructions and explanations for each field.
-
-Before completing this form, please ensure that:
-
-* You have a legitimate reason for submitting this form, such as enrollment in a trade certification program.
-* You have all the necessary documents and information ready for upload and submission.
-* You have not already submitted this form for the same purpose, as this may cause duplication of efforts and unnecessary paperwork.
-
-</thinking>
-
 # Trade Certification Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for trade certification, including details about themselves and any required supporting documents.

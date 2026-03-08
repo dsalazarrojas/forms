@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Tap Line Cleaning Order Form - Help Guide
 ## Purpose
 This form is used to submit an order for cleaning of beverage tap lines. It provides information required to perform a proper and efficient cleaning, including details about the establishment, tap lines, and desired cleaning schedule.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from a financial institution to refer a client to a financial assistance program or service. The form will be used to capture the client's details, the reason for referral, and the type of financial assistance they are eligible for. The purpose of this form is to ensure that the client receives the right assistance at the right time. Please ensure that the client's information is accurately and completely filled out. If this form has been completed for a client before, kindly check the client's existing information to avoid duplications.
-
-</thinking>
-
 # Financial Support Referral Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information for student assignments, including student demographics, assignment details, and submission information. It is intended for students to provide their answers, upload files, and confirm their original work. 
-
-To ensure accurate submission, please verify that the form is being completed only once per assignment. If you are unsure or have questions, consult with the instructor or technical support team.
-
-</thinking>
-
 # Assignment Answer Submission Form - Help Guide
 
 ## Purpose

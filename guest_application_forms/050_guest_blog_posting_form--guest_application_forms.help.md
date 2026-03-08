@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Guest Blog Posting Form. This form is designed for guest bloggers to submit their blog posts to the site. The form collects various information about the blog post, including the guest blogger's details, blog post details, and submission information. The purpose of this form is to help guest bloggers submit their work in a structured and organized manner.
-
-The form includes fields for the guest blogger's name, email, website, blog description, blog image, blog link, blog categories, blog topics, blog tags, submission date, submission time, submission status, submitted by, submitter's name, submitter's email, submitter's phone, submission IP, submission URL, and submitter comments.
-
-To complete this form, the guest blogger will need to fill in the required fields, which include name, email, blog description, blog categories, blog topics, submission date, submission time, submission status, submitted by, submitter's name, submitter's email, and submission URL. The guest blogger can also add additional information about their blog post, such as blog image, blog link, blog tags, and submitter's comments.
-
-Each field in the form has a specific label and type, which will guide the guest blogger on what type of information is required or optional. For example, the "blog_categories" field is a select_multiple field, which means the guest blogger can select multiple categories for their blog post.
-
-</thinking>
-
 # Guest Blog Posting Form - Help Guide
 
 ## Purpose

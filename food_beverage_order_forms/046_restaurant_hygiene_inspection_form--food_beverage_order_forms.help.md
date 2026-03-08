@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Hygiene Inspection Form - Help Guide
 ## Purpose
 The Restaurant Hygiene Inspection Form is designed to assess a restaurant's compliance with food safety and hygiene regulations. This form helps restaurant owners and staff evaluate their facilities, equipment, and practices to ensure a clean and safe environment for customers and employees.

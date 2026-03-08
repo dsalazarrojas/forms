@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect business information and details about a catalytic converter submission. The purpose of this form is to gather necessary data for the converter's inspection, testing, and potential sale or trade-in. This form is part of a business process, and submitting this form helps the business to efficiently process the submission and respond to the submitter's needs.
-Before filling out this form, please ensure that:
-* You have all the necessary information and materials ready.
-* You have checked that you are not submitting the same unit multiple times (check the serial number).
-* You have reviewed and understand the submission process and the requirements for each field.
-</thinking>
-
 # Catalytic Converter Submission Form - Help Guide
 ## Purpose
 The Catalytic Converter Submission Form is designed to collect business and converter details for inspection, testing, and potential sale or trade-in.

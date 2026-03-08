@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a Network Exit Feedback Survey. The purpose of this form is to gather information from users about their experience with the network, and to identify areas for improvement. This form is not affiliated with or derived from any specific form platform, and its content is based solely on public survey topic metadata.
-</thinking>
-
 # Network Exit Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users who are leaving the network to understand their experience and suggestions for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The Live Plant Delivery Order Form is designed to collect information from customers to facilitate live plant delivery services. The form is used to gather delivery date, time, payment method, plant type, quantity, customer contact information, and payment amount details. It is likely used by a florist or plant delivery service to process orders for live plants. This form should only be filled out by customers placing orders for live plant delivery and not for other purposes.
-</thinking>
-
 # Live Plant Delivery Order Form - Help Guide
 ## Purpose
 The Live Plant Delivery Order Form is used to gather information for live plant delivery orders. Fill out this form to place an order for live plants to be delivered to your location.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback on their waffle preparation experience, gathering information on their preferences, satisfaction level, and areas for improvement. To avoid duplication of effort, this form should only be used by customers who have had a waffle preparation experience with our service. 
-</thinking>
-
 # Waffle Preparation Survey - Help Guide
 ## Purpose
 This survey is designed to gather user feedback on their waffle preparation experience, focusing on their preferences, satisfaction level, and areas for improvement.

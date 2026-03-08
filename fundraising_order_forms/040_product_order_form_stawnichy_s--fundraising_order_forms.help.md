@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_order_form_stawnichy_s - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who wish to place an order for a product. This form is designed to gather contact details and product-specific information to facilitate the order process.

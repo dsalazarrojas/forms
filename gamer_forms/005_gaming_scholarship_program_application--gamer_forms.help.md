@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Gaming Scholarship Program Application form is to collect information from applicants to support their participation in a gaming-related scholarship program. This form likely aims to gather personal, contact, and gaming-related details to assess an applicant's eligibility and suitability for the program. The program might focus on rewarding gamers with financial aid or resources to help them achieve their gaming-related goals or interests.
-
-It is essential to ensure that the submitted information is accurate and complete to ensure a fair evaluation process. This form does not duplicate any existing form, and any submitted data will be treated with the utmost respect regarding confidentiality and integrity. Please review the form carefully and provide the required and optional information accurately and honestly.
-
-</thinking>
-
 # Gaming Scholarship Program Application - Help Guide
 
 ## Purpose

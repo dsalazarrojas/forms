@@ -1,11 +1,3 @@
-<thinking>
-This form was generated using AI to create a user-facing help guide for the "Concert Event Logistics Feedback Survey" form. The purpose of this form is to gather feedback from event staff and stakeholders on the logistics of a concert event. It is designed to be completed by respondents who have participated in the event and have first-hand experience with the logistics and operations. The form will collect information on various aspects of the event, including communication, access control, signage, load in and load out processes, equipment availability, staffing levels, emergency procedures, transportation and parking, vendor coordination, issues encountered, and overall experience. 
-
-This form is intended to be filled out by event staff and stakeholders who are familiar with the event's inner workings. It is not a survey for general audience feedback. The form is designed to be comprehensive and cover all critical areas of event logistics. The form has been generated without referencing any proprietary content from other form platforms, and its structure and content are original.
-
-Please note that some fields are optional, marked as "required: false". These fields might not be essential to the event's feedback and could be skipped by respondents.
-</thinking>
-
 # Concert Event Logistics Feedback Survey - Help Guide
 ## Purpose
 The Concert Event Logistics Feedback Survey is a form designed to collect feedback from event staff and stakeholders on the logistics of a concert event. It gathers information on various aspects of the event, including communication, access control, signage, load in and load out processes, equipment availability, staffing levels, emergency procedures, transportation and parking, vendor coordination, and overall experience.

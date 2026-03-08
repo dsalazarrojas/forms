@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Musical Audition Self Tape Submission - Help Guide
 ## Purpose
 This form is designed to help you submit a self-tape video for a musical audition. It is used to provide information about your performances, skills, and materials in a structured and clear way. Please fill out this form carefully and accurately to ensure that your submission is complete and effective.

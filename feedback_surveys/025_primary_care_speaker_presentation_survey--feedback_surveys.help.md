@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback on the primary care speaker's presentation. The purpose of this form is to collect information from attendees on the quality of the presentation, the relevance of the topic, and any comments or suggestions they may have. It is likely that this form will be used by event organizers to evaluate the performance of the primary care speaker and adjust their content and style accordingly. To ensure that feedback is relevant and not duplicated, please only submit one response per attendee.
-
-</thinking>
-
 # primary_care_speaker_presentation_survey - Help Guide
 ## Purpose
 This form is intended to gather feedback on the primary care speaker's presentation.

@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "COVID 19 Patient Details And CT Form" that includes a brief internal reasoning block explaining the form's purpose and checks for relevance and non-duplication.
-
-The form is used to collect patient information and CT scan results for patients suspected of having COVID-19. The form is designed for healthcare professionals to quickly and accurately capture critical patient information.
-
-Before we start, let's ensure that the form is relevant to the intended use case and that there's no duplication of effort in creating the form. We'll review the form's sections and fields to ensure they align with the form's purpose.
-
-Upon reviewing the form, we notice that it's divided into several sections: Patient Information, Clinical Information, CT Scan Results, and Laboratory Results. The form collects patient demographics (name, date of birth, age, gender, phone number, and email), clinical information (hospital admission date, symptoms onset date, presenting symptoms, comorbidities, oxygen requirement, oxygen saturation, and additional clinical notes), and CT scan results (CT scan performed, CT scan date, type of CT scan, CT findings, and CT severity assessment).
-
-The form's fields are well-structured and follow a logical flow, making it easy for healthcare professionals to quickly fill out and review. We'll focus on creating a clear and concise help guide that explains each field's purpose and requirements.
-
-</thinking>
-
 # COVID 19 Patient Details And CT Form - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to collect critical information about patients suspected of having COVID-19. It includes patient demographics, clinical information, and CT scan results to aid in diagnosis and treatment.

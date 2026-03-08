@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to upload event layouts, providing details such as event date, time, venue, and additional files. The form has multiple fields for users to input relevant information in a structured way. The form fields include text input fields for event details, date and time fields for scheduling, and a file upload field for event layouts. This form is useful for event organizers, planners, and administrators to collect and manage event information in a organized and efficient manner.
-</thinking>
-
 # Event Layout Upload Form - Help Guide
 ## Purpose
 The Event Layout Upload Form is designed to collect information about events, specifically the layout of the event. This form is meant to be used by event organizers, planners, and administrators to gather details about events in a structured and organized way.

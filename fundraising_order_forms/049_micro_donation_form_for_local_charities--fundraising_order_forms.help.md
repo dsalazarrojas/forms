@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information and data related to donations for local charities. Before you start, please ensure that you are filling out the form for a legitimate purpose and not for testing or spamming. Also, be aware that some fields may be mandatory (marked as required) to ensure accuracy and completion of the donation process. This form should not be filled out multiple times with the same information, as this can lead to data duplication and errors in the charity's records.
-</thinking>
-
 # Micro Donation Form For Local Charities - Help Guide
 ## Purpose
 The Micro Donation Form For Local Charities is a simple form designed to collect information and data related to donations for local charities. This form is meant to help the charity understand the donor's preferences and donation details. Please note that this form is not meant for soliciting donations for personal gain or for testing purposes.

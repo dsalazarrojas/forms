@@ -1,12 +1,3 @@
-<thinking>
-The First Person Shooter (FPS) Skills Quiz is designed to evaluate a gamer's skills in various aspects of FPS games, including game knowledge, character development, and situational awareness. This quiz is intended for players who are familiar with FPS games and want to assess their skills in a specific area of the game. Please note that this quiz is not meant to be taken seriously and is for entertainment purposes only.
-
-Before starting, ensure you have a good understanding of FPS games and their mechanics. If you're not familiar with FPS games, this quiz may not be suitable for you.
-
-Now, let's guide you through the completion of this form:
-
-</thinking>
-
 # First Person Shooter Skills Quiz - Help Guide
 ## Purpose
 The First Person Shooter Skills Quiz is a fun and educational quiz designed to evaluate a gamer's skills in various aspects of FPS games.

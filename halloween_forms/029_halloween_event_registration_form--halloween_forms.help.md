@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for registration for a Halloween event. It is required for all participants to complete this form to provide their personal and event-related information. Please make sure to fill out all required fields.
 
 # Halloween Event Registration Form - Help Guide

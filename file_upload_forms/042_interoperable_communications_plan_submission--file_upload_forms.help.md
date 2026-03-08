@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from partners who want to submit their interoperable communications plan. The purpose of this form is to gather relevant details about the partner agency, submission date, contact person, email, phone number, uploaded file details (such as file name and type), and review workflow status. This information will be used to assess the completeness and correctness of the submitted plan.
-
-Before completing this form, please ensure that you have all required details ready and that you are not duplicating the submission. If you have already submitted an interoperable communications plan, please do not fill out this form again.
-</thinking>
-
 # Interoperable Communications Plan Submission - Help Guide
 ## Purpose
 The interoperable communications plan submission form is used to gather information from partner agencies that want to submit their plans. This form will help us assess the completeness and correctness of the submitted plans.

@@ -1,7 +1,3 @@
-<thinking>
-The Image To PDF Converter Form is a utility form designed to help users convert images into PDF files. This form is intended to be used for uploading an image file, selecting a conversion format (e.g., JPEG, PNG, etc.), choosing the conversion options (e.g., color or black and white), and specifying where to save the converted PDF file. This form is likely used in scenarios where users need to create PDFs from images for various purposes such as documentation, reports, or presentations. To ensure accurate completion of this form, users should carefully review each field's purpose and requirements.
-</thinking>
-
 # Image To PDF Converter Form - Help Guide
 ## Purpose
 The Image To PDF Converter Form is a utility form designed to convert images into PDF files. It helps users create PDFs from images for documentation, reports, or presentations.

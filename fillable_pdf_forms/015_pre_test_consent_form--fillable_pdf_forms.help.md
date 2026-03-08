@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from participants before conducting a test. It appears to be related to research or testing activities. Before starting, please ensure you have not already filled this form and that it's relevant to your current test. This form is intended for individuals participating in a test, and the information collected will likely be used for administrative purposes. If you are not participating in a test, this form is not applicable to you.</thinking>
-
 # pre_test_consent_form - Help Guide
 ## Purpose
 This form is a consent form for pre-test participants. It collects demographic information and test-specific details to ensure a smooth and informed testing process.

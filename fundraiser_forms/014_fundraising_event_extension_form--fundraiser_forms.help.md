@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for fundraisers to collect information about their events and participants. It's used to extend or update existing events. The form should only be filled out for events and participants that do not already exist in the system to avoid data duplication. The form is meant for use by authorized users only.
-</thinking>
-
 # Fundraising Event Extension Form - Help Guide
 ## Purpose
 This form is used to collect information about a fundraising event and its participants. It's used to extend or update existing events, ensuring that all necessary details are up-to-date and accurate.

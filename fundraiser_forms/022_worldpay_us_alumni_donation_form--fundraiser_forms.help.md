@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Worldpay Us Alumni Donation Form" that explains the form's purpose, how to complete it, and what each field means. This form is likely used for fundraising purposes, possibly for a university or alumni association. The form might be used to collect donations from alumni, with fields for personal details (first name, last name, email, phone), donation amount, and optional select options or dates/time. We should ensure the guide is concise and easy to follow.
-</thinking>
-
 # Worldpay Us Alumni Donation Form - Help Guide
 ## Purpose
 The Worldpay Us Alumni Donation Form is used to collect donations from alumni to support their alma mater. Fill out this form to express your generosity and make a positive impact on your university or alumni association.

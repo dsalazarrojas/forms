@@ -1,9 +1,3 @@
-<thinking>
-To ensure the effectiveness of our staff training programs, we need to gather feedback from those who have participated in them. This survey aims to help us understand how well our training programs are meeting their intended goals. Please note that this survey is not a duplicate of any other survey you may have already taken, and your input will be invaluable in shaping future training initiatives.
-
-This survey will help us gather your thoughts on various aspects of our training programs, including the effectiveness of our programs, your satisfaction, relevance, communication with instructors, and overall experience.
-</thinking>
-
 # Gym Staff Training Effectiveness Survey - Help Guide
 ## Purpose
 The Gym Staff Training Effectiveness Survey is a tool used to gather feedback from participants in our training programs. Your responses will help us understand what's working well and areas for improvement.

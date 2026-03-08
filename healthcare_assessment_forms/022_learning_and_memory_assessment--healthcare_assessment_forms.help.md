@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # learning_and_memory_assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your background, learning, and memory abilities. Please answer the questions truthfully to help us better understand your needs and provide you with the best possible care.

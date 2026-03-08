@@ -1,11 +1,3 @@
-<thinking>
-  This form is for collecting information related to radiation dosimetry. 
-  Before starting, please ensure that you have all necessary information to complete this form.
-  Please be aware that submitting duplicate or outdated information may result in delays or errors.
-  The purpose of this form is to gather accurate and up-to-date information on radiation dosimetry, which is critical for healthcare professionals to make informed decisions.
-  If you are unsure or have questions, please don't hesitate to contact your healthcare team.
-</thinking>
-
 # Radiation Dosimetry Information Request - Help Guide
 ## Purpose
 This form is used to collect information related to radiation dosimetry, which is essential for healthcare professionals to assess and manage radiation exposure in patients.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose. This form is meant for customers to place orders for house plants, specifying details such as delivery date, time, and address. It's also used to collect payment information, including method and details. This form might be used by internal teams to track and fulfill plant orders. We should double-check that we're using this form correctly to avoid duplication of effort and to prevent potential errors.
-</thinking>
-
 # House Plant Delivery Form - Help Guide
 ## Purpose
 The House Plant Delivery Form is designed for customers to place orders for house plants. This form allows customers to input their order details, including delivery date, time, and address, as well as payment information.

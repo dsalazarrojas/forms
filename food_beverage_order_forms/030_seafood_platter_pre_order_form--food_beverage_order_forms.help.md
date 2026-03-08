@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Seafood Platter Pre Order Form, we need to break down the form's purpose, how to complete it, and what each field means.
-
-The form's purpose is to allow users to pre-order a seafood platter, which can be picked up or delivered. The form is designed to collect relevant information from the users, such as delivery date, payment method, contact details, and confirmation of terms and conditions.
-
-</thinking>
-
 # Seafood Platter Pre Order Form - Help Guide
 ## Purpose
 

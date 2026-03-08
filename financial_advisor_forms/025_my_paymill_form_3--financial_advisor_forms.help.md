@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely used in an e-commerce or financial context, where customers are making purchases or payments. The My Paymill Form 3 is probably used for verifying customer and payment information.
-
-The form has multiple pages or sections with various input fields, including customer details, order and payment information, and confirmation fields. Each page appears to be focused on a different aspect of the customer or payment process.
-
-The form may be used for order fulfillment, payment processing, or customer service purposes.
-
-Let's make sure to double-check that there isn't already a similar form with the same purpose or functionality in our system...</thinking>
-
 # My Paymill Form 3 - Help Guide
 ## Purpose
 The My Paymill Form 3 is a form used to collect and confirm customer and payment information for e-commerce or financial purposes.

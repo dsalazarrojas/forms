@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stock Image Requisition Form - Help Guide
 
 ## Purpose

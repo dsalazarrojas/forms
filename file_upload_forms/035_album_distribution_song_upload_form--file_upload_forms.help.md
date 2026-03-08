@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Album Distribution Song Upload Form", I will consider the form's purpose, how to complete it, and provide explanations for each field, while ensuring that the explanations are concrete, concise, and practical. The form appears to be designed for artists and producers to submit their music for distribution, including metadata (album title, artist name, release date, etc.) and audio file information (tracklist, audio format, etc.).
-
-The form's purpose is likely to ensure that uploaded music meets the required standards and regulations for distribution on various digital platforms.
-
-Before proceeding to the guide, let's review the form's internal logic:
-
-This form seems to be designed to collect metadata for a song album, including title, artist, release date, tracklist, audio format, and rights information. The form also includes fields for artwork and distribution territories.
-
-</thinking>
-
 # Album Distribution Song Upload Form - Help Guide
 ## Purpose
 This form is designed to collect metadata for your song album, which will be used for distribution on various digital platforms. Please fill in the required fields to ensure your music meets the required standards.

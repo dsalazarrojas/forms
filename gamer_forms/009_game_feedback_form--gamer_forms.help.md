@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from players regarding a game. The form is intended to gather information on the player's experience with the game, including feedback score, comments, game title, game mode, player level, game system, player name, player ID, game ID, submitted by, and submitted time and date.
-The internal system uses this form to track and analyze player feedback for game development and improvement. It is essential to fill out the form accurately and completely to provide valuable feedback.
-Before proceeding, please ensure that you are filling out the form for the correct game and that your feedback is relevant to the game. If you have feedback for multiple games, please fill out a separate form for each game.
-</thinking>
-
 # Game Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from players on their experience with a game. This feedback is used to improve the game and enhance the player experience.

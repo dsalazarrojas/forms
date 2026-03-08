@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Here is the final help guide for the "health_services_capacity_assessment" form:
 
 # health_services_capacity_assessment - Help Guide

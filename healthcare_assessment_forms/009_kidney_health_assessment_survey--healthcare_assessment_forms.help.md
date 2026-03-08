@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for healthcare providers to assess the kidney health of patients. This assessment includes various fields to gather information about the patient's demographics, medical history, symptoms, and medical tests, as well as their kidney function and disease status. This form aims to provide a comprehensive understanding of the patient's kidney health and aid in making informed decisions for diagnosis and treatment.
-
-Before creating this help guide, ensure that the form's purpose and content are consistent with your organization's policies and procedures. This form does not duplicate any other form within the organization. All the fields in this form are designed to collect information for the intended purpose of kidney health assessment.
-
-</thinking>
-
 # Kidney Health Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess the kidney health of patients. It collects information on demographics, medical history, symptoms, medical tests, kidney function, and disease status.

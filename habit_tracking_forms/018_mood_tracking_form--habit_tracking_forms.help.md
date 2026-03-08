@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the "Mood Tracking Form" is used correctly by its end-users, so let's review the form purpose and fields to create a user-friendly help guide.
-This form is designed to track an individual's mood and related aspects, such as emotions, physical sensations, and daily activities. It's essential to understand the form's purpose and fields to ensure accurate and consistent data collection.
-We will review the form's fields to explain each in simple terms, without introducing unsupported business logic.
-</thinking>
-
 # Mood Tracking Form - Help Guide
 ## Purpose
 The Mood Tracking Form is designed to collect information about your mood and related aspects to help you better understand and manage your mental health. This form is meant to be completed daily to track your emotional state, physical sensations, and activities.

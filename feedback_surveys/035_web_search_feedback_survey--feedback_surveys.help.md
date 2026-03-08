@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with our web search results. This feedback will help us understand how to improve the search functionality and overall user experience.
-
-To ensure that your feedback is relevant and not duplicated, please only complete this form if you have used our web search results recently. If you have already provided feedback, you may not need to complete this form again.
-</thinking>
-
 # Web Search Feedback Survey - Help Guide
 ## Purpose
 The Web Search Feedback Survey is a form designed to collect feedback from users about their experience with our web search results. This feedback is crucial in helping us understand how to improve the search functionality and overall user experience.

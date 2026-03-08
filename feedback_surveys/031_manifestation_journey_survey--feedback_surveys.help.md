@@ -1,13 +1,3 @@
-<thinking>...
-
-The purpose of this form is to gather information from users regarding their manifestation journey. A manifestation journey refers to a person's progress in achieving their goals and overcoming obstacles. This form is designed to collect feedback from users to help improve the effectiveness of the tool or process related to manifestation journey. 
-
-It's essential to understand that this form might not be applicable to all users and that it's intended for specific scenarios. Therefore, please ensure you fill out this form only if you have a valid reason to do so.
-
-Before proceeding, ensure that you haven't filled out this form previously. If you have filled it out in the past, you might need to revisit the relevant pages and update your answers accordingly.
-
-</thinking>
-
 # Manifestation Journey Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your manifestation journey, helping us understand your progress and experiences.

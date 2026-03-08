@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internal Process Friction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on internal process friction experienced by team members, which can hinder productivity, efficiency, and employee satisfaction. The goal is to identify pain points and areas for improvement within our internal processes.

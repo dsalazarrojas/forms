@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # veggie_fundraising_participation_form - Help Guide
 ## Purpose
 This form is for participants in a veggie fundraising campaign. It collects information about the participant, their delivery or pickup preferences, and their interest in volunteering. The form helps the organizers of the campaign to manage the participant's data and facilitate the delivery or pickup of the veggies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from engineers and submission reviewers regarding the status and details of submitted documents and projects. It is intended to be used during the submission and review process. Please note that some fields are not required, and some fields may be filled out by the reviewer rather than the engineer. The submission status and reviewer status fields are select one fields where the options are Active and Inactive. The form has two sections: Submission inputs, which are fields that the engineer fills out, and Reviewer comments, which are fields that the reviewer fills out.
-</thinking>
-
 # Engineering Analysis Submission Form - Help Guide
 ## Purpose
 This form is used to collect information from engineers and reviewers during the submission and review process for documents and projects.

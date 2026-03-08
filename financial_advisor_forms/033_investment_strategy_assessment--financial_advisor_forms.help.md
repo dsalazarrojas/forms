@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's investment goals, risk tolerance, and investment strategy. It will help us understand their preferences and expectations for investing and provide a more personalized investment advice.
-
-This form is a part of the financial advisor system and is used to assess the investment strategy of clients. It's essential to complete it accurately to ensure that the investment advice provided is tailored to their needs.
-
-Please note that the information collected through this form will be used for internal purposes only and will not be shared with any third party. 
-
-</thinking>
-
 # Investment Strategy Assessment - Help Guide
 ## Purpose
 The Investment Strategy Assessment form is designed to collect information about your investment goals, risk tolerance, and investment preferences. This information will help us understand your needs and provide you with tailored investment advice.

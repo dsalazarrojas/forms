@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is for gathering feedback from players on new features in a game, and that it's not a duplicate of an existing form. This form is intended for players to provide input on new features, including their rating, impact, and satisfaction. The form should be clear and concise, with each field explained in a way that's easy for players to understand. We'll use the provided YAML fields to create a user-friendly guide that helps players complete the form accurately and efficiently.
-</thinking>
-
 # Gaming New Features Feedback Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from players on new features in a game. Please use this guide to complete the form accurately and provide constructive feedback.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # investment_performance_report_form - Help Guide
 
 ## Purpose

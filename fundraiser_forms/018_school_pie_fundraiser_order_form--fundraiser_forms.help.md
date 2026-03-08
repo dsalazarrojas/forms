@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to gather information for a school fundraiser. The goal is to collect data from customers interested in participating in the school pie fundraiser. This guide will help you understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # School Pie Fundraiser Order Form - Help Guide
 ## Purpose
 The School Pie Fundraiser Order Form is designed to gather information from customers interested in participating in the school pie fundraiser. This form collects details such as the orderer's name, contact information, and preferences for the fundraiser.

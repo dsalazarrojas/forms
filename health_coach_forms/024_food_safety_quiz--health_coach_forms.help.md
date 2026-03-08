@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess users' knowledge and attitudes towards food safety practices in various contexts. It is intended for completion by individuals working in the food industry, such as food handlers, preparers, and consumers. The form is a series of questions and fields designed to gauge respondents' perceptions and actions related to food safety, covering areas like handling, storage, and disposal of food products. The form is part of an initiative to improve food safety awareness and practices within the industry.</thinking>
-
 # Food Safety Quiz - Help Guide
 ## Purpose
 This form is a tool designed to test your knowledge on food safety practices. It's intended for food handlers, preparers, and consumers. The questions cover key aspects of food safety, aiming to improve awareness and practices in the industry.

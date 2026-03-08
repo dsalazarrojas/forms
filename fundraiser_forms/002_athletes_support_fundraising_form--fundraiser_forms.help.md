@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from donors who want to support an athlete's fundraising campaign. The purpose of this guide is to help donors understand what information is required, what each field represents, and how to complete it accurately. Please ensure that you read this guide before submitting the form to ensure that the information you enter is accurate and relevant. If you're looking to support an athlete or organization, please review our guidelines before filling out the form to ensure that your contribution is acknowledged and recognized properly.
-</thinking>
-
 # Athletes Support Fundraising Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors who want to support athletes and their fundraising campaigns. It ensures that your contribution is acknowledged and recognized properly, and that you have a clear understanding of how your donation will be used.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing consent from participants to take and use photographs, likely for research, medical, or other purposes. To ensure that this form is not duplicated, please confirm that no existing form with similar purpose and content exists. The form collects personal information, such as name, date of birth, and contact details, to identify the participant and establish communication channels. The form also captures the purpose for using the photographs, the duration of their usage, and the participant's consent. It will be used to ensure that the participant's rights and interests are respected.
-</thinking>
-
 # Consent To Take And Use Photograph - Help Guide
 ## Purpose
 This form is designed to capture consent from individuals to take and use photographs for specific purposes.

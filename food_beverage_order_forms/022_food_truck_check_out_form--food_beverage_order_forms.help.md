@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a food truck checkout form designed to capture customer details, order items, payment information, and other relevant data. This form seems to be suitable for both online and offline usage, considering the options for customer details, order items, and payment info. I'm assuming that each page is designed to be completed by the customer, but it's worth double-checking the internal logic behind this form to ensure the correct flow and required fields.
-</thinking>
-
 # food_truck_check_out_form - Help Guide
 ## Purpose
 This form is designed to collect customer information and order details for food trucks. It's intended to be used for checkout purposes, ensuring customers can easily provide their data and payment information.

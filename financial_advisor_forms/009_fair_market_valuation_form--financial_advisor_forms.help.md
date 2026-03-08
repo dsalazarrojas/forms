@@ -1,13 +1,3 @@
-<thinking>This form is part of a larger system for financial advisors to perform tasks related to fair market valuation. The Fair Market Valuation Form is used to gather information about a specific property for the purpose of assessing its value. This form is not intended for use in other contexts.
-
-The form is designed to be completed in conjunction with other forms and systems used for property evaluation and appraisal. The purpose of this form is to help the user gather data that can be used to make a more accurate and informed assessment of the property's value.
-
-Before proceeding, please ensure that you are using this form as intended and that you have reviewed the relevant sections for any information that may be specific to your situation or jurisdiction. This form is not a substitute for professional expertise or local regulations, and you should always consult with a qualified financial advisor or local authorities before making any decisions related to property valuation.
-
-This form is divided into two main sections: Property and Comparable Sales. The Property section gathers information about the specific property in question, while the Comparable Sales section is used to gather data from similar properties that can be used for comparison and analysis.
-
-This form does not duplicate any other form in the system, and you should not use it for any other purpose.</thinking>
-
 # Fair Market Valuation Form - Help Guide
 ## Purpose
 This form is used to gather information about a specific property for the purpose of assessing its value.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Generic Dental Referral Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for customers to place an order at a butcher shop. The form is structured to gather customer information, order type and details, and payment information. Customers are asked to provide their name, email, phone number, address, and city. They are also asked to select the order type (pickup or delivery), preferred pickup or delivery date, and preferred time slot. Customers are then asked to select which beef, pork, chicken, and specialty meat products they want to order, along with any prepared items and specific quantities. Customers have the option to include special requests, dietary or quality preferences, and provide additional notes or special instructions. Finally, customers can estimate the total cost of their order and choose a payment method. This form helps to ensure accurate and efficient communication of customer orders with the butcher shop.
-
-This form should not be used for non-food related orders or for other purposes that are not relevant to the butcher shop.
-</thinking>
-
 # Butcher Shop Order Form - Help Guide
 ## Purpose
 The Butcher Shop Order Form is designed for customers to place orders for meat products from the butcher shop. This form gathers customer information, order details, and payment information to ensure accurate and efficient communication with the butcher shop.

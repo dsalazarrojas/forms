@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from Law Enforcement and Fire personnel registering for the COVID-19 Phase 1B vaccination program. This form will help identify the registrant's eligibility and gather essential details for vaccine distribution. The form includes multiple fields that must be filled out by the registrant.
-
-To prevent duplication, it is essential that each Law Enforcement and Fire personnel completes this form only once. If a registrant has already been vaccinated, they should not repeat this process. This will help prevent confusion and unnecessary paperwork.
-
-To ensure the accuracy and completeness of the data collected, each field must be filled out correctly. If the form is not properly completed, it may result in registration issues or vaccine allocation problems.
-</thinking>
-
 # COVID 19 Phase 1B Vaccination Registration Form - Help Guide
 ## Purpose
 This form is designed for Law Enforcement and Fire personnel to register for the COVID-19 Phase 1B vaccination program.

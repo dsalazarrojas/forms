@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for hairstylists or technicians to record information about the hair extension placement process for a client. The purpose of this form is to collect relevant details about the client's hair condition, type, length, color, and any other notable details that may impact the tape-in hair extension placement process. By completing this form, technicians can ensure accurate and efficient placement, minimizing mistakes and potential complications. This form is designed to minimize repetition and ensure consistency in the process. Review this guide to complete the form correctly and efficiently.
-</thinking>
-
 # Tape In Hair Extension Placement Checklist - Help Guide
 ## Purpose
 The Tape In Hair Extension Placement Checklist is a form for hairstylists and technicians to record important information about the hair extension placement process. This form helps ensure accurate and efficient placement, minimizing mistakes and potential complications.

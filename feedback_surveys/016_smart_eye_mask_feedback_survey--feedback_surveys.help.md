@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on our product, and it's crucial that the user provides accurate information to help us improve our product. Please note that the fields will be verified for correctness after submission. If you have any issues or questions, please let us know in the "Do you have any other comments?" field. We appreciate your honest feedback and suggestions!
-</thinking>
-
 # smart_eye_mask_feedback_survey - Help Guide
 ## Purpose
 This form is a feedback survey to gather information from users on our product's performance, user experience, and suggestions for improvement.

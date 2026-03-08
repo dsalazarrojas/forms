@@ -1,14 +1,3 @@
-<thinking>
-The Evidence Upload Form is designed to collect and document evidence related to specific cases or events. This form is intended for upload and submission of physical or digital evidence. The form's purpose is not only to collect the essential details about the evidence but also to track and manage its status.
-
-This form will be used in situations where physical or digital evidence needs to be documented and tracked, such as in forensic investigations, legal cases, or other similar situations. It is essential to ensure the accuracy and consistency of the evidence's description and status to prevent confusion and miscommunication.
-
-To complete this form, the user will need to upload the evidence and provide a brief description of it. They will also need to select the type of case, assign it to a specific individual or entity, choose the status of the evidence, and add any necessary notes or additional information.
-
-When filling out this form, please ensure that the fields are completed as accurately and thoroughly as possible to guarantee the best possible outcome.
-
-</thinking>
-
 # Evidence Upload Form - Help Guide
 ## Purpose
 The Evidence Upload Form is designed to collect and document evidence related to specific cases or events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from users who are interested in personal training consultation. The purpose of this form is to gather relevant details from users, including their names, email addresses, phone numbers, and other pertinent information. This form is not intended to replace any existing consultation procedures or assessments; rather, it is a supplementary tool to facilitate initial consultations. Please ensure that this form is not used to collect sensitive or protected health information that requires HIPAA or other regulatory compliance. Also, be cautious not to ask users to repeat the same information across multiple forms.
-</thinking>
-
 # Personal Training Consultation Questionnaire - Help Guide
 ## Purpose
 The Personal Training Consultation Questionnaire is a form designed to collect basic information from users interested in personal training consultation. The form helps us understand their needs and preferences for the consultation.

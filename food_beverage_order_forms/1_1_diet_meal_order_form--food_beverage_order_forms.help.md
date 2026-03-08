@@ -1,11 +1,3 @@
-<thinking>
-
-The "1:1 Diet Meal Order Form" is designed to collect information from customers for personalized meal orders. This form is intended for customers to specify their dietary restrictions, order details, and payment information to receive a tailored meal plan.
-
-This form is used by customers to provide their personal and dietary information, as well as order specifics such as date, meal plan type, and delivery preferences. The form is not designed to be used in production without proper testing and validation.
-
-</thinking>
-
 # 1:1 Diet Meal Order Form - Help Guide
 ## Purpose
 This form is used for customers to provide their personal and dietary information, as well as order specifics such as date, meal plan type, and delivery preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Package Feedback Survey - Help Guide
 
 ## Purpose

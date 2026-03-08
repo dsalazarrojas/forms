@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on insulin pump settings for patients. The purpose of this form is to ensure that healthcare providers have access to accurate and up-to-date information about a patient's insulin pump settings, including basal insulin delivery settings, bolus settings, and other important details. This information can help providers make informed decisions about a patient's care plan and ensure that they are receiving the best possible outcomes. This form should only be completed by authorized healthcare providers, and patients should not complete this form without the guidance of a healthcare provider. Please ensure that you have the necessary permissions and authorization before completing this form.
-</thinking>
-
 # Insulin Pump Settings Worksheet - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about a specific type of event or gathering, such as a food and beverage event. This guide will walk you through how to fill out this form accurately and efficiently. 
 
 Before proceeding, please ensure that you are familiar with the event type and have all necessary information ready. If you're unsure about the purpose or content of this form, it's a good idea to review the event details with your supervisor or the event planner.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users regarding grinder pumps, which are a type of submersible pump used in various settings such as residential, commercial, and industrial environments. The form is meant to gather information about users' satisfaction with their grinder pump, their contact information, and details about their pump's location and condition. This form is likely used by pump manufacturers or maintenance personnel to gather data for product development, marketing, or support purposes.
-
-Before filling out this form, please ensure that you have not already submitted feedback on this topic to avoid duplication of effort. This form is intended for new and unique feedback submissions.
-
-Please fill out the form accurately and thoroughly, providing as much detail as possible. If you are unsure about any field, please refer to the explanations below for guidance.
-
-</thinking>
-
 # grinder_pump_feedback_survey - Help Guide
 
 ## Purpose

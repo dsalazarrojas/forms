@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for a form, I need to analyze the provided YAML definition and determine the purpose of the form, explain how to complete it, and provide field-by-field explanations. The form is called "remediation_services_survey" and is categorized under "feedback_surveys". This form is likely used for gathering feedback or opinions from users on remediation services.
-
-The form contains multiple questions with different types (select_one, select_multiple, date, time, number) and a text field for an introduction. The questions are mostly select_one or select_multiple types, which suggest that the user is being asked to select one or multiple options from a list. The text field at the beginning might be used for background information or context. The date and time fields might be used to gather specific dates or times related to the remediation services.
-
-To complete this form, the user would need to:
-
-1. Read the introduction text field to understand the context of the form.
-2. Select one or multiple options for each of the select_one or select_multiple questions.
-3. Provide a specific date or time for the date or time questions.
-4. Ensure that all required fields are filled in, although this form does not specify any required fields, it is still important for users to understand that all fields should be completed to ensure they are providing comprehensive feedback.
-
-Field-by-field explanations would follow after this internal reasoning.
-</thinking>
-
 # Remediation Services Survey - Help Guide
 ## Purpose
 

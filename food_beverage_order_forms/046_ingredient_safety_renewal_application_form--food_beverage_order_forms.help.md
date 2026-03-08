@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather information from businesses that require ingredient safety renewal. This form will be used to collect data on the business, including their ingredient safety status, certification status, submission date, and other relevant details. This information is crucial for ensuring compliance with regulations and maintaining public health and safety standards.
-
-To avoid duplication, this form is designed to capture all the necessary information in a single submission. By completing this form, businesses can provide accurate and up-to-date information about their ingredients, certifications, and safety status. This will help streamline the renewal process and reduce errors.
-
-The form is divided into sections that cover various aspects of the business's ingredient safety status, including company information, ingredient safety data, certification status, and business contact details.
-
-The form requires some fields to be filled out, while others are optional. Required fields are marked with an asterisk (\*). Ensure that all required fields are filled out accurately to avoid errors in the submission process.</thinking>
-
 # Ingredient Safety Renewal Application Form - Help Guide
 ## Purpose
 

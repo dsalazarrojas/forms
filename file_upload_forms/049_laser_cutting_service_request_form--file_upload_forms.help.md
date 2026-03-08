@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a service that caters to customers who seek laser cutting services for their projects. It's intended to collect relevant information from customers to process their requests efficiently. This form will help guide the customer through a series of simple pages where they can provide the necessary details about the project. By filling out this form, the customer will be able to get a quote for the laser cutting service they require, which is crucial for managing project timelines and budget.
-</thinking>
-
 # Laser Cutting Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for laser cutting services. Fill it out to get a quote for your project.

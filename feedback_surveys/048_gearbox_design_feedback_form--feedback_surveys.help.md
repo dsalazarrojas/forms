@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gearbox_design_feedback_form - Help Guide
 ## Purpose
 The gearbox_design_feedback_form is a form used to collect feedback on the design quality of a gearbox. This form is intended for internal use to gather data on the design's performance and identify areas for improvement.

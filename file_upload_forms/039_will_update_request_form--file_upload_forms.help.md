@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # will_update_request_form - Help Guide
 ## Purpose
 The will_update_request_form is used to request an update to an existing record. This form helps users provide necessary information to initiate an update process.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's online diagnostic evaluation. It is intended for use in a healthcare setting, and its purpose is to collect data from patients or individuals who are undergoing online diagnostic evaluation. This form will help the healthcare provider to get a better understanding of the patient's health status and make informed decisions about their care. 
-
-Please note that this form is a public adaptation of a hypothetical form, and its content may not be comprehensive or up-to-date. It's always best to consult with a healthcare professional for accurate and personalized information.
-</thinking>
-
 # online_diagnostic_evaluation_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consular ID Card Renewal Application Form - Help Guide
 ## Purpose
 This form is used to renew a consular ID card for individuals who wish to update their identification information. Please fill out the form accurately and thoroughly to ensure a smooth and efficient renewal process.

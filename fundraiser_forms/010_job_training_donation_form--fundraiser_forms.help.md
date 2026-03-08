@@ -1,5 +1,3 @@
-<thinking>As the form purpose is to collect information from donors for job training programs, the form should be designed to gather relevant details such as donation amount, donor name, email, address, and donation description. This information will help track and manage donations effectively. To avoid duplication, donors with the same name and address should not be allowed to submit multiple forms. Each field should be filled out accurately and thoroughly to ensure that the data is reliable and consistent.</thinking>
-
 # Job Training Donation Form - Help Guide
 ## Purpose
 The Job Training Donation Form is designed to collect information from donors who wish to support job training programs. By completing this form, you will provide essential details that help us track and manage donations effectively.

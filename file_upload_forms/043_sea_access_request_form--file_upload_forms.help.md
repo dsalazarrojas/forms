@@ -1,7 +1,3 @@
-<thinking>
-This form is used by Sea Access Requestors to request access to restricted areas. The purpose of this form is to provide necessary information about the requestor, the vessel they are requesting access with, and the details of their request. To ensure accuracy and consistency, please note that this form is only for requesting access to sea areas and the information provided will be used to assess the request. If you have already submitted a request, please do not resubmit, as duplicate requests may delay the processing of your original request.
-</thinking>
-
 # Sea Access Request Form - Help Guide
 ## Purpose
 The Sea Access Request Form is used by individuals to request access to restricted areas for sea-related activities.

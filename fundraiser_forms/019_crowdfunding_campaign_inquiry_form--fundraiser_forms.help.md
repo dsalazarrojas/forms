@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather information from users who are interested in launching a crowdfunding campaign. It asks for contact details and basic personal information from the user. This form is intended for internal use only and does not collect any sensitive or financial data. The form is not affiliated with any form platform and is a custom creation using public survey metadata. ...</thinking>
-
 # Crowdfunding Campaign Inquiry Form - Help Guide
 ## Purpose
 The Crowdfunding Campaign Inquiry Form is a tool for users to gather information about launching a crowdfunding campaign. Fill out this form to provide your contact details and get in touch with us to discuss your campaign.

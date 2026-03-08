@@ -1,7 +1,3 @@
-<thinking>
-The Flower Inventory Report Form is used to track flower stock levels and manage stock replenishment. This form is designed to collect information about flower stock levels, conditions, and replenishment needs. It will help flower vendors and buyers track and manage their flower stock levels effectively, reducing the risk of stockouts and overstocking. The form is used in various stages of flower trading, including stock checking, stock checking and replenishment planning, and stock inventory management.
-</thinking>
-
 # Flower Inventory Report Form - Help Guide
 ## Purpose
 The Flower Inventory Report Form is a tool used to track flower stock levels and manage stock replenishment. This form helps flower vendors and buyers to monitor and manage their flower stock levels effectively, reducing the risk of stockouts and overstocking.

@@ -1,13 +1,3 @@
-<thinking>
-This help guide aims to assist users in filling out the monologue_tournament_entry_form. Before diving into the form details, let's briefly review the form's purpose and ensure it's the right context.
-
-The "monologue_tournament_entry_form" is designed for users to submit entries to a tournament, which likely involves sharing a monologue or speech. Each form field has been generated based on public survey topic metadata, ensuring it's an original adaptation and not derived from any form platform.
-
-To confirm, this form is for a competition where users will submit a monologue (a written or recorded speech), accompanied by images (headshot and two photos). Ensure that you're in the correct context and that this form is relevant to your needs.
-
-Please note that some fields are required for the form to be considered complete.
-</thinking>
-
 # monologue_tournament_entry_form - Help Guide
 ## Purpose
 This form is designed for users to submit entries to a monologue tournament, including a written or recorded monologue and accompanying images (headshot and two photos).

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect new client information for acupuncture treatment. This form should only be used for new clients and not for returning clients who have already been seen at the office. The purpose of this form is to gather essential information about the client's personal details, medical history, and preferences for treatment. This includes demographic information, medical background, and consent to treatment. 
-</thinking>
-
 # Acupuncture New Client Form - Help Guide
 ## Purpose
 The Acupuncture New Client Form is a comprehensive form designed to gather essential information about you, the client, before starting treatment. This information will help us tailor your treatment plan to your specific needs and ensure your comfort and safety during and after treatment.

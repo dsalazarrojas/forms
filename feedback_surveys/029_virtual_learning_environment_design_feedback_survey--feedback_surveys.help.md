@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the design of virtual learning environments. It aims to gather opinions on what features are most and least impressive, which features should be added or removed, and how to improve the user experience. This guide will help you fill out the form in a step-by-step manner, ensuring you provide clear and concise feedback.
-
-</thinking>
-
 # Virtual Learning Environment Design Feedback Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback on the design of virtual learning environments, helping us understand what works well and what can be improved.

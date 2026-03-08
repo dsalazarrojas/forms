@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be a comprehensive survey designed to gather information about a person's hair care habits and preferences. 
-The purpose of this form is to collect data on a user's current hair care routine, hair type, hair length, hair color, and other related topics to understand their hair care needs and preferences.
-This data is likely to be used to provide personalized recommendations for hair care products and services.
-This form appears to be a one-time survey and not a form designed to be filled out repeatedly or in a production-like environment.
-</thinking>
-
 # Hair Care Survey - Help Guide
 ## Purpose
 The Hair Care Survey is a form designed to gather information about a person's hair care habits and preferences. This data will be used to provide personalized recommendations for hair care products and services.

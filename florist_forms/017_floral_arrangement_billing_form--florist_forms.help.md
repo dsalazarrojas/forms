@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to bill the customer for a floral arrangement order. The form's purpose is to collect information related to the order details, customer information, billing information, and payment details. It is likely used by the florist to create an invoice for the customer. To ensure the form is filled out correctly, it's essential to understand that it's not intended for duplicate or outdated orders.
-</thinking>
-
 # Floral Arrangement Billing Form - Help Guide
 ## Purpose
 The Floral Arrangement Billing Form is used by the florist to create an invoice for a floral arrangement order. This form collects information related to the order details, customer, billing, and payment details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for applicants to apply for accessibility grants for projects that support accessibility initiatives. It captures information about the applicant, project details, and grant requirements. The purpose of this form is to gather necessary information to ensure that the grant is utilized for its intended use.
-</thinking>
-
 # Accessibility Grant Application Form - Help Guide
 
 ## Purpose

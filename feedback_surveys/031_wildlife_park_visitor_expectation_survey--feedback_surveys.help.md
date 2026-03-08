@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is for gathering feedback from visitors about their experiences at the wildlife park, not for general contact or registration purposes. The form should be completed by those who have already visited or plan to visit the park, and the information collected will help the park staff understand visitor expectations and preferences.
-</thinking>
-
 # Wildlife Park Visitor Expectation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and expectations when visiting the Wildlife Park. Your feedback will help us improve the services and facilities we offer to make your visits more enjoyable and memorable.

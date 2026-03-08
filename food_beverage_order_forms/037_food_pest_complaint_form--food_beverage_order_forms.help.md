@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who have experienced a food pest complaint. The form's purpose is to gather relevant details about the incident, allowing the customer to express their concerns and provide any necessary contact information. To ensure that the form is completed correctly, review the following instructions and explanations for each field.
-
-The internal logic of the form appears to be based on gathering incident details, customer contact information, and any necessary follow-up actions. The form does not seem to have any specific requirements for non-duplication or relevance checks, as all fields are either true or false. However, it is essential to understand the form's purpose to complete it accurately.
-
-</thinking>
-
 # Food Pest Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who have experienced a food pest complaint. The form aims to gather incident details, customer contact information, and any necessary follow-up actions.

@@ -1,25 +1,3 @@
-<thinking>
-The form is intended to collect information for donations to the Square Food Bank. The form will help us understand who is donating, why they are donating, and what they are donating. This information will be used to track and manage the donations, as well as follow up with the donors for further information or to request additional donations in the future. 
-
-The form is not intended to be used for any other purpose than for collecting information for the Square Food Bank donations. This is a single-purpose form and should not be used for any other type of donation or purpose. 
-
-The field labels and descriptions have been written to be clear and concise, but may require clarification or additional guidance in certain areas. 
-
-The form is intended to be completed by the donors themselves, or by authorized representatives of the donor's organization. 
-
-The fields have been designed to be easy to understand and fill out, with clear labels and instructions. 
-
-The form will be reviewed for completeness and accuracy before submission. 
-
-The form can be completed in multiple pages, with the first page asking the donor to choose between two options for the type of donation they are making, and the second page asking for more detailed information about the donation. 
-
-The form will only ask for relevant and necessary information to be completed by the donor. 
-
-The form will be stored and secured in accordance with the organization's data protection policies and procedures. 
-
-The form will be reviewed and updated regularly to ensure it remains relevant and accurate.
-</thinking>
-
 # Square Food Bank Donation - Help Guide
 
 ## Purpose

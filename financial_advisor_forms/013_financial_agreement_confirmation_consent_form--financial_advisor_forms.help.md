@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Agreement Confirmation Consent Form - Help Guide
 
 ## Purpose

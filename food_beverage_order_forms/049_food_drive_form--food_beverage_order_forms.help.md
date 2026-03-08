@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Drive Form - Help Guide
 ## Purpose
 The Food Drive Form is a tool for collecting information from users about their food and toiletry needs. This form helps us better understand your requirements and provide you with the most relevant support.

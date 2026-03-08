@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from various stakeholders in the project, including team members, external stakeholders, project management officers, customers, project participants, project leaders, project sponsors, and other stakeholders. The purpose of this form is to understand their level of engagement, satisfaction, and any issues or concerns they may have with the project. This form is intended to be completed by the project team, project leaders, and other stakeholders who want to provide feedback on their involvement in the project.
-
-To complete this form, you will be asked to select the stakeholders who are involved in your project, provide their contact information, rate your satisfaction with the project, and provide any comments or feedback you may have.
-
-The form is structured into two main sections: the first section asks you to identify the stakeholders who are involved in your project, and the second section asks for additional information about each stakeholder. Please complete the form accurately and thoroughly to provide valuable feedback to the project team.
-
-</thinking>
-
 # Multi Stakeholder Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from various stakeholders in the project, including team members, external stakeholders, project management officers, customers, project participants, project leaders, project sponsors, and other stakeholders.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information for tax report submission requests. This form is for internal use, so it's essential to ensure that the information provided is accurate and consistent. To avoid duplication or errors, please make sure to review the form carefully before submitting it. Also, ensure that the Submission Type and Tax Year fields are correctly filled out. A wrong submission type or tax year may lead to unnecessary delays or processing issues.</thinking>
-
 # Tax Report Submission Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for tax report submission requests. It's used to gather essential details about the submitted tax report, including the submission date, submitted person's details, and submission status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing form for placing an order at an Italian restaurant called Bellissimo Italy Super Saturday. The form is used to gather information from customers about their order preferences, including their name, contact information, order details (type of meal, pasta selection, pizza selection, etc.), dietary restrictions, special requests, and payment method. The form is designed to be completed online or in-person and is intended to facilitate efficient processing of customer orders.
-</thinking>
-
 # Bellissimo Italy Super Saturday - Help Guide
 ## Purpose
 To place an order at Bellissimo Italy Super Saturday, please complete this form to inform us of your preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # video consultation informed consent form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from patients prior to video consultations. It collects patient information, consent to communicate, medical history, allergies, medications, medical conditions, emergency contacts, and signatures from both the patient and clinician. The form ensures that both parties are on the same page and aware of their roles and responsibilities.

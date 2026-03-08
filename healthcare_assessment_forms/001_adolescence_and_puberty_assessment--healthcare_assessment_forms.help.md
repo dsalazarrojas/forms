@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a participant's personal details, puberty-related concerns or symptoms, and emotional wellbeing. It is intended for use in a healthcare setting to assess the participant's development and provide guidance for clinicians or counselors. To avoid duplication of effort, please note that this form should only be filled out by participants who have not already completed the assessment.
-
-</thinking>
-
 # Adolescence And Puberty Assessment - Help Guide
 ## Purpose
 The Adolescence And Puberty Assessment form gathers information about a participant's personal details, puberty-related concerns or symptoms, and emotional wellbeing. This data is collected for clinicians or counselors to provide guidance on the participant's development.

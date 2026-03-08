@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect business account information for credit applications. It's essential that the business owner or representative completes this form accurately to ensure a smooth application process. Before filling out this form, ensure that the information is up-to-date and correct. Please do not duplicate business accounts. If you're unsure about any of the fields or have questions, please reach out to us for assistance.
-</thinking>
-
 # Credit Application For Business Account Form - Help Guide
 
 ## Purpose

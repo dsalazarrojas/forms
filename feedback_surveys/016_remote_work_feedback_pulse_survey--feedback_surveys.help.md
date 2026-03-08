@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees about their remote work experience. This feedback is crucial for understanding the effectiveness of remote work arrangements and identifying areas for improvement. By providing this information, employees can help inform the development of policies and practices that support the success of remote work arrangements.
-</thinking>
-
 # Remote Work Feedback Pulse Survey - Help Guide
 ## Purpose
 The Remote Work Feedback Pulse Survey is designed to gather feedback from employees about their experiences with remote work. This information helps us understand what's working and what areas need improvement, enabling us to develop and refine our remote work policies and practices.

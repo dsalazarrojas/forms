@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Neuroprotection Assessment Form - Help Guide
 
 ## Purpose

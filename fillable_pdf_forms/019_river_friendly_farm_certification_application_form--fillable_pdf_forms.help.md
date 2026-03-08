@@ -1,13 +1,3 @@
-<thinking>
-This form is used for farmers to apply for River Friendly Farm certification. The certification aims to recognize farms that implement sustainable practices and manage water resources effectively. Before completing the form, ensure you understand the certification requirements and the type of information you need to provide. 
-Please note that this form is for new applications; if you have previously submitted an application, ensure you are not duplicating it.
-
-Also, note that this form is not for farmers who already have a River Friendly Farm certificate. If you are an existing certified farmer, please contact your certifying agency for further information.
-
-The form is divided into two pages; each page has multiple questions that will guide you through the application process. Below is a detailed explanation of each field to help you complete the form accurately.
-
-</thinking>
-
 # River Friendly Farm Certification Application Form - Help Guide
 
 ## Purpose

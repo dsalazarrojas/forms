@@ -1,12 +1,3 @@
-<thinking>
-The "customer_wellness_survey" form is a crucial tool for gathering essential information about customers' physical and emotional well-being. This form is designed to help health coaches and professionals in the medical field assess the needs and conditions of customers, providing personalized guidance and support. By completing this form, customers can share their symptoms, health concerns, and contact information, enabling healthcare providers to offer tailored assistance and care.
-
-Please note that this form is intended for internal use within a medical or wellness organization, and its contents may be sensitive in nature. It is essential to complete this form carefully and accurately to ensure the best possible support and care.
-
-This form is composed of 25 fields, each with its own specific purpose and instruction. Below, we will guide you through each field, explaining its purpose and requirements in detail.
-
-</thinking>
-
 # customer_wellness_survey - Help Guide
 ## Purpose
 The customer_wellness_survey form is designed to gather information about customers' physical and emotional well-being, enabling healthcare professionals to provide personalized guidance and support.

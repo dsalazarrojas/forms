@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for logging flight data and recording information about individual flights. It is intended to be filled out by pilots or other authorized personnel after each flight, providing details such as the date of entry, tail number, aircraft make and model, flight hours, pilot information, and other relevant details.
-
-Before filling out this form, please ensure that you have not already logged the flight data, as duplicating entries will not be allowed. Please refer to the relevant procedures and guidelines for your organization to ensure compliance.
-
-This form is used to record flight data for maintenance, training, and other purposes. The information collected will help in identifying any issues or problems encountered during the flight and aid in the planning and preparation of future flights.
-
-</thinking>
-
 # Aircraft Tail Number Log Form - Help Guide
 ## Purpose
 The Aircraft Tail Number Log Form is used to record and track flight data for maintenance, training, and other purposes.

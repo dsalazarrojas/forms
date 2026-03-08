@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-
-This form is designed to collect guest registration information for events. The form is meant to be filled out by guests who are attending an event. The fields are intended to capture basic contact information, event details, and other relevant data. The form is **not** meant to be used for other purposes, such as employee or staff registration. 
-
-Before filling out the form, please check if you have already registered for this event. If you have, please do not fill out the form again. 
-
-</thinking>
-
 # Guest Intake Form - Help Guide
 
 ## Purpose

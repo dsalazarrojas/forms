@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to create and manage detailed menu items for food and beverages in a restaurant. It allows users to select menu items, describe them, set their price, ingredients, and status. This form is typically used by restaurant staff to input and manage menu content. This guide should cover all fields and help users understand how to use it effectively.
-</thinking>
-
 # Detailed Food Menu - Help Guide
 ## Purpose
 The "Detailed Food Menu" form is designed to help restaurant staff create and manage menu items with precision. It helps ensure that menu content is up-to-date and accurate, which in turn enhances customer satisfaction and experience.

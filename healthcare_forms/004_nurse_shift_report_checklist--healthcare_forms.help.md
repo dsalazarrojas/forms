@@ -1,6 +1,4 @@
-# <thinking> This help guide is intended to explain the purpose and completion process of the Nurse Shift Report Checklist form. The form is designed to gather information about patients' vital signs, medical conditions, medications administered, and other relevant details during a nurse's shift. This guide will cover the form's purpose, how to complete it, and provide explanations for each field. The purpose of this form is to ensure accurate and comprehensive documentation of patient care during a shift. </thinking>
-
-# Nurse Shift Report Checklist - Help Guide
+# # Nurse Shift Report Checklist - Help Guide
 ## Purpose
 The Nurse Shift Report Checklist is a form used to document patient care during a shift. It gathers information on patient identification, vital signs, medications administered, and other relevant details. The purpose of this form is to provide accurate and comprehensive documentation of patient care, ensuring continuity of care and patient safety.
 

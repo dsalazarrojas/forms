@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Security And Safety Feedback Survey - Help Guide
 
 ## Purpose

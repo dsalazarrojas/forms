@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and survey responses from users about their experiences with crime control support services. To ensure the form is being used correctly, please note that it is intended for users who have had personal experiences with crime control support services. If you are not a user of these services, please do not submit this form. Additionally, please be aware that submitting this form will not provide any direct benefit or reward to you.
-</thinking>
-
 # crime_control_support_fund_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and survey responses from users about their experiences with crime control support services. We want to hear about your experiences and preferences to improve the support services provided by us.

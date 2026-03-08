@@ -1,11 +1,3 @@
-<thinking>
-
-The "Feedback on Giving and Receiving" form is a crucial tool for gathering information on how individuals perceive the quality of feedback they receive and give in their work-related interactions. The purpose of this form is to identify areas where feedback may be improving and to understand the effectiveness of different channels used for giving and receiving feedback.
-
-Before filling out this form, please ensure you are not submitting duplicate responses. If you have previously completed this form, do not submit again, as your answers will not be recorded.
-
-</thinking>
-
 # feedback_on_giving_and_receiving - Help Guide
 ## Purpose
 The "Feedback on Giving and Receiving" form is designed to gather information on how individuals perceive the quality of feedback they receive and give in their work-related interactions. This form will help identify areas where feedback may be improving and understand the effectiveness of different channels used for giving and receiving feedback.

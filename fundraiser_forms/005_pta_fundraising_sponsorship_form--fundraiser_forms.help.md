@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for individuals or organizations to sponsor the PTA (Parent-Teacher Association) by providing financial support. This form will help the sponsor's information to be captured and recorded for future reference. To avoid duplication of data, the form should only be submitted once the sponsor has been previously approved or if they have not submitted a form in the past year.
-</thinking>
-
 # PTA Fundraising Sponsorship Form - Help Guide
 ## Purpose
 The PTA Fundraising Sponsorship Form is designed to collect information from individuals or organizations interested in sponsoring the PTA. This form helps us understand the sponsor's preferences and requirements, ensuring we can effectively communicate and manage our fundraising efforts.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is used to document a form used in an online flower delivery business. The form is meant to capture information necessary for a user to place an order for flowers. The form is designed to be simple and easy to use, with clear and concise labels. The form fields include contact information, payment method, date and time of order, additional comments, email and phone number, and order status.
-</thinking>
-
 # Online Flower Order Form - Help Guide
 ## Purpose
 The online flower order form is designed to help users place an order for flowers. This form captures the necessary information to fulfill the order, including contact details, payment method, and order status.

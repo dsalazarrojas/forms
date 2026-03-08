@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information for donations to startups, allowing users to input their contact details, donation preferences, and startup information. 
-The form is designed to be completed by individuals interested in supporting startups, and will help us understand their interest and preferences. 
-Before starting, please note that some fields are required to ensure we can accurately process your donation. 
-Please ensure that all fields are filled in accurately and truthfully, as this will help us understand your needs and preferences. 
-We appreciate your interest in supporting startups, and we're excited to learn more about you!
-</thinking>
-
 # startup_fund_donation_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in supporting startups. The form includes fields for personal details, donation preferences, and startup information.

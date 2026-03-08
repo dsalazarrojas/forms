@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who need to download a legal guide. This form is part of our organization's knowledge base, and we strive to provide accurate and up-to-date legal guides in various formats.
-To avoid duplication, we recommend filling out the form only once with your correct contact and purpose details. If you need to download multiple legal guides, please contact our support team directly.
-We will use the information provided to ensure we send you the correct legal guide and contact you if needed for further clarification.
-</thinking>
-
 # Legal Guide Download Form - Help Guide
 ## Purpose
 This form is designed to gather information from users who need to download a legal guide. Please fill out this form with your details to receive the necessary legal guidance.

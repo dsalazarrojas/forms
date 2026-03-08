@@ -1,5 +1,3 @@
-<thinking>This form, called "emergency_claim_form," is used to collect information about emergency claims. It is likely used in a healthcare setting, such as hospitals or medical facilities, to document incidents or claims that require immediate attention. This form might be used to report accidents, injuries, or other unexpected events that require medical treatment or insurance claims. The form should only be used for emergency situations and not for routine or regular claims. It's essential to ensure that the form is completed accurately and thoroughly to ensure that the necessary information is recorded correctly.</thinking>
-
 # emergency_claim_form - Help Guide
 ## Purpose
 This form is used to document and manage emergency claims in a healthcare setting.

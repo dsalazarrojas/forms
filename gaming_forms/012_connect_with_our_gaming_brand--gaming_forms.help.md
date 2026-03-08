@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form to help us connect with our gaming community and gather information about our brand. This form will be used to collect player information, preferences, and contact details to better understand our audience and provide more valuable experiences.
-Before proceeding, please ensure that this information is not already captured in our existing systems to avoid duplication of efforts.
-
-</thinking>
-
 # Connect With Our Gaming Brand - Help Guide
 ## Purpose
 This form is designed to gather information from the gaming community and help us understand their interests, preferences, and contact details. By filling out this form, you'll be helping us provide better experiences for our players, partners, and stakeholders.

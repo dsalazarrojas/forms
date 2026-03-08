@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess team dynamics and collaboration within a team. It is used to gather feedback from team members on their experiences and feelings about their team leads, collaboration frequency, communication style, and overall trust and quality of collaboration. Please only complete this form if you are a team member or team lead. If you have already completed this form, please do not re-submit your feedback to avoid duplication of responses.
-</thinking>
-
 # Cross Team Collaboration Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from team members on their experiences with team leads, collaboration frequency, communication style, and overall collaboration quality.

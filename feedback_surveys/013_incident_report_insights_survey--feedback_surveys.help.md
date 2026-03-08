@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help incident reporting teams gather insights and information about incidents that have occurred. It is intended for use by staff members to report and analyze incidents in a structured format. Please fill this form only if you have encountered an incident and want to provide more information to the incident reporting team. If you have already reported an incident, please do not submit a duplicate report.
-</thinking>
-
 # incident-report-insights-survey - Help Guide
 ## Purpose
 

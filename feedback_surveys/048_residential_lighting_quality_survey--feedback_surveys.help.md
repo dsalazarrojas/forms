@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Residential Lighting Quality Survey - Help Guide
 ## Purpose
 The Residential Lighting Quality Survey is designed to gather feedback from residents about their experiences with their lighting systems. This survey aims to assess the performance, energy efficiency, and overall satisfaction of their lighting fixtures and systems.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to obtain informed consent from clients for skin care procedures. The form will guide the client through a set of questions that help identify the type of procedure they are consenting to, the details of the procedure, and other relevant information such as the date and time of the procedure. 
-This form is designed to be completed by the client, but it can also serve as a template for practitioners to document the client's consent in a secure and efficient manner. The form fields are intended to be self-explanatory, but this guide is provided to ensure clarity and understanding for end-users.
-
-The form is part of the "healthcare" category, and its purpose is to ensure that clients are aware of and understand the procedures they are consenting to. The form can be completed online or offline, and its content is customizable to suit the needs of different skin care settings.
-
-This form does not require any additional setup or integration with other systems, as it is a self-contained form that can be used as is. Please note that some fields may require additional validation or processing based on specific business rules or regulations, but this is not within the scope of this form.
-
-</thinking>
-
 # Skin Care Consent Form - Help Guide
 ## Purpose
 The Skin Care Consent Form is used to document a client's informed consent for skin care procedures. The form is designed to be completed by the client and serves as a record of their understanding of the procedure and their agreement to undergo it.

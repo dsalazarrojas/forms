@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Vendor License Application Form - Help Guide
 ## Purpose
 This form is intended for food vendors who are applying for a food vendor license. It is used to collect information about the vendor's business, including their name, address, phone number, and other relevant details.

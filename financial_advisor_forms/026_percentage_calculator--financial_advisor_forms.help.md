@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate a percentage-based value from a given base value and percentage. To avoid confusion, let's quickly review the form purpose and fields to ensure you're in the right context. The form, "percentage_calculator", is meant to take in two primary values: "base_value" and "percentage", which are both numeric fields. The form has several additional fields that serve as hints or labels for the user's input. These fields are not editable and are meant to provide context for the user. The form does not seem to be duplicated in the system, based on the provided information.
-</thinking>
-
 # percentage_calculator - Help Guide
 ## Purpose
 The "percentage_calculator" form is a tool used to calculate a calculated value based on a given base value and a percentage.

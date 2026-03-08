@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from game developers about the expansion pack release details, internal approvals, promotional assets, release planning, and team info. This form is intended for internal use within a company or organization, and its purpose is to streamline the process of gathering necessary information before releasing an expansion pack. The form is not affiliated with any form platform and is an original creation using public survey topic metadata. It is released under the Creative Commons BY 4.0 license, allowing users to modify and use it as needed.
-
-</thinking>
-
 # Expansion Pack Release Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from game developers before releasing an expansion pack. The data collected will be used to ensure a smooth and efficient release process.

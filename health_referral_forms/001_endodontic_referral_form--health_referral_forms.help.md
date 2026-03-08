@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Endodontic Referral Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information from patients for the endodontic referral process. It is intended for healthcare professionals to assess and manage patient referrals for root canal treatments. By using this form, you will be able to gather essential details about the patient's information, contact details, dentist information, procedure requirements, and referral status.

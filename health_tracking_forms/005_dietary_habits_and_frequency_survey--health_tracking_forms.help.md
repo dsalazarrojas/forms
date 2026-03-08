@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information on a person's dietary habits and frequency. It likely aims to collect data on the frequency of eating certain types of food, which could be used to monitor or analyze a person's eating habits. Please ensure that this form is not used in place of a professional medical consultation or advice. Before completing this form, ensure that you understand the purpose and relevance of the questions it asks.
-
-</thinking>
-
 # Dietary Habits And Frequency Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your dietary habits and frequency. It will ask you about your eating habits, food choices, and other relevant details to help us better understand your nutritional habits.

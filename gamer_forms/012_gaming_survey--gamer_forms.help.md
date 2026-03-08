@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect anonymous gaming-related data from players or gamers. The form's purpose is to gather demographic information and opinions on gaming experiences.
-The purpose of this form is to collect information about players or gamers, and it is not affiliated with or endorsed by any gaming platform. The form is an original creation, based on public survey topic metadata, and is released under CC BY 4.0.
-This form is intended to be filled out by individuals who play games, either professionally or recreationally.
-</thinking>
-
 # Gaming Survey - Help Guide
 ## Purpose
 This form is designed to collect anonymous gaming-related data from players or gamers. The form aims to gather demographic information and opinions on gaming experiences.

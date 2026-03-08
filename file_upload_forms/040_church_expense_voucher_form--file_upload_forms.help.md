@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for church administrators and staff to request reimbursement for various expenses related to church activities. The form is intended for internal use and is not intended for public viewing. To ensure accurate and efficient processing, please complete the form carefully and thoroughly. Before starting, ensure that you have attached all necessary receipts and documentation. The form is divided into sections for ease of completion. This guide will walk you through each section to help you complete the form accurately.
-</thinking>
-
 # Church Expense Voucher Form - Help Guide
 ## Purpose
 The Church Expense Voucher Form is used by church staff to request reimbursement for expenses related to official church activities. Use this form to submit your reimbursement requests for approval and payment.

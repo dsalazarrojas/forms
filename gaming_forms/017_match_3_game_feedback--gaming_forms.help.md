@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from players of a Match 3 game. The form is designed to gather information about the player's experience with the gameplay and any technical issues they encountered. The form will likely be used by the game developers to improve the game and provide a better experience for players. This form should only be used by players who have experienced the game and are providing genuine feedback. Please do not submit this form if you are not a genuine player.
-</thinking>
-
 # Match 3 Game Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from players of a Match 3 game. We want to hear about your experience with the game, including any issues you encountered during gameplay and any features you enjoy.

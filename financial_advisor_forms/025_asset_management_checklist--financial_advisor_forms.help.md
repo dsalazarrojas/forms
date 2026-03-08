@@ -1,9 +1,3 @@
-<thinking>... 
-
-To create an effective help guide for this form, let's break down the purpose and content of the Asset Management Checklist form. The form is designed to help financial advisors and clients review and assess the client's financial assets, goals, and progress. It's used for regular check-ups and planning sessions to ensure that the client's investment strategy and risk tolerance are aligned with their goals. The form covers various aspects of financial management, including asset allocation, diversification, fee analysis, and performance review. By completing this form, both the client and financial advisor can track progress, identify areas for improvement, and make informed decisions.
-
-</thinking>
-
 # Asset Management Checklist - Help Guide
 ## Purpose
 The Asset Management Checklist is a tool used by financial advisors and clients to review and assess the client's financial assets, goals, and progress. This form helps ensure that the client's investment strategy and risk tolerance are aligned with their goals, facilitating informed decisions and effective planning.

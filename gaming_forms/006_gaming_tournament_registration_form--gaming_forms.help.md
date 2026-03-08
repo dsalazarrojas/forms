@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for users to register for a gaming tournament. It collects information about the team, team members, and game settings. The form should be filled out by team captains or representatives to provide their team's details and preferences for the tournament.
-
-This form will be used to determine the eligibility and qualification of the team for the tournament. Please ensure that all required fields are filled out accurately and completely.
-
-To avoid duplication of efforts, please do not submit the same team more than once.
-
-</thinking>
-
 # Gaming Tournament Registration Form - Help Guide
 ## Purpose
 This form is for teams to register for a gaming tournament. It collects necessary information to verify team eligibility and settings.

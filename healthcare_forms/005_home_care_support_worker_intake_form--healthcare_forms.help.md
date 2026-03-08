@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a home care support worker. The purpose of this form is to gather necessary details to process and manage the worker's onboarding, qualifications, and experience. It is intended for internal use by the healthcare organization.
-The form should not be completed by individuals who are not directly involved in the onboarding process or who do not have access to the necessary information.
-The form should not be used as a substitute for other established processes or procedures.
-</thinking>
-
 # Home Care Support Worker Intake Form - Help Guide
 ## Purpose
 The Home Care Support Worker Intake Form is a tool for healthcare organizations to collect and manage information about home care support workers. It helps to streamline the onboarding process, ensuring that all necessary details are gathered and recorded accurately.

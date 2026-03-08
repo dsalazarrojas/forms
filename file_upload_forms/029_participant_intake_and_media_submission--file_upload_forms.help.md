@@ -1,8 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to collect participant details and media submissions, which is crucial for various purposes such as research, events, or community engagement. This form should only be used for participants who have provided consent, and the form should not be reused if a participant's consent has already been obtained. 
-
-</thinking>
 # participant_intake_and_media_submission - Help Guide
 ## Purpose
 The participant intake and media submission form is used to collect essential information from participants in various contexts, such as research, events, or community engagement. This form is used to obtain consent and gather media submissions from participants.

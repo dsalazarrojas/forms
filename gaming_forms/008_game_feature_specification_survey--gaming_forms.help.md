@@ -1,14 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Game Feature Specification Survey" form. The purpose of this form is to gather information from users about the features they would like to see in a game. The form consists of multiple pages, each with different types of fields such as text, select multiple, select one, time, number, and date. 
-
-This form is likely being used to gather feedback from users to inform game development decisions. The form is not intended for users with disabilities or technical expertise, making it important to have clear and concise instructions and explanations for each field. The form is not meant to be completed by users with duplicate or irrelevant input, so we will focus on providing instructions that help users understand the purpose of each field.
-
-Before starting this guide, let's review the form structure. The form has 9 fields across 3 pages. Page 1 is for feature priorities, Page 2 is for player experience, and Page 3 is for game feature specification survey. Each page has a mix of field types, including text, select multiple, select one, time, number, and date.
-
-Given the structure, it seems the form is designed to gather both user preferences and feedback. The form's fields will be explained in detail below.
-
-</thinking>
-
 # Game Feature Specification Survey - Help Guide
 
 ## Purpose

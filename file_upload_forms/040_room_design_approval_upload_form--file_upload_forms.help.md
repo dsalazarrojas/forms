@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a generic upload form for room design approval, allowing users to upload relevant files and specify details about the upload. It's designed for uploading files related to room design approval, which could be a crucial part of any facility management or architectural project.
-The form doesn't seem to be designed for specific file size, type, or category restrictions, but it does include options for selecting whether the room design is approved or not, and a category and subcategory for categorizing the upload. The form also includes a field for specifying the room ID, name, and upload file.
-To ensure that users complete the form correctly, we'll need to review its purpose and usage context. Is it intended for internal use only, or is it accessible to external parties? Are there any specific file size or type requirements? Are there any particular category or subcategory settings we should be aware of?
-</thinking>
-
 # Room Design Approval Upload Form - Help Guide
 
 ## Purpose

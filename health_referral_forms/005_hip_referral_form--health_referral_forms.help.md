@@ -1,7 +1,3 @@
-<thinking>
-We have to consider the context and purpose of this form to provide the best possible guidance for the user. This form seems to be related to medical referrals, where patients are being referred to a specialist or hospital. It's likely used for administrative purposes, such as keeping a record of referrals, tracking patient information, and ensuring proper communication between healthcare providers.
-</thinking>
-
 # Hip Referral Form - Help Guide
 ## Purpose
 This form is used to document medical referrals from one healthcare provider to another. It contains fields for patient information, medical conditions, and referral details.

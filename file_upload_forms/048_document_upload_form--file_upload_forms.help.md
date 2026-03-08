@@ -1,7 +1,3 @@
-<thinking>
-The goal of this task is to create a user-facing help guide for the "Document Upload Form". This form appears to be used for uploading documents with the option to select a type of document. However, it seems that "Document URL" field might be an unnecessary field, as it's not really necessary to upload a document if you're going to provide a URL. Also, it's not immediately apparent what the "Document URL" field is intended for. 
-</thinking>
-
 # Document Upload Form - Help Guide
 ## Purpose
 This form allows users to upload documents and select the type of document being uploaded.

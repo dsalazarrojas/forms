@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who use the community-sharing fridge, a shared resource for food distribution and consumption. The purpose of this form is to understand the experiences, needs, and preferences of fridge users, including their satisfaction with the service, quality of food available, cleanliness, and overall impact on their lives. This form will help the fridge management team identify areas for improvement and make informed decisions to enhance the user experience.
-</thinking>
-
 # Community Sharing Fridge Feedback - Help Guide
 ## Purpose
 The Community Sharing Fridge Feedback form is used to collect feedback from fridge users, allowing the management team to understand their experiences and preferences, and to make informed decisions to improve the service.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trading_card_deck_submission_form - Help Guide
 ## Purpose
 The trading card submission form is designed to collect information from players who wish to submit their trading card decks for a tournament, league, or showcase. This form helps the organizers and administrators of these events to gather the necessary details to review and verify the submitted decks.

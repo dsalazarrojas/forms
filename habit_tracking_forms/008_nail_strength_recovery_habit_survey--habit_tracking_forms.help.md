@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect information from users about their nail health routines, recovery habits, and product use. This form is meant to help us understand how users care for their nails and what methods they use to maintain their nail health. Please note that this form is for general information purposes and is not meant to be used for any medical diagnosis or treatment. Please answer the questions as accurately as possible to help us better understand your nail health and habits...</thinking>
-
 # Nail Strength Recovery Habit Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your nail health routines, recovery habits, and product use. By answering this form, you will help us understand how to better support your nail health needs.

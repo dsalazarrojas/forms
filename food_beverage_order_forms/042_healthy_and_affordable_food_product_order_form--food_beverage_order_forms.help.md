@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Healthy And Affordable Food Product Order Form - Help Guide
 
 ## Purpose

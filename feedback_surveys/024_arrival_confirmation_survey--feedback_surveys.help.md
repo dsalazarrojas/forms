@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from visitors arriving at a facility or office to assess their experience with the check-in process, including factors such as punctuality, helpfulness of staff, wayfinding, and overall comfort and cleanliness of the facility. The survey aims to identify areas for improvement and provide an opportunity for visitors to provide additional feedback or suggestions. By completing this form, respondents can provide valuable insights to help improve the check-in process and create a better experience for future visitors.
-
-This form consists of three main sections: Respondent Information, First Impression, and Feedback and Improvements. The first section collects basic contact information and arrival details. The second section, First Impression, is intended to gauge the initial impression of the visitor upon arrival, and the final section, Feedback and Improvements, invites visitors to share any areas of improvement and provide additional feedback.
-
-Before providing feedback, please ensure that you have not already shared your feedback on this form. This helps us avoid duplication of effort and ensure that your opinions are taken into account.
-
-</thinking>
-
 # Arrival Confirmation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the check-in process, overall experience, and identify areas for improvement to enhance the visitor experience.

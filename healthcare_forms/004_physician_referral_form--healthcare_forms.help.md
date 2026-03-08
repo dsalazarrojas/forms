@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for healthcare providers to collect information about patients and their medical referrals. It captures details such as patient demographics, physician information, referral details, and communication preferences. The form also asks about integration and HIPAA compliance, suggesting it's a form designed for healthcare organizations that handle sensitive patient data. Given the extensive list of fields, this form likely serves as a comprehensive tool for medical referrals, follow-ups, and patient management.
-
-</thinking>
-
 # Physician Referral Form - Help Guide
 ## Purpose
 The Physician Referral Form is a tool designed to help healthcare providers collect and manage information about patient referrals. It is intended for use in medical settings where sensitive patient data needs to be handled securely and efficiently.

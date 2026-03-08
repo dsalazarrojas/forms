@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of medical professionals regarding Epiglottitis, a rare but serious medical condition. It is intended to gauge the degree of understanding of the condition's definition, symptoms, and treatment options. This form is for educational purposes only and is not a substitute for a medical professional's opinion or diagnosis.
-
-Before proceeding, ensure that the questions and answers are relevant to your practice and not a duplication of information you already possess. 
-
-Please note that the form is designed to assess confidence levels rather than actual medical knowledge. Therefore, please answer each question based on your confidence in the information provided.
-
-</thinking>
-
 # Epiglottitis Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the knowledge of medical professionals regarding Epiglottitis, a rare but serious medical condition. It is intended to gauge the degree of understanding of the condition's definition, symptoms, and treatment options.

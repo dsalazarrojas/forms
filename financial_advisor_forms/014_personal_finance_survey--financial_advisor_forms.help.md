@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Personal Finance Survey" form to ensure users understand its purpose and how to complete it effectively.
-The form is designed to gather information about an individual's financial situation, including income sources, expenses, investments, savings, and financial goals.
-To determine if the form is relevant, let's consider the following factors:
-1. The form is intended for individuals who are interested in managing their personal finances.
-2. The form asks for sensitive information, so it's essential to ensure users understand its purpose and how to fill it out correctly.
-3. The form has multiple pages and fields, but each field has a clear label and description, which should be sufficient for users to understand its purpose.
-</thinking>
-
 # Personal Finance Survey - Help Guide
 ## Purpose
 The Personal Finance Survey is designed to help individuals assess their financial situation, set financial goals, and make informed decisions about their money management. This form will guide you through a series of questions to gather essential information about your income, expenses, investments, and financial goals.

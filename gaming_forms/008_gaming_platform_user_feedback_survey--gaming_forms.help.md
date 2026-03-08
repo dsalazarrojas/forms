@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather user feedback on the gaming platform, specifically to measure player satisfaction and identify areas for improvement. It's essential to keep the questions focused and relevant, avoiding duplication of efforts in the field of player experience. The form will be used by game developers and platform administrators to get an understanding of player engagement, content satisfaction, and areas for game development and feature implementation.
-</thinking>
-
 # gaming_platform_user_feedback_survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback about your experience with the gaming platform. Your input will help us identify areas for improvement and develop new features that you would like to see.

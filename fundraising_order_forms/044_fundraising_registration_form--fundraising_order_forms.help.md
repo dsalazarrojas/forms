@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "Fundraising Registration Form" used for users to input their information for fundraising purposes. This form is intended for users who want to register their donations, whether it's a one-time or recurring donation. Before proceeding, please ensure you have filled out all required fields and double-check that you are not duplicating any existing entries. If you've filled out this form before and have already registered for fundraising, your previous entry might be overwritten. Please contact the administrators if you're unsure about your existing status.
-</thinking>
-
 # Fundraising Registration Form - Help Guide
 ## Purpose
 The Fundraising Registration Form is used to gather information from users who want to participate in fundraising. This form helps us track and manage donations for our campaigns and ensure accurate record-keeping.

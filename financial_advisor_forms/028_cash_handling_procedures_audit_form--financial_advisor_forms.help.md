@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to support end-users in understanding and completing the "Cash Handling Procedures Audit Form" effectively.
-</thinking>
-
 # Cash Handling Procedures Audit Form - Help Guide
 ## Purpose
 This form is intended to evaluate the adherence to cash handling procedures, policies, and regulations in an organization. The form assesses various aspects of cash handling, including documentation, access controls, safe security, counting procedures, reconciliation, and variance investigation. The goal is to identify areas of improvement and ensure that cash handling processes are followed correctly.

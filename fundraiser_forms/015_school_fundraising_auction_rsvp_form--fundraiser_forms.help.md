@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about an event, specifically an auction, that is organized to raise funds for a school. The form is likely to be used by teachers, administrators, or other school staff to RSVP (Respond "Yes" or "No") about their intention to attend an event, and to gather contact information, such as phone numbers and email, from attendees. The form also collects information about the event, like date, time, and location. The form might be used to track the number of attendees, their relation to the school, and other details about the event.
-</thinking>
-
 # School Fundraising Auction RSVP Form - Help Guide
 ## Purpose
 This form is designed to gather information about the school fundraising auction event.

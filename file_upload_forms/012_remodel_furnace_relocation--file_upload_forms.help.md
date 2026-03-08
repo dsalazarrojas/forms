@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm not entirely certain what "Remodel Furnace Relocation" means, but based on the form fields provided, I'm assuming it's a form for clients to submit information and plans for a home renovation project. The purpose of this form is to collect data from clients about their home address, renovation plans, and schedule. The form seems to be used in a context where the client needs to specify details about their home and project schedule. I'll proceed with creating a help guide based on this assumption.
-</thinking>
-
 # Remodel Furnace Relocation - Help Guide
 ## Purpose
 This form is used to collect information from clients for a home renovation project, specifically a "Remodel Furnace Relocation" project.

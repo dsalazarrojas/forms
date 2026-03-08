@@ -1,11 +1,3 @@
-<thinking>This form is intended for users to fill out a template for an editable resume. The form is designed to collect information about a person's personal details, job experiences, skills, and education. The form has multiple sections, each with a series of questions or fields for the user to fill out. The purpose of this form is to create a comprehensive and structured resume that the user can edit and customize as needed.
-
-To complete this form, the user should start by entering their personal details, which include their personal details. The user should then enter their resume objective, skills, work experience, and job titles of previous employment. The form also includes fields for education and employment status, allowing the user to detail their qualifications and employment history.
-
-Each section of the form has specific fields that the user must fill out. For example, the "Personal Details" section has fields for name, phone number, and email. The "Objective" section has a field for the user to describe their career goals. The "Skills" section allows the user to select multiple skills from a dropdown menu. The "Work Experience" section has fields for job title, company, employment status, and years of service. The "Education" section has fields for school name and graduation date. The "Work History" section has fields for job title, company, employment status, and years of service.
-
-It is essential to fill out each field accurately and completely, as the information will be used to create a comprehensive and effective resume. Users should ensure that they have filled out all required fields, as indicated by the required/optional labels. Users should also proofread their answers for grammar and spelling errors before submitting the form.</thinking>
-
 # Editable Resume Form - Help Guide
 ## Purpose
 

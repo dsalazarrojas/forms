@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to sign up for a meal train program. A meal train is a service that provides meals to people who may be experiencing food insecurity or have difficulty accessing food. The form is intended to gather contact and meal information from customers, including their name, contact email, phone number, address, and any other relevant notes. The form will be used to onboard customers into the meal train program and ensure they receive the necessary meals and support. Please ensure that all required fields are filled out accurately and truthfully to ensure the best possible experience for the customer.
-
-Please note that this form is meant to be completed by customers who are signing up for the meal train program. If you are not a customer of the meal train program, please do not complete this form.
-</thinking>
-
 # Meal Train Sign Up Form - Help Guide
 ## Purpose
 The Meal Train Sign Up Form is used to collect information from customers who want to participate in the meal train program. It helps us to onboard customers and provide them with the necessary meals and support.

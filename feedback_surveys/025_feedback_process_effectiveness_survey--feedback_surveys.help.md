@@ -1,7 +1,3 @@
-<thinking>
-The Feedback Process Effectiveness Survey form is designed to collect valuable insights from your organization on the effectiveness of its processes. This form is meant to be used by anyone who wants to contribute to the improvement of the company's feedback processes. Please ensure that you have all the necessary permissions and approvals before completing this form, as it contains sensitive information about your feedback processes and the tools you use.
-</thinking>
-
 # Feedback Process Effectiveness Survey - Help Guide
 ## Purpose
 This form aims to collect feedback on the processes in place, their effectiveness, and the tools used to manage feedback.

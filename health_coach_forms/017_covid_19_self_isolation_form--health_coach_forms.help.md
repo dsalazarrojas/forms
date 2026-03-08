@@ -1,7 +1,3 @@
-<thinking>This help guide is intended for users who need to fill out the COVID 19 Self Isolation Form. This form is used to gather information about your self-isolation status, which will be reviewed by health authorities to determine when you are eligible to return to work. The form includes multiple fields to gather details about your health, work, and contact information. It is essential to fill out the form accurately and completely, as it will be used to assess your isolation status and ensure you adhere to company policies.
-
-This guide will walk you through the form fields, their purpose, and how to fill them out correctly. Please read each field explanation carefully before proceeding.</thinking>
-
 # COVID-19 Self Isolation Form - Help Guide
 ## Purpose
 The COVID-19 Self Isolation Form is used to gather information about your self-isolation status to help health authorities determine when you are eligible to return to work.

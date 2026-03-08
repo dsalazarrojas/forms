@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facilities Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the facilities they have used. The purpose of this form is to gather information about their experiences, satisfaction levels, and comments regarding various aspects of the facilities, such as services, staff, equipment, and overall condition. The collected feedback will help us identify areas for improvement and enhance the facilities' quality of service.

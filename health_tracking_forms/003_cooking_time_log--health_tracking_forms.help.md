@@ -1,5 +1,3 @@
-<thinking>...This form is designed for logging and tracking cooking time for a recipe. It is meant to provide a quick and easy way to record the time spent preparing and cooking a dish, including the total time, prep time, and cook time. This form is likely to be used by chefs, cooks, or home cooks who need to record and track their cooking time for various recipes. The form does not have any specific requirements or constraints, so it can be filled out for any type of recipe and cooking scenario... </thinking>
-
 # Cooking Time Log - Help Guide
 
 ## Purpose

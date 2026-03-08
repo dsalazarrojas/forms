@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for a form designed to gather information from clients before performing a hair volumizing treatment. The form aims to collect essential details such as client preferences, treatment options, and consent. 
-
-This form likely serves to ensure that both the stylist and the client are on the same page, and the client's expectations are met during the treatment. It also likely helps to document the client's consent and preferences for future reference.
-
-Before we dive into the form details, please note that the form is divided into several sections, each designed to collect specific information. We will explain each section and field in the following sections.
-
-</thinking>
-
 # Hair Volumizing Powder Application Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients before undergoing a hair volumizing treatment. It helps to document client preferences, treatment options, and consent, ensuring that both the stylist and client are on the same page.

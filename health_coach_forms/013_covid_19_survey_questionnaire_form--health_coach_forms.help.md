@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals about their experiences and concerns related to COVID-19. It will help healthcare professionals understand the severity and impact of the virus on individuals, which can inform public health strategies and policy decisions. This form should only be filled out by people who have had a COVID-19 diagnosis or have been in contact with someone who has been diagnosed. If you have already filled out this form in the past, please do not fill it out again.
-</thinking>
-
 # Covid 19 Survey Questionnaire Form - Help Guide
 ## Purpose
 This form collects information from individuals about their COVID-19 experiences and concerns. It helps healthcare professionals understand the virus's impact and inform public health strategies.

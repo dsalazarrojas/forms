@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive informed consent form for acupuncture treatment. It gathers necessary information from patients, including their personal details, medical history, potential risks and side effects, and their understanding of the treatment. This form is likely to be used by healthcare providers in a clinical setting.
-
-To confirm relevance, the form covers essential aspects of patient information and informed consent in the context of acupuncture treatment. Non-duplication checks are necessary to ensure that each field is completed correctly and no duplicate information is provided.
-
-The following sections are included:
-- Patient personal details
-- Treatment specifics
-- Risks and side effects
-- Medical history
-- Acknowledgement of risks
-- Consent and signature
-
-Each section of the form serves a specific purpose and is required or optional based on the context and legal requirements. It is essential to review each field carefully to ensure accurate and complete information is provided before proceeding with treatment.
-</thinking>
-
 # Acupuncture Informed Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients before undergoing acupuncture treatment. It gathers essential information about the patient's identity, medical history, and understanding of the treatment process and potential risks.

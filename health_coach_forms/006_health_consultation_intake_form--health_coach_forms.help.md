@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information, contact details, and medical history for health consultation purposes. This form is designed to gather relevant data to help health coaches provide accurate and effective consultations. Please ensure that you are filling out the form for the intended purpose and not for any other reason. The form should not be used to collect data for other business purposes or for non-medical reasons. 
-</thinking>
-
 # Health Consultation Intake Form - Help Guide
 ## Purpose
 The Health Consultation Intake Form is designed to collect essential information from users to help health coaches provide personalized and effective consultations. This form is used to gather details about the user's health status, medical history, and contact information.

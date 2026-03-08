@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the skills and qualifications of a respiratory therapist. The purpose of this form is to gather information about the therapist's experience, licensure, core skills, equipment proficiency, hiring/staffing/training decisions, and other skills. This form is likely to be used in a healthcare setting to evaluate the qualifications of a respiratory therapist for a specific job or role.
-To ensure that this form is not duplicated or unnecessary, it's essential to review the current skills and experience of the respiratory therapist and compare them to the qualifications required for the specific job or role.
-</thinking>
-
 # Respiratory Therapist Skills Checklist - Help Guide
 ## Purpose
 This form is designed to assess the skills and qualifications of a respiratory therapist. The purpose of this form is to gather information about the therapist's experience, licensure, core skills, equipment proficiency, hiring/staffing/training decisions, and other skills. This form is likely to be used in a healthcare setting to evaluate the qualifications of a respiratory therapist for a specific job or role.

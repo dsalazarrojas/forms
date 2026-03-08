@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the "Personal Credit Application Form", I need to understand the form's purpose and the user's needs. This form is used for personal financial purposes, likely for applying for loans or credit applications. The form collects personal information such as name, contact details, employment status, income, and financial history. It's likely used by individuals to provide information to financial institutions for credit checks or loan applications. I will ensure the explanation is concise and practical for end-users.
-
-This guide will be used by users who are unfamiliar with the form's requirements and purpose. It will explain each field in simple terms, avoiding technical jargon and complex business logic. If a field label is weak or unclear, I will provide a best-effort explanation based on the provided YAML fields.
-
-The guide will be organized in a clear and structured manner, starting with the form's purpose, followed by instructions on how to complete it, and then a field-by-field explanation. Each field will have a clear and concise explanation, using bullet points for easier reading.
-
-</thinking>
-
 # Personal Credit Application Form - Help Guide
 ## Purpose
 The Personal Credit Application Form is used for personal financial purposes, such as applying for loans or credit applications. It collects personal information to assess your financial history and eligibility for credit.

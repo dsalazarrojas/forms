@@ -1,7 +1,3 @@
-<thinking>
-The "software_user_issue_inquiry_form" form is designed to collect information from software users regarding issues they are experiencing with the software. The form is meant to be completed by users who are experiencing problems with the software and need help from the support team. The form is not meant to be completed by support team members, as they will likely already have access to the necessary information and are the ones providing assistance. To ensure that users are not duplicating efforts, the form should only be completed once the support team has been contacted and the user has been directed to fill out this form by the support team.
-</thinking>
-
 # software_user_issue_inquiry_form - Help Guide
 ## Purpose
 The software_user_issue_inquiry_form is a tool used to collect detailed information from software users regarding issues they are experiencing with the software. This form is intended for users to provide a clear and concise description of the problem they are facing, allowing the support team to better understand and assist with the issue.

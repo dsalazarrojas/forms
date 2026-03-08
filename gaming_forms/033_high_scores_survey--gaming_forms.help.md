@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and high score information for a game, allowing users to input their personal details, score, and feedback, as well as game-specific information such as game title, game ID, and game platform. The form is likely used in a game community or rating system to help players track and share scores and feedback.
-
-To check for relevance: this form is used to collect user feedback and high score information for a game, which is a common practice in game communities and rating systems. This form appears to be relevant to this context.
-
-To check for non-duplication: I have not seen an identical form in my knowledge base, so it's likely a one-off form.
-</thinking>
-
 # High Scores Survey - Help Guide
 ## Purpose
 The High Scores Survey form is used to collect user feedback and high score information for a game. This form helps the game community or rating system to track and share scores and feedback.

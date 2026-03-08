@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dropbox RFP Upload Form - Help Guide
 
 ## Purpose

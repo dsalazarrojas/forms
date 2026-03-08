@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and satisfaction information from users about a specific health product. The purpose of this form is to collect data on the user's experience with the product, including their overall satisfaction, rating, and feedback. This information will be used to improve the quality and effectiveness of health products.
-
-The form is organized into a series of questions that cater to different aspects of the user's experience. We want to ensure that the form is clear and easy to complete, so we've designed it with a focus on simplicity and user-friendliness.
-
-</thinking>
-
 # Health Product Satisfaction Survey - Help Guide
 ## Purpose
 

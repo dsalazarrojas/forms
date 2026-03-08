@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the "Milkshake Machine Feedback Survey" form. The purpose of this form is to gather feedback on the performance of the milkshake machine, including its taste, customer service, and overall condition. This feedback will help the company identify areas for improvement and provide better service to its customers. 
-
-Please ensure that the form is being completed for the intended purpose and not for any other reason, to avoid duplication of effort. If you are unsure about the form's purpose, please contact the form's administrator for clarification.
-</thinking>
-
 # Milkshake Machine Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the milkshake machine's performance, including its taste, customer service, and overall condition. Your input will help us improve our services and provide better experience for our customers.

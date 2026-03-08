@@ -1,12 +1,3 @@
-<thinking> 
-**Internal Reasoning Block**
-
-This form is designed for end-users to submit their applications for a Cost Share Program. The purpose of this form is to collect relevant information about the project, contact person, and funding requirements. This form will help the program administrators review and evaluate the applications to provide funding support.
-
-**To prevent form duplication, please ensure that you have not submitted the same project for funding through this program previously.**
-
-</thinking>
-
 # Cost Share Program Application - Help Guide
 ## Purpose
 The Cost Share Program Application form is designed to collect information about your project for funding support. Please fill out this form thoroughly and accurately to ensure a smooth review process.

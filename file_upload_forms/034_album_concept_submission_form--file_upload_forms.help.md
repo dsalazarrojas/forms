@@ -1,9 +1,3 @@
-<thinking>
-
-This form, titled the "Album Concept Submission Form", is designed to guide artists and bands through the process of submitting their music album concepts to labels, managers, or other industry professionals. The form aims to collect information about the artist's identity, project details, and goals. The form's structure and fields are meant to be comprehensive and user-friendly, ensuring that artists can provide a clear and concise representation of their work.
-
-</thinking>
-
 # Album Concept Submission Form - Help Guide
 ## Purpose
 This form helps artists and bands submit their album concepts to labels, managers, or other industry professionals. It gathers information about the artist's identity, project details, and goals.

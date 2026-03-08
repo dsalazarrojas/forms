@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "fn_open_staff_application", is designed for staff members to apply for open gaming positions. The form will be used to collect demographic information, role preference, and other relevant details from applicants. This form is not intended for existing staff members who are already employed in the gaming department.
 
 Before proceeding with this form, please ensure that you are submitting a new application for an open gaming position. If you are an existing staff member, please do not submit this form as it will not be processed.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users on their experience with the arts organization's public relations efforts. The purpose of this form is to help the organization better understand how well they are communicating with their audience and identify areas for improvement. It's essential to complete this form accurately to provide valuable insights. Please ensure you have not already submitted this form, as duplicate submissions may affect the survey's effectiveness.
-
-</thinking>
-
 # Arts Public Relations Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with the arts organization's public relations efforts. The goal is to understand how well the organization is communicating with its audience and identify areas for improvement.

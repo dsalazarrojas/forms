@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # honor_roll_graduation_recognition_form - Help Guide
 ## Purpose
 The "Honor Roll Graduation Recognition Form" is used to acknowledge and celebrate students' academic achievements by recognizing them on their graduation. This form is meant to provide a formal record of a student's academic accomplishments and can be used to generate a certificate or document for the student to keep as a memento.

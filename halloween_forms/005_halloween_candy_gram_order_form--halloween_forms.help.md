@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for Halloween-themed candy grams. The form is designed to collect customer information, order details, and candy gram preferences. Each field in the form is intended to provide essential information to facilitate the order process. It's essential to understand the form's purpose and fill it out accurately to ensure a smooth and error-free order placement process.
-</thinking>
-
 # Halloween Candy Gram Order Form - Help Guide
 ## Purpose
 

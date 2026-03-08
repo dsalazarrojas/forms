@@ -1,25 +1,3 @@
-<thinking>
-This form is intended to collect information about an employee's W-4 form, which is a form used for employee withholding allowances. The purpose of this form is to gather data on the employee's tax status, employer's information, and other relevant details. This form is likely used for tax-related purposes and is intended to be completed by the employee. 
-
-The current state of the form does not indicate any duplication of the form for any other purpose. However, it would be good to ensure that the form is not used for any other unrelated purpose in the future to maintain data integrity and user trust.
-
-Before proceeding, please note that this form has a mix of required and optional fields, so make sure to fill out all required fields. The form has a few select fields where you can choose from multiple options. Please ensure to choose the correct option for each field.
-
-This form has a few date fields, please ensure to use the correct date format as required in the hint or field description.
-
-This form has a few address fields, please ensure to enter the correct address format as required in the hint or field description.
-
-This form has a few text fields, please ensure to enter the correct information in the required format as specified in the hint or field description.
-
-This form has a few select fields, please ensure to choose the correct option for each field.
-
-This form has a few date fields, please ensure to use the correct date format as required in the hint or field description.
-
-Please make sure to fill out all required fields correctly before submission.
-
-Please note that this form is a generic template and might need to be customized according to your organization's specific requirements and policies.
-</thinking>
-
 # W4 Form - Help Guide
 ## Purpose
 

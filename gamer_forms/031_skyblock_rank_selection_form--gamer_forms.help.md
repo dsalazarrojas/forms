@@ -1,10 +1,3 @@
-<thinking>
-We'll create a help guide for a form with the following YAML fields:
-The form collects information from a "Gamer" in a platform, likely a community or organization.
-The form likely serves as an initial intake or registration process for the Gamer, and its purpose is to gather basic details such as name, application ID, rank, server preference, email, phone number, date of availability, time of availability, and any additional notes.
-We should ensure the form is not being used for non-gamer purposes, as the name suggests it is.
-</thinking>
-
 # Gamer Form - Help Guide
 ## Purpose
 The Gamer Form is a registration process for a "Gamer" in a platform. It collects essential details such as name, application ID, rank, server preference, email, phone number, date of availability, time of availability, and any additional notes.

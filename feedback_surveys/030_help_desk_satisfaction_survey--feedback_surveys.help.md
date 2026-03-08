@@ -1,5 +1,3 @@
-<thinking>... This form is intended to measure the effectiveness and quality of our help desk services. The feedback collected will help us understand how well our support team is performing and where we can improve our services. This form should only be used to provide feedback after an interaction with our support team, and should not be used to report technical issues or ask questions not related to the support experience. Please ensure that the form is not filled out multiple times for the same incident. ...</thinking>
-
 # help_desk_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with our help desk service. Your input will help us understand what we are doing well and where we can improve.

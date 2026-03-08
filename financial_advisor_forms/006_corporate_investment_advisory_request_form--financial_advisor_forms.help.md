@@ -1,7 +1,3 @@
-<thinking>... This form is used by clients to request investment advisory services from financial advisors. The form is designed to gather information about the client's investment goals, preferences, and details in order to provide tailored investment advice. The form is not intended for internal use and should only be used by clients who are seeking investment advice. Please do not use this form for any other purpose. To ensure consistency and accuracy, please review the form carefully before submitting it. 
-
-</thinking>
-
 # Corporate Investment Advisory Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients to provide personalized investment advice. It is intended for clients who are seeking investment advisory services from financial advisors.

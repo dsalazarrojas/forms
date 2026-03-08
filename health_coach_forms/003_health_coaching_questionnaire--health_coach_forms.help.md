@@ -1,18 +1,3 @@
-<thinking>
-
-The form, "Health Coaching Questionnaire", aims to collect data on an individual's overall health status, habits, and awareness. It seems to be designed for health coaches to assess their clients' or patients' health concerns, goals, and behaviors. This form likely helps coaches to understand their clients better and provide more effective guidance.
-
-To avoid redundancy, it's crucial to review the form's fields and ensure they don't overlap or ask similar questions. For example, questions about "health concerns" and "medication list" might be closely related, and the form might be asking too many questions on the same topic. 
-
-The form is composed of 14 pages or questions, each with its own set of characteristics (label, type, options, etc.):
-
-* Some questions are text fields for clients to describe their thoughts or feelings (e.g., general health concerns, mental health awareness, physical health awareness).
-* Some questions are multiple-choice lists for clients to select from (e.g., medical conditions, sleep patterns, exercise frequency, healthy diet, smoking status, stress management, health monitoring, health finances).
-* Some questions are single-choice questions (e.g., goal setting).
-* Some questions ask for numerical input (e.g., sleep patterns).
-
-</thinking>
-
 # Health Coaching Questionnaire - Help Guide
 
 ## Purpose

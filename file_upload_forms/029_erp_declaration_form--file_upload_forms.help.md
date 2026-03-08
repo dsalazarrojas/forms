@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the ERP Declaration Form. This form is designed to collect information related to Enterprise Resource Planning (ERP) declarations. It is a critical part of our company's internal processes and helps ensure that all ERP-related activities are properly documented and accounted for. It is essential to fill out this form accurately and completely to avoid any delays or errors in the process.
-
-Before starting, please note that some fields in this form are required, while others are optional. Make sure to review each field carefully before proceeding.
-
-</thinking>
-
 # erp_declaration_form - Help Guide
 ## Purpose
 The ERP Declaration Form is used to collect information related to Enterprise Resource Planning declarations. It is a critical part of our company's internal processes and helps ensure that all ERP-related activities are properly documented and accounted for.

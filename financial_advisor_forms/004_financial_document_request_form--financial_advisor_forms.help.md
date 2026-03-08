@@ -1,10 +1,3 @@
-<thinking>
-To create a helpful user guide for the Financial Document Request Form, I'll first need to understand the form's purpose and ensure it's not duplicating any existing documentation. From the provided YAML, the form appears to be used for requesting financial documents, likely for tax-related purposes or other financial inquiries. It's essential to ensure that this form is not redundant with any other forms within the organization.
-
-This guide will aim to explain the form's purpose and how to complete it, providing a clear understanding of each field. The guide will also cover any relevant tips to help users fill out the form accurately and efficiently.
-
-</thinking>
-
 # Financial Document Request Form - Help Guide
 
 ## Purpose

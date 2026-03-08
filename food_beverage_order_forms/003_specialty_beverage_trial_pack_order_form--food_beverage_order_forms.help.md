@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an AI-generated template, likely created for a food and beverage industry. Based on the metadata, it seems to be a "Specialty Beverage Trial Pack Order Form" used for customers to order specialty drinks or beverages. The form has 10 pages of text fields, which might indicate that it's used for a complex order process or requires detailed customer information. I'll assume it's a form for ordering a customized or specialty coffee or tea pack. This form doesn't have any required fields, which could be due to the nature of the industry or the specific use case. I'll create a help guide that provides a general explanation and assumes some business logic based on the available fields.
-</thinking>
-
 # Specialty Beverage Trial Pack Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order a specialty beverage trial pack. It's a multi-page form that collects information about the trial pack, including its title, label, and other relevant details. The form is intended to be completed by customers who are interested in trying out a selection of specialty beverages.

@@ -1,5 +1,3 @@
-<thinking>Before you begin, let's make sure this is the correct form. The purpose of this form is to capture information about the post-graduation career outcome of a respondent. It's designed to gather data on various aspects of their career, including their current job title, work hours, job satisfaction, and more. To ensure accuracy, please review the fields below to confirm that they align with your current situation.</thinking>
-
 # Post Graduation Career Outcome Survey - Help Guide
 ## Purpose
 

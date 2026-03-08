@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Credit Reference Request - Help Guide
 ## Purpose
 This form is used to request a credit reference for a specific individual. It is intended to be used by clients or customers to provide essential information about themselves for credit evaluation purposes.

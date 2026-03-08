@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and interaction data from users who have engaged with a chatbot. The purpose of this form is to understand how users perceive their experience with the chatbot, what they liked and disliked about it, and what they think could be improved. This form is not meant to be completed by users who have not interacted with the chatbot, so please ensure you have indeed interacted with the chatbot before filling out this form.
-
-This form is part of the "Daily Life Chatbot Interaction Survey" and is meant to collect data about user interactions. If you've already filled out this form, please don't repeat your response.
-
-</thinking>
-
 # Daily Life Chatbot Interaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and interaction data from users who have engaged with a chatbot. The purpose of this form is to understand how users perceive their experience with the chatbot, what they liked and disliked about it, and what they think could be improved.

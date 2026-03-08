@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to credit file investigations. It is intended to gather contact information, employment status, and other relevant details for the subject of the investigation. It is not intended for high-risk or sensitive investigations. Please fill out this form carefully and accurately to ensure that you are not duplicating work or causing unnecessary delays in the investigation process. Ensure that you have all necessary permissions to complete this form, as it may contain sensitive information.
-</thinking>
-
 # credit_file_investigation_request_form - Help Guide
 ## Purpose
 The credit file investigation request form is used to gather relevant information related to a credit file investigation. This form is designed to collect contact information, employment status, and other details for the subject of the investigation.

@@ -1,7 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided YAML schema for the Medical Volunteer Application form. This form is used for medical volunteers to apply for various roles in a healthcare setting. It captures personal and professional information, medical credentials, and other relevant details. The form is divided into sections to ensure that applicants provide the necessary information in a logical and organized manner.
-
-To ensure that the user completes the form correctly, we will provide a field-by-field explanation of each section, focusing on the specific details and requirements for each field.</thinking>
-
 # Medical Volunteer Application - Help Guide
 ## Purpose
 This form is used to collect information from medical volunteers, including their personal details, medical credentials, and availability for volunteer work. The collected data will be used to determine the applicant's qualifications and suitability for medical volunteer roles.

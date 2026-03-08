@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture feedback from evening of elegance event guests about their experience at the event. It is intended for event organizers and staff to understand what guests thought of the event, its entertainment, service, food, ambiance, and overall experience. Please note that some fields may be optional or have similar labels, and the purpose of this form is to gather as much information as possible from guests to improve future events.
-</thinking>
-
 # evening_of_elegance_guest_survey - Help Guide
 ## Purpose
 This guide will walk you through the evening_of_elegance_guest_survey form, designed to gather feedback from guests about their experience at the event.

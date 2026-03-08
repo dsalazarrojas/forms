@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Raffle Participation Form - Help Guide
 ## Purpose
 The Raffle Participation Form is designed to collect participant information and the amount contributed by each participant in a raffle drawing. This form is used to track and verify participant details and contributions. Please ensure you only submit the form once to avoid duplication of efforts.

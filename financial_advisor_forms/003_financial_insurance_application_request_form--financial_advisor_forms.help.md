@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers seeking financial insurance. The purpose of the form is to gather demographic data, financial history, and insurance preferences. To ensure accuracy, please fill out the form completely and consistently. This form does not need to be completed for every customer. Ensure the customer data is up-to-date and accurate. The form's output will be used for internal analysis and not shared with other departments.
-</thinking>
-
 # Financial Insurance Application Request Form - Help Guide
 ## Purpose
 This form collects information from customers seeking financial insurance. Please fill out the form completely and accurately to ensure proper processing of their request.

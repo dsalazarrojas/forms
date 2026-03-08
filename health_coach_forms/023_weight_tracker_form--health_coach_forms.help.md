@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help users track their weight over time. It is used in a health coaching context to monitor progress and set goals.
-</thinking>
-
 # Weight Tracker Form - Help Guide
 ## Purpose
 The Weight Tracker Form is a tool to track user's weight over time. It is designed to help users monitor their progress in a health coaching context.

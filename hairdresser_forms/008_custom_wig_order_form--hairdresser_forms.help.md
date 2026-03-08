@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Custom Wig Order Form, we must consider the form's purpose and the fields it contains. The form is likely designed to collect information from clients for wig orders, allowing hairdressers to efficiently process and fulfill requests.
-
-The form is composed of several fields that capture client information, hair type, color, size, style, and notes. It also includes fields for the submitted form's details, such as the date and time, and who submitted it (Client, Saloon, or Stylist). This form is probably used in a salon setting where hairdressers take orders and fulfill wig requests.
-
-The form appears to be quite comprehensive, capturing both required and optional information. It seems to be designed for both the hairdresser and client to reference the details of the order.
-
-</thinking>
 # Custom Wig Order Form - Help Guide
 ## Purpose
 The Custom Wig Order Form is a tool for hairdressers to collect and process wig orders from clients. It helps ensure that all required and relevant information is gathered to efficiently fulfill the client's request.

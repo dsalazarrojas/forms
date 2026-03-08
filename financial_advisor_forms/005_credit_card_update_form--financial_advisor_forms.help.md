@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update credit card information for a customer or client. It is used by financial advisors to manage and update credit card details in a centralized system. This form should only be used to update existing credit card information, not to create new cards. If you need to create a new credit card, please use the "Add Credit Card" form instead. Please ensure that the information you provide is accurate and up-to-date, as incorrect information may lead to issues with credit card processing or account management.
-</thinking>
-
 # Credit Card Update Form - Help Guide
 ## Purpose
 The Credit Card Update Form is used to update existing credit card information for customers or clients.

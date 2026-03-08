@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register patients for teledermatology services, enabling healthcare providers to access and manage patient data for remote consultations. Before using this form, ensure you have permission from the patient to share their data and that you have the necessary permissions to access it within your institution. 
-To confirm, please check with the relevant authorities if the following applies to your organization: Does your organization have established protocols for handling patient data, and do you have the authority to share this form with the intended users?
-</thinking>
-
 # Teledermatology Patient Registration Form - Help Guide
 
 ## Purpose

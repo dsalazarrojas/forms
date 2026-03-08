@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate the sign-up process for takeout subscriptions. To avoid duplication, ensure that you have not previously signed up for takeout subscriptions with this form. If you have any concerns or questions, please contact the support team.
-
-Please note that this form is used to collect information for takeout subscription purposes only. Any other use is not allowed without explicit permission from the takeout service provider.
-
-This form is not a replacement for any other form that may be used for other purposes, such as ordering food or making payment. If you are unsure, please contact the support team to clarify the usage of this form.
-</thinking>
-
 # Takeout Subscription Sign Up - Help Guide
 ## Purpose
 The Takeout Subscription Sign Up form is designed to allow users to easily subscribe to takeout services. By filling out this form, users will be able to select their preferred subscription plan and delivery frequency.

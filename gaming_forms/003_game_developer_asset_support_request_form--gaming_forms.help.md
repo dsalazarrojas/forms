@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from game developers to request support for their game development assets. This form ensures that developers can efficiently and effectively communicate their issues with assets, providing the necessary details for support teams to address the problems quickly and accurately. To prevent duplication of efforts, the form is designed to collect relevant information, including asset type, issue description, requested resolution, priority level, game genre, platform, asset version, current status, and support requested.
-</thinking>
-
 # Game Developer Asset Support Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from game developers to request support for their game development assets. Fill out this form to provide necessary details about your issue, and our support team will be able to assist you more efficiently.

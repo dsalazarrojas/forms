@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## industrial_site_access_control_request - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users who want to participate in a Speaking Contest. The purpose of this form is to collect data on the uploaded video entries, including the title of the entry, the video itself, the speaker's first name, last name, school or club name, and event name. The form is used to upload and categorize these entries for the Speaking Contest. This form is an original creation and not affiliated with any proprietary form platforms.
-
-</thinking>
-
 # Speaking Contest Video Upload Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data from users who want to participate in the Speaking Contest by uploading a video entry with their relevant information.

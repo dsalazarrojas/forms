@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be intended for monitoring the effectiveness of healthcare professionals, allowing for patient feedback to be captured and analyzed. This could be for quality control, performance evaluation, or patient satisfaction surveys.
-
-To ensure consistency and accuracy, it's essential to verify that this form is not being used in duplicate or redundant contexts within the same context.
-
-This form captures information about a patient, the healthcare professional providing services, the feedback rating provided by the patient, the date and time of the visit, and the specialties of the healthcare professional. It's essential to fill out this form accurately and honestly to get reliable results.
-
-The form can be used for various purposes, such as evaluating the performance of healthcare professionals, analyzing patient satisfaction, and identifying areas for improvement.
-
-This form is likely to be used by healthcare providers or administrative staff to collect and store data for monitoring and performance evaluation purposes.
-
-Before proceeding, please review this help guide to ensure you understand each field's purpose and how to fill it out correctly.
-</thinking>
-
 # Healthcare Professional Effectiveness Monitoring Form - Help Guide
 ## Purpose
 

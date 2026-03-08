@@ -1,12 +1,3 @@
-<thinking>... (Internal Reasoning Block)
-
-This form, "Neuro Agility Assessment Survey", is designed to evaluate an individual's preferences and tendencies in various areas of their work and personal life. The form is used to gather information about an individual's thinking style, learning style, communication style, problem-solving skills, feedback preferences, time management, work style, stress level, energy level, and motivation. The survey is likely used in a professional setting, such as in HR or talent development, to gain insights that can inform coaching, training, or development programs.
-
-The goal of this form is to help identify areas where an individual may be struggling or exceling, and provide suggestions for improvement or further growth. 
-
-It's likely that this form is a one-time survey, and the results should be taken in the context of the individual, their role, and their specific situation.
-
-</thinking>
 # Neuro Agility Assessment Survey - Help Guide
 ## Purpose
 The Neuro Agility Assessment Survey is designed to help you gain insights into your preferences and tendencies in various areas of your work and personal life. This information can be used to inform coaching, training, or development programs.

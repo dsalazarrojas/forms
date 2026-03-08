@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to track daily exercise activities. It is meant to be completed by users to log their exercise sessions, including the date, time, type, duration, and other relevant details. This form should only be used for personal exercise tracking and not for any other purpose. 
 
 </thinking>

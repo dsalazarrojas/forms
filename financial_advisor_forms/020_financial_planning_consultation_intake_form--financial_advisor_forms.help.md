@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from clients to help our financial advisors understand their financial planning needs and goals. 
-The purpose of this form is to collect relevant financial data to provide personalized advice and guidance. 
-Before completing this form, please ensure that you have not already submitted similar information to our office. 
-This form is not a substitute for a comprehensive financial plan or personalized advice, but rather a starting point for our consultation.
-</thinking>
-
 # Financial Planning Consultation Intake Form - Help Guide
 ## Purpose
 The Financial Planning Consultation Intake Form is a collection of questions designed to help our financial advisors understand your financial planning needs and goals. This form is intended to gather relevant information to provide personalized advice and guidance.

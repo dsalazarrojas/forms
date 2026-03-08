@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_listing_image_upload_form - Help Guide
 ## Purpose
 This form is designed for real estate professionals and property owners to upload images for their listings. The form collects information about the property details and multiple image uploads with captions. This form is meant to simplify the image upload process, allowing users to easily showcase their properties in a more comprehensive and visually appealing format.

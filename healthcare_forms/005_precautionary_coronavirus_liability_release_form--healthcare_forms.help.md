@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Precautionary Coronavirus Liability Release Form - Help Guide
 
 ## Purpose

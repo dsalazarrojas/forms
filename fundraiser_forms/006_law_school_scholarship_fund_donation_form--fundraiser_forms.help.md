@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from donors for the law school scholarship fund. This form is designed to be used by the law school to track donations, donor information, and payment details. It's intended to be used by the law school to manage the scholarship fund effectively.
-</thinking>
-
 # law_school_scholarship_fund_donation_form - Help Guide
 ## Purpose
 The law school scholarship fund donation form is used to collect information from donors for the law school scholarship fund. It includes fields for donor name, email, address, donation amount, payment method, date, time, and payment status.

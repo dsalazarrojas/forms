@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track information about a runner, likely for a running club or event. The purpose of this form is to gather essential details about the runner, including their name, contact information, and performance metrics such as distance and time. This information will be used to keep track of runner progress, provide feedback, and facilitate communication. It's essential to ensure that each runner's details are accurately recorded to avoid duplication and maintain a consistent database. Please review the form carefully to ensure you understand the requirements and provide accurate information.
-
-</thinking>
-
 # Runner Tracking Form - Help Guide
 ## Purpose
 The Runner Tracking Form is designed to collect and store information about runners for the organization's records and progress tracking.

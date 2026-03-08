@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Physical Fitness Survey" form is to gather information about an individual's physical fitness habits and preferences. This form will help us understand their exercise frequency, nutrition habits, sleep patterns, and other relevant details to provide personalized guidance and support. Please ensure you are only filling out this survey if you are a registered user or have been authorized to do so by a health coach or healthcare professional.
-</thinking>
-
 # Physical Fitness Survey - Help Guide
 ## Purpose
 The Physical Fitness Survey is designed to collect information about your physical fitness habits and preferences. This information will help us provide you with personalized guidance and support.

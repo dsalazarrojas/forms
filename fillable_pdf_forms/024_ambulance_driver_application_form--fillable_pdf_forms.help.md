@@ -1,30 +1,3 @@
-<thinking>
-The Ambulance Driver Application Form is a comprehensive form designed for those seeking to drive ambulances as part of the emergency medical services team. This form requires applicants to provide detailed information about their personal, professional, and driving history, as well as their physical ability and other relevant details.
-
-To be eligible for this form, the applicant must meet the following conditions:
-
-* Be at least 18 years old
-* Possess a valid driver's license
-* Have completed the required number of training hours
-* Be willing to undergo a background check
-* Be able to provide references
-
-The form is divided into several sections, including:
-
-* Position Information: This section requires applicants to select their desired position as an ambulance driver.
-* Personal Information: This section collects basic contact information, including name, address, and phone number.
-* Driver's License Information: This section asks for details about the applicant's driver's license, including the license number, state, and expiration date.
-* Driving Record: This section inquires about the applicant's driving history, including traffic violations and accidents within the past three years.
-* Certifications: This section requests information about any relevant certifications the applicant holds, such as EMT or CPR certification.
-* Employment History: This section asks for details about the applicant's previous employment history, including their current and previous employers.
-* Education: This section collects information about the applicant's highest level of education completed.
-* References: This section requests contact information for two professional references.
-* Additional Information: This section allows applicants to provide additional comments or information they feel is relevant to their application.
-
-Please note that the form requires the applicant to sign and date the form, which serves as a commitment to provide truthful information.
-
-</thinking>
-
 # Ambulance Driver Application Form - Help Guide
 
 ## Purpose

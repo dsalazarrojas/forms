@@ -1,7 +1,3 @@
-<thinking>
-The Meal Subscription Order Form is a critical tool for restaurants, cafes, and food establishments to manage meal orders, subscriptions, and customer information. This form is designed to be simple and easy to use, ensuring that customers can quickly and accurately provide the necessary information to place their orders. Before proceeding, please make sure you have not used this form previously, as it may cause duplicate orders.
-</thinking>
-
 # Meal Subscription Order Form - Help Guide
 ## Purpose
 The Meal Subscription Order Form is used to collect information from customers for meal subscriptions, including delivery dates, times, payment methods, and customer details. This form helps restaurants and cafes streamline the process of managing meal orders and subscriptions.

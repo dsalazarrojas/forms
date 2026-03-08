@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is for submitting Executive Programs project proposals, allowing project teams to gather necessary project information and evaluations. This form is designed to help project teams submit their projects in a structured and organized manner, ensuring that all required information is collected and easily accessible for review and approval.
-
-The form is divided into four sections: project details, project files, project evaluations, and additional files. Project teams should only submit one project proposal per form, and it is recommended to review and submit only once the form is complete to avoid duplication and ensure accuracy.
-
-To prevent duplication, project teams are encouraged to search for existing projects before submitting a new project proposal. This will help ensure that similar projects are not submitted multiple times, and resources are not wasted.
-
-</thinking>
-
 # Executive Program Project Submission - Help Guide
 ## Purpose
 This form is designed for project teams to submit Executive Program project proposals, allowing for a structured and organized submission process.

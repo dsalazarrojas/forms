@@ -1,12 +1,3 @@
-<thinking>
-This guide assumes that the "Minor Interaction Suitability Assessment" is being used by healthcare professionals to assess the suitability of interactions between adults and minors in a specific context. The purpose of this form is to gather information about the interaction, including the date, time, location, risk level, and any safety precautions taken. The goal is to determine whether the interaction was suitable or not.
-
-It is likely that this form is used in situations such as workplace investigations, incident reports, or risk management processes.
-
-It is also assumed that there will be no duplication of effort and that this guide will serve as a reference for users who are not familiar with the form.
-
-</thinking>
-
 # Minor Interaction Suitability Assessment - Help Guide
 ## Purpose
 The Minor Interaction Suitability Assessment form is a tool used to assess the suitability of interactions between adults and minors. It helps healthcare professionals gather information about the interaction, including the date, time, location, risk level, and any safety precautions taken.

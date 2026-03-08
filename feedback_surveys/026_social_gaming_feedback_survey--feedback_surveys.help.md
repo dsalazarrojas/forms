@@ -1,5 +1,3 @@
-<thinking>As the expert form designer and technical writer, I'll create a user-facing help guide for the "Social Gaming Feedback Survey" form. The purpose of this form is to collect feedback from players about their gaming habits, satisfaction, and preferences. Players will be asked about their social gaming habits, their satisfaction with different aspects of the game, and their game preferences, including multiplayer and single-player options. The form will also ask about the incentive offered for completing the survey and the frequency of their feedback. This feedback will help game developers to understand the player's behavior and preferences, and make informed decisions to improve the game experience.</thinking>
-
 # Social Gaming Feedback Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback from players about their social gaming habits, satisfaction, and preferences. Your input will help game developers understand your behavior and make informed decisions to improve the game experience.

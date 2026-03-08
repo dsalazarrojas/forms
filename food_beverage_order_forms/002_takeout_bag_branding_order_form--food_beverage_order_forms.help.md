@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for ordering takeout bags with custom branding for a store. The form collects information about the order, including the bag's preferred color, design, logo position, and material, as well as the customer's contact information and order instructions. The form is likely used by store staff to process orders for custom takeout bags with branding.
-</thinking>
-
 # Takeout Bag Branding Order Form - Help Guide
 ## Purpose
 The Takeout Bag Branding Order Form is used to process orders for custom takeout bags with branding for your store. This form is used to collect information about the order, including bag preferences and customer contact information.

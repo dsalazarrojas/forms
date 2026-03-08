@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect property-related documents, allowing users to upload and manage their property documents. This form is used for uploading and managing property documents, ensuring that the required information is accurately and efficiently submitted. To prevent duplicate submissions, users can only upload documents that are not already present in the database.
-</thinking>
-
 # Property Document Upload Form - Help Guide
 ## Purpose
 The Property Document Upload Form is used to collect and manage property-related documents. This form allows users to upload and store documents associated with properties, ensuring that the required information is accurately and efficiently submitted.

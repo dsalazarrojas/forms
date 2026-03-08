@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect submissions for quiz badges, likely for a educational or testing purpose. The form has 4 fields: first name, email, file upload, and badge selection. The purpose of this form is to collect demographic information and badges earned by users. This form likely aims to track user progress or achievements in a quiz-based system. To avoid duplication, it is essential to check if a user has already submitted this form before, especially if they have the same badge claim. The badge claim field is a select multiple field, allowing users to choose multiple badges they have earned. 
-</thinking>
-
 # Quiz Badge Submission Form - Help Guide
 
 ## Purpose

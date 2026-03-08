@@ -1,8 +1,3 @@
-<thinking>
-This form, "unss_functionality_feedback_survey", is used to gather feedback from users on the overall satisfaction and usability of a system or application. The purpose of this form is to collect data on how well users can perform tasks and find features in the system. This form will help us understand areas of improvement and identify any issues that need to be addressed.
-Before starting, please note that you are not required to fill out all fields, and you can skip any questions that do not apply to your experience with the system. However, please do not duplicate any answers as you will be providing your feedback for each question only once.
-</thinking>
-
 # unss_functionality_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the usability and overall satisfaction of a system or application.

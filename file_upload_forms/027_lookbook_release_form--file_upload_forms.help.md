@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to the release of a Lookbook, which is a collection of creative assets. This form is likely used to track the permissions and publication status of these assets. The form may be used by project managers or administrators to update the status of Lookbooks and ensure that all stakeholders are aware of their publication and accessibility. It is essential to complete this form accurately to maintain the integrity and security of the Lookbook release process.
-
-Before proceeding, please ensure that you have reviewed the relevant policies and procedures related to Lookbook releases. If you are unsure about any field or option, please seek clarification from your supervisor or a designated authority.
-
-This form should only be completed once for each Lookbook release. If you need to update the status of a Lookbook, please submit a new form for the updated status.
-
-Please note that this form is not a one-time submission. It is a process-oriented form, meant to be completed at various stages of the Lookbook release process.
-
-The following fields are explained in more detail below:
-</thinking>
-
 # lookbook_release_form - Help Guide
 ## Purpose
 This form is used to track the release of Lookbooks, ensuring that all stakeholders are aware of their publication and accessibility.

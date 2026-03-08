@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on the "zen transformation" process. It's crucial to gather this feedback to improve the user experience and address any issues that may be hindering the transformation process. Before submitting, ensure that the form has not already been filled in, as duplicate submissions might not be reviewed or processed.
-
-The feedback form is divided into several sections, each with a specific purpose. The form requires filling in only the first and last name, email address, and feedback message. All other fields are optional.
-
-The purpose of this guide is to assist users in understanding what each field is for and how to fill it out correctly, ensuring they provide the required information accurately.
-
-</thinking>
 # zen_transformation_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the "zen transformation" process from users. This feedback is essential to identify areas that need improvement and enhance the overall user experience.

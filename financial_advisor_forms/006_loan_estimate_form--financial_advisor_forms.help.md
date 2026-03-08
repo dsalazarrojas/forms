@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Loan Estimate Form" that explains its purpose, how to complete it, and what each field means, we first need to understand the form's purpose and requirements. This form is likely used for estimating loan information and calculating financial data related to loans. It seems to be used to gather information about the loan and estimate the financial outcomes of the loan. The form might be used by individuals, businesses, or institutions to estimate loan amounts, terms, and interest rates.
-
-The form has 12 fields with different labels: Loan Details, Loan Type, Loan Amount, Loan Term, Down Payment, Interest Rate, Loan Amount Paid Per Year, Monthly Payment, Loan Term, Annual Percentage Rate, Total Interest, and Total Interest Paid. Most of these fields are numerical or descriptive, with some of them being required or optional, indicating that the user needs to fill in some necessary information about the loan while some can be optional or not required. The loan type seems to be a multiple choice field, suggesting that the user has to select one or more options.
-
-To avoid duplication, we will focus on the unique aspects of the form, such as calculating financial data related to the loan and estimating its terms and amounts.
-
-</thinking>
-
 # Loan Estimate Form - Help Guide
 ## Purpose
 The Loan Estimate Form is used to estimate loan information and calculate financial data related to loans. It gathers necessary details about the loan to provide a clear estimate of the loan's terms and amounts.

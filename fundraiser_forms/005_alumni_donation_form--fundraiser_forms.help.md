@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect donations from alumni of an educational institution. The form is likely to be used by the alumni association or the institution's development office to track and acknowledge donations from alumni. This form is a crucial tool for maintaining the relationship between the institution and its alumni and for recording donations accurately. The form is not a replacement for other forms used for other purposes within the institution. For example, this form is for alumni donations, not general donations or other types of fundraising events. The institution should have a separate form for general donations and other purposes.
-
-</thinking>
-
 # Alumni Donation Form - Help Guide
 ## Purpose
 The Alumni Donation Form is a tool for collecting donations from alumni of an educational institution. It helps the alumni association or development office to track and acknowledge donations, maintaining the relationship between the institution and its alumni.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Barber Skills Assessment - Help Guide
 ## Purpose
 The Barber Skills Assessment form is designed to evaluate a barber's skills, abilities, and performance. This form helps assessors evaluate a barber's competence in various areas, providing a comprehensive picture of their strengths and weaknesses. The form is used to identify areas of improvement and provide feedback for growth and development.

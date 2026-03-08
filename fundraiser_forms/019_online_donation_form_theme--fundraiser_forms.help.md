@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_donation_form_theme - Help Guide
 
 ## Purpose

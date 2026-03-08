@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect data on an individual's alcohol intake habits, including frequency, quantity, and potential health risks. This information can be used to identify individuals who may be at risk for alcohol-related health issues and provide targeted support and resources.
-The form is not intended to be used as a substitute for professional medical advice. If you have concerns about your alcohol intake, please consult a healthcare professional.
-Before starting the form, please note that you will be providing sensitive information about your personal habits. Be honest and accurate in your responses to ensure the most effective use of this assessment.
-</thinking>
-
 # Daily Alcohol Intake Self Assessment Form - Help Guide
 ## Purpose
 This form is designed to help you understand your current alcohol intake habits and potential health risks associated with your consumption.

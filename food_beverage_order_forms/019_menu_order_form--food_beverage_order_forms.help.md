@@ -1,16 +1,3 @@
-<thinking>
-To ensure that the Menu Order Form meets the requirements and goals of the business process, it's essential to understand its purpose and the fields it contains. The form is designed to collect information from customers for a food and beverage order, including menu options, payment details, and personal contact information.
-
-The form's purpose is to streamline the ordering process, making it easier for customers to place their orders and for the business to process the payments and communicate with them.
-
-This form is not intended for general user registration or data collection. It's a specific form for ordering food and beverages.
-
-The form contains various fields that allow customers to provide necessary information. These include text fields for order details, payment information, and personal contact details such as name, address, and phone numbers. There are also fields for menu options, payment methods, and dates and times.
-
-Please see below for a detailed explanation of each field and how to complete the form.
-
-</thinking>
-
 # Menu Order Form - Help Guide
 ## Purpose
 The Menu Order Form is designed to collect information for a food and beverage order, making it easier for customers to place their orders and for the business to process payments and communicate with them.

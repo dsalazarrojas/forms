@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be completed by a healthcare professional to collect personal data about a new patient, including contact information and emergency contacts.
-The purpose of this form is to standardize patient data collection for healthcare providers.
-This form is a self-service tool, not intended for mass collection or automated submission.
-This form is designed for single patient data collection and is meant to be completed one patient at a time.
-</thinking>
-
 # New Patient Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect personal and contact information for a new patient, as well as emergency contact details.

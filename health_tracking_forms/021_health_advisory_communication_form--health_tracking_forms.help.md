@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect health-related information for patients, allowing healthcare providers to communicate with them effectively and efficiently. The form is intended for patients who are experiencing health issues or are at risk of experiencing health issues, and it provides a structured approach to collecting relevant medical history, treatment plans, and follow-up information. This form should not be used for routine or general health check-ups, but rather for specific health advisories or concerns.
-
-</thinking>
-
 # Health Advisory Communication Form - Help Guide
 ## Purpose
 This form is designed to collect health-related information from patients, including medical history, current health status, and follow-up details. The information gathered will help healthcare providers communicate effectively with the patient and provide the best possible care.

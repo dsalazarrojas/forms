@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to assess the influence of a substance on an individual's behavior or actions. The Substance Influence Assessment form is designed to gather information about a specific incident where a substance is suspected to have played a role. This form will help in evaluating the severity of the substance's influence and provide a clear understanding of the situation.
 
 The assessment will be conducted based on the details provided in this form, and it is essential to fill in the form accurately and thoroughly.

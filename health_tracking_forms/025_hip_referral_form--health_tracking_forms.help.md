@@ -1,10 +1,3 @@
-<thinking>
-We will generate a comprehensive user-facing help guide for the Hip Referral Form.
-
-To start, we need to clarify that this form is intended for healthcare professionals to collect and document patient information for referrals. The form likely helps healthcare providers gather necessary details before referring patients to specialists or other healthcare services. Please ensure you are using this form in the context of medical referrals, and not for other purposes.
-
-</thinking>
-
 # Hip Referral Form - Help Guide
 ## Purpose
 This form is designed to collect general and specific information from patients for medical referrals. It helps healthcare providers gather essential details to assess the patient's condition and create a tailored treatment plan.

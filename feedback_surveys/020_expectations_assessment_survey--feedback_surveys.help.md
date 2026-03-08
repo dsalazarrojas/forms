@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for the "Expectations Assessment Survey" form, which is a crucial tool for gathering feedback from users. This form is used to collect information on various aspects of user expectations and experiences. The guide will cover the form's purpose, how to fill it out, and a detailed explanation of each field.
-
-Before proceeding, please note that this form is designed for collecting feedback on specific expectations and ratings, and the ratings will help us understand how often these expectations are met or not. The form is open-ended, allowing users to provide any comments or notes they might have.
-
-Also, please ensure that the form is not a one-time survey, but rather a continuous assessment, so you may need to fill it out multiple times.
-
-</thinking>
-
 # Expectations Assessment Survey - Help Guide
 ## Purpose
 The Expectations Assessment Survey is a form used to collect feedback on your expectations and experiences. It helps us understand how often these expectations are met or not, allowing us to identify areas of improvement and make data-driven decisions.

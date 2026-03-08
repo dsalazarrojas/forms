@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information related to file uploads, specifically file type, demand details, and other relevant metadata. This form is likely used for inventory management, data collection, or file tracking purposes. The form's fields are intended to provide a comprehensive overview of file uploads, including type, size, format, upload date and time, and other associated details. Please ensure that you're filling out this form for the correct purpose and that you're not duplicating an existing entry. If you're unsure about any field, please review the form carefully before submission.
-</thinking>
-
 # file_upload_form_2 - Help Guide
 ## Purpose
 The form collects information related to file uploads, including file type, size, format, and associated metadata.

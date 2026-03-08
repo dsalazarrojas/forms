@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to participate in a storytelling tournament. The form is not affiliated with any form platform and is an original adaptation created using public survey metadata. It is released under CC BY 4.0 license, allowing users to modify and use it for their own purposes. To ensure form completion is relevant and non-duplicitous, please review the following guide.
-
-</thinking>
-
 # Storytelling Tournament Entry Form - Help Guide
 ## Purpose
 The Storytelling Tournament Entry Form is a digital entry form designed to collect participant information and submissions for a storytelling competition or tournament.

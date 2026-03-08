@@ -1,7 +1,3 @@
-<thinking>
-This form is used by potential clients to provide initial information to a life coach, helping them prepare for coaching sessions. The form collects contact details and personal information, which will be used to tailor coaching strategies and goals. Please note that this form is for new clients only and should not be filled out by existing clients. Ensure you only fill this out once, as duplicate submissions will be discarded.
-</thinking>
-
 # Life Coach Intake Form - Help Guide
 ## Purpose
 The Life Coach Intake Form is used to gather essential information from potential clients to create a personalized coaching plan tailored to their needs and goals.

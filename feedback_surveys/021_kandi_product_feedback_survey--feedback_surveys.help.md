@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the Kandi Product Feedback Survey form. This form is intended to collect feedback and suggestions from users about the product. To ensure that the form is filled out correctly, let's review the fields and their purpose.
-
-The form is divided into multiple pages, each with its own label, hint, and type of input. The fields include text inputs for feedback details and improvement ideas, select_one for feedback type, and note fields for issue report and feedback details. There are also five number inputs for ratings, each with a different label. To create a helpful guide, we need to break down each field and its purpose.
-
-</thinking>
-
 # Kandi Product Feedback Survey - Help Guide
 ## Purpose
 The Kandi Product Feedback Survey form is designed to collect feedback and suggestions from users about the product. This feedback will help us understand how to improve the product and better serve our users.

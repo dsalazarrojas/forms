@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to gather information from customers or fans who want to order a custom-made wristband related to a sports league. The purpose of this form is to collect contact information, product customization preferences, and order details. This form will guide users through a series of fields to gather all necessary data.
-
-The form will only be used for this specific purpose and will not serve as a general contact form or for other types of orders. 
-
-Please ensure that users understand that this form will not work for other types of orders and that any submissions outside of this specific purpose may cause unnecessary confusion or errors.
-
-Please note that the field types are defined as follows: 
-- text: a text entry field.
-- email: an email address field (will validate email format).
-- select_one: a dropdown with one option per item in the options list.
-- number: a numeric value input field.
-- note: a text area for additional comments.
-</thinking>
-
 # Sports League Fan Wristband Order Form - Help Guide
 ## Purpose
 This form is for ordering custom wristbands related to sports leagues. It will help the sports league management team to process and prepare your custom order.

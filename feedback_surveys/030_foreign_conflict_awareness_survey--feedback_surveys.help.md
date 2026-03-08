@@ -1,14 +1,3 @@
-<thinking>
-  This form is designed to gather information about an individual's awareness and views on foreign conflicts. It aims to collect data on their level of understanding, sources of information, and opinions on conflict resolution, prevention, and impact. This form will help identify areas of agreement and disagreement among respondents, providing valuable insights for stakeholders involved in conflict resolution and prevention efforts.
-
-  To ensure the form is filled out effectively, please consider the following:
-
-  1. Be honest about your level of awareness on the subject.
-  2. Only choose options that accurately reflect your opinions.
-  3. Be specific when providing information on sources and potential solutions.
-  4. If unsure, feel free to provide additional comments.
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 The Foreign Conflict Awareness Survey is designed to gather information about your views and opinions on foreign conflicts. This form will help us understand your level of awareness, sources of information, and opinions on conflict resolution, prevention, and impact.

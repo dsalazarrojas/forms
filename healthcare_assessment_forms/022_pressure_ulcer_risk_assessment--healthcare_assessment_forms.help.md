@@ -1,13 +1,3 @@
-<thinking>
-
-Before diving into the help guide, let's quickly confirm that we're creating a user-facing help guide for the "Pressure Ulcer Risk Assessment" form, which is part of the "healthcare_assessment_forms" category. This form is designed to assess the risk of pressure ulcers in patients, and it's likely used in a healthcare setting to identify individuals at risk and implement preventive measures.
-
-The form is structured into several sections, and each section is designed to gather specific information about the patient. The fields include Patient Info, Pressure Areas, Pain Score, Observations, Risk Score, Pressure Ulcer Risk Assessment Form, Care Targets, Notes, Submitted By, and Date Submitted.
-
-Let's review the form structure and each field's purpose to create a clear and concise help guide for end-users.
-
-</thinking>
-
 # Pressure Ulcer Risk Assessment - Help Guide
 
 ## Purpose

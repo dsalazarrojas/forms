@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Mission Understanding Survey - Help Guide
 
 ## Purpose

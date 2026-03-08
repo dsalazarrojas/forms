@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from gamers about their preferences and opinions on battle arena features, game settings, and playing habits. This survey aims to understand what gamers value most in a battle arena, how they prefer to play, and what improvements they would like to see. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using AI.
-
-To ensure accurate and relevant data, please complete this survey only if you are a gamer or have experience with battle arenas. If you are not a gamer, your responses may not reflect the target audience's opinions and preferences.
-
-This form will collect your demographic information, such as your gamer name, email address, and primary platform used to play. It will also ask about your preferences for battle arena features, game settings, and playing habits, including your preferred game title, arena, map size, game mode, and other important factors. Additionally, it will ask for your opinion on the most important features, visual quality, performance, matchmaking, and play schedule.
-
-Please answer the questions based on your personal preferences and experiences. If you have any additional feedback or suggestions, you can include them in the provided text fields.
-
-</thinking>
-
 # Battle Arena Selection Survey - Help Guide
 ## Purpose
 The Battle Arena Selection Survey is designed to collect information from gamers about their preferences and opinions on battle arena features, game settings, and playing habits.

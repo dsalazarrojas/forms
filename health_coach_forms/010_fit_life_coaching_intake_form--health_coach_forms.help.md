@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information for fit life coaching services. It should not be used as a template for other types of forms.
-</thinking>
-
 # Fit Life Coaching Intake Form - Help Guide
 ## Purpose
 The Fit Life Coaching Intake Form is a questionnaire designed to gather information from users for fit life coaching services. This form helps the coach understand the user's preferences, goals, and needs to create a personalized coaching plan.

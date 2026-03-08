@@ -1,5 +1,3 @@
-<thinking>Form "life_coach_assessment_form" is designed to collect information for coaching assessment purposes. This form is intended for Life Coaches. Please confirm that you are a Life Coach and that you understand the purpose of this form before proceeding. If this form is not relevant to your needs, please do not complete it.</thinking>
-
 # life_coach_assessment_form - Help Guide
 ## Purpose
 The "life_coach_assessment_form" is a form designed to collect information from Life Coaches for assessment purposes. It is intended to gather data about the coach's background, experience, and certification status.

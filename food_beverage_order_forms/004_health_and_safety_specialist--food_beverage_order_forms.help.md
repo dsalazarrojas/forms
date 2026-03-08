@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health and Safety Specialist - Help Guide
 ## Purpose
 This form is designed to help you identify the qualifications and responsibilities of a Health and Safety Specialist. It's a comprehensive tool to assess an individual's background, skills, and experience in the field of health and safety, particularly in food safety and environmental hazards. The form will guide you through a series of questions and prompts that will help you determine if an individual meets the requirements for this role.

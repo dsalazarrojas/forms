@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is for artists to submit applications for a digital performance exhibition. This form is intended for artists to share their work with the exhibition organizers and provide necessary details about their performances. To ensure that you receive accurate and relevant information, please review the following fields carefully before submitting your application. Also, please note that this form has been generated based on public survey topics and metadata, and the fields have been designed to reflect the typical requirements of a digital performance exhibition application process. If you have any questions or concerns, or if you'd like to confirm that your application is relevant and not a duplicate, please contact form@gic.mx.
-</thinking>
-
 # Digital Performance Exhibition Application Form - Help Guide
 ## Purpose
 This form is for artists to submit applications for a digital performance exhibition. It is designed to gather necessary information about the artist's performance, including details about the artist's name, proposal, media links, performance title, performance description, and performance image.

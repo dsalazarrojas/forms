@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on tracking setup from users. It's intended for users to provide their thoughts on how to improve the tracking setup process. The form is not meant to be a formal survey, but rather a way to collect constructive feedback. To ensure the form is used correctly, please make sure to only fill it out once, as duplicate entries can lead to unnecessary data duplication. 
-</thinking>
-
 # Feedback On Tracking Setup - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the tracking setup process. It allows users to provide their thoughts on how to improve the process, enabling us to make informed decisions to enhance user experience.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the form is to collect visitor information for the Trulli Pietra Luna, likely for booking or inquiry purposes. 
-Before filling out this form, please make sure you haven't already submitted a booking inquiry. 
-</thinking>
 # Trulli Pietra Luna Booking Form - Help Guide
 ## Purpose
 The Trulli Pietra Luna Booking Form is designed to collect visitor information for booking or inquiry purposes. This form is meant to provide the visitor with a straightforward way to get in touch with the Trulli Pietra Luna team and schedule a booking.

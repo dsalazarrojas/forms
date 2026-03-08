@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's daily routines, including wake-up time, exercise time, sleep time, and food intake (breakfast, lunch, dinner) for three days. The form aims to provide an accurate reflection of a person's daily habits, allowing users to track their routines over time and make necessary adjustments. 
-
-This form does not duplicate any information, but rather provides a comprehensive snapshot of an individual's daily routine. The form's design and questions are based on common habits that people tend to follow, and the fields are categorized to make it easy to understand and fill out. 
-
-Please note that the "notes" field is optional and not required, allowing users to add any additional information they deem necessary. 
-
-Before proceeding, ensure that the fields are filled out accurately and thoroughly, and that you are providing truthful information for your own record-keeping purposes.
-
-Please fill in the following fields:
-
-</thinking>
-
 # Daily Routine Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you track your daily habits, including your wake-up time, exercise time, sleep time, and food intake. By filling out this form, you'll get a clear picture of your daily routines and can make adjustments as needed.

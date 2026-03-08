@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for users to report and analyze viruses on their computer systems. It is likely used by IT or security teams to track and understand virus removal methods and outcomes. Before proceeding, please ensure that:
-- The system is experiencing a virus issue that impacts operations and is not a duplicate submission.
-- You have already attempted basic troubleshooting steps or virus removal methods.
-</thinking>
-
 # Virus Removal Analysis Form - Help Guide
 ## Purpose
 The Virus Removal Analysis Form is designed to collect information about virus removal methods and outcomes to aid IT or security teams in tracking and analyzing issues with computer systems.

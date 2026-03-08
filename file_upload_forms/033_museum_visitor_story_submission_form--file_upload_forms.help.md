@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from visitors of a museum, gathering information about their experience, such as their story of visit, photos, and ratings. This form ensures that visitors can share their thoughts and opinions with the museum staff, helping them to identify areas for improvement and understand what visitors value most. It's essential to fill out this form only once per visit to avoid duplicating efforts.
-</thinking>
-
 # Museum Visitor Story Submission Form - Help Guide
 
 ## Purpose

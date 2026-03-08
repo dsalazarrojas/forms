@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is designed to collect feedback from users about resource allocation within the organization. The goal is to understand their current resource access, availability, and usage habits, as well as their thoughts on resource distribution. The form asks questions to gather information about resource availability, distribution, and access challenges. Additionally, it inquires about users' roles, skill levels, and how they use their available hours. This data will help the organization identify areas for improvement and optimize resource allocation.
-
-</thinking>
-
 # Resource Allocation Survey - Help Guide
 ## Purpose
 The Resource Allocation Survey is a tool designed to gather feedback from users about their resource access, availability, and distribution within the organization. This form aims to identify areas for improvement and help optimize resource allocation.

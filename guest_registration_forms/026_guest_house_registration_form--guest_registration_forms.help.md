@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from guests to register their house as a potential property for rent on a local online platform. The purpose of this form is to collect relevant details about the house, including its name, owner's username and contact information, location, type, and amenities, and pricing information. This information will be used to display the house's details on the platform. 
-
-Please ensure that you're filling out this form with accurate and relevant information to avoid any issues with listing your property. Also, make sure to fill out all required fields as indicated by the "required" tag in the form, otherwise your submission may not be successful.
-
-This form is a one-time form, and once submitted, it will be used to create a listing for the property on the platform.
-
-</thinking>
-
 # guest-house-registration-form - Help Guide
 ## Purpose
 The purpose of this form is to provide a guest house owner with a way to register their property to be listed on a local online platform for rent.

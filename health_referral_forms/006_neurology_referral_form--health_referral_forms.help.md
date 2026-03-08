@@ -1,14 +1,3 @@
-<thinking>
-The form "neurology_referral_form" is designed to capture comprehensive information related to neurology referrals, covering various aspects of patient care such as patient information, medical history, chief complaint, neurological history, examination, diagnosis, and treatment plans. This form aims to provide a structured approach to collecting and documenting patient information in a neurology setting. 
-
-Before completing the form, please ensure that the information you are providing is accurate and relevant to the patient's condition. 
-
-To prevent duplication of work, please verify that the patient's information is not already available in their medical record. 
-
-This form is not intended to be a substitute for medical expertise; it is a tool to facilitate data collection and organization. If you are unsure about any information or have concerns about the patient's condition, consult with a qualified medical professional.
-
-</thinking>
-
 # neurology_referral_form - Help Guide
 ## Purpose
 The neurology referral form is designed to gather comprehensive information about a patient's neurology care, helping healthcare professionals to provide accurate and effective treatment.

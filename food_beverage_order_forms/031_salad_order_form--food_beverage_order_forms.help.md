@@ -1,7 +1,3 @@
-<thinking>
-I must clarify the purpose and requirements for this form before proceeding with the help guide. This form is used for customers to place salad orders, and it should cater to their preferences for size, protein, and total price. To prevent duplication and ensure accuracy, I must ensure that the form fields are correctly labeled and explained. I will proceed with the help guide, making sure each field is clearly explained and easy to understand.
-</thinking>
-
 # salad_order_form - Help Guide
 ## Purpose
 The salad_order_form is a user-facing form designed to collect information from customers to place salad orders. This form helps the customer choose their desired salad size, protein, and total price. 

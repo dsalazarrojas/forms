@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering diet-related food and beverages for users. It is a general-purpose form and not limited to any specific type of diet. The form does not require a user to select any specific options, but it is recommended to fill in all the required fields for accurate ordering.
-</thinking>
-
 # Diet Order Form - Help Guide
 ## Purpose
 This form is used for ordering diet-related food and beverages. It is designed to gather information from users to process their orders accurately and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track vehicle trips and rides, providing a comprehensive record of vehicle information, trip details, and ride status. The form is designed to be completed by drivers or fleet managers to keep accurate records of vehicle use, trip duration, fuel consumption, and other relevant details.
-</thinking>
-
 # Ride Tracking Log Form - Help Guide
 ## Purpose
 

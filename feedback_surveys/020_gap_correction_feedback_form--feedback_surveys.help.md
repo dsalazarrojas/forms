@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Gap Correction Feedback Form", I'll need to analyze the provided YAML and extract relevant information to craft a clear and concise help guide. The form is designed for collecting feedback and has multiple pages with various input types. Here's an attempt to provide a detailed guide based on this information.
 
 # Gap Correction Feedback Form - Help Guide

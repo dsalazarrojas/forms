@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## gaming_server_access_application - Help Guide
 
 ## Purpose

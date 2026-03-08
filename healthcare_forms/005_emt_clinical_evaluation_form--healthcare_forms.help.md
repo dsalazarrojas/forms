@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from EMTs (Emergency Medical Technicians) for the clinical evaluation of patients in emergency situations. The form is intended to be a standard tool for EMTs to assess and document the patient's vital signs, medical condition, symptoms, and other relevant information. This form should not be used for any other purpose or in any other context than the one described here. 
-
-To ensure the accuracy and effectiveness of the form, it is essential to understand its purpose and how to use it correctly. 
-
-</thinking>
-
 # EMT Clinical Evaluation Form - Help Guide
 ## Purpose
 The EMT Clinical Evaluation Form is a tool designed to gather essential information from EMTs about patients in emergency situations. This form helps EMTs to quickly and accurately assess the patient's condition and provide effective care.

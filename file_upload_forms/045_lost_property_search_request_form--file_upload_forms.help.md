@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to assist users in searching for lost properties. It allows users to input information related to a lost property, including the item's status, description, location, and customer details. This form is intended to be used when a user has lost a property and needs to report it to the system. The form's purpose is to gather information to help the system's administrators track and manage lost properties more efficiently.
-
-The form does not require any specific information, so users can submit it even if they are unsure of the details. However, providing as much information as possible will increase the chances of the lost property being found.
-
-It is recommended that users complete this form only if they have lost a property. If the property has already been found, there is no need to submit this form. Users should also note that this form is for reporting lost properties, not for reporting found properties.
-
-</thinking>
-
 # Lost Property Search Request Form - Help Guide
 ## Purpose
 This form is used to report a lost property and gather information to aid in its recovery.

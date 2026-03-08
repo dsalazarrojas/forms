@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is part of an artist-in-residence program, and is intended to collect information about potential artist applicants. It is crucial to ensure that the applicants' information is accurate and complete, as it will be used to evaluate their eligibility for the program. To avoid duplication of effort and ensure efficient processing, please fill out this form thoroughly and accurately. This form should only be submitted once the applicant has thoroughly reviewed the provided instructions and guidelines. Please do not duplicate your efforts by submitting multiple incomplete applications.</thinking>
-
 # Artist In Residence Curatorial Application Form - Help Guide
 
 ## Purpose

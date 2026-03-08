@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drug Test Employer Account Set Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from employers for setting up a drug test account. It will help us understand your company's needs and preferences for drug testing.

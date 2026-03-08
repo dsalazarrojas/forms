@@ -1,8 +1,3 @@
-<thinking> 
-  This form is used by healthcare professionals to request access to medical equipment for a specific period of time. This form serves as a standardized process to ensure that necessary equipment is available for use without disrupting normal operations or causing unnecessary expenses. 
-  Before completing this form, ensure that you are requesting the correct type and quantity of equipment for the required duration. Also, check with the equipment manager if you have already submitted a loan request for the same equipment, to avoid duplication. 
-</thinking>
-
 # Medical Equipment Loan Request Form - Help Guide
 ## Purpose
 The Medical Equipment Loan Request Form is a standardized process to request medical equipment for a specific period of time.

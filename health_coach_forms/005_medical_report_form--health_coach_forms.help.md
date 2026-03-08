@@ -1,14 +1,3 @@
-<thinking>
-The form is intended to collect information from patients about their medical history, treatment plans, and allergies. This form is designed to be completed by medical professionals, such as doctors or nurses, to gather essential information about a patient's condition, medical history, and any allergies they may have. The form is meant to be a helpful tool for healthcare providers to gather accurate and comprehensive information about patients, which can aid in making informed decisions about their treatment.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was generated using AI, with inspiration from public survey topic metadata, and is an original adaptation. The form's design and content are not influenced by any proprietary content from other form creation, data collection, or survey platforms.
-
-The form's fields are designed to be completed by a medical professional, and the information collected is intended to be used for the patient's medical treatment and care.
-
-This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-
-</thinking>
-
 # Medical Report Form - Help Guide
 ## Purpose
 The Medical Report Form is a tool for healthcare providers to gather information about a patient's medical history, treatment plans, and allergies.

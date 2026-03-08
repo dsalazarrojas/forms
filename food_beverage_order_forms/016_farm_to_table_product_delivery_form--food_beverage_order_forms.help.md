@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Farm To Table Product Delivery Form - Help Guide
 
 ## Purpose

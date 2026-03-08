@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to collect regulatory data and other relevant information related to file uploads. 
-  It is crucial that users fill in all required fields accurately and consistently. 
-  To avoid duplication, please check that your data doesn't already exist in our database before proceeding. 
-  The form is divided into two main sections: "File Uploads" and the following sections which are meant to collect additional information regarding regulatory data collection. 
-  Please ensure you provide accurate and up-to-date information for each field as it will be reviewed and used for further reference.
-</thinking>
-
 # Regulatory Data Collection Form - Help Guide
 ## Purpose
 This form is designed to collect regulatory data and other relevant information related to file uploads.

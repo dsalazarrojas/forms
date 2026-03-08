@@ -1,16 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "mental_health_review_appointment_form_template" form, we must first understand the purpose and context of the form, as well as the information it is designed to collect. This form is likely used in a mental health setting to aid in reviewing appointments and scheduling reviews with patients. Each field and its corresponding label will be explained in this guide, aiming to ensure users fill out the form accurately and efficiently.
-
-The form has 7 fields:
-1. **mental_health_review**: This text field asks for a brief description or summary of the mental health review.
-2. **appointment_scheduling**: This field allows users to select the appointment date and time and location.
-3. **healthcare_provider**: Users are asked to specify the type of healthcare provider (Primary, Secondary, Tertiary, or Quaternary) they will be meeting.
-4. **review_frequency**: Here, users can select how often the review is required (Weekly, Bi-weekly, or Monthly).
-5. **review_start_time** and **review_end_time**: These fields are for specifying the time range of the review.
-6. **appointment_notes**: Users can provide any additional information they feel is necessary or important about the appointment.
-
-</thinking>
-
 # mental_health_review_appointment_form_template - Help Guide
 ## Purpose
 This form is designed to aid in scheduling and documenting mental health reviews. It's essential to fill out this form accurately to ensure proper record-keeping and follow-up.

@@ -1,13 +1,3 @@
-<thinking>... This is the internal reasoning block to verify the form purpose and avoid duplication...
-
-The purpose of the "Breakfast Menu Order Form" is to allow customers to provide their order details for a breakfast menu. This form will guide the customer through the necessary steps to place their order, including providing their personal information, selecting their meal options, and specifying their payment method.
-
-The form has been designed to be user-friendly and straightforward, with clear labels and instructions for each field. The fields are organized in a logical order, from customer information to meal options and finally to payment information.
-
-By following this help guide, customers can ensure they complete the form accurately and efficiently, reducing the likelihood of mistakes or missed information.
-
-</thinking>
-
 # Breakfast Menu Order Form - Help Guide
 ## Purpose
 The Breakfast Menu Order Form is designed to guide customers through the steps to place their order for a breakfast menu. This form collects customer information, meal options, and payment details to ensure a seamless order process.

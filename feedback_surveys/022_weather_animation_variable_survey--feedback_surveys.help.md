@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on the weather animation variable, likely used by researchers or scientists to gauge user satisfaction and preferences in the context of weather-related data visualization. The form's purpose and structure suggest it is part of a larger research process, aimed at understanding how users perceive and interact with weather animation variables. It's essential to ensure that the form is completed correctly to capture valuable insights.
-
-When filling out this form, users should be mindful of the following:
-
-- The form is split into multiple pages, each addressing a different aspect of the weather animation variable.
-- Some fields are optional, so users can choose to skip them if they're unsure or don't have an opinion on the matter.
-- Some fields are meant for selecting multiple options (e.g., "weather-animations"), while others are single-answer questions (e.g., "desired-improvements") or allow for more detailed responses (e.g., "comments").
-
-
-
-</thinking>
-
 # Weather Animation Variable Survey - Help Guide
 ## Purpose
 The Weather Animation Variable Survey is a form designed to gather feedback from users about their experiences and perceptions of weather animation variables. This form is used in research settings to collect user insights on how users engage with and respond to different weather animation options.

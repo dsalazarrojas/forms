@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theatrical Design Excellence Award Nomination Form - Help Guide
 ## Purpose
 The Theatrical Design Excellence Award Nomination Form is a tool used to nominate theatrical designs for recognition and award. This form is used to gather information about the nominated design, including its category, description, and supporting materials. It also collects contact information for the submitter, including name, email, and phone number.

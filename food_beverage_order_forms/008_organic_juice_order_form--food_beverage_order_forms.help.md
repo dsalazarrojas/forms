@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place an order for organic juices. The form should only be completed by customers who are looking to purchase organic juices for personal consumption or business purposes. Please ensure that you are not duplicating an existing order or placing an order for someone else. If you are unsure, please check with your sales team.
-</thinking>
-
 # Organic Juice Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place an order for organic juices. Please fill out the form carefully and ensure that the information provided is accurate and up-to-date.

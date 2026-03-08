@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record information about an order for a liquor purchase. It ensures accurate and complete information is captured to facilitate efficient processing. Please review your order details carefully and ensure all required fields are filled in. This guide will walk you through the steps and explanations for each field.
-</thinking>
-
 # Liquor Order Form - Help Guide
 ## Purpose
 

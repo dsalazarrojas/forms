@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # World Element Submission Form - Help Guide
 
 ## Purpose

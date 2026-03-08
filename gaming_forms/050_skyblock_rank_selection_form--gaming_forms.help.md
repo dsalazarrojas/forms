@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is for selecting skyblock rank and we want to provide clear instructions for end-users on how to complete it. The form should not be filled out by anyone who has already filled it out before, to avoid duplication of efforts.
-</thinking>
-
 # skyblock_rank_selection_form - Help Guide
 ## Purpose
 This form is designed to help users select their desired skyblock rank. Please follow the instructions carefully to ensure you provide the necessary information.

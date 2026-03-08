@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for submitting stories to a literary magazine. It's intended for authors to provide their story submissions, which will be reviewed and potentially published in the magazine. The form should only be filled out once per story, and not for multiple submissions. Please ensure that you're not duplicating submissions.
-
-</thinking>
-
 # Literary Magazine Story Submission - Help Guide
 ## Purpose
 The purpose of this form is to submit your literary story for review and potential publication in our magazine. Please fill out this form carefully, and ensure that you're not submitting the same story multiple times.

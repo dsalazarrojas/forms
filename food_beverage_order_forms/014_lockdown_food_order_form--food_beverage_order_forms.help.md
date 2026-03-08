@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that this form is used correctly, as it's a crucial tool for food and drink orders. Before proceeding, let's check if we have the correct information and if this form has been filled out recently. This form is used for orders during a lockdown, which may have specific rules and regulations that need to be considered. Please make sure to fill it out carefully and completely.
-</thinking>
-
 # Lockdown Food Order Form - Help Guide
 ## Purpose
 The Lockdown Food Order Form is a crucial tool for customers to place food and drink orders during a lockdown. This form helps us ensure that we have accurate and complete information for order processing and delivery.

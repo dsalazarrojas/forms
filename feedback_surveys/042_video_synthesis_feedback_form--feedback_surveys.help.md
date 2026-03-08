@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to provide feedback on videos they have viewed or interacted with. This form is part of the "feedback_surveys" category, indicating it is used for gathering user feedback for quality control and improvement purposes.
-
-To prevent users from filling out duplicate feedback forms, the form's purpose and content can be linked to a user's account or login session.
-
-The feedback form is designed to be completed by users who have watched a video and are willing to provide their honest opinions on the video's realism, audio syncing, and overall quality.
-
-</thinking>
-
 # Video Synthesis Feedback Form - Help Guide
 ## Purpose
 

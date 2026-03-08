@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the API Log Submission Form, we need to consider the following:
-
-1.  The form is intended to collect information from reporters about incidents that occurred with an API. This includes details such as reporter information, incident details, and API logs.
-2.  It's likely that the form will be used by internal teams and external partners to report issues with the API. To avoid duplication, we may want to add validation or error messages to ensure that reporters fill out all required fields before submitting the form.
-3.  Given the nature of the form, we should ensure that the explanations and hints for each field are clear and concise, making it easier for users to complete the form without confusion.
-
-</thinking>
-
 # API Log Submission Form - Help Guide
 ## Purpose
 The API Log Submission Form is designed to collect information from reporters about incidents that have occurred with the API. This form helps internal teams and external partners report issues promptly and accurately, ensuring timely resolution and improvement of the API.

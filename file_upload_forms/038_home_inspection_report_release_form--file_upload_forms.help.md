@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for home inspectors to release their inspection reports to relevant parties. The purpose of this form is to provide a standardized way for home inspectors to collect information about the inspection report they are releasing. The form will help determine to whom the report is being released (e.g., homeowner, realtor, or both) and the reason for the release. This information will help streamline the process of sharing inspection reports and improve communication between parties involved in the home buying process.
-</thinking>
-
 # Home Inspection Report Release Form - Help Guide
 ## Purpose
 The Home Inspection Report Release Form is a tool for home inspectors to collect information about the inspection report they are releasing. The form helps determine the category of the report and provides a description of the report, as well as who the report is being released to and why.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to apply to join a community, likely with a specific group or community, referred to as "The Illuminati". The purpose of the form is to gather information about the users, their gaming habits, and their experience with moderating (if they are already moderators). It seems to be a two-part application process, with sections for general user information and specific details about their moderation experience. There might be some overlap between fields, but each one serves a distinct purpose.
-</thinking>
-
 # Illuminati Join Application Form - Help Guide
 ## Purpose
 The Illuminati Join Application Form is a application process for users to join a community with a group of like-minded individuals. The form is designed to gather information about the applicants, their gaming habits, and their experience in moderating communities.

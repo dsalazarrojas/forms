@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a customer's order for farm-to-table meat products. The form will gather details such as customer contact information, order details, payment method, and order status. This form is designed to ensure that the farm can efficiently process and fulfill the order while also maintaining accurate records. 
-</thinking>
-
 # Farm To Table Meat Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about a customer's order for farm-to-table meat products. It helps the farm to gather necessary details to process and fulfill the order efficiently while maintaining accurate records.

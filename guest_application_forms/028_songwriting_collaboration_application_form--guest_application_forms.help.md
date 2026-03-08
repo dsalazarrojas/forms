@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in collaborating on songwriting projects. This form is designed to gather contact details, musical interests, and other relevant information to facilitate potential collaborations between artists. The form is not intended for internal use within the organization and is meant to be shared publicly. The form fields are designed to be self-explanatory, but a brief explanation will be provided to ensure clarity for the end-users.
-</thinking>
-
 # Songwriting Collaboration Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in collaborating on songwriting projects. It is meant to be shared publicly to facilitate potential collaborations between artists.

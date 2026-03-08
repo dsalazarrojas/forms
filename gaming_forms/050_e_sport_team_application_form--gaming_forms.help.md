@@ -1,7 +1,3 @@
-<thinking>
-To create an E Sport Team Application Form, the user needs to fill out the form with their team's details. This form is used to gather information about the team's experience, members, and other relevant details.
-</thinking>
-
 # E Sport Team Application Form - Help Guide
 ## Purpose
 The E Sport Team Application Form is used to gather information about your team's details for our evaluation. This form will help us to get to know your team better and evaluate your application.

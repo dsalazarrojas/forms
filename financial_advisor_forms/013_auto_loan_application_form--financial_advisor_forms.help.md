@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed for an individual to apply for an auto loan by providing personal, financial, and vehicle information. The form aims to collect details about the applicant's identity, employment, income, vehicle, and loan preferences. Before proceeding, please ensure you are eligible for an auto loan and that you have all necessary documents ready. This guide will walk you through each section of the form to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Auto Loan Application Form - Help Guide
 ## Purpose
 The Auto Loan Application Form is designed to help you apply for an auto loan by providing a structured approach to collecting the necessary information about yourself, your vehicle, and your loan preferences. This guide will guide you through each section of the form to ensure you have a smooth and accurate application process.

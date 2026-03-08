@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess a patient's dyspnea (shortness of breath) symptoms. It is used to gather information about a patient's respiratory, cardiovascular, and neurological systems, as well as their symptoms since the last event of dyspnea. The form is used to guide clinicians in evaluating and managing patients with dyspnea.
-
-To ensure that the form is being used correctly, please review the following:
-
-* Is the form being used for its intended purpose?
-* Has the clinician reviewed the patient's medical history and current condition before completing this form?
-* Are all required fields being completed?
-
-</thinking>
-
 # Dyspnea Assessment Survey - Help Guide
 ## Purpose
 This form is used to assess a patient's dyspnea symptoms, including respiratory, cardiovascular, and neurological systems, to guide clinicians in evaluating and managing patients with dyspnea.

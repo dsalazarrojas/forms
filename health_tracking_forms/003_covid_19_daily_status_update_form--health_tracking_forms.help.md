@@ -1,13 +1,3 @@
-<thinking>
-This form is used by medical professionals to track and monitor patient health status during a Covid-19 outbreak. It is meant to be filled out on a daily basis to provide accurate and up-to-date information about each patient's vaccination status, symptoms, test results, contact history, and other relevant health information. This form helps in identifying patients who may be at risk of contracting or spreading the virus, allowing for swift and targeted interventions.
-
-The form is designed to collect data on a per-patient basis, and the information is intended to be used for public health monitoring and tracking purposes only. 
-
-This guide is intended for healthcare professionals who need to fill out the form. If you are not a healthcare professional, please do not fill out this form.
-
-Please note that this is a sample form and actual fields and their explanations might vary based on your organization's specific requirements.
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 This form is used to gather information about patients' daily health status during a Covid-19 outbreak. It is a daily report that healthcare professionals need to fill out for each patient they are caring for.

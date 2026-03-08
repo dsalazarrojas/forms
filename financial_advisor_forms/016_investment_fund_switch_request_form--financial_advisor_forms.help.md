@@ -1,7 +1,3 @@
-<thinking>
-This form is for financial advisors to request switching investments. It's intended for advisors who want to move clients between different funds. The form will be used by financial advisors to submit requests for investment switches. Please ensure you are submitting a new request for each switch. If you are unsure, please reach out to the relevant team for guidance.
-</thinking>
-
 # Investment Fund Switch Request Form - Help Guide
 ## Purpose
 The Investment Fund Switch Request Form is used by financial advisors to request switching investments for their clients.

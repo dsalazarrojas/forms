@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients who are seeking personal training services. The form is intended to be used by personal trainers and fitness coaches to understand the client's goals, availability, and medical information. It is not a medical form, but rather a form used to assess the client's needs and create a workout plan tailored to their goals and abilities. The purpose of this form is to ensure that the client is comfortable and safe while engaging in physical activity, and to provide a comprehensive overview of their training needs. 
-</thinking>
-
 # Personal Training Client Intake Form - Help Guide
 ## Purpose
 The Personal Training Client Intake Form is designed to gather information from clients who are seeking personal training services. It helps personal trainers and fitness coaches understand the client's goals, availability, and medical information to create a workout plan tailored to their needs.

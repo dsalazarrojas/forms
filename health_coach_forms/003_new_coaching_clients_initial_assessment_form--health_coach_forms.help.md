@@ -1,5 +1,3 @@
-<thinking>**Form Purpose**: This form is intended to gather essential information from potential coaching clients to better understand their needs and goals, providing a solid foundation for a health coach or personal trainer to tailor their guidance and support. **Check for relevance**: If you're unsure which form to fill out, or if you've already completed a similar form, please review the form's title and the fields below to determine the best course of action.</thinking>
-
 # New Coaching Clients Initial Assessment Form - Help Guide
 ## Purpose
 This form is designed to be a comprehensive initial assessment tool for health coaches and personal trainers to gather essential information about their potential clients' needs and goals.

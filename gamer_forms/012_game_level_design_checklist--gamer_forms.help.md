@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by game developers and designers to provide feedback and guidance on the quality and design of a game level. The form might help identify areas of improvement, highlight strengths and weaknesses of the level, and assist in the overall development and polish process of the game.
-This form is probably part of a larger system to collect and review game levels, and the purpose here is to gather relevant information from reviewers, designers, and developers to provide valuable feedback on the level's design and overall performance.
-This form doesn't require any specific business logic or external data sources to understand its purpose and how to complete it, so let's move on and create a user-facing help guide.
-</thinking>
 # game_level_design_checklist - Help Guide
 
 ## Purpose

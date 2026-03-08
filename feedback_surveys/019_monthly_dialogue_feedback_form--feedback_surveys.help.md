@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the "Feedback Surveys" category and is titled "Monthly Dialogue Feedback Form". Its purpose is to gather feedback from participants on the content and topics covered during the monthly dialogue sessions. This form is designed to be completed by participants after each session and is intended to provide insight into their thoughts and suggestions. Please ensure that you only complete this form once after each session, as repetitive submissions might lead to redundant data. 
-</thinking>
-
 # Monthly Dialogue Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants on the content and topics covered during the monthly dialogue sessions.

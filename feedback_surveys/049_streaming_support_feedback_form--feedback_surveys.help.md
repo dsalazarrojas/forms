@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on their streaming experience. This form should only be filled out by users who have had an issue with the streaming service and are providing feedback on that experience. Please do not fill out this form if you are just testing it out. To make sure your feedback is helpful, please only fill out relevant fields and do not repeat information already provided in other fields. 
-</thinking>
-
 # Streaming Support Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with our streaming service. We appreciate your input, which will help us improve our streaming experience for you and our other users.

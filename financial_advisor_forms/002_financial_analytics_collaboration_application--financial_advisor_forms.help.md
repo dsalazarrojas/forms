@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for collaboration in financial analytics, where users can identify their areas of expertise and request collaboration from relevant experts. The form is meant to facilitate networking and knowledge sharing among financial professionals. There are multiple fields for requesting collaboration from team members, project leaders, and domain experts, as well as fields for evaluating expertise and sharing project ideas. This form is intended for users who want to find and connect with others who have similar interests and skills.
-
-Before proceeding, please review the form's fields and requirements to ensure you understand the purpose and expectations. If you have any concerns or questions, please refer to the "Tips" section at the end of this guide.
-
-</thinking>
-
 # financial_analytics_collaboration_application - Help Guide
 ## Purpose
 The financial_analytics_collaboration_application form is designed to facilitate networking and knowledge sharing among financial professionals. It allows users to identify their areas of expertise and request collaboration from relevant experts.

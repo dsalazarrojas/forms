@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Inspection Form - Help Guide
 ## Purpose
 The Field Inspection Form is designed to collect information from users during field inspections. This form helps to capture details about the inspection process, including notes, field inspection data, and dates and times. The form is typically used by inspectors to record observations and results of inspections conducted on fields or areas.

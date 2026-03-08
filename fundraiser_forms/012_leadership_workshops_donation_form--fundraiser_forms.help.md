@@ -1,5 +1,3 @@
-<thinking>This form is likely used for collecting donations from individuals who want to attend leadership workshops. The purpose of this form is to gather information about the donor, such as their name, contact details, and donation preferences. The form also asks about the purpose of the donation, which could be for a specific workshop or for general support. The donor's preferred communication frequency and comments are also collected.</thinking>
-
 # Leadership Workshops Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations from individuals who want to attend leadership workshops. Please fill out the form with your details and preferences to help us better understand your needs and interests.

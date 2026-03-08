@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to upload file-related information, allowing them to input data for various attributes of a file, including its description, size, type, and more. The form has multiple fields for users to provide detailed information about the file, such as file upload status and uploaded group. The form is designed for both human users and potentially automated systems to input their uploaded files. However, it's worth noting that this form appears to be a comprehensive file upload form with an unusual combination of fields, suggesting it's possibly part of a complex system or a customized form.
-</thinking>
-
 # User Data Upload Form - Help Guide
 ## Purpose
 The purpose of this form is to collect file-related information, including upload details and attributes of the file.

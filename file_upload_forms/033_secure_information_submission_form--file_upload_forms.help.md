@@ -1,6 +1,3 @@
-<thinking>
-We're checking that the form purpose and fields are well-defined and correctly aligned with the provided YAML specification. The secure information submission form is designed to collect sensitive information from users, including file uploads, detailed descriptions, and other relevant details. The form has multiple pages, and we'll focus on the "file_uploads" page for this help guide. We'll ensure that the explanation of each field is clear and concise, following the provided YAML structure and avoiding any unsupported business logic.</thinking>
-
 # secure_information_submission_form - Help Guide
 ## Purpose
 This form is designed to collect sensitive information from users, including file uploads and detailed descriptions. It's essential to complete this form carefully and accurately to ensure the submission process is successful.

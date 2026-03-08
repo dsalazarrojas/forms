@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Home Care Referral Form is to gather essential information from healthcare providers when referring a patient to home care services. This form helps healthcare professionals collect relevant details about the patient, their referring agency, and other important particulars. The form aims to streamline the referral process, ensuring accurate and efficient communication between healthcare providers.
-</thinking>
-
 # Home Care Referral Form - Help Guide
 ## Purpose
 This form is designed to capture key information from healthcare providers when referring patients to home care services. It helps in creating a comprehensive and accurate record of the patient's referral details.

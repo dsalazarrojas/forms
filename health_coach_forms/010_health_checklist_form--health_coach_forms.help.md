@@ -1,9 +1,3 @@
-<thinking>
-This is a form for collecting health and wellness information from a user. The purpose of this form is to assess the user's overall health and well-being, taking into account various aspects such as medical history, physical activity, sleep quality, stress levels, nutrition, mental health, social support, substance use, health care, health risk factors, medication, medical conditions, medical procedures, allergies, vital signs, height, weight, blood pressure, blood oxygen saturation, temperature, pulse, and respiratory rate. This form should only be completed by authorized personnel who have the user's consent to do so.
-
-It is crucial to ensure that this form is not filled out by unauthorized individuals, as it may contain sensitive and personal health information. Please verify that you have the user's consent before completing this form.
-</thinking>
-
 # health_checklist_form - Help Guide
 ## Purpose
 This form is used to collect health and wellness information from a user, including medical history, physical activity, sleep quality, stress levels, nutrition, mental health, social support, substance use, health care, health risk factors, medication, medical conditions, medical procedures, allergies, vital signs, height, weight, blood pressure, blood oxygen saturation, temperature, pulse, and respiratory rate.

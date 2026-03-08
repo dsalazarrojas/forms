@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect documents required for new employee onboarding. 
-The form collects several types of documents that are relevant to employee information and employment. 
-These documents may include but are not limited to, resumes, proof of address, onboarding documents, IDs, diplomas, degrees, and other relevant documents. 
-The purpose of this form is to ensure that new employees have the necessary documentation to start working. 
-This form is not a substitute for the actual onboarding process, but rather a supplement to it.
-</thinking>
-
 # New Employee Document Upload - Help Guide
 ## Purpose
 The purpose of this form is to collect and upload relevant documents from new employees for the onboarding process. The form helps to ensure that new employees have the necessary documentation to start working.

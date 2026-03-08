@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Post Consent Certificate Request Form", I need to ensure that the form purpose and fields are clearly explained. 
-
-The form is used to request a consent certificate for participants in a program. It appears to be a general form that collects information about the participant, the program they are participating in, and other relevant details. 
-
-The form seems to be designed to collect both participant and program information, and there are fields for uploading files and selecting options. 
-
-I will focus on explaining each field in the guide to ensure that end-users understand what information is required and what options are available.
-
-</thinking>
-
 # Post Consent Certificate Request Form - Help Guide
 ## Purpose
 The Post Consent Certificate Request Form is used to request a consent certificate for participants in a program. This form collects information about the participant, the program they are participating in, and other relevant details.

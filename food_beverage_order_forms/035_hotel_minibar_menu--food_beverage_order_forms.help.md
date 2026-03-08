@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect customer feedback and order information from hotel guests. The form is used to gather essential details such as their order preferences, feedback, and contact information. The primary purpose of this form is to ensure that the hotel's minibar menu meets the customer's needs and preferences, and to collect any additional feedback they may have about their stay.
-
-The form is composed of several pages, each with its own set of questions. Some fields are required, while others are optional. 
-
-</thinking>
-
 # Hotel Minibar Menu - Help Guide
 ## Purpose
 This guide provides step-by-step instructions on how to complete the Hotel Minibar Menu form, including an explanation of each field's purpose and requirements.

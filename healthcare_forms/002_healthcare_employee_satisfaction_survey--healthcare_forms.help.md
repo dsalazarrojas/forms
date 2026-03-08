@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback and opinions from healthcare employees on various aspects of their work environment. It will help management and HR teams understand areas of improvement to create a better work atmosphere for their employees.
-The form is designed to be completed by individual employees, and it's not intended to be filled out by multiple people at the same time.
-</thinking>
-
 # healthcare_employee_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from healthcare employees on various aspects of their work environment, including workplace environment, work experience, relationship with manager, communication, benefits and compensation, work-life balance, team environment, job security, and feedback and suggestions.

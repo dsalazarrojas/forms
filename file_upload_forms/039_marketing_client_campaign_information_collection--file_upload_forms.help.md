@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about marketing clients' campaigns in a structured and organized manner. The form includes fields for various aspects of the campaign, such as the client's ID, budget, timeline, agency, status, priority, and additional notes. The fields are categorized into sections for easier understanding and completion.
-This form is intended for use by marketing professionals to gather and store campaign data for efficient management and analysis. It is not intended for general public use. Before filling out this form, ensure you have the necessary permissions and access rights.
-Please note that this form is not a substitute for other required documents or processes. Ensure you have completed all necessary tasks and forms before using this form.
-To avoid duplicates, please check for existing entries before adding new ones. If you're unsure about any of the information or fields, please reach out to your team for clarification.
-</thinking>
-
 # Marketing Client Campaign Information Collection - Help Guide
 ## Purpose
 This form is designed to collect and store information about marketing clients' campaigns for efficient management and analysis.

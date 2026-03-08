@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations from individuals who want to support the tech incubator program. It's used by program managers and administrators to receive funding from people interested in helping the program grow. The form should only be used for this specific purpose and not for other types of donations or requests. 
-</thinking>
-
 # Tech Incubator Mentorship Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations from individuals interested in supporting the tech incubator program. Please fill out this form to make a donation and help the program grow.

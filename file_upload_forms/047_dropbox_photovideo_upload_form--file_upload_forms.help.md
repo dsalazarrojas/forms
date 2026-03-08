@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to upload files to a Dropbox account. The primary purpose of this form is to facilitate the upload of images and videos to the user's Dropbox account. Before proceeding, please ensure that you have a Dropbox account and that you are familiar with the file upload process.
-
-To avoid duplication of effort, please ensure that you have not already uploaded the file in question to your Dropbox account before initiating the upload process.
-
-</thinking>
-
 # Dropbox Photovideo Upload Form - Help Guide
 ## Purpose
 The Dropbox Photovideo Upload Form is a tool used to upload images and videos to your Dropbox account. This form guides you through the process of uploading files to your account.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather participant information for a yoga session or practice, ensuring informed consent and recording necessary data for safety and liability purposes. It should not be used for any other purpose.
-</thinking>
-
 # Yoga Informed Consent Form - Help Guide
 ## Purpose
 This form is intended to ensure that participants in a yoga session or practice provide their informed consent and provide necessary contact and emergency information. It also gathers data on potential medical conditions, activity risks, and participant understanding of the session or practice.

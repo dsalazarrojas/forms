@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from property owners or managers about their experience with the property staff, specifically regarding their responsiveness and quality of service. This survey will help to identify areas of improvement and ensure that property staff is meeting expectations. It is essential to complete this form thoroughly and honestly to provide valuable insights for the property management team.
-</thinking>
-
 # Property Staff Responsiveness Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the responsiveness and quality of service provided by property staff. Your input will help us improve our services and ensure that your property needs are met.

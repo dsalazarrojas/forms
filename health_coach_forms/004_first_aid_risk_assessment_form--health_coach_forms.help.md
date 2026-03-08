@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for assessing the first aid risk level and facilities' preparedness in a given environment. It is intended for healthcare professionals, facility managers, or anyone responsible for ensuring a safe and healthy working or living environment. The form is used to identify potential risks and hazards related to first aid in the facility, such as the availability of first aid kits, trained personnel, and regular inspections. By completing this form, respondents can gauge their facility's level of preparedness and identify areas for improvement. This form is not intended for medical emergencies or crisis situations; rather, it is a preventive measure to ensure a safe and healthy environment.
-
-This form is a one-time assessment tool and should not be used for ongoing monitoring or tracking. It is meant to be completed by one person per facility or area of responsibility. Respondents should provide accurate and truthful information to ensure the assessment is reliable and useful. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata.
-
-Please ensure you have the necessary information and permissions before completing this form. If you have any questions or concerns, please contact the form creators.
-
-</thinking>
-
 # first_aid_risk_assessment_form - Help Guide
 ## Purpose
 The first aid risk assessment form is designed to evaluate the first aid risk level and facilities' preparedness in a given environment.

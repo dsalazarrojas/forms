@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for submitting files for FASTA (Fast All Sequence Analysis) file analysis. The form captures relevant information about the user who submitted the file and the lab that will perform the analysis. The form is used to ensure that all required information is provided in order to proceed with the analysis. To ensure accurate and correct analysis results, please make sure to fill out all required fields correctly. This form should only be filled out once per FASTA file submission. Please do not fill out this form multiple times. 
-</thinking>
-
 # FASTA File Analysis Submission - Help Guide
 
 ## Purpose

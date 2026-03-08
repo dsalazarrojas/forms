@@ -1,21 +1,3 @@
-<thinking>
-This form is used for validating medication batches. The purpose of this form is to gather information about a batch of medication, including its batch number, medication ID, batch size, start and finish dates, batch status, contact person, and additional notes. 
-
-To complete this form, you will need to provide the following information:
-
-* Batch number
-* Medication batch ID
-* Batch size
-* Start date
-* Finish date
-* Batch status
-* Contact person
-* Additional notes
-
-Before completing this form, please note that some fields are required, denoted by the "required" field property in the form.
-
-</thinking>
-
 # medication_batch_validation_form - Help Guide
 ## Purpose
 This form is used for validating medication batches.

@@ -1,7 +1,3 @@
-<thinking>
-We will design this form to guide users in completing a survey about a cafe's coffee blend quality. The purpose of this form is to collect data on user preferences and feedback about a specific coffee blend. The form will likely be used in a coffee shop setting to gather information from customers and baristas. We need to ensure that the form is clear and concise in its instructions and field explanations to avoid confusion and misinterpretation.
-</thinking>
-
 # Cafe Coffee Blend Quality Survey - Help Guide
 ## Purpose
 This form is designed to gather information from customers about the quality of a specific coffee blend at a cafe. Please answer the questions honestly to help us improve our products and services.

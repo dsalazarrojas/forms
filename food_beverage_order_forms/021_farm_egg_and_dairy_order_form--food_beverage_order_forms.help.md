@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from customers for farm egg and dairy orders, likely for delivery or pickup purposes. The form should be completed by customers to ensure accurate ordering and delivery processes. Please ensure you understand the following before proceeding:
-- This form is intended for customers to provide their information and preferences for egg and dairy orders.
-- The form is not intended for internal use, such as for staff or inventory management purposes.
-- The form is not intended for general feedback or support inquiries.
-- The form should not be used to place orders for non-food products or services.
-- This form is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Farm Egg And Dairy Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and preferences for farm egg and dairy orders. Please use this form to accurately gather and process your orders.

@@ -1,12 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure accuracy, let's first clarify the purpose and scope of this form.
-
-The Car Loan Application Form is designed to collect comprehensive information from car loan applicants, including their personal details, employment information, vehicle details, and financial information. This form aims to provide a complete picture of the applicant's financial situation, employment history, and vehicle information, which will be used to assess their creditworthiness and determine the terms of the loan.
-
-Please confirm that the form's sections and fields align with the expected information, and let's proceed.
-
-</thinking>
-
 # Car Loan Application Form - Help Guide
 ## Purpose
 The Car Loan Application Form is a comprehensive tool used to collect detailed information from car loan applicants. The form aims to provide a complete picture of the applicant's financial situation, employment history, and vehicle information, which will be used to assess their creditworthiness and determine the loan terms.

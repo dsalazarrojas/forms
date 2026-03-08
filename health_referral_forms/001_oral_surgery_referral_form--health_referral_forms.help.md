@@ -1,7 +1,3 @@
-<thinking> 
-We are designing the "oral_surgery_referral_form" to gather information for oral surgery referrals. This form is essential for patients undergoing oral surgery procedures, and the referral process helps to ensure that patients receive the best possible care. To prevent duplication of referral efforts, please ensure that this form is completed only when a new referral is needed. If you are unsure, please check with your supervisor or the relevant department before completing this form. 
-
-</thinking>
 # oral_surgery_referral_form - Help Guide
 ## Purpose
 The oral surgery referral form is used to gather patient information for oral surgery procedures. It helps ensure that patients receive the best possible care and prevents duplication of referral efforts.

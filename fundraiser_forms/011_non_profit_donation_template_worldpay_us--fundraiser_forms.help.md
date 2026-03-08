@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that the form is correctly configured and that the user understands what is expected of them. Let's review the form and create a user-facing help guide.
-
-Upon reviewing the form, the "non_profit_donation_template_worldpay_us" form appears to be designed for non-profit donation collection, possibly for fundraising purposes. The form asks for various information about the donation, including the donor's choice to donate, their contact information, and the donation amount. 
-
-Before proceeding, let's ensure that we are not duplicating any existing forms or processes, and that the form's purpose aligns with our organization's goals. If this form is for a one-time event or a specific non-profit organization, we should be cautious not to overlap with other forms or processes that might be more general or widely applicable.
-
-Assuming that the form is properly configured and its purpose is clear, let's create the user-facing help guide.
-
-</thinking>
-
 # non_profit_donation_template_worldpay_us - Help Guide
 ## Purpose
 This form is designed to collect donations for non-profit organizations. It gathers information about the donor's intention to donate, their contact details, and the amount they wish to donate.

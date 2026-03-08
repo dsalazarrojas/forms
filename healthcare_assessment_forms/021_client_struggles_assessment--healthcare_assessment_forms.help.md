@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the client's struggles and challenges, gathering information on their primary concerns, struggle duration, intensity, and impact on daily life, as well as their priorities, ideal outcomes, and support needs. This form is designed to help understand the client's situation and identify potential areas for improvement. It is essential to fill out this form accurately and thoroughly to ensure that the assessment is comprehensive and effective.
-</thinking>
-
 # Client Struggles Assessment - Help Guide
 ## Purpose
 The Client Struggles Assessment form is designed to collect information about the client's struggles and challenges, helping to identify areas that require attention and support.

@@ -1,8 +1,3 @@
-<thinking>
-This is a form for soliciting feedback from attendees on their experience with the coffee chat event, with a focus on evaluating the effectiveness of the format, the quality of the speakers, the relevance of the topics, and the overall satisfaction with the event. To ensure that each attendee submits feedback that is relevant to their experience, it's recommended to have them provide their name, email, company (if applicable) and the date and location of the event. Feedback on the event format, the quality of the speakers, and the topics relevance is also crucial. Additionally, the form will allow attendees to express their satisfaction with the overall experience and their willingness to attend similar events in the future. 
-Please note that all answers are optional. If any of the fields are filled with the same answer, it is considered a duplicate and can be removed.
-</thinking>
-
 # Coffee Chat Event Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees on their experience with the coffee chat event, focusing on evaluating the effectiveness of the format, the quality of the speakers, and the overall satisfaction with the event.

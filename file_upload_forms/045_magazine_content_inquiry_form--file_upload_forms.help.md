@@ -1,10 +1,3 @@
-<thinking>
-This form is used for inquiring about magazine content and related materials. To determine relevance and non-duplication, please review the following fields before proceeding:
-- Is this form meant to be used by magazine contributors or editors for editorial decision-making?
-- Are the form fields meant to collect data for a specific magazine issue or publication?
-- Is the form used for internal editorial review processes or for external communication with contributors?
-</thinking>
-
 # Magazine Content Inquiry Form - Help Guide
 ## Purpose
 The Magazine Content Inquiry Form is a tool for contributors and editors to inquire about magazine content, including contributor information, story ideas, and review materials. This form helps facilitate communication between contributors and editors, ensuring timely and accurate information for editorial decision-making.

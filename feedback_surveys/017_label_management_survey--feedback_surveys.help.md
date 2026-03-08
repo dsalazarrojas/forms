@@ -1,5 +1,3 @@
-<thinking>As a form designed for feedback collection, the "Label Management Survey" is intended to gather information about the needs and challenges of different teams within an organization. This form is used to solicit feedback from various teams to help inform label management decisions and improve their overall user experience. To ensure the quality and accuracy of the feedback, please note that this form is for internal use only and responses will be reviewed for relevance and duplication before being included in the analysis. By completing this form, you will be providing valuable insights that can help shape the future of our label management practices.</thinking>
-
 # Label Management Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information about fire safety procedures and testing of fire drills. The purpose of this form is to ensure that the fire drill procedures are up-to-date and that fire drills are conducted regularly. This form is used to track the fire drill procedures, emergency contact information, fire drill scheduling, fire drill responders, fire drill training status, fire drill procedures reviewed, fire drill fire extinguishers, fire drill evacuation plan, fire drill annual testing, fire drill reporting, fire drill reporting frequency, fire drill testing method, fire drill testing frequency, fire drill annual testing frequency, fire drill test result, fire drill testing result, fire drill testing completed, fire drill testing completed status, fire drill testers, and fire drill testing status. The goal is to gather accurate information and ensure that fire drills are conducted according to fire safety regulations. This form will help the user provide accurate data about fire drills and procedures in order to improve the response to emergencies and ensure everyone's safety. Before proceeding, make sure this form is not a duplicate and that the data is up-to-date. If there is any doubt, please contact the fire chief or the person in charge of fire safety.
-</thinking>
-
 # Fire Drill Checklist - Help Guide
 
 ## Purpose

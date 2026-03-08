@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the "dropbox_submission_form" is to collect specific types of information from users for a submission, such as submitting files, notes, and contact information. Before filling out this form, ensure that you only need to submit files or notes, as the form is designed for a single submission. If you need to make multiple submissions, please create a new form instance or reach out to your administrator for assistance. Additionally, this form is not intended for general inquiries or non-submission purposes.
-
-</thinking>
-
 # dropbox_submission_form - Help Guide
 ## Purpose
 The "dropbox_submission_form" is designed to collect specific types of information from users for a submission, such as submitting files, notes, and contact information.

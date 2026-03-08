@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the burnout risk and management strategies among lawyers in a law firm. The Law Firm Burnout Assessment form aims to gather information about the burnout risk factors, symptoms, and prevention strategies within the firm. This assessment can help law firms identify potential burnout areas and implement targeted interventions to support their employees' well-being.
-
-Before proceeding with the assessment, please note that this form is not meant to be a comprehensive diagnostic tool but rather a guide to help law firms gauge their burnout risk levels and identify areas for improvement.
-
-Please ensure that you are completing this form as an authorized representative of your law firm, and your responses should reflect your current role and experience within the firm.
-
-</thinking>
-
 # Law Firm Burnout Assessment - Help Guide
 ## Purpose
 The Law Firm Burnout Assessment is designed to help law firms evaluate their burnout risk levels and identify areas for improvement. It assesses burnout risk factors, symptoms, and prevention strategies to support employee well-being.

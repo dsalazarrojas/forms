@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect images, supporting documents, and other information from users, primarily for the purpose of submitting engineering diplomas. This form is likely to be used for administrative or official purposes within an organization. It is not intended to collect sensitive or personal data. The form should only be filled out once per individual and the uploaded image and documents will be stored for future reference.
-</thinking>
-
 # Engineering Diploma Image Submission - Help Guide
 ## Purpose
 This form is used for submitting engineering diplomas for administrative or official purposes within the organization.

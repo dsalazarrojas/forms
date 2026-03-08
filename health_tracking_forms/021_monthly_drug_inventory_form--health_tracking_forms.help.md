@@ -1,6 +1,3 @@
-<thinking>
-This form is a monthly drug inventory form for tracking assets, and its purpose is to record the current status of the asset inventory for a given month. This form is meant to be used by authorized personnel to keep a comprehensive record of asset details, including their quantity, status, and any other relevant information. It appears to be a duplicate of the original asset tracking form, with additional sections for more specific details and attributes.
-</thinking>
 # monthly_drug_inventory_form - Help Guide
 ## Purpose
 The monthly_drug_inventory_form is used to track the current status of assets within a given month. This form helps ensure that all assets are accounted for, up to date, and accurate. It's a crucial tool for inventory management and reporting.

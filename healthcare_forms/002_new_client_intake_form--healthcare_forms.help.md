@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect information for new clients who are seeking medical services. The form is intended to gather contact information, medical history, insurance details, and other relevant data to ensure that the client receives proper care and services. 
-
-The form's sections include contact information, medical history, insurance information, and emergency contact details. Each section is designed to be completed by the new client, with some fields requiring specific information to be filled out while others offer options for selection.
-
-To complete this form, you will need to provide the following information:
-
-* Personal details such as name, contact information, and medical history.
-* Medical insurance information, including the insurance provider and doctor's name.
-* Emergency contact details, including the contact person's name, phone number, and email.
-* Medical supervision information, including medical supervision status and reason.
-* Language preference and any additional comments.
-
-</thinking>
-
 # New Client Intake Form - Help Guide
 ## Purpose
 The New Client Intake Form is designed to collect comprehensive information from new clients to ensure they receive proper care and services.

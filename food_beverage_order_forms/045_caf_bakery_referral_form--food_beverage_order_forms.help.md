@@ -1,7 +1,3 @@
-<thinking>
-This is a form that captures information from a referrer about a referred business or customer. The goal is to gather data on who is making the referral, the business or customer being referred, the reason for the referral, contact information for the referrer, preferred follow-up method, date of referral, and whether the referrer consents to contact being made with the referred party.
-</thinking>
-
 # Café Bakery Referral Form - Help Guide
 ## Purpose
 This form is for referrers to provide information about businesses or customers they are referring to our café and bakery.

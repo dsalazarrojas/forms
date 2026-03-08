@@ -1,22 +1,3 @@
-<thinking>
-To ensure the form's purpose is clear, let's review the form's fields and their potential uses. The form appears to be designed for users to donate money to a cause, with various sections for donor information, donation amount, payment method, and other relevant details.
-
-The form has the following fields:
-
-*   **Donor Information**: This section seems to be collecting personal details about the donor, such as name, phone number, email, and address.
-*   **Donation Amount**: This field is likely where the donor specifies the amount they wish to donate.
-*   **Payment Method**: This field provides options for how the donor plans to make the payment, such as credit card, bank transfer, or cash.
-*   **Email**, **Phone**, and **Donor Address**: These fields appear to be gathering additional contact information and address details for the donor.
-*   **Message**: This field may be used for any additional comments or notes from the donor.
-*   **Payment Date**, **Payment Time**: These fields could be used to capture the date and time the payment is expected to be made.
-*   **Note**: This field may be a general notes section for the donor to provide additional context.
-*   **Card Number**, **Card Holder Name**, **Card Security Code**, **CVV**, **CVC**: These fields seem to be related to credit card information, possibly for online transactions.
-
-To avoid duplication, we should ensure that the fields are correctly aligned with the form's purpose and that no field is redundant. For instance, the **Card Number**, **Card Holder Name**, **Card Security Code**, **CVV**, and **CVC** fields may be redundant if the form already has a **Donation Amount** field.
-
-Please review and validate this understanding before proceeding.
-</thinking>
-
 # Online Donation Form - Help Guide
 ## Purpose
 The Online Donation Form is designed to collect donations for a cause with various fields to gather personal and payment information from the donor.

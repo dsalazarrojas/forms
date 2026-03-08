@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from users on their hormonal health cycle tracking log. It's designed to help individuals track and monitor their menstrual health, including their first day of the cycle, cycle phase, symptoms, moods, physical activities, sleep quality, stress levels, and other relevant metrics. This form likely serves as a personal health monitoring tool for women, particularly those experiencing menstrual cycles, to help them better understand their bodily changes and potential issues. Please ensure this form is relevant to your use case and does not duplicate any other existing forms in your application.
-</thinking>
-
 # Hormonal Health Cycle Tracking Log - Help Guide
 ## Purpose
 The Hormonal Health Cycle Tracking Log is a form designed to help women track their menstrual health, including their cycle phase, symptoms, moods, and other relevant metrics. This form is intended for personal use and can help users monitor their bodily changes and identify potential issues.

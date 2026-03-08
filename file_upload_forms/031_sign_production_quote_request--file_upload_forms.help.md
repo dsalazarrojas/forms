@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sign Production Quote Request - Help Guide
 
 ## Purpose

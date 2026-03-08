@@ -1,8 +1,3 @@
-<thinking> 
-The "Recommendation Strength Survey" form is designed to gather information about customers' perceptions of our product or service. It aims to identify areas where our customers are most likely to be satisfied or dissatisfied, and to provide opportunities for improvement. This form is meant to be used by customers who have had a recent interaction with us, either through a phone call, email, chat, or in-person visit. By completing this form, we'll be able to get a better understanding of our customer base's needs and preferences.
-
-</thinking>
-
 # Recommendation Strength Survey - Help Guide
 
 ## Purpose

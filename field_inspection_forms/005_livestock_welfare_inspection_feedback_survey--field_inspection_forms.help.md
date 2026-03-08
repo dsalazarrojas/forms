@@ -1,6 +1,3 @@
-<thinking>
-This is a form to gather feedback from farms about their facility's animal welfare conditions. The form is meant to be completed by farm employees or management. The purpose of this form is to collect data on the animal welfare conditions at the facility, which will be used to improve the overall welfare of the animals and the farm's operations. This form should only be completed once per facility, to avoid duplication of data.</thinking>
-
 # Livestock Welfare Inspection Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the animal welfare conditions at your facility. Please provide accurate and detailed answers to help us improve the overall welfare of the animals and the farm's operations.

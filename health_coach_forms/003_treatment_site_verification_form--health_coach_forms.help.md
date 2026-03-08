@@ -1,8 +1,3 @@
-<thinking>
-This form was generated using a machine learning model trained on public survey topics to create an original form that is not affiliated with any specific form platform. Its purpose is to verify treatment sites, which are likely medical facilities or locations where treatment is provided. 
-This form is meant to collect user information, condition information, medical organization information, patient record details, treatment site confirmation, and additional treatment site information. It is likely used in the context of medical treatment and care. Before filling out this form, you might want to check if it's not a duplicate, and if the information it collects is relevant to your needs.
-</thinking>
-
 # Treatment Site Verification Form - Help Guide
 ## Purpose
 The Treatment Site Verification Form is designed to collect information about treatment sites, which are locations where medical treatment is provided. This form is meant to verify the accuracy of this information for administrative or record-keeping purposes.

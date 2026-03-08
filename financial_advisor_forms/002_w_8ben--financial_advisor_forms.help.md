@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # W 8Ben - Help Guide
 ## Purpose
 

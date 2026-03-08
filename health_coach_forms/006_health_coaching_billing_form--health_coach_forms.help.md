@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "health_coaching_billing_form" form is used for billing and payment processing purposes, allowing users to input client information and payment details for health coaching services. To determine if this form is relevant, we should consider the following:
 
 * Is the form used for internal purposes only, such as billing and payment processing within an organization or company?

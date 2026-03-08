@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from players about their experience with our game. The goal is to understand what they liked or disliked about the game and what they would like to see improved. This form will help us gather valuable insights to enhance the game for our players.
 
 # Player Experience Feedback Survey - Help Guide

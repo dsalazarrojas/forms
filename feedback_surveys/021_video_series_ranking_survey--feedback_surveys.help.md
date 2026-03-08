@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback and ratings from users about video series. This is a crucial step in understanding user engagement and helping us refine our video content. Please ensure that you are completing this form for the specific video series that you have watched, to provide accurate feedback.
-
-When completing this form, please ensure that you are not duplicating your feedback. We appreciate your input, but multiple submissions for the same video series may cause confusion in our analysis.
-</thinking>
-
 # Video Series Ranking Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and ratings about video series. Your input will help us understand user engagement and improve our content.

@@ -1,17 +1,3 @@
-<thinking>
-
-The "gaming_referee_assault_form" form is designed to collect information from referees or officials in the gaming industry regarding incidents of assault or misconduct during games or events. The form's purpose is to provide a structured and detailed account of what happened, allowing for swift and effective handling of the incident.
-
-To ensure that this form is used correctly and consistently, we need to consider potential issues with its usage. This form should only be used for legitimate purposes, and users should not create multiple forms for the same incident. 
-
-Before filling out the form, make sure to:
-
-* Have a clear understanding of what constitutes an assault or misconduct incident.
-* Ensure that the form is used by authorized personnel only.
-* Avoid sharing sensitive or private information about players, teams, or other individuals involved.
-
-</thinking>
-
 # Gaming Referee Assault Form - Help Guide
 ## Purpose
 The Gaming Referee Assault Form is a tool designed to gather detailed information from referees or officials about incidents of assault or misconduct during games or events in the gaming industry. This form helps to provide a clear and structured account of what happened, facilitating swift and effective handling of the incident.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help healthcare providers, pharmacists, or other authorized individuals assess the eligibility of patients for medication therapy management (MTM). MTM is a collaborative process between the patient, prescriber, and pharmacist to optimize the use of medications and minimize adverse effects. This form aims to gather information about the patient's medication history, medical record, and other relevant details.
-
-Before starting the assessment, please ensure you are authorized to access the patient's medical record and have the necessary permissions to complete this form. Additionally, double-check that you are not duplicating a previously completed assessment for the same patient.
-
-This guide will walk you through each section of the form to ensure you complete it accurately and efficiently.
-</thinking>
-
 # Medication Therapy Management Eligibility Assessment - Help Guide
 ## Purpose
 The Medication Therapy Management Eligibility Assessment form is designed to help healthcare providers assess a patient's eligibility for MTM. This form gathers information about the patient's medication history, medical record, and other relevant details to support a collaborative and informed decision-making process.

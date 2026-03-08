@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Human Respiration Assessment - Help Guide
 ## Purpose
 The Human Respiration Assessment form is designed to collect information from healthcare professionals and patients to assess the respiratory system's functionality and potential risks. This form helps in identifying symptoms, risk factors, and medical history related to the respiratory system, which can aid in providing appropriate care and treatment.

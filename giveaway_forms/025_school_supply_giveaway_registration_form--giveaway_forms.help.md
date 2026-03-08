@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from schools and students about their interest in participating in a school supply giveaway program. It is intended to help organizers understand which schools and students are eligible for the giveaway and what kind of information they are comfortable sharing about themselves. Please note that this form is not a formal application, but rather a way to gauge interest and gather contact information.
-</thinking>
-
 # School Supply Giveaway Registration Form - Help Guide
 ## Purpose
 This form is used to register schools and students for a school supply giveaway program. It collects information about the school's interest in participating and the student's contact method.

@@ -1,8 +1,3 @@
-<thinking>
-To prevent confusion, duplication, and ensure accurate order processing, this form is designed to gather necessary information for the creation and delivery of custom coupon booklets. It is crucial to fill out this form correctly to avoid any potential issues with order fulfillment.
-The form is intended to collect information about the customer's order preferences, shipping details, and payment terms. This guide will walk you through each section and help you fill out the form accurately.
-</thinking>
-
 # Custom Coupon Booklet Order Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with a sports prediction app. The purpose of the form is to understand how users rate their overall experience, how easy the app is to use, what features they would like to see improved, and their satisfaction with the app's performance. 
-
-The goal is to gather actionable insights to help developers identify areas for improvement, enhance the user interface, and provide better support.
-
-Before we dive into the instructions, let's ensure that the form is not a duplication or a clone of an existing form. The form is generated based on public metadata and is an original adaptation of the "Sports Prediction App Feedback Survey" title and category. It's an AI-generated form, not affiliated with, or endorsed by any proprietary form platform. If you suspect this form is a duplicate, please refer to the form's metadata.
-
-</thinking>
-
 # Sports Prediction App Feedback Survey - Help Guide
 ## Purpose
 The Sports Prediction App Feedback Survey is designed to gather feedback from users about their experience with the sports prediction app. By completing this form, you will help the developers understand how to improve the app and provide a better user experience.

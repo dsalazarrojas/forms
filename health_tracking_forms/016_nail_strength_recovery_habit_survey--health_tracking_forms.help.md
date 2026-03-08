@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Strength Recovery Habit Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your nail strength recovery habits. It aims to help us understand your routines, habits, and preferences regarding nail health and recovery.

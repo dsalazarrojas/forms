@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_belief_model_questionnaire - Help Guide
 
 ## Purpose

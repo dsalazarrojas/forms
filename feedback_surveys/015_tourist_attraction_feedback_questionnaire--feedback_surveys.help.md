@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from tourists about their experiences at a particular tourist attraction. The primary goal is to gather information about the attraction's strengths and weaknesses, as well as suggestions for improvement. The form includes fields for rating and commenting on the attraction, providing contact information, and attaching relevant documents or images. This form will help attraction managers and staff assess their performance and make informed decisions about how to improve the visitor experience.
-
-Before you begin, please make sure that you have not already provided feedback on this attraction. If you have already submitted feedback, you will not be able to submit again.
-
-Please note that some fields are required and must be filled in order to submit the form. Required fields are marked with a red asterisk (*) in the label.
-
-Please ensure that you fill in all required fields and answer all questions to the best of your ability. Your feedback is invaluable in helping us improve the tourist attraction.
-
-</thinking>
-
 # Tourist attraction feedback questionnaire - Help Guide
 ## Purpose
 This form collects feedback from tourists about their experiences at a particular tourist attraction.

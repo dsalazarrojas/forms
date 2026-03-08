@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to obtain the participant's consent for financial data collection and sharing. The form is intended for use in financial benchmarking projects and is used to collect participant information, data collection start and end dates, and other relevant details. The participant will be asked to provide their consent for the collection and sharing of their financial data. This form is meant to be completed by the participant, and the data collected will be used for benchmarking purposes.
-
-Before filling out this form, please ensure that you are authorized to access and fill out this form.
-
-Please note that this form has been designed to minimize duplicate work and ensure consistency in the participant's information across different projects.
-
-Please fill out this form only once for each participant.
-</thinking>
-
 # financial_performance_benchmark_consent_form - Help Guide
 ## Purpose
 The financial_performance_benchmark_consent_form is a form used to collect participant consent for financial data collection and sharing in financial benchmarking projects.

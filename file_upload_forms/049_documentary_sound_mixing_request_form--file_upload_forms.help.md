@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is for requesting a sound mix for a documentary and not used for other purposes. This form should only be used for this specific purpose to avoid duplication and incorrect usage. This form is intended for the production staff to collect necessary information from clients for sound mixing work.
-</thinking>
-
 # Documentary Sound Mixing Request Form - Help Guide
 ## Purpose
 This form is designed for clients to request sound mixing services for their documentary project. Please fill out the required fields to ensure prompt and accurate processing of your request.

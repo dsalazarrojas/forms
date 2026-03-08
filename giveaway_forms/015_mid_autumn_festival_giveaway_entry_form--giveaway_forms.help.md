@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from attendees for the Mid Autumn Festival. This form will help us gather the required details from attendees. Please ensure that you have the permission to complete the form only once and do not duplicate your entry. 
-
-</thinking>
-
 # Mid Autumn Festival Giveaway Entry Form - Help Guide
 
 ## Purpose

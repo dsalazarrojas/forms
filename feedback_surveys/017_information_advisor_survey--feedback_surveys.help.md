@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their interactions with a prophet's advisor. The purpose of this form is to collect feedback on the advisor's interaction, satisfaction level, quality, communication skills, and any additional comments or contact information. This form will help identify areas of improvement for the advisor and the organization. It is recommended that users fill out this form once they have completed their interaction with the advisor, while the details are still fresh in their mind. It is also suggested that users only fill out the form if they have had an interaction with the advisor, to avoid unnecessary data collection.
-</thinking>
-
 # Information Advisor Survey - Help Guide
 
 ## Purpose

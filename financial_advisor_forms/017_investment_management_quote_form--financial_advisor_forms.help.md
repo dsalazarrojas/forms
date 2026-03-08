@@ -1,7 +1,3 @@
-<thinking>
-To provide clarity and consistency in our financial advisor's workflow, this help guide is essential for users to understand the Investment Management Quote Form's purpose, completion process, and field explanations. This guide will ensure that users can accurately fill out the form and make informed decisions, reducing errors and miscommunications. 
-</thinking>
-
 # Investment Management Quote Form - Help Guide
 ## Purpose
 The Investment Management Quote Form is designed to gather essential information from clients to create a tailored investment strategy that meets their unique needs and goals. This form helps our financial advisors understand the client's investment preferences, risk tolerance, and financial objectives, enabling them to provide the most suitable investment solutions.

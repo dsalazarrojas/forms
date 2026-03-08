@@ -1,15 +1,3 @@
-<thinking>
-The form "Principal Resume Submission Form" is designed to collect detailed information from principals, including their contact details, educational background, and professional experience. This form is typically used by administrators or HR personnel to evaluate the eligibility and qualifications of applicants. To ensure accuracy and effectiveness, please review the following fields carefully.
-
-The submitted resume should be a comprehensive, up-to-date representation of the principal's work history, highlighting their relevant experience, skills, and achievements. This form will be reviewed in conjunction with other relevant documentation to make informed decisions.
-
-Please ensure that the principal submits their most recent and accurate information to provide a complete picture of their qualifications and experiences. If there are any doubts or concerns, please contact the relevant department or authority for further clarification.
-
-Additionally, the principal should be aware that the uploaded resume will be reviewed for completeness and relevance to the role. The form will be used to assess their suitability for the position and may be shared with other stakeholders as part of the evaluation process.
-
-Before proceeding, please verify that all the required fields are filled accurately and comprehensively.
-</thinking>
-
 # Principal Resume Submission Form - Help Guide
 ## Purpose
 This form is used to collect detailed information from principals, including their contact details, educational background, and professional experience. It helps the administration or HR personnel to evaluate the eligibility and qualifications of applicants.

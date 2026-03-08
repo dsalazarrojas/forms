@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to acknowledge that they are aware of the outside food and beverage policies of the venue. The form asks for their acknowledgment of the policies, details of the event and food and beverage services offered, request for waiver if applicable, and signatures from the individual and the organizer. This form is likely used in events where outside food and beverage services are being provided to ensure that the venue's policies are respected.
-</thinking>
-
 # Outside Food And Beverage Waiver Form - Help Guide
 ## Purpose
 The Outside Food and Beverage Waiver Form is a document that requires individuals to acknowledge and confirm that they are aware of the venue's policies regarding outside food and beverage services. This form helps to ensure that the venue's policies are respected and understood by all attendees.

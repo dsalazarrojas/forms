@@ -1,7 +1,3 @@
-<thinking> 
-This form is for collecting measurements and specifications for window and door treatment measurements. It's intended to collect information for windows and doors that need window treatment installation. The form will be used for both internal and external measurements. There is no other similar form available in the system, so it's worth noting that users need to carefully fill in the necessary information to get accurate results.
-</thinking>
-
 # window_treatment_measurement_form - Help Guide
 
 ## Purpose

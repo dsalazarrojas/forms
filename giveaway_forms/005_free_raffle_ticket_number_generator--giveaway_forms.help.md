@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to generate free raffle ticket numbers for events, promotions, or other giveaways. It's likely used by organizations or businesses to promote their products or services while generating excitement and interest. The form collects the winner's information for prize redemption purposes. The fields are designed to be simple and easy to fill out, making it accessible to a wide range of users. To ensure the integrity of the form, there's a check for duplication, so users can't submit the same email or phone number twice within the given time frame.
-</thinking>
-
 # Free Raffle Ticket Number Generator - Help Guide
 ## Purpose
 The Free Raffle Ticket Number Generator is a form designed to create unique raffle ticket numbers for your events, promotions, or giveaways. Fill out this form to collect and verify the winner's information for prize redemption purposes.

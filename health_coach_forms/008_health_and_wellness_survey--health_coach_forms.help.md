@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end-users understand the purpose and requirements of the health_coach_forms category and the specific Health And Wellness Survey form, while avoiding duplication of efforts. This form is intended to gather information about an individual's health and wellness status, including general health information, physical activity levels, diet, sleep patterns, medical conditions, medication, allergies, medical history, and family history. It's essential to note that the form is designed to be comprehensive, but not overly burdensome, and to respect users' time and privacy. By understanding the form's purpose and requirements, users can approach the form completion with clarity and confidence.
-</thinking>
-
 # Health And Wellness Survey - Help Guide
 ## Purpose
 The Health And Wellness Survey is a comprehensive form designed to gather information about your health and wellness status. This form will help us understand your overall health situation, enabling us to provide personalized coaching and recommendations for improvement.

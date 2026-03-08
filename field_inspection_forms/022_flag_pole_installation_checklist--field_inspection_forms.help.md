@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for documenting the installation of a flag pole, ensuring that all necessary information is collected and recorded accurately. This includes the date of installation, location, and various details about the flag pole, such as its height and type. The form is designed to be completed by the inspector who conducts the installation, providing a clear and concise record of the process. The form's purpose is to facilitate easy retrieval and review of installation data, reducing errors and ensuring consistency across installations.
-
-</thinking>
-
 # Flag Pole Installation Checklist - Help Guide
 ## Purpose
 This form is used to document the installation of a flag pole, ensuring that all necessary information is collected and recorded accurately.

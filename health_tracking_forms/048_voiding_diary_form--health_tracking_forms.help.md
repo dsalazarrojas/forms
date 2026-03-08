@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track a patient's urination experience, capturing essential details such as visit dates, urination times, volumes, and symptoms. This form helps healthcare providers monitor and analyze a patient's condition over time, aiding in the diagnosis and treatment of urinary issues. It's crucial that this form is completed accurately and consistently to provide valuable insights into the patient's health.
-</thinking>
-
 # Voiding Diary Form - Help Guide
 ## Purpose
 The Voiding Diary Form is a medical record-keeping tool used to track a patient's urination habits and symptoms. It helps healthcare providers gather and analyze data to understand the patient's condition better, ultimately aiding in diagnosis and treatment.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to online class assignments, including student and teacher details, submission and due dates, and status and comments. The form is likely used in an educational setting where students and teachers need to upload and manage online class assignments. This form should only be filled out by authorized personnel, and the submitted data should be accurate and up-to-date to ensure smooth management of online classes.
-</thinking>
-
 # online_class_assignment_upload_form - Help Guide
 ## Purpose
 The online_class_assignment_upload_form is a tool used to collect and manage information related to online class assignments. This form is used to record and track student and teacher interactions, submission and due dates, and assignment status.

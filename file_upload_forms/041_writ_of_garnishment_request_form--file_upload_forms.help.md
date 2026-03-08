@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Writ Of Garnishment Request Form - Help Guide
 
 ## Purpose

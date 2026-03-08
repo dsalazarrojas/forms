@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect information and feedback on properties. It is meant to gather details such as property location, contact information, property type, status, value, features, notes, and more. 
-
-The form will likely be used by property agents or real estate professionals to collect data and provide valuable feedback to property owners or managers. It is possible that this form is part of a larger application or workflow, so please ensure that the information entered is accurate and relevant to the specific use case.
-
-Before starting the form, ensure that you have all necessary information readily available. Some fields are optional, but filling them out will provide more detailed and accurate feedback.
-
-</thinking>
-
 # property_judging_form - Help Guide
 ## Purpose
 This form is used to collect information and feedback on properties, including location, contact details, property type, status, and more.

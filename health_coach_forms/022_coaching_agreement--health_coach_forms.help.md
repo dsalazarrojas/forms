@@ -1,12 +1,3 @@
-<thinking>
-This form is a Coaching Agreement form that aims to capture essential information for a coaching relationship between a client and coach. Before proceeding, it is essential to review the form's purpose and determine if you have all the necessary details to complete it accurately.
-
-The form is designed to gather information about the coach and client's details, such as their names, contact information, and agreement terms. It also inquires about the client's coaching goals, any medical conditions, and the coach's availability. The form includes sections on payment terms, cancellation policies, and liability waivers, ensuring both parties are on the same page regarding their responsibilities and expectations.
-
-Please ensure you have all the relevant information and answers to these questions before completing this form. Review each field carefully to avoid any mistakes.
-
-</thinking>
-
 # Coaching Agreement - Help Guide
 ## Purpose
 This form is a coaching agreement between a coach and client, outlining the terms of their relationship, including coaching goals, payment terms, and liability waivers.

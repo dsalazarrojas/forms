@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Finance Coaching Booking Form is to gather information and schedule sessions with financial advisors for users to receive personalized coaching and guidance on financial matters. This form collects user details, session preferences, and other relevant information to facilitate effective communication and planning between the user and the assigned advisor. Please ensure you only complete this form if you are interested in booking a session with a financial advisor.
-
-Before proceeding, ensure you have not previously completed this form, as this will prevent duplicate session requests.
-</thinking>
-
 # Finance Coaching Booking Form - Help Guide
 ## Purpose
 The Finance Coaching Booking Form is a tool used to gather information and schedule sessions with financial advisors. This form helps users receive personalized coaching and guidance on financial matters.

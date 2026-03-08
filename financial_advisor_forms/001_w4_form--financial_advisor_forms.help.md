@@ -1,9 +1,3 @@
-<thinking>
-
-This W4 Form is a financial worksheet for employees to claim their tax withholdings. It's used to determine the number of allowances an employee can claim on their paycheck. Each field is designed to gather necessary information from the employee to complete this form accurately. Before proceeding, ensure that the form is being used for its intended purpose and not for duplicate submissions.
-
-</thinking>
-
 # W4 Form - Help Guide
 ## Purpose
 The W4 Form is a financial worksheet used by employees to claim their tax withholdings. It helps determine the number of allowances an employee can claim on their paycheck.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess a user's metabolic age, which is an estimate of their biological age based on their physiological characteristics. Metabolic age is a measure of how well an individual's body is functioning at the cellular level, and it is influenced by various factors such as physical activity level, sleep pattern, diet plan, water intake, exercise frequency, stress level, medication, medical condition, smoking habits, alcohol habits, gender, ethnicity, country of birth, blood pressure, body mass index, body surface area, and other factors.
-
-The form is intended to be completed by individuals to provide an accurate assessment of their metabolic age, which can be useful for health and wellness professionals to get an accurate understanding of their physiological characteristics.
-
-The assessment will help the user understand how well their body is aging compared to their chronological age. The result of this assessment will help them get a more accurate and detailed analysis of their body's condition.
-
-</thinking>
 # Metabolic Age Assessment - Help Guide
 ## Purpose
 The Metabolic Age Assessment form is designed to help individuals assess their biological age based on their physiological characteristics.

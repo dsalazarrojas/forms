@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-To avoid duplication, let's first check if the form already exists in the system. Please search for the form "COVID 19 Response Donation Form" in our database to see if it's already available for use. If you can't find it, then it's likely a new form, and we'll proceed with creating it.
+# To avoid duplication, let's first check if the form already exists in the system. Please search for the form "COVID 19 Response Donation Form" in our database to see if it's already available for use. If you can't find it, then it's likely a new form, and we'll proceed with creating it.
 
 If you are creating a new form, please note that this form is for receiving donations for COVID-19 response efforts. The form is designed to collect donations from individuals and organizations to support various programs and initiatives related to the COVID-19 pandemic.
 

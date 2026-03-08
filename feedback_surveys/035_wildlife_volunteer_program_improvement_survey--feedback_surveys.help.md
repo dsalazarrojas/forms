@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Volunteer Program Improvement Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## monthly_activity_tracker - Help Guide
 
 ### Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for uploading documents for a scholarship application. The form has multiple fields for selecting and uploading files, but most fields are optional. The purpose of this form is to collect relevant information and documents required for the scholarship application process.
-Before filling out this form, ensure that you have the necessary documents ready to upload. If you are unsure about any field, please reach out to the scholarship administrators for guidance.
-</thinking>
 # Dropbox Scholarship Document Upload Form - Help Guide
 ## Purpose
 This form is designed to collect documents from applicants for a scholarship application. Please fill out this form to upload relevant documents required for the application process.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about an assignment or lesson submission from students. It appears to be used in an educational setting to collect data on student submissions, including identification information, submission details, and additional supporting materials. The form requires fields for student name, ID, email, course information, submission type, and other details. The purpose of this form is likely to streamline the submission process and provide instructors with necessary information for evaluation and assessment.
-
-Before proceeding, please confirm that you have reviewed the form and understand its purpose and requirements. Please also check that you have not previously submitted the same assignment or lesson.
-
-To ensure accurate and complete submission, please fill out the form carefully and thoroughly. If you have any questions or concerns, do not hesitate to reach out to your instructor for clarification.
-
-Please ensure that all required fields are filled out accurately and completely. If you are unsure about any field, please refer to the instructions below.
-
-The form has multiple pages with different fields. Please fill out each page carefully and thoroughly, and make sure to review your submission before submitting.
-</thinking>
-
 # Assignment And Lesson Submission Form - Help Guide
 
 ## Purpose

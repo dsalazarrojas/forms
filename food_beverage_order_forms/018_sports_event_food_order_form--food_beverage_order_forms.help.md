@@ -1,5 +1,3 @@
-<thinking>This guide aims to help users understand the purpose and usage of the Sports Event Food Order Form. The form is designed to gather information for sports events, including food and beverage orders, total costs, and other relevant details. To ensure a smooth process, please review the form carefully and only fill out the required fields. Some fields may not be necessary for every event, but it's essential to complete them accurately for a successful food and beverage order.</thinking>
-
 # Sports Event Food Order Form - Help Guide
 ## Purpose
 The Sports Event Food Order Form is used to capture details about food and beverage orders for sports events. It includes information such as event date, total cost, payment method, and other relevant details.

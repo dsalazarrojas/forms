@@ -1,11 +1,3 @@
-<thinking>
-The form "freight_route_optimization_report_form" is designed to collect data related to freight routes and transport activities. It is intended for users to report on any issues encountered while performing a freight route, provide improvement recommendations, and enter notes about the transport activity. The form will not be used to create new routes, but rather to record and analyze existing ones. This form should only be used for freight routes that are already active in the system. 
-
-The form's purpose is to gather information on the transport activity in a structured and easy-to-use manner, making it easier to identify trends and patterns that can be used to optimize freight routes in the future. 
-
-Please ensure that this form is used for the correct context and purpose, as it is not meant for general route creation or planning. 
-</thinking>
-
 # freight_route_optimization_report_form - Help Guide
 ## Purpose
 The "freight_route_optimization_report_form" is a form used to collect and analyze data on freight routes, focusing on issues encountered and improvement recommendations for optimization. This form should only be used for active freight routes that are already registered in the system.

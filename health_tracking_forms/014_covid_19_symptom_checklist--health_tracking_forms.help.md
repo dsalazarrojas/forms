@@ -1,11 +1,3 @@
-<thinking>This form was created to help users track their symptoms during the COVID-19 pandemic. The form is designed to collect information about different symptoms that people may experience when infected with COVID-19. This form will guide you through each symptom, ask you to confirm or deny experiencing it, and provide a summary of your answers at the end.
-
-Please confirm that you are not experiencing any symptoms of COVID-19 before completing this form. If you are experiencing any symptoms or have tested positive for COVID-19, please do not fill out this form as a medical professional will need to review your answers. If you have already completed this form, please do not fill it out again unless instructed to do so by a medical professional.
-
-This form is a checklist of common symptoms that people may experience when infected with COVID-19. It is not a medical diagnosis tool and should not be used for official medical purposes. If you are experiencing any of these symptoms, please consult a medical professional for proper evaluation and treatment.
-
-</thinking>
-
 # Covid 19 Symptom Checklist - Help Guide
 ## Purpose
 This form is designed to help you track your symptoms during the COVID-19 pandemic. It is not a medical diagnosis tool and should not be used as such.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to collect information from clients about their Reiki sessions. The Reiki Intake Form is used to gather essential details such as client contact information, session dates and times, session duration, price, and payment method. The form also includes fields for client and provider agreement, session outcome, and provider comments. The client's e-signature is required to confirm their agreement and commitment to the session terms.
-
-Before filling out this form, make sure you have a clear understanding of the Reiki session you are booking. This form is a required document for all Reiki sessions.
-
-Please note that this form is a sample and should be reviewed and modified according to your organization's specific policies and procedures.
-
-</thinking>
-
 # Reiki Intake Form - Help Guide
 ## Purpose
 The Reiki Intake Form is designed for healthcare professionals to collect information from clients about their Reiki sessions.

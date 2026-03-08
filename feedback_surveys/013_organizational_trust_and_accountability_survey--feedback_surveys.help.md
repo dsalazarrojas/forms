@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Organizational Trust And Accountability Survey" is to assess an employee's perception of their level of trust in their organization and their sense of accountability within it.
 
 Before completing this form, please ensure that you are familiar with the survey purpose and that you are not taking the survey if you have already done so within a certain time period to avoid duplication of responses. If you are unsure about the survey purpose or have any questions, please don't hesitate to reach out to your supervisor or HR representative for clarification.

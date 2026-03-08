@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a coaching or mentoring context to gather feedback and progress updates from individuals on a weekly basis. The form aims to collect basic personal information, email (if provided), coach feedback, and a progress update, which could be related to a specific project or goal. The purpose of the form may not be entirely clear without knowing the context in which it's being used, but based on the fields, it appears to be a structured feedback and progress tracking tool.
-</thinking>
-
 # gtf_weekly_check_in - Help Guide
 ## Purpose
 This form is designed to gather feedback and progress updates from individuals on a weekly basis, allowing coaches to track progress and receive feedback for improvement.

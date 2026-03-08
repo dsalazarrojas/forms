@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate the creation of new accounts payable checks. It is intended to be used by staff members in various departments to request payments to vendors and suppliers for various expenses. The form is used to provide detailed information about the request, including the requestor, vendor, and amount to be paid. The purpose of this form is to ensure accuracy and transparency in the payment process. To ensure the accuracy and completeness of the information, please review the form fields carefully and provide all required information.
-</thinking>
 # Accounts Payable Check Request Form - Help Guide
 ## Purpose
 The Accounts Payable Check Request Form is a tool used by staff members to request payments to vendors and suppliers. This form is used to ensure accuracy and transparency in the payment process.

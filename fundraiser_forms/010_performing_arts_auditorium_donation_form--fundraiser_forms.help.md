@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the fundraising efforts of the Performing Arts Auditorium, a venue that hosts various performances and events. This form is designed to collect donations from patrons and supporters. Please ensure that you have reviewed and followed previous forms and guidelines before proceeding. This form will guide you through the process of making a donation to the Performing Arts Auditorium.
-</thinking>
-
 # Performing Arts Auditorium Donation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-**This form is a Safety Meeting Checklist used to document and review the key aspects of a safety meeting. It ensures that all necessary discussions and agreements are captured and recorded for future reference. To avoid duplication of work, it is essential to use this form for each safety meeting, and not to modify or reuse existing forms.**
-</thinking>
-
 # Safety Meeting Checklist - Help Guide
 ## Purpose
 The Safety Meeting Checklist is a tool to document and review the key aspects of a safety meeting. It helps ensure that all necessary discussions and agreements are captured and recorded for future reference.

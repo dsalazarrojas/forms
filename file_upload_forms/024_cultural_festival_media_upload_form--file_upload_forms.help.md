@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information and media from participants in a cultural festival. The purpose of this form is to gather data that will help festival organizers understand the demographics and preferences of their attendees, as well as collect media submissions from participants to display during the festival.
-
-To ensure that the collected data is accurate and relevant, we'll be checking for duplication and non-relevant submissions before storing them in our database. Please fill out the form with your genuine information and media, and we'll take care of the rest.
-
-This form consists of multiple pages, each with a set of questions that will help us gather the necessary data. Please fill out each page completely and accurately before proceeding to the next one.
-
-</thinking>
-
 # cultural_festival_media_upload_form - Help Guide
 ## Purpose
 This form is designed to collect information and media from participants in a cultural festival.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the "Guess The Jar Game" entry submissions. The form is designed to gather data from users who want to participate in the game, where they predict a specific date and time for a draw. The form fields are meant to capture essential details about the entry, such as the entry date and time, name, message for the winner, draw method, entry status, user's name, email, and phone number. This form is not used for any other purpose, and any existing entries with the same user name and draw date/time will be considered duplicates. Please make sure to fill out the form accurately and completely to avoid any issues with your entry.
-</thinking>
-
 # Guess The Jar Game Entry Form - Help Guide
 ## Purpose
 The Guess The Jar Game Entry Form is a submission form designed for users to participate in the game by predicting a specific date and time for a draw. The form collects essential information about the entry, which is then used to determine the winner of the game.

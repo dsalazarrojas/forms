@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their shopping experience on the Vip Shopping platform. The purpose of this form is to gather information about how users found out about the platform, their shopping environment, product quality, product price, purchase experience, and contact information. This data will help us understand our users' needs and preferences, which will be used to improve the overall user experience and customer satisfaction.
-</thinking>
-
 # vip_shopping_experience_survey - Help Guide
 ## Purpose
 The **VIP Shopping Experience Survey** is designed to collect feedback from users about their experience on the Vip Shopping platform. This form helps us understand how users interact with our platform and provides valuable insights for improvement.

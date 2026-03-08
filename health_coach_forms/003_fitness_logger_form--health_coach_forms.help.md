@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Fitness Logger Form is to record and track a client's workout data, including their name, exercise name, date, weight, reps, sets, notes, assigned trainer or coach, and contact information. This form is likely to be used by fitness professionals to monitor progress, provide feedback, and make informed decisions about training regimens. 
-
-</thinking>
-
 # Fitness Logger Form - Help Guide
 ## Purpose
 The Fitness Logger Form is designed to collect and record a client's fitness-related data. This form is intended to be completed by clients who are participating in a fitness program or working with a personal trainer. 

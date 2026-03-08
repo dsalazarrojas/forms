@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather market-related information from analysts, including market conditions, trend data, analyst recommendations, market trends, and other relevant details. This form is likely used for a financial context, possibly for investment analysis or portfolio management. Before proceeding, please check that this form is suitable for your specific use case and that you haven't already created a similar form. If you're unsure, you can reach out to the contact email provided for guidance.
-</thinking>
-
 # Market Update Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from analysts about market-related topics.

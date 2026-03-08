@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to help artists apply for a rental apartment, likely for a temporary or long-term stay. The form is meant to collect essential information from the artist, including their contact details, portfolio, and specific requirements for the rental space. This guide will walk you through the process of completing the form, field by field, to ensure a smooth and accurate application process.
-</thinking>
-
 # Boutique Apartment Artist Rental Application - Help Guide
 ## Purpose
 The Boutique Apartment Artist Rental Application form is designed to collect necessary information from artists interested in renting a space for a short-term or long-term stay. This form helps the property management team assess the artist's needs and preferences for the rental space.

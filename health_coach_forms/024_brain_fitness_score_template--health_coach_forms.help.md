@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Brain Fitness Score Template form. The form is designed to assess an individual's brain fitness by evaluating various cognitive and lifestyle factors. The goal is to provide an objective score based on the respondent's answers, allowing for self-awareness and potential areas for improvement.
-</thinking>
-
 # Brain Fitness Score Template - Help Guide
 ## Purpose
 The Brain Fitness Score Template is a self-assessment tool designed to evaluate an individual's brain fitness. It measures cognitive and lifestyle factors that contribute to overall brain health. The form is intended for personal development and awareness, not for clinical diagnosis.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose and how it should be completed. 
-
-The form appears to be a fundraiser order form, likely used to collect information from customers who want to make a donation or purchase a product. The form has several fields for personal information (first name, last name, email, phone), product selection (product, quantity, price), payment information (payment method, square or paypal), and additional details (date, time, note, donation amount).
-
-We can assume that the form is meant to be completed by individuals or organizations who want to support a cause or make a purchase. The form's design suggests that it is a flexible form that can accommodate different types of donations or purchases.
-
-We will now create a help guide that explains the purpose and completion of the form.
-
-</thinking>
-
 # Fundraiser Order Form - Help Guide
 
 ## Purpose

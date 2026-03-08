@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Travel Expense Reimbursement Form - Help Guide
 ## Purpose
 This form is intended to document and submit travel expense claims for reimbursement, ensuring accuracy, completeness, and compliance with company travel policies.

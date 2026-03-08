@@ -1,10 +1,3 @@
-<thinking>
-The Dungeon Master Session Reservation Form is used to schedule and plan sessions for tabletop gaming activities, such as Dungeons & Dragons (D&D) or Pathfinder role-playing games. This form helps ensure that all relevant information is collected and organized for both the Dungeon Master (DM) and players. To prevent confusion or overlapping sessions, we recommend checking this form against any previous submissions before making new reservations.
-
-The form is divided into several sections, each focusing on a specific aspect of the session. This helps in streamlining the submission process and making it easy for the DM and players to review and understand the provided information.
-
-</thinking>
-
 # Dungeon Master Session Reservation Form - Help Guide
 
 ## Purpose

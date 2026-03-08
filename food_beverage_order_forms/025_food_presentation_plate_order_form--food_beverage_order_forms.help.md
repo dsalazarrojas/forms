@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is for food presentation plate orders. It is intended to gather information about the customer's preferences for the presentation of the food on the plate. This form will ask the customer about the details of the order, including the presentation preferences (color, shape, and size) and the quantities of the order. It also asks the customer to select the specific items to be ordered. This form is designed to be flexible and allow customers to enter any additional information they may need. It is not intended to be used for orders with specific delivery dates or times. Therefore, the "Order Date" field is not included.
-</thinking>
-
 # Food Presentation Plate Order Form - Help Guide
 ## Purpose
 This form is designed to gather information about the customer's preferences for the presentation of the food on the plate.

@@ -1,7 +1,3 @@
-<thinking>
-The Tax Exemption Form is a document used to declare tax exemptions for an organization. It's essential to complete this form accurately to ensure that you're taking advantage of tax benefits. Before proceeding, ensure that you're not duplicating an already submitted form. Please review the form carefully and ensure that all required fields are completed truthfully.
-</thinking>
-
 # Tax Exemption Form - Help Guide
 ## Purpose
 The Tax Exemption Form is used to declare tax exemptions for an organization. This form helps ensure that your organization is in compliance with tax regulations and eligible for applicable tax benefits.

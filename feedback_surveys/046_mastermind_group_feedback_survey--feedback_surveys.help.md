@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from participants about their experience in a Mindful Group. This feedback will help us understand what worked well and what didn't in the group, and will inform future groups. Please complete this form to help us improve our Mindful Group program. This form is not required, and your feedback will be kept anonymous.
-</thinking>
-
 # Mastermind Group Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience in a Mindful Group. Your input will help us understand what worked well and what didn't, and will inform future group improvements.

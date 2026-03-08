@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Square Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations from users to support a good cause or charitable organization. It allows users to input their donor information, specify a donation amount, leave a tip, select a tip amount, provide their email and phone number (if applicable), and confirm the donation details.

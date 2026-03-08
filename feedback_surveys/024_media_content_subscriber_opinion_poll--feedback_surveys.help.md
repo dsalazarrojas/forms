@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather media content subscriber opinions and feedback. It is designed to collect information on various aspects of the media content, including preferences, experience, and suggestions. The purpose of this form is to help understand the subscriber's opinions and improve the media content accordingly.
-</thinking>
-
 # media-content-subscriber-opinion-poll - Help Guide
 ## Purpose
 This form is used to collect feedback and opinions from media content subscribers. It aims to gather information on their preferences, experience, and suggestions to improve the media content.

@@ -1,9 +1,3 @@
-<thinking>
-
-I'm thinking: This form was created to help users upload press releases to be processed and used in our system. The form is designed to collect relevant information about the press release, including the title of the press release, the date it was uploaded, and the file associated with it. The form will not be used for any other purpose and is an original adaptation created by AI. The user is free to use, modify, and even sell forms derived from it, just give credit. 
-
-</thinking>
-
 # press_release_upload_form - Help Guide
 
 ## Purpose

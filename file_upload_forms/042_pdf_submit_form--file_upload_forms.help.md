@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PDF Submit Form - Help Guide
 ## Purpose
 The PDF Submit Form is used to submit files for processing. This form collects information about the submitter and their uploaded file.

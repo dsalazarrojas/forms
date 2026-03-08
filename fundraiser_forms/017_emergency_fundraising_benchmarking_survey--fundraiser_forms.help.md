@@ -1,5 +1,3 @@
-<thinking>As I analyze the form YAML, I notice that this form is for emergency fundraising benchmarking surveys. The form is meant to capture various information related to emergency fundraising surveys, including questions, benchmarking survey results, dates, times, number of respondents, score, and comments. It seems to be a comprehensive form for gathering data and feedback on emergency fundraising surveys. Upon reviewing the form structure, I don't see any duplicate fields or unnecessary sections, indicating that the form has been designed with care and clarity in mind.</thinking>
-
 # Emergency Fundraising Benchmarking Survey - Help Guide
 ## Purpose
 This form is designed to collect data and feedback on emergency fundraising surveys. It is meant to be completed by individuals who have participated in or responded to emergency fundraising surveys.

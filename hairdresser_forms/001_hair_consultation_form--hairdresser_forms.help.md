@@ -1,9 +1,3 @@
-<thinking>
-
-To create the help guide for the Hair Consultation Form, we need to understand the form's purpose and how it should be completed by end users. The form is designed to collect information from users to schedule a hair consultation, which likely involves understanding their preferences and needs for a hair service. It's crucial to ensure that the form is completed correctly to facilitate effective communication between the user and the service provider. This guide will break down each field to provide a clear understanding of its purpose.
-
-</thinking>
-
 # Hair Consultation Form - Help Guide
 
 ## Purpose

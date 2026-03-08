@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect file submissions from users, ensuring that they understand the file type and verification process. It's essential to prevent duplicate submissions and ensure that users understand the purpose of each field. The form is divided into several sections, each with a specific label and type. This guide will help users navigate through the form and provide the necessary information accurately.
-
-To avoid duplication, we'll focus on providing clear explanations and examples for each field, while avoiding any internal business logic or unsupported assumptions.</thinking>
-
 # File Submission Form With Verification - Help Guide
 ## Purpose
 This form is designed for users to upload files and submit them for verification. It's essential to fill out the form accurately and completely to ensure that your file is processed correctly.

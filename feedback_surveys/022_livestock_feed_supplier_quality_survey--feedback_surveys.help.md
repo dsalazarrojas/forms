@@ -1,11 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Livestock Feed Supplier Quality Survey form, which aims to collect feedback from farmers on their experiences with livestock feed suppliers. The form is intended to gather information on various aspects of the supplier's performance, including customer experience, quality of service, communication, product presentation, and overall satisfaction. This feedback will help us to improve our services and better cater to the needs of our customers.
-
-Before proceeding, it is essential to note that this form is not for duplicate entries, and each submission will be thoroughly evaluated to ensure that your feedback is considered. Your cooperation and honesty in filling out this form are greatly appreciated.
-
-To complete this form, please follow the steps below:
-</thinking>
-
 # Livestock Feed Supplier Quality Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from farmers on their experiences with livestock feed suppliers, aiming to improve services and better cater to customer needs.

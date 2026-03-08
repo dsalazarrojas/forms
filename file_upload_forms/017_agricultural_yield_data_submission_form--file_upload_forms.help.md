@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from farmers on the agricultural yield of their crops. This form aims to gather accurate and comprehensive information on various aspects of the harvest, including farm details, crop type, harvest date, weight, moisture content, grade or quality, storage location, operator details, and any additional comments. The form is designed to be completed by farmers or their representatives, who need to provide accurate and truthful information to ensure the quality and reliability of the data submitted.
-
-This form is intended for data submission and does not require any complex calculations or technical knowledge. The goal is to provide a simple and straightforward process for farmers to report their yield data.
-
-Before starting, please ensure you have all the required information ready. This form should not be repeated in any other context, and each field should only be filled out once. This will help maintain the accuracy and consistency of the data submitted.</thinking>
-
 # Agricultural Yield Data Submission Form - Help Guide
 ## Purpose
 

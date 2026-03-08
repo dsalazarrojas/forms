@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and survey data from users about their experiences and concerns with roundabouts. The purpose is to gather information that can be used to improve the design and functionality of roundabouts. This form will be used by transportation planners and engineers to inform design decisions and identify areas for improvement. Please only provide feedback on issues that you have personally experienced or have concerns about. To ensure that your feedback is relevant and useful, do not duplicate comments that others have already made.
-</thinking>
-
 # Roundabout Issues Survey - Help Guide
 
 ## Purpose

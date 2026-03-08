@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I will follow the provided instructions.
 
 # find_the_joker_50_50_fundraiser_1_deck_of_cards - Help Guide

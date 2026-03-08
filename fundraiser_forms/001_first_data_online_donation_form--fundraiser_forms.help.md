@@ -1,20 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "first-data-online-donation-form" form, I need to first understand its purpose and the structure of the form fields. Upon analyzing the provided YAML, it appears that this form is designed for online donations and fundraising activities. The form has 5 fields:
-1. Form name ("First Data Online Donation Form")
-2. Category (Fundraiser Forms or Other)
-3. Description (a text field for a brief description of the form)
-4. Assigned Tool (chatjimmy or Other)
-5. Output File (a text field for specifying an output file name)
-
-The form seems to be designed for users to input information about a fundraising form, specifying its category, description, assigned tool, and output file name. The non-required fields allow for flexibility and customization.
-
-The purpose of this form is to collect data for online donation forms, likely for internal use or sharing with partners. It may be used by organizations or individuals managing online fundraising efforts.
-
-The form does not require any specific business logic or proprietary information, as it's AI-generated using public metadata.
-
-</thinking>
-
 # first-data-online-donation-form - Help Guide
 ## Purpose
 

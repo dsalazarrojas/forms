@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Course Listing Submission Form, designed to guide users through the process of filling out the form correctly and effectively. 
-- Check if the course is already listed before submitting to avoid duplication.
-- Ensure that the course submission is relevant to your department or area of interest.
-</thinking>
-
 # Course Listing Submission Form - Help Guide
 
 ## Purpose

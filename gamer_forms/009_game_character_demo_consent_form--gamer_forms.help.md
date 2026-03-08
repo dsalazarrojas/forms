@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the game_character_demo_consent_form is to gather the necessary details and approvals for a demonstration or showcase event, such as a public event or a private event with restricted access. The form helps to ensure that both the creator and reviewer of the game content have agreed to the terms and conditions of the event, including what level of permission is required for the event and what type of usage is allowed. This form must be completed by the creator to obtain the necessary approval from the reviewer. The form fields are designed to provide clear and concise information for the reviewer to make an informed decision. The form should only be used for demonstration or showcase events and not for other purposes. The form's purpose and usage should be clearly understood by both the creator and reviewer to avoid any confusion or miscommunication.</thinking>
-
 # game_character_demo_consent_form - Help Guide
 ## Purpose
 The game_character_demo_consent_form is used to gather necessary details and approvals for demonstration or showcase events.

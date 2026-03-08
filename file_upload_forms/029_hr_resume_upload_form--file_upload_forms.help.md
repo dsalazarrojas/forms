@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The HR Resume Upload Form is a form used to upload resumes of candidates for HR-related positions. It is designed to collect essential information about the candidate, including their contact details, uploaded resume, and upload status. This form is intended for use by HR personnel to gather accurate and complete information from candidates.
 
 </thinking>

@@ -1,17 +1,3 @@
-<thinking>
-The form is designed to collect user information for photo identification purposes, likely for a business or government use case. This form is meant to be used for individuals who need to provide photo identification data for a specific reason, such as passport, driver's license, or ID card applications. The form asks for a title for the photo identification, categorization, a description, and various other business and institution-related information. This form is likely meant to be filled out by an individual who is applying for photo identification, and the information will be used by the relevant authority to verify their identity. 
-
-To ensure that the form is filled out correctly and accurately, please make sure that all required fields are completed and that the provided information is up-to-date and accurate. This form is part of a larger application process, so please be sure to fill it out carefully and thoroughly. 
-
-This form does not ask for any information that is sensitive or personally identifiable, so it's suitable for public use. The form is also designed to be filled out by an individual, so please be sure to answer all questions personally, rather than having someone else fill out the form on your behalf. 
-
-Please note that this form is meant for general use, if you are unsure about any of the information, or if you have any questions, please do not hesitate to reach out to the relevant authority. 
-
-The form has been designed with accessibility and usability in mind, so it should be easily navigable and understandable for all users. However, if you have any issues or need assistance, please contact the relevant authority for help. 
-
-Please fill out the form accurately and thoroughly, as any mistakes or omissions may lead to delays or issues with the photo identification process.
-</thinking>
-
 # Photo Identification Application - Help Guide
 ## Purpose
 The Photo Identification Application form is designed to collect necessary information for photo identification purposes. This form asks for a title, description, and other relevant details to verify an individual's identity.

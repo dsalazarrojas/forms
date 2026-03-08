@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is intended to help food vendors report incidents that have occurred during mobile food vendor events. The form is designed to collect details about the incident, including information about the event, vendor information, and the reporter's contact information. The purpose of this form is to ensure that incidents are reported accurately and thoroughly, providing valuable information for event organizers and vendors to improve future events. This form is not intended to be a comprehensive event management system, but rather a tool to collect and report incidents in a structured and organized manner.
-</thinking>
-
 # Mobile Food Vendor Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents that have occurred during mobile food vendor events. Its purpose is to collect detailed information about the incident, including event details, vendor information, and the reporter's contact information.

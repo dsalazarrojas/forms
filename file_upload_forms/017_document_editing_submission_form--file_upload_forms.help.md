@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Document Editing Submission Form - Help Guide
 
 ## Purpose

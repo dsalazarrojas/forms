@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nostalgic Media Submission Form - Help Guide
 ## Purpose
 The Nostalgic Media Submission Form is a tool used to collect user-generated content, such as artwork, historical events, and creative writing samples. This form is designed to be comprehensive and allow users to showcase their creations in a specific format, providing essential metadata to describe the submission. The form is used to collect data for archival and display purposes.

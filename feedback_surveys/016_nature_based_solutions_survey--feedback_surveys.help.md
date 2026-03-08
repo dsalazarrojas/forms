@@ -1,11 +1,3 @@
-<thinking>
-
-To provide an effective and user-friendly help guide for the Nature Based Solutions Survey form, we need to ensure that users understand the purpose of the form, how to complete it, and what each field means. This form is designed to gather information about Nature Based Solutions (NBS) awareness, benefits, and barriers, and how they are perceived by local communities. The form will help in understanding the current state of NBS adoption and how to improve it.
-
-Before starting the survey, it's essential to note that the form is divided into two main sections: the first section covers general questions about NBS awareness and benefits, while the second section focuses on more specific questions about NBS types and their implementation. Each section should be filled in accordance with the provided options.
-
-</thinking>
-
 # Nature Based Solutions Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about Nature Based Solutions (NBS) awareness, benefits, and barriers from local communities. This form is designed to help us understand the current state of NBS adoption and how to improve it.

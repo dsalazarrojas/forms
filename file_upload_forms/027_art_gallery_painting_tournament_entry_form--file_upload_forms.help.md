@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for artists to submit their paintings for a gallery competition. The form is used to collect information about the artist, their artwork, and their preferences for entry and display. Before completing this form, ensure you have the necessary information and documents ready. The form is not intended for commercial purposes, so do not use it to promote your own business or services. Please ensure you have the permission of the copyright owner before submitting an entry. Ensure you have a unique entry, as duplicate entries will not be considered.
-</thinking>
-
 # Art Gallery Painting Tournament Entry Form - Help Guide
 ## Purpose
 This form is for submitting paintings for a gallery competition. It gathers information about the artist, artwork, and preferences for entry and display.

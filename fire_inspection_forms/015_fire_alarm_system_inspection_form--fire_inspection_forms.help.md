@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Alarm System Inspection Form - Help Guide
 ## Purpose
 

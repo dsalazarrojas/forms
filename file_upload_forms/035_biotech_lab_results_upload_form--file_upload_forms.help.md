@@ -1,5 +1,3 @@
-<thinking>...The Biotech Lab Results Upload Form is a tool designed for researchers to upload and share lab results with their peers and stakeholders. It is crucial to ensure that the uploaded files are properly formatted and described to facilitate efficient review and analysis. To prevent duplication of work and incorrect submissions, please ensure that you have reviewed and validated your results before uploading them. Additionally, please ensure that you have obtained necessary approvals and clearances before proceeding with the upload process. Please follow these steps to complete the form accurately and efficiently...)</thinking>
-
 # Biotech Lab Results Upload Form - Help Guide
 ## Purpose
 The Biotech Lab Results Upload Form is designed to collect and share laboratory results, providing a platform for researchers to upload data files, descriptions, and other relevant information. This form helps streamline the process of sharing results, facilitating collaboration and ensuring accuracy in research.

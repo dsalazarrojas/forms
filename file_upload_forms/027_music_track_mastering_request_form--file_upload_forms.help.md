@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Track Mastering Request Form - Help Guide
 
 ## Purpose

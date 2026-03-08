@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Safety Certification Order Form - Help Guide
 ## Purpose
 The Restaurant Safety Certification Order Form is designed to help restaurants demonstrate their commitment to providing a safe dining environment for their customers and staff. By completing this form, restaurants can showcase their safety practices and procedures, which can help establish trust with customers and improve their overall reputation. This form is typically used by restaurants to certify that they meet the required safety standards, such as proper food handling, cleaning, and emergency procedures.

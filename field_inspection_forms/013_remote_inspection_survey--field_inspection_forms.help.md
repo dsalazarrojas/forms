@@ -1,5 +1,3 @@
-<thinking>... The purpose of this form is to collect information about a remote inspection survey, including the title, facility name, inspection date and time, location, notes, facility type, owner, manager, contact information, and status of the facility. This form is likely used for facility management or maintenance purposes, such as tracking inspections or monitoring facility performance. The form requires several fields with specific types, including text, date, time, select multiple, select one, and number fields...</thinking>
-
 # remote_inspection_survey - Help Guide
 ## Purpose
 The remote inspection survey form collects information about a facility's inspection and status.

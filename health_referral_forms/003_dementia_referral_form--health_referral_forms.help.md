@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about patients suspected to have dementia or other cognitive impairments. The form should only be used for patients who are not already being treated for dementia or who do not have a known medical history of dementia. If you have already filled out this form for the same patient, please do not repeat the form. 
-</thinking>
-
 # Dementia Referral Form - Help Guide
 ## Purpose
 The Dementia Referral Form is a tool used to gather essential information about patients suspected to have dementia or other cognitive impairments. This form helps healthcare providers identify the level of cognitive impact, medical history, medication usage, medical conditions, cognitive function, mental status, and other relevant factors to aid in the referral process.

@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect order information from local produce vendors. 
-This form is meant to be completed by vendors themselves, and is likely used by the farm to store and process order data. 
-The form should be completed in its entirety, with each field filled out accurately. 
-It's possible this form is used in conjunction with a larger system for tracking and processing orders. 
-This form should not be used for other purposes. 
-</thinking>
-
 # Local Produce Vendor Order Form - Help Guide
 ## Purpose
 The Local Produce Vendor Order Form is a tool for collecting order information from local produce vendors. This form helps the farm collect and process order data for efficient processing and communication with vendors.

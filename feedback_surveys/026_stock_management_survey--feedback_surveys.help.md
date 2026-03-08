@@ -1,10 +1,3 @@
-<thinking>
-The form appears to be designed for gathering feedback or survey data, likely for stock management purposes. Each field has a specific type and label, suggesting it collects various types of information. The form seems to have multiple pages with different sections, including text, select, email, number, and date fields. The form also includes select_one and select_multiple fields, which are used for multiple-choice questions. The page names and labels suggest that the form is related to stock management, but the specific purpose and questions are not clearly defined. The required fields are marked as true, indicating that users must complete these fields.
-
-The form has a mix of required and non-required fields, which may indicate that users have varying levels of input. Some fields seem to be designed for collecting specific information, such as email and phone numbers, while others are more open-ended, like text fields. The select fields suggest that users are presented with multiple options to choose from. The page names and labels do not provide additional context, so we'll need to focus on explaining each field in the context of the form.
-
-</thinking>
-
 # Stock Management Survey - Help Guide
 ## Purpose
 This form is designed to collect data on stock management, likely for the purpose of monitoring, analyzing, or improving stock levels.

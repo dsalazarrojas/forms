@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to upload and synchronize media files for various projects. The form allows users to select the type of media file they want to upload and the permissions they want to give to others. This form is part of a larger system used to manage project-related information and ensure that multiple users can access and update media files simultaneously. Please make sure to fill out the form with the correct information to avoid duplication and ensure that the files are properly synchronized.
-</thinking>
-
 # Media Upload For Synchronization - Help Guide
 ## Purpose
 This form is used to upload and synchronize media files for various projects.

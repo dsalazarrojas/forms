@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests who plan to attend a graduation party. This form is used to gather details such as name, contact information, and RSVP status. The form is designed to be completed by guests who have been invited to the graduation party and want to provide their details to the host. It's recommended that you only fill out this form if you have been specifically invited to the party.
-</thinking>
-
 # graduation_party_registration_form - Help Guide
 ## Purpose
 This form is intended for guests to provide their contact information and RSVP status for a graduation party.

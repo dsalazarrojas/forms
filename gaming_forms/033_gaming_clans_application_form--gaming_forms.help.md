@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be completed by potential new members of a gaming clan or community. It aims to collect information about their gaming experience, interests, and preferences. The data collected will help the clan administrators to understand who the applicant is and how they fit into the clan's culture.
-To prevent duplication or fake applications, the form will be reviewed by clan administrators before accepting new members.
-</thinking>
-
 # Gaming Clans Application Form - Help Guide
 ## Purpose
 This form is designed for potential new members of a gaming clan or community to provide information about their gaming experience, interests, and preferences.

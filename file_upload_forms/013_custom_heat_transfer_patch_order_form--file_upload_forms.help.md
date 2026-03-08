@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Heat Transfer Patch Order Form - Help Guide
 
 ## Purpose

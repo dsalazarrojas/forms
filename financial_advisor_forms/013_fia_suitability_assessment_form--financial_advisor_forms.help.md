@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # FIA Suitability Assessment Form - Help Guide
 ## Purpose
 The Financial Industry Association (FIA) Suitability Assessment Form is used to gather information about a client's financial situation, goals, and preferences. This form helps investment professionals assess the client's suitability for various investment products or services. The goal of this form is to gather essential data to create a comprehensive investment plan tailored to the client's needs.

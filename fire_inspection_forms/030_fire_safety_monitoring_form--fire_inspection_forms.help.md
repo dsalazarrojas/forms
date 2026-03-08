@@ -1,14 +1,3 @@
-<thinking>...<thinking>
-
-To create an effective user-facing help guide for the "Fire Safety Monitoring Form", we will follow these steps:
-
-1.  Identify the primary purpose of the form: The form is used for monitoring fire safety in various buildings.
-2.  Determine the form's scope: The form is used for fire safety monitoring in general, not specific to a particular department or team.
-3.  Check for duplication: This form appears to be a general-purpose form for fire safety monitoring, so there's no need to check for duplication.
-4.  Identify the target audience: The target audience is likely building owners, managers, or other fire safety personnel who need to monitor and report on fire safety status.
-
-</thinking>
-
 # Fire Safety Monitoring Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather feedback from participants about their experience in an inquest session, which is a meeting or discussion focused on a particular issue or problem. This feedback will help us understand how the session was perceived by the participants, what they liked about it, what they did not like, and how we can improve future sessions.
 
 We will be checking for duplication of answers to ensure that each participant's feedback is unique and valuable to us.

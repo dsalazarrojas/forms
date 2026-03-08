@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure a smooth and successful submission of the Student Essay Upload Form, we must consider the context and purpose behind the form. This form is designed to collect student essays, which can be a valuable asset for educational institutions to assess student learning, track progress, and evaluate the effectiveness of teaching methods.
-
-Before proceeding with the form, please verify that the submission is not a duplicate and that you are authorized to upload the essay. This form should not be used for commercial purposes or to solicit sensitive information.
-
-</thinking>
-
 # Student Essay Upload Form - Help Guide
 ## Purpose
 The Student Essay Upload Form is designed to collect and store student essays for educational assessments and evaluations.

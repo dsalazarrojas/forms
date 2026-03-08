@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and to prevent duplication, the Moot Court Brief Upload Form should only be used for uploading files related to a particular case. When filling out the form, users should ensure that the file they upload is relevant to the selected category and is not a duplicate of an already uploaded file. It is also recommended that users provide a brief description of the uploaded file to help with organization and searchability.
-</thinking>
-
 # Moot Court Brief Upload Form - Help Guide
 
 ## Purpose

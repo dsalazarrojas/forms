@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate a document review meeting, gathering information and feedback from participants. The form has been created to ensure that all necessary details are captured and documented in a single, organized way. The fields included in this form are meant to cover all the essential aspects of document review meetings, including scheduling, document information, and feedback collection.
-</thinking>
-
 # Document Review Meeting Form - Help Guide
 
 ## Purpose

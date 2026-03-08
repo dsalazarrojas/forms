@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with rotational grazing, a method of feeding livestock. This form is used to assess the effectiveness of rotational grazing in providing benefits to the animals and the environment. The questions in this form are designed to be clear and concise, and they cover the essential aspects of rotational grazing. Please note that this form is for feedback purposes only, and the information collected will not be used for any other purpose. If you are unsure about any of the questions, please feel free to contact us for clarification.
-</thinking>
-
 # rotational_grazing_feedback_survey - Help Guide
 ## Purpose
 This form is used to gather feedback about your experience with rotational grazing. Your input will help us improve and refine our rotational grazing program.

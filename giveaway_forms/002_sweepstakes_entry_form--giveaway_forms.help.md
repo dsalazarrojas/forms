@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of the sweepstakes entry form and its required fields. This form is designed to collect essential information about a sweepstakes entry, such as user name, email, phone number, and sweepstakes ID, which is necessary for tracking and management purposes. The form also collects additional information like entry date, submission date, entry time, and entry details, which helps in organizing and verifying entry submissions. Non-required fields like prize, winner, sweepstakes image, and entry instructions provide optional information for users to include if they choose to do so.
-We also need to ensure that users understand that some fields have specific formats, such as entry date, submission date, entry time, and created at fields are in date format, while phone number is expected in text format.
-</thinking>
-
 # Sweepstakes Entry Form - Help Guide
 ## Purpose
 The Sweepstakes Entry Form is designed to collect essential information about a sweepstakes entry for tracking and management purposes.

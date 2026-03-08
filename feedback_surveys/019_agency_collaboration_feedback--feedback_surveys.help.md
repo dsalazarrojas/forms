@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agency Collaboration Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients on their experience with agency collaborations. It's a tool to help agencies evaluate and improve their performance, and to provide valuable insights for future collaborations.

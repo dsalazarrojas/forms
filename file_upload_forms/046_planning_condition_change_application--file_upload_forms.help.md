@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used for planning condition changes. The purpose of this form is to provide a structured way to collect and document changes to project conditions. This form is used by project team members to request changes to project conditions, such as project scope, timeline, or budget. It is not intended to be used for ad-hoc or routine changes, but rather for changes that have a significant impact on the project's overall condition.
-
-To ensure that this form is used correctly, it is essential to understand its purpose and usage context. The form is designed to be used by project team members to document changes to project conditions in a structured way, allowing for clear communication and tracking of changes. This form should not be used for trivial or minor changes.
-
-Before filling out this form, please make sure you have reviewed the project's overall condition and have a clear understanding of the proposed change. Ensure that you have obtained necessary approvals and have a valid reason for the change.
-</thinking>
-
 # Planning Condition Change Application - Help Guide
 ## Purpose
 The Planning Condition Change Application form is used to document changes to project conditions that have a significant impact on the project's overall condition. This form helps project team members to request and track changes to project scope, timeline, or budget in a structured way.

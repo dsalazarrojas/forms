@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "tabletop_game_feedback_form" form, I'll first consider the form's purpose and potential issues that may arise.
-
-The form appears to be designed for collecting feedback from players about tabletop games, which could be related to game development or user experience. This form might be used to understand player preferences, opinions, and pain points, and possibly to identify areas for game improvement. It's not entirely clear what specific goals or outcomes the form is aiming to achieve, so let's assume that the primary purpose is to collect detailed feedback from players.
-
-Before creating the help guide, I'll assume that the form is not intended for duplicate submissions or internal use, and the form's purpose is not to be used by multiple individuals or teams simultaneously. I'll also assume that the form is designed to be completed by players who are providing their genuine feedback.
-
-</thinking>
-
 # tabletop_game_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect detailed feedback from players about their tabletop game experiences. Your input will help game developers understand what players like or dislike about the game, which can lead to improvements and a better gaming experience for everyone.

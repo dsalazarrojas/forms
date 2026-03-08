@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the hair and scalp rejuvenation process. It is designed to gather data on various aspects of hair and scalp health, including hair color, length, condition, and porosity. This form is intended for use by hairdressers and other professionals in the industry to document and track the progress of hair and scalp treatments. Before proceeding, please ensure that you have a valid reason for filling out this form and that you are not duplicating information already collected.
-</thinking>
-
 # Hair & Scalp Rejuvenation Report Form - Help Guide
 ## Purpose
 The Hair & Scalp Rejuvenation Report Form is used to document and track the progress of hair and scalp treatments.

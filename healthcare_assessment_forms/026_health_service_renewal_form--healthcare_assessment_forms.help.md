@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare services renewal. The purpose of this form is to collect information about the patient's health service, such as clinic name, preferred renewal period, and start and end dates. This form will help the healthcare provider to keep track of the patient's service details for renewal purposes.
-</thinking>
-
 # Health Service Renewal Form - Help Guide
 ## Purpose
 The Health Service Renewal Form is used to collect information about the patient's health service, including clinic name, preferred renewal period, start and end dates, patient name, phone number, email, and other relevant details. This form is intended to provide a comprehensive overview of the patient's health service status.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to assist users in uploading files and pictures associated with onsite measurements. The form is divided into two pages: "Upload files and pictures" and "Onsite Measurement Form 2." The first page allows users to select whether they have "Yes" or "No" files to upload, and on the second page, users can add a note, which may include further details or explanations related to the measurement. The primary purpose of this form is to ensure that users understand the correct process for uploading relevant files and pictures. Ensure that the form is filled out only once per measurement, and do not attempt to fill out this form multiple times for the same measurement.</thinking>
-
 # onsite_measurement_form - Help Guide
 ## Purpose
 The onsite measurement form is used to upload files and pictures associated with measurements.

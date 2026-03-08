@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire - Help Guide
 ## Purpose
 The Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire is a form designed to collect information about a patient's health and well-being, specifically focusing on generalized anxiety disorder. The form aims to gather data on the patient's anxiety symptoms, their frequency, duration, and impact on daily life. This information will help healthcare professionals understand the patient's condition better and provide more effective treatment.

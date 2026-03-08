@@ -1,8 +1,3 @@
-<thinking>
-This form is for creating custom gift baskets for special occasions or events. It will guide you in filling out relevant details such as gift recipient information, basket details, gift item, gift card, shipping, and payment method.
-The purpose of this form is to collect information for creating personalized gift baskets that cater to the recipient's preferences and needs. This form will not ask any questions that are not relevant to the gift-giving process, so please fill it out carefully.
-</thinking>
-
 # Custom Basket Creation Survey - Help Guide
 ## Purpose
 The Custom Basket Creation Survey is a form for creating tailored gift baskets that take into account the individual preferences and needs of the gift recipient.

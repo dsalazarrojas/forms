@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be an original adaptation of a general form used in the healthcare industry, specifically in the context of occupational health and safety (OHS). The form likely serves to gather information regarding the safety protocols and medical requirements for workers in hazardous environments.
-
-To determine the form's purpose and relevance, we can infer that it is used to ensure that workers are adequately prepared and equipped to perform their tasks safely. The form may be used by employers or site supervisors to verify that employees have completed the necessary safety training, are aware of potential risks, and have the necessary safety equipment.
-
-The form's structure and field labels suggest that it is designed to collect information about the work site's safety risks, the safety measures in place to mitigate these risks, the safety equipment available to workers, the safety training received, any medical conditions that may impact the worker's ability to perform their tasks, and a medical certificate (if required).
-
-To confirm that this form is relevant and not a duplication, I will ensure that the explanation is concrete, concise, and practical, using the provided YAML fields as inspiration.
-</thinking>
-
 # OHS (Occupational Health And Safety) Work Permit Form - Help Guide
 ## Purpose
 This form is used to gather information about the safety protocols and medical requirements for workers in hazardous environments. It helps ensure that workers are adequately prepared and equipped to perform their tasks safely.

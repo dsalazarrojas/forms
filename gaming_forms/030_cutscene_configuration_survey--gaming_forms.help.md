@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and survey data from game players regarding their experience with cutscenes in games. The form is intended to gather demographic and behavioral data to help game developers understand player preferences and improve game development processes. It is not designed for players under 13 years old, and it is recommended that players take the form seriously and provide honest feedback. This form is not a duplicate of other forms, and its purpose is to collect data on a specific topic.
-</thinking>
-
 # cutscene_configuration_survey - Help Guide
 ## Purpose
 

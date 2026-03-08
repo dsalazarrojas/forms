@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "medical_field_service_survey" form is used to collect patient feedback on their visit to our medical field. This form is designed to gather information about the patient's experience with our staff, services, and facilities. To ensure that we receive accurate and useful feedback, please complete this form carefully.
 
 ## Purpose

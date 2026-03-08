@@ -1,9 +1,3 @@
-<thinking>
-This form is a simple reporting form used to collect information about inheritance in real estate. The purpose of this form is to help users report and document their estate and heir details.
-The form will ask for the title of the estate, the name of the heir, the key dates related to the estate, and the centralization status of the inheritance. Additionally, the form will also ask for multiple file upload options to upload related documents.
-Before starting, ensure you have all the necessary documents ready to be uploaded before completing this form. You should not fill out this form if you have already done so in the past. Please note that this form is for original submissions only.
-</thinking>
-
 # Inheritance Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect information about inheritance in real estate, including estate details, heir details, key dates, centralization status, and multiple file uploads.

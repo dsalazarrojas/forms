@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a biscuit distribution program. The purpose of this form is to ensure that the biscuits are distributed correctly and safely to the intended recipients. Before using this form, please make sure that you have not already filled out a similar form for the same purpose, as duplicate forms may cause confusion and delay the delivery process. 
-</thinking>
-
 # Biscuit Distribution Help Form - Help Guide
 ## Purpose
 This form is used to collect information for a biscuit distribution program. It will help us to ensure that the biscuits are distributed correctly and safely to the intended recipients.

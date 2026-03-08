@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of the Jazz Brunch event. It is intended to gather information on the quality of service, music, and overall experience of the event. This form is not intended to be completed by non-attendees or individuals who have not attended the event. Please ensure that you have actually attended the event before completing this form.
-
-This form has been designed to capture a wide range of information, including attendee demographics and contact information. However, please note that some fields are not required, and you may choose to skip them if they are not relevant to your experience.
-
-This form is intended to provide a comprehensive overview of your experience, and your responses will help us to understand what we can do better in the future.
-
-If you are experiencing issues with the form or have difficulty understanding a particular question, please do not hesitate to contact us for assistance.
-
-Please ensure that you answer all required fields accurately and truthfully. Your feedback is greatly appreciated and will help us to improve our events.
-
-</thinking>
-
 # Jazz Brunch Experience Survey - Help Guide
 ## Purpose
 

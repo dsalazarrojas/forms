@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to provide a simple audit of crop yield data. This form is likely used by farmers or agricultural professionals to inspect and report on crop yields. The form is designed to be straightforward, with minimal required fields and clear options for users to select from. To ensure the form is used correctly, it's essential to understand its purpose and how each field should be completed.
-The form has two pages: one for the user to select 'Yes' or 'No' for some data, and another for numerical data entry. Since there are no specific hints or descriptions for the pages, it's possible they could be used for other purposes or have specific context not mentioned in the current configuration. However, the presence of 'Yes' and 'No' options suggests these pages might be related to some sort of inspection or assessment.
-The fields on the second page seem to be for numerical data entry. The fact that these fields are both 'number' type suggests they could be related to quantifiable data such as yield quantity or value.
-</thinking>
-
 # Crop Yield Data Audit Form - Help Guide
 ## Purpose
 This form is designed to help you inspect and report on crop yields.

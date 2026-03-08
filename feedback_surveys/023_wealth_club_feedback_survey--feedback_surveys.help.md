@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is being used correctly and that users are providing valuable feedback. This form should be used by customers to share their thoughts and opinions on our Wealth Club service. To avoid duplication of feedback, please make sure to complete the form only once. If you've already provided feedback, you can skip this form.
-</thinking>
-
 # Wealth Club Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and opinions on our Wealth Club service. Your feedback will help us understand what we're doing well and where we can improve.

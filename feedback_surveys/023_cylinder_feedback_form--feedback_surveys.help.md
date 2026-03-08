@@ -1,10 +1,3 @@
-<thinking>
-The Cylinder Feedback Form is used to collect feedback from users regarding their experiences with a product or service. This form helps the development team understand the strengths and weaknesses of the product, identify areas for improvement, and make data-driven decisions. 
-
-The form is designed to be as non-intrusive as possible, allowing users to provide detailed and specific feedback without feeling overwhelmed. It's essential to ensure that you're providing honest and constructive feedback, focusing on the product's performance, quality, and overall satisfaction. 
-
-Before filling out this form, please check if you've already submitted a feedback form or if your feedback has already been recorded. This will save you time and ensure that your feedback is accurately reflected in our records.</thinking>
-
 # Cylinder Feedback Form - Help Guide
 ## Purpose
 The Cylinder Feedback Form is a tool used to gather feedback from users about their experiences with a product or service. This form helps the development team to identify areas for improvement and make data-driven decisions.

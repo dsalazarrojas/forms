@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect sensitive and personal information from potential egg donors. Each question is designed to help the egg donor screening team understand the applicant's medical history, personal characteristics, and relationships. Please ensure that you complete this form accurately and honestly, as it will be used to evaluate your eligibility for egg donation. This form may be required to be completed multiple times throughout the process, as some questions may require more information or clarification. Please do not repeat any information provided in previous submissions.
-</thinking>
-
 # Egg Donor Screening Questionnaire - Help Guide
 ## Purpose
 The Egg Donor Screening Questionnaire is a comprehensive form used to gather information from potential egg donors. This form helps us understand your medical history, personal characteristics, and relationships, which are essential for the egg donation process. Completing this form ensures that you provide accurate and honest information, which will be evaluated during the screening process.

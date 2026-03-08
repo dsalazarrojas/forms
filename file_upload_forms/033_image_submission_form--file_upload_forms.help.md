@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## image_submission_form - Help Guide
 
 ## Purpose

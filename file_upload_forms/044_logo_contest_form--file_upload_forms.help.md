@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the submission of logos for a contest. It ensures that users can upload their logo files and provide relevant information about the contest. The form is not intended for users to upload multiple files or enter free-form text descriptions.
-</thinking>
-
 # logo_contest_form - Help Guide
 ## Purpose
 This form is used for users to upload logos and provide information about a contest. It is meant to be filled out by contest participants who want to submit their logo designs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Get Tangent (tan) - Help Guide
 ## Purpose
 The purpose of this form is to help the user calculate the tangent of a given angle. This form is intended for users who want to find the tangent of an angle in the unit circle.

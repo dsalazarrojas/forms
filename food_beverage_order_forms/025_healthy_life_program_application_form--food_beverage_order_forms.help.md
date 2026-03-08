@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthy Life Program Application Form - Help Guide
 
 ## Purpose

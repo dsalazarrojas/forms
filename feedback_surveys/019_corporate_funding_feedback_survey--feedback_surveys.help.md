@@ -1,7 +1,3 @@
-<thinking>
-The form "Corporate Funding Feedback Survey" is designed to gather feedback from funders about their experiences and perceptions regarding the corporate funding process. This form is intended to be completed by funders, such as investors, donors, or partners, to provide their opinions and insights on the effectiveness and impact of the funding received. The purpose of this form is to help the organization understand the areas of improvement, identify the strengths and weaknesses of the funding process, and make data-driven decisions to enhance the corporate funding experience.
-</thinking>
-
 # Corporate Funding Feedback Survey - Help Guide
 
 ## Purpose

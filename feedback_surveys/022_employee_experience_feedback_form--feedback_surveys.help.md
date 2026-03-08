@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees regarding their experience in their current role, specifically focusing on their relationship with their manager. 
-This form will help us understand how often employees interact with their manager, the style of communication used, their overall satisfaction with their work and their manager, and any additional feedback they may have. 
-By collecting this information, we can identify areas of improvement and make data-driven decisions to enhance the work environment and manager-employee relationships. 
-Please ensure that you are providing feedback on your current role and not on a past or future role. 
-If you have already submitted feedback on this form, please do not resubmit. 
-</thinking>
-
 # Employee Experience Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience as an employee, specifically your relationship with your manager and your overall satisfaction with your role.

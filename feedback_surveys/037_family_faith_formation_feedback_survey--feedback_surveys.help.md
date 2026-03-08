@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users who are unfamiliar with the "Family Faith Formation Feedback Survey" form. Before proceeding, please ensure that you have a clear understanding of the form's purpose and are not duplicating a previous submission.
-
-The "Family Faith Formation Feedback Survey" form is designed to collect feedback from families who participate in the Family Faith Formation program. The form aims to gather information on the families' experiences, suggestions, and ratings of the program.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Family Faith Formation Feedback Survey - Help Guide
 ## Purpose
 The Family Faith Formation Feedback Survey is designed to gather feedback from families who participate in the program. This feedback will be used to improve and enhance the program.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to collect information from customers regarding their accounts receivable, including customer details, invoice amount, due date, payment terms, and preferred payment method. The form is essential for financial management and billing purposes. It's a crucial part of the accounts receivable process, ensuring accurate and efficient billing and payment processing. To avoid duplication of efforts, please ensure that customers complete this form correctly, providing all necessary information, and that it is filled out for each unique customer.
-</thinking>
-
 # Accounts Receivable Customer Request Form - Help Guide
 
 ## Purpose

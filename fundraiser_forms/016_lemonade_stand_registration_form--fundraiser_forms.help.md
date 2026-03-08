@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants and guardians involved in a lemonade stand fundraising event. It's intended for parents/guardians to register their child(ren) to participate in the event, providing necessary contact and demographic information. This form ensures accurate data collection for event planning and coordination. Please review each field carefully to ensure accurate completion.
-</thinking>
-
 # lemonade_stand_registration_form - Help Guide
 ## Purpose
 This form is for registering participants and guardians to a lemonade stand fundraising event. It collects contact and demographic information to ensure accurate data collection for event planning and coordination.

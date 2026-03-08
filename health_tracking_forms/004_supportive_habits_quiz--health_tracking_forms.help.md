@@ -1,10 +1,3 @@
-<thinking>
-The Supportive Habits Quiz form is designed to help individuals assess their daily habits related to various aspects of their well-being, including sleep, exercise, stress management, self-care, goal setting, mindfulness, goal achievement, self-regulation, emotional regulation, physical activity, and social support. This form is intended to provide a concise and standardized way to gather information about these habits, enabling users to gain insights into their daily routines and identify areas that may need improvement.
-
-The form consists of 14 fields, each addressing a specific aspect of supportive habits. This guide will walk you through each field, explaining its purpose and how to complete it.
-
-</thinking>
-
 # Supportive Habits Quiz - Help Guide
 ## Purpose
 The Supportive Habits Quiz is designed to help you evaluate your daily habits and gain insight into areas that may need improvement.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students seeking career services support. It is designed to gather details about the student's educational background, professional goals, and specific needs in order to provide relevant career guidance. This form aims to ensure that the Career Services team can effectively provide targeted support to students. It's crucial that students provide accurate and thorough information to facilitate efficient processing. Note that the form requires students to select all relevant career services they are interested in, and the order of options is not necessarily indicative of priority or importance.</thinking>
-
 # Career Services Resume Submission - Help Guide
 
 ## Purpose

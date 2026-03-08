@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the Vaccine Distribution Efficiency Evaluation Form.
-The form is designed to assess the efficiency of vaccine distribution processes in various settings.
-Please note that the form is not meant to be a replacement for professional medical advice or evaluation.
-The provided instructions are for general guidance only.
-</thinking>
 # Vaccine Distribution Efficiency Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the efficiency of vaccine distribution processes in various settings, such as hospitals, clinics, and community centers.

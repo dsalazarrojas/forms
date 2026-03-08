@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for internal use by financial advisors to collect information from customers. The form is not meant to be filled out by the customer directly. The purpose of this form is to gather relevant data from the customer for the advisor to use for their own internal purposes. It is essential to ensure that the form is filled out accurately to avoid any discrepancies or errors in processing the customer's request. Before proceeding, please confirm that you are authorized to access this form and that it is not a duplicate entry.
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 This form is intended for internal use by financial advisors to collect information from customers. It is not meant to be filled out by the customer directly.

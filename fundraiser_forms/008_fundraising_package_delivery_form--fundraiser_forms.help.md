@@ -1,7 +1,3 @@
-<thinking>
-This form is used for fundraising package delivery purposes, to collect information about the package delivery details. The form is likely used for internal operations, such as tracking and managing package delivery schedules, and is not intended for public use.
-</thinking>
-
 # Fundraising Package Delivery Form - Help Guide
 ## Purpose
 The Fundraising Package Delivery Form is used to collect information about the delivery of packages for fundraising purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information from the owner or manager of a property, or from a safety professional, to schedule and conduct a fire suppression audit. The purpose of this form is to ensure that the fire suppression system is functioning correctly and meets the regulatory requirements. It is essential that this form is completed accurately and thoroughly to facilitate a smooth and efficient audit process. 
-
-Before filling out this form, please ensure that the provided information is accurate and up-to-date. 
-
-Please note that if the form is not completed correctly, it may affect the outcome of the audit and potentially lead to unnecessary delays or re-inspections.
-</thinking>
-
 # Fire Suppression Audit Consent Form - Help Guide
 ## Purpose
 The Fire Suppression Audit Consent Form is used to gather information from the owner or manager of a property, or from a safety professional, to schedule and conduct a fire suppression audit. The form helps ensure that the fire suppression system is functioning correctly and meets regulatory requirements.

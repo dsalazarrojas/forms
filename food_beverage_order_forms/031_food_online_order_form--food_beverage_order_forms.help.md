@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect online orders for food and beverages. The form is designed for customers to select their preferred meal options, choose their preferred diet type, texture, temperature, quantity, and payment method. They will also be able to add order and delivery details, as well as their contact information (email and phone number) in case they need to be contacted.
-
-To avoid duplication, we want to ensure that customers can only select one meal, one diet type, one texture, one temperature, and one payment method.
-
-Form fields are divided into two pages, and the required fields are clearly marked. However, most fields are optional, and customers can choose to leave them blank if they are not relevant.
-
-The form is designed to be user-friendly and easy to fill out, with clear labels and hints to guide the customer through the process.
-</thinking>
-
 # food_online_order_form - Help Guide
 ## Purpose
 The food online order form is designed to collect customer orders for food and beverages. Customers can select their preferred meal options, choose their preferred diet type, texture, temperature, quantity, and payment method.

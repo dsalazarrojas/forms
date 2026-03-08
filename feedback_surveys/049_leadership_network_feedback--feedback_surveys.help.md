@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback from users about the leadership network. The purpose of this form is to gather information about your experiences, opinions, and suggestions for improvement. This form will ask you to provide feedback on various aspects of the leadership network, including your experience, communication, attendance at events, and any additional comments. It's not necessary to provide feedback on every field, and the form is structured in a way that allows you to skip questions that don't apply to you. Please provide your feedback in a clear and concise manner, and be as specific as possible.
-</thinking>
-
 # leadership_network_feedback - Help Guide
 ## Purpose
 The "leadership_network_feedback" form is designed to gather information about your experiences and opinions about the leadership network. Your feedback will help us understand what we're doing well and where we can improve.

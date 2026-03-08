@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help individuals track their daily subconscious experiences, including thoughts, emotions, goals, fears, anxieties, sleep, exercise, hydration, social contacts, and goal achievements. By filling out this form, users can gain a better understanding of their mental and physical well-being on a daily basis. The form is not affiliated with, endorsed by, or derived from any form platform, and its purpose is to provide a personal and private tracking tool for individuals.
-
-The form has multiple pages with various fields, each designed to capture specific information about the user's experiences. The fields are labeled and explained below for clarity and ease of use.
-
-</thinking>
-
 # daily_subconscious_tracker_form - Help Guide
 ## Purpose
 This form is designed to help individuals track their daily subconscious experiences, including thoughts, emotions, goals, fears, anxieties, sleep, exercise, hydration, social contacts, and goal achievements.

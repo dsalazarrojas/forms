@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather user preferences and habits regarding physical activities and exercise. Its purpose is to create a personalized schedule for users, taking into account their preferred activities, frequency, and time of day, allowing users to create a schedule that suits their lifestyle and needs. 
-The form is designed to collect user information without duplication or redundancy, ensuring that each field is filled out only once. This guide will explain each field purpose and how to fill it correctly.
-
-</thinking>
-
 # Personalized Activity Survey - Help Guide
 ## Purpose
 The Personalized Activity Survey form is designed to gather your physical activity preferences and habits to create a personalized schedule that suits your needs and lifestyle.

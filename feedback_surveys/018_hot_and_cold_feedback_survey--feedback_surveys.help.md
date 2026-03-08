@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Hot And Cold Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their hot and cold (positive and negative) experiences with our services. Please take a few minutes to share your honest feedback. Your input will help us understand areas of improvement and provide better services.

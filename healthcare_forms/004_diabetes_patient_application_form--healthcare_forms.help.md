@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients with diabetes, including their medical history, current medications, test results, and control over their diabetes. This form is intended to be filled out by patients themselves, but may also be used by healthcare providers to gather information from patients who are applying for certain programs or services. 
-Please ensure that you only complete this form once for yourself. If you have already completed this form, do not submit another copy. 
-</thinking>
-
 # diabetes_patient_application_form - Help Guide
 ## Purpose
 The Diabetes Patient Application Form is used to collect medical information from patients with diabetes. This form is designed to help healthcare providers understand a patient's medical history, current health status, and treatment plan. Completing this form will aid in the assessment and management of your diabetes.

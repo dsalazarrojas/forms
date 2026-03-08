@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a user-facing order form for a flower shop, where customers can enter details about their order, such as delivery address, order type, flower type, number of flowers, order date, order time, contact number, and email address. This form is likely used by florists to receive orders from customers and fulfill their flower needs. The fields are designed to be user-friendly and easy to fill out.
-
-</thinking>
 # Flower Shop Order Form - Help Guide
 ## Purpose
 This form is used to place an order for flowers at our flower shop. Please fill out the form with your details to place your order.

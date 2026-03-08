@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to upload payment receipts for record-keeping and reference purposes. The form collects various details such as category, tags, description, and submitted information. The category field is a required field, which will help in organizing the uploaded receipts under different categories. The tags field is also required, allowing users to assign multiple tags to the receipt for easier searching and filtering. The form does not require a description or submitted by/submit date fields, making them non-required fields.
-</thinking>
 # Payment Receipt Upload Form - Help Guide
 ## Purpose
 This form is designed to help users upload payment receipts for easy reference and record-keeping.

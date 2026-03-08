@@ -1,9 +1,3 @@
-<thinking>
-The Mobile Bartending Service Feedback Survey is designed to collect feedback from customers who have used the service. This form is meant to gather information on the customer's experience, including their name, the type of service they used, the date and time of the event, the name of the event, and their rating of the service. The goal is to provide valuable insights to improve the service quality and customer experience.
-To ensure that this form is used correctly and efficiently, please make sure to fill out the fields as accurately and completely as possible. This will help us better understand your experience and provide more effective solutions.
-The form is not meant to be filled out multiple times for the same event or service. Please only fill out the form once per event or experience.
-</thinking>
-
 # Mobile Bartending Service Feedback Survey - Help Guide
 ## Purpose
 The Mobile Bartending Service Feedback Survey is designed to collect feedback from customers who have used the service. This form will help us improve the service quality and customer experience.

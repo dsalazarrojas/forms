@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for customers to place orders for meat delivery with a butcher. The purpose of this form is to collect information about the customer's order, including their name, contact information, delivery address, and preferences for products, delivery date and time, and payment method.
-
-To ensure consistency and accuracy in the order process, it's crucial that the customer completes all required fields. The form is divided into two pages with various fields to collect essential information about the customer and their order.
-
-</thinking>
-
 # Butcher Meat Delivery Form - Help Guide
 ## Purpose
 This form is used to place an order for meat delivery with a butcher. Please fill in all required fields to ensure your order is processed accurately.

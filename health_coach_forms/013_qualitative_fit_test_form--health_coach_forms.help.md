@@ -1,8 +1,3 @@
-<thinking>
-We're checking if the form purpose and requirements are well-defined and not duplicative. The goal of this form is to collect qualitative data about patient and respirator fit. This form likely aims to gather relevant details such as patient and respirator types, testing dates and times, and any issues found during the fit test. We'll assume that there's a clear need for this form and no duplicate form in our system. Please proceed to the help guide creation.
-
-</thinking>
-
 # Qualitative Fit Test Form - Help Guide
 ## Purpose
 This form is used to collect qualitative data about patient and respirator fit. The goal is to gather details such as patient and respirator types, testing dates and times, and any issues found during the fit test.

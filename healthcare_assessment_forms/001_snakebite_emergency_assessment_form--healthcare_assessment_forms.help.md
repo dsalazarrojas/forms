@@ -1,8 +1,4 @@
-> <thinking> I'll create a comprehensive help guide for the Snakebite Emergency Assessment Form. To ensure relevance and non-duplication, I'll carefully review the provided YAML fields and base the explanation on the actual form data.
-
-</thinking>
-
-# Snakebite Emergency Assessment Form - Help Guide
+> # Snakebite Emergency Assessment Form - Help Guide
 
 ## Purpose
 The Snakebite Emergency Assessment Form is designed to collect critical information from medical professionals and first responders to assess and treat snakebite emergencies. This form helps gather essential details about the patient, snake type, bite location, and other relevant factors to provide timely and effective medical attention.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Remote Transmission Form", is to provide a comprehensive way for users to input information related to remote transmission. This form likely serves a variety of purposes such as tracking transmission status, gathering data for analysis, or collecting user feedback. To ensure consistency and accuracy, review this form carefully to understand the required fields and options.
-</thinking>
-
 # Remote Transmission Form - Help Guide
 ## Purpose
 The Remote Transmission Form is designed to collect information related to remote transmission. This form helps us gather data that will help us improve our services.

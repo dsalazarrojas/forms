@@ -1,7 +1,3 @@
-<thinking>
-We've created this form with the aim of gathering feedback from customers who have utilized our laptop rental service. This feedback is crucial to us as it helps us identify areas of improvement, understand what we're doing right, and make informed decisions to enhance our services. It's essential that users provide honest and detailed feedback. Please fill out the form only if you have indeed used our laptop rental service and have not already sent us feedback. If you're unsure, it's best to contact us directly to discuss your concerns.
-</thinking>
-
 # Laptop Rental Service Feedback - Help Guide
 ## Purpose
 This form is designed for customers who have used our laptop rental service to share their feedback and opinions. Your input helps us understand what we're doing well and what we can improve.

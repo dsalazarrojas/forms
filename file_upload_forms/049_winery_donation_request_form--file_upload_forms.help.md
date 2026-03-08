@@ -1,9 +1,3 @@
-<thinking>
-This is a form for creating a donation request for a winery. The purpose of this form is to gather information from the winery to help us understand their donation needs and preferences. This form will be used by internal teams to review and process the donation request. To ensure consistency and accurate processing, please complete the form as follows:
-
-Please do not submit duplicate requests.
-</thinking>
-
 # Winery Donatin Request Form - Help Guide
 ## Purpose
 The Winery Donatin Request Form is a tool used to gather information from wineries to process their donation requests. This form is intended to help our internal teams review and understand the winery's donation needs and preferences.

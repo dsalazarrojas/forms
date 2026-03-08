@@ -1,5 +1,3 @@
-<thinking> We are designing a form for collecting feedback on the resolution time for support tickets. The purpose of this form is to gather information on how well the support team is doing in terms of resolving tickets within a certain time frame. This form will be used by support team leaders to provide feedback on their team's performance. </thinking>
-
 # Resolution Time Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the resolution time for support tickets. Support team leaders can use this form to provide feedback on their team's performance and identify areas for improvement.

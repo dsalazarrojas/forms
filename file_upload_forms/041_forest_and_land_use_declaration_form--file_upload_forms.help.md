@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for landowners or managers to declare the usage of lands, forests, or other natural resources. The fields are meant to gather information about the land use categories and specific fields within those categories. The purpose is to collect data for administrative, research, or planning purposes. It is essential to understand the context before completing the form to ensure accurate and relevant information. Please fill out the form according to your knowledge or available resources to avoid duplication and ensure consistency.
-</thinking>
-
 # forest_and_land_use_declaration_form - Help Guide
 ## Purpose
 The Forest and Land Use Declaration Form is designed for landowners or managers to accurately report their land use categories and specific fields within those categories. This form helps collect information for administrative, research, or planning purposes.

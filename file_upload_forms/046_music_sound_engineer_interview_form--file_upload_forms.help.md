@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for music sound engineers to provide their contact information, professional background, and availability for interviews. It is likely intended for internal use within an organization or company looking to fill music sound engineer positions. The form is likely not meant for public submission. 
-
-To verify, the form includes fields such as category, description, resume, and portfolio, which suggest a formal professional submission. Additionally, the form includes fields like contact information (email, website, social media), availability, and payment terms, which are typical of professional job applications. 
-
-The form does not include fields that are typically public-facing, such as job titles or employment history. Therefore, the form's purpose is likely for internal hiring processes.
-</thinking>
-
 # Music Sound Engineer Interview Form - Help Guide
 ## Purpose
 This form is designed for music sound engineers to provide their contact information, professional background, and availability for interviews.

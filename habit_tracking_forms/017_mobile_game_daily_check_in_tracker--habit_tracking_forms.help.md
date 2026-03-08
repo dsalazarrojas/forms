@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to track a player's progress and activities in a mobile game on a daily basis. The form collects various data points such as player ID, game title, date played, time spent, progress, level, score, and comments. This form is likely used for analytics, tracking, or reporting purposes within a mobile gaming platform.
-</thinking>
-
 # Mobile Game Daily Check In Tracker - Help Guide
 ## Purpose
 This form is intended to collect daily data from players about their mobile game activities. It is meant to help game developers or administrators track player engagement and performance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect feedback and data from customers about their experience with the daily canteen. It is a survey form that will help us understand customer preferences, satisfaction, and any special requests or issues they may have had during their visit. This form should not be used to report incidents or complaints, but rather to provide feedback on the overall experience. 
 
 Before filling out this form, please note that it is a required form and all fields marked as "required" must be filled out in order for your submission to be complete. If you have any special requests or comments, please include them in the "Special Requests" or "Additional Comments" fields. 

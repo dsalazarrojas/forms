@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the CI Daily Health Check (v4) form, ensuring that end-users understand its purpose and how to complete it accurately. This guide will also explain each field in detail, helping users fill out the form correctly and efficiently.
-</thinking>
-
 # CI Daily Health Check (v4) - Help Guide
 ## Purpose
 The CI Daily Health Check (v4) form is designed to gather essential information from students, staff, or visitors about their health status, recent exposure, and travel history. This data helps healthcare professionals monitor and respond to potential health risks on campus.

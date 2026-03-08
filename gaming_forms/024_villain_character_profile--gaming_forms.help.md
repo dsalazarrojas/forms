@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely being used in a role-playing or game development context, where users are creating profiles for villains. The purpose of this form is to gather information about the character's details, motivation, goals, method of operation, and powers/weaknesses. This will help users in creating a well-rounded and believable villain character.
-
-The form is designed to be completed by a single user, and it's not likely intended for multi-user collaboration.
-
-The fields in this form seem to be related to the character's personality, abilities, and backstory. The "villain_character" field is a simple text field for the character's name, while the "villain_description" field is a text field for a brief description of the character. The "villain_goals" field is a select multiple field where the user can choose one or more goals for the character, the "villain_motivation" field is a select one field where the user can choose the motivation behind the character's actions, the "villain_method" field is a select one field where the user can choose the character's method of operation, the "villain_backstory" field is a text field for the character's backstory, the "villain_powers" field is a select multiple field where the user can choose the character's powers, and the "villain_weaknesses" field is a select multiple field where the user can choose the character's weaknesses.
-
-</thinking>
-
 # Villain Character Profile - Help Guide
 
 ## Purpose

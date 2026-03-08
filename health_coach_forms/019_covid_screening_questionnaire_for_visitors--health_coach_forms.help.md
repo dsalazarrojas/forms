@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure the end user understands the purpose and process of completing the Covid Screening Questionnaire For Visitors form, which aims to gather essential information about visitors to assess potential risks of Covid-19 transmission.
-</thinking>
-
 # Covid Screening Questionnaire For Visitors - Help Guide
 ## Purpose
 The Covid Screening Questionnaire For Visitors is designed to gather essential information about visitors to assess their potential risks of Covid-19 transmission. This form will help identify any symptoms, recent travel history, and contact with potentially infected individuals.

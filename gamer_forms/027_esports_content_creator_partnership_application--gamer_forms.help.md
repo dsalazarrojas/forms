@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide will be used to assist gamers who are interested in partnering with our esports platform. The form will be used to gather information from potential collaborators, allowing us to better understand their content and assess their eligibility for partnership. This form will not be used for any other purpose than evaluating potential collaborators.
-
-We've reviewed the form fields and determined that all fields are optional except for "Social Media Links" which is required. This guide will explain each field and provide instructions on how to fill it out correctly.
-
-</thinking>
-
 # Esports Content Creator Partnership Application - Help Guide
 ## Purpose
 The purpose of this form is to help us get to know you and your content as a potential partner. Please fill out the form with accurate and up-to-date information to help us assess your eligibility for partnership.

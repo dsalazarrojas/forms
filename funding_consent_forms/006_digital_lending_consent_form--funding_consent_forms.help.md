@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block will explain the form purpose and checks for relevance and non-duplication. The form is designed to collect information from a borrower regarding their digital lending needs. The form is likely intended to gather data for internal use within an organization or for loan processing purposes. The fields on the form appear to be related to the borrower's loan details, collateral, employment, and income verification. To ensure non-duplication, the form likely requires a unique identifier or login credentials for each borrower. The form's purpose and fields should be clear and concise, with each field's label and description providing sufficient information for the user to understand its meaning and importance.
-</thinking>
-
 # digital_lending_consent_form - Help Guide
 ## Purpose
 The digital lending consent form is designed to collect information from borrowers regarding their loan details, employment status, and income verification for internal use within an organization or for loan processing.

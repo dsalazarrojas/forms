@@ -29,14 +29,6 @@ To complete this form, follow these steps:
 
 * **Submitted Date** (`submitted_date`): Enter the date submitted in **mm/dd/yyyy** format.
 
-<thinking>
-This form is designed to help us identify the primary causes of hair damage. It will ask about the source of the damage, the type of hair, chemical treatments, physical stress, mechanical stress, other damage, hair damage description, who submitted the form, and the date submitted. 
-
-Please fill out this form carefully and honestly, and if you are unsure about any of the options, please choose "Other" and provide a description in the "Hair Damage Description" field. 
-
-This form will help us provide better services to our customers and help us improve our products and services.
-</thinking>
-
 ## Tips
 * If you are unsure about any of the options, please choose "Other" and provide a description in the "Hair Damage Description" field.
 * This form is designed to be completed by salon staff, stylists, or customers.

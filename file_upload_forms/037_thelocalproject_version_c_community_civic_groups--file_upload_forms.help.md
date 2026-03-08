@@ -1,9 +1,3 @@
-<thinking>
-The Thelocalproject Version C Community Civic Groups form is intended to collect data on community civic groups, contact information, version details, and uploaded files. This form is part of a larger initiative to gather feedback from community members. It is optional, and users are encouraged to fill it out if they wish to participate.
-The form is designed to be completed by community members who wish to share information about their civic groups and provide contact details for verification purposes. This information will be used to help facilitate communication and collaboration within the community.
-Please note that this form should not be filled out by non-community members or individuals who do not have a genuine interest in participating in the community.
-</thinking>
-
 # Thelocalproject Version C Community Civic Groups - Help Guide
 
 ## Purpose

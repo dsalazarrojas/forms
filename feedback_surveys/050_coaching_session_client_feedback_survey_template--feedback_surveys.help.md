@@ -1,6 +1,4 @@
-## <thinking>...</thinking>
-
-**Internal Reasoning:**
+## **Internal Reasoning:**
 This form is designed to gather client feedback on coaching sessions, helping coaches understand their strengths and weaknesses, and areas for improvement. It is essential to complete this form to ensure that coaches receive constructive feedback to refine their skills and provide better services to clients. Please note that this survey is meant to be completed by clients who have already had a coaching session, and it's not a pre-session questionnaire. 
 
 </thinking>

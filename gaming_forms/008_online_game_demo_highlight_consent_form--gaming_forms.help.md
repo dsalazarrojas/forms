@@ -1,9 +1,3 @@
-<thinking>
-The "online_game_demo_highlight_consent_form" form is used for gamers to provide information about themselves and their games for demo purposes. This form is not a general-purpose form, but a specific one for online game demos. The purpose of this form is to collect detailed information from gamers regarding their game demos. 
-This form is intended for gamers who want to participate in online game demos. It is not a general form, but rather a specific form for a particular use case.
-
-Please note that the form fields have a specific structure, including select options and types which might be self-explanatory. If a field is unclear, this help guide will provide a best-effort explanation.
-</thinking>
 # online_game_demo_highlight_consent_form - Help Guide
 ## Purpose
 This form is used to collect detailed information from gamers for online game demo purposes.

@@ -1,12 +1,3 @@
-<thinking>
-The Business Valuation Form is a tool used to gather information about a business for financial analysis and planning purposes. It helps in determining the value of a business, considering various factors such as revenue, expenses, assets, and liabilities. The form is designed to be completed by business owners or representatives to provide accurate and comprehensive data for financial evaluations.
-
-To ensure the form is completed correctly, it's essential to review each field carefully and provide accurate information. Please note that the form is not intended for tax or legal purposes, and the data collected will be used for financial analysis only.
-
-Before starting, ensure you have all necessary information and documents ready for reference.
-
-</thinking>
-
 # Business Valuation Form - Help Guide
 ## Purpose
 The Business Valuation Form is a financial tool designed to gather essential data about your business, enabling you to determine its value. It's used for financial analysis, investment, or sale purposes.

@@ -1,5 +1,3 @@
-<thinking>As a cane giveaway program registration form, this form is intended for individuals who want to be entered into a drawing for a free cane. The purpose of this form is to collect personal information and preferences from potential recipients to ensure they meet the eligibility criteria and to provide a smooth communication channel for updates and future programs. To avoid duplication, the form will check for previous recipients in the program and prevent duplicate registrations. The form fields should be filled out carefully to ensure accurate information and a good chance of being entered into the drawing.</thinking>
-
 # Cane Giveaway Registration - Help Guide
 ## Purpose
 This form is for registering for a free cane giveaway program. If you have any interest in this program, please complete this form.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering flower seeds. The purpose is to collect information about the user's flower seed preferences and shipping options. The form will be used to place an order for flower seeds with the selected options. This form is not intended for other purposes, and it is assumed that the user is familiar with the ordering process for flower seeds.
-</thinking>
-
 # flower_seeds_order_form - Help Guide
 ## Purpose
 This form is used to place an order for flower seeds. It collects information about the user's flower seed preferences and shipping options.

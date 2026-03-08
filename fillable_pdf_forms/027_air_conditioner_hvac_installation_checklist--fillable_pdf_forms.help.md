@@ -1,7 +1,3 @@
-<thinking>
-This guide is to ensure that installers complete a comprehensive check-list when installing air conditioners, which will be used for quality control and future reference.
-</thinking>
-
 # Air Conditioner HVAC Installation Checklist - Help Guide
 ## Purpose
 This form is designed to guide HVAC installers through a series of questions to ensure a thorough and accurate installation of air conditioners. The completed form will serve as a reference for quality control and future troubleshooting.

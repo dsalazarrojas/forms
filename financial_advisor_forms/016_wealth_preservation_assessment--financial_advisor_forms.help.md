@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess a client's financial health and preservation needs. It is designed to collect essential information about the client's goals, risk tolerance, asset details, investment strategy, risk-free return, investment experience, and asset allocation. This data will help the financial advisor to provide tailored solutions for the client's financial well-being.
-</thinking>
-
 # Wealth Preservation Assessment - Help Guide
 ## Purpose
 The Wealth Preservation Assessment is a form designed to collect essential information from clients to help them understand and manage their financial resources effectively.

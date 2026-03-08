@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Medical Equipment Evaluation Checklist form. It is designed to gather information about medical equipment, including its model, type, manufacturer, and maintenance schedule. The form is used to evaluate the status of medical equipment, ensuring it is functioning properly and safely. This form should be used by healthcare professionals to assess equipment that is used in medical settings, such as hospitals and clinics. It is essential to follow this guide carefully to ensure accurate and complete data collection.
-
-</thinking>
-
 # Medical Equipment Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate the medical equipment used in healthcare settings, ensuring it is in good working condition and functioning safely.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and consent for a specific procedure. The form's purpose is to gather the necessary details about the patient, the procedure they are undergoing, and their understanding of the risks and benefits involved. This form is intended for use in a healthcare setting and should be reviewed by medical professionals before being used with patients.
-</thinking>
-
 # Procedure Consent Form - Help Guide
 ## Purpose
 The Procedure Consent Form is a document that collects patient information and consent for a specific procedure. This form is meant to provide a clear and concise way to gather all the necessary details about the patient, the procedure, and the patient's understanding of the risks and benefits involved.

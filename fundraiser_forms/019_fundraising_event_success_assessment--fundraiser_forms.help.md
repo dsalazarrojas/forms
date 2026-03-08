@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the success of a fundraising event. The form is used to collect data on various aspects of the event, including the type of event, date, location, number of attendees, fundraising goal, fundraising achieved, satisfaction level, and areas for improvement. This form is likely used by event organizers to evaluate the effectiveness of their fundraising efforts and identify areas for improvement for future events.
-</thinking>
-
 # Fundraising Event Success Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect data on the success of a fundraising event. This form will help event organizers evaluate the effectiveness of their fundraising efforts and identify areas for improvement.

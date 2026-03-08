@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the health status and family history of an individual, as well as their lifestyle factors and consent status. This form is intended to be filled out by patients or their representatives to provide healthcare providers with essential data for treatment planning and risk assessment. The form is not mandatory, and users can choose to submit or cancel their responses at any time.
-</thinking>
-
 # Human Health And Family Assessment - Help Guide
 ## Purpose
 The Human Health And Family Assessment form is designed to collect information on the health status and family history of an individual, as well as their lifestyle factors and consent status. This information is crucial for healthcare providers to make informed decisions about treatment planning and risk assessment.

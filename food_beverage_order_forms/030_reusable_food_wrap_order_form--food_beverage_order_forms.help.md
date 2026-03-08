@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect customer information for food wrap orders. This form is designed to be reusable, meaning that it can be easily adapted and used for different types of food wrap orders. The form should only be used for orders that are placed on the web platform, not for in-person sales or phone orders. 
-
-Before starting to fill out this form, please ensure that you have a clear understanding of the order details and that you are not filling out the form for an order that has already been processed or cancelled. 
-
-</thinking>
-
 # Reusable Food Wrap Order Form - Help Guide
 ## Purpose
 This form is used to collect customer information for food wrap orders. It is designed to be easily adaptable and reusable for different types of orders.

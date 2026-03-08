@@ -1,20 +1,3 @@
-<thinking>
-
-To determine the form's purpose and ensure it's relevant and non-duplicative, let's analyze the form's title, fields, and structure:
-
-The form is called "Application Amendment Form," suggesting it's used to update or modify existing application data. The form has several sections:
-
-1.  Original Application Information (Section 1): This section likely gathers data about the original application submitted.
-2.  Amendment Details (Section 5): This section allows the applicant to specify the reason for the amendment and describe the changes required.
-3.  Supporting Documentation (Section 9): This section may be used to attach new or updated documents as supporting evidence.
-4.  Confirmation and Submission (Section 13): This section appears to be a final confirmation and submission section.
-
-The form requires fields such as applicant name, email, application ID, and date of request, which are all essential elements for tracking and processing the amendment request.
-
-The form's structure suggests that it's designed to be a straightforward and organized way to collect necessary information for the amendment process.
-
-</thinking>
-
 # Application Amendment Form - Help Guide
 ## Purpose
 This form is used to update or modify existing application data. It's intended to be a clear and structured way to collect the necessary information for processing the amendment request.

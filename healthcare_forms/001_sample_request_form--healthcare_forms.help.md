@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their sample requests. It is intended to be used by users who are looking for specific products or services. The form is not designed to handle sensitive or critical business decisions. Please ensure that this form is not used for critical or sensitive requests.
-</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 The Sample Request Form is a tool for users to submit information about their product or service requests. It is a simple form that helps to gather relevant data from users and allows them to submit their requests efficiently.

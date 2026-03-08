@@ -1,9 +1,3 @@
-<thinking>
-
-This joint application evidence form is used for sharing joint application information between two parties. It's essential to ensure that this form is filled out accurately and consistently to avoid duplication of effort. The form is designed to handle multiple file uploads and consents from both parties involved in the joint application. Each field must be filled out carefully to ensure that the application process is completed correctly.
-
-</thinking>
-
 # Joint Application Evidence Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Cookie Tin Order Form - Help Guide
 
 ## Purpose

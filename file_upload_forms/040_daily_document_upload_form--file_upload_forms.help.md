@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to upload and document their daily activities, files, and other relevant details. This form is designed to be flexible and accommodating for users to provide information on a daily basis. To ensure the form is completed correctly, it's essential to review the form fields and their respective purposes.
-</thinking>
-
 # daily_document_upload_form - Help Guide
 ## Purpose
 The "daily_document_upload_form" is a customizable form designed to collect information on a daily basis. Users can upload files and provide details on dates, individuals, and supporting information, allowing for a comprehensive documentation process.

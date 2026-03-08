@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help job seekers submit their resume to a job fair. The form is intended for individuals looking to showcase their qualifications and experience to potential employers. The form is likely used by hiring managers or recruiters to collect relevant information from candidates. To avoid duplication, job seekers are only allowed to upload one resume per submission.
-
-</thinking>
-
 # Job Fair Resume Submission Form - Help Guide
 ## Purpose
 The Job Fair Resume Submission Form is a tool for job seekers to submit their resume and relevant information to potential employers participating in a job fair. This form is designed to streamline the process of gathering necessary information from candidates and making it easily accessible to hiring managers or recruiters.

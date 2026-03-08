@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow healthcare professionals to document patient information for medical records, enabling accurate tracking and reporting of patient health status. This form aims to gather essential details about patients, including their names, medical notes, and dates relevant to their treatment. The form's design is guided by industry standards and best practices in the healthcare field, ensuring that all necessary information is collected in a clear and concise manner.
-</thinking>
-
 # Doctor Note Form - Help Guide
 ## Purpose
 This form is designed to aid healthcare professionals in documenting patient information for medical records.

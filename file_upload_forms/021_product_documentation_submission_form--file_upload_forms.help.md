@@ -1,12 +1,3 @@
-<thinking>
-This is a form for submitting product documentation. The form is designed to collect information about a product, including product information, product name, description, image, category, price, and status. The form also captures additional information about team members involved with the product, such as their name, email, phone number, location, and status.
-
-This form is intended to be completed by team members or product owners to provide accurate and up-to-date documentation about their products. It is not necessary to fill out every field, but it is recommended to provide as much information as possible to ensure that the product documentation is comprehensive and useful.
-
-Before submitting the form, please make sure that you are not duplicating an existing product documentation. If you are unsure, you can check the product documentation database to see if the product is already listed.
-
-</thinking>
-
 # product_documentation_submission_form - Help Guide
 ## Purpose
 The product documentation submission form is designed to collect information about a product and its team members. This guide will walk you through how to complete the form and explain each field in more detail.

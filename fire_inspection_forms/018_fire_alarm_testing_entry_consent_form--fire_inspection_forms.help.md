@@ -1,7 +1,3 @@
-<thinking>
-We have a fire alarm testing entry consent form, which is used to collect information from users who wish to participate in fire alarm testing. This form will help to determine if the user is eligible to participate based on their availability and other factors.
-</thinking>
-
 # Fire Alarm Testing Entry Consent Form - Help Guide
 ## Purpose
 The fire alarm testing entry consent form is used to collect information from users who want to participate in fire alarm testing. This form ensures that we gather necessary details from participants before scheduling the testing and conducting the test itself.

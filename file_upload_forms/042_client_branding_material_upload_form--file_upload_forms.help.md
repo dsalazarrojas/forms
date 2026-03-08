@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure we're on the same page. This form is designed for clients to upload their branding materials for project use, ensuring that the agency has all necessary assets to complete the project on time and to the client's expectations. The form is a crucial step in the project workflow, and it's essential to fill it out correctly to avoid delays or misunderstandings. Please take a few minutes to review the form carefully to avoid duplication and non-relevant submissions.</thinking>
-
 # Client Branding Material Upload Form - Help Guide
 
 ## Purpose

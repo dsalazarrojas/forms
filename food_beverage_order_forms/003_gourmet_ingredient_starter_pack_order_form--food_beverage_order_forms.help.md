@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for a gourmet ingredient starter pack. The form will be used to collect information about the customer's order, including their name, email, phone number, order date, order time, and any additional comments they may have. This information will be used to process and fulfill the order efficiently.
-</thinking>
-
 # Gourmet Ingredient Starter Pack Order Form - Help Guide
 ## Purpose
 The Gourmet Ingredient Starter Pack Order Form is designed to collect information from customers who want to place an order for our gourmet ingredient starter pack. This form helps us understand their order requirements and preferences.

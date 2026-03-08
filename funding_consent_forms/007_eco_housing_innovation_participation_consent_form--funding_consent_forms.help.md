@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather participant information for an innovation project focused on eco-housing, and it is essential to understand the purpose and context of this form before proceeding. This form is meant to collect data from participants, and it is crucial to ensure that each field is filled in correctly to avoid duplication of effort and to guarantee accurate data collection. By filling out this form, participants are providing their information to contribute to the eco-housing project.
-Please note that this form is for informational purposes only, and the data collected will be used for the project's development and improvement.
-</thinking>
-
 # eco-housing-innovation-participation-consent-form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the eco-housing innovation project. By filling out this form, participants are providing their consent and expertise to contribute to the project.

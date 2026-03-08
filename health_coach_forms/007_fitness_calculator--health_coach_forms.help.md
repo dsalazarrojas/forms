@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide, we need to understand the form's purpose and ensure it's not a duplicate of existing forms.
-
-This form is called "fitness_calculator", and as the name suggests, it's a form designed to help users calculate their fitness goals and track their progress. It's likely used by fitness professionals or enthusiasts to assess their physical activity, exercise routines, and other factors that contribute to their overall health and well-being.
-
-However, without further information about the specific use cases or any existing forms, we will assume that this form is not a duplicate and will create a comprehensive help guide based on the provided YAML.
-
-</thinking>
-
 # fitness_calculator - Help Guide
 ## Purpose
 This form is designed to help users calculate their fitness goals and track their progress by providing a set of fields to input various aspects of their physical activity, exercise routines, and other relevant factors.

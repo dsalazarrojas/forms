@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the "Gaming Tournaments Stream Booking" form. The form appears to be designed to collect information from streamers about their streaming schedule and preferences. The form includes fields such as stream start and end dates, stream duration, streamer name, email, and stream links, among others.
-
-The purpose of the form is to gather necessary details from streamers to ensure a smooth and successful streaming experience. This includes collecting information about the streamer's stream start and end dates, stream duration, and timezone. Additionally, the form asks about the streamer's stream link, stream type, and stream quality to help the form owner understand their streaming setup.
-
-To avoid duplication of effort, it's essential to ensure that the form is filled out correctly, and each field's purpose is clearly understood. This guide will walk the user through each field, providing explanations and examples to help them complete the form accurately.
-</thinking>
-
 # Gaming Tournaments Stream Booking - Help Guide
 ## Purpose
 The "Gaming Tournaments Stream Booking" form is designed to collect information from streamers about their streaming schedule and preferences. This information is necessary for the form owner to understand and manage the streamers' streaming setup.

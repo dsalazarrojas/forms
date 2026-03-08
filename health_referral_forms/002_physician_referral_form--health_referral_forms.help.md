@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physician Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the referral process for patients between healthcare providers. This form collects essential information about the patient's referral, allowing healthcare staff to efficiently manage and track referrals.

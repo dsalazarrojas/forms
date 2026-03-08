@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate a coaching session, gathering feedback from clients on the experience they had with their coach. It's likely to be used by coaches to assess their performance and areas for improvement, and by clients to provide constructive feedback on their session. This form is likely to be completed by clients after their coaching session, ensuring that their feedback is fresh and accurate. To avoid duplication of effort, it's essential that clients only complete the form once, providing a thorough and honest assessment of their experience.
-
-</thinking>
-
 # Coaching Evaluation Form - Help Guide
 ## Purpose
 The Coaching Evaluation Form is used to provide feedback on a coaching session, allowing clients to share their experience and coaches to assess their performance.

@@ -1,18 +1,3 @@
-<thinking>
-This form is used to gather information about a user's favorite video games. The purpose of this form is to collect data on the types of games users enjoy playing, their preferred genres, platforms, and other relevant details. This information can be used to create more targeted content and recommendations for users.
-
-This form is part of the "gaming_forms" category, and its title is "video_game_quiz".
-
-The form has 25 pages, but for the purpose of this help guide, we'll focus on the most relevant fields.
-
-Before filling out the form, please make sure you are familiar with the following concepts:
-* A "text" field is used to enter a single line of text.
-* A "select_one" field is used to select a single option from a list.
-* A "select_multiple" field is used to select multiple options from a list.
-
-Please note that some fields may not be required, but it's always best to fill them out if possible to provide more accurate information.
-</thinking>
-
 # video_game_quiz - Help Guide
 ## Purpose
 This form is used to gather information about a user's favorite video games.

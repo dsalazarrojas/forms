@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who are applying for a home loan. The form is used to gather contact, address, employment, and loan related information from the applicant. This form is likely used by a financial institution or a lender to assess the applicant's eligibility for a home loan.
-</thinking>
-
 # Home Loan Application - Help Guide
 ## Purpose
 This form is used to collect information from users who are applying for a home loan. The lender will use this information to assess the applicant's creditworthiness and determine whether to approve or reject their loan application.

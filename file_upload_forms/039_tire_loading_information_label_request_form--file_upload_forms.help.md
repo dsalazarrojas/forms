@@ -1,12 +1,3 @@
-<thinking>
-  This form is intended to request information about tire loading, such as whether the vehicle is being loaded, 
-  information about the load, and any other relevant details. The purpose of this form is to gather 
-  information for internal use, and the data will be reviewed by a team member before any further actions 
-  are taken.
-  Please only fill out this form for genuine requests and avoid duplicate submissions.
-  Ensure you have all necessary information and details before completing this form.
-</thinking>
-
 # Tire Loading Information Label Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about tire loading requests for internal review and processing.

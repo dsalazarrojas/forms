@@ -1,9 +1,3 @@
-<thinking>
-The Placemat Order Form is a form designed for customers to place orders for placemats, which are decorative mats typically made of fabric or felt. It is used to collect information from customers such as their contact details, order preferences, and delivery information. The form is composed of 25 fields that cover a range of topics including customer information, order details, delivery options, and payment terms.
-
-Before proceeding with this guide, please ensure that you are familiar with the form's purpose and understand what the form is intended to collect. If you have already placed an order or are familiar with the form, you can skip this guide and proceed to the "Field-by-Field Explanation" section.
-</thinking>
-
 # Placemat Order Form - Help Guide
 ## Purpose
 The Placemat Order Form is a tool used to collect information from customers for placing orders for placemats. It is used to streamline the ordering process and ensure that all necessary information is collected correctly.

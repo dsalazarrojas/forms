@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Decoy Development Feedback Form - Help Guide
 ## Purpose
 The Decoy Development Feedback Form is designed to collect feedback and ratings from users on their experience with our development team. This form helps us understand what you liked or disliked about our development process and what we can improve on. Please take a few minutes to fill out this form and provide us with your thoughts.

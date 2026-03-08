@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate the ordering process for wine enthusiasts.
-Its primary goal is to gather information about customers who want to place an order for wine.
-The form is structured in a way that allows customers to provide their personal details, select their wine order, enter payment information, and confirm their shipping details.
-This form is a simple example and may not include all the complexities of a real-world wine ordering process.
-</thinking>
-
 # simple_wine_order_form_template - Help Guide
 ## Purpose
 This form is designed to help wine enthusiasts place an order for wine.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fha_building_approval_application - Help Guide
 ## Purpose
 This form is for project stakeholders to provide building project details, including project address, project manager information, and document uploads.

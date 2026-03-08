@@ -1,10 +1,3 @@
-<thinking>
-Internal reason:
-- This form is used for hotel fire inspections.
-- There may be a need to inspect and document fire escape routes, condition, and safety features in hotels.
-- This form will help hotel managers and owners track and document the results of these fire safety checks.
-</thinking>
-
 # Hotel Fire Escape Inspection Form - Help Guide
 ## Purpose
 This form is used to document and track the results of fire escape routes and safety features inspections in hotels.

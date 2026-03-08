@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Human Rights Awareness Survey - Help Guide
 ## Purpose
 The Global Human Rights Awareness Survey is designed to gather information about individuals' perceptions and knowledge of human rights. This survey aims to assess awareness, attitudes, and education levels related to human rights, which are essential for promoting understanding, respect, and protection of human rights worldwide.

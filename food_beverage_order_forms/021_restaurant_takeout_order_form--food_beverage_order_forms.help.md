@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Takeout Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide information for their takeout orders at your restaurant. Please fill out the form to help us process your order efficiently and accurately.

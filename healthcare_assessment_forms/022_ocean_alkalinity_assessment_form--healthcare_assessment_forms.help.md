@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the ocean alkalinity levels in a given location. The Ocean Alkalinity Assessment Form is used to gather information about the sampling location, date, water temperature, salinity, ocean alkalinity level, and additional notes. This form helps in understanding the overall status of the ocean's alkalinity levels and identify areas that may need further investigation. This form should only be filled out for locations that are known to have ocean alkalinity levels that are not already well-documented. Please ensure that you are filling out this form for a location that has not already been assessed.
-</thinking>
-
 # Ocean Alkalinity Assessment Form - Help Guide
 ## Purpose
 The Ocean Alkalinity Assessment Form is a tool used to gather information about the ocean's alkalinity levels in a specific location. It is designed to help understand the overall status of the ocean's alkalinity levels and identify areas that may require further investigation.

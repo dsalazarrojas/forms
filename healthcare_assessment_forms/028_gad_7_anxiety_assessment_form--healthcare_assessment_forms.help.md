@@ -1,7 +1,3 @@
-<thinking>
-The form is a GAD 7 Anxiety Assessment Form, used to evaluate an individual's anxiety levels. This form is designed to gather information about the person's anxiety symptoms, behaviors, and experiences. It is essential to ensure the form is filled out accurately and thoroughly to obtain the most reliable results.
-</thinking>
-
 # GAD 7 Anxiety Assessment Form - Help Guide
 ## Purpose
 The GAD 7 Anxiety Assessment Form is a standardized questionnaire designed to assess an individual's anxiety levels and provide insights into their anxiety symptoms, behaviors, and experiences. This form helps healthcare professionals and researchers gather crucial information to better understand and manage anxiety disorders.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Funds Request Form - Help Guide
 ## Purpose
 The Funds Request Form is used to request financial support for a specific purpose or project from the institution. This form helps to gather necessary information to evaluate and process the request.

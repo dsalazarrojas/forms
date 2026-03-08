@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from supporters or donors for public broadcasting initiatives. It aims to gather essential details such as donation dates, supporter contact information, and donation preferences. The form may be used for internal or public broadcasting purposes, such as sending updates, acknowledging donations, or tracking supporter engagement.
-This form should not be filled out multiple times for the same user. If you've already filled out this form previously, please do not fill it out again.
-The form should only be filled out by a supporter who is making a donation to a public broadcasting initiative.
-</thinking>
-
 # Public Broadcasting Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from supporters who are making donations to our public broadcasting initiatives. It helps us to understand their donation dates, contact details, and preferences, which enables us to provide better services to them.

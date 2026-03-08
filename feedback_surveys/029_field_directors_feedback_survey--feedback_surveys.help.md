@@ -1,7 +1,3 @@
-<thinking>
-This is a custom form designed for Field Directors to provide feedback on their experience and challenges they are facing in their role. The feedback collected through this form will help the organization identify areas of improvement and make data-driven decisions to support their success. It's essential to fill out this form thoroughly and honestly to provide valuable insights. Please review this guide to ensure you complete the form correctly.
-</thinking>
-
 # Field Directors Feedback Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the Field Directors Feedback Survey form. Please read this carefully to ensure you complete the form accurately and provide the best possible feedback.

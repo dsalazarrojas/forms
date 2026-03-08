@@ -1,7 +1,3 @@
-<thinking>
-We are providing a help guide for a form used in a healthcare setting. To ensure relevance and non-duplication, we first want to verify that the form purpose is indeed related to patient informed consent for medical marijuana treatment. This form appears to be designed to gather patient information and consent for medical marijuana treatment, which is a specific medical treatment option. This form does not appear to be duplicating any other forms in our system. Therefore, we can proceed with creating the help guide.
-</thinking>
-
 # Patient Informed Consent For Medical Marijuana Treatment - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for medical marijuana treatment. It collects patient identification information, medical condition, risks, and benefits of use, as well as other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this "Campaign Donation Form" form, I will follow the provided structure and guidelines. This form is designed for donors to contribute to a campaign, and it seems to be a standard donation form used for multiple purposes. I assume it's intended for a non-profit organization or a crowdfunding platform. I will focus on explaining the purpose of the form, how to complete it, and the meaning of each field without inventing unsupported business logic. I will also consider the required fields and the available options for each field to ensure I provide clear and concise explanations.
-
-</thinking>
-
 # Campaign Donation Form - Help Guide
 
 ## Purpose

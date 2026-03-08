@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from game developers or owners who want to participate in a game early access program. This program allows them to register their game on our platform and gain early access to a community of players, developers, and industry professionals. To prevent spam and ensure the accuracy of the registration data, a check will be performed on the provided information to detect duplicates and invalid data. The goal is to provide a smooth and organized onboarding experience for the developers and a seamless integration into our platform.
-</thinking>
-
 # Game Early Access Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from game developers or owners who want to participate in our Game Early Access program. The program allows them to register their game on our platform and connect with a community of players, developers, and industry professionals who can help them gain early access and feedback.

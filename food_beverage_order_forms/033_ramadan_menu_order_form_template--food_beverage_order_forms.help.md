@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for food and beverages during the month of Ramadan. The form will be used to collect important information such as the customer's preferences and contact details. The form is divided into several sections, and each section is meant to be filled out in a specific way. The "Main Page" section will ask the customer to choose whether they want to have "Yes" or "No" to certain food options, and provide a space for notes if needed. The "Main Page Group 1" and "Main Page Group 2" sections will ask the customer to provide additional information in a text format. The "Date" field will ask the customer to select a date, and the "Time" field will ask the customer to select a time. The "Telephone" and "Email" fields will ask the customer to provide their contact information. Please fill out the form accurately and completely to ensure that your order is processed correctly.
-
-</thinking>
-
 # Ramadan Menu Order Form Template - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Ramadan Menu Order Form Template. Please take a few minutes to read through this guide before starting the form.

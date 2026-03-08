@@ -1,13 +1,3 @@
-<thinking>
-
-The Power Grid Inspection Form is used to gather information about the condition of a power grid, which is crucial for identifying potential issues and planning maintenance activities. This form is typically used by maintenance personnel to collect data about the grid's assets, findings, photos, follow-up tasks, and maintenance schedules. 
-
-The form is not designed to be a comprehensive inspection report, but rather a quick and efficient way to document the basics. It is intended to be filled out by personnel who are familiar with the grid's layout and components.
-
-To ensure that the form is filled out accurately and completely, please review the following guidance.
-
-</thinking>
-
 # Power Grid Inspection Form - Help Guide
 ## Purpose
 The Power Grid Inspection Form is used to collect data about the condition of a power grid. This information helps maintenance personnel identify potential issues and plan maintenance activities.

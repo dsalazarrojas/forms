@@ -1,14 +1,3 @@
-<thinking>
-
-The Work Release Form is a document used in the healthcare industry to facilitate communication between healthcare providers and employers regarding employee work releases. This form is designed to provide detailed information about an employee's work status, reason for release, and other relevant details. When creating this form, consider the following guidelines to ensure accuracy and completeness.
-
-*   The form is intended for use in a healthcare setting, so the language and tone should be professional and respectful.
-*   The form should be clear and concise, with no redundant or unnecessary fields.
-*   The form should be easily understandable by non-experts in the healthcare industry.
-*   The form should be easily fillable by hand or digitally.
-
-</thinking>
-
 # Work Release Form - Help Guide
 ## Purpose
 The Work Release Form is a document used to communicate information about an employee's work status, reason for release, and other relevant details between healthcare providers and employers.

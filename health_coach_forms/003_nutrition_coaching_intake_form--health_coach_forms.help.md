@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutrition Coaching Intake Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from you about your health, medical history, and nutrition goals. Please answer the questions accurately to help your healthcare coach provide you with effective guidance and support.

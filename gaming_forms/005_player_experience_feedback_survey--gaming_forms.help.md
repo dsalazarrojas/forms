@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from players about their experience with a game. It is meant to be filled out by players who have played the game and want to provide their thoughts and opinions about it. The form will help us to understand what players liked or disliked about the game and what they would like to see improved in future game versions. By filling out this form, players can help us make their gaming experience more enjoyable and satisfying. 
-
-The form is not a mandatory or on-the-spot feedback mechanism, so players are not forced to fill it out immediately after playing the game. They can take their time to think about their experience and provide thoughtful feedback. 
-
-This guide is to help players understand what the form is about, how to fill it out, and what each field is for.
-</thinking>
-
 # Player Experience Feedback Survey - Help Guide
 ## Purpose
 The Player Experience Feedback Survey is designed to gather information from players about their experience with a game, helping us to identify areas for improvement and make future versions more enjoyable for players.

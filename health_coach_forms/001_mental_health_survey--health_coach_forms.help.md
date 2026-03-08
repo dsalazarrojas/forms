@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from patients or clients about their mental health. 
-</thinking>
-
 # Mental Health Survey - Help Guide
 ## Purpose
 The Mental Health Survey is a form designed to collect information about the mental health status and needs of patients or clients. This form will help healthcare professionals and therapists understand the mental health challenges faced by the respondents and provide them with necessary support and guidance.

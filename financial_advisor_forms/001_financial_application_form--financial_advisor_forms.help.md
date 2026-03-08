@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information about a user's employment status, education level, financial income level, income frequency, type of property owned, age of property, value of property, location of property, and any additional information about the property. The form is designed to be completed by individuals applying for financial services or seeking financial guidance. It is essential to provide accurate and complete information in this form to ensure that the financial advisor can understand your needs and provide you with the best possible assistance.
-
-The form consists of multiple pages, each with a set of questions. Some questions are required and must be answered to proceed, while others are optional and can be filled in if additional information is relevant. Please ensure that you have answered all required questions before submitting the form.
-
-</thinking>
-
 # Financial Application Form - Help Guide
 ## Purpose
 This form is used to gather information about a user's employment status, education level, financial income level, income frequency, type of property owned, age of property, value of property, location of property, and any additional information about the property.

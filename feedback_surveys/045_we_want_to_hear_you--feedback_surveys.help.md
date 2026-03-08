@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback and satisfaction ratings from users, as well as allow them to upload files. The purpose of this form is to collect user input for improvement and evaluation purposes. It should only be filled out once per user, and ideally not by the same user on different occasions, as the purpose is to collect diverse and representative feedback. Please fill out this form with your honest and accurate input. If you have already filled out this form previously, please do not attempt to do so again. Your input is invaluable to us, and we appreciate your time in providing us with your thoughts and suggestions.
-
-</thinking>
-
 # We Want To Hear You - Help Guide
 ## Purpose
 This form is designed to gather feedback and satisfaction ratings from users, as well as allow them to upload files. It is meant to be filled out once per user, and should not be repeated by the same user.

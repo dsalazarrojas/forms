@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Qualification Form - Help Guide
 ## Purpose
 The Client Qualification Form is designed to help us understand your financial situation and needs, allowing us to provide personalized advisory services tailored to your requirements.

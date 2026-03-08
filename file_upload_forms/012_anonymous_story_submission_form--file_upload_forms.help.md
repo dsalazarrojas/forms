@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit their stories, experiences, or narratives anonymously. The form is intended to collect information from users on various aspects of their stories, including the title, content, theme, intended audience, and other relevant details. Before starting, it's essential to ensure that you're not duplicating a story already submitted, as this form is meant to collect unique and diverse stories. Please review the form carefully and make sure you're ready to provide accurate and honest information.
-</thinking>
-
 # Anonymous Story Submission Form - Help Guide
 ## Purpose
 This form is designed for anonymous story submission, where users can share their experiences, stories, or narratives without revealing their identities. The form collects various aspects of the story, including title, content, theme, intended audience, and other details.

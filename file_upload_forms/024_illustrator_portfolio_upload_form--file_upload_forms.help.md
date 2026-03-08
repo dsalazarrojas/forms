@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to upload their Illustrator portfolios, providing a platform for creatives to showcase their work. To ensure accurate and consistent data, please review the form carefully before completing it. Ensure that you are uploading the correct type of file and providing the necessary information for your portfolio. Please note that this form is for uploading files for your portfolio, not for other purposes.
-</thinking>
-
 # Illustrator Portfolio Upload Form - Help Guide
 ## Purpose
 The Illustrator Portfolio Upload Form is a platform for creatives to upload their portfolios, showcasing their work to potential clients, employers, or collaborators. This form helps you to provide necessary information about yourself and your portfolio, as well as upload the actual files.

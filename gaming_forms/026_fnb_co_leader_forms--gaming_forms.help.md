@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a game leader's performance in a specific game. The form should be completed by the game leader themselves, and will be used to track and analyze their progress. It is essential to fill out this form accurately and thoroughly, as the data collected will be used to provide insights into the game leader's performance.
-
-The form has 13 fields that require input. Some fields are required, while others are optional.
-
-Before submitting the form, please make sure to fill out all required fields. If you are unsure about the purpose of a field, refer to this guide for clarification.
-
-</thinking>
-
 # fnb_co_leader_forms - Help Guide
 ## Purpose
 This form is designed to collect information about a game leader's performance in a specific game.

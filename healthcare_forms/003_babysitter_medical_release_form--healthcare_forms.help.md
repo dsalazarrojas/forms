@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Babysitter Medical Release Form - Help Guide
 ## Purpose
 This form is designed to collect crucial medical information and authorization from parents or guardians for the care of their child while they are in the care of a babysitter. The form is meant to ensure that the babysitter has the necessary medical clearance and emergency contact information to provide proper care for the child.

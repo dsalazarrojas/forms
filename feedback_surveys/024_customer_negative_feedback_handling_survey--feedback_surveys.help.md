@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer feedback, specifically negative feedback, to help the support team understand the customer's concerns, identify areas for improvement, and take necessary steps to resolve the issue. The form is used to gather information about the customer's experience, such as the contact method they used to reach out, a detailed description of the issue, and the resolution method chosen. This data will help support team members to track and follow up on the customer feedback, ensuring that they are able to provide timely and effective solutions. 
-
-This form is designed to be filled out by support team members when a customer provides negative feedback, and it should only be used for this specific purpose, as other forms or processes may be in place for other types of customer interactions. 
-
-Please note that some fields are required, while others are optional, and the form's fields and options should be carefully reviewed to ensure they are relevant and accurate for the specific purpose of this form.
-</thinking>
-
 # customer_negative_feedback_handling_survey - Help Guide
 
 ## Purpose

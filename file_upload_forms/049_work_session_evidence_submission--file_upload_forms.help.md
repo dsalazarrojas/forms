@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure this form is properly filled out, it's crucial to note that this form is for submitting evidence from work sessions and is meant to be completed by users who have participated in these sessions. The submission purpose is to provide a clear and concise record of the session's details and outcome. 
 
 To avoid duplication, make sure to only submit new evidence for sessions that have not been previously submitted.

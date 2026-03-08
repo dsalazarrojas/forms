@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about individuals' post-pandemic health awareness and experiences. It is meant to help gather data on how people have been affected by the pandemic and how it has impacted their health and well-being. The form asks for general information, contact details, and various aspects of health and medical history. The purpose of this form is to provide insight into the effects of the pandemic on individuals and to identify areas where support and resources are needed. Please make sure to answer all relevant questions honestly and to the best of your ability.</thinking>
-
 # Post Pandemic Health Awareness Survey - Help Guide
 ## Purpose
 The Post Pandemic Health Awareness Survey is a questionnaire designed to gather information about your experiences and feelings regarding the pandemic. By answering this survey, you will be helping us to better understand the impact of the pandemic on individuals like you. Your responses will be kept confidential and used to improve health services and support.

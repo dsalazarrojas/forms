@@ -1,7 +1,3 @@
-<thinking>
-The form is used to upload and submit impact reports, which are used to report incidents or issues that have occurred on site. This form is typically used by employees to report incidents that may have resulted in a negative impact on the environment, equipment, or people. The form will help gather information to track and analyze the incidents, which will be useful for future reference and improvement. Please make sure you are filling out the form for a real incident and not a duplicate report.
-</thinking>
-
 # Impact Report Upload Form - Help Guide
 ## Purpose
 The Impact Report Upload Form is designed to gather information about incidents that occurred on site, allowing for tracking and analysis of potential issues. This form is essential for reporting incidents that may have caused harm to people, equipment, or the environment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect user feedback and ratings from players of a gaming platform. The purpose of this form is to gather information about the user's experience, satisfaction, and areas of improvement. The form is meant to be completed by actual players of the gaming platform, and the collected data will help the platform's development team to identify areas of improvement and make necessary changes to enhance the user experience.
 
 </thinking>

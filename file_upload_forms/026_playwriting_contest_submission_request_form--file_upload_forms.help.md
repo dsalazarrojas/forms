@@ -1,29 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to submit their playwriting work to a contest. It's intended for playwriting submissions, where users can provide their contact information, script details, and other relevant information. To ensure accurate submissions, please note that some fields are required. 
-
-Before proceeding, please ensure that you are submitting original and unpublished work. 
-
-This form does not collect sensitive information and is only for submission purposes. 
-
-Please use the provided fields to fill in your submission details accurately and completely. 
-
-If you're unsure about any field, please contact us for clarification. 
-
-Please do not use this form for any other purpose, as it may lead to duplicate submissions and cause errors in the judging process. 
-
-Please be honest about your submission and the type of script you're submitting. 
-
-You may submit multiple scripts, but please fill out one submission form per script. 
-
-This form is released under Creative Commons 4.0, which allows you to use, modify, and even sell forms derived from it, as long as you give proper credit. 
-
-If you have any questions or need help, feel free to contact us at form@gic.mx. 
-
-This form has been created using only public survey topic metadata and does not copy or use proprietary content from any other form platform. 
-
-You are free to use, modify, and even sell forms derived from it, just give credit. 
-</thinking>
-
 # Playwriting Contest Submission Request Form - Help Guide
 ## Purpose
 This form is designed to collect playwriting submissions for a contest. It's intended to gather information about the script, submitter, and submission details.

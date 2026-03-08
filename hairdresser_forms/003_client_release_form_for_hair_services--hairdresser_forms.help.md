@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Release Form For Hair Services - Help Guide
 ## Purpose
 This form is used to gather information from clients about their hair condition, sensitivities, and planned services. It helps the hairdresser understand the client's needs and ensures a safe and effective hair service experience.

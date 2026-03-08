@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Mattress Warranty Claim Form. This form is used to collect information from customers regarding their mattress warranty claims. It is essential that each customer fills out this form accurately and completely. To ensure data quality and prevent duplication, we will review the submitted form carefully before processing it.
-
-To begin, please ensure you are using the most current version of this form and that your internet browser is enabled for JavaScript. Ensure that you are accessing this form on a secure connection, as it collects sensitive information.
-</thinking>
-
 # Mattress Warranty Claim Form - Help Guide
 ## Purpose
 This form is used to collect information from customers regarding their mattress warranty claims. Please provide accurate and complete information to help us process your claim efficiently.

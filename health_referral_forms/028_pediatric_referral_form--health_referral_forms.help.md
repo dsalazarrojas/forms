@@ -1,5 +1,3 @@
-<thinking>As a pediatric referral form, its purpose is to gather information about a patient's health status and medical history for referral to other healthcare providers. This form is likely to be used in a pediatric setting, such as a children's hospital or a pediatrician's office. The form includes various fields to collect demographic information, medical history, and other relevant details. It's essential to ensure that the form is completed accurately and thoroughly, as this information will be used to guide the referring provider in making informed decisions about the patient's care. Before filling out this form, please review the fields below to understand what information is required and how it should be filled in.</thinking>
-
 # Pediatric Referral Form - Help Guide
 ## Purpose
 The Pediatric Referral Form is designed to collect information about a patient's health status and medical history for referral to other healthcare providers. This form helps ensure that the referring provider has all the necessary information to make informed decisions about the patient's care.

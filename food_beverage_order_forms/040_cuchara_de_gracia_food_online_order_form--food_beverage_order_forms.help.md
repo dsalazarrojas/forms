@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication, we will first check if there are other similar forms. This form is a standard order form for a food and beverage business, so it's likely to be similar to other online order forms. We will focus on explaining each field's purpose and requirement status.
-
-</thinking>
-
 # Cuchara De Gracia Food Online Order Form - Help Guide
 ## Purpose
 The Cuchara De Gracia Food Online Order Form is designed to collect information from customers to fulfill their food and beverage orders. This form helps us understand their preferences, requirements, and payment details for a smooth and efficient order processing.

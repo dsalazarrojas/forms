@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate referrals between healthcare specialists, allowing the referring specialist to provide information about the patient and the reason for the referral. The form is used to gather details about the specialist being referred to, the condition of the patient, and other relevant information. This form should be filled out by the referring specialist and sent to the receiving specialist for review and consideration.
-</thinking>
-
 # Specialist Referral Assessment - Help Guide
 ## Purpose
 The Specialist Referral Assessment form is a tool for healthcare specialists to refer patients to other specialists for specialized care. This form provides a structured format for referring specialists to gather and share information about the patient, the reason for referral, and other relevant details.

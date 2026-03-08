@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with our service. The purpose of this form is to collect information that will help us improve our service and better understand customer needs and expectations. Please note that this form has 25 questions and is divided into multiple pages.
-</thinking>
-
 # dynamic_feedback_survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their experience with our service. The information collected will help us improve our service and better understand customer needs and expectations.

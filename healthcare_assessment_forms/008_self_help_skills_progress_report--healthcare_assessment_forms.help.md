@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the progress of a user's skills, particularly those that require self-help, such as personal development, self-improvement, or self-care skills. The form helps in tracking the improvement or decline of a specific skill over time, allowing for regular assessments and monitoring of progress. This information can be useful for individuals, healthcare professionals, or organizations looking to track and improve their skills in areas such as mental health, wellness, or personal growth.
-
-To ensure relevance, the form has been carefully crafted with input schema that aligns with the specified category and title. The form is designed to be a self-help skills progress report, and its structure and field labels reflect this purpose. By using this form, users can effectively track their progress and gain insights into their personal development.
-
-Non-duplication is also considered in the form's design. The form's fields are unique and do not overlap with other forms in the same category, ensuring that users can collect relevant and consistent data without redundancy.
-
-</thinking>
 # Self Help Skills Progress Report - Help Guide
 ## Purpose
 This form is designed to collect information on the progress of a user's skills, particularly those that require self-help, such as personal development, self-improvement, or self-care skills.

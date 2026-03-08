@@ -1,5 +1,3 @@
-<thinking>As we review our equine learning program, we want to gather valuable feedback from participants to improve future sessions. This form will help us understand your experience with our equine learning sessions, including your perception of the session's helpfulness, the instructor's performance, and the quality of facilities and materials. The goal is to collect detailed feedback on what we are doing well and areas for improvement.</thinking>
-
 # Equine Learning Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is part of a content submission process for empowerment content, a type of content that aims to educate or inspire individuals to take action towards personal development or social impact. The form is designed to gather information from users about their experiences, thoughts, and feelings related to this topic. The purpose of this form is to collect data that can be used to better understand the needs and perspectives of the target audience.
-
-When filling out this form, please note that the "file" field is not actually for file uploads, but rather for users to enter a reference or identifier for a file they have uploaded elsewhere.
-
-To avoid duplication of efforts, please do not submit the same content multiple times. If you have already submitted a similar experience, it is recommended to check if it has already been included in the dataset.
-</thinking>
-
 # Empowerment Content Submission Form - Help Guide
 ## Purpose
 The Empowerment Content Submission Form is a data collection tool designed to gather information from users about their personal experiences related to empowerment content. This form is part of a broader initiative to better understand the needs and perspectives of individuals and communities.

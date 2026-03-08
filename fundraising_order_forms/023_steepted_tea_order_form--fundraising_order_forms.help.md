@@ -1,8 +1,3 @@
-<thinking>
-This help guide is meant to provide clear and concise instructions on how to fill out the Steepted Tea Order Form. This guide is for end-users who need to place an order for tea and want to know what each field means and how to fill it out correctly. Before we dive into the form specifics, let's make sure we're on the same page. Are you looking to place an order for tea, and do you want to understand the form's purpose and requirements? This guide will walk you through each field, explaining its purpose and what you should fill out.
-
-</thinking>
-
 # Steepted Tea Order Form - Help Guide
 
 ## Purpose

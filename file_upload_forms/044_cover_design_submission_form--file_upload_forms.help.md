@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect submission information for a cover design submission. It appears to be a structured form intended for uploading and managing cover design submissions, possibly for a project or application process. The form requires users to provide various details including a file input, submission title, description, categories, tags, status, file size limit, submission date and time, email, phone number, submission notes, comments, file type, attachment, and uploader information. The form seems to have multiple sections for different types of submission fields. 
-
-Before completing this form, please ensure you have the necessary file ready for upload and are aware of the submission guidelines. If you have any questions or concerns, please refer to the submission guidelines or contact the relevant team for clarification.
-
-Please note that some fields are marked as "required," indicating that they must be filled out for the form to be submitted successfully. Please ensure you have the necessary information before proceeding.
-
-Please ensure you have read and understand the submission guidelines before completing this form.
-
-</thinking>
-
 # Cover Design Submission Form - Help Guide
 ## Purpose
 The Cover Design Submission Form is used to collect submission information for a cover design submission. This form is designed to gather all the necessary details required for the submission process.

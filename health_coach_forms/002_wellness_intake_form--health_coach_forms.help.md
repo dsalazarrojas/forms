@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather information from users about their general health and wellness status, medical conditions, schedule, wellness goals, and emergency contact information. The form is designed to be completed by users in a straightforward and concise manner, with each field labeled to help guide them through the process. The purpose of this form is to collect user input in a structured and standardized way, making it easier for healthcare professionals to review and utilize the information collected.
-</thinking>
-
 # Wellness Intake Form - Help Guide
 ## Purpose
 The Wellness Intake Form is designed to gather essential information from users about their general health and wellness status. This form helps healthcare professionals understand the users' medical history, schedule, wellness goals, and emergency contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # editorial_submission_upload_form - Help Guide
 ## Purpose
 This form is intended for editorial submissions. It allows users to upload relevant files and provide information about themselves as contributors.

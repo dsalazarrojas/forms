@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is likely to be used for assessing and improving the efficiency of transportation logistics operations. The goal is to identify areas of improvement and provide ratings for different aspects of transportation. This form might be part of a larger business intelligence or operational analysis framework.</thinking>
 
 # transportation_logistics_operations_efficiency_assessment - Help Guide

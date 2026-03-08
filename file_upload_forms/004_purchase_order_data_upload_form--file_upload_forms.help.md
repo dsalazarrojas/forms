@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to upload purchase order data, which is likely used for inventory management, order tracking, or similar business purposes. This form might be used by various departments within an organization, such as purchasing, accounting, or operations. 
 
 To determine if this form is relevant, consider the following questions:

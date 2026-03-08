@@ -1,10 +1,3 @@
-<thinking>
-We are checking if the form is intended for internal or external use, and if it's a one-time or recurring form. We are also checking if all the fields are filled out correctly and if the explanations provided are clear and concise.
-The form is meant to be used by potential employees to apply for a job at a beauty salon. It's likely intended for internal use within the salon, and it's a one-time form.
-Upon reviewing the form, we can see that all the fields are filled out correctly, and the explanations provided are clear and concise. We can also see that the form includes fields for personal information, job application details, and professional experience and qualifications.
-The form appears to be well-designed and easy to use. The explanations for each field are brief and to the point, and the options provided for select fields are clear and relevant.
-</thinking>
-
 # Beauty Salon Job Application Form - Help Guide
 ## Purpose
 The Beauty Salon Job Application Form is a one-time form designed for potential employees to apply for a job at a beauty salon. This form collects personal and professional information from applicants, including their contact information, job application details, and qualifications.

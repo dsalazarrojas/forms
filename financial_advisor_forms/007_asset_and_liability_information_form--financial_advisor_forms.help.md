@@ -1,13 +1,3 @@
-<thinking>
-
-The Asset And Liability Information Form is used to provide a comprehensive overview of a business's financial situation, including its assets, liabilities, and owner equity. This form is intended to be completed by business owners or financial advisors and is used to report on the business's financial state at a specific point in time.
-
-The form is used to collect detailed information on various asset and liability categories, including cash and equivalents, accounts receivable, inventory, fixed assets (such as property and buildings), equipment and machinery, and other assets. It also captures information on current liabilities, including accounts payable, current portion of loans, taxes payable, and other current liabilities. Additionally, it provides space for reporting long-term debt and owner's equity.
-
-This form should only be completed by authorized business owners or financial advisors, and it is not intended for public disclosure. The information collected on this form will be used to support financial reporting and compliance purposes.
-
-</thinking>
-
 # Asset And Liability Information Form - Help Guide
 ## Purpose
 The Asset And Liability Information Form is used to provide a comprehensive overview of a business's financial situation, including its assets, liabilities, and owner equity.

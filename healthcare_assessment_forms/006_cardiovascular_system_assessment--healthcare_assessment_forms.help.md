@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cardiovascular System Assessment - Help Guide
 
 ## Purpose

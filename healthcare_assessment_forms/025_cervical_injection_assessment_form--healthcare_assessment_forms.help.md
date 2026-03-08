@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cervical Injection Assessment Form - Help Guide
 
 ## Purpose

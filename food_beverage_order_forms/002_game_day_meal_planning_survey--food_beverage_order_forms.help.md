@@ -1,5 +1,3 @@
-<thinking>Internal purpose of this form is to gather information from game day organizers on their meal planning preferences for the event. This form is not intended for actual event registration or payment, but rather as a tool for the organizers to gauge the number of guests, dietary preferences, and potential contribution commitments of the attendees. This will help the organizers to plan the food and beverages accordingly. It's also a good opportunity to gather feedback and insights on the game day meal planning process. Before proceeding, please ensure you haven't already filled out this form for this event as it's meant to be filled out once per game day event.</thinking>
-
 # Game Day Meal Planning Survey - Help Guide
 ## Purpose
 This form is designed to help game day organizers plan their meal planning for the event. It will help to collect information on the number of guests, their food preferences, and potential contribution commitments.

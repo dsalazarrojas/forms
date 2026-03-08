@@ -1,11 +1,3 @@
-<thinking>
-The form is used to collect information about the price and image URL of a honey product. This form will likely be used in an e-commerce or online marketplace setting, where customers can provide their details to purchase honey products. 
-
-Before filling out this form, please ensure that you are authorized to access this form. If you are an administrator, you may want to verify that you're filling out this form for a valid reason, not just for testing or experimenting.
-
-Please do not submit this form multiple times with the same data as it may cause unnecessary processing and confusion. Make sure to review the form carefully before submitting it.
-</thinking>
-
 # honey_price_and_image_submission - Help Guide
 ## Purpose
 The "honey_price_and_image_submission" form is used to collect the price and image URL of a honey product for e-commerce or online marketplace purposes.

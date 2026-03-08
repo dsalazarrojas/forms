@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note:** Before proceeding, please ensure this form is not a duplicate and is relevant to your needs. The form is intended for product donation requests, and its purpose is to gather basic information from donors, product details, shipping details, and pickup preferences.
-</thinking>
-
 # Product Donation Request Form - Help Guide
 ## Purpose
 The **Product Donation Request Form** is designed to collect information from individuals or organizations requesting product donations. The form is used to gather basic information about the donor, the product being donated, shipping details, and pickup preferences.

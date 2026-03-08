@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the cellular energy level of a patient, which is a critical aspect of their overall health status. The form is used to gather information about the patient's energy levels, sleep patterns, physical activity, and medical history to better understand their current health status. This assessment is important for healthcare professionals to identify potential areas of concern and develop targeted interventions to improve the patient's energy levels and overall well-being.
-
-To ensure the form is filled out correctly, please follow the instructions below. If you have any questions or concerns, please reach out to the healthcare professional administering the form.
-
-</thinking>
-
 # Cellular Energy Assessment - Help Guide
 ## Purpose
 The Cellular Energy Assessment form is designed to evaluate a patient's cellular energy level, which is a critical aspect of their overall health status.

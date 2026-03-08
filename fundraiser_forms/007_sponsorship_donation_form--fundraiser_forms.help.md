@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from businesses that are interested in sponsoring an event or cause. The form is meant to gather relevant details such as business contact information, sponsorship amount, and other supporting documents. This information will help the event organizers and stakeholders to communicate with the sponsor, track sponsorship progress, and display the sponsor's logo.
-
-Please ensure that this form is not used for any other purpose that is not related to event sponsorship. Duplicate or redundant submissions can lead to confusion and unnecessary processing time. If you are unsure about the purpose of the form or have any questions, please reach out to the event organizers.
-
-To use this form, please follow the steps below.
-
-</thinking>
-
 # Sponsorship Donation Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the sponsorship donation form for your business.

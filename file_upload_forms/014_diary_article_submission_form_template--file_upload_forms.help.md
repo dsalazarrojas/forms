@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to submit diary articles. It is intended for internal use and should only be completed by authorized users. Please ensure that you are eligible to submit articles before proceeding.
-</thinking>
-
 # Diary Article Submission Form Template - Help Guide
 
 ## Purpose

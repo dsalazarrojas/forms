@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # iv_therapy_injections_consent_form - Help Guide
 
 ## Purpose

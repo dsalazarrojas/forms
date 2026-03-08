@@ -1,11 +1,3 @@
-<thinking>
-
-The Easter Giveaway Form is a survey designed to collect personal and demographic information from users. The form is typically used for marketing and promotional purposes, and its main goal is to gather insights into the preferences and behaviors of potential customers. This form is not intended to be a critical form for sensitive data, and its completion is entirely voluntary. To ensure that the data collected is accurate and helpful, we will only collect the information that is absolutely necessary for the purpose of the form.
-
-Before proceeding, please ensure that you are not submitting this form multiple times. Duplicate submissions can lead to inaccurate or redundant data.
-
-</thinking>
-
 # Easter Giveaway Form - Help Guide
 ## Purpose
 The Easter Giveaway Form is a survey designed to collect personal and demographic information from users for marketing and promotional purposes.

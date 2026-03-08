@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Health Reset Program Application" form. This form is designed to collect information from potential participants in a health program. The purpose of this form is to gather demographic data, health goals, and other relevant details that will help the program administrators to assess and qualify participants for the program. To avoid duplication, please ensure that you are not already enrolled in the program.
-</thinking>
-
 # Health Reset Program Application - Help Guide
 ## Purpose
 The Health Reset Program is designed to support individuals who want to reset their health and well-being. This program aims to provide a comprehensive approach to health and fitness, and our goal is to ensure that each participant is properly qualified and prepared for the program.

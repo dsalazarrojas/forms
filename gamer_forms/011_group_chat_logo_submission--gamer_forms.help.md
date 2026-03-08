@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a group chat logo submission. The purpose of this form is to gather data about a chat logo, including the title, logo file, and various details about the owner of the logo, such as their name, email, phone number, address, and submission status. The form is intended to be filled out by the owner of the logo, and the submission status field is required to ensure that the submission is properly processed.
-
-This form should only be used for submitting a new group chat logo. If you are trying to edit or update an existing submission, please use the corresponding edit form.
-
-To fill out this form, please ensure that you have a clear and concise description of your submission, and that you have all the required fields filled out. Please note that the submission status field is required.
-
-</thinking>
-
 # Group Chat Logo Submission - Help Guide
 ## Purpose
 This form is used to submit a new group chat logo for processing.

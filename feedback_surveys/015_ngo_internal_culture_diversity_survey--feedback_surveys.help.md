@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 NGO Internal Culture Diversity Survey - Help Guide
 =============================================
 

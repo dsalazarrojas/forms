@@ -1,5 +1,3 @@
-<thinking>...The form is designed to help assess a gymnast's skills and abilities in various gymnastics techniques, including handstands, cartwheels, and layouts. The form is likely used by coaches, trainers, or assessors to evaluate a gymnast's performance and provide feedback. This form could be used for assessment, training planning, or progress monitoring. I'm going to create a help guide for this form based on the provided YAML fields, without duplicating any information...</thinking>
-
 # gymnastics_skills_checklist - Help Guide
 ## Purpose
 The Gymnastics Skills Checklist is a form designed to help assess a gymnast's skills and abilities in various gymnastics techniques.

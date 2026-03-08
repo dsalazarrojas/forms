@@ -1,7 +1,3 @@
-<thinking>
-The Donor Recognition Wall Inclusion Consent Form is designed to collect information from donors about their preferences for how they want to be recognized and thanked for their contributions. This form will help us understand what type of recognition and acknowledgment our donors would like to receive, which will enable us to personalize and tailor our gratitude to their preferences. This form will not be used for any other purpose, and any information collected will be kept confidential.
-</thinking>
-
 # Donor Recognition Wall Inclusion Consent Form - Help Guide
 
 ## Purpose

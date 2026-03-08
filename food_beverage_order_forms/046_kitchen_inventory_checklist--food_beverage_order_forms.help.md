@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for managing kitchen inventory, ensuring that all essential items are accounted for and ordered accurately. The form is meant to be completed by staff members or administrators to verify the current state of the kitchen inventory.
-</thinking>
-
 # kitchen_inventory_checklist - Help Guide
 
 ## Purpose

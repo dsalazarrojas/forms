@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a home goods shopping spree promotion. The purpose of this form is to verify if customers are eligible and willing to participate in a home goods shopping spree. The form asks for contact preference and preferred method of contact. It also collects other personal details such as name, email, address, city, zip, country, and age for internal purposes. Please note that some fields are marked as optional, meaning that users can skip them if they do not need to be filled. It is assumed that the fields "confirm_eligibility", "confirm_consent", "age", "zip_alt", and "email_alt" are not used in the provided structure as they are not correctly configured.
-</thinking>
 # home-goods-shopping-spree-entry - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a home goods shopping spree promotion.

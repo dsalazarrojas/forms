@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide that is clear and concise for end-users to understand the purpose and usage of the Financial Client Intake Form. This form is used to gather essential information from clients about their financial situation, employment status, income sources, financial goals, and other relevant details. The purpose of this form is to provide a comprehensive understanding of the client's financial situation, which will be used to create a tailored financial plan that meets their specific needs and goals.
-
-To ensure this form is completed accurately and thoroughly, we will provide a detailed explanation of each field in the form.
-
-</thinking>
-
 # Financial Client Intake Form - Help Guide
 ## Purpose
 The Financial Client Intake Form is a crucial part of the financial planning process. It helps us understand your financial situation, goals, and preferences, which enables us to create a personalized financial plan tailored to your needs.

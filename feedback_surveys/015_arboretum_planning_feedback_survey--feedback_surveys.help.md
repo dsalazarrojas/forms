@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather feedback from visitors on their experience at the arboretum. It aims to collect information on their satisfaction with various aspects of the arboretum, such as grounds maintenance, plant variety, and facilities. The form is designed to be completed by each visitor, and the responses will help the arboretum staff understand areas for improvement and identify opportunities for growth. It is essential that each visitor provides honest and detailed feedback to help us better serve them and the community.
-
-Before completing this form, please ensure that you have not already done so recently. Your feedback will be kept confidential, and it will only be used to enhance the overall experience for future visitors.
-
-If you have any issues or concerns, please provide clear and concise information so that we can address them effectively.
-
-Please answer the questions honestly, and if you have any suggestions or comments, feel free to share them.
-
-If you are unable to answer any question, please explain why.
-</thinking>
-
 # Arboretum Planning Feedback Survey - Help Guide
 ## Purpose
 The Arboretum Planning Feedback Survey is designed to gather information about your experience at the arboretum. Your feedback will help us improve and enhance the overall experience for all visitors.

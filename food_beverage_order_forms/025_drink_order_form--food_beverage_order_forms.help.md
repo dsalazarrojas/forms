@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to order drinks. The purpose of this form is for the customer to provide their order details and any necessary customer information. This form should only be filled out once for each order. Please do not submit duplicate orders through this form.
-</thinking>
-
 # drink order form - Help Guide
 ## Purpose
 The purpose of this form is for customers to submit their drink order requests. It is designed to capture necessary customer information and order details for efficient processing and delivery.

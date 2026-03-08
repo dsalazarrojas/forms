@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect submissions for a mug design contest. The purpose of the form is to gather information about the design entry, including the category of the design, a description of the design, a file to accompany the design, email and name information for the entrant, and address and contact information for the entrant. This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Mug Design Contest Submission - Help Guide
 ## Purpose
 This form is used to collect submissions for a mug design contest, gathering information about the design entry, including the design category, description, and supporting file.

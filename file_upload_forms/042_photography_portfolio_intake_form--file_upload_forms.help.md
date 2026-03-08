@@ -1,15 +1,3 @@
-<thinking>
-This is a form for collecting information about a photography portfolio project. It is used to intake projects for a portfolio, which will be used to demonstrate a photographer's work and showcase their style and experience. 
-
-Before filling out this form, please make sure you have not already submitted a project with the same name or style. This will help us ensure that all projects in the portfolio are unique and accurately represent the photographer's work. 
-
-This form will ask for information such as the project name, description, style, project type, date, and project files. It will also ask for contact information such as the contact name, contact phone, and contact email. 
-
-Please fill out this form accurately and completely to ensure that your project is properly documented in the portfolio. 
-
-Note to the form owner: This form is designed to collect information for a photography portfolio project. Please ensure that all the fields are properly populated before submitting the form.
-</thinking>
-
 # Photography Portfolio Intake Form - Help Guide
 ## Purpose
 The Photography Portfolio Intake Form is used to collect information about a photography portfolio project. This includes project details, contact information, and file attachments.

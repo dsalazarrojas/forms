@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather feedback on why a customer is canceling their subscription or service. This form helps us understand the reasons behind the cancellation and identify areas for improvement. Before completing this form, please ensure that you have not already provided feedback on this topic to avoid duplication.
 
 </thinking>

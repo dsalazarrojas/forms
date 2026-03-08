@@ -1,13 +1,3 @@
-<thinking>
-This form aims to collect feedback from youth about their experience in the facility, specifically regarding safety, staff support, services, and any additional feedback or comments. The purpose is to gather information on how to improve the facility and provide better services to the youth in its care. It's essential to ensure that the youth feel safe, supported, and satisfied with the services provided.
-When creating this form, consider the following:
-* Ensure that the questions are clear and concise, with options that are specific and non-redundant.
-* Avoid asking questions that may be sensitive or triggering for the youth.
-* Make sure to leave space for additional feedback or comments.
-* Consider providing an option for youth to remain anonymous, if possible.
-* Use a mix of multiple-choice and text fields to accommodate different types of feedback.
-</thinking>
-
 # Youth Detention Feedback Survey - Help Guide
 ## Purpose
 The Youth Detention Feedback Survey is designed to collect your thoughts and experiences about your time at the facility. Your feedback is invaluable in helping us improve the services we provide.

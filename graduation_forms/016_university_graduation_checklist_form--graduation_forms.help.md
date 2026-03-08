@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their graduation status and submitted documents. It is likely to be used by university administrators to track student progress and ensure that students meet the necessary requirements for graduation. This form should only be filled out by students and will not be duplicated, as each student has their own unique situation. The fields in this form will help to capture the student's name, email address, phone number, expected graduation date, graduation status, documents submitted, and any additional comments they may have.</thinking>
-
 # University Graduation Checklist Form - Help Guide
 ## Purpose
 The University Graduation Checklist Form is a tool used by students to provide essential information about their graduation status and submitted documents to university administrators.

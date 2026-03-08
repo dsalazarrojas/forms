@@ -1,13 +1,3 @@
-<thinking>
-The Gaming Innovation Pitch Application Form is designed to collect information about a game-related project or innovation from applicants. This form helps us evaluate and assess the project's potential to drive innovation and progress in the gaming industry. 
-
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and that you are submitting a unique and non-duplicate application. The form is intended for game-related projects, innovations, or pitches, and any submissions that do not fit this criteria will not be considered.
-
-To complete this form, please carefully read and follow the instructions provided. Each field has a specific purpose, and failing to provide accurate and complete information may affect the evaluation process.
-
-Please note that the form is designed to be user-friendly, and you can navigate through it using the provided hints and instructions. If you have any questions or need further clarification on any of the fields, do not hesitate to reach out to us for support.
-</thinking>
-
 # Gaming Innovation Pitch Application Form - Help Guide
 ## Purpose
 The Gaming Innovation Pitch Application Form is designed to collect information about game-related projects or innovations from applicants. This information is used to evaluate and assess the project's potential to drive innovation and progress in the gaming industry.

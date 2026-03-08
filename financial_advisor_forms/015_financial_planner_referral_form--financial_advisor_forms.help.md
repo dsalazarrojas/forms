@@ -1,5 +1,3 @@
-<thinking>Financial Planner Referral Form is used to refer a client to a financial planner. This form is meant to be filled out by a financial advisor when they need to refer a client to another financial planner or advisor. The form helps to gather relevant information about the client and the referral, including how the client was referred and any additional comments. To ensure the form is filled out correctly, the user should check that no other form for the same client is already in the system before filling out this form.</thinking>
-
 # Financial Planner Referral Form - Help Guide
 
 ## Purpose

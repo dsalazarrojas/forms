@@ -1,5 +1,3 @@
-<thinking>...this form is intended to gather information from clients or customers to assess their debt security, presumably for the purpose of providing financial analysis or advice. This form would ideally be used in a financial services company or non-profit organization that offers debt security services such as debt counseling or financial planning. The fields gathered would provide a comprehensive overview of the client's debt situation. This form should not be used for soliciting business or marketing purposes, as the fields only pertain to debt information...</thinking>
-
 # Debt Security Evaluation Request Form - Help Guide
 ## Purpose
 The Debt Security Evaluation Request Form is a tool used to gather information about your debt situation, helping us better understand your financial situation and provide personalized advice and solutions.

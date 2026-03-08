@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on nurses' skills and expertise in various areas of healthcare. This form is likely used for administrative or training purposes, such as evaluating a nurse's qualifications for a specific role or assessing their skill level. This form does not seem to be intended for real-time, high-stakes medical decision-making, so the data collected would not be used to make immediate life-or-death decisions. I assume the form is designed for internal use within a healthcare organization.
-
-</thinking>
-
 # Nursing Skills Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect information on nurses' skills and expertise in various areas of healthcare. It helps in evaluating a nurse's qualifications for a specific role or assessing their skill level.

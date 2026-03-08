@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for bundles, which are predefined collections of food and beverage items. The form is divided into several sections to gather necessary information for efficient processing and delivery. The form requires the customer to provide personal information (full name, contact email, and contact phone number), preferred delivery date, and billing method. Customers can also select from a list of available bundles, specify the quantity, and choose any additional items needed. The form includes fields for special instructions and agreement to terms of service. The form is intended for online ordering, so the delivery address is a required field.
-</thinking>
-
 # Bundle Order Form - Help Guide
 ## Purpose
 The Bundle Order Form is designed for customers to place orders for bundles of food and beverage items. 

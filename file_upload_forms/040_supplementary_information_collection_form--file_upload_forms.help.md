@@ -1,12 +1,3 @@
-<thinking>
-This form is used for collecting supplementary information from end-users. This form will be used to collect case information, document uploads, and follow-up details. The form is designed to be used for various purposes, such as gathering information for a specific case or project.
-
-Please note that this form has 17 fields in total, and not all fields are required. The form is structured into different pages, with the first page collecting supplementary information, case information, and document uploads. The second page collects follow-up details. 
-
-To avoid any confusion, each field will be explained in detail below.
-
-</thinking>
-
 # supplementary_information_collection_form - Help Guide
 ## Purpose
 The supplementary_information_collection_form is used for collecting supplementary information from end-users.

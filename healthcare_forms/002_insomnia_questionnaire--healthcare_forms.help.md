@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about users' sleep habits and experiences with sleep disorders. The form has 25 fields that cover various aspects of sleep, including user information, sleep habits, sleep disorders, medical history, and medications. It is intended for use in clinical settings or research studies that require a comprehensive understanding of sleep patterns and associated factors. Please ensure that you are using this form in a context where it is appropriate and that you have the necessary permissions and approvals to collect and use this type of data.
-</thinking>
-
 # insomnia_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about users' sleep habits, experiences with sleep disorders, and medical history to help healthcare professionals understand and address sleep-related issues.

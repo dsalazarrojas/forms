@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect participant consent forms, which are documents that acknowledge a participant's agreement to participate in a research study, survey, or other data collection activity. The form typically includes details about the study, such as its purpose, risks, and benefits, as well as the participant's rights and responsibilities.
-
-To ensure that this form is used correctly, we need to consider a few things:
-
-*   This form is not affiliated with any form platform, and its design is based on public survey topic metadata. It is an original adaptation and does not copy or extract content from any proprietary platform.
-*   The form is released under a Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-</thinking>
-
 # Participant Consent Form Upload - Help Guide
 ## Purpose
 

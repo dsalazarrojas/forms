@@ -1,6 +1,3 @@
-<thinking>
-We are checking for any internal relevance and duplication to ensure this form meets your requirements. This form appears to be a comprehensive order form for a comfort food establishment, catering to various customer needs, including ordering comfort food items, specifying order type, and managing delivery details. Each field is designed to collect essential information for efficient order processing and customer service. We will proceed with creating the user-facing help guide based on this assessment.</thinking>
-
 # Comfort Food Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place an order for comfort food items. It guides you through the process of ordering your preferred items, selecting delivery or pickup options, and finalizing your order with payment details.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from players on their reaction time scores in a game. The form is used to track the participant's reaction times and scores for each level of the game. By filling out this form, players can help developers improve the game's difficulty and timing. 
-
-The form is only accessible by players who have completed the game, and it helps to prevent duplication of work by checking the participant's status. 
-
-The submission of this form is mandatory and it requires the participant's email address. The participant's submission status and submission time are also recorded. 
-
-The form can be completed in a few minutes, and it helps to improve the game experience.
-
-</thinking>
-
 # Reaction Time Score Submission Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from players on their reaction time scores in a game. By filling out this form, players can help game developers improve the game's difficulty and timing.

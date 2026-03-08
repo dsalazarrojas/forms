@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect patient health information for the purpose of assessment and profiling. The form is intended to be completed by patients, caregivers, or healthcare professionals. It's essential to ensure that the form is filled out accurately and completely to provide the best possible understanding of the patient's health status.
-
-Before proceeding, please note that:
-- This form is not a medical diagnosis tool and should not be used as a substitute for professional medical advice.
-- Please ensure that the form is completed in the patient's presence, and they are aware of their responses.
-- If you're unsure about any question or field, please consult with a healthcare professional.
-
-The form has 12 pages, each with a different set of questions. However, some of the pages are identical in name but have different purposes. To avoid confusion, we'll address each section individually.
-
-Please note that this form is designed to be completed by patients, but some questions might be better suited for healthcare professionals.
-
-The form's content is based on public survey data and is not affiliated with any proprietary platforms.
-
-Please ensure that the answers are accurate and honest, as they will be used for assessment and profiling purposes only.
-
-</thinking>
-
 # patient_health_questionnaire_phq9 - Help Guide
 ## Purpose
 This form, "patient_health_questionnaire_phq9," is a health assessment tool designed to gather information from patients about their health status, mental health, and social determinants. It's essential to fill it out accurately to help healthcare professionals understand the patient's health better.

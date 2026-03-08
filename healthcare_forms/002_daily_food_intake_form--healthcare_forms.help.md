@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool to help users track their daily food intake. It is a text-based form designed to capture information about the food consumed by the user on a daily basis. The form is structured into four pages, each serving a specific purpose.
-</thinking>
-
 # Daily Food Intake Form - Help Guide
 ## Purpose
 The Daily Food Intake Form is designed to help users track their daily food intake. It is used to capture information about the food consumed on a daily basis.

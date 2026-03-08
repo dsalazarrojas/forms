@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to consider the fields it contains. The form is called "Insurance Payment Proof Checklist" which suggests that it's used to gather information related to insurance payments. It has fields for various types of insurance information, such as policy number, policy owner, insurance company, proof of loss, proof of claim, proof of settlement, and payment details. This form likely serves to verify and document insurance payments for an individual or business.
-
-We should check if this form is relevant to our use case. If it is not relevant, we may need to modify the form to suit our needs.
-
-We also need to ensure that we have not created a similar form in the past. If we have, we should consider merging the two forms or modifying this one to avoid duplication of effort.
-</thinking>
-
 # Insurance Payment Proof Checklist - Help Guide
 ## Purpose
 This form is used to gather information related to insurance payments, including policy details, proof of loss, and payment information.

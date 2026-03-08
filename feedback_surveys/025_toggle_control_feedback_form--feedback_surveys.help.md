@@ -1,9 +1,3 @@
-<thinking>
-We need to explain the purpose of this form to end users who may not be familiar with our internal systems and processes. This form is designed to collect user feedback on our toggle controls, which are a key component of our product. The toggle controls are a set of graphical elements that users interact with to switch between different settings or features. We want to understand how users experience these controls, what they like or dislike about them, and what features we can add or improve to make them more user-friendly. This form will help us collect detailed feedback on the usability, functionality, and overall satisfaction of our toggle controls.
-
-To ensure we don't duplicate effort, we've included a unique control ID field to track which toggle control is being reviewed. We also want to know which platform and device users are using, as this may impact how they interact with our controls. This form will help us identify trends and areas of improvement to make our toggle controls more accessible and enjoyable for all users.
-
-</thinking>
 # Toggle Control Feedback Form - Help Guide
 ## Purpose
 The Toggle Control Feedback Form is designed to collect user feedback on the usability, functionality, and overall satisfaction of our toggle controls.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees on the compliance monitoring processes in their organization. It asks about their level of understanding and satisfaction with the monitoring processes, including the frequency, types, and methods of monitoring, as well as the quality and timeliness of feedback received. The questions aim to identify areas where monitoring might be perceived as burdensome, unclear, or unfair, and where improvement opportunities might lie. The form is meant to help organizations better understand their employees' experiences and perspectives on compliance monitoring, allowing for more effective and efficient monitoring processes.
-
-</thinking>
-
 # Compliance Monitoring Satisfaction Survey - Help Guide
 ## Purpose
 The Compliance Monitoring Satisfaction Survey is designed to gather feedback from employees on their experiences with compliance monitoring processes in their organization. It aims to identify areas where monitoring might be seen as burdensome, unclear, or unfair, and where improvement opportunities might lie.

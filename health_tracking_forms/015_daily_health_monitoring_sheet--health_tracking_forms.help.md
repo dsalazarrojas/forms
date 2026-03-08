@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide daily health updates on their current health status, medical conditions, and physiological measurements. It aims to facilitate regular health tracking and monitoring, allowing healthcare professionals to stay informed and provide timely interventions. This guide ensures that users understand the purpose and functionality of the form, reducing confusion and errors.
-</thinking>
-
 # Daily Health Monitoring Sheet - Help Guide
 ## Purpose
 The Daily Health Monitoring Sheet is a form designed for patients to provide daily updates on their health status, medical conditions, and physiological measurements. This form helps healthcare professionals stay informed and provide timely interventions.

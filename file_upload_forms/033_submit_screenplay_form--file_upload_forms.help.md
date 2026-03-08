@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for submitting screenplays, a type of written work, for review, feedback, or other purposes. Before proceeding, ensure you're submitting a screenplay that has been reviewed and cleared for submission. Duplicate submissions of the same screenplay will not be accepted.
-
-The following guide will walk you through the process of completing the form accurately and efficiently.
-</thinking>
-
 # Submit Screenplay Form - Help Guide
 ## Purpose
 

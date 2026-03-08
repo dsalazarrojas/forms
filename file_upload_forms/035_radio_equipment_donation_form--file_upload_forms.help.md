@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track and record radio equipment donations. 
-- The form is used to capture information about the donated radio equipment, including its type, donor's name and contact information, and the status of the delivery. 
-- It is crucial that the form is filled in correctly to ensure accurate tracking and reporting of radio equipment donations. 
-- Please make sure to fill in the form for every donation and do not duplicate entries. 
-</thinking>
-
 # Radio Equipment Donation Form - Help Guide
 ## Purpose
 The Radio Equipment Donation Form is used to track and record radio equipment donations. It captures essential details about the donated equipment, such as its type, donor's information, and delivery status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and approval for a fundraising campaign. The purpose of this form is to ensure that all necessary details are captured and approved before a campaign can be launched. It's essential to fill out this form accurately and completely to avoid any potential issues or delays in the campaign process. It's also crucial to check if the campaign is already approved or if there's any duplication of efforts before proceeding. This form should only be used for new campaigns, not for editing or updating existing ones.
-</thinking>
-
 # Fundraising Campaign Approval Form - Help Guide
 ## Purpose
 The Fundraising Campaign Approval Form is used to collect information and approval for a fundraising campaign. This form is crucial in ensuring that all necessary details are captured and approved before a campaign can be launched.

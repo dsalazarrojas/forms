@@ -1,23 +1,3 @@
-<thinking>
-Pessimism And Optimism Assessment form is a comprehensive evaluation tool designed to gauge an individual's pessimism and optimism levels. This form is used to collect information on various aspects of a person's emotional state, including their emotional responses to positive and negative events, thoughts about their future, and overall well-being.
-
-The form consists of 25 fields that cover a range of topics, including:
-
-* Emotional responses to negative and positive events
-* Thoughts and feelings about the future
-* Overall emotional state
-* Self-perception and self-description
-
-To ensure that your answers are accurate and helpful, please complete the form with care and honesty. This assessment is not a diagnostic tool, but rather a self-reporting instrument to help you better understand your emotional state and gain insight into your thoughts and feelings.
-
-Please note that some fields may seem repetitive, but each one is designed to gather specific information that can help you identify patterns and areas for improvement.
-
-Before starting the assessment, take a few minutes to read through each field carefully and answer each question truthfully. If you're unsure about any question, ask for clarification or guidance from the person administering the assessment.
-
-Now, let's move on to the form instructions.
-
-</thinking>
-
 # Pessimism And Optimism Assessment - Help Guide
 
 ## Purpose

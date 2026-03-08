@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect public feedback from users, allowing them to upload documents and provide comments. The form's purpose is to gather user input, and it is intended to be a public-facing form, meaning it will be accessible to anyone with a link to the form. The form is not affiliated with or endorsed by any form platform, and it was created using AI-generated metadata from public surveys. It does not use proprietary content from any other form creation platform. The form is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. If you need to contact the form's creator, please email form@gic.mx.
-</thinking>
-
 # public_feedback_document_upload_form - Help Guide
 ## Purpose
 The public_feedback_document_upload_form is a form designed to collect public feedback from users, allowing them to upload documents and provide comments. This form is public-facing, meaning it is accessible to anyone with a link to the form.

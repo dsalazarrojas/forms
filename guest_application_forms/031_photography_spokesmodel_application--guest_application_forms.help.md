@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the photography spokesmodel application process. The form captures the necessary information from potential candidates, including contact details, experience, and availability. The purpose of this form is to gather relevant data for internal review and consideration for potential collaborations or projects. The following instructions will guide you through the process of completing the form accurately and efficiently.
-</thinking>
-
 # photography_spokesmodel_application - Help Guide
 ## Purpose
 The photography spokesmodel application form is used to collect information from potential candidates for collaborations or projects. This form is designed to gather essential details about the candidate's experience, availability, and other relevant information.

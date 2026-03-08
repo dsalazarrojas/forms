@@ -1,9 +1,3 @@
-<thinking>
-The Firefighter Evaluation Form is a tool used to assess a fire department's performance, preparedness, and overall response to emergency situations. It helps evaluate key aspects such as safety, physical fitness, equipment utilization, team effectiveness, and communication strategies. The form aims to gather comprehensive data on the department's strengths and areas for improvement.
-This form is designed to be used by fire department personnel, administrators, and evaluators. It is intended for internal use only, and the data collected will help inform decision-making and resource allocation within the department.
-Please note that the form has been generated based on general survey metadata and may not reflect specific, real-world use cases or proprietary information from any form platforms.
-</thinking>
-
 # Firefighter Evaluation Form - Help Guide
 ## Purpose
 The Firefighter Evaluation Form is a tool used to assess a fire department's performance, preparedness, and overall response to emergency situations.

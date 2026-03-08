@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bid Submission And Team Choice Form - Help Guide
 
 ## Purpose

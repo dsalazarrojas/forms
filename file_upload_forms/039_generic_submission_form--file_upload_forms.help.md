@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather generic information from users for any type of request or submission. The fields are structured to collect personal details, supporting documents, and specific request information. This form should not be used for sensitive or personal health-related submissions. Please ensure you're using this form for the correct purpose and only if it's not already been used by someone else with a similar request.
-</thinking>
-
 # Generic Submission Form - Help Guide
 ## Purpose
 The Generic Submission Form is a versatile form designed to collect information for any type of request or submission. This form helps gather personal details, supporting documents, and specific request information in a structured manner.

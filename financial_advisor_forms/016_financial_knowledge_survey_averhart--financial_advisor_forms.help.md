@@ -1,12 +1,3 @@
-<thinking>
-The goal of this form is to gather information from users regarding their demographic details, financial goals, and financial knowledge. This form is part of the "Financial Knowledge Survey Averhart". To create this form, we will consider the user's ability to understand the questions, which should be clear and concise. It's also essential to keep in mind that this form is not intended for public use, so we will not need to worry about security and privacy concerns.
-
-Before we begin creating the help guide, we need to ensure that this form is not already in use or is not redundant in any way. If it is, we will need to make adjustments accordingly.
-
-Assuming that the form is valid, let's proceed with creating the help guide.
-
-</thinking>
-
 # Financial Knowledge Survey Averhart - Help Guide
 ## Purpose
 The Financial Knowledge Survey Averhart is a form designed to gather information from users regarding their demographic details, financial goals, and financial knowledge.

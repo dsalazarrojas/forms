@@ -1,6 +1,3 @@
-<thinking>
-This form is for collecting donations for the Global Peace Summit, a charity event aimed at promoting global peace and unity. This form is designed to gather essential information from donors, including their donation amount, type, name, contact information, and any additional details they may want to provide. The purpose of this form is to streamline the donation process and ensure that all necessary information is collected accurately and efficiently. This form is a crucial part of the donation process and helps the organizers of the Global Peace Summit to process donations and communicate with donors effectively.
-</thinking>
 # Global Peace Summit Fund Donation Form - Help Guide
 ## Purpose
 The Global Peace Summit Fund Donation Form is designed to collect donations for the Global Peace Summit, a charity event promoting global peace and unity. This form is used to gather information from donors, ensuring accurate and efficient processing of donations.

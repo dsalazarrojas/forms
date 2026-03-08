@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers about their online order experience. The form is part of the "feedback_surveys" category and is titled "online_order_experience_feedback_contact_form". It seems to be a simple feedback form with various fields to gather information about the customer's experience, contact method, and feedback details. The purpose of the form is to provide a channel for customers to share their thoughts and suggestions about their online orders, which can help the business improve its services and products.
-
-Before filling out this form, please note that it's designed to be a one-time feedback submission. If you have already provided feedback, you don't need to fill out this form again. Also, please ensure that the information you provide is accurate and complete, as it will help us better understand your experience and improve our services.
-
-</thinking>
-
 # online_order_experience_feedback_contact_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their online order experience.

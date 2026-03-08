@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Valentine's Day Flower Order Form - Help Guide
 ## Purpose
 

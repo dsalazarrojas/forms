@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the "illuminati_join_application_form" form. The form appears to be a generic application form used for joining a community or organization, likely the Illuminati. It is used for collecting personal information and interests of potential members. To ensure relevance and non-duplication, users should only complete the form once they have been invited or have a clear understanding of the application process. 
-</thinking>
-
 # Illuminati Join Application Form - Help Guide
 ## Purpose
 The Illuminati Join Application Form is used for potential members to provide personal and interested-related information for consideration of membership in the Illuminati.

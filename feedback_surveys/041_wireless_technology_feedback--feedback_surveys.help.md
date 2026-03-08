@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to collect user feedback on wireless technology services, allowing users to rate the quality of service and provide input on issues they may have encountered. The form will help identify areas of improvement for the wireless service provider. This form is not intended for duplicate entries, so users are advised to only submit their feedback once. Users are also encouraged to provide as much detail as possible in their feedback to help the provider understand their concerns.
-</thinking>
-
 # Wireless Technology Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on wireless technology services, including ratings and suggestions for improvement. Your input will help the wireless service provider identify areas of improvement and provide better service.

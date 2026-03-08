@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals for their health and wellness center registration. This form will collect demographic and health-related data from the registrant, including their name, contact information, medical history, and emergency contact details. The form is designed to be completed by the individual or their representative.
-</thinking>
-
 # Health And Wellness Center Registration Form - Help Guide
 
 ## Purpose

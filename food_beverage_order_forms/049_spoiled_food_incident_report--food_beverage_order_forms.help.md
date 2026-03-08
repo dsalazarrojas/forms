@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spoiled Food Incident Report - Help Guide
 
 ## Purpose

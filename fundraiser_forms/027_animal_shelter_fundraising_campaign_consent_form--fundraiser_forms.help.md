@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a fundraising campaign at an animal shelter. It aims to gather participant details, including their name, email, phone number, and participation role in the campaign. The form also includes sections for campaign details, such as the campaign name, date, and goal. Additionally, it includes consent sections for participation, data sharing, and photo/media use. The final section is for legal acknowledgments, including waiver and liability.
-</thinking>
-
 # Animal Shelter Fundraising Campaign Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in an animal shelter fundraising campaign. It is essential to fill out this form to ensure you are aware of and agree to the terms and conditions of the campaign.

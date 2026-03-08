@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trick_or_treat_signup_form - Help Guide
 ## Purpose
 The "trick_or_treat_signup_form" is a sign-up form designed for participants to register for a fun-filled Halloween event. This form helps us gather essential information about each participant, including their name, costume, location, and treat details.

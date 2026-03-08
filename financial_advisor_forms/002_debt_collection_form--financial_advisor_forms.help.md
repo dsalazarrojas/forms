@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a debtor's details and the amount owed, which will be used for debt collection purposes. This form is typically filled out by a financial advisor or collections specialist to gather relevant information about the debtor and their employer to aid in the debt collection process. The form is designed to be completed in conjunction with other relevant documentation and procedures.
-
-Before filling out this form, please ensure that you have all the necessary information and documentation required for debt collection, and that it is not already contained in another form or record.
-
-This form is not a substitute for a legal or financial analysis, and it should not be relied upon as the sole basis for making decisions. Additionally, please note that this form is not meant for use in situations where the information collected may be considered sensitive or confidential.
-
-</thinking>
-
 # Debt Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a debtor's details and the amount owed.

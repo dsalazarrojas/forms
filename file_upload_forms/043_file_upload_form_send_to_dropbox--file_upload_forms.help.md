@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to facilitate the upload of files to various cloud storage services such as Dropbox, Google Drive, or Microsoft OneDrive. The form is intended for use by users who need to upload files for collaboration, sharing, or reference purposes. This form is not intended for general file sharing or public access.
-
-The form will help users to:
-- Choose a file type (e.g., PDF, image, or video)
-- Upload a file of a specified size
-- Select a destination cloud storage service (e.g., Dropbox, Google Drive, or Microsoft OneDrive)
-- Provide a description of the file
-- Add optional notes
-- Assign the file to a specific tool or project
-- Enter an email address or phone number for contact purposes
-
-Please note that some fields are optional, and users can choose to fill them out or skip them as needed.
-
-</thinking>
-
 # file_upload_form_send_to_dropbox - Help Guide
 ## Purpose
 The file upload form is used for uploading files to cloud storage services such as Dropbox, Google Drive, or Microsoft OneDrive for collaboration, sharing, or reference purposes.

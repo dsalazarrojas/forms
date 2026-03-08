@@ -1,5 +1,3 @@
-<thinking>As this form is designed for managing fundraising package deliveries, a user-facing guide would help ensure that users understand what this form is used for and how to fill it out correctly. This form is likely intended to track and manage the details of packages being delivered as part of a fundraising event or campaign. To avoid duplicating effort or misplacing packages, users should verify that they're filling out the correct form for the specific package being delivered.</thinking>
-
 # Fundraising Package Delivery Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect patient health profiles, which is a critical aspect of providing personalized and effective care. This form will help us understand a patient's medical history, mental health, and other important health-related information. 
-</thinking>
-
 # Health Profile Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive health-related information from patients, allowing our healthcare team to provide personalized and accurate care. 

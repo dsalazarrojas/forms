@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from individuals who participated in the anniversary giving drive. It aims to understand their experiences, satisfaction, and willingness to participate in future drives. The form's questions cover various aspects, such as the participant's involvement, satisfaction with the drive, communication, ease of donation, and potential areas for improvement. This form helps the organizers of the giving drive to make informed decisions and enhance future events.
-</thinking>
-
 # Anniversary Giving Drive Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals who participated in the anniversary giving drive. The goal is to understand their experiences, satisfaction, and willingness to participate in future drives.

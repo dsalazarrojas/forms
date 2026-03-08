@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for use by claimants to appeal the termination of their unemployment benefits. The form should only be used by claimants who have already been terminated from their benefits and want to appeal this decision. To ensure that only valid appeals are submitted, the form will be reviewed for completeness and consistency before being processed. Please complete the form carefully to avoid delays in the appeal process.
-</thinking>
-
 # Unemployment Claim Termination Appeal Form - Help Guide
 
 ## Purpose

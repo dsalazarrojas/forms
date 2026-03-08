@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect financial information from patients and medical practitioners. The purpose of this form is to ensure that both parties have a clear understanding of any financial obligations or expectations related to medical services.
- 
-The form is divided into several sections:
-• **Form Header**: This section provides a summary of the form's purpose and content.
-• **Patient Name**: This field is used to record the name of the patient.
-• **Medical Practitioner**: This field is used to record the name of the medical practitioner.
-• **Medical Practitioner Contact**: This field is used to record the contact information of the medical practitioner.
-• **Fees**: This field is used to record any fees associated with medical services.
-• **Payment Terms**: This field is used to record the payment terms agreed upon between the patient and the medical practitioner.
-• **Date Signed**: This field is used to record the date the form was signed.
-
-When filling out this form, ensure that you have all necessary information for each field and that the form is complete before submission.
-</thinking>
-
 # Financial Consent Form - Help Guide
 ## Purpose
 The Financial Consent Form is a document used to record financial information from patients and medical practitioners to ensure a clear understanding of any financial obligations or expectations related to medical services.

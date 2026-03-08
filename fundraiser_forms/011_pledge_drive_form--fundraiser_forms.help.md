@@ -1,7 +1,3 @@
-<thinking>
-We need to consider that this form is a "Pledge Drive Form" used for collecting donations or contributions from individuals. Its purpose is to gather information about the donor, such as their name, email, and payment method. The form should also allow the donor to enter their pledge amount, which is likely a commitment to contribute a specific amount. This form is likely used for fundraising purposes, such as charity events or campaigns. It's essential to ensure that the form is easy to understand and complete, with clear explanations for each field to guide the donor through the process.
-</thinking>
-
 # Pledge Drive Form - Help Guide
 ## Purpose
 The Pledge Drive Form is designed to collect donations or contributions from individuals for fundraising purposes. It gathers essential information about the donor, such as their name, email, and payment method, and allows them to commit to a specific pledge amount.

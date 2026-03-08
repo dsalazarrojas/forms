@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect essential information from program participants, including user, contact, and emergency contact details. This data will be used to facilitate communication and ensure that everyone involved can stay informed about program progress and outcomes.
-
-The Housing Repair Program Access Consent Form is used for both user registration and emergency contact purposes. It is not intended for other purposes. 
-
-Please ensure that you only complete this form once. If you have already completed this form, you do not need to do so again.
-
-</thinking>
-
 # Housing Repair Program Access Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from program participants for the Housing Repair Program. It contains essential details about the user, contact, and emergency contact information.

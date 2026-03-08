@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely for artists to submit their uniform drawings for review, feedback, and potential publication. This form might be used in a context where artists need to provide information about themselves and their work, along with a submitted drawing, and choose whether to submit it for evaluation. The purpose could be for a contest, exhibition, or other events where artwork is evaluated. To prevent duplication, the form might be designed to only allow one submission per artist per event, or to prevent artists from submitting multiple drawings for the same event. 
-</thinking>
-
 # Uniform Drawing Submission Form - Help Guide
 ## Purpose
 This form is designed for artists to submit their uniform drawings for review, feedback, and potential publication. It is intended to be used in events such as contests, exhibitions, or other artistic showcases.

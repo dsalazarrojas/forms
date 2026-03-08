@@ -1,6 +1,4 @@
-> <thinking>This form is designed to upload invoices, providing a simple and intuitive process for users to submit their invoices for processing. This form is not intended to be a comprehensive financial management tool or a replacement for existing accounting software. It is a basic form created to cater to general use cases where users need to upload invoices for processing. The form's purpose is to collect the necessary information from the user and make it easy for them to upload their invoices. To ensure accurate and efficient processing, please ensure that you only upload relevant documents and provide accurate information in the form.</thinking>
-
-# Invoice Upload Form - Help Guide
+> # Invoice Upload Form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to upload their invoices for processing. It is designed to gather essential details about the invoice, including the uploaded file, description, and upload date.
 

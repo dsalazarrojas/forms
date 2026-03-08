@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a healthcare setting, likely used for orthodontic treatments or consultations. The fields collected are generally related to patient information, treatment details, and emergency contacts. This form might be used in a private or public healthcare facility, dental clinic, or orthodontic office. It's crucial to review and understand the fields and their purpose to ensure accurate completion and compliance with healthcare regulations.
-</thinking>
-
 # Orthodontic Informed Consent Form - Help Guide
 ## Purpose
 This form is intended for patients to provide informed consent for orthodontic treatments or consultations. It collects essential information about the patient, emergency contacts, and other relevant details for treatment planning and administration.

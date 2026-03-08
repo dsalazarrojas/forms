@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a Tissue Gas Exchange Assessment, which is likely a medical evaluation used to assess the respiratory health and function of a patient. The form is intended to gather general information, symptoms and clinical findings, vital signs, respiratory support, oxygen supplementation, other medical history, allergies and medications, laboratory values, medical imaging, patient outcome, patient status, respiratory function, and patient ventilator data. This form is likely used by healthcare professionals to evaluate patients with respiratory issues.
-
-Before proceeding, please ensure that you are completing this form for the correct purpose and that you have the necessary permissions and authority to collect and use this data.
-
-Please note that this form is an AI-generated form and not affiliated with any specific form platform or medical institution. It is an original adaptation of public survey topic metadata and released under CC BY 4.0 license.
-</thinking>
-
 # Tissue Gas Exchange Assessment - Help Guide
 ## Purpose
 The Tissue Gas Exchange Assessment form is designed to collect comprehensive data on a patient's respiratory health and function. This form is intended to be used by healthcare professionals to evaluate patients with potential respiratory issues.

@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from accountants or users to upload and track accounting documents such as receipts, invoices, bank statements, and tax documents. This form ensures that the uploaded documents are properly categorized, dated, and assigned a contact person for any further clarification or questions. The form aims to streamline the process of uploading and managing these documents for internal tracking purposes.
-
-The fields in this form have been carefully crafted to gather relevant information and ensure data consistency. The fields have been divided into categories to make it easy for users to navigate and understand the required information. This form is designed for both novice and experienced users.
-
-</thinking>
 # Accounting Document Upload Form - Help Guide
 ## Purpose
 The Accounting Document Upload Form is designed to collect information from users to upload and track accounting documents for internal tracking purposes.

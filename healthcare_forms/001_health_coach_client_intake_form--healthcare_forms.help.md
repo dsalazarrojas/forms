@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from clients about their health goals, medical history, and other relevant details. The form is designed to be completed by clients who are working with a health coach, and the information gathered will help the coach understand the client's needs and provide personalized guidance. The form should not be used to gather information about clients who are not working with a health coach. This form is required to be completed to the extent necessary to provide accurate and effective coaching.
-
-</thinking>
 # Health Coach Client Intake Form - Help Guide
 ## Purpose
 This form is used to gather information from clients about their health goals, medical history, and other relevant details to help health coaches understand the client's needs and provide personalized guidance.

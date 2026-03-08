@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a public awareness campaign donation process. The form will be used to collect data from donors who want to contribute to the cause. The form is intended to be used for both one-time and recurring donations, and it will help in tracking the donor's donation history and status. This form will be used for internal purposes only, and the data collected will be used to update the donor's records and to follow up with them for future donations.
-</thinking>
-
 # public_awareness_campaign_donation_form - Help Guide
 ## Purpose
 This form is designed to collect information for a public awareness campaign donation process.

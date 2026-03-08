@@ -1,8 +1,3 @@
-<thinking>
-The "Logistics Vehicle Roadworthiness Inspection" form is a crucial document used to inspect and evaluate the roadworthiness of vehicles in logistics operations. It's essential to ensure that vehicles meet specific safety standards and are safe to operate on public roads. This form helps logistics managers and drivers to assess the condition of their vehicles, identify potential issues, and take necessary actions to rectify them.
-Before creating this help guide, please ensure that you're using the correct version of the form and that it aligns with your organization's logistics policies and procedures.
-</thinking>
-
 # Logistics Vehicle Roadworthiness Inspection - Help Guide
 ## Purpose
 The purpose of this form is to inspect and evaluate the roadworthiness of vehicles used in logistics operations. It helps to identify potential safety issues and ensure that vehicles meet specific safety standards.

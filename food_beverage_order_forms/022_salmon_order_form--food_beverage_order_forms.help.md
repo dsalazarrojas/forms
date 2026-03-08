@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed for capturing order information related to salmon orders. It is meant to collect details from both the supplier and the customer, as well as the payment terms and order status. This guide will help users understand the purpose and usage of the form.
-
-It seems like the form is used to capture a wide range of information related to salmon orders, including details from both the supplier and the customer, payment terms, and order status. This guide will help users understand how to complete the form correctly and effectively.
-
-
-</thinking>
-
 # salmon_order_form - Help Guide
 ## Purpose
 The salmon_order_form is a form used to collect information related to salmon orders, including details from suppliers and customers, payment terms, and order status.

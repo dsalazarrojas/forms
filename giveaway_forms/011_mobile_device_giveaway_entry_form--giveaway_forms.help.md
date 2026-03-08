@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and fields are derived from the provided YAML metadata, which suggests that the form is intended for participants to enter information for a mobile device giveaway. The form likely aims to collect participant information for administrative or promotional purposes.
-</thinking>
-
 # mobile_device_giveaway_entry_form - Help Guide
 ## Purpose
 This form is for participants to enter information for a mobile device giveaway. It is not affiliated with, endorsed by, or derived from any form platform, and is released under CC BY 4.0.

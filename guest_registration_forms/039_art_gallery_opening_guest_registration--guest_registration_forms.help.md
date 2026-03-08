@@ -1,13 +1,3 @@
-<thinking>
-
-The Art Gallery Opening Guest Registration form is designed to collect information from guests attending exhibitions at the gallery. This form serves as a means to manage attendance, gather contact information, and track guest preferences. To ensure that the information collected is accurate and relevant, please note that:
-
-*   This form is intended for guests attending specific exhibitions.
-*   The information collected will be used to send invitations to future events and exhibitions.
-*   The form must be completed with accurate and up-to-date information to ensure proper communication and attendance management.
-
-</thinking>
-
 # Art Gallery Opening Guest Registration - Help Guide
 ## Purpose
 The Art Gallery Opening Guest Registration form is a vital tool for us to manage attendance and guest information. It's essential to complete this form accurately and truthfully to ensure we can provide you with the best experience.

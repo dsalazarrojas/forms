@@ -1,16 +1,3 @@
-<thinking>
-This form is used for submitting creative content, such as images, videos, or documents. To ensure that your submission meets the required parameters and does not duplicate existing content, please review the form carefully before proceeding.
-
-Before filling out this form, make sure you have the necessary permissions and approvals for the content you are submitting.
-
-Please note that some fields are optional and do not affect the form's submission outcome. Only the required fields need to be filled out for a successful submission.
-
-This form is meant to be filled out by individuals who have been granted access to submit content, and only they should be able to see and interact with it.
-
-Please fill out this form carefully and accurately to avoid any errors or issues with the submission process.
-
-</thinking>
-
 # creative_content_submission_form - Help Guide
 ## Purpose
 The Creative Content Submission Form is designed to collect and review creative content submissions from users. This form helps to gather relevant information about the content, including its type, format, and upload status.

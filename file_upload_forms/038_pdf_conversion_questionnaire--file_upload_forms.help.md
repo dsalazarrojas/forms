@@ -1,7 +1,3 @@
-<thinking>
-The form is for uploading, converting, and managing PDF files. It's not just a regular file upload form. It's also used to set preferences for the conversion process, determine the level of urgency, describe the file, specify its size, and identify its type. This form is likely used in a business context where PDF files need to be converted for various reasons, such as making them more accessible or easier to work with.
-</thinking>
-
 # PDF Conversion Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about PDF files that need to be converted for various purposes.

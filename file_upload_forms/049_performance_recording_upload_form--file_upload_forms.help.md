@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is for users to provide performance recording data, specifically for uploading a recording file and associated metadata such as the performer's name, performance type, event name, and event date/time. To ensure accurate and consistent data entry, we need to ensure that users understand the form's purpose and requirements. Before proceeding, please check that you are uploading a relevant performance recording and that you have not already uploaded this recording. If you are unsure, please contact your administrator for clarification.
-
-</thinking>
-
 # Performance Recording Upload Form - Help Guide
 ## Purpose
 The Performance Recording Upload Form is used to upload performance recordings and provide metadata for easy access and reference.

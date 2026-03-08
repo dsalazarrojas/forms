@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals to track their daily anxiety levels, mood, sleep quality, coping strategies, triggers, and mental health professional. This information will help you identify patterns and trends in your anxiety levels over time. Please note that this form is not a diagnostic tool and should not be used as a substitute for professional mental health advice.
-</thinking>
-
 # Daily Anxiety Routine Checklist - Help Guide
 ## Purpose
 The Daily Anxiety Routine Checklist is a form used to monitor and track changes in anxiety levels over time. It is intended for personal use and should not be used as a diagnostic tool without consulting a mental health professional.

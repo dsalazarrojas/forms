@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Character Search And Filter Form - Help Guide
 ## Purpose
 The Character Search And Filter Form is designed to help you find characters from a large collection of characters based on various criteria. This form allows you to search for characters by name, filter them by attributes such as gender, role, alignment, and more, and sort the results by various criteria.

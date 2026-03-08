@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register handbag products, gathering information from customers and other relevant details. This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata as inspiration.
-</thinking>
-
 # Handbag Product Registration Form - Help Guide
 ## Purpose
 The Handbag Product Registration Form is designed to collect customer and product information for handbag products. This form will help you gather essential details about the customer and the product itself, including ownership and purchase details, and even allow you to upload files related to the handbag.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inspecting and reporting on the status of smoke detectors in a building. The form should only be used for this specific purpose and not for other types of inspections. Each field in this form is essential in providing a thorough assessment of the smoke detector system and its status. This form should not be used for other types of inspections or for collecting other types of data.
-</thinking>
-
 # smoke_detector_inspection_form - Help Guide
 ## Purpose
 The "Smoke Detector Inspection Form" is used to inspect and report on the status of smoke detectors in a building. This includes checking the functionality, type, and location of smoke detectors, as well as the status of the fire safety system.

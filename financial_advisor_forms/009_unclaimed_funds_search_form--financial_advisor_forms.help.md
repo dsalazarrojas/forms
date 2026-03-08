@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and fields.
-
-The Unclaimed Funds Search Form is designed to search for unclaimed funds on behalf of account holders. The form is intended to help users find unclaimed funds by providing a structured way to search for account holders, their contact information, and search details. This form will likely be used by financial advisors, accountants, or other professionals who need to track and manage unclaimed funds for their clients.
-
-To avoid duplication of effort, users should ensure that they are not searching for the same account holder or unclaimed funds. This form should only be used for legitimate searches and not for mass searching or spamming.
-
-The purpose of this form is to help users find and track unclaimed funds efficiently and effectively. The form is designed to gather relevant information from the user, which will then be used to search for the unclaimed funds. By using this form, users can quickly and accurately find the information they need.</thinking>
-
 # Unclaimed Funds Search Form - Help Guide
 ## Purpose
 The Unclaimed Funds Search Form is designed to search for unclaimed funds on behalf of account holders. This form helps users find and track unclaimed funds by gathering relevant information from the user.

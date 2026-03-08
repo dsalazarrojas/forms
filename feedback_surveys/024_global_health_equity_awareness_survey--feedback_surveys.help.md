@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and survey data from users to raise awareness about global health equity issues. This form is designed to gather information on various aspects of health equity, including demographics, preferences, and opinions. The data collected will be used to understand the perspectives and experiences of users and to inform future initiatives to address health equity.
-
-Before starting the survey, please note that:
-
-* This survey is entirely optional and anonymous.
-* All responses will be treated confidentially.
-* The survey should take approximately 5-10 minutes to complete.
-
-</thinking>
-
 # Global Health Equity Awareness Survey - Help Guide
 ## Purpose
 The Global Health Equity Awareness Survey is designed to collect feedback and survey data from users to raise awareness about global health equity issues.

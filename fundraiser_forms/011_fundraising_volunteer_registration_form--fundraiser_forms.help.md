@@ -1,6 +1,3 @@
-<thinking>
-This form is used for volunteer registration. The form will ask you for information about yourself, the event, and your volunteer experience. Please ensure you are completing the form accurately, and do not submit duplicates. If you have registered as a volunteer before, please do not submit this form again.
-</thinking>
 # fundraising_volunteer_registration_form - Help Guide
 ## Purpose
 The fundraising volunteer registration form is used for volunteers to provide their information and details about their volunteer experience.

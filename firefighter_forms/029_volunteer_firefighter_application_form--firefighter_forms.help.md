@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from potential volunteer firefighters, including their personal contact information, emergency contact information, availability to volunteer, medical certifications, skills, and experience as a firefighter. This form is likely used to vet potential volunteers and gather information for recruitment and training purposes. 
-
-Before filling out the form, make sure you are eligible to volunteer as a firefighter and that you have the necessary medical certifications and skills. This form is not a duplicate of any other form, and filling it out will not affect your application to other departments or organizations.
-
-</thinking>
-
 # Volunteer Firefighter Application Form - Help Guide
 ## Purpose
 The Volunteer Firefighter Application Form is designed to collect information from potential volunteer firefighters, including their personal contact information, emergency contact information, availability to volunteer, medical certifications, skills, and experience as a firefighter.

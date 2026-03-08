@@ -1,12 +1,3 @@
-<thinking>...
-
-The purpose of this form is to gather feedback about the response content from users, which can be useful for improving the response quality and overall interaction experience. To ensure that the feedback is relevant and not duplicated, please consider the following:
-
-* Only complete the form for response content that you have previously interacted with (e.g., read, written, or discussed).
-* If you have already submitted feedback for the same content, please do not resubmit.
-
-</thinking>
-
 # Response Content Feedback Survey - Help Guide
 ## Purpose
 The Response Content Feedback Survey is a tool to gather feedback about response content from users, helping to improve the response quality and overall interaction experience.

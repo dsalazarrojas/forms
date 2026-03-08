@@ -1,6 +1,4 @@
-## <thinking>...</thinking>
-
-The form is intended to collect feedback from end-users regarding issues they have encountered while using our product. The form is called "Screen Capture Feedback Form" and is used by our team to gather information about bugs, suggestions, or feedback on our product. This form is not meant to be a replacement for the actual issue-tracking system, but rather a means to provide our team with additional context and insights on how to improve the product. 
+## The form is intended to collect feedback from end-users regarding issues they have encountered while using our product. The form is called "Screen Capture Feedback Form" and is used by our team to gather information about bugs, suggestions, or feedback on our product. This form is not meant to be a replacement for the actual issue-tracking system, but rather a means to provide our team with additional context and insights on how to improve the product. 
 
 To ensure that the feedback is relevant and non-duplication, please only fill out this form if you have not already reported the issue via our issue-tracking system or if you have additional information that you would like to share with our team.
 

@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to collect information for a well inspection report. The purpose of this form is to gather data on the condition and maintenance status of a well, including its location, depth, and screening details. The form is used by inspectors to provide a comprehensive report on the well's status, which can be used by facility managers or maintenance personnel to plan and execute necessary repairs or upgrades.
-
-To avoid duplication and ensure accuracy, this form should only be used for inspecting a specific well and not for other types of maintenance or inspection activities. 
-
-</thinking>
-
 # well_inspection_report - Help Guide
 ## Purpose
 This form is used to collect information for a well inspection report, which is essential for facility managers and maintenance personnel to assess the condition and maintenance status of a well.

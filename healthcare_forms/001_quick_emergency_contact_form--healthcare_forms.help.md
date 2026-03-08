@@ -1,7 +1,3 @@
-<thinking>
-The "quick_emergency_contact_form" form is used to collect contact information for emergency contacts, such as family members, friends, or coworkers, in case of emergencies. This form is likely used in healthcare settings to gather relevant contact details for patients or employees. The purpose of this form is to provide a structured way to collect and store emergency contact information, which can be useful in critical situations.
-</thinking>
-
 # quick_emergency_contact_form - Help Guide
 ## Purpose
 The "quick_emergency_contact_form" is designed to collect contact information for emergency contacts, such as family members, friends, or coworkers, in case of emergencies.

@@ -1,15 +1,3 @@
-<thinking>
-
-To confirm, this form is designed for financial services agents to register themselves with the system, providing necessary information about themselves and their agency. This form will be used to store and process agent data for internal purposes. Please let me know if this is correct and if I should add any specific sections or details.
-
-The form has a mix of required and optional fields, including contact information (agent name, agency name, email, phone), social media links, agent type, agent licensing status, license number, employer and position, agent termination status, and more. 
-
-Before proceeding, ensure that each field has a clear label and a concise explanation. If a field has a weak or unclear label, provide a best-effort explanation of the field's intent without inventing unsupported business logic.
-
-Please confirm before outputting the final help guide.
-
-</thinking>
-
 # Financial Services Agent Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from financial services agents for the purpose of registering them with the system. It captures contact details, social media links, agent type, license status, and other relevant information for internal processing and reference.

@@ -1,26 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Reusable Takeout Container Order Form. This form is designed to collect information from customers for the purpose of placing orders for reusable takeout containers. The form is intended for customers to provide details such as the name of the restaurant, whether they have selected pickup or delivery, details of the order (including date and time), and payment information. The form has a series of questions that are categorized into different sections: restaurant information, order details, and payment information.
-
-When filling out this form, users need to provide accurate information for the following fields:
-
-*   Restaurant name and details
-*   Pickup or delivery preference
-*   Specific container type and quantity
-*   Order date and time
-*   Subtotal and tax amount
-*   Total price
-*   Preferred payment method
-
-The following are some general tips:
-
-*   Double-check all fields for accuracy before submission
-*   Ensure that container quantities are correct to avoid discrepancies
-*   Review order details for accuracy
-*   Confirm payment method
-
-This guide will cover each section in detail to ensure a smooth user experience.
-</thinking>
-
 # Reusable Takeout Container Order Form - Help Guide
 
 ## Purpose

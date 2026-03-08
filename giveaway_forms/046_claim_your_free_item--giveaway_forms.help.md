@@ -1,6 +1,3 @@
-<thinking>
-This form is used to facilitate the process of claiming a free item for customers. The form is designed to collect relevant information from the claimant, including their name, shipping address, email, phone number, item choice, coupon code, eligibility confirmation, expected delivery timeframe, consent to use data for fulfillment, and submission date. This information will be used to verify the claimant's eligibility and process the free item order. Please ensure that you have the necessary authorization to claim the free item before submitting this form.</thinking>
-
 # Claim Your Free Item - Help Guide
 ## Purpose
 This form is used to claim a free item for customers. Fill out the form with your information to start the claim process.

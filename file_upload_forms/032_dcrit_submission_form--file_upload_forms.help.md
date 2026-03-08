@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-This form is designed for users to submit projects for review. It is essential to ensure that the projects submitted align with the specified category ("file_upload_forms") and are not duplicates. Submitters must provide accurate and detailed information about their projects. This form is intended for internal use and should only be used for submissions within the "file_upload_forms" category.
-</thinking>
-
 # Dcrit Submission Form - Help Guide
 
 ## Purpose

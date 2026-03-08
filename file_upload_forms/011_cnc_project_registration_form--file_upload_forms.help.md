@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CNC Project Registration Form - Help Guide
 
 ## Purpose

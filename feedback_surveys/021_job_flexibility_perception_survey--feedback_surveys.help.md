@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather insights on an individual's perception of job flexibility, specifically in regards to work-from-home options, start and end times, work hours, work days, hours per day, flexible start and end times, days off, and hours off. The form aims to understand how employees feel about their work flexibility and what factors influence their perceptions. It's essential that this form is completed accurately to provide valuable data for further analysis and decision-making. Please ensure that you're filling out this survey for the correct purpose and not duplicating your response.
-
-</thinking>
-
 # Job Flexibility Perception Survey - Help Guide
 
 ## Purpose

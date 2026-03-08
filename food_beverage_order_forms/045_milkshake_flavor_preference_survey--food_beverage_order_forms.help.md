@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by end users, and that the form's purpose and each field's intent is clear. This guide will help users understand the form's purpose and how to complete it accurately. We will base our explanations on the provided YAML fields, focusing on making each explanation concise and practical.
-
-</thinking>
-
 # Milkshake Flavor Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their flavor preferences for milkshakes. It helps us understand which flavors are most popular among our customers and what they think about our current offerings. Please take a few minutes to complete this survey and let us know about your preferences!

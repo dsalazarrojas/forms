@@ -1,11 +1,3 @@
-<thinking>... (Form Purpose and Relevance)
-
-This form is intended to collect information from users regarding donation requests, including contact details and payment preferences. The form is designed to be used for internal communication purposes within the organization, ensuring that the team is aware of the donation requests and can follow up accordingly.
-
-Before filling out this form, please ensure that you are not duplicating an existing request or that you have not already communicated with the relevant team member. To fill out this form, simply click on the "Submit" button when you have completed the form.
-
-...</thinking>
-
 # Donation Request Communication Form - Help Guide
 ## Purpose
 The form is used to collect information from users regarding donation requests, including contact details and payment preferences.

@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect donations for a legislative awareness campaign. This form is not intended for duplicate submitters or automated submissions. Please review the form thoroughly before submitting. ...</thinking>
-
 # Legislative Awareness Campaign Fund Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations for the Legislative Awareness Campaign, a fund established to support efforts to raise awareness about legislative issues.

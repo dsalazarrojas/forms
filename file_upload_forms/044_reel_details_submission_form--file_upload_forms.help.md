@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect detailed information about a reel, which is a digital media content piece. The form is intended for users who are creating or editing a reel and need to provide various details about it. The form is not mandatory, but it's recommended to fill it out for accurate and complete information.
 
 </thinking>

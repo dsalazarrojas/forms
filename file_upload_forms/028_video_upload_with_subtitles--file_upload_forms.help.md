@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created to help users upload videos with subtitles. The form will collect information about the video, including its title, subtitle language, and file information. The purpose of this form is to ensure that uploaded videos meet the required standards and guidelines.
-
-This form is designed for users who want to upload videos with subtitles to share with others or use for educational purposes. It is not affiliated with or endorsed by any form platform, and it is released under a Creative Commons license for free use, modification, and distribution.
-
-The form has multiple fields that require user input, and users need to fill out each field carefully to ensure accurate and complete information.
-
-</thinking>
-
 # video-upload-with-subtitles - Help Guide
 ## Purpose
 This form is designed to collect information about videos with subtitles that meet the required standards and guidelines.

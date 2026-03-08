@@ -1,12 +1,4 @@
-# <thinking>
-
-The purpose of this form is to create a care plan for a patient's nutrition needs, including medical history, goals, and interventions. This form should only be used for patients who are being treated for nutrition-related conditions or who need to monitor their eating habits for specific health conditions.
-
-This form should only be used for patients who are currently being treated for nutrition-related conditions or have a medical history that requires careful monitoring of their diet. Please do not fill out this form if you do not have a valid reason to do so.
-
-</thinking>
-
-# Nutrition Care Plan Form - Help Guide
+# # Nutrition Care Plan Form - Help Guide
 ## Purpose
 The Nutrition Care Plan Form is designed to help healthcare professionals create a comprehensive care plan for patients with specific nutrition-related needs. This form gathers information about the patient's medical history, dietary requirements, and goals, allowing healthcare professionals to provide personalized guidance and support.
 

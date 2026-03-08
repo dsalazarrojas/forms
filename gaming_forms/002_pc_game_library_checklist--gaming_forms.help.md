@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting information about PC games, specifically for tracking games within a library. The purpose of this form is to gather data on games, their platforms, titles, developers, publishers, release dates, playtime, and other relevant details. The form likely aims to provide a comprehensive overview of the games in the library. I will ensure that this guide is clear and concise, explaining each field in detail to help users understand the form's requirements.
-</thinking>
-
 # pc_game_library_checklist - Help Guide
 ## Purpose
 The pc_game_library_checklist form is a tool for tracking and documenting PC games within a library. This form allows you to gather information about each game, including its platform, title, developer, release date, and other relevant details.

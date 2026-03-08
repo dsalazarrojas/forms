@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students, parents, or staff members about their experience at the school graduation ceremony. The purpose of this form is to gather opinions, suggestions, and ratings to improve the quality and organization of future graduation ceremonies. This form will help the school administration understand what went well and what didn't, allowing them to make informed decisions for the next ceremony. It is crucial that this form is completed accurately and honestly, as the feedback will be used to enhance the graduation experience for all participants.
-
-</thinking>
-
 # School Graduation Ceremony Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from students, parents, and staff about their experience at the school graduation ceremony. It will help the school administration understand what went well and what can be improved for future events.

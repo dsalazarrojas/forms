@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting talks for the TEDx conference, collecting information about the speaker and their proposed talk. This form does not require authentication, meaning that anyone can fill it out. However, it's recommended to ensure that only valid submissions are made. Submitters need to fill in a series of text fields providing information about themselves and their talk.
-</thinking>
-
 # tedx_talk_submission_form - Help Guide
 ## Purpose
 The tedx_talk_submission_form is used to collect information about speakers and their proposed talks for the TEDx conference.

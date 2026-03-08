@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Partnership Facilities Audit Survey - Help Guide
 
 ## Purpose

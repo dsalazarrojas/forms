@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users about the flavor of a new beverage. The form is part of an internal process to gather information about customer experiences and preferences. To ensure that we receive meaningful and diverse feedback, please complete the form only once per person.
-
-Before starting, please be aware that some fields are mandatory and are marked as such.
-
-</thinking>
-
 # new_beverage_flavor_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about the flavor of a new beverage from customers. Your input will help us understand their experiences and preferences, enabling us to improve our products.

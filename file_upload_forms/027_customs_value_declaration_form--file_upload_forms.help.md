@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect data related to a shipment, including details about the shipment, customs declaration, and other relevant information. This form is likely used for customs clearance or other regulatory purposes. It is essential to ensure that the form is filled out accurately and completely to prevent any issues or delays in the customs clearance process.</thinking>
-
 # Customs Value Declaration Form - Help Guide
 ## Purpose
 This form is used to collect and declare the customs value of a shipment for customs clearance purposes.

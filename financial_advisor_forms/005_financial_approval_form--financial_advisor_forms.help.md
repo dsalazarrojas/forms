@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather financial information from users, including budget requests, expense reimbursement, funding allocation, and approval status. It will likely be used by financial advisors or accountants to review and approve financial requests. To ensure accurate completion, users should review the form carefully and fill out all required fields. Please ensure that you do not duplicate efforts or provide incomplete information that may cause delays in the approval process.
-</thinking>
-
 # Financial Approval Form - Help Guide
 ## Purpose
 The Financial Approval Form is a crucial document used to gather and track financial information. It helps financial advisors and accountants make informed decisions regarding budget requests, expense reimbursement, and funding allocation.

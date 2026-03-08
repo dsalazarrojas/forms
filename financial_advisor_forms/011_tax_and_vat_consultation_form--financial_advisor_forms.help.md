@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax and VAT Consultation Form - Help Guide
 
 ## Purpose

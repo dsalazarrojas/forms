@@ -1,7 +1,3 @@
-<thinking>
-We must carefully consider the purpose and requirements for this "Applicant Supplementary Material Upload Form" to ensure we are providing accurate and clear guidance for end-users. This form is used to collect additional materials submitted by applicants, which may include academic transcripts, professional certifications, portfolio, recommendation letters, proof of identity, and financial support documents. It's essential to ensure that the form is completed correctly, as the provided materials will be used to support the application process. To prevent duplication, we need to make sure that the form is only used once for each application. We should also note that there are upload instructions and size limits, which should be clearly communicated to the users.
-</thinking>
-
 # Applicant Supplementary Material Upload Form - Help Guide
 
 ## Purpose

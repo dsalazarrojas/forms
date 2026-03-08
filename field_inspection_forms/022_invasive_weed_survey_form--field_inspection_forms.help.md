@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, we should consider the context in which it's being used. This form is likely related to monitoring and management of invasive weeds, which can be a significant environmental concern. Considering the fields provided, it seems to be a structured form for collecting data about invasive weed sightings. 
-
-Given the fields, it's reasonable to assume that the purpose of this form is to collect information about the sighting of invasive weeds, including details about the species, location, and follow-up status. However, without further context, it's difficult to confirm the exact purpose with certainty. 
-
-For non-duplication, we'll focus on creating a clear and concise help guide that explains each field in detail, without repeating information that might be implied by the field names.
-
-</thinking>
-
 # Invasive Weed Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about sightings of invasive weeds. This data will help in monitoring and managing invasive weed populations.

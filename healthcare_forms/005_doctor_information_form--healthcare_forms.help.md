@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare professionals, specifically doctors, to gather their contact and medical details. The form is divided into three sections, each focusing on a different aspect of a doctor's information: Contact Information, Medical Information, and Medical Specialty. This form ensures that all required fields are completed to maintain accurate and up-to-date information in the system. It's crucial to fill this form carefully, as the information provided will be used for various purposes within the healthcare system.
-
-To avoid duplication and ensure the accuracy of the information, this form should only be filled out once. Please review the form carefully before submitting it.
-</thinking>
-
 # doctor information form - Help Guide
 ## Purpose
 This form is designed to collect contact and medical information from doctors to be stored in the system.

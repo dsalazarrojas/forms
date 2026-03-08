@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about an event's lunch pre-order requirements. The purpose of the form is to collect event details, contact information, dietary needs, and payment preferences. To complete this form, follow the instructions below.
-
-This form is used for internal purposes, so it's essential to ensure that the information is accurate and up-to-date. Before filling out the form, please make sure you have all the necessary details and that the data entered is correct.
-
-The form has six sections: Event Details, Contact Details, Lunch Choices, Food Needs, Payment Details, and Submit Form. Each section is explained below.
-
-</thinking>
-
 # Craft Event Lunch Pre Order - Help Guide
 ## Purpose
 

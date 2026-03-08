@@ -1,13 +1,3 @@
-<thinking>
-This form is used for inspecting a chipper, which is a type of heavy equipment used in various industries such as construction, agriculture, or waste management. The form's purpose is to collect data on the condition of the chipper, its components, and its overall functionality. This data will help identify potential issues, assess the equipment's safety and efficiency, and determine necessary maintenance or repairs.
-
-The form is designed to be comprehensive, but not exhaustive. It covers various aspects of the chipper's condition, including its basic information, mechanical inspection, safety features, and functional tests. The form's fields are organized into different categories for easy reference.
-
-Before completing this form, ensure you have the necessary information and access to the relevant sections of the chipper. The form should not be used for inspections that are not conducted in person, as it requires hands-on examination of the equipment.
-
-This guide is designed to help you understand the form's purpose and how to complete it accurately.
-</thinking>
-
 # Chipper Inspection Checklist - Help Guide
 ## Purpose
 This form is used to inspect a chipper and document its condition, safety, and functionality.

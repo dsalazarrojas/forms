@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for healthcare professionals to assess the characteristics of a wound on a patient's body. The form will help gather information on the patient's general information, wound characteristics, location, size and depth, surface, edges, base, base color, patient condition, allergies, treatment and rehabilitation plans, complications, wound care, vaccinations, medications, and notes. This information will aid in creating a comprehensive wound assessment report.
-
-</thinking>
-
 # Wound Assessment Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from students or staff members who are ordering graduation apparel, such as caps, gowns, and robes. The form is used to capture essential details, including the type of graduation apparel, graduation year, and order quantity, as well as payment method and order status. The form also allows users to provide additional comments or special requests.
-The fields on this form are organized into several sections to guide the user through the process. To complete this form, the user will select the type of graduation apparel they want to order, enter their name and contact information, and provide a graduation year, date, and time if applicable. They will also choose a payment method and select the order status, which will indicate whether the order is in draft, completed, or approved status. Additionally, users can provide additional comments or special requests for their graduation order.
-</thinking>
-
 # Graduation Apparel Order Form Template - Help Guide
 
 ## Purpose

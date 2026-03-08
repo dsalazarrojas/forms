@@ -1,5 +1,3 @@
-<thinking> This form is designed to help staff at an organization or non-profit gather information about their donors, their contact information, and the frequency and style of follow-up communications. The form is part of a Donor Outreach process, which aims to build relationships with donors and keep them informed about the organization's work. Before proceeding, please note that this form should only be used for donors who are already registered in the system and have a clear outreach strategy in place. Duplicate entries for the same donor should be avoided. </thinking>
-
 # Donor Outreach Checklist - Help Guide
 ## Purpose
 This form is used to gather information about donors, their contact details, and follow-up schedules to ensure effective communication and relationship building.

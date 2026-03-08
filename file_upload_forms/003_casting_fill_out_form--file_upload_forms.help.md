@@ -1,12 +1,3 @@
-<thinking>
-We will be creating a help guide for a form designed to collect information for casting purposes. The form is intended for actors to provide their details, and will be used by the casting team to review and evaluate their submissions. The form is divided into several sections, each focusing on different aspects of the actor's information and materials required for casting purposes. 
-
-The form includes fields for actor details such as full legal name, stage name, phone number, email address, union affiliation, talent agency or agent name, height, eye color, hair color, materials and links such as demo reel link, online resume link, and special skills. The form also includes a note for uploading a headshot and a note for primary location base. 
-
-The form is designed to be completed by actors, and the fields are intended to provide the casting team with necessary information to review and evaluate their submissions.
-
-</thinking>
-
 # Casting Fill Out Form - Help Guide
 ## Purpose
 This form is designed to collect information from actors for casting purposes. It is intended to gather details about the actor's personal and professional information, as well as their materials and links, to help the casting team evaluate their submissions.

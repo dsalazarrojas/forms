@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely to be used by a company that provides or recommends vehicles with speed limiters to their customers. Speed limiters are devices fitted into vehicles to limit the vehicle's top speed. This form is probably for owners or fleet managers to register or report information about a vehicle's speed limiter installation. It might be used for warranty registration, maintenance, or administrative purposes.
-
-</thinking>
-
 # Vehicle Speed Limiter Registration - Help Guide
 ## Purpose
 This form is for registering or reporting information about a vehicle's speed limiter installation. The form will help the company track and manage the speed limiter details for their vehicles.

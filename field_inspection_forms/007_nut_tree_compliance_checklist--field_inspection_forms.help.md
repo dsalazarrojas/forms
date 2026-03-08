@@ -1,20 +1,3 @@
-<thinking>
-## Internal Note
-
-This form is designed to gather data for field inspections related to nut trees. It consists of multiple pages, each with various types of fields to collect information relevant to the orchard management and inspection process.
-
-Before filling out this form, ensure that you have reviewed the orchard inspection procedures and guidelines to get the most out of this form.
-
-This form includes pages with the following types of fields:
-
-* Multiple-choice questions with options (e.g., "Yes/No" questions)
-* Select-one questions with specific options
-* Text fields for notes and free-form responses
-* Date and time fields for tracking inspection dates and times
-* Email fields for contact information
-
-</thinking>
-
 # Nut Tree Compliance Checklist - Help Guide
 
 ## Purpose

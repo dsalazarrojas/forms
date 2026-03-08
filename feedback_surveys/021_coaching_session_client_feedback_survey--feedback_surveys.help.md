@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from clients after a coaching session. The form asks clients to provide their name, the coach's name, the date of the session, and details about the session, such as the overall rating of the session, the coach's preparation, and the client's experience of the session's relevance to their goals. The form also asks for feedback on the coach's performance, the client's experience of the session's pace, and the coach's listening skills. Additionally, it allows clients to provide suggestions for improvements to the session and the coach. The form is intended to be completed by the client after the session and is used by the coach to understand their experience and improve their practice. 
-
-To prevent duplication, this form can be sent after each session, so clients can provide feedback on each session separately.
-</thinking>
-
 # Coaching Session Client Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients after a coaching session. The feedback will be used by the coach to understand the client's experience and improve their practice.

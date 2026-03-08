@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's cardiovascular risk factors and provide a comprehensive evaluation of their overall risk profile. To complete this form, the individual will be asked to provide demographic information, medical history, lifestyle factors, and other relevant details. This information will help healthcare professionals identify potential risks and tailor prevention strategies accordingly. By providing accurate and detailed answers, the individual will receive a more accurate assessment and personalized recommendations to reduce their cardiovascular risk. This form is intended for routine screenings, pre-employment physicals, insurance requirements, personal health monitoring, or physician recommendations, and referrals. Please provide answers accurately and thoroughly to ensure the best possible evaluation of your cardiovascular health.
-</thinking>
-
 # Cardiovascular Risk Assessment Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Year's Goals Form Template - Help Guide
 ## Purpose
 The New Year's Goals Form Template is designed to help you set and track your goals for the upcoming year. This form will guide you through the process of defining your goals, categorizing them, and setting target dates and frequencies. By using this template, you can create a clear plan for achieving your objectives and make progress throughout the year.

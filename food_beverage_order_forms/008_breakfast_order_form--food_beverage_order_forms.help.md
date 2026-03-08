@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is used to collect orders from customers for breakfast items, including eggs, pancakes, waffles, bacon, sausage, toast, bread, fruits, beverages, coffee, and other special requests. The form requires fields for customer name, email, phone number, order type, delivery or pick-up details, desired order date, preferred order time, egg preferences, pancake or waffle options, toppings, bacon or sausage options, toast or bread options, fruit options, beverage choices, coffee preparation, dietary restrictions, special requests, and payment method. This form is designed to ensure customers can specify their preferences and dietary needs accurately and comfortably.
-</thinking>
-
 # Breakfast Order Form - Help Guide
 ## Purpose
 The Breakfast Order Form is a tool to collect customer orders for breakfast items. This form requires customers to provide their name, contact information, order details, and payment method to process their order.

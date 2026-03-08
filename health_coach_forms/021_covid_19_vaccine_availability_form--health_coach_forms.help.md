@@ -1,8 +1,3 @@
-<thinking>
-We're checking if this form is relevant to your needs and if you've already submitted a similar form. This form is designed to collect information about patients' health status and preferences for COVID-19 vaccination. It's essential to complete this form accurately to ensure you receive the right care and assistance. Please review the form carefully and ensure you haven't already submitted a similar form.
-
-</thinking>
-
 # COVID 19 Vaccine Availability Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers determine your eligibility for COVID-19 vaccination and provide you with guidance on accessing vaccination services.

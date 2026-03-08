@@ -1,10 +1,3 @@
-<thinking>
-This form is used to order regalia for graduation events. The purpose of this form is to collect information from students or staff about their regalia preferences, such as regalia type, color, size, and package type. The form is intended to be completed by students or staff who need regalia for their graduation ceremony. It is likely to be used during a specific time period, e.g. graduation season, and the submitted data will be used to fulfill the regalia order and ensure that the correct regalia is available for pickup or delivery.
-
-To avoid duplication of orders, the form should not be completed multiple times by the same individual. 
-
-</thinking>
-
 # University Bookstore Regalia Order Form - Help Guide
 ## Purpose
 This form is used to collect information for regalia orders during graduation events. Please fill out the form carefully to ensure accurate order fulfillment.

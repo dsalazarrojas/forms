@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concept Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on a concept or idea, providing an opportunity to assess its strengths, weaknesses, and potential areas for improvement. The survey aims to understand how well the concept aligns with the respondent's expectations and identify potential blind spots or concerns.

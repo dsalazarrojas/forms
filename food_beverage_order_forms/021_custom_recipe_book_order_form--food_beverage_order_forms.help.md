@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture order information for a custom recipe book. The form allows users to enter their personal details (first name, last name, email, address, phone number) and order-specific information such as category, quantity, price, and notes. The form also includes fields for date and time of the order, as well as the assigned tool or category ID. This form is meant to facilitate the creation and management of custom recipe books. Before we dive into the details, let's ensure that this form is being used for its intended purpose and not for other purposes, such as user registration or password recovery.</thinking>
-
 # Custom Recipe Book Order Form - Help Guide
 
 ## Purpose

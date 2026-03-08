@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to enable individuals and committees to declare their fundraising activities, providing detailed information about the campaigns they are raising funds for, including the total gross proceeds raised, total activity expenses, and net proceeds realized. This helps ensure that campaign finance laws are adhered to, and the form serves as a means to document and report fundraising activities accurately. This form should only be filled out by authorized individuals or committees that are registered and in good standing with the relevant authorities. 
-The form is designed to be completed in a step-by-step manner, with each section catering to a specific aspect of the fundraising activity. It is essential to fill out the form accurately and truthfully to ensure the integrity of the declaration.
-The form includes various sections, such as committee and candidate information, fundraising event details, financial summaries, and compliance acknowledgments. Each section requires specific information, including the candidate or committee name, treasurer's full name and email, description of the fundraising event or activity, total gross proceeds raised, total activity expenses, net proceeds realized, breakdown of funding sources, and compliance acknowledgment.
-To complete the form, users will need to fill out each section accurately and truthfully, providing detailed information about their fundraising activities. It is recommended to review the form carefully and ensure that all required fields are completed before submitting it.
-The form is a critical document that requires attention to detail and accuracy. Users should take their time to fill it out carefully, ensuring that all the required information is provided, and the declarations made are accurate and truthful.
-</thinking>
-
 # Campaign Fundraising Declaration Form - Help Guide
 ## Purpose
 The Campaign Fundraising Declaration Form is a document designed to be completed by individuals and committees to declare their fundraising activities. It is a critical tool to ensure that campaign finance laws are adhered to, and the fundraising activities are reported accurately.

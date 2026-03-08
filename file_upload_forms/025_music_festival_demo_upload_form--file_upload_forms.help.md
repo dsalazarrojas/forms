@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to allow users to upload and manage music festival demo files. It appears to be a comprehensive form for handling various aspects of music festival demo uploads, including artist information, music details, and other relevant metadata. To ensure that the form is used correctly, we should review its fields and their meanings to provide a clear guide for end-users.
-
-The form seems to be designed for internal use within an organization, possibly for administrative or organizational purposes. There is no obvious indication of a public-facing form, so it's possible that this form is for internal use within the organization. Before proceeding, let's review each field to provide a clear and concise help guide for end-users.
-
-</thinking>
-
 # Music Festival Demo Upload Form - Help Guide
 ## Purpose
 This form is designed for uploading and managing music festival demo files within the organization. It helps track and process various aspects of music festival demos, including artist and music information.

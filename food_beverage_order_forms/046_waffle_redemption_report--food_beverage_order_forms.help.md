@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a waffle redemption report, likely used in a business or retail setting. It captures customer data, order details, and redemption specifics such as payment method and order status. The form appears to be used for tracking and managing customer redemptions, possibly for loyalty programs or promotions. However, it may also be used for general business record-keeping or customer service purposes. The form has a mix of required and optional fields, which suggests that some information is critical for the business process, while others might be supplementary or optional.
-</thinking>
-
 # Waffle Redemption Report - Help Guide
 ## Purpose
 The Waffle Redemption Report form is used to record and track customer redemptions, capturing essential customer and order details for business management purposes.

@@ -1,34 +1,3 @@
-<thinking>
-This form is used to report gaming-related issues or concerns to the platform's moderators. It's essential for users to report any suspicious or unwanted behavior, harassment, or other issues that may affect the gaming experience. Before proceeding, please ensure that you haven't reported the same incident multiple times or that the report hasn't already been resolved.
-
-The purpose of this form is to provide moderators with the necessary information to address these incidents efficiently. By filling out this form, you're helping to maintain a safe and respectful community.
-
-When filling out this form, be as detailed as possible, and make sure to answer all required fields, marked with an asterisk (*). If you need help with a specific field, feel free to reach out to the moderators for assistance.
-
-To submit your report, follow these steps:
-
-1. Select the Player ID of the user involved in the incident.
-2. Enter the Player Name, if available.
-3. Choose the type of incident you're reporting (e.g., harassment, cheating, etc.).
-4. Provide a detailed description of the incident.
-5. If relevant, share a Screenshot URL for evidence.
-6. Select the reason for reporting the issue.
-7. If desired, add a Player Message or Moderator Message.
-8. Set the Date and Time the issue was reported.
-9. Specify the Report Status (resolved or pending).
-10. Optionally, provide a Close Date, Moderator Name, and Moderator Note.
-11. Enter the Report ID, if available.
-12. Specify the tool or user assigned to handle the issue.
-13. Specify the user assigned to handle the issue.
-14. Enter the Close Reason, if applicable.
-15. Indicate if the issue has been resolved.
-16. Select the time the issue was created.
-17. Specify the user who created the report.
-18. Specify the user who last updated the report.
-19. Specify the user who deleted the report, if applicable.
-20. Specify the user who created the report.
-</thinking>
-
 # gaming_caution_report_form - Help Guide
 ## Purpose
 The gaming_caution_report_form is a tool used to report gaming-related issues or concerns to the platform's moderators.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dropbox Insurance Upload Form - Help Guide
 
 ## Purpose

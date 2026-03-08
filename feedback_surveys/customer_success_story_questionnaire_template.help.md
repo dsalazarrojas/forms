@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # customer_success_story_questionnaire_template - Help Guide
 
 ## Purpose

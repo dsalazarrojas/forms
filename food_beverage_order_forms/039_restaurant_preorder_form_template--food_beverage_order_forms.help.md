@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect customer information and order details for a restaurant's preorder system. The form's purpose is to gather essential data from customers, including customer contact information and order specifics, to facilitate a smooth and efficient ordering process. The form will be used by restaurant staff to collect and process orders from customers. 
-
-The form will likely be used in a restaurant setting where customers can pre-order food and drinks before arriving at the restaurant. This could be used for catering services, events, or even dine-in orders. 
-
-This form does not collect payment information, as it is not necessary for the preorder process. However, it does have a field for customers to leave comments, which can be useful for special requests or feedback. 
-
-It's worth noting that the form's "Order Status" field is optional, which may seem counterintuitive for a preorder form. A possible interpretation is that this field allows customers to specify their order's status in real-time, allowing the restaurant to better manage their orders and communicate with the customer.
-
-To avoid duplication and ensure the form meets the needs of the restaurant, it's recommended to review the form's purpose and functionality with the restaurant staff before finalizing its use.
-</thinking>
-
 # restaurant_preorder_form_template - Help Guide
 ## Purpose
 The restaurant preorder form is designed to collect customer information and order details for a restaurant's preorder system. The form will be used by restaurant staff to collect and process orders from customers.

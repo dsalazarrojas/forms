@@ -1,14 +1,3 @@
-<thinking>
-This guide will provide a step-by-step explanation of the Halloween Nail Pre-Order Form, including its purpose, how to complete it, and an explanation of each field. 
-
-The form is designed for customers to pre-order Halloween-themed nail services, allowing them to select a service type (e.g., manicure, pedicure), choose a date and time for the service, pick a nail type and color, and provide any additional comments or instructions. The form also requests information on payment method and amount. This form aims to streamline the pre-order process for Halloween-themed nail services, ensuring customers can reserve their desired services in advance of the holiday season. 
-
-The form will help in reducing confusion, miscommunication, and delays by ensuring customers provide required information in a clear and concise manner. 
-
-To ensure the form's effectiveness, it's crucial to carefully read and understand each section before completing it. Please take a moment to read this guide carefully.
-
-</thinking>
-
 # Halloween Nail Pre-Order Form - Help Guide
 
 ## Purpose

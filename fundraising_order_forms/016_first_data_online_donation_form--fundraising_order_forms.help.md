@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form "first_data_online_donation_form" is used for its intended purpose, which is to collect information for online donation purposes. We should avoid using this form in scenarios where the information collected is not relevant to online donations, such as in-person events or physical store donations. This form should not be used in conjunction with other forms that collect similar information, such as the "donor_information" form. Let's review the form design and content to guarantee consistency and accuracy in data collection.
-</thinking>
-
 # first_data_online_donation_form - Help Guide
 ## Purpose
 The "first_data_online_donation_form" is a form designed to collect online donation information from donors. This form helps us gather essential details about the donation, such as the type of donation, frequency, and amount. It ensures that we have accurate and complete data for our internal records and reporting.

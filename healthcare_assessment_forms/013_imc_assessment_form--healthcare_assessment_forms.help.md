@@ -1,12 +1,3 @@
-<thinking>
-To create an IMC Assessment Form help guide, we need to understand the form's purpose and how users will be interacting with it. This form is designed to collect measurements related to a person's health and wellness, specifically height, weight, age, body mass index (BMI), and waist circumference. Users will be filling out this form for the purpose of assessing their health and wellness status.
-
-The form will be used in a healthcare context, and users will likely be health professionals or patients themselves. It's essential to ensure that the form is easy to understand and that each field is clearly labeled and explained. 
-
-Before starting, let's make sure this form is not already being used for a different purpose or in a different context, and there is no other form with the same purpose and field labels in use.
-
-</thinking>
-
 # IMC Assessment Form - Help Guide
 ## Purpose
 The IMC Assessment Form is a tool used to collect measurements related to a person's health and wellness, specifically height, weight, age, body mass index (BMI), and waist circumference. This form is intended for use in a healthcare setting.

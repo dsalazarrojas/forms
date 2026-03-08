@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Response And Recovery Award Application" form is designed to collect information from nominators for an award that recognizes outstanding contributions to response and recovery efforts. This form is intended to be completed by individuals or organizations who wish to nominate someone for this award. The form is not meant to be completed by the nominee themselves, but rather by a third-party nominator who can provide an objective assessment of the nominee's work.
 
 Before starting the form, please ensure that you are not duplicating a nomination that has already been submitted. You can check the nomination list to see if a similar nomination has been made.

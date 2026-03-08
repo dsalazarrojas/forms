@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blood Draw Skills Assessment - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The Adult ADHD Self Report Scale ASRS V1 1 Symptom Checklist is a tool designed to help individuals self-report on their symptoms of ADHD. This form is used to collect data on the frequency of inattention and hyperactivity symptoms, as well as their impact on daily functioning and relationships. It also gathers information on the individual's history of ADHD diagnosis and any current medications.
-The form is intended to be completed by adults seeking to assess their symptoms and potentially seek professional help or support. The data collected can be used to provide a comprehensive understanding of the individual's symptoms and improve diagnosis accuracy.
-The form is not intended to replace a professional diagnosis or treatment plan, but rather to supplement existing medical evaluations. 
-</thinking>
-
 # Adult ADHD Self Report Scale ASRS V1 1 Symptom Checklist - Help Guide
 ## Purpose
 The Adult ADHD Self Report Scale ASRS V1 1 Symptom Checklist is a questionnaire designed to help adults self-report on their symptoms of ADHD. This form is used to collect data on inattention and hyperactivity symptoms, their impact on daily life, and relevant medical history.

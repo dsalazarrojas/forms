@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information for fire door inspections, specifically to document and track fire alarm systems, inspection frequencies, and related activities. To ensure data accuracy, it's crucial to understand and follow the form properly. Please review this form carefully before proceeding. The form is not intended to be a comprehensive fire safety inspection tool but rather a supporting document for record-keeping and reporting. Ensure you complete this form correctly to maintain accurate and up-to-date records. If you're unsure about any field or section, please consult the relevant fire safety guidelines or seek guidance from a qualified fire safety professional. If you're still unsure, please review the form's fields below.</thinking>
-
 # fire_door_inspection_form - Help Guide
 ## Purpose
 The fire door inspection form is designed to collect information on fire door inspections, which is crucial for fire safety and compliance. This document helps you document and track fire alarm systems, inspection frequencies, and related activities.

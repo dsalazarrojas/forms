@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from customers about their visit to a salon during the COVID-19 pandemic. It is intended to be filled out by customers before or after their visit to the salon. The form collects general contact information, screening questionnaire, and scheduling information. The purpose of this form is to ensure a safe and smooth experience for both the customer and the salon staff.
-
-This form is meant to be filled out only once, and the information collected will be used by the salon to follow up with the customer as necessary.
-
-</thinking>
-
 # Covid 19 Salon Services Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their visit to a salon during the COVID-19 pandemic.

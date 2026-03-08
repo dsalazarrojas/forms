@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who wish to apply for graduation. This form is designed to be completed by students who want to declare their intention to graduate. To prevent duplicate submissions, this form will only be accepted once per person. Please ensure that you have read and understood this form carefully before proceeding.</thinking>
-
 # Graduation Application Declaration Form - Help Guide
 ## Purpose
 The Graduation Application Declaration Form is designed to collect information from users who wish to apply for graduation. This form is intended for students who want to declare their intention to graduate. It will only be accepted once per person to prevent duplicate submissions.

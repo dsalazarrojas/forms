@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # local_business_review_request - Help Guide
 
 ## Purpose

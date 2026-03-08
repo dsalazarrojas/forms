@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be designed to assist end-users in completing the folder creation form. The form is used to create new folders, and the purpose of this guide is to ensure that users understand the form's purpose and know how to fill it out correctly. 
-</thinking>
-
 # Folder Creation Form - Help Guide
 ## Purpose
 The Folder Creation Form is used to create new folders, allowing users to organize and categorize their files and data. This form gathers essential information about the folder, including its name, description, type, status, and other relevant details.

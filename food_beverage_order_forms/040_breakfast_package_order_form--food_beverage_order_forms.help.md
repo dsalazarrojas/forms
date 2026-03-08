@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for a breakfast package order form, I will follow the specified structure and guidelines. The form is designed to collect information from customers to place a breakfast order. The fields should be explained in a way that is clear, concise, and practical for end-users to understand how to complete the form correctly.
-
-</thinking>
-
 # Breakfast Package Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to place a breakfast order. Please fill out the form carefully to ensure that your order is processed correctly.

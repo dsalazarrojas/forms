@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information about personal hygiene routines, focusing on morning and daily practices. The form likely aims to gather data on how individuals maintain their personal hygiene, possibly for health-related purposes or research studies. However, without further information about the specific use case or target audience, I'm assuming it's a generic form for collecting personal hygiene checklists.
-</thinking>
-
 # Personal Hygiene Checklist Form - Help Guide
 ## Purpose
 

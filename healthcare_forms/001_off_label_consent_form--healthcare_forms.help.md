@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "off_label_consent_form" is to capture the patient's and the physician's off-label consent for medication administration, which is a medical practice that involves using a medication in a manner not specified in the approved labeling or not approved by regulatory authorities. This form is necessary for documentation and compliance with regulations, as well as to ensure that both the patient and the physician have a clear understanding of the risks and benefits of the medication.
-</thinking>
-
 # off_label_consent_form - Help Guide
 ## Purpose
 The off_label_consent_form is used to document the off-label use of medication in a clinical setting.

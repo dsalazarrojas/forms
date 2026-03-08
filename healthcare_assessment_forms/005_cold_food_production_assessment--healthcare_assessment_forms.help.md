@@ -4,11 +4,6 @@
 
 This form is designed to assess the compliance status of a food production facility with regards to cold storage and food safety practices. It helps identify areas for improvement and ensures that the facility is operating according to established guidelines and regulations.
 
-<thinking>...
-Form fields are categorized into several sections: Facility Information (Fields 1-5), Cold Storage and Monitoring (Fields 6-10), Hygiene Practices (Fields 11-12), Cleaning and Sanitation (Field 13), Pest Control (Fields 14-15), Product Storage (Field 16), Cross-Contamination Prevention (Field 17), Employee Training (Fields 18-20), and Final Assessment (Fields 21-27). Each section has specific questions and fields that require accurate and detailed information to ensure a comprehensive assessment.
-
-...</thinking>
-
 ## How To Complete This Form
 
 1. **Facility Information**: Complete the first five fields with the relevant information about the facility, including the facility's name, address, the date of the assessment, the assessor's name, and their title.

@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the "Nonprofit Donation Form" is a single-purpose form, focused on accepting one-time or recurring donations from individuals or organizations to support specific campaigns. This form must not be duplicated in other sections or forms, or used for other purposes such as membership applications. Its primary goal is to facilitate straightforward and efficient donation processes for the nonprofit. We need to guarantee that all fields are clear, concise, and well-communicated in the form to avoid user confusion and errors. 
-
-The form should be easily navigable for users with disabilities, and the fields should be self-explanatory. The form should not be used for any other purpose other than donations. We will need to test the form for usability and accessibility.
-</thinking>
-
 # Nonprofit Donation Form - Help Guide
 ## Purpose
 The Nonprofit Donation Form is designed to facilitate donations to support specific campaigns. You can use this form to make one-time or recurring donations to the campaigns that interest you.

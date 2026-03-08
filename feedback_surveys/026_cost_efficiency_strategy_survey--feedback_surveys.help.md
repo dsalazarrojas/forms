@@ -1,9 +1,3 @@
-<thinking>... This form is designed to collect feedback and insights on cost efficiency strategies from users. It is used to gather information about the operational costs that users encounter and the strategies they implement to optimize costs. The form is meant to be completed by users to provide their input on these topics. Please ensure that your input is accurate and honest, as it will help us understand the current state of cost efficiency in our organization.
-
-Please note that the form will only ask for information that is required for the analysis. Your input will not be shared with anyone without your permission, and it will be treated as confidential.
-
-</thinking>
-
 # Cost Efficiency Strategy Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and insights on cost efficiency strategies from users.

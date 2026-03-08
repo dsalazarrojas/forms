@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect information about the user's meal order preferences during a quarantine or isolation period. The form is designed to help health coaches understand the user's dietary needs and preferences. It will not be used if the user is already in treatment or has a medical condition that requires special attention...</thinking>
-
 # Quarantine Meal Order Form - Help Guide
 
 ## Purpose

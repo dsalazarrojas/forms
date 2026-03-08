@@ -1,5 +1,3 @@
-<thinking> This form is designed to help healthcare providers assess patients with suspected appendicitis. The form collects patient information, medical history, and physical exam findings to determine the likelihood of appendicitis and recommend further action. The form is divided into sections to ensure that all relevant information is collected in a clear and concise manner. The form should only be used for patients with suspected appendicitis. Please ensure that the patient's information is accurate and up-to-date. If you're unsure about any information, please seek further guidance from a healthcare provider. </thinking>
-
 # Appendicitis Symptoms Assessment - Help Guide
 
 ## Purpose

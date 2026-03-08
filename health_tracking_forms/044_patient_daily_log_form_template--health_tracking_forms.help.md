@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Daily Log Form Template - Help Guide
 
 ## Purpose

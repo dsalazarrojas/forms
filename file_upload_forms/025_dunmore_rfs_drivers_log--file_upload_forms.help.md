@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to record and track the upload of various files by drivers in the Dunmore RFS (Railway Freight Service) system. The form allows drivers to submit multiple files at once, and the "uploaded files" fields at the end of the form are used to verify that files were successfully uploaded.
-
-This form is intended for use by drivers in the Dunmore RFS system, and it is not necessary to fill out if you are not a driver or are not uploading files. Please do not fill out this form unless you have been instructed to do so by a system administrator.
-
-</thinking>
-
 # Dunmore RFS Drivers Log - Help Guide
 ## Purpose
 This form is used to record and track the upload of various files by drivers in the Dunmore RFS system.

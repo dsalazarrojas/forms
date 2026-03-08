@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Online Class Video Upload Form", we should first understand the purpose of this form. This form appears to be used for uploading video files related to classes, likely for educational purposes. The form likely requires users to provide information such as the instructor's name, student's name, video file details, and possibly upload status. We should check if this form is not a duplicate or if it serves a unique purpose within the system. Assuming it's not a duplicate, the form purpose can be defined as follows: 
-
-The "Online Class Video Upload Form" is a form used for uploading video files and relevant information for class sessions. It is used to gather details about the uploaded files and track their status within the system.
-
-</thinking>
 # Online Class Video Upload Form - Help Guide
 ## Purpose
 The "Online Class Video Upload Form" is a form used for uploading video files and relevant information for class sessions. It is used to gather details about the uploaded files and track their status within the system.

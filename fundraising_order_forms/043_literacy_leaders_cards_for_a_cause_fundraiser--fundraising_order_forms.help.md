@@ -1,16 +1,3 @@
-<thinking>
-
-This form is for a fundraiser for a specific cause, aiming to collect orders and associated information from customers. It likely targets a niche audience interested in supporting a literacy cause, possibly through purchasing cards or other items. The form's purpose is to streamline the order and payment process for this fundraiser.
-
-To determine if this form is relevant to your use case, consider the following:
-- Are you a supporter of literacy causes or a related organization looking to purchase items or cards for a fundraiser?
-- Do you need to provide shipping and billing information for such a purchase?
-- Are you looking for a form to collect order details and associated information?
-
-If you answered "yes" to these questions, this form may be relevant to your needs. However, please note that this form is a generic AI-generated tool and might not cover every specific requirement for your use case. Review its fields and adapt it as necessary to suit your needs.
-
-</thinking>
-
 # Literacy Leaders Cards For A Cause Fundraiser - Help Guide
 ## Purpose
 The Literacy Leaders Cards For A Cause Fundraiser form is designed to collect orders and associated information from customers for a fundraiser focused on literacy causes. It is meant to be a simple and efficient way to gather the necessary details for processing orders and facilitating the fundraiser's objectives.

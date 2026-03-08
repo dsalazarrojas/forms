@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential guests for the University of Adversity Podcast. The form is used to facilitate the guest selection and planning process for podcast episodes. The form is not meant to be a formal application, but rather a way to gather information from potential guests in a structured and efficient manner.
-
-The following help guide will walk you through the steps to complete the form and understand each field's purpose.
-
-</thinking>
-
 # University of Adversity Podcast Guest Form - Help Guide
 ## Purpose
 The University of Adversity Podcast Guest Form is designed to collect information from potential guests to be considered for podcast episodes. Please fill out this form to be considered for a guest spot on the podcast.

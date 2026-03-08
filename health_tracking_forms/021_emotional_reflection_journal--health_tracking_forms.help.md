@@ -1,7 +1,3 @@
-<thinking>
-The emotional reflection journal form is designed to help users track their emotional state, mood, and reflection patterns over time. This form is intended for users to record their daily emotional experiences, including their mood, intensity of emotions, and any additional notes or comments. It may be used in conjunction with other forms or data collection efforts to gain a more comprehensive understanding of a user's emotional well-being. It is not intended to be a comprehensive assessment tool and may not be a substitute for professional psychological evaluation.
-</thinking>
-
 # emotional_reflection_journal_form - Help Guide
 ## Purpose
 The emotional reflection journal form is a self-reporting tool used to capture a user's emotional experiences, mood, and reflective thoughts. It is designed to help users monitor and track their emotional states over time.

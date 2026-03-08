@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for collecting feedback from users on a specific topic, presumably for the purpose of gathering information on user experience or satisfaction. The form is designed to be completed by users to provide their feedback, and the data collected will be used to identify areas of improvement for the organization or service being assessed.
-
-To avoid duplication, this form is designed to be completed by users only once for each topic. If a user has already completed this form, they will not be able to access it again.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is for collecting feedback from users on the topic of "<string>". Your input will help us understand your experience and identify areas for improvement.

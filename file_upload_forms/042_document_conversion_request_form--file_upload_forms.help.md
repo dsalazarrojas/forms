@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Document Conversion Request Form", we first need to understand its purpose and internal reasoning behind its creation. 
-This form is likely used for requesting document conversions, possibly for file formats like PDF to word, or vice versa. It's possible that users need to input their file details and preferences for the conversion. To avoid duplication or incorrect form submissions, it's a good idea to check if the user has already submitted a similar request or if they are within the correct timeframe for conversion.
-
-</thinking>
-
 # Document Conversion Request Form - Help Guide
 ## Purpose
 This form is designed to help users request document conversions for specific files. Please use this form to submit requests for converting files to the required format.

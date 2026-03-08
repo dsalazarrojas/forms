@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help individuals assess and understand their gender identity. The purpose of this form is to collect information about how individuals identify and feel about their gender, including how they perceive their body and how others perceive them. This form is likely used in a healthcare setting to gather data for research or to help individuals understand their gender identity in a more nuanced way.
-
-Please note that this form is designed to be completed by individuals themselves, and it is not intended to be used for diagnosis or treatment of any mental health condition. The form does not aim to be a substitute for professional medical advice or therapy.
-
-The following guide will help you complete this form in the best way possible.
-
-</thinking>
-
 # Gender Identity Self Assessment - Help Guide
 ## Purpose
 This form is designed to help individuals understand and assess their gender identity. It is intended to be completed by individuals themselves and is not a substitute for professional medical advice or therapy.

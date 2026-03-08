@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a feature recipe release. It is intended for use by authorized personnel within the organization. Before proceeding, please ensure that you have the necessary publishing permission and that the feature recipe has not been previously submitted. This form should not be completed if the feature recipe is not yet ready for release or if you are not an authorized user.
-</thinking>
-
 # Feature Recipe Release Form - Help Guide
 ## Purpose
 This form is used to submit a new feature recipe for review and potential release in the system.

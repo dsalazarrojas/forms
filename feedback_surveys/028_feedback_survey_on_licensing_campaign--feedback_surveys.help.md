@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Feedback Survey On Licensing Campaign" form, which is designed to collect feedback from users on various aspects of a licensing campaign. Please note that the form is intended for internal use and is not publicly accessible. To ensure that your feedback is captured accurately, please complete the form with attention to detail and in a clear, concise manner.
-</thinking>
-
 # Feedback Survey On Licensing Campaign - Help Guide
 ## Purpose
 This form is used to gather feedback from users on a licensing campaign, providing a platform for them to express their thoughts and opinions on the campaign's performance, quality, and effectiveness. The collected feedback will be used by internal stakeholders to improve and refine future campaigns.

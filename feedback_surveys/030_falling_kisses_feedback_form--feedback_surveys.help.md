@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to provide feedback on our "Falling Kisses" product. This form is meant to be completed on a one-time basis, so please do not fill it out if you've already completed it. If you've already submitted feedback, your input is already recorded and we appreciate your consideration, but we won't be collecting your feedback again.
-</thinking>
-
 # Falling Kisses Feedback Form - Help Guide
 ## Purpose
 The "Falling Kisses Feedback Form" is a survey designed for customers to provide feedback on our "Falling Kisses" product. This feedback helps us understand your experience and opinions, allowing us to make improvements.

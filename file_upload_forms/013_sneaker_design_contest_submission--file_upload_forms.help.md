@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect submissions for a sneaker design contest, where participants can upload and describe their artwork, and provide additional details about their submission. The form has multiple pages, each with its own set of fields. The main goal is to gather information about the participant's artwork, including its type (2D or 3D) and format (JPEG or PNG), as well as any additional details or descriptions.
-
-To avoid duplication, it's essential to ensure that each participant only submits one unique entry per form. This form is designed to be used by the sneaker design community to showcase and evaluate submissions.
-
-</thinking>
-
 # Sneaker Design Contest Submission - Help Guide
 ## Purpose
 This form is designed for participants to submit their sneaker design entries for a contest. It will collect information about the participant's artwork, including its type and format, and provide an opportunity for additional details or descriptions to be shared.

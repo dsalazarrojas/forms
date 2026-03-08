@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to collect information from donors for fundraising purposes. The primary goal is to ensure accurate and timely donation processing, as well as provide an efficient way to communicate with donors about their giving preferences and interests. By using this form, we can efficiently collect and process donations, while also ensuring that donors are informed and engaged with our charity's mission and activities. This form is designed to minimize duplication of effort and maximize the effectiveness of our fundraising efforts.
-
-This form will be used to collect the following information from donors:
-* Name
-* Contact information (email and phone number)
-* Address (street, city, state, and zip code)
-* Donation frequency (one-time, monthly, quarterly, or annually)
-* Primary area of interest (education, health, environment, disaster relief, or general fund)
-* Donation preferences (anonymous or non-anonymous)
-* Opt-in for our monthly newsletter
-
-The form will help us:
-* Ensure accurate and timely donation processing
-* Provide personalized communication with donors about their giving preferences and interests
-* Build relationships with donors and encourage further support
-
-Please review the form carefully to ensure that the information provided is accurate and up-to-date. This will help us process your donation efficiently and effectively.
-</thinking>
-
 # Charity Donor Information Form - Help Guide
 ## Purpose
 

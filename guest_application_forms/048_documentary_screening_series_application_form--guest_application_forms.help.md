@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from documentary filmmakers for a screening series. It is a one-page form with six fields. The form will be used to gather the title of the documentary, details about the film, information about the screener, assets required for the screening, and contact information for a follow-up email. To avoid duplication and ensure that the form is filled out correctly, please review your answers carefully before submitting.
-</thinking>
-
 # documentary_screening_series_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from documentary filmmakers for a screening series.

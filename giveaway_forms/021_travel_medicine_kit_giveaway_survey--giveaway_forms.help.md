@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to provide a brief explanation of the Travel Medicine Kit Giveaway Survey form and its purpose. 
-The form is used to collect information from travelers who are interested in receiving a free travel medicine kit. The purpose is to gather relevant details about the traveler, their contact information, the type of medicine kit they would like to receive, and any additional information that would help facilitate the giveaway process. 
-This guide is intended for end-users who need to fill out the form to claim a free travel medicine kit. 
-</thinking>
-
 # Travel Medicine Kit Giveaway Survey - Help Guide
 ## Purpose
 This form is designed to gather information from travelers to provide a free travel medicine kit. Please fill it out thoroughly and accurately to improve your chances of receiving the giveaway.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for collecting guest registration information. It is intended for individuals to provide their personal details and preferences. The form is divided into multiple pages, and each page is a collection of questions that need to be answered for registration. 
-
-The form is meant to be filled out by a single person at a time. 
-
-Please note that the form is not intended for multiple users. If you need to register multiple guests, please create a new form for each individual.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and professional details from guests for registration purposes.

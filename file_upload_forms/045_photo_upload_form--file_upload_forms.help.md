@@ -1,5 +1,3 @@
-<thinking>...this form is intended to allow users to upload a photo, provide a description, and optionally specify an email address. The form is designed to be simple and easy to use, but requires users to have an account with a valid email address to upload photos. This form is not intended for use by users without an account. We will not be uploading photos to external servers, instead, the uploaded photo will be stored locally within the system.</thinking>
-
 # Photo Upload Form - Help Guide
 
 ## Purpose

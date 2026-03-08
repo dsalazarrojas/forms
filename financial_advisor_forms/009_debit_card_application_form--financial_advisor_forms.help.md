@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for a debit card application. This form is likely used to verify and update user information for a financial institution. 
-
-Before proceeding with this form, please ensure you have all the required information and that you have reviewed and understood the following instructions. This form is used in conjunction with other forms, so ensure you have filled out all other relevant forms before attempting to fill out this one.
-
-This form collects information about the user and their debit card details. 
-
-Please note that some fields are optional, and you should only fill out the required fields to avoid any errors.
-
-</thinking>
-
 # Debit Card Application Form - Help Guide
 ## Purpose
 The Debit Card Application Form is used to collect information from users for a debit card application. It is a crucial document that helps financial institutions verify and update user information.

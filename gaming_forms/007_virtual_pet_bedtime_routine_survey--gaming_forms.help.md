@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about their virtual pet bedtime routines. The purpose of this form is to gather data about users' experiences with these routines, including their satisfaction, frequency, and challenges they encountered. This form is designed to be completed by users who have used virtual pets, and the information collected will be used to improve the overall user experience.
-
-To ensure that the form is being filled out correctly, please make sure that you have actually used a virtual pet's bedtime routine and are providing honest feedback about your experience.
-
-Before starting, please note that this form is anonymous and all information collected will be used solely to improve the service. If you have any doubts about the form or its purpose, please don't hesitate to reach out to us.
-</thinking>
-
 # Virtual Pet Bedtime Routine Survey - Help Guide
 ## Purpose
 

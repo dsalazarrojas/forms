@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from restaurants and food establishments about their photos of food and menu items. The purpose of this form is to gather data on the most popular menu items, the status of menu photos, and other relevant details. This form is likely used for marketing or inventory purposes. Before proceeding, ensure that you have the necessary permissions and approvals to complete this form, especially if you're representing a business. Additionally, make sure you're completing the form for the correct restaurant.
-</thinking>
-
 # Restaurant Food Photos - Help Guide
 ## Purpose
 This form is designed to collect information from restaurants and food establishments about their photos of food and menu items.

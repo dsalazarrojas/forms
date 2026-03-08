@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user preferences for a seasonal menu selection, allowing users to choose their desired menu items, flavors, and other preferences for food and beverage delivery. The form may be used to gather feedback or preferences from customers before a specific menu launch or promotion, ensuring that users' needs are met and preferences are taken into consideration.
-</thinking>
-
 # Seasonal Menu Selection Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect user preferences for a seasonal menu selection, allowing users to choose their desired menu items, flavors, and other preferences for food and beverage delivery.

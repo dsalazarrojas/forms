@@ -1,5 +1,3 @@
-<thinking> This form is designed to gather information from clients to better understand their investment goals, risk tolerance, and financial situation. The form is composed of 18 fields that cover various aspects of investment planning. The fields are divided into sections, making it easy to navigate and complete. To ensure accurate and relevant information, please ensure that you have a clear understanding of your investment goals, risk tolerance, and financial situation before completing this form. This form is not intended to replace professional investment advice, and it's recommended that clients review and discuss their information with a financial advisor before making any investment decisions. </thinking>
-
 # Investment Advisory Service Intake Form - Help Guide
 
 ## Purpose

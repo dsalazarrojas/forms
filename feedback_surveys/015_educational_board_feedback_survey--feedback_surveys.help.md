@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the Educational Board's performance and services. It's crucial that users complete this form to help us understand their experiences and concerns, so we can improve our services and provide better support. Please take a few minutes to provide your honest feedback. To ensure your input is accurately recorded, please make sure to fill out the form completely and accurately. You can submit your feedback anonymously, and all responses will be reviewed regularly.
-</thinking>
-
 # Educational Board Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users on the Educational Board's performance and services. Your input will help us improve our services and provide better support.

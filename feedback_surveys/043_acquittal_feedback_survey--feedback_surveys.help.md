@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that this form is used for its intended purpose, which is to collect feedback from clients or customers on their experience with the legal team during the acquittal process. This form should not be used for other purposes or for duplicate submissions. The form is designed to be completed by individuals who have had an acquittal experience and are being asked for their feedback on the quality of service provided. We should ensure that the form is completed accurately and honestly to provide valuable insights that can help improve the legal team's performance.
-</thinking>
-
 # Acquittal Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients or customers on their experience with the legal team during the acquittal process. The feedback will help identify areas of improvement and provide valuable insights to enhance the quality of service provided.

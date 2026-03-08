@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees before they return to work after a medical episode or quarantine. This form ensures that employees' health status and work readiness are assessed accurately, which helps in maintaining a safe and healthy work environment. It's essential to complete this form thoroughly to help HR and management teams make informed decisions about the employee's return date and any necessary actions for their safe return to work.
-</thinking>
-
 # Employee Pre-Return Work Health Questionnaire - Help Guide
 ## Purpose
 The Employee Pre-Return Work Health Questionnaire is a form used to gather crucial information from employees before they return to work after a medical episode or quarantine. This information helps ensure that the employee's health status and work readiness are assessed accurately, which contributes to maintaining a safe and healthy work environment.

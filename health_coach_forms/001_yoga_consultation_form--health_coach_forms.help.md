@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their yoga practice habits, medical conditions, and emergency contact details. The form is intended to be used by healthcare professionals to assess a user's suitability for yoga consultations. It is likely to be used in a clinical setting, such as a healthcare facility or wellness center. The form is divided into several sections, including:
-- Yoga style preferences
-- Medical conditions and injury concerns
-- Allergies and previous injuries
-- Medications
-- Yoga goals and frequency
-- Pregnancy and breastfeeding status
-- Physical limitations
-- Special instructions
-- Emergency contact details
-
-It is recommended to review the form carefully before starting and to answer honestly to provide accurate information. Please note that this form is a sample and may need to be adapted to specific business needs.</thinking>
-
 # Yoga Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from users about their yoga practice habits, medical conditions, and emergency contact details for assessments by healthcare professionals.

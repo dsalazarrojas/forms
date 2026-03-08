@@ -1,10 +1,3 @@
-<thinking>
-The Palliative Care Monitoring Form is a critical tool used to track and assess the health status of patients undergoing palliative care. It is designed to be completed by healthcare professionals to ensure that patients receive the best possible care and treatment. The form is used to gather information on various aspects of the patient's condition, including their comfort level, pain management, medical history, allergies, vital signs, and more.
-By providing a comprehensive overview of the patient's health status, the form helps healthcare professionals make informed decisions about the patient's care plan and treatment. It also enables the care team to communicate effectively with the patient and their family members, ensuring that everyone is on the same page and working towards the same goals.
-
-To avoid duplication of effort and ensure accuracy, it is essential to use this form in conjunction with other relevant medical records and documentation.
-</thinking>
-
 # Palliative_Care_Monitoring_Form - Help Guide
 ## Purpose
 The Palliative Care Monitoring Form is a critical tool used to track and assess the health status of patients undergoing palliative care.

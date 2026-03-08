@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect general health appraisal information from users. The form is designed to gather information about the user's personal details, medical history, health status, lifestyle, and the health coach they are working with. This form is likely to be used by healthcare professionals to assess the user's overall health and create a plan to improve their well-being.
-
-Before filling out this form, please note that it is intended for general use and may not be applicable to your specific situation. If you are unsure about any questions or answers, please consult a healthcare professional.
-
-Please ensure that you are filling out this form accurately and completely. The information collected will be used to create a personalized plan to improve your health. If you have any concerns or questions, please reach out to your healthcare professional.
-
-</thinking>
-
 # General Health Appraisal Form - Help Guide
 ## Purpose
 This form is used to collect general health appraisal information from users.

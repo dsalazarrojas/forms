@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and experiences from event attendees regarding the accessibility features of the event. The purpose of this form is to gather information about the attendee's experience with accessibility accommodations, such as wheelchair accessibility, sign language interpreters, and closed captioning. The form is optional, and attendees can choose to provide as much information as they are comfortable sharing.
-
-To ensure accurate and relevant feedback, please fill out this form only if you have attended the event. If you have not attended the event, your feedback may not be relevant to the organizers.
-
-Additionally, please note that the form is designed to collect information about your personal experiences and opinions. If you have not experienced a particular accessibility feature, you can still provide feedback on how you think it could be improved or what you would like to see in the future.
-
-Before proceeding, review the form carefully to ensure you are providing accurate and helpful feedback.</thinking>
-
 # NGO Event Accessibility Experience Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from event attendees on their accessibility experience to help improve future events.

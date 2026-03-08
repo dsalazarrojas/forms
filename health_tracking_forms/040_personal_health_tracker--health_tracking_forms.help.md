@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personal_health_tracker_form - Help Guide
 ## Purpose
 This form is designed to collect personal health metrics from users. It is intended for individuals to track their daily activities, habits, and overall well-being. This form is not intended for clinical use or diagnosis; it is a personal tool for users to monitor their health over time.

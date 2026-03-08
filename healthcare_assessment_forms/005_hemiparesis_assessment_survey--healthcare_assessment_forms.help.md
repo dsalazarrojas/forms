@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect assessments related to hemiparesis, a condition that affects the brain and nervous system causing partial paralysis or weakness in the body. The form is designed to evaluate various aspects of the condition, including symptom severity, functional impact, pain intensity, emotional state, and overall functional status. This information is crucial for healthcare professionals to make informed decisions and provide proper care to patients with hemiparesis. 
-
-The form has 12 sections with different types of questions. To complete it effectively, follow these steps:
-
-1. Answer the symptom severity question by selecting all the symptoms that apply to you, as specified on the provided options.
-2. For the functional impact question, type a brief description of how your condition affects your daily life.
-3. Choose one option for each of the remaining questions, selecting 'Yes' if the condition applies to you and 'No' otherwise.
-
-Please note that the form is designed to collect subjective information and may not be suitable for all users. If you have any questions or concerns, contact your healthcare provider for further guidance.
-
-</thinking>
-
 # hemiparesis_assessment_survey - Help Guide
 ## Purpose
 The hemiparesis_assessment_survey form is a tool used to collect assessments related to hemiparesis, a condition that affects the brain and nervous system.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a fundraising event, including the event's title, goal, target amount, start and end dates, event time, location, and contact details for the organizer. This form is used to create a fundraising event, such as a charity run or a bake sale, and is intended to be completed by the event organizer. It is not intended for duplicate submissions.
-
-</thinking>
-
 # Fundraising Event Details Form - Help Guide
 ## Purpose
 The Fundraising Event Details Form is used to create a new fundraising event. Please fill out the form with the requested information to help us track and promote your event.

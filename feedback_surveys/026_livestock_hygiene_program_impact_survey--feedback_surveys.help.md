@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect data on the impact of the Livestock Hygiene Program on farmers who participate in it. This includes gathering information on the type of program the farmer has used, the dates it was conducted, how often they use it, and details on the number of farmers who have used it and their location.
-Before proceeding, please note that this form has multiple pages and fields. Ensure that you have read through all the pages and understand the questions before starting to fill it out. If you have already completed a similar survey, please refrain from duplicating your responses. Your input is crucial in helping us gather meaningful data, so please be as detailed and accurate as possible.
-</thinking>
-
 # Livestock Hygiene Program Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the impact of the Livestock Hygiene Program. Your responses will help us better understand how the program affects farmers like you.

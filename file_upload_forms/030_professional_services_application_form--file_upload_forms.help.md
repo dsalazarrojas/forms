@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is being used for its intended purpose and not for something else. This form is meant to collect information for professional services applications, such as resumes, portfolios, and skills assessments. We should verify that the form is being used correctly and not for other types of applications that may have different requirements. It's also essential to ensure that the form is not being duplicated or used in a way that may cause confusion or incorrect data collection.
-</thinking>
-
 # Professional Services Application Form - Help Guide
 
 ## Purpose

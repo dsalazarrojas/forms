@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for guest writers to apply for writing guest posts on a blog or website. The form's purpose is to gather information from potential writers, including their contact details, writing samples, and other relevant data. The form may also be used to categorize and manage guest posts within specific categories.
-
-To avoid duplication of effort and ensure accurate applications, the form is likely to be used internally to filter and evaluate potential writers. The form's fields are likely meant to guide the user through a series of questions that help evaluate their suitability as a guest writer.
-
-Before completing the form, it's essential to review the form categories to ensure you're applying to the correct section.
-
-</thinking>
-
 # Guest Post Writer Application Form - Help Guide
 ## Purpose
 This form is used to gather information from potential guest writers applying to write on our blog or website.

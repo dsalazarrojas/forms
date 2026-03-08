@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Workout Routine Details Form". This form is designed to collect information about a specific workout routine, including the name, type, duration, date, description, notes, location, tags, and other relevant details. The form has multiple fields for user input, including text, date, select_one, select_multiple, and note types. Some fields are required for the form to be considered complete, while others are optional for additional information. The form also includes fields for meta data, such as timestamps and user information.</thinking>
-
 # Workout Routine Details Form - Help Guide
 
 ## Purpose

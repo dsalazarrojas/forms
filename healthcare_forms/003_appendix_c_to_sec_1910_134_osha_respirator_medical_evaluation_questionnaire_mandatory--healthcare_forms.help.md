@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the OSHA Respirator Medical Evaluation Questionnaire (Mandatory) form, which is used to evaluate the medical fitness of employees who will be working with respirators. This form is a critical component of the 1910.134 standard for ensuring the safety and health of workers in environments where respiratory protection is required. By providing accurate and detailed information, users can help healthcare professionals assess their medical eligibility for respirator use and reduce the risk of work-related health issues. It is essential to fill out this form carefully and thoroughly to ensure accurate medical assessments.
-</thinking>
-
 # Appendix C To Sec. 1910.134 - OSHA Respirator Medical Evaluation Questionnaire (Mandatory) - Help Guide
 ## Purpose
 The OSHA Respirator Medical Evaluation Questionnaire (Mandatory) is used to gather necessary medical information from employees who will be required to use respirators in the workplace. This information will help healthcare professionals assess the employee's medical fitness for respirator use.

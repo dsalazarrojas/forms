@@ -1,7 +1,3 @@
-<thinking>
-This guide is for end-users who need to complete the Product Compliance Document Upload Form, a crucial form for submitting product-related information and compliance documents. Before proceeding, ensure you understand the form's purpose: it collects necessary details and attachments for product compliance documentation. This form is not intended for product creation or editing; it's exclusively for upload and submission of existing product compliance documents.
-</thinking>
-
 # Product Compliance Document Upload Form - Help Guide
 ## Purpose
 The Product Compliance Document Upload Form is designed to collect and submit compliance-related documents for products. This form helps ensure that the necessary documents are up-to-date and accurately represented to meet regulatory and industry standards.

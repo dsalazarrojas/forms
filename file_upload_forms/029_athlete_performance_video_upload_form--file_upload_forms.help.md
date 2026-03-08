@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athlete Performance Video Upload Form - Help Guide
 
 ## Purpose

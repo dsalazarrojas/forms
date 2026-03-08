@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experience with healthcare providers. It is likely intended for use in hospitals, clinics, or other healthcare settings. This guide will help you understand the purpose and usage of the form.
-
-To confirm, the form's purpose is not affiliated with, endorsed by, or derived from any form platform. It was created using only public survey topic metadata and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-Please ensure you are not duplicating or submitting this form if you have already taken it. If you are unsure, check with the healthcare provider or your institution to confirm.
-
-</thinking>
-
 # Patient Participation In Decision Making Survey - Help Guide
 ## Purpose
 

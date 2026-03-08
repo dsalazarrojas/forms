@@ -1,12 +1,3 @@
-<thinking>
-
-To determine the relevance and avoid duplication of this form, we need to consider the following:
-- The form is designed to gather information about a patient's medical history, symptoms, and treatment goals for a cardiology consultation.
-- The form should not duplicate the functionality of other forms or procedures that are already in use within the healthcare system.
-- The form should be reviewed and updated regularly to ensure it remains relevant and effective.
-
-</thinking>
-
 # Cardiology Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about a patient's medical history, symptoms, and treatment goals for a cardiology consultation. It helps healthcare professionals assess the patient's condition and provide appropriate recommendations for treatment.

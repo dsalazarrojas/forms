@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Challenge Feedback Survey - Help Guide
 
 ## Purpose

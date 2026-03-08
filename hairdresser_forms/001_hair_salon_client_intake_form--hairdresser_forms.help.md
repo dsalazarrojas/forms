@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from clients visiting a hair salon. It is intended to be used by the salon staff to record the client's details, appointment preferences, contact information, service preferences, and any additional notes. The form should not be used for commercial purposes or to collect sensitive client data, such as financial information. Please ensure you are not duplicating existing forms or collecting unnecessary information.
-
-</thinking>
-
 # Hair Salon Client Intake Form - Help Guide
 ## Purpose
 This form is designed to help salon staff gather necessary information from clients visiting the salon. It's a one-time intake form used to collect client details, appointment preferences, contact information, service preferences, and any additional notes.

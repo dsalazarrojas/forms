@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a proposed agenda for an event. It is intended for users to provide their opinions and comments on the agenda. The form is used to gauge the overall satisfaction with the proposed agenda and gather additional comments and suggestions. This form should only be completed by users who have been provided with the proposed agenda and are familiar with its content. It is also essential to ensure that each user completes the form only once, as duplicate submissions may cause confusion and skew the results.
-</thinking>
-
 # feedback_on_proposed_agenda - Help Guide
 ## Purpose
 

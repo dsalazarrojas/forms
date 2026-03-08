@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # respiratory_infection_screening_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to help restaurant staff set up the delivery settings for their food and beverage orders. This form is meant to be a simple and efficient way to configure delivery settings for orders, and its purpose is to minimize unnecessary complexity for end-users. The current structure suggests that it's meant to be completed by one user at a time, which could be a staff member who is authorized to configure this information. The form should not be duplicated across different users, as the settings are specific to each restaurant. 
-  </thinking>
-
 # Restaurant Delivery Settings Form - Help Guide
 ## Purpose
 The Restaurant Delivery Settings Form is a tool designed to help you configure delivery settings for your restaurant. This form collects information about your service areas, fees, availability, and service hours to ensure smooth delivery operations.

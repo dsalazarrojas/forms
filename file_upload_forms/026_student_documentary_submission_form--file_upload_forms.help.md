@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to ensure that students and educators understand how to complete the Student Documentary Submission Form correctly and accurately. The form is designed to collect information about student documentary submissions, including submission dates, file uploads, and contact information.
-
-This form is meant to be used by students to submit their documentary entries, and by educators to review and verify the submissions. The form is divided into several fields that capture various aspects of the submission, such as the submission date, file upload, student name, and contact information.
-
-To prevent duplicate submissions, the form is intended to be used once per submission. If a student or educator is unsure about the submission process or has any doubts, they should consult with their school's administration or the relevant authorities before proceeding.
-
-Before filling out this form, please ensure that you have all the necessary information and permissions required to complete it accurately. If you are unsure about any field, please ask a teacher or administrator for clarification.
-</thinking>
-
 # Student Documentary Submission Form - Help Guide
 ## Purpose
 This form is used for students to submit their documentary entries, including essays, research papers, projects, and presentations. It captures information about the submission date, file upload, student name, and contact details of the student and their educator.

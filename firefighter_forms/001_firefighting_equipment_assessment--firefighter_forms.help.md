@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the condition and safety of firefighting equipment, ensuring it is properly maintained and prepared for emergency situations.
-To complete this form, please follow these steps:
-
-1.  The form is divided into several sections, each focusing on different aspects of firefighting equipment.
-2.  Please fill out the form by providing detailed information about the equipment's condition and any potential safety hazards.
-3.  For fields with multiple options, select all applicable answers. 
-4.  Make sure to fill out all required fields, as indicated by the "required" designation.
-5.  Review the form carefully and submit it once you have completed all required fields.
-</thinking>
-
 # Firefighting Equipment Assessment - Help Guide
 ## Purpose
 This form is designed to assess the condition and safety of firefighting equipment, ensuring it is properly maintained and prepared for emergency situations.

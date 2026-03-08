@@ -1,8 +1,3 @@
-<thinking> 
-We are creating a form that collects feedback from users to better understand their purchasing experiences. This form is designed to gather information on various aspects of product purchasing, including product name, rating, and demographic data. The form will help us identify trends and areas for improvement in our product offerings. Before proceeding, please ensure that you have not completed this form previously and that your responses are unique and honest. 
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their purchasing experiences with our product.

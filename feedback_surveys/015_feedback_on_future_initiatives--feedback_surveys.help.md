@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feedback On Future Initiatives - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on future initiatives from respondents. It's used to gather information on proposed programs, compare priorities, and suggest services or community projects. This form helps to identify the best courses of action for future initiatives.

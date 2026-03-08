@@ -1,6 +1,3 @@
-<thinking> 
-This form is for customers to input their house plant delivery details, including order information (order details), customer information (customer info), order payment, delivery details, additional notes about the order (order notes), customer's phone number (customer phone), customer's email address (customer email), delivery location (delivery location), plant choice (plant choice), delivery time (delivery time), delivery date (delivery date), additional delivery instructions (delivery notes), and the final order total (order total). The payment gateway option allows customers to choose how they want to pay for their order. This form ensures that all necessary information is collected for the smooth execution of the order. Please ensure that you are providing accurate and complete information to prevent errors in the delivery process. </thinking>
-
 # House Plant Delivery Form - Help Guide
 ## Purpose
 The House Plant Delivery Form is designed to collect all necessary information from customers for the smooth execution of their house plant delivery order. This includes order details, customer information, payment options, delivery details, and other relevant information to ensure a successful delivery.

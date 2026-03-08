@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 ## Cargo Security Inspection Form - Help Guide
 
 This form is used to document security inspections of cargo during transportation. The purpose of this form is to ensure that all cargo is properly secured and inspected according to security protocols. This form should only be completed by certified inspectors and is a mandatory requirement for all cargo inspections.

@@ -1,18 +1,3 @@
-<thinking>
-The Operations Transformation Feedback Survey form is designed to collect feedback from users on the operations transformation process. This form is used to gather information on the outcomes, challenges, and suggestions for improvement of the operations transformation process. It is essential to provide accurate and helpful feedback to the assigned team for the successful implementation of the operations transformation process.
-
-Please note that this form is not intended for general-purpose feedback, and answers should be specific to the operations transformation process. Before providing feedback, ensure that it is relevant and focused on the process.
-
-To complete this form, users should answer each question truthfully and thoroughly, providing as much detail as possible. The form is divided into several sections, each asking a specific question or set of questions about the operations transformation process.
-
-When filling out this form, please make sure to:
-
-* Answer all questions that apply to your experience with the operations transformation process.
-* Provide specific examples or anecdotes to support your answers.
-* Be honest and objective in your evaluation.
-* Use the provided fields to the best of your ability, and do not leave any fields blank unless they do not apply to your experience.
-</thinking>
-
 # Operations Transformation Feedback Survey - Help Guide
 ## Purpose
 The Operations Transformation Feedback Survey is designed to collect feedback from users on the operations transformation process. This feedback is essential for the assigned team to make improvements and adjustments to the process.

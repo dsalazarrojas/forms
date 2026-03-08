@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Undergraduate Application CV Submission - Help Guide
 ## Purpose
 This form is designed to collect essential information and supporting documents for undergraduate applications. It is essential that you only submit one application per person. Before proceeding, please review the form carefully to ensure accuracy and completeness.

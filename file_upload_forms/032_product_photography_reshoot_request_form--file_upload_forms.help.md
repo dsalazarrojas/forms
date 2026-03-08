@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to support the process of requesting a product photography reshot, allowing users to provide necessary information about the product they are requesting a reshot for. The form aims to ensure that all relevant details are collected to facilitate a smooth and efficient reshot process. Please ensure that you only submit a reshot request form once, and that you have checked the product's existing photography record to avoid duplication of efforts.
-
-</thinking>
-
 # Product Photography Reshoot Request Form - Help Guide
 ## Purpose
 This form is for requesting a reshot of a product's photography due to various reasons. 

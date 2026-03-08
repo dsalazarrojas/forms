@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the quality of care provided to patients and caregivers in a healthcare setting. The "Labor And Care Assessment Form" is intended to evaluate the effectiveness of care teams in meeting the needs of patients, identify areas for improvement, and facilitate communication between care teams and patients.
-
-To ensure that this form serves its purpose effectively, we need to make sure it's being used correctly. Please review the following guidelines to complete the form accurately and provide valuable feedback.
-
-</thinking>
-
 # Labor And Care Assessment Form - Help Guide
 ## Purpose
 The "Labor And Care Assessment Form" is designed to evaluate the quality of care provided to patients and caregivers in a healthcare setting. It helps identify areas of improvement and facilitates communication between care teams and patients.

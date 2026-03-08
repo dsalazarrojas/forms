@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Credit Card Application Form - Help Guide
 
 ## Purpose

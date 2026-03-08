@@ -1,12 +1,3 @@
-<thinking>
-The form is used for users to input event information for a food truck reservation. It's essential to understand that a food truck reservation form is not a regular form and requires specific information about the event and food preferences.
-
-To determine if this form has already been filled out, check the form's timestamp. If it's already been filled out, please review the existing information before proceeding.
-
-When filling out this form, ensure that you have all the required fields filled out accurately and completely. The form has been designed to guide you through the process, but if you're unsure about any field or its purpose, refer to this guide.
-
-</thinking>
-
 # Food Truck Reservation Form - Help Guide
 ## Purpose
 This form is used to input event information for a food truck reservation. It's essential to provide accurate and complete information about the event, food preferences, and menu items.

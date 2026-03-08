@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Live Plant Delivery Order Form" form. This form is used to collect information from customers for live plant delivery orders. The form is designed to be easy to use and understand, with clear labels and instructions to guide the user through the process.
-
-Before starting the form, it's essential to ensure that the user has a clear understanding of the form's purpose and the information required to complete it. This will help prevent duplication of effort and reduce the likelihood of errors.
-
-To create this guide, we will focus on the form's structure and the meaning of each field, making it easy for users to understand how to complete the form and what is expected of them.
-
-</thinking>
-
 # Live Plant Delivery Order Form - Help Guide
 ## Purpose
 The "Live Plant Delivery Order Form" is used to collect information from customers for live plant delivery orders. This form helps us understand what plants the customer wants, how they want to receive them, and any other relevant details.

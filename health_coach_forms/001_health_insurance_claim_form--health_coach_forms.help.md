@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a health insurance claim. The form is likely used by a health insurance company to gather details about a patient's medical history, claimant's contact information, claimant's employment status, and other relevant details. This form is designed to be completed by a claimant or their representative, and the information collected will be used to process the claim.
-
-The form has 20 fields, which can be divided into several sections. Each section is designed to collect specific information that is relevant to the claim. The fields are:
-
-* Patient info: This section includes fields for the patient's name, contact information, and medical history.
-* Claim details: This section includes fields for the claimant's name, contact information, and relationship with the patient.
-* Claimant info: This section includes fields for the claimant's contact information, employment status, and medical benefits.
-* Provider info: This section includes fields for the provider's information.
-* Insurance info: This section includes fields for the insurance information.
-* Claim amount and date: This section includes fields for the claim amount and date.
-* Notes and signatures: This section includes fields for notes and signatures from the claimant and provider.
-
-To complete this form, the user should start by filling out the patient info section, which includes fields for the patient's name, contact information, and medical history. Next, they should fill out the claim details section, which includes fields for the claimant's name, contact information, and relationship with the patient. The claimant info section should be filled out next, which includes fields for the claimant's contact information, employment status, and medical benefits. The provider info section should be filled out if the user is a healthcare provider. The insurance info section should be filled out if applicable. The claim amount and date section should be filled out to include the claim amount and date. Finally, the user should fill out the notes and signatures section, which includes fields for notes and signatures from the claimant and provider.
-
-Each field should be filled out as accurately and thoroughly as possible, taking into account the field type and requirements. For example, fields for dates should be filled out using the MM/dd/yyyy format. Fields for numbers and amounts should be filled out using a decimal format.
-</thinking>
-
 # health_insurance_claim_form - Help Guide
 ## Purpose
 

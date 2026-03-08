@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow healthcare providers to submit claims for patients who require medical attention or have incurred medical expenses. The form should be completed for patients who are currently being treated or have received treatment in the past and have not yet submitted a claim for reimbursement. The form can be completed by any healthcare provider or authorized representative.
-</thinking>
-
 # Health Insurance Claim Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers submit claims for patients who require medical attention or have incurred medical expenses.

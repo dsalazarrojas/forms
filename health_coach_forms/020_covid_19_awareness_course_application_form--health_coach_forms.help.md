@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Awareness Course Application Form - Help Guide
 ## Purpose
 

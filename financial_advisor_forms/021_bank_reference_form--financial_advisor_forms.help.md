@@ -1,7 +1,3 @@
-<thinking>
-The Bank Reference Form is used to collect information for a banking reference that a bank employee or officer needs to provide. This form serves as a template to standardize the process of generating a reference that a customer or account holder can use to open a new account with another bank or financial institution. By filling out this form, the bank can ensure that the reference includes all relevant information and is accurate, which can help streamline the account opening process and reduce the risk of fraud or errors. Before starting, ensure that you're filling out the form for the correct purpose, and that all required fields are filled out to prevent delays or incomplete references.
-</thinking>
-
 # Bank Reference Form - Help Guide
 
 ## Purpose

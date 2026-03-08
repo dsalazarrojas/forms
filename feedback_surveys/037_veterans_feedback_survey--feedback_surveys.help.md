@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from veterans on their experiences with a particular program. It aims to gather information on their satisfaction levels, areas of improvement, and any additional comments they may have. This form is intended for internal use and will help in understanding how the program can be further enhanced to better serve its participants. Please ensure that this form is not duplicated and that the feedback collected is accurate and reliable.
-
-</thinking>
-
 # Veterans Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluations from veterans on their experiences with a particular program.

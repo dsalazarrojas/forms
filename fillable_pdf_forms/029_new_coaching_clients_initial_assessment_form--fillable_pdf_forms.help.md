@@ -1,20 +1,3 @@
-<thinking>
-The purpose of the New Coaching Clients Initial Assessment Form is to gather vital information from clients about their coaching experience, preferences, and requirements. This form is a crucial step in understanding the client's background and expectations, allowing the coaching team to tailor their approach to best meet the client's needs.
-
-To avoid duplication, please ensure that the client is not already assessed by the coaching team before submitting this form. If you're unsure, you can always reach out to the coaching team to confirm.
-
-This form has 25 fields, divided into different sections that cater to various aspects of the client's experience and preferences. Please take the time to carefully complete this form to provide the most accurate and comprehensive information possible.
-
-The form is divided into the following sections:
-- Personal Information (Client Name, Email, Phone Number)
-- Coaching Experience (Coaching Experience, Previous Coaching Experience, Why Previous Coaching Worked, Why Previous Coaching Failed)
-- Coaching Preferences (Ideal Coaching Schedule, Preferred Communication Method, Coaching Location, Coaching Frequency, Coaching Language)
-- Payment Information (Payment Method, Payment Rate, Payment Terms, Billing Cycle, Billing Cycle Start Date, Billing Cycle End Date, Billing Address)
-
-Below is a detailed explanation of each field and its required status:
-
-</thinking>
-
 # New Coaching Clients Initial Assessment Form - Help Guide
 ## Purpose
 The New Coaching Clients Initial Assessment Form is designed to gather essential information from clients about their coaching experience, preferences, and requirements.

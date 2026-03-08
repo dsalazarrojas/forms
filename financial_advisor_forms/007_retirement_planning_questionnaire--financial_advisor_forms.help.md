@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's retirement planning goals and preferences. The form will ask questions about the individual's expected retirement age, investment experience, financial institution, risk tolerance, asset allocation, retirement goals, emergency fund, estate planning, investment frequency, account type, account value, inheritance plan, retirement plan, financial advisor, retirement time, expected retirement income, expected retirement income, retirement calculator account, and other related aspects. This form will help the financial advisor to understand the individual's needs and preferences in order to provide personalized advice and guidance.
-Please ensure you have not filled out this form before as it will reset all previously answered questions.
-</thinking>
-
 # retirement_planning_questionnaire - Help Guide
 ## Purpose
 The retirement planning questionnaire is designed to gather information about an individual's retirement goals and preferences, which will help financial advisors provide personalized advice and guidance.

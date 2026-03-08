@@ -1,14 +1,3 @@
-<thinking>
-To ensure the form's purpose, relevance, and non-duplication, let's analyze the input schema provided.
-
-The input schema consists of four fields with no conditional logic or branching. Each field is of type "text", which suggests that the form is likely collecting free-formatted or short-formatted text information from the user. Considering the "grill order" context, it is reasonable to assume that the form is for customers to place orders for grilled food or related products.
-
-Before proceeding, let's make sure this form doesn't already exist or is identical to another form in the same category. Since this form is AI-generated and not based on any proprietary content, it's likely to be an original adaptation.
-
-Assuming this form is a legitimate, original, and relevant creation, let's proceed to create a user-facing help guide.
-
-</thinking>
-
 # Online Grill Order Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from customers to place orders for grilled food or related products. Please fill out the form accurately to ensure that our team can process your order efficiently.

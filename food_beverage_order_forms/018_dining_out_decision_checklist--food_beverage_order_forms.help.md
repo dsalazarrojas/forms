@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their preferences when dining out, which will help the restaurant staff make informed decisions about their dining experience. This form will help to ensure that the users' needs are met, and the restaurant can provide a better service.
-
-It's essential to review the form and ensure that the fields are not duplicated or irrelevant to the dining experience.
-
-</thinking>
-
 # Dining Out Decision Checklist - Help Guide
 
 ## Purpose

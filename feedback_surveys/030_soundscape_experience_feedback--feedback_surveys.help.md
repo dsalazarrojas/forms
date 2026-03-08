@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand its purpose. This form is designed to collect feedback from users on their experience with a soundscape, which is likely a sounds-based immersive experience. This feedback will help us improve and refine the soundscape, making it more enjoyable and engaging for users. To avoid redundant feedback, we should make sure that users understand how to fill out the form correctly and what each field represents. This guide will help users do so.
-</thinking>
-
 # Soundscape Experience Feedback - Help Guide
 ## Purpose
 The Soundscape Experience Feedback form is designed to collect feedback from users on their experience with a soundscape. This feedback will help us improve and refine the soundscape, making it more enjoyable and engaging for users.

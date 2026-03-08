@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help collect information from a person reporting a bed bug case, including the details of the infestation, their contact information, and any relevant evidence they have gathered. The purpose of this form is to assist in the evaluation and treatment of the bed bug case.
-
-Before filling out this form, please make sure you have already taken the necessary steps to confirm the presence of bed bugs, such as inspecting your home for signs of bed bugs and their eggs, or consulting with a pest control professional.
-
-To fill out this form, please provide the following information:
-
-</thinking>
-
 # Bed Bug Case Evaluation Form - Help Guide
 ## Purpose
 The Bed Bug Case Evaluation Form is designed to collect information from a person reporting a bed bug case. This form helps assess the severity and details of the infestation, as well as gather contact information for follow-up.

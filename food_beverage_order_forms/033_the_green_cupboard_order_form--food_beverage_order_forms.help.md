@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "The Green Cupboard Order Form", we should consider the following:
-
-*   The form is designed to collect information for ordering food and beverages.
-*   The form has multiple fields, including delivery date, cutoff date, min order, delivery location, delivery fee, name, contact number, email, note, order items, order instructions, address, total order, order confirmation, special instructions, delivery time, order status, message, payment method, payment status, delivery person, delivery note, payment person, total amount, and assigned tool.
-*   The form requires the user to provide information on various aspects of the order, including delivery details, customer information, order items, and payment details.
-
-To create a clear and concise help guide, we will focus on explaining each field in simple terms without assuming unnecessary business logic.
-
-</thinking>
-
 # The Green Cupboard Order Form - Help Guide
 
 ## Purpose

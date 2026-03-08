@@ -1,15 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Spell Card Creation Form", I will consider the following:
-
-* The form is meant to collect information about a magical card (e.g., a card from a trading card game) with various attributes such as name, mana cost, type, power, card type, rarity, keywords, description, images, and card set.
-* The form requires a mix of text and select_one fields to cater to different types of information.
-* Each field is crucial in providing a complete picture of the card being created.
-* The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created by AI.
-* The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it.
-
-</thinking>
-
 # Spell Card Creation Form - Help Guide
 ## Purpose
 The Spell Card Creation Form is designed to collect information about a magical card (e.g., a card from a trading card game) with various attributes. This form is intended for users to input data about a card's name, mana cost, type, power, card type, rarity, keywords, description, images, and card set.

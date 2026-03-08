@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture a brief financial snapshot of an individual or business. The purpose of this form is to gather essential financial information, ensuring that the fields are concise, clear, and easily understandable for the end user. This form's structure and content are based on a careful analysis of financial surveys and templates found in public domains, making it an original adaptation rather than a copy or derivative of existing forms. By using this form, users can efficiently collect and document their financial data. It's crucial to review each field carefully to understand its relevance and ensure that the form is not used for any other purpose than its intended use.</thinking>
-
 # financial_snapshot_template - Help Guide
 ## Purpose
 The financial_snapshot_template form is designed to gather a brief financial snapshot of an individual or business, helping users collect and document their financial data efficiently.

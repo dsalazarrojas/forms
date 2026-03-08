@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quick Donation Form - Help Guide
 ## Purpose
 The Quick Donation Form is a tool used to collect donations from users for various funds and causes. This form allows users to contribute a specific amount to a chosen fund and optionally provide additional information about their affiliation and any other comments.

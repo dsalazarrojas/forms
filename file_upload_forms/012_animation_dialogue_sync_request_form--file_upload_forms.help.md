@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure you're not duplicating a project that already has a similar request for animation dialogue sync. If you're unsure, please reach out to your project manager or our support team to confirm. Additionally, please note that this form is for submitting a new project, not for tracking or updating existing projects.</thinking>
-
 # Animation Dialogue Sync Request Form - Help Guide
 ## Purpose
 The Animation Dialogue Sync Request Form is used to submit new projects that require animation dialogue sync services. This form helps us understand your project's specific needs, including project details, dialogue specifications, and any special requirements.

@@ -1,16 +1,3 @@
-<thinking>
-This form is a general-purpose form for customers to place an order for a protein bar. The form should be designed to gather the necessary information to process the order, including payment details. The form's purpose is to streamline the process of placing a protein bar order for the customer.
-
-The form has four fields, each with a unique purpose:
-
-*   "Order Details" is a text field where the customer can provide any additional information about their order.
-*   "Payment Details" is a required field where the customer must provide payment information to complete the order.
-*   "Order Summary" is a text field where the customer can confirm their order details.
-*   "Order Info" is a required field where the customer must provide information about their order.
-
-The fields are divided into two sections: "Order Details" and "Payment Details". The "Order Details" section is optional, while the "Payment Details" section is required.
-</thinking>
-
 # Protein Bar Order Form - Help Guide
 ## Purpose
 This form is for customers to place an order for a protein bar.

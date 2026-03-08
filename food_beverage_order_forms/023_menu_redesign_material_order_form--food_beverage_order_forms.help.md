@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect information from users who are interested in redesigning their menu. The form gathers details such as contact information, material request, order date and time, and other relevant details. 
-
-Before filling out this form, please ensure that you have reviewed the available options in the "Menu Redesign Material Request" field and that you have an idea of what materials you want to request. You will need to fill out this form only once for each material request.
-
-This form is designed to be a one-time request, and any repeated submissions with the same contact information and material request details will be considered as duplicates and may be removed by the team processing the request.
-
-Please note that the team will use the information provided in this form to contact you and discuss the details of your menu redesign project.
-
-</thinking>
-
 # Menu Redesign Material Order Form - Help Guide
 ## Purpose
 The Menu Redesign Material Order Form is designed to collect information from users who are interested in redesigning their menu. This form gathers details such as contact information, material request, order date and time, and other relevant details to ensure that the team can process the request efficiently.

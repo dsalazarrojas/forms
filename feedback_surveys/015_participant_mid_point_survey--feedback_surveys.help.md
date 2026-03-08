@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants at the midpoint of a program or initiative. It's essential to complete this form thoroughly and accurately to ensure that the information gathered is relevant and not duplicated. Before starting, please review the form to understand its purpose and how it aligns with your program's goals. 
-
-This form will be used to monitor and evaluate the progress of participants in the program, identify areas that need improvement, and inform future program planning and development.
-</thinking>
-
 # participant_mid_point_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants at the midpoint of a program or initiative. It's used to monitor and evaluate the progress of participants, identify areas that need improvement, and inform future program planning and development.

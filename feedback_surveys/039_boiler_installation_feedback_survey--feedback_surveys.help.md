@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Boiler Installation Feedback Survey", the form's purpose is to collect feedback from customers on their experience with the boiler installation process. This survey aims to gather information on various aspects of the installation, such as the quality of work, professionalism of the technician, and overall satisfaction. To ensure accurate and relevant feedback, please note that this survey is designed for customers who have completed a boiler installation and are looking to provide feedback on their experience. Please do not submit this form if you are a technician or staff member of the company.
-</thinking>
-
 # Boiler Installation Feedback Survey - Help Guide
 
 ## Purpose

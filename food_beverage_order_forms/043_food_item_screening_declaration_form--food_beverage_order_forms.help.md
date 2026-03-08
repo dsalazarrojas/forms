@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information about food items for screening purposes. The form is used in the context of a specific event or situation where certain food items need to be screened or checked for certain characteristics. The form is not intended for general public use, but rather for specific individuals or organizations involved in food handling and safety.
-
-It's worth noting that the sheer number of categories (80+) may be overwhelming or confusing for users. It might be beneficial to review and consolidate or merge some of these categories for better clarity and usability.
-
-The form asks for a variety of information including event details, item screening status, and various subcategories related to the food item. The goal is to ensure that all necessary information is collected for accurate and thorough screening. 
-
-The form's complexity may be due to the need to accommodate a wide range of possible food item scenarios. 
-
-Please refer to the form fields explanations for a detailed understanding of what each field represents.
-
-Please note that this form may not be the most efficient or effective tool for data collection due to its complexity. 
-</thinking>
-
 # Food Item Screening Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about food items for screening purposes. It is used in the context of a specific event or situation where certain food items need to be screened or checked for certain characteristics.

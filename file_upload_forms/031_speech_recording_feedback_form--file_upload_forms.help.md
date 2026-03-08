@@ -1,9 +1,3 @@
-<thinking>
-This form is for providing feedback on a speech recording, which is likely used by educators, instructors, or evaluators to assess a student's or speaker's performance. To confirm, this form is not meant for general speech feedback, but rather for specific, structured evaluations used for assessment and improvement. This form may be used for a variety of purposes, such as language learning, public speaking classes, or other speech-related activities.
-
-Before proceeding, please ensure that you have not used this form previously, as the goal is to evaluate one specific speech recording.
-</thinking>
-
 # Speech Recording Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation on a speech recording, allowing users to provide a structured assessment of the recording's quality, content, and areas for improvement.

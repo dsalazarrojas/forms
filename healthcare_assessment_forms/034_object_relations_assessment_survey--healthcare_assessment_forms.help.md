@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # object-relations-assessment-survey - Help Guide
 ## Purpose
 The **Object Relations Assessment Survey** is a form designed to gather information about the relationships between individuals, such as family members, friends, or colleagues. This form is used to assess the quality of these relationships and identify potential areas for improvement.

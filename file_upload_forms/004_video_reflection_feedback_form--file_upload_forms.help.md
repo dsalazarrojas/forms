@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Video Reflection Feedback Form - Help Guide
 ## Purpose
 This form is designed for users to provide feedback on video reflections, which can be used for various purposes such as training, evaluation, or coaching. The form is intended to collect information about the video content, including questions and additional comments or questions.

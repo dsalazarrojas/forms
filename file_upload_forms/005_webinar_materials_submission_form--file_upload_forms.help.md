@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to collect information from participants to submit materials related to a webinar. The form is used to ensure that all necessary materials are uploaded and associated with the correct participant. The form will be reviewed internally to ensure the materials meet the required standards and to prevent duplication of materials. 
-
-</thinking>
-
 # Webinar Materials Submission Form - Help Guide
 ## Purpose
 This form is used to collect information from participants about materials they wish to submit for a webinar. Please note that this form is only for participants who have been invited to the webinar.

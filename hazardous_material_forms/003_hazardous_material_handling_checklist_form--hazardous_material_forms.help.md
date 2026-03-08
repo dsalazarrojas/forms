@@ -1,9 +1,3 @@
-<thinking>
-This is the Hazardous Material Handling Checklist Form. The form is designed to gather information about employee involvement in handling hazardous materials. Its purpose is to ensure that employees are following proper procedures when handling hazardous materials, reducing the risk of accidents and ensuring a safe working environment.
-This form will ask for general information about the employee handling the materials, including their name, job title, and supervisor. It will also ask for more specific details about the handling process, such as the date and quantity of materials handled, and the location where the handling took place.
-Each field is designed to collect relevant information about the employee's handling process, including personal protection equipment used, and adherence to procedures for spills.
-</thinking>
-
 # Hazardous Material Handling Checklist Form - Help Guide
 ## Purpose
 The Hazardous Material Handling Checklist Form is used to ensure that employees handling hazardous materials are following proper procedures and protocols to minimize risk.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive document that captures various information from patients, including their personal details, medical history, and consent. It's crucial to ensure that the form is filled out correctly to avoid duplication of effort and to guarantee accurate patient data. The form will be used to track and monitor patient progress, which is a crucial aspect of physiotherapy treatment. To complete this form, follow the instructions below.</thinking>
-
 # Physiotherapy Consent Form - Help Guide
 ## Purpose
 The Physiotherapy Consent Form is a document that captures essential information from patients, including their contact details, medical history, and consent. It's designed to streamline the physiotherapy process and ensure that patients and physiotherapists are on the same page.

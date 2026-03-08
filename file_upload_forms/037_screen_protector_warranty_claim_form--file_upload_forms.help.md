@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be a tool for customers to submit warranty claims related to screen protectors purchased from the company. To confirm that this form is being used correctly, please review the form purpose and ensure that you have not recently submitted a claim for the same product. Completeness and accuracy in filling out this form will aid the claims process.
 
 </thinking>

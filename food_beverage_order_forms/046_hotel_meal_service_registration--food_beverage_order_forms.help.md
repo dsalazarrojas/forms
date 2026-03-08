@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for guests to register their meal preferences and dietary restrictions while staying at a hotel. It collects information on their preferred meal type (Breakfast, Lunch, or Dinner) and any dietary restrictions they may have. This form is typically used by hotel staff to tailor the meal service to the guest's needs.
-
-</thinking>
-
 # Hotel Meal Service Registration - Help Guide
 ## Purpose
 This form is designed to gather information from guests about their meal preferences and dietary restrictions while staying at the hotel.

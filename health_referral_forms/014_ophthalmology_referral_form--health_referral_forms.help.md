@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for an ophthalmology referral. The purpose of this form is to gather relevant details about a patient's medical history, diagnosis, and other relevant information that can help in making decisions for their care. This form should only be used for patients who have been seen in the clinic or hospital and are being referred to a specialist.
-
-Please note that this form may not be suitable for use with new patients or patients who have not been assessed by a doctor. The data collected in this form is intended to be used internally and should not be shared with third parties without explicit consent from the patient.
-
-</thinking>
-
 # ophthalmology_referral_form - Help Guide
 ## Purpose
 This form is used to collect information for an ophthalmology referral. The purpose of this form is to gather relevant details about a patient's medical history, diagnosis, and other relevant information that can help in making decisions for their care.

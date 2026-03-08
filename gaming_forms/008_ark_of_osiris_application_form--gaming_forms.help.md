@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for players of the Ark of Osiris game to apply for a spot on a team. The form is intended to gather information about the player's basic contact details, gaming experience, and preferences to determine their suitability for a team position. The purpose of this form is to streamline the application process and ensure that team members are compatible with the team's objectives.
-</thinking>
-
 # Ark Of Osiris Application Form - Help Guide
 ## Purpose
 This form is used to collect information from players interested in joining the Ark of Osiris team. The form is intended to gather essential details about each applicant, including their contact information, gaming experience, and team preferences.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information and files related to vendor booths, including exhibitor photos, vendor details, event name, booth number, photo URL, uploaded files, and event date. The form is created to support event management and organization, allowing users to easily collect and manage information from vendors who will be exhibiting at the event.
-
-Before filling out the form, please check if you have already submitted the form for the same event and vendor. This will prevent unnecessary duplication of effort and save time for both you and the event organizers.
-
-</thinking>
-
 # Vendor Booth Image Upload Form - Help Guide
 ## Purpose
 This form is designed to collect information and files related to vendor booths, including exhibitor photos, vendor details, event name, booth number, photo URL, uploaded files, and event date. The form is used to support event management and organization.

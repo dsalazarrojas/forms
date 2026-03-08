@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Build Your Own Sandwich - Help Guide
 ## Purpose
 This form allows you to build your own sandwich by selecting your preferences for various aspects, such as order type, size, bread type, protein, cheese, vegetables, sauces, and extras. You will need to complete the form with your details, including customer name, email, phone number, and pickup or delivery preferences. The form also allows for payment method selection and special instructions or allergies.

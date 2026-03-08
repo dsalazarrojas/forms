@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to help healthcare professionals screen patients for respiratory infections, such as pneumonia or COVID-19. The form collects patient information, symptoms, respiratory history, travel history, and contact history to aid in early detection and diagnosis. 
-
-This form is meant to be a starting point for further medical evaluation and diagnosis. It is not intended to replace a professional medical opinion or a face-to-face consultation. 
-
-Please note that this form is an AI-generated original adaptation, not affiliated with, endorsed by, or derived from any form platform, and is released under CC BY 4.0.
-
-</thinking>
-
 # Respiratory Infection Screening Form - Help Guide
 ## Purpose
 This form is designed to screen patients for respiratory infections and aid in early detection and diagnosis.

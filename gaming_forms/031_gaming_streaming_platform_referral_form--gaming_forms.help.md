@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a gaming streaming platform referral. This form likely serves to gather details about a particular streamer's platform, such as whether it is a referral (i.e., whether "Yes" or "No"), the streaming platform in question (e.g., Twitch, YouTube, or Facebook Gaming), the follow-up frequency (e.g., how often to reach out to the streamer), and any notes regarding the referral. This form may be used internally or externally, and its completion might be required for a particular reason.
-</thinking>
-
 # Gaming Streaming Platform Referral Form - Help Guide
 ## Purpose
 The form is used to collect information about a gaming streaming platform referral. This includes details such as the creator's information, referral type, streaming platform, follow-up frequency, and notes. The form is likely used for internal or external use cases.

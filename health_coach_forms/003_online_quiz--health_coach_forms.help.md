@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who will be completing the "Online Quiz" form. The purpose of this form is to collect data for an online quiz. It is likely used in a healthcare or educational setting to assess knowledge or skills. To avoid duplication, please ensure you have not already completed this form. If you're unsure about any of the fields, please refer to this guide for clarification.
-</thinking>
-
 # Online Quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Intake Form - Help Guide
 ## Purpose
 The Patient Intake Form is designed to collect essential information about a patient's medical history, contact details, and other relevant information for healthcare professionals to better understand their needs and provide effective care. This form is intended for patients, but it can also be used by healthcare providers to gather necessary information prior to appointments or treatments.

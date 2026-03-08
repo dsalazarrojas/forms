@@ -1,9 +1,4 @@
-# <thinking>
-This form is intended to gather information about users' gaming habits and preferences. It is meant to be used in a research context, likely to gather data for marketing or market research purposes.
-The survey consists of questions about the user's preferred game genre, favorite game, playing frequency, game rating, and other related topics. Some questions are multiple choice, while others are single choice or open-ended. The form does not require any sensitive or identifying information from the user.
-</thinking>
-
-# Video Game Survey - Help Guide
+# # Video Game Survey - Help Guide
 
 ## Purpose
 This form is designed to gather information about users' gaming habits and preferences. It includes questions about game preferences, playing frequency, game rating, and other aspects of gaming behavior.

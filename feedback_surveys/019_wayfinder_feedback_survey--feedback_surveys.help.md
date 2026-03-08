@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experience with Wayfinder, a navigation system used in a specific industry or category. The purpose of this form is to gather insights on how users interact with the navigation system, their satisfaction with signage clarity, and their overall wayfinding experience. The form is intended to be a quick and easy way for users to provide feedback, helping the developers to identify areas of improvement.
-
-</thinking>
-
 # Wayfinder Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experience with Wayfinder, a navigation system used in a specific industry or category. Your feedback will help us improve the system and make it more user-friendly for future users.

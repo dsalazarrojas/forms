@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who have been impacted by COVID-19. The purpose is to identify clients who have been exposed to or are experiencing COVID-19 symptoms, and to collect relevant details for further analysis and support. This form is not mandatory, and completion is optional.
-</thinking>
-
 # Covid Questionnaire For Clients - Help Guide
 ## Purpose
 The Covid Questionnaire for Clients is used to collect information about your health status regarding COVID-19. Please answer the questions accurately and honestly.

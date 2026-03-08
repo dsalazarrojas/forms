@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the "Lab Report Review Request Form" form. The form is used to request a review of a lab report and gather relevant information from the reviewer. To ensure accuracy and efficiency, please review this form carefully before proceeding.
-
-Before filling out the form, please make sure you have a clear understanding of the lab report and the review request. If you are unsure about the purpose or context of the lab report, please clarify with your supervisor or team lead before submitting the form.
-
-It is also essential to ensure that the form is not submitted multiple times for the same lab report. If you have already submitted a review request, please do not submit another one. This helps reduce unnecessary work and minimizes potential conflicts.
-</thinking>
-
 # Lab Report Review Request Form - Help Guide
 
 ## Purpose

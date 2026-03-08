@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a generic product order form. It is intended for customers to provide information about the product they want to order, including product name, quantity, price, product selection, customer details (name, email, and phone number), and shipping address. The form should only be used for products that are available for order, as it does not allow for the selection of unavailable products. It is not intended for customers to place orders for products that are not currently available.
-
-This form is not designed to be filled out by sales team members. The form is meant to be a customer-facing interface, and its purpose is to provide a simple, easy-to-use interface for customers to place orders and communicate any special requests or comments.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and that you are providing accurate information.</thinking>
-
 # Generic Product Order Form - Help Guide
 ## Purpose
 The Generic Product Order Form is a customer-facing form designed to allow customers to place orders for products in a simple and easy-to-use interface.

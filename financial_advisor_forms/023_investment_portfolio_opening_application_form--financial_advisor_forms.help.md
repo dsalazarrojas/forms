@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from clients seeking to open an investment portfolio. The purpose of this form is to provide a standardized and structured approach to gathering essential details from clients, ensuring that all necessary information is collected in an organized and efficient manner. This form is typically used by financial advisors or investment professionals to assess the client's investment goals, risk tolerance, and personal information, enabling them to provide tailored investment advice and guidance. 
-
-Before completing this form, please ensure that you have all the necessary information required, as some fields are marked as 'required'. This form is designed to be completed by individuals or entities interested in opening an investment portfolio, and the information collected will be used to create a profile for the client's investment account. 
-
-Please note that this form has 5 pages with 25 fields in total.
-</thinking>
-
 # Investment Portfolio Opening Application Form - Help Guide
 ## Purpose
 

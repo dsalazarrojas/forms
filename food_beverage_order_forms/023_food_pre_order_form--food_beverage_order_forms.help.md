@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help customers pre-order food items in advance. The form is intended to gather information from customers about their food preferences, order details, and contact information. The form will be used by restaurant staff to process and confirm customer orders.
-
-This form is not intended for use in high-stress or high-security situations, as it does not include any security questions or sensitive data fields.
-
-The form's structure consists of multiple pages, each with a unique set of fields. The first page contains fields for the order title, order details, date and time, and contact information. The second page contains fields for additional food selections and order confirmations. The third page contains a note field for any additional comments or instructions. The fourth page contains fields for email and phone number.
-
-The form is designed to be completed by customers in advance of their visit to the restaurant, allowing staff to process and prepare their orders accordingly.
-
-</thinking>
-
 # Food Pre Order Form - Help Guide
 ## Purpose
 The Food Pre Order Form is designed to help customers pre-order food items in advance of their visit to the restaurant. This form allows customers to provide information about their food preferences, order details, and contact information, which is used by restaurant staff to process and confirm their orders.

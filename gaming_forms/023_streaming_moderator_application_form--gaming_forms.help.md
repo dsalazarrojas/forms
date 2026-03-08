@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in becoming streaming moderators on our platform. The purpose of this form is to gather necessary details for the review and consideration of applicants. This form will help us understand the applicants' qualifications and preferences, ensuring a well-rounded and thorough evaluation process. Please fill out this form accurately to increase your chances of being selected as a moderator. This form does not need to be filled out multiple times, so please only submit it once.</thinking>
-
 # Streaming Moderator Application Form - Help Guide
 ## Purpose
 The Streaming Moderator Application Form is used to collect information from individuals interested in becoming stream moderators on our platform.

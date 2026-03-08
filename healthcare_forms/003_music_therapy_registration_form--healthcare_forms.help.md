@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering patients for music therapy sessions. The form should only be completed if the user is a patient. The form is part of a larger music therapy system, and the data collected will be used to schedule and manage music therapy sessions. This form is not meant to be used for other purposes such as booking music therapy sessions for someone else.
-</thinking>
-
 # music_therapy_registration_form - Help Guide
 ## Purpose
 This form is used for registering patients for music therapy sessions. It is used to collect the patient's information and schedule music therapy sessions.

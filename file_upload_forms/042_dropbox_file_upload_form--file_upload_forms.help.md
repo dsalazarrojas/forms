@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to upload a file to a Dropbox account. The form is intended for users who have a Dropbox account and want to upload files to their account using the Dropbox API. The form is not meant for users who do not have a Dropbox account or who are not familiar with the API.
-</thinking>
-
 # dropbox_file_upload_form - Help Guide
 ## Purpose
 This form is used to upload a file to a Dropbox account using the Dropbox API.

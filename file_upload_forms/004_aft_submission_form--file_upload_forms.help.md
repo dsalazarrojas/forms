@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to capture information about a new submission or update to an existing submission for an Asynchronous File Transfer (AFT) request. It is intended for use by requesters to provide details about their request, including their contact information, submission type, and desired completion date. The form will be used by reviewers to process and prioritize the request based on the provided information.
-</thinking>
-
 # AFT Submission Form - Help Guide
 ## Purpose
 The AFT Submission Form is a tool for requesters to submit new requests or updates to existing submissions for AFT review and processing. This form is designed to gather essential information to ensure efficient and effective processing of requests.

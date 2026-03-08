@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their experiences, strengths, and weaknesses. The form has 15 fields, including text inputs for employee details, select options for roles and departments, and multiple-choice questions for feedback and areas for note-taking. The form is meant to gauge employee dedication and excellence in their work, and is likely used in an organizational setting to gather insights for performance evaluations or team development. Before filling out the form, please ensure that you have permission from the relevant authorities to complete it.
-</thinking>
-
 # excellence_and_dedication_survey - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their experiences, strengths, and weaknesses.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Insulin Pump Settings Worksheet" form. I'll aim to provide a clear and concise guide that helps users understand the form's purpose, how to complete it, and what each field means. I'll also ensure that the guide is based on the provided YAML fields and is easy to follow. To create this guide, I'll need to analyze the form structure, identify the fields, and craft explanations that are relevant and concrete.</thinking>
-
 # Insulin Pump Settings Worksheet - Help Guide
 ## Purpose
 The Insulin Pump Settings Worksheet is a form designed to collect settings and information related to insulin pumps used for medical purposes. This form helps healthcare providers gather data to manage and monitor insulin pump settings effectively.

@@ -1,15 +1,3 @@
-<thinking> 
-  This form is a checklist for parapet inspection. It is used to document the inspection of a parapet, which is a type of safety harness used in construction or industrial settings. The form is designed to collect information about the condition of the parapet, including any visible signs of damage or wear. This form is intended for use by inspectors or safety professionals to ensure that parapets are properly maintained and safe for use.
-  
-  This form appears to be a comprehensive checklist, with multiple pages and fields for collecting information about each condition of the parapet. It is likely that this form is used in conjunction with other forms or documentation to provide a complete assessment of the parapet's condition.
-  
-  Before filling out this form, make sure you have access to the parapet being inspected and any relevant documentation or resources needed for a thorough inspection.
-  
-  The form is designed to be completed by one person at a time, and each field should be filled out as thoroughly as possible to ensure accurate and comprehensive documentation of the parapet's condition.
-  
-  This form is not intended for public use, so please do not share or distribute it without permission.
-  </thinking>
-
 # parapet_inspection_checklist - Help Guide
 ## Purpose
 The parapet_inspection_checklist is designed to collect information about the condition of a parapet, including any visible signs of damage or wear.

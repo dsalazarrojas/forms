@@ -1,11 +1,3 @@
-<thinking>
-The form is intended for users to submit data related to ultramarathon events, such as video submissions, participant information, and event details. To ensure the form is filled out correctly, users should only submit information for events they are actually participating in or organizing. To prevent duplication of effort, users should check the form's "Participant Video Category" field to see if they have already submitted an entry for the same event. 
-
-The form's fields are organized into several sections: Event Information, Participant Information, and Video Submission. The Event Information section asks for the event's name, date, location, and distance. The Participant Information section asks for the participant's name, phone number, email, and other demographic details. The Video Submission section requires the participant to upload a video file and provide a title and description for it. The form also includes fields for participants to provide their comments and heart rate information, in case they want to share more details about their experience.
-
-Please note that the form requires the participant to select at least one video category for their submission.
-</thinking>
-
 # ultramarathon_video_submission_form - Help Guide
 ## Purpose
 The ultramarathon_video_submission_form is designed to collect information from participants and event organizers about ultramarathon events.

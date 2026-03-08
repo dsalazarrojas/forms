@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer information and order details for bagels. The form will guide the user through several steps to collect all necessary information. 
-</thinking>
-
 # Bagel Order Form - Help Guide
 ## Purpose
 This form is for customers to place an order for bagels. It will collect information about the customer, bagel selection, spread and toppings, delivery information, and payment method.

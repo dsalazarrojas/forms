@@ -1,13 +1,3 @@
-<thinking>
-The form "Daily Location Media Submission" is designed to collect information and media from users about their daily locations. This form is intended to gather data on the type of media submitted (audio, image, or video), the location where the media was captured, and additional details such as date and time of capture, location description, coordinates, notes, and any associated file.
-
-To ensure accuracy and consistency, please note that:
-
-* This form is intended for submitting media related to a specific location.
-* Please do not submit duplicate entries for the same location.
-* Please ensure that the media you upload is relevant to the location submitted.
-
-</thinking>
 # Daily Location Media Submission - Help Guide
 ## Purpose
 The "Daily Location Media Submission" form is designed to collect information and media from users about their daily locations. This form is intended to gather data on the type of media submitted (audio, image, or video), the location where the media was captured, and additional details such as date and time of capture, location description, coordinates, notes, and any associated file.

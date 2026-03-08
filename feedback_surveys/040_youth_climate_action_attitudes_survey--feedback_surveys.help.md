@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Climate Action Attitudes Survey - Help Guide
 ## Purpose
 The Youth Climate Action Attitudes Survey is a form used to collect feedback and opinions from youth on climate actions. By filling out this form, you will be helping to gather valuable insights on the climate concerns and priorities of young people.

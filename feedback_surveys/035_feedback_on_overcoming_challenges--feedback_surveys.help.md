@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback on how individuals overcome challenges in their personal and professional lives. The form is intended to be used by individuals who have faced difficulties and are willing to share their experiences and insights with others. It's essential to complete this form honestly and to the best of your abilities to provide valuable information that can help others in similar situations.
-
-Before starting, please make sure you have not already submitted feedback on this specific challenge. This will help us avoid duplication of feedback and ensure that we can provide the most accurate and useful insights to those who need them.
-
-If you are unsure about any of the questions or have any doubts, please feel free to ask for clarification or seek help from our support team.
-
-</thinking>
-
 # feedback_on_overcoming_challenges - Help Guide
 ## Purpose
 This form is designed to gather feedback on how individuals overcome challenges in their personal and professional lives.

@@ -1,11 +1,3 @@
-<thinking>
-This is a form for tracking physical activities. The purpose of this form is to help users record and monitor their physical activities, including the type of activity, intensity, frequency, and duration. The form is designed to collect data that will help users set goals, track progress, and analyze their physical activity habits. It is intended for both personal and professional use. The form is not meant for use in high-stress or high-stakes situations, and users are encouraged to complete the form only when they feel comfortable doing so.
-
-Before starting, please review the following fields and ensure that they are relevant to your needs. If you have any questions or concerns, please contact the support team.
-
-This guide will walk you through each field of the form and explain its purpose and expected input.
-</thinking>
-
 # Physical Activity Tracker - Help Guide
 ## Purpose
 The Physical Activity Tracker form is designed to help you record and monitor your physical activities. This form will help you set goals, track progress, and analyze your habits.

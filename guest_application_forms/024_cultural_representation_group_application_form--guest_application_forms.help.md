@@ -1,8 +1,4 @@
-> <thinking>
-This form is intended to collect information from individuals who wish to join a Cultural Representation Group. The purpose of this form is to gather relevant data about the applicant, including their name, email, phone number, preferred method of communication, and other relevant details. This information will be used by the group administrators to review and consider applicants for membership. Please note that this form is designed to be completed by individuals, not organizations.
-</thinking>
-
-# Cultural Representation Group Application Form - Help Guide
+> # Cultural Representation Group Application Form - Help Guide
 
 ## Purpose
 This form is used to collect information from individuals who wish to join a Cultural Representation Group. It is intended to gather relevant details about the applicant, which will be reviewed and considered by group administrators for membership.

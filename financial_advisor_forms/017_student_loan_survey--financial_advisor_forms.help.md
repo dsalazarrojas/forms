@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Student Loan Survey - Help Guide
 
 ## Purpose

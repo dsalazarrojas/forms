@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect submissions for a book spine contest where participants can submit their creative book spine designs. The purpose of this form is to gather information about the participant, their book design, and any additional details required for the contest evaluation process. It is recommended that participants carefully review the form before submission to avoid any duplication of entries.
-</thinking>
-
 # Book Spine Contest Submission - Help Guide
 ## Purpose
 The Book Spine Contest Submission form is intended for participants to submit their book spine design entries for evaluation. It is essential to review the form carefully before submission to ensure that all required fields are accurately filled out.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dissociation Screening Assessment Form - Help Guide
 
 ## Purpose

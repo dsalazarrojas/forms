@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a fundraiser related to a "Popcorn Pickup" event, presumably for schools. The purpose of this form is to gather essential details from schools and their students. It is not affiliated with any form platforms and is a custom-made form. The form's fields are designed to collect specific information from schools and students, ensuring that the data collected is accurate and useful for the event organizers.
-</thinking>
-
 # Popcorn Pickup Registration - Help Guide
 ## Purpose
 The Popcorn Pickup Registration form is designed to collect information from schools and students for a fundraiser event. The form helps event organizers gather necessary details from schools, including school names, contact emails, pickup times, and student names.

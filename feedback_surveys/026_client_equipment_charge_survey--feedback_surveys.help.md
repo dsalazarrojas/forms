@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback from clients regarding their experiences with equipment charges. The purpose of this form is to gather information about the clarity, accuracy, and value of the charges, as well as any issues or areas for improvement in the billing process. This form should not be completed by clients who have not received an invoice or have not experienced any billing issues.</thinking>
-
 # Client Equipment Charge Survey - Help Guide
 ## Purpose
 The Client Equipment Charge Survey is designed to help us understand your experiences with equipment charges. Please provide your honest feedback on the clarity, accuracy, and value of the charges, as well as any issues or areas for improvement in the billing process.

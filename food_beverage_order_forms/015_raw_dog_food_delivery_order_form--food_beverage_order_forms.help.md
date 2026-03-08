@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers for raw dog food delivery orders. This form appears to be designed for pet owners to place orders for raw dog food, specifying details such as contact information, dog information, delivery information, payment methods, and order specifics. The form is likely used in a business-to-consumer context, where customers can order raw dog food for their pets on a regular basis. To ensure accurate completion, it is essential to understand each field's purpose and how to fill it in correctly.
-
-Before we dive into the detailed instructions for each field, let's confirm that this form is not a duplication or a variation of existing forms. If you're unsure about the form's purpose or have concerns about its relevance, please reach out to the relevant team for clarification.
-
-</thinking>
-
 # raw_dog_food_delivery_order_form - Help Guide
 ## Purpose
 

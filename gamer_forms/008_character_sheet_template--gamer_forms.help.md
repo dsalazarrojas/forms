@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to create a character sheet for a tabletop role-playing game (RPG) campaign. The character sheet template is intended for players to provide detailed information about their characters, including their name, character name, class, level, race, background, alignment, ability scores, equipment, and other relevant details. The purpose of this form is to streamline the character creation process for both players and game masters. By providing a structured format, players can easily input their character's attributes and abilities, and game masters can have a clear understanding of each character's traits and potential strengths and weaknesses.
-
-Before creating a character sheet with this template, ensure that you are not duplicating an existing character. Each character should have a unique name and background.
-
-</thinking>
-
 # Character Sheet Template - Help Guide
 
 ## Purpose

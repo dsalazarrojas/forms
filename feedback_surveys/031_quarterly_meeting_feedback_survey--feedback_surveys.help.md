@@ -1,5 +1,3 @@
-<thinking>...The Quarterly Meeting Feedback Survey is designed to collect feedback from attendees on the effectiveness of recent meetings. This form is meant to be filled out by attendees of a meeting, typically to provide a snapshot of the meeting's quality and any notable discussions or takeaways. The form is not a mandatory part of the meeting process, but rather an opportunity for attendees to share their thoughts and insights...The form is not meant to be filled out by team leaders or other meeting organizers, but rather by the attendees themselves. This form is intended for attendees who wish to provide feedback, suggestions, and ideas for future meetings...This form is not a record-keeping tool, but rather a way for attendees to express their opinions and experiences...</thinking>
-
 # Quarterly Meeting Feedback Survey - Help Guide
 ## Purpose
 The Quarterly Meeting Feedback Survey is designed to collect feedback from attendees on the effectiveness of recent meetings. This form is meant to provide a snapshot of the meeting's quality and any notable discussions or takeaways.

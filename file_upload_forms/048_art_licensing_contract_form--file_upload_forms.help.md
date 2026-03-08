@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from the Licensor and the Licensee for the purpose of creating an art licensing contract. The form will help ensure that both parties have a clear understanding of the terms and conditions of the agreement, including the scope of use, territorial rights, and compensation. This will reduce misunderstandings and potential disputes. The form is designed to be completed by both the Licensor and the Licensee and will serve as a legal document to be reviewed and signed by both parties.
-
-</thinking>
-
 # Art Licensing Contract Form - Help Guide
 
 ## Purpose

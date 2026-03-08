@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Alarm Inspection Report Template - Help Guide
 
 ## Purpose

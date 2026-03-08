@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to assess the mental health status of an individual, gathering information on their mental state, anxiety level, mood, sleep quality, stress level, mental illness diagnosis, symptoms, treatment, and overall health status. The purpose of this form is to provide a comprehensive assessment of an individual's mental health, helping health coaches and providers identify potential areas of concern and provide targeted recommendations for improvement.
-
-Please note that this form is an original adaptation created using public survey metadata and is not affiliated with any proprietary form platforms. It is free to use, modify, and even sell, provided credit is given.
-
-This form collects the following information:
-
-*   The mental state, anxiety level, mood, sleep quality, and stress level of the individual.
-*   Whether the individual has been diagnosed with a mental illness and the type of symptoms they experience.
-*   The treatment they are undergoing for their mental health.
-*   The current mental health status of the individual.
-*   Any recommendations or comments from the health coach or provider.
-*   Whether the form has been submitted, completed, and revised by the individual.
-*   The version and creator of the form.
-
-It is essential to complete this form accurately and honestly, as the information gathered will help health coaches and providers provide personalized guidance and support.
-
-</thinking>
-
 # Mental Health Assessment Form - Help Guide
 ## Purpose
 

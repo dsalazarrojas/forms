@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting an invoice. The form is typically used by clients or customers to submit their requests for an invoice from the financial advisor. Before proceeding, please ensure that you are requesting an invoice for a valid order and that you have all necessary information to complete the form accurately. It is essential to review the form carefully to avoid missing any required fields. This form is not a duplication of an existing form.
-</thinking>
-
 # invoice_request_form - Help Guide
 ## Purpose
 This form is used to request an invoice from a financial advisor. It is a simple form designed to collect essential information from clients or customers to facilitate the generation of their invoices.

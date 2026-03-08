@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from speakers who are submitting their presentation slides for a conference. The purpose of this form is to ensure that speakers have the correct information about their presentation, including speaker details, presentation title, session information, file format, and any special instructions or recording consent. This form is intended for conference organizers to collect relevant information about speaker presentations in a structured and organized manner.
-</thinking>
-
 # Conference Presentation Slide Upload - Help Guide
 ## Purpose
 The Conference Presentation Slide Upload form is used to collect information from speakers about their presentation slides for a conference. This includes speaker details, presentation title, session information, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from guests about their travel history, symptoms, and other relevant details in the context of a COVID-19 scenario. The purpose of this form is to gather accurate and up-to-date information about guests to ensure their safety and the safety of others during their stay. It is essential that the form is filled out honestly and accurately to prevent any potential health risks. 
-</thinking>
-
 # guest_self_declaration_form_covid_19 - Help Guide
 ## Purpose
 This form is used to collect information from guests about their travel history, symptoms, and other relevant details in the context of a COVID-19 scenario.

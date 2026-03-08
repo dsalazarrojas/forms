@@ -1,7 +1,3 @@
-<thinking>
-This form is a Skincare Clinic Pricing Satisfaction Survey, designed to collect feedback on the pricing of the clinic's services. The survey will gather information on the visitors' first-time experience, visit frequency, price sensitivity, price range, and their expectations and willingness to pay for services. To avoid duplication of effort, please ensure that the data collected through this form does not overlap with existing feedback mechanisms. This form will help the clinic's management to better understand the pricing perception of its visitors and make informed decisions for future service pricing and offerings.
-</thinking>
-
 # Skincare Clinic Pricing Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback on the pricing of our Skincare Clinic services, helping us to better understand your expectations and satisfaction with our prices.

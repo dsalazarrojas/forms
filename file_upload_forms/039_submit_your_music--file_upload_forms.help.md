@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to submit their music for review or consideration. The form has four fields: "Upload Music", "Music Title", "Artist", and "Submit Date". The form's purpose is to provide a simple and user-friendly way for users to share their music with the intended audience. This form is not affiliated with or endorsed by any form platform, and its design is an original adaptation using public survey topic metadata. 
-
-This guide is intended for end-users who want to understand how to complete the form correctly and what each field means.
-
-</thinking>
-
 # Submit Your Music - Help Guide
 ## Purpose
 This form allows you to submit your music for review or consideration. Please use this guide to learn how to complete it accurately.

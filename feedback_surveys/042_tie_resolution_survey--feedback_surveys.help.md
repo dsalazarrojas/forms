@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users regarding their experience with tie resolution, a process used to settle conflicts or disputes. The purpose of this form is to gather information on the user's satisfaction with the tie resolution process, their overall satisfaction with the outcome, and any improvement ideas they may have. This form is not meant to be a mandatory or mandatory survey, but rather a voluntary feedback collection tool to help us improve the tie resolution process.
-</thinking>
-
 # Tie Resolution Survey - Help Guide
 ## Purpose
 The Tie Resolution Survey is a form designed to collect feedback from users regarding their experience with the tie resolution process. This form helps us understand users' satisfaction levels with the tie resolution process, tie breakers, and decision-makers, and gather their improvement ideas.

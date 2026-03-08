@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is likely to collect information from a healthcare professional or administrator when referring a patient to a speech pathologist for evaluation or treatment. This form will serve as a template to gather relevant details about the patient, the reason for referral, and other pertinent information that will aid in the assessment and treatment process.
-To ensure accuracy, please verify that this form does not already exist in the system before creating a duplicate.
-</thinking>
-
 # Speech Pathology Referral Form - Help Guide
 ## Purpose
 This form is used by healthcare professionals or administrators to refer patients to a speech pathologist for evaluation or treatment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from patients about their stool consistency and bowel movements. It is intended to be used by healthcare professionals to assess the patient's overall health and potential gastrointestinal issues. This form is used for patient intake and follow-up purposes. Please fill out the form with as much detail as possible and answer each question truthfully. 
-
-This form is likely used for clinical research, patient care, or data analysis. It may be used by healthcare providers, researchers, or other medical professionals. 
-
-</thinking>
-
 # Stool Consistency Assessment Questionnaire - Help Guide
 ## Purpose
 The Stool Consistency Assessment Questionnaire is a tool used to collect information about a patient's stool consistency and bowel movements. It is used to assess the patient's gastrointestinal health and identify potential issues.

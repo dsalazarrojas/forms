@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a State Orchestra Tournament entry. The purpose of this form is to gather essential data from users such as their user information, contact details, and orchestra information. The form is divided into four sections: User Info, Contact, Orchestra Info, and Upload Files. 
-
-To ensure that you're filling out the correct information, please review each field and its corresponding label carefully. 
-
-If you're unsure about any field, you can check our FAQs or contact us at form@gic.mx.
-
-</thinking>
-
 # State Orchestra Tournament Entry Form - Help Guide
 ## Purpose
 This form is used to collect information from users for the State Orchestra Tournament entry.

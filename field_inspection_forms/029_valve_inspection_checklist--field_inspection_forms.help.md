@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the inspection of valves, ensuring they are in good condition and functioning properly. This process is crucial to prevent accidents, ensure compliance with industry standards, and maintain optimal plant performance. 
-
-It's essential to fill out this form accurately to gather comprehensive data about the valve conditions, including the state of the valve, the date of the inspection, the name of the inspector, and any notable remarks or observations. Additionally, capturing photos of the valve is a vital part of the inspection process, allowing for a visual record of the valve's condition. 
-
-This form is meant to be a standardized, reusable tool to support consistency across different inspections. Please fill it out carefully, considering the required and optional fields, and ensure you understand the purpose and relevance of each section before proceeding.
-</thinking>
-
 # Valve Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to guide inspectors through the process of evaluating and documenting valve conditions during plant inspections. By filling out this form accurately, you can help maintain a high level of plant safety and performance.

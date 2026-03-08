@@ -1,38 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Standard Catering Order Form" form. This form appears to be a template for collecting information from clients for catering orders. The form has several sections, including contact details, delivery details, order details, and payment information. We'll need to explain each section clearly and concisely to ensure users understand its purpose and how to complete it accurately.
-
-The form has the following fields:
-
-* Home page (not required)
-* Contact details (not required)
-* Delivery details (not required)
-* Order details (select multiple options)
-* Payment details (select one option)
-* Special instructions (text field)
-* Order notes (text field)
-* Signature (date)
-* Contact signature (date)
-* Delivery signature (date)
-* Payment signature (date)
-* Client signature (date)
-* Delivery address (text field)
-* Delivery city (text field)
-* Delivery state (text field)
-* Delivery zip (text field)
-* Delivery country (text field)
-* Contact email (text field)
-* Contact phone (text field)
-* Contact phone number (text field)
-* Contact fax (text field)
-* Order total (number field)
-* Order subtotal (number field)
-* Order tax (number field)
-* Order balance (number field)
-
-We'll need to break down each section and field clearly, making sure to explain any field labels that may be unclear or ambiguous.
-
-</thinking>
-
 # Standard Catering Order Form - Help Guide
 ## Purpose
 The Standard Catering Order Form is a template for collecting information from clients for catering orders. This form helps to gather essential details such as contact and delivery information, order details, and payment information.

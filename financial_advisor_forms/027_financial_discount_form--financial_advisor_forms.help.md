@@ -1,12 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the Financial Discount Form. This form is used to capture information related to financial discounts, such as the store business, discount code, type, and other relevant details. The form is designed to be completed by customers or financial advisors to provide accurate and complete information for processing financial discounts. It's essential to ensure that the form is filled out correctly, as the information provided will be used to make financial decisions.
-
-Before starting, please check that you have all the required information and that you're not duplicating any existing records. This will help prevent errors and ensure that your submission is processed correctly.
-
-This form consists of 17 fields, each with a specific purpose. Please read through each field carefully to understand what information is required and how to fill it out correctly.
-
-</thinking>
-
 # Financial Discount Form - Help Guide
 ## Purpose
 The Financial Discount Form is used to capture information related to financial discounts, allowing customers or financial advisors to provide accurate and complete details for processing.

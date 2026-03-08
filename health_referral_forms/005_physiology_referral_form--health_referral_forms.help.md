@@ -1,7 +1,3 @@
-<thinking>
-This form is used to refer a patient's physiology data to another service or department. This data includes patient information, medical history, test requests, test results, physician notes, and more. This form should only be used for patients who have been referred to a specialist, such as a cardiologist or endocrinologist. Please ensure that you have the necessary permission to refer a patient before using this form. To avoid duplication, please only use this form once for each referral.
-</thinking>
-
 # Physiology Referral Form - Help Guide
 ## Purpose
 The Physiology Referral Form is used to gather and share patient physiology data with other healthcare providers.

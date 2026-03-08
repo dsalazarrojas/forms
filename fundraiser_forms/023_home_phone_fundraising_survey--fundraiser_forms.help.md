@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the "Home Phone Fundraising Survey" form, designed to gather information from users about their experiences and perceptions related to fundraising. This form aims to collect data on individuals' concerns and experiences with fundraising, including their level of involvement in fundraising activities, their sources of funding, and their thoughts on outreach and phone calls.
-
-The form consists of 10 fields, including text inputs for name, phone number, and concerns about different aspects of fundraising, as well as select-type questions about involvement in fundraising and availability of donors. This guide will walk users through each field, its purpose, and how to complete it.
-
-Before completing this form, please ensure that you have the necessary permissions and understand the context in which it is being used. If you're unsure about the purpose or usage of this form, please contact the form administrators for clarification.
-
-</thinking>
-
 # Home Phone Fundraising Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Worker Equipment Inspection Request Form - Help Guide
 ## Purpose
 The Worker Equipment Inspection Request Form is used to track and record information about equipment condition, inspection dates, and other relevant details. This form is intended for workers to report on the status of their equipment, which is essential for maintaining accurate records and ensuring compliance with safety regulations.

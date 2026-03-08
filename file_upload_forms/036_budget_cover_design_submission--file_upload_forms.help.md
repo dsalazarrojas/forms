@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to collect information about a budget cover design submission for a book or publication. The purpose of this form is to ensure that all necessary details are provided by the designer, including their contact information, design details, and submission requirements. 
-
-The form will help the client understand what to expect from the design submission, including the designer's name, contact information, and design file details. 
-
-The goal of this form is not to duplicate or replace any internal design processes, but rather to provide a standardization of information collection for future reference and consistency.
-
-</thinking>
-
 # Budget Cover Design Submission - Help Guide
 ## Purpose
 The Budget Cover Design Submission form is used to collect information about a cover design submission for a book or publication. This form helps us understand the designer's details, design concept, and submission requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal Note:** This form is for users to enter information related to a photo competition. It is likely used by staff or administrators to collect entrant information and photo URLs. Before filling out this form, ensure you have the necessary permission and follow any specific guidelines for the competition.
 
 </thinking>

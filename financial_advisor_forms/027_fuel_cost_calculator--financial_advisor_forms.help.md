@@ -1,28 +1,3 @@
-<thinking>
-
-This form is a Financial Advisor form, designed to calculate the fuel cost of a vehicle given various input parameters. The form is intended to provide an accurate estimate of the fuel cost based on distance traveled, fuel efficiency, vehicle weight, consumption rate, and other factors.
-
-To determine the purpose and relevance of this form, we can infer that:
-
-- **Distance Traveled**: This field is used to enter the distance traveled by the vehicle.
-- **Fuel Efficiency**: This field is used to enter the fuel efficiency of the vehicle.
-- **Vehicle Weight**: This field is used to enter the weight of the vehicle.
-- **Consumption Rate**: This field is used to enter the consumption rate of the vehicle.
-- **Drive Frequency**: This field is used to select the drive frequency of the vehicle.
-- **Fuel Consumption Rate**: This field is used to enter the fuel consumption rate of the vehicle.
-- **Fuel Consumption Unit**: This field is used to select the unit of measurement for fuel consumption.
-- **Fuel Consumption Type**: This field is used to select the type of fuel consumed by the vehicle.
-- **Consumption Type**: This field is used to select the type of consumption (directly injected or indirectly injected).
-- **Estimated Cost**: This field is used to calculate the estimated cost of fuel based on the input data.
-- **Fuel Cost**: This field is used to display the calculated fuel cost.
-- **Fuel Type**: This field is used to select the type of fuel used by the vehicle.
-- **Fuel Consumption**: This field is used to select the level of fuel consumption.
-- **Fuel Price per Unit**: This field is used to enter the price per unit of fuel.
-
-Given the input fields, we can infer that this form is used to provide an estimate of the fuel cost of a vehicle for a given distance traveled, taking into account various factors such as fuel efficiency, vehicle weight, consumption rate, and other parameters.
-
-</thinking>
-
 # Fuel Cost Calculator - Help Guide
 
 ## Purpose

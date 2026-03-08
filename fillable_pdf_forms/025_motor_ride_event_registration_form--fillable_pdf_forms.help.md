@@ -1,8 +1,3 @@
-<thinking> 
-This guide is intended to provide instructions on how to fill out the Motor Ride Event Registration Form. This form is used to register motor ride events for participants. Please ensure that you have all the required information before proceeding. Note that fields are not required unless specified as "required" in the form.
-
-</thinking>
-
 # Motor Ride Event Registration Form - Help Guide
 ## Purpose
 The Motor Ride Event Registration Form is used to register motor ride events for participants. This form captures essential details about the event, including participant information and ride specifics.

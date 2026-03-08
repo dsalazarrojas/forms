@@ -1,5 +1,3 @@
-<thinking>As a fundraiser, it's crucial to accurately declare your campaign's purpose, methods, and financial information to maintain transparency and trust with donors, the public, and regulatory bodies. This Campaign Fundraising Declaration Form is a crucial document that outlines these essential aspects of your campaign. Before proceeding, ensure you haven't already submitted a similar declaration for this campaign, as duplicate submissions may cause confusion or delay the process. Please review the form carefully, and answer each question truthfully, as this information is vital for maintaining the integrity of your campaign and ensuring compliance with applicable laws and regulations.</thinking>
-
 # Campaign Fundraising Declaration Form - Help Guide
 ## Purpose
 This form is a crucial document that outlines the essential aspects of your campaign, including its purpose, methods, and financial information. Completing this form ensures transparency and compliance with applicable laws and regulations.

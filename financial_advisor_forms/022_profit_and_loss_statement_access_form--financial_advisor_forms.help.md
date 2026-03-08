@@ -1,14 +1,3 @@
-<thinking>
-The form is intended to collect information about a business's financial data, specifically the profit and loss statement. This form is used to access and review the financial information of a business, ensuring that the data is accurate and up-to-date. 
-
-Before proceeding, please ensure that you are authorized to access the financial data of the business. 
-
-If you have already completed this form, please note that some fields may have been previously filled in. To avoid duplication of effort, please review the current status of the form before making any changes. 
-
-Additionally, please ensure that all fields are filled in accurately and completely, as this will affect the accuracy of the financial data.
-
-</thinking>
-
 # Profit And Loss Statement Access Form - Help Guide
 ## Purpose
 The Profit And Loss Statement Access Form is used to collect and review the financial information of a business. This form ensures that the data is accurate and up-to-date.

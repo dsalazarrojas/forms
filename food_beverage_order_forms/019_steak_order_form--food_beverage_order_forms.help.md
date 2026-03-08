@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be used for customers to order steaks. As such, it should be used by customers who want to place an order for steaks at a restaurant or steakhouse. This form likely handles the entire order process, from customer information to payment and order details. I assume it's a part of a larger system for managing orders, possibly integrated with an order management system or a point-of-sale system. The form has several fields to collect customer information, steak preference, payment details, order information, customer note, contact information, and order total. This form might be used by customers through a web or mobile application, possibly as a part of a restaurant's online ordering system.
-
-</thinking>
-
 # Steak Order Form - Help Guide
 ## Purpose
 This form is used to place an order for steaks at a restaurant or steakhouse. To complete this form, follow the steps below.

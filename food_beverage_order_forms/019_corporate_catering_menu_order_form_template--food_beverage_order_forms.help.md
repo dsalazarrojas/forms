@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Corporate Catering Menu Order Form Template, reducing the likelihood of duplication and ensuring accurate completion.
-</thinking>
-
 # Corporate Catering Menu Order Form Template - Help Guide
 
 ## Purpose

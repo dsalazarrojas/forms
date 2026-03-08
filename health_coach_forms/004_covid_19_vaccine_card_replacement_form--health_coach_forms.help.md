@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Card Replacement Form - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect financial data sharing requests from users. The form is used to collect information about the purpose of the request, the dates involved, the type of data being requested, and other relevant details. The purpose of the form is to ensure that users understand the context of their request and provide all necessary information for the financial data sharing process.
-
-The form is divided into several sections, each with a specific set of questions related to the financial data sharing request. The sections include: 
-
-* Financial data sharing request details
-* Requested data
-* Access and sharing terms
-
-The form is meant to be completed by users who wish to share their financial data with other parties. It is not intended for internal use or for users who are already authorized to access financial data.
-
-The form is designed to be filled out by users who are familiar with financial data sharing principles. It is not a substitute for professional advice, legal counsel, or expert opinion.
-
-The form has multiple fields that must be filled out before submission. Please make sure to fill out each field correctly to avoid errors and ensure that your request is processed properly.</thinking>
-
 # Financial Data Sharing Request Form - Help Guide
 ## Purpose
 This form is used to collect financial data sharing requests from users. It is designed to ensure that users understand the context of their request and provide all necessary information for the financial data sharing process.

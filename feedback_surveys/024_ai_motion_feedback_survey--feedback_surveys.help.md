@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in AI Motion sessions, aiming to gather insights on the perceived performance of the AI Motion system. The feedback will help the developers improve the system's accuracy, ease of use, and usefulness. Please note that this guide is intended for participants, not the developers, and is meant to be a straightforward, user-friendly document to help guide through the completion of the form.
-</thinking>
-
 # AI Motion Feedback Survey - Help Guide
 ## Purpose
 The AI Motion Feedback Survey is designed to gather your insights on the performance of our AI Motion system during your session. Your feedback is crucial in helping us improve the system's accuracy, ease of use, and overall usefulness.

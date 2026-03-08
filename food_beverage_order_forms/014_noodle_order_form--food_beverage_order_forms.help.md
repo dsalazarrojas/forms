@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the ordering of noodles, allowing customers to provide information about their desired noodles, payment details, and other relevant details. This form likely serves as a template for a food and beverage ordering process, such as for a restaurant or a food delivery service. To ensure the form is correctly filled out, users should review each field carefully and enter accurate information.
-
-This form does not appear to be duplicated from any other forms in the system.
-</thinking>
-
 # Noodle Order Form - Help Guide
 ## Purpose
 The Noodle Order Form is used to capture information about a customer's noodle order, including the type of noodles, prices, order notes, and payment details.

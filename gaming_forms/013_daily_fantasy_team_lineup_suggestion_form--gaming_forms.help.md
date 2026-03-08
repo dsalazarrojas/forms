@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block explains that this form is intended to gather user information and preferences for suggesting daily fantasy sports lineups. The purpose of this form is to help users suggest lineups for their daily fantasy sports teams, which can include selecting a sport (e.g., NFL, MLB, NBA, or NHL), contest type (e.g., Head-to-Head, Roto, or Satellites), lineup position (e.g., Starting, Backup, or Reserve), league name, league size, league type (e.g., Public or Private), and a suggested lineup. The form requires users to confirm their email address to avoid duplicate entries. This block ensures that the form is not a duplicate entry method and helps to prevent spam or malicious submissions.
-</thinking>
-
 # Daily Fantasy Team Lineup Suggestion Form - Help Guide
 ## Purpose
 This form is designed to help you suggest daily fantasy sports lineups based on your preferences. Please fill out the form below to provide information about your team and we will use it to suggest a lineup for you.

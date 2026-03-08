@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Water Photography Submission Form - Help Guide
  
 ## Purpose

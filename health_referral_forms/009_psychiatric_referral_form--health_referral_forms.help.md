@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychiatric Referral Form - Help Guide
 
 ## Purpose

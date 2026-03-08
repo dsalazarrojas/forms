@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data for winery quality inspections, which is likely used by quality control or production teams within the winery or related industries. The purpose of this form is to evaluate the quality of wine stored in barrels. The data collected will help winemakers identify potential issues and take corrective actions to maintain high-quality wine production. This form should be filled out for each barrel, and the information will be stored in a database for future reference.
-</thinking>
-
 # Winery Barrel Quality Inspection Form - Help Guide
 ## Purpose
 This form is used to collect data for winery quality inspections, evaluating the quality of wine stored in barrels.

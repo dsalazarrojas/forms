@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect essential information from clients before they book an appointment at the barber shop. The form is designed to gather personal details, appointment preferences, medical information, and consent to store client data. This form will help barbers and management to better understand client needs and manage appointments more effectively. Please ensure you only submit true and correct information, as this form will be reviewed and validated by shop staff.
-
-</thinking>
-
 # Barber Shop Consent And Appointment Form - Help Guide
 
 ## Purpose

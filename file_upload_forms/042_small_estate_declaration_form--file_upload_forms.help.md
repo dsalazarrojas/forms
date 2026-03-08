@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a small estate declaration. The purpose of this form is to gather details about the estate, its owner, and any relevant documents or properties associated with it. The form is used to ensure that all necessary information is accurately captured and submitted for review. To avoid duplication or errors, it is essential to carefully review each field and ensure that all required fields are completed accurately before submitting the form.
-</thinking>
-
 # small_estate_declaration_form - Help Guide
 ## Purpose
 

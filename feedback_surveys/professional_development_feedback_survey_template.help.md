@@ -1,35 +1,3 @@
-<thinking>
-This form is designed to gather feedback on professional development experiences, aiming to enhance future programs. It's essential to fill out this form carefully, providing honest and constructive feedback. Please ensure that your responses are sincere and specific, as this will help the organizers better understand the needs and challenges of the participants. Before starting, review the questions to ensure you haven't answered similar ones in the past, as this will help avoid duplication and save time for others.
-
-If you're unsure about any question or option, consider the following:
-* Very satisfied: You felt extremely happy with the experience.
-* Satisfied: You were fairly happy with the experience.
-* Neutral: You had a neutral or average experience.
-* Dissatisfied: You were unhappy with the experience.
-* Very dissatisfied: You felt extremely unhappy with the experience.
-* Regularly: You participate in professional development activities frequently.
-* Often: You participate in them from time to time.
-* Occasionally: You occasionally participate in them.
-* Rarely: You seldom participate in them.
-* Never: You never participate in them.
-* Improved skills: You gained new skills or improved existing ones.
-* Enhanced knowledge: You gained new knowledge or enhanced existing one.
-* Career advancement: You felt that professional development helped you in your career.
-* Networking: You met people or connected with others in your field.
-* Increased motivation: You felt more motivated after participating.
-* No significant benefit: You didn't notice any benefits from participating.
-* Workshops: You prefer in-person sessions with instructors.
-* Online courses: You prefer online sessions, such as videos or webinars.
-* Mentorship: You prefer one-on-one guidance from an expert.
-* Conferences: You prefer large group events with many experts.
-* Self-study: You prefer to learn by yourself at your own pace.
-* Lack of time: You don't have enough time for professional development.
-* Cost: You find the cost too high.
-* Relevance: You don't find the topics relevant to your needs.
-* Awareness: You didn't know about the opportunities.
-* Management support: You don't have support from your management.
-</thinking>
-
 # professional_development_feedback_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on professional development experiences to enhance future programs.

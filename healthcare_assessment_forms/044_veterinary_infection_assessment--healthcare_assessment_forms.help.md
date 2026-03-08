@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from pet owners about their pets' infections. It is a veterinary infection assessment form used to collect symptoms and medical history to help veterinarians diagnose and treat pet infections. This form is intended for general use and is not affiliated with any specific veterinary clinic or organization. 
-
-The form is designed to be a helpful resource for pet owners to provide accurate information about their pets' conditions. It is not meant to be a substitute for a professional veterinary evaluation, and any medical diagnosis or treatment should be performed by a qualified veterinarian.
-
-This form will not collect or store sensitive or personal information. It is a publicly available, AI-generated form created using only publicly available survey topic metadata. It is released under the Creative Commons 4.0 license, allowing users to modify and share it as needed.
-
-Please note that the form fields are designed to collect information about the pet's condition, and the veterinarian's name and contact information are optional.
-
-</thinking>
-
 # Veterinary Infection Assessment - Help Guide
 ## Purpose
 The Veterinary Infection Assessment form is designed to help collect information about your pet's infection symptoms and medical history. It's a tool for veterinarians to gather the necessary details to provide an accurate diagnosis and treatment plan.

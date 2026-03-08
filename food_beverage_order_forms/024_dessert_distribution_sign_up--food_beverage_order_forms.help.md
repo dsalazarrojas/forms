@@ -1,9 +1,3 @@
-<thinking>
-This form is used to sign up for the dessert distribution event. 
-The form requires the user to provide information about themselves and the event details.
-The form is meant to be filled out by the volunteers who are going to the event to help with dessert distribution.
-</thinking>
-
 # Dessert Distribution Sign Up - Help Guide
 ## Purpose
 This form is used to collect information from volunteers who are going to participate in the dessert distribution event. It includes fields for volunteer contact information, event details, and volunteer notes.

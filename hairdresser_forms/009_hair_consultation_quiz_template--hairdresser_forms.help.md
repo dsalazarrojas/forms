@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Hair Consultation Quiz Template form. This form was designed to gather information from clients about their hair needs and preferences. The form is meant to be a comprehensive tool for stylists to assess a client's requirements before providing a consultation.
-</thinking>
-
 # Hair Consultation Quiz Template - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients about their hair needs and preferences for a consultation with a stylist. This form helps stylists understand the client's expectations and provides a foundation for a productive and informed consultation.

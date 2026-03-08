@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from attendees of community listening sessions. The purpose of this form is to gather information about the effectiveness of the session, key topics discussed, and overall willingness to participate in future sessions. This information will help us understand our community's needs and preferences, allowing us to tailor future sessions and improve our community engagement.
-
-The form is structured to be easy to complete, with clear and concise fields that guide the user through the process. Each field is designed to collect specific information that will help us analyze the session's success and areas for improvement.
-
-We will review and analyze the collected feedback to identify patterns and trends that can help us refine our community listening sessions and better serve our community members.
-
-</thinking>
-
 # Community Listening Session Survey - Help Guide
 
 ## Purpose

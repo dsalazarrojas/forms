@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for archiving creations, which is a crucial process for tracking and maintaining records of creative works, such as art, literature, or designs. The form is designed to collect various metadata related to the creation, including its title, date and time of creation, description, and other relevant details. The form also includes fields for uploading files, categorizing the creation, and assigning a status, such as "archived", "pending", or "draft". This form is likely used by creators and administrators to manage and track the progress of creative projects. To prevent duplication, the form should only be used for creations that have not been previously archived or are being updated from a draft status to a more final status.
-</thinking>
-
 # Creation Archiving Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and duplication checks ...
-
-This form is intended to gather feedback from property insurance customers on their experiences with the current process, which is to be used to improve the process in the future. The form is not a duplicate of other surveys, and its purpose is to collect specific feedback on the property insurance process.
-
-</thinking>
-
 # Property Insurance Process Feedback Survey - Help Guide
 
 ## Purpose

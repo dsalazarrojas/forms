@@ -1,10 +1,3 @@
-<thinking>
-This form is for business loan applications. The purpose of this form is to collect information about the applicant's personal and business details to assess their eligibility for a loan. This includes their name, contact information, and business details, such as name, structure, and description. We also collect information about the project or loan purpose, timeline, and financials, like annual revenue and monthly expenses. Finally, we also gather information about the loan itself, including the loan amount, term, and collateral. This information will be used to assess the creditworthiness of the applicant and the feasibility of the loan.
-
-Please note that this is a comprehensive form designed to gather detailed information about the applicant and their business. It is essential to fill it out accurately and completely to avoid any potential issues or delays in the loan process.
-
-</thinking>
-
 # Business Loan Application Form - Help Guide
 ## Purpose
 This is a business loan application form designed to collect information about your personal and business details to assess your eligibility for a loan.

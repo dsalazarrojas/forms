@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track a student's routine activities after school, which is essential for parents or caregivers to understand their child's daily habits and behavior. The form helps in identifying any potential issues or patterns that may need attention. To use this form, please ensure you are completing it for the correct student and not duplicating the form for the same individual.
-</thinking>
-
 # After School Routine Checklist - Help Guide
 
 ## Purpose

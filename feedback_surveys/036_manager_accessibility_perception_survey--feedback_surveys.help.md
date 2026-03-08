@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the Manager Accessibility Perception Survey form. This form aims to collect feedback from employees on their direct managers' approachability, responsiveness, communication style, and other attributes that impact their work environment. To ensure that this help guide is useful and not duplicative, I'll focus on explaining each field's purpose and required information in a clear and concise manner.
-</thinking>
-
 # Manager Accessibility Perception Survey - Help Guide
 ## Purpose
 The Manager Accessibility Perception Survey is a tool used by employees to rate their manager's approachability, responsiveness, and communication style, and other attributes that contribute to a positive and productive work environment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from startups who are interested in showcasing their items at a trade show. The form is used to request an order of items for the trade show. To ensure that the form is used correctly, please review this guide carefully before completing it.
-</thinking>
-
 # Startup Trade Show Item Order Request Form - Help Guide
 ## Purpose
 This form is used by startups to request an order of items for the trade show. It is essential to fill out this form accurately to ensure that your request is processed correctly.

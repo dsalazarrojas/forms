@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Client Retention Effectiveness Survey - Help Guide**
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Loan Application Form - Help Guide
 ## Purpose
 This form is used to collect information about a student loan application, including student name, loan type, amount, and other relevant details. It helps to gather accurate and comprehensive data for processing student loan applications efficiently.

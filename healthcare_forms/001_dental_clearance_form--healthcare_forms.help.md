@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients for dental clearance purposes. It is intended for use in a healthcare setting, specifically for dental clinics or offices. The form asks for basic contact information, medical history, and other relevant details from the patient. It also includes fields for the patient's dentist information and dental insurance provider. The form's layout is designed to be simple and easy to navigate. The goal is to gather necessary information to ensure patient safety and provide efficient care.
-
-Before filling out this form, please ensure that you are using it in an appropriate context and not duplicating the form unnecessarily.
-
-</thinking>
-
 # Dental Clearance Form - Help Guide
 
 ## Purpose

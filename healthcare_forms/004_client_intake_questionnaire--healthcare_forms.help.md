@@ -1,7 +1,3 @@
-<thinking>
-This form is a standardized client intake questionnaire used in healthcare settings to gather essential information from patients. The purpose of this form is to collect demographic, medical, and contact information to ensure accurate patient data is stored in the healthcare system. This form will not be duplicated in the healthcare system, and any changes made will be recorded and visible to authorized personnel.
-</thinking>
-
 # Client Intake Questionnaire - Help Guide
 ## Purpose
 The Client Intake Questionnaire is a standardized form used to collect essential information from patients. This information helps healthcare providers understand the patient's background, medical history, and contact details, enabling effective care and communication.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wow Journey 1 - Help Guide
 
 ## Purpose

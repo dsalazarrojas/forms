@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed for customers to participate in a promotional campaign where they have the chance to spin a wheel and potentially win some discounts. 
-  To be eligible for the spin, participants must provide accurate and complete information in the required fields. 
-  Please review the form instructions to ensure you understand what each field is for.
-  </thinking>
-
 # Discount Wheel Participation Form - Help Guide
 ## Purpose
 The purpose of this form is for customers to participate in a promotional campaign where they can spin a wheel and potentially win discounts.

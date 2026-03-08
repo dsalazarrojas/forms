@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the nursing evaluation and self-assessment for healthcare providers. It is used to evaluate various aspects of a healthcare provider's performance, including their overall rating, communication skills, leadership abilities, time management, priority setting, problem-solving skills, safety, teamwork, adaptability, continuous quality improvement, patient care, feedback, patient care plan, delegation, patient care plan implementation, overall rating summary, comments, signature, date, healthcare provider name, unit of care, and patient name.
-
-The primary purpose of this form is to provide an accurate evaluation and self-assessment of the healthcare provider's performance, which can be used for quality improvement and professional development. It is intended for use by healthcare providers themselves, such as nurses, doctors, and other medical professionals.
-
-Please note that this form is not for use with actual patients.
-
-</thinking>
-
 # Nursing Evaluation And Self Assessment - Help Guide
 ## Purpose
 The purpose of this form is to evaluate and improve the performance of healthcare providers in various aspects of their work. It is designed to be self-administered by healthcare providers themselves, with the aim of promoting quality improvement and professional development.

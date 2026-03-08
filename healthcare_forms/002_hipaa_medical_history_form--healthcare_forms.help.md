@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect medical history and contact information for patients. The purpose of this form is to ensure that patients provide accurate and complete information about their medical history, current symptoms, contact information, and other relevant health-related details. This form is intended for use in a healthcare setting and is designed to be completed by patients or their representatives. It's essential to complete this form accurately and thoroughly to help healthcare providers make informed decisions about patient care. Please review each field carefully to ensure you're providing the correct information.
-</thinking>
-
 # HIPAA Medical History Form - Help Guide
 ## Purpose
 The HIPAA Medical History Form is a crucial document used in healthcare settings to collect and record a patient's medical history, contact information, and other relevant health-related details. This form helps healthcare providers make informed decisions about patient care and ensures accurate and complete information is collected.

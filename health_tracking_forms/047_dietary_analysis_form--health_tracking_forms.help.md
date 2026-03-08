@@ -1,14 +1,3 @@
-<thinking> 
-  This form is intended to gather information related to dietary analysis. It will be used to analyze the eating habits and health concerns of users. Users are expected to provide accurate and detailed information, but they are not required to answer all questions. Each field is designed to collect specific data related to user's preferences and habits. This information will be reviewed by a healthcare professional to provide tailored guidance and support. 
-  The form is composed of multiple fields, including text, select, and date/time fields. The fields are designed to be clear and non-duplicating. The user is expected to be able to fill out the form in a reasonable amount of time. 
-  The form is meant to be used by healthcare professionals for the purpose of dietary analysis. Please ensure that users are aware of the purpose and expected outcome of the form before proceeding. 
-  This form is intended for users who are interested in getting guidance and support for their dietary habits. It is not intended for users who are not willing to provide accurate and detailed information. 
-  Before filling out this form, ensure that you are providing accurate and honest answers. This will ensure that the healthcare professional has enough information to provide the best guidance and support for you. 
-  If you are unsure about a certain field, please ask for clarification before proceeding. If you are having trouble filling out a field, contact the healthcare professional for assistance. 
-  Please review the entire form before filling it out to ensure that you understand the purpose and the expected outcome of this form. 
-  This form will be kept private and confidential. The information collected will only be reviewed by healthcare professionals. 
-</thinking>
-
 # Dietary Analysis Form - Help Guide
 ## Purpose
 This form is used to collect information about your dietary analysis and preferences. The information collected will be reviewed by a healthcare professional to provide tailored guidance and support for your dietary needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a villain character, and is likely to be used by game developers or game masters to create or manage character profiles. The form should only be filled out when creating a new character or editing an existing one. Please make sure to fill out the form completely and accurately to ensure that the character profile is up-to-date and reflects the desired information. 
-</thinking>
-
 # Villain Character Profile - Help Guide
 ## Purpose
 The Villain Character Profile form is used to collect and store information about a villain character's identity and attributes. This form is essential for creating, editing, or managing character profiles in your game world.

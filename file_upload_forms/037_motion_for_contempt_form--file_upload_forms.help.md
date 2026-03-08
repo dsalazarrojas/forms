@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information for a contempt motion in a legal context. It is likely used by court administrators or legal professionals to document details about a contempt motion, including the motion's status, the court and judge involved, the date and time of the motion, and any accompanying files.
-To determine if this form is relevant, the following questions should be considered:
-- Is the user a legal professional or someone who needs to gather information about a contempt motion?
-- Is the user familiar with the context and purpose of a contempt motion in legal proceedings?
-If the user answers "no" to either of these questions, it's likely that this form is not the right tool for them.
-
-However, if the user is a legal professional or someone who needs to gather information about a contempt motion, they can proceed to use this form. The form is designed to collect details such as the court and judge involved, the date and time of the motion, and any supporting files.
-To complete this form, the user should start by selecting the relevant options for each field, such as the status of the motion, the court and judge, and the date and time of the motion. They should also upload any supporting files that are required.
-</thinking>
-
 # Motion For Contempt Form - Help Guide
 ## Purpose
 This form is used to document details about a contempt motion in a legal context. It gathers information about the court and judge involved, the date and time of the motion, and any supporting files.

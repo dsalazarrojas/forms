@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for recording and reporting on daily fire safety work conducted by fire safety personnel. The form captures information about the start time of the inspection, any fire hazards that were encountered, the fire prevention and supervision measures taken, and other relevant details. The form should not be used for other purposes or to report on inspections conducted on different types of equipment or facilities. 
-
-This form will help fire safety personnel document and record their daily activities, identify potential fire hazards and take corrective measures to mitigate them. It is a crucial tool for ensuring the safety and well-being of people in the facilities being inspected.
-
-Before filling out this form, the user should carefully read and understand each field, taking care to complete all required fields and provide as much detail as possible in the optional fields. 
-</thinking>
-
 # Fire Safety Daily Work Report - Help Guide
 ## Purpose
 This form is used for recording and reporting on daily fire safety work conducted by fire safety personnel.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Sports Club Refreshment Supply Order Form", I'll need to analyze the form schema and provide a clear and concise explanation for end users. This form appears to be a simple order form used to collect information for a refreshment supply order from a sports club. The purpose of this form is to gather the necessary details for the order, including the type of food or beverage item, its quantity, price, order date, contact information (name, email, and phone number), and any additional comments or special requests. I will ensure that the explanation provided is concrete, practical, and relevant to the context of ordering refreshments for a sports club. No internal business logic or unsupported assumptions are made in my explanation. I do not have access to external documentation or context, so I will rely solely on the provided form schema. 
-</thinking>
-
 # Sports Club Refreshment Supply Order Form - Help Guide
 ## Purpose
 The Sports Club Refreshment Supply Order Form is used to collect information for a refreshment supply order from a sports club. This form will help us gather the necessary details for a successful order.

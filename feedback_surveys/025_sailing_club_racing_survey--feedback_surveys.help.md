@@ -1,9 +1,3 @@
-<thinking>
-We are using this form to gather feedback from participants about their experience with our sailing club racing events. We want to understand what you like or dislike about our events, and how we can improve them for future participants. Please answer the questions honestly, and don't worry, your feedback will be treated confidentially.
-If you have participated in one of our events before, please take a moment to review this form and see if you have any comments or suggestions. Your input is valuable to us, and it will help us create a better experience for everyone.
-Please note that the form is not a duplicate of any other form, and the questions are specific to your experience with our sailing club racing events.
-</thinking>
-
 # Sailing Club Racing Survey - Help Guide
 
 ## Purpose

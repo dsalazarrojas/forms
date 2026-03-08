@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture feedback and evaluation from users about a specific playwright event or performance. It is likely used by event organizers or evaluators to gather information on various aspects of the playwright's performance, including their abilities, ratings, and comments. This form is a critical part of the evaluation process, allowing organizers to collect data that can help improve future events and performances.
-
-Before starting, please ensure that you have not already completed this form for this particular event. Filling out the form multiple times might lead to inconsistent data and make it harder to analyze.
-
-This guide will walk you through each field of the form, explaining what each field means and what information you should provide.
-
-</thinking>
-
 # Playwright Evaluation Survey - Help Guide
 ## Purpose
 

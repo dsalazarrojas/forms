@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from clients before administering a hydromassage session. This form will help the healthcare provider collect client contact information, medical history, and session details. The goal is to ensure the client's safety and well-being during the massage session.
-
-Before proceeding, please ensure that the form's fields are clear, concise, and relevant to the client's experience. This guide will walk you through each field, its purpose, and what the client needs to do to complete it successfully.
-
-</thinking>
-
 # Hydromassage Liability Waiver - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients before receiving a hydromassage session. Please take the time to understand the purpose of each field and what we need from you to ensure your comfort and well-being during the session.

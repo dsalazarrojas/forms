@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to provide clear and concise instructions for end users to complete the restaurant_soundproofing_material_order_form form.
-The purpose of this form is to help restaurants and food establishments order soundproofing materials to improve their dining atmosphere.
-To avoid duplication, this guide will cover only the essential information and fields necessary for end users to submit their orders successfully.
-</thinking>
-
 # restaurant_soundproofing_material_order_form - Help Guide
 ## Purpose
 This form is designed to help restaurants and food establishments order soundproofing materials to enhance their dining experience.

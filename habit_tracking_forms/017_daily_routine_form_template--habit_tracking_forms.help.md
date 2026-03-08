@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to help users track their daily routines, including morning and exercise routines, sleep patterns, and other activities. This form will help users reflect on their daily habits and behaviors, making it easier to identify areas for improvement and create a more consistent and healthy daily routine.
-
-By completing this form, users will be able to:
-
-* Track their morning routines, including the time they wake up, exercise, and other activities
-* Indicate whether they follow a regular sleep pattern
-* List their exercise routine and frequency
-* Identify their daily activities, including work, hobbies, or other regular tasks
-* Set goals for their daily routine
-* Reflect on their routine frequency and consistency
-
-Please note that the form is designed to be a helpful tool for self-reflection and tracking, but it should not be used as a substitute for medical or professional advice. If you have specific concerns about your daily routine or overall health, please consult a healthcare professional.
-
-Also, please be aware that the form is not a one-size-fits-all and you should adapt it according to your personal needs and preferences.
-
-</thinking>
-
 # Daily Routine Form Template - Help Guide
 
 ## Purpose

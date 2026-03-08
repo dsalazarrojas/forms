@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine whether to create a Halloween Trunk Or Treat Event Interest Survey, the purpose of the form is to gather information from parents about their potential interest in hosting a Halloween Trunk or Treat event at our organization. This form will help us gauge interest and gather details about the event's potential logistics, ensuring we can provide an exciting experience for kids.
 
 The form will be used to collect information from parents about their children's participation in a Halloween-themed event, specifically a Trunk or Treat event. This event typically involves parents gathering their kids and driving around a designated area, trunk full of candy, to distribute treats to children.

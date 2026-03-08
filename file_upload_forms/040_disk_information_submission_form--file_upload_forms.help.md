@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide disk information to the system. Please fill out the form accurately and thoroughly. Before completing the form, ensure that the information you are entering is accurate and up-to-date. If you're unsure about any information, do not hesitate to ask for clarification. To avoid duplication, check the system before submitting this form for any existing submissions with the same serial number.
-</thinking>
-
 # Disk Information Submission Form - Help Guide
 ## Purpose
 The Disk Information Submission Form is used to submit information about disk devices, allowing users to accurately record and track disk details for further analysis and management.

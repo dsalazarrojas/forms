@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_inspection_form - Help Guide
 ## Purpose
 The Property Inspection Form is used to collect information about a property inspection, including details about the property, the inspector, and the client. It is intended to provide a comprehensive record of the inspection findings and to facilitate communication between the inspector and the client.

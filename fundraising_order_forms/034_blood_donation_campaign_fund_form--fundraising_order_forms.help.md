@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the process of receiving donations for the Blood Donation Campaign, allowing users to support various initiatives. The form is intended for individuals or organizations looking to donate money to the campaign, providing a structured way to collect relevant information for processing and acknowledging donations. It's essential to ensure that all required fields are filled in accurately to guarantee proper processing and receipt of the donation.
-
-</thinking>
-
 # Blood Donation Campaign Fund Form - Help Guide
 ## Purpose
 The Blood Donation Campaign Fund Form is a tool used to accept donations for the Blood Donation Campaign, allowing individuals or organizations to support various blood donation initiatives.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a food and beverage context, such as a restaurant or food establishment, to collect information about food referrals or complaints. The purpose of this form is to provide a structured way for customers or staff to submit referrals or concerns about food products or services. The form may be used by food safety inspectors or quality control teams to gather data for investigations or follow-up actions.
-</thinking>
-
 # Food Culinary Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about food referrals or complaints in a food and beverage establishment.

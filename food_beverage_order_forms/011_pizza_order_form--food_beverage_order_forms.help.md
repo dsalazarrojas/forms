@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pizza Order Form - Help Guide
 ## Purpose
 The Pizza Order Form is a tool to collect information about orders of pizzas from customers. This form is used for both delivery and pickup orders.

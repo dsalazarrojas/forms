@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect participant information, including their name, date of birth, contact phone number, weight, blood pressure reading, primary health concern, symptoms, medications, and consent to receive services. The purpose of this form is to gather relevant data for the community health program to provide accurate and effective support to participants. This form should only be completed once per participant, so please ensure that you do not complete this form multiple times if you are already a registered participant.
-
-</thinking>
-
 # Community Health Program Check In Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about participants in the community health program. Completing this form will help us better understand your needs and provide personalized support.

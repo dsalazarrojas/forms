@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduation Regalia Order Form - Help Guide
 ## Purpose
 This form is used to place orders for graduation regalia, which is a ceremonial garment typically worn during commencement ceremonies. The form is intended to gather information about the type and details of the regalia ordered, including size, color, and delivery options.

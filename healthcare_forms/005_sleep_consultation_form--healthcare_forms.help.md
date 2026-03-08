@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning:
-The purpose of this form is to gather information about patients' sleep consultations. 
-The form collects general information about the patient, including whether they have consulted about specific questions, and what treatment options they are interested in. 
-This form seems to be a simple, single-page form with 3 fields: "general_info", "questions", and "treatment_options". 
-We are not aware of any form with the same name "Sleep Consultation Form" in the same category, therefore it is likely a new form. 
-</thinking>
-
 # Sleep Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information about patients' sleep consultations.

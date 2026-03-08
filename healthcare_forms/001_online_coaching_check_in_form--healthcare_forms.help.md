@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: online coaching check-in form for clients. It's intended for coaching sessions. This form is to be filled by coaches to document client progress, schedule check-ins, and provide a structured way to communicate with clients.
-
-Relevance check: This form is relevant to healthcare industries, as it's designed for online coaching services, which might be part of healthcare services. 
-
-Non-duplication check: This form doesn't copy or derive content from any other form platform as it's AI-generated using public survey topic metadata (industry/category).
-
-</thinking>
-
 # online_coaching_check_in_form - Help Guide
 ## Purpose
 

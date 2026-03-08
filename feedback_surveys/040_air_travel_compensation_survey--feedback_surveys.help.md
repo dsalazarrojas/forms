@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Air Travel Compensation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from passengers about their experiences with air travel compensation. We use this information to understand how we can improve our processes and provide better service to our customers.

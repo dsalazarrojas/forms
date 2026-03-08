@@ -1,10 +1,3 @@
-<thinking>
-# subscription_giveaway_entry - Help Guide
-
-**Purpose**
-The "subscription giveaway entry" form is designed to collect information from customers interested in participating in a subscription-based giveaway program. The form helps us understand their preferences and needs, enabling us to tailor our services accordingly.
-
-</thinking>
 ## How To Complete This Form
 To complete this form, follow these steps:
 

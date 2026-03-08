@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to facilitate the submission of digital notebooks by students. This form will likely be used by students to upload their digital notebooks to a platform or system for review and assessment. It's essential to ensure that the form is completed correctly to avoid duplication of work and to prevent students from submitting multiple times with different data. 
-</thinking>
-
 # Digital Notebook Submission - Help Guide
 ## Purpose
 The Digital Notebook Submission form is designed for students to upload their digital notebooks for review and assessment by teachers. It ensures a structured submission process, reducing the likelihood of duplicated efforts and incorrect submissions.

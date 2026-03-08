@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals who want to sign up for first aid training sessions. The form should be completed by providing accurate and relevant information for the training coordinator to effectively manage the training sessions. Please ensure that you provide a unique email address for each participant to facilitate communication. If a participant has special needs or requirements, please use the "Notes" field to provide necessary information.
-</thinking>
-
 # First Aid Training Sign Up Form - Help Guide
 ## Purpose
 This form is designed for individuals to sign up for first aid training sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback about experiences with dating. The goal of this form is to capture user experiences and opinions on the success and quality of their dates. The form is intended to be completed by users after a date, allowing them to share their thoughts on whether the date was successful, fun, and if they would like to repeat the experience. The responses will help us understand the user experience and provide insight into what works and what doesn't in the dating experience. Please fill out this form only once per date. If you've already completed this form for a previous date, please do not resubmit.
-</thinking>
-
 # Cute Date Experience Survey - Help Guide
 
 ## Purpose

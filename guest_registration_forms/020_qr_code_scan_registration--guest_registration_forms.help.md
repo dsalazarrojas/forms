@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "qrcode_scan_registration" form, let's break down the purpose, completion process, and field explanations.
-
-The purpose of this form is to register a guest by scanning a QR code and providing some basic information. This form is likely used in a scenario where guests are checked in for events, meetups, or conferences.
-
-Before filling out the form, let's make sure that you are not already registered in the system. If you're unsure, please ask the event organizer for assistance.
-
-</thinking>
-
 # qrcode_scan_registration - Help Guide
 ## Purpose
 This form is used to register a guest by scanning a QR code and providing some basic information such as event ID, name, phone number, and email. This form is typically used in events, meetups, or conferences.

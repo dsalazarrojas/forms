@@ -1,10 +1,3 @@
-<thinking>
-To design a form for fundraisers, you want to provide a clear and user-friendly interface to collect essential information for event promotion and ticket management. This form aims to gather key details about an event, such as its name, date and time, ticket price, location, and a unique identifier. By following this guide, you'll understand how to fill out the form correctly and ensure accurate event data.
-
-The form is designed for various events, but it's especially useful for ticketed events where you need to manage ticket sales and provide attendees with essential information about the event. This guide will walk you through the form fields, helping you understand what information to enter and how it will be used.
-
-</thinking>
-
 # Fundraiser Ticket Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on an individual's migraine experiences, allowing them to track and analyze their migraine patterns. This information can be helpful for identifying potential triggers and managing treatment plans. Please ensure that all fields are completed accurately to provide reliable data. Please do not duplicate entries, as this can lead to incorrect analysis. 
-</thinking>
-
 # Migraine Diary Form - Help Guide
 ## Purpose
 The Migraine Diary Form is a tool for tracking and monitoring migraine experiences. By completing this form, you can help identify patterns and potential triggers for your migraines.

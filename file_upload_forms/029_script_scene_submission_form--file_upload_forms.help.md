@@ -1,13 +1,3 @@
-<thinking>
-We are designing a help guide for a form called "script_scene_submission_form" which is used for script scene submissions. 
-
-The form is designed to collect information from submitters about a specific script scene. The purpose of the form is to gather necessary details about the script scene, including the submitter's contact information, agreement, and acknowledgement.
-
-Before filling out this form, please ensure that you have the necessary permissions and understand the submission process. It is also essential to review the form carefully to ensure that all required fields are filled out correctly.
-
-This form is meant for internal use within the organization, and the information collected will only be used for the purpose of script scene management.
-</thinking>
-
 # script_scene_submission_form - Help Guide
 ## Purpose
 The "script_scene_submission_form" is used for script scene submissions. It is essential to fill out this form accurately and thoroughly to ensure that your submission is processed correctly.

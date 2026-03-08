@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a new tournament. The purpose of this form is to collect information about the tournament, including team name, team leader's name and email, tournament type, date, time, location, number of players, and tournament fee. This information will be used to create a new tournament on the platform.
-</thinking>
-
 # ML_Tournament_Registration_Form - Help Guide
 ## Purpose
 The ML_Tournament_Registration_Form is used to register a new tournament. This form collects information about the team participating in the tournament, including team details and tournament settings.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a guest entry wristband for a specified event. The form is used by event staff to request wristbands for guests who are attending the event. The form helps to track the guest's information and ensure that they receive the correct wristband for the event. This form is only accessible to authorized event staff. It is recommended to fill out the form only if the guest has not already been issued a wristband.
-</thinking>
-
 # Guest Entry Wristband Request Form - Help Guide
 ## Purpose
 This form is used to request a guest entry wristband for a specified event. The form is used by event staff to request wristbands for guests who are attending the event.

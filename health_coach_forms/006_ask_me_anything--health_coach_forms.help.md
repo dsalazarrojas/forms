@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ask Me Anything - Help Guide
 ## Purpose
 The "Ask Me Anything" form is designed to gather information from participants about their health goals, preferences, and circumstances to better tailor coaching sessions to their needs. This form helps the health coach understand your background, goals, and expectations, allowing for personalized guidance and support.

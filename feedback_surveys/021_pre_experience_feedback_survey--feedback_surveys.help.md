@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants on their pre-experience with the program, allowing the organization to understand their expectations, background, and preferences. It is essential to complete this form to ensure that the program meets the participant's needs and to identify any potential accessibility requirements or medical conditions that should be considered.
-</thinking>
-
 # Pre Experience Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on their pre-experience with the program, allowing the organization to understand their expectations, background, and preferences.

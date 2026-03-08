@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Coronavirus Self Declaration Form," is to collect information from employees about their potential exposure to or symptoms of the coronavirus. This form is designed to be completed by employees themselves, and the data collected will help organizations understand their employee's health status in relation to the coronavirus. 
-</thinking>
-
 # Coronavirus Self Declaration Form - Help Guide
 ## Purpose
 The "Coronavirus Self Declaration Form" is a tool for employees to report their potential exposure to or symptoms of the coronavirus. This form will help organizations understand their employee's health status in relation to the coronavirus.

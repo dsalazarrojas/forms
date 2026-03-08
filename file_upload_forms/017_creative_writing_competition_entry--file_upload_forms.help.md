@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect entries for the Creative Writing Competition. Each entry must provide a valid Form ID, specify the category, provide a title and description for the entry, choose a file type and upload the file, select whether category uploads are allowed, and finally submit the form. It's essential to ensure that each entry is unique and not a duplicate, hence the Form ID should be a valid and not a duplicate of any existing entry.
-</thinking>
-
 # Creative Writing Competition Entry - Help Guide
 ## Purpose
 This form is designed to collect entries for the Creative Writing Competition. It allows users to provide a title, description, and upload a file for their entry.

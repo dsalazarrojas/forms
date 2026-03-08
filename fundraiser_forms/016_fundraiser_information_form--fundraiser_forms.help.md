@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about an upcoming event that is related to fundraising. It is intended to be used by event organizers to submit details about their event, such as the event name, date, time, location, and contact person. The form also collects information about the type of event, which can be a fundraiser, charity, or sponsorship. This form is likely used by a team or department responsible for managing and coordinating fundraising efforts within an organization.
 
 To avoid duplication, this form should not be filled out by individuals who have already submitted information about the same event.

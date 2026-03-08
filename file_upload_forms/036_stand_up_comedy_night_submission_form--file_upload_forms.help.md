@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for submitting information about stand-up comedy nights, including details about the performer, act, event, review, and file uploads. It is a crucial form for event organizers to receive relevant data for event planning and management. The form checks for non-duplication of submissions to prevent duplicate entries. This form is only for stand-up comedy night submissions and must be filled out by authorized users.
-</thinking>
-
 # stand_up_comedy_night_submission_form - Help Guide
 
 ## Purpose

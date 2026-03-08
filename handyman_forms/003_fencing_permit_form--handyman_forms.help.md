@@ -1,21 +1,3 @@
-<thinking>... internal reasoning block to determine form purpose and relevance ...
-This form is used to gather information for a fencing permit application. The form requires the following information:
-- Application name (required)
-- Property address (optional)
-- Owner name (required)
-- Owner address (required)
-- Permit type (optional)
-- Permit type options (optional)
-- Property size (optional)
-- Permit cost (optional)
-- Zoning regulations (optional)
-
-The form is likely used by government agencies or local municipalities to process and manage fencing permits. This form helps the authorities to gather accurate and complete information from applicants.
-
-The form is not intended for other purposes, and it is not a substitute for other types of permits or licenses. The provided fields are necessary for the authorities to determine the requirements and restrictions for the fence installation or repair.
-
-... </thinking>
-
 # Fencing Permit Form - Help Guide
 
 ## Purpose

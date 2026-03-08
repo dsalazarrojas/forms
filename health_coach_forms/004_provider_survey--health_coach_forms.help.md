@@ -1,6 +1,3 @@
-<thinking>
-We're going to need to make sure that this provider survey form is completed correctly and efficiently. The form is likely used to collect information from healthcare providers, which can be any type of professional that offers services to patients, such as doctors, dentists, or physical therapists. The purpose of the form is to gather essential details about the provider, including their name, contact information, services offered, experience, and qualifications. This information will help the organization understand the provider's capabilities and make informed decisions. It's essential to review the form fields carefully to ensure that all required fields are completed accurately and consistently. Additionally, we should check for any duplicate or outdated entries to prevent errors. Let's proceed with creating the help guide.</thinking>
-
 # provider_survey - Help Guide
 ## Purpose
 This form is designed to collect information from healthcare providers, including their name, contact details, services offered, experience, and qualifications. This information will help the organization understand the provider's capabilities and make informed decisions.

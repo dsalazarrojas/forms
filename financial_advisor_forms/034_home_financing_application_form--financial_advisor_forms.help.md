@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from a home financing applicant, including their contact information, employment status, income, property details, and credit score. The form is not mandatory, and most fields are optional. The purpose of this form is to provide a comprehensive overview of the applicant's financial situation, which will be used to determine the feasibility of a home financing application. Before completing this form, please ensure that you have all the necessary information ready and that you have reviewed the form carefully to avoid any errors. If you have any questions or concerns, feel free to ask for assistance.
-</thinking>
-
 # home_financing_application_form - Help Guide
 ## Purpose
 The home financing application form is designed to collect information from a home financing applicant, providing a comprehensive overview of their financial situation to determine the feasibility of a home financing application.

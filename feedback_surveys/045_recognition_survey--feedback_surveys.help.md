@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Recognition Survey form is used correctly and consistently across the organization. This form is intended to recognize and appreciate the efforts and achievements of team members, project leads, and individuals contributing to the organization. By using this form, we can provide a structured and formalized way to acknowledge and reward outstanding performance, which will help to foster a positive and motivated work environment. We should not use this form for non-work related matters or for purposes other than recognition and appreciation.
-</thinking>
-
 # Recognition Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an outstanding individual or team's achievements and contributions. It will be used to recognize and appreciate their efforts and provide feedback to help improve performance.

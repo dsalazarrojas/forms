@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Value Insight Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your experience with our services, gather insights on the value you've received, and identify areas for improvement. Please answer the questions honestly, and your input will contribute to making our services better tailored to your needs.

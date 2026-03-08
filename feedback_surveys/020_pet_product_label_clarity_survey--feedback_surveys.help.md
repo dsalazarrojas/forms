@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Product Label Clarity Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on the clarity of product labels for pet products. The purpose of this survey is to understand how well our customers can easily identify and understand the information presented on our product labels.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information about workplace safety and concerns from employees. This form should only be completed by employees who have reported or are experiencing symptoms or concerns related to COVID-19. It is not intended to be completed by supervisors or HR personnel, as they will be handling the data and follow-up actions. Please ensure that you have reviewed the form carefully before completing it, to avoid duplication or unnecessary submission. If you are experiencing symptoms or concerns, please complete this form as soon as possible. If you are not experiencing symptoms or concerns, please do not complete this form. 
-
-</thinking>
 # Workplace Safety And Concerns Form - Help Guide
 ## Purpose
 This form is designed to collect information about workplace safety and concerns from employees. It is intended for employees who have reported or are experiencing symptoms or concerns related to COVID-19.

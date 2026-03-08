@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Satisfaction Poll - Help Guide
 ## Purpose
 The Healthcare Satisfaction Poll is a form designed to collect feedback and satisfaction ratings from patients after visiting a healthcare provider. This form helps us understand how well we're meeting our patients' needs and make improvements accordingly.

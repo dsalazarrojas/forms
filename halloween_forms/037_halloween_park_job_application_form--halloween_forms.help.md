@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to apply to work at a park during the Halloween season, providing details about their availability and job preferences.
-We will be using this form to gather information about park workers' availability and job types.
-Please ensure that you only submit one application per user. If you have already submitted an application, please do not submit another.
-</thinking>
-
 # halloween_park_job_application_form - Help Guide
 ## Purpose
 This form is used for users to apply for jobs at a park during the Halloween season. It gathers information about their availability and job preferences to help us match them with suitable positions.

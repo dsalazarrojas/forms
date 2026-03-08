@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from users about their experience with the product or service being designed. The goal is to collect qualitative feedback about the user's experience, allowing the design team to make data-driven decisions to improve the design. 
-</thinking>
-
 # Experience Based Design Feedback Survey - Help Guide
 ## Purpose
 

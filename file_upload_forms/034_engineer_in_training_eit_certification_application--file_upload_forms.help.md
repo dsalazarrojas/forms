@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by users who are submitting their Engineer In Training (EIT) certification application. This guide will help walk them through the process step by step.
-To begin with, we need to check if the user has already submitted an EIT certification application and has a pending or approved status. If not, please proceed with the submission.
-The Engineer In Training (EIT) Certification Application form is designed to collect information from candidates who wish to obtain their Engineer In Training (EIT) certification. The form gathers details about the applicant, their EIT details, references, certification documents, and other relevant information.
-</thinking>
-
 # Engineer In Training (EIT) Certification Application - Help Guide
 ## Purpose
 The Engineer In Training (EIT) Certification Application form is designed to collect information from candidates who wish to obtain their Engineer In Training (EIT) certification. The form gathers details about the applicant, their EIT details, references, certification documents, and other relevant information.

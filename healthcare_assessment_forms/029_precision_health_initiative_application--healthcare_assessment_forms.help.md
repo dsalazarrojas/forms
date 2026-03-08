@@ -1,11 +1,3 @@
-<thinking>
-Before creating this help guide, I want to make sure that I understand the purpose and context of this form. From the provided YAML fields, it appears that this form is designed to collect information about a participant's involvement in a precision health initiative. It asks for general contact details, participant interests, medical history, and consent. 
-
-Is this form intended for research or administrative use within a healthcare setting? Are there any specific regulations or guidelines that I should be aware of while creating this guide?
-
-Please clarify or provide more context if I'm missing any crucial information.
-</thinking>
-
 # precision_health_initiative_application - Help Guide
 ## Purpose
 The Precision Health Initiative Application form is designed to collect participant information for a precision health initiative. This form helps gather details about the participant's interests, contact information, medical history, and consent for the program.

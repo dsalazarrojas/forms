@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on a person's self-harming experiences, including methods used, frequency, and prevention methods. It may be used by healthcare professionals to assess an individual's mental health and provide guidance on prevention strategies. 
-</thinking>
-
 # Self Harm Survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's self-harming experiences, including their frequency, methods, and prevention strategies. It helps healthcare professionals to assess the individual's mental health and provide guidance on prevention methods.

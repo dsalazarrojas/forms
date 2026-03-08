@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on recent training sessions to improve future programs. This feedback will help us understand what worked well and what could be improved upon. Please complete this form to provide your honest feedback. Before proceeding, ensure that you have not already submitted feedback for this training session as we may not be able to process duplicate submissions.</thinking>
-
 # training_satisfaction_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on recent training sessions to improve future programs.

@@ -1,23 +1,3 @@
-<thinking>Before creating a help guide, let's quickly review the provided form fields to ensure we're creating a clear and accurate explanation. The form is called "Grocery Delivery Form" and it's used for customers to provide information for their grocery delivery orders. Let's review the field names and their corresponding types:
-
-* `grocery_delivery_form`: This field is not actually a field, but rather the form title.
-* `grocery_list`: A text field for the customer to input their grocery list.
-* `payment_method`: A select multiple field for the customer to choose their preferred payment method.
-* `delivery_date`: A date field for the customer to select the delivery date.
-* `delivery_time`: A time field for the customer to select the delivery time.
-* `delivery_method`: A select one field for the customer to choose their preferred delivery method.
-* `comments`: A note field for any additional comments.
-* `email`: An email field for the customer to input their email address.
-* `phone`: A text field for the customer to input their phone number.
-* `address`: A text field for the customer to input their address.
-* `city`: A text field for the customer to input their city.
-* `state`: A text field for the customer to input their state.
-* `zip`: A text field for the customer to input their zip code.
-* `country`: A text field for the customer to input their country.
-* `total`: A number field for the customer to input the total value of their order.
-* `confirm`: A select one field for the customer to confirm their order.
-* `agree`: A select one field for the customer to agree to the terms and conditions.</thinking>
-
 # Grocery Delivery Form - Help Guide
 ## Purpose
 This form is used for customers to provide information for their grocery delivery orders. It includes fields for the customer to input their grocery list, payment method, delivery date, delivery time, delivery method, and other relevant information.

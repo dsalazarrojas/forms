@@ -1,14 +1,3 @@
-<thinking>
-This form has been created to collect feedback from users on their entry experience. 
-The main goal is to understand their experience with Gachapon Entry Feedback Survey. 
-It is not a mandatory form, so it's completely optional for the users to fill it out if they want to share their thoughts. 
-It might be used internally to improve the user experience, product development, and overall services. 
-The form is not meant to collect sensitive or personal information. 
-It is intended to be a quick and simple survey that users can easily fill out and submit. 
-This guide will walk you through how to fill it out and what each field is intended to be used for. 
-
-</thinking>
-
 # gachapon_entry_feedback_survey - Help Guide
 ## Purpose
 The Gachapon Entry Feedback Survey is a simple, optional form designed to collect your thoughts on your experience with our entry. It will help us improve the user experience and overall services.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is designed to help users understand the Homelessness Stigma Awareness Survey form. The purpose of this form is to gather information from various individuals and organizations about their experiences, comfort levels, and perceptions regarding interacting with homeless individuals or families. This form is essential in gathering data that can help raise awareness and potentially reduce homelessness stigma.
-
-Before proceeding, please note that the following questions are meant to be answered truthfully and without bias. The survey aims to understand your role, comfort, experiences, and perceptions, which will help in providing better services to individuals or families experiencing homelessness.
-
-This guide will walk you through each section of the form and explain the required fields. Please follow the instructions carefully to ensure your input is accurate and helpful for the intended purpose.</thinking>
-
 # Homelessness Stigma Awareness Survey - Help Guide
 ## Purpose
 The Homelessness Stigma Awareness Survey is designed to gather information from various individuals and organizations about their experiences, comfort levels, and perceptions regarding interacting with homeless individuals or families. This data will help raise awareness and potentially reduce homelessness stigma.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect feedback from participants who have undergone a health challenge, such as a clinical trial or a study. The data collected will be used to evaluate the effectiveness of the challenge and provide insights for improvement. Please only fill out this form if you have participated in the health challenge. If you have not participated, your responses will not be accurately reflected, and your feedback may not be relevant to the challenge.</thinking>
-
 # Heath Challenge Feedback Form - Help Guide
 ## Purpose
 The Heath Challenge Feedback Form is a collection of questions to gather insights from participants who have undergone the challenge. This information will help the team to identify areas of improvement and make adjustments for future challenges.

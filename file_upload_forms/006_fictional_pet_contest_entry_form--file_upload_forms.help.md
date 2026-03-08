@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who wish to participate in the Fictional Pet Contest. The form is designed to gather details about the user's contest entry, including a brief story about their entry, artwork, and contact information. This form should only be used for users who wish to participate in the contest and are providing accurate information. Please ensure that each entry is unique and not duplicated.
-
-Form fields are designed to be completed by the user with the following guidelines:
-- **Contest Entry (1)**: A short description of the user's contest entry.
-- **Story (2)**: A brief story related to the user's contest entry.
-- **Artwork Upload**: A field for uploading the artwork related to the user's contest entry.
-- **Artist Name (4)**: The name of the artist who created the artwork.
-- **Artwork Type (5)**: A field to select the type of artwork (e.g., Painting, Drawing, Sculpture, Photography, Digital Art).
-- **Contact Email (6)**: The email address of the user who submitted the contest entry.
-- **Contact Phone (7)**: The phone number of the user who submitted the contest entry.
-- **Submission Agreement (8)**: A field for the user to indicate their agreement with the submission terms.
-
-</thinking>
-
 # Fictional Pet Contest Entry Form - Help Guide
 ## Purpose
 The Fictional Pet Contest Entry Form is designed for users to participate in the Fictional Pet Contest. The form collects information about the user's contest entry, including a story, artwork, and contact details.

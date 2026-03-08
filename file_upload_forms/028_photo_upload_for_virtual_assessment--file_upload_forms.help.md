@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by users who need to upload photos for a virtual assessment. The purpose of this form is to allow users to provide information about the photos they are uploading, including a title for the photos, a description of the context in which the photos were taken or the items being assessed, and the photos themselves. The form also requests additional information such as the category of the assessment, the email address of the user, and any additional notes. It is intended for internal use within the organization, so all fields should be filled out accurately and truthfully.
-</thinking>
-
 # photo_upload_for_virtual_assessment - Help Guide
 ## Purpose
 The purpose of this form is to upload photos for a virtual assessment. Please use this form to provide accurate and relevant information about the photos you are uploading.

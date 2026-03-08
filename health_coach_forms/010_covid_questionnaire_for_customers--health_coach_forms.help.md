@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their COVID-19 related experiences and history. This includes questions about their travel history, exposure to COVID-19, and vaccination status. The form is intended for customers who have had interactions with the company's healthcare services and are required to provide this information to ensure proper care and safety measures are taken. To confirm the form's purpose and ensure it's the correct one, please check the following:
-- Is the form's title "Covid Questionnaire For Customers"?
-- Does the form contain fields asking about travel history, COVID-19 exposure, vaccination status, and high-risk areas?
-If both checks are true, then the form should be the correct one. If not, please investigate further.
-</thinking>
-
 # Covid Questionnaire For Customers - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their COVID-19 related experiences and history.

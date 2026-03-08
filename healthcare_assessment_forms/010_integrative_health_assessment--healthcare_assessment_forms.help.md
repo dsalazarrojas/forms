@@ -1,12 +1,3 @@
-<thinking>
-Internal note: This form is used to collect information for integrative health assessments, which are designed to evaluate a patient's overall well-being and identify areas for improvement in their physical, emotional, and mental health. The form includes fields for personal contact information, medical history, wellness goals, and contact information for medical providers. 
-
-Checking for duplicates:
-- This form is a general purpose integrative health assessment form. 
-- There are no other forms with similar purpose. 
-
-</thinking>
-
 # Integrative Health Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for a contest where students can enter to win free days of enrollment. The form is designed to gather information from students and their school representatives. The form will be used to determine the eligibility of students for the contest. To ensure that the form is completed correctly and accurately, it is essential to understand the purpose and the fields required. Please review the form carefully and only submit your entry if you are eligible. Note that some fields are not required, and you can leave them blank if they do not apply to you. Also, be cautious of duplicate entries, as only one entry per person or school can be submitted.
-</thinking>
-
 # Win Free Days Of Enrollment Contest Entry - Help Guide
 ## Purpose
 This form is for students and their school representatives to enter a contest to win free days of enrollment. It is essential to fill out the form correctly and accurately to be considered for the contest.

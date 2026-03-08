@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect final bid submissions from individuals or groups for the Swacurh Leadership Conference. 
-The form is part of a larger process for reviewing and evaluating bids to determine which proposals will be accepted for the conference. 
-This form should only be used for the final bid submission process, and it is not intended to be used for other purposes, such as general information gathering or marketing. 
-Duplicate submissions from the same person or entity are not recommended and will be handled separately in accordance with the review process. 
-To fill out this form, please follow the instructions provided in this guide. 
-</thinking>
-
 # Swacurh Leadership Conference Final Bid Submission - Help Guide
 ## Purpose
 The purpose of this form is to collect final bid submissions from individuals or groups for the Swacurh Leadership Conference. It is designed to gather relevant information for the review and evaluation process.

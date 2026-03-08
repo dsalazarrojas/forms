@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect donations for the Anti Human Trafficking Fund, a charity organization dedicated to combating human trafficking. The form is meant to gather information from donors to understand their preferences and requirements for the donation process. This form should only be filled out for the purpose of making a donation, and not for soliciting donations or seeking sponsorship for non-related purposes.
-
-The following guide is for users who wish to make a donation to the Anti Human Trafficking Fund. By following these instructions, you will be able to complete the form accurately and efficiently.
-
-This guide covers all fields and sections of the form in a step-by-step manner.
-
-</thinking>
-
 # Anti Human Trafficking Fund Donation Form - Help Guide
 ## Purpose
 

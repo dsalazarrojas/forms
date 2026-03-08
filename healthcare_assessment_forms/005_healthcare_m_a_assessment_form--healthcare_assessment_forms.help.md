@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Healthcare M&A Assessment Form - Help Guide
 
 ## Purpose

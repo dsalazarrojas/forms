@@ -1,7 +1,3 @@
-<thinking>
-The Tuition Waiver Form is a form used to request waivers of tuition fees for eligible students. The form requires the student to provide application information, student ID number, program name, tuition amount, waiver type, student status, reason for waiver, and any supporting documents. This form is meant for students who are eligible for tuition waivers and are submitting their applications online. The fields are designed to be filled out by the student or their representative.
-</thinking>
-
 # Tuition Waiver Form - Help Guide
 ## Purpose
 The Tuition Waiver Form is used to request waivers of tuition fees for eligible students. Please fill out the form carefully and ensure all required fields are completed accurately.

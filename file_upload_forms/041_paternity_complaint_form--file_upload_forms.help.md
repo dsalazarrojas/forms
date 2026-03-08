@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect complaints or concerns about paternity, which can be related to various issues such as disputes over parental rights, custody, or child support. This form is intended for individuals who wish to report or express their concerns about paternity-related matters, and it provides a structured format for them to provide relevant details and documentation.
 
 To ensure the integrity of the process, the form has been designed to be comprehensive and easy to use. However, it's essential to complete it accurately and thoroughly to facilitate efficient and effective handling of the complaint.

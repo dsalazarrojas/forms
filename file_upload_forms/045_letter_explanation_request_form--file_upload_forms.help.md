@@ -1,13 +1,3 @@
-<thinking>...
-
-This form is designed to be used by users when they need to provide a detailed explanation for a given issue, typically for review and approval purposes. To ensure that you're using the correct form, please note that:
-
-* This form is not intended for general contact or support inquiries.
-* If you're not sure which form to use, please reach out to your administrator for clarification.
-* You should only submit this form once per issue, to avoid duplication of effort.
-
-</thinking>
-
 # Letter Explanation Request Form - Help Guide
 
 ## Purpose

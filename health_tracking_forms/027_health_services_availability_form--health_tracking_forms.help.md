@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a health services availability form, which allows users to input information about the availability of health services, such as services offered, availability days, and contact information. This form likely serves as a means to collect data for healthcare providers or administrators to manage their schedules and availability. The form has various fields, including select one and select multiple options for services offered and availability days, as well as text fields for contact information and other details. The form's purpose is to gather data that will help healthcare providers optimize their schedules and services. This form seems to be part of a larger system for managing health services and may be used in conjunction with other forms and tools to streamline operations.
-
-</thinking>
-
 # health_services_availability_form - Help Guide
 ## Purpose
 This form is designed to collect information about health services availability to help healthcare providers manage their schedules and services.

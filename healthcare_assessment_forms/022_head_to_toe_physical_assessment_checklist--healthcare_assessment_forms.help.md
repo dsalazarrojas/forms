@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for a physical assessment of a patient's body systems. 
-It is a checklist-based form that allows the assessor to evaluate the patient's overall health and identify any potential issues. 
-The form includes fields that cover various systems of the body, such as Neurological, Cardiovascular, Respiratory, etc., and asks the assessor to select whether the corresponding signs or symptoms are normal or abnormal. 
-Note that all fields are optional, which may cause inconsistencies or incompleteness in the assessment results. 
-The form is not affiliated with or endorsed by any form platform, and is intended for use as a general guide only. 
-Please use this form for personal or non-commercial use. 
-</thinking>
-
 # Head To Toe Physical Assessment Checklist - Help Guide
 ## Purpose
 This form is designed to be a comprehensive physical assessment guide that covers various systems of the body, including neurology, cardiology, and other key areas.

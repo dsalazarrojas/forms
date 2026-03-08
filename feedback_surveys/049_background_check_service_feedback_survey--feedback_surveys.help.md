@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from clients on the background check service provided by the organization. The goal is to gather information on the client's experience with the service, including their satisfaction with the speed of report delivery, accuracy of results, communication quality, and overall satisfaction with the service. The form also asks for any suggestions for improvement and permission to follow up with the client for further discussion.
-
-This form is not meant to be completed by the service provider themselves, but rather by the client who has used the service.
-
-The form is not intended to be used for multiple purposes, such as providing personal data or tracking client data for marketing purposes.
-
-</thinking>
-
 # Background Check Service Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients on their experience with the background check service. It helps the organization understand areas of improvement and provide better services.

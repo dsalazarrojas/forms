@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on the pricing of our products or services. The purpose of this form is to gather information on how customers perceive our price, its clarity, and its impact on their purchasing decisions. This data will help us identify areas for improvement and adjust our pricing strategies accordingly.
-
-Before completing this form, please make sure to answer honestly and thoroughly, and that you are providing feedback on our actual pricing, not on hypothetical or alternative scenarios.
-
-Please note that all fields marked as "required" are mandatory and must be completed.
-
-</thinking>
-
 # Customer Feedback On Pricing - Help Guide
 
 ## Purpose

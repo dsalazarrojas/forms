@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to submit their quiz results and event details for the purposes of tracking and displaying a leaderboard for quizzes. This form is designed to be a simple and efficient way to collect participant and event information without duplicating existing forms. The form is meant to be used for public surveys and is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Quiz Leaderboard Submission Form - Help Guide
 ## Purpose
 The Quiz Leaderboard Submission Form is a tool used to collect and display participant and event information for quizzes. It allows users to submit their results and details of the event they participated in, enabling the creation and maintenance of a leaderboard.

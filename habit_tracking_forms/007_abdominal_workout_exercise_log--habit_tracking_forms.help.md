@@ -1,9 +1,3 @@
-<thinking>
-
-The Abdominal Workout Exercise Log is designed for tracking the details of abdominal exercises performed during a workout session. This form aims to record the exercise type, sets, reps, and time spent on each exercise, along with the overall intensity and soreness level experienced during the workout. The goal is to provide a comprehensive record of the workout session, allowing for easier tracking and analysis of progress over time. This form is likely to be used by individuals who engage in regular abdominal workouts, such as fitness enthusiasts or athletes, to monitor their exercise routine and make adjustments as needed.
-
-</thinking>
-
 # Abdominal Workout Exercise Log - Help Guide
 ## Purpose
 This form is designed to record the details of abdominal exercises performed during a workout session, allowing for easy tracking and analysis of progress over time.

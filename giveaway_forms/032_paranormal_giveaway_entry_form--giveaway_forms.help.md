@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a paranormal-themed giveaway. The purpose is to gather contact and personal data, as well as details about the user's preferences and interests. The form is designed to be completed by individuals who wish to enter a giveaway, and the information collected will be used to determine eligibility and contact winners.
-To prevent duplication, users with duplicate entries will be removed.
-</thinking>
-
 # Paranormal Giveaway Entry Form - Help Guide
 ## Purpose
 The Paranormal Giveaway Entry Form is designed to collect information from individuals interested in participating in a paranormal-themed giveaway. This form is intended for individuals who wish to enter the giveaway and have a legitimate interest in the paranormal genre.

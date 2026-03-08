@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees after completing a training session. The purpose of this form is to collect feedback on various aspects of the training session, including the session's effectiveness, the trainer's performance, and the trainee's overall satisfaction with the session. This feedback will help us to continuously improve our training programs and provide better services to our trainees.
-To ensure that your feedback is useful to us, please make sure to provide constructive and specific comments, and try to focus on areas where we can improve. If you have any suggestions or ideas for future training sessions, please share them with us in the "Suggestions" field. Also, make sure to answer all required fields as they are marked.
-</thinking>
-
 # Post Training Feedback Questionnaire - Help Guide
 ## Purpose
 The Post Training Feedback Questionnaire is designed to gather feedback from trainees after completing a training session. This feedback is used to help us improve our training programs and provide better services to our trainees.

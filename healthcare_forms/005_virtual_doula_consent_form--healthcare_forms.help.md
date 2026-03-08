@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for clients to provide consent for virtual doula services, which likely involves online support and guidance during pregnancy, childbirth, and postpartum care. The form aims to collect essential information from the client, such as contact details, birth details, and consent for the services. 
-
-The form should be completed by the client to ensure that the doula has the necessary information to provide personalized support and care. 
-
-The client is required to provide their name, contact information, and other relevant details to ensure effective communication and support. The form also includes a field for the client to agree to the terms of service, which may include confidentiality, communication, and cancellation policies. 
-
-</thinking>
-
 # Virtual Doula Consent Form - Help Guide
 ## Purpose
 This form is for clients to provide consent for virtual doula services, which includes online support and guidance during pregnancy, childbirth, and postpartum care.

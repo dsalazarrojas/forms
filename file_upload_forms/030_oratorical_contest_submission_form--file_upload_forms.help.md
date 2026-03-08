@@ -1,7 +1,3 @@
-<thinking>
-This form is for participants to submit their entries for an oratorical contest. The form requires participants to provide their details, uploaded materials, and event information. The participant agreement and event agreement are mandatory fields, where participants and event organizers must agree to certain terms and conditions. This form is likely used by contest organizers to collect and review participant information and submissions, ensuring that all participants and event organizers adhere to the contest rules. To prevent duplicate submissions, ensure that each participant submits only one entry per form, and that the event organizer's information is accurate and up-to-date. This form is typically used for in-person events or online contests where participants and organizers can review and agree to terms and conditions before proceeding with the contest.
-</thinking>
-
 # Oratorical Contest Submission Form - Help Guide
 ## Purpose
 The Oratorical Contest Submission Form is designed for participants to submit their entries for an oratorical contest. The form collects participant details, uploaded materials, and event information, ensuring that all necessary data is gathered for the contest organizers to review and evaluate participant submissions.

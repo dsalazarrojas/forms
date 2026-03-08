@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect payroll data from users. Each field in the form is essential for accurate and efficient payroll processing. To ensure the form is completed correctly, the user should understand the purpose and function of each field. The form is divided into two main sections: "Payroll Entry" and "File Uploads". The "Payroll Entry" section includes fields for employer information, payroll amount, status, and other relevant details. The "File Uploads" section allows users to upload multiple files. The form is required for users who need to upload and update payroll information. It is not intended for general users, but rather for specific roles such as HR personnel, accountants, or payroll administrators...</thinking>
-
 # Payroll Upload Form - Help Guide
 ## Purpose
 The Payroll Upload Form is designed to collect accurate and efficient payroll data from users. This form is required for users who need to upload and update payroll information for their employers.

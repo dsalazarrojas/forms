@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Damage Recovery Feedback Survey - Help Guide
 
 ## Purpose

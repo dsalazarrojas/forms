@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document vehicle damage incidents, allowing users to provide detailed information about their vehicle's condition after a collision or other incident. This form is typically completed by the vehicle's owner or claimant, who provides personal and vehicle-specific details, including images, to help facilitate communication and resolution of the claim with the vehicle's insurer.
-</thinking>
-
 # Vehicle Damage Discharge Form - Help Guide
 ## Purpose
 The Vehicle Damage Discharge Form is used to document vehicle damage incidents, providing a structured way for claimants to report details about their vehicle's condition after a collision or other incident.

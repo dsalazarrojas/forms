@@ -1,7 +1,3 @@
-<thinking>
-The form is used to submit a honey price and image data. It is likely used for administrative or commercial purposes, such as tracking or selling honey. This form should only be filled out once, and it's essential to provide accurate and complete data to get the most out of it. Please check the form carefully before submitting it to ensure that it's accurate and complete.
-</thinking>
-
 # Honey Price And Image Submission - Help Guide
 ## Purpose
 This form is used to submit a honey price and image data for administrative or commercial purposes. It's intended for users to provide information about a honey product, including its price and images.

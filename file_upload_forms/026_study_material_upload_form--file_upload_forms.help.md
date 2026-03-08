@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users regarding their uploaded study materials, including the material itself, description, and details about who uploaded it and how they can be contacted. This form is not meant to be a comprehensive study material management system but rather a simple tool to gather relevant data from users.
-
-It's essential to note that the form is designed for users to report their uploaded study materials, and it's not intended for administrators to upload materials on behalf of users. This form is part of a larger system, and it's crucial to understand this context to ensure proper completion.
-
-Additionally, please be aware that this form is not for uploading sensitive or confidential information. The system is not designed to handle such data, and uploading sensitive materials could lead to unintended consequences.
-
-</thinking>
-
 # Study Material Upload Form - Help Guide
 ## Purpose
 The Study Material Upload Form is a tool used by users to report their uploaded study materials to the system. This form is used to gather information about the materials, including their descriptions, uploaders' identities, and contact information.

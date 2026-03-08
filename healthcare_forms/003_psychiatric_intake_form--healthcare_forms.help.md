@@ -1,9 +1,3 @@
-<thinking> This form is intended to collect information about a patient's psychiatric and medical history, as well as their current mental status and family history. It is designed to be completed by a healthcare professional to assess the patient's mental and medical health. This form should be completed in a clinical setting, and the information gathered will be used to inform treatment decisions and provide a comprehensive overview of the patient's condition.
-
-To ensure accurate and complete information is collected, please note that this form should only be completed once per patient encounter. Repeating this form may result in duplicate or outdated information.
-
-</thinking>
-
 # Psychiatric Intake Form - Help Guide
 ## Purpose
 The Psychiatric Intake Form is designed to gather essential information about a patient's psychiatric and medical history, as well as their current mental status and family history. This form helps healthcare professionals assess the patient's condition and inform treatment decisions.

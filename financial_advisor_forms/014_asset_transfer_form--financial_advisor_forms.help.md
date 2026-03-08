@@ -1,10 +1,3 @@
-<thinking>... internal reasoning:
-The purpose of this form is to collect information about an asset transfer, which is a critical process in financial and legal settings. This form is used to gather details about the asset being transferred, the parties involved (transferor and transferee), and the terms of the transfer. It is essential to ensure that the information collected is accurate and complete to facilitate a smooth and secure transfer process. 
-
-This form will guide you in completing the asset transfer process, step-by-step.
-
-Please ensure that the form is not a duplicate entry, and that the provided information is not being used for other purposes. This form is specific to asset transfers and should only be used for legitimate asset transfer processes.</thinking>
-
 # Asset Transfer Form - Help Guide
 ## Purpose
 The Asset Transfer Form is designed to collect information about an asset transfer process. This form is used to gather details about the asset being transferred, the parties involved, and the terms of the transfer.

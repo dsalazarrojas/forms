@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from users about their experience with Natural Language Processing (NLP) commands. It is designed to help us understand how users utilize NLP commands, what challenges they face, and how we can improve the form and overall user experience. This feedback is essential for refining the NLP command functionality and providing a better user experience. It's crucial to provide accurate and actionable information by avoiding duplication of efforts. Please answer the questions accurately and thoroughly, and do not submit duplicate responses.
-</thinking>
-
 # NLP Command Input Survey - Help Guide
 ## Purpose
 The NLP Command Input Survey is designed to collect feedback from users about their experience with NLP commands. This feedback will help us understand how users utilize NLP commands, what challenges they face, and how we can improve the form and overall user experience.

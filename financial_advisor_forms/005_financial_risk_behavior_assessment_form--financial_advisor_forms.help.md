@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure the form is being used correctly and that we are collecting all necessary information. This form assesses the financial risk behavior of clients and is meant to guide advisors in understanding client needs and expectations. The purpose is to gather information about the client's investment experience, goals, and risk tolerance. To avoid duplication, ensure that the client hasn't already completed the form.
-
-Please refer to the Financial Risk Behavior Assessment Form help guide for details on its completion.
-</thinking>
-
 # Financial Risk Behavior Assessment Form - Help Guide
 ## Purpose
 This form is designed to help financial advisors understand clients' investment behavior, tolerance, and goals. The information collected helps advisors provide personalized guidance and recommendations.

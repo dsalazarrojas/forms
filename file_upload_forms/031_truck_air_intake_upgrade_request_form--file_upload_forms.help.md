@@ -1,11 +1,4 @@
 ```
-<thinking>
-This form is designed to gather information from shop staff regarding truck air intake upgrades. It is meant to be filled out by shop staff when a customer's vehicle comes in for service. To ensure accurate and efficient intake processing, please use this form to guide you through the process.
-To avoid duplication and ensure accurate tracking, please only use this form to submit requests for new intakes, not to update or re-submit existing ones.
-The form includes fields for shop ID, service team, fleet operator, uploaded file, file name, intake type, intake status, intake priority, due date, comments, email, phone, notes, intake date, intake time, intake location, intake notes, customer name, customer email, customer phone, service type, air leak type, air filter status, air filter priority, air filter due date.
-Please ensure all required fields are completed before submitting the form.
-</thinking>
-
 # Truck Air Intake Upgrade Request Form - Help Guide
 ## Purpose
 The Truck Air Intake Upgrade Request Form is used to gather information from shop staff regarding truck air intake upgrades. This form should only be used to submit new requests, not to update or re-submit existing ones.

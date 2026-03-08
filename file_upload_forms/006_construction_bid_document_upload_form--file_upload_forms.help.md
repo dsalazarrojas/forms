@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and validate construction bid documents for a specific project. It's meant for contractors or bidding companies to submit their bids, including their bid amount, project timeline, and other relevant details. Please ensure that you have read the project guidelines and requirements before filling out this form.
-</thinking>
-
 # Construction Bid Document Upload Form - Help Guide
 ## Purpose
 This form is used to upload construction bid documents for a specific project, including project details, bid amount, and other relevant information.

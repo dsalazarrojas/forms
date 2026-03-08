@@ -1,9 +1,3 @@
-<thinking>
-This block explains why the form is necessary and what checks need to be done to ensure it is used correctly.
-
-The Custom Packaging Order Form is used to capture information for custom packaging orders. This form is used by business partners to provide details about their custom packaging needs, including business name, contact person, order date and time, and other relevant information. When filling out this form, ensure that all required fields are completed, and the "assigned_tool" field is correctly selected as it reflects the tool assigned to process the order.
-</thinking>
-
 # Custom Packaging Order Form - Help Guide
 ## Purpose
 The Custom Packaging Order Form is used to capture information for custom packaging orders.

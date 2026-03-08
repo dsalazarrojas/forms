@@ -1,5 +1,3 @@
-<thinking>...The Engineering Photo Submission Form is used for submitting photos related to engineering projects. The form is designed to collect relevant information about the project, including project details and photo metadata. The form is meant to be completed by engineers or project team members to ensure that all necessary information is captured and stored for project management and record-keeping purposes. To avoid duplication, ensure that you are submitting a new photo and not a duplicate of an already submitted photo. Ensure that you have the necessary permissions and approvals to submit the photo and associated data. Ensure that the photo meets the required standards and specifications for submission...</thinking>
-
 # Engineering Photo Submission Form - Help Guide
 ## Purpose
 The Engineering Photo Submission Form is used for submitting photos related to engineering projects. The form is designed to collect relevant information about the project, including project details and photo metadata.

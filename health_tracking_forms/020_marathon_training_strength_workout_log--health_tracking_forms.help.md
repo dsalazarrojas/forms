@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed to track an individual's marathon training strength workout log, gathering information on various aspects of their running sessions. It includes fields for recording session details, such as date, distance, time, pace, intensity, exercises performed, sets and reps, rest time, and any additional notes. The form's purpose is to help users monitor and analyze their progress, potentially aiding in optimization of their training.
-
-To ensure clarity, I will provide an explanation of each field to help users understand how to complete the form correctly.
-
-</thinking>
-
 # Marathon Training Strength Workout Log - Help Guide
 ## Purpose
 The Marathon Training Strength Workout Log is designed to track your marathon training sessions, providing a systematic way to monitor and analyze your progress.

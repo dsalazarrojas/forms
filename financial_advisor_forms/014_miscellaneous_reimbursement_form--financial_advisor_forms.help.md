@@ -1,5 +1,3 @@
-<thinking>... This form is intended for use by employees to request reimbursement for miscellaneous expenses incurred outside of their regular work activities. The form is designed to collect information about the expense date, amount spent, and a brief description of the expense. This information will be used by the finance department to process and approve reimbursement requests. Please ensure that you are filling out this form only once for each expense, and that you have not already submitted a similar request for the same expense date. If you are unsure about the purpose of this form or have questions, please reach out to your supervisor or the finance department. ...</thinking>
-
 # Miscellaneous Reimbursement Form - Help Guide
 ## Purpose
 The Miscellaneous Reimbursement Form is used to request reimbursement for miscellaneous expenses incurred outside of your regular work activities. This form will help the finance department process and approve your reimbursement requests.

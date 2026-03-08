@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from learners about their tutoring sessions, which helps us improve the quality of our tutoring services. Additionally, it allows learners to enter a raffle with the possibility of winning a prize. We want to ensure that learners understand the purpose of this form and provide their honest feedback. We also want to check if they are willing to enter the raffle.
-
-The form is not meant to be a lengthy or complicated process, and we encourage learners to provide their feedback and consent to enter the raffle in a straightforward and honest manner.
-
-Before starting, please note that some fields are optional, and you should only fill them out if you feel it's relevant to your feedback or raffle entry.
-
-</thinking>
-
 # AI Tutor Feedback And Raffle Entry - Help Guide
 ## Purpose
 The form is designed to gather feedback about the tutoring session, which will help us improve the quality of our services. It also gives you the opportunity to enter a raffle with a chance to win a prize.

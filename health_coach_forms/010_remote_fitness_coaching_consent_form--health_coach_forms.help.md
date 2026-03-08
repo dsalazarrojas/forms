@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # remote_fitness_coaching_consent_form - Help Guide
 
 ## Purpose

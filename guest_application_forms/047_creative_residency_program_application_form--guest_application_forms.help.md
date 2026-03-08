@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "ประก prophets Creative Residency Program Application Form", I will first review the form's purpose and ensure that it is not a duplicate of any other form. This form appears to be designed for artists applying to the "ประก prophets Creative Residency Program". The form is meant to gather information from artists to evaluate their eligibility for the residency program. It includes fields for artist statement, contact information, project details, project proposals, and residency requirements such as duration, location, and dates. The form also includes fields for residency application fee and fee refund policies.
-
-</thinking>
-
 # ประก prophets Creative Residency Program Application Form - Help Guide
 ## Purpose
 The "ประก prophets Creative Residency Program Application Form" is designed to collect information from artists applying to the "ประก prophets Creative Residency Program". This form is meant to assess an artist's eligibility for the residency program.

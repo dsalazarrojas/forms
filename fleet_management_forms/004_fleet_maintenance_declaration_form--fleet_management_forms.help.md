@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fleet Management Declaration Form - Help Guide
 ## Purpose
 This form is used to declare and record maintenance activities related to a vehicle within a fleet management system. It helps track and document the vehicle's maintenance status, condition, and other relevant details. The form should only be completed if the vehicle is not already listed as maintained in the system.

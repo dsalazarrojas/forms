@@ -1,9 +1,3 @@
-<thinking>
-This form is a Student Computer Loan Agreement form, which is used to document the terms and conditions of a computer loan provided to a student. The form captures essential information about the loan, including the loan amount, loan terms, and details about the computer being loaned. It also includes fields for student and financial aid user information. The purpose of this form is to ensure that all parties involved in the loan process are on the same page and have a clear understanding of the agreement. This form should be completed by the student and the financial aid user to confirm their understanding of the loan terms and conditions. 
-
-Please note that this form has been reviewed for relevance and non-duplication of information. All the fields have been carefully selected to ensure that they are necessary for the student and financial aid user to understand and agree to the loan terms and conditions.
-</thinking>
-
 # Student Computer Loan Agreement - Help Guide
 ## Purpose
 This form is used to document the terms and conditions of a computer loan provided to a student. It captures information about the loan amount, loan terms, computer details, and student and financial aid user information.

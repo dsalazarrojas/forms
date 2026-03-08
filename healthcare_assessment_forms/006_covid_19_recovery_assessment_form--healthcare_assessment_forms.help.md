@@ -1,8 +1,3 @@
-<thinking>
-Are we ready to start building the "COVID 19 Recovery Assessment Form" help guide?
-Let's ensure that this form is user-friendly, comprehensive, and easy to understand. We need to consider the context in which this form will be used, who will be filling it out, and what information we want to collect.
-The form is designed for patients who have had COVID-19 to assess their recovery status, identify any lingering symptoms, and provide relevant medical information for healthcare providers. This will help healthcare professionals track patient progress, provide personalized care, and improve patient outcomes.
-Let's review the form fields to ensure we cover all necessary information and make adjustments if needed. We'll break down each field and create a clear and concise explanation for users.</thinking>
 # COVID 19 Recovery Assessment Form - Help Guide
 ## Purpose
 The COVID 19 Recovery Assessment Form is designed to help healthcare providers assess your recovery status after a COVID-19 diagnosis. This form collects information on your medical history, current health status, and recovery progress to provide personalized care and improve patient outcomes.

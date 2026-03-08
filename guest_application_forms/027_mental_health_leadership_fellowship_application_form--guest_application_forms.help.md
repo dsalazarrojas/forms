@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Mental Health Leadership Fellowship program. It is not affiliated with, endorsed by, or derived from any form platform. This form is an original adaptation created using public survey topic metadata as inspiration.
-
-To ensure that the form is used correctly and consistently, please note that:
-
-* Each applicant is only allowed to submit one application.
-* Applications must be filled out in their entirety, as any omission may result in disqualification.
-</thinking>
-
 # Mental Health Leadership Fellowship Application Form - Help Guide
 ## Purpose
 The Mental Health Leadership Fellowship Application Form is a comprehensive application form designed to collect essential information from applicants for the Mental Health Leadership Fellowship program. This form is intended to gather data that will be reviewed by the selection committee for the fellowship.

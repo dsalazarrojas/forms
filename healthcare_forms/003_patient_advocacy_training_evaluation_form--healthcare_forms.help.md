@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the effectiveness of the Patient Advocacy Training program. The form will help users assess whether the program has met the training goals and objectives, and identify areas for improvement. The form is designed to be completed by the program facilitators and evaluators to provide feedback and assessment. Please ensure you have reviewed the program goals and objectives before completing this form to ensure accurate evaluation and non-duplication of effort.
-</thinking>
-
 # Patient Advocacy Training Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of the Patient Advocacy Training program.

@@ -1,7 +1,3 @@
-<thinking>
-The weight loss program intake form is used for individuals who want to participate in a weight loss program. The form helps in gathering general information about the individual, including height, weight, age, medical history, contact information, and preferred method of weight loss. The form is meant to be filled out by the individual prior to meeting with a health coach or healthcare professional. It is essential to fill out the form accurately and truthfully to ensure that the health coach can provide proper guidance and support. The form is typically completed by individuals who are interested in joining a weight loss program, and it is used to assess their readiness and suitability for the program.
-</thinking>
-
 # Weight Loss Program Intake Form - Help Guide
 ## Purpose
 The Weight Loss Program Intake Form is designed to gather essential information from individuals who wish to participate in a weight loss program. This form helps in understanding the individual's general information, medical history, and contact details to ensure a safe and effective program implementation.

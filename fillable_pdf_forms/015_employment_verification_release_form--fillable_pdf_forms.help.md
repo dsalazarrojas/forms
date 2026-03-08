@@ -1,7 +1,3 @@
-<thinking>
-This form is used to provide information about an employee's employment status and details, helping to verify their employment history. This form aims to collect data for administrative purposes, such as payroll processing, benefits, or employment history reporting.
-</thinking>
-
 # Employment Verification Release Form - Help Guide
 ## Purpose
 The Employment Verification Release Form is a document that provides information about an employee's employment status and details, helping to verify their employment history. This form is used for administrative purposes, such as payroll processing, benefits, or employment history reporting.

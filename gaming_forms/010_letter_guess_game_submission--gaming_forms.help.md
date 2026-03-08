@@ -1,11 +1,3 @@
-<thinking>
-To check if this form is relevant, we need to determine its purpose. Based on the YAML schema, this form appears to be related to a "Letter Guess Game Submission" which suggests that it's used for users to submit their responses to a letter-guessing game. This form likely captures information about the game participants, their details, and any feedback they might have.
-
-Upon reviewing the fields, it seems that the form is designed to collect general information about the participant, such as their name, email, and phone number, which might be used for internal contact purposes or follow-up communication. The "contest_entries" field is a select multiple field with options "Yes" and "No", which likely indicates whether the participant has participated in the contest or not. This could be used for tracking participation rates or demographics.
-
-Internal checks are needed to prevent duplicate submissions or incorrect use of this form for purposes other than its intended goal, which is to submit responses to a letter-guessing game.
-</thinking>
-
 # Letter Guess Game Submission - Help Guide
 ## Purpose
 This form is designed to capture participant responses and submissions for the Letter Guess Game.

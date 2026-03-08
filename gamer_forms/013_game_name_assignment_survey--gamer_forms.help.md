@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Game Name Assignment Survey - Help Guide
 ## Purpose
 The Game Name Assignment Survey is designed to gather information from gamers about the titles of games they have played or are interested in playing. This survey is used to understand the diversity of game titles and genres in the gaming community. It is intended for gamers who have played a significant number of games and are familiar with various game titles and genres.

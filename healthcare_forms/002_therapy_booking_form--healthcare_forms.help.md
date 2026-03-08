@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be a user-facing form for booking therapy sessions, likely for a healthcare organization. The purpose of this form is to gather information from patients or clients to schedule and manage their therapy sessions. It's essential to fill out this form accurately to ensure that the relevant information is captured correctly and to avoid any potential confusion or miscommunication. Before proceeding, please ensure that you have all the necessary information to complete the form, and that the form is not already filled out for a different purpose (e.g., not meant for reserving the same time slot for another user).
-</thinking>
 # therapy_booking_form - Help Guide
 ## Purpose
 This form is used to book and manage therapy sessions for patients or clients.

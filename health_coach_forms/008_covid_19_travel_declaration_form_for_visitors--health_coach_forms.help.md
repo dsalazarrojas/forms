@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from visitors about their travel history and health status to ensure their safety and compliance with local health regulations. It's essential to complete this form accurately and truthfully to avoid any issues during their stay. Please take the time to fill out this form carefully and correctly.
-
-Before you begin, make sure you have all the necessary information and documents required for this form. If you need to clarify any of the questions or requirements, don't hesitate to reach out to the relevant authorities or your travel agent.
-
-Please note that this form is a mandatory requirement for visitors to [insert location/country]. If you have any doubts or concerns, please contact us at [insert contact information].
-
-</thinking>
-
 # COVID 19 Travel Declaration Form For Visitors - Help Guide
 ## Purpose
 The COVID-19 Travel Declaration Form is a mandatory document that visitors must complete before arrival to ensure their safety and compliance with local health regulations. This form collects information about your travel history, health status, and declaration of accuracy.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect health lab report submissions, which typically involves uploading files related to medical test results and patient contact information. It is likely intended for use by healthcare professionals or individuals seeking medical attention. The fields on this form should be filled out by a qualified medical professional or an authorized individual. Ensure you're submitting accurate and relevant information, as this form may be used for clinical analysis or reference. Please note that fields are not all required and may vary in purpose or applicability depending on the specific lab and test.
-</thinking>
-
 # Health Lab Report Submission - Help Guide
 ## Purpose
 This form is used for the submission of health lab reports, which involves providing contact information and uploading relevant files.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for a halal investment consultation. The form is not intended for users who are not seeking investment consultations or who are not interested in halal investments. This form is not a duplicate of any other form, and it is intended for users who are interested in exploring halal investment options. The purpose of this form is to gather user information for the purposes of scheduling a consultation with a financial advisor and collecting additional details about the user's interests and preferences. By providing this information, users can help ensure that they receive the most relevant and personalized consultation and investment advice.
-</thinking>
-
 # Halal Investment Consultation Booking - Help Guide
 ## Purpose
 This form is designed to collect user information for a halal investment consultation. The form is not intended for users who are not seeking investment consultations or who are not interested in halal investments.

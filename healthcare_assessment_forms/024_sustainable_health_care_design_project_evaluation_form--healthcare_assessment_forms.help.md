@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate the sustainability of a healthcare design project. It is intended for project managers and stakeholders to assess the project's features, goals, and overall performance. The form helps in identifying areas of improvement and areas of excellence in a project. It is not intended to be a comprehensive assessment tool but rather a quick evaluation to get a general sense of the project's sustainability.
-
-The form is part of the "healthcare_assessment_forms" category and should not be used for other projects outside of this category. It is also not intended to be used by non-technical users, as it requires some basic knowledge of project management and sustainability concepts.
-
-The form has the following pages: form_header, sustainable_features, stakeholder_engagement, overall_performance, project_goals, project_benefits, project_challenges, evaluation_score, and form_footer.
-
-Each page has a specific set of fields and questions designed to gather relevant information about the project. 
-
-</thinking>
-
 # sustainable_health_care_design_project_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate the sustainability of a healthcare design project.

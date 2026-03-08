@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Psychological Health Questionnaire - Help Guide
 ## Purpose
 The Patient Psychological Health Questionnaire is a tool designed to assess a patient's mental well-being and psychological health. This form aims to gather information about the patient's mental health status, their current psychological state, and their medication status, providing healthcare professionals with valuable insights to better serve their needs.

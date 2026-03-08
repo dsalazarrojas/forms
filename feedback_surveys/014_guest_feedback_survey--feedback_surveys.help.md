@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from guests about their stay at our establishment. The goal is to gather information about their experience, identify areas of improvement, and provide a platform for guests to express their opinions and suggestions. By analyzing this feedback, we can make data-driven decisions to enhance our services and facilities.
 
 To complete this form, please follow the instructions below:

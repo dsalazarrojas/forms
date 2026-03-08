@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect demographic and game engagement information from users participating in an Animated Feature Elimination Game. The game involves voting on animated features, and this form helps gather essential details about the users, such as their name, contact information, age group, and preferred game format.
-The game's purpose is to gather feedback and engagement from users, which is crucial for game developers to understand their audience's preferences and improve the game for future rounds. This form serves as a gateway to gather participant information, their preferences, and feedback about the game.
-</thinking>
-
 # Animated Feature Elimination Game - Help Guide
 ## Purpose
 This form is designed to collect demographic and game engagement information from users participating in an Animated Feature Elimination Game.

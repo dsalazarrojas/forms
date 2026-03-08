@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students at your school to place orders for School Pies. When filling this form, please ensure to only submit orders from students at your school. Please do not submit orders from teachers, staff, or other individuals not associated with the school. If you are unsure about any information, please contact your school administration for guidance. 
-</thinking>
-
 # School Pie Fundraiser Order Form - Help Guide
 ## Purpose
 The School Pie Fundraiser Order Form is used by students at your school to place orders for School Pies. This form helps the school collect orders and track the number of pies each student wants to order.

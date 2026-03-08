@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure you have the correct information and don't waste time with unnecessary submissions, please take a moment to read through this form carefully before starting. This form is designed to collect information for culinary scholarship applications. Please ensure that you are eligible and only proceed if you have all required documents and attachments ready.
-
-</thinking>
-
 # Culinary Scholarship Application Submission Form - Help Guide
 ## Purpose
 This form is designed to collect the necessary information and documents for your culinary scholarship application. Please fill out the form carefully and ensure you have attached all required documents.

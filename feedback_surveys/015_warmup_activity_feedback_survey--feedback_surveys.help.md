@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants after a warmup activity, aiming to understand their experiences, preferences, and willingness to participate in similar activities in the future. Before filling out this form, please make sure you have not already submitted a feedback survey for this activity. Your input will help us understand what worked well and what didn't, and we'll use this information to make future sessions more enjoyable for all participants.
-
-</thinking>
-
 # Warmup Activity Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from participants after a warmup activity. Your input will help us understand what worked well and what didn't, and we'll use this information to make future sessions more enjoyable for all participants.

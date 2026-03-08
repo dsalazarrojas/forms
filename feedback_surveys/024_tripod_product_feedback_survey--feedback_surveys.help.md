@@ -1,9 +1,3 @@
-<thinking>
-This form is a feedback survey for users to provide input on the Tripod product. The purpose of this form is to collect feedback from users, allowing the product team to understand the user experience and make improvements. This form is designed to be user-friendly and easy to complete. To ensure that the feedback received is relevant and accurate, please only complete this form if you have had a recent experience with the Tripod product.
-
-Before starting the survey, please ensure that you have not already submitted feedback on this product. This will help us to avoid duplication of effort and ensure that your feedback is considered in our improvement process.
-</thinking>
-
 # Tripod Product Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experience with the Tripod product. Your input is crucial in helping us improve the product and provide a better user experience.

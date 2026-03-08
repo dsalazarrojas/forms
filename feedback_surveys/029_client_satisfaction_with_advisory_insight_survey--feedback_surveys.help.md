@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to measure the client's satisfaction with the advisory services provided by the organization. It's a structured survey designed to gather feedback on the quality and effectiveness of the advisory services, client engagement, and overall experience. The goal is to identify areas of strengths and weaknesses, allowing the organization to improve its services and better meet the needs of its clients.
-
-This form is intended for clients who have engaged with the advisory services and can provide insights into their experience. It's essential to ensure that clients who complete this form are aware of the purpose and relevance of the survey to provide accurate and constructive feedback.
-
-To avoid duplication of effort, the client should not complete this form if they have already provided feedback through other channels, such as email or phone calls. If they have already provided feedback, please do not repeat the same responses.
-
-</thinking>
-
 # Client Satisfaction With Advisory Insight Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on the quality and effectiveness of the advisory services provided by our organization. It helps us to identify areas of strength and weakness, and make improvements to better meet the needs of our clients.

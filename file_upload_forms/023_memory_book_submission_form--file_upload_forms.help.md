@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that only one submission is made per user. This form should only be used by users who have been assigned to a specific tool (e.g. chatjimmy, other). The purpose of the form is for users to submit a memory book entry with associated details.
-</thinking>
-
 # Memory Book Submission Form - Help Guide
 
 ## Purpose

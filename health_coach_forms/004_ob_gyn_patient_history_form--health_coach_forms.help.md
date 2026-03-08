@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ob Gyn Patient History Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "curbside_pickup_order_form" is designed to facilitate curbside pickup orders for customers. This form is used to collect information from customers for their curbside pickup orders. It is essential to ensure that the information is accurate to guarantee a smooth and efficient pickup experience. 
 
 ## curbside_pickup_order_form - Help Guide

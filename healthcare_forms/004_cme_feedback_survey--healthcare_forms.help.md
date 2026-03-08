@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from healthcare professionals about their experience with Continuing Medical Education (CME) programs. The survey is intended to help providers improve the quality of their programs by gathering information about the relevance, content, and effectiveness of the programs. This form is not affiliated with any form platform and is a original creation using public survey topic metadata as inspiration.
-</thinking>
-
 # CME Feedback Survey - Help Guide
 
 ## Purpose

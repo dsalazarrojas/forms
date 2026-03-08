@@ -1,10 +1,3 @@
-<thinking>
-# Form Design and Validation Rationale
-To ensure data integrity, we validate form fields to prevent invalid data submission. Each field is checked for relevance and non-duplication. For example, we do not allow duplicate character names or tags. The form purpose is to collect data for game character designs.
-
-Please note that this form is for internal use only, and sensitive data will be handled securely.
-</thinking>
-
 # Game Character Design Upload Form - Help Guide
 ## Purpose
 This form is designed to collect data for game character designs. It guides users through a series of fields to ensure that all necessary information is provided.

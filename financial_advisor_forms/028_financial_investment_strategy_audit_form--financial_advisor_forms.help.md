@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help users assess their financial investment strategy by asking a series of questions that cover various aspects of their investment goals, risk tolerance, and investment preferences. The form is likely used by financial advisors or planners to understand their clients' needs and provide personalized investment advice. The questions are designed to be straightforward and easy to understand, with options for selecting multiple or single answers. The form also asks about investment goals, which may include specific targets such as saving for retirement, a down payment on a house, or other financial objectives.
-</thinking>
-
 # Financial Investment Strategy Audit Form - Help Guide
 ## Purpose
 The Financial Investment Strategy Audit Form is designed to help users assess their financial investment strategy by asking a series of questions that cover various aspects of their investment goals, risk tolerance, and investment preferences.

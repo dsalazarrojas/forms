@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about architectural site surveys. It is intended for surveyors to document their findings and observations about a site. The form is used by surveyors to provide a comprehensive report of the site's condition, constraints, and features. The data collected through this form will be used to inform future projects or decisions related to the site.
-
-The form will not be duplicated if the same surveyor has already completed a survey for the same site. Before starting the survey, check if a survey has already been done for the same site to avoid unnecessary work.
-</thinking>
-
 # Architecture Site Survey Upload Form - Help Guide
 ## Purpose
 This form is designed to collect information from surveyors about architectural site surveys.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for users to enter their information for a giveaway related to the Smoky Mountains. It is likely used for promotional and marketing purposes to encourage user engagement and data collection.
-The form is likely to be filled out by users who are interested in the Smoky Mountains, such as potential visitors or enthusiasts.
-Before filling out the form, check if you have already submitted your information for this giveaway to avoid duplicating your entry.
-</thinking>
-
 # smoky_mountains_giveaway_entry - Help Guide
 ## Purpose
 This form is designed to collect user information for a giveaway related to the Smoky Mountains.

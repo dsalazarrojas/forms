@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on various types of weapons, including their type and model, as well as their performance and any issues encountered. It's intended for users to report any issues they have with the weapons and suggest improvements.
-
-Before proceeding, please ensure that you're completing this form for the correct purpose and not duplicating efforts.
-
-This form has multiple pages, each with its own set of fields. Please go through each page carefully to ensure you're providing the necessary information.
-
-</thinking>
-
 # weapon_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on weapons, including their type, model, performance, and any issues encountered. It's intended for reporting and improving weapons.

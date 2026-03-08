@@ -1,16 +1,3 @@
-<thinking>
-To create this form, I'll need to carefully review the provided YAML fields and understand their intent.
-
-It appears that this form is for adding or maintaining mutual fund portfolios, possibly for financial advisors or wealth managers. The form is composed of several pages or sections, each with various fields for capturing different details about the portfolio.
-
-Before generating the help guide, I'll need to make sure there's no duplication in the fields and that each field is accurately described for the end-user.
-
-Upon reviewing the fields, it seems that there are multiple "Notes" fields (fields 8, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25), which might be unnecessary. These can be consolidated or removed for brevity.
-
-Assuming the form is used to add new mutual fund portfolios, I'll base the explanations on the provided fields and provide clear, concise descriptions for each.
-
-</thinking>
-
 # Mutual Fund Portfolio Addition - Help Guide
 ## Purpose
 This form is used to add or maintain mutual fund portfolios for clients. Please fill out the required fields to create a new portfolio or update an existing one.

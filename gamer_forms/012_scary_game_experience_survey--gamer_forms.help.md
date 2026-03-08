@@ -1,5 +1,3 @@
-<thinking>... This form is used to collect feedback and survey responses from users about their experience with scary games. The form has 25 questions, each designed to gather information about the user's experience with scary games. This could be used by game developers to gain insights into what makes a scary game enjoyable for users and what could be improved. It's possible that users have already taken this survey, if so this is a duplicate submission. Please only take this survey if you are experiencing a new scary game. ...</thinking>
-
 # Scary Game Experience Survey - Help Guide
 
 ## Purpose

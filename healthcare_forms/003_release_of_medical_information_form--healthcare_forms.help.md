@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is intended to capture the release of medical information from a patient's medical records. The purpose of this form is to ensure that the patient's medical team has the necessary permissions to share their health information. The form is typically completed by a healthcare professional or authorized representative of the patient, and it will guide them through the process of obtaining consent for the release of medical information. 
-
-</thinking>
-
 # Release Of Medical Information Form - Help Guide
 
 ## Purpose

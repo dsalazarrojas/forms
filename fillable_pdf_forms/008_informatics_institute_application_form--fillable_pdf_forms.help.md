@@ -1,16 +1,3 @@
-<thinking>
-To create an effective help guide for the "informatics_institute_application_form", let's break down the form's purpose and requirements.
-
-The form is designed to collect information from applicants applying to the Informatics Institute. This form likely serves as a central repository for applicants to provide necessary details about themselves, their education, work history, and other relevant factors. The form's purpose is to gather comprehensive information about each applicant for the institute's evaluation and selection process.
-
-When completing this form, please ensure that you don't duplicate efforts and submit the same application more than once. This will help the institute's reviewers process and evaluate your application more efficiently.
-
-To fill out the form correctly, start by providing your application form information (page 1), followed by your student details (page 2), contact information (page 3), academic history (page 4), education background (page 5), employment history (page 6), second education background (page 7), skills (page 8), references (page 9), declaration of intent (page 10), and finally sign the declaration and agreement (page 11).
-
-Let's get into each field explanation:
-
-</thinking>
-
 # Informatics Institute Application Form - Help Guide
 ## Purpose
 The informatics_institute_application_form is used by applicants to provide necessary information for the selection and evaluation process by the Informatics Institute reviewers.

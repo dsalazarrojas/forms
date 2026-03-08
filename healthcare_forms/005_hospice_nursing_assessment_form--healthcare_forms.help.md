@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant medical information about a patient, including their medical history, current condition, medication, and social support needs. This form will likely be used in a hospice care setting to help healthcare professionals assess the patient's situation and provide appropriate care. 
-This form will collect information on the following fields, which can be reviewed by the healthcare professionals to understand the patient's medical history, condition, medication, and social support needs. This form is optional and is designed to be completed by healthcare professionals. 
-</thinking>
-
 # Hospice Nursing Assessment Form - Help Guide
 ## Purpose
 The Hospice Nursing Assessment Form is a tool used in a hospice care setting to collect information about a patient's medical history, condition, medication, and social support needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **self_development_and_life_history_assessment_form** - Help Guide
 ================
 

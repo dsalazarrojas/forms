@@ -1,7 +1,3 @@
-<thinking>
-This form is used by clients to upload project assets such as branding, media, and other project resources. It ensures that the agency has a clear understanding of the assets being provided and their intended use.
-</thinking>
-
 # Client Asset Upload Form - Help Guide
 ## Purpose
 The Client Asset Upload Form is designed to collect project assets from clients and enable the agency to understand their requirements and usage constraints for these assets.

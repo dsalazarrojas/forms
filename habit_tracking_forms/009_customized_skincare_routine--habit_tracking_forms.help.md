@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users about their customized skincare routine. This form helps users track their skincare habits, preferences, and schedule. It is intended for users to provide details about their routine type, selected products, routine duration, frequency, time of day, and any additional notes or contact information they wish to share. This form is not intended for users to submit sensitive or personal health information.
 
 Before completing this form, ensure you have read and understand our terms of service and privacy policy. 

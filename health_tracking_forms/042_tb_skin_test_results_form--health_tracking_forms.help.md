@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for health professionals to record and store test results for a patient's skin condition. It is not a formal diagnostic tool, but rather a structured form to help with documentation and follow-up. This form may be used for patient records, quality control, or internal tracking purposes. Please ensure that all fields are correctly completed with relevant information, as inaccurate data may compromise the validity of the records. This form is a general template and may need to be adapted to suit specific clinic or lab requirements. If you're unsure about the purpose or usage of this form, consult with the responsible health professional or the form's creator. 
-</thinking>
-
 # tb_skin_test_results_form - Help Guide
 ## Purpose
 The tb_skin_test_results_form is a tool used for recording and storing test results for a patient's skin condition. It helps health professionals document and track patient data for quality control and follow-up purposes.

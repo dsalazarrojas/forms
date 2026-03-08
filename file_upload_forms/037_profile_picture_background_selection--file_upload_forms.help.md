@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a person's profile picture background selection, which may include choosing a pre-defined background image style and uploading a custom image or background file. The form will ask users to select a gender identity, choose a background style, upload an image, and provide consent for its use. The form fields are designed to be flexible, allowing users to select their preferred background style, upload a custom image, and indicate their consent for image use.
-</thinking>
-
 # Profile Picture Background Selection - Help Guide
 ## Purpose
 This form is designed to collect information about a person's profile picture background selection, which includes selecting a pre-defined background image style and uploading a custom image or background file.

@@ -1,11 +1,3 @@
-<thinking>
-To ensure that this form serves its purpose effectively, let's first understand why it's being used. This form is intended to collect information from potential film critics who are interested in getting accreditation for film-related events. It's used to verify the credentials and experience of these critics to determine their eligibility for accreditation. We need to ensure that the same person is not submitting multiple applications.
-
-The form has two main sections: 'Media Details' and 'Accreditation Information'. In the 'Media Details', the user can provide information about themselves, their media type (e.g. film critic, event manager, or curator), their experience in years, and their review frequency. They can also specify the platforms where they publish their reviews and the type of events they have experience with. In the 'Accreditation Information' section, the user can provide more detailed information about their experience, such as their review experience, event dates, and event descriptions.
-
-This guide will walk the user through each section, explaining the purpose and usage of each field.
-</thinking>
-
 # Film Critic Accreditation Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential film critics to determine their eligibility for accreditation to film-related events.

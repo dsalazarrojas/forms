@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is intended to gather information about a person's healthy habits, medical history, and contact information. The purpose of this form is to collect comprehensive data about the individual's lifestyle, medical conditions, and relationships, which will be used to provide personalized health coaching services. This form should not be used for medical diagnosis or treatment purposes. 
-
-</thinking>
-
 # Healthy Habits Questionnaire - Help Guide
 ## Purpose
 The Healthy Habits Questionnaire is a comprehensive form designed to gather information about your healthy habits, medical history, and contact information. This form is meant to help our health coaches understand your lifestyle and provide you with tailored guidance and support.

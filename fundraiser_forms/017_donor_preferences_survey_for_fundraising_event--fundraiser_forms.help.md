@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from donors about their preferences and habits related to donations, volunteer work, and communication. The goal is to gather data that will help organizations better understand how to engage with donors and volunteers in a way that respects their preferences and increases the effectiveness of fundraising and volunteer events. This form is meant to be completed by individuals who have already expressed interest in donating or volunteering with the organization.
-</thinking>
-
 # Donor Preferences Survey For Fundraising Event - Help Guide
 
 ## Purpose

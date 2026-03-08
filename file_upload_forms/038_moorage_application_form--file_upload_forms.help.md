@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a moorage application, which can be a harbor or marina where boats can be docked or stored. This form helps to gather essential details about the moorage, including its category, address, contact information, moorage type, start and end dates, and any additional notes or attachments. The form is designed to be filled out by users who need to submit their moorage application for review and processing.
-</thinking>
-
 # Moorage Application Form - Help Guide
 ## Purpose
 The Moorage Application Form is used to submit a request for a moorage, which can be a harbor or marina where boats can be docked or stored.

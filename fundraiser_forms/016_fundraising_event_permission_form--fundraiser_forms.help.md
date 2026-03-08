@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraising Event Permission Form - Help Guide
 
 ## Purpose

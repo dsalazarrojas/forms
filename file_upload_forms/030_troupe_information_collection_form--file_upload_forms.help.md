@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about a troupe (a group of performers or actors) for internal purposes. The purpose of this form is to gather relevant data for a specific project or initiative. It's essential to ensure that the information provided is accurate and up-to-date.
-
-To avoid duplication of effort and maintain data consistency, please note that this form should only be filled out once per troupe. If you've already filled out this form for the same troupe, do not fill it out again.
-</thinking>
-
 # Troupe Information Collection Form - Help Guide
 ## Purpose
 This form collects information about a troupe (a group of performers or actors) for internal purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for junior esports team registration. It is used to collect information about junior teams participating in esports events. The form is required for each team to provide general information, team details, and player information. The purpose of this form is to ensure that the necessary details are collected for the event organization.
-</thinking>
-
 # esports_junior_tag_registration_form - Help Guide
 ## Purpose
 This form is used to register junior teams for esports events. It requires general information about the team, team details, and information about the players participating in the event.

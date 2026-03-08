@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mug Design Contest Entry Form - Help Guide
 
 ## Purpose

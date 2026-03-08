@@ -1,11 +1,3 @@
-<thinking>
-This form is used by floor film experts and end-users to provide feedback about floor film products and services. The purpose of this form is to collect opinions and preferences from respondents on various aspects of floor film, including its usage, satisfaction, and preferences. This form will help identify areas of improvement and provide valuable insights for the development of new floor film products and services.
-
-This form is part of a larger survey suite, and respondents who have already completed a similar survey in the past will not be allowed to complete this form again to avoid duplication of effort and ensure accurate data collection.
-
-Please read the following help guide to complete this form successfully.
-</thinking>
-
 # Floor Film Opinion Survey - Help Guide
 ## Purpose
 The Floor Film Opinion Survey is a form designed to collect opinions and preferences from respondents on various aspects of floor film products and services. Your input will help us identify areas of improvement and develop new products and services that meet your needs.

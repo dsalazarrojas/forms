@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Toy Product Missing Parts Request Form - Help Guide
 ## Purpose
 The Toy Product Missing Parts Request Form is designed to help customers submit a request for missing parts or components of a toy product. This form allows customers to provide information about the missing part, including the product image, product name, customer contact details, and a description of the issue. The form is intended to ensure that missing part requests are handled efficiently and effectively by the seller's customer support team.

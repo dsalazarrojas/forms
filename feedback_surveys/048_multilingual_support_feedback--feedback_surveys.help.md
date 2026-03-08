@@ -1,12 +1,3 @@
-<thinking>
-  This form is designed to collect feedback from users on their experience with multilingual support services. 
-  The feedback will help identify areas of improvement for future support enhancements. 
-  Ensure that the user provides honest and constructive feedback to help us better serve users with different language needs. 
-  To avoid duplication, please only fill out this form once and provide a separate response for each question or issue you experienced. 
-  This form is intended for end-users, so be specific and provide examples when answering the questions. 
-  Your feedback will be kept confidential and will not be shared with anyone without your explicit permission. 
-</thinking>
-
 # Multilingual Support Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on their experience with multilingual support services. Your input will help us identify areas of improvement for future support enhancements.

@@ -1,30 +1,3 @@
-<thinking>
-This form is part of a larger system for tracking mobile game-related data. The form's purpose is to collect information on a user's daily gaming habits, specifically for the mobile game they are playing. This data will help the user monitor their progress and identify areas for improvement. The form does not have any specific business logic or rules for validation, so users should be able to fill it out without worrying about specific requirements.
-
-The form has the following fields:
-
-- Game Name: The title of the game being played.
-- Game Type: The type of game being played (e.g. Mobile, PC, etc.).
-- Platform: The platform on which the game is being played (e.g. Console, PC, Mobile, etc.).
-- Start Date: The date the game was started.
-- Play Time: The total play time for the game.
-- Streak: The current streak of consecutive days played.
-- Progress: The current progress in the game.
-- Played Today: Any notable events or thoughts on the day's playtime.
-
-To complete this form, follow these steps:
-
-1. Enter the title of the mobile game you are playing in the "Game Name" field.
-2. Select the type of game you are playing from the "Game Type" dropdown menu.
-3. Choose the platform on which you are playing the game from the "Platform" dropdown menu.
-4. Enter the date you started playing the game in the "Start Date" field.
-5. Enter the total time you spent playing the game in the "Play Time" field.
-6. Enter your current streak of consecutive days played in the "Streak" field.
-7. Enter your current progress in the game in the "Progress" field.
-8. Enter any notable events or thoughts from the day's playtime in the "Played Today" field.
-
-</thinking>
-
 # mobile_game_daily_check_in_tracker - Help Guide
 ## Purpose
 The mobile_game_daily_check_in_tracker form is designed to help you track your daily gaming habits for your mobile game.

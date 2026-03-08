@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Satisfaction Survey For Eco Friendly Products - Help Guide
 
 ## Purpose

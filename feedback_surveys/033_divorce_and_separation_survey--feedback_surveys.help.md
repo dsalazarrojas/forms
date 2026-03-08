@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who have gone through a divorce or separation, focusing on their experiences and feelings related to the process. The goal is to understand their emotional state, challenges, and expectations after the separation. This form is part of a larger research project aimed at providing valuable insights for individuals and professionals dealing with divorce and separation issues. Please ensure you have not filled this form before and are not duplicating your responses.</thinking>
-
 # Divorce And Separation Survey - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have gone through a divorce or separation. The goal is to understand their experiences, feelings, and expectations after the separation.

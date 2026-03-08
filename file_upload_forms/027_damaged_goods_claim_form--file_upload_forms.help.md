@@ -1,7 +1,3 @@
-<thinking>
-The form "damaged-goods-claim-form" is designed for customers to submit a claim for damaged or defective products. The purpose of this form is to gather information about the product and customer details to facilitate efficient processing and resolution of the claim. The form ensures that customers provide accurate and detailed information to support their claim, which is then used to verify the issue and potentially offer a refund, replacement, or repair.
-</thinking>
-
 # damaged-goods-claim-form - Help Guide
 ## Purpose
 

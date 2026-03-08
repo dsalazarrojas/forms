@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to help healthcare professionals quickly and accurately collect information about a patient's medications. The purpose of this form is to reconcile a patient's medication list by gathering data on the medications the patient is currently taking, their dosages, frequency, and start dates. This information can be crucial for ensuring the patient's safety and effective treatment. It's essential that this form is filled out accurately and completely to prevent medication errors and ensure proper medical care.
-
-Before filling out this form, please ensure that you have the patient's most up-to-date information and that this form is not a duplicate of any existing records.</thinking>
-
 # Medication Reconciliation Form - Help Guide
 
 ## Purpose

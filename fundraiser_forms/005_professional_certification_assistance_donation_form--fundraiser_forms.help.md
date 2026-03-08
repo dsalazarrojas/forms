@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professional_certification_assistance_donation_form - Help Guide
 
 ## Purpose

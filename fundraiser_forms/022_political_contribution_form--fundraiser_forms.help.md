@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations that make political contributions. This form is likely used to track and record these contributions for reporting and auditing purposes. To ensure accuracy, please ensure that the form is filled out correctly and consistently. Please check that you are not duplicating an existing record before proceeding.</thinking>
-
 # Political Contribution Form - Help Guide
 ## Purpose
 The Political Contribution Form is used to collect information from individuals or organizations that make political contributions. This form is for reporting and auditing purposes.

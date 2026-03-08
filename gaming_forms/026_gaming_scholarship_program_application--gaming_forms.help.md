@@ -1,18 +1,3 @@
-<thinking>
-This form is a part of a gaming scholarship program application, and its purpose is to collect information from applicants about their gaming skills, experience, and other relevant details. This form is intended for gamers who are interested in receiving a scholarship for their gaming activities. Before filling out this form, please ensure that you have reviewed the eligibility criteria for the scholarship program to avoid any issues with your application.
-
-This form is designed to collect the following types of information:
-
-* Personal details (name, address, contact information)
-* Gamer details (gaming experience, skills, equipment, etc.)
-* Gaming experience and achievements
-* Club and sponsorship information
-* Other relevant details (trophies, friends, scores, etc.)
-
-Please note that some fields are mandatory and others are optional, and ensure that you provide accurate and truthful information to increase your chances of getting the scholarship.
-
-</thinking>
-
 # gaming_scholarship_program_application - Help Guide
 ## Purpose
 The gaming scholarship program application form is designed to collect information from applicants about their gaming skills, experience, and other relevant details to determine eligibility for a scholarship.

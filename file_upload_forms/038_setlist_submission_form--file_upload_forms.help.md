@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Setlist Submission Form - Help Guide
 ## Purpose
 The Setlist Submission Form is designed to collect information about live events or setlists submitted by users. This form aims to gather essential details about the event, including event details, uploaded files, artist and venue notes, and promotional information. The form is used to collect accurate and organized data for event promotion, archiving, or other related purposes.

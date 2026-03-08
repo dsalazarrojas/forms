@@ -1,8 +1,3 @@
-<thinking>
-We should only create this form when a buyout is due, such as when an employee is leaving the company or when a contract is being terminated. We should also check if there are any open requests or payments due before creating the form. It is also a good idea to ensure that the requestor and the manager of the employee are informed about this process, and to store the form responses in an accessible location for easy reference.
-
-</thinking>
-
 # Buyout Payment Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for a buyout payment when an employee is leaving the company or when a contract is terminated. Fill out this form to ensure a smooth and accurate buyout process.

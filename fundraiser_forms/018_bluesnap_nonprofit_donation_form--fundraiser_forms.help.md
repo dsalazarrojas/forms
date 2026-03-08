@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and payment for donations to the BlueSnap Nonprofit organization. The form is intended for one-time or recurring donations, allowing donors to specify their preferred payment method and whether to make their donation anonymous. The form also includes a field for dedicating the donation to someone, but this is not required. 
-</thinking>
-
 # BlueSnap Nonprofit Donation Form - Help Guide
 ## Purpose
 The BlueSnap Nonprofit Donation Form is a secure and user-friendly tool for donors to make one-time or recurring donations to our organization. This form is designed to collect all necessary information and payment details to process and acknowledge donations efficiently.

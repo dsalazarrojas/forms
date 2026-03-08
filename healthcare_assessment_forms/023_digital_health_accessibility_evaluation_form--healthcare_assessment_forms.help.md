@@ -1,5 +1,3 @@
-<thinking>The purpose of this form, "digitalHealthAccessibilityEvaluationForm", is to collect information and assess the accessibility of digital platforms for users with health conditions. This form is intended to be completed by users who require assistance in accessing digital health resources. The form collects data on user information, platform information, and accessibility needs. This form is not intended to collect sensitive health data, but rather to evaluate the ease of use and accessibility of digital platforms for users with health concerns.</thinking>
-
 # digitalHealthAccessibilityEvaluationForm - Help Guide
 ## Purpose
 The digitalHealthAccessibilityEvaluationForm is designed to assess the accessibility of digital platforms for users with health conditions. It collects information on user experience and platform accessibility to help evaluate and improve digital health resources.

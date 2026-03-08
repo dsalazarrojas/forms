@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register the beneficial owner of a company or entity. The form is designed to collect information about the beneficial owner, including their address, date of birth, nationality, residency status, phone number, email, and other identifying details. The form is used to ensure that the beneficial owner is properly registered and their information is up-to-date. It is essential to complete this form accurately and thoroughly to avoid any potential issues or delays in the registration process.
-The form has 18 fields, each with a specific purpose and requirement. Some fields are required, while others are optional. Please ensure that you have all the necessary information before proceeding.
-The form is divided into several sections, and each section has a specific purpose. For example, the "Beneficial Owner" section is used to collect the owner's name and address, while the "Nationality" section is used to determine their nationality.
-Please note that some fields have specific format requirements, such as the date of birth, which should be in the format of MM/DD/YYYY.
-</thinking>
-
 # ultimate_beneficial_owner_registration_form - Help Guide
 ## Purpose
 The "ultimate_beneficial_owner_registration_form" is used to register the beneficial owner of a company or entity. It is essential to complete this form accurately and thoroughly to avoid any potential issues or delays in the registration process.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for a file upload request. The purpose of this form is to gather details about the files being uploaded, including their status, description, and other relevant information. This form should only be used for legitimate file upload requests and not for other purposes. Please ensure that you are filling out the form for the correct reason and that you have a valid justification for uploading the files. 
-
-Before submitting the form, make sure to review all the fields carefully and fill out all required fields. If you are unsure about any field, please ask your supervisor or contact the relevant department for guidance. 
-
-</thinking>
-
 # Upload Your Files Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a file upload request.

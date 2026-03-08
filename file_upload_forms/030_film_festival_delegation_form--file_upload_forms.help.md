@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow participants to provide information about their project in the film festival. The form is required to be completed by all participants, and it includes fields for name, project name, project category, project URL, email, phone number, address, and notes. This form is used to gather necessary information for the festival organizers to process participant applications.
-This form should not be filled out by anyone who is not a participant in the film festival. Please ensure that you are a registered participant before filling out this form.
-Please do not fill out this form if you are a non-participant, or if you have already filled out this form.
-</thinking>
-
 # Film Festival Delegation Form - Help Guide
 ## Purpose
 The Film Festival Delegation Form is used by film festival participants to provide essential information about their project. This form is necessary to help festival organizers process participant applications.

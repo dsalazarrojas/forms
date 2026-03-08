@@ -1,12 +1,3 @@
-<thinking>
-The Financial Performance Benchmark Consent Form is designed to gather informed consent from participants and project leads on data collection, financial performance benchmarks, and project details. This form aims to ensure that all stakeholders are aware and in agreement with the terms of data collection and use. To confirm that you are completing this form for the correct purpose, please check the following:
-- You are a participant or project lead in a financial performance benchmark project.
-- The project you are participating in involves collecting and sharing financial data.
-- You have reviewed the project's terms and conditions, including data usage and retention policies.
-
-To confirm your informed consent, please complete this form carefully and accurately. If you have any questions or concerns, please reach out to the project lead or relevant authorities.
-</thinking>
-
 # Financial Performance Benchmark Consent Form - Help Guide
 ## Purpose
 The Financial Performance Benchmark Consent Form is a crucial document that ensures all stakeholders, including participants and project leads, are aware and in agreement with the terms of data collection and use. This form is essential for maintaining the transparency and trustworthiness of financial data.

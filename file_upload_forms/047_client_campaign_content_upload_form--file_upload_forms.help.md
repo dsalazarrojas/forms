@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information and assets for an upcoming campaign launch. This includes campaign details such as name, target launch date, channels, assets, and metrics. Additionally, it collects information about the campaign submission process, including whether assets have been uploaded, the method of upload, and who authorized the submission. This information is essential for the campaign team to review and confirm the campaign details.
-
-Please ensure that this form is filled out completely and accurately to avoid errors and duplication of efforts. Review the form carefully before submitting to ensure all required fields are filled in.
-
-</thinking>
-
 # Client Campaign Content Upload Form - Help Guide
 ## Purpose
 The Client Campaign Content Upload Form is designed to collect all necessary information and assets for an upcoming campaign launch. It helps the campaign team to review and confirm the details accurately.

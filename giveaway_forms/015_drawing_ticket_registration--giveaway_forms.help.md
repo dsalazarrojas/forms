@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register individuals for a drawing event, gathering their basic information, details about the drawing they are entering, and their contact information. This form is designed to be completed by participants who wish to enter a drawing or contest.
-It is intended for event organizers or administrators to collect and review the submitted information.
-</thinking>
-
 # Drawing Ticket Registration - Help Guide
 ## Purpose
 The Drawing Ticket Registration form is used to register individuals for a drawing event.

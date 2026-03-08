@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record the entry of new salon equipment. The purpose of this form is to collect information about the equipment, its type, brand, and purchase details. This form should only be filled out once for each piece of equipment, and the fields are self-explanatory. There should not be any duplicate entries for the same equipment. Please fill out this form carefully and accurately to ensure that the information is recorded correctly.
-
-</thinking>
-
 # salon_equip_entry_form - Help Guide
 
 ## Purpose

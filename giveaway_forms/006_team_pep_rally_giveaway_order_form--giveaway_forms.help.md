@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order spirit items for a team pep rally. To ensure that we are providing the correct information to the schools, please make sure to fill out this form accurately and completely. This form will be reviewed for accuracy and duplication checks before processing the order. Please note that the form fields are mostly optional, but some fields are required to ensure proper order processing.
-</thinking>
-
 # Team Pep Rally Giveaway Order Form - Help Guide
 ## Purpose
 The Team Pep Rally Giveaway Order Form is used to order spirit items for a school event. This form is used to gather necessary information from schools to process their order correctly.

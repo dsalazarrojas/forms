@@ -1,16 +1,3 @@
-<thinking>
-This form is a tool for assessing coverage of a unit, which could be a physical unit such as a room or a space, or a virtual unit such as a server or a network segment. The form is used to gather information on the unit's coverage status, whether it is currently covered by a certain entity or not. The form is likely used by facility managers or IT personnel to document and track the coverage status of units in their facilities or networks.
-
-The purpose of this form is to gather the following information:
-
-* The unit number, which is a unique identifier for the unit.
-* The unit address, which is the physical or virtual location of the unit.
-* The coverage status of the unit, which indicates whether the unit is currently covered or not. The coverage status could be 'True' (yes), 'False' (no), or 'Partial' (partially covered).
-* Optional notes on the unit, which could be used to provide additional information or explanations.
-* Optional file uploads for supporting evidence or documentation.
-
-</thinking>
-
 # Unit Coverage Assessment Form - Help Guide
 ## Purpose
 The Unit Coverage Assessment Form is a tool used to assess the coverage status of units in facilities or networks.

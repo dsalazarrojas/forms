@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from wedding vendors to create a proposal for potential clients. The form will be used to gather details about the vendor's contact information, event details, and uploaded files. Before filling out this form, please ensure that you have the necessary permissions and approvals to share your proposal with clients. Also, please note that this form should not be used as a substitute for a formal quote or agreement. 
-</thinking>
-
 # Wedding Vendor Proposal Upload Form - Help Guide
 ## Purpose
 The Wedding Vendor Proposal Upload Form is designed to help wedding vendors create a proposal for potential clients. This form will collect information about the vendor's contact details, event details, and uploaded files.

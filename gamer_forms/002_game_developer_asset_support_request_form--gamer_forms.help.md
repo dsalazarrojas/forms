@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Game Developer Asset Support Request Form - Help Guide
 
 ## Purpose

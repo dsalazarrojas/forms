@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential guests who wish to contribute to our platform. The data collected will be used to assess their eligibility to receive further information about our services. Please ensure that all fields are filled out accurately, and the form should only be filled out once. If you are unable to access this form, you may contact our administration team for alternative methods to submit your application.
-
-</thinking>
-
 # Guest Contributor Application Form - Help Guide
 
 ## Purpose

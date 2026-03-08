@@ -1,6 +1,3 @@
-<thinking>
-  This form is used by administrators to manage a multiplayer game application process. It allows them to input information about an application, such as the moderator's name, email, phone number, and role, and submit the application. This form is likely used in a game community setting where moderators and staff are needed to manage the game's community. It's a straightforward form that requires minimal user input, making it easy to use even for non-technical users. Before filling out this form, the user should first confirm that they have all the necessary information required for the application. This form does not seem to be a duplicate of other forms in the system, as it has a unique set of fields and purposes.
-</thinking>
 # Multiplayer Game Administrator Application - Help Guide
 
 ## Purpose

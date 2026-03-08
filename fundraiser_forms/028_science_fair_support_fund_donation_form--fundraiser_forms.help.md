@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect donations for the Science Fair Support Fund, which aims to provide financial support to students participating in science fairs. This form helps us collect donations from individuals who want to support local science students. The form is designed to be filled out by those who wish to donate to the Science Fair Support Fund. This is a one-time transactional form, and users are expected to provide their name, amount, email, phone number, and other relevant details to facilitate the donation process. The form should only be filled out once per donor to avoid duplication of efforts. 
-</thinking>
-
 # Science Fair Support Fund Donation Form - Help Guide
 ## Purpose
 The Science Fair Support Fund Donation Form is designed to collect donations for local science fair participants. Fill out this form to make a one-time donation to support our students' science endeavors.

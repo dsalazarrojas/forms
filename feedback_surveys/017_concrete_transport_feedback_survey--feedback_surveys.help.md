@@ -1,7 +1,3 @@
-<thinking>
-We have a concrete transport feedback survey form to help us assess the delivery performance of our vendors. This form is used by our team to gather information about the timeliness, concrete quality, and professionalism of the drivers. It is crucial that we collect accurate and detailed feedback to identify areas of improvement and provide better services to our customers. Before proceeding, please ensure that you have filled out the form for the correct delivery date and company name (if applicable). If you have already submitted a feedback survey for the same delivery, please do not fill out this form again.
-</thinking>
-
 # Concrete Transport Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback about the performance of our concrete transport services, specifically regarding delivery timeliness, concrete quality, and driver professionalism.

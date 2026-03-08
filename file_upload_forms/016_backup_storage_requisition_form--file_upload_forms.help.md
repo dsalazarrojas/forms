@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about storage needs from the requester, including their contact and technical details. The form asks for the requester's name, email, phone number, department, manager's name, type of storage needed, storage capacity, primary purpose for storage, type of data to store, current estimated data size, expected data growth, access type, backup frequency, encryption needs, redundancy needs, required compliance standards, data classification, and a deadline for the storage. This form is designed to collect information that will help IT teams or administrators to better plan and manage storage infrastructure. 
-
-Please make sure this form is filled out accurately and completely before submitting.
-
-</thinking>
-
 # Backup Storage Requisition Form - Help Guide
 ## Purpose
 The Backup Storage Requisition Form is used to collect information about storage needs from the requester, helping IT teams or administrators plan and manage storage infrastructure.

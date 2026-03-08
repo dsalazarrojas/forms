@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Technology Accessibility Evaluation Form - Help Guide
 
 ## Purpose

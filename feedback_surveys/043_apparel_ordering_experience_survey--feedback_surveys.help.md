@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the Apparel Ordering Experience Survey. The form is used to gather feedback from customers about their experience with ordering apparel from the site. 
-
-The form is divided into several sections, each representing a different aspect of the customer's experience. The goal is to gather specific and detailed feedback on the ease of finding products, the checkout and payment process, product information and sizing guides, delivery time, packaging quality, product accuracy, and customer support. 
-
-To prevent duplication of effort, this form should only be filled out once per order. 
-
-Please ensure that you have a valid order number ready to reference. If you are unsure about the purpose or relevance of this form, please contact the support team for clarification.
-</thinking>
-
 # Apparel Ordering Experience Survey - Help Guide
 ## Purpose
 The Apparel Ordering Experience Survey is designed to gather detailed feedback from customers on their experience with ordering apparel from the site. Your input will help us improve our services and better serve you in the future.

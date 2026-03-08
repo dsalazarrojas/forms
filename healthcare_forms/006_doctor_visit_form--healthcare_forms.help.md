@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording information about a patient's doctor visit. Its purpose is to gather necessary details about the visit, including medical history, allergies, medications, and other relevant information.
-</thinking>
-
 # Doctor Visit Form - Help Guide
 ## Purpose
 The Doctor Visit Form is a tool for healthcare professionals to record crucial information about a patient's doctor visit. This form helps ensure that all necessary details are captured and easily accessible for further reference.

@@ -1,5 +1,3 @@
-<thinking>As a health coach, the purpose of this form is to help clients reflect on their progress, identify challenges, and set goals for themselves. This form is used to gather information about the client's current goals, progress, and challenges, and to help them identify next steps and plan for the future. By completing this form, clients will be able to reflect on their progress, identify areas for improvement, and set realistic goals that align with their priorities. This form is meant to be a collaborative and supportive process, and the client's responses will be used to inform their coaching sessions.</thinking>
-
 # Goal Setting Reflection Form - Help Guide
 ## Purpose
 The Goal Setting Reflection Form is a tool used to help you reflect on your progress, set goals, and plan for the future. This form will guide you through a series of questions to help you identify your current goals, progress, and challenges, and to determine what next steps you can take to achieve your goals.

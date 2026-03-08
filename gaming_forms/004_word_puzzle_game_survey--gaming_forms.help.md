@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback and suggestions from users about a word puzzle game. It is meant to be a one-time survey for players to express their satisfaction, provide suggestions for future game development, and share their preferences for getting involved in the game community. The form will help us to better understand the player's experiences and preferences, allowing us to make data-driven decisions for improving the game. This form is a critical component in collecting qualitative data from users and will not be used to collect sensitive or personal identifiable information.
-
-The form will be used to collect feedback and suggestions from users who have played the game. This form will help us to identify areas for improvement, gather suggestions for new game features, and understand what users would like to see in the future.
-
-The form will be made available to users who have played the game and will be accessible through a web or mobile platform. The form will be easy to navigate and clear in its instructions, with each field clearly labeled and explained below.
-
-</thinking>
-
 # word_puzzle_game_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from users about the word puzzle game. The form is used to collect qualitative data to help us improve the game.

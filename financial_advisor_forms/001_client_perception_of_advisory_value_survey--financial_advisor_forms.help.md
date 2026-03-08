@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Client Perception Of Advisory Value Survey - Help Guide
 ==============================
 

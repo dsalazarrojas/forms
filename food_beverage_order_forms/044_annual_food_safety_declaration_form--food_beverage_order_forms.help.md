@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about food service providers' practices and commitment to food safety standards. This includes their business details, facility information, food safety practices, and commitment to maintaining standards. The goal is to ensure that food service providers are meeting regulatory requirements and maintaining a safe food environment.
-</thinking>
-
 # Annual Food Safety Declaration Form - Help Guide
 ## Purpose
 The Annual Food Safety Declaration Form is designed to collect information about food service providers' practices and commitment to food safety standards. This form is intended to help food service providers demonstrate their compliance with regulatory requirements and maintain a safe food environment.

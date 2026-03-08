@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to collect information from users who want to participate in a giveaway, which is a promotion where the creator offers a prize to randomly selected participants. The form is likely used by streamers and content creators on the Twitch platform to collect contact information and preferences of their viewers. This information will be used to determine the winner of the giveaway. The form is not associated with any specific platform, making it a generic form for this purpose. This information is publicly available and can be used by anyone who wants to participate in giveaways.
-</thinking>
-
 # Twitch Giveaway Registration Form - Help Guide
 ## Purpose
 This form is for participants who want to join a giveaway event on Twitch. Fill out this form to provide your information and be entered into the giveaway.

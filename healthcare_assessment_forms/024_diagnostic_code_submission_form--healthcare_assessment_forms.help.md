@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diagnostic Code Submission Form - Help Guide
 ## Purpose
 This form is used to submit diagnostic codes for patients in a healthcare setting. It collects necessary information from both the patient and provider sides, ensuring accurate and comprehensive data entry.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect headshot information from actors for casting calls. This form is likely used by casting directors or production teams to gather necessary details from actors who have submitted their headshots and other relevant information. This form is likely used for casting purposes, and the information collected will be used to match actors with suitable roles. To avoid duplication, it's assumed that the form will be used for a specific casting call and will not be reused for other purposes. It's also likely that the form is used for both web and offline submission processes. 
-</thinking>
-
 # Casting Call Headshot Upload Form - Help Guide
 ## Purpose
 The Casting Call Headshot Upload Form is designed to collect essential information from actors for casting purposes. 

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Staff Use Mobile Food Delivery Intake Form", we need to consider the internal reasoning behind this form. This form is likely used to capture information about customer orders received through mobile devices, which is a critical part of the business process. The purpose of this form is to collect necessary details from customers, such as the date and time of the order, customer name and phone number, and other relevant information to facilitate smooth order management and communication. 
-
-This form is probably used for order intake purposes, and it's crucial that it's filled out correctly to ensure accurate order processing and customer satisfaction. The form is likely used by staff members who need to interact with customers through their mobile devices, making it essential to have a clear guide on how to complete it correctly.
-
-Before creating the help guide, let's break down the form into its components and explain each field in detail, considering the provided YAML fields.
-
-</thinking>
-
 # Staff Use Mobile Food Delivery Intake Form - Help Guide
 ## Purpose
 The "Staff Use Mobile Food Delivery Intake Form" is designed to capture essential details about customer orders received through mobile devices, allowing staff to process orders efficiently and communicate effectively with customers.

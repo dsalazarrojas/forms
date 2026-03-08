@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for Infusion Therapy. The purpose of this form is to gather data from patients about their medical history, therapy type, and other relevant details. This form is likely used by healthcare professionals to gather information for administering infusion therapy to patients.
-
-To ensure accuracy and completeness of data, it is crucial that the form is filled out correctly and consistently. The following guide will walk you through each field to ensure you understand what information is required and how to fill it out correctly.
-
-</thinking>
-
 # infusion_therapy_form - Help Guide
 ## Purpose
 The Infusion Therapy Form is designed to collect information from patients about their medical history, therapy type, and other relevant details for administering infusion therapy.

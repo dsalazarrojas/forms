@@ -1,11 +1,3 @@
-<thinking>
-... 
-**Form Purpose:**
-This form is designed to collect data for 3D material surface measurement and evaluation. It gathers essential information about the operator, the measurement process, and the 3D scan file link.
-**Why is this form relevant?** This form is relevant for any organization or individual involved in 3D surface measurement and evaluation, especially in industries such as manufacturing, engineering, or quality control.
-**Has this form been created before?** This form is an original adaptation created by AI and is not affiliated with any proprietary form platforms.
-...</thinking>
-
 # 3D Material Surface Data Input Form - Help Guide
 ## Purpose
 The 3D Material Surface Data Input Form is designed to collect essential data for 3D material surface measurement and evaluation. This form helps to gather information about the operator, the measurement process, and the 3D scan file link.

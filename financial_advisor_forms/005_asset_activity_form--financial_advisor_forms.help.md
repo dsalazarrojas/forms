@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the "Asset Activity Form" to ensure end-users understand its purpose, how to complete it, and what each field means. To create an accurate and user-friendly guide, I'll base my explanation on the provided YAML fields.</thinking>
-
 # Asset Activity Form - Help Guide
 ## Purpose
 The Asset Activity Form is designed to collect and document information about company assets, including their type, value, location, and condition. This form helps ensure accurate and up-to-date records of company assets, facilitating informed decision-making and compliance with financial regulations.

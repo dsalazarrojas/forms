@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inquire about the status of a title transfer. It is intended for internal use within a team or organization to gather information on the current state of title transfers. This form does not duplicate any other form in the "File Upload Forms" category. The form is used to collect information from users who are responsible for title transfers, making it a key tool for tracking and managing title status.
-</thinking>
-
 # Title Transfer Status Inquiry Form - Help Guide
 ## Purpose
 The Title Transfer Status Inquiry Form is used to gather information about the current status of title transfers within an organization. This form is designed to help users track and manage title transfers efficiently.

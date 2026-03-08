@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the level of trauma in patients with dental injuries. It is designed to help healthcare professionals evaluate the severity of trauma and create a treatment plan accordingly. The form consists of several sections, each with a specific purpose.
-
-To ensure accurate completion, please review the form carefully and only fill in fields that are relevant to the patient's condition. Note that the form does not require any fields to be filled if they are not applicable. If a field is marked as optional, it is intended for the healthcare professional's discretion.
-
-</thinking>
-
 # Dental Trauma Management Quiz - Help Guide
 ## Purpose
 The Dental Trauma Management Quiz is a form designed to help healthcare professionals assess the level of trauma in patients with dental injuries. It consists of several sections that guide the evaluation and treatment planning process.

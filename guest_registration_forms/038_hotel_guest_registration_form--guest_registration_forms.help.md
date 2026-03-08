@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "hotel_guest_registration_form" form, we need to understand its purpose, how to complete it, and what each field means. This guide will be based on the provided YAML fields.
-
-This form is used for hotel guests to register their information and provide details about their stay. 
-
-The form is not mandatory, and users can submit the required information they feel is relevant to their stay. The goal is to collect guest data for hotel management and staff to process their reservation and provide better service.
-
-</thinking>
 # hotel_guest_registration_form - Help Guide
 ## Purpose
 This form is used for hotel guests to register their information and provide details about their stay.

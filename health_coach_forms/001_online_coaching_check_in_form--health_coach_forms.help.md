@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to help end-users understand the purpose and usage of the Online Coaching Check In Form. The form is designed to collect information from clients and coaches for the purpose of tracking progress and facilitating communication within the coaching process.
-The form is likely used by health coaches or instructors to monitor client progress, provide coaching, and receive feedback. It is possible that some fields are only relevant for specific types of coaching services or client relationships.
-This form is intended for single-page completion.
-</thinking>
-
 # Online Coaching Check In Form - Help Guide
 ## Purpose
 The Online Coaching Check In Form is a tool for coaches to collect information from clients regarding their progress, assigned tools, and other relevant details.

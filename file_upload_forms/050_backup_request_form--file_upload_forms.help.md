@@ -1,5 +1,3 @@
-<thinking>Backup Request Form - a critical process for ensuring data integrity and security in our organization. To prevent data loss and meet regulatory compliance, we need to carefully review and approve each backup request. This form should only be used for new backup requests, and please do not submit duplicate requests. If you're unsure about any information or process, please contact your IT department for guidance.</thinking>
-
 # Backup Request Form - Help Guide
 ## Purpose
 The Backup Request Form is used to submit requests for data backup and restore. This form ensures that all backup requests are properly documented and reviewed by IT before being processed.

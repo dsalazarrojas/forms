@@ -1,5 +1,3 @@
-<thinking>... internal purpose of this form is to collect information about a patient's chronic conditions, symptoms, and lifestyle. This form is intended to be used by healthcare professionals to assess the patient's health status and provide personalized care. To ensure accurate and relevant data collection, please review the form fields carefully before proceeding. Ensure that the form is not duplicated or used for any purpose other than its intended use. If you're unsure about any field, please consult with a healthcare professional or the form's administrator.</thinking>
-
 # Health Assessment For Chronic Conditions - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's chronic conditions, symptoms, and lifestyle. The data collected will be used by healthcare professionals to assess the patient's health status and provide personalized care.

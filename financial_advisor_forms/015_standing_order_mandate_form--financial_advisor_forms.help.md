@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Standing Order Mandate Form - Help Guide
 
 ## Purpose

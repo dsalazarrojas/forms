@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "music_streaming_app_interface_feedback_survey" form in a clear and concise manner. The form is used to collect feedback on the music streaming app's interface. The purpose of the form is to gather information about the user's experience and suggestions for improvement.
-</thinking>
-
 # music_streaming_app_interface_feedback_survey - Help Guide
 ## Purpose
 The music_streaming_app_interface_feedback_survey form is designed to gather feedback on the music streaming app's interface, allowing us to understand user experiences and gather suggestions for improvement.

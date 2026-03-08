@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing pain levels and gathering information about a patient's pain management and medical history. It appears to be used in a healthcare setting, likely for tracking and monitoring patient progress. The form has multiple sections, including pain assessment, medical history, and follow-up information. I'll assume this form is used by healthcare professionals to gather data for further analysis and treatment planning.
-</thinking>
-
 # Pain Assessment Form - Help Guide
 ## Purpose
 This form is used to assess and track patient's pain levels, medical history, and follow-up information for further analysis and treatment planning in a healthcare setting.

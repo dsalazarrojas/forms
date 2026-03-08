@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Termination Process Feedback Survey - Help Guide
 ## Purpose
 This form is for collecting feedback from employees regarding the termination process. The purpose of this form is to gather information about the employee's experience and perceptions of the termination process, including the reasons for leaving, notice period, and any comments from the employee or manager. This feedback will help to identify areas for improvement in the termination process.

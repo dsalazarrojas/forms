@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for booking and managing floral wall displays for events. It appears to be a comprehensive form that covers various aspects of the booking process, including user information, event details, payment terms, and cancellation policies. The form is likely used by event planners or coordinators to manage bookings and communicate with florists. It's worth noting that the form has a large number of fields, which could potentially lead to a high level of complexity in use. To ensure end-users understand the form's purpose and how to use it, a clear and concise help guide is essential.
-
-The guide should be tailored to the specific needs of the end-users, which in this case seem to be event planners or coordinators. It's crucial to break down each field in a way that explains its purpose and requirements clearly.
-
-</thinking>
-
 # Floral Wall Display Booking Form - Help Guide
 ## Purpose
 The Floral Wall Display Booking Form is a tool used by event planners or coordinators to book and manage floral wall displays for events. This form helps to gather information about the event, the user, and the terms of the booking, including payment and cancellation policies.

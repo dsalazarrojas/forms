@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from customers applying for a credit application. The purpose of this form is to gather essential details about the customer's credit history, income, employment status, and other relevant factors that will be used to evaluate their creditworthiness.
-
-This form is intended to be used by customers who want to apply for a credit loan. The form will be used to collect information such as their credit history, income details, employment status, and other personal details that will help in evaluating their creditworthiness.
-
-To ensure that the form is completed accurately, it is recommended that customers review the form carefully and provide the most up-to-date information.
-
-The form is composed of various fields that are grouped into two main categories: application form and contact information. Each field will be explained below.
-
-</thinking>
-
 # customer_credit_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers applying for a credit application.

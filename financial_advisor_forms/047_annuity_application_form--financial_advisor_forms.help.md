@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for annuities, specifically to gather demographic and financial data required for annuity underwriting. The form should only be used for legitimate purposes, and its submission should not be duplicated or reused for other applications. Please review the form carefully and ensure that all required fields have been completed accurately and truthfully.
-</thinking>
 # Annuity Application Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit a one-act play for consideration. The form is likely used for a play submission process, where users can provide information about the play, including its title, playwright, length, and production details. The form may be used by festival organizers or production teams to collect necessary information for reviewing and evaluating plays.
-Before starting this form, please ensure that you have the necessary permissions and clearance to submit the play. Additionally, make sure you are not duplicating an existing submission. If you are unsure, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # one_act_play_submission_form - Help Guide
 ## Purpose
 This form is used to submit a one-act play for consideration. It is designed to collect information about the play and the submitter.

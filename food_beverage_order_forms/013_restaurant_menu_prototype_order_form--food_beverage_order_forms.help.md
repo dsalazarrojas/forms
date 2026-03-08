@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: A restaurant menu prototype order form is designed to collect customer information and payment details for orders placed through a restaurant or food establishment. This form helps streamline the ordering process, ensuring that customers can quickly and easily provide the necessary information to place their order. It's crucial to have a well-structured form to ensure accurate and efficient order fulfillment.
-</thinking>
-
 # restaurant_menu_prototype_order_form - Help Guide
 ## Purpose
 The restaurant menu prototype order form is used to collect customer information and payment details for orders placed through a restaurant or food establishment.

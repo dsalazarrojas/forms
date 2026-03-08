@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register a user for internet banking services. The form is designed to collect necessary information from the user, including their name, email, phone number, account type, account number, and passwords. 
-The form will only be used to register a user for internet banking if they select "Account Type" as "Option 1", which is the default selection. If a user selects "Option 2" or "Option 3" from the account type field, the form will be used to register them for a different type of internet banking service.
-This form will not be used to register a user for internet banking if they are not eligible to do so. 
-
-</thinking>
-
 # internet_banking_registration_form - Help Guide
 ## Purpose
 The internet banking registration form is used to register a user for internet banking services.

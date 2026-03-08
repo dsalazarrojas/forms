@@ -1,9 +1,3 @@
-<thinking>
-The "VOC Control Assessment Form" is used to evaluate and document the types of Volatile Organic Compounds (VOC) present in a given location or process. This form is designed to be completed by facility operators, environmental engineers, or other stakeholders to gather data on the types of VOCs, their sources, and the associated control measures in place to mitigate their impact. The form's purpose is to identify potential risks and opportunities for improvement in VOC control strategies.
-
-Before completing this form, please ensure that the data collected is accurate and up-to-date, and that the assessment is performed in a fair and unbiased manner. Duplicate or outdated assessments can lead to incorrect conclusions and undermine the effectiveness of the VOC control strategies.
-</thinking>
-
 # VOC Control Assessment Form - Help Guide
 ## Purpose
 The "VOC Control Assessment Form" is a tool for evaluating and documenting Volatile Organic Compounds (VOCs) in a given location or process. The form aims to gather data on the types of VOCs present, their sources, and the associated control measures in place to mitigate their impact.

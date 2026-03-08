@@ -1,8 +1,3 @@
-<thinking>
-The Donor Program Renewal Request Form is designed to collect information from program participants wishing to renew their participation. This form serves as an internal mechanism to gather details about the program participant and their desired contact preferences to facilitate efficient program renewal processes.
-Before submitting the form, please ensure that you're not duplicating an existing request. Review your current participation status and only proceed if you have a valid reason for renewal.
-</thinking>
-
 # Donor Program Renewal Request Form - Help Guide
 ## Purpose
 The Donor Program Renewal Request Form is a tool for program participants to express their interest in renewing their involvement in the program. By completing this form, you'll be able to provide essential information about your participation status and contact preferences, which will help us to process your renewal smoothly.

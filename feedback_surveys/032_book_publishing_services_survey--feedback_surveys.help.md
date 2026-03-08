@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Book Publishing Services Survey" form, I will analyze the provided YAML fields and provide a clear and concise explanation of the form's purpose, how to complete it, and each field's meaning.
-
-**Internal Reasoning:**
-This form is designed to collect feedback from users who have used book publishing services. The goal is to gather information on their overall satisfaction, quality of work, and experience with our services. This survey is intended to help us improve our services and meet the needs of our clients better. The fields in this form are carefully crafted to gather specific information on our strengths and weaknesses, allowing us to make data-driven decisions for future improvements.
-
-</thinking>
-
 # Book Publishing Services Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users who have used our book publishing services. We value your input and want to understand your experience with our team. Your responses will help us improve our services and provide better results for future clients.

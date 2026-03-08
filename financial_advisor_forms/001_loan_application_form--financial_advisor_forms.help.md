@@ -1,22 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Loan Application Form, I will first analyze the provided YAML fields to understand the form's purpose and functionality.
-
-The form is designed to collect information from applicants for loan applications. The form is divided into several sections, each with a specific set of fields that require different types of information from the applicant. The purpose of this form is to help lenders assess the applicant's creditworthiness and determine the suitability of the loan application.
-
-The form requires the following information from the applicant:
-- Applicant's information (name, date of birth)
-- Loan amount and loan terms
-- Credit score
-- Employment status and history
-- Income and income verification details
-- Address information
-- Employment references and employment history
-- Education information
-
-By gathering this information, the lender can make an informed decision on the loan application.
-
-</thinking>
-
 # Loan Application Form - Help Guide
 ## Purpose
 The Loan Application Form is designed to collect information from applicants for loan applications. This information is used to assess the applicant's creditworthiness and determine the suitability of the loan application.

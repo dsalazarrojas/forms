@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to upload their modeling portfolios, a collection of their work and experiences related to modeling, for evaluation and review. This form will help to ensure that the uploaded information is accurate and complete, reducing the likelihood of duplication and errors. The purpose of this form is to collect and store user-provided modeling portfolios for evaluation purposes only.
-
-</thinking>
-
 # Modeling Portfolio Upload Form - Help Guide
 ## Purpose
 This form is designed to collect user-provided modeling portfolios for evaluation and review.

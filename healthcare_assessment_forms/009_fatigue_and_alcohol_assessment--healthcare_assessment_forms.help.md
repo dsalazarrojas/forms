@@ -1,7 +1,3 @@
-<thinking>
-This form, "Fatigue and Alcohol Assessment," is designed to gauge an individual's fatigue levels and assess their alcohol consumption habits. It is crucial to ensure that users understand the purpose and relevance of this form to their specific context. Please note that this form is intended to be used in a healthcare setting, and the data collected will be used to inform patient care decisions. Before proceeding, please ensure that you have the necessary permissions and consents to complete this form. It is also essential to review the form's contents to avoid duplication of effort and to guarantee that all required information is provided.
-</thinking>
-
 # Fatigue and Alcohol Assessment - Help Guide
 ## Purpose
 The Fatigue and Alcohol Assessment form is designed to collect data on a patient's fatigue levels and alcohol consumption habits. This information is crucial for healthcare professionals to make informed decisions about patient care.

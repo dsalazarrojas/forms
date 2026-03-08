@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the form is being used correctly by providing clear instructions and explanations for the end-user. The purpose of this form is to collect information from potential calendar pinups for the year(s) specified. We need to check if the end user is 18 or older to be eligible. The form will be used to collect personal and professional information, as well as preferences and availability for shoots. We should make sure that the form is used for its intended purpose and not used for other unrelated activities.
-
-</thinking>
-
 # Calendar Pinup Application Form - Help Guide
 
 ## Purpose

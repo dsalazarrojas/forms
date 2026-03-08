@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with the software interface. It aims to gather information on whether the users have used the software, how often, and their impressions of the interface. The form is meant to be a quick and easy way to get feedback from users about their experience. Before filling out this form, make sure you have not already filled it out previously.
-</thinking>
-
 # software_interface_update_feedback_survey - Help Guide
 ## Purpose
 This form is a feedback survey designed to gather information about your experience with the software interface.

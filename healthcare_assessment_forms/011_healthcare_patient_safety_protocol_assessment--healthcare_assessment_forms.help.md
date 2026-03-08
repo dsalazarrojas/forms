@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Patient Safety Protocol Assessment - Help Guide
 
 ## Purpose

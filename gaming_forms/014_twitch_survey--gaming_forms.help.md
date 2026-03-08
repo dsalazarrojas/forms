@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a simple form that appears to be designed for surveying Twitch streamers. The form likely aims to collect general information about the streamers and their experience on Twitch. The fields seem to be focused on gathering data about the streamers' streams, such as stream details, name, email, and phone number.
 
 To confirm, let's break down the form fields:

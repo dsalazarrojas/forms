@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering new clients in the healthcare system. It ensures that each client's information is accurately and thoroughly recorded in our system. To prevent duplication of records, this form will not allow users to register a client with the same email address or phone number that already exists in our system.
-</thinking>
-
 # New Client Registration Form - Help Guide
 ## Purpose
 The New Client Registration Form is used to collect and store client information for the healthcare system. This form helps to verify that each client's data is accurate and up-to-date.

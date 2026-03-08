@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process orders for holiday wreaths. The form is intended to capture the customer's shipping address, payment method, and any additional order comments. It is not intended for internal use and should not be used for duplicate purposes. Please review the form carefully before completing it.
-</thinking>
-
 # Holiday Wreath Order Form - Help Guide
 ## Purpose
 This form is used to place orders for holiday wreaths. Please fill out the form to provide your shipping address, payment method, and any additional order comments.

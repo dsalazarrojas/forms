@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to inspect fire pumps, which are crucial for ensuring the safety and efficiency of fire suppression systems. The form will help inspectors evaluate the condition and performance of fire pumps, including their model, location, type, and condition. This form should be filled out during regular maintenance or inspection checks to ensure fire pumps are functioning correctly and to identify any potential issues.
-To avoid duplication, this form should only be used for fire pump inspections and not for other types of equipment or maintenance.
-</thinking>
-
 # Fire Pump Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to inspect fire pumps to ensure they are in good working condition and functioning correctly. This form will help inspectors evaluate the fire pump's model, location, type, and condition.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll Helpdesk Experience Survey - Help Guide
 ## Purpose
 This form aims to gather feedback from employees on their experience when interacting with the payroll helpdesk. The goal is to identify areas of improvement and provide a better service. Your input will help us understand how we can make the process more efficient and effective.

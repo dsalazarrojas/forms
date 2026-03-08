@@ -1,11 +1,3 @@
-<thinking>Internal reasoning and duplication checks:
-
-The form `file_import_process_form` is designed to process and import files. It is likely used in a business or organizational setting where users need to upload files for processing. This form may be used for tasks such as data import, document uploading, or file processing. 
-
-Before proceeding, it's essential to ensure that this form is not being used for a different purpose than its intended design. This form has multiple sections, including file uploads, import confirmations, and status updates. This suggests that the form is designed to handle various stages of the file import process.
-
-To avoid duplication of effort, it's crucial to understand the relationship between the "Confirm" and "Cancel" buttons. These two options are likely used to confirm or cancel the upload process, respectively. The "Confirm" button is likely used to finalize the upload, while the "Cancel" button is used to stop the process and potentially restart it later.</thinking>
-
 # file_import_process_form - Help Guide
 ## Purpose
 The `file_import_process_form` is designed to process and import files in a business or organizational setting. It allows users to upload files, confirm the import process, and update the status of the upload.

@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to measure customer satisfaction and gather demographic information to help us understand our customers' perceptions of our company and its products or services. It's essential to ensure that the responses are genuine and not duplicated. To ensure the quality of our data, we'll be checking for inconsistencies in responses.</thinking>
-
 # Net Promoter Score (NPS) Survey - Help Guide
 ## Purpose
 The Net Promoter Score (NPS) Survey is designed to measure customer satisfaction and gather demographic information about our customers. The survey consists of several questions that ask about your experience with our company, its products or services, and your willingness to recommend it to others.

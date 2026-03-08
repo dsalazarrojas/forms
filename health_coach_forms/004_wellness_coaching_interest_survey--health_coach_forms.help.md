@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to complete the Wellness Coaching Interest Survey form. Before diving into the form explanation, let's clarify the purpose and internal considerations for this form. The Wellness Coaching Interest Survey is designed to collect information about clients' goals, preferences, and background data for better guidance and support from the wellness coaches. This form helps the coaches understand the client's priorities, expectations, and potential needs, enabling them to create personalized wellness plans. It's essential to ensure that the form is completed accurately and thoroughly to provide the most effective support. Please review this guide carefully to understand each field's purpose and ensure you're completing it correctly.
-</thinking>
-
 # Wellness Coaching Interest Survey - Help Guide
 ## Purpose
 The Wellness Coaching Interest Survey is a tool used by wellness coaches to gather information about their clients' goals, preferences, and background data. This form helps coaches design personalized wellness plans and provide the best possible support.

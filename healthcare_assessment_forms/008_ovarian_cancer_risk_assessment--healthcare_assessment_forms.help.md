@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess an individual's risk of developing ovarian cancer. The form is intended to gather information on various factors that can contribute to the risk of ovarian cancer, such as patient information, medical history, family history, screening tests, previous surgeries, symptoms, diagnosis, cancer stage, and other relevant details. This form should only be used to assess risk and not for diagnosis or treatment purposes.
-
-Please note that the form's design and content are generated using public survey topic metadata and are not affiliated with any form platform. The form's purpose is to provide a general risk assessment, and its results should not be taken as a definitive diagnosis.
-
-Before using this form, please review the following:
-
-* The form is for general use and should not be used as a substitute for professional medical advice.
-* The results of this form should not be considered as a substitute for a medical professional's evaluation.
-* If you have any concerns about your health or cancer risk, please consult a medical professional.
-
-</thinking>
-
 # Ovarian Cancer Risk Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's risk of developing ovarian cancer. It is intended to gather information on various factors that can contribute to the risk of ovarian cancer.

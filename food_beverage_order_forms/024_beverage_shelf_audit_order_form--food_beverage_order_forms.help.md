@@ -1,7 +1,3 @@
-<thinking>
-This form is used for auditing the condition of a retail store's beverage shelf, ensuring that it is properly stocked, organized, and compliant with company policies. The audit will assess the overall condition of the shelf, product freshness, pricing accuracy, and compliance with promotional displays. The auditor will also gather information about the store's contact details and shelf location within the store.
-</thinking>
-
 # Beverage Shelf Audit Order Form - Help Guide
 ## Purpose
 The Beverage Shelf Audit Order Form is used to assess the condition of a retail store's beverage shelf, ensuring that it meets company standards for proper stocking, organization, and compliance with policies.

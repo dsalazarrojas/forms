@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a matching gift, which is a type of donation that is matched by a third party, typically by a company or an individual. This form is likely used in fundraising campaigns where the goal is to receive donations for a specific purpose, and the matching gift is used to increase the total amount raised. The form asks for information about the donor, the gift amount, and the status of the gift, which is necessary to track and process the matching gift.
-
-Before starting to fill out the form, please make sure you have all the necessary information about the matching gift and the donor. You can find the required fields in the form below.
-
-</thinking>
-
 # Matching Gift Form - Help Guide
 ## Purpose
 The Matching Gift Form is a form used to collect information about a matching gift for a fundraising campaign.

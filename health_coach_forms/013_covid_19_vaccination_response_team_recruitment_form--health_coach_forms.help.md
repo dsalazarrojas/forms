@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we can infer from the fields included that it is designed to collect information from potential candidates for the COVID-19 Vaccination Response Team. The form appears to be focused on gathering demographic and professional information from individuals with medical experience, as well as their availability and commitment to work. This form is likely used to recruit volunteers or team members for the response team.
-
-To check for non-duplication, we can review the fields and see that there are no duplicate fields with the same name or type. Each field has a unique name and type, which suggests that the form is designed to collect a diverse range of information from candidates.
-
-To check for relevance, we can consider the context of the COVID-19 pandemic and the need for medical professionals to be part of the response team. The fields in this form appear to be relevant to the task of recruiting and selecting suitable candidates for the response team.
-
-</thinking>
-
 # COVID 19 Vaccination Response Team Recruitment Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential candidates for the COVID-19 Vaccination Response Team. It collects demographic and professional data from individuals with medical experience, as well as their availability and commitment to work.

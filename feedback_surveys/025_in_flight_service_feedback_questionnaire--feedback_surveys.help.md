@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their in-flight experiences. It appears to be a survey that captures both positive and negative aspects of their flights. Each section seems to be focused on different aspects of the in-flight experience, such as cabin amenities, route information, overall satisfaction, service quality, seat preferences, and flight experience. This form is likely used to collect data for improving airline services.
-</thinking>
 # in_flight_service_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from passengers about their in-flight experiences. It helps airlines to understand what their passengers think about different aspects of their flights, such as cabin amenities, service quality, and overall satisfaction.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to purchase a gift basket raffle ticket for a fundraising event. It is likely used for charitable or non-profit organizations to raise funds by offering prizes or gifts to donors. The form collects personal and payment information from potential donors.
-</thinking>
-
 # Gift Basket Raffle Ticket Purchase - Help Guide
 ## Purpose
 The form is designed for individuals to purchase raffle tickets for a gift basket, with the goal of raising funds for a charitable or non-profit organization.

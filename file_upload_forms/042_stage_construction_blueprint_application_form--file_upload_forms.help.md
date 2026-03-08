@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact details, project information, blueprint files, and review stage construction data from users applying for stage construction blueprints. It is likely part of a process for stage construction companies or organizations to collect and review applications. Before starting, please ensure you haven't used this form before and that you understand the submission guidelines.
-</thinking>
-
 # Stage Construction Blueprint Application Form - Help Guide
 ## Purpose
 The Stage Construction Blueprint Application Form is designed to collect relevant information from users who want to apply for stage construction blueprints. This form helps the organization gather required contact details, project information, and other necessary documents, making it easier for them to review and process the applications.

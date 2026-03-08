@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential clients about their experiences and preferences for doula services. The Doula Intake Form is designed to gather details about the client's potential doula needs and preferences, including information about their medical and pregnancy history, birth plans, and support system. This form is a crucial tool for doulas to understand the client's needs and provide personalized support. The form should not be used for any other purpose without proper review and approval from authorized personnel.
-</thinking>
-
 # Doula Intake Form - Help Guide
 ## Purpose
 The Doula Intake Form is designed to collect information from potential clients about their experiences and preferences for doula services. The form helps doulas understand the client's needs and provide personalized support.

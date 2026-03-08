@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information about a driver's route check-in, which is a crucial process for fleet management. This form will help drivers and fleet managers to track and document the driver's route details, vehicle information, and other relevant data. It is essential to complete this form accurately and thoroughly to ensure that the driver's route check-in process is properly recorded and managed.
-
-Before proceeding, ensure that the driver has not checked in on this route before and that the data being entered is not duplicating an existing record.
-
-</thinking>
-
 # Driver Route Check In Form - Help Guide
 ## Purpose
 The Driver Route Check In Form is a key component in tracking and managing drivers' routes. This form gathers essential information about a driver's route, including start and end times, distance, route type, and other relevant details.

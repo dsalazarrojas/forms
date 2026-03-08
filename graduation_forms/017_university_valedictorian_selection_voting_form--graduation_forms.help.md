@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to select their preferred valedictorian candidate from a list of four students. This form will help gather information from users on who they would like to see as valedictorian among the provided candidates. The form will be used for the university's graduation ceremony and will help the university administration determine the most popular valedictorian candidate. This form is designed to be completed by students, faculty, or staff members who wish to participate in the voting process. Please note that this form is not a formal voting ballot, and the results will not affect any official university decisions. If you are unsure about the voting process or the candidates, please consult with university administration before proceeding.
-</thinking>
-
 # University Valedictorian Selection Voting Form - Help Guide
 ## Purpose
 This form is for voting on the valedictorian for the current university graduation ceremony. Please select the candidate you want to see as valedictorian.

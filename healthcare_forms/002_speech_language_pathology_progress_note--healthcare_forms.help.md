@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of the "Speech/Language Pathology Progress Note" form is to document the progress of a patient's speech or language pathology treatment. This form is designed to track the patient's progress, note sessions completed, and schedule upcoming appointments. It is likely used by healthcare professionals to monitor and report on the effectiveness of speech or language therapy.
-
-To ensure this form is correctly completed and not duplicated, please note the following:
-
-* Ensure each field is filled out for every session, using the same format consistently.
-* Review and update previous sessions' progress notes for continuity.
-* Use the "Language Therapist" field to select the therapist responsible for the patient's sessions.
-* The "Sessions Completed" and "Total Sessions Required" fields should be updated accordingly after each session.
-* The "Progress Notes" field is for free-text notes on the patient's progress and any changes to their treatment plan.
-* The "Appointments Scheduled" and "Bookings Made" fields allow multiple selections, so choose all applicable options.
-* Use the "Next Appointment Date" field to schedule the next appointment.
-
-</thinking>
-
 # Speech/Language Pathology Progress Note - Help Guide
 ## Purpose
 

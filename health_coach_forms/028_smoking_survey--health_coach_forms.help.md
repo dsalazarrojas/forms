@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used by health coaches or healthcare providers to gather information about an individual's smoking habits and behaviors. The purpose of this form is to collect data on the individual's smoking status, demographics, and quitting history. This form likely serves as an assessment tool to help health coaches or healthcare providers understand an individual's smoking habits and create a personalized plan to help them quit smoking.
-
-Before starting, please make sure you have not already completed this form previously.
-
-</thinking>
-
 # Smoking Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The "Milestone Sharing Survey" is a form used to collect feedback on project milestones from project team members. This form ensures that all team members' contributions are captured and acknowledged, fostering a culture of collaboration and shared responsibility.
-
-Before filling out this form, please ensure that you have not already submitted feedback on this project. Duplicate submissions may lead to confusion and make it difficult to track changes.
-
-</thinking>
-
 # Milestone Sharing Survey - Help Guide
 ## Purpose
 The "Milestone Sharing Survey" is a form used to collect feedback on project milestones from project team members. This form helps to ensure that all team members' contributions are captured and acknowledged, fostering a culture of collaboration and shared responsibility.

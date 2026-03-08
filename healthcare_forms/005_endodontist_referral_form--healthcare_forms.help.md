@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients who are referred to an endodontist for specialized care. This form is designed to gather essential details about the patient, their medical history, and their insurance information. It's essential to complete this form accurately to ensure that the endodontist receives a comprehensive understanding of the patient's needs.
-To avoid duplication, please ensure that you are not referring the same patient to multiple endodontists simultaneously.
-</thinking>
-
 # endodontist_referral_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about patients referred to an endodontist for specialized care. This form gathers essential details about the patient's medical history, insurance information, and other relevant factors.

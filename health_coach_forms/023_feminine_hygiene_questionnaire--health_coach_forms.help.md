@@ -1,12 +1,3 @@
-<thinking>
-The Feminine Hygiene Questionnaire is designed to collect information about a user's experiences and habits related to their menstrual cycle, specifically regarding feminine hygiene products and their management of period-related discomfort and emotions. This form is intended to be completed by individuals who menstruate, and the questions aim to gather insights into their usage habits, product preferences, and experiences with period discomfort and emotional changes.
-
-This form is likely used within a healthcare or wellness context to inform product development, customer support, or health education initiatives. Before filling out this form, consider ensuring that you're in a comfortable and private space. If you've already completed this form, you might not need to fill it out again if the questions remain the same.
-
-This form is composed of several sections, each with its own set of questions. Please take your time to read through each section carefully before beginning to fill out the form. 
-
-</thinking>
-
 # Feminine Hygiene Questionnaire - Help Guide
 ## Purpose
 The Feminine Hygiene Questionnaire is designed to collect information about your experiences and habits related to your menstrual cycle, specifically regarding feminine hygiene products and their management of period-related discomfort and emotions.

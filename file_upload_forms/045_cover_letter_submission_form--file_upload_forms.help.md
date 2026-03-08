@@ -1,5 +1,3 @@
-<thinking>Before you begin, let's ensure this form meets the requirements for submission. Please be aware that this form is used for submitting cover letters and other supporting documents. It's not intended for any other type of submission. Also, if you have already submitted a cover letter, you may not need to use this form again. If that's the case, please do not fill it out. This form is designed to be completed by individuals who wish to submit a new cover letter or update an existing one. Please make sure to read and understand each field before proceeding.</thinking>
-
 # Cover Letter Submission Form - Help Guide
 ## Purpose
 The Cover Letter Submission Form is a tool for submitting cover letters and other supporting documents for review and consideration. This form is designed to gather the necessary information required for a successful submission.

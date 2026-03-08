@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Hospital Research Wing Donation Form - Help Guide
 
 ## Purpose

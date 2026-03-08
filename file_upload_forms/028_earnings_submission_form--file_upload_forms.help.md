@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Earnings Submission Form - Help Guide
 ## Purpose
 The Earnings Submission Form is used to submit earnings information for processing and review. Please ensure you have all necessary documents and data before completing this form to avoid delays or errors.

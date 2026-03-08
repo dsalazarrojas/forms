@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger study on the impact of wildlife photography on the environment and society. The goal is to gather data on people's attitudes and behaviors related to wildlife photography. The form asks respondents to categorize themselves as either "Yes" or "No" to certain statements, and provide any additional comments or thoughts they may have. The form is used for structured data collection and submission, and the output file is a YAML file.
-</thinking>
-
 # Wildlife Photography Impact Study Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information on people's attitudes and behaviors related to wildlife photography. It is intended to help researchers understand the impact of wildlife photography on the environment and society.

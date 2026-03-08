@@ -1,5 +1,3 @@
-<thinking>... internal reasoning check: This form is intended to collect feedback on wear experience, including comfort, fit, and usage of a product. It's likely used to gauge customer satisfaction and identify areas for improvement. The form has multiple pages, each with various fields, such as select_one, number, and text fields. There's no duplication of fields, and the required fields are marked as such. The fields are mostly self-explanatory, but some, like "product_id" and "product_name", seem to be internal identifiers and not directly relevant to the customer. The form's purpose is to gather specific and detailed information about the customer's experience with the product... </thinking>
-
 # Wear Experience Feedback Form - Help Guide
 ## Purpose
 The Wear Experience Feedback Form is designed to collect feedback from customers on their wear experience, helping us understand their satisfaction and identify areas for improvement.

@@ -1,15 +1,3 @@
-<thinking>
-This form is for submitting new particles to a database for research and review purposes. It is intended for use by researchers and administrators to provide information about the particle, its research details, and relevant files. This form should only be used for new particles and not for existing ones.
-
-To avoid duplication, please ensure that the particle has not been previously submitted.
-
-To use this form, follow these steps:
-
-1. Gather all required information and files.
-2. Fill out the form with the necessary details.
-3. Review the form for accuracy before submitting.
-
-</thinking>
 # New Particle Submission Form - Help Guide
 ## Purpose
 The New Particle Submission Form is a comprehensive form used to submit new particles for research and review purposes.

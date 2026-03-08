@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect service entry data from customers. The form has been created based on public survey topic metadata and is intended to be a helpful tool for customers to provide essential information about their service entries. Before proceeding, review the form's purpose and fields to ensure this guide is relevant and applicable to your specific needs.
-</thinking>
-
 # service_entry_data_collection_form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their service entries, including customer details, order information, service details, status, additional information, frequency, service type, and notes. This data is essential for our services team to efficiently process and manage customer requests.

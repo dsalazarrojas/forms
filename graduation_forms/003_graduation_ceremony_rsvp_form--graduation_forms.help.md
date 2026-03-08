@@ -1,9 +1,3 @@
-<thinking>...<thinking>
-
-The graduation ceremony RSVP form is designed for graduates to RSVP to the ceremony, providing essential details such as their name, guest count, and graduation date. This form ensures that graduates can accurately plan for the number of attendees and make necessary arrangements for the event. It's crucial to fill out this form correctly to avoid any confusion or miscommunication during the graduation ceremony.
-
-</thinking>
-
 # graduation_ceremony_rsvp_form - Help Guide
 ## Purpose
 The graduation ceremony RSVP form is a vital tool for the university to gather essential information from graduates about their attendance and guest count. By completing this form, graduates can help the university plan and prepare for the event.

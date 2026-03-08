@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Research Paper Submission Form - Help Guide
 
 ## Purpose

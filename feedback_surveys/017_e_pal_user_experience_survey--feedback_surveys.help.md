@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in completing the E Pal User Experience Survey form, which is used to gather feedback and insights on the E Pal platform. The form is designed to collect information on users' satisfaction levels with various features and services offered by E Pal. To ensure relevance and minimize duplication, this guide will only cover fields that are explicitly required for completion, which are marked with `required: true` in the form's input schema.</thinking>
-
 # E Pal User Experience Survey - Help Guide
 ## Purpose
 The E Pal User Experience Survey form is designed to gather feedback and insights on the E Pal platform. This form helps us understand how our users perceive and interact with the platform, enabling us to make data-driven decisions to improve the overall user experience.

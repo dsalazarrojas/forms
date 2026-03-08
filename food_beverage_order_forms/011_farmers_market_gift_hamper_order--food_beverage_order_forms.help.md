@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide that explains the purpose and process of the "Farmers Market Gift Hamper Order" form. This form is used for customers to order a gift hamper for a recipient. To ensure the form is filled out correctly, we must explain each field clearly and concisely. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. This will help customers understand what is required of them and how to provide the correct information to successfully submit their order.
-</thinking>
-
 # Farmers Market Gift Hamper Order - Help Guide
 ## Purpose
 This form is used to order a gift hamper for a recipient. Please fill out the form with the recipient's details and any message you'd like to include with the order. This will help us prepare a customized gift hamper for your loved one.

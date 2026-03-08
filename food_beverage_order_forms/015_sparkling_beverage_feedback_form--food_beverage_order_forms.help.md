@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their experience with a sparkling beverage product. This form is used to collect opinions and suggestions from customers on how the product can be improved. The information collected through this form will help us understand customer satisfaction and preferences.
-
-To avoid duplication of effort, please note that the form is only intended for genuine feedback and suggestions, and not for general comments or complaints. If you have a specific issue with the product, please contact our customer support team directly.
-
-</thinking>
-
 # Sparkling Beverage Feedback Form - Help Guide
 ## Purpose
 The Sparkling Beverage Feedback Form is a tool for customers to share their thoughts and opinions on our sparkling beverage products. This form is designed to gather feedback on the taste, quality, and overall experience of our products.

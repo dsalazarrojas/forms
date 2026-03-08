@@ -1,17 +1,3 @@
-<thinking>... internal reasoning about form purpose and fields...
-
-We have a form for ordering sushi, which is used for customers to provide their pickup location, time, name, phone number, and any comments for their order. This form is likely used by a food delivery or restaurant service to collect necessary information from customers for order fulfillment.
-
-The form is divided into two pages, but in this case, all fields are on the same page. The form requires the following fields:
-* Pickup Location: This field is for the customer to enter their pickup location.
-* Pickup Time: This field is for the customer to select the time they would like to pickup their order.
-* Name: This field is for the customer to enter their name.
-* Phone: This field is for the customer to enter their phone number.
-* Pickup Comments: This field is for any additional comments the customer would like to make regarding their order.
-* Pickup Date: This field is for the customer to select the date they would like to pickup their order.
-
-The form seems to be designed for customers who are picking up their orders rather than having them delivered, which is why some fields like phone number is included to help the staff reach out to the customers for any issues or updates... </thinking>
-
 # Sushi Order Form - Help Guide
 ## Purpose
 The Sushi Order Form is designed for customers to provide their pickup location, time, name, phone number, and any comments for their order.

@@ -1,8 +1,3 @@
-<thinking>
-The "promotional_prize_delivery_request" form is used to capture information about prizes that are being delivered to customers after a promotional event. This form is likely used to gather details such as the name of the prize winner, their shipping address, and the type of prize being delivered. It also captures additional information like phone number for contact and the method of shipping. This form might be used in a scenario where a company is hosting a promotional event and needs to collect data on the winners of the prizes.
-To avoid duplication, the form should only be filled out once per prize winner. It is also assumed that the form will only be filled out by authorized personnel or the prize winner themselves.
-</thinking>
-
 # promotional_prize_delivery_request - Help Guide
 ## Purpose
 The "promotional_prize_delivery_request" form is used to capture information about prizes that are being delivered to customers after a promotional event.

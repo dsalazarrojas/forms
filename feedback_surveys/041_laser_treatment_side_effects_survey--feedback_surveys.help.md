@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about the side effects experienced by individuals who have undergone laser treatment. The purpose of this form is to help healthcare professionals understand the potential risks and consequences of laser treatment, and to identify potential areas for improvement in treatment protocols. This form will be used by healthcare professionals to review patient responses and provide guidance on next steps. Please note that this form is not a substitute for medical diagnosis or advice. If you are experiencing severe or persistent side effects, please consult a medical professional immediately.
-
-Before completing this form, please ensure that you have not already submitted a survey about your laser treatment experience. If you are unsure, please consult with a healthcare professional or check with the treatment center for guidance.
-</thinking>
-
 # Laser Treatment Side Effects Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the side effects you experienced after undergoing laser treatment.

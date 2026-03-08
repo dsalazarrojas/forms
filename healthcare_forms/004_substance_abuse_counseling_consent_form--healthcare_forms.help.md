@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Substance Abuse Counseling Consent Form - Help Guide
 ## Purpose
 The Substance Abuse Counseling Consent Form is a document that ensures clients understand their rights, responsibilities, and the confidentiality of their personal and medical information. This form is used to obtain informed consent from clients before they begin counseling sessions.

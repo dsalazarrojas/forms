@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect donations for the Eco Tourism Training Fund, a initiative to support environmental education and conservation efforts. The form is meant for individuals or organizations looking to make a one-time or ongoing donation to support this cause. Before filling out this form, please note that:
-* You can make a one-time or ongoing donation.
-* You can choose from multiple payment methods (Credit Card, PayPal, Bank Transfer).
-* If you are making an ongoing donation, you can specify the frequency of the donations (e.g., monthly, quarterly).
-* Please ensure that your contact information is accurate, as it will be used for follow-up communications.
-
-</thinking>
-
 # Eco Tourism Training Fund Donation Form - Help Guide
 
 ## Purpose

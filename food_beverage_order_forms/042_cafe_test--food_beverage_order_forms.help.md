@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end users who need to fill out the "Cafe Test" form. The form is meant to be a internal testing tool, and its purpose is to collect test data for internal review. To ensure that the form is completed accurately, the form fields should match the expected data types. For example, if a field is labeled as "Test date", it is expected to be filled out in date format, not text.
-
-Before proceeding, it is essential to review each field carefully to determine the correct data type and format required for accurate input. This guide will walk you through each field explanation to minimize errors and ensure a smooth completion process.
-
-</thinking>
-
 # Cafe Test - Help Guide
 ## Purpose
 This form is an internal testing tool for the Cafe Test. It is designed to collect test data for review.

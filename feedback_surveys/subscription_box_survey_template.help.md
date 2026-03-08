@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from subscribers on their overall experience with subscription boxes. The goal is to help subscription box providers understand their customers' satisfaction levels, identify areas of improvement, and make data-driven decisions to enhance their services. To ensure the form collects meaningful and relevant feedback, please fill it out as accurately and completely as possible, and avoid duplicating responses. Your input is invaluable in helping us better understand and meet your needs.
-</thinking>
-
 # subscription_box_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from subscribers on their overall experience with subscription boxes.

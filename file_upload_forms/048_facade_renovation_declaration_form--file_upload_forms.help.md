@@ -1,6 +1,3 @@
-<thinking> 
-This form seems to be a comprehensive form for declaring facade renovations, including uploading documents and providing various information about the property owner, manager, and contractor, as well as approval status and contact details. However, I need to ensure that this form is not duplicating any other forms, and the fields are correctly categorized and labeled. Upon reviewing the form, I notice that it includes fields for file uploads, contact information, and approval status, which seems to be relevant to the renovation process.</thinking>
-
 # Facade Renovation Declaration Form - Help Guide
 ## Purpose
 This form is used to declare facade renovations, including uploading relevant documents and providing information about the property owner, manager, and contractor. It helps to track the approval status and facilitate communication between the parties involved.

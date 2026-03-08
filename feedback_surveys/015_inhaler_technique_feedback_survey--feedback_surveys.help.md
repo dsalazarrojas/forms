@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback from users on their experience with a specific inhaler technique. The main goal is to understand how often users take their inhaler, what triggers their use, how much medication they take, what symptoms they experience, their comfort level with using the inhaler, and any comments or concerns they may have. This form is intended for internal use only and will help the development team to identify areas of improvement for the product.
-
-The form does not need to be filled out by people who are not using the specific inhaler technique that is being targeted, as the questions are tailored to the specific product. Users should only fill out the form if they have experience with the inhaler in question.
-
-Please note that some fields in this form are optional. This means that users can choose not to answer these questions if they do not apply to their situation. However, providing more information will help the development team to get a more complete understanding of the user's experience.
-
-</thinking>
-
 # inhaler_technique_feedback_survey - Help Guide
 ## Purpose
 

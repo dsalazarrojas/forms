@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help users submit a foreign exchange purchase application. The form is used to collect relevant information from customers, including their name, email, phone number, the amount they wish to purchase, the currency they wish to buy, and the currency they are selling. The form also includes fields for uploading a file, which may contain additional supporting documentation. The form is not required for submission, but it is recommended that users complete it as much as possible to ensure that their application is thoroughly evaluated. To avoid duplication of effort, please ensure that you have all necessary information and documents before submitting the form.
-
-</thinking>
-
 # Foreign Exchange Purchase Application - Help Guide
 ## Purpose
 The Foreign Exchange Purchase Application is a form used to collect information from customers for foreign exchange purchases.

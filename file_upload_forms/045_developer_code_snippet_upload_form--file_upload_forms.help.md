@@ -1,8 +1,3 @@
-<thinking> 
-The form is designed to allow developers to upload code snippets for review, collaboration, or documentation purposes. Before proceeding, please ensure this is the correct form for your intended use case, and you haven't already uploaded the code snippet. 
-
-</thinking>
-
 # Developer Code Snippet Upload Form - Help Guide
 ## Purpose
 This form is designed for developers to upload code snippets for review, collaboration, or documentation purposes.

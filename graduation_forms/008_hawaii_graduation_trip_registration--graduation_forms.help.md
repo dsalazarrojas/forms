@@ -1,8 +1,3 @@
-<thinking>
-This form is for students to register for a graduation trip to Hawaii. The form will ask for student details, room preferences, emergency contacts, and other relevant information. The purpose of this form is to gather necessary information for trip planning and logistics. Please ensure that the form is filled out correctly to avoid delays or issues with the trip.
-
-</thinking>
-
 # Hawaii Graduation Trip Registration - Help Guide
 ## Purpose
 This guide is designed to help students complete the Hawaii Graduation Trip Registration form. By following these steps, students can register for the graduation trip and ensure that they have submitted all necessary information.

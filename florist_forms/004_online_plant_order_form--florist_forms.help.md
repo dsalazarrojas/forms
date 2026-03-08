@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Plant Order Form - Help Guide
 
 ## Purpose

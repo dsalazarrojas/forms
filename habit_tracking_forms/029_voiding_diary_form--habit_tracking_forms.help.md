@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely intended for tracking urinary habits and fluid intake over a 24-hour period. The form likely aims to collect data on urination times, volumes, and frequency, as well as comments and notes from the users. It may be used by healthcare professionals or patients to monitor and analyze urinary habits.
-
-Before starting, please ensure that you are using the correct date and time format for your region. The form is not designed for duplicate entries, so please fill it out once per day.
-
-If you're unsure about any field or have questions, please feel free to ask for assistance.
-
-</thinking>
-
 # Voiding Diary Form - Help Guide
 ## Purpose
 The Voiding Diary Form is a tool to track urinary habits and fluid intake over a 24-hour period. It's designed to collect data on urination times, volumes, and frequency, as well as comments and notes.

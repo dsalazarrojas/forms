@@ -1,13 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Erectile Dysfunction Assessment" form. This form is used to assess the patient's condition related to erectile dysfunction, which is a medical condition characterized by the inability to achieve or maintain an erection. The main goal of this form is to gather information about the patient's symptoms, medical history, and treatment plan to provide a comprehensive assessment and guide further medical evaluation or treatment.
-
-Before creating this guide, let's review the form structure and fields to ensure that we cover all the necessary information for the end-user to complete it accurately.
-
-The form is divided into several pages with different fields for general information, symptoms, medical history, treatment plan, medications, follow-up appointments, and additional questions. Each page is designed to capture specific information that will help the healthcare professional to evaluate and manage the patient's condition effectively.
-
-To ensure that the end-user understands the purpose and importance of each field, we will provide a clear explanation for each page and field in the help guide.
-</thinking>
-
 # Erectile Dysfunction Assessment - Help Guide
 ## Purpose
 The Erectile Dysfunction Assessment form is used to gather information about a patient's condition related to erectile dysfunction. This form is designed to be completed by the patient and will help healthcare professionals to evaluate and manage their condition.

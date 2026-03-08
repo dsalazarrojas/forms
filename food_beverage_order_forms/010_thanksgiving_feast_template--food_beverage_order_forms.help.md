@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thanksgiving_feast_template - Help Guide
 
 ## Purpose

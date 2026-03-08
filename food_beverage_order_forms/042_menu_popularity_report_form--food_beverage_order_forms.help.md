@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report on the popularity of menu items at a specific time of the month and year. The purpose of this form is to collect data on menu item sales quantities and values for each month of the year, to help identify trends and patterns in menu item popularity.
-This form should only be used for reporting purposes and should not be used to place orders or make changes to menu items. All required fields must be completed before submitting the form.
-The form is designed for both internal and external use, but it's mainly intended for use by internal staff to report on menu item sales and trends. External users, such as vendors or customers, should not use this form.
-This form collects data on menu item sales for 12 months of the year, and requires completion of fields for each month. The form also requests information on sales quantities and values, as well as other relevant details.
-</thinking>
-
 # Menu Popularity Report Form - Help Guide
 ## Purpose
 The Menu Popularity Report Form is used to collect data on menu item sales for each month of the year. This data is used to identify trends and patterns in menu item popularity and to inform business decisions.

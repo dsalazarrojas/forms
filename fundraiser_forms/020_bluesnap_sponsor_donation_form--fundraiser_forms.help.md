@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the BlueSnap Sponsor Donation Form, used for collecting sponsor information and details for fundraising events. Before proceeding, ensure that you're not duplicating existing sponsor information and that the form is being used for the correct purpose.
-</thinking>
-
 # BlueSnap Sponsor Donation Form - Help Guide
 ## Purpose
 

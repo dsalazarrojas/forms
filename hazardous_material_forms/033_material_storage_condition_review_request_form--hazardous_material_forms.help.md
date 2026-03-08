@@ -1,7 +1,3 @@
-<thinking>
-This form is a Material Storage Condition Review Request Form, used to assess the storage condition of hazardous materials. The purpose of this form is to gather information about the storage location, condition request date, urgency level, priority, supporting documents, review request comments, assigned personnel, and review date for a specific material. It is crucial to fill out this form accurately to ensure the timely and safe storage of hazardous materials. Please note that this form should not be filled out for non-mandatory purposes.
-</thinking>
-
 # Material Storage Condition Review Request Form - Help Guide
 ## Purpose
 This form is used to review the condition of materials stored in our facility. It is a mandatory step in the storage process to ensure that materials are handled and stored safely.

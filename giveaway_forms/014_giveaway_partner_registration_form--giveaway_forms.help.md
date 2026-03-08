@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from potential giveaway partners for a business or organization. The purpose of this form is to gather essential details about the partner's organization, contact information, and giveaway preferences.
-The form will be used to streamline the partner onboarding process and ensure that the necessary information is captured accurately.
-To use this form effectively, you must ensure that you only register once, and your registration data will not be duplicated.
-</thinking>
-
 # Giveaway Partner Registration Form - Help Guide
 ## Purpose
 This form is designed for giveaway partners to register their details and preferences. This information will help us understand your organization's needs and ensure a smooth collaboration.

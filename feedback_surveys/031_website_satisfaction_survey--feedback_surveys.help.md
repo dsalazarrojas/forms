@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and satisfaction ratings about the website. The purpose of this form is to collect anonymous feedback from users to help us improve the website's functionality and user experience. Please note that this is a survey, and your responses will be kept confidential. If you have already completed this survey, you are not required to do so again.
-</thinking>
-
 # Website Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback and satisfaction ratings about your experience on the website. Your responses will help us improve the website's functionality and user experience.

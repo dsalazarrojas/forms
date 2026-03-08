@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to the deactivation of vehicles within a fleet. It will typically be filled out by fleet administrators or managers who are responsible for maintaining up-to-date records of vehicles within their organization. The form may be used to document the reason for deactivating a vehicle, which will help in the efficient management of the fleet. To ensure that the correct data is collected, please make sure to fill out all required fields accurately and completely. If a vehicle is being deactivated due to sale, trade-in, or other reasons, please include that information in the reason field. Additionally, if the vehicle is being transferred to another unit or organization, please ensure that the correct contact details are updated in the vehicle management system.
-</thinking>
-
 # Vehicle Deactivation Form - Help Guide
 
 ## Purpose

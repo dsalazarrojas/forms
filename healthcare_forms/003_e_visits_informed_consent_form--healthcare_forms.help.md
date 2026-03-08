@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used in a healthcare setting to obtain informed consent from patients or their representatives for virtual or in-person consultations with healthcare providers. The form aims to provide a clear understanding of the patient's rights, responsibilities, and expectations before undergoing medical treatment or services. This form is designed to ensure that patients understand their privacy and confidentiality of their personal and medical information.
-
-Before proceeding, please take a moment to review the form and ensure that it accurately represents your needs. If you have questions or concerns, contact the relevant authorities or medical staff.
-
-Please note that the information provided in this help guide is based on the provided YAML fields and may not include any additional information or context that might be relevant to your specific situation.
-
-</thinking>
-
 # E Visits Informed Consent Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the E Visits Informed Consent Form.

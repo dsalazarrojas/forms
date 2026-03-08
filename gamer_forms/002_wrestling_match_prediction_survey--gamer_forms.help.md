@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data from users regarding their predictions for a series of wrestling matches. The form is likely to be used by a specific group of users (e.g., wrestling fans, bettors, or enthusiasts) to provide their insights and predictions on upcoming matches. Each match section will allow users to select their picks, confidence level, and reasoning for their predictions. The form also captures contact information for follow-up purposes. The form structure suggests that it's intended for a specific niche audience, possibly for entertainment or research purposes.
-
-</thinking>
-
 # Wrestling Match Prediction Survey - Help Guide
 ## Purpose
 This form is designed to collect users' predictions and insights on wrestling matches. It's intended for a specific group of users who are passionate about wrestling and want to share their opinions on upcoming matches.

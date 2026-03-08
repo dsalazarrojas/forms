@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information for meal orders from customers, taking into account their dietary preferences and the type of food and beverage they would like to order. The form should be completed by customers to provide their order details and preferences for the restaurant staff to process their order efficiently while ensuring a personalized experience. This form is likely to be used by customers with specific dietary needs, such as gluten-free, vegan, or dairy-free requirements, to ensure that their orders are tailored to their needs. Before proceeding, please review the fields below to ensure that you understand the purpose and required information.
-</thinking>
-
 # Meal Order Form With Dietary Suggestions - Help Guide
 ## Purpose
 This form is designed for customers to order food and beverages while specifying their dietary preferences, ensuring that the restaurant can provide a personalized experience.

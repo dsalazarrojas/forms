@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information for a directed payment program application. The goal of this form is to collect relevant details and supporting documents required for the application process. This form is part of a larger application process that may be used by various departments or teams within an organization, depending on the context.
-
-Before proceeding, please ensure you have all necessary supporting documents and information ready. You may need to complete this form multiple times or in conjunction with other forms, so it's essential to review your responses carefully to avoid duplication of effort or missing critical information.
-
-The following guide will walk you through each step of the form, explaining each field and its purpose.
-
-</thinking>
-
 # directed_payment_program_application - Help Guide
 ## Purpose
 This form is designed to collect necessary information and supporting documents for a directed payment program application. Please ensure you have all required materials before starting.

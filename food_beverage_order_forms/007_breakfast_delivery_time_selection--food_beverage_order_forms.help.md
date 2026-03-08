@@ -1,10 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "Breakfast Delivery Time Selection" form, ensuring that end-users understand the form's purpose, how to complete it, and what each field means. This form is designed to collect crucial information for breakfast delivery services, including business or organization details, contact information, delivery preferences, and special requirements.
-
-To create an effective help guide, we'll focus on clearly explaining each field's purpose and requirements, while also considering the options and constraints within each field.
-
-</thinking>
-
 # Breakfast Delivery Time Selection - Help Guide
 ## Purpose
 The "Breakfast Delivery Time Selection" form is used to collect information for breakfast delivery services, ensuring that your breakfast needs are met with precision and convenience. This form helps us understand your business or organization's requirements, contact details, and delivery preferences, allowing us to provide the best possible service.

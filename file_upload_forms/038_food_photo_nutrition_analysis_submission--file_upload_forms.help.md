@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is for users to submit photos of food and related details for analysis. The form is meant to gather information for nutritional content analysis, and the data will be used to generate a report. To prevent duplication, we should check if a user has already submitted a photo and details for the same meal date and food item.
-</thinking>
-
 # Food Photo Nutrition Analysis Submission - Help Guide
 ## Purpose
 This form is designed to collect photos and details of food items for nutritional analysis. Please submit a photo of the meal, select the relevant details, and provide the date of consumption. This information will be used to generate a report on the nutritional content of the food.

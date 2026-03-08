@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from researchers for a scientific conference. To ensure that only relevant and unique submissions are processed, we will check for duplication and non-compliance before proceeding with the admission process.
-</thinking>
-
 # Scientific Conference Researcher Admission Form - Help Guide
 ## Purpose
 The Scientific Conference Researcher Admission Form is designed to collect essential information from researchers interested in presenting their research at the conference. This form helps us understand their background, file uploads, and presentation preferences.

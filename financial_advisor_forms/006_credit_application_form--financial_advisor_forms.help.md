@@ -1,5 +1,3 @@
-<thinking>As a financial advisor form, this form is used to collect personal and employment information from applicants seeking credit. This information will be used to assess the applicant's creditworthiness and determine the feasibility of extending credit. The form is designed to gather data about the applicant's employment status, income details, and other relevant factors. Before filling out this form, please ensure that you have all the required information at hand. Please note that some fields may not be required, and you can skip them if not applicable. Also, be aware that the form is for internal use only and should not be shared with anyone without permission.</thinking>
-
 # Credit Application Form - Help Guide
 ## Purpose
 The Credit Application Form is designed to collect personal and employment information from applicants seeking credit. This information will be used to assess the applicant's creditworthiness and determine the feasibility of extending credit.

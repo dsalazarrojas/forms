@@ -1,8 +1,3 @@
-<thinking>
-This form is for patients to provide consent for telehealth services with an acupuncturist. The form is meant to be filled out before the start of the telehealth session, ensuring that the patient understands and agrees to the terms of the session, including technology requirements, limitations, and confidentiality.
-To avoid duplication, ensure this form is not filled out multiple times by the same patient for different sessions. If the patient has already completed this form for a previous session, do not require them to complete it again.
-</thinking>
-
 # Acupuncturist Telehealth Consent Form - Help Guide
 
 ## Purpose

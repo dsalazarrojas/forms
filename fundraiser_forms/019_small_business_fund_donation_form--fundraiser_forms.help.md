@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for small business fund donations. It is intended for small businesses that are seeking funding for their projects or initiatives. The form will ask for various details such as donation amount, frequency, and payment method, along with contact information and business details. 
-
-This form is used to gather accurate and complete information from small businesses, and it's essential to fill it out carefully to ensure that all the required fields are filled out correctly.
-
-</thinking>
-
 # small_business_fund_donation_form - Help Guide
 ## Purpose
 This form is designed to help small businesses gather funding for their projects or initiatives. It requires detailed information from the business, including contact and business information, donation amount, and payment method.

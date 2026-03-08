@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll need to understand the form's purpose and the fields it contains. Based on the YAML, the form appears to be a survey about hair health, specifically asking questions about hair characteristics, condition, and issues. The form seems to be designed to collect information about hair types, lengths, colors, styles, and various hair conditions, such as dryness, breaking, and splitting. The purpose of the form could be to help professionals in the hair industry (e.g., hairdressers, barbers, trichologists) to assess the health and condition of hair in a systematic and standardized way.
-
-However, I don't want to make any assumptions about the form's purpose, and I'll let the user guide speak for itself. Please provide me with the required information to proceed.
-
-</thinking>
-
 # Hair Health Routine Self-Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to assess the health and condition of your hair. It will ask you questions about your hair type, length, color, style, and various characteristics to help professionals in the hair industry understand your hair's condition.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Flooring Installation Instructions Form - Help Guide
 
 ## Purpose

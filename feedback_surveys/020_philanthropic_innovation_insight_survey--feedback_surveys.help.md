@@ -1,12 +1,3 @@
-<thinking>
-  This form is designed to gather information about a Philanthropic Innovation Insight Survey.
-  This survey aims to collect data on various aspects related to philanthropic innovation.
-  To complete this survey, users will be presented with a series of fields that cover different topics.
-  Each field is designed to elicit specific information from the user.
-  It is essential to understand the purpose and requirements of each field to ensure that users provide accurate and comprehensive data.
-  Before proceeding, please take a moment to review the following guide to ensure you have a clear understanding of what to expect.
-</thinking>
-
 # Philanthropic Innovation Insight Survey - Help Guide
 ## Purpose
 The Philanthropic Innovation Insight Survey is designed to gather information about various aspects related to philanthropic innovation. This survey aims to collect data on programs, categories, questions, dates, times, and contact information. The data collected will help organizations understand the needs and trends in the philanthropic innovation space.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check form purpose and relevance
-
-The form is intended to collect information from guests for COVID-19 self-declaration purposes. Its purpose is to verify that guests are aware of and comply with COVID-19 guidelines and regulations. The form is likely used in a travel or hospitality context, such as hotels, airports, or other public venues, where guests may be required to declare their health status, travel history, and other relevant information. The form's design and fields suggest it is intended for data collection and verification, rather than for entertainment or other non-relevant purposes.
-
-</thinking>
-
 # Guest Self Declaration Form COVID 19 - Help Guide
 ## Purpose
 The Guest Self Declaration Form COVID-19 is a mandatory form designed to collect essential information from guests for the purpose of verifying their health status, travel history, and other relevant details in compliance with COVID-19 guidelines and regulations.

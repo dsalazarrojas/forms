@@ -1,12 +1,3 @@
-<thinking>
-This form is for the school's lunch box program, which provides pre-made lunches for students. The form is designed to capture information from students and their parents/guardians. The form is intended to be reusable, meaning that it can be used for multiple orders, with the option to add or remove students as needed.
-
-Before proceeding, please ensure that the form is not a duplicate order for the same student. If you are making a new order for a student, please fill out the form completely and accurately.
-
-The form is composed of 25 fields, each with its own purpose and requirements. Please read through the form carefully to ensure you understand each field's purpose and requirements.
-
-</thinking>
-
 # Reusable Lunch Box Order Form - Help Guide
 ## Purpose
 This form is used to capture information for the school's lunch box program. It is designed to be reusable, allowing you to add or remove students as needed.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from guests arriving at an event or location, such as a conference, festival, or hotel. The purpose of the form is to capture essential details about the guest, including their name, ID copy, agreement to certain terms, contact information, and any additional comments. This form ensures that the guest's visit is properly registered and their stay is smooth and efficient. 
-
-To prevent data duplication, this form should not be submitted multiple times by the same individual.
-
-</thinking>
-
 # guest_registration_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from guests arriving at an event or location, allowing us to manage their registration efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for uploading files to Dropbox. The goal is to provide a simple way for users to upload and share files of different types (images, videos, documents, etc.). This form will help ensure that uploaded files meet certain criteria before being shared with others.
-The form is likely to be used in a business or professional setting, and users with access to the system would be able to complete it.
-The form should only be completed once a file has been chosen for upload, and the fields will guide the user through the process.
-</thinking>
-
 # dropbox_asset_upload_form - Help Guide
 ## Purpose
 This form is used for uploading files to Dropbox, allowing users to share files with others while ensuring they meet certain criteria.

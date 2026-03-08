@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and survey responses from pet owners, veterinarians, or pet healthcare providers about their experience with pet healthcare communication. The goal is to improve communication between pet owners and veterinarians, and to identify areas of improvement in pet healthcare services. This form is intended to be filled out by pet owners or their representatives, such as veterinarians or other pet healthcare providers. The form will be used to track and store responses, and will help to monitor submission status and assigned tools for each survey.
-</thinking>
-
 # Pet Healthcare Communication Survey - Help Guide
 ## Purpose
 The Pet Healthcare Communication Survey is designed to collect feedback and survey responses from pet owners, veterinarians, or pet healthcare providers to improve communication between them and identify areas of improvement in pet healthcare services.

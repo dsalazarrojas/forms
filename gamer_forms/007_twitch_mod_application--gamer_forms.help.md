@@ -1,5 +1,3 @@
-<thinking>As a moderator for a community, you're likely to be a passionate and dedicated gamer who wants to help others and keep the chat safe and respectful. This form is designed to help us get to know you better and understand your background, experience, and motivations for becoming a moderator. We'll be checking for duplication and ensuring that you're not already a moderator or have a history of being banned or kicked from other channels. Please fill out this form accurately and thoroughly, and we'll review your application carefully.</thinking>
-
 # Twitch Mod Application - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your qualifications, experience, and fit for becoming a moderator on Twitch. This will help us assess your suitability for the role and make informed decisions about your application.

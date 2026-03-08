@@ -1,5 +1,3 @@
-<thinking>As a financial advisor, you are likely to use this form to collect borrower information and authorize access to sensitive data. This form is a standard template to ensure borrower compliance with regulatory requirements and protect their data privacy. Before using this form, please review the following guidelines to ensure you are meeting the necessary regulations and best practices. This form is typically used by financial institutions to collect borrower authorization for financial transactions and data access. Check if your institution already has a similar form in use, and ensure you are not duplicating efforts. If you are not sure, please consult with your internal teams or supervisors for guidance.</thinking>
-
 # Borrower's Authorization Form - Help Guide
 ## Purpose
 This form is a standardized template for borrowers to authorize access to their financial information and data. It is designed to ensure compliance with regulatory requirements and protect borrower data privacy.

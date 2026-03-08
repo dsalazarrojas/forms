@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used by financial practitioners and patients to understand and complete the financial consent form. The form is used for the financial consent process, which is a crucial part of the medical practice. It ensures that both the practitioner and the patient understand and agree on the financial aspects of their interaction.
-
-The form is divided into several sections that need to be completed by both the practitioner and the patient. The purpose of this guide is to help users understand each section and its requirements.
-
-Before starting to fill out the form, make sure that you understand what each section represents and what information is needed for it. This guide will walk you through each field and explain its purpose and requirements.
-
-</thinking>
-
 # financial_consent_form - Help Guide
 ## Purpose
 The financial consent form is used to ensure that both the financial practitioner and the patient understand and agree on the financial aspects of their interaction.

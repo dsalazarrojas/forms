@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mini_mental_state_examination_mmse_score_recording - Help Guide
 ## Purpose
 The Mini-Mental State Examination (MMSE) score recording form is used to assess the cognitive functioning of patients, typically in a clinical setting. It is used to evaluate the level of cognitive impairment, which can be an indicator of various health conditions such as dementia, delirium, and other psychiatric disorders. By completing this form, healthcare professionals can quickly and efficiently record the patient's mental status, making it easier to monitor their condition and provide necessary care.

@@ -1,19 +1,3 @@
-<thinking>
-The form is intended to be a daily reflection and gratitude journal, where users can record their thoughts, feelings, and experiences on a specific day. This form is meant to help individuals cultivate a sense of gratitude and mindfulness.
-
-Before using this form, please note that it contains multiple "Tags" fields, which are intended for categorizing and labeling the journal entries. These fields are likely meant to help users identify the themes or emotions they experience during the day, such as "Gratitude", "Happiness", "Mindfulness", etc.
-
-It is not clear why there are 13 "Tags" fields, but it is possible that these were intended for tracking different categories of thoughts or feelings across multiple days or weeks. However, this may be confusing or unnecessary for users, and it may be better to simplify the form by removing or rephrasing these fields.
-
-This form also includes fields for recording a "Date" and "Time", which is likely meant to help users keep track of the date and time of their journal entries.
-
-Additionally, there are fields for "Email" and "Phone", which may be intended for users to share their entries with others or for contact information.
-
-The form also includes fields for selecting the type of journal entry, such as "Text", "Integer", "Decimal", etc.
-
-Overall, this form is meant to be a flexible and customizable tool for users to reflect on their thoughts, feelings, and experiences.
-</thinking>
-
 # Daily Gratitude Journal Form - Help Guide
 ## Purpose
 The Daily Gratitude Journal Form is a tool for recording and reflecting on your thoughts, feelings, and experiences on a daily basis. It is meant to help you cultivate a sense of gratitude and mindfulness.

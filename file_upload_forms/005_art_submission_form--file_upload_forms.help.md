@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Submission Form - Help Guide
 ## Purpose
 The Art Submission Form is designed for artists to submit their artworks for review and consideration. This form captures essential information about the artist, artwork, and submission details. Please ensure you fill out all required fields to increase the chances of your artwork being considered.

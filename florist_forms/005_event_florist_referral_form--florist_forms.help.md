@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Event Florist Referral Form is completed accurately and consistently. This form is used to capture information about potential event vendors and their referrals. It's essential that the form is filled out correctly to facilitate efficient communication and follow-up actions. To avoid duplication, please do not submit this form multiple times for the same vendor. 
-</thinking>
-
 # Event Florist Referral Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by testers to schedule appointments for testing hair products. The form is used by the testing team to collect information from testers about their availability and preferences. This form is not intended for public use and is restricted to authorized personnel only. Please only use this form if you have been explicitly invited to test hair products by a member of the testing team.
-</thinking>
-
 # Hair Product Sample Testing Appointment Form - Help Guide
 ## Purpose
 This form is used by the testing team to collect information from testers about their availability and preferences for testing hair products.

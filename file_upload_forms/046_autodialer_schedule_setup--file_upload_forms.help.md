@@ -1,21 +1,3 @@
-<thinking>
-To create an effective help guide for this form, we need to consider the following:
-
-This form is for setting up an autodialer schedule, which suggests it's used for automating phone calls to a list of contacts. The purpose of this form is to configure the autodialer settings, including the campaign name, department name, campaign type, schedule details, call configuration, and more. The key fields in this form are:
-
-*   Campaign name: A unique name for the outbound campaign.
-*   Department name: The internal department requesting the setup.
-*   Campaign type: The primary purpose of the calls (e.g., Sales, Customer Support, etc.).
-*   Scheduling details: The start and end dates for the campaign, as well as the daily start and end times.
-*   Operating days: The days of the week when the campaign will run.
-*   Call configuration: Settings for concurrent call limit, retry on no answer, and maximum retries per number.
-*   Contact list file: The uploaded CSV or Excel file containing the contact list.
-*   Caller ID display name: The name shown on recipients' phones.
-*   Setup notes or script link: Any additional technical details or link to the call script.
-
-We'll aim to provide clear explanations for each field to help users complete the form correctly and effectively.
-</thinking>
-
 # Autodialer Schedule Setup - Help Guide
 ## Purpose
 This form is used to set up the autodialer schedule for an outbound campaign. It requires specific information to configure the campaign settings for successful execution.

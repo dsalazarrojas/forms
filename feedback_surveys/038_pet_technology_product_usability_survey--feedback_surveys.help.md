@@ -1,5 +1,3 @@
-<thinking>Before generating the user-facing help guide, I want to ensure I understand the form's purpose and functionality. I notice that the form is designed to gather feedback on a product's usability, specifically for Pet Technology (PetTech) products. It seems to be a survey aimed at understanding users' opinions on the features, user experience, and overall satisfaction with the PetTech product line. The form asks about various aspects such as usability features, user satisfaction, feature ideas, and product improvement ideas. I also see that there is no explicit "submit" button, suggesting that this is a feedback survey and not a transactional form. I assume the form will be used for research and analysis, rather than for data collection for commercial purposes. I will proceed with creating the help guide based on this understanding.</thinking>
-
 # Pet Technology Product Usability Survey - Help Guide
 ## Purpose
 This form is designed to gather your opinions and feedback on the usability of Pet Technology (PetTech) products. Your input will help us understand what you like and dislike about our products and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with Peanut Brittle products. The primary goal is to gather data on customer satisfaction, identify areas for improvement, and provide a channel for customers to contact the company. Before proceeding, please ensure that you have not already completed this form, as it is intended to be filled out only once per customer. If you are an employee of the company, please use your personal account to avoid duplication.
-</thinking>
-
 # Peanut Brittle Feedback Survey - Help Guide
 ## Purpose
 The Peanut Brittle Feedback Survey is designed to collect information from customers about their purchase experiences with our products. Your feedback will help us improve our offerings and provide better service in the future.

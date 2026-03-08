@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Physical Therapy Consent Form - Help Guide
 
 ## Purpose

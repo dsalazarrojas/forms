@@ -1,14 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Class Reunion Photo Upload" form. The form is used to collect information and photos from alumni and their families for the class reunion. The goal is to collect photos for use in reunion materials such as the website, social media, and printed materials. The form is divided into several sections, each focusing on different aspects of the photo and the submitter's relationship with the photo. We will ensure that the form is easy to fill out and understand.
-
-The form will include fields for contributor information (name, email, phone number, graduation year), photo information (description, location, year taken, people in photo), permissions (rights, sharing restrictions), and file upload details (file size, preferred submission method). The submitter will be asked to confirm that they have the right to share the photo and that the information provided is accurate.
-
-We will write clear and concise labels and hints for each field, and provide instructions on how to complete the form. We will also include tips and best practices for submitting photos and providing information.
-
-This form will be used by alumni and their families to submit photos and information for the class reunion, and we will make sure that the form is easy to use and understand.
-
-</thinking>
-
 # Class Reunion Photo Upload - Help Guide
 ## Purpose
 The Class Reunion Photo Upload form is used to collect photos and information from alumni and their families for the class reunion. The form is divided into several sections, each focusing on different aspects of the photo and the submitter's relationship with the photo.

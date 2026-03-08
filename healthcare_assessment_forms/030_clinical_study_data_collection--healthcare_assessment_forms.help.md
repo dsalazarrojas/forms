@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant data for clinical research studies. It is a crucial tool for healthcare professionals to gather accurate and comprehensive information about each participant, which is essential for the success of the study. This form is used to track participant progress, identify potential issues, and provide high-quality care.
-
-This form appears to be designed to collect data for a specific study, and it is likely that the fields are tailored to suit the needs of that study. However, to avoid duplication of effort and potential data inconsistencies, it is recommended to use this form for the specific study it was designed for.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to complete this form. Additionally, if you are unsure about any of the questions or require clarification, please consult with the study team or relevant healthcare professionals.
-
-</thinking>
-
 # Clinical Study Data Collection - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to help users understand the purpose and usage of the Gaming Server Rule Voting Form. This form is designed to collect feedback and opinions from users about changes to gaming server rules. It's intended for moderators to gauge the community's reaction to proposed rule changes, ensuring that the server's rules are fair and acceptable to the players. Before proceeding, let's confirm that the form's purpose is to gather user feedback on rule changes, and it's not for other purposes such as reporting player misconduct or submitting bug reports. Additionally, this form is designed for users to provide their opinions on proposed rule changes, and not for other types of submissions.</thinking>
-
 # Gaming Server Rule Voting Form - Help Guide
 ## Purpose
 The Gaming Server Rule Voting Form is a tool for the community to provide feedback on proposed rule changes to the server. It helps moderators understand the community's opinion on the changes, ensuring that the server rules are fair and acceptable to the players.

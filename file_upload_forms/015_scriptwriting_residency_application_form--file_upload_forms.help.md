@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Scriptwriting Residency Application Form for end-users. The form is used to collect information from applicants for a scriptwriting residency program, which aims to provide a supportive environment for writers to develop their skills and network with industry professionals. Before starting the application process, ensure that you have a unique application ID to avoid duplication. If you've previously applied, please do not reapply with a new ID.
-</thinking>
-
 # Scriptwriting Residency Application Form - Help Guide
 ## Purpose
 The Scriptwriting Residency Application Form is designed to collect necessary information from applicants for the scriptwriting residency program. Please fill out this form to apply for the residency program.

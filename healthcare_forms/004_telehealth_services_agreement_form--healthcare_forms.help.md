@@ -1,10 +1,3 @@
-<thinking>
-This guide is for those who will be completing a "Telehealth Services Agreement Form", which is a crucial document that outlines the terms and conditions of providing telehealth services. This form is a required component of the telehealth process, ensuring that both the patient and the healthcare provider are aware of their responsibilities and expectations. 
-Please note that this guide is for informational purposes only and should not be used to determine the legal or medical requirements of telehealth services. 
-The form is designed to be completed by patients and healthcare providers, and it's essential to ensure that all sections are filled out accurately and thoroughly. 
-This guide will walk you through each field of the form, explaining what it's for and how to complete it correctly.
-</thinking>
-
 # Telehealth Services Agreement Form - Help Guide
 ## Purpose
 This form is used to outline the terms and conditions of providing telehealth services. It's a required document that ensures both the patient and the healthcare provider are aware of their responsibilities and expectations.

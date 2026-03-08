@@ -1,10 +1,3 @@
-<thinking>
-This guide is designed to help end-users understand the purpose and usage of the Telecom Field Inspection Checklist form. The form is used to collect data on the condition and status of various telecommunications equipment and locations. It is intended to be used by inspectors to gather information on the condition of equipment, locations, and issues found during inspections. This form should not be used for other purposes such as general surveys or questionnaires. 
-
-The form will ask you to provide information on the location, inspector, date, issues found, and other relevant details related to the inspection. Please ensure that all required fields are completed to ensure accurate and comprehensive data collection.
-
-The following is a detailed explanation of each field:</thinking>
-
 # Telecom Field Inspection Checklist - Help Guide
 ## Purpose
 The Telecom Field Inspection Checklist form is a data collection tool used to gather information on the condition and status of various telecommunications equipment and locations during field inspections.

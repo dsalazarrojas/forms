@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about urinary incontinence, a common condition where individuals may experience involuntary loss of urine. The form is used to gather data on various aspects of incontinence, including the frequency, type, and severity of episodes, as well as fluid intake and bladder control. This information is likely used for medical research, clinical trials, or healthcare data analysis. Before proceeding, please ensure that you are completing this form for the intended purpose and that you have not already submitted this information.
-
-</thinking>
-
 # ICIQ UI Short Form - Help Guide
 ## Purpose
 This form is used to collect information about urinary incontinence, a condition involving involuntary loss of urine. The form helps healthcare professionals and researchers gather data on the frequency, type, and severity of incontinence episodes, as well as fluid intake and bladder control.

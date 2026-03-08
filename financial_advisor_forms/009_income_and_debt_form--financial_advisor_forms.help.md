@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "Income And Debt Form" that aims to provide end-users with a clear understanding of its purpose, usage instructions, and field explanations.
-The form's internal reasoning should check for duplication: ensure that the fields and labels are correctly mapped and there is no redundancy in the explanation.
-We will base our explanations on the provided YAML fields.
-We will create a comprehensive guide that covers all aspects of the form and explains each field in simple, concise language.
-</thinking>
-
 # Income And Debt Form - Help Guide
 ## Purpose
 The Income And Debt Form is designed to collect financial information from users, specifically focusing on their income and debt status. This form aims to gather comprehensive data to help financial advisors understand a user's financial situation and provide personalized advice.

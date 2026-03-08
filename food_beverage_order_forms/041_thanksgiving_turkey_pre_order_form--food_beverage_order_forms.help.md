@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the form's purpose is well-understood and that the user knows what information is required and what they can input to fulfill the form's needs. Since the form is for pre-ordering Thanksgiving turkeys, users will be expected to provide information such as their name, contact details, and preferences for the turkey order. We should verify that the user has provided all required fields, such as phone number and confirmation, and that they are aware that the turkey size and type are optional but important choices for their order. We should also double-check that the form's layout and field order won't be confusing or repetitive, to ensure a smooth user experience.
-</thinking>
-
 # Thanksgiving Turkey Pre Order Form - Help Guide
 ## Purpose
 The Thanksgiving Turkey Pre Order Form is designed to allow customers to pre-order their Thanksgiving turkeys. To complete this form, please follow the instructions below.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect donor information and donation details for the Chargify platform. It is meant to be used for fundraising purposes, allowing users to provide their personal details, donation amounts, payment methods, and other relevant information. This form ensures that donors can easily and efficiently make donations and provide any additional information required for processing and tracking.
-</thinking>
-
 # Chargify Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donor information and donation details for the Chargify platform, making it a vital tool for fundraising purposes.

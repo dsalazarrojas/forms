@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to capture information related to the sales outcome of a property. The purpose of this form is to gather data on the status of a property sale, including whether the property was sold, not sold, cancelled, withdrawn, expired, or another status. The form also captures details such as the reason for non-sale, property address, price, salesperson involved, agency, and dates and times associated with the sale or non-sale. The form's fields are structured to be easily understandable and fillable by users, making it a straightforward process for them to provide the necessary information.
-</thinking>
-
 # Property Sale Outcome Report Form - Help Guide
 
 ## Purpose

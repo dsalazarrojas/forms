@@ -1,16 +1,3 @@
-<thinking>
-The Construction Quality Control Survey form is used to assess the quality of construction work on a project site. It's an essential tool for construction quality control inspectors to ensure that the project meets the required standards and specifications. This form helps identify areas that need improvement or correction and provides a comprehensive evaluation of the project's quality.
-
-Before completing this form, please ensure that:
-- You are authorized to conduct quality control surveys on this project.
-- You are familiar with the project's specifications and requirements.
-- You have reviewed the project's construction plans and drawings.
-- You have taken photos of any relevant defects or issues.
-
-The purpose of this form is to gather information about the construction project's quality, identify defects, and provide recommendations for improvement. It's crucial to fill out the form accurately and thoroughly to ensure that the project meets the required standards.
-
-</thinking>
-
 # Construction Quality Control Survey - Help Guide
 ## Purpose
 The Construction Quality Control Survey form is used to evaluate the quality of construction work on a project site, ensuring that the project meets the required standards and specifications.

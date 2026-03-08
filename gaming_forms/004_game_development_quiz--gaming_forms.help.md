@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the user's background and experience in game development, including their area of expertise, years of experience, and preferred platforms and programming languages. This data will be used to improve Jotform's services and provide a better experience for game development professionals. This form should only be filled out by users who are actually game development professionals, and not by people who are trying to spam or fill out the form without any legitimate purpose.
-</thinking>
-
 # Game Development Quiz - Help Guide
 ## Purpose
 This form is a comprehensive quiz designed to gather information about your background and experience in game development. It will help us understand your strengths and preferences in game development, and we may use this data to improve our services for game development professionals.

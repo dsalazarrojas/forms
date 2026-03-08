@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Feedback Accuracy Survey - Help Guide
 ## Purpose
 The Vendor Feedback Accuracy Survey is a form designed to gather feedback from customers about their experiences with vendors. The survey aims to assess the accuracy of the vendor's products or services in relation to the customer's expectations. This guide will walk you through the process of completing the form and explain each field in detail.

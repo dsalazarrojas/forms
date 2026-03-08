@@ -1,7 +1,3 @@
-<thinking>
-The AI-generated form titled "electronics_design_requirements_form" is designed to collect information about electronic project design requirements. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation of public survey topic metadata. The form can be used by anyone to create a copy or modify for personal or commercial use, under the terms of CC BY 4.0. For more information, contact form@gic.mx.
-</thinking>
-
 # electronics_design_requirements_form - Help Guide
 ## Purpose
 The "electronics_design_requirements_form" is a comprehensive form designed to gather essential details for electronic project design, development, and management. It is intended to provide a structured platform for collecting information about various aspects of electronic projects, including general information, project details, technical specifications, and more.

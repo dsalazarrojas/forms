@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from patients about their experiences with medical appointments. It seems to focus on various aspects of the appointment, including overall experience, provider care, satisfaction, communication, wait times, punctuality, and recommendation. This form does not require any specific business logic or context beyond patient feedback, making it a straightforward feedback collection instrument.
-
-</thinking>
-
 # Medical Appointment Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experiences with medical appointments. Your responses will help us understand your thoughts on the care and service you received.

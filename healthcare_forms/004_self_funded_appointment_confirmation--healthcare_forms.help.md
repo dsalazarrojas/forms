@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes you are a healthcare professional looking to confirm a self-funded appointment with your patients. The Self Funded Appointment Confirmation form is designed to help you gather crucial information from your patients, ensuring smooth and efficient appointment processes. This form is meant to be used for both self-funded and non-self-funded appointments, allowing you to tailor the form to your specific needs.
-</thinking>
-
 # Self Funded Appointment Confirmation - Help Guide
 ## Purpose
 

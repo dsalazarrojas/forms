@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Static Question Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users on their experiences with your product or service. The goal is to understand user opinions on various aspects of your product/service, including what they like and dislike about it. This information will help you to improve and provide better services in the future.

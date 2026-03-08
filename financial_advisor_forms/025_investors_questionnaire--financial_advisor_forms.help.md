@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this form that explains its purpose, how to complete it, and what each field means, based on the provided YAML file. The form is called "Investors Questionnaire" and is used for collecting information from investors. The purpose of this form is to gather relevant details about investors' financial situations and goals, which will help in making informed decisions regarding investments. This form should not be duplicated or used for any other purpose. I will make sure to be concrete, concise, and practical in my explanation. If a field label is unclear, I'll explain it based on my best-effort understanding.</thinking>
-
 # Investors Questionnaire - Help Guide
 ## Purpose
 The "Investors Questionnaire" form is designed to gather information from investors about their financial situations and goals. This data will help in making informed decisions regarding investments.

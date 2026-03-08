@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Optimization Program Contact Form - Help Guide
 
 ## Purpose

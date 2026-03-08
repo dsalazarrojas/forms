@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from volunteers about their skills and availability for future volunteer opportunities. The form is designed to create a mapping of volunteer skills to roles, allowing the organization to better match volunteers with suitable positions. This will help streamline the volunteer management process, ensuring that volunteers are utilized efficiently and effectively. By completing this survey, volunteers can help the organization understand their skills and availability, making it easier for them to be matched with suitable opportunities.
-
-Before filling out this survey, please ensure you are not a repeat respondent. If you have previously submitted a volunteer survey, you may not need to complete this survey again. However, if you are unsure or need to update your information, you are welcome to complete this survey.
-</thinking>
-
 # Volunteer Skill Mapping Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information from volunteers about their skills and availability for future opportunities. By completing this survey, you will help us better match volunteers with suitable positions.

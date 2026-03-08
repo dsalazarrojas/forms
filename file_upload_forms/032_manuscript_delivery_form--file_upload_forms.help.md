@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for authors to submit their manuscripts to a publication or review process. It's essential to understand the form's purpose is for manuscript submission and not for other types of file uploads or data collection. This form is likely used internally within an organization or institution, and the fields and options provided suggest a workflow-oriented structure. This form does not seem to be used for any other purpose, and the fields are specifically designed for manuscript submission, such as author information, manuscript details, and status tracking.
-</thinking>
-
 # Manuscript Delivery Form - Help Guide
 ## Purpose
 This form is designed for authors to submit their manuscripts for review, publication, or other internal purposes.

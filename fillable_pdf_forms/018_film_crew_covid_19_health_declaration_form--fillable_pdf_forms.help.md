@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the health status of film crew members before joining the production team. It's crucial to have this form filled out to avoid any potential health risks associated with COVID-19. The form is non-redundant and should only be filled out once by each film crew member. It's essential to answer the questions accurately to ensure the safety and well-being of everyone in the production team. Completing this form will help us identify any potential health risks and take necessary precautions.
-</thinking>
-
 # Film Crew COVID 19 Health Declaration Form - Help Guide
 ## Purpose
 

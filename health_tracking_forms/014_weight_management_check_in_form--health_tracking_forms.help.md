@@ -1,11 +1,3 @@
-<thinking>
-The form's purpose is to collect user information for health tracking, specifically weight management. 
-This form likely serves as a template for users to input their progress and habits related to weight management. 
-The form may be used in a healthcare setting or as a personal wellness tracker. 
-The form should be used for users to provide accurate and consistent data. 
-The form fields should be used consistently and correctly to get the best results.
-</thinking>
-
 # Weight Management Check In Form - Help Guide
 ## Purpose
 This form is designed to help you track your progress and habits related to weight management. Please fill out the form with accurate and consistent information to get the best results.

@@ -1,8 +1,3 @@
-<thinking>
-We are trying to gauge the expectations of our users regarding the durability of nail polish. This form will help us understand how long our users wear their nail polish, what kind of polish colors they prefer, and their overall experience with the quality and durability of the polish. This will aid us in making data-driven decisions to improve our product offerings. Please ensure that you have not filled this survey before, as your feedback is valued but not repetitive. Your participation is greatly appreciated.
-
-</thinking>
-
 # Nail Polish Durability Expectation Survey - Help Guide
 ## Purpose
 This survey aims to collect your expectations and experiences regarding nail polish durability. Your feedback will help us improve our product offerings.

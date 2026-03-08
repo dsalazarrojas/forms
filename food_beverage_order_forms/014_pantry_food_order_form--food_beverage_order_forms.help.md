@@ -1,15 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Pantry Food Order Form", we need to consider the following:
-
-* The form is used for customers to place orders for food and beverages.
-* The form requires general information (name, contact information, and order information), which will be used to process the order.
-* The form also requires specific details about the order, such as order date, order time, and payment method.
-* Customers can select multiple food and beverage items to be included in their order.
-* They can also provide additional comments or notes about their order.
-* The form is used by customers, therefore, it's essential to make it easy to understand and use for them.
-
-</thinking>
-
 # Pantry Food Order Form - Help Guide
 ## Purpose
 This form is used for customers to place orders for food and beverages. It collects general information about the customer, order details, and payment method.

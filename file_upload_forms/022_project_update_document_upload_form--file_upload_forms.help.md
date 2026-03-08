@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Project Update Document Upload Form - Help Guide
 =====================================
 

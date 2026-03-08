@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for applicants to submit their caste category reservation certificate applications. The purpose of this form is to collect personal and caste category information from the applicant, as well as upload supporting documentation such as birth certificates, identity proofs, and address proofs. The form should only be filled out by individuals who are eligible for caste category reservation benefits.
-</thinking>
-
 # Caste Category Reservation Certificate Application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Motivational Speaker Feedback Form - Help Guide
 
 ## Purpose

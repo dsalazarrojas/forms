@@ -1,6 +1,3 @@
-<thinking>
-This form is used for conducting a textile quality inspection. The purpose of this form is to assess the quality of textiles provided by suppliers. This form is intended to be used by quality assurance teams to evaluate the characteristics of the textiles, identify potential issues, and document the findings. This form ensures that all necessary information is collected to make informed decisions about the quality of the textiles. The fields on this form are designed to gather specific details about the supplier, the textile, and the inspection process.</thinking>
-
 # Textile Quality Inspection Form - Help Guide
 ## Purpose
 This form is used to conduct a textile quality inspection to assess the quality of textiles provided by suppliers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to submit audio files associated with a podcast episode. The form is intended to collect metadata about the episode, including the episode title, tags, and a URL to the episode on a podcast platform. The form also allows users to upload an audio file and provide a description of the file. The purpose of this form is to collect data for podcasters or content creators to showcase their work and promote their episodes.
-</thinking>
-
 # podcast_audio_submission_upload_form - Help Guide
 ## Purpose
 This form is designed to help podcasters submit audio files and metadata about their episodes. It is intended to collect information about each episode, including the title, tags, and URL, as well as upload a corresponding audio file.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about research lab incidents, including the date and time of the incident, its location, nature, and description. This form is meant to be used by lab staff to document and report incidents in a standardized way.
-
-The form is divided into sections that guide the user through the collection of relevant information. The fields in this form are designed to capture specific details about the incident, such as the date and time it occurred, where it happened, what happened, and why.
-
-This form is intended for use by laboratory staff, and the information collected will be used for internal purposes. Please ensure that all fields are filled in accurately and completely to ensure the effectiveness of the incident report.
-
-</thinking>
-
 # research_lab_incident_form - Help Guide
 ## Purpose
 The research lab incident form is designed to collect standardized information about research lab incidents, which will be used for documentation and reporting purposes.

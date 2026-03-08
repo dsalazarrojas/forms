@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Daily Health Symptom Log" form. This form is designed to track a person's health status, medications, vital signs, and other relevant information on a daily basis. The form is likely intended for patients or individuals who need to monitor their health regularly, possibly for medical conditions such as diabetes, hypertension, or other chronic illnesses. To ensure the form meets the needs of its users, I will review each field to understand its purpose and provide clear explanations for each section.</thinking>
-
 # Daily Health Symptom Log - Help Guide
 ## Purpose
 The "Daily Health Symptom Log" form is a tool for monitoring and tracking your health status, medications, and other relevant information on a daily basis. This form helps you keep a record of your symptoms, health conditions, and any interactions with healthcare professionals.

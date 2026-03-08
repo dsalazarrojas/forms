@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organ Donation Registration Form - Help Guide
 ## Purpose
 This form is designed to collect demographic information from individuals who wish to register for organ donation. The form is intended to be a straightforward and efficient way to gather necessary contact and identification details.

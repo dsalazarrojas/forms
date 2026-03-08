@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Digital Art Print Order Form" used for ordering digital art prints. The form has multiple pages, each with fields for various details such as print order, file upload, and payment information. The form requires users to provide details like file type, price, payment amount, currency, and payment method. The form also includes fields for file size, resolution, and color mode. We need to make sure users understand what each field means and how to fill it out correctly.
-</thinking>
-
 # Digital Art Print Order Form - Help Guide
 ## Purpose
 This form is used to order a digital art print. Please fill out the form with the required information to ensure a smooth ordering process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Screening Absence Form - Help Guide
 ## Purpose
 The Health Screening Absence Form is designed to capture information about an individual's health screening absence, including their organization name, reason for absence, date of absence, and any additional absence details.

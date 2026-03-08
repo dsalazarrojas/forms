@@ -1,15 +1,3 @@
-<thinking>
-**Investment Proposal Submission Form Purpose and Relevance Check:**
-
-This form is intended to collect and store information about investment proposals submitted to the organization. The form gathers details about the proposal, such as the funding request, project description, location, and investment amount. It also tracks the submission date and review status of each proposal. 
-
-Before proceeding with the form, ensure that:
-
-* The investment proposal aligns with the organization's current funding priorities.
-* The proposal has not been previously submitted or is not under review.
-
-</thinking>
-
 # Investment Proposal Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and store information about investment proposals submitted to the organization for review and consideration.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: The purpose of this form is to allow users to upload various types of files related to design work. The form includes several fields that ask for different information related to the design, such as the upload of sketches, files, and collaboration requests. However, upon reviewing the YAML, it appears that all fields are optional, and the form does not have any required fields. This might be due to the fact that the form is designed for general information gathering rather than for a specific process with strict validation. To create a helpful guide, we will provide explanations for each field in a way that assumes that users are free to complete or leave any field blank if they don't have the information.
-</thinking>
-
 # Designer Sketch Upload Form - Help Guide
 
 ## Purpose

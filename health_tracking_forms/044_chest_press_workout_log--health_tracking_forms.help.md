@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to track an athlete's chest press workout log. It captures essential information about the athlete's performance, such as workout date, time, and location, as well as details about the exercise type, weight, and rep ranges. The form also includes fields for tracking form quality, energy levels, pain or discomfort experienced, and any notes about the workout. This information can be used by athletes to monitor their progress and coaches to provide guidance and support. 
-
-This form is meant for individual use by athletes to record their workouts, not for team or group use. If you're unsure about how to use this form, please contact your coach or training staff for guidance. 
-
-Also, please note that some fields may not be relevant to your specific needs or situation. However, filling out all required fields will ensure that you're getting the most out of this workout log. 
-
-Please fill out this form as accurately and thoroughly as possible, and do not hesitate to reach out if you have any questions or concerns.
-
-</thinking>
-
 # Chest Press Workout Log - Help Guide
 ## Purpose
 The Chest Press Workout Log is designed to track an athlete's chest press workout, including details such as exercise type, weight, and rep ranges. This form is meant for individual use by athletes to monitor their progress and improve their performance.

@@ -1,10 +1,3 @@
-<thinking>
-Before creating the user-facing help guide, I need to understand the context and purpose of this form. This "Song Licensing Submission Application" form appears to be designed for artists and managers to submit their songs to be licensed for use in some capacity. The form collects various pieces of information related to the song, the artist, the manager, and the contact details of all parties involved. 
-
-To confirm, I'll create the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Song Licensing Submission Application - Help Guide
 ## Purpose
 This form is intended for artists and their managers to submit songs for consideration for licensing. It collects necessary information about the song, artist, and contact details to facilitate the submission process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corsage Order Form - Help Guide
 ## Purpose
 The "Corsage Order Form" is a tool for florists to collect information from customers about their corsage orders. This form helps florists gather essential details such as customer name, order notes, and payment information to process orders efficiently.

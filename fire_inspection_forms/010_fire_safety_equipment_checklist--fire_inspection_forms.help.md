@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely used to assess the status of fire safety equipment in a facility or building, ensuring compliance with relevant fire safety regulations. This is a critical aspect of fire prevention and emergency preparedness. The form is designed to be completed by personnel responsible for maintaining fire safety standards, such as facilities managers or maintenance supervisors. It is essential to complete this form accurately to identify any necessary repairs, replacements, or upgrades to fire safety equipment.
-
-Before proceeding, please ensure that the form is not being completed for the same facility or location more than once. This form is not intended for general information gathering or casual use; it is a critical assessment tool for fire safety.
-
-</thinking>
-
 # Fire Safety Equipment Checklist - Help Guide
 ## Purpose
 The Fire Safety Equipment Checklist is a form used to assess the status of fire safety equipment in a facility or building. It ensures that all necessary equipment is properly installed, inspected, and maintained to prevent and respond to fires.

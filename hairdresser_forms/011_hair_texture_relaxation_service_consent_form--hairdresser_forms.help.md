@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for a hair texture relaxation service, which likely involves treating and modifying the chemical structure of hair to achieve a desired texture. The form aims to inform clients about potential health risks and obtain their consent for the service. The form is likely used in a salon or hairdresser setting.
-</thinking>
-
 # Hair Texture Relaxation Service Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and obtain consent from clients for a hair texture relaxation service. The service involves treating and modifying the chemical structure of hair, and this form helps to inform clients about potential health risks and obtain their consent for the procedure.

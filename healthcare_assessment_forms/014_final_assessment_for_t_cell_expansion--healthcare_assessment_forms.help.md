@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to record the results of a specific assessment related to T-cell expansion, a process in which T-cells (a type of immune cell) are counted and their viability (vitality) is evaluated to determine the effectiveness of a treatment or protocol. This form will help healthcare professionals record the necessary information in a structured and organized manner.
-The form is likely used in a clinical or research setting where the outcome of this assessment is crucial for treatment efficacy evaluation. The data collected will help identify the T-cell expansion count, viability percentage, and methods employed during the process.
-Before proceeding, confirm that:
-* The form is not a duplicate and a recent assessment has not already been completed.
-* The necessary information is relevant and accurate for the assessment.
-* All fields are filled out correctly to avoid any confusion or discrepancies.
-</thinking>
-
 # Final Assessment For T Cell Expansion - Help Guide
 ## Purpose
 The Final Assessment For T Cell Expansion form is designed to collect data on T-cell expansion, a critical process in healthcare and research settings. This form ensures that the assessment is comprehensive and accurate, helping healthcare professionals make informed decisions about patient care and treatment outcomes.

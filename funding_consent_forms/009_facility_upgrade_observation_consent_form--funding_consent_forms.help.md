@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from facility staff or stakeholders for facility upgrades or modifications. This form is used to document the observation of the upgrade, ensuring that all necessary parties are aware of and agree to the changes. It is crucial to have the consent form filled out for each facility upgrade, as it ensures that the upgrade is executed according to the facility's policies and procedures. This form should only be filled out once for each facility upgrade and should not be duplicated for future upgrades.
-</thinking>
-
 # Facility Upgrade Observation Consent Form - Help Guide
 ## Purpose
 The Facility Upgrade Observation Consent Form is used to obtain consent from facility staff or stakeholders for facility upgrades or modifications. This form ensures that all necessary parties are aware of and agree to the changes.

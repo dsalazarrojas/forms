@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the "library_fund_donation_form" form. The purpose of this form is to collect information about donations made to a library fund. The form is designed to gather details about the donor, their contact information, and the specifics of the donation, such as the amount, method, and recipient of the donation. The form is intended for internal use within the library or organization, ensuring that accurate and consistent data is collected for record-keeping and reporting purposes.
 
 # library_fund_donation_form - Help Guide

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the esports_replay_publication_consent_form form that explains its purpose, how to complete it, and what each field means to the end user. To start, let's review the form's input schema to understand its structure and requirements.
-
-The form has 14 fields across 4 pages, with each field having a label, type, and required/optional status. We'll need to break down the form into its components and provide clear explanations for each field to ensure end users can accurately complete it. We'll also need to cover best practices and considerations for users to be aware of when filling out the form.
-
-Upon review, we notice that the form is related to the publication of replay data in esports events. The form likely gathers information about the player's participation in these events, including their details, consent, and other relevant information. This form might be used by event organizers or administrators to verify participant information for publication purposes.
-
-</thinking>
-
 # esports_replay_publication_consent_form - Help Guide
 
 ## Purpose

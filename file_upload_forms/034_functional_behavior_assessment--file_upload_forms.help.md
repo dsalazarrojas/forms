@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an individual's behavior, goals, and other relevant details. It includes a mix of text, date, time, and email fields to gather comprehensive data. This form is intended for internal use, possibly for HR purposes or to track employee performance. It's essential that end-users understand the purpose and fields correctly to provide accurate and complete information.
-
-</thinking>
-
 # Functional Behavior Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's behavior, goals, and other relevant details.

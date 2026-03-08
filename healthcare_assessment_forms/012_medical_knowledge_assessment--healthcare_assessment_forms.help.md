@@ -1,13 +1,3 @@
-<thinking>...To create an effective user-facing help guide for the "Medical Knowledge Assessment" form, I'll consider the form's purpose, how to complete it, and a field-by-field explanation of each section. The form appears to be designed for healthcare professionals to provide their medical knowledge and experience information for assessment. The primary purpose of the form is to collect data on individual healthcare professionals' medical knowledge, specialties, and experiences. To ensure relevance, I'll assume this form is used for evaluation purposes in a healthcare setting.
-
-Before proceeding, I'll review the form structure and fields to ensure I provide clear and concise explanations for each field. The form is split into multiple pages with fields of various types, including text, number, select_one, and select_one_with_text options. The fields are: 
-
-* Page 1: name, age, medical_knowledge, specialty
-* Page 2: medical_school, medical_degree, hospital_department, medical_license
-* Page 3: medical_experience, medical_professional_registration, medical_specialty, medical_board, medical_license_status, medical_degree_level, medical_specialty_board, hospital, hospital_name, department, physician, physician_name, physician_experience, physician_license, physician_board, physician_registration
-
-</thinking>
-
 # Medical Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to provide their medical knowledge and experience information for assessment. The data collected will be used to evaluate individual healthcare professionals' expertise and knowledge.

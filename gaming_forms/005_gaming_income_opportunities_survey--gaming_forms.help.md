@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's income streams from various gaming-related activities. It's likely used for market research or analysis within the gaming industry. The form is divided into multiple sections, each focusing on a different aspect of gaming income streams, such as income sources, frequency of earning, and income amounts. This form is probably used by gaming companies, organizations, or researchers to collect data about gamer's income streams for various purposes. This guide will help users understand how to complete this form accurately and effectively.
-</thinking>
-
 # Gaming Income Opportunities Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your income streams from various gaming-related activities.

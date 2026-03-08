@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a Voice Of The Customer Survey, collecting feedback and data from customers regarding their experience with the company. The form is designed to be completed by customers, providing their contact information, feedback, and other relevant details.
-The form is likely to be used to improve customer satisfaction, identify areas of improvement, and build stronger relationships with customers.
-To avoid duplication, please ensure that the same customer does not complete the survey multiple times.
-</thinking>
-
 # Voice Of The Customer Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and data from customers regarding their experience with the company. It aims to improve customer satisfaction, identify areas of improvement, and build stronger relationships with customers.

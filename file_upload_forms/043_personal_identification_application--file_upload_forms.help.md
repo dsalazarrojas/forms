@@ -1,6 +1,3 @@
-<thinking>
-We should ensure that the form is used for its intended purpose and that the user doesn't upload unnecessary files. To achieve this, we need to clearly explain the form's purpose and each field's requirements.</thinking>
-
 # Personal Identification Application - Help Guide
 ## Purpose
 The Personal Identification Application form is designed to collect personal identification information, including first name, last name, date of birth, email, phone number, driver's license number, ID number, nationality, address, and upload various files as proof of identity. This form is used to verify the identity of an individual and should only be completed by the actual person being identified.

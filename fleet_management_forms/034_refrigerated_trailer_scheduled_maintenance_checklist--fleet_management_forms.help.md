@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form was created using an AI-powered form generator to help users document and schedule maintenance checks for refrigerated trailers. The purpose of this form is to ensure that trailer maintenance is done regularly to prevent breakdowns, extend the lifespan of the trailer, and reduce the risk of accidents or injuries.
 
 # Refrigerated Trailer Scheduled Maintenance Checklist - Help Guide

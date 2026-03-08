@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users on their current categorization of expenses and their thoughts on how to improve the category system. The purpose of this survey is to gather insights that will help us better understand how users are currently categorizing expenses and identify potential areas for improvement in the category system. By analyzing this feedback, we can make data-driven decisions to optimize the category system for better user experience.
-
-Before proceeding, please note that this is a one-time survey, and your responses will be kept confidential and anonymous. Your input is crucial in helping us shape the category system for more effective expense management.
-
-Please answer the questions honestly and to the best of your ability. If you're unsure or have no preference, feel free to skip any question that does not apply to you.
-
-This guide is designed to walk you through each question and provide you with a better understanding of what each question is asking and how it contributes to the overall goal of the survey.
-
-</thinking>
-
 # Expense Categorization Insight Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on your current categorization of expenses and to identify potential areas for improvement in the category system.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # strength_empire_consult_form - Help Guide
 
 ## Purpose

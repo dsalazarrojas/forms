@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fund Giving Application Form", I'll first provide an internal reasoning block to clarify the form's purpose and ensure that it's being used correctly. The form is intended for non-profit organizations to request funding from our organization. It's crucial that each non-profit organization fills out the form accurately and correctly, as it will help us evaluate their application efficiently and provide them with a fair opportunity to receive funding. 
-Before proceeding, I'll ensure that the form isn't being duplicated, and if it is, I'll provide guidance on how to correct the issue and resubmit.
-</thinking>
-
 # Fund Giving Application Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit their group chat logo. The internal purpose of this form is to collect contact information and any other relevant details from the user. Please note that the form is not intended to be duplicated. Each user can only submit one group chat logo once. 
-
-</thinking>
-
 # Group Chat Logo Submission - Help Guide
 ## Purpose
 The purpose of this form is to allow users to submit their group chat logo for collection and verification purposes. The user's group chat logo will be processed and reviewed for accuracy. Please follow the provided instructions to ensure a smooth and successful submission.

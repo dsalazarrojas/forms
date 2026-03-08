@@ -1,11 +1,3 @@
-<thinking>
-To confirm, this form is for documenting the storage of items in a pantry, and it's meant to be used by staff members who manage the storage and retrieval of items in the pantry. The form will help them to record and track the storage details of items, including storage location, date, type of item, quantity, notes, contact method, and other relevant information. This form will be used for internal purposes, and the data will not be publicly accessible. The main goal is to have a structured way to record and track the storage information, ensuring accuracy and consistency in the storage process.
-
-Before we begin, let's confirm that there are no existing forms with similar purpose and structure in our system to avoid duplication of effort.
-
-Now, let's focus on creating a user-facing help guide for the Pantry Storage Form.
-</thinking>
-
 # Pantry Storage Form - Help Guide
 ## Purpose
 The Pantry Storage Form is designed to record and track the storage details of items in the pantry. This form helps staff members to accurately document the storage location, date, type of item, and other relevant information.

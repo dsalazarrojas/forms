@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on the impact of reading on a person's emotions. The purpose is to gather insights into how reading affects people's emotional state, satisfaction, and motivations. This data will help us better understand the emotional effects of reading and improve our resources and services accordingly. Please ensure that you have permission to take this survey and that your responses are accurate and honest. This form will not store any personal identifiable information and all the answers will be kept anonymous.
-</thinking>
-
 # Impact Of Reading On Emotions Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your reading habits and the emotional impact of reading on you.

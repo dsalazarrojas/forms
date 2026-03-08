@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide customers through the process of submitting a frame order, providing a simple and straightforward way to collect relevant information. The form consists of four fields: Order Submission Form, Artwork Upload, Delivery or Pickup Preferences, and Manage Data Collection and Form Submission. It does not require any prior knowledge or experience with similar forms, making it accessible to a wide range of users.
-</thinking>
-
 # Frame Order Submission Form - Help Guide
 ## Purpose
 This form is intended for customers to submit their frame orders, providing the necessary information for the order to be processed and fulfilled.

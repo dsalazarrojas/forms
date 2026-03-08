@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Post-Promotion Feedback Survey form. This guide will explain the form's purpose, how to complete it, and what each field means, based on the provided YAML schema.
-
-To confirm, this form is designed to gather feedback from users after a promotion. The purpose of this form is to collect information about the user's experience, including any contact details and feedback they may have about the promotion. To ensure the form's integrity, it's essential to fill it out accurately and completely. 
-
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and its content is original, released under CC BY 4.0. If you're unsure about any field, please refer to this help guide for clarification.</thinking>
-
 # Post-Promotion Feedback Survey - Help Guide
 ## Purpose
 The Post-Promotion Feedback Survey is designed to gather information about your experience after a promotion. Your feedback will help us understand what we did well and what we can improve on for future promotions.

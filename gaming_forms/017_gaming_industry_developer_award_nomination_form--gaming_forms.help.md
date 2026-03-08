@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gaming Industry Developer Award Nomination Form - Help Guide
 
 ## Purpose

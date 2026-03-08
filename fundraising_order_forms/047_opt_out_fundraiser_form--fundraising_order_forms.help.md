@@ -1,11 +1,3 @@
-<thinking>
-
-The "Opt Out Fundraiser Form" is used to collect information from individuals who wish to opt out of a fundraiser. This form is designed to gather contact information and details about the donor's preferences for donating. By using this form, donors can easily and quickly provide their opt-out information without having to contact the organization directly.
-
-This form appears to be a one-time use form and does not seem to be part of a larger process that would trigger non-duplication checks.
-
-</thinking>
-
 # Opt Out Fundraiser Form - Help Guide
 ## Purpose
 The Opt Out Fundraiser Form is used to collect information from individuals who wish to opt out of a fundraiser. This form gathers contact information and details about the donor's preferences for donating.

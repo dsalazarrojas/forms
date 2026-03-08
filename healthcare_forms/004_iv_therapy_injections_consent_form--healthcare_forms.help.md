@@ -1,19 +1,3 @@
-<thinking>
-
-This form is used for recording a patient's consent for IV therapy injections. It's crucial to obtain the patient's understanding and authorization for these injections, ensuring they're aware of the potential benefits and risks involved. This form helps to:
-
-- Verify patient consent
-- Record the medical condition being treated
-- Record the understanding of the therapy
-- Record details about the injection
-- Verify patient authorization for the injection
-- Record the site of the injection
-- Record the date and time of the injection
-
-Please note that some fields are optional, but all required fields should be filled in for accurate and complete documentation.
-
-</thinking>
-
 # IV Therapy Injections Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain patient consent and authorization for IV therapy injections, ensuring the patient is aware of the potential benefits and risks involved in the treatment.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help document readers and fillers to provide information about files that need to be read or filled out. The form is divided into several pages with different fields, each corresponding to a specific page with a particular purpose. The form is meant to be completed by users who need to provide information about files, including whether they need to be read or filled out, and what kind of file it is (e.g. "File Upload Form 1", "File Upload Form 2", etc.). This form is likely used in a business or administrative setting where files need to be reviewed or completed by others.
-
-Before starting to complete this form, please make sure you are only selecting "Yes" or "No" for fields that apply to you. If you are unsure what a field means, please ask your supervisor or administrator for clarification.
-
-This form is designed to be completed by one person at a time. If you are unsure what to select or need help, please ask your supervisor or administrator for assistance.
-
-This form is not intended to be completed in a hurry, so take your time and carefully review each field before proceeding.
-
-Please note that you can only complete this form on a computer or tablet, as the form requires typing and selecting from dropdown menus.
-
-Before filling out this form, please make sure you are using the correct equipment (e.g. computer or tablet) and in a comfortable setting where you can focus.
-
-</thinking>
-
 # Document Reader And Form Filler - Help Guide
 ## Purpose
 The purpose of this form is to help document readers and fillers provide information about files that need to be read or filled out.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about water heaters, specifically for auditing and maintenance purposes. The form is intended for use by technicians or inspectors to record details about a water heater's condition, maintenance history, and any issues found during an inspection. The form should not be used for other purposes, such as sales or marketing activities.
-The form is designed to be completed by a technician or inspector, but it may also be used by a customer or a property manager to provide additional information or comments.
-Please ensure that the form is completed accurately and thoroughly, as the information collected will be used to inform decision-making and planning for future maintenance and repairs.
-</thinking>
-
 # Water Heater Audit Form - Help Guide
 ## Purpose
 This form is used to collect information about water heaters, including model, serial number, installation date, and maintenance history, as well as issues found during an inspection and recommendations for repairs or replacement.

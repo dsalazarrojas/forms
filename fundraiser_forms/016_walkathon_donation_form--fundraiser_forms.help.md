@@ -1,9 +1,3 @@
-<thinking>
-The Walkathon Donation Form is a key component of the Walkathon fundraising campaign. This form allows participants to submit their donations and provides options for donors to specify their payment details. Before proceeding, check that:
-* You are a registered participant or donator to the Walkathon campaign.
-* You haven't previously submitted a Walkathon donation for this event.
-</thinking>
-
 # Walkathon Donation Form - Help Guide
 ## Purpose
 This form is used for making donations to the Walkathon campaign. It is intended for both participants and donors. 

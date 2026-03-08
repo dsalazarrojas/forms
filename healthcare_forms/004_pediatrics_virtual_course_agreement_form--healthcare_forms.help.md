@@ -1,18 +1,3 @@
-<thinking>
-The Pediatrics Virtual Course Agreement Form is a form designed to gather necessary information from parents or guardians of children who are enrolled in a virtual pediatric course. This form aims to ensure that the child's medical information and contact details are accurately recorded and communicated to the medical facility. It is essential that this form is completed accurately and honestly to ensure the best possible care for the child.
-
-To prevent duplication and ensure relevance, the form should only be filled out by the parent or guardian of the child enrolled in the course. Please ensure that you are authorized to fill out this form before proceeding.
-
-The Pediatrics Virtual Course Agreement Form is a comprehensive document that collects the following information:
-
-* Personal details of the child and their parent or guardian
-* Medical history and conditions
-* Contact information for emergency contact and parent or guardian
-* Permission for emergency contact and parental consent
-* Medical procedure and facility information
-
-</thinking>
-
 # Pediatrics Virtual Course Agreement Form - Help Guide
 ## Purpose
 The Pediatrics Virtual Course Agreement Form is a crucial document that ensures the accuracy and completeness of the child's medical information. This form is used to collect personal details, medical history, and contact information from the parent or guardian of the child.

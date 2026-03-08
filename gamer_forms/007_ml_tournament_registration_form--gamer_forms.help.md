@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is for participants to register their teams for a Machine Learning (ML) tournament. The form gathers information about the team, its participants, and the contact details. This form is designed to be a starting point for the registration process, and the information collected here will be used to create a unique entry for each team in the tournament.
-This form has been generated based on publicly available metadata from online surveys and discussions about machine learning tournaments, and it is intended to provide a general structure for teams to register for such an event.
-It is essential to fill out this form accurately and thoroughly to ensure that your team's entry is complete and error-free. Please note that this form is not affiliated with any specific platform or company and is an original adaptation of a hypothetical form.
-Before starting the registration process, please review the following help guide to ensure you understand what is required and how to fill out each field correctly.
-</thinking>
-
 # ML Tournament Registration Form - Help Guide
 ## Purpose
 This form is designed for Machine Learning (ML) tournament participants to register their teams. It collects essential information about the team and its participants.

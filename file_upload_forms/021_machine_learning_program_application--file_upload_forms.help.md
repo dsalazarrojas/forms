@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for Machine Learning Program Application. The purpose of this form is to gather relevant details about the applicant, including their background, experience, and skills. The form is intended for internal use and will not be shared externally.
-
-To ensure that the form is filled out correctly and consistently, please review the following guide:
-
-1. The form is divided into several sections, each with its own set of questions or fields. Please complete each section in order, from top to bottom.
-2. The form requires a valid file upload as part of the submission.
-3. Some fields have options that you must select from, while others are free text fields.
-
-Before filling out this form, make sure that you have all the required information ready.
-
-</thinking>
-
 # machine_learning_program_application - Help Guide
 ## Purpose
 The Machine Learning Program Application form is designed to collect necessary information from applicants to support internal processes.

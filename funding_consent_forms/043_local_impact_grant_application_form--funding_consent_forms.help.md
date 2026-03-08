@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive guide for the "local impact grant application form", let's first break down its purpose and requirements. This form is designed for organizations seeking funding for local impact grants. The form's sections and fields are intended to collect essential information from applicants, including grant category, description, and details of the project, as well as contact information and project specifics. 
-
-The form is not a mandatory requirement, as indicated by the "required" property of each field being set to "false". However, filling out the form accurately and thoroughly will increase the chances of a successful grant application. To avoid duplication or incomplete submissions, it's essential for applicants to understand each field's purpose and relevance to the grant application process.
-
-</thinking>
-
 # local_impact_grant_application_form - Help Guide
 ## Purpose
 The "local impact grant application form" is designed for organizations to apply for local impact grants. By filling out this form, applicants can provide detailed information about their project and increase their chances of securing funding.

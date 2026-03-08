@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect registration information for a giveaway event. This form is intended for registrants who are interested in participating in the giveaway. The goal of this form is to gather essential details from the registrants, including their name, contact information, and event specifics. Please ensure that you have not already registered for this giveaway, as each registrant should only submit one registration form per event. If you have any doubts or concerns, you can contact our support team for clarification.
-</thinking>
-
 # Giveaway Registration Form - Help Guide
 ## Purpose
 This form is used to register for a giveaway event. It helps us understand who is interested in participating and what they are interested in.

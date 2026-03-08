@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Attendee Check In Form - Help Guide
 
 ## Purpose

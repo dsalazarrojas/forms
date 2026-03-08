@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physiotherapy Referral Form - Help Guide
 ## Purpose
 This form is used to collect information for a physiotherapy referral, including general information, patient details, referral details, and communication with physiotherapists and doctors. It is crucial to complete this form accurately to ensure that the patient receives the necessary care and treatment.

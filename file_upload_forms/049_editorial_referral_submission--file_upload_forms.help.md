@@ -1,7 +1,3 @@
-<thinking>
-The form "editorial_referral_submission" is designed to collect submission information and file uploads related to editorial referrals. The purpose of this form is to streamline the process of receiving and processing editorial referral submissions, ensuring that the necessary data is collected efficiently and accurately. Before starting to fill out the form, please ensure that this is the correct form for your submission. To prevent duplication, check the "Submission Information" field for any existing submissions related to your work.
-</thinking>
-
 # editorial_referral_submission - Help Guide
 
 ## Purpose

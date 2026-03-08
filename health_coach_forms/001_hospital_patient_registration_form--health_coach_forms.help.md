@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to gather information from patients for registration purposes at a hospital. The form collects general information, emergency contact details, insurance information, hospital information, doctor information, visit details, note-taking, and medical history. This form is likely used by hospitals for administrative purposes such as registration, insurance billing, and patient tracking. The form is likely not intended for use as a medical diagnostic tool or for treatment decisions. 
-The form is designed to be completed by hospital staff members such as nurses or doctors for registration purposes. 
-
-This help guide assumes the form is used in a hospital setting and that the user is familiar with the terminology and concepts used. 
-
-Please note that some fields may require additional explanation or clarification, but will be provided here in the context of the form purpose and usage.
-</thinking>
-
 # Hospital Patient Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for registration purposes at a hospital. 

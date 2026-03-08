@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Environmental Fieldwork Documentation Release Form - Help Guide
 
 ## Purpose

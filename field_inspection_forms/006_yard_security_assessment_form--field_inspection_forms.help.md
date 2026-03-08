@@ -1,14 +1,3 @@
-<thinking>
-We need to verify that the yard_security_assessment_form is indeed used for its intended purpose and not a duplicate of another form. Let's review the form properties to ensure it's a one-of-a-kind form.
-
-The form is titled "Yard Security Assessment" and is likely used to assess the security level of a yard. It's a combination of single-answer and multiple-answer questions that help to understand the overall security risk level and identify areas for improvement. The form seems to be designed for a security inspection or assessment, possibly in a commercial or industrial setting. The presence of a "Review Date" field suggests that this form is meant to be completed by a reviewer, possibly an expert in security or safety.
-
-After reviewing the form properties, it appears to be a comprehensive assessment tool that covers various aspects of yard security. The fields cover risk level, risk factors, control measures, and a review process. This form likely serves as a standardization of the assessment process, ensuring consistency and accuracy in evaluations.
-
-Let's proceed with the user-facing help guide, assuming that the form's purpose and structure have been verified to be relevant and unique.
-
-</thinking>
-
 # Yard Security Assessment Form - Help Guide
 ## Purpose
 The Yard Security Assessment Form is a standardized tool used to evaluate the security level of a yard in a commercial or industrial setting. This form helps identify areas of improvement and ensures consistency in security assessments.

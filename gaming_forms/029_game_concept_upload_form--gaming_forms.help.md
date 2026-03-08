@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for uploading game concepts, including game titles, descriptions, types, tags, developers, publishers, development statuses, reviewer ratings, notes, names, emails, phones, and other relevant details. 
-This form is likely used for internal or external review processes in the gaming industry. 
-There are multiple fields, which may seem redundant or confusing, but each one serves a specific purpose. 
-The form appears to be designed for both game developers and reviewers to provide their input and feedback on game concepts. 
-</thinking>
-
 # Game Concept Upload Form - Help Guide
 
 ## Purpose

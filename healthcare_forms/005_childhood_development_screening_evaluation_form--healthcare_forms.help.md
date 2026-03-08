@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for healthcare professionals to evaluate a child's development skills, specifically in the areas of gross motor, fine motor, communication and language, social-emotional development, and overall health. The form asks about a child's ability to walk independently, use utensils, communicate verbally, show affection, play with others, and other essential skills. 
-
-The form's sections focus on the child's physical development, language and communication skills, and social behavior, ensuring that the child is meeting the necessary milestones for their age. 
-
-This form does not appear to be a duplicate of any other forms, and its purpose is not solely for administrative purposes. This form's primary use is to assess a child's development status.
-
-</thinking>
-
 # Childhood Development Screening Evaluation Form - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to evaluate a child's development skills, specifically in the areas of gross motor, fine motor, communication and language, social-emotional development, and overall health.

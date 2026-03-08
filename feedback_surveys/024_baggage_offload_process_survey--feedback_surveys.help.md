@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our baggage offload process is efficient, safe, and effective. To achieve this, we require feedback from the people who participate in the offloading process. The questions in this survey are designed to gather insights about the process and identify areas for improvement. Please be honest in your answers, and let us know if you've had any safety incidents or issues with equipment. Your input is valuable, and we will use it to optimize the process for better results.
-</thinking>
-
 # Baggage Offload Process Survey - Help Guide
 
 ## Purpose

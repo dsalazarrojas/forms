@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bacon Preference Survey - Help Guide
 ## Purpose
 The Bacon Preference Survey is designed to understand your preferences and habits related to bacon consumption. This survey aims to gather information about your age group, consumption habits, preferred cooking methods, bacon types, and dietary restrictions.

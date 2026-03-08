@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-This form is used for gathering feedback on the Denial Process, specifically on what was the reason for denial and how the Denial Process itself was experienced. This form should only be used by customers who have been denied service due to a specific reason and are looking to provide feedback on the Denial Process.
+# This form is used for gathering feedback on the Denial Process, specifically on what was the reason for denial and how the Denial Process itself was experienced. This form should only be used by customers who have been denied service due to a specific reason and are looking to provide feedback on the Denial Process.
 
 To avoid duplicate submissions, please check if you have already provided feedback on this form previously.
 

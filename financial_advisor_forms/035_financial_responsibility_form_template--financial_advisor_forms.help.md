@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my task is to create a user-facing help guide for the "Financial Responsibility Form Template" that explains its purpose, how to complete it, and what each field means. This form appears to be designed to collect information related to payment terms and conditions, financial responsibility, and other financial-related details. The form has 29 fields, which seems excessive, but I'll provide clear explanations for each one. I'll make sure to be concise and practical in my writing.</thinking>
-
 # Financial Responsibility Form Template - Help Guide
 ## Purpose
 The Financial Responsibility Form Template is designed to gather information about payment terms, payment schedules, and other financial-related details. This form will help users provide necessary information for financial calculations and reporting.

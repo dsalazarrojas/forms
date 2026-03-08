@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Food Festival Attendance Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is used to track the motivation score of individuals, which is a subjective measure of their motivation to make positive changes in their behavior related to nutrition. This form is designed to be completed by individuals who are participating in a program or intervention aimed at promoting healthy eating habits. The form will help assess the individual's motivation level at different stages of the program, providing valuable insights for the intervention team to tailor their support and guidance.</thinking>
-
 # nutrition_behavior_change_motivation_survey - Help Guide
 ## Purpose
 The **nutrition_behavior_change_motivation_survey** form is used to track the motivation score of individuals participating in a program or intervention aimed at promoting healthy eating habits.

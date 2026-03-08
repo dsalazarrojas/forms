@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # manual-dexterity-assessment - Help Guide
 
 ## Purpose

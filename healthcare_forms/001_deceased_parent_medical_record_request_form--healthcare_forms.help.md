@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for requesting medical records of deceased parents from a healthcare facility. The form is used by authorized individuals to request access to medical records for the purpose of estate management, insurance claims, or other legal matters. To ensure accurate and valid requests, please ensure that you are authorized to access medical records before completing this form. Additionally, please check the "Submitted By" field to confirm that you are submitting on behalf of the correct individual or entity. This form will help the healthcare facility to efficiently process your request and ensure the necessary information is obtained for your case.
-</thinking>
-
 # Deceased Parent Medical Record Request Form - Help Guide
 ## Purpose
 The Deceased Parent Medical Record Request Form is a document used to request access to the medical records of a deceased parent. This form is designed to collect necessary information for estate management, insurance claims, or other legal matters related to the deceased individual.

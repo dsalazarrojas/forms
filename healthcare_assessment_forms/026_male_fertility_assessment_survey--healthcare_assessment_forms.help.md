@@ -1,8 +1,4 @@
 >
-<thinking>
-As a form designer and technical writer, I will create a comprehensive help guide for the "male_fertility_assessment_survey" form, following the provided YAML fields. This guide will be structured as per the instructions, making it easy for end-users to understand the purpose and usage of the form.
-</thinking>
-
 # male_fertility_assessment_survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose and requirements of this form. This Digital Consulting Performance Survey is designed to gather feedback on our digital consulting services. It's essential that the user completes this form accurately to provide us with valuable insights. Before filling out this form, please note that it's not a mandatory survey, and users can skip it if they don't have any feedback or comments. However, your input will help us improve our services, so we encourage you to participate.
-
-</thinking>
-
 # Digital Consulting Performance Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on our digital consulting services. Your input will help us improve our services.

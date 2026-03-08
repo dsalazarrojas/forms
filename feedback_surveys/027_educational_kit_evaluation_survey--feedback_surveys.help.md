@@ -1,14 +1,3 @@
-<thinking>
-## Educational Kit Evaluation Survey
-
-The purpose of this survey is to collect feedback and evaluation on the Educational Kit, used to assess the effectiveness and usability of the kit in meeting its intended purpose.
-
-Before proceeding, please ensure that you have used the Educational Kit and are familiar with its features and content. This survey is designed to gather honest and constructive feedback, which will help us improve the kit and provide better services in the future.
-
-Please note that your responses will be kept confidential and will not be used for any purpose other than improving the Educational Kit and its associated services.
-
-</thinking>
-
 # Educational Kit Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback and evaluation on the Educational Kit, used to assess the effectiveness and usability of the kit in meeting its intended purpose.

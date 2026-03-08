@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid users in tracking their daily habits, including food intake, water consumption, sleep patterns, exercise, and any medical conditions or medications they may be taking. It will help users monitor and maintain a healthy lifestyle by providing them with a simple and accessible platform to record their daily activities. It's crucial to fill out this form accurately, as it will help users identify patterns and areas for improvement in their nutrition and overall well-being. Please fill out this form with care and honesty, and review your submissions before submitting.
-</thinking>
-
 # Nutrition Diary Form - Help Guide
 ## Purpose
 The Nutrition Diary Form is a personal health tracker designed to help users monitor and maintain a balanced lifestyle. By recording daily habits, food intake, and other relevant information, users can gain insights into their health patterns and make informed decisions for improvement.

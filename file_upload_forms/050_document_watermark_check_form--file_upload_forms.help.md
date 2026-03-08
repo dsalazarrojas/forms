@@ -1,11 +1,3 @@
-<thinking>
-
-The Document Watermark Check Form is a form used to verify the integrity and authenticity of a document. It's essential to ensure that the document's details match the uploaded file. 
-
-**Internal note: This form is used to check for duplication before proceeding with further actions.**
-
-</thinking>
-
 # Document Watermark Check Form - Help Guide
 ## Purpose
 The Document Watermark Check Form is used to verify the integrity and authenticity of a document by checking its details against the uploaded file.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about smoke alarms in residential buildings. The purpose of this form is to gather necessary details from the owner of the building to facilitate the installation and maintenance of smoke alarm systems. It is not intended to be used for non-residential applications or for collecting information that is not directly related to smoke alarm systems. 
-
-</thinking>
-
 # Smoke Alarm Authorization Form - Help Guide
 ## Purpose
 The Smoke Alarm Authorization Form is used to collect information about smoke alarms in residential buildings. This form is required to be completed by the owner or representative of the building to ensure accurate and safe installation of the smoke alarm system.

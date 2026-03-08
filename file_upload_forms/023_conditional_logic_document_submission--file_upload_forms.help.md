@@ -1,11 +1,3 @@
-<thinking> 
-  This help guide is intended to assist users in understanding the purpose and usage of the "Conditional Logic Document Submission" form. 
-  The form's primary purpose is to gather information and upload supporting documents from users while taking into account their specific requirements and preferences. 
-  The form is designed to guide users through a series of steps to ensure that they provide the necessary information and documents for the intended purpose. 
-  Before proceeding, it's crucial to review the submission guidelines and ensure that the uploaded files and information comply with the expected standards. 
-  It's also essential to be aware that submitting unnecessary or duplicate requests will not affect the form's processing. 
-</thinking>
-
 # Conditional Logic Document Submission - Help Guide
 ## Purpose
 The "Conditional Logic Document Submission" form is designed to gather and manage document submissions while considering individual requirements and circumstances. It's intended to guide users through a structured submission process, ensuring that all necessary information and files are provided.

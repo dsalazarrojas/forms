@@ -1,10 +1,3 @@
-<thinking>
-This is a form to request the download of a JPG file. It's likely used for users to provide details about the JPG file they want to download, such as the purpose and intended use of the file, and their contact information. The form may be used by various departments or teams within an organization to facilitate the download process.
-
-To avoid duplication, it's essential to review the form carefully before submitting it. Ensure that the information provided is accurate and complete, as it will be used to facilitate the file download process.
-
-</thinking>
-
 # JPG File Download Request Form - Help Guide
 ## Purpose
 The JPG File Download Request Form is a form used to request the download of a JPG file. It collects information about the file's purpose, intended use, and contact details of the requestor.

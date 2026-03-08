@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed for students who are applying to graduate from an educational institution. The form is meant to collect information about the student, including their personal details and academic achievements. To ensure accurate and relevant information is collected, please review the form carefully before submitting. 
-  To avoid duplication of effort, please ensure that you are not filling out this form if you have already submitted a graduation application for the same or related purpose.
-</thinking>
-
 # Graduation Application Form - Help Guide
 ## Purpose
 This form is used to collect information from students who are applying to graduate from an educational institution.

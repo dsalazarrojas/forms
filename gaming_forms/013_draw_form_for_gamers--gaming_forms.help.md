@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from gamers about their experiences and preferences. The form is used to gather data for internal analysis and reporting purposes. Please note that this form is intended for gamers and not for general audience. Ensure that you complete the form honestly and accurately, as the information collected will be used to improve gaming-related services and features.</thinking>
-
 # Draw Form For Gamers - Help Guide
 ## Purpose
 This form is designed to collect information from gamers about their experiences and preferences.

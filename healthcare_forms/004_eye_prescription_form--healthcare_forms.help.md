@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Eye Prescription Form" that explains its purpose, how to complete it, and each field in a clear and concise way.</thinking>
-
 # Eye Prescription Form - Help Guide
 ## Purpose
 The Eye Prescription Form is designed to collect essential information from patients regarding their eye condition, prescription details, and follow-up appointments. This form helps healthcare professionals gather the necessary data to provide accurate and timely care.

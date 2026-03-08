@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for patients who are scheduled for testing. This information will be used for the preparation and execution of the testing procedure. 
-</thinking>
-
 # Testing Appointment Form - Help Guide
 ## Purpose
 The Testing Appointment Form is used to collect information from patients who are scheduled for testing. This form will be used to prepare for and execute the testing procedure.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about recent contacts made by a financial advisor or representative. The purpose of this form is to track and document the methods and dates of contact with clients or prospects. This form is intended for internal use within an organization and should only be filled out by authorized personnel. 
-It is assumed that the form will be filled out for each contact made, and that the same form will be used consistently across all contacts. This form does not aim to be comprehensive or exhaustive, but rather a brief and concise record of recent interactions.
-This form will be used to identify and analyze trends, patterns, and areas of improvement for future contact efforts. It will help in making data-driven decisions to optimize communication strategies.
-Please note that this form is only for internal use and should not be shared or filled out by external parties without prior authorization.
-</thinking>
-
 # recently_contacted_list - Help Guide
 ## Purpose
 The "recently_contacted_list" form is designed to record information about recent contacts made with clients or prospects.

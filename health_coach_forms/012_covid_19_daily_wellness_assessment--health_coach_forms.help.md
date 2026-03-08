@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Daily Wellness Assessment - Help Guide
 
 ## Purpose

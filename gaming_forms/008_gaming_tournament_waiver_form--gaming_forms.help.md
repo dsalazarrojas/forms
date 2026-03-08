@@ -1,7 +1,3 @@
-<thinking>
-This form is used for players to provide necessary information and consent for participating in a gaming tournament. It is meant to be filled out by event organizers to collect data from participants, and by participants to provide their details for the event.
-</thinking>
-
 # Gaming Tournament Waiver Form - Help Guide
 ## Purpose
 This form is used for participants to provide their information and consent for participating in a gaming tournament. It is meant to be filled out by participants to collect their details for the event.

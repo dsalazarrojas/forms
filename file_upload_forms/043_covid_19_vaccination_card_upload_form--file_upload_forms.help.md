@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccination Card Upload Form - Help Guide
 ## Purpose
 This form is designed to collect accurate and reliable information about your COVID-19 vaccination card. By submitting this form, you will be uploading a photo of the front and back of your vaccination card, which will be reviewed for authenticity and accuracy. The information collected will be used to verify your vaccination status and ensure that your records are up-to-date.

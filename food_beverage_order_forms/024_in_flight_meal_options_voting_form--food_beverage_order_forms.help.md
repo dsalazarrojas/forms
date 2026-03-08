@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This in-flight meal options voting form aims to collect information about passengers' preferences and dietary requirements for in-flight meals. The form is designed to be completed by each passenger, and it will help the flight crew understand their individual needs to provide personalized meal service.
-The form has a series of fields that require the passenger to input their details such as name, meal preferences, dietary restrictions, and special requests. The fields are designed to be completed on a per-page basis, allowing the passenger to focus on one section at a time.
-The form will be used in conjunction with other data sources, including passenger manifests and flight schedules, to determine the best meal options for each passenger. The goal is to provide a seamless and enjoyable dining experience for all passengers.
-</thinking>
-
 # in_flight_meal_options_voting_form - Help Guide
 ## Purpose
 This form is designed to collect information about your in-flight meal preferences and dietary requirements. It will help the flight crew to provide you with a personalized meal service.

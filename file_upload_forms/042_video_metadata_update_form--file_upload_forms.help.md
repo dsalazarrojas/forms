@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to update metadata for a video. The purpose of this form is to allow users to update information associated with a video, such as its title, description, tags, and upload details. The form is likely used by administrators or content managers to manage and maintain video metadata in a database or content management system.
-
-To ensure accuracy, the form should be used to update metadata for a specific video ID. If a user attempts to update metadata for a non-existent or invalid video ID, the system should prevent them from doing so. The form should also prevent duplicate updates for the same video ID, to maintain data consistency and prevent overwriting previous changes.
-
-</thinking>
-
 # Video Metadata Update Form - Help Guide
 ## Purpose
 The Video Metadata Update Form is used to update information associated with a video, such as its title, description, tags, and upload details.

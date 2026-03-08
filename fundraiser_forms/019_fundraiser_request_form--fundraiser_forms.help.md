@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Request Form - Help Guide
 ## Purpose
 The Fundraiser Request Form is used to determine if a project requires a fundraiser event. This form helps the team assess whether a project needs to be funded and gather information to make an informed decision.

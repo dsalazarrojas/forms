@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Service Recovery Leave Of Absence Form - Help Guide
 ## Purpose
 This form is for requesting leave of absence for firefighters, which can be due to various reasons such as bereavement, court, doctor, family, or jury commitments. It is essential to complete this form accurately to ensure the relevant department is informed and can process your leave request efficiently.

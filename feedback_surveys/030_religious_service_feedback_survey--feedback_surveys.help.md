@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback survey designed to gather information about the quality of the worship service provided. The survey is intended to help the religious service team understand what aspects of the service need improvement and what aspects are well-received. This form is not for general feedback, but rather for specific, quantifiable feedback on the service provided. Please ensure that you have attended the worship service and are providing feedback on the service you attended. If you have already submitted feedback on this service, please do not submit again.
-</thinking>
-
 # Religious Service Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the worship service provided. Please take a few minutes to complete this survey to help us improve our service.

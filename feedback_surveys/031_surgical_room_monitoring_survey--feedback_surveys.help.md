@@ -1,9 +1,3 @@
-<thinking>
-
-The Surgical Room Monitoring Survey form is designed to collect feedback from healthcare professionals and patients about the quality of care and services provided in surgical rooms. The form is intended to be used by medical staff and patients to provide their opinions and ratings on the performance of surgical teams, including ratings on staff performance, communication, and overall care quality. The information collected will help the hospital administration and management to improve the quality of care and services provided in surgical rooms.
-
-</thinking>
-
 # Surgical Room Monitoring Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from medical staff and patients about the quality of care and services provided in surgical rooms.

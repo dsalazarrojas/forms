@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pilates Informed Consent Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from nonprofit volunteers about their resumes, skills, and experience. The goal is to gather data that can be used by the nonprofit organization to evaluate volunteer applications and match volunteers with suitable positions. The form is meant to be completed by current or prospective volunteers who want to showcase their qualifications, skills, and experience for potential job opportunities within the organization. 
-
-Please ensure that you have the necessary permissions and rights to upload any files or documents, and that you have reviewed and understood the organization's data collection and usage policies before proceeding.
-
-</thinking>
-
 # Nonprofit Volunteer Resume Upload - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Nonprofit Volunteer Resume Upload form. 

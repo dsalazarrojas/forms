@@ -1,16 +1,3 @@
-<thinking>
-This form is used to track services performed on a teleopto device. Teleopto devices are used to track the health of patients. This form is intended to be used by healthcare professionals to record and manage the services provided to patients. The form should only be completed by authorized personnel, and the information entered should be accurate and up-to-date.
-
-To ensure the data entered in this form is consistent and reliable, it is recommended to:
-
-*   Only complete this form for the patient you are authorized to treat.
-*   Enter accurate and up-to-date information for each field.
-*   Review and update the form regularly to reflect any changes in the patient's condition or services provided.
-
-If you are unsure about how to complete this form or have any questions, please reach out to your supervisor or HR department for guidance.
-
-</thinking>
-
 # Teleopto Services Form - Help Guide
 ## Purpose
 This form is used to track services performed on a teleopto device.

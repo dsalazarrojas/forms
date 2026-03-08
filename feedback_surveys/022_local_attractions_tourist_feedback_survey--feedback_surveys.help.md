@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from tourists visiting local attractions. The form is divided into multiple pages, and each page contains fields that require the visitor to share their experiences and opinions about the attractions. The form is likely used to gather data on the quality of service, facilities, and overall experience provided by each attraction. The form's purpose is to help management and staff of the attraction identify areas of improvement and make informed decisions on how to enhance the visitor experience. It is essential to complete the form carefully and accurately to ensure that the data collected is useful for future improvements.
-</thinking>
-
 # Local Attractions Tourist Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect your thoughts and opinions about your experience at local attractions. The information you provide will help us understand what you enjoyed or didn't enjoy about your visit and will aid us in making improvements for future visitors.

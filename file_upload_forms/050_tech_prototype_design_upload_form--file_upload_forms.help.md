@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information and files from users related to tech prototype design. This form was generated using AI and does not rely on any proprietary data or content from existing form platforms. It's designed to be easily adaptable and reusable, and you're free to use, modify, or even sell it, just giving credit to the original creators. If you have any questions or need further clarification, feel free to reach out to form@gic.mx.
-
-</thinking>
-
 # Tech Prototype Design Upload Form - Help Guide
 ## Purpose
 This form is designed to collect information and files from users related to tech prototype design.

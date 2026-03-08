@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for submitting an application with a link to the App Store or Google Play Store, and optionally with screenshots, promotional images, and other media. The purpose of this form is to collect information about the app, including its name, category, description, version, release date, and developer's contact information. It also asks for the submitter's contact information, such as their name, email, and phone number. The form requires the submitter to agree to the submission terms. 
-
-This form is intended to be used by app developers and publishers to submit their apps for review and publication. It is not intended for general public use. 
-
-Before filling out this form, please check that you have not already submitted the app. Duplicate submissions will not be accepted and may be deleted without warning.
-
-</thinking>
-
 # App Link And Photo Submission Form - Help Guide
 ## Purpose
 This form is for app developers and publishers to submit their app for review and publication.

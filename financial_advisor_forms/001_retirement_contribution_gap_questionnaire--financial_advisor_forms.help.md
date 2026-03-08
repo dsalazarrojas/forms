@@ -1,13 +1,3 @@
-<thinking>
-## Internal Reasoning:
-
-The purpose of this form, "retirement_contribution_gap_questionnaire", appears to be to gather information from users about their financial situation and goals related to retirement planning. This includes details about their financial institution, retirement goals, and potential gaps in their savings strategy. To ensure accuracy and relevance, we'll review the form fields to determine if they are properly filled out and if they align with the user's actual needs.
-
-### Form Validation:
-We will be checking for completeness and consistency across the form.
-
-</thinking>
-
 # retirement_contribution_gap_questionnaire - Help Guide
 
 ## Purpose

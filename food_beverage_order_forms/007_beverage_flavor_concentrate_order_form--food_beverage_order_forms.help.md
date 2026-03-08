@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for beverage flavor concentrates. The purpose of this form is to gather information about the customer's order, including their contact and shipping details, flavor preferences, and delivery requirements. The form is used to ensure accurate and efficient processing of the order, and the information collected will be used to fulfill the customer's request. Please note that this form is a one-time use form and the information collected will not be used for any other purpose.
-
-</thinking>
-
 # Beverage Flavor Concentrate Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for beverage flavor concentrates. The purpose of this form is to gather information about the customer's order, including their contact and shipping details, flavor preferences, and delivery requirements.

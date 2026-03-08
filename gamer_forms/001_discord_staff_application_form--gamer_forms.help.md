@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals who wish to apply for a role as a staff member on a Discord server. This form gathers information about the applicant's availability and timezone offset for coordination with the server's time zone. The form will not be duplicated, and applicants must fill out a single form per application. This is a requirement for anyone interested in joining the server's staff.
-</thinking>
-
 # Discord Staff Application Form - Help Guide
 ## Purpose
 This form is used to gather information from potential staff members about their availability and timezone offset to coordinate with the server's time zone.

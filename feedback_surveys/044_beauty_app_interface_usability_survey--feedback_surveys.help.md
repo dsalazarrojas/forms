@@ -1,7 +1,3 @@
-<thinking>
-To ensure that our survey accurately captures relevant and non-duplicative feedback about the beauty app's usability, we need to validate the survey purpose and prevent duplication. This form is designed to collect information about the end-user's experience with the app, including their demographics, technology proficiency, app usage frequency, and satisfaction with various aspects of the app. We aim to gather insights that will help us improve the app's usability and user experience. To prevent duplication, we'll check for any existing responses with the same email address.
-</thinking>
-
 # Beauty App Interface Usability Survey - Help Guide
 ## Purpose
 The Beauty App Interface Usability Survey is designed to collect feedback about the user's experience with the app. We aim to gather insights that will help us improve the app's usability and user experience.

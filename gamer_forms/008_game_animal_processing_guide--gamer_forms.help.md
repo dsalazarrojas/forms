@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about game animals, which are animals used for gaming purposes. The form is not intended for general use and is likely only accessible to authorized personnel within the organization. It is possible that this form might be used by game development teams or animal management within a specific organization.
-
-To avoid duplication, this form is designed to collect data on a per-game-animal basis, meaning that each row should represent a single game animal, not a batch of game animals.
-
-</thinking>
-
 # Game Animal Processing Guide - Help Guide
 ## Purpose
 This guide is intended to help users collect and process game animal information for the purposes of animal management and game development.

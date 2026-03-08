@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Traveler Health Form - Help Guide
 ## Purpose
 This Traveler Health Form is designed to collect information about your health and medical history for travel-related purposes. This form is essential for your safety and the safety of those around you when traveling.

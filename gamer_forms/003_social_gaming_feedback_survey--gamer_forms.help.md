@@ -1,13 +1,3 @@
-<thinking>
-To confirm, the form "Social Gaming Feedback Survey" is designed to gather information about gamers' preferences, habits, and experiences with various gaming platforms and features. This form is meant to help the company understand the gaming community's needs, likes, and dislikes, and use this information to improve their services and products. 
-
-The form has 25 questions across multiple pages, covering different aspects of gaming, such as platforms, frequency, satisfaction, features, and habits. This form will gather data on various platforms, including social media, gaming systems, and mobile devices. 
-
-Please ensure that this form is filled out by people who fit into the gamer category, and not by non-gamers. This will help to ensure that the data gathered is accurate and relevant.
-
-Also, please be mindful of the duplicate questions. Some questions have similar options, such as "How often do you play games" and "How likely are you to recommend games". Make sure to only ask one of these questions, or at least make it clear in the help guide which one to answer, or provide some instructions on how to answer such questions.
-</thinking>
-
 # Social Gaming Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your gaming habits, preferences, and experiences. Your feedback will help us understand what you like and dislike about gaming, and how we can improve our services and products.

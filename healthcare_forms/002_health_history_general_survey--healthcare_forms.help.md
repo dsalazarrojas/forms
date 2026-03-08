@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_history_general_survey - Help Guide
 
 ## Purpose

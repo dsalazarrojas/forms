@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "New Year's Resolution Form", I will first provide an internal reasoning block to ensure I understand the form's purpose and potential duplication issues.
-
-The form seems to be designed to capture information from users who are setting New Year's resolutions, likely for health and wellness goals. However, upon reviewing the form fields, I notice that there is a mix of required and optional fields, as well as various types of fields (text, select_one, select_multiple, date, time). This could potentially lead to confusion for users who need to fill out the form. Therefore, I will create a clear and concise guide to help users understand the form's purpose and each field's significance.
-
-</thinking>
-
 # New Year's Resolution Form - Help Guide
 ## Purpose
 The New Year's Resolution Form is designed to help individuals set and track their health and wellness goals for the upcoming year. This form allows users to specify their resolutions, goals, and intentions for the year ahead.

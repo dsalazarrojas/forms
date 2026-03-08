@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and survey responses from users regarding their experience with the Pet Tech App. The purpose of this form is to gather information about the user's satisfaction with the app, their overall experience, and any issues or feature requests they may have. This form is intended for internal use only, and all responses will be reviewed by the development team to identify areas for improvement and development.
-
-Before completing this form, please ensure that you have not already submitted a response. Duplicate responses will not be considered in the review process.
-
-</thinking>
-
 # Pet Tech App Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and survey responses from users regarding their experience with the Pet Tech App.

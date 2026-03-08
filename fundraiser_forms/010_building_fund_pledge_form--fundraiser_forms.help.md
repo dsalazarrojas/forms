@@ -1,16 +1,3 @@
-<thinking>
-We need to ensure this guide is helpful for end-users to complete this form accurately and efficiently. Let's break down the form purpose and fields to understand its scope and usage.
-
-This form is designed for donors to pledge their support for a building project. It collects information about the donor, including their name, email, phone number, address, and other relevant details. The form also collects information about the pledge, such as the amount, currency, and payment method. Additionally, it allows donors to specify their preferences for payment schedules, tax-deductible status, and recognition of their contribution.
-
-Before filling out this form, please ensure that you have reviewed the project's details and understood its purpose.
-
-Please note that the "donor_address", "city", "state", and "zip_code" fields are not required for the form to be submitted successfully. However, providing these details may help the organization understand the donor's location and facilitate communication.
-
-Also, be aware that the "organization_name" field is not required but can be filled if the donation is on behalf of an organization.
-
-</thinking>
-
 # Building Fund Pledge Form - Help Guide
 ## Purpose
 This form is used to collect information from donors who want to pledge their support for a building project. It helps the organization understand the donor's details and preferences for the donation.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to help individuals who have completed a post-detox program reflect on their experience and provide feedback to the program administrators. The form is meant to be completed after the program has ended, and the user will be asked to provide their honest opinions about their time on the program. Each field is carefully crafted to gather specific information that will help the program administrators improve their services. Please ensure that you have completed the program before filling out this form, as it is intended for users who have gained experience with the program.</thinking>
-
 # Post Detox Program Questionnaire Template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from individuals who have completed a post-detox program. It is designed to help program administrators improve their services and better understand the needs and experiences of their users.

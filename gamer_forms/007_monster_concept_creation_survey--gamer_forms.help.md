@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their monster concept ideas. It is intended for gamers, game developers, and fantasy enthusiasts to submit their ideas for creatures to be used in a game or world-building project. The form should only be used for non-commercial purposes and should not be submitted for personal gain. This form will not be used for any other purpose than collecting monster concept ideas. Please do not submit the same concept more than once. If you have already submitted the same monster concept, please do not resubmit it. This form is intended to be simple and easy to use, with each field explained in detail below.
-</thinking>
-
 # Monster Concept Creation Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Monster Concept Creation Survey form, which is designed to help collect and document your monster concept ideas.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the release of audio recordings by one party (the "Releasor") to another party (the "Releasee") for use in any media. The form ensures the Releasor has granted the necessary rights to the Releasee and outlines the terms of the release. It is a legal document that must be completed carefully to ensure all parties are protected and clear about their rights. This form is not a substitute for legal advice, and it is recommended that both parties review and understand the terms before signing.
-</thinking>
-
 # Audio Recording Release Form - Help Guide
 ## Purpose
 

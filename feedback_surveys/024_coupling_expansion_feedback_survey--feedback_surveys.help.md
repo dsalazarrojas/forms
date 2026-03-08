@@ -1,8 +1,3 @@
-<thinking>...
-To create a help guide for the Coupling Expansion Feedback Survey form, I will first clarify its purpose and internal relevance before providing the actual guide. The form appears to be designed to gather feedback from customers about their satisfaction and experience with a product, with questions about their overall satisfaction, likelihood to recommend, experience, and areas for improvement. It is likely intended for internal use within the organization to inform product development and improvement decisions. The form is not designed for high-stakes or high-security applications, and the questions are relatively straightforward.
-
-</thinking>
-
 # Coupling Expansion Feedback Survey - Help Guide
 ## Purpose
 The Coupling Expansion Feedback Survey is designed to gather customer feedback on their experience with a product. This feedback will help us understand how customers perceive our product and identify areas for improvement.

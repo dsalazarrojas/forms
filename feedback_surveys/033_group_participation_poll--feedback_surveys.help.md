@@ -1,7 +1,3 @@
-<thinking>
-The form "Group Participation Poll" is designed to gather information about a group's availability and preferences. The purpose of the form is to allow users to indicate their available and preferred days, time slots, and activities. The form is likely used in a workgroup or team setting to facilitate scheduling and collaboration.
-</thinking>
-
 # Group Participation Poll - Help Guide
 ## Purpose
 This form is designed to collect information about a group's availability and preferences to facilitate scheduling and collaboration.

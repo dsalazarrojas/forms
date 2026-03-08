@@ -1,31 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect transformative feedback from users, which means it aims to gather feedback that helps to bring about significant and positive change, rather than just minor adjustments. The goal of the form is to collect information about a user's recent experience on a particular project or interaction. The purpose of the form is to ensure that the user feels heard and their feedback is taken seriously.
-
-The form has multiple pages, each with various fields that aim to capture different aspects of the user's feedback. The pages include:
-
-* Page 1: This page asks users to provide their name and email address, which are essential for identifying and contacting them about their feedback.
-* Page 2: This page is where users provide their feedback, which is a free-text field that allows users to express their thoughts and suggestions.
-* Page 3: This page is dedicated to asking users about their overall satisfaction with their experience, which is captured through a multi-select option field.
-* Page 4: This page provides an open-ended field where users can add any additional comments or suggestions.
-* Page 5: This page has fields for users to provide their contact information, which is optional.
-* Page 6: This page is not part of the actual form and is likely an error.
-
-Please note that the form fields are:
-
-* **Please take this survey**: This field is not actually part of the form, but rather a page header that encourages users to participate.
-* **full_name**: This field is for the user's full name and is a required field.
-* **email**: This field is for the user's email address and is a required field.
-* **comments**: This field is for users to provide their feedback and is a free-text field.
-* **how_did_you_feel**: This field is a multi-select option field that asks about the user's overall satisfaction with their experience.
-* **suggestions**: This field is an open-ended field where users can add any additional comments or suggestions.
-* **additional_comments**: This field is similar to the previous field and is also open-ended.
-* **follow_up**: This field is a select-one option field that asks about the user's preferred follow-up method (phone, email, or no contact).
-* **contact_info**: This field is for users to provide more information about how to contact them, which is optional.
-* **contact_info_2** and **contact_info_3**: These fields are also for additional contact information, which are optional.
-
-</thinking>
-
 # Transformative Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect transformative feedback from users, which is feedback that has the potential to bring about significant and positive change. The goal is to ensure that users feel heard and their feedback is taken seriously.

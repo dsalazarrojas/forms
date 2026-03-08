@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form schema to ensure I understand its purpose and the questions it asks. The form appears to be a survey for bird feeder users to provide feedback on their experiences with the product. It collects information on their demographic details, feeder characteristics, usage patterns, and opinions on the product's design, functionality, and overall satisfaction. This guide is intended to help users understand how to complete the form and make informed decisions about their feedback.</thinking>
-
 # Bird Feeder Feedback Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Bird Feeder Feedback Survey. Please take a few minutes to provide detailed and honest feedback about your bird feeder experience.

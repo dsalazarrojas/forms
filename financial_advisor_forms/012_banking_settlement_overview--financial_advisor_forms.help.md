@@ -1,6 +1,3 @@
-<thinking>
-This form is used to record banking settlements, gathering essential details such as date, financial advisor, and client information, as well as settlement type, amount, and status. The form is crucial for maintaining accurate records and facilitating communication between financial advisors and clients. Ensure that each field is completed accurately and thoroughly to guarantee a smooth settlement process. Please review this guide for a clear understanding of the form's purpose and fields.</thinking>
-
 # Banking Settlement Overview - Help Guide
 ## Purpose
 The Banking Settlement Overview form is designed to provide a comprehensive overview of banking settlements, capturing key details to facilitate effective communication and record-keeping between financial advisors and clients.

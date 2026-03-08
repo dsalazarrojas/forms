@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on a user's daily routine, including their morning activities, exercise, sleep quality, water intake, and other aspects of their daily life. This form is not intended to be a comprehensive survey, but rather a brief check-in to help users track their habits and identify areas for improvement. Please ensure that you're not completing this form in duplicate, as the data is intended to be used for personal development and progress tracking.
-</thinking>
-
 # Daily Routine Checklist Form - Help Guide
 ## Purpose
 The Daily Routine Checklist Form is a tool to help you monitor and evaluate your daily habits and activities. By filling out this form, you'll be able to track your progress and identify areas where you can make positive changes.

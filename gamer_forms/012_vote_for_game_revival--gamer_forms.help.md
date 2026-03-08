@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used to collect feedback and suggestions from users on games that are considered "dead" or no longer maintained. The "Vote For Game Revival" form is designed to allow users to express their interest in reviving a game, providing a reason for the revival, and optionally providing information about the game, its developer, and the developer's contact email. This form could be used by game developers or game publishing teams to gauge interest in reviving a game and potentially collaborate with users to bring it back to life.
-The form has multiple fields, but it seems to be a simple feedback mechanism, and most fields appear to be optional. This form might be used as an internal feedback tool within a company or game development organization, allowing them to collect and analyze user sentiment.
-It's worth noting that some fields are very generic, such as the "Reason to Revive" field, which might be better described as "Suggestion" or "Feedback".
-</thinking>
-
 # Vote For Game Revival - Help Guide
 ## Purpose
 The "Vote For Game Revival" form is designed to collect feedback and suggestions from users on games that are considered "dead" or no longer maintained. This form allows users to express their interest in reviving a game and potentially collaborate with game developers to bring it back to life.

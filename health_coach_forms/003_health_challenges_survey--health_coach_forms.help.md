@@ -1,5 +1,3 @@
-<thinking>As the form is designed to collect information about individuals' health challenges, overall feeling, and other relevant factors, it's essential to understand the context and purpose of the form. This form is intended to gather data from individuals to help health coaches or professionals assess their overall well-being and identify potential areas for improvement.</thinking>
-
 # Health Challenges Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your overall well-being, health challenges, and other relevant factors. It will help health coaches or professionals assess your overall health and provide guidance on addressing any challenges you may be facing.

@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for attendees or participants to vote on the outcome of gaming convention tournaments, providing feedback on the competition, and sharing their experiences. This form is probably used by convention organizers to gather data on tournament popularity, participant engagement, and overall satisfaction. The form is designed to be completed by individuals who have attended or participated in the gaming convention's tournament events. To avoid duplicate votes, the form may be restricted to only allow one submission per user. This form could be part of a larger feedback mechanism to improve the quality and engagement of upcoming gaming convention events.
-</thinking>
-
 # Gaming Convention Tournament Voting Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from attendees and participants on the outcomes of the gaming convention's tournaments. The purpose of this form is to help organizers understand which tournaments were the most popular, what worked well, and what could be improved for future events.

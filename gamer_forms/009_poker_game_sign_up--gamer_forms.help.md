@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to sign up for a poker game. The form collects personal and game-related details such as player name, contact information, and game-specific details like game type, date, time, location, and buy-in amount. 
-The form is likely used by a poker gaming community or platform to manage user sign-ups and organize games. 
-
-The form has multiple fields and options, which may seem overwhelming at first. This guide aims to break down each field and explain its purpose, helping users understand what's expected of them.
-</thinking>
-
 # poker_game_sign_up - Help Guide
 ## Purpose
 This form is used to sign up for a poker game. Fill out the form to provide your details and preferences, and the system will use this information to manage your sign-up and potentially pair you with other players.

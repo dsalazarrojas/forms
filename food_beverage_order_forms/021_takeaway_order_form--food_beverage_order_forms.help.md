@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Takeaway Order Form - Help Guide**
 ================================
 

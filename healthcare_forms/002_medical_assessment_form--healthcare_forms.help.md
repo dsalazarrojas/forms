@@ -1,19 +1,3 @@
-<thinking>
-
-This form is intended to be used for medical assessments, where healthcare providers gather information about a patient's medical history, conditions, and contact details. The form is designed to be filled out by patients or their representatives. It includes fields for various aspects of medical history, allergies, medical conditions, contact information, and notes for future reference. The form is likely to be used for patients who are new to a healthcare provider or are having ongoing medical issues that need monitoring.
-
-To determine if this form is relevant for a specific patient or situation, consider the following questions:
-
-* Is this form being used for a new patient consultation or an ongoing patient case?
-* Are there any medical history, conditions, or contact details that need to be documented?
-* Are there any allergies or special conditions that need to be noted?
-
-If the answers to these questions are affirmative, this form may be applicable.
-
-If this form is being used in a duplicated manner, please ensure that all necessary information is being collected and that data is being accurately recorded for future reference.
-
-</thinking>
-
 # Medical Assessment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scavenger Hunt Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have participated in the scavenger hunt event. The survey aims to gather information about their overall experience, difficulties they faced, and suggestions for improvement. The responses will help us understand how to enhance the event for future participants.

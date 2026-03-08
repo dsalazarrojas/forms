@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assess the healthcare professionals working at your institution. It gathers information about their roles, medical specialty, medical license, work experience, certifications, language proficiency, and medical credentials. This data will help healthcare administrators and management teams evaluate staff performance, provide relevant training, and make informed decisions about staff advancement and development. 
 
 Please confirm that this form will be used to collect data for your institution's internal use only. If you're using this form for any other purpose, please don't use this help guide.

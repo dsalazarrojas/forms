@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # survey_on_early_music_instruction - Help Guide
 ## Purpose
 

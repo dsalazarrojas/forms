@@ -1,9 +1,4 @@
-# <thinking>... Form purpose and relevance checks: 
-This form is designed to capture the essential information for the discharge process of patients undergoing neurosurgery. It ensures that all necessary details are collected to facilitate a smooth and safe discharge process. This form is intended to be completed by the healthcare team to document the patient's condition, treatment, and post-discharge instructions.
-
-</thinking>
-
-# Neurosurgery Discharge Form - Help Guide
+# # Neurosurgery Discharge Form - Help Guide
 ## Purpose
 The Neurosurgery Discharge Form is designed to provide essential information about a patient's neurosurgery procedure and post-discharge instructions.
 

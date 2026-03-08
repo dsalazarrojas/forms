@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Salad Kit Feedback Survey" form. This form is designed to collect feedback from customers about their experience with salad kits, gathering information on their satisfaction level, product quality, value for money, contact method, and other relevant details. The form has 14 fields, each with a specific label and type, and is meant to be completed by customers to provide their valuable insights. 
-
-To avoid duplication and irrelevant feedback, this guide will walk users through each field, explaining its purpose and usage. The form is not mandatory, and users are free to complete it at their discretion. 
-
-</thinking>
 # Salad Kit Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with salad kits. It aims to gather information on their satisfaction level, product quality, value for money, and other relevant details to help us improve our products and services.

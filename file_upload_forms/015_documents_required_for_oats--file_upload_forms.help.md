@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting documents required for Oats, a type of agricultural product. This form is used to gather relevant documents for a specific purpose, which may include certifications, receipts, or other supporting documents. 
-
-When you see this form, it's likely that you need to provide documents related to your Oats production or purchase. Please ensure that you have all the necessary documents before starting, as some fields may be required for further processing. 
-
-This form is likely to be one of several similar forms used in the context of agriculture or product management. If you're unsure about the purpose or required documents, please consult the relevant documentation or contact the relevant authorities.
-
-</thinking>
-
 # documents_required_for_oats - Help Guide
 ## Purpose
 This form is used to collect documents required for Oats, a type of agricultural product. It helps to gather relevant documents for specific purposes such as certifications, receipts, or other supporting documents.

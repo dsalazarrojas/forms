@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect information about hair extension services for clients, including their contact details, service type, and other relevant details. This form will help the hairdresser to understand client preferences and requirements for their hair extension services. 
-</thinking>
-
 # Hair Extension Agreement Form - Help Guide
 ## Purpose
 The Hair Extension Agreement Form is designed to collect information from clients about their hair extension services. This includes their contact details, service type, and other related information.

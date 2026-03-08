@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I'll start by understanding the purpose and structure of the form, which appears to be a Gourmet Market Festival Order Request Form.
 
 # Gourmet Market Festival Order Request Form - Help Guide

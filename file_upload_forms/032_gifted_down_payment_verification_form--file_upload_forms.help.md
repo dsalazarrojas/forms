@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's clarify the purpose and context of the "Gifted Down Payment Verification Form". This form is designed to collect information and verify the gifted funds for a down payment. This form is intended for users who have received gifted funds for a down payment and need to provide details about the funds. It's essential to fill out this form accurately to ensure that the gifted funds are correctly verified. Please make sure to fill out this form only once for each set of gifted funds. Filling out this form multiple times can lead to errors in the verification process and might cause issues with the gifted funds being correctly tracked.</thinking>
-
 # Gifted Down Payment Verification Form - Help Guide
 ## Purpose
 The Gifted Down Payment Verification Form is designed to collect and verify information about gifted funds for down payments. It helps in accurately tracking and recording gifted funds received for down payments.

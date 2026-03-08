@@ -1,7 +1,3 @@
-<thinking>
-  To prevent duplicate or misleading submissions, please make sure you are not using this form to upload multiple documents at once. This form is intended for releasing reading lists, not for uploading multiple files. Only upload one file per submission. Please ensure that all necessary fields are filled correctly before submitting the form.
-</thinking>
-
 # reading_list_release_form - Help Guide
 ## Purpose
 The "reading_list_release_form" is used to release a reading list to students. This form captures relevant details such as category, description, and educator signature among other fields.

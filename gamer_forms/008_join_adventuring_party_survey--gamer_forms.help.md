@@ -1,9 +1,3 @@
-<thinking>
-# join_adventuring_party_survey - Help Guide
-## Purpose
-This form is designed to collect information from players about their preferences and requirements for joining an adventuring party. It's meant to be used by adventurers, game masters, or event organizers to gather data about potential party members' interests, special needs, and other relevant details.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

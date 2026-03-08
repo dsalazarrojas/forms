@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who request quotes for handyman services. The form should be completed by customers to provide their personal details and a description of the task they need assistance with. Each field should be filled out accurately and completely to ensure that the handyman can provide an accurate quote.
-</thinking>
-
 # Handyman Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are looking for quotes for handyman services. Please complete the form accurately and thoroughly to help us understand your needs.

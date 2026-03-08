@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect donations for a theater's accessibility fund. It is designed to be completed by donors who want to contribute to the theater's efforts in making their facilities more accessible. Each field is meant to capture relevant information to process the donation efficiently and effectively. 
-
-This form should not be completed by theater staff or volunteers, as it is intended for external donors. 
-
-It is possible to duplicate this form, but doing so may create confusion in donor records and processing.
-
-</thinking>
-
 # Theater Accessibility Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations for a theater's accessibility fund. It is designed to provide a straightforward way for donors to contribute to the theater's efforts in making their facilities more accessible.

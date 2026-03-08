@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect donations for the community theater's play development fund. This form will help track donor information, donation details, and acknowledgement preferences. Please ensure that all required fields are filled out correctly to ensure accurate records.
-</thinking>
-
 # Community Theater Play Development Donation Form - Help Guide
 ## Purpose
 This form is designed to facilitate donations for the community theater's play development fund, allowing donors to contribute and support the theater's activities.

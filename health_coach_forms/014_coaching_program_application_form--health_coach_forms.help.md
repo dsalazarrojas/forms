@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in participating in a coaching program. This form will help coaches understand the applicant's background, goals, and expectations, ensuring a good fit between the coach and the applicant. The form's fields are designed to be comprehensive and straightforward, ensuring that all necessary information is collected to make an informed decision. This form's design aims to minimize redundancy and duplication, providing an efficient and effective way to gather the required data. 
-
-</thinking>
-
 # Coaching Program Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in participating in a coaching program. It ensures that coaches understand the applicant's background, goals, and expectations, making it easier to determine a suitable fit between the coach and the applicant.

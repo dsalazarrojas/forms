@@ -1,11 +1,3 @@
-<thinking>
-We are creating a form to collect news entry submissions from users. This form will be used by newsroom editors to manage the submission process. We want to ensure that the form is easy to understand and fill out for both newsroom editors and end users. 
-
-The form is not meant to be a replacement or a duplicate of any other form used for similar purpose. 
-
-The form has multiple pages and fields with different types and requirements. We will provide a detailed help guide to ensure end-users understand the purpose and process of filling out this form.
-</thinking>
-
 # News Entry Submission Form - Help Guide
 ## Purpose
 The News Entry Submission Form is a tool for newsroom editors and end-users to submit news entries. This form captures the necessary information to create a new news entry and allows editors to review and manage the submission process.

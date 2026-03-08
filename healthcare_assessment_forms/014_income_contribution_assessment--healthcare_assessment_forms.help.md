@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is called "Income Contribution Assessment" and seems to be designed to gather information about an individual's income and financial situation. It appears to be used for assessing an individual's income contribution, possibly for financial planning, eligibility for certain programs, or other purposes related to financial assistance.
-
-The form has 18 fields, including questions about household income, annual income, monthly income, financial support, other income, expenses, income frequency, income source, financial assistance, income verification, employment status, financial assistance source, annual income range, monthly income range, financial support type, other financial support, income frequency description, and annual income frequency.
-
-Upon further analysis, it seems that this form is intended to capture detailed information about an individual's income and financial situation, likely for the purpose of determining eligibility for government programs or other forms of financial assistance.
-
-However, without more context about the specific requirements and regulations related to the form, it's difficult to determine the exact purpose and requirements for the form.
-
-Let's proceed with creating the help guide, keeping in mind that this form might be used for a variety of purposes.
-
-</thinking>
-
 # Income Contribution Assessment - Help Guide
 ## Purpose
 

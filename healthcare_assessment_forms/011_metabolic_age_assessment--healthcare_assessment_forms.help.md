@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a person's metabolic age, which is an estimate of their biological age based on several health indicators. The purpose of this form is to collect data on physical characteristics and lifestyle habits that can be used to estimate a person's metabolic age. This form should not be used to diagnose medical conditions or replace the advice of a healthcare professional. If you're not a healthcare professional, please do not use this form to assess someone's health or make recommendations. Ensure the person being assessed is at least 18 years old and is not pregnant or breastfeeding before proceeding.
-</thinking>
-
 # Metabolic Age Assessment - Help Guide
 ## Purpose
 The Metabolic Age Assessment form is designed to estimate a person's biological age based on their physical characteristics and lifestyle habits. It's intended for individuals who want to have a general understanding of their health status and make informed decisions about their well-being.

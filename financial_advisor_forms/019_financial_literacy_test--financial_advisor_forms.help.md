@@ -1,9 +1,3 @@
-<thinking>
-The "Financial Literacy Test" form is designed to assess an individual's understanding of basic financial concepts and principles. Its purpose is to evaluate one's knowledge and skills in areas such as income, savings, and financial management. This form is intended for personal or professional development purposes, and its results can help identify areas where the individual may need improvement or further education. It is not a comprehensive assessment, but rather a self-assessment tool.
-The form consists of 87 questions, each addressing a specific aspect of financial literacy. It is divided into multiple pages, with each page focusing on a particular topic or theme. The questions are a mix of multiple-choice questions and open-ended text fields, allowing for more in-depth responses.
-
-</thinking>
-
 # Financial Literacy Test - Help Guide
 ## Purpose
 The Financial Literacy Test is designed to evaluate an individual's understanding of basic financial concepts and principles. Its results can help identify areas where the individual may need improvement or further education.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # financial_compliance_reporting_consent_form - Help Guide
 
 ## Purpose

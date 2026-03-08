@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form for collecting feedback on peer-to-peer (P2P) cryptocurrency trading experiences. This form will help us gather valuable insights from users about their trading experiences, allowing us to identify areas of improvement and make informed decisions to enhance our services. 
-The form will collect information on various aspects of the trading experience, including the type of trade, the products involved, and the user's rating and comments about the experience. We'll use this data to refine our platform and provide better services to our users. Please make sure to fill out the form thoroughly, and if you have any questions or need help with any of the fields, feel free to ask! 
-</thinking>
-
 # P2P Crypto Trading Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback on your P2P crypto trading experiences. Your input is valuable, and we appreciate your participation in helping us improve our platform.

@@ -1,8 +1,3 @@
-<thinking>
-To determine the form purpose, we need to analyze the provided YAML fields. The form is titled "travel-expense-report" and it is part of the "financial_advisor_forms" category. Given the fields present, it seems to be a form for users to report their travel expenses. The fields included are for expense type, category, date, time, note, email, and phone number. This form likely serves as a way for users to provide details about their travel expenses, which could be used by financial advisors for tracking and analysis. Upon reviewing the fields, there doesn't seem to be any duplication of fields with the same purpose.
-
-</thinking>
-
 # travel-expense-report - Help Guide
 ## Purpose
 The travel-expense-report form is a tool for users to report their travel expenses. This form is used to provide details about expenses related to travel, such as type, category, date, time, and other relevant information. The form is designed to help financial advisors track and analyze travel expenses.

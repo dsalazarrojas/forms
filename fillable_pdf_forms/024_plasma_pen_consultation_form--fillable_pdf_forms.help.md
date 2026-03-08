@@ -1,11 +1,3 @@
-<thinking>
-We will create a form that is easy to understand for end-users. This form will help us collect information about plasma pen consultations.
-Before filling out the form, please make sure:
-- You are a patient or a medical professional requesting a plasma pen consultation. 
-- You have read and understood the purpose and the content of this form. 
-- You will fill out the form only once.
-</thinking>
-
 # Plasma Pen Consultation Form - Help Guide
 ## Purpose
 The Plasma Pen Consultation Form is designed to collect information about your plasma pen consultation appointment. Please fill out this form carefully to ensure we have all the necessary information to proceed with your consultation.

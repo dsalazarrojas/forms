@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a user's financial situation, including assets and liabilities. This form will help users accurately and efficiently report their financial status to ensure compliance with financial regulations and internal financial reporting. To avoid duplicating or misrepresenting information, users should only fill out this form if they have not previously submitted a Personal Financial Statement Form. If a user has already submitted a form, they should not resubmit a new one unless their financial situation has significantly changed since the last update. 
-
-</thinking>
-
 # Personal Financial Statement Form - Help Guide
 ## Purpose
 The Personal Financial Statement Form is a document used to report a user's financial status, including assets and liabilities. This form helps ensure accurate and up-to-date financial information for regulatory and internal reporting purposes.

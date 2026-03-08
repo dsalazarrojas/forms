@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback about gear kits. The form has been created by an AI using public survey topic metadata as inspiration and is released under CC BY 4.0. This means you are free to use, modify, and even sell forms derived from it, just give credit.
-
-To ensure that the form is used appropriately and doesn't duplicate any existing feedback, please read the instructions carefully and only complete the form if you have genuine feedback to provide.
-</thinking>
-
 # gear_kit_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about gear kits. It helps us understand your experience and opinions about the gear kits you have used.

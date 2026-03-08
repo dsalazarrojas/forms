@@ -1,7 +1,3 @@
-<thinking>
-The Luxury Hotel Food Supply Order Request form is used to request food supplies from the hotel's inventory. This form is typically used by hotel staff to request essential food items for daily operations. It is crucial to ensure that all fields are correctly filled to avoid any confusion or miscommunication.
-</thinking>
-
 # Luxury Hotel Food Supply Order Request - Help Guide
 ## Purpose
 The form is used to request food supplies from the hotel's inventory for daily operations.

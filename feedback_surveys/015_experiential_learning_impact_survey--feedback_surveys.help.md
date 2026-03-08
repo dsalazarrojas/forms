@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block for form purpose and relevance: This form is used to capture feedback from participants in an experiential learning activity. The form is designed to gather information on participant demographics, feedback, outcomes, skills gained, and improvement ideas. The purpose of this form is to evaluate the impact of the learning activity, identify areas of improvement, and inform future planning. This form is only meant to be filled out by participants of the experiential learning activity and should not be filled out by non-participants. If a user has already filled out this form in the past, they should not be able to fill it out again.</thinking>
-
 # Experiential Learning Impact Survey - Help Guide
 
 ## Purpose

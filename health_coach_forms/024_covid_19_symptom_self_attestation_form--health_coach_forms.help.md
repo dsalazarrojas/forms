@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information for COVID-19 symptom self-attestation. This form is intended for patients who are experiencing symptoms related to COVID-19. It is meant to be completed by the patient themselves, providing details about their symptoms, medical history, and contact information. This form helps healthcare professionals to quickly assess the patient's condition and provide guidance or medical attention as needed.
-
-Before starting, please review the following:
-
-* Ensure you have not completed this form previously and are not duplicating your submission.
-* Be honest and accurate when filling out the form, as the information collected will be used to provide medical guidance.
-* If you are unsure about any of the fields, please refer to the provided explanations below.
-
-This form is intended for patients who are experiencing symptoms related to COVID-19. If you are not experiencing symptoms, you should not complete this form.
-
-</thinking>
-
 # COVID 19 Symptom Self Attestation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect patient information for COVID-19 symptom self-attestation, allowing healthcare professionals to quickly assess and provide guidance or medical attention as needed.

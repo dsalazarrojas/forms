@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rug Evaluation Request Form - Help Guide
 
 ## Purpose

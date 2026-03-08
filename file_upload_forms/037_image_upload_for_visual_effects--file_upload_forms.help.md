@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information and files related to a project, specifically for visual effects, from users. It's meant to be used for internal purposes and should only be accessed by authorized personnel. It's crucial to ensure that users understand the form's purpose and content to avoid duplication of effort and maintain data integrity.</thinking>
-
 # Image Upload For Visual Effects - Help Guide
 ## Purpose
 This form is used to collect information and files related to a project, specifically for visual effects. It's essential to provide accurate and relevant details to ensure the project's success.

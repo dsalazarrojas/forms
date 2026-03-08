@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a code repository, including the contributor's details, repository details, and code upload information. It's intended for end-users who want to upload their code repository to a platform or service. The form is divided into several sections: Contributor Information, Repository Details, Code Upload, and Additional Details. Each section is designed to gather specific information about the contributor and the code repository.
-
-</thinking>
-
 # Code Repository Upload Form - Help Guide
 ## Purpose
 This form is used to upload code repositories to a platform or service. It collects information about the contributor and the repository, including the repository name, description, URL, programming languages used, and license type.

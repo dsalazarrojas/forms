@@ -1,11 +1,3 @@
-<thinking>
-
-As the Radio Program Feedback Survey is designed to gather user feedback on the radio program, it is essential to ensure that the form is completed by users who have actually listened to the show. To avoid duplication, we will only consider feedback from users who have a unique IP address or have not completed the form before. We will also remove any responses that are considered spam or irrelevant.
-
-This guide is designed to help users understand the purpose and structure of the form, making it easier for them to provide valuable feedback. By following these steps, users will be able to provide constructive feedback that can help us improve the radio program.
-
-</thinking>
-
 # Radio Program Feedback Survey - Help Guide
 ## Purpose
 The Radio Program Feedback Survey is designed to gather your thoughts and opinions on our radio program. Your feedback is essential in helping us understand what works and what doesn't, allowing us to improve the show for future listeners.

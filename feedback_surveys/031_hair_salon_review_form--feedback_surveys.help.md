@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Salon Review Form - Help Guide
 
 ## Purpose

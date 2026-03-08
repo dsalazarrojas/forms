@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect technical reports and supporting documents from users. The purpose of this form is to provide a structured way to gather information for a technical report, including supporting documents and contact information. Before filling out this form, it's essential to ensure that you're submitting a unique report and not duplicating an existing one. 
-
-Please review the form carefully and only submit the report once you have reviewed and understood the instructions below.
-</thinking>
-
 # Technical Report Submission Form - Help Guide
 ## Purpose
 This form is used to collect technical reports and supporting documents from users. 

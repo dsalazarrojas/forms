@@ -1,5 +1,3 @@
-<thinking>... This form is a feedback survey that aims to gather impressions and ratings about a product or service. It is meant to provide an opportunity for users to share their experiences, thoughts, and opinions about the onboarding process, overall rating, and follow-up interactions. The form is designed to be completed by customers, end-users, or any other relevant stakeholders. Ensure you have permission to complete this form before submitting it. Please do not submit duplicate or irrelevant feedback, as it may cause confusion and affect the quality of the feedback collected...</thinking>
-
 # impression_review_survey - Help Guide
 ## Purpose
 The **impression_review_survey** form is a feedback survey aimed at gathering opinions and ratings about a product or service. It is intended to provide valuable insights for improvement and to measure customer satisfaction.

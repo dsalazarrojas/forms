@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track character statistics in a tabletop role-playing game (RPG) or similar context. The form is intended for players to update their character's information, such as name, level, stats, and other relevant details. It appears to be designed for tracking progress and changes in a character's development throughout a campaign or adventure. The form is likely used by players, game masters, or game administrators to keep track of character development, progression, and changes over time.
-
-The form seems to be well-structured, with each section catering to a specific aspect of character information. However, the form's purpose and intended use may be ambiguous without further context. I assume this form is used within a larger system or application for managing characters and game-related information.
-
-Please let me know if the provided information is accurate or if there's any specific context that should be considered to refine the help guide. I will proceed with creating the help document based on the provided YAML fields.</thinking>
-
 # Character Stats Tracker Form - Help Guide
 ## Purpose
 

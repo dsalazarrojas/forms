@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civic Journalism Participation Survey - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in civic journalism initiatives. Civic journalism is a collaborative and innovative approach to journalism that involves citizens and journalists working together to produce high-quality, local reporting. This form helps us understand your role, areas of interest, and preferences for support, allowing us to better understand your needs and provide tailored assistance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for financial forecasting purposes, and it's used to gather relevant information from companies. The purpose of this form is to collect data that will help in making informed decisions about the company's financial future. It's essential to fill out the form accurately and completely to ensure that the data collected is reliable and useful.
 
 # Financial Forecasting Audit Form - Help Guide

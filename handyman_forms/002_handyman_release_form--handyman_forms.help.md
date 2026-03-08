@@ -1,7 +1,3 @@
-<thinking>
-We will assume that this form is used to document and release information about a handyman, including their name, task description, date of service, address, and other relevant details. This form will help track and verify the handyman's status, license, and other essential information. We will use this form to ensure accuracy and consistency in our records.
-</thinking>
-
 # Handymans Release Form - Help Guide
 ## Purpose
 The Handymans Release Form is a document that captures essential information about a handyman, including their name, address, and other details. This form is used to verify and document a handyman's status, license, and other relevant information.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gauge the financial knowledge and practices of an individual or organization. The purpose of this form is to collect information about the user's financial situation, goals, and habits, likely to inform financial advisors or institutions about their target audience's needs and preferences.
-The form is likely to be used for marketing, research, or educational purposes, but without more information, it's difficult to determine its exact use case. It's also possible that this form is used by financial institutions to assess their clients' knowledge and provide targeted advice or services.
-This form collects information on various aspects of personal finance, including income, expense management, financial goals, market awareness, emergency funds, tax laws, budgeting, financial decision-making, and investment knowledge. 
-</thinking>
-
 # financial_knowledge_survey - Help Guide
 ## Purpose
 The financial_knowledge_survey form is designed to collect information about your financial situation, goals, and habits. This form will help us understand your financial knowledge and practices.

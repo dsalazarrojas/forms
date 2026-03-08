@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback on products in the form of ratings, usage information, and suggestions for improvement. The form is designed to be completed by users to provide quantitative data on their product usage and satisfaction, as well as qualitative feedback for product development. Please note that this form is meant to be completed on a per-product basis, and users should only submit one response per product. If you have already completed this form for a particular product, please do not attempt to complete it again as it may lead to duplicate data.
-</thinking>
-
 # Product Metrics Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on products, including ratings, usage information, and suggestions for improvement.

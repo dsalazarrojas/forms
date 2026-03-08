@@ -1,7 +1,3 @@
-<thinking>
-The "Wheelchair Usage Assessment Checklist" form is designed to collect information on the usage and condition of a patient's wheelchairs. This form is intended to be used by healthcare professionals to assess the patient's mobility level, wheelchair type, and overall condition of their wheelchairs. The form should only be filled out by authorized healthcare personnel and should not be used to duplicate efforts or assessments already performed on the patient.
-</thinking>
-
 # Wheelchair Usage Assessment Checklist - Help Guide
 ## Purpose
 The Wheelchair Usage Assessment Checklist is a form used by healthcare professionals to assess the patient's mobility level, wheelchair type, and overall condition of their wheelchairs.

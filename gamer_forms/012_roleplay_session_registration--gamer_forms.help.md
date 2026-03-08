@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registering roleplaying sessions, which can be events where players gather to create and engage in a shared roleplaying experience. This form is intended for event hosts, organizers, or players who want to schedule and document their sessions. It's not meant to be used for other types of events or non-roleplaying contexts. To ensure the form is used correctly, please check that it is only used for roleplaying sessions. If you're unsure, consider reaching out to the form's administrator or the relevant team for clarification.
-
-</thinking>
-
 # Roleplay Session Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for fresh strawberries. The form will be used to collect order details from customers, including their contact information, order preferences (strawberry type, quantity, and delivery information), and any additional notes or messages they may have. 
-</thinking>
-
 # Strawberry Order Form - Help Guide
 ## Purpose
 The Strawberry Order Form is a straightforward form designed for customers to place orders for fresh strawberries. This guide will walk you through the process of filling out the form and explain each field in detail.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Fathers Day Order Form is a form used to collect information about an order, specifically for Fathers Day celebrations. The form is designed to gather details about the order, the customer, and the payment method. It is meant to be filled out by customers or users placing an order for Fathers Day. 
 
 The form collects the following details:

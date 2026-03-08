@@ -1,11 +1,3 @@
-<thinking>
-
-To help ensure that the user understands the form's purpose and can efficiently complete it, I'll provide a clear and concise guide for the "Wine And Meal News" form.
-
-The form purpose is to gather information about wine reviews, including wine and meal pairing suggestions. It captures details such as wine type, vintage, and characteristics like taste and smell, as well as meal information and review status. This data can be used to improve wine pairing suggestions for wine enthusiasts and professionals in the industry.
-
-</thinking>
-
 # Wine And Meal News - Help Guide
 ## Purpose
 

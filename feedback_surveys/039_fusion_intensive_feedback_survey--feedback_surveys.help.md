@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to gather feedback from participants after a session, focusing on rating the session's quality and identifying areas of improvement. The form collects data on participant's expectations, satisfaction, and perceived challenges.
 
 # Fusion Intensive Feedback Survey - Help Guide

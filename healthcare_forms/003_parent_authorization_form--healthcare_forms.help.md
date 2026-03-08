@@ -1,15 +1,3 @@
-<thinking>
-This form is used for obtaining authorization from parents or guardians for a child patient. The form is used to collect information about the child's personal details, medical history, and treatment type. It is crucial to have accurate information for providing proper care to the child. This form should only be filled out by parents or guardians who have legal authority over the child.
-
-When filling out this form, please ensure that all fields are completed as accurately and thoroughly as possible, as the information will be used for the child's treatment and care. 
-
-The form has multiple fields that require different types of information. The following fields are required for every form submission: Patient Name, Parents Names, Address, Phone, Email, Date of Birth, Treatment Type, Treatment Details, and Consent. 
-
-Please make sure to fill out all required fields before submitting the form.
-
-The form is divided into multiple pages, but only page 1 is visible in this help guide.
-</thinking>
-
 # parent_authorization_form - Help Guide
 ## Purpose
 The parent authorization form is used to collect information from parents or guardians of a child patient, ensuring that the child's treatment and care are managed accurately and effectively.

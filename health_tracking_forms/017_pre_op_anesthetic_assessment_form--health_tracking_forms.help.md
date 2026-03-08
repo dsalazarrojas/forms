@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information related to a patient's pre-operative anesthesia assessment. It is crucial to understand the patient's medical history, allergies, and previous experiences with anesthesia to ensure a safe and successful surgery. This form is designed to be a comprehensive guide for healthcare providers to gather the necessary information to prepare for the upcoming procedure. 
-
-Please ensure that you are using the correct context and do not duplicate efforts. This form must be filled out before the surgery to guarantee accurate and complete information. 
-
-</thinking>
-
 # pre_op_anesthetic_assessment_form - Help Guide
 ## Purpose
 This form is designed to collect pre-operative information related to a patient's anesthesia assessment. It helps healthcare providers gather the necessary details to ensure a safe and successful surgery.

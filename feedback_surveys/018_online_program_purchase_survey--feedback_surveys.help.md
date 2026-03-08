@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the online program purchase process. The feedback data will help our team identify areas of improvement to ensure a seamless user experience. Please fill out this survey honestly and thoroughly, and if you have any issues, we'll make sure to address them. We kindly request that you don't submit duplicate surveys if you've already filled out this form recently.
-</thinking>
-
 # Online Program Purchase Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the online program purchase process to help us identify areas of improvement and ensure a seamless user experience.

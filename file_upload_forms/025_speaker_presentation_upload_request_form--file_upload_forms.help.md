@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # speaker_presentation_upload_request_form - Help Guide
 
 ## Purpose

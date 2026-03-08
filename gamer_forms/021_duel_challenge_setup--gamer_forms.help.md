@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to create a setup for a duel challenge, likely in a competitive gaming or esports context. I'm inferring that the form aims to collect relevant information about the duelists, the type of duel, and the challenge parameters. The form likely targets a niche audience, such as gamers or esports enthusiasts.
-</thinking>
-
 # Duel Challenge Setup - Help Guide
 
 ## Purpose

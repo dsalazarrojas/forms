@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ceramic Planter Kit Registration - Help Guide
 ## Purpose
 The Ceramic Planter Kit Registration form is used to record important information about a ceramic planter kit that has been purchased or registered. This form helps us to track the registration of the product, gather feedback, and improve our product offerings.

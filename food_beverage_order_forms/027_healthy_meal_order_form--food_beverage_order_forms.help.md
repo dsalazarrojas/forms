@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers on their meal preferences and contact details. The form will be used by staff to understand customer needs and preferences for catering purposes. This form is intended for customers who are ordering healthy meals, and the staff will use the collected data to prepare and deliver the meals accordingly.
-To ensure that the data collected is accurate and consistent, staff will check for duplicate entries to prevent over- or under-ordering of meals.
-</thinking>
-
 # Healthy Meal Order Form - Help Guide
 
 ## Purpose

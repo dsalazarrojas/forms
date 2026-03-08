@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the design and ordering of gardens for clients. This form likely exists to help clients provide information about their garden design needs, such as project type, location, contact details, and payment options. It also includes upload fields for files related to the project and fields for tracking the status of payments.
-
-</thinking>
-
 # Garden Design Order Form - Help Guide
 ## Purpose
 This form is used for clients to provide details about their garden design order. It includes fields to specify the project type, location, contact information, description, and payment details. The form also allows clients to upload relevant files related to the project.

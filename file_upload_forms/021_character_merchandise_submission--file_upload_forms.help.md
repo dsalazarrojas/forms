@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting character merchandise proposals and files to the team for review. The purpose of this form is to gather information about the submitted merchandise, including the submitter's contact information, product details, and relevant files. The form is designed to collect necessary data from creators and vendors to efficiently review and process their proposals. Please ensure you only submit one proposal per form. If you have multiple proposals, please submit them separately. If you are unsure about any field, please refer to the explanation below.
-</thinking>
-
 # Character Merchandise Submission - Help Guide
 ## Purpose
 This form is used to submit character merchandise proposals and files for review.

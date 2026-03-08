@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for citizens to upload their ID documents for various purposes, such as verification, account updates, application submissions, and more. The form asks for personal details like citizen name, email, phone number, date of birth, citizen ID number, current address, and purpose of document upload. It also requires the upload of a document with its front and back sides (if applicable), specifying the type and format of the document, as well as its size and quality. Additionally, the form inquires about the expiration date and issuing authority of the document, whether the citizen needs to upload additional documents, lists those additional documents, and confirms their consent to secure document handling. Finally, the form confirms the accuracy of the uploaded information and allows the citizen to add additional comments if needed.
-</thinking>
-
 # Citizen ID Document Upload Form - Help Guide
 ## Purpose
 This form is used to upload identification documents for various purposes such as verification, account updates, application submissions, and more.

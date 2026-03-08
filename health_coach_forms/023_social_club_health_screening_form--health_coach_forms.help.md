@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from members of a social club about their health screening results. The purpose of this form is to track member's health data, which can be used for club management and member engagement. This form is likely to be filled out by club members after being screened for health-related issues. The form is likely to be used by club administrators or health professionals to gather information and take necessary actions. This form does not appear to be a duplicate of other forms, and its fields seem to be well-defined and practical for its intended use.
-
-</thinking>
-
 # Social Club Health Screening Form - Help Guide
 ## Purpose
 The Social Club Health Screening Form is a tool used to gather health-related information from social club members. This form helps track member health data, which can be used for club management and member engagement.

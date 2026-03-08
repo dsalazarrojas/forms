@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the effectiveness of the workforce consulting services provided by a company. The purpose of this form is to gather opinions from employees on their engagement with the workforce consulting team, their satisfaction with the services provided, and any comments or suggestions they may have. This feedback will help the company understand how to improve their consulting services and better meet the needs of their workforce.
-
-To ensure that the feedback provided is accurate and relevant, please note that this form should only be filled out by employees who have interacted with the workforce consulting team in the past month. If you've interacted with the team in the past but have no feedback, please do not fill out this form. If you're unsure whether you've interacted with the team, please contact the HR department to clarify.
-
-Before proceeding, please review each section of the form to ensure you're providing accurate and relevant feedback. If you have any questions or concerns, please don't hesitate to contact the HR department for assistance.
-
-</thinking>
-
 # Workforce Consulting Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness of the workforce consulting services provided by a company. The goal is to understand how the services are perceived by employees who have interacted with the team in the past month.

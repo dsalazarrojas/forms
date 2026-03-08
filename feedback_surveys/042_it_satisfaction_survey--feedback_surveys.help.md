@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback from customers regarding their experience with the IT department's services. It aims to understand their perception of the quality, speed, and communication of the service provided. This will help the IT department identify areas of improvement and make necessary adjustments to enhance the customer experience.
-To ensure that the form is filled out by the right users, it's essential to confirm that the form is relevant to their feedback and not a duplicate.
-</thinking>
-
 # IT Satisfaction Survey - Help Guide
 ## Purpose
 The IT Satisfaction Survey is designed to collect feedback on the quality, speed, and communication of our IT services. Your input will help us improve our services and provide better support for you and our other customers.

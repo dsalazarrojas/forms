@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a personal or professional assessment, evaluation, or survey, particularly in the healthcare sector. It appears to be a comprehensive assessment form with various sections to collect different types of information. Before proceeding with this guide, ensure that the form is not a duplicate or a repetition of another assessment form in your organization, and it's relevant to your current project or task requirements.
-</thinking>
-
 # Metamorphosis Assessment - Help Guide
 ## Purpose
 The Metamorphosis Assessment form is designed to collect information for a comprehensive evaluation or assessment in the healthcare sector. It aims to gather details about the current state, goals, and progress of a subject or patient, along with personal and contact information.

@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Alcohol Consumption Survey" form, I need to first understand the purpose of this form and check for relevance and non-duplication of information.
-
-The form appears to be designed to collect data on an individual's alcohol consumption habits, including demographics, frequency and amount of drinking, drinking locations and companions, potential problems associated with drinking, and awareness and willingness to change their drinking habits. This form seems to be relevant to health professionals, researchers, or organizations interested in understanding the impact of alcohol consumption on individuals and society.
-
-Upon reviewing the form fields, I noticed that many of them are optional, suggesting that the form is not a strict, one-size-fits-all survey but rather a flexible tool to collect more comprehensive information.
-
-Before proceeding, I'd like to ask a few questions to clarify the form's purpose and potential use cases:
-
-* Is this form intended for general research or to support specific health programs or interventions?
-* Are there any specific requirements or constraints for the collected data (e.g., age, gender, or location-based restrictions)?
-* Are there any duplicate or redundant questions that can be removed or combined?
-* Are there any specific data analysis or reporting requirements for the form's results (e.g., statistical analysis, visualization, or charting)?
-
-Please respond with your feedback and questions to help me create an accurate and helpful user guide.
-
-</thinking>
-
 # Alcohol Consumption Survey - Help Guide
 
 ## Purpose

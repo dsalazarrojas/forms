@@ -1,16 +1,3 @@
-<thinking>
-This is a form for submitting a gaming innovation pitch, a platform for game developers to share their ideas and get feedback. To confirm that the form purpose and content are relevant, consider the following:
-
-This form is intended for game developers who want to submit their ideas for a game jam, which is a time-constrained game development event where game developers create games within a certain timeframe.
-
-The form is designed to gather information about the game concept, such as the game title, description, and any supporting files. This is likely to be used for internal review and potential collaboration or funding purposes.
-
-The form does not seem to be designed to handle multiple submissions or track progress in a project, as it is a one-time submission form.
-
-To avoid duplication of effort and misinterpretation of submitted information, it would be useful to add a "I have read and understood the game jam rules and guidelines" checkbox or a similar mechanism.
-
-</thinking>
-
 # Gaming Innovation Pitch Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact and order information from pharmacy distributors. It's likely used in a healthcare setting for tracking and managing orders. Ensure that the information provided is accurate and up-to-date to avoid any potential issues with order fulfillment and distributor communication. Review each field carefully to ensure you have filled out everything required for successful order processing and accurate reporting. Ensure you are submitting as the correct user or distributor.
-</thinking>
-
 # pharmacy_distributor_order_form - Help Guide
 ## Purpose
 This form is used to collect contact and order information from pharmacy distributors for accurate order processing and reporting in a healthcare setting.

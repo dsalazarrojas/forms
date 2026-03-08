@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medication_list - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information from players who are interested in participating in esports events. The form aims to gather data on their interest in participating, their details, and any additional information they would like to share. The purpose of this form is to ensure that players are aware of the events and rules associated with participating in esports and to gauge their interest level. 
-
-We will be checking for duplicate entries to avoid multiple forms from the same user. If a user has already submitted the form, they will not be able to submit it again. This will help us ensure that the data collected is accurate and up-to-date.
-
-</thinking>
-
 # Esports Participation Inquiry - Help Guide
 
 ## Purpose

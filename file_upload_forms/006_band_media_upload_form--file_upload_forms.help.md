@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help music artists or bands provide essential information and media assets to event organizers, promoters, or booking agents. The form is intended to be completed by band members or their representatives to ensure accurate and up-to-date information is shared with the intended parties. To prevent duplicate submissions, this form is meant to be filled out only once per band. Please ensure that you have all necessary information and media ready before proceeding, as it will be easier to fill out the form and reduce errors.</thinking>
-
 # Band Media Upload Form - Help Guide
 ## Purpose
 The Band Media Upload Form is a tool designed to streamline the process of sharing media assets and information with event organizers, promoters, and booking agents. This form helps ensure that all required details are provided in a clear and concise manner, facilitating a smooth communication process between the band and the intended parties.

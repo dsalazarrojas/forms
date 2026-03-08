@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a tax file declaration form, including its title, description, category, and file details. This form is designed to be completed by users to declare and upload their tax files. To ensure that users understand the form's relevance and to prevent duplication, please review the form fields carefully and only complete the form if you have a tax file declaration form that you would like to declare and upload.
-
-</thinking>
-
 # Tax File Declaration Form - Help Guide
 ## Purpose
 The Tax File Declaration Form is used to collect information about a tax file declaration form. This includes its title, description, category, and file details.

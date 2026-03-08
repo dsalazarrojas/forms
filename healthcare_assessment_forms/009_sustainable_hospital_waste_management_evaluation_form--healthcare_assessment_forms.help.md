@@ -1,10 +1,3 @@
-<thinking>... internal reasoning block ...
-This form is designed to evaluate the current state of sustainable hospital waste management practices, identifying areas of improvement and providing a platform for staff to share their opinions and ideas on how to address these challenges. To ensure consistency and relevance, please note that:
-- This form is part of a larger initiative to promote sustainability and reduce waste in hospitals.
-- Your feedback and suggestions will be used to identify areas of improvement and develop a plan for implementing sustainable waste management practices in hospitals.
-- Please provide honest and informed responses based on your experience and knowledge.
-... </thinking>
-
 # Sustainable Hospital Waste Management Evaluation Form - Help Guide
 ## Purpose
 The Sustainable Hospital Waste Management Evaluation Form is a tool designed to assess the current state of waste management practices in hospitals and identify areas for improvement. This form will help hospitals evaluate their current waste management practices, identify challenges, and suggest potential solutions to improve sustainability and reduce waste.

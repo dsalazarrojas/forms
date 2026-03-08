@@ -1,15 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "payu_donation_form", we need to consider the form's purpose and the fields it contains. 
-
-The form's purpose is to collect information from donators for donations, which implies that it is used to process and manage donations. 
-
-Considering the provided YAML fields, we can see that the form requires the following information from donators: name, email, phone number, amount of donation, purpose of donation, payment method, and donation status. 
-
-The form appears to be primarily designed for online or offline transactions, as it includes fields for payment method and amount. 
-
-</thinking>
-
 # payu_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from donators for donations, which is used to process and manage donations.

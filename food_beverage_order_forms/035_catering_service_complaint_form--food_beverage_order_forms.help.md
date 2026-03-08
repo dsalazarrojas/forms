@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is properly understood by the end users before they start filling it out. This form is used to report complaints or issues with the catering service provided. The goal is to capture all relevant details about the complaint, including the person filing the complaint, the event details, the issue description, and the desired resolution. It's essential to note that some fields are not required, and users should be aware of the options available for each field. The form will be used by the catering service team to investigate and resolve the complaint efficiently. To avoid duplicate complaints, the form should be completed with accurate information, especially for fields like "Complainant's Name," "Email Address," and "Order Number." These details will help the team to identify and address the issue effectively.
-
-</thinking>
-
 # Catering Service Complaint Form - Help Guide
 ## Purpose
 This form is used to report any issues or complaints about our catering services. Please fill out this form to provide us with essential details about your complaint, and we will do our best to resolve the issue as soon as possible.

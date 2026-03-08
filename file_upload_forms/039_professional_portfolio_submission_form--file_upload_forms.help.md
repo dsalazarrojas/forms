@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for users to submit their professional portfolio, which is a collection of their work and experiences in their field. To ensure that the form is completed accurately and efficiently, it's essential to understand its purpose and each field's meaning. This guide will walk you through each step of the form completion process.
 
 # professional_portfolio_submission_form - Help Guide

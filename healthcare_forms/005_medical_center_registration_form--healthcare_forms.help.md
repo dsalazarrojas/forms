@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Medical Center Registration Form - Help Guide
 ## Purpose
 The Medical Center Registration Form is a document used to collect patient information for treatment purposes. This form ensures that patients can provide necessary details about their health condition, insurance, and contact information, and helps our medical team understand their needs and provide the best care possible.

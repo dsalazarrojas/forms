@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to screen travelers for COVID-19 risks. The form is used to gather information about the traveler's health status, vaccination history, and travel plans. This will help the screening process determine if the traveler is safe to travel or if further evaluation is required. The form will ask about symptoms, travel history, and vaccination status. It will also ask about any close contact with COVID-19 cases or diagnosed cases within the past 14 days. This form will help the organization ensure that the travelers are not putting themselves or others at risk of getting infected or spreading the virus.
-</thinking>
-
 # COVID 19 Out Of State Travel Screening Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the risk of COVID-19 transmission for travelers visiting other states. It will help determine if the traveler is safe to travel or if further evaluation is required.

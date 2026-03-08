@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect information about health and wellness programs for the organization, participant demographics, program goals, and evaluation outcomes. This form will likely be used by healthcare professionals or program administrators to report on program activities, outcomes, and recommendations. 
-
-To ensure that the form is completed accurately, it's essential to review the fields and their labels carefully. 
-
-Please note that some fields are not marked as required, but it's crucial to fill in all relevant information to ensure a comprehensive report. 
-
-The following fields might be subject to change or have specific requirements depending on the organization's needs or regulations. 
-</thinking>
-
 # Health And Wellness Program Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about health and wellness programs, including details about the organization, program goals, participant demographics, and evaluation outcomes.

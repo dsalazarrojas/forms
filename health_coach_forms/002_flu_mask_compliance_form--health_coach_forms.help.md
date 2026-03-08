@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track flu compliance in a medical facility. It's essential to understand that flu compliance refers to the steps taken by a healthcare organization to prevent the transmission of influenza. This form helps in monitoring and managing patient data for flu exposure, symptoms, and treatments. It's likely that this form will be used by healthcare professionals to gather accurate information and make informed decisions regarding flu prevention and treatment.
-</thinking>
-
 # flu_mask_compliance_form - Help Guide
 ## Purpose
 The flu mask compliance form is used to track and document patient information related to flu exposure, symptoms, and prevention measures in a medical facility.

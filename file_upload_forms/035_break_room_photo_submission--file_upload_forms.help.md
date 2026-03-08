@@ -1,7 +1,3 @@
-<thinking>
-To ensure the break room photos submission process is accurate, we need to prevent duplicates. The form is for employees to submit photos of the break room, providing details on the state of the area. This form should only be filled out once for each new photo submission. To confirm this is a new submission, check that the photo date is different from previous submissions. This form is not intended for submitting photos of equipment or other areas of the building, so please only submit photos of the break room.
-</thinking>
-
 # Break Room Photo Submission - Help Guide
 ## Purpose
 The Break Room Photo Submission form is for employees to submit photos of the break room, helping the facilities team to keep the area clean and well-maintained. Please submit photos of any issues or concerns you have, and provide detailed descriptions to help us address the issues promptly.

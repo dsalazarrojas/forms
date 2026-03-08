@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is for collecting information from participants about a holiday giveaway. This form should only be completed once per participant. If a participant has already completed this form, their information should not be accepted.
-
-Before completing this form, please ensure that you have all the necessary information for the participant and that their responses are accurate. If you are unsure about any of the fields, please contact the relevant authorities.
-
-</thinking>
-
 # Holiday Giveaway Information Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants about a holiday giveaway. This information will be used to process participant requests and ensure that gifts are distributed fairly and correctly.

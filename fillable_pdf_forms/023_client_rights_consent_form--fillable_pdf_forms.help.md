@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain client rights consent for a specific service or treatment. It ensures that the client is aware of their rights, understands the risks involved, and consents to the proposed service or treatment. The form should be completed by the client before proceeding with the service. It's essential to review and understand each field's purpose to ensure accurate completion.
-</thinking>
-
 # Client Rights Consent Form - Help Guide
 ## Purpose
 The Client Rights Consent Form is used to gather essential information and consent from clients before proceeding with a service or treatment. This form ensures that clients are aware of their rights, understand the risks involved, and provide informed consent for the proposed service or treatment.

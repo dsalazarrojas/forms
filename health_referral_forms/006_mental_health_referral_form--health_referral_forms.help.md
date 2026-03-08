@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Referral Form - Help Guide
 ## Purpose
 The Mental Health Referral Form is used to collect information about clients seeking mental health services. This form helps healthcare professionals identify the type of mental health issues, the level of priority needed, and other essential details about the client. 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather daily weather records from users, which can be useful for tracking weather patterns over time. The form is divided into multiple pages, each representing a different aspect of weather data. The form's fields will likely be filled out by users who need to report on weather conditions at a specific location. This is not intended for use as a general weather forecast or weather reporting platform.
-
-Before starting, ensure that the fields and options are relevant to your needs and that no other form is available for the same purpose. Please ensure to review and update the form fields according to your organization's needs and policies.
-</thinking>
-
 # Daily Weather Record - Help Guide
 ## Purpose
 The Daily Weather Record form is designed to collect weather data for monitoring weather patterns over time.

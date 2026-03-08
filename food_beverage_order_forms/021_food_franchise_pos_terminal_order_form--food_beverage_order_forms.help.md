@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a simple order form for a food franchise's POS terminal. The purpose of this form is to collect information from the customer, including order details, payment method, and contact information. This form will be used by employees to efficiently process orders and communicate with customers. It's possible that this form may be used in conjunction with other forms or systems for more complex transactions, but this guide will only cover the specifics of this form. 
-
-Before creating a new order, please ensure that all relevant forms have been completed and that you have checked with a supervisor or colleague if you're unsure about any fields. 
-
-This guide will cover how to fill out the form, what each field is for, and any additional tips to ensure accurate and efficient use.
-</thinking>
-
 # Food Franchise POS Terminal Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for orders processed at the terminal. It includes details about the order, payment method, and contact information.

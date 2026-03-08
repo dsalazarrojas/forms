@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information about an individual who would like to get on a list for a specific charity or organization. It's designed to collect contact information and donation preferences.
-
-Before filling out this form, please ensure that you're not already registered with the charity/organization. If you've already provided your information, you will not need to fill it out again.
-
-This form will ask for personal contact information such as name, email, and phone number, as well as information about your donation preferences, such as frequency and method of donation.
-
-The form is divided into several sections, each with specific fields that should be filled out carefully to ensure accurate and complete information.
-
-</thinking>
-
 # Tip Jar Get On The List Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who want to get on a list for a specific charity or organization.

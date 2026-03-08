@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the event banners, specifically about their signage. The main goal is to get an understanding of how well the banners are visible, readable, and understood by the audience. This feedback will help the event organizers to make improvements in future events.
-
-To avoid duplication of efforts, please ensure that you have not already submitted this form for this event. If you have any previous feedback, kindly refer to it and provide an update if needed.
-
-Please note that some fields are optional, and the ones marked as required are necessary for the form submission.
-
-</thinking>
-
 # Event Banner Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the event banners, specifically about their signage. The main goal is to get an understanding of how well the banners are visible, readable, and understood by the audience.

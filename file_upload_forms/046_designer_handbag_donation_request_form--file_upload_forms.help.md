@@ -1,5 +1,3 @@
-<thinking>This form is a comprehensive tool used to collect information for designer handbag donation requests. It is crucial that you understand the purpose and usage of each field to ensure accurate and relevant data submission. Before starting, please review the form carefully and ensure you are filling it out for the correct purpose.</thinking>
-
 # Designer Handbag Donation Request Form - Help Guide
 ## Purpose
 The Designer Handbag Donation Request Form is a tool used to gather information from individuals or organizations requesting designer handbags. This form will help us understand the specific requirements and preferences of each donor, ensuring that we can provide the best possible match for their donation needs.

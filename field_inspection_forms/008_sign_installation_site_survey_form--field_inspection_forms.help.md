@@ -1,8 +1,3 @@
-<thinking>
-The form is used for collecting site-specific data from customers who are requesting a sign installation service. This data is used by the team to evaluate the site conditions and ensure that the project is properly scoped and executed. It's essential that the fields are completed accurately and consistently, as the information collected here will be used to inform the project's progress and success. Please ensure that you fill out each field as thoroughly and honestly as possible to provide a comprehensive overview of the site.
-
-</thinking>
-
 # Sign Installation Site Survey Form - Help Guide
 ## Purpose
 The Sign Installation Site Survey Form is used to collect site-specific information from customers who are requesting a sign installation service. This form helps our team evaluate the site conditions and ensure that the project is properly scoped and executed.

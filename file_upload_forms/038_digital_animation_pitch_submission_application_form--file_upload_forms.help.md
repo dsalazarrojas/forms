@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect information about a digital animation pitch submission, allowing users to provide a clear and detailed description of their project. This form is intended for internal use within the organization, and the submissions will be reviewed and evaluated by relevant teams. 
-
-Before proceeding, please ensure that your project is not a duplicate and is not already in the review queue. If you're unsure, please contact the internal team for clarification.
-
-This form will guide you through the process of submitting a digital animation pitch, covering the project's details, genre, style, length, and uploaded files.
-</thinking>
-
 # digital_animation_pitch_submission_application_form - Help Guide
 ## Purpose
 The digital animation pitch submission application form is a tool for collecting detailed information about your digital animation project. It's intended for internal use within the organization, where submitted projects will be reviewed and evaluated by relevant teams.

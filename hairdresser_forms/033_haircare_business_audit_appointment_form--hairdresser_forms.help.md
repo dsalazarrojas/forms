@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help haircare businesses conduct thorough audits of their appointments. The purpose of this form is to gather essential information from clients about their experience, satisfaction, and preferences regarding their appointment. This data can be used to identify areas of improvement and make informed decisions for business growth. By filling out this form, clients can provide valuable feedback that helps haircare businesses tailor their services to better meet their needs.
-</thinking>
-
 # Haircare Business Audit Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients to help haircare businesses improve their services and client satisfaction.

@@ -1,14 +1,3 @@
-<thinking>
-To avoid confusion and potential data redundancy, the "Anime Viewing Preferences Survey" form is designed to collect information about a respondent's viewing habits, preferences, and behaviors related to anime. This form is meant to elicit detailed and specific information about the user's preferences, allowing for a more accurate representation of the audience's views on anime.
-
-To ensure the integrity of the data collected, it is essential to avoid duplication of information and focus on unique and specific details.
-
-The form is structured to gather information across various categories, including demographics, viewing habits, preferences, and engagement with the anime community. Each section is designed to provide a comprehensive overview of the respondent's anime viewing experience.
-
-To facilitate accurate and helpful feedback, please answer each question carefully and truthfully.
-
-</thinking>
-
 # Anime Viewing Preferences Survey - Help Guide
 
 ## Purpose

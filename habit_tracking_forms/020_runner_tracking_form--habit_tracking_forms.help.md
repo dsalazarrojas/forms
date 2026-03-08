@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to track a runner's activity, collecting information about the date, location, distance, type, and other details of a run. The form should be completed for every run, walk, or other form of physical activity. Please ensure that you are using this form correctly by following the instructions below.
 
 # Runner Tracking Form - Help Guide

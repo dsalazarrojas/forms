@@ -1,12 +1,3 @@
-<thinking>
-We'll use the form schema to create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-
-The Receipt Reporting Form is used for reporting receipts and expenses associated with a purchase. The form is designed to be completed by users to provide detailed information about their receipt reporting, including the receipt itself, purchase date and time, total cost, category of the purchase, payment method, and other relevant details.
-
-Before completing the form, please ensure that you have a valid receipt and all the necessary information required to fill out the form accurately. This form is meant for reporting a single receipt, so please do not submit multiple receipts through this form.
-
-</thinking>
-
 # Receipt Reporting Form - Help Guide
 ## Purpose
 The Receipt Reporting Form is used for reporting receipts and expenses associated with a purchase. It provides a structured way to submit detailed information about the receipt, including purchase date and time, total cost, category of purchase, payment method, and other relevant details.

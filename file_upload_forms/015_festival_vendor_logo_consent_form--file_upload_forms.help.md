@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from festival vendors regarding their logo and other relevant details for a specific festival event. The form aims to obtain the vendor's consent for their logo to be used in the festival marketing materials, as well as to gather essential information such as event name, date, location, and contact details. The form is divided into several sections, including fields for vendor logo, brand assets, festival organizer, vendor permission, vendor name, email, phone number, description, event name, event date, event time, festival location, vendor license, and submission date. Each field is marked as either "required" or "optional" as per the festival organizer's requirements. The form can be completed by the festival vendor, and it is essential to fill out all required fields to ensure that the information is accurately recorded.
-</thinking>
-
 # Festival Vendor Logo Consent Form - Help Guide
 ## Purpose
 The Festival Vendor Logo Consent Form is a crucial document that allows festival organizers to collect necessary information from vendors for the festival event. By filling out this form, vendors can provide their consent for their logo to be used in festival marketing materials and ensure that their brand assets are correctly represented.

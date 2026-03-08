@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from employees about their W-4 form status and related tax deductions. It's essential to ensure the accuracy and correctness of the information provided to prevent any potential tax-related issues. The form is designed to be completed by employees, and the purpose of this guide is to help them understand what to expect and how to fill it out properly.
-
-Before starting, please review the W-4 form and ensure you haven't already filled it out and submitted it to the relevant authorities. This will save you time and prevent duplication of effort.
-
-</thinking>
-
 # W4 Form - Help Guide
 ## Purpose
 The W4 Form is used to collect information from employees about their W-4 form status and related tax deductions. It's a critical document that helps the HR department and payroll team to process tax-related tasks correctly.

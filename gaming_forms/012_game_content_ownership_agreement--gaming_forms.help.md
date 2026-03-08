@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about game content ownership, likely for use in the video game industry. It is likely used to establish the ownership and creation details of a game, including the creator's and studio's names, emails, content type, and content description. This form may be used for internal purposes within a company or organization that develops, publishes, or distributes games. The form's fields and options suggest it is not a survey form but rather a straightforward information collection form. The form does not contain any sensitive or personally identifiable information fields, making it suitable for general use. The fields are minimal, which implies the form is intended to collect only essential information about game content ownership. The date field suggests a timestamp for the agreement, possibly for record-keeping purposes. There is no indication that this form is used in conjunction with any other form, platform, or process.
-</thinking>
-
 # Game Content Ownership Agreement - Help Guide
 ## Purpose
 This form is used to establish the ownership and creation details of a game, including the creator's and studio's names, emails, content type, and content description.

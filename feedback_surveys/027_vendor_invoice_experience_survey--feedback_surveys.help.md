@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from vendors on their experience with the invoice process. The purpose of this form is to gather information that can be used to improve the vendor invoice experience, which can ultimately impact the vendor relationship and overall business performance. By understanding how vendors perceive the invoice process, the company can identify areas for improvement and make data-driven decisions to optimize the process.
 
 # Vendor Invoice Experience Survey - Help Guide

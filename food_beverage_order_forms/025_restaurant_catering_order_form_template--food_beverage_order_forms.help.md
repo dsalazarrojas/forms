@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help restaurants take catering orders from customers. The form allows customers to provide their contact information, select options for their order, and add any additional comments. The purpose of this form is to simplify the order-taking process and ensure accurate and clear communication between the restaurant and the customer. This form is intended for both internal and external use, and can be used by restaurants to streamline their catering order process.
-
-</thinking>
-
 # Restaurant Catering Order Form Template - Help Guide
 ## Purpose
 The Restaurant Catering Order Form Template is a document that allows customers to provide their information and select options for their catering order.

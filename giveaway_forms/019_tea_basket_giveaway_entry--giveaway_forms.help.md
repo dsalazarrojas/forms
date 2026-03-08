@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Tea Basket Giveaway Entry - Help Guide
+> # Tea Basket Giveaway Entry - Help Guide
 
 ## Purpose
 The "Tea Basket Giveaway Entry" form is a user-facing form designed to collect information from participants in a giveaway event organized by a tea company. The form is used to gather details about the participant, their preferred delivery location and time, and the type of tea they would like to receive.

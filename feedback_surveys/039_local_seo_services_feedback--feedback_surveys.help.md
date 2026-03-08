@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on the local SEO services provided by the organization. This form is designed to gather information on user satisfaction, services used, and any comments or feedback they may have. The form should not be filled out multiple times by the same user, so the form should be filled out only once per user, and the "Assigned Tool" field can help with this by ensuring that each user is associated with a unique tool. The output file option is used to generate a file with the user's feedback and comments, which can be useful for later reference and analysis.
-</thinking>
-
 # Local SEO Services Feedback - Help Guide
 ## Purpose
 The "Local SEO Services Feedback" form is designed to collect feedback from users on the local SEO services provided by the organization. This form is used to gather information on user satisfaction, services used, and any comments or feedback they may have.

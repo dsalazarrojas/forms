@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Receiving Temperature Form - Help Guide
 
 ## Purpose

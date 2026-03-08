@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form and its fields.
-
-The form, titled "Hospital Hygiene Standards Assessment Form", appears to be designed for assessing the standards of hospital hygiene. The form has several fields for gathering information, including category, description, comments, date and time, phone number, email, and ratings and scores for various aspects of hospital hygiene. The form also has multiple fields for scoring different aspects, such as Score 1 to Score 11. It is likely that this form is used for regular assessments and evaluations of hospital hygiene standards.
-
-Upon analyzing the form fields, I noticed that some fields may have been duplicated or have overlapping information. For example, "Form Title", "Description", and "Comments" seem to be similar fields that could potentially be combined or made more specific.
-
-However, considering the provided YAML, I will assume that each field has a specific purpose and create a help guide accordingly.</thinking>
-
 # Hospital Hygiene Standards Assessment Form - Help Guide
 ## Purpose
 The Hospital Hygiene Standards Assessment Form is designed to assess and evaluate the standards of hospital hygiene. This form helps healthcare professionals identify areas of improvement and ensure that the hospital meets the required standards of cleanliness and sanitation.

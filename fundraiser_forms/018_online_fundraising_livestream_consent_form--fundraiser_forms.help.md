@@ -1,7 +1,3 @@
-<thinking>...
-This form is a critical component of our online fundraising efforts, and as such, it requires a clear and concise help guide to ensure end users understand its purpose and how to complete it accurately.
-... </thinking>
-
 # Online Fundraising Livestream Consent Form - Help Guide
 ## Purpose
 The Online Fundraising Livestream Consent Form is a crucial document that captures critical information from participants in our online fundraising events. It helps us to collect consent and relevant details from participants, ensuring a seamless and secure experience for everyone involved.

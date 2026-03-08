@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a raffle entry related to emotional intelligence. This form is likely to be used within a specific organization or community that is interested in promoting emotional intelligence, and the entries will be used to identify a winner of some sort of prize or recognition. To avoid duplicating entries and ensure fair participation, this form should not be accessible to people who have already participated in the emotional intelligence raffle. It seems the form is meant to collect some basic contact information (name, email, phone), a reflection from the participant, comments from the participant, and the winner's information for the same fields but with some differences (no participant_reflection, winner_comment are not exactly the same, but related).</thinking>
-
 # emotional_intelligence_raffle_entry - Help Guide
 ## Purpose
 The "emotional_intelligence_raffle_entry" form is a tool to collect participant information and comments for an emotional intelligence raffle. The form is designed to gather details from both participants and a single winner, promoting emotional intelligence within a specific organization or community.

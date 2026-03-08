@@ -1,10 +1,3 @@
-<thinking> 
-To avoid duplication, this form is designed for end-users to apply for an E Bike rebate. The form is intended for individuals who have recently purchased an E Bike and would like to apply for a rebate. The form should only be submitted once an E Bike purchase has been made. If the applicant has already submitted a rebate request, they can check the status of their request on the provided rebate portal. 
-
-The form's fields are divided into three categories: Contact Information (fields 1-3), E Bike Details (fields 4-7), and Additional Documents (fields 8-12). The form requires minimal information to be filled out in order to be submitted for review. However, applicants are advised to attach as much supporting documentation as possible to increase their chances of receiving the rebate.
-
-</thinking>
-
 # E Bike Rebate Application Form - Help Guide
 ## Purpose
 The E Bike Rebate Application Form is designed to allow end-users to apply for an E Bike rebate. To be eligible, the user must have purchased an E Bike and be willing to provide minimal information about their purchase and themselves.

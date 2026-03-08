@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about government instrumentalities, which are organizations that provide services to the public. The purpose of this form is to gather information about users' experiences with these instrumentalities, including their satisfaction with the services provided, the effectiveness of the instrumentalities, and any additional comments or suggestions they may have. This form will help the government instrumentalities to understand what they are doing well and what areas they need to improve in order to provide better services to the public.
-Before filling out this form, please note that it is designed to be a one-time submission and will not require any follow-up questions or actions. Each field is designed to help the instrumentalities understand different aspects of their performance.
-</thinking>
-
 # Government Instrumentality Feedback Survey - Help Guide
 
 ## Purpose

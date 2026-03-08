@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for reporting COVID-19 test results and related information. It's essential to fill out this form accurately and completely to ensure proper reporting and handling of test results. 
-
-The form is divided into several sections, each with specific fields that need to be filled out. This guide will walk you through each section and field, explaining what to expect and how to complete each one.
-
-Before filling out the form, please note that some fields are optional, but all required fields must be filled out as they are marked with an asterisk (*) or indicated as "required" in the instructions.
-
-To complete this form, please read each section carefully and follow the instructions for each field.
-
-</thinking>
-
 # COVID 19 Test Result Reporting Form - Help Guide
 ## Purpose
 The purpose of this form is to report COVID-19 test results and related information. This includes reporting positive, negative, or inconclusive test results, and providing information about symptoms and exposure to COVID-19.

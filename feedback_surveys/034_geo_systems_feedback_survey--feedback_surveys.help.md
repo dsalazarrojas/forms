@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # geoSystemsFeedbackSurvey - Help Guide
 ## Purpose
 The geoSystemsFeedbackSurvey form is designed to collect feedback from users about their experience with geoSystems. This form is used to gather information on the overall impression of the user, their rating of the experience, the mapping platform they use most frequently, the duration of use, and additional comments. The form is used to collect feedback on how to improve geoSystems.

@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form's purpose and required information to ensure relevance and non-duplication. The form is titled "Repair Request Survey" and seems to be designed to collect feedback and information from customers about their repair experience. The fields suggest that the form is used to gather data on the repair process, customer satisfaction, and technician performance. To avoid duplication, let's focus on providing clear and concise explanations for each field, assuming that the form is designed to collect data for internal use and reporting purposes.</thinking>
-
 # Repair Request Survey - Help Guide
 
 ## Purpose

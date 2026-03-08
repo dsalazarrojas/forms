@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the submission of an application for the Eco Exhibit Design project. It collects contact information, proposal details, and other relevant data from applicants. The purpose of this form is to provide a structured way for applicants to submit their proposals and supporting information in a concise and organized manner. This form is intended for use by individuals who want to participate in the Eco Exhibit Design project and is designed to be completed by potential participants. Please ensure that you have read and understand the project requirements before filling out this form. Ensure you have checked for any internal or external duplication.
-</thinking>
-
 # Eco Exhibit Design Application Form - Help Guide
 ## Purpose
 The Eco Exhibit Design Application Form is used to collect information from applicants who wish to participate in the Eco Exhibit Design project. This form will guide you through the necessary steps to submit your proposal and any additional information required for the project.

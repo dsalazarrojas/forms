@@ -1,5 +1,3 @@
-<thinking>...this form is intended to collect information from presenters for a presentation submission. The form is designed to gather relevant details such as speaker bio, presentation title, date, and time. It also collects file uploads and other supporting information. This form will help in ensuring that all the necessary information is collected from the presenters which will aid in the smooth presentation and evaluation process.</thinking>
-
 # Presentation Submission Form - Help Guide
 ## Purpose
 This form is intended for presenters to submit their presentation information, including speaker bio, presentation title, date, time, and supporting files. This will aid in the evaluation and presentation process.

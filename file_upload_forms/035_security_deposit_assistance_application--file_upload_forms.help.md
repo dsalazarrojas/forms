@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assist tenants in applying for security deposits. It is designed to collect relevant information and supporting documents from tenants to facilitate the review and processing of their security deposit applications. This form is meant to reduce paperwork and streamline the process for both tenants and housing management staff.
 
 </thinking>

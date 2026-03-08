@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users who have undergone local anesthesia procedures. The purpose of this form is to gather information about the users' overall experience, comfort level, and any side effects they may have experienced. This feedback will help our team to evaluate and improve the quality of our services. Before providing your feedback, please ensure that you have not already completed this form, as duplication may lead to unnecessary data and confusion. If you have any concerns or questions, please feel free to reach out to us.
-</thinking>
-
 # local_anesthesia_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients who have undergone local anesthesia procedures. Your input will help us understand your experience, identify areas for improvement, and enhance our services.

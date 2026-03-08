@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be a reference point for users to understand the purpose and usage of the "Gala Dinner Fundraising Event Feedback Form". The form is designed to collect feedback from attendees, donors, and volunteers about their impressions and experiences with the gala dinner event. The form aims to gather information on various aspects of the event, including food, entertainment, and overall experience, to help identify areas of improvement and enhance future events. This guide will walk users through each field on the form to ensure a smooth and accurate completion process.
-
-</thinking>
-
 # Gala Dinner Fundraising Event Feedback Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-...The purpose of this form is to collect feedback on the design and effectiveness of our emails, with the goal of improving user experience. This form is designed to gather insights on various aspects of email design, including overall satisfaction, attention span, visual appeal, and preferred styles. It will help us identify areas of improvement and make informed decisions for future design updates. Please fill out this form to provide your honest feedback, and help us create more engaging and effective emails for you. Note that your responses will be kept confidential and will only be used to improve our email design process. If you have already filled out this form, please do not submit it again. Your feedback is invaluable to us, and we appreciate your contribution to our design process. If you have any questions or concerns, feel free to reach out to us at form@gic.mx.
-</thinking>
-
 # email_design_questionnaire_template - Help Guide
 ## Purpose
 The email design questionnaire is a form designed to gather feedback on the design and effectiveness of our emails, aiming to improve user experience.

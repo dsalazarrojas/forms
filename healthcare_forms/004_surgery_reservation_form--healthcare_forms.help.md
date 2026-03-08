@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surgery Reservation Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients for surgery reservation purposes. It is intended to be completed by the patient or their representative to provide details about the procedure, including name, contact information, and appointment details.

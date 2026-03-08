@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users troubleshoot issues with a financial model by gathering relevant information about the problem, including its urgency, description, and type. The form is intended for internal use by financial model administrators or support teams. It should only be used to report issues that directly relate to the financial model, such as errors with the model's output, data discrepancies, or issues with the model's functionality. The form should not be used for general inquiries or non-technical issues. The form's fields are designed to collect specific information about the issue, including its urgency, description, type, and any supporting files that may be relevant to the problem.
-</thinking>
-
 # financial_model_troubleshooting_guide - Help Guide
 ## Purpose
 This form is designed to help users troubleshoot issues with a financial model. It is intended for internal use by financial model administrators or support teams and should only be used to report issues that directly relate to the financial model.

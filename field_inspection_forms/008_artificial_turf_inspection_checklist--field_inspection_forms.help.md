@@ -1,16 +1,3 @@
-<thinking> 
-This form is used to conduct a thorough inspection of artificial turf fields, ensuring that all relevant information is collected and documented during the inspection process. The form is divided into 17 fields, each designed to capture specific details about the field's condition, maintenance, and other key factors. This guide will walk you through the purpose and requirements of each field to help users complete the form accurately and efficiently.
-
-To determine whether to use this form, ask yourself:
-
-* Are you inspecting an artificial turf field?
-* Do you need to document the condition, maintenance, and other relevant details of the field?
-* Are you looking for a standardized way to report your findings?
-
-If you answered "yes" to these questions, this form is likely the right tool for you.
-
-</thinking>
-
 # Artificial Turf Inspection Checklist - Help Guide
 
 ## Purpose

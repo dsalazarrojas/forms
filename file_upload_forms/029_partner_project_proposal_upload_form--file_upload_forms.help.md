@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a partner project proposal from a submitter. 
-When submitting a proposal, please ensure that the project category is selected correctly, as it will help us process your proposal accurately.
-The project deadline is a required field, please enter the date by which you would like the project to be completed.
-If you need to upload any additional files for the project, you can do so in the "project_file" field.
-Please ensure to provide a valid email address in the "submitter_email" field.
-</thinking>
-
 # partner_project_proposal_upload_form - Help Guide
 ## Purpose
 This form is used to collect information for a partner project proposal from a submitter.

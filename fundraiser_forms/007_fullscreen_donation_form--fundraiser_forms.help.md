@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information and donations for a fundraising campaign. This form will likely be displayed on a website or landing page for users to input their personal details and donation amount. The form should only need to be filled out once per person, to minimize unnecessary repetition and ensure accurate data collection.
-</thinking>
-
 # Fullscreen Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations for a fundraising campaign.

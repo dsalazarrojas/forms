@@ -1,9 +1,3 @@
-<thinking> 
-This form is used to report any suspicious activity that may be related to financial activities. It is intended for use by customers or employees to report any unusual or irregular transactions. The form is not intended to be used for routine financial reporting or for reports of non-suspicious activities. Please ensure you are using this form only for genuine suspicious activity reports. Before completing this form, review the fields below to ensure you are reporting the correct information. 
-
-This help guide provides step-by-step instructions for completing the Suspicious Activity Report Form.
-</thinking>
-
 # Suspicious Activity Report Form - Help Guide
 ## Purpose
 The Suspicious Activity Report Form is a tool used to report any financial-related activities that seem irregular or unusual. It's used to report any activities that raise concerns about fraudulent or illicit activities.

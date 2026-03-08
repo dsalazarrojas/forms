@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from presenters who wish to submit a proposal for the Architectural Symposium. The form is designed to gather relevant details about the presenter and their proposal, including presenter information, proposal details, and presentation format and materials. This form is only for submission of architectural symposium proposals and should not be used for other purposes. Duplicate submissions will not be accepted.
-</thinking>
-
 # Architectural Symposium Proposal Submission - Help Guide
 ## Purpose
 This form is designed for presenters to submit a proposal for the Architectural Symposium.

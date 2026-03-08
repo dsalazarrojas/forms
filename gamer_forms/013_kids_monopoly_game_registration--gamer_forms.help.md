@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user data for a kids' Monopoly game registration. The form will be used to gather information from both the user and their guardian, which is then stored for future reference. To avoid duplication, the form is only accessible to authorized users who have the necessary permissions to access the user data. This form is part of a larger system for managing user and game data.
-</thinking>
-
 # kids_monopoly_game_registration - Help Guide
 ## Purpose
 The kids' Monopoly game registration form is designed to collect essential details from users and their guardians for game participation. This information will be stored securely for future reference.

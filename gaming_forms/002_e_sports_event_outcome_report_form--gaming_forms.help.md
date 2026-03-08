@@ -1,5 +1,3 @@
-<thinking>As this form is designed for tracking e-sports event outcome reports, it is crucial to ensure that users understand its purpose and how to complete it accurately. This form aims to collect data on specific events, including the event's ID, name, date, participant information (player ID, name, and performance), and audience engagement details (size, level, and comments). The form's fields should be filled in with care, following the instructions below.</thinking>
-
 # e_sports_event_outcome_report_form - Help Guide
 ## Purpose
 The e_sports_event_outcome_report_form is designed to collect data on e-sports events, allowing you to track and analyze their outcomes. This form helps you to record essential information such as event ID, name, date, and participant details, as well as audience engagement metrics.

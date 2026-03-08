@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about gamers' preferences and habits, specifically to help game developers and publishers create more engaging and relevant content. This form will help us understand what platforms, genres, and strategies players are most interested in, as well as their time commitment, skill levels, and preferred player types. The goal is to gather data that can inform game development decisions and provide a better experience for players. Please note that all information collected will be kept confidential and used only to improve our services.
-
-</thinking>
 # Gaming Strategy Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your gaming preferences and habits to help game developers and publishers create more engaging and relevant content.

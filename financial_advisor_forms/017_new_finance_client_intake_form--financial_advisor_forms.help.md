@@ -1,7 +1,3 @@
-<thinking>
-The new_finance_client_intake_form is used to collect information from new financial clients. This form is designed to be used during the initial intake process, helping financial advisors gather essential details about their new clients in a streamlined and organized manner. The form ensures that all required fields are filled out, reducing the likelihood of missing important information that may impact the quality of service provided to the client. To confirm the purpose and relevance of this form, let's ensure it meets the requirements of our organization's financial advisory services and is not used to collect redundant or duplicate information.
-</thinking>
-
 # new_finance_client_intake_form - Help Guide
 ## Purpose
 The new_finance_client_intake_form is designed to collect essential information from new financial clients during the initial intake process, helping financial advisors provide high-quality services.

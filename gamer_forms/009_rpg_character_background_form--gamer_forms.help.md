@@ -1,15 +1,3 @@
-<thinking>... internal reasoning ...
-
-This form is likely used in a role-playing game (RPG) setting, where users create characters and associate them with campaigns. The form collects information about the character's background and campaign settings. It's probable that the form is used by game masters (GMs) to create and manage character data for a campaign.
-
-The main purpose of this form is to gather character-specific data, including name, class, age, gender, and background information, as well as campaign details like campaign name, type, and notes. 
-
-The form is likely used in conjunction with other form fields, like player and game master data, which might not be included here.
-
-Form validation and error checking should be implemented according to the requirements and options specified in the form schema.
-
-</thinking>
-
 # RPG Character Background Form - Help Guide
 ## Purpose
 The **RPG Character Background Form** is used to collect character background information and campaign details for a role-playing game.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential team members who are interested in joining the mobile game team. The form has two main objectives: first, to gather general information about the applicant, including their gaming experience and availability, and second, to collect specific details about their team composition, game preferences, and schedule. This form will be used to evaluate applicants for potential team positions. Please make sure to fill in all required fields to ensure your application is complete.
-</thinking>
-
 # Mobile Game Team Application Form - Help Guide
 ## Purpose
 This guide is intended to provide a clear understanding of how to fill in the Mobile Game Team Application Form.

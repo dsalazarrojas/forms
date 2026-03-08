@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # studio_usage_feedback - Help Guide
 ## Purpose
 The "studio_usage_feedback" form is designed to collect feedback from users about their experience with our studio service. This form will help us identify areas of improvement, understand what we're doing right, and provide a platform for users to share their thoughts and suggestions.

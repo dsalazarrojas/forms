@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consultant Report Submission - Help Guide
 ## Purpose
 This form is designed for consultants to submit their reports, including project status updates, findings, and recommendations, as well as any accompanying files and visual assets. It serves as a centralized platform for internal stakeholders to review and manage submissions.

@@ -1,6 +1,3 @@
-<thinking>
-The Fire Investigation Report Form is a document used to gather information about a fire incident, including the date and time of the incident, the location and circumstances surrounding the fire, and details about the response and extinguishing actions taken by firefighters. Before completing this form, it's essential to understand the context and ensure that this is the correct form for your specific fire investigation report. Please ensure that you've already completed the fire report and that the information in this form is an update or addition to the original report, if needed.</thinking>
-
 # Fire Investigation Report Form - Help Guide
 ## Purpose
 The Fire Investigation Report Form is used to gather detailed information about a fire incident, including the date and time, location, cause, and response details.

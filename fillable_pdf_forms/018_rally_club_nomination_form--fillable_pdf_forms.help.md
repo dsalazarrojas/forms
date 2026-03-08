@@ -1,8 +1,3 @@
-<thinking>
-This form is for nominating a user to the Rally Club. The purpose of this form is to gather information about the nominated user, including their role, award details, and contact information. This form is used to ensure that the Rally Club is aware of the user's achievements and can consider them for membership.
-The form will not be duplicated for the same user. If a user has already been nominated, their nomination will be updated instead of creating a new one.
-</thinking>
-
 # Rally Club Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate a user to the Rally Club. The form gathers information about the nominated user, including their role, award details, and contact information.

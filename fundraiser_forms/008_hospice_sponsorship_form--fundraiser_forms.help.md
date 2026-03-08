@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about hospice sponsorships, including the charity being sponsored, the sponsor's contact information, and any relevant notes or details. This form is likely used for internal tracking and record-keeping purposes.
-</thinking>
-
 # hospice_sponsorship_form - Help Guide
 ## Purpose
 This form is used to document and track information about hospice sponsorships.

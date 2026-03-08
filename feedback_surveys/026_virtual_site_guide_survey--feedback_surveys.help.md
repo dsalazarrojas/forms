@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the form is used as intended, please review the form purpose and fields before completing it. This guide is intended to help you understand the form's purpose and how to fill it out correctly.
 
 ### Virtual Site Guide Survey - Help Guide

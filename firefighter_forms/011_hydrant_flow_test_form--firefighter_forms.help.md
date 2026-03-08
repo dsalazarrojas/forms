@@ -1,11 +1,3 @@
-<thinking>
-To create a help guide for the "hydrant_flow_test_form" form, I will first need to break down the purpose and functionality of the form based on the provided YAML fields. This form appears to be used for testing and evaluating the flow rate of a hydrant, likely in a firefighting context.
-
-The form seems to be designed to collect information on the category of the test (Firefighter Forms or Other), a brief description of the test, a description of the hydrant flow test form itself, and the tool assigned to perform the test. It also includes a field for the form ID, which might be used for tracking or reference purposes.
-
-To avoid duplication of effort, I will ensure that the form's purpose and functionality are clearly explained in the help guide, and the explanations will be based on the provided field labels and descriptions.
-</thinking>
-
 # hydrant_flow_test_form - Help Guide
 ## Purpose
 The "hydrant_flow_test_form" is used to evaluate the flow rate of a hydrant in a firefighting context. It collects information on the category of the test, a brief description of the test, and the tool assigned to perform the test. This form is designed to help assess the functionality and performance of the hydrant.

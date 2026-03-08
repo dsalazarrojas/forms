@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess a fire safety hazard in a specific context, likely for a building or facility. The purpose of this form is to gather information about the presence or absence of certain fire safety features and risks. It is likely used by facility managers or building owners to ensure compliance with fire safety regulations and identify potential fire hazards.
-
-Before proceeding, please ensure that this form is not already completed for this specific fire safety assessment. If you have already submitted this form for the same assessment, please review and update your submission before filling out this form again.
-
-</thinking>
-
 # Fire Safety Hazard Assessment - Help Guide
 ## Purpose
 The Fire Safety Hazard Assessment form is designed to help facility managers or building owners identify potential fire safety hazards in their facility. This form is used to assess the presence or absence of certain fire safety features and risks.

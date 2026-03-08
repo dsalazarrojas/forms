@@ -1,7 +1,3 @@
-<thinking>
-The form is used for collecting donations for social impact from startups, allowing users to submit their information and preferences for the purpose of the donation.
-</thinking>
-
 # Startup Social Impact Donation Form - Help Guide
 ## Purpose
 The Startup Social Impact Donation Form is designed to collect donations for social impact from startups. This form is intended for users who want to contribute financially to support social causes related to startups.

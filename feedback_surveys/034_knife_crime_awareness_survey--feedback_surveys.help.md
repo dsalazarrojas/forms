@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Knife Crime Awareness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and insights from individuals about knife crime in the community. It helps us understand concerns, awareness, and potential solutions to address this issue. Your input is valuable and will contribute to creating a safer and more informed community.

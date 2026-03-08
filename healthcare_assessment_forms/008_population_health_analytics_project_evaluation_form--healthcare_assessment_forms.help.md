@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for assessing and evaluating projects related to population health analytics. The purpose of this form is to collect relevant data from project teams about their projects, including project objectives, outcomes, challenges, future improvements, team members, team skills, project start and end dates, project status, project lead, and feedback.
-
-Before starting, ensure that you have all the necessary information and permissions to fill out this form accurately. This form is not intended to replace any official documentation or formal project evaluation processes, and it's recommended to consult with the project lead or relevant authorities before submitting your response.
-
-Also, please note that this form was generated using AI and is an original adaptation of publicly available information. If you have any concerns or questions, feel free to contact us at form@gic.mx.
-
-Please fill out this form carefully, and ensure that you provide accurate and clear information.
-
-</thinking>
-
 # Population Health Analytics Project Evaluation Form - Help Guide
 ## Purpose
 

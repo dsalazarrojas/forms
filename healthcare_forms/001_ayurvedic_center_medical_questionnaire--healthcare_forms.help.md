@@ -1,10 +1,3 @@
-<thinking>
-This is a form designed to gather information from patients for an Ayurvedic Center. The form is used to collect personal details, medical history, and lifestyle habits of the patient, which will help the medical staff to provide personalized and effective Ayurvedic treatment. This form is intended for patients who are seeking Ayurvedic treatment for the first time, or who have previous experience with Ayurvedic treatment but require a refresher on their medical history and concerns. The form will help the medical staff to tailor their treatment plan according to the patient's needs, health goals, and medical history. 
-
-Before filling this form, please note that you are not duplicating a previous submission. This form is designed to be completed once per patient visit.
-
-</thinking>
-
 # Ayurvedic Center Medical Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from patients seeking Ayurvedic treatment at our center. It is essential to provide accurate and complete information to ensure that our medical staff can provide the best possible care for you.

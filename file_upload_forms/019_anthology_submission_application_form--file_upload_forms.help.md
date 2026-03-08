@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from authors and writers who are submitting their works for consideration in an anthology. The purpose of this form is to gather essential details about the author and their submission, including their contact information, work title, genre, and submission details. This information will be used to review and evaluate the submission for inclusion in the anthology. To ensure a smooth and accurate submission process, please complete the form carefully and accurately.
-
-Please note that the form will check for duplication and relevance before processing each submission. If a submission is deemed duplicate or does not meet the requirements, it will not be accepted.
-
-Before proceeding, please ensure that you have read and understand the terms and conditions of the anthology submission process.
-
-</thinking>
-
 # Anthology Submission Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from authors and writers submitting their works for consideration in an anthology. The collected information will be used to review and evaluate the submission for inclusion in the anthology.

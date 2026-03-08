@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for streamers to apply to join the Twitch Team, a community of content creators on the Twitch platform. The form is designed to gather information about the streamer's profile, including their social media presence, streaming experience, and interests. The team is looking for streamers who are passionate about their craft, have a strong online presence, and are looking for opportunities to grow their community and connect with other streamers.
-
-The form is not a formal job application, but rather an opportunity for streamers to showcase their skills, interests, and personality. The team will review each application and select streamers based on their fit with the team's values and mission.
-
-Before filling out this form, please note that you do not need to have a strong social media presence or a large following to apply. The team is looking for streamers who are passionate about their craft and have a genuine interest in connecting with other streamers.
-
-</thinking>
-
 # Twitch Team Application Form - Help Guide
 ## Purpose
 The Twitch Team Application Form is a tool for streamers to apply to join the Twitch Team, a community of content creators on the Twitch platform. This form is designed to help the team get to know you better and understand why you would be a good fit for the team.

@@ -1,13 +1,3 @@
-<thinking>... (internal reasoning and checking for non-duplication)
-
-This form is a tool used to calculate the risk of health issues related to waist to hip ratio (WHR) and hip to waist ratio (HWB). The form is designed for users to input their height and weight measurements to get an estimate of their WHR and HWB. The calculation is based on the formula: WHR = (waist circumference / hip circumference) x 100. The user can choose to view their results in different categories of health risk. The form has 7 fields in total, with 4 required fields for user input and 3 optional fields for results.
-
-The form is not intended to be used for diagnostic purposes but rather for general awareness of body measurements.
-
-Please note that the form will be used for educational and informative purposes only.
-
-</thinking>
-
 # Waist Hip Ratio Calculator - Help Guide
 ## Purpose
 The Waist Hip Ratio Calculator is a tool designed to help users understand their risk level associated with their waist to hip ratio (WHR) and hip to waist ratio (HWB). This form is intended for general awareness of body measurements and is not a diagnostic tool.

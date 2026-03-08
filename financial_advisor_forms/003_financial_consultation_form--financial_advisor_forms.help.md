@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to gather information from individuals seeking financial consultation. The purpose of this form is to help gather data on client preferences, investment goals, and risk tolerance to provide personalized financial guidance. To avoid duplication, this form should only be filled out once. The information gathered will be used to create a comprehensive financial plan tailored to the individual's needs.
-</thinking>
-
 # Financial Consultation Form - Help Guide
 ## Purpose
 The Financial Consultation Form is a tool used to gather information from individuals seeking financial consultation. This form helps us understand your financial goals, risk tolerance, and preferences to provide personalized financial guidance.

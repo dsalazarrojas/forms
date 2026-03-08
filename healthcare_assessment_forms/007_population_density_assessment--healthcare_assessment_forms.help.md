@@ -1,36 +1,3 @@
-<thinking>
-
-This form is designed to assess the population density of a given area. It is intended for use by healthcare professionals or administrators who need to evaluate the population density of a specific city or region. The form requires the following information:
-
-* City name: Enter the name of the city or region being assessed.
-* Area size (km2): Enter the size of the area in square kilometers.
-* Population: Enter the population of the area.
-* Population density ratio: Enter the population density ratio of the area (number of people per square kilometer).
-* Density: Enter the density of the area (number of people per square kilometer).
-* Population density classification: Classify the population density of the area as 'Yes' or 'No'.
-* Notes: Provide any additional information or comments about the population density of the area.
-* Contact Person: Enter the name of the person responsible for the assessment.
-* Email: Enter the email of the person responsible for the assessment.
-* Phone: Enter the phone number of the person responsible for the assessment.
-* Organization: Enter the name of the organization or institution associated with the assessment.
-* Job Title: Enter the job title of the person responsible for the assessment.
-* Department: Enter the department of the person responsible for the assessment.
-* Address: Enter the address of the person responsible for the assessment.
-* Contact Email: Enter the email of the contact person.
-* Contact Phone: Enter the phone number of the contact person.
-* Ext. Phone: Enter the external phone number of the contact person.
-* Ext. Fax: Enter the external fax number of the contact person.
-* Ext. Email: Enter the external email of the contact person.
-* Ext. Address: Enter the external address of the contact person.
-* Ext. Contact Person: Enter the name of the external contact person.
-* Ext. Department: Enter the department of the external contact person.
-* Ext. Job Title: Enter the job title of the external contact person.
-* Ext. Organization: Enter the organization of the external contact person.
-
-This form is intended to be completed by individuals with knowledge of the assessed area and its population data. The form can be used to assess the population density of a single area or multiple areas.
-
-</thinking>
-
 # Population Density Assessment - Help Guide
 ## Purpose
 The Population Density Assessment form is designed to assess the population density of a given area. This form is intended to help healthcare professionals or administrators evaluate the population density of a specific city or region.

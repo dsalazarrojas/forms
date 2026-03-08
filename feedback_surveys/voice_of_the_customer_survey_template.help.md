@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # voice_of_the_customer_survey_template - Help Guide
 ## Purpose
 This form is designed to gather your feedback and opinions on our Voice of the Customer initiative, which aims to improve our listening and responding processes. This survey will help us understand your experiences, satisfaction levels, and perception of our feedback process.

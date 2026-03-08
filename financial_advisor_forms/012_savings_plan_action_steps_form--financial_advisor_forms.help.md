@@ -1,10 +1,3 @@
-<thinking>
-This form is likely designed for financial advisors or users to plan and organize savings goals, tracking key steps and milestones in their savings journey. The form appears to be a multi-page form with various fields for inputting different types of data, including text, select one options, and dates. There are several fields with similar names (e.g., `timeline_start_date` and `timeline_end_date` fields), which suggests that these fields might be intended to capture start and end dates for different time periods or action items.
-
-To confirm, I'll provide a help guide that explains each field in detail.
-
-</thinking>
-
 # Savings Plan Action Steps Form - Help Guide
 
 ## Purpose

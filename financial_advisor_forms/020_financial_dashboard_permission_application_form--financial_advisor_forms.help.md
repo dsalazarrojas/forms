@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is used to grant or deny access to the financial dashboard for a specific user. The form is designed to collect basic user information and preferences. It is assumed that the user is already authenticated and has access to the dashboard. The form is not meant to be filled out by users without proper clearance... </thinking>
-
 # Financial Dashboard Permission Application Form - Help Guide
 ## Purpose
 

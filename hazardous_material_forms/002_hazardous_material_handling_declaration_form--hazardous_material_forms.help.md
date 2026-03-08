@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for businesses to declare and report on the handling of hazardous materials. It's essential to fill it out accurately to ensure compliance with relevant regulations and ensure the safe handling of hazardous materials. Please review the fields carefully to ensure you complete it correctly. If you've already submitted a similar form, please be sure to review and update your previous submission to reflect any changes in your business's hazardous material handling practices. This form is not intended for customers to declare their own hazardous materials, but rather for businesses to declare their handling of materials on behalf of their customers.</thinking>
-
 # Hazardous Material Handling Declaration Form - Help Guide
 ## Purpose
 This form is used to declare and report on the handling of hazardous materials by businesses. It's essential to fill it out accurately to ensure compliance with relevant regulations and ensure the safe handling of hazardous materials.

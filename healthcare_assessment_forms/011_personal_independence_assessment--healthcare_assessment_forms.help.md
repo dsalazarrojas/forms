@@ -1,5 +1,3 @@
-<thinking>
-The purpose of this form is to assess a patient's independence level in various aspects of their life. This form is likely used in a healthcare setting to gauge a patient's ability to perform daily activities, social interactions, and other physical and cognitive functions. Before completing this form, please ensure you are familiar with the patient's current medical condition and recent medical history to get accurate results. If you are not sure about the purpose of this form or have concerns about duplication, please review the context and requirements for this form with the relevant authorities.</thinking>
 # Personal Independence Assessment - Help Guide
 ## Purpose
 The Personal Independence Assessment form is used to evaluate a patient's level of independence in various areas of their life, such as daily activities, social interactions, and physical and cognitive functions. This assessment is typically used in a healthcare setting to gain a better understanding of a patient's abilities and limitations.

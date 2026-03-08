@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request music tabs, which are tablature representations of a musical piece that can be read by a musician to play the piece. The form is used to submit a request for a music tab for a specific song. The form fields are designed to collect information about the song and the person requesting the tab.
-</thinking>
-
 # Music Tabs Request Form - Help Guide
 
 ## Purpose

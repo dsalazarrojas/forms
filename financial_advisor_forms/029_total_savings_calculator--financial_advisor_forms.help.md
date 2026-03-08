@@ -1,13 +1,3 @@
-<thinking>
-To create a help guide for the Total Savings Calculator form, I will follow the provided YAML fields and structure the guide according to the specified markdown requirements.
-
-The purpose of this form is to help users calculate the total amount saved over a period of time, considering factors such as GIC type, years, and interest rate. This form will guide the user through a step-by-step process to input necessary information and arrive at a calculated total amount saved.
-
-The form has eight fields, each with its specific label, type, and options. I will analyze each field below.
-
-This form is designed to be user-friendly and straightforward, allowing users to easily input their information and calculate their total savings. To complete this form, users will input their data and review the calculated total amount saved.
-</thinking>
-
 # Total Savings Calculator - Help Guide
 ## Purpose
 The Total Savings Calculator is designed to help users calculate the total amount saved over a period of time, considering factors such as GIC type, years, and interest rate.

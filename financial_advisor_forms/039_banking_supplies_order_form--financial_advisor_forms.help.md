@@ -1,25 +1,3 @@
-<thinking>
-This is a form designed to capture information for ordering banking supplies. The form is primarily used by employees to request office supplies, banking forms, marketing materials, technology equipment, safety supplies, and customer service items. The form is also used to specify the branch location and delivery method. The form requires the following information:
-- Employee name and ID
-- Email address and phone number (optional)
-- Department
-- Branch location
-- Date of order
-- Type of supplies (categories)
-- Quantities of individual supplies
-- Delivery method
-- Delivery address
-- Urgency level
-- Budget code (optional)
-- Manager approval status
-- Special instructions (optional)
-
-Before starting to complete the form, make sure to select the correct category of supplies and ensure that the "Urgency" field is set correctly to reflect the time-sensitive nature of the order.
-
-Please review the form fields to ensure you have all the necessary information before submitting the form.
-
-</thinking>
-
 # Banking Supplies Order Form - Help Guide
 ## Purpose
 This form is used to order banking supplies for employees. Select the type of supplies and enter the required information for the order.

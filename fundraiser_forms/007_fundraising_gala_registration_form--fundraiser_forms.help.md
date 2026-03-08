@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraising Gala Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register and purchase tickets for a fundraising event. It allows event organizers to collect registration information, payment details, and preferences for attendees.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge the effectiveness of wildlife health outreach sessions, gathering feedback from participants on various aspects of the session, including their knowledge, learning, and expectations. The purpose of this form is to identify areas of improvement for future wildlife health outreach sessions. This form is intended for participants who have attended a wildlife health outreach session and are providing feedback on their experience. Please ensure that you have attended a wildlife health outreach session before filling out this form.
-
-</thinking>
-
 # Wildlife Health Outreach Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants on the effectiveness of wildlife health outreach sessions.

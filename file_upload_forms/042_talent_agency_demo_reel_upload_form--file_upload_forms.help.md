@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for talent agencies to upload demo reels showcasing their talent's skills and abilities. This helps the agency to get discovered by talent scouts, casting directors, and other industry professionals. This form is not for personal use, but rather for official talent agency representation. Please ensure that you are a representative of a talent agency before proceeding. Also, note that the demo reels should be high-quality, professional, and suitable for industry purposes. This form will not accept duplicate submissions from the same agency or talent.
-</thinking>
-
 # Talent Agency Demo Reel Upload Form - Help Guide
 ## Purpose
 This form is for talent agencies to upload demo reels showcasing their talent's skills and abilities to get discovered by industry professionals.

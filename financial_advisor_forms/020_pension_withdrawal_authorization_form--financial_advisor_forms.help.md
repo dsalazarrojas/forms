@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide pension withdrawal authorization for an individual, allowing them to access their pension benefits. It's crucial to ensure that the form is filled out correctly and accurately to prevent any errors or disputes. Before proceeding, check if you've already filled out this form to avoid duplication. The form should be completed by the individual requesting the pension withdrawal. It's essential to understand that the information provided in this form will be reviewed and verified by relevant authorities, so please ensure you're filling it out accurately.
-</thinking>
-
 # Pension Withdrawal Authorization Form - Help Guide
 ## Purpose
 The Pension Withdrawal Authorization Form is used to provide pension withdrawal authorization for an individual, ensuring they can access their pension benefits.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist participants in completing the Digital Therapy Program Feedback Survey. The purpose of this survey is to gather feedback from participants about their experiences with the digital therapy program. 
-
-This guide is designed to be used in conjunction with the provided YAML form schema. 
-
-Please ensure that you have read this guide thoroughly before completing the form, as it will help you understand the purpose of each field and how to fill it out correctly.
-</thinking>
-
 # Digital Therapy Program Feedback Survey - Help Guide
 ## Purpose
 The Digital Therapy Program Feedback Survey is a form designed to collect feedback from participants about their experiences with the digital therapy program. Your input is crucial in helping us improve the program and provide better services to future participants.

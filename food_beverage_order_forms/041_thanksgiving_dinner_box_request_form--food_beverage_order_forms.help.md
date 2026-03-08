@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a thanksgiving dinner box request. The form is intended to gather basic details such as the number of guests, a contact number, and any additional message from the user.
-</thinking>
-
 # thanksgiving_dinner_box_request_form - Help Guide
 ## Purpose
 This form is for users to provide information for a Thanksgiving dinner box request. Fill it out to let us know your details and preferences for this special occasion.

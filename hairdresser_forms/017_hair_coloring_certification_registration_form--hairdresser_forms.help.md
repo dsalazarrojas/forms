@@ -1,31 +1,3 @@
-<thinking>
-This form is a registration form for hairstylists who have obtained certifications in hair coloring. It collects information about the hairstylist's details, certification status, and renewal status. The purpose of this form is to register hairstylists and track their certification details. It is intended for use by hairstylists who have completed a certification course in hair coloring and want to be registered with their certification details. This form is not affiliated with or endorsed by any form platform and is a public adaptation created using AI.
-
-This form is likely to be used by hairstylists who want to:
-
-* Register their certification details with a salon or governing body
-* Update their certification status
-* Renew their certification
-
-The form collects the following information:
-
-* The hairstylist's name
-* Their salon address
-* Contact number
-* Date of birth
-* Time of certification
-* Certification level
-* Certification number
-* Certification date
-* Certification status
-* Certification expiration date
-* Certification renewal date
-* Certification renewal status
-
-The form is designed to be easy to fill out, with clear labels and options to help the user understand what information is required.
-
-</thinking>
-
 # hair_coloring_certification_registration_form - Help Guide
 ## Purpose
 This form is a registration form for hairstylists who have obtained certifications in hair coloring. It collects information about the hairstylist's details, certification status, and renewal status.

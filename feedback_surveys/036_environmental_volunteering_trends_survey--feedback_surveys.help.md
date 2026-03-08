@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the trends and patterns of volunteering behavior among individuals, specifically in the environmental sector. This data will be used to better understand the types of volunteering activities people participate in, how often they volunteer, where they volunteer, and what motivates them to volunteer. This information will be used by our organization to tailor our programs and services to meet the needs of our target audience. Please ensure that your responses are accurate and complete, as this information will help inform our future program development.
-</thinking>
-
 # Environmental Volunteering Trends Survey - Help Guide
 ## Purpose
 This survey aims to collect information on your volunteering behavior and preferences. Your participation is voluntary and all responses will be kept confidential. Please answer the questions to the best of your ability.

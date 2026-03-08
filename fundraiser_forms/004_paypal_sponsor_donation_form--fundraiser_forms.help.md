@@ -1,10 +1,3 @@
-<thinking>
-# This form is for individuals who want to make a donation to our organization via PayPal. 
-We check for duplicate entries to prevent multiple donations from the same user within a set time frame. 
-This form will help our team to track donations and ensure that the donations are processed correctly. 
-Please fill in the form carefully and accurately.
-</thinking>
-
 # payPal Sponsor Donation Form - Help Guide
 ## Purpose
 The PayPal Sponsor Donation Form is a tool for individuals to make a donation to our organization using their PayPal account. 

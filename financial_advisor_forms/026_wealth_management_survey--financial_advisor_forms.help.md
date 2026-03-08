@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their financial management and investment preferences. It is intended to help the user's financial advisor or planner better understand their needs and goals. This form should only be filled out once, as it is meant to be a comprehensive assessment of the user's financial situation. It is not a one-time assessment, and the user's answers will be used to inform and update their financial plan over time.
-</thinking>
-
 # Wealth Management Survey - Help Guide
 ## Purpose
 The Wealth Management Survey is a form designed to help users assess their financial management and investment preferences. It is meant to be filled out once, to provide a comprehensive picture of the user's current situation.

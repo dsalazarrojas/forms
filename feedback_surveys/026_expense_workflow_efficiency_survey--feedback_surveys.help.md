@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding and completing the "Expense Workflow Efficiency Survey" form. To determine the purpose of this form, consider that it is used to gather information about the workflow of expense reports within an organization. This form is likely designed to identify areas of inefficiency in the current process and provide insights for improvement.
 
 The "Expense Workflow Efficiency Survey" form is a multi-page survey that collects information from users about their experience and perception of the expense report submission process. 

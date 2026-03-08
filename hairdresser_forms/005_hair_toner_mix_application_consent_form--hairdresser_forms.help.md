@@ -1,7 +1,3 @@
-<thinking>
-The form "Hair Toner Mix Application Consent Form" is likely used to collect information from clients regarding their hair toner mix applications. This form could be used by hair saloons to gather details about client consent, saloon specifics, pre-service details, toner mix, stylist name, contact information, and scheduled appointment dates and times.
-</thinking>
-
 # Hair Toner Mix Application Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from clients regarding their hair toner mix applications, ensuring a smooth and informed service experience. Please complete this form accurately to facilitate your appointment.

@@ -1,5 +1,3 @@
-<thinking>...this form is a "Cooking Time Log" form, which is used to track and record cooking activities and events. It appears to be designed for users to input various information related to cooking, such as form title, cooking time, form description, category, user ID, created time, updated time, form ID, submitted status, and submitted time. This form is likely used in a kitchen or food-related environment where accurate tracking and record-keeping are crucial. Please ensure that you're in the correct context before using this form...</thinking>
-
 # Cooking Time Log - Help Guide
 
 ## Purpose

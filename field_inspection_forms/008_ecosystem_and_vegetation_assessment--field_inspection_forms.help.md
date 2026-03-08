@@ -1,10 +1,3 @@
-<thinking>
-To create this user-facing help guide, I will follow the structure and requirements you specified. First, I will briefly explain the form purpose and checks for relevance and non-duplication:
-
-This form is used to assess the ecosystem and vegetation in a given area. It is designed to collect information about the general information, plant cover, vegetation density, species ID, habitat type, soil moisture, plant species ID, conservation programs, land cover, ecosystem condition, species type, and notes. The form fields are all text-based and provide options for users to input their observations and data.
-
-</thinking>
-
 # Ecosystem And Vegetation Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Headache Diary Form is designed to gather information about patients' headache experiences, including their symptoms, triggers, treatment, medication, headache frequency, and other relevant details. To ensure accurate and complete data collection, it's crucial to understand the purpose and requirements of this form.
-</thinking>
-
 # Headache Diary Form - Help Guide
 ## Purpose
 The Headache Diary Form is a tool for patients to record and track their headache experiences. It helps healthcare professionals gather accurate information about headache symptoms, triggers, treatment, medication, frequency, and other relevant details to provide effective care and treatment.

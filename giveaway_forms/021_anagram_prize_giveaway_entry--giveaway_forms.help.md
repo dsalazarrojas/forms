@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to be a giveaway entry form for users to participate in an anagram prize giveaway. The form asks users to submit their entry by solving an anagram, providing their contact information, and agreeing to terms and conditions. The form's purpose is to gather user engagement and interaction, which is crucial for building a community and generating buzz around the brand.
-
-To determine the relevance and non-duplication of the form, we will check the following criteria:
-
-*   The form is only accessible to users who have not already participated in this giveaway.
-*   The form is not a duplicate of another form in the giveaway process.
-*   The form has a clear and concise structure that guides users through the entry process.
-*   The form's fields and sections are well-defined and easy to understand.
-
-Upon reviewing the form, it meets the above criteria. The form is well-structured, and each section is clearly labeled. The form asks users to provide their full name, email address, social media handle, and answer to the anagram challenge. The form also asks users about their country of residence and how they heard about the giveaway.
-
-</thinking>
-
 # Anagram Prize Giveaway Entry - Help Guide
 ## Purpose
 

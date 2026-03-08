@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to collect information from supporters and donors who want to claim a pledge made in a crowdfunding campaign. It's designed to be filled out by people who have already pledged to support a campaign and now want to provide their details so we can follow up with them and potentially reward their contribution. The goal is to ensure that we have accurate and up-to-date information about our supporters and donors. Please only fill out this form if you have already pledged to a campaign and are a supporter or donor.
-
-</thinking>
-
 # Crowdfunding Pledge Claim Form - Help Guide
 ## Purpose
 This form is used to collect information from supporters and donors who want to claim a pledge made in a crowdfunding campaign.

@@ -1,7 +1,3 @@
-<thinking>
-The Game Setup Form is designed for users to configure their game session settings, such as game type, number of players, and match scheduling. This form is intended for users to provide essential information about their game session, ensuring that the game can be set up correctly and ready for play. The form is not meant to be filled out for every game session, only when necessary. It's essential to fill out the form correctly to avoid any confusion or issues with the game setup.
-</thinking>
-
 # Game Setup Form - Help Guide
 ## Purpose
 The Game Setup Form is used to configure game session settings, such as game type, number of players, and match scheduling, to ensure a smooth and enjoyable gaming experience.

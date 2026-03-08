@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bleeding Control Assessment - Help Guide
 ## Purpose
 The Bleeding Control Assessment form is designed to collect information about an incident involving bleeding, allowing responders to assess and document the situation efficiently. This form is used to record details about the incident, the patient's condition, and any interventions used to control the bleeding.

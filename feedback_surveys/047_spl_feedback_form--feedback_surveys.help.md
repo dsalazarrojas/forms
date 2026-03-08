@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SPL Feedback Form - Help Guide
 ## Purpose
 The SPL Feedback Form is designed to collect feedback and ratings from customers after visiting the SPL facility. This form helps to gauge customer satisfaction and identify areas for improvement. Please take a few minutes to complete this form to provide your honest feedback.

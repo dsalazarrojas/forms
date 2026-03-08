@@ -1,7 +1,3 @@
-<thinking>
-This form is used to onboard physical therapists to a healthcare system, capturing their clinic name, name, schedule preferences, credential type, credential verification status, schedule frequency, and contact information (email and phone). The form is designed to gather essential details to enable seamless integration with the healthcare system. To avoid duplication, users should not complete this form if they have already onboarded in the past.
-</thinking>
-
 # Physical Therapist Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to onboard physical therapists to a healthcare system, capturing their clinic and personal details to enable seamless integration.

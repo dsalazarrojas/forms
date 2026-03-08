@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for guests visiting a villa, and it's used for collecting their information for booking purposes. The fields should be filled in accurately to ensure a smooth and personalized experience for the guests.
-</thinking>
-
 # safari_villa_guest_registration_form - Help Guide
 ## Purpose
 This form is designed to collect necessary guest information for booking and stay purposes. Please fill out the form accurately and completely to ensure a smooth check-in process.

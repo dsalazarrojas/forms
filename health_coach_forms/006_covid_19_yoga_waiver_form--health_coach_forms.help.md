@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in a Covid-19 yoga class setting, likely for participants who are new to the class or have a medical condition that may affect their participation. It's essential to fill out this form to ensure the safety and well-being of all attendees.
-</thinking>
-
 # Covid 19 Yoga Waiver Form - Help Guide
 
 ## Purpose

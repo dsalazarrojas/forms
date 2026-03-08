@@ -1,8 +1,3 @@
-<thinking>
-This form's purpose is to collect information from users who want to inquire about retrofitting their vehicle. The form is designed to be simple and straightforward, gathering essential details about the vehicle and the requested retrofit. By completing this form, users can initiate the process of discussing a potential retrofit project with our team.
-
-</thinking>
-
 # Vehicle Retrofit Quote Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about your vehicle and the requested retrofit details to help us understand your project requirements and provide a quote.

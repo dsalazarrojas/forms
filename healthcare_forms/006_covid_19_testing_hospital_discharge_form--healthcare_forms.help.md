@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's review the form's purpose and content. This form is used to document a patient's COVID-19 testing history and discharge information during hospitalization. It captures details about the patient's stay, test results, and discharge instructions. The form is likely used by healthcare professionals to ensure accurate and efficient patient care.
-
-</thinking>
-
 # COVID 19 Testing Hospital Discharge Form - Help Guide
 ## Purpose
 This form is used to document a patient's COVID-19 testing history and discharge information during hospitalization.

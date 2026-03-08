@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, let's confirm that the form is intended for users to upload illustrations for children's books, and the fields are designed to collect necessary information from the contributor, such as contact details, project specifics, and artistic style preferences. This form should be filled out by individuals or organizations submitting illustrations for review and potential publication. It's essential that users provide accurate and relevant information to facilitate a smooth submission process.
-
-</thinking>
-
 # Children's Book Illustration Upload Form - Help Guide
 ## Purpose
 This form is designed for individuals or organizations to submit illustrations for children's books. It collects necessary information to ensure a smooth submission process, including contributor details, project specifics, and artistic style preferences.

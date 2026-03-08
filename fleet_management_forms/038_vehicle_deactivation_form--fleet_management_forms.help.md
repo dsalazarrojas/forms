@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Deactivation Form - Help Guide
 ## Purpose
 The Vehicle Deactivation Form is used to document the deactivation status of a vehicle in the fleet. This form helps to accurately track and update the status of vehicles that are no longer active in the fleet.

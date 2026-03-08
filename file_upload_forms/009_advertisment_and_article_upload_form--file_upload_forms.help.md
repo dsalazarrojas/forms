@@ -1,7 +1,3 @@
-<thinking>
-To prevent spam and ensure accurate submission of advertisements and articles, this form is intended to gather necessary information from submitters to review and verify their submissions. Submitters are asked to provide their name, email, and other details to enable proper tracking and communication. The form also helps to categorize and date the content for proper publication and archival purposes. To ensure the quality and accuracy of the content, editors may review and request additional information or clarification. By uploading their content, submitters confirm their agreement to the terms of submission.
-</thinking>
-
 # Advertisement And Article Upload Form - Help Guide
 ## Purpose
 The Advertisement And Article Upload Form is a submission mechanism for uploading advertisements and articles. Fill out this form to share your content with us for review and publication consideration.

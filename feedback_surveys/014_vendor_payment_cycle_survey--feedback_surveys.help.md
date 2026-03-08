@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the vendor payment cycle process from end-users. The purpose of this form is to collect data on the vendor payment cycle, including the process used, payment terms, cycle length, frequency, type, and status. The form's goal is to help the finance team better understand the vendor payment cycle and make adjustments as needed. To ensure accurate data collection, it's essential to complete the form carefully and thoroughly.
-
-This form is part of the "feedback_surveys" category and is titled "Vendor Payment Cycle Survey".
-</thinking>
-
 # Vendor Payment Cycle Survey - Help Guide
 ## Purpose
 The Vendor Payment Cycle Survey is designed to collect feedback from end-users on the vendor payment cycle process. This information will help the finance team improve and refine the payment cycle process.

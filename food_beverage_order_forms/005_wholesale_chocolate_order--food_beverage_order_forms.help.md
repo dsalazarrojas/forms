@@ -1,11 +1,3 @@
-<thinking>
-This form is used to process wholesale orders for chocolate. We need to ensure that the user understands the purpose and how to complete it, which will help in processing orders efficiently and accurately. 
-
-The form should include fields to capture customer information, order details, and payment information. We also need to ensure that customers can choose their preferred payment method and provide any relevant customer notes. 
-
-Let's review the form fields to make sure each one has a clear and concise explanation to help end-users understand its purpose.
-</thinking>
-
 # Wholesale Chocolate Order - Help Guide
 ## Purpose
 This form is used to process wholesale orders for chocolate products. Please fill in the required information to ensure accurate and efficient order processing.

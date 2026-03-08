@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ankle Health Assessment - Help Guide
 ## Purpose
 The Ankle Health Assessment is a form designed to gather information about your ankle health. It helps us understand your symptoms, medical history, and treatment goals to provide personalized advice and care.

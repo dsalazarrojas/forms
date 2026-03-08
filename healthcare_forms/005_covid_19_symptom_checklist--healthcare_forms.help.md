@@ -1,13 +1,3 @@
-<thinking>
-
-To determine whether a form is relevant and should not be duplicated, we should first check if the form's purpose is to collect information for COVID-19 symptom checklists. If the form is not intended for this use case, it's possible that it's not relevant, and we should not proceed.
-
-After verifying the form's purpose, we'll check for any existing documentation or guides that might cover similar or identical content. If there are existing resources, we might want to consider merging or updating the new form to avoid duplication of effort.
-
-Assuming the form is relevant and not duplicative, we'll proceed with creating the user-facing guide.
-
-</thinking>
-
 # covid_19_symptom_checklist - Help Guide
 ## Purpose
 This form is designed to collect information about COVID-19 symptoms to help healthcare professionals quickly identify potential COVID-19 cases.

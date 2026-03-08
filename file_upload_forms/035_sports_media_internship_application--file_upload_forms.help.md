@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this sports media internship application form, we'll first consider the purpose and requirements of the form. This form is designed for individuals to apply for sports media internships, likely in the sports industry or related fields. The form is intended to collect various types of information from applicants, including personal details, contact information, resume upload, references, work experience, media background, skills, and availability. It's likely that the form is meant for sports-related organizations or companies to collect information from potential candidates and evaluate their suitability for internships.
-
-Before diving into the help guide, it's worth noting that this form has no required fields, making it a self-reporting style form. The applicant can choose to provide any of the requested information or upload a resume if applicable.
-
-</thinking>
-
 # Sports Media Internship Application - Help Guide
 ## Purpose
 This form is for applicants to provide information about themselves for sports media internship opportunities.

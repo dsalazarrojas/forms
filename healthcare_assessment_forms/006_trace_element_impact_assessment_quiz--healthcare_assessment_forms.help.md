@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Trace Element Impact Assessment Quiz, designed to gauge the impact of trace elements on a particular aspect or process. The purpose of this form is to collect information on the effects or consequences of trace elements on a specific subject or system. The questions in this form seem to be multiple choice and numerical, covering a range of topics including options, dates, and numerical values. The form appears to be used for assessment purposes, possibly for research or educational purposes. Before proceeding, ensure that the form is relevant to your specific needs and hasn't been duplicated for similar purposes. Please proceed to the help guide below for a more detailed explanation of the form.
-</thinking>
-
 # Trace Element Impact Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to assess the impact of trace elements on a specific aspect or process. It gathers information on the effects or consequences of trace elements through multiple choice and numerical questions.

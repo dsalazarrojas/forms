@@ -1,7 +1,3 @@
-<thinking>
-The Cycling Program Feedback Survey is designed to gather feedback from participants about their experience in a cycling class. This survey aims to understand how the participants rate the class, the instructor, and their overall experience. To ensure accurate and consistent feedback, we kindly request that participants complete the survey only once and do not duplicate their responses. This guide will help you navigate the survey and provide guidance on how to complete each section.
-</thinking>
-
 # Cycling Program Feedback Survey - Help Guide
 ## Purpose
 The Cycling Program Feedback Survey is designed to gather feedback from participants about their experience in a cycling class. It will help us understand how the class and instructor met or fell short of your expectations and provide valuable insights to improve future classes.

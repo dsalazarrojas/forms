@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be a comprehensive Acupuncture SOAP Notes Form for healthcare practitioners to document their sessions with patients. To ensure accurate and thorough completion of this form, please follow the instructions below.
-
-</thinking>
-
 # Acupuncture SOAP Notes Form - Help Guide
 ## Purpose
 The Acupuncture SOAP Notes Form is designed to record and document patient sessions, providing a structured format for practitioners to note observations, treatments, and progress.

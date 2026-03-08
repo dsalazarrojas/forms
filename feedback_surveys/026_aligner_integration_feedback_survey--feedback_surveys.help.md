@@ -1,5 +1,3 @@
-<thinking>... this form was created to collect feedback from users about their experience with Aligner Integration, a system used in dental practices to align teeth. This form is designed to gather information about the user's role in the practice, the type of Aligner system used, and their level of satisfaction with the integration. The questions cover various aspects of the integration, including ease of setup and use, reliability, and overall satisfaction. The form is intended to be completed by users who have experience with Aligner Integration and can provide valuable insights for improvement. Please ensure you have filled out a previous Aligner Integration form before completing this survey. If you have not, please do not complete this form.</thinking>
-
 # Aligner Integration Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users about their experience with Aligner Integration. The goal is to collect information about the effectiveness and usability of the system, as well as potential issues and areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from athletes who have participated in the Athlete Mentorship Program. The feedback is meant to help the program's administrators evaluate the effectiveness of the program and identify areas for improvement. This form should only be filled out by participants who have completed the program and are providing feedback on their experience. Please do not fill out this form if you have not participated in the program.
-</thinking>
-
 # Athlete Mentorship Program Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from athletes who have participated in the Athlete Mentorship Program. The feedback is meant to help the program's administrators evaluate the effectiveness of the program and identify areas for improvement.

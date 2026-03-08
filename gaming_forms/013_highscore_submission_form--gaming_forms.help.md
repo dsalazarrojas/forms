@@ -1,9 +1,3 @@
-<thinking>Highscore Submission Form is used for players to submit highscores for games. 
-The form ensures that highscores are properly reviewed and verified by moderators before they are displayed on leaderboards and other game-related resources. 
-Please do not submit duplicate highscores. If you have previously submitted a highscore, do not resubmit it. 
-To ensure proper submission, please fill out all required fields. 
-</thinking>
-
 # Highscore Submission Form - Help Guide
 
 ## Purpose

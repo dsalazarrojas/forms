@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for updating points earned or spent by users within a gaming context, such as in a video game or a gaming-related application. The form might be used by game administrators or moderators to track changes to user balances. To ensure accuracy, it's a good idea to double-check that this form doesn't already exist within the system before creating a new instance. If a duplicate form is discovered, consider merging or replacing the existing one instead.
-</thinking>
-
 # XP/FR Points Update Form - Help Guide
 ## Purpose
 This form is used to update user balances of XP (Experience Points) and FR (Friendship Points) within a gaming context. It allows game administrators or moderators to track changes to user balances, including reasons for the change, dates, and additional details.

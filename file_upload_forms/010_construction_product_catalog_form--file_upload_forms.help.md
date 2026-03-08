@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about construction products for catalog listings. It's crucial to ensure that each product's details are accurate and complete to avoid duplication and confusion. Before proceeding, please make sure that the product you're entering does not already exist in the catalog. If it does, please update the existing entry instead of creating a new one.
-</thinking>
-
 # Construction Product Catalog Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a centralized repository of construction product information for easy access and reference.

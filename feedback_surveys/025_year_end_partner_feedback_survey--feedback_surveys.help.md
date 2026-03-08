@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from partners at the end of the year, allowing them to provide their input on their experience with the partner. This input will be used to identify areas of strength and weakness in our partnership and inform future collaboration.
-Before filling out this form, please make sure you have not already provided feedback on this partner in the past year. If you are unsure, please check your past feedback or contact your internal stakeholders for confirmation.
-</thinking>
-
 # Year End Partner Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from partners at the end of the year, providing valuable insights into your experience with the partner. Your feedback will help us identify areas of strength and weakness in our partnership and inform future collaboration.

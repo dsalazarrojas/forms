@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for submissions to a company or institution, possibly for a grant or other formal application. The form asks for general information such as form title, date and time of submission, and contact information. There does not seem to be any indication of a specific project or proposal in the provided form fields, so it's likely that this form is used for general submissions. However, to ensure that users understand the purpose and usage of the form, we will provide a clear and concise guide.
-</thinking>
-
 # PowerPoint Submission Form - Help Guide
 ## Purpose
 The PowerPoint Submission Form is designed to collect information for submissions to our organization. This form is meant to be used for general submission purposes, such as proposals, reports, or other formal applications. Please ensure that you are using this form for its intended purpose and follow the guidelines below for a successful submission.

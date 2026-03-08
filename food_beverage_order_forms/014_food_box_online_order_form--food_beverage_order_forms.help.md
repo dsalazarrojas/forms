@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Food Box Online Order Form - Help Guide
 
 ### Purpose

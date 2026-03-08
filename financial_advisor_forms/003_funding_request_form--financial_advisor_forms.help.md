@@ -1,15 +1,3 @@
-<thinking>
-The form is likely used to collect information from users who are requesting funding for a project or initiative. This form is probably used by administrators or decision-makers to evaluate and process funding requests. The form is likely part of a larger system for managing and tracking funding requests. 
-
-To determine the relevance of this form, consider the following:
-- The form has fields for user information (first name, last name, email, phone) and a description field, which suggests that the form is meant to collect context about the user making the request.
-- The form has fields for funding-related information (funding amount, type, and status), which implies that the form is used to collect and track funding data.
-- The form does not seem to have any fields related to payment or financial information, which further suggests that the form is not for payment or invoicing purposes.
-
-The form does not appear to be a duplicate, as it appears to be a single, standalone form for collecting and processing funding requests.
-
-</thinking>
-
 # Funding Request Form - Help Guide
 ## Purpose
 The Funding Request Form is used to collect and process funding requests from users. This form is completed by users to provide their information and details about the funding they are requesting, which is then reviewed and processed by administrators or decision-makers.

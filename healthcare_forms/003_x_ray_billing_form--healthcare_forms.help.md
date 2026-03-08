@@ -1,7 +1,3 @@
-<thinking>
-This form is for billing purposes, and it's designed to collect information about X-ray services provided to patients. The fields in this form are intended to capture essential details such as patient information, insurance information, and service specifics. This form does not require any specific insurance information for completion. The form is designed to be straightforward, with a focus on collecting accurate and relevant data for billing and administrative purposes.
-</thinking>
-
 # x_ray_billing_form - Help Guide
 ## Purpose
 This form is used for billing purposes to collect information about X-ray services provided to patients.

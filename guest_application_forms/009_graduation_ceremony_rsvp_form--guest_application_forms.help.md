@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from individuals or groups planning to attend a graduation ceremony. The purpose of this form is to collect RSVPs (response to attend) from guests, family members, or other individuals who may be coming to celebrate the graduation. The form also captures the contact information of the person filling out the form. It's essential to fill out this form to ensure that the graduation committee has an accurate headcount for the ceremony and to communicate with you about any updates, changes, or reminders related to the event. This form does not have any internal duplication checks or validation, so you may be able to fill out multiple copies of this form if you need to.
-</thinking>
-
 # Graduation Ceremony RSVP Form - Help Guide
 ## Purpose
 This form is used to capture information from guests and family members planning to attend a graduation ceremony to ensure an accurate headcount for the ceremony.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Anti Money Laundering Audit Form is filled out by the right people and with accurate information to effectively identify and prevent money laundering activities. Before starting to fill out this form, please review the audit reference number to ensure it's the correct audit to be worked on. This form should not be filled out by someone who is not a member of the audit team, as it requires expertise and knowledge of the institution's internal workings. Additionally, if this audit has already been completed, there's no need to fill out this form as it would be a duplication of effort.
-</thinking>
-
 # Anti Money Laundering Audit Form - Help Guide
 ## Purpose
 The Anti Money Laundering Audit Form is used to guide the audit process and ensure that the institution's anti-money laundering (AML) practices and procedures are properly evaluated. This form is to be filled out during the audit process to help auditors collect and analyze data effectively.
