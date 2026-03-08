@@ -1,0 +1,45 @@
+<thinking>
+This form is meant to ensure that all necessary safety measures are in place in a lab environment to maintain a safe working environment for researchers and scientists. To use this form effectively, please make sure to fill it out completely and accurately. This form should not be used for duplicate or unnecessary submissions.
+</thinking>
+
+# Lab Safety Checklist Form - Help Guide
+## Purpose
+The Lab Safety Checklist Form is a comprehensive tool used to evaluate the safety conditions in a laboratory setting. It helps to identify and document any safety hazards or issues that need to be addressed.
+
+## How To Complete This Form
+To complete this form, simply select the options that apply to your lab environment. Choose the appropriate options based on your observations and knowledge of the lab's safety conditions. Make sure to review and submit all sections of the form thoroughly.
+
+## Field-by-Field Explanation
+* **Is Personal Protective Equipment (PPE) in use** (`is_ppe_in_use`): Check if PPE is available and in use in the lab. Select 'True' if you have access to and are using PPE, 'False' if not, or 'Not Applicable' if the lab does not have PPE or you are not using it.
+* **Is the lab area clean** (`is_lab_area_clean`): Assess the cleanliness of the lab environment. Select 'True' if the area is clean and free from hazards, 'False' if it is not clean, or 'Not Applicable' if the lab does not have a designated clean area.
+* **Is lab equipment in good working condition** (`lab_equipment_in_good_working_condition`): Check if all lab equipment is functioning properly. Select 'True' if all equipment is in good working order, 'False' if not, or 'Not Applicable' if the lab does not have lab equipment or you are not using it.
+* **Is the fire extinguisher in use** (`is_fire_extinguisher_in_use`): Check if the fire extinguisher is easily accessible and in working condition. Select 'True' if the fire extinguisher is in use, 'False' if not, or 'Not Applicable' if the lab does not have a fire extinguisher or you are not using it.
+* **Has lab safety training been completed** (`lab_safety_training`): Check if all lab personnel have completed the required safety training. Select 'True' if training has been completed, 'False' if not, or 'Not Applicable' if the lab does not require safety training or you are not a lab personnel.
+* **Is personal protection equipment (PPE) being worn** (`is_laboratory_wear_protection`): Check if lab personnel are wearing PPE as required. Select 'True' if PPE is being worn, 'False' if not, or 'Not Applicable' if the lab does not have a PPE requirement.
+* **Is the wet floor area marked** (`is_laboratory_wet_floor_area`): Check if the wet floor area is marked with a warning sign. Select 'True' if the area is marked, 'False' if not, or 'Not Applicable' if the lab does not have a wet floor area or you are not aware of it.
+* **Are safety signs in use** (`is_safety_signs_in_use`): Check if safety signs are present and easily visible in the lab. Select 'True' if safety signs are in use, 'False' if not, or 'Not Applicable' if the lab does not have safety signs or you are not aware of it.
+* **Is the lab area well-ventilated** (`lab_safety_checklist_9`): Check if the lab area is well-ventilated. Select 'True' if the area is well-ventilated, 'False' if not, or 'Not Applicable' if the lab does not have ventilation or you are not aware of it.
+*   **Is the lab area temperature controlled** (`lab_safety_checklist_10`): Check if the lab area is temperature controlled. Select 'True' if the area is temperature controlled, 'False' if not, or 'Not Applicable' if the lab does not have temperature control or you are not aware of it.
+*   **Is the lab area well-lit** (`lab_safety_checklist_11`): Check if the lab area is well-lit. Select 'True' if the area is well-lit, 'False' if not, or 'Not Applicable' if the lab does not have sufficient lighting or you are not aware of it.
+*   **Is the lab area free from electrical hazards** (`lab_safety_checklist_12`): Check if the lab area is free from electrical hazards. Select 'True' if the area is safe from electrical hazards, 'False' if not, or 'Not Applicable' if the lab does not have electrical hazards or you are not aware of it.
+*   **Is the lab area free from chemical hazards** (`lab_safety_checklist_13`): Check if the lab area is free from chemical hazards. Select 'True' if the area is safe from chemical hazards, 'False' if not, or 'Not Applicable' if the lab does not have chemical hazards or you are not aware of it.
+*   **Is the lab area free from biological hazards** (`lab_safety_checklist_14`): Check if the lab area is free from biological hazards. Select 'True' if the area is safe from biological hazards, 'False' if not, or 'Not Applicable' if the lab does not have biological hazards or you are not aware of it.
+*   **Is the lab area free from physical hazards** (`lab_safety_checklist_15`): Check if the lab area is free from physical hazards. Select 'True' if the area is safe from physical hazards, 'False' if not, or 'Not Applicable' if the lab does not have physical hazards or you are not aware of it.
+*   **Is the lab area free from ergonomic hazards** (`lab_safety_checklist_16`): Check if the lab area is free from ergonomic hazards. Select 'True' if the area is safe from ergonomic hazards, 'False' if not, or 'Not Applicable' if the lab does not have ergonomic hazards or you are not aware of it.
+*   **Is the lab area free from fire hazards** (`lab_safety_checklist_17`): Check if the lab area is free from fire hazards. Select 'True' if the area is safe from fire hazards, 'False' if not, or 'Not Applicable' if the lab does not have fire hazards or you are not aware of it.
+*   **Is the lab area free from radiation hazards** (`lab_safety_checklist_18`): Check if the lab area is free from radiation hazards. Select 'True' if the area is safe from radiation hazards, 'False' if not, or 'Not Applicable' if the lab does not have radiation hazards or you are not aware of it.
+*   **Is the lab area free from electrical shock hazards** (`lab_safety_checklist_19`): Check if the lab area is free from electrical shock hazards. Select 'True' if the area is safe from electrical shock hazards, 'False' if not, or 'Not Applicable' if the lab does not have electrical shock hazards or you are not aware of it.
+*   **Are emergency exits clearly marked** (`lab_safety_checklist_20`): Check if emergency exits are marked and easily accessible. Select 'True' if exits are marked, 'False' if not, or 'Not Applicable' if the lab does not have emergency exits or you are not aware of them.
+*   **Is the lab area free from water hazards** (`lab_safety_checklist_21`): Check if the lab area is free from water hazards. Select 'True' if the area is safe from water hazards, 'False' if not, or 'Not Applicable' if the lab does not have water hazards or you are not aware of it.
+*   **Is the lab area free from natural gas hazards** (`lab_safety_checklist_22`): Check if the lab area is free from natural gas hazards. Select 'True' if the area is safe from natural gas hazards, 'False' if not, or 'Not Applicable' if the lab does not have natural gas hazards or you are not aware of it.
+*   **Is the lab area free from flammable liquid hazards** (`lab_safety_checklist_23`): Check if the lab area is free from flammable liquid hazards. Select 'True' if the area is safe from flammable liquid hazards, 'False' if not, or 'Not Applicable' if the lab does not have flammable liquid hazards or you are not aware of it.
+*   **Is the lab area free from flammable solid hazards** (`lab_safety_checklist_24`): Check if the lab area is free from flammable solid hazards. Select 'True' if the area is safe from flammable solid hazards, 'False' if not, or 'Not Applicable' if the lab does not have flammable solid hazards or you are not aware of it.
+*   **Is the lab area free from biological hazards** (`lab_safety_checklist_25`): Check if the lab area is free from biological hazards. Select 'True' if the area is safe from biological hazards, 'False' if not, or 'Not Applicable' if the lab does not have biological hazards or you are not aware of it.
+
+## Tips
+* Be thorough in your assessment of the lab safety conditions.
+* If unsure about any of the options, select 'Not Applicable' and provide a comment or note for further investigation.
+* Review and revise the form as necessary to ensure it is accurate and up-to-date.
+* Use this form as a guide for your lab safety procedures and practices.
+* If you have any questions or concerns about lab safety, contact your supervisor or safety officer.
+* This form is a tool to help maintain a safe working environment.

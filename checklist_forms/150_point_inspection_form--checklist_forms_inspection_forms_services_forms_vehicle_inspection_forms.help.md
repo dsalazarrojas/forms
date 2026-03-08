@@ -1,0 +1,103 @@
+# 150 Point Vehicle Inspection Report - Help Guide
+
+## Purpose
+This form is designed to guide inspectors and technicians in conducting a comprehensive 150-point vehicle inspection, providing a detailed assessment of a vehicle's condition from exterior and structural to interior and electrical systems, mechanical components, and overall safety rating. The form's purpose is to identify potential issues, estimate required corrective actions, and provide a summary of findings and recommended solutions.
+
+## How To Complete This Form
+- Ensure you have the necessary expertise and qualifications to inspect vehicles.
+- Review the provided instructions and guidance for each field.
+- Fill in the required information on the first section, '--- Inspection & Vehicle Details ---', which includes:
+  - **Inspector's Name**: Enter your full name as the inspecting technician.
+  - **Date of Inspection**: Record the date the inspection was conducted.
+  - **Client/Owner Name**: Enter the name of the vehicle's owner or the person requesting the inspection.
+  - **Vehicle Identification Number (VIN)**: Enter the 17-character VIN for the inspected vehicle.
+  - **Vehicle Make and Model**: Enter the make and model of the inspected vehicle (e.g., Toyota Camry, Ford F-150, BMW X5).
+  - **Current Odometer Reading (miles/km)**: Record the current mileage/kilometer reading at the time of inspection.
+- Move to the second section, '--- Exterior & Structural Assessment ---':
+  - **Body/Frame Condition**: Select from the options to assess the body/frame condition (e.g., Excellent, Good, Minor Dents/Scratches, Significant Damage, Frame Damage Identified).
+  - **Tires & Brake System Condition**: Select from the options to evaluate the overall condition of the tires and brake system (e.g., Excellent, Good, Fair, Poor - Requires Immediate Attention).
+  - **Exterior/Structural Observations**: Describe any specific body damage, rust, or frame concerns observed during the inspection.
+- Continue to the third section, '--- Interior & Electrical Systems ---':
+  - **Interior Cabin Condition**: Select from the options to assess the interior's overall condition (e.g., Excellent, Good, Fair, Poor).
+  - **Electrical Systems & Features Functionality**: Select from the options to evaluate the functionality of interior/exterior electrical systems and features (e.g., All functional, Minor Issues, Major Non-Functional Items, Significant Electrical Faults).
+  - **Interior/Electrical Observations**: Describe any non-functional features, warning lights, or abnormal wear/damage inside the cabin.
+- Next, inspect the under hood and drivetrain:
+  - **Engine & Fluid Integrity**: Select from the options to assess the engine and fluid condition (e.g., Excellent, Minor Seepage/Wear, Moderate Leaks/Wear, Major Issues/Leaks).
+  - **Transmission & Drivetrain Condition**: Select from the options to evaluate the transmission and drivetrain condition (e.g., Excellent, Minor Concerns, Moderate Issues, Major Faults).
+  - **Mechanical/Drivetrain Observations**: Describe any engine noises, transmission issues, suspension concerns, or exhaust system damage.
+- Finally, provide an overall assessment and summary:
+  - **Overall Vehicle Safety Rating**: Select from the options to rate the vehicle's overall safety (e.g., Safe, Minor Safety Concerns, Major Safety Concerns, Unsafe to Drive).
+  - **Estimated Points Requiring Attention (out of 150)**: Enter the estimated points needing corrective action based on the 150-point checklist.
+  - **Critical Action Items Identified**: Select all applicable major systems or areas requiring significant repair or service (e.g., Engine Repair/Service, Transmission Repair/Service, Brake System Overhaul).
+  - **Summary of Findings & Recommendations**: Provide a concise summary of the vehicle's condition, highlighting key issues and suggested actions for the client.
+  - **Inspector's Additional Comments**: Add any other relevant details, specific advice for the client, or unique observations.
+
+## Field-by-Field Explanation
+- **Inspector's Name**: Enter your full name as the inspecting technician.
+  - Type: text
+  - Required: true
+- **Date of Inspection**: Record the date the inspection was conducted.
+  - Type: date
+  - Required: true
+- **Client/Owner Name**: Enter the name of the vehicle's owner or the person requesting the inspection.
+  - Type: text
+  - Required: true
+- **Vehicle Identification Number (VIN)**: Enter the 17-character VIN for the inspected vehicle.
+  - Type: text
+  - Required: true
+- **Vehicle Make and Model**: Enter the make and model of the inspected vehicle (e.g., Toyota Camry, Ford F-150, BMW X5).
+  - Type: text
+  - Required: true
+- **Current Odometer Reading (miles/km)**: Record the current mileage/kilometer reading at the time of inspection.
+  - Type: integer
+  - Required: true
+- **Body/Frame Condition**: Select from the options to assess the body/frame condition:
+  - Options: Excellent, Good, Minor Dents/Scratches, Significant Damage, Frame Damage Identified
+  - Type: select_one
+  - Required: true
+- **Tires & Brake System Condition**: Select from the options to evaluate the overall condition of the tires and brake system:
+  - Options: Excellent, Good, Fair, Poor - Requires Immediate Attention
+  - Type: select_one
+  - Required: true
+- **Exterior/Structural Observations**: Describe any specific body damage, rust, or frame concerns observed during the inspection.
+  - Type: text
+  - Required: false
+- **Interior Cabin Condition**: Select from the options to assess the interior's overall condition:
+  - Options: Excellent, Good, Fair, Poor
+  - Type: select_one
+  - Required: true
+- **Electrical Systems & Features Functionality**: Select from the options to evaluate the functionality of interior/exterior electrical systems and features:
+  - Options: All Functional, Minor Issues, Major Non-Functional Items, Significant Electrical Faults
+  - Type: select_one
+  - Required: true
+- **Interior/Electrical Observations**: Describe any non-functional features, warning lights, or abnormal wear/damage inside the cabin.
+  - Type: text
+  - Required: false
+- **Engine & Fluid Integrity**: Select from the options to assess the engine and fluid condition:
+  - Options: Excellent, Minor Seepage/Wear, Moderate Leaks/Wear, Major Issues/Leaks
+  - Type: select_one
+  - Required: true
+- **Transmission & Drivetrain Condition**: Select from the options to evaluate the transmission and drivetrain condition:
+  - Options: Excellent, Minor Concerns, Moderate Issues, Major Faults
+  - Type: select_one
+  - Required: true
+- **Mechanical/Drivetrain Observations**: Describe any engine noises, transmission issues, suspension concerns, or exhaust system damage.
+  - Type: text
+  - Required: false
+- **Overall Vehicle Safety Rating**: Select from the options to rate the vehicle's overall safety:
+  - Options: Safe, Minor Safety Concerns, Major Safety Concerns, Unsafe to Drive
+  - Type: select_one
+  - Required: true
+- **Estimated Points Requiring Attention (out of 150)**: Enter the estimated points needing corrective action based on the 150-point checklist.
+  - Type: integer
+  - Required: true
+- **Critical Action Items Identified**: Select all applicable major systems or areas requiring significant repair or service:
+  - Options: Engine Repair/Service, Transmission Repair/Service, Brake System Overhaul, Steering/Suspension Repair, Electrical System Diagnosis, Tire Replacement, Body/Frame Repair, Other Major Mechanical
+  - Type: select_multiple
+  - Required: false
+- **Summary of Findings & Recommendations**: Provide a concise summary of the vehicle's condition, highlighting key issues and suggested actions for the client.
+  - Type: text
+  - Required: true
+- **Inspector's Additional Comments**: Add any other relevant details, specific advice for the client, or unique observations.
+  - Type: text
+  - Required: false

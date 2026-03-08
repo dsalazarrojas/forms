@@ -1,0 +1,50 @@
+<thinking>
+This form is used to gather information for each client's check-in process at the counseling center. The form is designed to ensure that all necessary details are captured, such as client and provider information, session context, and notes. This form likely helps the counseling center to efficiently manage client sessions and maintain accurate records. It's crucial to ensure that each field is filled out correctly and that the client and provider information is accurate, as this will affect the quality of care provided.
+
+Before starting, please review the form carefully and ensure that you have all the necessary information to complete it. If you are unsure about any field, consult with your supervisor or the center's management.
+
+To complete this form, you will need to navigate through the following pages:
+1. Client Check In: This page requires your name and other client details.
+2. Client Information: This page collects more specific client information such as email address, phone number, and client type.
+3. Session Information: This page captures details about the session, such as session length, type, and status.
+4. Session Comments and Signature: This page captures any additional comments or signature information from the client or provider.
+
+Please review each field carefully and ensure that you fill out all the required fields accurately.
+</thinking>
+
+# Counseling Center Client Check In Form - Help Guide
+## Purpose
+This form is designed to gather essential information for each client's check-in process at the counseling center.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+1. Navigate through the different pages of the form, each with its specific questions.
+2. Fill out all the required fields, and ensure that you have the necessary information to do so.
+3. Review each field carefully to ensure accuracy.
+
+## Field-by-Field Explanation
+* **Client Name** (Client Name, text, required): Enter the client's name.
+* **Check In Date** (Check In Date, date, required): Enter the date of the client's check in.
+* **Check In Time** (Check In Time, time, required): Enter the time of the client's check in.
+* **Session Context** (Session Context, text, required): Describe the reason for the session.
+* **Provider Name** (Provider Name, text, required): Enter the name of the provider who will see the client.
+* **Session Length (hours)** (Session Length (hours), number, required): Enter the length of the session in hours.
+* **Session Location** (Session Location, text, required): Enter the location of the session.
+* **Session Type** (Session Type, select_one, required): Select 'Yes' or 'No' for the type of session.
+* **Client Type** (Client Type, select_multiple, optional): Select 'Yes' or 'No' for the type of client.
+* **Counselor** (Counselor, text, optional): Enter the name of the counselor who will see the client.
+* **Session Status** (Session Status, select_one, required): Select the status of the session as 'Active' or 'Inactive'.
+* **Client Status** (Client Status, select_one, required): Select the status of the client as 'Active' or 'Inactive'.
+* **Session Comments** (Session Comments, text, optional): Enter any additional comments about the session.
+* **Provider Signature** (Provider Signature, select_multiple, optional): Select 'Yes' or 'No' if the provider has signed.
+* **Client Signature** (Client Signature, select_multiple, optional): Select 'Yes' or 'No' if the client has signed.
+* **Cancellation Reason** (Cancellation Reason, select_one, optional): Select 'Yes' or 'No' if the reason for cancellation.
+* **Reschedule Date** (Reschedule Date, date, optional): Enter the date to reschedule the session.
+* **Notes** (Notes, text, optional): Enter any additional notes about the session.
+* **Cancellation Note** (Cancellation Note, text, optional): Enter any cancellation note.
+* **Signature** (Signature, text, required): Enter your signature.
+
+## Tips
+* Ensure that you have all the necessary information to complete the form accurately.
+* Review each field carefully to ensure accuracy.
+* If you are unsure about any field, consult with your supervisor or the center's management.

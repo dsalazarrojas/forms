@@ -1,0 +1,115 @@
+<thinking>
+The form purpose is to help users reflect on their relationships, progress, and challenges on a weekly basis. This is to facilitate introspection, identify areas for improvement, and provide a framework for setting goals and tracking progress.
+
+When filling out this form, please ensure that each question is completed accurately and honestly. This will help you gain a better understanding of your relationship dynamics and make informed decisions about how to improve it.
+
+This form is meant to be completed on a weekly basis, and it's recommended to save your progress to track your journey over time.
+
+Please review each field carefully to ensure you're providing the most accurate information.
+
+To fill out this form, you'll need to:
+
+* Answer the questions truthfully and to the best of your ability
+* Use the provided fields to describe your relationship status, challenges, and progress
+* Select the most accurate options for your support system, communication style, and conflict resolution
+
+Each field is labeled with a clear description, and you can use these explanations as a guide to complete the form.
+
+Please note that some fields are required, so make sure to fill them in before submitting.
+
+If you're unsure about any of the fields, feel free to reach out to the form creators for assistance.
+
+</thinking>
+
+# Weekly Relationship Check In - Help Guide
+
+## Purpose
+The purpose of this form is to help you reflect on your relationship, progress, and challenges on a weekly basis. It's meant to be completed every week to track your journey and identify areas for improvement.
+
+## How To Complete This Form
+To fill out this form, follow these steps:
+
+1. Answer the questions truthfully and to the best of your ability.
+2. Complete each field with the most accurate information.
+3. Review each field carefully before submitting.
+
+## Field-by-Field Explanation
+
+### Introduction
+* **Introduction**: This is a text field where you can introduce yourself and provide some background information about your relationship.
+* Type: text
+* Required: Yes
+
+### Relationship Status
+* **Relationship Status**: Describe your current relationship status this week.
+* Type: text
+* Required: No
+
+### What are you struggling with in your relationship?
+* **What are you struggling with in your relationship?**: Be honest about any challenges you're facing in your relationship.
+* Type: text
+* Required: Yes
+
+### What positive experiences have you had with your partner this week?
+* **What positive experiences have you had with your partner this week?**: Share any positive experiences or moments that have stood out in your relationship.
+* Type: text
+* Required: No
+
+### Support System
+* **Support System**: Select the most accurate option for your current support system:
+	+ Your partner
+	+ Your friends
+	+ Your family
+	+ Your own
+	+ No support system
+* Type: select_one
+* Required: Yes
+
+### Challenges Solved
+* **Challenges Solved**: Select the most accurate option for how many challenges you've solved this week:
+	+ None
+	+ Partially solved
+	+ Completely solved
+* Type: select_one
+* Required: Yes
+
+### Communication Style
+* **Communication Style**: Select the most accurate options for your communication style:
+	+ Open
+	+ Closed
+	+ Assertive
+	+ Avoidant
+	+ Passive
+	+ Aggressive
+* Type: select_multiple
+* Required: Yes
+
+### Conflict Resolution
+* **Conflict Resolution**: Describe any conflicts or challenges you're facing in resolving conflicts.
+* Type: text
+* Required: Yes
+
+### Relationship Goals
+* **Relationship Goals**: Describe your current relationship goals or aspirations.
+* Type: text
+* Required: Yes
+
+### Progress Made
+* **Progress Made**: Select the date of the last progress update (or type in the date if not saved):
+* Type: date
+* Required: Yes
+
+### Next Appointment
+* **Next Appointment**: Select the date of your next appointment or scheduled meeting:
+* Type: date
+* Required: Yes
+
+### Relationship Goals
+* **Relationship Goals**: Describe your long-term relationship goals or aspirations:
+* Type: text
+* Required: Yes
+
+### Comments
+* **Comments**: Add any additional comments or observations about your relationship:
+* Type: note
+* Required: Yes
